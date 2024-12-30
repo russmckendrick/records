@@ -49,12 +49,12 @@ styles: ["Prog Rock", "Post Rock"]
 
 
 ## Videos
-### Crippled Black Phoenix - Hunok Csatája (Official Track Premiere)
-{{< youtube id="CV07GXCsQGg" title="Crippled Black Phoenix - Hunok Csatája (Official Track Premiere)" >}}<br>
+### Crippled Black Phoenix - Great Escape (2018) Full Album Stream
+{{< youtube id="C0KCueuqvt8" title="Crippled Black Phoenix - Great Escape (2018) Full Album Stream" >}}<br>
 ### More Videos
 
+- [Crippled Black Phoenix - Hunok Csatája (Official Track Premiere)](https://www.youtube.com/watch?v=CV07GXCsQGg)
 - [Crippled Black Phoenix - Uncivil War (pt I)](https://www.youtube.com/watch?v=sF2xgZWPcHs)
-- [Crippled Black Phoenix - Great Escape (2018) Full Album Stream](https://www.youtube.com/watch?v=C0KCueuqvt8)
 
 ## Release Images
 {{< imageGrid >}}

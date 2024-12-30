@@ -20,7 +20,8 @@ styles: ["Pop Rock"]
 ---
 
 Slowly but steadily, Richard Hawley has been making his presence known beyond a circle of musicians who know just how good this onetime session guitarist is on his own. Names like Lee Hazlewood, Jim Reeves, Leonard Cohen, Scott Walker, Nick Drake, and even Edwyn Collins have been dropped by people trying to describe the darkly romantic, gently literate tunes that Hawley has mastered. <i>Lowedges</i>, his third solo album, follows through on a variety of approaches to the same destination. "Run for Me" kicks in with a stronger rhythm section than usual, while "Darlin'" dials back the reverb and lets his voice, stately guitars, and strings fill the room. "The Only Road" adds a sense of desolation with its sweeping, sliding guitars and carefully calibrated doubled male-female vocal approach. "You Don't Miss Your Water" is Hawley's reworking of the William Bell Stax soul tune, with Hawley sounding like a debonair young gent whose sense of style won't leave him lonesome for long. 
-    
+        
+        
     
 
 
@@ -63,6 +64,7 @@ Slowly but steadily, Richard Hawley has been making his presence known beyond a 
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
+| Wikipedia URL | https://en.wikipedia.org/wiki/Lowedges |
 | Format         | Vinyl LP Album Limited Edition Reissue (Clear) |
 | Label          | Setanta |
 | Catalog Number | SETLP110 |

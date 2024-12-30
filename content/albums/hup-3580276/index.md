@@ -22,7 +22,7 @@ genres: ["Rock"]
 styles: ["Alternative Rock", "Folk Rock", "Indie Rock"]
 ---
 
-Hup is the second album by The Wonder Stuff, released in 1989.
+Hup is the second album by English alternative rock band the Wonder Stuff, released in 1989.
     
     
 
@@ -42,7 +42,7 @@ Hup is the second album by The Wonder Stuff, released in 1989.
 12. Room 410
 
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/hup-remastered/1443772473" >}}<br>
+{{< applemusic url="https://music.apple.com/gb/album/love-bites-bruises-a-wonder-stuff-compilation/1452860148" >}}<br>
 
 
 ## Videos
@@ -50,8 +50,8 @@ Hup is the second album by The Wonder Stuff, released in 1989.
 {{< youtube id="dOYo2IQ5UNo" title="CARTOON BOYFRIEND - THE WONDER STUFF - HUP 1989" >}}<br>
 ### More Videos
 
-- [The Wonder Stuff - Unfaithful](https://www.youtube.com/watch?v=onDvSeWeJsc)
-- [The Wonder Stuff 30 Years In The Bathroom.wmv](https://www.youtube.com/watch?v=fS2AA27i0Ag)
+- [The Wonder Stuff - Golden Green](https://www.youtube.com/watch?v=KPQ3Cuo_V3A)
+- [The Wonder Stuff - Piece Of Sky](https://www.youtube.com/watch?v=hYkg8027YoQ)
 
 ## Release Images
 {{< imageGrid >}}

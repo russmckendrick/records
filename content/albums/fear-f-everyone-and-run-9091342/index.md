@@ -32,16 +32,26 @@ styles: ["Prog Rock", "Art Rock"]
 
 
 ## Tracklisting
-1. El Dorado
-2. Living In F E A R
-3. White Paper
-4. The Leavers
-5. The New Kings
-6. Tomorrow's New Country
+1. El Dorado (16:46)
+2. Living In F E A R (6:25)
+3. White Paper (7:19)
+4. The Leavers (19:08)
+5. The New Kings (16:45)
+6. Tomorrow's New Country (1:47)
+
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/fuck-everyone-and-run-f-e-a-r/1132145830" >}}<br>
 
 
+## Videos
+### The New Kings (i) Fuck Everyone and Run
+{{< youtube id="Q0X6YN3ENU4" title="The New Kings (i) Fuck Everyone and Run" >}}<br>
+### More Videos
 
-
+- [The New Kings (i) Fuck Everyone and Run](https://www.youtube.com/watch?v=xFOCKzKPs5c)
+- [The New Kings (i) Fuck Everyone and Run](https://www.youtube.com/watch?v=Q0X6YN3ENU4)
+- [The New Kings (i) Fuck Everyone and Run](https://www.youtube.com/watch?v=xFOCKzKPs5c)
+- [Marillion "Living in F E A R" Official Music Video](https://www.youtube.com/watch?v=23YiX8UgT_Q)
 
 ## Release Images
 {{< imageGrid >}}

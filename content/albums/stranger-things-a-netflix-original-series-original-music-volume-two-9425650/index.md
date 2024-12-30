@@ -12,8 +12,8 @@ cover:
     alt: "Stranger Things (A Netflix Original Series) Original Music • Volume Two by Kyle Dixon"
     caption: "Stranger Things (A Netflix Original Series) Original Music • Volume Two by Kyle Dixon"
 additional_images:
-    - "https://i.discogs.com/_GGYqHZYe3PZfEC7SwPZGBiXFONTpoKjqPs6-fhsXGo/rs:fit/g:sm/q:90/h:601/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk0MjU2/NTAtMTUwMDczNjQ4/My02NDg2LmpwZWc.jpeg"
-    - "https://i.discogs.com/ZK55Pj-DHCJEXiOWlc6PnhdEcCfLgl2C2uTnT1KDz_M/rs:fit/g:sm/q:90/h:621/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk0MjU2/NTAtMTUwMDgyMjAy/Ny03NjU0LmpwZWc.jpeg"
+    - "https://i.discogs.com/6O_K0cUDV7O68Woyyf5UDGrAoD-i_Js9WzjKRFhYd7Y/rs:fit/g:sm/q:90/h:600/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk0MjU2/NTAtMTUwMDczNjQ4/My02NDg2LmpwZWc.jpeg"
+    - "https://i.discogs.com/Zz5zSYdfjq4MukehxDyly1kgIgphg5ZOHCP4L4HiQAM/rs:fit/g:sm/q:90/h:600/w:579/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk0MjU2/NTAtMTUwMDgyMjAy/Ny03NjU0LmpwZWc.jpeg"
 genres: ["Electronic", "Stage & Screen"]
 styles: ["Soundtrack", "Score"]
 ---
@@ -62,7 +62,7 @@ styles: ["Soundtrack", "Score"]
 39. Stranger Things (Extended)
 
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/stranger-things-vol-2-a-netflix-original-series-soundtrack/1145580199" >}}<br>
+{{< applemusic url="https://music.apple.com/gb/album/stranger-things-2-soundtrack-from-the-netflix/1294911267" >}}<br>
 
 
 ## Videos
@@ -80,4 +80,4 @@ styles: ["Soundtrack", "Score"]
 | Label          | Invada |
 | Catalog Number | INV177LP |
 | Notes | Special Thanks Lynn Hobensack and Don Smith  Music Published by Maisie Anthems (ASCAP)  This Compilation ℗ 2016 Netflix Studios, LLC. All Artwork and Photographs © 2016 Netflix, Inc. Manufactured and Distributed by Invada/Lakeshore Records, LLC.  Mailorder exclusive only available through the Invada webstore. Housed in an extra thick 425g heavyweight gatefold sleeve. A printed insert is included which features additional artwork and credits. |
-| Discogs URL    | [Kyle Dixon - Stranger Things (A Netflix Original Series) Original Music • Volume Two](https://www.discogs.com/release/9425650-Kyle-Dixon-2-Michael-Stein-Stranger-Things-A-Netflix-Original-Series-Original-Music-Volume-Two) |
+| Discogs URL    | [Kyle Dixon - Stranger Things (A Netflix Original Series) Original Music • Volume Two](https://www.discogs.com/release/9425650-Kyle-Dixon-2-Michael-Stein-9-Stranger-Things-A-Netflix-Original-Series-Original-Music-Volume-Two) |

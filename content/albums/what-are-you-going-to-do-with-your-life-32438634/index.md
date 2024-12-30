@@ -54,8 +54,8 @@ Two years after their triumphant comeback album, <i>Evergreen</i>, Echo & The Bu
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl LP Limited Edition Reissue (Rust) |
+| Format         | Vinyl LP Album Limited Edition Reissue (Rust) |
 | Label          | London Records |
 | Catalog Number | LMS1725285 |
-| Notes | 25th Anniversary Edition on Rust colour Vinyl limited to 1000 copies worldwide.  Barcode label on shrink wrap covers barcode printed on album cover.  Printed disk labels specify LMS1725111 as do matrix runouts |
+| Notes | 25th Anniversary Edition on Rust colour Vinyl limited to 1000 copies worldwide. Rust Orange Vinyl.  Barcode label on shrink wrap covers barcode printed on album cover.  Printed disk labels specify LMS1725111 as do matrix runouts |
 | Discogs URL    | [Echo & The Bunnymen - What Are You Going To Do With Your Life?](https://www.discogs.com/release/32438634-Echo-The-Bunnymen-What-Are-You-Going-To-Do-With-Your-Life) |

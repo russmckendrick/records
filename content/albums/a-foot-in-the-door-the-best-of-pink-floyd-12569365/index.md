@@ -28,7 +28,7 @@ genres: ["Rock"]
 styles: ["Psychedelic Rock", "Prog Rock"]
 ---
 
-Pink Floyd’s remarkable, unparalleled career is given a single album overview. Stretching back to the Syd Barrett era for one song, the early, pre-album single “See Emily Play,” <i>A Foot in the Door</i> then fast-forwards to the heart of the group’s legacy with classics from every era of the band’s successes. “Money” and “Another Brick in the Wall Part 2” showcase a group that bridged the commercial and underground world with singular, truly progressive music.
+Pink Floyd’s remarkable, unparalleled career is given a single album overview. Stretching back to the Syd Barrett era for one song, the early, pre-album single “See Emily Play,” <I>A Foot in the Door</I> then fast-forwards to the heart of the group’s legacy with classics from every era of the band’s successes. “Money” and “Another Brick in the Wall Part 2” showcase a group that bridged the commercial and underground world with singular, truly progressive music.
     
     
 

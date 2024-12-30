@@ -17,6 +17,12 @@ genres: ["Rock"]
 styles: ["Prog Rock"]
 ---
 
+"Happy Xmas (War Is Over)" is a Christmas song released in 1971 as a single by John & Yoko/The Plastic Ono Band with the Harlem Community Choir. It was the seventh single released by John Lennon outside his work with the Beatles. The song reached number four in the UK, where its release was delayed until November 1972, and has occasionally re-emerged on the UK Singles Chart, most notably after Lennon's murder in December 1980, when it peaked at number two.
+Also a protest song against the Vietnam War, "Happy Xmas (War Is Over)" has since become a Christmas standard, frequently recorded by other artists, appearing on compilation albums of seasonal music, and named in polls as a holiday favourite. In a UK-wide poll in December 2012, it was voted tenth on the ITV television special The Nation's Favourite Christmas Song.
+
+
+    
+    
 
 
 ## Tracklisting
@@ -34,7 +40,7 @@ styles: ["Prog Rock"]
 12. New Terrain (Bonus Track)
 
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/war-is-over/1600456979" >}}<br>
+{{< applemusic url="https://music.apple.com/gb/album/war-is-over/1696526158" >}}<br>
 
 
 ## Videos
@@ -42,8 +48,9 @@ styles: ["Prog Rock"]
 {{< youtube id="iUeSjnI4kP4" title="War Is Over (Von Hertzen Brothers)" >}}<br>
 ### More Videos
 
-- [War Is Over](https://www.youtube.com/watch?v=h0vgOAvzG9c)
 - [Von Hertzen Brothers War Is Over](https://www.youtube.com/watch?v=uEa2_NhW6HU)
+- [War Is Over](https://www.youtube.com/watch?v=h0vgOAvzG9c)
+- [War Is Over (Von Hertzen Brothers)](https://www.youtube.com/watch?v=iUeSjnI4kP4)
 
 ## Release Images
 {{< imageGrid >}}
@@ -51,6 +58,7 @@ styles: ["Prog Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
+| Wikipedia URL | https://en.wikipedia.org/wiki/Happy_Xmas_(War_Is_Over) |
 | Format         | Vinyl 2× LP Album |
 | Label          | Music Theories Recordings |
 | Catalog Number | MTR75371 |

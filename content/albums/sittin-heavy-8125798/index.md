@@ -20,8 +20,8 @@ additional_images:
     - "https://i.discogs.com/M9TOygeBkEakEEKZhTSLP1R1ap_mma3ytJ8YXv587K4/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgxMjU3/OTgtMTQ1OTk0NjYx/Mi0xNjQ2LmpwZWc.jpeg"
     - "https://i.discogs.com/oPfL2wvnyHK_VO1AWE_ab75tG3mfVOCOCiIpdJOeDQM/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgxMjU3/OTgtMTQ1OTk0NjYx/MC0xMjM0LmpwZWc.jpeg"
     - "https://i.discogs.com/7KK_lr5lgyOnR8kA_TEkH4uqju0QGnGWQFHycThZow8/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgxMjU3/OTgtMTQ1OTk0NjYy/OC0xNDE1LmpwZWc.jpeg"
-    - "https://i.discogs.com/Va2G7UgUmP5GMWB22ZjuQ2iokGmqogRHNzl_E8glfGo/rs:fit/g:sm/q:90/h:849/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgxMjU3/OTgtMTQ1OTk0NjYz/MS02MDI4LmpwZWc.jpeg"
-    - "https://i.discogs.com/36XIA0LCmcCFIwl-eyFK_PtoLDQOJ1Pchq5SSgmy158/rs:fit/g:sm/q:90/h:818/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgxMjU3/OTgtMTQ1OTk0ODc3/MC01MjA2LmpwZWc.jpeg"
+    - "https://i.discogs.com/rB79kYdzxGdkgDPZXcYmx687SI_LTvGDUIjBwARmtZw/rs:fit/g:sm/q:90/h:600/w:423/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgxMjU3/OTgtMTQ1OTk0NjYz/MS02MDI4LmpwZWc.jpeg"
+    - "https://i.discogs.com/BIU2-X_EvsSUabR7JGRO2OKegK4erwfzfYE3uAY-o5c/rs:fit/g:sm/q:90/h:600/w:439/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgxMjU3/OTgtMTQ1OTk0ODc3/MC01MjA2LmpwZWc.jpeg"
     - "https://i.discogs.com/TqVK0XWD5h6PsyjsGwPVU2JuwZpYeIKNvgE4-wk8A9s/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgxMjU3/OTgtMTQ1OTk0OTE0/MC04MzUxLmpwZWc.jpeg"
 genres: ["Rock"]
 styles: ["Blues Rock", "Hard Rock"]
@@ -69,4 +69,4 @@ styles: ["Blues Rock", "Hard Rock"]
 | Label          | Mascot Records (2) |
 | Catalog Number | M74851 |
 | Notes | Double Red Heavy 180g LP with etched D Side  Includes an exclusive bonus track, and a coupon for a complimentary MP3 download of the album  Orders from record company net shop included a Mascot Messenger advertising paper and poster which was not inside plastics. |
-| Discogs URL    | [Monster Truck - Sittin' Heavy](https://www.discogs.com/release/8125798-Monster-Truck-Sittin-Heavy) |
+| Discogs URL    | [Monster Truck - Sittin' Heavy](https://www.discogs.com/release/8125798-Monster-Truck-2-Sittin-Heavy) |

@@ -4,7 +4,6 @@ artist_name: "Zero 7"
 artist: "zero-7"
 album_name: "Simple Things"
 date: 2021-07-27T04:41:25.000000Z
-release_date: "2001-04-23"
 release_id: "19608181"
 slug: "simple-things-19608181"
 hideSummary: true
@@ -13,7 +12,7 @@ cover:
     alt: "Simple Things by Zero 7"
     caption: "Simple Things by Zero 7"
 additional_images:
-    - "https://i.discogs.com/Fc5lwlFwpR4U20EGbRGx_ppoQ9CG8Glq43QVlxnRlWs/rs:fit/g:sm/q:90/h:601/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NjA4/MTgxLTE2MjkzMTMx/ODctMTc1Ny5qcGVn.jpeg"
+    - "https://i.discogs.com/HTFoVopD4CDNcL1H2e6rWmoJ70xfdfWdL46PWEV-gFo/rs:fit/g:sm/q:90/h:600/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NjA4/MTgxLTE2MjkzMTMx/ODctMTc1Ny5qcGVn.jpeg"
     - "https://i.discogs.com/MBZGiihq_-Pq9uH3fu6nsTAmrnlVS6w4Hos3qpAFioo/rs:fit/g:sm/q:90/h:593/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NjA4/MTgxLTE2MjkzMTMx/OTYtNDY1OC5qcGVn.jpeg"
     - "https://i.discogs.com/mhtunEbdVQ4IcSrpI5ktYOz14LvcBW7Tfd5vxIQm0wU/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NjA4/MTgxLTE2NjQ4ODk1/MzgtODU4NC5qcGVn.jpeg"
     - "https://i.discogs.com/pUnqwBvZd1o7bHMY_F1Wo5HbaDApsxxVmfYqURmr5NU/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NjA4/MTgxLTE2NjQ4ODk1/MzktODM3OS5qcGVn.jpeg"
@@ -33,9 +32,10 @@ genres: ["Electronic"]
 styles: ["Downtempo"]
 ---
 
-Born in the groggy, morning after haze of a new millennium, there is something fittingly languid, contemplative and ephemeral about Zero 7’s 2001 debut. Or, to perhaps put it another way, schoolfriends Henry Binns and Sam Hardaker’s first record sculpts a sonic atmosphere that enraptures even as it slips your grasp; its mixture of jazz-inflected instrumentals and hushed vocal tracks caught somewhere between a dream and the soundtrack for a nonexistent movie. “Distractions” (one of two songs fronted by a young, pre-global domination Sia Furler) is the true north of this approach: a weightless miracle of space-age effects and pleading, supple soul. But former sound engineers Binns and Hardaker are just as adept at lyricless communication (just drink in the lush, soaring strings on “Polaris”). And <i>Simple Things</i> is ultimately—fittingly—a masterpiece of restraint, space and a subtle, whispered sort of beauty.
-        
-        
+Simple Things is the debut studio album by English duo Zero 7, released on 23 April 2001. It peaked at number 28 on the UK Albums Chart, staying on the chart for 56 weeks. It was nominated for the Mercury Prize. Five singles, such as "Destiny" and "In the Waiting Line", promoted the album prior to its release.
+
+
+    
     
 
 
@@ -53,7 +53,7 @@ Born in the groggy, morning after haze of a new millennium, there is something f
 11. Likufanele (6:24)
 
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/simple-things-special-edition/1441141192" >}}<br>
+{{< applemusic url="https://music.apple.com/gb/album/simple-things/1326273139" >}}<br>
 
 
 ## Videos
@@ -61,9 +61,12 @@ Born in the groggy, morning after haze of a new millennium, there is something f
 {{< youtube id="mV5FhnK2UKM" title="Simple Things - Zero 7 (Full Album)" >}}<br>
 ### More Videos
 
-- [Zero 7 - I Have Seen (Official Video) ft. Mozez](https://www.youtube.com/watch?v=rap9YCMq7iw)
 - [Zero 7 - Destiny [Full-Length] [HQ]](https://www.youtube.com/watch?v=idtRhja2rAM)
 - [Simple Things](https://www.youtube.com/watch?v=X5hpG9-uU3I)
+- [Simple Things (Live)](https://www.youtube.com/watch?v=Z2IHG5rLMns)
+- [Zero 7 - In The Waiting Line (Official Video) ft. Sophie Barker](https://www.youtube.com/watch?v=V1zrEGsj234)
+- [Simple Things](https://www.youtube.com/watch?v=X5hpG9-uU3I)
+- [Zero 7 - I Have Seen (Official Video) ft. Mozez](https://www.youtube.com/watch?v=rap9YCMq7iw)
 
 ## Release Images
 {{< imageGrid >}}
@@ -72,8 +75,8 @@ Born in the groggy, morning after haze of a new millennium, there is something f
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Simple_Things_(Zero_7_album) |
-| Format         | Vinyl 2× LP Album Limited Edition Reissue Remastered (180gr Clear ) |
+| Format         | Vinyl 2× LP Album Limited Edition Reissue Remastered Repress (180gr, Clear) |
 | Label          | New State Music |
 | Catalog Number | NEW9253LPC |
-| Notes | Ⓟ 2001 New State Music Ⓒ 2018 New State Music.  Produced and Fleximixed at Shabang Studios.  Part of HMV 1921 100th Anniversary Series.  Limited to 500 copies |
+| Notes | Ⓟ 2001 New State Music Ⓒ 2018 New State Music.  Produced and Fleximixed at Shabang Studios.  Part of HMV 1921 100th Anniversary Series.  Limited to 500 copies  Repress using same metal work as the [url=https://www.discogs.com/release/12388769-Zero-7-Simple-Things]2018 Reissue[/url] |
 | Discogs URL    | [Zero 7 - Simple Things](https://www.discogs.com/release/19608181-Zero-7-Simple-Things) |

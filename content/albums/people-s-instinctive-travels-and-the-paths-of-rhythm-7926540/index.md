@@ -24,8 +24,12 @@ genres: ["Hip Hop"]
 styles: ["Conscious", "Boom Bap", "Jazzy Hip-Hop"]
 ---
 
-A seminal debut album that hasn’t aged a second. Bursting with inventiveness, color and charm, it framed Q-Tip, Phife Dawg, Ali Shaheed Muhammed and Jarobi (who would quit the band in 1991 to attend culinary school) as one of hip-hop’s most important groups. Lyrically, it’s extraordinary—tackling police brutality and high art, STDs and veganism—while freewheeling, giddy creativity radiates off everything. Its most iconic moments (“I Left My Wallet In El Segundo”, “Can I Kick It?”) are its most spare and jazzy, while hip-hop is still yet to pen a love letter that tops “Bonita Applebum.”
-    
+People's Instinctive Travels and the Paths of Rhythm is the debut studio album by American hip hop group A Tribe Called Quest, released on April 10, 1990, on Jive Records. After forming the Native Tongues collective and collaborating on several projects, A Tribe Called Quest began recording sessions for People's Instinctive Travels in late 1989 at Calliope Studios with completion reached in early 1990. The album's laid back production encompassed a diverse range of samples which functioned as a template for the group's unorthodox lyrics.
+People's Instinctive Travels and the Paths of Rhythm was met with acclaim from professional music critics and the hip hop community on release, and was eventually certified gold in the United States on January 19, 1996. Its recognition has extended over the years as it is widely regarded as a central album in alternative hip hop with its unconventional production and lyricism. It is also credited for influencing many artists in both hip hop and R&B. In a commemorative article for XXL, Michael Blair wrote that "People's Instinctive Travels and the Paths of Rhythm was immensely groundbreaking, and will eternally maintain its relevance within the culture and construction of hip-hop".
+
+
+        
+        
     
 
 
@@ -54,23 +58,22 @@ A seminal debut album that hasn’t aged a second. Bursting with inventiveness, 
 
 
 ## Videos
-### Push It Along
-{{< youtube id="T6a8N2CjNRU" title="Push It Along" >}}<br>
+### A Tribe Called Quest - Footprints (Remix) (Official Audio) ft. CeeLo Green
+{{< youtube id="GLDoO3YOxiU" title="A Tribe Called Quest - Footprints (Remix) (Official Audio) ft. CeeLo Green" >}}<br>
 ### More Videos
 
-- [Luck of Lucien](https://www.youtube.com/watch?v=7T2lja6Agbk)
-- [After Hours](https://www.youtube.com/watch?v=nlJJIrPHBsc)
-- [Footprints](https://www.youtube.com/watch?v=ay9bFqeHQRk)
-- [I Left My Wallet in El Segundo](https://www.youtube.com/watch?v=pemnd3Igzrg)
-- [Pubic Enemy](https://www.youtube.com/watch?v=v6BUZI686iM)
-- [Bonita Applebum (includes 'Can I Kick It' Intro)](https://www.youtube.com/watch?v=75_DEufWm5c)
-- [Can I Kick It?](https://www.youtube.com/watch?v=crpRvkYzrtE)
-- [Youthful Expression](https://www.youtube.com/watch?v=2WXTGHS8kCs)
-- [Rhythm (Devoted to the Art of Moving Butts)](https://www.youtube.com/watch?v=-pc8H8Ozr6Y)
+- [A Tribe Called Quest - Bonita Applebum (Pharrell Williams Remix) (Digital Video)](https://www.youtube.com/watch?v=aS_rkTi0D_M)
+- [A Tribe Called Quest - I Left My Wallet In El Segundo (Official Video)](https://www.youtube.com/watch?v=WILyWmT2A-Q)
+- [A Tribe Called Quest - Can I Kick It? (Official HD Video)](https://www.youtube.com/watch?v=O3pyCGnZzYA)
 - [Mr. Muhammad](https://www.youtube.com/watch?v=e4hpXesb2CA)
-- [Ham 'N' Eggs](https://www.youtube.com/watch?v=wUsr1GUZ3oU)
-- [Go Ahead In the Rain](https://www.youtube.com/watch?v=T1CnUKAxgF4)
-- [Description of a Fool](https://www.youtube.com/watch?v=DirRhRgwtes)
+- [Push It Along](https://www.youtube.com/watch?v=T6a8N2CjNRU)
+- [A Tribe Called Quest, Luck Of Lucien](https://www.youtube.com/watch?v=QdoYL5wmvYc)
+- [A Tribe Called Quest - After Hours](https://www.youtube.com/watch?v=nXy3MhxAGZk)
+- [A Tribe Called Quest-Youthful Expression](https://www.youtube.com/watch?v=8b_fY7PPDrg)
+- [Rhythm (Devoted to the Art of Moving Butts)](https://www.youtube.com/watch?v=-pc8H8Ozr6Y)
+- [A Tribe Called Quest - Ham 'N' Eggs](https://www.youtube.com/watch?v=GmOcs7cmxd4)
+- [A Tribe Called Quest - Footprints (Remix) (Official Audio) ft. CeeLo Green](https://www.youtube.com/watch?v=GLDoO3YOxiU)
+- [A Tribe Called Quest - Bonita Applebum (Pharrell Williams Remix) (Digital Video)](https://www.youtube.com/watch?v=aS_rkTi0D_M)
 
 ## Release Images
 {{< imageGrid >}}
@@ -78,8 +81,9 @@ A seminal debut album that hasn’t aged a second. Bursting with inventiveness, 
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
+| Wikipedia URL | https://en.wikipedia.org/wiki/People%27s_Instinctive_Travels_and_the_Paths_of_Rhythm |
 | Format         | Vinyl 2× LP Album Reissue Remastered (25th Anniversary, Gatefold, 180 gram) |
 | Label          | Jive |
 | Catalog Number | 88875172371 |
-| Notes | 25th anniversary edition with 3 bonus remixes.  Made in the EU.  Track B3 erroneously credits "Stevie Wonder" as performer but in fact the real performer is "Ramp".   Pressed By and Lacquer Cut At derived from matrix details. |
+| Notes | 25th anniversary edition with 3 bonus remixes.  Made in the EU.  Track B3 erroneously credits "Stevie Wonder" as performer but in fact the real performer is "Ramp".   Pressed By and Lacquer Cut At derived from matrix details.  Runouts are etched, except for -37846- which is stamped |
 | Discogs URL    | [A Tribe Called Quest - People's Instinctive Travels And The Paths Of Rhythm](https://www.discogs.com/release/7926540-A-Tribe-Called-Quest-Peoples-Instinctive-Travels-And-The-Paths-Of-Rhythm) |

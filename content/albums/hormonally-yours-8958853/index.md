@@ -12,9 +12,9 @@ cover:
     alt: "Hormonally Yours by Shakespear's Sister"
     caption: "Hormonally Yours by Shakespear's Sister"
 additional_images:
-    - "https://i.discogs.com/WMtlMesm8Tw1IltJx0uiTHbv16Vn0841dqGjAwnwHLg/rs:fit/g:sm/q:90/h:601/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg5NTg4/NTMtMTQ3MjczODcx/Mi00NzkyLmpwZWc.jpeg"
-    - "https://i.discogs.com/4UBwUCc7zAUCnJ6zGhcdN_K-HldmQTTvFwypnmUfLk4/rs:fit/g:sm/q:90/h:601/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg5NTg4/NTMtMTQ3MjczODcx/NS00NDQ3LmpwZWc.jpeg"
-    - "https://i.discogs.com/yPJyc9-_1xd0rD7-8p-xSpTofb8CNqvL0Vz4L79Hccc/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg5NTg4/NTMtMTQ3MjczODcy/MS04Mjk5LmpwZWc.jpeg"
+    - "https://i.discogs.com/o17U4eiZKQWkpqEJp9LTIsrolQ77r1KJ8q5DYFPGTEs/rs:fit/g:sm/q:90/h:600/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg5NTg4/NTMtMTQ3MjczODcx/Mi00NzkyLmpwZWc.jpeg"
+    - "https://i.discogs.com/arwq1TzJoPLiIS1ZcGKEonT6_pQE6WTTNaolJUiS1_I/rs:fit/g:sm/q:90/h:600/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg5NTg4/NTMtMTQ3MjczODcx/NS00NDQ3LmpwZWc.jpeg"
+    - "https://i.discogs.com/kglzo_sQQkZESu9gXcWZH7gH1KSlaw7NE2ekl8tCzO8/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg5NTg4/NTMtMTQ3MjczODcy/MS04Mjk5LmpwZWc.jpeg"
     - "https://i.discogs.com/ODU2M2wOsWViMAXPb4ri4olukV_m-qP-O7RDWEFkX8Y/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg5NTg4/NTMtMTQ3MjczODcy/NC0xMzQzLmpwZWc.jpeg"
 genres: ["Rock", "Pop"]
 styles: []
@@ -44,16 +44,18 @@ Hormonally Yours is the second studio album by British pop-rock act Shakespears 
 
 
 ## Videos
-### Shakespears Sister - Stay (Official Video)
-{{< youtube id="YCYaALgW80c" title="Shakespears Sister - Stay (Official Video)" >}}<br>
+### Shakespears Sister 'I Don't Care'
+{{< youtube id="-odnJZIyc2g" title="Shakespears Sister 'I Don't Care'" >}}<br>
 ### More Videos
 
+- [Shakespears Sister - Stay (Official Video)](https://www.youtube.com/watch?v=YCYaALgW80c)
+- [Shakespears Sister - Hello (Turn Your Radio On) (Official Video)](https://www.youtube.com/watch?v=IrbFydtLF-Y)
+- [Shakespears Sister - I Don't Care](https://www.youtube.com/watch?v=5IU3TNo_WcY)
+- [Shakespears Sister - Goodbye Cruel World](https://www.youtube.com/watch?v=C575XA836cY)
+- [Shakespears Sister - Stay (Official Video)](https://www.youtube.com/watch?v=YCYaALgW80c)
 - [Shakespears Sister - Hello (Turn Your Radio On) (Official Video)](https://www.youtube.com/watch?v=IrbFydtLF-Y)
 - [Shakespears Sister - Goodbye Cruel World (Official Video)](https://www.youtube.com/watch?v=pSH5yQ9y51M)
 - [Shakespears Sister - I Don't Care (Official Video)](https://www.youtube.com/watch?v=d022vGBC75o)
-- [Shakespears Sister - I Don't Care](https://www.youtube.com/watch?v=5IU3TNo_WcY)
-- [Shakespears Sister 'I Don't Care'](https://www.youtube.com/watch?v=-odnJZIyc2g)
-- [Shakespears Sister - Goodbye Cruel World](https://www.youtube.com/watch?v=C575XA836cY)
 
 ## Release Images
 {{< imageGrid >}}
@@ -62,8 +64,8 @@ Hormonally Yours is the second studio album by British pop-rock act Shakespears 
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Hormonally_Yours |
-| Format         | Vinyl LP Album |
+| Format         | Vinyl LP Album Stereo |
 | Label          | London Records |
 | Catalog Number | 828 266-1 |
-| Notes | Track A3 is erroneously listed as "My 16th Birthday" on the label.  Cat# 828 266-1 appears on jacket, 828266.1 on labels.  Later pressing [r1074313] has different cat# and remix credits for tracks A1, A2, A6 and B6. |
+| Notes | Track A3 is erroneously listed as "My 16th Birthday" on the label.  Cat# 828 266-1 appears on jacket, 828266.1 on labels.  ℗ 1992 London © 1992 London   Later pressing [r1074313] has different cat# and remix credits for tracks A1, A2, A6 and B6. |
 | Discogs URL    | [Shakespear's Sister - Hormonally Yours](https://www.discogs.com/release/8958853-Shakespears-Sister-Hormonally-Yours) |

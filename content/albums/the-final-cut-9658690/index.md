@@ -13,19 +13,22 @@ cover:
     alt: "The Final Cut by Pink Floyd"
     caption: "The Final Cut by Pink Floyd"
 additional_images:
-    - "https://i.discogs.com/AjO_Se3hcq56MR1TYKbujxqJ4-FGPnURbUrHoRf7sYs/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk2NTg2/OTAtMTY1OTcyMDYz/My03ODE1LmpwZWc.jpeg"
-    - "https://i.discogs.com/okSEPZOUid66H41Pw8YGNJ15G1FC9KWMDXPXQKyYI1Q/rs:fit/g:sm/q:90/h:292/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk2NTg2/OTAtMTY1OTcyMDUx/NC0zMTcwLmpwZWc.jpeg"
-    - "https://i.discogs.com/7REfy5fs07pM8TqFm9_p7YU3ZVspQjWstAlbq0cVH9c/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk2NTg2/OTAtMTY1OTcyMDUy/MC02MDU0LmpwZWc.jpeg"
-    - "https://i.discogs.com/wCqSKLNungn6zKGHK6HYeTLkA00p1FKq2ENOn2HLXoo/rs:fit/g:sm/q:90/h:602/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk2NTg2/OTAtMTQ4OTA2NDUx/OS01MTM1LmpwZWc.jpeg"
-    - "https://i.discogs.com/Y83asIHDj1W2JRKAqE7LFhZZNOOuIeE0fIpDfl2xVxs/rs:fit/g:sm/q:90/h:603/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk2NTg2/OTAtMTQ4OTA2NDUz/Ny04ODc3LmpwZWc.jpeg"
+    - "https://i.discogs.com/sEJSxXrkM_x9zIyaej00taorUtgqp-lUkwQjmSPQV4E/rs:fit/g:sm/q:90/h:600/w:597/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk2NTg2/OTAtMTczMDA3Nzk0/NC00MDU1LmpwZWc.jpeg"
+    - "https://i.discogs.com/pEw9QW59l_dKVMk1Q-fW7nrHtJ7I-G2tnzAt0xrmTQs/rs:fit/g:sm/q:90/h:289/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk2NTg2/OTAtMTczMDA3Nzk0/NC01MzI1LmpwZWc.jpeg"
+    - "https://i.discogs.com/JglFebzgDWNAzKU8QuKBd5FbYSPSVWZPJwLE5ZX0kfA/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk2NTg2/OTAtMTczMDA3Nzk0/NC0xODQzLmpwZWc.jpeg"
+    - "https://i.discogs.com/C1z5UunFSuenwBUdy6LgYfUjWkykFSySu9YHMpnZzFs/rs:fit/g:sm/q:90/h:600/w:597/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk2NTg2/OTAtMTQ4OTA2NDUx/OS01MTM1LmpwZWc.jpeg"
+    - "https://i.discogs.com/Vgs1szqnZzXYDgsaa1tNLwH_CgJ3y3l2MJ9S-m2wLkI/rs:fit/g:sm/q:90/h:600/w:596/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk2NTg2/OTAtMTQ4OTA2NDUz/Ny04ODc3LmpwZWc.jpeg"
     - "https://i.discogs.com/pStklx1ZUhAE0V4-vK5aW1o8a7Yl57P3XtxQJRfaWHw/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk2NTg2/OTAtMTQ4NDQwNTY3/MS0yNTU5LmpwZWc.jpeg"
+    - "https://i.discogs.com/JB5ceo7BwAU5YLsE6AJDg7wgopbsce2PwZBi3PL8S0s/rs:fit/g:sm/q:90/h:600/w:301/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk2NTg2/OTAtMTcwMzY3NjY4/OC03MDA5LmpwZWc.jpeg"
+    - "https://i.discogs.com/jxJof-LotnbB9XBX83yfi_h6VPqCcE0Zz5rcrW-Vge4/rs:fit/g:sm/q:90/h:414/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk2NTg2/OTAtMTczMDA3Nzk0/Mi01NTEwLmpwZWc.jpeg"
+    - "https://i.discogs.com/7qdG2GxTelUD0ukwBA_u-GAZjv5sO-gQkh08anTBL4A/rs:fit/g:sm/q:90/h:132/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk2NTg2/OTAtMTczMDA3Nzkz/OS00NzA0LmpwZWc.jpeg"
 genres: ["Rock"]
 styles: ["Prog Rock"]
 ---
 
-The Final Cut is the 12th studio album by the English rock band Pink Floyd, released on 21 March 1983 through Harvest and Columbia Records. It comprises unused material from the band's previous studio album, The Wall (1979), alongside new material recorded throughout 1982.
-The Final Cut is the last Pink Floyd album to feature founding member Roger Waters, who departed from the band in 1985. It is also the only Pink Floyd album not to feature founding member and keyboardist Richard Wright, who had left the band under pressure from Waters after the Wall sessions. The recording was plagued by conflict; the guitarist, David Gilmour, felt many of the tracks were not worthy of inclusion, but Waters accused him of failing to contribute material himself. The contributions from the drummer, Nick Mason, were limited mostly to sound effects.
-Waters planned the album as a soundtrack for the 1982 film adaptation of The Wall. With the onset of the Falklands War, he rewrote it as a concept album exploring what he considered the betrayal of his father, who died serving in the Second World War. Waters provided lead vocals for all but one track, and he is credited for all songwriting. The album was accompanied by a short film released in the same year.
+The Final Cut is the twelfth studio album by the English rock band Pink Floyd, released on 21 March 1983 through Harvest and Columbia Records. It comprises unused material from the band's previous studio album, The Wall (1979), alongside new material recorded throughout 1982.
+The Final Cut is the last Pink Floyd album to feature founding member Roger Waters, who left the band in 1985. It is the only Pink Floyd album without founding member and keyboardist Richard Wright, who had left the band under pressure from Waters after the Wall sessions. The recording was plagued by conflict; guitarist David Gilmour felt many of the tracks were not worthy of inclusion, but Waters accused him of failing to contribute material himself. The contributions from drummer Nick Mason were limited mostly to sound effects.
+Waters planned the album as a soundtrack for the 1982 film adaptation of The Wall. With the onset of the Falklands War, he rewrote it as a concept album exploring what he considered the betrayal of those — including his father — who died defending freedom in World War II. Waters sang lead vocals on all but one track, and he is credited for all songwriting. The album was accompanied by a short film released in the same year.
 The Final Cut received mixed reviews, though retrospective reception has been more favourable. Though it reached number one in the UK and number six in the US, it was the lowest-selling Pink Floyd studio album worldwide since their sixth album, Meddle (1971).
 
 
@@ -53,6 +56,9 @@ The Final Cut received mixed reviews, though retrospective reception has been mo
 {{< applemusic url="https://music.apple.com/gb/album/the-final-cut/719121288" >}}<br>
 
 
+## Videos
+### Pink Floyd - The Final Cut (Full Album)
+{{< youtube id="qZyXLX7bxDk" title="Pink Floyd - The Final Cut (Full Album)" >}}<br>
 
 
 ## Release Images

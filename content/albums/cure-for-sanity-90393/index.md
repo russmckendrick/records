@@ -22,6 +22,10 @@ genres: ["Electronic", "Rock"]
 styles: ["Alternative Rock", "Breakbeat", "Big Beat", "House", "Downtempo"]
 ---
 
+Cure for Sanity (also known by its full title The Pop Will Eat Itself Cure for Sanity) is the third studio album by English rock band Pop Will Eat Itself, released on 22 October 1990 by RCA Records. Upon its release, the album entered the UK Albums Chart and stayed there for two weeks, peaking at number 33, and re-entered the chart when it was re-released in July 1991, staying there for one week at number 58. In Australia, the album peaked at number 51 and spent six weeks on the ARIA top 100 albums chart.
+In 2011, a two-disc version of the album was issued by Cherry Red Records, containing the original 1990 release in its entirety, plus other material from the same period (i.e., material that either had been previously-unreleased or had been released only on singles or as promotional material).
+    
+    
 
 
 ## Tracklisting
@@ -60,7 +64,7 @@ styles: ["Alternative Rock", "Breakbeat", "Big Beat", "House", "Downtempo"]
 - [Very Metal Noise Pollution](https://www.youtube.com/watch?v=iL0hRD2Wr0A)
 - [Nightmare At 20,000 Feet](https://www.youtube.com/watch?v=iLl9gLrwsmA)
 - [1000 X No](https://www.youtube.com/watch?v=9ycq4ABS9-I)
-- [Another Man's Rhubarb (7 Mix)](https://www.youtube.com/watch?v=VC1a48_mCVM)
+- [Another Man's Rhubarb (7" Mix)](https://www.youtube.com/watch?v=VC1a48_mCVM)
 - [Dr. Nightmare's Medication Time](https://www.youtube.com/watch?v=iWDDER65_5E)
 - [88 Seconds... & Still Counting](https://www.youtube.com/watch?v=Qq_JYHTHj74)
 - [Pop Will Eat Itself - Dance Of The Mad Bastards (Feet On Heat Mix)](https://www.youtube.com/watch?v=mKvc_jgK9mU)
@@ -77,6 +81,7 @@ styles: ["Alternative Rock", "Breakbeat", "Big Beat", "House", "Downtempo"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
+| Wikipedia URL | https://en.wikipedia.org/wiki/Cure_for_Sanity |
 | Format         | Vinyl LP Album Stereo |
 | Label          | RCA |
 | Catalog Number | PL 74828 |

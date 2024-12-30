@@ -33,7 +33,10 @@ styles: ["Electro", "Indie Pop", "Synth-pop"]
 ## Videos
 ### Jane Weaver - The Architect
 {{< youtube id="keXHh0lr2y8" title="Jane Weaver - The Architect" >}}<br>
+### More Videos
 
+- [Jane Weaver - The Architect](https://www.youtube.com/watch?v=keXHh0lr2y8)
+- [Jane Weaver - The Architect](https://www.youtube.com/watch?v=keXHh0lr2y8)
 
 ## Release Images
 {{< imageGrid >}}

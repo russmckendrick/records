@@ -19,14 +19,15 @@ additional_images:
     - "https://i.discogs.com/oaYS7LuzYO9zEUeZZfhZP_cq8dbqpiHMRmmSlWmOwU4/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUxODkx/MTYtMTUwMzQwMjYw/Mi02ODIyLmpwZWc.jpeg"
     - "https://i.discogs.com/cv0ARN3Y2K1neH8wry3apTZAC0zb9LjXUD_WcOVayCY/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUxODkx/MTYtMTUwMzQwMjYy/OC01NDY4LmpwZWc.jpeg"
     - "https://i.discogs.com/lp15PcdOb1ZmR7_rzkgaa8rEAwrNHMqetpotudsyZm8/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUxODkx/MTYtMTUwMzQwMjY1/NC01NzEwLmpwZWc.jpeg"
-    - "https://i.discogs.com/6KNFFZCDo3_BpZuX-3a_pHrOvPl9Ajuf-hgEtLVjVos/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUxODkx/MTYtMTUwMzQwMjY5/Ni03MzM1LmpwZWc.jpeg"
+    - "https://i.discogs.com/b22D2f3qTtnt3rWyxETXbjXu_vkhIh3EwgOxWKdCui0/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUxODkx/MTYtMTUwMzQwMjY5/Ni03MzM1LmpwZWc.jpeg"
 genres: ["Rock"]
 styles: ["Alternative Rock", "Prog Rock"]
 ---
 
 Tightly Unwound (2008) is the seventh studio album by The Pineapple Thief, and their first album released by Kscope. All previous Pineapple Thief releases were published by Cyclops Records. Kscope dedicated a microsite to the album before its release, containing a preview of the album in audio streaming, a picture gallery, desktop wallpapers and audio samples as a source for remixes.
 Those who were signed to the  mailing list could get the acoustic version of "Shoot First" as a free-download track. On 28 July 2008 the band released Shoot First as a download EP.
-A video for the song, filmed by the acclaimed director Lasse Hoile (famous for his works with Porcupine Tree, Opeth, Dream Theater and Blackfield), premiered on the Tightly Unwound mini-site on 31 July 2008.Two tracks, "And So Say All of You" and "The Sorry State", were originally written for the band's first and second Fruit and Veg Selection podcasts, respectively.
+A video for the song, filmed by the acclaimed director Lasse Hoile (famous for his works with Porcupine Tree, Opeth, Dream Theater and Blackfield), premiered on the Tightly Unwound mini-site on 31 July 2008.
+Two tracks, "And So Say All of You" and "The Sorry State", were originally written for the band's first and second Fruit and Veg Selection podcasts, respectively.
     
     
 

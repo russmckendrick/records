@@ -4,7 +4,7 @@ artist_name: "Peter Gabriel"
 artist: "peter-gabriel"
 album_name: "So "
 date: 2016-07-15T17:15:52.000000Z
-release_date: "1986-05-19"
+release_date: "1977-02-25"
 release_id: "8744459"
 slug: "so-8744459"
 hideSummary: true
@@ -13,7 +13,7 @@ cover:
     alt: "So  by Peter Gabriel"
     caption: "So  by Peter Gabriel"
 additional_images:
-    - "https://i.discogs.com/4a9w2-10M6NURShg0bV4yG4h4h212wGzsbpzHvOSmB8/rs:fit/g:sm/q:90/h:608/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg3NDQ0/NTktMTU5Njk3MDYx/MS05NDYzLmpwZWc.jpeg"
+    - "https://i.discogs.com/hl4tV5aHN2EP_v3P6sLGbrnXBslwslvcd9GY3XBOGhg/rs:fit/g:sm/q:90/h:600/w:591/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg3NDQ0/NTktMTU5Njk3MDYx/MS05NDYzLmpwZWc.jpeg"
     - "https://i.discogs.com/i4GjukesHWMjUCy6cXqpqLkHb1PxSrOiBCjBJ_BgeIw/rs:fit/g:sm/q:90/h:476/w:476/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg3NDQ0/NTktMTQ2OTA2NTcy/NS01NjcwLmpwZWc.jpeg"
     - "https://i.discogs.com/qTZdI9Q5y5kf91zBcdY3a5cawZwI5OezG3U_PaQikx0/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg3NDQ0/NTktMTU5Njk3MDg2/My01NjI5LmpwZWc.jpeg"
     - "https://i.discogs.com/yrCJUjRaXUyzdGiB1ZlWwsa8hHMx098Cm1nZ3JgkwEY/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg3NDQ0/NTktMTU5Njk3MDg2/My00MzU0LmpwZWc.jpeg"
@@ -23,15 +23,18 @@ additional_images:
     - "https://i.discogs.com/YEXWN7pASRC0YsnMk8v-RPP5iXlzn4VKNebwtJBZ9Jc/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg3NDQ0/NTktMTU5Njk3MDk3/Mi0xMDIwLmpwZWc.jpeg"
     - "https://i.discogs.com/hicxLWzoSCZokEMU7VVYZmlfrGs1BGCEHH1wFZOvlyE/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg3NDQ0/NTktMTU5Njk3MDk3/Mi04MjM5LmpwZWc.jpeg"
     - "https://i.discogs.com/VNZPKEn9-RACTFaORH4CDPQtwv8B-jLqU-G1iWWw0pQ/rs:fit/g:sm/q:90/h:290/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg3NDQ0/NTktMTU5Njk3MDYx/MC0zMjI5LmpwZWc.jpeg"
-    - "https://i.discogs.com/uYliUaL5L8YIXdhFj4ZVv0_hJ6SG7DUquMoRPjfuvMM/rs:fit/g:sm/q:90/h:748/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg3NDQ0/NTktMTU5Njk3MDYx/Mi03ODYyLmpwZWc.jpeg"
+    - "https://i.discogs.com/yGEYBJW5njJDFwN_2Z2DKu0FfMI1zQgQSnWa5qSFzoY/rs:fit/g:sm/q:90/h:600/w:480/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg3NDQ0/NTktMTU5Njk3MDYx/Mi03ODYyLmpwZWc.jpeg"
 genres: ["Electronic", "Rock", "Funk / Soul", "Pop"]
 styles: ["Art Rock", "Pop Rock", "Synth-pop", "Funk"]
 ---
 
-So is the fifth studio album by English singer-songwriter Peter Gabriel, released on 19 May 1986 by Charisma Records and Virgin Records. After working on the soundtrack to the film Birdy (1984), producer Daniel Lanois was invited to remain at Gabriel's Somerset home during 1985 to work on his next solo project. Initial sessions for So consisted of Gabriel, Lanois and guitarist David Rhodes, although these grew to include a number of percussionists.
-Although Gabriel continued to use the pioneering Fairlight CMI digital sampling synthesizer, songs from these sessions were less experimental than his previous material. Nevertheless, Gabriel drew on various musical influences, fusing pop, soul, and art rock with elements of traditional world music, particularly African and Brazilian styles. It is Gabriel's first non-eponymous album, So representing an "anti-title" that resulted from label pressure to "properly" market his music. Gabriel toured So on the This Way Up tour (1986–1987), with some songs performed at human rights and charity concerts during this period.
-Often considered his best and most accessible album, So was an immediate commercial success and transformed Gabriel from a cult artist into a mainstream star, becoming his best-selling solo release. It has been certified fivefold platinum by the Recording Industry Association of America and triple platinum by the British Phonographic Industry. The album's lead single, "Sledgehammer", was promoted with an innovative animated music video and achieved particular success, reaching number one on the Billboard Hot 100 and subsequently winning a record of nine MTV Video Music Awards.  It was followed by four further singles, "Don't Give Up" (a duet with Kate Bush), "Big Time", "In Your Eyes", and "Red Rain".
-The album received positive reviews from most critics, who praised its songwriting, melodies and fusion of genres, although some retrospective reviews have criticised its overt commercialism and 1980s production sounds.  So was nominated for the Grammy Award for Album of the Year in 1987 but lost to Paul Simon's Graceland. It has appeared in lists of the best albums of the 1980s, and Rolling Stone included the album in their 2003 and 2020 editions of the 500 Greatest Albums of All Time. In 2000 it was voted number 82 in Colin Larkin's All Time Top 1000 Albums. So was remastered in 2002, partially re-recorded for Gabriel's 2011 orchestral project New Blood and issued as a box set in 2012.
+Released in 1977, the debut solo album from Peter Gabriel introduced a different type of left-of-centre songwriter: A darkly hued art-rocker who too was brusque for glam, too baroque for punk and too pop for prog. Gabriel spent seven years leading the abstruse and theatrical progressive rockers Genesis, but he became disillusioned with the industry, which he left in 1975, hoping to spend more time with his wife and daughter. He returned just two years later with a self-titled album that abandoned the fantastical fictions of Genesis for something more personal, with lyrics that explored the fear and thrill of new horizons (“Solsbury Hill”), the psychic boundaries between humans (“Here Comes the Flood”) and the frustrations of romance (“Modern Love”).
+
+Leaving behind much of his pastoral British vistas for sturdier rhythms, Gabriel’s new stomping sound came from a series of hard-rocking North American musicians picked by producer Bob Ezrin (Kiss, Alice Cooper). The line-up included Mountain drummer Allan Schwartzberg, Lou Reed guitarist Steve Hunter, pianist Jozef Chirowski and the gifted session bassist Tony Levin, who’d end up an essential part of Gabriel’s band for more than 45 years. For his part, Gabriel tapped art-rock journeyman Robert Fripp—who’d played with the likes of Brian Eno, David Bowie and King Crimson—as well as synth player Larry Fast.
+
+The album’s opener, “Moribund the Burgermeister”, is a piece of majestic arena rock backed by the London Symphony Orchestra, one that drops down into an abyss of sinister, growling menace. The closer, “Here Comes the Flood”, features a magnificent, bombastic chorus that points forward to future Gabriel ballads like “Biko” and “Come Talk to Me.” In between, <i>Peter Gabriel 1: Car</i> churns through somewhat straightforward rockers (“Modern Love”, “Slowburn”), broken barbershop (“Excuse Me”), on-off Latin rhythms (“Humdrum”), Randy Newman-styled quirk (“Waiting for the Big One”) and an intricately arranged disco-metal odyssey (“Down the Dolce Vita”).
+
+But it’s the album’s lead single, the 12-string-tinged “Solsbury Hill”, that would become one of Gabriel’s most enduring songs, despite a tricky 7/4 rhythm. Its mix of wistfulness and determination, abetted by Gabriel’s own flute-playing, helped make his grandiose art-rock debut in the United Kingdom. And while neither <i>Peter Gabriel 1: Car</i> nor “Solsbury Hill” would break the singer in America, both would chart higher than any of his music with Genesis—a pair of early successes in a solo career that would soon take off around the world.
         
         
     
@@ -49,10 +52,19 @@ The album received positive reviews from most critics, who praised its songwriti
 9. In Your Eyes
 
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/so/986800858" >}}<br>
+{{< applemusic url="https://music.apple.com/gb/album/peter-gabriel-1-car-remastered/986695072" >}}<br>
 
 
+## Videos
+### Peter Gabriel (Feat. Kate Bush) - Don't Give Up
+{{< youtube id="8LMB6K4rTGU" title="Peter Gabriel (Feat. Kate Bush) - Don't Give Up" >}}<br>
+### More Videos
 
+- [Peter Gabriel - Sledgehammer (HD version)](https://www.youtube.com/watch?v=OJWJE0x7T4Q)
+- [Peter Gabriel - Don't Give Up (ft. Kate Bush)](https://www.youtube.com/watch?v=VjEq-r2agqc)
+- [Peter Gabriel - Big Time](https://www.youtube.com/watch?v=PBAl9cchQac)
+- [Peter Gabriel - In Your Eyes](https://www.youtube.com/watch?v=kU8OJAOMbPg)
+- [We Do What We're Told (Milgram's 37)](https://www.youtube.com/watch?v=sMLlDBXtmX0)
 
 ## Release Images
 {{< imageGrid >}}

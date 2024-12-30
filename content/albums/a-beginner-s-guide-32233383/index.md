@@ -15,9 +15,14 @@ additional_images:
     - "https://i.discogs.com/nNlANCQPg2hPUg1fwKXV1gkdlNGzjyO2aA_ygdHhpHk/rs:fit/g:sm/q:90/h:600/w:597/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyMjMz/MzgzLTE3MzEwOTA2/NDMtOTQzMS5qcGVn.jpeg"
     - "https://i.discogs.com/EQiwtCIvislYYXxPkbXWz9SDZNv58g33UJjhcDt5Mug/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyMjMz/MzgzLTE3MzEwOTA2/NTUtNTU2My5qcGVn.jpeg"
 genres: ["Electronic"]
-styles: ["Techno"]
+styles: ["Techno", "Breakbeat", "Ambient", "Downtempo"]
 ---
 
+A Beginner's Guide (Best Of) is a compilation album by electronic music duo Orbital released on 8 November 2024 through London Recordings. The release is Orbital's compilation.
+
+
+    
+    
 
 
 ## Tracklisting
@@ -45,6 +50,7 @@ styles: ["Techno"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
+| Wikipedia URL | https://en.wikipedia.org/wiki/A_Beginner%27s_Guide |
 | Format         | Vinyl LP Compilation |
 | Label          | London Records |
 | Catalog Number | LMS1725246 |

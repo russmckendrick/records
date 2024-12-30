@@ -12,11 +12,11 @@ cover:
     alt: "True Romance (Motion Picture Soundtrack) by Various"
     caption: "True Romance (Motion Picture Soundtrack) by Various"
 additional_images:
-    - "https://i.discogs.com/i_ZxmbHha31vaCd3DwAfH-ITqgXJf7D9XTnW0s8LXfE/rs:fit/g:sm/q:90/h:611/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNDg4/MDYzLTE1MzY2MDk4/ODAtMTM3Ny5qcGVn.jpeg"
-    - "https://i.discogs.com/v_Ulq6s0u0JeKQRt9XaZD6j61BqY7EbmVD-Ao1CCTFo/rs:fit/g:sm/q:90/h:617/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNDg4/MDYzLTE1MzY2MDk4/ODItNzI4NS5qcGVn.jpeg"
-    - "https://i.discogs.com/BbpkM6oGmVJw52P2EcdLzxiasuTuUrZc2G-mYqQmGF4/rs:fit/g:sm/q:90/h:602/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNDg4/MDYzLTE1MzY2MDk4/ODMtMzE5OS5qcGVn.jpeg"
+    - "https://i.discogs.com/VSoC-3pDQpWZevWHF7rT3S09Y53vsjw_2pm8Dw_GpO0/rs:fit/g:sm/q:90/h:600/w:588/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNDg4/MDYzLTE1MzY2MDk4/ODAtMTM3Ny5qcGVn.jpeg"
+    - "https://i.discogs.com/Pe7yzqZVqxZMbGrM44lSWlaumj3NYV9aCFM_LQvgIdE/rs:fit/g:sm/q:90/h:600/w:582/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNDg4/MDYzLTE1MzY2MDk4/ODItNzI4NS5qcGVn.jpeg"
+    - "https://i.discogs.com/1t8uy31qY88lrUl2vaMQYhmJ_8HSsrEnSaOjQpnEBBc/rs:fit/g:sm/q:90/h:600/w:597/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNDg4/MDYzLTE1MzY2MDk4/ODMtMzE5OS5qcGVn.jpeg"
     - "https://i.discogs.com/uZNGb9Hwd9e7mCBu2Qt_GgGg1Kf3_1jegeX47uxvlIg/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNDg4/MDYzLTE1MzY2MDk4/ODctNTE1My5qcGVn.jpeg"
-    - "https://i.discogs.com/nom4gQkGHChNa5NUW7SBSRc3VPxO6AIfywj8u5rTIi0/rs:fit/g:sm/q:90/h:601/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNDg4/MDYzLTE1MzY2MTQ1/NzYtNDkyNy5qcGVn.jpeg"
+    - "https://i.discogs.com/EAb2NRhgRkthcV8lQ5G4H0CRXMA8FwtvqCv0iLWR8xU/rs:fit/g:sm/q:90/h:600/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNDg4/MDYzLTE1MzY2MTQ1/NzYtNDkyNy5qcGVn.jpeg"
     - "https://i.discogs.com/h5P4dZVjTjoFZdrt-KngQiR3Jc-iKKe24YL6TpLLGsw/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNDg4/MDYzLTE1MzY2MTQ1/ODQtMTYxMS5qcGVn.jpeg"
     - "https://i.discogs.com/rdZp_5zKAskO-a77Bs76AuxCweQaeXjPSiqcm1C5qrs/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNDg4/MDYzLTE1MzgwNTA5/ODktNTgyMy5qcGVn.jpeg"
     - "https://i.discogs.com/DVkY5_9CUzTy8yXUD_EHTcH6ORjNFgGcwFQLvGEibw8/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNDg4/MDYzLTE1MzgwNTA5/OTEtNjg4My5qcGVn.jpeg"
@@ -44,23 +44,21 @@ styles: ["Soundtrack", "Pop Rock", "Alternative Rock", "Modern Classical", "Euro
 14. Two Hearts (3:33)
 
 
-## Spotify
-{{< spotify type="album" id="5RyWJx6ASGDuaEwVe0aWvG" width="100%" height="500" >}}<br>
-
 
 ## Videos
-### You're So Cool
-{{< youtube id="lFUkaB_NU5o" title="You're So Cool" >}}<br>
+### True Romance Soundtrack Track 5 "I Want Your Body" Nymphomania
+{{< youtube id="RalIJp1jL6M" title="True Romance Soundtrack Track 5 "I Want Your Body" Nymphomania" >}}<br>
 ### More Videos
 
-- [True Romance Soundtrack Track 5 I Want Your Body Nymphomania](https://www.youtube.com/watch?v=RalIJp1jL6M)
-- [Hans Zimmer - You're So Cool](https://www.youtube.com/watch?v=bayyRPSXGq0)
 - [Graceland](https://www.youtube.com/watch?v=HtcpPIhmNHo)
-- [True Romance Soundtrack Track 6 Stars At Dawn Hans Zimmer](https://www.youtube.com/watch?v=Dx1VZnMv2A8)
-- [In Dreams](https://www.youtube.com/watch?v=xFlKHvkOmSQ)
 - [True Romance Score by Hans ZImmer: Shootout (Track 13)](https://www.youtube.com/watch?v=dhdUZzbeSZY)
-- [Wounded Bird](https://www.youtube.com/watch?v=eUDwnzeGgA0)
 - [True Romance (OST) - Shootout](https://www.youtube.com/watch?v=vWJ6wu22I30)
+- [Hans Zimmer - You're So Cool](https://www.youtube.com/watch?v=bayyRPSXGq0)
+- [True Romance Soundtrack Track 6 "Stars At Dawn" Hans Zimmer](https://www.youtube.com/watch?v=Dx1VZnMv2A8)
+- [You're So Cool](https://www.youtube.com/watch?v=lFUkaB_NU5o)
+- [Graceland](https://www.youtube.com/watch?v=HtcpPIhmNHo)
+- [In Dreams](https://www.youtube.com/watch?v=xFlKHvkOmSQ)
+- [Wounded Bird](https://www.youtube.com/watch?v=eUDwnzeGgA0)
 - [I Want Your Body](https://www.youtube.com/watch?v=jVLJAsPx7EI)
 - [Stars at Dawn](https://www.youtube.com/watch?v=o9gvZA-dJM8)
 - [I Need A Heart To Come Home To](https://www.youtube.com/watch?v=EOI3_ckWzb0)

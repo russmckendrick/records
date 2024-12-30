@@ -22,9 +22,8 @@ genres: ["Rock", "Pop"]
 styles: ["Folk Rock"]
 ---
 
-Sunshine on Leith is a 2013 Scottish romantic musical film directed by Dexter Fletcher. It is an adaptation of the stage musical of the same name, a jukebox musical featuring songs by The Proclaimers. It was screened in the Special Presentation section at the 2013 Toronto International Film Festival.The songs, arranged by musical director Paul Englishby, are performed by the cast. The Proclaimers themselves appear in a brief cameo.
-
-
+Sunshine on Leith is a 2013 British romantic musical film directed by Dexter Fletcher. It is an adaptation of the stage musical of the same name, a jukebox musical featuring songs by The Proclaimers. It was screened in the Special Presentation section at the 2013 Toronto International Film Festival.
+The songs, arranged by musical director Paul Englishby, are performed by the cast. The Proclaimers themselves appear in a brief cameo.
     
     
 
@@ -44,20 +43,22 @@ Sunshine on Leith is a 2013 Scottish romantic musical film directed by Dexter Fl
 12. Oh Jean (5:54)
 
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/sunshine-on-leith-2011-remaster/693799054" >}}<br>
+{{< applemusic url="https://music.apple.com/gb/album/sunshine-on-leith/693789043" >}}<br>
 
 
 ## Videos
-### The Proclaimers-Sunshine On Leith
-{{< youtube id="ZmELS03_4So" title="The Proclaimers-Sunshine On Leith" >}}<br>
+### TVC - The Proclaimers (1989)
+{{< youtube id="1wA3gDcUj_k" title="TVC - The Proclaimers (1989)" >}}<br>
 ### More Videos
 
-- [The Proclaimers - I'm Gonna Be (500 Miles)](https://www.youtube.com/watch?v=tbNlMtqrYS0)
+- [The Proclaimers-Sunshine On Leith](https://www.youtube.com/watch?v=ZmELS03_4So)
 - [The Proclaimers -  Sunshine On Leith (Official Music Video)](https://www.youtube.com/watch?v=Iesps9w4HFw)
 - [Sunshine on Leith](https://www.youtube.com/watch?v=9V7NYX1TOgs)
 - [Sunshine on Leith (2011 Remaster)](https://www.youtube.com/watch?v=sZ43B71vK0g)
 - [The Proclaimers - Sunshine On Leith](https://www.youtube.com/watch?v=0NzPmtQTuVI)
+- [The Proclaimers - I'm Gonna Be (500 Miles)](https://www.youtube.com/watch?v=tbNlMtqrYS0)
 - [The proclaimers - 500 miles (With lyrics)](https://www.youtube.com/watch?v=TyyNlxiMDB8)
+- [The Proclaimers-Sunshine On Leith](https://www.youtube.com/watch?v=ZmELS03_4So)
 
 ## Release Images
 {{< imageGrid >}}

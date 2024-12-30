@@ -4,7 +4,6 @@ artist_name: "Boston"
 artist: "boston"
 album_name: "Boston"
 date: 2018-11-17T19:36:07.000000Z
-release_date: "1976-08-25"
 release_id: "10857591"
 slug: "boston-10857591"
 hideSummary: true
@@ -24,11 +23,12 @@ genres: ["Rock"]
 styles: ["Hard Rock"]
 ---
 
-Boston is the debut studio album by American rock band Boston, released on August 25, 1976, by Epic Records. It was produced by Tom Scholz and John Boylan. A multi-instrumentalist and engineer who had been involved in the Boston music scene since the late 1960s, Scholz started to write and record demos in his apartment basement with singer Brad Delp, but received numerous rejections from major record labels. The demo tape fell into the hands of CBS-owned Epic, who signed the band in 1975.
-Defying Epic Records's insistence on recording the album professionally in Los Angeles, Scholz and Boylan tricked the label into thinking the band was recording on the West Coast, when in reality, the bulk was being tracked solely by Scholz at his Massachusetts home. The album's contents are a complete recreation of the band's demo tape, and contain songs written and composed many years prior. The album's style, often referred to as the "Boston sound", was developed through Scholz's love for classical music, melodic hooks and early guitar-heavy rock groups such as the Kinks and the Yardbirds, as well as a number of analogue electronic effects developed by Scholz in his home studio. Besides Scholz, who played most of the instruments on nearly all of the tracks, and Delp, other musicians appear on the album such as drummers Jim Masdea and Sib Hashian, guitarist Barry Goudreau and bassist Fran Sheehan. All except Masdea became full-time band members.
-The album was released by Epic in August 1976 and broke sales records, becoming the best-selling debut LP in the US at the time, and winning the RIAA Century Award as best selling debut album. The album's singles, "More Than a Feeling", "Peace of Mind" and "Foreplay/Long Time", were major AM and FM hits, and nearly the entire album receives constant airplay on classic rock radio. The album is often referred to as a staple in '70s rock and has been included on many lists of essential albums. It has sold at least 17 million copies in the United States alone and at least 20 million worldwide making it one of the best selling debut albums of all time.
-        
-        
+Boston is the debut studio album by American rock band Boston, released on August 25, 1976, by Epic Records. It was produced by band guitarist Tom Scholz and John Boylan. A multi-instrumentalist and engineer who had been involved in the Boston music scene since the late 1960s, Scholz started to write and record demos in his apartment basement with singer Brad Delp, but received numerous rejections from major record labels. The demo tape fell into the hands of CBS-owned Epic, who signed the band in 1975.
+Defying Epic Records's insistence on recording the album professionally in Los Angeles, Scholz and Boylan tricked the label into thinking the band was recording on the West Coast, when in reality, the bulk was being tracked solely by Scholz in his Massachusetts home. The album's contents are a complete recreation of the band's demo tape, and contain songs written and composed many years prior. The album's style, often referred to as the "Boston sound", was developed through Scholz's love for classical music, melodic hooks and early guitar-heavy rock groups such as the Kinks and the Yardbirds, as well as a number of analogue electronic effects developed by Scholz in his home studio. Besides Scholz, who played most of the instruments on nearly all of the tracks, and Delp, other musicians appear on the album, such as drummers Jim Masdea and Sib Hashian, guitarist Barry Goudreau and bassist Fran Sheehan. All except Masdea became full-time band members.
+The album was released by Epic in August 1976 and broke sales records, becoming the best-selling debut LP in the US at the time, and winning the Recording Industry Association of America (RIAA) Century Award for the best-selling debut album. The album's singles, "More Than a Feeling", "Peace of Mind" and "Foreplay/Long Time", were major hits, and nearly the entire album receives constant airplay on classic rock radio. The album is often regarded as a staple of 1970s rock and has been included on many lists of essential albums. It has sold at least 17 million copies in the United States alone and at least 20 million worldwide, making it one of the best-selling debut albums of all time.
+
+
+    
     
 
 
@@ -43,33 +43,21 @@ The album was released by Epic in August 1976 and broke sales records, becoming 
 8. Let Me Take You Home Tonight (4:12)
 
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/boston/913902091" >}}<br>
+{{< applemusic url="https://music.apple.com/gb/album/boston-single/1606141428" >}}<br>
 
 
 ## Videos
-### Boston - Boston (1976) [Full Album]
-{{< youtube id="4zDR5jmCXOg" title="Boston - Boston (1976) [Full Album]" >}}<br>
+### More Than a Feeling
+{{< youtube id="ufQUxoidxkM" title="More Than a Feeling" >}}<br>
 ### More Videos
 
-- [More Than a Feeling](https://www.youtube.com/watch?v=ufQUxoidxkM)
-- [B̤o̤s̤ton-B̤o̤s̤ton  [SACD R Remastered]  1976  Full Album HQ](https://www.youtube.com/watch?v=KTA0ImUMk-g)
 - [Peace of Mind](https://www.youtube.com/watch?v=tJ42CLtr7Jg)
-- [B̲o̲ston - B̲o̲ston (Full Album) 1976](https://www.youtube.com/watch?v=5d9OexXJ2Ys)
 - [Foreplay / Long Time](https://www.youtube.com/watch?v=QlMUlpju3qo)
-- [Boston - Rock & Roll Band (Official Audio)](https://www.youtube.com/watch?v=6bhFmtwio8Y)
 - [Rock & Roll Band](https://www.youtube.com/watch?v=n-pC3ncVjEw)
-- [Boston - Peace of Mind (Official Audio)](https://www.youtube.com/watch?v=edwk-8KJ1Js)
 - [Smokin'](https://www.youtube.com/watch?v=ZkbbQsh1sZk)
-- [Boston - More Than a Feeling (Official Video)](https://www.youtube.com/watch?v=t4QK8RxCAwo)
 - [Hitch a Ride](https://www.youtube.com/watch?v=CfSOxvgVfXk)
-- [Boston - Foreplay / Long Time (Official Audio)](https://www.youtube.com/watch?v=TnwqUEelQjE)
 - [Something About You](https://www.youtube.com/watch?v=osG16m9lphY)
-- [Boston : Boston Greatest Hits - The Best Songs Of Boston](https://www.youtube.com/watch?v=awjBLm41xJI)
 - [Let Me Take You Home Tonight](https://www.youtube.com/watch?v=1ZQbJ73GgZ8)
-- [Boston - Boston {Remastered} [Full Album] (HQ)](https://www.youtube.com/watch?v=rmH56P-QDo0)
-- [Boston - More Than A Feeling - Remastered](https://www.youtube.com/watch?v=zOILAZHf2pE)
-- [Boston - 1976 (Analog Album Remaster)](https://www.youtube.com/watch?v=_V4LtZuF--Q)
-- [Boston - Smokin' (Official Audio)](https://www.youtube.com/watch?v=bDI-AdnIK08)
 
 ## Release Images
 {{< imageGrid >}}

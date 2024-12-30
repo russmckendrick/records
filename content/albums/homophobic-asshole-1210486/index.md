@@ -32,12 +32,13 @@ styles: ["Alternative Rock", "Indie Rock"]
 
 
 ## Videos
-### SENSELESS THINGS Homophobic Asshole
-{{< youtube id="Q3YUFhjR3wM" title="SENSELESS THINGS Homophobic Asshole" >}}<br>
+### Senseless Things - Homophobic Asshole
+{{< youtube id="cbSvdWaARRM" title="Senseless Things - Homophobic Asshole" >}}<br>
 ### More Videos
 
-- [Senseless Things - Homophobic Asshole](https://www.youtube.com/watch?v=cbSvdWaARRM)
+- [SENSELESS THINGS "Homophobic Asshole"](https://www.youtube.com/watch?v=Q3YUFhjR3wM)
 - [Senseless Things - Body Bag](https://www.youtube.com/watch?v=tsHv3fLuxIU)
+- [Senseless Things - Homophobic Asshole](https://www.youtube.com/watch?v=cbSvdWaARRM)
 
 ## Release Images
 {{< imageGrid >}}

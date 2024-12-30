@@ -12,22 +12,24 @@ cover:
     alt: "Autofiction by Suede"
     caption: "Autofiction by Suede"
 additional_images:
-    - "https://i.discogs.com/y-OZC9E7kUcSfMVnB9oVt8-404PQnx5PPT0vhoj_XQI/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NTMx/NDU1LTE2NjUzNDY1/MTQtNTc0MS5qcGVn.jpeg"
+    - "https://i.discogs.com/DmdE_3vi_LS0_VRXoFe_COsui9YabCkgYwQ3LE-TD7Q/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NTMx/NDU1LTE2NjUzNDY1/MTQtNTc0MS5qcGVn.jpeg"
     - "https://i.discogs.com/auH8p89laioVR5CpvwkTsNkIdZekr9O5XloL8RS9UHo/rs:fit/g:sm/q:90/h:296/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NTMx/NDU1LTE2NjUzNDY1/MTUtOTUzNy5qcGVn.jpeg"
-    - "https://i.discogs.com/UFJ8Tz-Sv_-6zlEuSzaNS1kv9AgRKF8QFL0XataAA34/rs:fit/g:sm/q:90/h:602/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NTMx/NDU1LTE2NjUzNDY1/MTMtNjg0NC5qcGVn.jpeg"
-    - "https://i.discogs.com/8oEQwEWQrtgtgeDg3c6-9Se3NQU06_8tkVHE0HbBky8/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NTMx/NDU1LTE2NjUzNDY1/MTAtODMzOC5qcGVn.jpeg"
-    - "https://i.discogs.com/0GKnjDJaAuYVghh88tP6XlNCsmwrXdxhD7ihbF6lUiQ/rs:fit/g:sm/q:90/h:601/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NTMx/NDU1LTE2NjUzNDY1/MTEtODA2Mi5qcGVn.jpeg"
+    - "https://i.discogs.com/ljv_lV25fahi_IyKKSquQnq9iZY2YBU80XfPnq-Wo0I/rs:fit/g:sm/q:90/h:600/w:597/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NTMx/NDU1LTE2NjUzNDY1/MTMtNjg0NC5qcGVn.jpeg"
+    - "https://i.discogs.com/BJatqb4vjx2AMaE9-aiMpjmeN84MDv1EDATdDfnyhEE/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NTMx/NDU1LTE2NjUzNDY1/MTAtODMzOC5qcGVn.jpeg"
+    - "https://i.discogs.com/tS9EruZWqHMe1hz87VanLtl8_SVgCjOY7NJVl0WiQx4/rs:fit/g:sm/q:90/h:600/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NTMx/NDU1LTE2NjUzNDY1/MTEtODA2Mi5qcGVn.jpeg"
     - "https://i.discogs.com/m6ItpLwnn_RHqhV4gXd9gQlkSFHLSwkyNh9Q8SPBsP0/rs:fit/g:sm/q:90/h:591/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NTMx/NDU1LTE2NjUzNDY1/MTItNzQ3Mi5qcGVn.jpeg"
     - "https://i.discogs.com/kLr9eOgIxNvXlzT10XzFXD23OEW_ZpsDM_-qRpBleFM/rs:fit/g:sm/q:90/h:591/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NTMx/NDU1LTE2NjUzNDY1/MTItOTU1MS5qcGVn.jpeg"
-    - "https://i.discogs.com/UZdm-zZsZrWlLCtupsufVRI5uCh-nB7Uam8N7cGO4f8/rs:fit/g:sm/q:90/h:603/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NTMx/NDU1LTE2NjMzMzI4/MzItMjkxNS5qcGVn.jpeg"
-    - "https://i.discogs.com/wY-x5p-T_9HyuvHQNztSxLmRaKA4fg98stgDYtixS9U/rs:fit/g:sm/q:90/h:601/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NTMx/NDU1LTE2NjMzMzI4/NDItNjg0Mi5qcGVn.jpeg"
-    - "https://i.discogs.com/Ms4ysgiTtWo4aSZ6SaIhi0NkTizCNBaqI0dVBV9JveA/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NTMx/NDU1LTE2NjUzNDY1/MTQtNTQ3MC5qcGVn.jpeg"
+    - "https://i.discogs.com/rZgZbZZfYgK92-FR6-fA5UGtQtXZxVyHd-zzifbUYMY/rs:fit/g:sm/q:90/h:600/w:596/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NTMx/NDU1LTE2NjMzMzI4/MzItMjkxNS5qcGVn.jpeg"
+    - "https://i.discogs.com/TAlsjTv6oUrRbYLTkJRC0PMH2j3PCsLVZS8umD63JwY/rs:fit/g:sm/q:90/h:600/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NTMx/NDU1LTE2NjMzMzI4/NDItNjg0Mi5qcGVn.jpeg"
+    - "https://i.discogs.com/vanHxHoca5U4ixNm2GhFQTHCY8qFFw3z6Dv7ZESIW4E/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NTMx/NDU1LTE2NjUzNDY1/MTQtNTQ3MC5qcGVn.jpeg"
     - "https://i.discogs.com/QcEti231oHWSvu38k83Kdt__tzWEe0EXT5LG3nr5Zqk/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NTMx/NDU1LTE2NjM0MTc5/NTQtNjI3OS5qcGVn.jpeg"
 genres: ["Rock"]
 styles: ["Alternative Rock", "Indie Rock"]
 ---
 
 Autofiction is the ninth studio album by English alternative rock band Suede. The album was released on 16 September 2022 via BMG to critical acclaim. It was their first release in four years, following 2018's The Blue Hour and their first since Night Thoughts in 2016 to feature longtime producer Ed Buller. The album was created as a stylistic distinction from their previous reunion work, which had taken on a more orchestral and cinematic scope.
+
+
     
     
 
@@ -46,21 +48,16 @@ Autofiction is the ninth studio album by English alternative rock band Suede. Th
 11. Turn Off Your Brain And Yell (5:54)
 
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/autofiction/1623156405" >}}<br>
+{{< applemusic url="https://music.apple.com/gb/album/autofiction/1622187194" >}}<br>
 
 
 ## Videos
-### 🔴Suede – Complete A Side [ Autofiction Special Edition, Grey LP ]🔴
-{{< youtube id="vFzylluzzws" title="🔴Suede – Complete A Side [ Autofiction Special Edition, Grey LP ]🔴" >}}<br>
+### Suede - The Only Way I Can Love You (Official Audio)
+{{< youtube id="T8ZvxPQX3Z0" title="Suede - The Only Way I Can Love You (Official Audio)" >}}<br>
 ### More Videos
 
 - [Suede - She Still Leads Me (Official Audio)](https://www.youtube.com/watch?v=KHJd1Z1G3M4)
-- [🔴Suede – Complete B Side [ Autofiction Special Edition, Grey LP ]🔴](https://www.youtube.com/watch?v=lZNnm4pnzJs)
-- [Suede - What am I Without You? (Official Audio)](https://www.youtube.com/watch?v=PZqygdrSKsQ)
-- [Suede - 15 Again (Official Audio)](https://www.youtube.com/watch?v=syVJxcYwcUE)
-- [Suede - The Only Way I Can Love You (Official Audio)](https://www.youtube.com/watch?v=T8ZvxPQX3Z0)
-- [Suede - Black Ice (Official Audio)](https://www.youtube.com/watch?v=HRLD56ZdmkY)
-- [Suede - Personality Disorder (Official Audio)](https://www.youtube.com/watch?v=b1819WD12IA)
+- [Suede Autofiction Expanded Edition Unboxing video](https://www.youtube.com/watch?v=lG1cliiJKfA)
 
 ## Release Images
 {{< imageGrid >}}

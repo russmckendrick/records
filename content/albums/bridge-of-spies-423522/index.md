@@ -12,17 +12,19 @@ cover:
     alt: "Bridge Of Spies by T'Pau"
     caption: "Bridge Of Spies by T'Pau"
 additional_images:
-    - "https://i.discogs.com/I7jYpjyqhUuYvMZ_UvPYciBO7AEut9w0EDnW5UoYNMo/rs:fit/g:sm/q:90/h:614/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQyMzUy/Mi0xMjM3MzI1NDkx/LmpwZWc.jpeg"
-    - "https://i.discogs.com/tk84RRpyqbMHhEMF8mWEoDzsdG-aGQuHydj0M1jNUVk/rs:fit/g:sm/q:90/h:612/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQyMzUy/Mi0xMjM3MzI1NTEx/LmpwZWc.jpeg"
+    - "https://i.discogs.com/0ujMlGvC-2Fl0XoBmgaQwrnUW40eESw0sBp58Cgn1LI/rs:fit/g:sm/q:90/h:600/w:586/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQyMzUy/Mi0xMjM3MzI1NDkx/LmpwZWc.jpeg"
+    - "https://i.discogs.com/v8T3xzT93hQpmeCnRTrd43-_atBFHlUt-Jg8osIlAGo/rs:fit/g:sm/q:90/h:600/w:588/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQyMzUy/Mi0xMjM3MzI1NTEx/LmpwZWc.jpeg"
     - "https://i.discogs.com/bO85OEZLbK66eFeWqaD4qA7QtblKtv52E_iRQxbiz0c/rs:fit/g:sm/q:90/h:588/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQyMzUy/Mi0xMjM3MzI1NTUz/LmpwZWc.jpeg"
-    - "https://i.discogs.com/wS1PJf-iOSqZJlghTp8jMwIHEdQRmOP-wsdhAGvFl6A/rs:fit/g:sm/q:90/h:606/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQyMzUy/Mi0xMjM3MzI1NTg1/LmpwZWc.jpeg"
+    - "https://i.discogs.com/CZocD2lpP4lUcmVio6qG8ZXxGSWrsOr1TuA5oYVfN8U/rs:fit/g:sm/q:90/h:600/w:594/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQyMzUy/Mi0xMjM3MzI1NTg1/LmpwZWc.jpeg"
     - "https://i.discogs.com/IF_4IDC5xQlv7Yuou3UFcWeAUidS2Sa02gmya8WLFPc/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQyMzUy/Mi0xMjM3MzI1NjM5/LmpwZWc.jpeg"
     - "https://i.discogs.com/cEt1ce01mFE6Yi-bVOkOWHfUuZj_QtVq1P9_xwGENDY/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQyMzUy/Mi0xMjM3MzI1NjYy/LmpwZWc.jpeg"
 genres: ["Rock"]
 styles: ["Pop Rock"]
 ---
 
-Bridge of Spies is the debut album by British pop group T'Pau, released in September 1987. For its US release, Virgin Records renamed Bridge of Spies to simply T'Pau.
+Bridge of Spies is the debut studio album by English pop group T'Pau, released on 14 September 1987 by Siren Records. In the United States and Canada, Virgin Records released the album under the title T'Pau.
+
+
     
     
 
@@ -45,21 +47,23 @@ Bridge of Spies is the debut album by British pop group T'Pau, released in Septe
 
 
 ## Videos
-### T'Pau - Heart And Soul (Official Video)
-{{< youtube id="SwrYMWoqg5w" title="T'Pau - Heart And Soul (Official Video)" >}}<br>
+### T'Pau - Heart And Soul
+{{< youtube id="SwrYMWoqg5w" title="T'Pau - Heart And Soul" >}}<br>
 ### More Videos
 
+- [T'Pau - China In Your Hand (Official Video)](https://www.youtube.com/watch?v=T4sV3lqzKqQ)
 - [T'Pau - Valentine](https://www.youtube.com/watch?v=s047ZgjysX8)
-- [China in your hand - T'pau](https://www.youtube.com/watch?v=wfvJS4UO7xI)
+- [T'Pau - Sex Talk](https://www.youtube.com/watch?v=8FNiOmSyv3k)
 - [T'Pau - Bridge Of Spies](https://www.youtube.com/watch?v=06e3N7VBVZM)
-- [T'pau - Bridge Of Spies](https://www.youtube.com/watch?v=5EARm7TkZj8)
-- [T'Pau: Bridge Of Spies (UK, 1988)](https://www.youtube.com/watch?v=1HuYW2l4n9Q)
-- [T'pau - Bridge Of Spies (Single Version)](https://www.youtube.com/watch?v=6xoOHfhUTuI)
-- [T'Pau - Bridge Of Spies (US Version)](https://www.youtube.com/watch?v=j4dpC6owCME)
-- [T'pau - Bridge Of Spies (Live QEF 3 of 7)](https://www.youtube.com/watch?v=7zRQUnmDQQ8)
-- [T'Pau - Bridge Of Spies Live 2013 Tour Bishops Stortford](https://www.youtube.com/watch?v=017sZD6JZT8)
-- [T'pau Bridge Of Spies](https://www.youtube.com/watch?v=bruw9QIq6rQ)
-- [T'Pau 10 Bridge Of Spies](https://www.youtube.com/watch?v=6bv9-W0E_Pc)
+- [T'Pau - I Will Be With You](https://www.youtube.com/watch?v=W4r4STREKhg)
+- [I Will Be With You](https://www.youtube.com/watch?v=IdoOS59BseI)
+- [China In Your Hand](https://www.youtube.com/watch?v=RrJwccZBl-w)
+- [Friends Like These](https://www.youtube.com/watch?v=y3bSkX4DbWY)
+- [Monkey House](https://www.youtube.com/watch?v=QHzk_iQYV70)
+- [Valentine](https://www.youtube.com/watch?v=M8VGy8CStLk)
+- [Thank You For Goodbye](https://www.youtube.com/watch?v=6QTQ94GxriA)
+- [You Give Up](https://www.youtube.com/watch?v=PyrRTwqk46g)
+- [China In Your Hand (Reprise)](https://www.youtube.com/watch?v=2lSNvSDAzHw)
 
 ## Release Images
 {{< imageGrid >}}

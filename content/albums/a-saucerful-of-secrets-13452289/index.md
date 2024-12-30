@@ -22,7 +22,7 @@ genres: ["Rock"]
 styles: ["Space Rock", "Psychedelic Rock"]
 ---
 
-A Saucerful of Secrets is the second studio album by the English rock band Pink Floyd, released on 28 June 1968 by EMI Columbia in the UK and on 27 July 1968 in the US by Tower Records. During recording, the mental health of singer and guitarist Syd Barrett deteriorated, so David Gilmour was recruited; Barrett left the band before the album's completion.
+A Saucerful of Secrets is the second studio album by the English rock band Pink Floyd, released on 28 June 1968 by EMI Columbia in the UK and in the US by Tower Records. The mental health of the singer and guitarist Syd Barrett deteriorated during recording, so David Gilmour was recruited; Barrett left the band before the album's completion.
 Whereas Barrett had been the primary songwriter on Pink Floyd's debut album, The Piper at the Gates of Dawn (1967), on A Saucerful of Secrets each member contributed songwriting and lead vocals. Gilmour appeared on all but two songs, while Barrett contributed to three. "Set the Controls for the Heart of the Sun" is the only song on which all five members appear.
 A Saucerful of Secrets reached number nine in the UK charts, but did not chart in the US until April 2019, peaking at number 158. It received mostly positive reviews, though many critics have deemed it inferior to The Piper at the Gates of Dawn.
 
@@ -46,11 +46,15 @@ A Saucerful of Secrets reached number nine in the UK charts, but did not chart i
 
 
 ## Videos
-### Pink Floyd - A Saucerful Of Secrets (Full Album)
-{{< youtube id="rmmuHnXLJiw" title="Pink Floyd - A Saucerful Of Secrets (Full Album)" >}}<br>
+### Pink Floyd - Corporal Clegg (Official Audio)
+{{< youtube id="wIj9NaanYpE" title="Pink Floyd - Corporal Clegg (Official Audio)" >}}<br>
 ### More Videos
 
-- [Pink Floyd  - A Saucerful Of Secrets (Official Audio)](https://www.youtube.com/watch?v=F2r_6FfdQ2I)
+- [Pink Floyd - See-Saw (Official Audio)](https://www.youtube.com/watch?v=0JIP-4L7osA)
+- [Pink Floyd - Jugband Blues (Official Audio)](https://www.youtube.com/watch?v=OIU1TNSEgCQ)
+- [Pink Floyd - Let There Be More Light (Official Audio)](https://www.youtube.com/watch?v=lE-cts4_3iU)
+- [Pink Floyd - Set The Controls For The Heart Of The Sun (Official Audio)](https://www.youtube.com/watch?v=JcfgJrHo9XA)
+- [Pink Floyd - Remember a Day (Mono Vinyl)](https://www.youtube.com/watch?v=k74_50B1664)
 
 ## Release Images
 {{< imageGrid >}}

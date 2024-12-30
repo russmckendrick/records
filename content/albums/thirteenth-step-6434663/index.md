@@ -25,7 +25,9 @@ genres: ["Rock"]
 styles: ["Alternative Rock", "Prog Rock"]
 ---
 
-Thirteenth Step is the second studio album by American rock band A Perfect Circle, released on September 16, 2003. The album sold well, charting at the number 2 position on the Billboard 200 in its premiere week, selling over 231,000 copies and staying on the charts for 78 weeks. The album went on to be certified as gold on November 4, 2003 and as platinum on March 24, 2006 by the RIAA. Three singles were released from the album, "Weak and Powerless", which topped both the Mainstream Rock Tracks and Modern Rock Tracks,  followed by "The Outsider" and "Blue", which also charted on the respective charts.
+Thirteenth Step is the second studio album by American rock band A Perfect Circle, released on September 16, 2003. The album sold well, charting at the number 2 position on the Billboard 200 in its premiere week, selling over 231,000 copies and staying on the charts for 78 weeks. The album went on to be certified as gold on November 4, 2003, and as platinum on March 24, 2006, by the RIAA. Three singles were released from the album, "Weak and Powerless", which topped both the Mainstream Rock Tracks and Modern Rock Tracks,  followed by "The Outsider" and "Blue", which also charted on the respective charts.
+
+
     
     
 
@@ -49,14 +51,13 @@ Thirteenth Step is the second studio album by American rock band A Perfect Circl
 
 
 ## Videos
-### The Package
-{{< youtube id="m2Yhn6-jJPE" title="The Package" >}}<br>
+### A̲ P̲e̲r̲fect C̲i̲rcle -  Thirteenth Step (Full Album)
+{{< youtube id="b9jQ0FUQ9b8" title="A̲ P̲e̲r̲fect C̲i̲rcle -  Thirteenth Step (Full Album)" >}}<br>
 ### More Videos
 
-- [A Perfect Circle - Weak and Powerless](https://www.youtube.com/watch?v=s-GsLh6dazI)
-- [Blue](https://www.youtube.com/watch?v=6sU_Ra-u5J0)
+- [The Package](https://www.youtube.com/watch?v=m2Yhn6-jJPE)
 - [A Perfect Circle - Outsider (Director's Cut)](https://www.youtube.com/watch?v=KO3l733WRN0)
-- [07. The Outsider - A Perfect Circle](https://www.youtube.com/watch?v=nzyNWyZhUS0)
+- [A Stranger](https://www.youtube.com/watch?v=Qypuo3T4aHQ)
 
 ## Release Images
 {{< imageGrid >}}

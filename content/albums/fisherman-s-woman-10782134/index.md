@@ -15,13 +15,18 @@ additional_images:
     - "https://i.discogs.com/BDobfbxTwOIziFvurrl7ifPJOoGQRVDi0VnjCi4S5r4/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNzgy/MTM0LTE1NDc5OTQ5/ODQtNzA1My5qcGVn.jpeg"
     - "https://i.discogs.com/YtM2S8XNWvQRQIl7J15Kvu6VAllvv4d1hO6UlDeVch0/rs:fit/g:sm/q:90/h:293/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNzgy/MTM0LTE1NDc5ODk0/NzMtMzk1NC5qcGVn.jpeg"
     - "https://i.discogs.com/YrAAera5Fu8s6Xk_mydEtwsVd_w9sFSvxWYarM5lO1Y/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNzgy/MTM0LTE1NDc5ODk0/NzMtNzYxNi5qcGVn.jpeg"
-    - "https://i.discogs.com/4UWUrYRxGnYpGa3T342jHKgrawfpnT4KNxJeLNQ0ePc/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNzgy/MTM0LTE1NDc5ODk0/NzMtMTYyNC5qcGVn.jpeg"
+    - "https://i.discogs.com/j6raPBmeFB1PhEql0T-zzsZ7wmKsNjQs2H9t7-NWIT8/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNzgy/MTM0LTE1NDc5ODk0/NzMtMTYyNC5qcGVn.jpeg"
     - "https://i.discogs.com/bSLZ6fNV-xzBPKHNFG373O5nrtOcW5qfV9t4kC6ANC4/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNzgy/MTM0LTE1NDc5ODk0/NzMtMTgyMS5qcGVn.jpeg"
     - "https://i.discogs.com/DSwXAwgYhcbB0z5yM-jyvxV4nTS317vY8paYeRscONM/rs:fit/g:sm/q:90/h:392/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNzgy/MTM0LTE2NzE4MDY5/NzAtMTUyMS5qcGVn.jpeg"
 genres: ["Rock"]
 styles: ["Folk Rock", "Acoustic"]
 ---
 
+Fisherman's Woman is an album by Emilíana Torrini, released on 31 January 2005 in the UK and 26 April 2005 in the United States. The songs "Lifesaver", "Sunnyroad" (UK #82) and "Heartstopper" (UK #126) were released as singles.
+
+
+    
+    
 
 
 ## Tracklisting
@@ -43,30 +48,38 @@ styles: ["Folk Rock", "Acoustic"]
 
 
 ## Videos
-### Emiliana Torrini - Nothing Brings Me Down
-{{< youtube id="RRVlUGztsNM" title="Emiliana Torrini - Nothing Brings Me Down" >}}<br>
+### Emilíana Torrini - Sunny Road - Music Video
+{{< youtube id="i97b6brnWCc" title="Emilíana Torrini - Sunny Road - Music Video" >}}<br>
 ### More Videos
 
-- [Emiliana Torrini - Nothing Brings Me Down HD](https://www.youtube.com/watch?v=l7mXLajOYpc)
-- [Emilíana Torrini - Sunny Road - Music Video](https://www.youtube.com/watch?v=i97b6brnWCc)
-- [Emiliana Torrini - Snow](https://www.youtube.com/watch?v=alEa2i6KLws)
-- [Emiliana Torrini - Snow](https://www.youtube.com/watch?v=Autj6yLSJjw)
-- [Emiliana Torrini - Lifesaver](https://www.youtube.com/watch?v=A2R0Rwqqlzk)
-- [Emiliana Torrini-Lifesaver (FAMU)](https://www.youtube.com/watch?v=K_ebeNtn_0c)
 - [Emiliana Torrini - Honeymoon Child](https://www.youtube.com/watch?v=1sMKw_8Spwo)
-- [Emiliana Torrini - Today Has Been OK](https://www.youtube.com/watch?v=-k0Uxn-TU_0)
-- [Emiliana Torrini - Fisherman's Woman - Today Has Been Ok](https://www.youtube.com/watch?v=CQ0-abF1StE)
+- [Emiliana Torrini - Nothing Brings Me Down HD](https://www.youtube.com/watch?v=l7mXLajOYpc)
 - [Emiliana Torrini - Next Time Around](https://www.youtube.com/watch?v=WMburqgnork)
-- [Emiliana Torrini - Heartstopper](https://www.youtube.com/watch?v=Bt_Mdm-Ew94)
+- [Emiliana Torrini - Snow](https://www.youtube.com/watch?v=Autj6yLSJjw)
+- [Emiliana Torrini-Lifesaver (FAMU)](https://www.youtube.com/watch?v=K_ebeNtn_0c)
+- [Emiliana Torrini - Fisherman's Woman - Today Has Been Ok](https://www.youtube.com/watch?v=CQ0-abF1StE)
 - [Emiliana Torrini - Heartstopper - HD](https://www.youtube.com/watch?v=CDX_u8ggEvA)
-- [Emiliana Torrini - At Least It Was](https://www.youtube.com/watch?v=VdtQZ2YWZ0s)
 - [Emiliana Torrini - At Least It Was](https://www.youtube.com/watch?v=MT-EMAXFhhA)
-- [Emiliana Torrini - Fisherman's Woman](https://www.youtube.com/watch?v=eiwkCPlTYS0)
 - [Emiliana Torrini - Fisherman's Woman](https://www.youtube.com/watch?v=c2Fy9eQNxno)
-- [Emiliana Torrini - Thinking Out Loud](https://www.youtube.com/watch?v=jwG4mM6R9As)
 - [Emiliana Torrini - Thinking out loud](https://www.youtube.com/watch?v=47QZhX2ACLo)
+- [Fisherman's Woman](https://www.youtube.com/watch?v=vB3tqHFLA2I)
+- [Honeymoon Child](https://www.youtube.com/watch?v=KjJLsn3N_6E)
+- [Emiliana Torrini - Lifesaver](https://www.youtube.com/watch?v=A2R0Rwqqlzk)
+- [Emiliana Torrini - Heartstopper](https://www.youtube.com/watch?v=Bt_Mdm-Ew94)
+- [Emiliana Torrini - Thinking Out Loud](https://www.youtube.com/watch?v=jwG4mM6R9As)
 - [Emiliana Torrini - Serenade](https://www.youtube.com/watch?v=hoLBtOOuM34)
-- [Emiliana Torrini-Serenade lyrics](https://www.youtube.com/watch?v=giMPPilet8Y)
+- [Emilíana Torrini - Sunny Road - Music Video](https://www.youtube.com/watch?v=i97b6brnWCc)
+- [Emilíana Torrini - Sunny Road - Music Video](https://www.youtube.com/watch?v=i97b6brnWCc)
+- [Emiliana Torrini - Honeymoon Child](https://www.youtube.com/watch?v=1sMKw_8Spwo)
+- [Emiliana Torrini - Nothing Brings Me Down HD](https://www.youtube.com/watch?v=l7mXLajOYpc)
+- [Emiliana Torrini - Next Time Around](https://www.youtube.com/watch?v=WMburqgnork)
+- [Emiliana Torrini - Snow](https://www.youtube.com/watch?v=Autj6yLSJjw)
+- [Emiliana Torrini-Lifesaver (FAMU)](https://www.youtube.com/watch?v=K_ebeNtn_0c)
+- [Emiliana Torrini - Fisherman's Woman - Today Has Been Ok](https://www.youtube.com/watch?v=CQ0-abF1StE)
+- [Emiliana Torrini - Heartstopper - HD](https://www.youtube.com/watch?v=CDX_u8ggEvA)
+- [Emiliana Torrini - At Least It Was](https://www.youtube.com/watch?v=MT-EMAXFhhA)
+- [Emiliana Torrini - Fisherman's Woman](https://www.youtube.com/watch?v=c2Fy9eQNxno)
+- [Emiliana Torrini - Thinking out loud](https://www.youtube.com/watch?v=47QZhX2ACLo)
 
 ## Release Images
 {{< imageGrid >}}
@@ -74,6 +87,7 @@ styles: ["Folk Rock", "Acoustic"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
+| Wikipedia URL | https://en.wikipedia.org/wiki/Fisherman%27s_Woman |
 | Format         | Vinyl LP Album Reissue |
 | Label          | Rough Trade |
 | Catalog Number | RTRADLP185 |

@@ -12,14 +12,14 @@ cover:
     alt: "Pacific Ocean Blue by Dennis Wilson"
     caption: "Pacific Ocean Blue by Dennis Wilson"
 additional_images:
-    - "https://i.discogs.com/LhBsJP3eaQ0RXxLhFCvcE0nTAmqF8rr9uIF8rEWo0FI/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1MTM1/NDAtMTY0NjUyMDUz/NC02NzM0LmpwZWc.jpeg"
-    - "https://i.discogs.com/6R0RgUkvaOQOGlmIbr-fAxgNRb0hwgg_D4wOW_VVTnM/rs:fit/g:sm/q:90/h:603/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1MTM1/NDAtMTY0NjUyMDUz/Ni0yMjU0LmpwZWc.jpeg"
-    - "https://i.discogs.com/TzDfqLl3hMRl3xbnLKe5IDoRAaNJZYsAZ4Y_xn9v-2E/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1MTM1/NDAtMTY0NjUyMDUz/NS0zNDA2LmpwZWc.jpeg"
+    - "https://i.discogs.com/SXBirSHcUOfHjhslrjk32lSs_Re1VuQNPlmsG1wI4k0/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1MTM1/NDAtMTY0NjUyMDUz/NC02NzM0LmpwZWc.jpeg"
+    - "https://i.discogs.com/qkhBuDVkl-ccnSw-aILZTiM03ElwCiJAGlnL6DEG9Ow/rs:fit/g:sm/q:90/h:600/w:596/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1MTM1/NDAtMTY0NjUyMDUz/Ni0yMjU0LmpwZWc.jpeg"
+    - "https://i.discogs.com/Msie-XErIFNuW-ZjdtTQuKWMJFDe53t32waantgSBsQ/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1MTM1/NDAtMTY0NjUyMDUz/NS0zNDA2LmpwZWc.jpeg"
     - "https://i.discogs.com/wgYVYzB3TL3k39UxvBmuOKMl0XP9uTAKipTDRiVl9Ag/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1MTM1/NDAtMTY0NjUyMDUz/NS03MTEzLmpwZWc.jpeg"
     - "https://i.discogs.com/o8ivOKNDq1WfFb7QiXzYFrRqtMpMTTCoNUB9Hpw511Q/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1MTM1/NDAtMTY0NjUyMDUz/NC0xNjI4LmpwZWc.jpeg"
     - "https://i.discogs.com/zDAo5BWZ7mgsvb2rKyYXjFb__TTY1V7ejTzFu8gF2no/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1MTM1/NDAtMTY0NjUyMDUz/NC00OTQzLmpwZWc.jpeg"
-    - "https://i.discogs.com/FXnarQBeyqoYbiMNCscfoFlISN3FSgpy89eCltoUotk/rs:fit/g:sm/q:90/h:605/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1MTM1/NDAtMTY0NjUyMDUz/NC0yOTc3LmpwZWc.jpeg"
-    - "https://i.discogs.com/3cHhTmOy0La4ydvwEHcdMpacCLAXkS4iOEWAoDapRQs/rs:fit/g:sm/q:90/h:606/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1MTM1/NDAtMTY0NjUyMDUz/NS02ODcwLmpwZWc.jpeg"
+    - "https://i.discogs.com/9mQhT4fYrinsIyxxt0iR4JJRGjSCiNgEgppe34Om0ZI/rs:fit/g:sm/q:90/h:600/w:594/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1MTM1/NDAtMTY0NjUyMDUz/NC0yOTc3LmpwZWc.jpeg"
+    - "https://i.discogs.com/fBDVaAs8IQcLwTOUu2mKogSN1hb2o74FfYb9-8qYgZs/rs:fit/g:sm/q:90/h:600/w:593/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1MTM1/NDAtMTY0NjUyMDUz/NS02ODcwLmpwZWc.jpeg"
     - "https://i.discogs.com/KF5Py4C_QWq712XjRPuUE021YojbDE0Zo8NsNk_YHlY/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1MTM1/NDAtMTY0NjUyMDUz/NS0yOTQyLmpwZWc.jpeg"
 genres: ["Rock", "Pop"]
 styles: ["Pop Rock"]
@@ -46,24 +46,28 @@ The album remains a focal point of Wilson's legacy, being referred to as a "clas
 12. End Of The Show (2:56)
 
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/pacific-ocean-blue-bambu-deluxe-legacy-edition/457508820" >}}<br>
+{{< applemusic url="https://music.apple.com/gb/album/dennis-wilson-single/1573020493" >}}<br>
 
 
 ## Videos
-### Only with You
-{{< youtube id="1Q-oVAhZ3GQ" title="Only with You" >}}<br>
+### What's Wrong
+{{< youtube id="tTb4nEDtvcs" title="What's Wrong" >}}<br>
 ### More Videos
 
-- [Pacific Ocean Blues](https://www.youtube.com/watch?v=VSxPcYS1UDo)
-- [What's Wrong](https://www.youtube.com/watch?v=tTb4nEDtvcs)
-- [Dennis Wilson - River Song](https://www.youtube.com/watch?v=LHCzTLnFpLE)
-- [Tug of Love](https://www.youtube.com/watch?v=aaqgKEUwaiM)
-- [River Song](https://www.youtube.com/watch?v=YiZoSHVQXmk)
 - [Moonshine](https://www.youtube.com/watch?v=ydAI4tIG-q4)
-- [Dennis Wilson - Pacific Ocean Blues](https://www.youtube.com/watch?v=er1LsKPXLj8)
-- [Holy Man (Taylor Hawkins Version)](https://www.youtube.com/watch?v=T-0EGjHwSKE)
+- [Pacific Ocean Blues](https://www.youtube.com/watch?v=VSxPcYS1UDo)
+- [River Song](https://www.youtube.com/watch?v=YiZoSHVQXmk)
 - [Dreamer](https://www.youtube.com/watch?v=GPr5ZZdFdFk)
+- [Dennis Wilson - River Song](https://www.youtube.com/watch?v=LHCzTLnFpLE)
+- [Dennis Wilson - Pacific Ocean Blues](https://www.youtube.com/watch?v=er1LsKPXLj8)
+- [You and I](https://www.youtube.com/watch?v=2BgCvyCyqXg)
+- [Dennis Wilson -  Pacific Ocean Blue (1977) Full Album](https://www.youtube.com/watch?v=iB6REIZ5GbM)
+- [Only with You](https://www.youtube.com/watch?v=1Q-oVAhZ3GQ)
+- [Tug of Love](https://www.youtube.com/watch?v=aaqgKEUwaiM)
+- [Holy Man (Taylor Hawkins Version)](https://www.youtube.com/watch?v=T-0EGjHwSKE)
 - [Holy Man   DENNIS WILSON](https://www.youtube.com/watch?v=MwOlKKsfpSc)
+- [What's Wrong](https://www.youtube.com/watch?v=tTb4nEDtvcs)
+- [Moonshine](https://www.youtube.com/watch?v=ydAI4tIG-q4)
 
 ## Release Images
 {{< imageGrid >}}
@@ -76,4 +80,4 @@ The album remains a focal point of Wilson's legacy, being referred to as a "clas
 | Label          | Music On Vinyl |
 | Catalog Number | MOVLP096 |
 | Notes | Issued in gatefold jacket, with printed inner sleeve with lyrics and credits.  Hype sticker affixed to outer bag: Music On Vinyl exclusively remastered 180 gram audiophile vinyl pressing  Recorded At: Brother Studios, Santa Monica, Calif. Mastered At: L.R.S. In Burbank, Calif.  Originally released ℗ & © 1977 Sony Music Entertainment. This release: ℗ & © 2010, Sony Music Entertainment. Manufactured & distributed by Music On Vinyl B.V. for Sony Music Entertainment. Made in the EU.  All songs published by Dennis Wilson Music ©1977 Dennis Wilson Music  Runouts are etched. |
-| Discogs URL    | [Dennis Wilson - Pacific Ocean Blue](https://www.discogs.com/release/2513540-Dennis-Wilson-Pacific-Ocean-Blue) |
+| Discogs URL    | [Dennis Wilson - Pacific Ocean Blue](https://www.discogs.com/release/2513540-Dennis-Wilson-2-Pacific-Ocean-Blue) |

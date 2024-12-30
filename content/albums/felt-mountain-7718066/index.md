@@ -24,7 +24,10 @@ genres: ["Electronic", "Pop"]
 styles: ["Leftfield", "Downtempo", "Ethereal"]
 ---
 
-Felt Mountain is the debut studio album by English electronic music duo Goldfrapp. It was released on 11 September 2000 by Mute Records. The album takes influence from a variety of music styles such as 1960s pop, cabaret, folk and electronica.Felt Mountain was generally well received by music critics, and was described as "simultaneously smarmy and seductive, yet elegant and graceful". It peaked at number 57 on the UK Albums Chart, and was certified gold by the British Phonographic Industry (BPI) in October 2001. In 2001, the album was shortlisted for the Mercury Prize, an annual music prize awarded for the best British or Irish album from the previous year.
+Felt Mountain is the debut studio album by English electronic music duo Goldfrapp. It was released on 11 September 2000 by Mute Records. The album takes influence from a variety of music styles such as 1960s pop, cabaret, folk and electronica.
+Felt Mountain was generally well received by music critics, and was described as "simultaneously smarmy and seductive, yet elegant and graceful". It peaked at number 57 on the UK Albums Chart, and was certified gold by the British Phonographic Industry (BPI) in October 2001. In 2001, the album was shortlisted for the Mercury Prize, an annual music prize awarded for the best British or Irish album from the previous year.
+
+
     
     
 
@@ -41,21 +44,23 @@ Felt Mountain is the debut studio album by English electronic music duo Goldfrap
 9. Horse Tears
 
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/felt-mountain/1143696168" >}}<br>
+{{< applemusic url="https://music.apple.com/gb/album/felt-mountain/1435646598" >}}<br>
 
 
 ## Videos
-### Paper Bag
-{{< youtube id="jw3Z-kUMC7g" title="Paper Bag" >}}<br>
+### Human
+{{< youtube id="HoYwBI1g7tk" title="Human" >}}<br>
 ### More Videos
 
-- [Human](https://www.youtube.com/watch?v=HoYwBI1g7tk)
 - [Pilots](https://www.youtube.com/watch?v=eqwrV-qzpq8)
 - [Deer Stop](https://www.youtube.com/watch?v=7ZoevxcGo9E)
 - [Felt Mountain](https://www.youtube.com/watch?v=cTAycSBW08s)
 - [Oompah Radar](https://www.youtube.com/watch?v=A8nL51nIy6U)
 - [Goldfrapp - Utopia](https://www.youtube.com/watch?v=QUB7e3BtnvU)
 - [Horse Tears](https://www.youtube.com/watch?v=92qlKcNo3XA)
+- [Goldfrapp - Felt Mountain (Full Album)](https://www.youtube.com/watch?v=iKAsuvwDP_Q)
+- [Goldfrapp - Human (Official Audio)](https://www.youtube.com/watch?v=1gliD9lRZcs)
+- [Goldfrapp - Paper Bag (Official Audio)](https://www.youtube.com/watch?v=elt1P_Z0z-A)
 
 ## Release Images
 {{< imageGrid >}}

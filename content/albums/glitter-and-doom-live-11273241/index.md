@@ -12,9 +12,9 @@ cover:
     alt: "Glitter And Doom Live by Tom Waits"
     caption: "Glitter And Doom Live by Tom Waits"
 additional_images:
-    - "https://i.discogs.com/IM4tmXlI6yrKgl4zbbgc3wXkGdtcKGUhJb2ShrRcF6c/rs:fit/g:sm/q:90/h:605/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMjcz/MjQxLTE2NDc4NTUy/MTMtNzg3Mi5qcGVn.jpeg"
+    - "https://i.discogs.com/pnbHT-9-7qGLVx4umszFfszcLW9KNur8wgIRWFFPqZY/rs:fit/g:sm/q:90/h:600/w:594/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMjcz/MjQxLTE2NDc4NTUy/MTMtNzg3Mi5qcGVn.jpeg"
     - "https://i.discogs.com/MO1Kj6qPpStmuH9ukB3WvsBM2bgGH1qCHj67M2MDecc/rs:fit/g:sm/q:90/h:500/w:514/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMjcz/MjQxLTE2NDE2ODY5/MjgtNjE5Ny5qcGVn.jpeg"
-    - "https://i.discogs.com/R3roBtQ5396O_gHlVwbr3QA0vFA_Dw6k-Cpb9Wn9zS4/rs:fit/g:sm/q:90/h:608/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMjcz/MjQxLTE2NDc4NTUy/MTEtNzMxMy5qcGVn.jpeg"
+    - "https://i.discogs.com/uPPiKpH_7uAKuub6NxTQBWvNhPHnTJannKpXglOEzcg/rs:fit/g:sm/q:90/h:600/w:591/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMjcz/MjQxLTE2NDc4NTUy/MTEtNzMxMy5qcGVn.jpeg"
     - "https://i.discogs.com/IKJPWuY0gIRGw_MIhJGBiz5kXbQBvFJtJodCQnP_sRI/rs:fit/g:sm/q:90/h:290/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMjcz/MjQxLTE2NDc4NTUy/MTMtMTM3Ni5qcGVn.jpeg"
     - "https://i.discogs.com/Sz7m-AElPSGk4S9wlqdN1PWrF9urB-hFkrtR-vyXQSk/rs:fit/g:sm/q:90/h:300/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMjcz/MjQxLTE2NDc4NTUy/MTMtMjM4OC5qcGVn.jpeg"
     - "https://i.discogs.com/KW6Z37bN6UDwE6mbZ1aHX7grFL4_D5mRqZSDtds61vc/rs:fit/g:sm/q:90/h:550/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMjcz/MjQxLTE2NDc4NTUy/MTQtODU0Mi5qcGVn.jpeg"
@@ -23,13 +23,13 @@ additional_images:
     - "https://i.discogs.com/134M4A5G3g96NyzDax4fejTLaguDLS0UUlPipSW4C20/rs:fit/g:sm/q:90/h:591/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMjcz/MjQxLTE2NDc4NTUy/MTItNDg4Ni5qcGVn.jpeg"
     - "https://i.discogs.com/fDvbFyqfY-jjPtzKobzZBYfZVDrYCIA05RqR_WDoKZo/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMjcz/MjQxLTE2NDc4NTUy/MTItNDAwMC5qcGVn.jpeg"
     - "https://i.discogs.com/NQaZSyH8Tw5luJ7Cn-mNSDDC7S2WHv7Yu6fQQwgHXyw/rs:fit/g:sm/q:90/h:586/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMjcz/MjQxLTE2NDc4NTUy/MTMtMzI4Ni5qcGVn.jpeg"
-    - "https://i.discogs.com/ID9sGxmI08znM3eHEzVBP8Y5aCcYaFTLqourzurrRx8/rs:fit/g:sm/q:90/h:606/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMjcz/MjQxLTE2NDc4NTUy/MTItNTcyNi5qcGVn.jpeg"
-    - "https://i.discogs.com/o6OpbjNgybm4605KGmpvXj5MdHM5peRCSeTFLeIf64o/rs:fit/g:sm/q:90/h:607/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMjcz/MjQxLTE2NDc4NTUy/MTItNDA3NC5qcGVn.jpeg"
+    - "https://i.discogs.com/GGrQDjTZfYg7s6keJoYc1XFBDb3tQjKQlY0041RR1GQ/rs:fit/g:sm/q:90/h:600/w:593/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMjcz/MjQxLTE2NDc4NTUy/MTItNTcyNi5qcGVn.jpeg"
+    - "https://i.discogs.com/R5Fkts4BFr7MFiyVGydrQ_l7qxbGZM4dJpAGRJOTFmk/rs:fit/g:sm/q:90/h:600/w:592/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMjcz/MjQxLTE2NDc4NTUy/MTItNDA3NC5qcGVn.jpeg"
     - "https://i.discogs.com/8S2tFBpxbjCGT5Quv3tNHxUt0R9drm7CW6F2OkbzXno/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMjcz/MjQxLTE2NDc4NTUy/MTEtOTg1My5qcGVn.jpeg"
     - "https://i.discogs.com/DtpbKOCIo23KnvEojTKdbyCoSm_6mK3DOYJypQCOa7Q/rs:fit/g:sm/q:90/h:578/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMjcz/MjQxLTE2NDc4NTUy/MTEtMzEzOS5qcGVn.jpeg"
     - "https://i.discogs.com/XinNEHgYSxUSNUsj-E2MXicVjP_MuEdle8QS6wtL1lM/rs:fit/g:sm/q:90/h:350/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMjcz/MjQxLTE2NDc4NTUy/MTMtNzE2NS5qcGVn.jpeg"
     - "https://i.discogs.com/DvMINfONECuX-b5xSAmTV4faKb2l2TWB9rLNygDMIEU/rs:fit/g:sm/q:90/h:137/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMjcz/MjQxLTE2NDc4NTUy/MDktMTM0NC5qcGVn.jpeg"
-    - "https://i.discogs.com/hZWxiOsYW_tvVTb1yjOQy0zcokvHTr7aSKALghe1_CM/rs:fit/g:sm/q:90/h:743/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMjcz/MjQxLTE2NDc4NTUy/MTItNTg3Ni5qcGVn.jpeg"
+    - "https://i.discogs.com/hwcwEWizbq0beVfldVsHhVqlfE8uVAhOMUr27qbNUiI/rs:fit/g:sm/q:90/h:600/w:483/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMjcz/MjQxLTE2NDc4NTUy/MTItNTg3Ni5qcGVn.jpeg"
 genres: ["Rock", "Non-Music"]
 styles: ["Blues Rock", "Avantgarde", "Spoken Word"]
 ---
@@ -67,9 +67,32 @@ Prior to release, ANTI- made the first eight tracks available for free download.
 
 
 ## Videos
-### Tom Waits - Tom Tales
-{{< youtube id="h8207Ah_yso" title="Tom Waits - Tom Tales" >}}<br>
+### Tom Waits - Glitter And Doom Live (2009)
+{{< youtube id="rqGNtfNEADQ" title="Tom Waits - Glitter And Doom Live (2009)" >}}<br>
+### More Videos
 
+- [Tom Waits - Glitter And Doom Live (2009)](https://www.youtube.com/watch?v=rqGNtfNEADQ)
+- [Tom Waits – Glitter and Doom Concert Experience (2008)](https://www.youtube.com/watch?v=ByMi1Yii9ek)
+- [Tom Waits - Glitter And Doom Concert Experience (2008)](https://www.youtube.com/watch?v=T1yQ1J7NpyM)
+- [Tom Waits - Glitter and Doom Live](https://www.youtube.com/watch?v=n34VIJOfdpM)
+- [Tom Waits Glitter and Doom Tour Opening - Lucinda - 2008 (Official Audio)](https://www.youtube.com/watch?v=jTp0HwrdOoA)
+- [Tom Waits - Glitter and Doom Live](https://www.youtube.com/watch?v=7TDSDRb-I6Y)
+- [Tom Waits - Glitter and Doom Live](https://www.youtube.com/watch?v=3l4X1S51l_o)
+- [Tom Waits - Goin' Out West [Live - Glitter and Doom] HQ!](https://www.youtube.com/watch?v=E4_N2F4o4cU)
+- [I'll Shoot The Moon - Tom Waits (Glitter and Doom live)](https://www.youtube.com/watch?v=zv9dmmUPvAw)
+- [tom waits (glitter and doom live)](https://www.youtube.com/watch?v=UR6CtkXNRtk)
+- [Tom Waits - Live Circus - Glitter and Doom.](https://www.youtube.com/watch?v=q6zAp0NvPSs)
+- [Glitter and Doom Full Concert - Tom Waits 2008 St Louis](https://www.youtube.com/watch?v=2iGovaFf9Pc)
+- [Glitter and Doom Tour 2008 Footage - Tom Waits Rare Promo Video](https://www.youtube.com/watch?v=-Llu7DFSMxM)
+- [Tom Waits - Singapore (Glitter and Doom Live)](https://www.youtube.com/watch?v=TRbqtoH3gjA)
+- [Tom Waits Live - Glitter And Doom Tour](https://www.youtube.com/watch?v=UUjsAUXpRXw)
+- [Tom Waits - Story - Glitter and Doom.](https://www.youtube.com/watch?v=QR1ss7IHH4Y)
+- [Tom Waits - Fannin Street - Glitter and Doom.](https://www.youtube.com/watch?v=6fBMyntZd4M)
+- [Tom Waits   Goin' Out West Live   Glitter and Doom HQ!](https://www.youtube.com/watch?v=jR-i9bo0FdQ)
+- ["Free The Glutens" Tom Waits interview 2015](https://www.youtube.com/watch?v=FbKMX2vFOaQ)
+- [Tom Waits - Dirt in the ground (Glitter and Doom live)](https://www.youtube.com/watch?v=vVRW2QgVNXo)
+- [Tom Waits - I'll Shoot The Moon - Glitter and Doom.](https://www.youtube.com/watch?v=0TS6vZycbnA)
+- [Tom Waits Full Concert in Florence - (GREAT SOUND) 07.24.99 Mule Variations Tour](https://www.youtube.com/watch?v=Bx6F35XlX5o)
 
 ## Release Images
 {{< imageGrid >}}
@@ -78,7 +101,7 @@ Prior to release, ANTI- made the first eight tracks available for free download.
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Glitter_and_Doom_Live |
-| Format         | Vinyl 2× LP Reissue Remastered |
+| Format         | Vinyl 2× LP Album Reissue Remastered (180 Gram) |
 | Label          | Anti- |
 | Catalog Number | 7053-3 |
 | Notes | Produced by Tom Waits & Kathleen Brennan (on back cover, top left corner). Stickers: "Newly Remastered with Waits/Brennan" and "DOWNLOAD CARD INCLUDED / 180 Gram". Gatefold sleeve  |

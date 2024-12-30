@@ -4,7 +4,7 @@ artist_name: "Stone Temple Pilots"
 artist: "stone-temple-pilots"
 album_name: "Purple"
 date: 2016-12-24T10:28:37.000000Z
-release_date: "1994-06-07"
+release_date: "2018-03-16"
 release_id: "4662898"
 slug: "purple-4662898"
 hideSummary: true
@@ -18,7 +18,7 @@ additional_images:
     - "https://i.discogs.com/CsvqYuTCWWHJOBSNydHZvgpuBdECCyHK1KQAGMchLDM/rs:fit/g:sm/q:90/h:363/w:486/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ2NjI4/OTgtMTM3NDg2MDMw/MS05MDM4LmpwZWc.jpeg"
     - "https://i.discogs.com/50yzOagdIVuJVMX3QhxhPft-my3DpAEw8RSxXCqcf2Y/rs:fit/g:sm/q:90/h:594/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ2NjI4/OTgtMTY1NTUyNzQ3/MC03NDk4LmpwZWc.jpeg"
     - "https://i.discogs.com/xrEPL1cRuIJjEqjMVsP4IKrwE56cB0QLAmzO6K3Fu9k/rs:fit/g:sm/q:90/h:363/w:486/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ2NjI4/OTgtMTM3NDg2MDI4/Ny00NjI2LmpwZWc.jpeg"
-    - "https://i.discogs.com/CLy56rirpE4-rSWIPKUMBfI-8H9uSpHuikxjmCHyLIc/rs:fit/g:sm/q:90/h:604/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ2NjI4/OTgtMTY1NTUyNzQ5/MS0yNzkxLmpwZWc.jpeg"
+    - "https://i.discogs.com/Aa-b_HUliUSbPv9t1YiQmTAYYzeDU2qHcFW6gLWeokE/rs:fit/g:sm/q:90/h:600/w:596/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ2NjI4/OTgtMTY1NTUyNzQ5/MS0yNzkxLmpwZWc.jpeg"
     - "https://i.discogs.com/nNwve2S6nJzM4pACw5vGo-eC3GJii6c8gRVEYg_rRWU/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ2NjI4/OTgtMTY1NTUyNzQ5/OC00MjE3LmpwZWc.jpeg"
     - "https://i.discogs.com/J6xMoJ78YGQDVnCP2MGfdapUj8OBgPy-Xu9Dbg7hSyo/rs:fit/g:sm/q:90/h:311/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ2NjI4/OTgtMTY1NTUyNzUw/Ni0yMDAwLmpwZWc.jpeg"
     - "https://i.discogs.com/gN0STf4_g9iVmp02FtzrbebeVWXmXosBubpyANvVbDc/rs:fit/g:sm/q:90/h:534/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ2NjI4/OTgtMTY1NTUyNzQx/Ni0zMzcyLmpwZWc.jpeg"
@@ -26,9 +26,9 @@ genres: ["Rock"]
 styles: ["Alternative Rock", "Grunge"]
 ---
 
-The year 1994 signaled grunge’s last grunt as the dominant sound of alterna-teen culture. While Soundgarden enjoyed their first No. 1 record with <i>Superunknown</i>, Pearl Jam were actively avoiding MTV to deflate their own hype and the Nirvana saga came to a tragic end. But where Stone Temple Pilots’ 1992 debut, <i>Core</i>, presented the San Diego upstarts as eager shotgun riders on the grunge wave, their 1994 follow-up savvily anticipated the changing cultural tides by looking beyond Seattle for inspiration.<br />
-<i>Purple</i> hardly skimps on the hard-rock swagger that made <i>Core</i> a multi-platinum smash—the frenzied “Unglued” and sludgy “Meatplow” pack the sort of pulverizing riffs that launched a million stage dives. But the album reveals surprising new dimensions to Stone Temple Pilots’ attack: On “Vasoline,” they hammer away at a fuzzy two-note refrain until it locks into a hypnotic psychedelic groove (the bongos certainly help), and while “Big Empty” revisits the skyscraping peaks of <i>Core</i>’s calling-card single, “Plush,” it takes its sweet time getting there atop some bluesy slide-guitar licks.<br />
-The most dramatic developments, however, are happening in Scott Weiland’s larynx. No longer the Vedder-like warbler of old, the singer invests the campfire-folk reprieve “Pretty Penny” with Beatles-esque bonhomie, and showcases a previously untapped sensitivity on “Interstate Love Song,” which sounds like a ‘70s soft-rock ballad dressed up in a flannel shirt and cut-off shorts. A resounding repudiation of the critics who initially dismissed them as alt-rock also-rans, <i>Purple</i> displays the first real flashes of the melodic ingenuity and glammy eccentricity that would ultimately distinguish Stone Temple Pilots from their mosh-pit peers.
+Purple (stylized on the cover art in its Chinese character 紫) is the second studio album by the American rock band Stone Temple Pilots, released on June 7, 1994, by Atlantic Records. The album, building on the foundation laid by the band's debut album Core (1992),  was a major commercial success, debuting at No. 1 on the Billboard 200 with 252,000 copies sold in its first week. It remained at the top of the chart for three weeks, eventually selling over six million copies. It spawned a number of successful singles; "Vasoline" and "Interstate Love Song" both topped the Mainstream Rock Tracks chart and reached number 2 on the Modern Rock Tracks chart, while "Big Empty" also reached the top ten on both charts.  Lesser known album cuts "Pretty Penny" and "Unglued" were released as promotional radio singles.
+
+
         
         
     
@@ -48,15 +48,25 @@ The most dramatic developments, however, are happening in Scott Weiland’s lary
 11. Kitchenware & Candybars (8:05)
 
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/purple/300976267" >}}<br>
+{{< applemusic url="https://music.apple.com/gb/album/stone-temple-pilots-2018/1340481443" >}}<br>
 
 
 ## Videos
-### Stone Temple Pilots - Vasoline (Official Music Video) [HD]
-{{< youtube id="ht672-wYelc" title="Stone Temple Pilots - Vasoline (Official Music Video) [HD]" >}}<br>
+### Stone Temple Pilots - Meat Plow
+{{< youtube id="fsdYCOJk7bw" title="Stone Temple Pilots - Meat Plow" >}}<br>
 ### More Videos
 
+- [Stone Temple Pilots - Vasoline (Official Music Video) [HD]](https://www.youtube.com/watch?v=ht672-wYelc)
+- [Stone Temple Pilots - Lounge Fly](https://www.youtube.com/watch?v=ddhpFjyuNWI)
 - [Stone Temple Pilots - Interstate Love Song (Official Music Video) [HD]](https://www.youtube.com/watch?v=yjJL9DGU7Gg)
+- [Stone Temple Pilots - Still Remains (Official Audio)](https://www.youtube.com/watch?v=WTasut-sR_8)
+- [Stone Temple Pilots - Pretty Penny](https://www.youtube.com/watch?v=UWj73gYZDUk)
+- [Stone Temple Pilots - Silver Gun Superman](https://www.youtube.com/watch?v=bmVZDopspPU)
+- [Stone Temple Pilots - Big Empty (The Crow. Soundtrack)](https://www.youtube.com/watch?v=0YoMUcvKcBQ)
+- [Stone Temple Pilots - Big Empty](https://www.youtube.com/watch?v=GqyposaQWnI)
+- [Stone Temple Pilots - Unglued](https://www.youtube.com/watch?v=t8BQq5gRM6Y)
+- [Stone Temple Pilots - Army Ants](https://www.youtube.com/watch?v=rDy4P0FXkmA)
+- [Stone Temple Pilots - Kitchen Ware & Candy Bars](https://www.youtube.com/watch?v=t_23iOhv09k)
 
 ## Release Images
 {{< imageGrid >}}

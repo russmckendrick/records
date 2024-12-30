@@ -14,7 +14,7 @@ cover:
 additional_images:
     - "https://i.discogs.com/h1AoDAvAd7OFnDpDhae3184_MVKUXQ5i5VDvBkXmvZw/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwNDUy/NzE0LTE3MTM2NDM4/NDAtOTMwMS5qcGVn.jpeg"
     - "https://i.discogs.com/vywKLJ9xaCzFiGhDHHkHln8uIxEVIhvA0rCGQn1GIZQ/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwNDUy/NzE0LTE3MTM2NDM4/NjEtNzA5NS5qcGVn.jpeg"
-    - "https://i.discogs.com/q4TztRd2ZwK8jB60dBAJor2FqgUNJ53XOQAhw7NlJYI/rs:fit/g:sm/q:90/h:608/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwNDUy/NzE0LTE3MTM2NDM4/NjYtNzkyNS5qcGVn.jpeg"
+    - "https://i.discogs.com/BiNbGYAegqh5o2v68vsGLJtjK5zAhlQWcpFQpw76EZQ/rs:fit/g:sm/q:90/h:600/w:591/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwNDUy/NzE0LTE3MTM2NDM4/NjYtNzkyNS5qcGVn.jpeg"
     - "https://i.discogs.com/N7SZd5xvRdzDq1sJURQ4przWq0Lfuk598UbY5RgIA9g/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwNDUy/NzE0LTE3MTM2NDM4/NzItMTc3Mi5qcGVn.jpeg"
     - "https://i.discogs.com/eeH3XFECh7QvSmpbXfXeigzykMYelYCKsJ41UyB438A/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwNDUy/NzE0LTE3MTM2NDM5/MzgtNjcwNy5qcGVn.jpeg"
     - "https://i.discogs.com/m2kH5tm46NkhXtbY4cI5crjmsF8jII1VZnrs6O1bNJI/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwNDUy/NzE0LTE3MTM2NDM4/ODMtNTc1NS5qcGVn.jpeg"
@@ -67,4 +67,4 @@ The songs "Shall We Take a Trip" and "Moody Places" were used as the theme tune 
 | Label          | London Records Ltd. |
 | Catalog Number | FACT 310 |
 | Notes | Repress of the original Factory production master tapes. Restored artwork by Central Station Design. Numbered yellow vinyl edition.  |
-| Discogs URL    | [Northside - Chicken Rhythms](https://www.discogs.com/release/30452714-Northside-Chicken-Rhythms) |
+| Discogs URL    | [Northside - Chicken Rhythms](https://www.discogs.com/release/30452714-Northside-2-Chicken-Rhythms) |

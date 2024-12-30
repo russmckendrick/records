@@ -26,7 +26,10 @@ styles: ["Blues Rock", "Psychedelic Rock"]
 
 Smash Hits is a compilation album by the Jimi Hendrix Experience.  Track Records first issued it on April 12, 1968, in the UK and included all four of the group's singles (both A and B sides) released up to that time, plus four additional songs from the UK edition of Are You Experienced.
 Reprise Records did not issue the album in the US until July 30, 1969, with some different tracks.  It included two songs from Electric Ladyland and three tracks from the UK edition of Are You Experienced, which were previously unreleased in the US (including a stereo version of "Red House" from a different take than the original mono album version).
-Smash Hits has been reissued several times on CD, however, it has been largely superseded by more recent and comprehensive compilations, such as Experience Hendrix: The Best of Jimi Hendrix (1997).
+Smash Hits has been reissued several times on CD; however, it has been largely superseded by more recent and comprehensive compilations, such as Experience Hendrix: The Best of Jimi Hendrix (1997).
+Neither the UK or US edition of Smash Hits contain any songs from Axis: Bold as Love.
+
+
     
     
 
@@ -49,7 +52,16 @@ Smash Hits has been reissued several times on CD, however, it has been largely s
 {{< applemusic url="https://music.apple.com/gb/album/the-jimi-hendrix-experience-smash-hits/344477479" >}}<br>
 
 
+## Videos
+### The Wind Cries Mary
+{{< youtube id="1AyVXGHxHec" title="The Wind Cries Mary" >}}<br>
+### More Videos
 
+- [Crosstown Traffic](https://www.youtube.com/watch?v=FxJPaXE4Uoc)
+- [Remember](https://www.youtube.com/watch?v=0u2c0jDFsn8)
+- [Red House](https://www.youtube.com/watch?v=HVaCfwjl_gM)
+- [The Jimi Hendrix Experience - Purple Haze (Audio)](https://www.youtube.com/watch?v=WGoDaYjdfSg)
+- [The Jimi Hendrix Experience - Foxey Lady (Miami Pop 1968)](https://www.youtube.com/watch?v=_PVjcIO4MT4)
 
 ## Release Images
 {{< imageGrid >}}

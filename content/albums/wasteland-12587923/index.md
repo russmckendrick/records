@@ -14,15 +14,15 @@ cover:
     caption: "Wasteland by Riverside"
 additional_images:
     - "https://i.discogs.com/ONdLAQAJaTrGAQVvY8SkhJ0AgCBfM7xF9HEf6krTW0s/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNTg3/OTIzLTE2NTUzMDY1/OTMtNTY5Ni5qcGVn.jpeg"
-    - "https://i.discogs.com/NHXqZpHgmMAaTE9nATFrjC_w9nbvxzDB5Gj63UT76XI/rs:fit/g:sm/q:90/h:602/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNTg3/OTIzLTE2NTUzMDY1/OTMtODg1NC5qcGVn.jpeg"
-    - "https://i.discogs.com/v2gQR1e6d_Ekm9Dst6mJS-EI1-0So0BRFVGl3nMzGH0/rs:fit/g:sm/q:90/h:610/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNTg3/OTIzLTE2NTUzMDY1/OTMtMTY1MS5qcGVn.jpeg"
-    - "https://i.discogs.com/vA4y167bNBKVswMDJ3N3STDKjYz4Rw4JUjsGdniKF1Y/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNTg3/OTIzLTE2NTUzMDY1/OTItNDEzMy5qcGVn.jpeg"
-    - "https://i.discogs.com/9tV5WKTBRHUgGpi9B1uJtYCXPJ2jjSf32wjs4lbVGrw/rs:fit/g:sm/q:90/h:602/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNTg3/OTIzLTE2NTUzMDY1/OTMtMTkzMi5qcGVn.jpeg"
+    - "https://i.discogs.com/9f-RlBcSH-O9GrygB5DiTTg8ySh0kCf7dtEJ5RkEF4Y/rs:fit/g:sm/q:90/h:600/w:597/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNTg3/OTIzLTE2NTUzMDY1/OTMtODg1NC5qcGVn.jpeg"
+    - "https://i.discogs.com/FEaFfoa9ebnd0sNL3FrievVEehtkWo6t7GyrDobWXZ4/rs:fit/g:sm/q:90/h:600/w:589/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNTg3/OTIzLTE2NTUzMDY1/OTMtMTY1MS5qcGVn.jpeg"
+    - "https://i.discogs.com/Xv7NwX4z9V2FGksSUC2KGJdefHHCWyjcl2jeRNeDqV0/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNTg3/OTIzLTE2NTUzMDY1/OTItNDEzMy5qcGVn.jpeg"
+    - "https://i.discogs.com/JjWTLTu4rckAwbh-0MpVYoOH-tmzCFZMGqSeGDIkagE/rs:fit/g:sm/q:90/h:600/w:597/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNTg3/OTIzLTE2NTUzMDY1/OTMtMTkzMi5qcGVn.jpeg"
     - "https://i.discogs.com/QdG5463WrccmWJ8_3_awqHx9nhKJ08sfsEYHs9yh9pw/rs:fit/g:sm/q:90/h:586/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNTg3/OTIzLTE2NTUzMDY1/OTMtMTE4MS5qcGVn.jpeg"
     - "https://i.discogs.com/oFrhmz_dwutQb8wpHLtVOfYkbiCDyEJVkRlh3XnTJlQ/rs:fit/g:sm/q:90/h:593/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNTg3/OTIzLTE2NTUzMDY1/OTMtNzM1NC5qcGVn.jpeg"
     - "https://i.discogs.com/M8tJdrK_eiihowC_ltII4q4QOA2fsKtAOmC3ZCwQ6rw/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNTg3/OTIzLTE2NTUzMDY1/OTMtNTMwNC5qcGVn.jpeg"
-    - "https://i.discogs.com/4RN023vA8zjwohaalZWpDosCxcWXDIs4h9LKVqVc1fk/rs:fit/g:sm/q:90/h:610/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNTg3/OTIzLTE2NTUzMDY1/OTItNjE3MS5qcGVn.jpeg"
-    - "https://i.discogs.com/-BUIfxnETATP_CHY37SmxF8RkfLuqHkmeE4IK08RfLE/rs:fit/g:sm/q:90/h:601/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNTg3/OTIzLTE2NTUzMDY1/OTMtODg5OC5qcGVn.jpeg"
+    - "https://i.discogs.com/mexj3duSU1wjGIY-M0QbZeYHRTPeKjij_sKj-D3F3e8/rs:fit/g:sm/q:90/h:600/w:589/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNTg3/OTIzLTE2NTUzMDY1/OTItNjE3MS5qcGVn.jpeg"
+    - "https://i.discogs.com/0UrdTzeub8LvFUT0dcncg2dtz5iQ5zDzHRanfhWLKKQ/rs:fit/g:sm/q:90/h:600/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNTg3/OTIzLTE2NTUzMDY1/OTMtODg5OC5qcGVn.jpeg"
 genres: ["Rock"]
 styles: ["Prog Rock", "Progressive Metal"]
 ---
@@ -62,10 +62,10 @@ Riverside’s moody <i>Wasteland</i> is rife with violent sounds and moments of 
 {{< youtube id="4Wqlts7QWA8" title="RIVERSIDE - Lament (OFFICIAL VIDEO)" >}}<br>
 ### More Videos
 
-- [RIVERSIDE - Wasteland (OFFICIAL VIDEO)](https://www.youtube.com/watch?v=6dLf45s67hM)
 - [RIVERSIDE - River Down Below (Album Track)](https://www.youtube.com/watch?v=ZS1crIkpnwc)
-- [Riverside - Wasteland [Lyrics on screen]](https://www.youtube.com/watch?v=bXPsLDO77rA)
 - [RIVERSIDE - Vale Of Tears (Album Track)](https://www.youtube.com/watch?v=001IMO53JwY)
+- [RIVERSIDE - Wasteland (OFFICIAL VIDEO)](https://www.youtube.com/watch?v=6dLf45s67hM)
+- [Riverside - Wasteland [Lyrics on screen]](https://www.youtube.com/watch?v=bXPsLDO77rA)
 
 ## Release Images
 {{< imageGrid >}}

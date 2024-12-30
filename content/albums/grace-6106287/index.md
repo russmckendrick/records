@@ -17,8 +17,12 @@ genres: ["Rock"]
 styles: ["Alternative Rock", "Folk Rock"]
 ---
 
-Grace is the only studio album by American singer-songwriter Jeff Buckley, released on August 23, 1994, by Columbia Records. The album had poor sales and received mixed reviews at the time of its release. However, in recent years it has dramatically risen in critical reputation. An extended version of the album (subtitled "Legacy Edition"), celebrating its tenth anniversary, was released on August 23, 2004, and peaked at number 44 in the UK.
-Grace re-entered the albums chart in Australia at number 44 for the week of January 29 to February 5, 2007, 13 years after its original release date. It is currently certified 8× platinum in Australia. The album has been cited by critics and listeners as one of the greatest albums of all time.
+Grace is the only studio album by the American singer-songwriter Jeff Buckley, released on August 15, 1994 in Europe and on August 23, 1994 in the United States by Columbia Records. It was produced by Buckley and Andy Wallace. 
+After moving from Los Angeles to New York City in 1991, Buckley amassed a following through his performances at Sin-é, a cafe in the East Village, and signed a record deal in 1993. He recorded Grace in Bearsville Studios in Woodstock, New York, with musicians including Gary Lucas, Mick Grondahl, Michael Tighe and Matt Johnson. It includes versions of the jazz standard "Lilac Wine", the hymn "Corpus Christi Carol" and the 1984 Leonard Cohen song "Hallelujah". 
+Grace did not meet Columbia's sales expectations, reaching number 149 on the US Billboard 200, and initially received mixed reviews. After Buckley's death in 1997, the popularity and critical standing of Grace grew, and it was praised by musicians including Jimmy Page, Robert Plant, Bob Dylan and David Bowie. By 2011, it had achieved sales of two million, and in 2016 it was certified platinum in the US.  
+Rolling Stone included Grace in three of its lists of the 500 greatest albums and named Buckley's version of "Hallelujah" one of the 500 greatest songs. In 2014, Buckley's version of "Hallelujah" was inducted into the American Library of Congress' National Recording Registry.   
+
+
     
     
 
@@ -36,7 +40,7 @@ Grace re-entered the albums chart in Australia at number 44 for the week of Janu
 10. Dream Brother (5:26)
 
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/grace-legacy-edition/1476889347" >}}<br>
+{{< applemusic url="https://music.apple.com/gb/album/live-jeff-buckley-remastered/1229487899" >}}<br>
 
 
 ## Videos

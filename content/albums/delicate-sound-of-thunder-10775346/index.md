@@ -20,19 +20,17 @@ additional_images:
     - "https://i.discogs.com/VJ58D_lOaqIt38L2U7_t2hsfsCwVxU0KnDbkRaP5SGI/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNzc1/MzQ2LTE1MTQxOTcy/NjYtMjQ0Ni5qcGVn.jpeg"
     - "https://i.discogs.com/ZoLM2sSwk8qcyZvbKIgNppP3PVUExxTPFN8LRXkmmKE/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNzc1/MzQ2LTE1MTQxOTcy/NzQtMjMyOC5qcGVn.jpeg"
     - "https://i.discogs.com/hXf7_B2yxYKmiZoNaio38EJp4XR4oNM59YTm7eAJ11s/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNzc1/MzQ2LTE1MTQxOTcy/NzYtMjI5MS5qcGVn.jpeg"
-    - "https://i.discogs.com/63HoVfvQvzWJErnrBUOQ_NeH9RxzHKhxy53eJc489rE/rs:fit/g:sm/q:90/h:601/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNzc1/MzQ2LTE1MTQxOTcy/NzItNTMyMS5qcGVn.jpeg"
-    - "https://i.discogs.com/kmVc12q03Wmss_fH6RB6MG5NVZmDfv2ySAF9W1_BqyU/rs:fit/g:sm/q:90/h:601/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNzc1/MzQ2LTE1MTQxOTcy/NzMtMjk5OC5qcGVn.jpeg"
-    - "https://i.discogs.com/Bym38zI65tIyyYpbf4yTbUCGUUaPvEYWT7rGCfndohU/rs:fit/g:sm/q:90/h:601/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNzc1/MzQ2LTE1MTQxOTcy/NzQtODc5MC5qcGVn.jpeg"
-    - "https://i.discogs.com/KNv-aNzpQRq2_5CrMz4cXX5ObsEO0MLpSmuOCzC5pmw/rs:fit/g:sm/q:90/h:604/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNzc1/MzQ2LTE1MTQxOTcy/NzItOTMwMC5qcGVn.jpeg"
-    - "https://i.discogs.com/md99qvPh0ZhcQmFFGsyHByZUtn3NLYtsIGPziV5FfLA/rs:fit/g:sm/q:90/h:1207/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNzc1/MzQ2LTE1MTQxOTcy/NTQtMjA1OC5qcGVn.jpeg"
+    - "https://i.discogs.com/0ku72-WirKzurWm0ByXU7QWBQRRjdIL4eL0YnqQ6vkk/rs:fit/g:sm/q:90/h:600/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNzc1/MzQ2LTE1MTQxOTcy/NzItNTMyMS5qcGVn.jpeg"
+    - "https://i.discogs.com/hgj15pQKb40KmbJ5ITfA74TWwVADn5HcTBiHbSU5FfU/rs:fit/g:sm/q:90/h:600/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNzc1/MzQ2LTE1MTQxOTcy/NzMtMjk5OC5qcGVn.jpeg"
+    - "https://i.discogs.com/76W6J6B5ndh2qLnbAale70w36SyY4zY8rnP1ULoDuMg/rs:fit/g:sm/q:90/h:600/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNzc1/MzQ2LTE1MTQxOTcy/NzQtODc5MC5qcGVn.jpeg"
+    - "https://i.discogs.com/CjJ-OWJLnm6kFwhK1PqDCRVFlIPjIWDtonIqa5Vm_Sg/rs:fit/g:sm/q:90/h:600/w:595/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNzc1/MzQ2LTE1MTQxOTcy/NzItOTMwMC5qcGVn.jpeg"
+    - "https://i.discogs.com/x9AqAIrnwnTIbEFqjBRPd7ygfzMxi4cWCDhCcfpLEjA/rs:fit/g:sm/q:90/h:600/w:298/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNzc1/MzQ2LTE1MTQxOTcy/NTQtMjA1OC5qcGVn.jpeg"
 genres: ["Rock"]
 styles: ["Psychedelic Rock", "Prog Rock"]
 ---
 
-Delicate Sound of Thunder is a live album by English band Pink Floyd. It was recorded over five nights at the Nassau Coliseum in Uniondale, New York, in August 1988 and mixed at Abbey Road Studios in September 1988. It was released on 22 November 1988, through EMI Records in the UK and Columbia Records in the US.
+Delicate Sound of Thunder is a live album by the English band Pink Floyd. It was recorded over five nights at the Nassau Coliseum in Uniondale, New York, in August 1988, during their A Momentary Lapse of Reason Tour, and mixed at Abbey Road Studios in September 1988. It was released on 21 November 1988, through EMI Records in the UK and Columbia Records in the United States.
 The album was remixed, restored and reissued in December 2019 for The Later Years 1987–2019 box set. This version included songs that were not present on the original release. In November 2020, it was given a standalone release.
-
-
     
     
 
@@ -58,9 +56,12 @@ The album was remixed, restored and reissued in December 2019 for The Later Year
 
 
 ## Videos
-### Pink Floyd - Sorrow (Delicate Sound Of Thunder) (1988 European CD)
-{{< youtube id="hmvQf8fZ0_A" title="Pink Floyd - Sorrow (Delicate Sound Of Thunder) (1988 European CD)" >}}<br>
+### Pink Floyd - 1st EU press - Delicate Sound Of Thunder - side 1
+{{< youtube id="bbibaNevmiU" title="Pink Floyd - 1st EU press - Delicate Sound Of Thunder - side 1" >}}<br>
+### More Videos
 
+- [Pink Floyd - 1st EU press - Delicate Sound Of Thunder - side 2](https://www.youtube.com/watch?v=nz3aH7ZX9CY)
+- [Pink Floyd - Run Like Hell (Live, Delicate Sound Of Thunder) [2019 Remix]](https://www.youtube.com/watch?v=tepWRMseQiM)
 
 ## Release Images
 {{< imageGrid >}}
@@ -72,5 +73,5 @@ The album was remixed, restored and reissued in December 2019 for The Later Year
 | Format         | Vinyl 2× LP Album Reissue Remastered (180 Gram, Gatefold) |
 | Label          | Pink Floyd Records |
 | Catalog Number | PFRLP16 |
-| Notes | The sticker, the cover and the label show "Breathe in the air (reprise)" but the song is not present. |
+| Notes | The sticker, the cover and the label show "Breathe in the Air (Reprise)" but the song is not present. Very similar release, but with correct printed setlist is here: [r=29067676] |
 | Discogs URL    | [Pink Floyd - Delicate Sound Of Thunder](https://www.discogs.com/release/10775346-Pink-Floyd-Delicate-Sound-Of-Thunder) |

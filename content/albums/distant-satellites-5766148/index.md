@@ -22,6 +22,8 @@ additional_images:
     - "https://i.discogs.com/_DiYvKKdFym2O_945nhXDaBGSa1kB5M26Ejqg-jolB4/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU3NjYx/NDgtMTQzNzA2MDQ2/OC04MzkwLmdpZg.jpeg"
     - "https://i.discogs.com/TKMm_PLY6w1PXzBcoKR83Yc1_gbGSSMVxaZebDY8IvA/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU3NjYx/NDgtMTQzNzA2MDQ3/MS01MTcyLmdpZg.jpeg"
     - "https://i.discogs.com/6NNeeUw9O1qz_8iRP0KM9rmgonoPMQ2SbnSNzGCPojk/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU3NjYx/NDgtMTQzNzA2MDQ3/My01Mjc1LmdpZg.jpeg"
+    - "https://i.discogs.com/IA9sfAVV14wOCepQjpJxo3fN97QDF-VNl4GxHNp6Zi4/rs:fit/g:sm/q:90/h:469/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU3NjYx/NDgtMTczMTE0Mjg3/NS00MzU4LnBuZw.jpeg"
+    - "https://i.discogs.com/tANpZfYLiauRV_NM67ipB5TRalhai0VKSzBKWFVocsQ/rs:fit/g:sm/q:90/h:600/w:252/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU3NjYx/NDgtMTczMTE0Mjg3/NS03ODgxLnBuZw.jpeg"
     - "https://i.discogs.com/HgwZTfhPld0FR6B1NkccO5EmaPtoJdQAXu1bV30bBmg/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU3NjYx/NDgtMTQzNzA2MDQ4/MC05Mjk3LmpwZWc.jpeg"
     - "https://i.discogs.com/vzjKdDvElTTC-qaJawUHomTEzZ8j88dqdjaofYYZja8/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU3NjYx/NDgtMTQzNzA2MDQ4/My01ODA2LmpwZWc.jpeg"
     - "https://i.discogs.com/Wvfgh-qSB_x9gC3fvPi31i7hgHz-1Nf_4O1zbApc_ig/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU3NjYx/NDgtMTQzNzA2MDQ4/Ni03Njc2LmpwZWc.jpeg"
@@ -34,7 +36,7 @@ additional_images:
     - "https://i.discogs.com/gsuYSV0A1K4vVWFxvezmB-ZdqmZbGW1TM4jSZAdaHUs/rs:fit/g:sm/q:90/h:300/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU3NjYx/NDgtMTQzNzA2MDUx/MC0zOTI4LmpwZWc.jpeg"
     - "https://i.discogs.com/C0JccBzeYTi_9GMxsTSz9B7hLcTb2wJpkEflkwYTICM/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU3NjYx/NDgtMTQzNzA2MDUx/Mi00MjIzLmpwZWc.jpeg"
     - "https://i.discogs.com/bw1ojPXCoEb0IOwKpMvcxFDfnzKyJlF4gCWfvYdI-qs/rs:fit/g:sm/q:90/h:10/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU3NjYx/NDgtMTQzNzA2MDUx/Ni00ODE0LmpwZWc.jpeg"
-    - "https://i.discogs.com/KX83Wa0HycMQ6kGy5CKIdA6QeedDtGflEXYr3YNftbs/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU3NjYx/NDgtMTQwMjA1ODQy/My0yOTIxLmpwZWc.jpeg"
+    - "https://i.discogs.com/1b-C3yFZorSn-Uy4JK7le4oojcuG_C45dB9crNsY8lw/rs:fit/g:sm/q:90/h:594/w:486/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU3NjYx/NDgtMTczMTE0Mjkw/OS00NjE4LnBuZw.jpeg"
 genres: ["Rock"]
 styles: ["Prog Rock"]
 ---
@@ -67,8 +69,10 @@ Distant Satellites (stylised as distant satellites) is the tenth studio album by
 {{< youtube id="q2bwKAPgsyA" title="Anathema - The Lost Song part 3 (FULL TRACK) (from Distant Satellites)" >}}<br>
 ### More Videos
 
-- [Anathema - Distant Satellites [Full Album]](https://www.youtube.com/watch?v=J1pkkCmBgCk)
 - [Anathema - The Making of the 'Distant Satellites' (clip) (from the Special Edition documentary)](https://www.youtube.com/watch?v=MsgFPDZKU3M)
+- [Anathema - The Lost Song part 3 (FULL TRACK) (from Distant Satellites)](https://www.youtube.com/watch?v=q2bwKAPgsyA)
+- [Anathema - The Making of the 'Distant Satellites' (clip) (from the Special Edition documentary)](https://www.youtube.com/watch?v=MsgFPDZKU3M)
+- [Anathema - Distant Satellites [Full Album]](https://www.youtube.com/watch?v=J1pkkCmBgCk)
 
 ## Release Images
 {{< imageGrid >}}
@@ -80,5 +84,5 @@ Distant Satellites (stylised as distant satellites) is the tenth studio album by
 | Format         | Vinyl 2× LP Album |
 | Label          | Kscope |
 | Catalog Number | KSCOPE866 |
-| Notes | Gatefold jacket. 180g vinyl in poly-lined sleeves. Includes an 8-page booklet.  |
+| Notes | Gatefold jacket. 180g vinyl in poly-lined sleeves. Includes an 8-page booklet.   Runouts are etched. |
 | Discogs URL    | [Anathema - Distant Satellites](https://www.discogs.com/release/5766148-Anathema-Distant-Satellites) |

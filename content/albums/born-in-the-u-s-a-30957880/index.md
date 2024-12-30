@@ -15,6 +15,9 @@ cover:
 additional_images:
     - "https://i.discogs.com/QoI0KfzX5eLlWeY_NnVpo2LRY6GaQ1Q2emJMGfODssQ/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwOTU3/ODgwLTE3MTgzNjE4/NDQtMjc2My5qcGVn.jpeg"
     - "https://i.discogs.com/uR-j8BjUOKoIEVdf7gDHqkXnU8BBySyc3bsetYU2ec0/rs:fit/g:sm/q:90/h:576/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwOTU3/ODgwLTE3MTgzNjE4/NTEtMjI1Ny5qcGVn.jpeg"
+    - "https://i.discogs.com/8a-lZ1dAK--06dDV9EW0Nwy-tbJZDrNSwcV1RRjw0FY/rs:fit/g:sm/q:90/h:600/w:383/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwOTU3/ODgwLTE3MTg4MDE1/MDQtNjcwNy5qcGVn.jpeg"
+    - "https://i.discogs.com/45scKZP7pVNbGHjxLOuQiMCLqhj86ma9DCVnKDIusfQ/rs:fit/g:sm/q:90/h:385/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwOTU3/ODgwLTE3MTg4MDE1/MDQtMzUxOS5qcGVn.jpeg"
+    - "https://i.discogs.com/ndV_8EJHxhO9PULG_7AHXaUwl94SuE5BSn-A-wxmLdA/rs:fit/g:sm/q:90/h:295/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwOTU3/ODgwLTE3MTg4MDE1/MDQtNDg3OS5qcGVn.jpeg"
 genres: ["Rock"]
 styles: ["Pop Rock"]
 ---
@@ -61,7 +64,8 @@ And despite the confusion about <i>Born in the U.S.A.</i>’s title track, Sprin
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Born_in_the_U.S.A. |
-| Format         | Vinyl LP Album Limited Edition Reissue (Gatefold, Translucent Red) |
+| Format         | Vinyl LP Album Limited Edition Reissue (Red Translucent, Gatefold) |
 | Label          | Columbia |
-| Catalog Number | 0196588751615 |
+| Catalog Number | 19658875161 |
+| Notes | 40th Anniversary Limited Edition on Translucent Red Vinyl. Includes exclusive Lithograph plus a Booklet with archival Photos and a new Essay.  Made In The EU. |
 | Discogs URL    | [Bruce Springsteen - Born In The U.S.A.](https://www.discogs.com/release/30957880-Bruce-Springsteen-Born-In-The-USA) |

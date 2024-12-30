@@ -14,10 +14,10 @@ cover:
 additional_images:
     - "https://i.discogs.com/ZK3baoLBQaEKXs6PAX56MWa_V13zcAC14EmhETZVxyc/rs:fit/g:sm/q:90/h:591/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NzYx/Njc5LTE2MjgyNDc0/NTYtODM2Ny5qcGVn.jpeg"
     - "https://i.discogs.com/THKKl1LTWHCYzheG9G2Z9EKMwDuhNtMuMM9EhofrAsc/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NzYx/Njc5LTE2MjgyNDc0/NTctMjQ2MS5qcGVn.jpeg"
-    - "https://i.discogs.com/OLmU_ClZzqsAUtnrsI64RYVjXUnqehYhyFW6qS7KEB4/rs:fit/g:sm/q:90/h:603/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NzYx/Njc5LTE2MjgyNDc0/NjAtNzk4My5qcGVn.jpeg"
+    - "https://i.discogs.com/1RSsvik9RVY2e3ngCrxj9aT2SbgMSGPhDsgwj7_o51w/rs:fit/g:sm/q:90/h:600/w:596/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NzYx/Njc5LTE2MjgyNDc0/NjAtNzk4My5qcGVn.jpeg"
     - "https://i.discogs.com/XYNcxaCBOO_JgsmxeoR8p0hf7YQJH7pwvT29y4fXHLc/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NzYx/Njc5LTE2MjgyNDc0/NjAtOTIyNC5qcGVn.jpeg"
-    - "https://i.discogs.com/ypgNKmXflcDpJS5_iiopKw-wUmKBdhjZfR5otNskKEU/rs:fit/g:sm/q:90/h:610/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NzYx/Njc5LTE2MjgyNDc0/NTktODAzMy5qcGVn.jpeg"
-    - "https://i.discogs.com/PANk9X2fiGv7Tnc8CrCcBKICkQ4pRqwiBOfHlV1E_VM/rs:fit/g:sm/q:90/h:609/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NzYx/Njc5LTE2MjgyNDc0/NTktNzQyNC5qcGVn.jpeg"
+    - "https://i.discogs.com/tS3J3Roy4Sgb0OCYwzTvZqpGA-v4d_XUnl6QZpwKhpE/rs:fit/g:sm/q:90/h:600/w:589/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NzYx/Njc5LTE2MjgyNDc0/NTktODAzMy5qcGVn.jpeg"
+    - "https://i.discogs.com/AGJOts4tA7nhjs2ZrvhFquwh87wqkoE6UvZsXdT_Sfw/rs:fit/g:sm/q:90/h:600/w:591/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NzYx/Njc5LTE2MjgyNDc0/NTktNzQyNC5qcGVn.jpeg"
     - "https://i.discogs.com/EOdDksNLV_Rv3ZDfarwojszFFBMMPlSes8a5xDrsVgQ/rs:fit/g:sm/q:90/h:499/w:500/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NzYx/Njc5LTE2MjgyODg5/MTAtNzk5OS5qcGVn.jpeg"
     - "https://i.discogs.com/wo30NQpd-dtBwgzdZLz1YJV1kyOPdhUIRFhsrvSyLMc/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NzYx/Njc5LTE2MjgyODg5/MTAtMzM1Ny5qcGVn.jpeg"
 genres: ["Electronic", "Pop"]
@@ -49,13 +49,13 @@ The album spawned the singles "Walking on the Milky Way" (a number 17 hit in the
 
 
 ## Videos
-### OMD Universal Vinyl LP Walking in the Milky Way
-{{< youtube id="LdF4ejCuzTk" title="OMD Universal Vinyl LP Walking in the Milky Way" >}}<br>
+### OMD Universal
+{{< youtube id="Knp3eCjGbQI" title="OMD Universal" >}}<br>
 ### More Videos
 
-- [OMD Universal](https://www.youtube.com/watch?v=Knp3eCjGbQI)
 - [Walking On The Milky Way](https://www.youtube.com/watch?v=GeXNQqlyMfw)
 - [Very Close To Far Away](https://www.youtube.com/watch?v=GozYmddBK80)
+- [OMD Universal Vinyl LP Walking in the Milky Way](https://www.youtube.com/watch?v=LdF4ejCuzTk)
 
 ## Release Images
 {{< imageGrid >}}

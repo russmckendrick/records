@@ -28,6 +28,8 @@ styles: ["Alternative Rock", "Blues Rock", "Grunge"]
 ---
 
 Above is the only studio album by the American rock band Mad Season, released on March 14, 1995, through Columbia Records. Above peaked at No. 24 on the Billboard 200 chart. The album has been certified gold by the RIAA in the United States. Layne Staley created the artwork on the album cover and inside the inlay.
+
+
     
     
 
@@ -50,7 +52,7 @@ Above is the only studio album by the American rock band Mad Season, released on
 15. I Don't Wanna Be A Soldier (Remix) (5:52)
 
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/above/158602381" >}}<br>
+{{< applemusic url="https://music.apple.com/gb/album/mad-season-above-ep/1128474786" >}}<br>
 
 
 ## Videos
@@ -58,9 +60,12 @@ Above is the only studio album by the American rock band Mad Season, released on
 {{< youtube id="Fm72DPJCX58" title="Mad Season - River Of Deceit" >}}<br>
 ### More Videos
 
+- [Wake Up](https://www.youtube.com/watch?v=CcQsRmc65O4)
 - [All Alone](https://www.youtube.com/watch?v=OJar1xAqaWI)
 - [Long Gone Day](https://www.youtube.com/watch?v=-1RdXVQN4ag)
 - [I'm Above](https://www.youtube.com/watch?v=rbvXpfvqJbc)
+- [Mad Season - River Of Deceit](https://www.youtube.com/watch?v=Fm72DPJCX58)
+- [M̲ad S̲e̲ason - A̲bove (Full Album)](https://www.youtube.com/watch?v=sUnmdQ1iNOc)
 
 ## Release Images
 {{< imageGrid >}}

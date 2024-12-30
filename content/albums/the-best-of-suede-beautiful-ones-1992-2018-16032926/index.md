@@ -13,9 +13,7 @@ cover:
     caption: "The Best Of Suede. Beautiful Ones. 1992-2018 by Suede"
 additional_images:
     - "https://i.discogs.com/o0jYB2fEOf1oyNQM9g6f6qknTGG3QiDqUga86J5_P2w/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MDMy/OTI2LTE2MDIyNDA0/NDktOTU4Mi5qcGVn.jpeg"
-    - "https://i.discogs.com/mRPaVrCpoSebnKXomw6UczqYJI0JUeqF-l7wsXo4nR4/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MDMy/OTI2LTE2MDIyNDA0/NTAtOTM4OC5qcGVn.jpeg"
-    - "https://i.discogs.com/CGsXS_rnaxOjbAScQo5RpBvEWsOdTvcGmlDPOHujy0M/rs:fit/g:sm/q:90/h:800/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MDMy/OTI2LTE2MDIyNDA4/MzItNjkwNy5qcGVn.jpeg"
-    - "https://i.discogs.com/XmkJtha7kOwW9ysczrOdLYyRsy9M8VxFKWkWkMK0Q18/rs:fit/g:sm/q:90/h:1299/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MDMy/OTI2LTE2MDI3NDAy/NTAtNzkwNC5wbmc.jpeg"
+    - "https://i.discogs.com/IOb40dQf02l1ORhvQY-BBcEu8nVAnZ1VDxSVt3YhhPU/rs:fit/g:sm/q:90/h:600/w:450/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MDMy/OTI2LTE2MDIyNDA4/MzItNjkwNy5qcGVn.jpeg"
 genres: ["Rock"]
 styles: ["Indie Rock", "Britpop"]
 ---
@@ -81,7 +79,7 @@ styles: ["Indie Rock", "Britpop"]
 56. Flytipping
 
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/beautiful-ones-the-best-of-suede-1992-2018-deluxe/1528561849" >}}<br>
+{{< applemusic url="https://music.apple.com/gb/album/beautiful-ones-the-best-of-suede-1992-2018/1528165185" >}}<br>
 
 
 

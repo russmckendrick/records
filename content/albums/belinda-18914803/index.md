@@ -13,7 +13,7 @@ cover:
     caption: "Belinda by Belinda Carlisle"
 additional_images:
     - "https://i.discogs.com/T7TLfyNb9MZuFJeDRofiYqFw7hAAhE5RDNryt_MCKqA/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4OTE0/ODAzLTE2MjIzNjMz/MzgtNzMxOC5qcGVn.jpeg"
-    - "https://i.discogs.com/ZLLxIdWgn8w8yuY5nv0ySKJKA3FfJERBo-1AXdxS8d4/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4OTE0/ODAzLTE2MjIzNjMz/NDYtNjA2My5qcGVn.jpeg"
+    - "https://i.discogs.com/kHo3MC2BCHa2MfIKMgd9UfdE283Bk21BaqONU3VgoqM/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4OTE0/ODAzLTE2MjIzNjMz/NDYtNjA2My5qcGVn.jpeg"
     - "https://i.discogs.com/SjC_tzA3WaJb-cBC9olLSAr-CjWq-tILDqA9OXOuqWI/rs:fit/g:sm/q:90/h:584/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4OTE0/ODAzLTE2MjIzNjMz/MzctNTU4MC5qcGVn.jpeg"
     - "https://i.discogs.com/ar-0Hp7wkrKy_FlMhHr4hJl1HVjbQoRcPDIYMam7kKg/rs:fit/g:sm/q:90/h:481/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4OTE0/ODAzLTE2MjIzNjMz/MzgtODM3Mi5qcGVn.jpeg"
     - "https://i.discogs.com/sX5EanhNTeSnQaEivGAFZOEcY4KZm0EkqeWjpoCCsAo/rs:fit/g:sm/q:90/h:465/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4OTE0/ODAzLTE2MjIzNjMz/MzgtMjU5Ni5qcGVn.jpeg"
@@ -28,6 +28,8 @@ styles: ["Pop Rock"]
 ---
 
 Belinda is the debut studio album by American singer Belinda Carlisle. It was released on May 19, 1986 by I.R.S. Records. Carlisle began work on the album in 1985 following the breakup of the Go-Go's, for whom she was the lead singer. The album was supported by four singles, with lead single "Mad About You" peaking at number 3 on the US Billboard Hot 100 and No. 1 in Canada.
+
+
     
     
 
@@ -61,22 +63,9 @@ Belinda is the debut studio album by American singer Belinda Carlisle. It was re
 
 
 ## Videos
-### Belinda Carlisle - Mad About You (Official Video)
-{{< youtube id="XmdtJWmR9zQ" title="Belinda Carlisle - Mad About You (Official Video)" >}}<br>
-### More Videos
+### Belinda Carlisle - Mad About You (4K Version)
+{{< youtube id="OPzF5S2dgfA" title="Belinda Carlisle - Mad About You (4K Version)" >}}<br>
 
-- [Belinda Carlisle - Since You've Gone (Live at the Roxy '86)](https://www.youtube.com/watch?v=CRje6i5v2lU)
-- [Belinda Carlisle - I Never Wanted A Rich Man (Live at the Roxy '86)](https://www.youtube.com/watch?v=fiRvcRPZbK0)
-- [Since You've Gone](https://www.youtube.com/watch?v=nevLWv97kg0)
-- [Belinda Carlisle - Gotta Get To You (Live at the Roxy '86)](https://www.youtube.com/watch?v=dPorXIsQn1s)
-- [Belinda Carlisle - Shot in the Dark (Live at the Roxy '86)](https://www.youtube.com/watch?v=cwB8Hb_HoN4)
-- [Belinda Carlisle - We Got The Beat (Live at the Roxy '86)](https://www.youtube.com/watch?v=yM5NQFUYOc0)
-- [Belinda Carlisle - Band of Gold (Live at the Roxy '86)](https://www.youtube.com/watch?v=O6dU8pu4y5E)
-- [Belinda Carlisle - Lust To Love (Live at the Roxy '86)](https://www.youtube.com/watch?v=O9FM-Nq-6BE)
-- [Belinda Carlisle - From The Heart (Live at the Roxy '86)](https://www.youtube.com/watch?v=3b86MoMpTwU)
-- [Belinda Carlisle - Mad About You (Live at the Roxy '86)](https://www.youtube.com/watch?v=8AQaylM3Zpc)
-- [Belinda Carlisle - Head Over Heels (Live at the Roxy '86)](https://www.youtube.com/watch?v=jchMy3mUBao)
-- [Belinda Carlisle - I Feel The Magic (Live at the Roxy '86)](https://www.youtube.com/watch?v=resczd51Q30)
 
 ## Release Images
 {{< imageGrid >}}

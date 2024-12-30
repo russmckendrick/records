@@ -75,6 +75,8 @@ styles: ["Synth-pop"]
 50. Train Of Love In Motion
 51. Responsibility
 
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/hail-queen-of-heaven-music-in-honour-of-the-virgin-mary/444801681" >}}<br>
 
 
 ## Videos

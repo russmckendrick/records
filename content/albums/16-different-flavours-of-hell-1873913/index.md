@@ -12,10 +12,10 @@ cover:
     alt: "16 Different Flavours Of Hell by Pop Will Eat Itself"
     caption: "16 Different Flavours Of Hell by Pop Will Eat Itself"
 additional_images:
-    - "https://i.discogs.com/Lv4vOp_8Ig7A5W4w8fHyQwa7LcsJGoY06zmSBH5renU/rs:fit/g:sm/q:90/h:601/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NzM5/MTMtMTU5NTQ5Mjkx/NC04Njc2LmpwZWc.jpeg"
-    - "https://i.discogs.com/mxpoWkUXcpZT16_foJiQjndN99GNnHzkSnubbR67Rqg/rs:fit/g:sm/q:90/h:601/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NzM5/MTMtMTU5NTQ5Mjkx/NC05NzI0LmpwZWc.jpeg"
-    - "https://i.discogs.com/UAMjkXFIjIFywFiNNckBew3ttCE9NpNlUuGJmdMZoZM/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NzM5/MTMtMTU5NTQ5Mjkx/NC02MDY5LmpwZWc.jpeg"
-    - "https://i.discogs.com/-P-OidpQDSCGj8wMWOuSbFedtTpz0b4e1qC-f36-uec/rs:fit/g:sm/q:90/h:609/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NzM5/MTMtMTU5NTQ5Mjkx/NC03ODQxLmpwZWc.jpeg"
+    - "https://i.discogs.com/0IHD3G7CdzM6x32OjHBNqpntRGDewu-LlnQPLQ_1ReI/rs:fit/g:sm/q:90/h:600/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NzM5/MTMtMTU5NTQ5Mjkx/NC04Njc2LmpwZWc.jpeg"
+    - "https://i.discogs.com/Tb12uZ7HKzy9z1VZixz60iomjIarK20kUjo94UeoTvQ/rs:fit/g:sm/q:90/h:600/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NzM5/MTMtMTU5NTQ5Mjkx/NC05NzI0LmpwZWc.jpeg"
+    - "https://i.discogs.com/hQ6bIxK04HvrkwOh_ltIMsg9y8fBNpzYRe-3phbV8Ro/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NzM5/MTMtMTU5NTQ5Mjkx/NC02MDY5LmpwZWc.jpeg"
+    - "https://i.discogs.com/rq708kKbChK6ojPa6iZGdxUCXl5zmSYPeJQc1zqfPxA/rs:fit/g:sm/q:90/h:600/w:590/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NzM5/MTMtMTU5NTQ5Mjkx/NC03ODQxLmpwZWc.jpeg"
 genres: ["Electronic", "Rock"]
 styles: ["Synth-pop", "Indie Rock"]
 ---
@@ -45,11 +45,11 @@ styles: ["Synth-pop", "Indie Rock"]
 
 
 ## Videos
-### Cicciolina (7 Version)
-{{< youtube id="DZCPx3cHgkk" title="Cicciolina (7 Version)" >}}<br>
+### Cicciolina (7" Version)
+{{< youtube id="DZCPx3cHgkk" title="Cicciolina (7" Version)" >}}<br>
 ### More Videos
 
-- [Another Man's Rhubarb (7 Mix)](https://www.youtube.com/watch?v=kKB4gGW4Nyo)
+- [Another Man's Rhubarb (7" Mix)](https://www.youtube.com/watch?v=kKB4gGW4Nyo)
 - [Get the Girl! Kill the Baddies!](https://www.youtube.com/watch?v=ZpbIrZENDG4)
 - [X, Y & Zee](https://www.youtube.com/watch?v=TcqU-n5_ICw)
 - [Can U Dig It?](https://www.youtube.com/watch?v=rgnvXhrBKuc)
@@ -58,8 +58,8 @@ styles: ["Synth-pop", "Indie Rock"]
 - [Eat Me, Drink Me, Love Me, Kill Me](https://www.youtube.com/watch?v=myZgDBe95L4)
 - [Urban Futuristic](https://www.youtube.com/watch?v=mSx0Dq_0el8)
 - [Bulletproof](https://www.youtube.com/watch?v=yum9TsWcTPg)
-- [PWEIzation (7 Version)](https://www.youtube.com/watch?v=8YrDOY5EZu0)
-- [Wise Up! Sucker (7 Version)](https://www.youtube.com/watch?v=D2uPFLLu5_I)
+- [PWEIzation (7" Version)](https://www.youtube.com/watch?v=8YrDOY5EZu0)
+- [Wise Up! Sucker (7" Version)](https://www.youtube.com/watch?v=D2uPFLLu5_I)
 
 ## Release Images
 {{< imageGrid >}}

@@ -17,9 +17,9 @@ additional_images:
     - "https://i.discogs.com/qzcaJeGp2GIdKC1SI51MUc9Unuse7_c30WuCl4mwb74/rs:fit/g:sm/q:90/h:294/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NzQ5/NzY3LTE1ODA4NDI5/OTUtNjQxNi5qcGVn.jpeg"
     - "https://i.discogs.com/9gvwsRYQIUlNshByiNvPBZJylqmvn2Z62t-WKDnxKbE/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NzQ5/NzY3LTE1ODA4NDMw/MTAtMTE5OC5qcGVn.jpeg"
     - "https://i.discogs.com/BJIIVvsrKOXqL5lj6W8zkY_UyvMrrNVDRa10wX9YOaY/rs:fit/g:sm/q:90/h:584/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NzQ5/NzY3LTE1ODA4NDMw/MjQtNDA4My5qcGVn.jpeg"
-    - "https://i.discogs.com/52ekt_if2DmTKy_WHZAEM0ayZ29XYsdRQOdY6ie5hes/rs:fit/g:sm/q:90/h:618/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NzQ5/NzY3LTE1ODA4NDMw/MzgtNDM3OC5qcGVn.jpeg"
-    - "https://i.discogs.com/puUQN85ag-nVnTWqs_H7dcbaUogjUYI-ZeLt_nKDMPM/rs:fit/g:sm/q:90/h:602/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NzQ5/NzY3LTE1ODA4NDMw/NTQtMzc2MC5qcGVn.jpeg"
-    - "https://i.discogs.com/pB9ci4iubOrBkFexufGdC-MaVI6W3bKZx18iUReC27Y/rs:fit/g:sm/q:90/h:617/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NzQ5/NzY3LTE1ODA4NDMx/NDYtOTcwMy5qcGVn.jpeg"
+    - "https://i.discogs.com/0EfeX60mlMgscHE_yKuHyju_scKjo5sliaKkVmlich4/rs:fit/g:sm/q:90/h:600/w:582/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NzQ5/NzY3LTE1ODA4NDMw/MzgtNDM3OC5qcGVn.jpeg"
+    - "https://i.discogs.com/j7NLiLMogS9owJrGWjZVaTWUHikmSnM08QqdQSHOrZE/rs:fit/g:sm/q:90/h:600/w:597/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NzQ5/NzY3LTE1ODA4NDMw/NTQtMzc2MC5qcGVn.jpeg"
+    - "https://i.discogs.com/sIxO1i3NB1yKBtuJZTmsToNWH62hO4_MV7xOrX2Ioj8/rs:fit/g:sm/q:90/h:600/w:582/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NzQ5/NzY3LTE1ODA4NDMx/NDYtOTcwMy5qcGVn.jpeg"
 genres: ["Pop", "Folk, World, & Country"]
 styles: ["Indie Pop"]
 ---
@@ -57,6 +57,10 @@ styles: ["Indie Pop"]
 {{< youtube id="Sv3vXIUumvc" title="Isobel Campbell - Ant Life (Official Video)" >}}<br>
 ### More Videos
 
+- [Isobel Campbell - Hey World (Official Video)](https://www.youtube.com/watch?v=bBgKg7wStRc)
+- [Isobel Campbell - Runnin' Down A Dream (Official Audio)](https://www.youtube.com/watch?v=97DY0TXNW9A)
+- [Isobel Campbell - The National Bird Of India (Official Audio)](https://www.youtube.com/watch?v=ZcogrJ6hgTw)
+- [Isobel Campbell - Ant Life (Official Video)](https://www.youtube.com/watch?v=Sv3vXIUumvc)
 - [Isobel Campbell - Hey World (Official Video)](https://www.youtube.com/watch?v=bBgKg7wStRc)
 - [Isobel Campbell - Runnin' Down A Dream (Official Audio)](https://www.youtube.com/watch?v=97DY0TXNW9A)
 - [Isobel Campbell - The National Bird Of India (Official Audio)](https://www.youtube.com/watch?v=ZcogrJ6hgTw)

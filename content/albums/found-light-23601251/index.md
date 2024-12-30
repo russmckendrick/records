@@ -22,6 +22,11 @@ genres: ["Rock", "Pop", "Folk, World, & Country"]
 styles: ["Indie Rock"]
 ---
 
+Found Light is a 2022 studio album by American singer-songwriter Laura Veirs. This is the first album without long-time producer Tucker Martine and also the first where Veirs recorded her guitar and vocals simultaneously. It has received positive critical reception.
+
+
+    
+    
 
 
 ## Tracklisting
@@ -46,27 +51,27 @@ styles: ["Indie Rock"]
 
 ## Videos
 ### Autumn Song
-{{< youtube id="rArViialJXY" title="Autumn Song" >}}<br>
+{{< youtube id="6WLhRk6Tuag" title="Autumn Song" >}}<br>
 ### More Videos
 
-- [Ring Song](https://www.youtube.com/watch?v=VQsuHSlAq0I)
+- [Ring Song](https://www.youtube.com/watch?v=mhb2MYDCjHQ)
 - [Seaside Haiku (Official Music Video)](https://www.youtube.com/watch?v=AScXl70VTco)
-- [Naked Hymn](https://www.youtube.com/watch?v=bVQNxK1TUBM)
-- [My Lantern](https://www.youtube.com/watch?v=NnOqbcZ9fV4)
-- [Signal](https://www.youtube.com/watch?v=MF_LkKv6Kc8)
-- [Can't Help But Sing](https://www.youtube.com/watch?v=gOuKcpB1PSE)
-- [Eucalyptus (Official Audio)](https://www.youtube.com/watch?v=xglwcIWWIxI)
-- [New Arms](https://www.youtube.com/watch?v=O1HAuRWS34Q)
-- [Sword Song](https://www.youtube.com/watch?v=VfzcqCQPUMQ)
-- [Time Will Show You](https://www.youtube.com/watch?v=mxxd2q6YQO0)
-- [T & O](https://www.youtube.com/watch?v=-LEYPSJw6w4)
-- [Komorebi](https://www.youtube.com/watch?v=3-A_4KR6h8E)
+- [My Lantern](https://www.youtube.com/watch?v=SwnKz-9cXLA)
+- [Signal](https://www.youtube.com/watch?v=wYuIzSColno)
+- [Naked Hymn](https://www.youtube.com/watch?v=FgMkPOF0XWg)
 - [Winter Windows (official music video)](https://www.youtube.com/watch?v=3cpp781sku0)
-- [Autumn Song (Demo Version)](https://www.youtube.com/watch?v=jFzo85Mbr6Y)
-- [Seaside Haiku (Demo Version)](https://www.youtube.com/watch?v=DDPOoYSF9Gs)
-- [Signal (Demo Version)](https://www.youtube.com/watch?v=Ztop0t3UZns)
+- [Can't Help But Sing](https://www.youtube.com/watch?v=l6X15KpV2Uk)
+- [Eucalyptus (Official Audio)](https://www.youtube.com/watch?v=xglwcIWWIxI)
+- [New Arms](https://www.youtube.com/watch?v=hZrPkh2vJGs)
+- [Sword Song](https://www.youtube.com/watch?v=1SWF6ZGI6a4)
+- [Time Will Show You](https://www.youtube.com/watch?v=kzIMTa397xw)
+- [T & O](https://www.youtube.com/watch?v=MZPHyaEw8xs)
+- [Komorebi](https://www.youtube.com/watch?v=xGbVUwt6hE4)
+- [Autumn Song (Demo Version)](https://www.youtube.com/watch?v=d1zVIixCUaE)
+- [Seaside Haiku (Demo Version)](https://www.youtube.com/watch?v=LXyTNDpFM0g)
+- [Signal (Demo Version)](https://www.youtube.com/watch?v=uoPpaMLlRdo)
 - [New Arms (Demo Version) - Official Audio](https://www.youtube.com/watch?v=EZWpANMb2D8)
-- [Winter Windows (Demo Version)](https://www.youtube.com/watch?v=nc2SDC7zAgA)
+- [Winter Windows (Demo Version)](https://www.youtube.com/watch?v=tlFGjxU06EU)
 
 ## Release Images
 {{< imageGrid >}}
@@ -74,6 +79,7 @@ styles: ["Indie Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
+| Wikipedia URL | https://en.wikipedia.org/wiki/Found_Light |
 | Format         | Vinyl LP Album Limited Edition (Pink Galaxy) |
 | Label          | Bella Union |
 | Catalog Number | BELLA1299V |

@@ -21,6 +21,9 @@ genres: ["Jazz", "Funk / Soul", "Blues"]
 styles: ["Psychedelic", "Easy Listening"]
 ---
 
+Phantom Birds is the eighth studio album by English comedian and musician Matt Berry, released in September 2020 by Acid Jazz Records.
+    
+    
 
 
 ## Tracklisting
@@ -66,8 +69,9 @@ styles: ["Psychedelic", "Easy Listening"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
+| Wikipedia URL | https://en.wikipedia.org/wiki/Phantom_Birds |
 | Format         | Vinyl LP Album Limited Edition (Bone) |
 | Label          | Acid Jazz |
 | Catalog Number | AJXLP536B |
 | Notes | Limited edition, first release on bone coloured vinyl. Initial copies that were preodered had the option to be signed by Matt himself. |
-| Discogs URL    | [Matt Berry - Phantom Birds](https://www.discogs.com/release/15930943-Matt-Berry-Phantom-Birds) |
+| Discogs URL    | [Matt Berry - Phantom Birds](https://www.discogs.com/release/15930943-Matt-Berry-3-Phantom-Birds) |

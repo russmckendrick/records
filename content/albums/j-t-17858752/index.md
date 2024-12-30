@@ -28,6 +28,9 @@ genres: ["Folk, World, & Country"]
 styles: []
 ---
 
+J.T. is a studio album by American rock band Steve Earle & The Dukes. The album is a tribute to Earle's oldest son, Justin Townes Earle, who died of an accidental drug overdose on August 20, 2020. It was released by New West Records on January 4, 2021, on what would have been Justin's 39th birthday.  Recording sessions took place at Electric Lady Studios in New York City with Ray Kennedy as audio engineer. Production was handled by Steve Earle himself.  At Metacritic, which assigns a normalized rating out of 100 to reviews from mainstream publications, the album received an average score of 82 based on eleven reviews.
+    
+    
 
 
 ## Tracklisting
@@ -43,25 +46,25 @@ styles: []
 10. Harlem River Blues  (3:10)
 11. Last Words  (4:21)
 
-
-## Spotify
-{{< spotify type="album" id="02DqMqXTuEauf2EQsHZtmB" width="100%" height="500" >}}<br>
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/copperhead-road-deluxe-edition/1455672074" >}}<br>
 
 
 ## Videos
-### Steve Earle & The Dukes - Far Away In Another Town [Audio Only]
-{{< youtube id="yqcFxkhM_i0" title="Steve Earle & The Dukes - Far Away In Another Town [Audio Only]" >}}<br>
+### Steve Earle & The Dukes - "Far Away In Another Town" [Audio Only]
+{{< youtube id="yqcFxkhM_i0" title="Steve Earle & The Dukes - "Far Away In Another Town" [Audio Only]" >}}<br>
 ### More Videos
 
-- [Steve Earle & The Dukes - Dublin Blues [Audio Only]](https://www.youtube.com/watch?v=wrNWrG385hg)
-- [Steve Earle & The Dukes - Harlem River Blues [Audio Only]](https://www.youtube.com/watch?v=FXgtD3jfikk)
-- [Steve Earle & The Dukes - Champagne Corolla [Audio Only]](https://www.youtube.com/watch?v=JLYKGOeTSWo)
-- [Steve Earle & The Dukes - Last Words [Audio Only]](https://www.youtube.com/watch?v=RR2XPOYqSZI)
-- [Steve Earle & The Dukes - The Saint Of Lost Causes [Audio Only]](https://www.youtube.com/watch?v=xeqGCbo6pFo)
-- [Steve Earle & The Dukes - Lone Pine Hill [Audio Only]](https://www.youtube.com/watch?v=fRsPjoIC8lI)
-- [Steve Earle & The Dukes - I Don't Care [Audio Only]](https://www.youtube.com/watch?v=PzFAztmFYXQ)
-- [Steve Earle & The Dukes - Turn Out My Lights [Audio Only]](https://www.youtube.com/watch?v=E5b9gVDhWQY)
-- [Steve Earle & The Dukes - They Killed John Henry [Audio Only]](https://www.youtube.com/watch?v=1TGssyFJAuk)
+- [Steve Earle & The Dukes - "Dublin Blues" [Audio Only]](https://www.youtube.com/watch?v=wrNWrG385hg)
+- [Steve Earle & The Dukes - "Harlem River Blues" [Audio Only]](https://www.youtube.com/watch?v=FXgtD3jfikk)
+- [Steve Earle & The Dukes - "Champagne Corolla" [Audio Only]](https://www.youtube.com/watch?v=JLYKGOeTSWo)
+- [Steve Earle & The Dukes - "Last Words" [Audio Only]](https://www.youtube.com/watch?v=RR2XPOYqSZI)
+- [Steve Earle & The Dukes - "The Saint Of Lost Causes" [Audio Only]](https://www.youtube.com/watch?v=xeqGCbo6pFo)
+- [Steve Earle & The Dukes - "Lone Pine Hill" [Audio Only]](https://www.youtube.com/watch?v=fRsPjoIC8lI)
+- [Steve Earle & The Dukes - "I Don't Care" [Audio Only]](https://www.youtube.com/watch?v=PzFAztmFYXQ)
+- [Steve Earle & The Dukes - "Turn Out My Lights" [Audio Only]](https://www.youtube.com/watch?v=E5b9gVDhWQY)
+- [Steve Earle & The Dukes - "Far Away In Another Town" [Audio Only]](https://www.youtube.com/watch?v=yqcFxkhM_i0)
+- [Steve Earle & The Dukes - "They Killed John Henry" [Audio Only]](https://www.youtube.com/watch?v=1TGssyFJAuk)
 
 ## Release Images
 {{< imageGrid >}}
@@ -69,6 +72,7 @@ styles: []
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
+| Wikipedia URL | https://en.wikipedia.org/wiki/J.T._(album) |
 | Format         | Vinyl LP Album Limited Edition (Red) |
 | Label          | New West Records |
 | Catalog Number | NW5492 |

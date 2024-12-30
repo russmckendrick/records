@@ -4,7 +4,6 @@ artist_name: "Crystal Fairy"
 artist: "crystal-fairy"
 album_name: "Crystal Fairy"
 date: 2017-04-11T17:18:59.000000Z
-release_date: "2017-02-24"
 release_id: "10031479"
 slug: "crystal-fairy-10031479"
 hideSummary: true
@@ -15,7 +14,7 @@ cover:
 additional_images:
     - "https://i.discogs.com/WJpjCRsiRnyr-4_ead7Wd6Xg0xfh-DpABxMxeq6MQbY/rs:fit/g:sm/q:90/h:585/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMDMx/NDc5LTE0OTA0Mzcx/MzctMTcyNy5wbmc.jpeg"
     - "https://i.discogs.com/iVy4Pr6N_Zp3tmb8-Ipb11jy8J5AxH3_niSZR3MPQQg/rs:fit/g:sm/q:90/h:571/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMDMx/NDc5LTE0OTA0Mzc0/MzgtNzIyOC5wbmc.jpeg"
-    - "https://i.discogs.com/5D1dNQcCBAsMwWEiPJUMSjys5lB0qibeAqS9nKbXyRw/rs:fit/g:sm/q:90/h:800/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMDMx/NDc5LTE0OTA0Mzc0/MzEtODI2MS5qcGVn.jpeg"
+    - "https://i.discogs.com/Pzd3MfVzOu9p5cT33hVx7YlbBNgPuRWg8yuH4JtBYdM/rs:fit/g:sm/q:90/h:600/w:450/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMDMx/NDc5LTE0OTA0Mzc0/MzEtODI2MS5qcGVn.jpeg"
     - "https://i.discogs.com/W8BLrCElm0Igf7tvCLPNKCaaY-sIHjt45qbEadTlbgE/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMDMx/NDc5LTE1Mzg5MjM0/NDctMzYwMi5qcGVn.jpeg"
     - "https://i.discogs.com/Aq9wni3qAi-l3TGsOQr8YdtQlteNQp1-QlIdN5jqw0k/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMDMx/NDc5LTE1Mzg5MjM0/NjgtNjk4My5qcGVn.jpeg"
     - "https://i.discogs.com/s5zYyl3uCnUCuVK3dH0FL4rJCIikbynqX2O_Q4xKI-k/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMDMx/NDc5LTE1Mzg5MjM0/NzQtNjY2Mi5qcGVn.jpeg"
@@ -31,9 +30,9 @@ genres: ["Rock"]
 styles: []
 ---
 
-Crystal Fairy was an American rock supergroup from Los Angeles / El Paso, formed in 2016. The band consisted of Melvins' Buzz Osborne (guitar) and Dale Crover (drums), alongside Le Butcherettes' Teri Gender Bender (vocals) and Omar Rodríguez-López (bass) of At the Drive-In / The Mars Volta / Antemasque fame.
-        
-        
+Crystal Fairy & The Magical Cactus (Crystal Fairy & The Magical Cactus and 2012 as presented onscreen) is a 2013 Chilean adventure comedy film written and directed by Sebastián Silva. The film stars Michael Cera and Gaby Hoffmann.
+At the film's Sundance premiere, Silva said that his film, which is based on a real-life encounter, is "about the birth of compassion in someone's life." The film received positive reviews from critics.
+    
     
 
 
@@ -51,7 +50,7 @@ Crystal Fairy was an American rock supergroup from Los Angeles / El Paso, formed
 11. Vampire X-Mass
 
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/crystal-fairy/1183014173" >}}<br>
+{{< applemusic url="https://music.apple.com/gb/album/crystal-fairy-single/1733973855" >}}<br>
 
 
 ## Videos
@@ -76,9 +75,9 @@ Crystal Fairy was an American rock supergroup from Los Angeles / El Paso, formed
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Wikipedia URL | https://en.wikipedia.org/wiki/Crystal_Fairy_(band) |
+| Wikipedia URL | https://en.wikipedia.org/wiki/Crystal_Fairy_%26_the_Magical_Cactus |
 | Format         | Vinyl LP Album Limited Edition (Lavender) |
 | Label          | Ipecac Recordings |
-| Catalog Number | IPC-180LP-LV / IPC-180 |
+| Catalog Number | IPC180 |
 | Notes | Limited edition on lavender vinyl. Housed in black plastic slip case with clear windows allowing parts of the album's cover to show through. Comes with fold out insert with lyrics and credits. Comes with digital download card. Black paper inner sleeve. Tracks are numbered 1-11. Special Thanks: Ipecac Records, Monica Seide, Robby Fraser (WME-US), Marlene Tsuchii (CAA-Intl.), DeeDee DeCou. Toshi Kasai's name is misspelled in the credits as "Toshi Kasi". |
 | Discogs URL    | [Crystal Fairy - Crystal Fairy](https://www.discogs.com/release/10031479-Crystal-Fairy-Crystal-Fairy) |

@@ -18,7 +18,7 @@ additional_images:
     - "https://i.discogs.com/O5EZgZFr-gerfkNd7yzuo5eAMIwuqq0qMpemn_2IlU4/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY3MDMw/NTItMTQyODcxNTU2/OC03NjU2LmpwZWc.jpeg"
     - "https://i.discogs.com/HtYI4mbXgGVm1dsUaZ4FBnVKhIbV1rB58nsrd2FHMGg/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY3MDMw/NTItMTQyODcxNTU2/Ni02NDg2LmpwZWc.jpeg"
     - "https://i.discogs.com/O9a4XYF77Zrc2Rg75lkNAAGSxzrogqt_BTQv9EEtJu8/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY3MDMw/NTItMTQyODcxNTU3/MC02MDI4LmpwZWc.jpeg"
-    - "https://i.discogs.com/WoEhzGFBq52mxDZvi2pCZVDP6ItVZSrw8ktBXoSCy7U/rs:fit/g:sm/q:90/h:614/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY3MDMw/NTItMTQyODcxNTU2/OS0xODA3LmpwZWc.jpeg"
+    - "https://i.discogs.com/CTv2zocA_fK2mnjbdONJvqBThhyqUP1IcmPtv9jOkJ8/rs:fit/g:sm/q:90/h:600/w:586/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY3MDMw/NTItMTQyODcxNTU2/OS0xODA3LmpwZWc.jpeg"
 genres: ["Blues", "Folk, World, & Country"]
 styles: ["Folk", "Delta Blues"]
 ---
@@ -62,12 +62,18 @@ Tomorrow Is My Turn is the first studio album by Rhiannon Giddens. Nonesuch Reco
 ### More Videos
 
 - [Rhiannon Giddens - Last Kind Words](https://www.youtube.com/watch?v=7M_Fz4lzi3Q)
+- [Rhiannon Giddens - Don't Let It Trouble Your Mind](https://www.youtube.com/watch?v=uQJ0ylPcUuo)
 - [Rhiannon Giddens - Waterboy](https://www.youtube.com/watch?v=XyWa6v-ifRY)
 - [Rhiannon Giddens - She's Got You](https://www.youtube.com/watch?v=yqqdihSClis)
+- [Rhiannon Giddens - Waterboy](https://www.youtube.com/watch?v=XyWa6v-ifRY)
 - [Rhiannon Giddens - Round About the Mountain](https://www.youtube.com/watch?v=fgN0mp6-wpQ)
+- [Rhiannon Giddens - She's Got You](https://www.youtube.com/watch?v=yqqdihSClis)
 - [Rhiannon Giddens - O Love Is Teasin'](https://www.youtube.com/watch?v=GgrkEIldnV4)
 - [Rhiannon Giddens - Angel City](https://www.youtube.com/watch?v=XjMsLLEkt2E)
+- [Rhiannon Giddens - Round About the Mountain](https://www.youtube.com/watch?v=fgN0mp6-wpQ)
+- [Rhiannon Giddens - O Love Is Teasin'](https://www.youtube.com/watch?v=GgrkEIldnV4)
 - [Rhiannon Giddens - Up Above My Head](https://www.youtube.com/watch?v=W6bndO8sgI0)
+- [Rhiannon Giddens - Angel City](https://www.youtube.com/watch?v=XjMsLLEkt2E)
 - [Rhiannon Giddens - Tomorrow Is My Turn](https://www.youtube.com/watch?v=xhUP9RyxLKg)
 - [Rhiannon Giddens - Black Is the Color](https://www.youtube.com/watch?v=eMHpLH0GXwg)
 - [Rhiannon Giddens - Shake Sugaree](https://www.youtube.com/watch?v=FqwRro2G-qA)

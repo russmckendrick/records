@@ -19,10 +19,12 @@ additional_images:
     - "https://i.discogs.com/Dlsgbb8gEssDUJwqVPs-rCbWBmTaZqRQg7sxHoUcDZk/rs:fit/g:sm/q:90/h:450/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4NTEw/MzYwLTE2OTY1OTYw/NDEtOTQwNy5qcGVn.jpeg"
     - "https://i.discogs.com/-VbvUIlXQHx-ibB4hXzKOIchzeD1dE-_F7n3rOIK2Yo/rs:fit/g:sm/q:90/h:450/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4NTEw/MzYwLTE2OTY1OTYw/NDItMTEyNy5qcGVn.jpeg"
 genres: ["Hip Hop"]
-styles: []
+styles: ["Horrorcore"]
 ---
 
 6 Feet Deep (also titled Niggamortis in some regions) is the debut album of the American hip hop supergroup Gravediggaz. Formed by former Tommy Boy Records artists Prince Paul, RZA, Frukwan and Poetic, the group utilized horror-themed imagery and lyrics combined with black comedy and satire to vent their frustrations with the hip hop record industry. The album's concept satirizes the hardcore hip hop and gangsta rap of the early 1990s. Released on August 9, 1994, by Gee Street Records, the album helped usher in horrorcore.
+
+
     
     
 
@@ -46,7 +48,7 @@ styles: []
 16. Rest In Peace (Outro)
 
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/the-pick-the-sickle-and-the-shovel/1444049498" >}}<br>
+{{< applemusic url="https://music.apple.com/gb/album/6-feet-under/417897292" >}}<br>
 
 
 ## Videos
@@ -54,19 +56,12 @@ styles: []
 {{< youtube id="sPGAXjwKOyk" title="Gravediggaz - Nowhere to Run, Nowhere to Hide (Explicit)" >}}<br>
 ### More Videos
 
-- [Graved!ggaz - Niggamortis (6 Feet Deep) FULL ALBUM](https://www.youtube.com/watch?v=MKl49Y32hWQ)
-- [GraveDiggaz  Diary Of A Madman Uncut [HD]](https://www.youtube.com/watch?v=NReT4f1bXY0)
+- [GraveDiggaz  "Diary Of A Madman" Uncut [HD]](https://www.youtube.com/watch?v=NReT4f1bXY0)
 - [6 Feet Deep](https://www.youtube.com/watch?v=pr2Vf3piuQw)
-- [Gravediggaz - 1-800 Suicide Music Video](https://www.youtube.com/watch?v=4vLiJIgVlRQ)
 - [1-800 Suicide](https://www.youtube.com/watch?v=V0teGCgVMTw)
-- [Gravediggaz - 6 Feet Deep (HD)](https://www.youtube.com/watch?v=OyMYUXpOxr8)
 - [Constant Elevation](https://www.youtube.com/watch?v=FhN2Y3KNB8c)
-- [Gravediggaz - Bang Your Head (HD)](https://www.youtube.com/watch?v=e9XwDJdrK80)
+- [Graved!ggaz - Niggamortis (6 Feet Deep) FULL ALBUM](https://www.youtube.com/watch?v=MKl49Y32hWQ)
 - [Gravediggaz - Pass The Shovel (Dirty) - HD](https://www.youtube.com/watch?v=kPZGjfhN8d8)
-- [Gravediggaz - Constant Elevation (HD)](https://www.youtube.com/watch?v=C07_qaKhkPc)
-- [Gravediggaz - Defective Trip (Trippin')](https://www.youtube.com/watch?v=6w1VOOvRDJ4)
-- [Gravediggaz - Blood Brothers (HD)](https://www.youtube.com/watch?v=5PC52dG03vM)
-- [Gravediggaz - 2 Cups of Blood (HD)](https://www.youtube.com/watch?v=5KWcL5UKdVc)
 
 ## Release Images
 {{< imageGrid >}}

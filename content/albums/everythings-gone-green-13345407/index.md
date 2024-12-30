@@ -14,12 +14,18 @@ cover:
 additional_images:
     - "https://i.discogs.com/AJL4V6r99aY8ctMqgF7g8-LexWlPN1McgcdZaMKiyPo/rs:fit/g:sm/q:90/h:585/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMzQ1/NDA3LTE1NTMzNTY2/NDEtNDgyMi5qcGVn.jpeg"
     - "https://i.discogs.com/xxG4bWAQnnb2fnud5xYYm7bc3qE-J3MxKFI6cfJVl3A/rs:fit/g:sm/q:90/h:589/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMzQ1/NDA3LTE1NTMzNTY2/MjgtNTc5OS5qcGVn.jpeg"
-    - "https://i.discogs.com/_EJk03uTUYDx940rFx9RA4XgwtgQBX6gU8bwmx44Bp8/rs:fit/g:sm/q:90/h:606/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMzQ1/NDA3LTE1OTEzMDU0/NzQtOTk0MC5qcGVn.jpeg"
+    - "https://i.discogs.com/INRTw_mq7oOxuHIynyoi7xQkMAlrBWonB6Pv-Mjy5ug/rs:fit/g:sm/q:90/h:600/w:593/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMzQ1/NDA3LTE1OTEzMDU0/NzQtOTk0MC5qcGVn.jpeg"
     - "https://i.discogs.com/02s8PFb11dxtiv6LRIrkQflNLDO5mestiXjIMBn9pAU/rs:fit/g:sm/q:90/h:567/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMzQ1/NDA3LTE1OTEzMDU0/NzktMzE0Ni5qcGVn.jpeg"
 genres: ["Electronic", "Rock"]
 styles: ["New Wave", "Electro"]
 ---
 
+"Everything's Gone Green" is the third single by the English rock band New Order, released in December 1981.
+As usual per New Order and Joy Division's releases, the recording date and location of the music is not disclosed on the original sleeve. The single was originally released in Belgium on Factory Benelux and bears the catalogue number FBN8. The single was later released in New Zealand in 1982 and was made available in the UK through import copies. The artwork was designed by Peter Saville with computer graphics on the cover designed by Stephen Morris and Gillian Gilbert.
+
+
+    
+    
 
 
 ## Tracklisting
@@ -28,7 +34,7 @@ styles: ["New Wave", "Electro"]
 3. Mesh (3:03)
 
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/everythings-gone-green-2019-remaster-single/1457716993" >}}<br>
+{{< applemusic url="https://music.apple.com/gb/album/everythings-gone-green/720975455" >}}<br>
 
 
 ## Videos
@@ -36,8 +42,8 @@ styles: ["New Wave", "Electro"]
 {{< youtube id="Aaf-eqg8dvo" title="New Order - Everything's Gone Green (Official Lyric Video)" >}}<br>
 ### More Videos
 
+- [Mesh (2023 Digital Master)](https://www.youtube.com/watch?v=orWkj0KUJdY)
 - [New Order -- Cries and Whispers](https://www.youtube.com/watch?v=0NZfjbht79M)
-- [New Order - Mesh](https://www.youtube.com/watch?v=hpghMn2Vg1c)
 
 ## Release Images
 {{< imageGrid >}}
@@ -45,6 +51,7 @@ styles: ["New Wave", "Electro"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
+| Wikipedia URL | https://en.wikipedia.org/wiki/Everything%27s_Gone_Green |
 | Format         | Vinyl 12" 45 RPM Reissue Remastered (180g) |
 | Label          | Factory Benelux |
 | Catalog Number | FBN 8 |

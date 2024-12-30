@@ -24,7 +24,7 @@ additional_images:
     - "https://i.discogs.com/FJ92v8JqKSW2IIAm4yMlzCvhblw2lwqLA_wjjINrL48/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MDY2/NzIzLTE2MjMxNzU2/MDctNTE0OC5qcGVn.jpeg"
     - "https://i.discogs.com/HkfJj5cH0rKo29xpjj7huuxQ5LNhDW3iqJ7xxFJqo7Y/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MDY2/NzIzLTE2MjMxNzU2/MDgtMTQxOS5qcGVn.jpeg"
     - "https://i.discogs.com/s1aBE3gWa5DzlpExgy4hKxGjPpK3S8CEOS2U2Yg914c/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MDY2/NzIzLTE2MjMxNzU2/MTAtNjQ0OS5qcGVn.jpeg"
-    - "https://i.discogs.com/CrR1TYSBo5Ep_qsAeT7rVkzF1tFjPVxzAbd_0o12tb8/rs:fit/g:sm/q:90/h:609/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MDY2/NzIzLTE2MjMxNzU2/MTMtMjMzOC5qcGVn.jpeg"
+    - "https://i.discogs.com/R9UxWDNbwY5_RuVZ4Vxm45C7n619md81ItFAXnhVpdw/rs:fit/g:sm/q:90/h:600/w:590/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MDY2/NzIzLTE2MjMxNzU2/MTMtMjMzOC5qcGVn.jpeg"
     - "https://i.discogs.com/fSedFXIckrx9EYC7cWgb23RjFIxH6I4Fgkqapzy2oe0/rs:fit/g:sm/q:90/h:450/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MDY2/NzIzLTE2MjMxOTc3/NzYtODY1Mi5qcGVn.jpeg"
     - "https://i.discogs.com/8ilGmUwsHl8ikQGiziIDjtaqkiS4XRWXCKGp7mT5rbU/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MDY2/NzIzLTE2MjQ4OTI2/MDItNjQyNS5qcGVn.jpeg"
 genres: ["Rock"]

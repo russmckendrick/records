@@ -15,10 +15,10 @@ additional_images:
     - "https://i.discogs.com/MaQngREnH0Lu2aJS7i14TZqQbTzNtNlHCC6fLAYktvg/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc3Nzkx/NDQtMTQ2NDEzMjY4/Ny01ODI2LnBuZw.jpeg"
     - "https://i.discogs.com/u1be8nN9JG2HXviAKBTJdZkYHE2oa-dfJ8WS3L4GSUI/rs:fit/g:sm/q:90/h:296/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc3Nzkx/NDQtMTYyODg4MjY2/MS03ODU2LmpwZWc.jpeg"
     - "https://i.discogs.com/s4pFMb35LdJzsRHo58NX-iTQ81DyOXEogXLP5dZngb0/rs:fit/g:sm/q:90/h:590/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc3Nzkx/NDQtMTYyODg4MjY2/MS0zNjgxLmpwZWc.jpeg"
-    - "https://i.discogs.com/SJwc-ZbDfQl-CNt6wRQoAxqjC9VGEzV3-T-MrQ1ZlP0/rs:fit/g:sm/q:90/h:602/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc3Nzkx/NDQtMTYyODg4Mjcw/NC03MjE3LmpwZWc.jpeg"
-    - "https://i.discogs.com/KTmLtwA8SYPWuQZ9HCbzV24kWXWB7weljvg6k_YRujM/rs:fit/g:sm/q:90/h:617/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc3Nzkx/NDQtMTYyODg4MjY2/MS03NjI3LmpwZWc.jpeg"
-    - "https://i.discogs.com/DtysO_OCMmiTUEUnihaYSR4E0O76HRjoL-rwxKoK078/rs:fit/g:sm/q:90/h:616/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc3Nzkx/NDQtMTYyODg4MjY2/MS03OTQ1LmpwZWc.jpeg"
-    - "https://i.discogs.com/3p8uQhB-75gSzXygXb3ZJFgI8b6sGrKKUR94Jia_If8/rs:fit/g:sm/q:90/h:611/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc3Nzkx/NDQtMTYyODg4MjY2/Mi00MjAzLmpwZWc.jpeg"
+    - "https://i.discogs.com/wlaC5sF1P0neRkB2sjvFz8ATpp0xCmpbKmH4OJ-_wo4/rs:fit/g:sm/q:90/h:600/w:597/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc3Nzkx/NDQtMTYyODg4Mjcw/NC03MjE3LmpwZWc.jpeg"
+    - "https://i.discogs.com/uMY3fMiCnUfX7oicVx8oHPqag_1QOmfaAyfF7tFb2ps/rs:fit/g:sm/q:90/h:600/w:583/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc3Nzkx/NDQtMTYyODg4MjY2/MS03NjI3LmpwZWc.jpeg"
+    - "https://i.discogs.com/bMSfpqCnSwILtKVRfaZUYi74HBXgIOTHRBMDVpayhgY/rs:fit/g:sm/q:90/h:600/w:583/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc3Nzkx/NDQtMTYyODg4MjY2/MS03OTQ1LmpwZWc.jpeg"
+    - "https://i.discogs.com/f34ZCGie-UmhtP3MTlyET-SnaKtyTqAMf9lGJBb_GXM/rs:fit/g:sm/q:90/h:600/w:588/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc3Nzkx/NDQtMTYyODg4MjY2/Mi00MjAzLmpwZWc.jpeg"
     - "https://i.discogs.com/pp76BrUuYtZTSuQay758bRJETf9maq3_rF_VG72V5YQ/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc3Nzkx/NDQtMTQ2NDEzMzkw/OS04NTQ5LnBuZw.jpeg"
 genres: ["Electronic", "Rock", "Stage & Screen"]
 styles: ["Alternative Rock", "Soundtrack", "Acoustic", "Indie Rock", "Classic Rock"]
@@ -49,10 +49,28 @@ styles: ["Alternative Rock", "Soundtrack", "Acoustic", "Indie Rock", "Classic Ro
 
 
 ## Videos
-### Jack Black - Lets get it on
-{{< youtube id="J0ML8LfyNR8" title="Jack Black - Lets get it on" >}}<br>
+### High Fidelity Original Soundtracks - Dry the Rain
+{{< youtube id="357GIArSJBg" title="High Fidelity Original Soundtracks - Dry the Rain" >}}<br>
 ### More Videos
 
+- [High Fidelity Original Soundtracks - Cold Blooded Old Times](https://www.youtube.com/watch?v=29i1rQ-Rxak)
+- [High Fidelity Original Soundtracks - Let's Get it On](https://www.youtube.com/watch?v=CdvFGRdUaDo)
+- [High Fidelity Original Soundtracks - Lo Boob Oscillator](https://www.youtube.com/watch?v=KVuAs9sQOw8)
+- [High Fidelity Original Soundtracks - Oh! Sweet Nuthin](https://www.youtube.com/watch?v=aDluzNOuMUw)
+- [High Fidelity Original Soundtracks - Shipbuilding](https://www.youtube.com/watch?v=S0LPnPVKoWs)
+- [High Fidelity Original Soundtracks - Fallen for You](https://www.youtube.com/watch?v=Qcv6F2B04nk)
+- [High Fidelity Original Soundtracks - Inside Game](https://www.youtube.com/watch?v=PTvCY2sNTuM)
+- [High Fidelity Original Soundtracks - You're Gonna Miss Me](https://www.youtube.com/watch?v=rwUCpXfs-hE)
+- [High Fidelity Original Soundtracks - Who Loves The Sun](https://www.youtube.com/watch?v=u9eXAJhXrhg)
+- [High Fidelity Original Soundtracks - Always See Your Face](https://www.youtube.com/watch?v=0vMsKQ2ti50)
+- [High Fidelity Original Soundtracks - Lo Boob Oscillator](https://www.youtube.com/watch?v=KVuAs9sQOw8)
+- [High Fidelity Original Soundtracks - Dry the Rain](https://www.youtube.com/watch?v=357GIArSJBg)
+- [High Fidelity Original Soundtracks - Always See Your Face](https://www.youtube.com/watch?v=0vMsKQ2ti50)
+- [High Fidelity ' soundtrack from the movie](https://www.youtube.com/watch?v=w5hoY-KeXfY)
+- [HIGH FIDELITY Music Snobs](https://www.youtube.com/watch?v=_SQMl51RDIQ)
+- [I Believe (When I Fall in Love It Will Be Forever)](https://www.youtube.com/watch?v=JO_b807HaLM)
+- [I'll Make Love to You](https://www.youtube.com/watch?v=b0idmxw8dtk)
+- [Jack Black - Lets get it on](https://www.youtube.com/watch?v=J0ML8LfyNR8)
 - [High Fidelity Original Soundtracks - Dry the Rain](https://www.youtube.com/watch?v=357GIArSJBg)
 - [High Fidelity Original Soundtracks - Cold Blooded Old Times](https://www.youtube.com/watch?v=29i1rQ-Rxak)
 - [High Fidelity Original Soundtracks - Let's Get it On](https://www.youtube.com/watch?v=CdvFGRdUaDo)

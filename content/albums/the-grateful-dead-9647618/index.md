@@ -4,7 +4,6 @@ artist_name: "The Grateful Dead"
 artist: "the-grateful-dead"
 album_name: "The Grateful Dead"
 date: 2017-07-05T14:32:36.000000Z
-release_date: "2003-09-16"
 release_id: "9647618"
 slug: "the-grateful-dead-9647618"
 hideSummary: true
@@ -22,9 +21,8 @@ genres: ["Rock"]
 styles: ["Country Rock", "Psychedelic Rock", "Classic Rock"]
 ---
 
-If a novice or a casual fan is seeking an introduction to—or a brief summary of—one of rock 'n' roll's legendary bands, this 2003 Dead collection does a satisfactory job of going over the "hits" for a group not often overly concerned about its hitmaking potential. Throwing 1987's "Touch of Grey" into the second position refutes chronology in favor of a sequence that plays like a natural album. Five tracks here are from the excellent 1970 album <i>American Beauty</i>, with the remainder coming from across the band's career, regardless of the labels that first issued the material. Deadheads will insist that even a casual fan should own a half-dozen live albums to better understand the band's dynamic, and that's not a bad idea for someone wishing to better know the Dead. However, most people looking for familiar songs will be satisfied: "Truckin'," "Sugar Magnolia," "Casey Jones," "Uncle John's Band," and "Friend of the Devil," for starters, are all classic rock 'n' roll.
-        
-        
+The Grateful Dead is the debut studio album by the American rock band the Grateful Dead, released by Warner Bros. Records on March 17, 1967. According to the biographies of both bassist Phil Lesh and drummer Bill Kreutzmann, the band released the album as San Francisco's Grateful Dead.
+    
     
 
 
@@ -40,10 +38,15 @@ If a novice or a casual fan is seeking an introduction to—or a brief summary o
 9. Viola Lee Blues
 
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/the-very-best-of-grateful-dead/663694969" >}}<br>
+{{< applemusic url="https://music.apple.com/gb/album/the-best-of-the-grateful-dead/945504099" >}}<br>
 
 
+## Videos
+### New New Minglewood Blues (2013 Remaster)
+{{< youtube id="rR7Tsima2Ck" title="New New Minglewood Blues (2013 Remaster)" >}}<br>
+### More Videos
 
+- [THE GRATEFUL DEAD - SELFTITLED FIRST ALBUM - U.S. UNDERGROUND - 1967](https://www.youtube.com/watch?v=_VB2ItYExMA)
 
 ## Release Images
 {{< imageGrid >}}

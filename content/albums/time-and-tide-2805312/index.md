@@ -28,8 +28,7 @@ genres: ["Rock", "Pop"]
 styles: ["New Wave", "Pop Rock"]
 ---
 
-Time and Tide is the eighth album by the New Zealand new wave band Split Enz, released in April 1982. It topped the album charts in New Zealand and Australia.
-At the 1982 Countdown Australian Music Awards, Time and Tide was named Best Australian Album, despite being a New Zealand album.The album was re-released in 2006 along with all of Split Enz's studio album catalogue. Some albums were rearranged, reordered or adjusted; Time and Tide, however, was left unchanged.
+Time and Tide is the eighth album by the New Zealand new wave band Split Enz, released in April 1982. Recorded in Sydney starting the prior December, it topped the charts in New Zealand and Australia and won Best Australian Album at the Countdown Australian Music Awards. It was rereleased in 2006 along with every Split Enz studio album.
     
     
 
@@ -64,29 +63,18 @@ At the 1982 Countdown Australian Music Awards, Time and Tide was named Best Aust
 27. Mind Over Matter (2:52)
 28. Livin' It Up (1:15)
 
-
-## Spotify
-{{< spotify type="album" id="5wMlZOCdi80meEY3mCbc8S" width="100%" height="500" >}}<br>
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/time-and-tide/1442297415" >}}<br>
 
 
 ## Videos
-### Split Enz - Fire Drill (RARE B-Side) EXCELLENT QUALITY
-{{< youtube id="Nv1IjVbPbHs" title="Split Enz - Fire Drill (RARE B-Side) EXCELLENT QUALITY" >}}<br>
+### Split Enz - Dirty Creature (Official Video)
+{{< youtube id="NzrE3AhY6KQ" title="Split Enz - Dirty Creature (Official Video)" >}}<br>
 ### More Videos
 
-- [Split Enz - Time and Tide (Private Remaster 2017) - 02 Giant Heartbeat](https://www.youtube.com/watch?v=CfhOKyGYBrc)
-- [Split Enz - Log Cabin Fever (1982)](https://www.youtube.com/watch?v=lNfcoDpZrH4)
-- [Split Enz - Time and Tide (Private Remaster 2017) - 01 Dirty Creature](https://www.youtube.com/watch?v=Y2jyNxzVBA8)
-- [Split Enz - Time and Tide (Private Remaster 2017) - 05 Lost For Words](https://www.youtube.com/watch?v=f5GpZIchfm0)
-- [Split Enz - Time and Tide (Private Remaster 2017) - 07 Take A Walk](https://www.youtube.com/watch?v=-Y3eKfjZMpQ)
-- [Split Enz - Time and Tide (Private Remaster 2017) - 03 Hello Sandy Allen](https://www.youtube.com/watch?v=YVy15wHoDIE)
-- [Split Enz - Time and Tide (Private Remaster 2017) - 04 Never Ceases To Amaze Me](https://www.youtube.com/watch?v=-BP_7m6qHfo)
-- [Split Enz - Time and Tide (Private Remaster 2017) - 10 Haul Away](https://www.youtube.com/watch?v=6TzYo5j8jdI)
-- [Split Enz - Time and Tide (Private Remaster 2017) - 12 Make Sense Of It](https://www.youtube.com/watch?v=XVkkev8YVNg)
-- [Split Enz - Time and Tide (Private Remaster 2017) - 06 Small World](https://www.youtube.com/watch?v=IK-HGz0j3rc)
+- [Split Enz - Never Ceases To Amaze Me (Official Video)](https://www.youtube.com/watch?v=cGwq6Fn4LyQ)
+- [Split Enz - Six Months In A Leaky Boat (Official Video)](https://www.youtube.com/watch?v=cSGpLto1yxU)
 - [Split Enz - Time and Tide (Private Remaster 2017) - 09 Six Months In A Leaky Boat](https://www.youtube.com/watch?v=zTKKhmMKwJY)
-- [Split Enz - Time and Tide (Private Remaster 2017) - 08 Pioneer](https://www.youtube.com/watch?v=kgXuTj13JO0)
-- [Split Enz - Time and Tide (Private Remaster 2017) - 11 Log Cabin Fever](https://www.youtube.com/watch?v=VQqjT4YUyNQ)
 
 ## Release Images
 {{< imageGrid >}}

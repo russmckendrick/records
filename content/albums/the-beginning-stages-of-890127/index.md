@@ -29,6 +29,11 @@ genres: ["Electronic", "Rock"]
 styles: ["Alternative Rock", "Psychedelic Rock"]
 ---
 
+The Beginning Stages of... is the debut album from The Polyphonic Spree. The US re-release version of the album has both the original CD plus a bonus CD that features four alternate tracks and a music video for the single version of "Light and Day". The UK re-release is identical to the original release. The album is also available on gatefold vinyl.
+
+
+    
+    
 
 
 ## Tracklisting
@@ -44,14 +49,18 @@ styles: ["Alternative Rock", "Psychedelic Rock"]
 10. Section 10 (A Long Day)
 
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/the-beginning-stages-of-disk-1/121997782" >}}<br>
+{{< applemusic url="https://music.apple.com/gb/album/the-beginning-stages-of/1711109317" >}}<br>
 
 
 ## Videos
-### THE POLYPHONIC SPREE soldier girl
-{{< youtube id="4uzddaCSwpE" title="THE POLYPHONIC SPREE soldier girl" >}}<br>
+### the polyphonic spree - it's the sun
+{{< youtube id="P9gk1PGZxaE" title="the polyphonic spree - it's the sun" >}}<br>
 ### More Videos
 
+- [The Polyphonic Spree - Hanging Around the Day Pt. 1 & 2](https://www.youtube.com/watch?v=BiNf3VVuwjc)
+- [THE POLYPHONIC SPREE soldier girl](https://www.youtube.com/watch?v=4uzddaCSwpE)
+- [Light & Day / Reach for the Sun](https://www.youtube.com/watch?v=fnKrKbzlJiY)
+- [Light & Day / Reach For The Sun](https://www.youtube.com/watch?v=88TOTBUARGo)
 - [the polyphonic spree - it's the sun](https://www.youtube.com/watch?v=P9gk1PGZxaE)
 - [The Polyphonic Spree - Hanging Around the Day Pt. 1 & 2](https://www.youtube.com/watch?v=BiNf3VVuwjc)
 
@@ -61,7 +70,8 @@ styles: ["Alternative Rock", "Psychedelic Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl 2× LP Album |
+| Wikipedia URL | https://en.wikipedia.org/wiki/The_Beginning_Stages_of... |
+| Format         | Vinyl 2× LP Album Numbered |
 | Label          | 679 |
 | Catalog Number | 679L011TLP |
 | Notes | Additional voices on this recording include the members of the band as well as friends.  Engineered and recorded by Andy Baker at Dallas Sound Lab, Dallas, TX in 3 days (October 29-31, 2000).  Gatefold sleeve with printed inner sleeves. |

@@ -24,6 +24,8 @@ styles: ["Prog Rock"]
 ---
 
 Gleb Kolyadin (born Gleb Alekseevich Kolyadin, Russian: Глеб Алексеевич Колядин, 11 July 1989, Leningrad, Russia) is a Russian pianist, composer, and arranger who mixes progressive rock and jazz fusion with neoclassical styles. He has released music both as a solo artist and as a member of the prog duo iamthemorning.
+
+
     
     
 
@@ -43,7 +45,7 @@ Gleb Kolyadin (born Gleb Alekseevich Kolyadin, Russian: Глеб Алексее�
 12. The Best Of Days
 
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/gleb-kolyadin/1316964513" >}}<br>
+{{< applemusic url="https://music.apple.com/gb/album/gleb-kolyadin-expanded/1576589789" >}}<br>
 
 
 ## Videos
@@ -51,6 +53,9 @@ Gleb Kolyadin (born Gleb Alekseevich Kolyadin, Russian: Глеб Алексее�
 {{< youtube id="Yi1uHl8uy6E" title="Gleb Kolyadin (Iamthemorning) - The Best of Days (feat. Steve Hogarth, Marillion)" >}}<br>
 ### More Videos
 
+- [Gleb Kolyadin - Storyteller (feat. Jordan Rudess, Dream Theater) (from Gleb Kolyadin)](https://www.youtube.com/watch?v=meJxe35Dj2E)
+- [Глеб КОЛЯДИН - Дебютный Альбом - 2018 / Gleb KOLYADIN - Debut Album - 2018](https://www.youtube.com/watch?v=7u7ferl0TIE)
+- [Gleb Kolyadin (Iamthemorning) - The Best of Days (feat. Steve Hogarth, Marillion)](https://www.youtube.com/watch?v=Yi1uHl8uy6E)
 - [Gleb Kolyadin - Storyteller (feat. Jordan Rudess, Dream Theater) (from Gleb Kolyadin)](https://www.youtube.com/watch?v=meJxe35Dj2E)
 - [Глеб КОЛЯДИН - Дебютный Альбом - 2018 / Gleb KOLYADIN - Debut Album - 2018](https://www.youtube.com/watch?v=7u7ferl0TIE)
 

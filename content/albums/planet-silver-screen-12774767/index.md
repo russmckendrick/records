@@ -13,8 +13,8 @@ cover:
     caption: "Planet Silver Screen by Four Stroke Baron"
 additional_images:
     - "https://i.discogs.com/iLTaJlBScKTBU3cb34GFQASE42ej9p7b_ncxIA33ZCw/rs:fit/g:sm/q:90/h:320/w:320/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNzc0/NzY3LTE1NDE3MDE3/ODgtMTMxMC5qcGVn.jpeg"
-    - "https://i.discogs.com/BgHHiJrB5sw-9ClxWzXX01tbng1X6VE1kZl4wo4EWf0/rs:fit/g:sm/q:90/h:614/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNzc0/NzY3LTE1NDE3MDE2/NTItNDQwNS5qcGVn.jpeg"
-    - "https://i.discogs.com/WqxhnKmD6i-1Dq-0Vo68NpBraoDiWzc4JgAs7lhX91k/rs:fit/g:sm/q:90/h:610/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNzc0/NzY3LTE1NDE3MDE2/NTEtNjg1Ny5qcGVn.jpeg"
+    - "https://i.discogs.com/bO64cBhAywzDkUkPEQB8ahAEShkRrWKLxXI3G28TTEA/rs:fit/g:sm/q:90/h:600/w:585/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNzc0/NzY3LTE1NDE3MDE2/NTItNDQwNS5qcGVn.jpeg"
+    - "https://i.discogs.com/fVPXvD7qufRbzWi58HMM3q1d0B2uM_GoOWjvX0sGvQQ/rs:fit/g:sm/q:90/h:600/w:589/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNzc0/NzY3LTE1NDE3MDE2/NTEtNjg1Ny5qcGVn.jpeg"
 genres: ["Rock"]
 styles: ["Progressive Metal", "Alternative Rock", "Experimental"]
 ---
@@ -22,15 +22,15 @@ styles: ["Progressive Metal", "Alternative Rock", "Experimental"]
 
 
 ## Tracklisting
-1. Cut (02:12)
-2. Planet Silver Screen (03:50)
-3. Neon Person (04:33)
-4. Machine and Joy (04:13)
-5. A Matter of Seconds (04:15)
-6. 7th of July (06:01)
-7. Cyborg Pt.2: The City (04:11)
-8. Duplex (03:46)
-9. Video Maniacs (08:14)
+1. Cut (2:12)
+2. Planet Silver Screen (3:50)
+3. Neon Person (4:33)
+4. Machine and Joy (4:13)
+5. A Matter of Seconds (4:15)
+6. 7th of July (6:01)
+7. Cyborg Pt.2: The City (4:11)
+8. Duplex (3:46)
+9. Video Maniacs (8:14)
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/planet-silver-screen/1414568711" >}}<br>

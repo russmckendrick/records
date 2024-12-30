@@ -12,7 +12,7 @@ cover:
     alt: "In Time: The Best Of R.E.M. 1988-2003 by R.E.M."
     caption: "In Time: The Best Of R.E.M. 1988-2003 by R.E.M."
 additional_images:
-    - "https://i.discogs.com/ao2A61_m7hhPZl9XNl5TH96k4ZxB5LhKlBaYvQTTaRg/rs:fit/g:sm/q:90/h:607/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNjQw/MjY0LTE1NTk5MjAy/MDgtOTEwMi5qcGVn.jpeg"
+    - "https://i.discogs.com/ferPZS29ThYYUYXPe0k5pvR8uylXKSM3LuQGO8Ri5EQ/rs:fit/g:sm/q:90/h:600/w:592/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNjQw/MjY0LTE1NTk5MjAy/MDgtOTEwMi5qcGVn.jpeg"
     - "https://i.discogs.com/8fgQr1YXAMQgP9DgpzmtYDom2DPL9cF8VKbETj_lVHA/rs:fit/g:sm/q:90/h:293/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNjQw/MjY0LTE1NjE0OTEw/MjAtMjgyMy5qcGVn.jpeg"
     - "https://i.discogs.com/Bay14deuAD_qA0FSJJ3--M_aR-Rs6qZnvyCiFyx6GUo/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNjQw/MjY0LTE1NjE0OTEw/MjAtNjIwNS5qcGVn.jpeg"
     - "https://i.discogs.com/Bvmp7IXUnXZBCjFVtzxMtO7qhylpNq8pQgJyryAQSek/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNjQw/MjY0LTE1NjE0OTEw/MTctMjUxNi5qcGVn.jpeg"
@@ -55,6 +55,9 @@ styles: ["Alternative Rock", "Pop Rock"]
 {{< applemusic url="https://music.apple.com/gb/album/in-time-the-best-of-r-e-m-1988-2003/1422693791" >}}<br>
 
 
+## Videos
+### THE BEST OF R.E.M - IN TIME 1988-2003
+{{< youtube id="U1w6eRcV5P4" title="THE BEST OF R.E.M - IN TIME 1988-2003" >}}<br>
 
 
 ## Release Images

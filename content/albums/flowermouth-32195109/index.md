@@ -13,6 +13,8 @@ cover:
     caption: "Flowermouth by No-Man"
 additional_images:
     - "https://i.discogs.com/qW4YYLTKJu1F40kmPU56R8mN6B5g0wtjpUj75zB7VnA/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyMTk1/MTA5LTE3MzA3MzA4/NDItNTYzNC5qcGVn.jpeg"
+    - "https://i.discogs.com/q_I58iM-_uvSmkr0-lpMu-m9CgDb3kYq2LNh20n2D3M/rs:fit/g:sm/q:90/h:594/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyMTk1/MTA5LTE3MzEwMDA0/MTYtNjY5MS5qcGVn.jpeg"
+    - "https://i.discogs.com/amNwWOAS6fWovWGlBRsA3eWmXrXt21e7PQpASiXx8-8/rs:fit/g:sm/q:90/h:586/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyMTk1/MTA5LTE3MzEwMDA0/MTktMTY1Ni5qcGVn.jpeg"
 genres: ["Electronic", "Rock"]
 styles: ["Art Rock"]
 ---
@@ -60,8 +62,8 @@ Flowermouth is the second studio album by British duo No-Man, released in 1994 o
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Flowermouth |
-| Format         | Vinyl 2× LP Album Limited Edition Reissue Remastered Stereo (Red Vinyl) |
-| Label          | One Little Independent |
+| Format         | Vinyl 2× LP Album Limited Edition Reissue Remastered Stereo (Red) |
+| Label          | One Little Independent Records |
 | Catalog Number | TPLP67 |
 | Notes | Comes with poster. 500 copies globally.  Barcode featured on sticker to sleeve which also carries alternative catalogue number TPLP67LTD. |
 | Discogs URL    | [No-Man - Flowermouth](https://www.discogs.com/release/32195109-No-Man-Flowermouth) |

@@ -26,6 +26,8 @@ styles: ["Alternative Rock"]
 
 The North is the sixth full-length studio album by Canadian indie pop band Stars. It was released on September 4, 2012, through ATO Records. The album has been characterized as having a more upbeat feel to it compared to previous works, as Amy Millan notes: the album was meant to be "playful, joyful and hopeful." The album debuted at number 5 on the Canadian Albums Chart.
 The album's cover shows the Habitat 67 complex, an experimental housing development as well as architectural landmark in Montreal, the band's home city.
+
+
     
     
 

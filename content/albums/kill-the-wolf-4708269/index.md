@@ -22,7 +22,7 @@ genres: ["Rock", "Pop", "Folk, World, & Country"]
 styles: ["Folk Rock", "Prog Rock", "Psychedelic Rock"]
 ---
 
-Kill the Wolf is the fourth studio album from English comedian and musician Matt Berry. It was released in July 2013 under Acid Jazz Records.
+Kill the Wolf is the fourth studio album from English comedian and musician Matt Berry. It was released in July 2013 by Acid Jazz Records.
     
     
 
@@ -50,7 +50,6 @@ Kill the Wolf is the fourth studio album from English comedian and musician Matt
 {{< youtube id="gdx-EanE6Hk" title="Matt Berry - Gather Up (Kill the Wolf Album)" >}}<br>
 ### More Videos
 
-- [Matt Berry - Kill The Wolf Box Set (UNBOXING)](https://www.youtube.com/watch?v=n_nt6clp3ck)
 - [Matt Berry - Devil Inside Me](https://www.youtube.com/watch?v=2yE8htFL1m8)
 - [Matt Berry - Fallen Angel](https://www.youtube.com/watch?v=x3AxmZtIHkc)
 - [Matt Berry - 'Medicine' (Official Audio - Acid Jazz Records)](https://www.youtube.com/watch?v=C4VtLvVIHP8)
@@ -63,6 +62,7 @@ Kill the Wolf is the fourth studio album from English comedian and musician Matt
 - [Matt Berry - Village Dance (Kill the Wolf Album)](https://www.youtube.com/watch?v=MEok98HV7_8)
 - [Matt Berry - Farewell Summer Sun (Kill the Wolf Album)](https://www.youtube.com/watch?v=BUKw3KR01DA)
 - [Matt Berry Ukenwhistle](https://www.youtube.com/watch?v=gjd4bAPDh2E)
+- [Matt Berry - Kill The Wolf Box Set (UNBOXING)](https://www.youtube.com/watch?v=n_nt6clp3ck)
 
 ## Release Images
 {{< imageGrid >}}
@@ -74,5 +74,4 @@ Kill the Wolf is the fourth studio album from English comedian and musician Matt
 | Format         | Vinyl LP Album |
 | Label          | Acid Jazz |
 | Catalog Number | AJXLP334 |
-| Notes | The runouts are all stamped on both sides. |
-| Discogs URL    | [Matt Berry - Kill The Wolf](https://www.discogs.com/release/4708269-Matt-Berry-Kill-The-Wolf) |
+| Discogs URL    | [Matt Berry - Kill The Wolf](https://www.discogs.com/release/4708269-Matt-Berry-3-Kill-The-Wolf) |

@@ -4,7 +4,6 @@ artist_name: "Creedence Clearwater Revival"
 artist: "creedence-clearwater-revival"
 album_name: "Green River"
 date: 2015-09-15T15:20:21.000000Z
-release_date: "1969-08-03"
 release_id: "1582177"
 slug: "green-river-1582177"
 hideSummary: true
@@ -22,9 +21,10 @@ genres: ["Rock"]
 styles: ["Southern Rock", "Classic Rock"]
 ---
 
-CCR were at the height of their powers in 1969, <i>Green River</i> being the second of three LPs the band would release that year. Having found their sound on <i>Bayou Country</i>, Fogerty and crew fully step into their own with this release, which features the timeless singles "Bad Moon Rising", "Lodi" and of course the title track. <i>Willy and the Poor Boys</i> would soon follow, keeping up the band's ferocious pace, but if you had to pick just one CCR album, this should be it.
-        
-        
+Green River is the third studio album by the American rock band Creedence Clearwater Revival, released on August 7, 1969 by Fantasy Records. It was the second of three albums they released in that year, preceded by Bayou Country in January and followed by Willy and the Poor Boys in October.
+
+
+    
     
 
 
@@ -40,23 +40,23 @@ CCR were at the height of their powers in 1969, <i>Green River</i> being the sec
 9. The Night Time Is The Right Time (3:07)
 
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/green-river/1440952818" >}}<br>
+{{< applemusic url="https://music.apple.com/gb/album/creedence-clearwater-revival/1440944801" >}}<br>
 
 
 ## Videos
-### Green River
-{{< youtube id="w0VI1zByJ3s" title="Green River" >}}<br>
+### Bad Moon Rising
+{{< youtube id="SuRCxakQt-c" title="Bad Moon Rising" >}}<br>
 ### More Videos
 
-- [Creedence Clearwater Revival - Green River (Official Lyric Video)](https://www.youtube.com/watch?v=L5V9nK7-OkM)
+- [Green River](https://www.youtube.com/watch?v=w0VI1zByJ3s)
+- [The Night Time Is The Right Time](https://www.youtube.com/watch?v=AW1KKYaqrnk)
 - [Commotion](https://www.youtube.com/watch?v=WCBcI5g3KbY)
 - [Tombstone Shadow](https://www.youtube.com/watch?v=cUArM2kAZoM)
 - [Wrote A Song For Everyone](https://www.youtube.com/watch?v=2xzYM2N3WlQ)
-- [Bad Moon Rising](https://www.youtube.com/watch?v=SuRCxakQt-c)
 - [Lodi](https://www.youtube.com/watch?v=H-Oiz8QaH2M)
 - [Cross-Tie Walker](https://www.youtube.com/watch?v=iYEUbYLEcj0)
 - [Sinister Purpose](https://www.youtube.com/watch?v=fs2bbXhPCcE)
-- [The Night Time Is The Right Time](https://www.youtube.com/watch?v=AW1KKYaqrnk)
+- [Creedence Clearwater Revival - Green River (Official Lyric Video)](https://www.youtube.com/watch?v=L5V9nK7-OkM)
 
 ## Release Images
 {{< imageGrid >}}

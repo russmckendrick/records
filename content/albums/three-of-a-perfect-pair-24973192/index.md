@@ -14,7 +14,7 @@ cover:
 additional_images:
     - "https://i.discogs.com/aYH7ti_4JlwERgpEkp7ivEZkCwLosp0bvaLjIqDG_7A/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0OTcz/MTkyLTE2Nzc0Mjg4/NzgtNDA1NS5qcGVn.jpeg"
     - "https://i.discogs.com/--ZcVQOtDuhzN00y6_BtePlsZI4g9cXMNI2aysx9Wqo/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0OTcz/MTkyLTE2Nzc0Mjg4/NzktMTM0Mi5qcGVn.jpeg"
-    - "https://i.discogs.com/GBbSC-KYEm_Xt50S7He84N5swtvbLiyHRewWiXiZgFI/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0OTcz/MTkyLTE2Nzc0Mjg4/ODItMjg3MS5qcGVn.jpeg"
+    - "https://i.discogs.com/0d52Wp7gl2VKKNvSvw__DUibO5iRZa7Hy0P05o5N91c/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0OTcz/MTkyLTE2Nzc0Mjg4/ODItMjg3MS5qcGVn.jpeg"
     - "https://i.discogs.com/9Q8Ou4bmQkUSDDG2S9FVfky4mAObhxySl7pAQiA17_Y/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0OTcz/MTkyLTE2Nzc0Mjg4/ODItNzQ0My5qcGVn.jpeg"
     - "https://i.discogs.com/H_AY1aOfzYSOal1y55LSwkWE68UDUl7jB93pTjHGw9M/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0OTcz/MTkyLTE2Nzc0Mjg4/ODAtODM1NC5qcGVn.jpeg"
     - "https://i.discogs.com/_ZfB16ybrBrE3oaAH2DuhQsilJKQOjdYWuudw4F2bXM/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0OTcz/MTkyLTE2Nzc0Mjg4/ODItMzc4MC5qcGVn.jpeg"
@@ -24,7 +24,7 @@ genres: ["Rock"]
 styles: ["Prog Rock"]
 ---
 
-Three of a Perfect Pair is the tenth studio album by English band King Crimson, released in March 1984 by record label E.G. It is the final studio album to feature the quartet of Robert Fripp, Adrian Belew, Tony Levin and Bill Bruford.
+Three of a Perfect Pair is the tenth studio album by English progressive rock band King Crimson, released on 23 March 1984 in the UK by E.G. Records. It is the group's final studio album to feature the quartet of Robert Fripp, Adrian Belew, Tony Levin and Bill Bruford, which broke up later that year, though all four would appear in the sextet lineup featured on THRAK in 1995.
 
 
     

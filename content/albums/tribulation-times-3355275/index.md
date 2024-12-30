@@ -37,12 +37,16 @@ styles: []
 13. Golden Streets
 14. We Will Be Free
 
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/tribulation/2762612" >}}<br>
 
 
 ## Videos
 ### Dennis Brown - Tribulation Times (Reggae Album)
 {{< youtube id="XKGZLUUkl5w" title="Dennis Brown - Tribulation Times (Reggae Album)" >}}<br>
+### More Videos
 
+- [Dennis Brown - Tribulation Times (Reggae Album)](https://www.youtube.com/watch?v=XKGZLUUkl5w)
 
 ## Release Images
 {{< imageGrid >}}

@@ -20,11 +20,13 @@ additional_images:
     - "https://i.discogs.com/5WYrHeII0lNeY6S13PTDKIwS26Y8adSQWHxT5ss38lQ/rs:fit/g:sm/q:90/h:592/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NzYz/NzM1LTE2NTkyNzc3/ODUtNTcyNy5qcGVn.jpeg"
     - "https://i.discogs.com/rFzxqHsK8KbGb3PeCDJ_HjWh1Q9JRx9wiAgyqwyLdKk/rs:fit/g:sm/q:90/h:298/w:300/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NzYz/NzM1LTE2MjU1NjQy/OTYtODg4My5qcGVn.jpeg"
     - "https://i.discogs.com/_qLLAKm6Aw6_8Zjxtk72pMFy65MTwHKYMObDP4p_FDA/rs:fit/g:sm/q:90/h:300/w:300/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NzYz/NzM1LTE2MjU1NjQy/OTctNzIyNC5qcGVn.jpeg"
-genres: ["Folk, World, & Country"]
-styles: []
+genres: ["Rock"]
+styles: ["Art Rock"]
 ---
 
 Showtunes is the fifteenth studio album by American rock band Lambchop. It was released on May 21, 2021, on Merge Records in the United States and on City Slang elsewhere.
+
+
     
     
 
@@ -40,7 +42,7 @@ Showtunes is the fifteenth studio album by American rock band Lambchop. It was r
 8. The Last Benedict (4:03)
 
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/showtunes/1555645416" >}}<br>
+{{< applemusic url="https://music.apple.com/gb/album/showtunes/1721065005" >}}<br>
 
 
 ## Videos
@@ -48,12 +50,12 @@ Showtunes is the fifteenth studio album by American rock band Lambchop. It was r
 {{< youtube id="KzNWfgRFjhY" title="Lambchop - A Chef's Kiss (Official Lyric Video)" >}}<br>
 ### More Videos
 
-- [Drop C](https://www.youtube.com/watch?v=JW0CDPY5dJc)
-- [Papa Was a Rolling Stone Journalist](https://www.youtube.com/watch?v=E4JXIgoTfk4)
+- [Drop C](https://www.youtube.com/watch?v=0fVsNU2fHKM)
+- [Papa Was a Rolling Stone Journalist](https://www.youtube.com/watch?v=Q4WYSF2MKMk)
 - [Lambchop - Fuku (Official Video)](https://www.youtube.com/watch?v=KP8SGpb0PTc)
-- [Unknown Man](https://www.youtube.com/watch?v=fvfc1L1G9CI)
-- [Blue Leo](https://www.youtube.com/watch?v=_iGq-D8kvYM)
-- [Impossible Meatballs](https://www.youtube.com/watch?v=5dPL5qsoHXA)
+- [Unknown Man](https://www.youtube.com/watch?v=mOqtFK3zUNo)
+- [Blue Leo](https://www.youtube.com/watch?v=R9xUDjMO-B0)
+- [Impossible Meatballs](https://www.youtube.com/watch?v=yYnB046yWGI)
 - [Lambchop - The Last Benedict (Official Video)](https://www.youtube.com/watch?v=GQIFEjqnqCQ)
 
 ## Release Images

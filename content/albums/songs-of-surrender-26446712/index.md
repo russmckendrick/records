@@ -21,10 +21,10 @@ additional_images:
     - "https://i.discogs.com/sFaRzWqRv7igLYCg5nDoeeQwbYnsgV9yqcwergIkx7k/rs:fit/g:sm/q:90/h:518/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NDQ2/NzEyLTE2Nzk0MDU5/MjMtODk3Mi5qcGVn.jpeg"
     - "https://i.discogs.com/bA4YC5ifDOss_7JHPOiUKsmPVOepsv_VH30RwndZS9A/rs:fit/g:sm/q:90/h:493/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NDQ2/NzEyLTE2Nzk0MDU5/MjQtMjg1My5qcGVn.jpeg"
     - "https://i.discogs.com/RX5r4x5luiaReVjS1BVoCKTKzIUu9yhOzGvnd5yotss/rs:fit/g:sm/q:90/h:528/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NDQ2/NzEyLTE2Nzk0MDU5/MjMtMTc5NS5qcGVn.jpeg"
-    - "https://i.discogs.com/o0XDCyNxwwJbr1MYr1uvTjUdcPt99mTi1NtbyCti5VU/rs:fit/g:sm/q:90/h:602/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NDQ2/NzEyLTE2Nzk0MDU5/MjEtODA2My5qcGVn.jpeg"
-    - "https://i.discogs.com/gMcaLvt7hbXavGzvBF942gqDVC4r9AlafBd92GI6_oE/rs:fit/g:sm/q:90/h:602/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NDQ2/NzEyLTE2Nzk0MDU5/MjItMTczMy5qcGVn.jpeg"
+    - "https://i.discogs.com/PBoEihwtnE1Qd_h_LMJOm_XMVPzczJ8Fq3YN_uW_4jg/rs:fit/g:sm/q:90/h:600/w:597/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NDQ2/NzEyLTE2Nzk0MDU5/MjEtODA2My5qcGVn.jpeg"
+    - "https://i.discogs.com/YQdSzgsO-w0MDpOrnH_d3FZFynmlxJqHxVrQB5pkMnM/rs:fit/g:sm/q:90/h:600/w:597/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NDQ2/NzEyLTE2Nzk0MDU5/MjItMTczMy5qcGVn.jpeg"
     - "https://i.discogs.com/uTKaPJyMJrHCG5pZb97Z06tXtC6wWx9KsmdGog2hiNI/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NDQ2/NzEyLTE2Nzk0MDU5/MjItMzI2Ni5qcGVn.jpeg"
-    - "https://i.discogs.com/Bh3PuZdH9DXjddTu3KIKLvv8HMUsrbwepGp15RZZ-GI/rs:fit/g:sm/q:90/h:601/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NDQ2/NzEyLTE2Nzk0MDU5/MjEtNTk1OS5qcGVn.jpeg"
+    - "https://i.discogs.com/lei7uzThOuvEIkOVEJDJBRnslkv4w29omBdHJHOsT4A/rs:fit/g:sm/q:90/h:600/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NDQ2/NzEyLTE2Nzk0MDU5/MjEtNTk1OS5qcGVn.jpeg"
 genres: ["Rock"]
 styles: ["Alternative Rock", "Acoustic"]
 ---
@@ -81,7 +81,46 @@ The Edge: “What's fun is to hear things like 'City of Blinding Lights', which 
 {{< applemusic url="https://music.apple.com/gb/album/songs-of-surrender/1664119641" >}}<br>
 
 
+## Videos
+### One (Songs Of Surrender)
+{{< youtube id="-9P-S7gBess" title="One (Songs Of Surrender)" >}}<br>
+### More Videos
 
+- [Sunday Bloody Sunday (Songs Of Surrender)](https://www.youtube.com/watch?v=bMg_Qpk0Mbo)
+- [Two Hearts Beat As One (Songs Of Surrender)](https://www.youtube.com/watch?v=m9Gp7sTKV8U)
+- [Where The Streets Have No Name (Songs Of Surrender)](https://www.youtube.com/watch?v=Id3P3o8zO_s)
+- [Stories For Boys (Songs Of Surrender)](https://www.youtube.com/watch?v=van5d8BUiZ4)
+- [Out Of Control (Songs Of Surrender)](https://www.youtube.com/watch?v=cQujKmaa2I4)
+- [Beautiful Day (Songs Of Surrender)](https://www.youtube.com/watch?v=Rs_khkPBnDk)
+- [Bad (Songs Of Surrender)](https://www.youtube.com/watch?v=yKsnqlwpl_o)
+- [Every Breaking Wave (Songs Of Surrender)](https://www.youtube.com/watch?v=mKVUqFuY0Eg)
+- [Walk On (Ukraine) (Songs Of Surrender)](https://www.youtube.com/watch?v=kioYCUUidPY)
+- [U2 - Pride (In The Name Of Love) (Songs Of Surrender / Lyric Video)](https://www.youtube.com/watch?v=thmcVMobt0s)
+- [Who's Gonna Ride Your Wild Horses (Songs Of Surrender)](https://www.youtube.com/watch?v=cVllszwqgE4)
+- [Stuck In A Moment You Can't Get Out Of (Songs Of Surrender)](https://www.youtube.com/watch?v=EOQdLEhickM)
+- [Red Hill Mining Town (Songs Of Surrender)](https://www.youtube.com/watch?v=KM156Yde7Mg)
+- [Ordinary Love (Songs Of Surrender)](https://www.youtube.com/watch?v=AUYkU0UrGYQ)
+- [Sometimes You Can't Make It On Your Own (Songs Of Surrender)](https://www.youtube.com/watch?v=-xb0U0M_HC4)
+- [Dirty Day (Songs Of Surrender)](https://www.youtube.com/watch?v=rtI-fJdZrT4)
+- [The Miracle (Of Joey Ramone) (Songs Of Surrender)](https://www.youtube.com/watch?v=w46EjyJxfyA)
+- [City Of Blinding Lights (Songs Of Surrender)](https://www.youtube.com/watch?v=cTeEL2IMcj8)
+- [Vertigo (Songs Of Surrender)](https://www.youtube.com/watch?v=LSoOILF1j28)
+- [I Still Haven't Found What I'm Looking For (Songs Of Surrender)](https://www.youtube.com/watch?v=ZiYrePlWvv4)
+- [The Fly (Songs Of Surrender)](https://www.youtube.com/watch?v=bL5vydYvgYY)
+- [If God Will Send His Angels (Songs Of Surrender)](https://www.youtube.com/watch?v=UjzgqOuYNhQ)
+- [Desire (Songs Of Surrender)](https://www.youtube.com/watch?v=0PnK7IwSvEg)
+- [Until The End Of The World (Songs Of Surrender)](https://www.youtube.com/watch?v=8sYeBP7Jx3Q)
+- [Song For Someone (Songs Of Surrender)](https://www.youtube.com/watch?v=q4KVjRg9wnw)
+- [All I Want Is You (Songs Of Surrender)](https://www.youtube.com/watch?v=7XJjMxLTrHw)
+- [Peace On Earth (Songs Of Surrender)](https://www.youtube.com/watch?v=tQaS0V-TXLw)
+- [With Or Without You (Songs Of Surrender)](https://www.youtube.com/watch?v=B6dvvpKZYh8)
+- [Stay (Faraway, So Close!) (Songs Of Surrender)](https://www.youtube.com/watch?v=pJjKAM-4anQ)
+- [Lights Of Home (Songs Of Surrender)](https://www.youtube.com/watch?v=SxbMuxatFCE)
+- [Cedarwood Road (Songs Of Surrender)](https://www.youtube.com/watch?v=BYN_tqIFPc0)
+- [I Will Follow (Songs Of Surrender)](https://www.youtube.com/watch?v=wlcAgKQ7bTA)
+- [Miracle Drug (Songs Of Surrender)](https://www.youtube.com/watch?v=XfkUf0klVfs)
+- [The Little Things That Give You Away (Songs Of Surrender)](https://www.youtube.com/watch?v=t-A0v1O7E5M)
+- ["40" (Songs Of Surrender)](https://www.youtube.com/watch?v=5ba4RqOY0Ck)
 
 ## Release Images
 {{< imageGrid >}}

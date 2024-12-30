@@ -16,17 +16,17 @@ additional_images:
     - "https://i.discogs.com/RBibW4Hu0Vg7S9YZCDeKVgPhXKo6CQXEM4K9SmanIiw/rs:fit/g:sm/q:90/h:593/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1OTI3/ODc3LTE2MDIzMjE1/NDktMjk3NS5qcGVn.jpeg"
     - "https://i.discogs.com/KXzh4lfnHL8yhxTQlNW3ugkFuVQu4FrAF_MKIfmIUHs/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1OTI3/ODc3LTE2MDIzMjE1/NTAtNDYwOC5qcGVn.jpeg"
     - "https://i.discogs.com/0iaeMB9OS5KhpNxkbp0uUFReW1jZtSfiZGBsIUtg_50/rs:fit/g:sm/q:90/h:594/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1OTI3/ODc3LTE2MDIzMjE1/NTAtMzMyNy5qcGVn.jpeg"
-    - "https://i.discogs.com/EKGnnfD66-frl4yZNn_nTiggnJ_dV0bwBkxrG_3r9s0/rs:fit/g:sm/q:90/h:602/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1OTI3/ODc3LTE2MDIzMjE1/NTEtMjU0Ni5qcGVn.jpeg"
-    - "https://i.discogs.com/C9n-pryomzu9hLjG0N_JJFPqVxqvzMvL8niKgg-ys-U/rs:fit/g:sm/q:90/h:610/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1OTI3/ODc3LTE2MDIzMjE1/NTEtNDQwMC5qcGVn.jpeg"
+    - "https://i.discogs.com/Fr8i0Z4Pt_zQXxsWdudBM773vSO6flBCG4t-SakFNt8/rs:fit/g:sm/q:90/h:600/w:597/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1OTI3/ODc3LTE2MDIzMjE1/NTEtMjU0Ni5qcGVn.jpeg"
+    - "https://i.discogs.com/GfePaCg9WC5Xs1xnFYWco_XJOeO2CHB9mBbzt5Xstl4/rs:fit/g:sm/q:90/h:600/w:589/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1OTI3/ODc3LTE2MDIzMjE1/NTEtNDQwMC5qcGVn.jpeg"
     - "https://i.discogs.com/g44wuTJoHFuMPetu8_ShBQsrc0r3_Eh6gbLZDL9seWA/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1OTI3/ODc3LTE2MDIzMjE1/NTEtNzEzNC5qcGVn.jpeg"
     - "https://i.discogs.com/wNfY9i80QPHNWjQRCD7HgygAYHdOJqwXavqvOaTdWsE/rs:fit/g:sm/q:90/h:594/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1OTI3/ODc3LTE2MDIzMjE1/NTItMzkzNi5qcGVn.jpeg"
-    - "https://i.discogs.com/gdCzdLIEhoxXZkrIl_9aD_pMbPcthH3vDidxn-JHe1k/rs:fit/g:sm/q:90/h:606/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1OTI3/ODc3LTE2MDIzMjE1/NTItMTc2Mi5qcGVn.jpeg"
-    - "https://i.discogs.com/jtpCNI12oFeesHfXmfylKhLBYN6OGigY4yTZnnYZyo4/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1OTI3/ODc3LTE2MDIzMjE1/NTMtNjc2OS5qcGVn.jpeg"
+    - "https://i.discogs.com/P483awYmYjB60pjglMSzeMxFE1kzOV7tH3Xo6VacIgE/rs:fit/g:sm/q:90/h:600/w:594/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1OTI3/ODc3LTE2MDIzMjE1/NTItMTc2Mi5qcGVn.jpeg"
+    - "https://i.discogs.com/haheVaDvlJ-g2GPAhAeR-W_nB-8TGJjid5FRyx0ZijE/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1OTI3/ODc3LTE2MDIzMjE1/NTMtNjc2OS5qcGVn.jpeg"
     - "https://i.discogs.com/cNcKOsn2DR3bZkasYNCcuQRFGkiqhDocYsQep3Z2ZIM/rs:fit/g:sm/q:90/h:590/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1OTI3/ODc3LTE2MDIzMjE1/NTMtNzM0OS5qcGVn.jpeg"
     - "https://i.discogs.com/25gn5HFAb5GqfZAWLMpxquD32RiwJe8-lzqvsW-fL5k/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1OTI3/ODc3LTE2MDIzMjE1/NTMtNjg4Mi5qcGVn.jpeg"
     - "https://i.discogs.com/FnHqgcQS9iiv7HDcom1SCYy7OKrIlOG1wpGo9Hggm4U/rs:fit/g:sm/q:90/h:593/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1OTI3/ODc3LTE2MDIzMjE1/NTQtNDU4NC5qcGVn.jpeg"
     - "https://i.discogs.com/PCA2t761IKwbAEb9yV1o7JcuVoYD1I4Ugftu8nqPFDc/rs:fit/g:sm/q:90/h:295/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1OTI3/ODc3LTE2MDU0Mzg2/OTktNjY2Ny5qcGVn.jpeg"
-    - "https://i.discogs.com/cM0q_mloG2CMulFimq_drFS5lXFES7LciOUe2BwwRWY/rs:fit/g:sm/q:90/h:851/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1OTI3/ODc3LTE2MDIzMjE1/NTQtMjY0MS5qcGVn.jpeg"
+    - "https://i.discogs.com/eflKY4e3MxzSIrWuG0GtfmLCkEaiibwRd6-RDaOBOX4/rs:fit/g:sm/q:90/h:600/w:422/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1OTI3/ODc3LTE2MDIzMjE1/NTQtMjY0MS5qcGVn.jpeg"
 genres: ["Rock"]
 styles: ["Prog Rock", "Psychedelic Rock"]
 ---
@@ -67,7 +67,16 @@ styles: ["Prog Rock", "Psychedelic Rock"]
 ### More Videos
 
 - [Nick Mason's Saucerful Of Secrets - See Emily Play (Live At The Roundhouse)](https://www.youtube.com/watch?v=E9AFBZrJfpU)
-- [Nick Mason's Saucerful of Secrets - Live at the Roundhouse. 2020. Progressive Rock. Full Album](https://www.youtube.com/watch?v=cno2EVHGJlk)
+- [Nick Mason's Saucerful Of Secrets - Astronomy Domine (Live At The Roundhouse)](https://www.youtube.com/watch?v=Wdn1OzCK5Yw)
+- [Nick Mason's Saucerful Of Secrets - Fearless (Live At The Roundhouse)](https://www.youtube.com/watch?v=YZXKgl8turY)
+- [Nick Mason's Saucerful Of Secrets - Green Is The Colour (Live At The Roundhouse)](https://www.youtube.com/watch?v=Hl46DJGRonw)
+- [Nick Mason's Saucerful Of Secrets - Set The Controls For The Heart Of The Sun (Live)](https://www.youtube.com/watch?v=qGgYhSon9nM)
+- [Nick Mason's Saucerful Of Secrets - One Of These Days (Live At The Roundhouse)](https://www.youtube.com/watch?v=ab8cP26wjU4)
+- [Nick Mason's Saucerful Of Secrets - See Emily Play (Live At The Roundhouse)](https://www.youtube.com/watch?v=E9AFBZrJfpU)
+- [Nick Mason's Saucerful Of Secrets - Astronomy Domine (Live At The Roundhouse)](https://www.youtube.com/watch?v=Wdn1OzCK5Yw)
+- [Nick Mason's Saucerful Of Secrets - Fearless (Live At The Roundhouse)](https://www.youtube.com/watch?v=YZXKgl8turY)
+- [Nick Mason's Saucerful Of Secrets - Green Is The Colour (Live At The Roundhouse)](https://www.youtube.com/watch?v=Hl46DJGRonw)
+- [Nick Mason's Saucerful Of Secrets - Set The Controls For The Heart Of The Sun (Live)](https://www.youtube.com/watch?v=qGgYhSon9nM)
 
 ## Release Images
 {{< imageGrid >}}
@@ -78,5 +87,5 @@ styles: ["Prog Rock", "Psychedelic Rock"]
 | Format         | Vinyl 2× LP Album (Die Cut Slipcase) |
 | Label          | Legacy |
 | Catalog Number | 19075982711 |
-| Notes | Sticker: Nick Mason's Saucerful Of Secrets Perform Over Two Hours Of Early Pink Floyd Filmed Live At The Roundhouse In London 2LP Features Arnold Layne, See Emily Play & Set The Controls For The Heart Of The Sun  This Product Contains : --Die Cut Slipcase & Printed Inner Bags -- MP3 Download Card  Sleeve gatefold Made in the EU.  |
+| Notes | Sticker: Nick Mason's Saucerful Of Secrets Perform Over Two Hours Of Early Pink Floyd Filmed Live At The Roundhouse In London 2LP Features Arnold Layne, See Emily Play & Set The Controls For The Heart Of The Sun  This Product Contains : --Die Cut Slipcase & Printed Inner Bags -- MP3 Download Card  Sleeve gatefold Made in the EU.  Runouts etched, except [MPO logo] 20...... , stamped |
 | Discogs URL    | [Nick Mason's Saucerful Of Secrets - Live At The Roundhouse](https://www.discogs.com/release/15927877-Nick-Masons-Saucerful-Of-Secrets-Live-At-The-Roundhouse) |

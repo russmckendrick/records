@@ -12,7 +12,7 @@ cover:
     alt: "The Mighty Boosh - The Complete Radio Series by The Mighty Boosh"
     caption: "The Mighty Boosh - The Complete Radio Series by The Mighty Boosh"
 additional_images:
-    - "https://i.discogs.com/SvtjfqZa_aTpt3mHnPqY9TfQ9O4Itf_Fk8-LyRyJ3Lc/rs:fit/g:sm/q:90/h:608/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNDg2/MDUyLTE1NTUxMTg0/NjYtNTM3MS5qcGVn.jpeg"
+    - "https://i.discogs.com/Bg-deEFHSXOQdgBTYdKwQXksZv-HToNobSv8lsiwkWA/rs:fit/g:sm/q:90/h:600/w:591/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNDg2/MDUyLTE1NTUxMTg0/NjYtNTM3MS5qcGVn.jpeg"
     - "https://i.discogs.com/JMxpTQod1wySsUtNM4d-zaVngdXGdblQdkX7njjKsV8/rs:fit/g:sm/q:90/h:348/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNDg2/MDUyLTE1NTUxMTg3/ODItODU5OS5qcGVn.jpeg"
 genres: ["Non-Music"]
 styles: ["Comedy", "Radioplay"]
@@ -28,18 +28,26 @@ styles: ["Comedy", "Radioplay"]
 5. Tundra
 6. Hitcher
 
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/devils-night-out/321147421" >}}<br>
 
 
 ## Videos
-### The Mighty Boosh -  Radio Show EP 2 - Jungle
-{{< youtube id="C4Fi2BQowkU" title="The Mighty Boosh -  Radio Show EP 2 - Jungle" >}}<br>
+### The Mighty Boosh -  Radio Show EP 2 - "Jungle"
+{{< youtube id="C4Fi2BQowkU" title="The Mighty Boosh -  Radio Show EP 2 - "Jungle"" >}}<br>
 ### More Videos
 
-- [The Mighty Boosh - Radio Show EP 3 - JAZZ](https://www.youtube.com/watch?v=sfU4yoRqpAc)
-- [The Mighty Boosh - Radio Show EP 6 - The Hitcher](https://www.youtube.com/watch?v=_FcOR6oCU7Q)
-- [The Mighty Boosh - Radio Show EP 4 - MUTANTS](https://www.youtube.com/watch?v=8X1KmgPIqjc)
-- [The Mighty Boosh - Radio Show EP 5 - Tundra](https://www.youtube.com/watch?v=ezF1qRBg1u8)
-- [The Mighty Boosh - Radio Show EP 1 - Taken](https://www.youtube.com/watch?v=3OZN1zyS7gY)
+- [The Mighty Boosh - Radio Show EP 3 - "JAZZ"](https://www.youtube.com/watch?v=sfU4yoRqpAc)
+- [The Mighty Boosh - Radio Show EP 6 - "The Hitcher"](https://www.youtube.com/watch?v=_FcOR6oCU7Q)
+- [The Mighty Boosh - Radio Show EP 4 - "MUTANTS"](https://www.youtube.com/watch?v=8X1KmgPIqjc)
+- [The Mighty Boosh - Radio Show EP 5 - "Tundra"](https://www.youtube.com/watch?v=ezF1qRBg1u8)
+- [The Mighty Boosh - Radio Show EP 1 - "Taken"](https://www.youtube.com/watch?v=3OZN1zyS7gY)
+- [The Mighty Boosh -  Radio Show EP 2 - "Jungle"](https://www.youtube.com/watch?v=C4Fi2BQowkU)
+- [The Mighty Boosh - Radio Show EP 3 - "JAZZ"](https://www.youtube.com/watch?v=sfU4yoRqpAc)
+- [The Mighty Boosh - Radio Show EP 6 - "The Hitcher"](https://www.youtube.com/watch?v=_FcOR6oCU7Q)
+- [The Mighty Boosh - Radio Show EP 4 - "MUTANTS"](https://www.youtube.com/watch?v=8X1KmgPIqjc)
+- [The Mighty Boosh - Radio Show EP 5 - "Tundra"](https://www.youtube.com/watch?v=ezF1qRBg1u8)
+- [The Mighty Boosh - Radio Show EP 1 - "Taken"](https://www.youtube.com/watch?v=3OZN1zyS7gY)
 
 ## Release Images
 {{< imageGrid >}}

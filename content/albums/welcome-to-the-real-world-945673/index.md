@@ -18,11 +18,14 @@ additional_images:
     - "https://i.discogs.com/FC6PclrVHVq0MilF129LOIEoPnDsvv4zHynZe1DEFxk/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk0NTY3/My0xMTc1ODcxODA1/LmpwZWc.jpeg"
     - "https://i.discogs.com/KMYkaEsoPhV3PTo4I3VMn4g_suUSH8BTPA6l3YBuJ7Q/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk0NTY3/My0xMzk5MzMzNjkw/LTY4OTIuanBlZw.jpeg"
     - "https://i.discogs.com/1eNS2B9_kqXKROHUFZ2gUa6j-2OBpdEzt_CdPVH6zjI/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk0NTY3/My0xMzk5MzMzNzA5/LTI5MzAuanBlZw.jpeg"
+    - "https://i.discogs.com/ynk_jtGMqiKz70LfW-sQTnKc_3ZfauYe1lqgt5rZa8c/rs:fit/g:sm/q:90/h:589/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk0NTY3/My0xNzM0Nzk3NTEw/LTkwODYuanBlZw.jpeg"
 genres: ["Rock", "Pop"]
 styles: ["Pop Rock"]
 ---
 
-Welcome to the Real World is the second studio album by American pop rock band Mr. Mister, released on November 27, 1985, by RCA Records. Two singles from the album, "Broken Wings" and "Kyrie", topped the US Billboard Hot 100 chart, while "Is It Love" peaked at number eight. Welcome to the Real World topped the Billboard 200 in March 1986. A remastered 25th-anniversary edition of the album was released as a digipak on April 20, 2010.
+Welcome to the Real World is the second studio album by American pop rock band Mr. Mister, released on June 20, 1985, by RCA Records. Two singles from the album, "Broken Wings" and "Kyrie", topped the US Billboard Hot 100 chart, while "Is It Love" peaked at number eight. Welcome to the Real World topped the Billboard 200 in March 1986. A remastered 25th-anniversary edition of the album was released as a digipak on April 20, 2010.
+
+
     
     
 
@@ -44,10 +47,15 @@ Welcome to the Real World is the second studio album by American pop rock band M
 
 
 ## Videos
-### Mr. Mister - Kyrie (Official Video)
-{{< youtube id="9NDjt4FzFWY" title="Mr. Mister - Kyrie (Official Video)" >}}<br>
+### Mr. Mister - Don't Slow Down (Welcome To The Real World) (1985 UK & Europe Vinyl)
+{{< youtube id="8XXiQZ67FhE" title="Mr. Mister - Don't Slow Down (Welcome To The Real World) (1985 UK & Europe Vinyl)" >}}<br>
 ### More Videos
 
+- [Mr. Mister - Broken Wings (1985)](https://www.youtube.com/watch?v=lGDuWCsym6I)
+- [Mr. Mister - Kyrie (1985)](https://www.youtube.com/watch?v=rV5yZY8kLKY)
+- [Mr. Mister - Don't Slow Down (Welcome To The Real World) (1985 UK & Europe Vinyl)](https://www.youtube.com/watch?v=8XXiQZ67FhE)
+- [Broken Wings | Mr. Mister | Welcome To The Real World | 1985 RCA LP](https://www.youtube.com/watch?v=ny7Bz0Vsl5c)
+- [Mr. Mister - Kyrie (Official Video)](https://www.youtube.com/watch?v=9NDjt4FzFWY)
 - [Mr. Mister - Broken Wings (Official Video)](https://www.youtube.com/watch?v=nKhN1t_7PEY)
 - [Mr. Mister - Is It Love](https://www.youtube.com/watch?v=nWxxRlVNM30)
 

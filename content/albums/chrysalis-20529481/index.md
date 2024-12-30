@@ -21,19 +21,19 @@ styles: ["Contemporary"]
 
 
 ## Tracklisting
-1. CHRYSALIS
-2. SEAHORSE
-3. DANU
-4. EMERGING FLIGHT
-5. BEFORE WE WAKE
-6. MIDNIGHT BIRD [FT. YVA]
-7. LUCID DREAMING
-8. FOREST WHISPERS
-9. SAIL WAVE
-10. AWAKENING
+1. Chrysalis
+2. Seahorse
+3. Danu
+4. Emerging Flight
+5. Before We Wake
+6. Midnight Bird
+7. Lucid Dreaming
+8. Forest Whispers
+9. Sail Wave
+10. Awakening
 
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/chrysalis/1572860774" >}}<br>
+{{< applemusic url="https://music.apple.com/gb/album/chrysalis/1729756604" >}}<br>
 
 
 ## Videos

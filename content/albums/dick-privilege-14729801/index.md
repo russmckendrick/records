@@ -13,8 +13,8 @@ cover:
     caption: "Dick Privilege by Vennart"
 additional_images:
     - "https://i.discogs.com/Truql_NKbrmiAmfpWPWDE-Xj6GYz-khplZosLB7xUjM/rs:fit/g:sm/q:90/h:593/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NzI5/ODAxLTE1ODk1Mzc2/NzQtOTc3My5qcGVn.jpeg"
-    - "https://i.discogs.com/o_wgTIsP3h0MIOloFziJz3nx1rwYTCkZFHcXIHymCOg/rs:fit/g:sm/q:90/h:604/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NzI5/ODAxLTE1ODk1Mzc2/NzQtMTAwOS5qcGVn.jpeg"
-    - "https://i.discogs.com/4TFzX8wlPysv3q1Hx0H-qRATTruLBrYQ6MLVL2iqDLw/rs:fit/g:sm/q:90/h:601/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NzI5/ODAxLTE1ODk1Mzc2/NzAtMTY4NC5qcGVn.jpeg"
+    - "https://i.discogs.com/OgXy3IwHYtecMRZviQ1tl0eJuVb--vJhyvp-Bg6o4qs/rs:fit/g:sm/q:90/h:600/w:595/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NzI5/ODAxLTE1ODk1Mzc2/NzQtMTAwOS5qcGVn.jpeg"
+    - "https://i.discogs.com/RmgXDjeyTf-6MQg7oKU1FcxZZeA9-LqJgNCu2aH-NhM/rs:fit/g:sm/q:90/h:600/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NzI5/ODAxLTE1ODk1Mzc2/NzAtMTY4NC5qcGVn.jpeg"
     - "https://i.discogs.com/V2ofF5XG5HHB70ABp8hF_vedYosvtAYe1WaJ_FcjR_4/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NzI5/ODAxLTE1ODk1Mzc2/NjktMTExOS5qcGVn.jpeg"
 genres: ["Rock"]
 styles: []

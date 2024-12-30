@@ -22,8 +22,10 @@ genres: ["Rock"]
 styles: ["Alternative Rock"]
 ---
 
-Monuments to an Elegy is the ninth studio album by American alternative rock band The Smashing Pumpkins, released on December 9, 2014 on Martha's Music. Band leader Billy Corgan noted that—like the band's previous release, Oceania—the album is part of the 34-track music project, Teargarden by Kaleidyscope.  It turned out to be the last part of the series due to cancellation of the project in 2018. This is their second album after 1998's Adore to not feature original drummer Jimmy Chamberlin, and their second after 2007's Zeitgeist to not feature original bassist D'arcy Wretzky (Corgan took over the bass playing for this album, and continued for their subsequent albums). Corgan and guitarist Jeff Schroeder recorded the album as a duo, with Mötley Crüe's Tommy Lee adding drum parts. This was the last album before the return of original guitarist James Iha and drummer Chamberlin in 2018.
+Monuments to an Elegy is the ninth studio album by American alternative rock band The Smashing Pumpkins, released on December 9, 2014 on Martha's Music. Band leader Billy Corgan noted that—like the band's previous release, Oceania—the album is part of the 34-track music project, Teargarden by Kaleidyscope.  It turned out to be the last part of the series due to cancellation of the project in 2018. Corgan and guitarist Jeff Schroeder recorded the album as a duo, with Mötley Crüe's Tommy Lee adding drum parts. This was the last album before the return of original guitarist James Iha and drummer Jimmy Chamberlin in 2018.
 The album received generally positive reviews from music critics, but sold poorly compared to the band's previous albums, peaking at number 33 in the U.S. and number 59 in the U.K., thus making it (at the time) their lowest charting album in both regions since their debut, Gish (1991).
+
+
     
     
 
@@ -48,7 +50,8 @@ The album received generally positive reviews from music critics, but sold poorl
 {{< youtube id="UHMSDYtxsu4" title="The Smashing Pumpkins - Tiberius (Audio)" >}}<br>
 ### More Videos
 
-- [Monuments](https://www.youtube.com/watch?v=wXPhtEO1IDk)
+- [Monuments](https://www.youtube.com/watch?v=5nGo_QZKbOA)
+- [Anaise!](https://www.youtube.com/watch?v=g5x7xxPC0UI)
 
 ## Release Images
 {{< imageGrid >}}

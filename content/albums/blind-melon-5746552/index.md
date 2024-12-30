@@ -23,9 +23,9 @@ genres: ["Rock"]
 styles: ["Alternative Rock"]
 ---
 
-Blind Melon is the debut studio album by American rock band Blind Melon, released on September 22, 1992, through Capitol Records. "No Rain" became Blind Melon's breakthrough single.
-
-
+Soup is the second studio album by American rock band Blind Melon, released on August 15, 1995, through Capitol Records. It is the band's last album released during the lifetime of vocalist Shannon Hoon.
+Soup received generally mixed reviews from critics and fared poorly commercially, with the album only reaching number 28 on the US Billboard 200 albums chart and going on to sell 217,000 copies in the United States by October 1996. Hoon's death from a fatal drug overdose two months after the album's release resulted in the album's promotion being abruptly cut off, further affecting sales.
+The album has retrospectively been considered a "dark horse" in the alternative rock genre.
     
     
 
@@ -46,7 +46,7 @@ Blind Melon is the debut studio album by American rock band Blind Melon, release
 13. Time (6:01)
 
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/blind-melon/725821342" >}}<br>
+{{< applemusic url="https://music.apple.com/gb/album/the-best-of-blind-melon/716703910" >}}<br>
 
 
 ## Videos
@@ -55,19 +55,27 @@ Blind Melon is the debut studio album by American rock band Blind Melon, release
 ### More Videos
 
 - [Blind Melon - Change](https://www.youtube.com/watch?v=Yn1WbBaWTdc)
+- [No Rain (Remastered 2002)](https://www.youtube.com/watch?v=6oipFiNPfdY)
+- [Blind Melon - Tones of Home](https://www.youtube.com/watch?v=WKJO67NszfA)
+- [Blind Melon - No Rain - Lyrics](https://www.youtube.com/watch?v=Miec205fvnE)
+- [Blind Melon - No Rain](https://www.youtube.com/watch?v=SNny8w18QOs)
+- [Blind Melon - Galaxie](https://www.youtube.com/watch?v=ktZoUHcP0wI)
+- [Blind Melon - Mouthful of Cavities (OFFICIAL VIDEO with Jena Kraus)](https://www.youtube.com/watch?v=vZhqoINx41o)
+- [The Pusher](https://www.youtube.com/watch?v=xUZDmtn6Wvo)
+- [Blind Melon Holyman](https://www.youtube.com/watch?v=AVFvWL0XN4M)
 - [Blind Melon - I Wonder (Official Music Video)](https://www.youtube.com/watch?v=raFcoygsfFI)
-- [Blind Melon - Dear Ol' Dad](https://www.youtube.com/watch?v=SBmA705ULjc)
+- [Blind Melon - Three Is A Magic Number](https://www.youtube.com/watch?v=LVfe6rdHRKI)
+- [Blind Melon - Soul One](https://www.youtube.com/watch?v=4Ke4WblYDqE)
+- [Blind Melon - Toes Across the Floor](https://www.youtube.com/watch?v=3asQ7VS3LgU)
+- [Blind Melon - Change (live at Alternative Nation in 1993)](https://www.youtube.com/watch?v=rZOsIfRJGKU)
 - [Soak The Sin](https://www.youtube.com/watch?v=38S2Iq3cslY)
-- [Tones Of Home](https://www.youtube.com/watch?v=Kp8xCIJgFDI)
-- [Paper Scratcher](https://www.youtube.com/watch?v=em5bxko-8q4)
-- [Dear Ol' Dad](https://www.youtube.com/watch?v=5ZQ3OQpk828)
-- [Change](https://www.youtube.com/watch?v=OyPQ5VSX_rI)
-- [Deserted](https://www.youtube.com/watch?v=WaN-EDK2Rv0)
-- [Sleepyhouse](https://www.youtube.com/watch?v=WOVGYcl5mXA)
-- [Holyman](https://www.youtube.com/watch?v=EKJ-YqVtZec)
-- [Seed To A Tree](https://www.youtube.com/watch?v=HtoKGAmCCrM)
-- [Drive](https://www.youtube.com/watch?v=kgwqrCqEm2U)
-- [Time](https://www.youtube.com/watch?v=8AO4n6W_cTA)
+- [Woodstock 1994 Highlights - Soup - Blind Melon - 8/12/1994 - Woodstock 94](https://www.youtube.com/watch?v=EMVBUvvYisQ)
+- [Blind Melon~ Intimate, Interactive (full show)](https://www.youtube.com/watch?v=z_r3jMBJ7CI)
+- [Blind Melon - Change - 1994-04-08](https://www.youtube.com/watch?v=Nxy5v_PscLI)
+- [Blind Melon - No Rain](https://www.youtube.com/watch?v=3qVPNONdF58)
+- [Blind Melon - I Wonder (Official Music Video)](https://www.youtube.com/watch?v=raFcoygsfFI)
+- [Blind Melon - Change](https://www.youtube.com/watch?v=Yn1WbBaWTdc)
+- [Blind Melon - Dear Ol' Dad](https://www.youtube.com/watch?v=SBmA705ULjc)
 
 ## Release Images
 {{< imageGrid >}}
@@ -75,7 +83,7 @@ Blind Melon is the debut studio album by American rock band Blind Melon, release
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Wikipedia URL | https://en.wikipedia.org/wiki/Blind_Melon_(album) |
+| Wikipedia URL | https://en.wikipedia.org/wiki/Soup_(Blind_Melon_album) |
 | Format         | Vinyl LP Album Reissue (180 Gram) |
 | Label          | Music On Vinyl |
 | Catalog Number | MOVLP1100 |

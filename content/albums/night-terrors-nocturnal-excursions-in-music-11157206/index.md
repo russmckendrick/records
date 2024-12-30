@@ -47,6 +47,14 @@ styles: []
 - [Mr Green Genes](https://www.youtube.com/watch?v=QV6POsiCALs)
 - [MATT BERRY-Hey little girl](https://www.youtube.com/watch?v=0W8Dl9qczsw)
 - [Matt Berry - Night Terrors (Clark Remix)](https://www.youtube.com/watch?v=KVwpDYbf7Eo)
+- [Matt Berry - The Night Terrors (Saint Etienne Remix)](https://www.youtube.com/watch?v=m32LRNhhNXQ)
+- [Middle Of The East](https://www.youtube.com/watch?v=GwW94fHiSe4)
+- [Angi](https://www.youtube.com/watch?v=6vPpgjU7yK4)
+- [MATT BERRY-Lord above (Matt Berry meets Thomas Walsh)](https://www.youtube.com/watch?v=W3SFPuZlPZY)
+- [Any Colour You Like](https://www.youtube.com/watch?v=wL5B4TTwaLc)
+- [Mr Green Genes](https://www.youtube.com/watch?v=QV6POsiCALs)
+- [MATT BERRY-Hey little girl](https://www.youtube.com/watch?v=0W8Dl9qczsw)
+- [Matt Berry - Night Terrors (Clark Remix)](https://www.youtube.com/watch?v=KVwpDYbf7Eo)
 
 ## Release Images
 {{< imageGrid >}}
@@ -58,4 +66,4 @@ styles: []
 | Label          | Acid Jazz |
 | Catalog Number | AJXLP415 |
 | Notes | Pre-orders from label website were signed. |
-| Discogs URL    | [Matt Berry - Night Terrors (Nocturnal Excursions In Music)](https://www.discogs.com/release/11157206-Matt-Berry-Night-Terrors-Nocturnal-Excursions-In-Music) |
+| Discogs URL    | [Matt Berry - Night Terrors (Nocturnal Excursions In Music)](https://www.discogs.com/release/11157206-Matt-Berry-3-Night-Terrors-Nocturnal-Excursions-In-Music) |

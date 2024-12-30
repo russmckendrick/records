@@ -12,7 +12,7 @@ cover:
     alt: "The Marquee - 30 Legendary Years by Various"
     caption: "The Marquee - 30 Legendary Years by Various"
 additional_images:
-    - "https://i.discogs.com/dXBHM8CNuE4Xz4GJvg3W3ygtCpEHExGbUWdDnk2Y74U/rs:fit/g:sm/q:90/h:451/w:447/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2Nzk0/MDUtMTUxNzMxNjMy/Ny04NDY3LmpwZWc.jpeg"
+    - "https://i.discogs.com/Fen2yPPWblzDu9M5ouU7hAsFJPHM8dHohwVFBXv6_r4/rs:fit/g:sm/q:90/h:600/w:591/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2Nzk0/MDUtMTY5OTcwNzM5/NS03Mjc0LmpwZWc.jpeg"
     - "https://i.discogs.com/dO391UxJCvFtEuKQwNGnHXEiEF8j7PNxpa4qlanXb10/rs:fit/g:sm/q:90/h:304/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2Nzk0/MDUtMTUxNzMxNjM0/Ny03ODA2LmpwZWc.jpeg"
     - "https://i.discogs.com/GvAFxwvIKLA8T893kxN-zzc-tp6f9_tEgLbROEtB1Uw/rs:fit/g:sm/q:90/h:375/w:383/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2Nzk0/MDUtMTUxNzMxNjM0/MC0xNjAwLmpwZWc.jpeg"
     - "https://i.discogs.com/9G0ErJpMv1442LDDe1JjuXiPOOxPPH1yauGLmdEfDQU/rs:fit/g:sm/q:90/h:393/w:393/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2Nzk0/MDUtMTUxNzMxNjM1/NS0xNDQwLmpwZWc.jpeg"

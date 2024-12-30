@@ -13,12 +13,12 @@ cover:
     alt: "From Capelton Hill by Stars"
     caption: "From Capelton Hill by Stars"
 additional_images:
-    - "https://i.discogs.com/OuPuCYRCkgTE5YuR33mgMbJk7lEKYBI4gjqyPBljY1E/rs:fit/g:sm/q:90/h:612/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMzgz/MzkxLTE2NjI4MTk0/NDUtOTg5My5qcGVn.jpeg"
+    - "https://i.discogs.com/FrGWS0Gj7hqCZd319N8L8ZlqS7t6IeWLiU4t_ABeups/rs:fit/g:sm/q:90/h:600/w:588/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMzgz/MzkxLTE2NjI4MTk0/NDUtOTg5My5qcGVn.jpeg"
     - "https://i.discogs.com/G-4rRCInIeg_5YwqC-jypSeuA3EfoOnKxkvsiPgJnIs/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMzgz/MzkxLTE2NjI4MTk0/NDYtNjA2Ny5qcGVn.jpeg"
-    - "https://i.discogs.com/YN8ip9FS0y7isAG1GTHo8wvgfCdBLYRr46VQLGxe4wk/rs:fit/g:sm/q:90/h:618/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMzgz/MzkxLTE2NjI4MTk0/NDUtNjAxNi5qcGVn.jpeg"
-    - "https://i.discogs.com/WpoHg_sWFRq5VbjkXcFUJDQbnJWbc0faa9nG4t7WVAQ/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMzgz/MzkxLTE2NjI4MTk0/NDYtNDYxNS5qcGVn.jpeg"
-    - "https://i.discogs.com/zPsH3j15xl2cRUdmSsH_XMPAoVxGguoQptjbEwglNvE/rs:fit/g:sm/q:90/h:612/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMzgz/MzkxLTE2NjI4MTk0/NDMtNTk0OS5qcGVn.jpeg"
-    - "https://i.discogs.com/4dmmGbwHZLoztnl0eLXYCs4fMOCmhcDj_AWL8FFwjUo/rs:fit/g:sm/q:90/h:614/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMzgz/MzkxLTE2NjI4MTk0/NDQtNzEzNC5qcGVn.jpeg"
+    - "https://i.discogs.com/dMvMJaB2REFQQY2_Z2h3wN8-rZFr4DIr1iYECy2gZb8/rs:fit/g:sm/q:90/h:600/w:582/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMzgz/MzkxLTE2NjI4MTk0/NDUtNjAxNi5qcGVn.jpeg"
+    - "https://i.discogs.com/IeNOyJqYav_1hy0HPUKhVaRydaLBjBe5Cx5_Wst-KjY/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMzgz/MzkxLTE2NjI4MTk0/NDYtNDYxNS5qcGVn.jpeg"
+    - "https://i.discogs.com/51ok2NgFBxnQU1MZi_RiqH9SPmKpTR7nuXDGEF0ZIKs/rs:fit/g:sm/q:90/h:600/w:587/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMzgz/MzkxLTE2NjI4MTk0/NDMtNTk0OS5qcGVn.jpeg"
+    - "https://i.discogs.com/8vseYVt40LVehtb1ioW0Nrp9sS3plkXlsSCsY2aAtPw/rs:fit/g:sm/q:90/h:600/w:585/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMzgz/MzkxLTE2NjI4MTk0/NDQtNzEzNC5qcGVn.jpeg"
 genres: ["Rock"]
 styles: ["Indie Rock"]
 ---

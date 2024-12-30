@@ -14,8 +14,8 @@ cover:
 additional_images:
     - "https://i.discogs.com/w9DEIt5j9TMQpaMuIfLPesZuC-uIm7-21L6RnDd2baE/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU0MjE5/NjgtMTM5NTg1MDc2/My01OTYxLmpwZWc.jpeg"
     - "https://i.discogs.com/rskvie9ATTaigzRyipiUgF3CaYJoo2tWzckYnFs4A2s/rs:fit/g:sm/q:90/h:525/w:500/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU0MjE5/NjgtMTM5NTg1MDc3/Ni00Njk5LmpwZWc.jpeg"
-    - "https://i.discogs.com/On2ErsUEX63Dqrms2JbrvZ1ovvVTjP3p0DaQl8Hpyhk/rs:fit/g:sm/q:90/h:603/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU0MjE5/NjgtMTM5NTg1MDc4/Ny01NjY1LmpwZWc.jpeg"
-    - "https://i.discogs.com/OoMTtUKPvW1yCyYn8vWz99jCrNwBLSZxJIJs9SfEEJ8/rs:fit/g:sm/q:90/h:603/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU0MjE5/NjgtMTM5NTg1MDc5/Ni04ODY5LmpwZWc.jpeg"
+    - "https://i.discogs.com/sjmTdKHeWXVw_-_rQqGMAeo_YwiT8-fuu46Hd5dsItk/rs:fit/g:sm/q:90/h:600/w:597/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU0MjE5/NjgtMTM5NTg1MDc4/Ny01NjY1LmpwZWc.jpeg"
+    - "https://i.discogs.com/jYA8VDUXO0tvSVdgfwpqe2x-IJ1jAvObiSRUATNvl50/rs:fit/g:sm/q:90/h:600/w:597/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU0MjE5/NjgtMTM5NTg1MDc5/Ni04ODY5LmpwZWc.jpeg"
     - "https://i.discogs.com/zcHBB9fI8D0ApKMaLAJf06J0AJvflUrHsEN2tGmCdmA/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU0MjE5/NjgtMTQ5MzczMzAz/MC0xNTU5LmpwZWc.jpeg"
 genres: ["Funk / Soul"]
 styles: ["Rhythm & Blues", "Soul"]
@@ -38,13 +38,15 @@ styles: ["Rhythm & Blues", "Soul"]
 12. It's Midnight (2:31)
 
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/half-the-city/1533050536" >}}<br>
+{{< applemusic url="https://music.apple.com/gb/album/broken-bones-ep/933982580" >}}<br>
 
 
 ## Videos
 ### St. Paul and the Broken Bones - Half the City
 {{< youtube id="5GdkM1r5jhs" title="St. Paul and the Broken Bones - Half the City" >}}<br>
+### More Videos
 
+- [St. Paul & The Broken Bones - Half the City FULL ALBUM HD](https://www.youtube.com/watch?v=Q5LQat9_f5U)
 
 ## Release Images
 {{< imageGrid >}}

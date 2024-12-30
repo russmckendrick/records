@@ -13,7 +13,7 @@ cover:
     caption: "Back To The Bars by Todd Rundgren"
 additional_images:
     - "https://i.discogs.com/QVmDkXM6EcXJ3jLG9Q1HwqXJe7xkBG9zvwn6LkzAD_0/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NDk1/MTAtMTIzNTU1ODU0/MC5qcGVn.jpeg"
-    - "https://i.discogs.com/P5Q1-2_EhBu28wMVkfhE8lAd-28GeL6hc2wF51ug7x4/rs:fit/g:sm/q:90/h:608/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NDk1/MTAtMTUwMTkyODAw/Ny01Nzc4LmpwZWc.jpeg"
+    - "https://i.discogs.com/dTlGR8Ew6ljn4EJPLRTo4JEiqZrqLvlg-r5gAoDmUKs/rs:fit/g:sm/q:90/h:600/w:591/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NDk1/MTAtMTUwMTkyODAw/Ny01Nzc4LmpwZWc.jpeg"
     - "https://i.discogs.com/ROlUODqIZoyUKKVd2CQw9R3or2ae2-kEJe0sTr5OcDE/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NDk1/MTAtMTIzNTU1ODg1/OS5qcGVn.jpeg"
     - "https://i.discogs.com/YnspMmOec0L8MqbSIuEd_wkdPJBNoQ8IY2beFHq_Qrk/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NDk1/MTAtMTIzNTU1ODky/OC5qcGVn.jpeg"
     - "https://i.discogs.com/XAAJDcNdUgfljmRFci5x3z1cTNQguJMX-jgUoUKJic8/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NDk1/MTAtMTIzNTU1OTAy/OC5qcGVn.jpeg"
@@ -23,8 +23,10 @@ styles: ["Power Pop", "Pop Rock"]
 ---
 
 Back to the Bars is a live album by rock musician Todd Rundgren, which was released as a double LP in 1978.
-The album was recorded during week-long stints in New York City (The Bottom Line), Los Angeles (The Roxy), and Cleveland (The Agora). The music featured the best of Rundgren's most commercial work spanning seven of the eight solo albums released in the 1970s up to, but not including, his most recent at the time. This effort was in place of rumors of a re-release of his out-of-print first two LPs, Runt, and Runt. The Ballad of Todd Rundgren. The only offering from those were "The Range War", and the bulk of the material came from Something/Anything?, A Wizard, a True Star, Todd, Initiation, and Faithful. The finale included past and present members of Rundgren's Utopia: Roger Powell, Kasim Sulton, John Wilcox, John Siegler, Ralph Schuckett and Moogy Klingman. Also joining in were the Hello People: Norman Smart, Greg Geddes, Bobby Sedita, and Larry Tasse. Special guest stars were Rick Derringer, Spencer Davis, Daryl Hall, John Oates, and Stevie Nicks.
+The album was recorded during week-long stints in New York City (The Bottom Line), Los Angeles (The Roxy), and Cleveland (The Agora). The music featured the best of Rundgren's most commercial work spanning seven of the eight solo albums released in the 1970s up to, but not including, his most recent at the time. This effort was in place of rumors of a re-release of his out-of-print first two LPs, Runt, and Runt. The Ballad of Todd Rundgren. The only offering from those were "The Range War", and the bulk of the material came from Something/Anything?, A Wizard, a True Star, Todd, Initiation, and Faithful. The finale included past and present members of Rundgren's Utopia: Roger Powell, Kasim Sulton, Willie Wilcox, John Siegler, Ralph Schuckett and Moogy Klingman. Also joining in were the Hello People: Norman Smart, Greg Geddes, Bobby Sedita, and Larry Tasse. Special guest stars were Rick Derringer, Spencer Davis, Daryl Hall, John Oates, and Stevie Nicks.
 Despite a hard push to replicate the success of Frampton Comes Alive!, Back to the Bars did not generate any significant singles or lift for Rundgren.
+
+
     
     
 
@@ -63,9 +65,7 @@ Despite a hard push to replicate the success of Frampton Comes Alive!, Back to t
 ## Videos
 ### Todd Rundgren (Vinyl) Back to the Bars (full album)
 {{< youtube id="dy-4Rzrkwv4" title="Todd Rundgren (Vinyl) Back to the Bars (full album)" >}}<br>
-### More Videos
 
-- [Todd Rundgren - Back to the Bars (1978) FULL ALBUM Vinyl Rip](https://www.youtube.com/watch?v=YlA1ZjLinMM)
 
 ## Release Images
 {{< imageGrid >}}

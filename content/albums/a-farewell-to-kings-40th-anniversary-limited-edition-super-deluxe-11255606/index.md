@@ -92,8 +92,13 @@ styles: ["Prog Rock"]
 68. Xanadu (11:08)
 69. Closer To The Heart (2:56)
 
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/a-farewell-to-kings-40th-anniversary-deluxe-edition/1440910364" >}}<br>
 
 
+## Videos
+### Xanadu
+{{< youtube id="LP0I9LfcTlM" title="Xanadu" >}}<br>
 
 
 ## Release Images

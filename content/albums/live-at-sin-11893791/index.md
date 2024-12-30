@@ -13,7 +13,7 @@ cover:
     caption: "Live At Sin-é by Jeff Buckley"
 additional_images:
     - "https://i.discogs.com/oZCyYiWsqBfR9gsiq1IRURELPG2NsYOEg1IkyzLqxEQ/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExODkz/NzkxLTE1MjQzMDgx/NDUtNjExOC5qcGVn.jpeg"
-    - "https://i.discogs.com/_pHqAfB2M-pi78ZxCsdN3yQsH6AmYfQMAC2WZZ58rHk/rs:fit/g:sm/q:90/h:605/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExODkz/NzkxLTE1MjQzMDc1/NDItMTgzNC5qcGVn.jpeg"
+    - "https://i.discogs.com/VHSnzUP4cbXqzUyhMbBEpVnUO-lAhUKfSKWq3U-QqjI/rs:fit/g:sm/q:90/h:600/w:594/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExODkz/NzkxLTE1MjQzMDc1/NDItMTgzNC5qcGVn.jpeg"
     - "https://i.discogs.com/qYB_6meVgM29SXk9MREbdZOdBDAuKNEiGqzWxnGrK_o/rs:fit/g:sm/q:90/h:592/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExODkz/NzkxLTE1MjQzMDc1/NDgtNTI0Ny5qcGVn.jpeg"
     - "https://i.discogs.com/xwrrZ1yyUwaK8sbicYjkrCusRWMsjedsNjJm2IB-9HE/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExODkz/NzkxLTE1MjQzMDc1/NDItNTE4MS5qcGVn.jpeg"
     - "https://i.discogs.com/l2Peg4WHnmt77-0PszJTbqfjxt34glkk8h_GqMwQkls/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExODkz/NzkxLTE1MjQzMDgx/NDctMjUxNC5qcGVn.jpeg"
@@ -31,12 +31,12 @@ additional_images:
     - "https://i.discogs.com/cEDpCg1eLCqImKaU3utQ4fVPR3gpVfXSL5YfixwPva4/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExODkz/NzkxLTE1MjQzMDgx/NDgtOTIxMy5qcGVn.jpeg"
     - "https://i.discogs.com/AnI7jvSZcmcT4C1TRXDTXZZxUbFlSxJOTpTpkWF_skI/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExODkz/NzkxLTE1MjQzMDgx/NDgtOTA0My5qcGVn.jpeg"
     - "https://i.discogs.com/zYyFaMPfNwPJqv0c5n_FzG-KVDR4wYm_KfIfHmk1BHQ/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExODkz/NzkxLTE2MjQ3Nzk5/MDUtMjM3My5qcGVn.jpeg"
-    - "https://i.discogs.com/xcofQ5nPZeAW6mdKyBwEcN6i66evmV8oillEEu-KixY/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExODkz/NzkxLTE1MjQzMDc1/NDctMzcyNC5qcGVn.jpeg"
+    - "https://i.discogs.com/XbqoGfmCSBLZrbNX-u80Y6xUho2qpqIjMKW8mfqSl8c/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExODkz/NzkxLTE1MjQzMDc1/NDctMzcyNC5qcGVn.jpeg"
     - "https://i.discogs.com/kyYniaDgOWw_Wh5cgvvT5phXBqabMd11C7awfB9ZgMQ/rs:fit/g:sm/q:90/h:288/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExODkz/NzkxLTE1MjQzMDc1/NDktNjE4My5qcGVn.jpeg"
     - "https://i.discogs.com/70djfAce7mbg8ySTwyBM8WrhSGiTE8xgYS2kYNb-9GY/rs:fit/g:sm/q:90/h:294/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExODkz/NzkxLTE1MjQzMDc1/NTAtMTc0MS5qcGVn.jpeg"
     - "https://i.discogs.com/YttfX3MOt_I3aOoiiK0E37USqIELYjt99bDeaEtFAw4/rs:fit/g:sm/q:90/h:297/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExODkz/NzkxLTE1MjQzMDc1/NTEtNjYyNi5qcGVn.jpeg"
-    - "https://i.discogs.com/FmR_1Y1S05XuKW0LrZPXB887RBRfv5YYi3fuXspBa2g/rs:fit/g:sm/q:90/h:602/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExODkz/NzkxLTE1MjQzMDc1/NDktNzE3Ny5qcGVn.jpeg"
-    - "https://i.discogs.com/eKbCdH_4Kgw508QZdoK9q2aSwaRFJmfiEa7i9hBtfaw/rs:fit/g:sm/q:90/h:607/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExODkz/NzkxLTE1MjQzMDgx/NTYtODY1My5qcGVn.jpeg"
+    - "https://i.discogs.com/ptJDF0bM4dfs5MsTGPAKOlbW6-kLWVGd54D-IlL2HzI/rs:fit/g:sm/q:90/h:600/w:597/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExODkz/NzkxLTE1MjQzMDc1/NDktNzE3Ny5qcGVn.jpeg"
+    - "https://i.discogs.com/j4uHJDNAWSo1-lilvcLsjeZuTl7WmTP58qPKNQKPbRY/rs:fit/g:sm/q:90/h:600/w:592/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExODkz/NzkxLTE1MjQzMDgx/NTYtODY1My5qcGVn.jpeg"
     - "https://i.discogs.com/cEUuvJTrYiqD5GrNylc1dmnCWJOg2a8mgWvc_0LB228/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExODkz/NzkxLTE1ODM4Mjcw/MzUtODgyNC5qcGVn.jpeg"
 genres: ["Rock"]
 styles: ["Folk Rock", "Art Rock"]
@@ -81,16 +81,21 @@ styles: ["Folk Rock", "Art Rock"]
 34. Hallelujah
 
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/live-at-sin-%C3%A9-legacy-edition-audio-version/309064121" >}}<br>
+{{< applemusic url="https://music.apple.com/gb/album/so-real-songs-from-jeff-buckley-expanded-edition/1476893546" >}}<br>
 
 
 ## Videos
-### Jeff Buckley - Lover, You Should've Come Over (Live at Sin-é)
-{{< youtube id="GQm1cX8uWxE" title="Jeff Buckley - Lover, You Should've Come Over (Live at Sin-é)" >}}<br>
+### Be Your Husband (Live at Sin-é, New York, NY - July/August 1993)
+{{< youtube id="bYukHsAsBxY" title="Be Your Husband (Live at Sin-é, New York, NY - July/August 1993)" >}}<br>
 ### More Videos
 
+- [Jeff Buckley - Lover, You Should've Come Over (Live at Sin-é)](https://www.youtube.com/watch?v=GQm1cX8uWxE)
 - [Night Flight (Live at Sin-é, New York, NY - July/August 1993)](https://www.youtube.com/watch?v=hYN8Mk54XHg)
+- [jeff buckley - sweet thing](https://www.youtube.com/watch?v=3f08Erq5EK8)
 - [Jeff Buckley - Hallelujah live at Sin-é](https://www.youtube.com/watch?v=BsyRq0WFOHY)
+- [Be Your Husband (Live at Sin-é, New York, NY - July/August 1993)](https://www.youtube.com/watch?v=bYukHsAsBxY)
+- [Jeff Buckley - Lover, You Should've Come Over (Live at Sin-é)](https://www.youtube.com/watch?v=GQm1cX8uWxE)
+- [Night Flight (Live at Sin-é, New York, NY - July/August 1993)](https://www.youtube.com/watch?v=hYN8Mk54XHg)
 - [jeff buckley - sweet thing](https://www.youtube.com/watch?v=3f08Erq5EK8)
 
 ## Release Images
@@ -103,4 +108,4 @@ styles: ["Folk Rock", "Art Rock"]
 | Label          | Columbia |
 | Catalog Number | 88985494801 |
 | Notes | Fabric box containing 4 single glossy jackets with black paper inner sleeves. Eight page full color booklet of photos and liner notes.  Hype sticker says: "Record Store Day  First Time on Vinyl 34 Songs recorded live during Jeff Buckley's café days in the summer of 1993 Individually numbered 4LP set limited edition deluxe packaging 88985494801S1"  Made in the EU. |
-| Discogs URL    | [Jeff Buckley - Live At Sin-é](https://www.discogs.com/release/11893791-Jeff-Buckley-Live-At-Sin-%C3%A9) |
+| Discogs URL    | [Jeff Buckley - Live At Sin-é](https://www.discogs.com/release/11893791-Jeff-Buckley-Live-At-Sin-é) |

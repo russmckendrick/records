@@ -17,21 +17,21 @@ additional_images:
     - "https://i.discogs.com/CmkIEy7LRGybe5uq6dOvAMCJNj-UdGJuj-11RdyWqqs/rs:fit/g:sm/q:90/h:587/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMTg5/ODQzLTE1MTg5NDU2/NzYtMTk5MC5qcGVn.jpeg"
     - "https://i.discogs.com/u-f9fAfTOIw0PrbS9KVJOEvo1fdyKZft_SsLT55yues/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMTg5/ODQzLTE1MTg5NDU2/NjItODEwOC5qcGVn.jpeg"
     - "https://i.discogs.com/Fa0J0v9Kgcit5zfwp1ieu62ZYMzATExZNSKEL5apffQ/rs:fit/g:sm/q:90/h:583/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMTg5/ODQzLTE1MTg5NDU2/OTQtMzAzNy5qcGVn.jpeg"
-    - "https://i.discogs.com/ICaU61uTUOah3i4VsQn8smnsGVDos7DzB2KvsA-17LY/rs:fit/g:sm/q:90/h:601/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMTg5/ODQzLTE1MTg5NDU3/NTAtOTQ0MS5qcGVn.jpeg"
+    - "https://i.discogs.com/35S-z0boI7n_NqHByQLwpHeQ97uHOmOqo8lXF4rqLzc/rs:fit/g:sm/q:90/h:600/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMTg5/ODQzLTE1MTg5NDU3/NTAtOTQ0MS5qcGVn.jpeg"
     - "https://i.discogs.com/9-7mXvyjpfyfj0q_Rbz4C2AOBdcwpqNJE1yNifmsJUg/rs:fit/g:sm/q:90/h:578/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMTg5/ODQzLTE1MTg5NDU3/MDQtNTczOS5qcGVn.jpeg"
     - "https://i.discogs.com/Y2BHsQcJuWvBAuP_bM2MMOmhQ5caiEo9IoQYgQauvtE/rs:fit/g:sm/q:90/h:594/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMTg5/ODQzLTE1MTg5NDU3/MzUtMTA2MC5qcGVn.jpeg"
-    - "https://i.discogs.com/5IgiK1GSRpC9wo2BCGHU9KN4XIW37CvcvbOIKexW_G8/rs:fit/g:sm/q:90/h:605/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMTg5/ODQzLTE1MTg5NDU3/MzEtNzc5OC5qcGVn.jpeg"
+    - "https://i.discogs.com/s5Cwxe3yflCW0wOEvhyZdeDqbCyOEKgfQ6lexlBvBMw/rs:fit/g:sm/q:90/h:600/w:595/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMTg5/ODQzLTE1MTg5NDU3/MzEtNzc5OC5qcGVn.jpeg"
     - "https://i.discogs.com/dbE-eGVxNx-UQaG-V4ENLAKDNsJOCb5XiX8B5jNpJpw/rs:fit/g:sm/q:90/h:577/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMTg5/ODQzLTE1MTg5NDU3/MzktNDYzMC5qcGVn.jpeg"
-    - "https://i.discogs.com/psvKPvyM50UtMyADt69wce8JIiPjye7mg3vQjaJRQo0/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMTg5/ODQzLTE1MTg5NDU3/NjQtMTYwOS5qcGVn.jpeg"
+    - "https://i.discogs.com/nTRHtSNtvq-Oz5YGJZYKNqA26Mu7MToKx4xA-XAkZFQ/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMTg5/ODQzLTE1MTg5NDU3/NjQtMTYwOS5qcGVn.jpeg"
     - "https://i.discogs.com/O5nJmoYf5ck0HWD1fkr6IWv4GdhL4qYH4o8wFaLbI2g/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMTg5/ODQzLTE1MTg5NDU3/NjgtODYzNy5qcGVn.jpeg"
 genres: ["Rock"]
 styles: ["Blues Rock", "Lo-Fi", "Experimental"]
 ---
 
-Real Gone is the sixteenth studio album by Tom Waits, released October 3, 2004 in Europe, and October 5 in United States on the ANTI- label. The album was supported by the Real Gone Tour, playing sold out locations in North America and Europe in October and November 2004.
+Real Gone is the sixteenth studio album by Tom Waits, released October 4, 2004 in Europe, and October 5 in United States on the ANTI- label. The album was supported by the Real Gone Tour, playing sold out locations in North America and Europe in October and November 2004.
 The album features some of the few political songs Waits has written, the most explicit being "Day After Tomorrow", a song Waits has described as an "elliptical" protest against the Iraq War.
 It was chosen by the editors of Harp Magazine as the best album of 2004.
-A remixed, remastered version of the album was released by ANTI- on November 22, 2017, with the remastering process personally overseen by Tom Waits and Kathleen Brennan.
+A remixed, remastered version of the album was released by ANTI- on November 22, 2017, with the remastering process personally overseen by Waits and Kathleen Brennan.
     
     
 
@@ -55,22 +55,18 @@ A remixed, remastered version of the album was released by ANTI- on November 22,
 16. Untitled
 
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/real-gone-remastered/1485070843" >}}<br>
+{{< applemusic url="https://music.apple.com/gb/album/real-gone/1772300120" >}}<br>
 
 
 ## Videos
-### Tom Waits - Sins of My Father
-{{< youtube id="ZG_9sonT_8k" title="Tom Waits - Sins of My Father" >}}<br>
+### Tom Waits - Real Gone (2004) Vinyl FULL ALBUM
+{{< youtube id="vGal00wJCII" title="Tom Waits - Real Gone (2004) Vinyl FULL ALBUM" >}}<br>
 ### More Videos
 
-- [Tom Waits - Shake It](https://www.youtube.com/watch?v=kyGToqec2aQ)
-- [Tom Waits - How's It Gonna End](https://www.youtube.com/watch?v=ol-jeTkop8g)
-- [Tom Waits - Metropolitan Glide](https://www.youtube.com/watch?v=TSfyNuFIXRc)
-- [Tom Waits - Dead and Lovely](https://www.youtube.com/watch?v=_h7PwmqnaC0)
-- [Tom Waits - Circus](https://www.youtube.com/watch?v=D9SyssbAzD0)
-- [Tom Waits - Trampled Rose](https://www.youtube.com/watch?v=u6dx2TCy09I)
-- [Tom Waits - Green Grass](https://www.youtube.com/watch?v=rXq1PBNuUt0)
-- [Tom Waits - Clang Boom Steam](https://www.youtube.com/watch?v=i6UoXzx1vcQ)
+- [Tom Waits - Chick A Boom](https://www.youtube.com/watch?v=cJi62CynjEk)
+- [Tom Waits - "Top of the Hill" (Remastered)](https://www.youtube.com/watch?v=JM-Qlg119C4)
+- [Tom Waits - "Make It Rain" (Remastered)](https://www.youtube.com/watch?v=Mv0htJ0tgsU)
+- [Tom Waits - Real Gone (2004) Vinyl FULL ALBUM](https://www.youtube.com/watch?v=vGal00wJCII)
 
 ## Release Images
 {{< imageGrid >}}

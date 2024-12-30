@@ -20,7 +20,7 @@ additional_images:
     - "https://i.discogs.com/3j22ZW6kdRY2AmrqMWmkUhC2rxAezBa15viwlp1dUbg/rs:fit/g:sm/q:90/h:568/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY1ODUz/MjUtMTUyODg0NDcz/OS0zNTk1LmpwZWc.jpeg"
     - "https://i.discogs.com/ZOziG4MGIUdUSDGzWJHng6vy3LjsV0E31PHU9or8Q58/rs:fit/g:sm/q:90/h:582/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY1ODUz/MjUtMTUyODg0NDc0/My04NjYxLmpwZWc.jpeg"
     - "https://i.discogs.com/QNnjdEvaIRls-upQqWsSv_eRbPMcGXECTNtvb5SegW4/rs:fit/g:sm/q:90/h:581/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY1ODUz/MjUtMTUyODg0NDc0/Ni04NjExLmpwZWc.jpeg"
-    - "https://i.discogs.com/0gdVfd5pGqAQHTZ-WsHrGkOvmpLuqTgQx7i8Ibs37sY/rs:fit/g:sm/q:90/h:602/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY1ODUz/MjUtMTUyODg0NDc1/Mi04NjM5LmpwZWc.jpeg"
+    - "https://i.discogs.com/M_LgQCmxKeQFsUsU0kxZHDy4w2Qw6X64JCD2jULCHiA/rs:fit/g:sm/q:90/h:600/w:597/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY1ODUz/MjUtMTUyODg0NDc1/Mi04NjM5LmpwZWc.jpeg"
 genres: ["Rock"]
 styles: ["Rhythm & Blues", "Mod", "Psychedelic Rock"]
 ---
@@ -47,17 +47,14 @@ styles: ["Rhythm & Blues", "Mod", "Psychedelic Rock"]
 17. Wham Bam Thank You Mam (3:18)
 
 
-## Spotify
-{{< spotify type="album" id="0cO2uSBkGgniN35oeuaUCM" width="100%" height="500" >}}<br>
-
 
 ## Videos
 ### I Feel Much Better (2012 Remaster)
 {{< youtube id="C76bFMCA9ss" title="I Feel Much Better (2012 Remaster)" >}}<br>
 ### More Videos
 
-- [I'm Only Dreaming (2012 Remaster)](https://www.youtube.com/watch?v=_IwHI5Nq6xY)
 - [Wham, Bam, Thank You, Mam (2013 Remaster)](https://www.youtube.com/watch?v=e8SAE0k93eo)
+- [I'm Only Dreaming (2012 Remaster)](https://www.youtube.com/watch?v=_IwHI5Nq6xY)
 - [Get Yourself Together (2012 Remaster)](https://www.youtube.com/watch?v=ctJB-mwI41k)
 - [Mad John (2013 Remaster)](https://www.youtube.com/watch?v=BlfQrA9C88w)
 - [Donkey Rides, A Penny a Glass (2013 Remaster)](https://www.youtube.com/watch?v=H6kxROKXEC0)

@@ -45,6 +45,13 @@ styles: ["Score", "Soundtrack"]
 - [Francis Monkman - At the Pool [The Long Good Friday, Original Soundtrack]](https://www.youtube.com/watch?v=QAF36U3q-Yo)
 - [Francis Monkman - Fury [The Long Good Friday, Original Soundtrack]](https://www.youtube.com/watch?v=6fXdwg1vEtk)
 - [Francis Monkman - Taken [The Long Good Friday, Original Soundtrack]](https://www.youtube.com/watch?v=EVULl0aDKfw)
+- [The Long Good Friday Main Title Theme Music - Full Version (The Stereo Mix)](https://www.youtube.com/watch?v=iYY5mQG1NZg)
+- [The Long Good Friday - Overture (Francis Monkman)](https://www.youtube.com/watch?v=c2R5gdP_JdM)
+- [The Long Good Friday Theme - Francis Monkman - Recreation](https://www.youtube.com/watch?v=eHb7QIK3FP8)
+- [THE LONG GOOD FRIDAY Ending](https://www.youtube.com/watch?v=1ldZUQFr_9k)
+- [The Long Good Friday - End Credits Theme (Francis Monkman)](https://www.youtube.com/watch?v=LE1levIiVY0)
+- [The Long Good Friday (Francis Monkman)](https://www.youtube.com/watch?v=IDH338CJWR4)
+- [The Long Good Friday (1980): Modern Trailer](https://www.youtube.com/watch?v=FS2SwFTa1YI)
 
 ## Release Images
 {{< imageGrid >}}

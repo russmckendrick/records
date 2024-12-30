@@ -12,14 +12,14 @@ cover:
     alt: "King Rocker (The Original Soundtrack) by The Nightingales"
     caption: "King Rocker (The Original Soundtrack) by The Nightingales"
 additional_images:
-    - "https://i.discogs.com/jUogEwdUYRD8TvoeZqyAH8O5IyViHJzxRb0jU2VaOx0/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMTg4/MjYwLTE2MzgzNjIx/NzktOTU0OC5qcGVn.jpeg"
-    - "https://i.discogs.com/5SQ1934_RGRl7dGDdP1GoDuWVq6kBbF0uAJJAmpTQG0/rs:fit/g:sm/q:90/h:606/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMTg4/MjYwLTE2MzgzNjIx/ODEtODgxNy5qcGVn.jpeg"
+    - "https://i.discogs.com/igN8tXQTAGCF-G7g6pmk9YLdPMG1MksW6dXszBsQPFU/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMTg4/MjYwLTE2MzgzNjIx/NzktOTU0OC5qcGVn.jpeg"
+    - "https://i.discogs.com/rYu2681Qtca_XsR_fXjQMsM0CwLjMp77xSXqO2KqOvk/rs:fit/g:sm/q:90/h:600/w:593/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMTg4/MjYwLTE2MzgzNjIx/ODEtODgxNy5qcGVn.jpeg"
     - "https://i.discogs.com/gV8D25WTn8YoP9eF-bjoSW5m_alN-gTmuzepZlpGeZE/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMTg4/MjYwLTE2MzgzNjIx/ODAtMTg5OS5qcGVn.jpeg"
     - "https://i.discogs.com/OrVbDo03x-ksb45Ncn280K-VvfNQPy6GHUiXheFod9s/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMTg4/MjYwLTE2MzgzNjIx/ODEtNjMzNy5qcGVn.jpeg"
-    - "https://i.discogs.com/NF_lOxRuuifnwO4aJhz2qsMX8CvJtTWhlIelPvkzVmg/rs:fit/g:sm/q:90/h:1221/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMTg4/MjYwLTE2MzgzNjIx/NzctNjQyNy5qcGVn.jpeg"
-    - "https://i.discogs.com/a4XVTp0JoNGYhjGxz3D4AO0JzK4DuzSEh5H5q64-g4k/rs:fit/g:sm/q:90/h:858/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMTg4/MjYwLTE2MzgzNjIx/NzgtNzcxNC5qcGVn.jpeg"
+    - "https://i.discogs.com/E7vs2kkQHMNDxYOTiJnj-5lh-EiNPsci5F1gpC2_9RU/rs:fit/g:sm/q:90/h:600/w:294/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMTg4/MjYwLTE2MzgzNjIx/NzctNjQyNy5qcGVn.jpeg"
+    - "https://i.discogs.com/sUbGXDDkU7xFjYvYh1m39dYh0CO_LbqCop4OZtK9bgA/rs:fit/g:sm/q:90/h:600/w:419/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMTg4/MjYwLTE2MzgzNjIx/NzgtNzcxNC5qcGVn.jpeg"
     - "https://i.discogs.com/rEZykQk1C-2ccxtn-r-_C5yusRvxMZY57smI27VKd1g/rs:fit/g:sm/q:90/h:429/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMTg4/MjYwLTE2MzgzNjIx/NzktMjkwOS5qcGVn.jpeg"
-    - "https://i.discogs.com/Y_ythJBJvBowbjM7OopDXFr_hw-u9M8O_h99ove4f70/rs:fit/g:sm/q:90/h:862/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMTg4/MjYwLTE2MzgzNjIx/ODEtNjMxOC5qcGVn.jpeg"
+    - "https://i.discogs.com/6bTUB3NVqqqIdU56QwHslb15S8ta8WoAyVQg7_2O_Ls/rs:fit/g:sm/q:90/h:600/w:417/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMTg4/MjYwLTE2MzgzNjIx/ODEtNjMxOC5qcGVn.jpeg"
     - "https://i.discogs.com/EH1wYCREBElAGWMY_xX6Ivkbz_0i3XM4mdZYssbSBuw/rs:fit/g:sm/q:90/h:424/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMTg4/MjYwLTE2MzgzNjIx/ODAtMTczMC5qcGVn.jpeg"
     - "https://i.discogs.com/vhvqlcFdlYDlKI4BATpgiuAj2I1NKj-qY5FxLZFQikI/rs:fit/g:sm/q:90/h:424/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMTg4/MjYwLTE2MzgzNjIx/NzctNDc0OC5qcGVn.jpeg"
     - "https://i.discogs.com/EESpG7Ld3d5iXHPTdNPDaMFbL9EhlVc6QNQBmnHTJ1c/rs:fit/g:sm/q:90/h:422/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMTg4/MjYwLTE2MzgzNjIx/ODEtODc2OS5qcGVn.jpeg"
@@ -43,6 +43,8 @@ styles: ["Alternative Rock", "Post-Punk", "Soundtrack"]
 11. The Desperate Quartet
 12. Gales Doc
 
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/king-rocker-soundtrack/1667376145" >}}<br>
 
 
 ## Videos

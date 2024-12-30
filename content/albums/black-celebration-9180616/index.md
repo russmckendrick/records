@@ -22,8 +22,9 @@ genres: ["Electronic"]
 styles: ["Synth-pop", "Darkwave"]
 ---
 
-Black Celebration is the fifth studio album by English electronic music band Depeche Mode, released on 17 March 1986 by Mute Records. The album further cemented the darkening sound created by Alan Wilder, which the band later used for their subsequent albums Music for the Masses, Violator, and Songs of Faith and Devotion.
+Black Celebration is the fifth studio album by English electronic music band Depeche Mode, released on 17 March 1986 by Mute Records. The album's co-producer Daniel Miller devised "a plan to capture the essence of the dark works" that Martin Gore created because Martin Gore had no intention of compromising the mood that his demos had set. Miller and Gareth Jones produced the album to be more like an environment rather than a collection of songs.  Their production created "a tech-noir future dystopia" that "glitters of gloom".
 Black Celebration reached number four on the UK Albums Chart, and has been cited as one of the most influential albums of the 1980s. To promote the album, the band embarked on the Black Celebration Tour. Three years after its release, Spin ranked it at number 15 on its "25 Greatest Albums of All Time" list.
+The album was promoted by the single "Stripped" released 10 February, and was followed by "A Question of Lust", released 14 April, "A Question of Time" released 11 August. Instead of "Stripped", "But Not Tonight" was released as a single in the US, due to its more commercial appeal, on 22 October.
 
 
     
@@ -44,10 +45,16 @@ Black Celebration reached number four on the UK Albums Chart, and has been cited
 11. New Dress (3:42)
 
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/black-celebration-deluxe/1577638904" >}}<br>
+{{< applemusic url="https://music.apple.com/gb/album/black-celebration/665403454" >}}<br>
 
 
+## Videos
+### Depeche Mode - Stripped (Official Video)
+{{< youtube id="qU8UfYdKHvs" title="Depeche Mode - Stripped (Official Video)" >}}<br>
+### More Videos
 
+- [Depeche Mode - A Question of Lust (Official Video)](https://www.youtube.com/watch?v=glw10co1IRs)
+- [Depeche Mode - A Question Of Time (Official Video)](https://www.youtube.com/watch?v=9pt7EWFF_T8)
 
 ## Release Images
 {{< imageGrid >}}

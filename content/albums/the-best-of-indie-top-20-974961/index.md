@@ -58,11 +58,19 @@ styles: ["Leftfield", "Alternative Rock", "Downtempo", "Synth-pop", "Indie Rock"
 ### More Videos
 
 - [24 Hour Party People - Happy Mondays [Song]](https://www.youtube.com/watch?v=N7sa9r0mvBs)
-- [The Wedding Present Why Are You Being So Reasonable Now? promo video](https://www.youtube.com/watch?v=NEjiGjVyFPc)
+- [The Wedding Present "Why Are You Being So Reasonable Now?" promo video](https://www.youtube.com/watch?v=NEjiGjVyFPc)
 - [Paris Angels - Perfume (All On You)](https://www.youtube.com/watch?v=x-iUiIL1oLI)
-- [The Shamen - ProGen (Beatmasters 7 Edit)](https://www.youtube.com/watch?v=U8Stq8mhLas)
+- [The Shamen - ProGen (Beatmasters 7" Edit)](https://www.youtube.com/watch?v=U8Stq8mhLas)
 - [THE SUNDAYS-JOY.wmv](https://www.youtube.com/watch?v=FjoIRnJB2IA)
-- [Sugar cubes Regina](https://www.youtube.com/watch?v=PznnQ9nhWFU)
+- [Sugar cubes "Regina"](https://www.youtube.com/watch?v=PznnQ9nhWFU)
+- [Carter USM - Bloodsport For All](https://www.youtube.com/watch?v=IVZyuciwQn4)
+- [The Pixies - Monkey Gone To Heaven](https://www.youtube.com/watch?v=XycBLF6kWuY)
+- [24 Hour Party People - Happy Mondays [Song]](https://www.youtube.com/watch?v=N7sa9r0mvBs)
+- [The Wedding Present "Why Are You Being So Reasonable Now?" promo video](https://www.youtube.com/watch?v=NEjiGjVyFPc)
+- [Paris Angels - Perfume (All On You)](https://www.youtube.com/watch?v=x-iUiIL1oLI)
+- [The Shamen - ProGen (Beatmasters 7" Edit)](https://www.youtube.com/watch?v=U8Stq8mhLas)
+- [THE SUNDAYS-JOY.wmv](https://www.youtube.com/watch?v=FjoIRnJB2IA)
+- [Sugar cubes "Regina"](https://www.youtube.com/watch?v=PznnQ9nhWFU)
 - [Carter USM - Bloodsport For All](https://www.youtube.com/watch?v=IVZyuciwQn4)
 
 ## Release Images
@@ -74,4 +82,5 @@ styles: ["Leftfield", "Alternative Rock", "Downtempo", "Synth-pop", "Indie Rock"
 | Format         | Vinyl 2× LP Compilation |
 | Label          | Beechwood Music |
 | Catalog Number | BOTT 001 |
+| Notes | Made in England |
 | Discogs URL    | [Various - The Best Of Indie Top 20](https://www.discogs.com/release/974961-Various-The-Best-Of-Indie-Top-20) |

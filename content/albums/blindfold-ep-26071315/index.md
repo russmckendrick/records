@@ -18,8 +18,8 @@ additional_images:
     - "https://i.discogs.com/MLNOaq_pYda5Wq0sFGnwfkQc-NlV5tLOgzuF3nDBF7A/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2MDcx/MzE1LTE2ODE5MDI0/MzQtNjcyOC5qcGVn.jpeg"
     - "https://i.discogs.com/Qa4BcoDblOc_TlCmLo7qXc9XuPAhJX9YVciOHLgs9_I/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2MDcx/MzE1LTE2ODE5MDI0/MzctOTMxMC5qcGVn.jpeg"
     - "https://i.discogs.com/eDWxv-76014rJdCzN-xr5Psj58nzcmSniFDGz7YNdjA/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2MDcx/MzE1LTE2ODE5MDI0/MzgtMzgzMS5qcGVn.jpeg"
-    - "https://i.discogs.com/xZLAYLEfaEx-szAQV_u-KqLFvaZ69WgWp2kSTLta2fg/rs:fit/g:sm/q:90/h:614/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2MDcx/MzE1LTE2NzYxOTU4/MzEtNDU5MC5qcGVn.jpeg"
-    - "https://i.discogs.com/ntUYO6FAZMILjbTva79BxzdBeFCM5lPcmQlZoMZiEGY/rs:fit/g:sm/q:90/h:801/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2MDcx/MzE1LTE2ODE5MDI0/NDAtMjAzMC5qcGVn.jpeg"
+    - "https://i.discogs.com/_sEO7XpAktaZDgka6ju6qZaquGBXBDpBZ7GuWDRHrro/rs:fit/g:sm/q:90/h:600/w:585/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2MDcx/MzE1LTE2NzYxOTU4/MzEtNDU5MC5qcGVn.jpeg"
+    - "https://i.discogs.com/Le8V1wh1IHXQdbxTyBK1EvPoisTDRFMYygaWNtGnc5g/rs:fit/g:sm/q:90/h:600/w:449/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2MDcx/MzE1LTE2ODE5MDI0/NDAtMjAzMC5qcGVn.jpeg"
     - "https://i.discogs.com/AZsNF2D4Bsi04fnavErNG_krUt3QgrkbJcLa3oTu_pg/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2MDcx/MzE1LTE2NzY1NTcz/OTQtMTkxMy5qcGVn.jpeg"
 genres: ["Electronic", "Rock"]
 styles: ["Industrial", "Downtempo", "Hip Hop", "Indie Rock"]
@@ -36,14 +36,15 @@ styles: ["Industrial", "Downtempo", "Hip Hop", "Indie Rock"]
 
 
 ## Videos
-### Curve - Ten little girls
-{{< youtube id="ProMC3LB4PM" title="Curve - Ten little girls" >}}<br>
+### Curve - Blindfold
+{{< youtube id="KufHiyMcurY" title="Curve - Blindfold" >}}<br>
 ### More Videos
 
-- [Curve - Ten little girls](https://www.youtube.com/watch?v=q_mOnakc9JM)
-- [Curve - Blindfold](https://www.youtube.com/watch?v=KufHiyMcurY)
 - [Curve - I speak your every word](https://www.youtube.com/watch?v=OTUS6N9OWYY)
+- [Curve - Ten little girls](https://www.youtube.com/watch?v=ProMC3LB4PM)
 - [Curve - No escape from heaven](https://www.youtube.com/watch?v=925lc-W7MGk)
+- [Curve - Ten little girls](https://www.youtube.com/watch?v=q_mOnakc9JM)
+- [Curve - Ten little girls](https://www.youtube.com/watch?v=ProMC3LB4PM)
 
 ## Release Images
 {{< imageGrid >}}
@@ -51,8 +52,8 @@ styles: ["Industrial", "Downtempo", "Hip Hop", "Indie Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl 12" EP Limited Edition Numbered (Red and black marbled) |
+| Format         | Vinyl 12" 45 RPM EP Limited Edition Numbered Stereo (Red/Black Marbled) |
 | Label          | Music On Vinyl |
 | Catalog Number | MOV12030 |
-| Notes | Part of a reissue series. Coloured vinyl. Plastic outer sleeve with Music On Vinyl sticker. Limited edition of 1000. Individual number stamped in silver metallic on rear of outer sleeve. Plain inner sleeve. Insert advertising Music On Vinyl Curve reissue series.  Track timings not stated on release. |
+| Notes | Part of a reissue series. Coloured vinyl. Plastic outer sleeve with Music On Vinyl sticker. Limited edition of 1000. Individual number stamped in silver metallic on rear of outer sleeve. Plain inner sleeve. Insert advertising Music On Vinyl Curve reissue series. Runouts are stamped. Track timings not stated on release. |
 | Discogs URL    | [Curve - Blindfold EP](https://www.discogs.com/release/26071315-Curve-Blindfold-EP) |

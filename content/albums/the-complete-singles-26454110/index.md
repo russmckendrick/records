@@ -12,10 +12,10 @@ cover:
     alt: "The Complete Singles by Inspiral Carpets"
     caption: "The Complete Singles by Inspiral Carpets"
 additional_images:
-    - "https://i.discogs.com/kvlTvt34XHGeeP7jEWQ_Rg57s72SAZ7VzzCbQFdR6Xc/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NDU0/MTEwLTE2ODA3NzYy/MzQtOTg1MC5qcGVn.jpeg"
+    - "https://i.discogs.com/274eKzJX9iONcfXdih4wpymunSV_1OaaaBB6fgvE00Q/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NDU0/MTEwLTE2ODA3NzYy/MzQtOTg1MC5qcGVn.jpeg"
     - "https://i.discogs.com/JvVxHSjT2XIaZsbCrxQKqhoauO6kJw8NDoDs2ACCM7w/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NDU0/MTEwLTE2NzkxMzkz/NTQtNjAyNi5qcGVn.jpeg"
     - "https://i.discogs.com/34rky4hf4I3OdU5yrjGNc9b7cBaM9eml-eq6Pc55IiA/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NDU0/MTEwLTE2ODA3NzYy/MzYtNDgwMy5qcGVn.jpeg"
-    - "https://i.discogs.com/fg9rTyir31nf7OKjdNnYD-nP6i6WNCAY_XTTBD1O5hw/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NDU0/MTEwLTE2ODA3NzYy/MzctMzc4MS5qcGVn.jpeg"
+    - "https://i.discogs.com/yFcOKKwIhu-hV9oGMQcJlTofwshJTWNmaMZNIm48dLE/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NDU0/MTEwLTE2ODA3NzYy/MzctMzc4MS5qcGVn.jpeg"
     - "https://i.discogs.com/RmmcIDKlyPFXWAK6dVeP9MwNtWY_bABjGmJm3mgPTrE/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NDU0/MTEwLTE2ODA3NzYy/MzktNTIyOS5qcGVn.jpeg"
     - "https://i.discogs.com/GivWlD9g5BemhhEnhOC21q4XzXCvrtUlUwyb92l4d0s/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NDU0/MTEwLTE2ODA3NzYy/NDEtMTUyOS5qcGVn.jpeg"
     - "https://i.discogs.com/OhoEox16sJCSUKNbRpJrauCMkABdQljNWJH299Oi-Pw/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NDU0/MTEwLTE2ODA3NzYy/NDMtODQxNi5qcGVn.jpeg"
@@ -29,6 +29,11 @@ genres: ["Rock"]
 styles: ["Indie Rock"]
 ---
 
+Discography: The Complete Singles Collection is the first greatest hits album by English synth-pop duo Pet Shop Boys, released on 4 November 1991 by Parlophone.
+
+
+    
+    
 
 
 ## Tracklisting
@@ -58,7 +63,7 @@ styles: ["Indie Rock"]
 24. Let You Down (Edit)
 
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/the-complete-singles/1676326542" >}}<br>
+{{< applemusic url="https://music.apple.com/gb/album/the-complete-singles/1672583898" >}}<br>
 
 
 ## Videos
@@ -78,7 +83,7 @@ styles: ["Indie Rock"]
 - [Caravan (2023 Remaster)](https://www.youtube.com/watch?v=4EyTAHldatc)
 - [Please Be Cruel (2023 Remaster)](https://www.youtube.com/watch?v=wcW9zj_v8nQ)
 - [Dragging Me Down (2023 Remaster)](https://www.youtube.com/watch?v=6KVuhJFUA7Q)
-- [Two Worlds Collide (7 Edit) (2023 Remaster)](https://www.youtube.com/watch?v=qjF7iOokg4c)
+- [Two Worlds Collide (7" Edit) (2023 Remaster)](https://www.youtube.com/watch?v=qjF7iOokg4c)
 - [Generations (2023 Remaster)](https://www.youtube.com/watch?v=0wJJ_zgv9IA)
 - [Bitches Brew (2023 Remaster)](https://www.youtube.com/watch?v=cK_XaUE45TU)
 - [How It Should Be (2023 Remaster)](https://www.youtube.com/watch?v=cwECpC5LU2k)
@@ -97,8 +102,9 @@ styles: ["Indie Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
+| Wikipedia URL | https://en.wikipedia.org/wiki/Discography:_The_Complete_Singles_Collection |
 | Format         | Vinyl 2× LP Compilation Limited Edition Remastered Stereo |
 | Label          | Mute |
 | Catalog Number | dung36lpx |
-| Notes | "Midnight Licorice" colour double vinyl [ie: black!]  Manufactured in Poland |
+| Notes | "Midnight Licorice" colour double vinyl [i.e., black!]  Manufactured in Poland |
 | Discogs URL    | [Inspiral Carpets - The Complete Singles](https://www.discogs.com/release/26454110-Inspiral-Carpets-The-Complete-Singles) |

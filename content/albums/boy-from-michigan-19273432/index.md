@@ -12,12 +12,12 @@ cover:
     alt: "Boy From Michigan by John Grant"
     caption: "Boy From Michigan by John Grant"
 additional_images:
-    - "https://i.discogs.com/EJQwwu03O-G7k7wJ8KaXiefmuF7a37QZBQflOTUHn-k/rs:fit/g:sm/q:90/h:609/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5Mjcz/NDMyLTE2MjQ2Mzk1/MTEtNTI0OS5qcGVn.jpeg"
+    - "https://i.discogs.com/t9lfgpxGQ8A3YWKL71JRg_ODK2j6JNzrrV-fYPGiQgM/rs:fit/g:sm/q:90/h:600/w:591/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5Mjcz/NDMyLTE2MjQ2Mzk1/MTEtNTI0OS5qcGVn.jpeg"
 genres: ["Electronic", "Rock", "Pop"]
 styles: ["Art Rock", "Indie Rock", "Leftfield", "Synth-pop"]
 ---
 
-Boy From Michigan is the fifth studio album by American musician John Grant. It was released via Partisan Records on June 25, 2021.
+Boy from Michigan is the fifth studio album by American musician John Grant. It was released via Partisan Records on June 25, 2021.
     
     
 
@@ -56,7 +56,7 @@ Boy From Michigan is the fifth studio album by American musician John Grant. It 
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Wikipedia URL | https://en.wikipedia.org/wiki/Boy_From_Michigan |
+| Wikipedia URL | https://en.wikipedia.org/wiki/Boy_from_Michigan |
 | Format         | Vinyl 2× LP Album Deluxe Edition (Velvet O-card, Signed Edition) |
 | Label          | Bella Union |
 | Catalog Number | BELLA1220V |

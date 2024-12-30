@@ -29,6 +29,9 @@ genres: ["Rock"]
 styles: ["Indie Rock"]
 ---
 
+OX4_ The Best of Ride is a compilation album by the British band Ride, released in 2001 by Ignition Records in the United Kingdom. The album was also released as the first disc in the three-disc Ride Box Set, which also included Firing Blanks_ Unreleased Ride Recordings 1988-95 and Live at Reading Festival 1992. The American edition was released by The First Time Records in 2002 and included a second disc with four of the unreleased tracks from Firing Blanks. The title is a reference to the band's local Oxford postcode in their teenage years.
+    
+    
 
 
 ## Tracklisting
@@ -57,6 +60,7 @@ styles: ["Indie Rock"]
 {{< youtube id="gIsnb1TKYjE" title="Ride - Leave Them All Behind" >}}<br>
 ### More Videos
 
+- [Ride - Leave Them All Behind](https://www.youtube.com/watch?v=gIsnb1TKYjE)
 - [Ride - Like A Daydream](https://www.youtube.com/watch?v=8zzo25t_eC8)
 
 ## Release Images
@@ -65,6 +69,7 @@ styles: ["Indie Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
+| Wikipedia URL | https://en.wikipedia.org/wiki/OX4_The_Best_of_Ride |
 | Format         | Vinyl 2× LP Record Store Day Compilation Reissue (Red) |
 | Label          | Sire |
 | Catalog Number | 081227955137 |

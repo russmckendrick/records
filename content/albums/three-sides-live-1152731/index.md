@@ -12,15 +12,16 @@ cover:
     alt: "Three Sides Live by Genesis"
     caption: "Three Sides Live by Genesis"
 additional_images:
-    - "https://i.discogs.com/ORb2Wg5steqM4E5QtbCOamujtVRtloMCyr1FKNWZdYs/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNTI3/MzEtMTUyODEzODk2/MS01NTgyLmpwZWc.jpeg"
-    - "https://i.discogs.com/bH-msf9II63ujGjCjivDziEuxKbrrMN5AF2eFvvAfVI/rs:fit/g:sm/q:90/h:304/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNTI3/MzEtMTUyODEzODk2/MS03MDgwLmpwZWc.jpeg"
-    - "https://i.discogs.com/b1xbrWXH1ELpcwUyLkZI_3tU3sDLGwXqLdDnJHsU6VY/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNTI3/MzEtMTUyODEzODk2/MS0xMjEzLmpwZWc.jpeg"
-    - "https://i.discogs.com/rTK1zlDsGWIZevMU1Hxf9WNgh6skmTUt_jACdF-7D5g/rs:fit/g:sm/q:90/h:602/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNTI3/MzEtMTIzNjQzNTI3/Mi5qcGVn.jpeg"
-    - "https://i.discogs.com/E1TK7W373NxYzLiXlXvre1AqX5IoVES_jM3l-vDhFMM/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNTI3/MzEtMTIzNjQzNTI5/Ny5qcGVn.jpeg"
-    - "https://i.discogs.com/Bx7bUQmthF3BVnOUidiWgfW6wmc-sAkI8AI6pEZ_7S8/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNTI3/MzEtMTIzNjQzNTMx/OS5qcGVn.jpeg"
-    - "https://i.discogs.com/BifbOhlY1RCECl45tppjnFhdQijBrXfU71ZSlP-i3kA/rs:fit/g:sm/q:90/h:603/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNTI3/MzEtMTIzNjQzNTMz/OS5qcGVn.jpeg"
-    - "https://i.discogs.com/zcsa7nFzEuCxIulWv-2dW3YYAlnDbLU2aUWlaynUKVk/rs:fit/g:sm/q:90/h:618/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNTI3/MzEtMTUxOTIzMzkx/OS01NzE4LmpwZWc.jpeg"
-    - "https://i.discogs.com/chLZb2Q2ULYZJjZGRzLfwe0eMhiQNEOqmsH4LF3BzDM/rs:fit/g:sm/q:90/h:669/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNTI3/MzEtMTY3MjY1MDY0/NC0xMTE3LmpwZWc.jpeg"
+    - "https://i.discogs.com/Opm10U0hGtFz7IRjOCzvOfu_w33FAYgE3YHOj9zgwnc/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNTI3/MzEtMTcxMjQ4ODE2/NS05Mjk2LmpwZWc.jpeg"
+    - "https://i.discogs.com/9kBLMIQ0kHE_uU3iamVFmej15VVfJ0_Y74xMQW-GzVc/rs:fit/g:sm/q:90/h:300/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNTI3/MzEtMTcxMjQ4ODE2/OC0yNTM4LmpwZWc.jpeg"
+    - "https://i.discogs.com/icT7_OXjQWKFsIaLbF07zXqOQ-7tlPo1OfzjrOjZFYE/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNTI3/MzEtMTcxMjQ4ODE3/MC0zNTUwLmpwZWc.jpeg"
+    - "https://i.discogs.com/9UnmSFS60TGX0_w2SZDIUhGgxEXm9_I76pYFzj_3kkA/rs:fit/g:sm/q:90/h:600/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNTI3/MzEtMTcxMjQ4ODE3/Mi03MTAzLmpwZWc.jpeg"
+    - "https://i.discogs.com/mEZ4aOjhXn0SeYVlpOIhO0UR7wHV-XrGNE0hyuB181s/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNTI3/MzEtMTcxMjQ4ODE3/NC01Mzc4LmpwZWc.jpeg"
+    - "https://i.discogs.com/9QiKjgmZwkQ8mGemxqGnI5HiAK1Mgdq34fHb4fyq5jw/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNTI3/MzEtMTcxMjQ4ODE3/Ny05MzM2LmpwZWc.jpeg"
+    - "https://i.discogs.com/E9ZW_T8M6it25hCx7rBg4SpP690bPz-rdWtH0JUU44s/rs:fit/g:sm/q:90/h:600/w:597/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNTI3/MzEtMTcxMjQ4ODE3/OS0xNDgzLmpwZWc.jpeg"
+    - "https://i.discogs.com/-Eryb3JLCmuJlgnYxZ7N6X2wIchG9Uz2wla_7ICtHxI/rs:fit/g:sm/q:90/h:600/w:537/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNTI3/MzEtMTY3MjY1MDY0/NC0xMTE3LmpwZWc.jpeg"
+    - "https://i.discogs.com/B0z9b8ToSll8J60qfl_f1SYJlktHXbj3MAzW7OpZmWU/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNTI3/MzEtMTUyODEzODk2/MS04NTk1LmpwZWc.jpeg"
+    - "https://i.discogs.com/TjVEKKcKhO31V0FeVUUQp0GpqmGmslQzdz17ZdohaM8/rs:fit/g:sm/q:90/h:587/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNTI3/MzEtMTUyODEzODk2/MS01MDY4LmpwZWc.jpeg"
 genres: ["Rock"]
 styles: ["Pop Rock", "Prog Rock"]
 ---
@@ -47,10 +48,20 @@ Three Sides Live received a mostly positive critical reception and was a commerc
 13. It / Watcher Of The Skies
 
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/three-sides-live/724403891" >}}<br>
+{{< applemusic url="https://music.apple.com/gb/album/three-sides-live-remastered/254181881" >}}<br>
 
 
+## Videos
+### In the Cage (Medley: Cinema Show / The Colony of Slippermen) (Live) (1994 Remaster)
+{{< youtube id="1nBwRkMEUpY" title="In the Cage (Medley: Cinema Show / The Colony of Slippermen) (Live) (1994 Remaster)" >}}<br>
+### More Videos
 
+- [Afterglow (Live) (1994 Remaster)](https://www.youtube.com/watch?v=cYumtrdSZ1Y)
+- [Paperlate (2007 Remaster)](https://www.youtube.com/watch?v=qvrfihDSJJc)
+- [Genesis - You Might Recall (Studio Version)](https://www.youtube.com/watch?v=YsV-1FDLTW0)
+- [Genesis - Me and Virgil](https://www.youtube.com/watch?v=uWV0XR3cLwI)
+- [Evidence of Autumn](https://www.youtube.com/watch?v=xC_d0ah3mQA)
+- [Open Door](https://www.youtube.com/watch?v=8p49G1mrjSQ)
 
 ## Release Images
 {{< imageGrid >}}
@@ -62,5 +73,5 @@ Three Sides Live received a mostly positive critical reception and was a commerc
 | Format         | Vinyl 2× LP Album Stereo (Gatefold) |
 | Label          | Charisma |
 | Catalog Number | GE 2002 |
-| Notes | Recorded live in Europe and America during 1981 except B4, D1 and D2 1980 and D3 1976.  ⓟ & © 1982 Charisma Records Ltd.  This version has no mention of "Virgin" on it. Sold in Germany as "Four Sides Live" with an orange sticker saying "Four vier Seiten live" or with sticker "Four  Vier Seiten live  Limitierte Auflage"  |
+| Notes | Recorded live in Europe and America during 1981 except B4, D1 and D2 1980 and D3 1976.  ⓟ & © 1982 Charisma Records Ltd.  This version has no mention of "Virgin" on it. Sold in Germany as "Four Sides Live" with an orange sticker saying "Four vier Seiten live" or with sticker "Four  Vier Seiten live  Limitierte Auflage"  Sold in USA with white info sticker stating "SPECIAL U.K. EDITION  includes live versions of "Watcher In The Skies" "One For The Vine" "Fountain Of Salmacis" "It" not available elsewhere Distributed by Jem Records Inc."  Runouts: - Runouts are stamped - Variant 7: '2 8' overlaid on 'TOWN HOUSE' on side D |
 | Discogs URL    | [Genesis - Three Sides Live](https://www.discogs.com/release/1152731-Genesis-Three-Sides-Live) |

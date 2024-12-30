@@ -12,7 +12,7 @@ cover:
     alt: "All Is Dream by Mercury Rev"
     caption: "All Is Dream by Mercury Rev"
 additional_images:
-    - "https://i.discogs.com/jWJvDnvM0tI_pWto2LWHK6UftUByGa-S43Fko6DGbdw/rs:fit/g:sm/q:90/h:604/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMjk0/ODgyLTE2NTMwNjkz/MjEtNDMyMi5qcGVn.jpeg"
+    - "https://i.discogs.com/Xg-2IBDk2UQnMxrTQ-e9Lehe0EurZ7cMyr5MoxOqKUA/rs:fit/g:sm/q:90/h:600/w:595/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMjk0/ODgyLTE2NTMwNjkz/MjEtNDMyMi5qcGVn.jpeg"
     - "https://i.discogs.com/17ZIa3R4FLtMnbDJVrPiZmrgLj-fTLyKm5qRfBmoZ1g/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMjk0/ODgyLTE2NTMwNjkz/MjgtMjc1NS5qcGVn.jpeg"
     - "https://i.discogs.com/1jMCDdu5m4aQBNHWPqB_VP2maPI5YrkXCw8qI5_RF6w/rs:fit/g:sm/q:90/h:288/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMjk0/ODgyLTE2NTMwNjkz/MjgtNjk4OC5qcGVn.jpeg"
     - "https://i.discogs.com/iNc-mw8xc5ux2pwCxb-8N5uzAPsRcmM6_va1g8aqyTc/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMjk0/ODgyLTE2NTMwNjkz/MjgtMjk1MS5qcGVn.jpeg"
@@ -25,6 +25,11 @@ genres: ["Rock"]
 styles: ["Alternative Rock"]
 ---
 
+All Is Dream is the fifth studio album by American rock band Mercury Rev. It was released in the United Kingdom on August 27, 2001, in France on August 28, 2001, and in the United States on September 11, 2001. The album's front cover features half of the 1991 painting Breakthrough Dreaming by artist and mystic Jennifer Hathaway.
+
+
+    
+    
 
 
 ## Tracklisting
@@ -60,24 +65,19 @@ styles: ["Alternative Rock"]
 
 
 ## Videos
-### Mercury Rev - Tides of the Moon
-{{< youtube id="esRQQ0hV-ls" title="Mercury Rev - Tides of the Moon" >}}<br>
+### The Dark Is Rising
+{{< youtube id="HmE0kkqkutE" title="The Dark Is Rising" >}}<br>
 ### More Videos
 
-- [Hercules](https://www.youtube.com/watch?v=J3wXbJpx3fM)
-- [The Dark is Rising](https://www.youtube.com/watch?v=zxJH1FBd1uI)
-- [Tides of the Moon](https://www.youtube.com/watch?v=odDfHK9M1XA)
-- [Nite and Fog](https://www.youtube.com/watch?v=laJuXE6H7uA)
-- [The dark is rising (Mercury rev)](https://www.youtube.com/watch?v=A102xE-Wnfk)
-- [The Saw Song (Live in Detroit 11/23/01)](https://www.youtube.com/watch?v=hgvJrerCItA)
-- [Nocturne In C# Minor, Opus 27, No.1](https://www.youtube.com/watch?v=-zdrJ9uWp0g)
-- [Hercules (Demo)](https://www.youtube.com/watch?v=8M-IkC4e2jQ)
-- [Hercules](https://www.youtube.com/watch?v=Ssmmi_CUhjw)
-- [Goddess On A Highway (Live Session)](https://www.youtube.com/watch?v=r-aja6l2WJQ)
-- [Planet Caravan](https://www.youtube.com/watch?v=ZTnjdQzyQXM)
-- [Gymnopedies 3 (John Peel Session)](https://www.youtube.com/watch?v=8S843-Ub284)
-- [The Funny Bird (Live Session)](https://www.youtube.com/watch?v=yudJJqkeKzI)
-- [Lincoln's Eyes (Live Session)](https://www.youtube.com/watch?v=aqTlyCWn8Ao)
+- [Tides Of The Moon](https://www.youtube.com/watch?v=6hnYMjTKZVA)
+- [Chains](https://www.youtube.com/watch?v=J8urkUCH79s)
+- [Lincoln's Eyes](https://www.youtube.com/watch?v=4cXTFM-1ol8)
+- [Nite And Fog](https://www.youtube.com/watch?v=W9I6vukZdG4)
+- [Little Rhymes](https://www.youtube.com/watch?v=A331aSeC9Ww)
+- [A Drop In Time](https://www.youtube.com/watch?v=Mj_QIKMfbjw)
+- [You're My Queen](https://www.youtube.com/watch?v=kf3jOmMvBBU)
+- [Spiders And Flies](https://www.youtube.com/watch?v=KPSxvBGAX_I)
+- [Hercules](https://www.youtube.com/watch?v=I7-UD3J8Sg4)
 
 ## Release Images
 {{< imageGrid >}}
@@ -85,7 +85,8 @@ styles: ["Alternative Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl 2× LP Album Limited Edition Reissue (Yellow and Green Marble Edition) |
+| Wikipedia URL | https://en.wikipedia.org/wiki/All_Is_Dream |
+| Format         | Vinyl 2× LP Album Limited Edition Reissue (Yellow and Green Marble) |
 | Label          | Cherry Red |
 | Catalog Number | BREDD816 |
 | Notes | Limited to 1000 copies Same version than the red and black marbled vinyl (2020) but in yellow and green  |

@@ -13,7 +13,7 @@ cover:
     caption: "Record + Sunriders by Amplifier"
 additional_images:
     - "https://i.discogs.com/URzLnr68TUmF0sTzO_Ictd2Gxahhxw4O2hzosld32ew/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMjg1/MjQyLTE1MTM0Mzcw/MjItODYyNi5qcGVn.jpeg"
-    - "https://i.discogs.com/I5-rHCumJzPDfDCAHf15F7e_PNTvDjFALhBSKt6p9zk/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMjg1/MjQyLTE1MTM0Mzcw/MjItNzAxNS5qcGVn.jpeg"
+    - "https://i.discogs.com/SH-JrCMSfSsomZoyHOXHS8LFJ3OJyZTr6t3bXHovpPo/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMjg1/MjQyLTE1MTM0Mzcw/MjItNzAxNS5qcGVn.jpeg"
     - "https://i.discogs.com/KxJCXNAMcEzKNrWGx-ew2dzSQHKY8Y3Wzo3lojOmFeQ/rs:fit/g:sm/q:90/h:592/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMjg1/MjQyLTE1MTM0Mzcw/MTgtNzU2OC5qcGVn.jpeg"
     - "https://i.discogs.com/_DaDO0IfffvYc7LGnpmHfFuQjxC-q1kJa8hqy7SkZiI/rs:fit/g:sm/q:90/h:593/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMjg1/MjQyLTE1MTM0Mzcw/MjAtOTgyNy5qcGVn.jpeg"
     - "https://i.discogs.com/hc2kOQhYiDyFncLMEhVixmCZd48Bga-iG4d-Tz25Kpk/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMjg1/MjQyLTE1MTM0Mzcw/MjMtODE1Ny5qcGVn.jpeg"
@@ -48,4 +48,4 @@ styles: ["Space Rock", "Prog Rock"]
 | Label          | Rockosmos |
 | Catalog Number | ROK 31 |
 | Notes | This is a split 180g Black Vinyl with Record on Side A and Sunriders on Side B. Edition of 500.  Sunriders EP - Recorded January 2013 Recorded At Loudhailer Manchester by Mladen Pavlovic All songs by Balamir, except Spaceman by Evans / Balamir  |
-| Discogs URL    | [Amplifier - Record + Sunriders](https://www.discogs.com/release/11285242-Amplifier-Record-Sunriders) |
+| Discogs URL    | [Amplifier - Record + Sunriders](https://www.discogs.com/release/11285242-Amplifier-3-Record-Sunriders) |

@@ -13,8 +13,8 @@ cover:
     alt: "Daybreaker by Beth Orton"
     caption: "Daybreaker by Beth Orton"
 additional_images:
-    - "https://i.discogs.com/ceOJa5gPtE7FHqYFvH4XQXX5VeXHT_FlvEnWTfPvxVU/rs:fit/g:sm/q:90/h:607/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzMTc0/NS0xNDkwOTUyMTk1/LTEyMTAuanBlZw.jpeg"
-    - "https://i.discogs.com/CXeBaqmIoCmtaUxFPTjH-xeq1XJWh_eGXeZpJSUoK6Y/rs:fit/g:sm/q:90/h:601/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzMTc0/NS0xNDkwOTUyMTk2/LTEwNzYuanBlZw.jpeg"
+    - "https://i.discogs.com/YGyvtA8_bpM_ecu_NwE_UMy6A8K5rpY0t7gBRTFZgmE/rs:fit/g:sm/q:90/h:600/w:592/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzMTc0/NS0xNDkwOTUyMTk1/LTEyMTAuanBlZw.jpeg"
+    - "https://i.discogs.com/RlnzNMpuN4x9qz17feTQvQE98tY7W3GuoL9LPSylcBU/rs:fit/g:sm/q:90/h:600/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzMTc0/NS0xNDkwOTUyMTk2/LTEwNzYuanBlZw.jpeg"
     - "https://i.discogs.com/YjbZC4v5wtSibAIUyH9wEb5blx9HKyCnUqOJsn0mKzk/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzMTc0/NS0xNDkwOTUyMTky/LTY2NzUuanBlZw.jpeg"
     - "https://i.discogs.com/eiV-OhF922rKYyGvMog3eLbJh5kJpsIZKzzmyO_zgF4/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzMTc0/NS0xNDkwOTUyMTkz/LTI2OTkuanBlZw.jpeg"
     - "https://i.discogs.com/exZvfPEnF9S-h8e6Q8jI4tdx-SJKrNN0c17d-qKPEzE/rs:fit/g:sm/q:90/h:592/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzMTc0/NS0xNDkwOTUyMTk2/LTUyMDUuanBlZw.jpeg"
@@ -23,7 +23,7 @@ genres: ["Electronic", "Rock"]
 styles: ["Folk Rock", "Soft Rock", "Downtempo"]
 ---
 
-Daybreaker is the third album by singer-songwriter Beth Orton released in 2002 on Heavenly Records and the Astralwerks Records label. The album reached #40 in US and #8 in UK. Mojo Magazine called the album "her best to date...". Q Magazine was not excited about the album: "Tortoise-pace strumming and a crippling shortage of choruses produce only torpor".  The album earned Orton a nomination at the BRIT Awards for Best British Female Singer as well as Best Album at the Q Awards.
+Daybreaker is the fourth studio album by singer-songwriter Beth Orton released in 2002 on Heavenly Records and the Astralwerks Records label. The album reached #40 in US and #8 in UK. Mojo Magazine called the album "her best to date...". Q Magazine was not excited about the album: "Tortoise-pace strumming and a crippling shortage of choruses produce only torpor".  The album earned Orton a nomination at the BRIT Awards for Best British Female Singer as well as Best Album at the Q Awards.
 In an interview to Insound.com on 28 July 2002 she said about making the record:
 
 "We recorded 25 songs in two weeks with the whole band. Then there's the stuff I did with Johnny. There's stuff all over the place. And these are the ten songs that ended up being on the record because for me they encapsulate the mood best of the time we are recording the album. It took about six months altogether. That's not too bad. It was probably actually a year because I was looking for someone to do the mixing and things weren't working out."
@@ -57,17 +57,19 @@ As of 2003 it has sold 169,000 copies in the United States.
 ### More Videos
 
 - [Daybreaker](https://www.youtube.com/watch?v=zOuS209BVEI)
-- [Concrete Sky](https://www.youtube.com/watch?v=EGVgbKQldEA)
 - [Ted's Waltz](https://www.youtube.com/watch?v=VyybYByaMj8)
+- [Concrete Sky](https://www.youtube.com/watch?v=EGVgbKQldEA)
 - [Mount Washington](https://www.youtube.com/watch?v=j3149WZsPqk)
-- [Beth Orton 🎧 Concrete Sky © Daybreaker 2002 EMI @ L' Espectador 30/10/19](https://www.youtube.com/watch?v=S34IHvDEG7Q)
 - [Anywhere](https://www.youtube.com/watch?v=sLX6xjbCuuA)
-- [Beth Orton - Thinking about tomorrow](https://www.youtube.com/watch?v=kjIwm7d_xs8)
-- [Beth Orton - Carmella](https://www.youtube.com/watch?v=C2vO0wmATrs)
 - [Carmella](https://www.youtube.com/watch?v=DiUHKOK6PUE)
 - [God Song](https://www.youtube.com/watch?v=rIGzMZIrBqw)
 - [This One's Gonna Bruise](https://www.youtube.com/watch?v=1xNbk8Hsg4E)
 - [Thinking About Tomorrow](https://www.youtube.com/watch?v=Ea_9I61HehA)
+- [Beth Orton - Thinking about tomorrow](https://www.youtube.com/watch?v=kjIwm7d_xs8)
+- [Carmella](https://www.youtube.com/watch?v=DiUHKOK6PUE)
+- [Daybreaker](https://www.youtube.com/watch?v=zOuS209BVEI)
+- [Ted's Waltz](https://www.youtube.com/watch?v=VyybYByaMj8)
+- [Beth Orton - Carmella](https://www.youtube.com/watch?v=C2vO0wmATrs)
 
 ## Release Images
 {{< imageGrid >}}

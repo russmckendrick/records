@@ -23,6 +23,11 @@ genres: ["Rock"]
 styles: ["Classic Rock", "Country Rock", "Blues Rock"]
 ---
 
+High Water I is the debut studio album by American rock band The Magpie Salute, released August 10, 2018 on Eagle Records. Produced by leader and guitarist Rich Robinson, it served as the follow-up to their self-titled live album released one year prior. The band's follow-up High Water II was released October 18, 2019.
+
+
+    
+    
 
 
 ## Tracklisting
@@ -44,8 +49,8 @@ styles: ["Classic Rock", "Country Rock", "Blues Rock"]
 
 
 ## Videos
-### The Magpie Salute ~ High Water
-{{< youtube id="C9FkRy4xsa0" title="The Magpie Salute ~ High Water" >}}<br>
+### The Magpie Salute ~ "High Water"
+{{< youtube id="C9FkRy4xsa0" title="The Magpie Salute ~ "High Water"" >}}<br>
 ### More Videos
 
 - [The Magpie Salute - High Water](https://www.youtube.com/watch?v=Z4h20Rr3a9s)
@@ -56,7 +61,8 @@ styles: ["Classic Rock", "Country Rock", "Blues Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl 2× LP Album (Clear Transparent) |
+| Wikipedia URL | https://en.wikipedia.org/wiki/High_Water_I |
+| Format         | Vinyl 2× LP Album (Clear Transparent, 180 Gram) |
 | Label          | Provogue |
 | Catalog Number | PRD7558 1 |
 | Notes | Gatefold sleeve, 180 gram clear transparent vinyl, contains a download card. Some copies included limited edition poster.   Made in the EU. |

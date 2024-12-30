@@ -16,23 +16,23 @@ additional_images:
     - "https://i.discogs.com/ohxpTX4sDJcF8vGES0MOFf35YwUsG8c_wGNdGgwzjJ4/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMjEz/NDMzLTE1MzA5MTA0/MzQtODk4NS5qcGVn.jpeg"
     - "https://i.discogs.com/c-A6FzbzHYlDNBwHjpFm7cXVjdBXFyX4n_0zPmnuO_o/rs:fit/g:sm/q:90/h:293/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMjEz/NDMzLTE1MzEyNTY3/OTEtMjM1Mi5qcGVn.jpeg"
     - "https://i.discogs.com/7Eyjuj9TUSdvx-eLoALGBD5h4-qTJXWEF4cuC7i5OmU/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMjEz/NDMzLTE1MzA5MTA0/NDYtMjIzOS5qcGVn.jpeg"
-    - "https://i.discogs.com/l08_-OfpjkKX7dFwp-9FAZYNd_Xm8xHkvzRlXZBDzGU/rs:fit/g:sm/q:90/h:631/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMjEz/NDMzLTE1MzEyNTY3/OTEtNjUxNi5qcGVn.jpeg"
+    - "https://i.discogs.com/5fV-_ae49tUcV42hmAXTGjmNdItCaVxGGRN5dcfILNY/rs:fit/g:sm/q:90/h:600/w:570/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMjEz/NDMzLTE1MzEyNTY3/OTEtNjUxNi5qcGVn.jpeg"
     - "https://i.discogs.com/coKT2aXUjKRWRhiadufe3MfVCGjPAnNsF88D9jfks8Q/rs:fit/g:sm/q:90/h:552/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMjEz/NDMzLTE1MzEyNTY3/OTEtNDQ4Mi5qcGVn.jpeg"
     - "https://i.discogs.com/QqxbsrVnzDA0B4luO2E4pvJeFVAGw-KhEU9O2_YGIWE/rs:fit/g:sm/q:90/h:583/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMjEz/NDMzLTE1MzEyNTY3/OTEtMTExOS5qcGVn.jpeg"
     - "https://i.discogs.com/EiaE-8Nb0Ft3iZkiHXaHZJul3EUdApaR5bmAmaF4Cc0/rs:fit/g:sm/q:90/h:594/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMjEz/NDMzLTE1MzEyNTY3/OTItODkzMi5qcGVn.jpeg"
     - "https://i.discogs.com/UQYTOFfP1IUuQOl_tjYquj9GPVdgmye5j5dMtNaoflg/rs:fit/g:sm/q:90/h:583/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMjEz/NDMzLTE1MzEyNTY3/OTEtNjkxNC5qcGVn.jpeg"
     - "https://i.discogs.com/6SvS86etUt2I0VH4GvcLoe1nFS_UeLUuOqz-H6SbQvg/rs:fit/g:sm/q:90/h:580/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMjEz/NDMzLTE1MzEyNTY3/OTEtODEyMi5qcGVn.jpeg"
     - "https://i.discogs.com/C8Sr5JTnjXVZ_ad-6dqUS37EDhqj7Tkq3vDnT87Ikg0/rs:fit/g:sm/q:90/h:593/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMjEz/NDMzLTE1MzEyNTY3/OTEtNDI0Ni5qcGVn.jpeg"
-    - "https://i.discogs.com/dj8IrsRtSOuGfojqaJNIE-B1Erj-j-IiBla_qcNy30g/rs:fit/g:sm/q:90/h:629/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMjEz/NDMzLTE1MzEyNTY3/OTEtNTk0MC5qcGVn.jpeg"
-    - "https://i.discogs.com/4zKYhSB7fg0zoFbTzwEj8rDNV1GT3msFyCcEpc4-T9M/rs:fit/g:sm/q:90/h:603/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMjEz/NDMzLTE1MzEyNTY3/OTEtNTI4MC5qcGVn.jpeg"
-    - "https://i.discogs.com/rVaQjJv_5ObhplVnzShLh_FO6EHAvWIOX_B_kzNCIlM/rs:fit/g:sm/q:90/h:624/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMjEz/NDMzLTE1MzEyNTY3/OTItNzgxNy5qcGVn.jpeg"
-    - "https://i.discogs.com/U6hpIdY4pzxL-RNILTB2YFM4y6LKZtSuRYcmD0EcADE/rs:fit/g:sm/q:90/h:608/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMjEz/NDMzLTE1MzEyNTY3/OTItODI1MS5qcGVn.jpeg"
-    - "https://i.discogs.com/eZcpBMTEbAcb0-xA4icxl8dTn7Sgr71HoM8XNj4x40I/rs:fit/g:sm/q:90/h:800/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMjEz/NDMzLTE2MjU5MzQz/OTMtNjQ2OC5qcGVn.jpeg"
+    - "https://i.discogs.com/hpvMf0RFwfBBW0CltZSeL5L29RU40FDZIgP2j_NJrwY/rs:fit/g:sm/q:90/h:600/w:571/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMjEz/NDMzLTE1MzEyNTY3/OTEtNTk0MC5qcGVn.jpeg"
+    - "https://i.discogs.com/jxIMJSoRX3VHieZouqvKDD_bchJ8Uxvbfdn-xvDVS7A/rs:fit/g:sm/q:90/h:600/w:596/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMjEz/NDMzLTE1MzEyNTY3/OTEtNTI4MC5qcGVn.jpeg"
+    - "https://i.discogs.com/UDTk847vlNBK1SfGDxymSahOr3lLV6WyXfDSM6wSnYc/rs:fit/g:sm/q:90/h:600/w:576/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMjEz/NDMzLTE1MzEyNTY3/OTItNzgxNy5qcGVn.jpeg"
+    - "https://i.discogs.com/HusqfNxRf0wOoAAwPFt__AGuEj8CXQwbcEcWF9Jxh_U/rs:fit/g:sm/q:90/h:600/w:591/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMjEz/NDMzLTE1MzEyNTY3/OTItODI1MS5qcGVn.jpeg"
+    - "https://i.discogs.com/tSMN7HRjVkTs9_BMtO1Cc20HOsvoxQswQCxNJmzOJGE/rs:fit/g:sm/q:90/h:600/w:450/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMjEz/NDMzLTE2MjU5MzQz/OTMtNjQ2OC5qcGVn.jpeg"
 genres: ["Rock"]
 styles: ["Prog Rock"]
 ---
 
-From the record title to the snarled lyrics, Roger Waters is clearly not content. His sumptuous, languorous post-rock mixes through gruff interjections about the state of the world. Waters channels Pink Floyd’s greasy funk in “Smell the Roses” and even their sense of epic grandeur in “The Last Refugee,” given an immaculate buff by producer Nigel Godrich. He’s at his malevolent best playing the exasperated old coot, either taking on God’s mistakes in the stately “Déjà Vu” or cursing up a storm in “Broken Bones.”
+From the record title to the snarled lyrics, Roger Waters is clearly not content. His sumptuous, languorous post-rock mixes through gruff interjections about the state of the world. Waters channels Pink Floyd’s greasy funk in “Smell the Roses” and even their sense of epic grandeur in “The Last Refugee”, given an immaculate buff by producer Nigel Godrich. He’s at his malevolent best playing the exasperated old coot, either taking on God’s mistakes in the stately “Déjà Vu” or cursing up a storm in “Broken Bones”.
     
     
 
@@ -56,13 +56,20 @@ From the record title to the snarled lyrics, Roger Waters is clearly not content
 
 
 ## Videos
-### Roger Waters - The Last Refugee
-{{< youtube id="_XdLNqWYgGI" title="Roger Waters - The Last Refugee" >}}<br>
+### Roger Waters - Smell the Roses (Audio)
+{{< youtube id="PEh7Ip4yvH8" title="Roger Waters - Smell the Roses (Audio)" >}}<br>
 ### More Videos
 
-- [Roger Waters - Wait for Her (Video)](https://www.youtube.com/watch?v=iSl1kmQMG2E)
+- [When We Were Young](https://www.youtube.com/watch?v=wqZ0HKbCNfE)
+- [Roger Waters - Déjà Vu (Audio)](https://www.youtube.com/watch?v=gf7kMaurLZk)
+- [Roger Waters - The Last Refugee](https://www.youtube.com/watch?v=_XdLNqWYgGI)
+- [Picture That](https://www.youtube.com/watch?v=YIiRMgF29eo)
+- [Broken Bones](https://www.youtube.com/watch?v=4svv0lvizXQ)
+- [Is This the Life We Really Want?](https://www.youtube.com/watch?v=Htjj7NJiNBA)
 - [Bird In A Gale](https://www.youtube.com/watch?v=BQxx9R8l6ZY)
 - [The Most Beautiful Girl](https://www.youtube.com/watch?v=GtPON4OH_tE)
+- [Roger Waters - Wait for Her (Video)](https://www.youtube.com/watch?v=iSl1kmQMG2E)
+- [Oceans Apart](https://www.youtube.com/watch?v=1o7j98l6FZc)
 - [Part of Me Died](https://www.youtube.com/watch?v=ucnwTy9VNcU)
 
 ## Release Images
@@ -74,5 +81,5 @@ From the record title to the snarled lyrics, Roger Waters is clearly not content
 | Format         | Vinyl 2× LP Album Limited Edition Numbered Reissue (Green) |
 | Label          | Columbia |
 | Catalog Number | C-192609 |
-| Notes | Comes in a gatefold cover, inner sleeves with lyrics. Download code included. Made in the EU.  Parental Advisory Explicit Content Strong Language  Hype sticker: Numbered Limited Edition Green Vinyl  Number is stamped in silver on front cover. |
+| Notes | Comes in a gatefold cover, inner sleeves with lyrics. Download code included. Made in the EU.  Parental Advisory Explicit Content Strong Language  Hype sticker: Numbered Limited Edition Green Vinyl  Number is stamped in silver on front cover.  All variants show etched runouts except: A, B, C & D sides on variant 1: "MPO 18 30966", "MPO 18 30654", "MPO 18 28730" and "MPO 18 31545" are stamped; A, B, C & D sides on variant 2: "MPO 18 30964", "MPO 18 30574", "MPO 18 30664" and "MPO 18 28258" are stamped; A, B, C & D sides on variant 3: "MPO® 18 30363", "MPO® 18 28425", "MPO® 18 28670" and "MPO® 18 31634" are stamped. Variant 3 shows also C2=C² and D2=D². |
 | Discogs URL    | [Roger Waters - Is This The Life We Really Want?](https://www.discogs.com/release/12213433-Roger-Waters-Is-This-The-Life-We-Really-Want) |

@@ -20,6 +20,11 @@ genres: ["Rock"]
 styles: ["Hard Rock"]
 ---
 
+Clockwork Angels Tour is a live album and film of Canadian progressive rock band Rush's Clockwork Angels Tour, released on November 19, 2013. The performances were selected from the band's shows in Phoenix, Dallas, and San Antonio (November 25, 28 and 30, 2012, respectively). On May 14, 2014, the DVD release was certified Platinum by the RIAA.
+
+
+    
+    
 
 
 ## Tracklisting
@@ -67,6 +72,7 @@ styles: ["Hard Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
+| Wikipedia URL | https://en.wikipedia.org/wiki/Clockwork_Angels_Tour_(album) |
 | Format         | Vinyl LP, Vinyl LP, Vinyl LP, Vinyl LP, Vinyl LP Single Sided Etched, Box Set Album Reissue |
 | Label          | Anthem (5) |
 | Catalog Number | R1 175982 |

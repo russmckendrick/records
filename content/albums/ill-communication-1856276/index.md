@@ -13,7 +13,7 @@ cover:
     alt: "Ill Communication by Beastie Boys"
     caption: "Ill Communication by Beastie Boys"
 additional_images:
-    - "https://i.discogs.com/pxMsQf5GRXWKC_nv0EjGvOFbUBkA_CclwhtflrsIj_Q/rs:fit/g:sm/q:90/h:601/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NTYy/NzYtMTM3NzY5MDQx/OC0yODIzLmpwZWc.jpeg"
+    - "https://i.discogs.com/oRJpyMIuvaSildyH5D9HR3zHyXc3Fgiq6byCyDrHZaU/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NTYy/NzYtMTM3NzY5MDQx/OC0yODIzLmpwZWc.jpeg"
     - "https://i.discogs.com/FP3A364myTil4kRz48jSRHF7Kfn-qwNi4BQ0ORHx-ow/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NTYy/NzYtMTYxOTU0OTMw/OS05Mzg0LmpwZWc.jpeg"
     - "https://i.discogs.com/fZmzXelesQsDDNjqAzAh1Jlbcib-unFNdGnvkcFLn0w/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NTYy/NzYtMTYxOTU0OTMx/MC0zMTIyLmpwZWc.jpeg"
     - "https://i.discogs.com/HSL7sTQaOWAdMK60RyncUlqVXZK_ZYY_3taeNjJBPg8/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NTYy/NzYtMTYxOTU0OTMw/OC02NDg0LmpwZWc.jpeg"
@@ -26,7 +26,8 @@ genres: ["Hip Hop", "Rock"]
 styles: ["Boom Bap", "Jazzy Hip-Hop", "Punk"]
 ---
 
-Ill Communication is the fourth studio album by American hip-hop group Beastie Boys, released by Grand Royal Records on May 31, 1994. Co-produced by Beastie Boys and Mario Caldato, Jr., it is among the band's most varied releases, drawing from hip hop, punk rock, jazz, and funk, and continues their trend away from sampling and towards live instruments, which began with their previous release, Check Your Head (1992). The album features musical contributions from Money Mark, Eric Bobo and Amery "AWOL" Smith, and vocal contributions from Q-Tip and Biz Markie. Beastie Boys were influenced by Miles Davis's jazz rock albums On the Corner (1972) and Agharta (1975) while recording Ill Communication.The album became the band's second number-one album on the U.S. Billboard 200 chart and their second triple platinum album. It was supported by the single "Sabotage", which was accompanied by a music video directed by Spike Jonze that parodied 1970s cop shows.
+Ill Communication is the fourth studio album by the American hip hop group Beastie Boys, released on May 31, 1994, by Grand Royal and Capitol Records. Co-produced by Beastie Boys and Mario Caldato, Jr., it is among the band's most varied releases, drawing from hip hop, punk rock, jazz, and funk, and continues their trend away from sampling and towards live instruments, which began with their previous release, Check Your Head (1992). The album features musical contributions from Money Mark, Eric Bobo and Amery "AWOL" Smith, and vocal contributions from Q-Tip and Biz Markie. Beastie Boys were influenced by Miles Davis's jazz rock albums On the Corner (1972) and Agharta (1975) while recording Ill Communication.
+The album became the band's second number-one album on the U.S. Billboard 200 chart and their second album to be certified triple platinum by the Recording Industry Association of America (RIAA). It was supported by the single "Sabotage", which was accompanied by a music video directed by Spike Jonze that parodied 1970s cop shows.
 
 
         
@@ -61,13 +62,29 @@ Ill Communication is the fourth studio album by American hip-hop group Beastie B
 
 
 ## Videos
-### Beast̲i̲e̲ ̲B̲o̲ys - Ill Communication (Full Album)
-{{< youtube id="ajbr64jeLjQ" title="Beast̲i̲e̲ ̲B̲o̲ys - Ill Communication (Full Album)" >}}<br>
+### Beastie Boys - Sure Shot
+{{< youtube id="JhqyZeUlE8U" title="Beastie Boys - Sure Shot" >}}<br>
 ### More Videos
 
-- [Tough Guy - Beastie Boys](https://www.youtube.com/watch?v=DNkYVaRzhxE)
 - [Tough Guy](https://www.youtube.com/watch?v=30CKfFLfNh0)
-- [Tough Guy (Remastered 2009)](https://www.youtube.com/watch?v=-AvF_LckwrE)
+- [B-Boys Makin' With The Freak Freak](https://www.youtube.com/watch?v=M-wJrRmXzZQ)
+- [Bobo On The Corner](https://www.youtube.com/watch?v=e3CX8MUhuZY)
+- [Beastie Boys - Root Down](https://www.youtube.com/watch?v=Xf1YF_MH1xc)
+- [Beastie Boys - Sabotage](https://www.youtube.com/watch?v=z5rRZdiu1UE)
+- [Get It Together](https://www.youtube.com/watch?v=0bkMtWL-5vM)
+- [Sabrosa](https://www.youtube.com/watch?v=gUTO-sQzNsw)
+- [The Update](https://www.youtube.com/watch?v=WIrp4mnLKzw)
+- [Futterman's Rule](https://www.youtube.com/watch?v=P-bRCykSwec)
+- [Alright Hear This](https://www.youtube.com/watch?v=PDU4awStHiY)
+- [Eugene's Lament](https://www.youtube.com/watch?v=TktCCU1W4ZA)
+- [Flute Loop](https://www.youtube.com/watch?v=HOvvFwnygXU)
+- [Do It](https://www.youtube.com/watch?v=3UtDu-4m0Ko)
+- [Ricky's Theme](https://www.youtube.com/watch?v=N_kZ2Q6uZEk)
+- [Heart Attack Man](https://www.youtube.com/watch?v=fCFE6TC5ERk)
+- [The Scoop](https://www.youtube.com/watch?v=xAffBC21-24)
+- [Shambala](https://www.youtube.com/watch?v=2E40WCgwLmk)
+- [Bodhisattva Vow](https://www.youtube.com/watch?v=vTCCc6VMW_k)
+- [Transitions](https://www.youtube.com/watch?v=CqUZjAoVjFA)
 
 ## Release Images
 {{< imageGrid >}}

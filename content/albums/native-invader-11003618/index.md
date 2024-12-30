@@ -13,21 +13,21 @@ cover:
     caption: "Native Invader by Tori Amos"
 additional_images:
     - "https://i.discogs.com/Vt_JbdfM83YwcnAdViRDbqBvayGggvbQ-SKm83U7L94/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMDAz/NjE4LTE1MDg1NDI2/MTktNDA4NS5qcGVn.jpeg"
-    - "https://i.discogs.com/yEWCk4PHA3WXDqjim3MoLzB34m520i_kiwWN-oJQsK4/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMDAz/NjE4LTE1MDg1NDMw/MTMtNzM4Ni5qcGVn.jpeg"
     - "https://i.discogs.com/C1k4aRU0XJt96bv4N5wgr1yeQDkrwr64Q7A7iehqyVY/rs:fit/g:sm/q:90/h:288/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMDAz/NjE4LTE1MDg1NDMw/NDQtNjA0NS5qcGVn.jpeg"
-    - "https://i.discogs.com/q2umpZNxSxAOLKBNmrErqttnqDkwUw9w2tTRTdJz9bY/rs:fit/g:sm/q:90/h:605/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMDAz/NjE4LTE1MTAyOTEz/MzYtNTYzMC5qcGVn.jpeg"
+    - "https://i.discogs.com/yEWCk4PHA3WXDqjim3MoLzB34m520i_kiwWN-oJQsK4/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMDAz/NjE4LTE1MDg1NDMw/MTMtNzM4Ni5qcGVn.jpeg"
+    - "https://i.discogs.com/lpqphRImDfoK15NHdtBdrmM6qQVE-STzxUO_WFWNlPc/rs:fit/g:sm/q:90/h:600/w:596/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMDAz/NjE4LTE1MTAyOTEy/NjItODU4NC5qcGVn.jpeg"
+    - "https://i.discogs.com/EsnrvsXXHy4CJt0Clwr5Jnh0N9upYGP-fVyt3Ey54VA/rs:fit/g:sm/q:90/h:600/w:591/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMDAz/NjE4LTE1MTAyOTEy/ODUtNzcxOC5qcGVn.jpeg"
+    - "https://i.discogs.com/iMQ7Mld8AJo7EL2ZXPimBLcp0zcZZ_RxUxcjevar1Ag/rs:fit/g:sm/q:90/h:600/w:595/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMDAz/NjE4LTE1MTAyOTEy/ODMtNTM2Ni5qcGVn.jpeg"
+    - "https://i.discogs.com/j6TEXFkM1_QajoEoREp5g1t6bGkBFIrsN9WVODgtY7o/rs:fit/g:sm/q:90/h:600/w:594/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMDAz/NjE4LTE1MTAyOTEy/NzctODk4Ny5qcGVn.jpeg"
+    - "https://i.discogs.com/DRPzXjuJxcI1u8wZelb1DI7CzM-LZZQwuuBOvgnEcVE/rs:fit/g:sm/q:90/h:600/w:594/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMDAz/NjE4LTE1MTAyOTEz/MzYtNTYzMC5qcGVn.jpeg"
     - "https://i.discogs.com/Fkew7VB_IIA3bwAjYzlNvUcFy06FP6BvNBS_VTsEbmY/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMDAz/NjE4LTE1MTAyOTEz/MzktMjc5Ny5qcGVn.jpeg"
     - "https://i.discogs.com/NYg3bs1JWaA1jCoQwWqN9xFacSNqdV-rWCv1GHF3Dl8/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMDAz/NjE4LTE1MTAyOTEz/NjUtNTgwMS5qcGVn.jpeg"
     - "https://i.discogs.com/0CanuYAyGRUG1_QuPtFXIQFmpwCJV81kg0AVJrUN6D8/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMDAz/NjE4LTE1MTAyOTEz/NjktOTg0NC5qcGVn.jpeg"
-    - "https://i.discogs.com/N1OwS5W0dRUKVDayeXs5_eBFcMZM68cXfAxz_D1KPbQ/rs:fit/g:sm/q:90/h:603/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMDAz/NjE4LTE1MTAyOTEy/NjItODU4NC5qcGVn.jpeg"
-    - "https://i.discogs.com/oEG_1exNvJSAPYac09e1az2H0Hd7Dz5BMYBcE5vpfr8/rs:fit/g:sm/q:90/h:608/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMDAz/NjE4LTE1MTAyOTEy/ODUtNzcxOC5qcGVn.jpeg"
-    - "https://i.discogs.com/bn7ue7aENNoXu62nKbBP1iX1Leg7XDwPpA1TOslEzQM/rs:fit/g:sm/q:90/h:604/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMDAz/NjE4LTE1MTAyOTEy/ODMtNTM2Ni5qcGVn.jpeg"
-    - "https://i.discogs.com/1GyJKTNVJRwuVrMbRygTwHZ3hoqoqQ7yoN9Qt4uaiSc/rs:fit/g:sm/q:90/h:605/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMDAz/NjE4LTE1MTAyOTEy/NzctODk4Ny5qcGVn.jpeg"
 genres: ["Rock", "Pop"]
 styles: ["Acoustic", "Alternative Rock", "Ballad"]
 ---
 
-Native Invader is the fifteenth studio album (twelfth of entirely original material) by American singer-songwriter Tori Amos. It was released on September 8, 2017, through Decca Records. Its lead single, "Cloud Riders", was released on July 27, 2017.
+Native Invader is the fifteenth studio album (twelfth of entirely original material) by American singer-songwriter Tori Amos. It was released on September 8, 2017, through Decca Records. Its lead single "Cloud Riders", was released on July 27, 2017.
     
     
 
@@ -48,15 +48,22 @@ Native Invader is the fifteenth studio album (twelfth of entirely original mater
 13. Mary's Eyes
 
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/native-invader-deluxe/1440657862" >}}<br>
+{{< applemusic url="https://music.apple.com/gb/album/native-invader/1440770840" >}}<br>
 
 
 ## Videos
-### Tori Amos - Reindeer King (Audio)
-{{< youtube id="ub0yooZAGOA" title="Tori Amos - Reindeer King (Audio)" >}}<br>
+### Tori Amos - Reindeer King (Lyric Video)
+{{< youtube id="gsSBNNjhGJY" title="Tori Amos - Reindeer King (Lyric Video)" >}}<br>
 ### More Videos
 
-- [Tori Amos - Cloud Riders (Audio)](https://www.youtube.com/watch?v=DmVvSjVFh28)
+- [Tori Amos - Cloud Riders (Lyric Video)](https://www.youtube.com/watch?v=VVx2jNxy8lM)
+- [Breakaway](https://www.youtube.com/watch?v=KkAr-6RFH9M)
+- [Benjamin](https://www.youtube.com/watch?v=wS6rvD_lkro)
+- [Tori Amos Discusses Her New Album, "Native Invader"](https://www.youtube.com/watch?v=sfhCN6H59lc)
+- [Tori Amos - Nylon Interview (Native Invader) 2017](https://www.youtube.com/watch?v=_HGdRvFe1Bg)
+- [Tori Amos / Native Invader 'unboxing'](https://www.youtube.com/watch?v=FHaYaTW3cT8)
+- [UNBOXING: Tori Amos - "Native Invader"](https://www.youtube.com/watch?v=QGJ9QyH7qeU)
+- [Tori Amos - Reindeer King (Audio)](https://www.youtube.com/watch?v=ub0yooZAGOA)
 
 ## Release Images
 {{< imageGrid >}}

@@ -25,7 +25,7 @@ genres: ["Rock"]
 styles: ["Southern Rock"]
 ---
 
-Three Snakes and One Charm is the fourth studio album by American rock band The Black Crowes. It was released on July 23, 1996.
+Three Snakes and One Charm is the fourth studio album by American rock band the Black Crowes. It was released on July 23, 1996, and is their final release on American Recordings.
     
     
 
@@ -53,20 +53,7 @@ Three Snakes and One Charm is the fourth studio album by American rock band The 
 ## Videos
 ### The Black Crowes - Blackberry
 {{< youtube id="y9r_uE9YOSM" title="The Black Crowes - Blackberry" >}}<br>
-### More Videos
 
-- [The Black Crowes – How Much For Your Wings ?](https://www.youtube.com/watch?v=dkDFnrKJ7Qg)
-- [The Black Crowes – Bring On, Bring On](https://www.youtube.com/watch?v=zV2eiDIrdxk)
-- [The Black Crowes – Let Me Share The Ride](https://www.youtube.com/watch?v=sOELboiSWho)
-- [The Black Crowes – Nebakanezer](https://www.youtube.com/watch?v=k6omFhQ5hWg)
-- [The Black Crowes – Blackberry](https://www.youtube.com/watch?v=PpuEO_8C-sI)
-- [The Black Crowes – Evil Eye](https://www.youtube.com/watch?v=5gyZe38zSro)
-- [The Black Crowes – Girl From A Pawnshop](https://www.youtube.com/watch?v=Pt3haYErkCw)
-- [The Black Crowes – Better When You're Not Alone](https://www.youtube.com/watch?v=fjkKkEBGuZA)
-- [The Black Crowes – Under A Mountain](https://www.youtube.com/watch?v=jRRYpsp16i4)
-- [The Black Crowes – One Mirror Too Many](https://www.youtube.com/watch?v=N_XL0xcMXUk)
-- [The Black Crowes – Good Friday](https://www.youtube.com/watch?v=zhErj13uccY)
-- [The Black Crowes – (Only) Halfway To Everywhere](https://www.youtube.com/watch?v=6qjTpiSUw18)
 
 ## Release Images
 {{< imageGrid >}}

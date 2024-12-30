@@ -48,6 +48,8 @@ styles: []
 ### More Videos
 
 - [Gavin Harrison - Hatesong / Halo (from Cheating the Polygraph)](https://www.youtube.com/watch?v=s9PCreC7Lfk)
+- [Gavin Harrison Cheating The Polygraph/Mother & Child Divided](https://www.youtube.com/watch?v=ZwaqOBXpEDs)
+- [Gavin Harrison - Hatesong / Halo (from Cheating the Polygraph)](https://www.youtube.com/watch?v=s9PCreC7Lfk)
 
 ## Release Images
 {{< imageGrid >}}

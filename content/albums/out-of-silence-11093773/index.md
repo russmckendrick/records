@@ -21,13 +21,13 @@ additional_images:
     - "https://i.discogs.com/twIOcnw46gcrMsO6awq-zuaf_B7LYXQVV7lrLknxjaY/rs:fit/g:sm/q:90/h:589/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMDkz/NzczLTE1MTAzMDMx/MjctNDg5Ny5qcGVn.jpeg"
     - "https://i.discogs.com/thTodfkc8O1wvThx6FB2wHuV-9T035R_QMZHCyRCpYc/rs:fit/g:sm/q:90/h:594/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMDkz/NzczLTE1MTAzMDMx/MTgtMzQ0MC5qcGVn.jpeg"
     - "https://i.discogs.com/jftB5-W7ghC0tiv2Dre1xNL2cKzYyYmWBL1pdZoGbkc/rs:fit/g:sm/q:90/h:299/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMDkz/NzczLTE1MTQ3NDI0/OTMtNzk4OS5qcGVn.jpeg"
-    - "https://i.discogs.com/q1j2GfYzYG8xEtDlUHJFUUxnkO_hsylslHrVPHM0Jd8/rs:fit/g:sm/q:90/h:858/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMDkz/NzczLTE2MzQyNTU1/MTUtODQyMC5qcGVn.jpeg"
+    - "https://i.discogs.com/cyCt5vbR2tvvkknBsT9dRC93TauyR2Z_VzjcsRrQiPo/rs:fit/g:sm/q:90/h:600/w:419/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMDkz/NzczLTE2MzQyNTU1/MTUtODQyMC5qcGVn.jpeg"
     - "https://i.discogs.com/4o9jwlYT-2i4NTegZk3hu25Ifpuq1SGOvfGsuanG8Kg/rs:fit/g:sm/q:90/h:433/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMDkz/NzczLTE2MzQyNTU1/MTUtODYxNC5qcGVn.jpeg"
 genres: ["Rock"]
 styles: []
 ---
 
-Neil Finn took an unorthodox route to <i>Out of Silence</i>. Over four consecutive Fridays in August 2017, he gathered friends, family, artists, even a small orchestra and choir, in Roundhead Studios in Auckland and live-streamed the sessions. The final meeting on August 25 culminated in the complete recording of this album. It’s a return to organic chemistry, capturing the immediate, spontaneous, and whimsical moments that often get deleted in the era of Pro Tools.
+Neil Finn took an unorthodox route to <i>Out of Silence</i>. Over four consecutive Fridays in August 2017, he gathered friends, family, artists, even a small orchestra and choir, in Roundhead Studios in Auckland and live-streamed the sessions. The final meeting on 25 August culminated in the complete recording of this album. It’s a return to organic chemistry, capturing the immediate, spontaneous and whimsical moments that often get deleted in the era of Pro Tools.
         
         
     
@@ -54,6 +54,31 @@ Neil Finn took an unorthodox route to <i>Out of Silence</i>. Over four consecuti
 {{< youtube id="umEBtfZnZnA" title="Neil Finn - Love Is Emotional" >}}<br>
 ### More Videos
 
+- [Neil Finn - More Than One Of You](https://www.youtube.com/watch?v=1jdyTtCy-zg)
+- [Neil Finn - Chameleon Days](https://www.youtube.com/watch?v=K1cq6xtzA3M)
+- [Neil Finn - Indepedence Day](https://www.youtube.com/watch?v=Azwa6xRYTQ4)
+- [Alone](https://www.youtube.com/watch?v=pOnlqcHhiNI)
+- [Neil Finn - Widows Peak](https://www.youtube.com/watch?v=6JfMUJZH3ow)
+- [Neil Finn - Second Nature](https://www.youtube.com/watch?v=9q7Jr0w5MLk)
+- [Neil Finn - The Law Is Always On Your Side](https://www.youtube.com/watch?v=1La1HACYsjc)
+- [Neil Finn - Terrorise Me](https://www.youtube.com/watch?v=tDcDVo89j7A)
+- [Neil Finn - I Know Different](https://www.youtube.com/watch?v=s_q03rRFPB8)
+- [Neil Finn - Chameleon Days](https://www.youtube.com/watch?v=0Fq7DMbsVSk)
+- [Neil Finn - Independence Day with the APO](https://www.youtube.com/watch?v=E0n85StFIeY)
+- [Neil Finn: The Infinity Sessions](https://www.youtube.com/watch?v=QbeEsFuJSVA)
+- [The Infinity Sessions: Week Two](https://www.youtube.com/watch?v=zXFnWk8VRA4)
+- [The Infinity Sessions: Week Three](https://www.youtube.com/watch?v=aw7M6X0zgaw)
+- [The Infinity Sessions: Week Four](https://www.youtube.com/watch?v=LDSDBG68zHI)
+- [Neil Finn - Love Is Emotional](https://www.youtube.com/watch?v=umEBtfZnZnA)
+- [Neil Finn - More Than One Of You](https://www.youtube.com/watch?v=1jdyTtCy-zg)
+- [Neil Finn - Chameleon Days](https://www.youtube.com/watch?v=K1cq6xtzA3M)
+- [Neil Finn - Indepedence Day](https://www.youtube.com/watch?v=Azwa6xRYTQ4)
+- [Neil Finn - Widows Peak](https://www.youtube.com/watch?v=6JfMUJZH3ow)
+- [Neil Finn - Second Nature](https://www.youtube.com/watch?v=9q7Jr0w5MLk)
+- [Neil Finn - The Law Is Always On Your Side](https://www.youtube.com/watch?v=1La1HACYsjc)
+- [Neil Finn - Terrorise Me](https://www.youtube.com/watch?v=tDcDVo89j7A)
+- [Neil Finn - I Know Different](https://www.youtube.com/watch?v=s_q03rRFPB8)
+- [Neil Finn - Love Is Emotional](https://www.youtube.com/watch?v=umEBtfZnZnA)
 - [Neil Finn - More Than One Of You](https://www.youtube.com/watch?v=1jdyTtCy-zg)
 - [Neil Finn - Chameleon Days](https://www.youtube.com/watch?v=K1cq6xtzA3M)
 - [Neil Finn - Indepedence Day](https://www.youtube.com/watch?v=Azwa6xRYTQ4)

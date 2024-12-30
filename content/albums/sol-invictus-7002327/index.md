@@ -28,12 +28,15 @@ additional_images:
     - "https://i.discogs.com/vZLr3YtaZlEakD0p7xZf1_TbAwJUBM3sFgqg-G_Vdmc/rs:fit/g:sm/q:90/h:469/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcwMDIz/MjctMTQzMTc4NDM3/NS0xODY5LmpwZWc.jpeg"
     - "https://i.discogs.com/9M_T0doElpRvRKVAE_4xzUmKh7tlKUYdVOGBuHIIjXA/rs:fit/g:sm/q:90/h:382/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcwMDIz/MjctMTQzMTc4NDM0/NS04NTgxLmpwZWc.jpeg"
     - "https://i.discogs.com/5ZcpIkOxXYlpvuVQsC1Rf6YdEMjXENjrZKlX4nbICPE/rs:fit/g:sm/q:90/h:384/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcwMDIz/MjctMTQzMTc4NDMz/OC04ODcxLmpwZWc.jpeg"
+    - "https://i.discogs.com/gQVsqjJtOQc_CDHjFcizvMJFdO1yLiCR21Stg3b4knw/rs:fit/g:sm/q:90/h:600/w:225/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcwMDIz/MjctMTY4MzQ2MzQx/MS01MDg0LmpwZWc.jpeg"
 genres: ["Rock"]
 styles: ["Alternative Rock"]
 ---
 
-Sol Invictus (Latin for Unconquered Sun) is the seventh studio album by American rock band Faith No More, released on May 19, 2015. It was Faith No More's first studio album following 1997's Album of the Year, marking the longest gap between two studio albums in their career, and their first release on Reclamation Records. Sol Invictus was also the band's first album since 1992's Angel Dust to feature the same lineup as its predecessor.
+Sol Invictus (Latin, 'Unconquered Sun') is the seventh and final studio album by American rock band Faith No More, released on May 19, 2015. It was Faith No More's first studio album following 1997's Album of the Year, marking the longest gap between two studio albums in their career, and their first release on Reclamation! Records. Sol Invictus was also the band's first album since 1992's Angel Dust to feature the same lineup as its predecessor.
 The album marked the group's fifth collaboration with longtime producer Matt Wallace, this time helping with the final mix rather than a more substantial producing role.
+
+
     
     
 
@@ -62,13 +65,9 @@ The album marked the group's fifth collaboration with longtime producer Matt Wal
 - [Faith No More - Superhero](https://www.youtube.com/watch?v=NKP98hDBJ8w)
 - [Black Friday](https://www.youtube.com/watch?v=HRm24MerRXk)
 - [Sunny Side Up](https://www.youtube.com/watch?v=4UffVzuOZAY)
-- [Separation Anxiety](https://www.youtube.com/watch?v=LDYNfMdNeqg)
-- [Cone of Shame](https://www.youtube.com/watch?v=eQ0FLB8JZ9o)
-- [Matador](https://www.youtube.com/watch?v=kGuJu6i0vLU)
 - [Rise of the Fall](https://www.youtube.com/watch?v=NmZT5-XrlVU)
 - [Faith No More - Sol Invictus [Track 1 from Sol Invictus] (2015)](https://www.youtube.com/watch?v=881Mh2WLuKE)
 - [From the Dead](https://www.youtube.com/watch?v=8wWCgjDPZwQ)
-- [Faith No More - Superhero Battaglia [Japanese bonus track] [Track 11 from Sol Invictus] (2015)](https://www.youtube.com/watch?v=655GoC07EOM)
 
 ## Release Images
 {{< imageGrid >}}

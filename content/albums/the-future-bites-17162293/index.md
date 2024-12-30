@@ -12,14 +12,14 @@ cover:
     alt: "The Future Bites by Steven Wilson"
     caption: "The Future Bites by Steven Wilson"
 additional_images:
-    - "https://i.discogs.com/EH-Q6Yl_1UOOr5Cf_LgTEyKqS3yeHLDM-lpPgaRB0DE/rs:fit/g:sm/q:90/h:601/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3MTYy/MjkzLTE2MTE5MzE5/MjgtMzczNy5qcGVn.jpeg"
-    - "https://i.discogs.com/EX9Ot1LR0T1UiJw61w3eRPWbaCoe-IHwbLVYE3eYHC4/rs:fit/g:sm/q:90/h:613/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3MTYy/MjkzLTE2MTE5MzE5/MjgtNTcyNi5qcGVn.jpeg"
+    - "https://i.discogs.com/jrBkU9XwEHFZYqLk-37ZL3xg3dr8f9MqOlt-Lp4fdVA/rs:fit/g:sm/q:90/h:600/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3MTYy/MjkzLTE2MTE5MzE5/MjgtMzczNy5qcGVn.jpeg"
+    - "https://i.discogs.com/oXY_UkPtdNvfjhlVH653RBzqPCkWVUBdtTPJB62iYIg/rs:fit/g:sm/q:90/h:600/w:586/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3MTYy/MjkzLTE2MTE5MzE5/MjgtNTcyNi5qcGVn.jpeg"
     - "https://i.discogs.com/CdUumTrzsYbG_yhlaFXrEo4AtMqj15Zip9PqhYV3Arw/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3MTYy/MjkzLTE2MTgxMzI4/MzEtNTkzMS5qcGVn.jpeg"
     - "https://i.discogs.com/cbKYbAJqHhw19pgFZtmiVV2E0vq4BcmbF6tZgCnqdOQ/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3MTYy/MjkzLTE2MTgxMzI1/OTYtODM5MS5qcGVn.jpeg"
     - "https://i.discogs.com/N9zGuBw9hvXY2C3RmtsHdDessu2bce3IRAR5oEpYb18/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3MTYy/MjkzLTE2MTgxMzI2/MDMtMTkzMS5qcGVn.jpeg"
     - "https://i.discogs.com/iU2Y0bMGQjzN9Ip5ECeGsqjUPh59r-ItbnQ_khrZfdM/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3MTYy/MjkzLTE2MTgxMzI4/ODMtODIwOS5qcGVn.jpeg"
-    - "https://i.discogs.com/Cso-vXDSR2MsYcuwReikAvRQwx2lO0Z2JCrmJgd-sy4/rs:fit/g:sm/q:90/h:604/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3MTYy/MjkzLTE2MTE5MzE5/MzUtMzM1Ny5qcGVn.jpeg"
-    - "https://i.discogs.com/PzPw9_FV0DXUtC_YkIZbci4LqupETUI_l1Fd2N7yYSo/rs:fit/g:sm/q:90/h:605/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3MTYy/MjkzLTE2MTE5MzE5/MzUtNzQxMy5qcGVn.jpeg"
+    - "https://i.discogs.com/6Ke_kESWQHVAweCLu6QSaCRp4NEl-Wt_0jl7EPf-I8U/rs:fit/g:sm/q:90/h:600/w:595/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3MTYy/MjkzLTE2MTE5MzE5/MzUtMzM1Ny5qcGVn.jpeg"
+    - "https://i.discogs.com/uGN59Kw140jomUlfzw2HUmGeU8Pj-EDAMfvjBijA9zM/rs:fit/g:sm/q:90/h:600/w:594/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3MTYy/MjkzLTE2MTE5MzE5/MzUtNzQxMy5qcGVn.jpeg"
     - "https://i.discogs.com/Q_tMyxu9vLgIxDeKkPHwmxhhQ7Z950p0jffsbuE525o/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3MTYy/MjkzLTE2MTgxMzI2/NjQtNjQzOS5qcGVn.jpeg"
     - "https://i.discogs.com/Ni0-_zHmxI9XgYnjWirNTICw0b4pzhXW_Q3t0GV14as/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3MTYy/MjkzLTE2MTgxMzI2/ODctNTk0OS5qcGVn.jpeg"
     - "https://i.discogs.com/FGbTzPDWLrtQZYPE87B6cr_oj0PiEp9FubVE-mBWEgQ/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3MTYy/MjkzLTE2MTgxMzI2/ODktMzkyMC5qcGVn.jpeg"
@@ -65,23 +65,30 @@ The Future Bites (stylised as THE FUTURE BITES™) is the sixth studio album by 
 
 
 ## Videos
-### Steven Wilson - SELF (Official Video)
-{{< youtube id="UroVey4fJ_g" title="Steven Wilson - SELF (Official Video)" >}}<br>
+### Steven Wilson - Hey Sleeper - The Future Bites
+{{< youtube id="QxHXQfV7Mt4" title="Steven Wilson - Hey Sleeper - The Future Bites" >}}<br>
 ### More Videos
 
-- [S͟teven W͟ilson - The Future Bites (Full Album) 2021](https://www.youtube.com/watch?v=fd7NTkWEBHo)
-- [Steven Wilson - Hey Sleeper - The Future Bites](https://www.youtube.com/watch?v=QxHXQfV7Mt4)
-- [UNSELF](https://www.youtube.com/watch?v=7VuItbHUsaQ)
+- [Steven Wilson - SELF (Official Video)](https://www.youtube.com/watch?v=UroVey4fJ_g)
 - [Steven Wilson - KING GHOST (Official Video)](https://www.youtube.com/watch?v=zSvdLcS62ZM)
-- [SELF](https://www.youtube.com/watch?v=svUx9D3WCr4)
 - [Steven Wilson - 12 THINGS I FORGOT (Official Audio)](https://www.youtube.com/watch?v=7wZrYAgf8d8)
-- [Steven Wilson - King Ghost (2020)](https://www.youtube.com/watch?v=M55vjv1Bed0)
 - [Steven Wilson - EMINENT SLEAZE (Official Video)](https://www.youtube.com/watch?v=kUKmOkrcMig)
 - [Steven Wilson - MAN OF THE PEOPLE (Official Lyric Video)](https://www.youtube.com/watch?v=G_yW8ornhK4)
 - [Steven Wilson - PERSONAL SHOPPER (Official Video)](https://www.youtube.com/watch?v=sX22dFMSNcg)
 - [FOLLOWER](https://www.youtube.com/watch?v=Vr5zrU4fk_k)
 - [COUNT OF UNEASE](https://www.youtube.com/watch?v=wsoA82vOtns)
 - [Unboxing a £10,000 box set! Steven Wilson's The Future Bites (Ultra Deluxe Limited Edition of One)](https://www.youtube.com/watch?v=v1vm4mUyuGo)
+- [UNSELF](https://www.youtube.com/watch?v=7VuItbHUsaQ)
+- [S͟teven W͟ilson - The Future Bites (Full Album) 2021](https://www.youtube.com/watch?v=fd7NTkWEBHo)
+- [Steven Wilson - Hey Sleeper - The Future Bites](https://www.youtube.com/watch?v=QxHXQfV7Mt4)
+- [UNSELF](https://www.youtube.com/watch?v=7VuItbHUsaQ)
+- [SELF](https://www.youtube.com/watch?v=svUx9D3WCr4)
+- [Steven Wilson - King Ghost (2020)](https://www.youtube.com/watch?v=M55vjv1Bed0)
+- [Steven Wilson - 12 THINGS I FORGOT (Official Audio)](https://www.youtube.com/watch?v=7wZrYAgf8d8)
+- [Steven Wilson - EMINENT SLEAZE (Official Video)](https://www.youtube.com/watch?v=kUKmOkrcMig)
+- [Steven Wilson - PERSONAL SHOPPER (Official Video)](https://www.youtube.com/watch?v=sX22dFMSNcg)
+- [FOLLOWER](https://www.youtube.com/watch?v=Vr5zrU4fk_k)
+- [COUNT OF UNEASE](https://www.youtube.com/watch?v=wsoA82vOtns)
 
 ## Release Images
 {{< imageGrid >}}

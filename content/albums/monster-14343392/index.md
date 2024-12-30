@@ -12,7 +12,7 @@ cover:
     alt: "Monster by R.E.M."
     caption: "Monster by R.E.M."
 additional_images:
-    - "https://i.discogs.com/hzhhiZbunyQ8Ty-Tu9UeahHeCv4k-OdpPNW0lWF9h-0/rs:fit/g:sm/q:90/h:631/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MzQz/MzkyLTE1NzI3MDM3/MjctNDY5MC5qcGVn.jpeg"
+    - "https://i.discogs.com/NkQJFI1s5kwcgTavxG2m_CNZIln62ozCzuVC8_nvJ4M/rs:fit/g:sm/q:90/h:600/w:570/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MzQz/MzkyLTE1NzI3MDM3/MjctNDY5MC5qcGVn.jpeg"
     - "https://i.discogs.com/xVujDw2uX3lMtmZ6jOhR9fZwAm7WPtvu_u_mfNtrXxE/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MzQz/MzkyLTE1NzM2NjQ1/MTgtODg4Ny5qcGVn.jpeg"
     - "https://i.discogs.com/X6mKzx6C_ZcN1eq4iC2-DCwMlzX8SQDXZOClqP4UDOw/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MzQz/MzkyLTE1NzM2NjQ1/MjUtNzA5OS5qcGVn.jpeg"
     - "https://i.discogs.com/IXxd2iKvLYFgOQRtWXKiHcolN6jj32LbigyyO9botTg/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MzQz/MzkyLTE1NzM2NjQ1/MTItNTY5NC5qcGVn.jpeg"
@@ -60,30 +60,10 @@ styles: ["Indie Rock", "Alternative Rock"]
 26. You (Remix)
 
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/monster-2019-remaster/1484709966" >}}<br>
+{{< applemusic url="https://music.apple.com/gb/album/r-e-m-single/1771353713" >}}<br>
 
 
-## Videos
-### R.E.M. - What's The Frequency, Kenneth? (Official Music Video)
-{{< youtube id="jWkMhCLkVOg" title="R.E.M. - What's The Frequency, Kenneth? (Official Music Video)" >}}<br>
-### More Videos
 
-- [R.E.M. - Bang And Blame (Official Music Video)](https://www.youtube.com/watch?v=4cdZQ41rGAg)
-- [R.E.M. - Crush With Eyeliner (Official Music Video)](https://www.youtube.com/watch?v=ycvJHQUqU1M)
-- [R.E.M. - Strange Currencies (Official Music Video)](https://www.youtube.com/watch?v=j4iuG7StmPc)
-- [R.E.M. - Tongue (Official Music Video)](https://www.youtube.com/watch?v=Kd5M17e7Wek)
-- [R.E.M. - What's The Frequency, Kenneth? (Monster, Remastered)](https://www.youtube.com/watch?v=2ZMUNyLmarQ)
-- [R.E.M. - Crush with Eyeliner (Monster, Remastered)](https://www.youtube.com/watch?v=S9RbfBrpilw)
-- [R.E.M. - King of Comedy (Monster, Remastered)](https://www.youtube.com/watch?v=QbTXlvRyA4k)
-- [R.E.M. - I Don't Sleep, I Dream (Monster, Remastered)](https://www.youtube.com/watch?v=Tc7UzxDa9HE)
-- [R.E.M. - Star 69 (Monster, Remastered)](https://www.youtube.com/watch?v=zcRlr8Jvez0)
-- [R.E.M. - Strange Currencies (Monster, Remastered)](https://www.youtube.com/watch?v=EVwbhCtpHqU)
-- [R.E.M. - Tongue (Monster, Remastered)](https://www.youtube.com/watch?v=1NEudv428ME)
-- [R.E.M. - Bang and Blame (Monster, Remastered)](https://www.youtube.com/watch?v=eyIrK54HGNI)
-- [R.E.M. - I Took Your Name (Monster, Remastered)](https://www.youtube.com/watch?v=BWOJnzW_L4g)
-- [R.E.M. - Let Me In (Monster, Remastered)](https://www.youtube.com/watch?v=lIy88eLFsoQ)
-- [R.E.M. - Circus Envy (Monster, Remastered)](https://www.youtube.com/watch?v=7lg41RfuSKA)
-- [R.E.M. - You (Monster, Remastered)](https://www.youtube.com/watch?v=61G8dJ6-Jbk)
 
 ## Release Images
 {{< imageGrid >}}

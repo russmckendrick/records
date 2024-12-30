@@ -23,8 +23,10 @@ genres: ["Rock"]
 styles: ["Alternative Rock", "Indie Rock"]
 ---
 
-Bill is the debut studio album American rock band Tripping Daisy.  It was released in 1992 on the Dragon Street label, and then re-released on July 20, 1993 on the Island Red Label.  On the re-release, the track "Green Tambourine" was removed, and the two unlisted tracks were appended to the final track.
+Bill is the debut studio album American rock band Tripping Daisy.  It was first released in November 1992 on the Dragon Street label, and then re-released on July 20, 1993 on the Island Red Label.  On the re-release, the track "Green Tambourine" was removed, and the two unlisted tracks were appended to the final track.
 The album had sold around 15,000 copies before it was picked up by Island.  "My Umbrella" spent two weeks on the Billboard Modern Rock Tracks chart, peaking at No. 24. The album is being released on vinyl in 2023 as part of the DFW Legacy Series.
+
+
     
     
 

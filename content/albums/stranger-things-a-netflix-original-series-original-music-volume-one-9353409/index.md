@@ -4,7 +4,6 @@ artist_name: "Kyle Dixon"
 artist: "kyle-dixon"
 album_name: "Stranger Things (A Netflix Original Series) Original Music • Volume One"
 date: 2016-11-14T18:59:13.000000Z
-release_date: "2016-08-12"
 release_id: "9353409"
 slug: "stranger-things-a-netflix-original-series-original-music-volume-one-9353409"
 hideSummary: true
@@ -15,21 +14,18 @@ cover:
 additional_images:
     - "https://i.discogs.com/ln093XTaiolf-bBGXXFq2mKHi11rLc-9cqPyoW4eSyo/rs:fit/g:sm/q:90/h:594/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkzNTM0/MDktMTQ3OTEyMTYw/MS0zMzA3LmpwZWc.jpeg"
     - "https://i.discogs.com/gwNezM8hYT1US_OSHxal1APqThyw7x0QI5B1Iu2kpas/rs:fit/g:sm/q:90/h:327/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkzNTM0/MDktMTQ3OTYyODUx/NS00NTIyLmpwZWc.jpeg"
-    - "https://i.discogs.com/SwDm935Lsm5Sq9qeNOl8ng4-EPBpcOHIc4Nlcz8nNeI/rs:fit/g:sm/q:90/h:601/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkzNTM0/MDktMTQ3OTYyODI4/Ni05MDcwLmpwZWc.jpeg"
-    - "https://i.discogs.com/PNHvT8JdJiitW0MKPCVCnAkQDrVXgzWc8DREYMfIXq8/rs:fit/g:sm/q:90/h:603/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkzNTM0/MDktMTQ3OTYyODQ2/OC0zNTI3LmpwZWc.jpeg"
-    - "https://i.discogs.com/Bb5QRXipX1KF2IDAm_7BM_2S1sQiZNE4zqLpsYZkeEg/rs:fit/g:sm/q:90/h:604/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkzNTM0/MDktMTQ3OTYyODMx/MS05NDkyLmpwZWc.jpeg"
-    - "https://i.discogs.com/fyzR5IoJRJ7Wdoe3HW6rJY8vLhMz-QVbicdTV-uGJ6Q/rs:fit/g:sm/q:90/h:606/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkzNTM0/MDktMTQ3OTYyODQ4/NS04MTEwLmpwZWc.jpeg"
-    - "https://i.discogs.com/d5ltvUFnwf41GhAOjE56oz6Nsk8eO6ro3q7aP1Hvu2E/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkzNTM0/MDktMTQ3OTYyODU3/Ni00OTcxLmpwZWc.jpeg"
+    - "https://i.discogs.com/0ZM-CxE565wBeeBxyAnC5FV1OLwmZPnYZHxn6g-cwD0/rs:fit/g:sm/q:90/h:600/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkzNTM0/MDktMTQ3OTYyODI4/Ni05MDcwLmpwZWc.jpeg"
+    - "https://i.discogs.com/AeyVFqSGH60X0GUso70Goesns3MmxGNaNhsgBD9NvaQ/rs:fit/g:sm/q:90/h:600/w:596/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkzNTM0/MDktMTQ3OTYyODQ2/OC0zNTI3LmpwZWc.jpeg"
+    - "https://i.discogs.com/KV5_Ln0wdDoH7Jcz9oEDunmrrsITR3SqfSuz8wvBQRE/rs:fit/g:sm/q:90/h:600/w:595/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkzNTM0/MDktMTQ3OTYyODMx/MS05NDkyLmpwZWc.jpeg"
+    - "https://i.discogs.com/aK4-wx_cZea7X4WTZmrEOhfiPbCBCSJmKkUEsdbhGMs/rs:fit/g:sm/q:90/h:600/w:593/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkzNTM0/MDktMTQ3OTYyODQ4/NS04MTEwLmpwZWc.jpeg"
+    - "https://i.discogs.com/mWAGVFHcTnFshrf_bYCbTHgDJ9WtRRR8x6Kwn7cpP5M/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkzNTM0/MDktMTQ3OTYyODU3/Ni00OTcxLmpwZWc.jpeg"
     - "https://i.discogs.com/EVt0cYPXL1mdDXQ5Cn4Jo2oJckJ0yeQqkm5cSSY7OXM/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkzNTM0/MDktMTQ3OTU2MTE4/My0zMjIyLmpwZWc.jpeg"
     - "https://i.discogs.com/yuAprlS36h18I8u_IAYd85mJiK8MEWAcVy5gfupyvEM/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkzNTM0/MDktMTQ3OTYyODMx/MS0zODIxLmpwZWc.jpeg"
-    - "https://i.discogs.com/R8CiC7lD0v94LbaiJvfimvcsYoqYTymlD_C61zXlfL0/rs:fit/g:sm/q:90/h:607/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkzNTM0/MDktMTQ3OTYyODQz/OS00NDU1LmpwZWc.jpeg"
+    - "https://i.discogs.com/oWTrUHZlvD1cVaU773fWHsxByyrYxAAABah1lfW7uJ8/rs:fit/g:sm/q:90/h:600/w:592/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkzNTM0/MDktMTQ3OTYyODQz/OS00NDU1LmpwZWc.jpeg"
 genres: ["Electronic", "Stage & Screen"]
 styles: ["Soundtrack", "Score"]
 ---
 
-No locked curiosity-door, here. Just lush, synth-soaked soundscapes that helped set the tone for one of TV’s buzziest ever first seasons. Obviously, Dixon and Stein—who moonlight as Austin Korg-maestros S U R V I V E and supplied music for the soundtrack to revivalist splatterfest <i>The Guest</i>—lovingly ransack ‘80s ambience. But there are thrilling changes in pace, as evidenced by the drum stabs on the fittingly haunting “Lights Out”.
-    
-    
 
 
 ## Tracklisting
@@ -71,7 +67,7 @@ No locked curiosity-door, here. Just lush, synth-soaked soundscapes that helped 
 36. Hawkins Lab
 
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/stranger-things-vol-1-a-netflix-original-series-soundtrack/1142771412" >}}<br>
+{{< applemusic url="https://music.apple.com/gb/album/stranger-things-2-soundtrack-from-the-netflix/1294911267" >}}<br>
 
 
 ## Videos
@@ -79,12 +75,7 @@ No locked curiosity-door, here. Just lush, synth-soaked soundscapes that helped 
 {{< youtube id="vqffY-6OVKc" title="The Upside Down" >}}<br>
 ### More Videos
 
-- [Stranger Things Soundtrack Vol. 1 (Chiptune Edition)](https://www.youtube.com/watch?v=X8ngDjOqhAE)
-- [Kyle Dixon & Michael Stein - Kids (Stranger Things - Vol. 1), 2016](https://www.youtube.com/watch?v=V2f5eHmMEdo)
-- [Kyle Dixon & Michael Stein - Stranger Things Theme - Soundtrack (Extended) | Vinyl Record](https://www.youtube.com/watch?v=9O_lPBKrSeE)
-- [Kids](https://www.youtube.com/watch?v=Ha2OcL_0gtM)
 - [Castle Byers](https://www.youtube.com/watch?v=IFOldMEUCgU)
-- [Stranger Things, Season 2:Soundtrack](https://www.youtube.com/watch?v=0B4g7PDcQzY)
 - [Eleven](https://www.youtube.com/watch?v=Ap3W5rSpHDU)
 - [She'll Kill You](https://www.youtube.com/watch?v=ly2ox8vP0Z0)
 - [Lay-Z-Boy](https://www.youtube.com/watch?v=oVd9DKANMZo)
@@ -93,6 +84,12 @@ No locked curiosity-door, here. Just lush, synth-soaked soundscapes that helped 
 - [Hawkins Lab](https://www.youtube.com/watch?v=sIKtdbETG9Q)
 - [What Else Is There to Do?](https://www.youtube.com/watch?v=rzoQ6O-1FbM)
 - [You Can Talk to Me](https://www.youtube.com/watch?v=rdNF1ekZF3E)
+- [Stranger Things Soundtrack Vol. 1 (Chiptune Edition)](https://www.youtube.com/watch?v=X8ngDjOqhAE)
+- [Stranger Things, Season 2:Soundtrack](https://www.youtube.com/watch?v=0B4g7PDcQzY)
+- [Kyle Dixon & Michael Stein - Kids (Stranger Things - Vol. 1), 2016](https://www.youtube.com/watch?v=V2f5eHmMEdo)
+- [Stranger Things 4 - Full Album - Kyle Dixon & Michael Stein (Official Video)](https://www.youtube.com/watch?v=zGB0NnjLKoQ)
+- [Kyle Dixon & Michael Stein - Stranger Things Theme - Soundtrack (Extended) | Vinyl Record](https://www.youtube.com/watch?v=9O_lPBKrSeE)
+- [Kids](https://www.youtube.com/watch?v=Ha2OcL_0gtM)
 
 ## Release Images
 {{< imageGrid >}}
@@ -104,4 +101,4 @@ No locked curiosity-door, here. Just lush, synth-soaked soundscapes that helped 
 | Label          | Invada |
 | Catalog Number | INV176LP |
 | Notes | Mastered at Audiosiege Special Thanks Lynn Hobensack and Don Smith  Music Published by Maisie Anthems (ASCAP)  This Compilation ℗ 2016 Netflix Studios, LLC. All Artwork and Photographs © 2016 Netflix, Inc. Manufactured and Distributed by Invada/Lakeshore Records, LLC.  Mailorder exclusive only available through the Invada webstore. Housed in an extra thick 425g heavyweight gatefold sleeve. A printed insert is included which features additional artwork and credits. |
-| Discogs URL    | [Kyle Dixon - Stranger Things (A Netflix Original Series) Original Music • Volume One](https://www.discogs.com/release/9353409-Kyle-Dixon-2-Michael-Stein-Stranger-Things-A-Netflix-Original-Series-Original-Music-Volume-One) |
+| Discogs URL    | [Kyle Dixon - Stranger Things (A Netflix Original Series) Original Music • Volume One](https://www.discogs.com/release/9353409-Kyle-Dixon-2-Michael-Stein-9-Stranger-Things-A-Netflix-Original-Series-Original-Music-Volume-One) |

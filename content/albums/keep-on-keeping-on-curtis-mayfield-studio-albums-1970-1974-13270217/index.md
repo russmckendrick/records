@@ -12,15 +12,15 @@ cover:
     alt: "Keep On Keeping On: Curtis Mayfield Studio Albums 1970-1974 by Curtis Mayfield"
     caption: "Keep On Keeping On: Curtis Mayfield Studio Albums 1970-1974 by Curtis Mayfield"
 additional_images:
-    - "https://i.discogs.com/1xPBO5N5tVg-cE_3fwlJ_67P9ACRIaW3uNN5f0i3Dqg/rs:fit/g:sm/q:90/h:612/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMjcw/MjE3LTE1NTEwOTQ3/NTctOTQ5OS5qcGVn.jpeg"
-    - "https://i.discogs.com/eHpTBw4DmbefOZSD9x7TnHbPYbbmWi1GthLaGLh46Qs/rs:fit/g:sm/q:90/h:615/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMjcw/MjE3LTE1NTEwOTQ3/NTItNTExOC5qcGVn.jpeg"
+    - "https://i.discogs.com/sW7Map2-3NRMuOAuA0vLxxNJhqvd0tCYhNG9pUIja38/rs:fit/g:sm/q:90/h:600/w:587/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMjcw/MjE3LTE1NTEwOTQ3/NTctOTQ5OS5qcGVn.jpeg"
+    - "https://i.discogs.com/hTikIA3-X-dve5-bXxva9ZYsOpWCAlvPwMI0ssJNjLQ/rs:fit/g:sm/q:90/h:600/w:584/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMjcw/MjE3LTE1NTEwOTQ3/NTItNTExOC5qcGVn.jpeg"
     - "https://i.discogs.com/iH9GAHonoyeT4aQVe9fTIZNThu5c-pBLkGleoRuxSYg/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMjcw/MjE3LTE1NTEwOTQ3/NTEtODA4MS5qcGVn.jpeg"
-    - "https://i.discogs.com/m70IcnAPlK5z07wDyVYQ3aQmIue9CL-pVf4-mGLBX3U/rs:fit/g:sm/q:90/h:1217/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMjcw/MjE3LTE1NTEwOTQ3/NTEtNDgyOS5qcGVn.jpeg"
+    - "https://i.discogs.com/7ZcHPI_rtir9Jo8lB6p1de8H0Vepmvpxx3qDDTKI0fc/rs:fit/g:sm/q:90/h:600/w:295/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMjcw/MjE3LTE1NTEwOTQ3/NTEtNDgyOS5qcGVn.jpeg"
     - "https://i.discogs.com/XS605kUwEGMWpWHri41IPDlLCPhDjfswVSfx2J72sD4/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMjcw/MjE3LTE1NTEwOTQ3/NTMtNTcwNy5qcGVn.jpeg"
     - "https://i.discogs.com/roU047YLGNmztxInq42ldv7xgDzmYDZbJWdzswfjFmY/rs:fit/g:sm/q:90/h:591/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMjcw/MjE3LTE1NTEwOTQ3/NTQtODY1NS5qcGVn.jpeg"
     - "https://i.discogs.com/ZIXi9zqYajQoV86o7vBIknmPR8nNmrspgsE7og73PRY/rs:fit/g:sm/q:90/h:589/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMjcw/MjE3LTE1NTEwOTQ3/NTUtMTM5My5qcGVn.jpeg"
     - "https://i.discogs.com/QbNccRGI-Nozv0kMQ_Xj_gporuukbe4hNsDms1XiuzU/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMjcw/MjE3LTE1NTEwOTQ3/NTktODIyMy5qcGVn.jpeg"
-    - "https://i.discogs.com/lHORZ9WqQBkKmjo4AQTefkE-xozl0-2zfcRf-0glM_g/rs:fit/g:sm/q:90/h:1170/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMjcw/MjE3LTE1NTEwOTQ3/NTctODk2Ni5qcGVn.jpeg"
+    - "https://i.discogs.com/3qtqnum-zJZQ7QzGBZI3AeNFqdKPbuSKi93NhXEyxQE/rs:fit/g:sm/q:90/h:600/w:307/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMjcw/MjE3LTE1NTEwOTQ3/NTctODk2Ni5qcGVn.jpeg"
     - "https://i.discogs.com/dON6i2v4bZ06zGT12FyLL0722Ge_uzp1O5vTcExshn4/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMjcw/MjE3LTE1NTEwOTQ3/NTYtOTQ0MS5qcGVn.jpeg"
     - "https://i.discogs.com/B6YSP-qz_HMqrU_lub7voWq86F9xgmsqsLaWkar79iY/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMjcw/MjE3LTE1NTEwOTQ3/NTctNzE5Ny5qcGVn.jpeg"
     - "https://i.discogs.com/jQ5ZZcY5j49dB_t55kcyCd2X4yXDA91sPxW7OixcJHc/rs:fit/g:sm/q:90/h:579/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMjcw/MjE3LTE1NTEwOTQ3/NjQtODU2OS5qcGVn.jpeg"
@@ -38,7 +38,7 @@ styles: ["Soul", "Funk"]
 
 ## Tracklisting
 1. Curtis
-2. (Don’t Worry) If There’s A Hell Below We’re All Going To Go (7:46)
+2. (Don't Worry) If There's A Hell Below We're All Going To Go (7:46)
 3. The Other Side Of Town (4:00)
 4. The Makings Of You (3:40)
 5. We Are The People Who Are Darker Than Blue (6:00)
@@ -59,11 +59,11 @@ styles: ["Soul", "Funk"]
 20. Future Shock (5:24)
 21. Right On For The Darkness  (7:30)
 22. If I Were Only A Child Again (2:53)
-23. Can’t Say Nothin' (5:20)
+23. Can't Say Nothin' (5:20)
 24. Keep On Trippin' (3:16)
 25. Future Song (Love A Good Woman, Love A Good Man) (5:00)
 26. Sweet Exorcist 
-27. Ain’t Got Time (5:10)
+27. Ain't Got Time (5:10)
 28. Sweet Exorcist  (3:50)
 29. To Be Invisible  (4:12)
 30. Power To The People  (3:26)
@@ -75,9 +75,6 @@ styles: ["Soul", "Funk"]
 {{< applemusic url="https://music.apple.com/gb/album/keep-on-keeping-on-curtis-mayfield-studio-albums-1970/1449314858" >}}<br>
 
 
-## Videos
-### Kung Fu (Remastered)
-{{< youtube id="00_KO4YFaRM" title="Kung Fu (Remastered)" >}}<br>
 
 
 ## Release Images
@@ -89,5 +86,5 @@ styles: ["Soul", "Funk"]
 | Format         | Vinyl LP Album Reissue Remastered Stereo (180 gr), Vinyl LP Album Reissue Remastered Stereo (180 gr), Vinyl LP Album Reissue Remastered Stereo (180 gr), Vinyl LP Album Reissue Remastered Stereo (180 gr), Box Set, All Media Compilation |
 | Label          | Rhino Records (2) |
 | Catalog Number | R1 573931 |
-| Notes | Record 1: Vocal overdubbing at Record Plant, New York Published by CAMAD MUSIC ℗ & © 2019, 1970 Warner Bros. Records Inc. for the U.S. and WEA International Inc. for the world outside the U.S. Gatefold sleeve  Record 2: Recorded at RCA Studios, Chicago, Illinois ℗ & © 2019, 1971 Warner Bros. Records Inc. for the U.S. and WEA International Inc. for the world outside the U.S. Gatefold sleeve with lyrics and poster calendar  Record 3: Recorded at Curtom Studios, Chicago ℗ & © 2019, 1973 Warner Bros. Records Inc. for the U.S. and WEA International Inc. for the world outside the U.S. Gatefold sleeve with lyrics  Record 4: Recorded at Curtom Studios, Chicago, Illinois ℗ & © 2019, 1974 Warner Bros. Records Inc. for the U.S. and WEA International Inc. for the world outside the U.S. Gatefold sleeve with lyrics  Box: This Collection ℗ & ©  2019 Curtom Records for the U.S. and WEA International Inc. for the world outside the U.S. Made in EU.  Round sticker on shrink with The first four funk-soul slabs from the ground-floor layer of the conscious groove. Newly remastered On 180 gram vinyl R1 573931 / 603497855797  |
+| Notes | Record 1: Vocal overdubbing at Record Plant, New York Published by CAMAD MUSIC ℗ & © 2019, 1970 Warner Bros. Records Inc. for the U.S. and WEA International Inc. for the world outside the U.S. Gatefold sleeve  Record 2: Recorded at RCA Studios, Chicago, Illinois ℗ & © 2019, 1971 Warner Bros. Records Inc. for the U.S. and WEA International Inc. for the world outside the U.S. Gatefold sleeve with lyrics and poster calendar  Record 3: Recorded at Curtom Studios, Chicago ℗ & © 2019, 1973 Warner Bros. Records Inc. for the U.S. and WEA International Inc. for the world outside the U.S. Gatefold sleeve with lyrics  Record 4: Recorded at Curtom Studios, Chicago, Illinois ℗ & © 2019, 1974 Warner Bros. Records Inc. for the U.S. and WEA International Inc. for the world outside the U.S. Gatefold sleeve with lyrics  Box: This Collection ℗ & ©  2019 Curtom Records for the U.S. and WEA International Inc. for the world outside the U.S. Made in EU.  Round sticker on shrink with The first four funk-soul slabs from the ground-floor layer of the conscious groove. Newly remastered On 180 gram vinyl R1 573931 / 603497855797 |
 | Discogs URL    | [Curtis Mayfield - Keep On Keeping On: Curtis Mayfield Studio Albums 1970-1974](https://www.discogs.com/release/13270217-Curtis-Keep-On-Keeping-On-Curtis-Mayfield-Studio-Albums-1970-1974) |

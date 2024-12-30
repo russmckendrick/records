@@ -28,6 +28,12 @@ genres: ["Rock"]
 styles: ["New Wave", "Punk"]
 ---
 
+Go 2 is the second studio album by the English band XTC, released 6 October 1978 on Virgin Records. The United Kingdom version contained no singles, but the American and Canadian versions included the single "Are You Receiving Me?" released on 27 October 1978 along with a music video produced for the song.
+It is the final album to feature keyboardist Barry Andrews, who went on to form Shriekback.
+
+
+    
+    
 
 
 ## Tracklisting
@@ -55,16 +61,26 @@ styles: ["New Wave", "Punk"]
 
 
 ## Videos
-### Meccanik Dancing (Oh We Go!)
-{{< youtube id="7E21z1oluwM" title="Meccanik Dancing (Oh We Go!)" >}}<br>
+### XTC - Battery Brides.wmv
+{{< youtube id="Kr3ArWo0SlY" title="XTC - Battery Brides.wmv" >}}<br>
 ### More Videos
 
+- [Red (2001 Remaster)](https://www.youtube.com/watch?v=TXD8yS7OQbw)
+- [XTC - Crowded Room.wmv](https://www.youtube.com/watch?v=IdUoPaleNK8)
+- [XTC - Beatown.wmv](https://www.youtube.com/watch?v=ppFA-VeQ_7Y)
+- [XTC - The Rhythm.wmv](https://www.youtube.com/watch?v=SIVYeMoDErI)
+- [XTC - Buzzcity Talking.wmv](https://www.youtube.com/watch?v=MnWydFl35Vo)
+- [XTC - Life Is Good In The Greenhouse.wmv](https://www.youtube.com/watch?v=zmyPiJz05FE)
+- [XTC - My Weapon.wmv](https://www.youtube.com/watch?v=hezmvnJMWHY)
+- [XTC - Super Tuff.wmv](https://www.youtube.com/watch?v=9nq2AekJRQA)
+- [XTC - I Am The Audience](https://www.youtube.com/watch?v=HVJgdsEYrfM)
+- [Meccanik Dancing (Oh We Go!)](https://www.youtube.com/watch?v=7E21z1oluwM)
 - [XTC - Battery Brides.wmv](https://www.youtube.com/watch?v=Kr3ArWo0SlY)
 - [XTC - Jumping In Gomorrah.wmv](https://www.youtube.com/watch?v=KJztc3j6Z-o)
+- [Meccanik Dancing (Oh We Go!)](https://www.youtube.com/watch?v=7E21z1oluwM)
 - [XTC - Meccanik Dancing (Oh We Go!).wmv](https://www.youtube.com/watch?v=j7WUNKUcEfM)
 - [Are You Receiving Me? (2001 Remaster)](https://www.youtube.com/watch?v=ame21cqN92g)
 - [12” X 12”  (No. 4)  GO 2  •  XTC](https://www.youtube.com/watch?v=MbVofsHTFno)
-- [XTC - Go 2 / Columna RED en Radio #7](https://www.youtube.com/watch?v=tChWv8dqsRY)
 - [XTC-Us Being Us (Go2 outtake)](https://www.youtube.com/watch?v=Q_rfgYpAjXo)
 
 ## Release Images
@@ -73,8 +89,9 @@ styles: ["New Wave", "Punk"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl LP Album Stereo, Vinyl 12" EP Stereo, All Media Limited Edition Reissue (200g) |
+| Wikipedia URL | https://en.wikipedia.org/wiki/Go_2 |
+| Format         | Vinyl LP Album Stereo, Vinyl 12" 45 RPM EP Stereo, All Media Limited Edition Reissue (200g) |
 | Label          | Ape House |
 | Catalog Number | APELPX102 |
-| Notes | ℗ 2023 Ape House Ltd.  On hype sticker: XTC. GO 2 A Ltd. 2 disc gatefold reissue of the 1978 album complete with 5 track 12” Go+ unavailable on vinyl since original release. 200g super-heavyweight vinyl.  Records housed in poly-lined colour printed sleeves. |
+| Notes | Issued with poly-lined colour printed inner sleeves, and housed in a gatefold jacket. All runout details are hand etched.  [Sticker:] XTC . GO2 A ltd. 2 disc, gatefold reissue of the 1978 album complete with 5 track 12” Go+ unavailable on vinyl since original release. 200g super-heavyweight vinyl.  [Rear jacket:] [...] assistant engineers Haydn Bendall and Pete James at Abbey Road, also, Ande Llewelyn and Jess Sutcliffe at Matrix [...] [...] this is a product of Ape House Ltd. under license from Virgin Records Ltd. [...] This edition ℗2023 Ape House Ltd. This sleeve was written and photographed by Hipgnosis and printed in England by RAD Printing Ltd. The discs were manufactured by Vinyl Factory UK.  [Labels sides A & B:] [...] this edition is a product of Ape House Ltd. and is licensed from Virgin Records Ltd. ℗ 2023 Ape House Ltd. Made in the United Kingdom.  [Labels sides C & D:] ℗ 2023 Ape House Ltd. under license from Virgin Records Ltd. [...] Made in the UK. |
 | Discogs URL    | [XTC - Go 2](https://www.discogs.com/release/27125847-XTC-Go-2) |

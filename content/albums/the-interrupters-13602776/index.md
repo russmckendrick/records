@@ -14,15 +14,17 @@ cover:
 additional_images:
     - "https://i.discogs.com/9cvZV-3CZRsYiI2RbG9uW-IUPMIdnp-LhbAeMroBuas/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNjAy/Nzc2LTE2NDk1MDgw/NDQtOTAzMi5qcGVn.jpeg"
     - "https://i.discogs.com/Nre3sxCcQr1XDtgya9nzXXEKnAFqgznJRVbLx6H8GTE/rs:fit/g:sm/q:90/h:585/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNjAy/Nzc2LTE1NTc1Njc0/OTEtODQ1Mi5qcGVn.jpeg"
-    - "https://i.discogs.com/9luKu_F7CsM2Pcbi05XNvBl3Ip4e4LCMS6aN81yDRvo/rs:fit/g:sm/q:90/h:608/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNjAy/Nzc2LTE1NTc1Njc0/OTgtNzIyMi5qcGVn.jpeg"
+    - "https://i.discogs.com/nOtK-verB7m90vEaxFZSNkAsUvZ8AbmU296iCN4IRt4/rs:fit/g:sm/q:90/h:600/w:591/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNjAy/Nzc2LTE1NTc1Njc0/OTgtNzIyMi5qcGVn.jpeg"
     - "https://i.discogs.com/C69qiqViHQzTmPTQATI8jNtPMQ-3uMNDdB4W8KeR8Pc/rs:fit/g:sm/q:90/h:594/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNjAy/Nzc2LTE1NTc1Njc1/MDMtNjY4Mi5qcGVn.jpeg"
-    - "https://i.discogs.com/9RDAChEK2RcLHuf3uv3yAa6Y4TLAsqOCYp2FKN3Y59E/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNjAy/Nzc2LTE1NTc1Njc1/MjYtNDI0Mi5qcGVn.jpeg"
+    - "https://i.discogs.com/Q85fCuu7Wcs3PO-J6Di4q8I3_pEtBeyNUzagWS3ZBoI/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNjAy/Nzc2LTE1NTc1Njc1/MjYtNDI0Mi5qcGVn.jpeg"
     - "https://i.discogs.com/_ypSJwfu3Fah7qRv0cP4QdQxi1TBepTWV5P2B0t86KE/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNjAy/Nzc2LTE1NTc1Njc1/MTctMjc3Mi5qcGVn.jpeg"
 genres: ["Rock"]
 styles: ["Punk", "Ska"]
 ---
 
 The Interrupters are an American ska punk band formed in Los Angeles, California, in 2011. The band comprises lead vocalist Aimee Interrupter, drummer Jesse Bivona, bassist Justin Bivona, and guitarist Kevin Bivona. They have released four studio albums. The latest, In the Wild, was released in 2022, along with the album's lead single, "Raised by Wolves".
+
+
     
     
 
@@ -47,12 +49,12 @@ The Interrupters are an American ska punk band formed in Los Angeles, California
 
 
 ## Videos
-### The Interrupters - A Friend Like Me  **OFFICIAL VIDEO**
-{{< youtube id="gg8HvYqMo7M" title="The Interrupters - A Friend Like Me  **OFFICIAL VIDEO**" >}}<br>
+### The Interrupters - The Interrupters (Full Album)
+{{< youtube id="qEVTRsNuLNM" title="The Interrupters - The Interrupters (Full Album)" >}}<br>
 ### More Videos
 
-- [The Interrupters - The Interrupters (Full Album)](https://www.youtube.com/watch?v=qEVTRsNuLNM)
-- [The Interrupters - Take Back The Power](https://www.youtube.com/watch?v=q7Ol-YDS4Jc)
+- [The Interrupters - A Friend Like Me  **OFFICIAL VIDEO**](https://www.youtube.com/watch?v=gg8HvYqMo7M)
+- [The Interrupters - "Take Back The Power"](https://www.youtube.com/watch?v=q7Ol-YDS4Jc)
 
 ## Release Images
 {{< imageGrid >}}

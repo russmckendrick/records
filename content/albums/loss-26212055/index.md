@@ -13,11 +13,14 @@ cover:
     caption: "Loss by Mull Historical Society"
 additional_images:
     - "https://i.discogs.com/INANzFi65P1MxDDJvzU_7Bc9TVGXsk1638J_QAl1e9Y/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2MjEy/MDU1LTE2NzczNDA0/ODUtMzAyMi5qcGVn.jpeg"
-    - "https://i.discogs.com/RGcJ9UhmX3RWCjrnCB01Bp4Rthh7-7ImhuvQzlDKw28/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2MjEy/MDU1LTE2NzczNDA0/OTMtMjMxOC5qcGVn.jpeg"
+    - "https://i.discogs.com/P2QeuKG6cibQUXbGm3ybqla-hFskEi61ROzEBc6Ft9A/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2MjEy/MDU1LTE2NzczNDA0/OTMtMjMxOC5qcGVn.jpeg"
 genres: ["Rock"]
 styles: ["Acoustic", "Indie Rock"]
 ---
 
+Loss is the debut album of Scottish indie pop band Mull Historical Society. It includes the singles "Barcode Bypass", "I Tried", "Animal Cannabus" and "Watching Xanadu". The album reached number 43 in the UK album chart. It was inspired by the sudden death of his father in 1999 and his upbringing on the Isle of Mull. It contains samples from a Caledonian MacBrayne ferry and the waves on Calgary Bay in Mull. "Barcode Bypass" is about a small shopkeeper threatened by the supermarkets, and "Watching Xanadu" is about watching the film Xanadu.
+    
+    
 
 
 ## Tracklisting
@@ -53,6 +56,7 @@ styles: ["Acoustic", "Indie Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
+| Wikipedia URL | https://en.wikipedia.org/wiki/Loss_(Mull_Historical_Society_album) |
 | Format         | Vinyl 2× LP Album Reissue |
 | Label          | Demon Records |
 | Catalog Number | DEMREC 1028 |

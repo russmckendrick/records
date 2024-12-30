@@ -12,9 +12,10 @@ cover:
     alt: "Ghost Highway by Mazzy Star"
     caption: "Ghost Highway by Mazzy Star"
 additional_images:
-    - "https://i.discogs.com/_hAZwYGruRqBw_e5PBGSW_5XlaxUWcWmYAroryze7bM/rs:fit/g:sm/q:90/h:615/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MjEw/NzQ1LTE2MDUzNDI0/NjctNDQwOC5qcGVn.jpeg"
-    - "https://i.discogs.com/3q-Xd6TjvXdyLw-f3Z7Wj_wzKD1oV2AKf_KNgK0Bytw/rs:fit/g:sm/q:90/h:630/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MjEw/NzQ1LTE2MDUzNDI0/NjQtMTYzNC5qcGVn.jpeg"
+    - "https://i.discogs.com/USarzFkLynKP9H1VQ9JITYpydGJwYg0O093xePQ4vu8/rs:fit/g:sm/q:90/h:600/w:584/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MjEw/NzQ1LTE2MDUzNDI0/NjctNDQwOC5qcGVn.jpeg"
+    - "https://i.discogs.com/U9eypXWMgCqdcOAtjMJkYS_uRq4l--HAhOXgCUWugKA/rs:fit/g:sm/q:90/h:600/w:571/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MjEw/NzQ1LTE2MDUzNDI0/NjQtMTYzNC5qcGVn.jpeg"
     - "https://i.discogs.com/2Py-7eZJ9TST8yuv0CKCAo8oxL3IjbshrIOtgav08DA/rs:fit/g:sm/q:90/h:580/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MjEw/NzQ1LTE2MDUzNDI3/MzAtMTkzNi5qcGVn.jpeg"
+    - "https://i.discogs.com/eiJV6bVrrmaYW-XaL7ofxHuBo2vlXKYDE1SDkwsaVXw/rs:fit/g:sm/q:90/h:588/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MjEw/NzQ1LTE3MjQ4ODMy/NTMtMjcyNS5qcGVn.jpeg"
     - "https://i.discogs.com/aDTtTi1BrqbB_zGQAwDeJ2NEYnb1nEwWf6v9hW-7gdw/rs:fit/g:sm/q:90/h:309/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MjEw/NzQ1LTE2MDUzNDI3/MjYtNDQ0Ny5qcGVn.jpeg"
     - "https://i.discogs.com/HHa2clidcF6KivQNuYBbWcXkjmft9J4znamTniX6sDM/rs:fit/g:sm/q:90/h:463/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MjEw/NzQ1LTE2MDUzNDI3/MjktODI4My5qcGVn.jpeg"
 genres: ["Rock"]
@@ -34,7 +35,7 @@ styles: ["Indie Rock"]
 8. Blue Flower (4:42)
 9. Mary Of Silence (7:48)
 10. Flowers In December (5:26)
-11. Bells RIng (4:21)
+11. Bells Ring (4:21)
 12. Blue Flower (4:12)
 13. Halah (3:45)
 14. So Tonight, That I Might See (7:39)
@@ -43,22 +44,7 @@ styles: ["Indie Rock"]
 {{< applemusic url="https://music.apple.com/gb/album/ghost-highway/988896855" >}}<br>
 
 
-## Videos
-### Mazzy Star - Fade Into You (Official Music Video)
-{{< youtube id="ImKY6TZEyrI" title="Mazzy Star - Fade Into You (Official Music Video)" >}}<br>
-### More Videos
 
-- [Halah](https://www.youtube.com/watch?v=vHGHcvJDpaA)
-- [Blue Flower](https://www.youtube.com/watch?v=FGzNErpGZPg)
-- [Mary Of Silence](https://www.youtube.com/watch?v=j9Nl7FlrMpw)
-- [Bells Ring](https://www.youtube.com/watch?v=44OjwGThpbU)
-- [So Tonight That I Might See](https://www.youtube.com/watch?v=gYbBL_3XLEM)
-- [So Tonight That I Might See](https://www.youtube.com/watch?v=pbc0dDK5hn0)
-- [Flowers In December](https://www.youtube.com/watch?v=ewABojPWmY0)
-- [Ride It On](https://www.youtube.com/watch?v=HQUGNTIHOhc)
-- [Into Dust](https://www.youtube.com/watch?v=04J0ihSeIuI)
-- [Give You My Lovin](https://www.youtube.com/watch?v=nnFnjUl94b8)
-- [Ghost Highway](https://www.youtube.com/watch?v=-61E8zxzTME)
 
 ## Release Images
 {{< imageGrid >}}

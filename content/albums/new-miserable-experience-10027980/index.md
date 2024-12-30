@@ -14,15 +14,18 @@ cover:
 additional_images:
     - "https://i.discogs.com/v_mVxHvvDwGp0ZzErCbpGjWPt375hMJHXPfI3_Kx6_w/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMDI3/OTgwLTE0OTE3NzYz/NDItMTkzMy5qcGVn.jpeg"
     - "https://i.discogs.com/Mm5RIQ8nH0D2nUIOVwNA52Tz0iR6C0ge1WgJu4PSyiU/rs:fit/g:sm/q:90/h:594/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMDI3/OTgwLTE0OTE3NzYz/MjktNjI4My5qcGVn.jpeg"
-    - "https://i.discogs.com/9UpranH1QSaIg3_4AWgZQ0slY6jlQPej1PKwGyQWL2g/rs:fit/g:sm/q:90/h:605/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMDI3/OTgwLTE1MzUwNTIz/MjEtNDU4Ni5qcGVn.jpeg"
+    - "https://i.discogs.com/m1aM634DAXA6H29Jm35JIvtqlsEjARSRxKm39PbTZU4/rs:fit/g:sm/q:90/h:600/w:594/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMDI3/OTgwLTE1MzUwNTIz/MjEtNDU4Ni5qcGVn.jpeg"
     - "https://i.discogs.com/W3LbXpU9UaWUqvFDItrP2qF0Ajkaky-7ltsx32lZ1_0/rs:fit/g:sm/q:90/h:594/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMDI3/OTgwLTE1MzUwNTIz/MjEtNTE1MS5qcGVn.jpeg"
-    - "https://i.discogs.com/rb6szJpWHFUghhS7t5Xtb0MFnZBEY_amzH7eh3J7W1w/rs:fit/g:sm/q:90/h:606/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMDI3/OTgwLTE1MzUwNTIz/MjItNDM1MC5qcGVn.jpeg"
-    - "https://i.discogs.com/FhtQ666ICWTd8xvSEtND-PE-j4XCWTOKrFCcpKHLLOw/rs:fit/g:sm/q:90/h:612/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMDI3/OTgwLTE1MzUwNTIz/MjEtMjY5NS5qcGVn.jpeg"
+    - "https://i.discogs.com/XHlMdAjqwrKkztAx9K8tljVaov5i122eQbcdl64A59s/rs:fit/g:sm/q:90/h:600/w:593/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMDI3/OTgwLTE1MzUwNTIz/MjItNDM1MC5qcGVn.jpeg"
+    - "https://i.discogs.com/yhE0tmI4FVQvCxIuYKoq417ictIdJFZHarhNIeBwGyg/rs:fit/g:sm/q:90/h:600/w:587/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMDI3/OTgwLTE1MzUwNTIz/MjEtMjY5NS5qcGVn.jpeg"
     - "https://i.discogs.com/u6wrNL-ex4nKkuf9lNJMfXLuOGG2gIP3KqdszAxp_sU/rs:fit/g:sm/q:90/h:134/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMDI3/OTgwLTE2MTk4ODEx/NzAtMTQxMS5qcGVn.jpeg"
 genres: ["Rock", "Pop"]
 styles: ["Alternative Rock"]
 ---
 
+New Miserable Experience is the second studio album by alternative rock band Gin Blossoms, released on August 4, 1992. The album was released to little fanfare and relatively lackluster reviews. However, nearly a year after its release the lead single "Hey Jealousy" entered the top 40. With "Found Out About You" following a few months later, the album eventually reached multi-platinum status.
+    
+    
 
 
 ## Tracklisting
@@ -40,16 +43,17 @@ styles: ["Alternative Rock"]
 12. Cheatin' (3:25)
 
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/new-miserable-experience/1442677676" >}}<br>
+{{< applemusic url="https://music.apple.com/gb/album/new-miserable-experience/1440749157" >}}<br>
 
 
 ## Videos
-### Gin Blossoms - Found Out About You (New Miserable Experience CD) Subtitulada Español / Inglés
-{{< youtube id="kOpj02X_MTU" title="Gin Blossoms - Found Out About You (New Miserable Experience CD) Subtitulada Español / Inglés" >}}<br>
+### Gin Blossoms - Found Out About You (Official Music Video)
+{{< youtube id="1qB6XdAkkAo" title="Gin Blossoms - Found Out About You (Official Music Video)" >}}<br>
 ### More Videos
 
-- [Gin Blossoms - Hey Jealousy (Official Video)](https://www.youtube.com/watch?v=ah5gAkna3jI)
-- [Lost Horizons](https://www.youtube.com/watch?v=Z10lH4fJEGY)
+- [Gin Blossoms - Until I Fall Away (Official Music Video)](https://www.youtube.com/watch?v=39mUEE3_xS8)
+- [Gin Blossoms - Hey Jealousy (Official Music Video)](https://www.youtube.com/watch?v=ah5gAkna3jI)
+- [Allison Road](https://www.youtube.com/watch?v=ZX_EorwpZNU)
 
 ## Release Images
 {{< imageGrid >}}
@@ -57,6 +61,7 @@ styles: ["Alternative Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
+| Wikipedia URL | https://en.wikipedia.org/wiki/New_Miserable_Experience |
 | Format         | Vinyl LP Album Reissue |
 | Label          | A&M Records |
 | Catalog Number | B-0026126-01 |

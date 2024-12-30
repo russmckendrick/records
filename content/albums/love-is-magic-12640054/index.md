@@ -65,6 +65,12 @@ Love Is Magic is the fourth studio album by American musician John Grant. It was
 - [John Grant - Is He Strange (Official Audio)](https://www.youtube.com/watch?v=g4ObBiXnato)
 - [John Grant - Love Is Magic (Album Trailer)](https://www.youtube.com/watch?v=mNFt_ECyFb8)
 - [John Grant - He's Got His Mother's Hips (Official Audio)](https://www.youtube.com/watch?v=KrogQsF1Qes)
+- [John Grant - Love Is Magic (OFFICIAL VIDEO)](https://www.youtube.com/watch?v=-qtTidRF2V0)
+- [John Grant - Love Is Magic (Lyric Video)](https://www.youtube.com/watch?v=AEBCBcqYzoM)
+- [John Grant - Touch & Go (Official Audio)](https://www.youtube.com/watch?v=-49B91A6mY0)
+- [John Grant - Is He Strange (Official Audio)](https://www.youtube.com/watch?v=g4ObBiXnato)
+- [John Grant - Love Is Magic (Album Trailer)](https://www.youtube.com/watch?v=mNFt_ECyFb8)
+- [John Grant - He's Got His Mother's Hips (Official Audio)](https://www.youtube.com/watch?v=KrogQsF1Qes)
 
 ## Release Images
 {{< imageGrid >}}

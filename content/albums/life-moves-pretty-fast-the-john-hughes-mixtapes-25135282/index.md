@@ -14,6 +14,18 @@ cover:
 additional_images:
     - "https://i.discogs.com/4sWwON_qdWUemQ1VZbiD8WjcpHwQSJqQA8yr3CY89-M/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1MTM1/MjgyLTE2NjgyMjQ5/ODItOTE4NC5qcGVn.jpeg"
     - "https://i.discogs.com/ENYqz4O-6cKoxJovyzaneCgwnkXM4E7s0hsDm1W9RO4/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1MTM1/MjgyLTE2NjgyMjQ5/ODktNjkwNC5qcGVn.jpeg"
+    - "https://i.discogs.com/7j0ZJ9CL89WBvXsHliC0C97-V0xQaT5SqwMJ0PQ4LlU/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1MTM1/MjgyLTE3MDk0Mjkw/NjAtMzE0OC5qcGVn.jpeg"
+    - "https://i.discogs.com/pU-07_D0M_un1eMYYgP2BfkDN_OjMPdUinGhFJi8RX4/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1MTM1/MjgyLTE3MDk0Mjkw/NjMtMTgzMC5qcGVn.jpeg"
+    - "https://i.discogs.com/5-eGERh1v4zfJtNaRgGndtjRyI7G6csvAsiNbHxpnac/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1MTM1/MjgyLTE3MDk0Mjkw/NjgtMjQxNS5qcGVn.jpeg"
+    - "https://i.discogs.com/rsIJaziZolNl42pxfU47FLCGtCPj50GVtGHp6ht4j-0/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1MTM1/MjgyLTE3MDk0Mjkw/NjctNDUyNS5qcGVn.jpeg"
+    - "https://i.discogs.com/N5wgNWM7-1b0Ggi6evx1UMzh_89U9nnyTKW8eVrrbz8/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1MTM1/MjgyLTE3MDk0Mjkw/NzktMTI0OC5qcGVn.jpeg"
+    - "https://i.discogs.com/WB3upY96Mm-2H4V4mshLg90eYkvltLKitY0h_U9wWWM/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1MTM1/MjgyLTE3MDk0Mjkw/ODEtMzc4OC5qcGVn.jpeg"
+    - "https://i.discogs.com/eMVoE0aglxK1R4Qi_VwVSiDPfQbvYwvcxkFXw40ScbM/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1MTM1/MjgyLTE3MDk0Mjkw/ODQtNzY5MS5qcGVn.jpeg"
+    - "https://i.discogs.com/EPhOzg0jzmCWSOst1NzAHmM--tn50tr84N4TO4ZIgug/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1MTM1/MjgyLTE3MDk0Mjkw/ODUtMzczMS5qcGVn.jpeg"
+    - "https://i.discogs.com/x67srm1rVxlsIN7DtquHIi7ToEEXveoa9g8hLZxwAyw/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1MTM1/MjgyLTE3MDk0Mjkw/OTMtMjQ4OC5qcGVn.jpeg"
+    - "https://i.discogs.com/4I7kvtBuJgox9SjCFNOd0NTpqtbtfRGbxa9VdjIzU3M/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1MTM1/MjgyLTE3MDk0Mjkw/OTYtMjc2My5qcGVn.jpeg"
+    - "https://i.discogs.com/BHGnToMuXJrl4SnWDOWAOY0H3_8evQ40ApmIIKfjgv4/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1MTM1/MjgyLTE3MDk0Mjkw/OTktOTg2MC5qcGVn.jpeg"
+    - "https://i.discogs.com/-UhNQlmdHPITzownqWI30PdPeXyWP-DcpES7eUdJzl8/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1MTM1/MjgyLTE3MDk0Mjkx/MDAtNTM3Ny5qcGVn.jpeg"
 genres: ["Electronic", "Rock", "Funk / Soul", "Pop", "Stage & Screen"]
 styles: ["Alternative Rock", "Classic Rock", "Dance-pop", "Indie Pop", "Jangle Pop", "Latin", "Synth-pop"]
 ---
@@ -100,7 +112,9 @@ styles: ["Alternative Rock", "Classic Rock", "Dance-pop", "Indie Pop", "Jangle P
 ## Videos
 ### Life Moves Pretty Fast - The John Hughes Mixtapes Trailer
 {{< youtube id="nRp5WuZgvDM" title="Life Moves Pretty Fast - The John Hughes Mixtapes Trailer" >}}<br>
+### More Videos
 
+- [Life Moves Pretty Fast - The John Hughes Mixtapes Trailer](https://www.youtube.com/watch?v=nRp5WuZgvDM)
 
 ## Release Images
 {{< imageGrid >}}

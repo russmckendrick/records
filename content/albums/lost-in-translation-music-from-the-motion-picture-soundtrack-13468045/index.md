@@ -45,12 +45,13 @@ styles: ["Soundtrack", "Downtempo", "Post Rock", "Indie Rock"]
 
 
 ## Videos
-### Various ‎– Lost In Translation (Motion Picture Soundtrack) Vinyl rip // Side A
-{{< youtube id="dNuZeKUhu70" title="Various ‎– Lost In Translation (Motion Picture Soundtrack) Vinyl rip // Side A" >}}<br>
+### AIR "Alone in Kyoto" 2003/2024 Rhino Records
+{{< youtube id="4TVS46Lu0Hc" title="AIR "Alone in Kyoto" 2003/2024 Rhino Records" >}}<br>
 ### More Videos
 
-- [Lost In Translation Original Soundtrack - Side B (Vinyl, Linn Sondek, Koetsu Bk Gl, Herron audio)](https://www.youtube.com/watch?v=DP16_k3CWyg)
-- [Lost in Translation - Soundtrack - Full Album (2003)](https://www.youtube.com/watch?v=WETG07MZ8Mk)
+- [Sébastien Tellier "Fantino" 2000/2024 Rhino Records](https://www.youtube.com/watch?v=jnm7lHP_lWY)
+- [Various ‎– Lost In Translation (Motion Picture Soundtrack) Vinyl rip // Side A](https://www.youtube.com/watch?v=dNuZeKUhu70)
+- [Various ‎– Lost In Translation (Motion Picture Soundtrack) Vinyl rip // Side B](https://www.youtube.com/watch?v=YbdS1SEdefw)
 
 ## Release Images
 {{< imageGrid >}}

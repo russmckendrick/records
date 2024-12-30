@@ -22,6 +22,16 @@ genres: ["Rock"]
 styles: ["Prog Rock"]
 ---
 
+Dizrythmia (1977) is the third studio album released by New Zealand new wave band Split Enz. It was the first Split Enz album without co-founding members Phil Judd and Mike Chunn. Neil Finn and Nigel Griggs, the first being the younger brother of band leader Tim Finn, replaced them respectively. Meanwhile, Nigel's old friend and former bandmate Malcolm Green took the place of Emlyn Crowther, who also left around this time. The album was released domestically by Mushroom Records, and overseas by Chrysalis Records.
+The single "My Mistake" was a hit in New Zealand and Australia, but failed to make much impact overseas. "Bold as Brass" was the second single. The album is regarded as the start of the band's breakthrough, and marked a shift from art rock to more pop-oriented songs.
+The album's title comes from circadian dysrhythmia, more commonly known as jet lag.
+The back cover was originally intended as the front cover. Both were designed by Noel Crombie, who also designed the band's costumes.
+Tim Finn coughs forty-four seconds into "Nice to Know", a feature erroneously left in the final mix.
+Both Tim Finn and Eddie Rayner were disappointed with the final mix of "Charlie", feeling that the vocals sounded very flat. Geoff Emerick, the engineer for the album, thought it was a beautiful vocal, however, so it stayed.
+
+
+    
+    
 
 
 ## Tracklisting
@@ -40,15 +50,11 @@ styles: ["Prog Rock"]
 
 
 ## Videos
-### Split Enz - Sugar And Spice
-{{< youtube id="zt5tXIIrnW0" title="Split Enz - Sugar And Spice" >}}<br>
+### Split Enz - Bold As Brass (Official Video)
+{{< youtube id="gTO8lUYi7lc" title="Split Enz - Bold As Brass (Official Video)" >}}<br>
 ### More Videos
 
-- [Charlie](https://www.youtube.com/watch?v=vspL-4UUmRs)
-- [Split Enz - Parrot Fashion Love (1977)](https://www.youtube.com/watch?v=wAosTZ5gfCc)
-- [Bold As Brass (2020 Remaster)](https://www.youtube.com/watch?v=SRVEd8oeRkU)
-- [Split Enz - Jamboree](https://www.youtube.com/watch?v=iR1Xjbalmj4)
-- [Crosswords (2020 Remaster)](https://www.youtube.com/watch?v=MIn6XPXuzks)
+- [Split Enz - My Mistake (Official Video)](https://www.youtube.com/watch?v=LjUoaP8xbSQ)
 
 ## Release Images
 {{< imageGrid >}}
@@ -56,6 +62,7 @@ styles: ["Prog Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
+| Wikipedia URL | https://en.wikipedia.org/wiki/Dizrythmia |
 | Format         | Vinyl LP Album |
 | Label          | Chrysalis |
 | Catalog Number | CHR 1145 |

@@ -17,6 +17,8 @@ styles: ["New Wave"]
 ---
 
 Apples is the sixth studio album by Ian Dury, released in October 1989 by WEA. It was the soundtrack to his short-lived stage-show of same name though it was recorded before the show opened. The album contains twelve of the twenty tracks from the show. The album was reissued with no bonus tracks on 31 October 2011 by Edsel Records.
+
+
     
     
 
@@ -40,9 +42,21 @@ Apples is the sixth studio album by Ian Dury, released in October 1989 by WEA. I
 
 
 ## Videos
-### Ian Dury - Bit of Kit [HQ Audio]
-{{< youtube id="w_lfMGaFfEM" title="Ian Dury - Bit of Kit [HQ Audio]" >}}<br>
+### Apples
+{{< youtube id="24Kv7PVyzMU" title="Apples" >}}<br>
+### More Videos
 
+- [Love Is All](https://www.youtube.com/watch?v=qwdqoYz4iVU)
+- [Byline Browne](https://www.youtube.com/watch?v=I_b5JB6W3lE)
+- [Bit of Kit](https://www.youtube.com/watch?v=M8ivJ_aGlAo)
+- [Game On](https://www.youtube.com/watch?v=kms4Y-kE1A4)
+- [Looking for Harry](https://www.youtube.com/watch?v=kjRZt-MOAK8)
+- [England's Glory](https://www.youtube.com/watch?v=UwjVONNhwMo)
+- [Bus Drivers' Prayer](https://www.youtube.com/watch?v=bVD4n8oy1ok)
+- [PC Honey](https://www.youtube.com/watch?v=hGwJQLXWx8w)
+- [The Right People](https://www.youtube.com/watch?v=twt9glMXLyc)
+- [All Those Who Say Okay](https://www.youtube.com/watch?v=r_zO1J5BcT8)
+- [Riding the Outskirts of Fantasy](https://www.youtube.com/watch?v=jkQqJRe2Okk)
 
 ## Release Images
 {{< imageGrid >}}

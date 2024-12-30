@@ -13,18 +13,22 @@ cover:
     caption: "Superfuzz Bigmuff by Mudhoney"
 additional_images:
     - "https://i.discogs.com/qpMEk0-l9_9ZUoeu1ixg_w1VBlj4m7diarxGnR27v5M/rs:fit/g:sm/q:90/h:594/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ2MTE0/OS0xNDk0MDg1MDY4/LTE0NjIuanBlZw.jpeg"
-    - "https://i.discogs.com/_DlNSMkD-3nSii3zJX_v4rcz7APgLyKNUcvcaeReUzI/rs:fit/g:sm/q:90/h:602/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ2MTE0/OS0xNDk0MDg1MDgx/LTg3NzQuanBlZw.jpeg"
+    - "https://i.discogs.com/4liyLhsqVATIeuhevo7JiF1GX-IbkijqqStsbOHhemw/rs:fit/g:sm/q:90/h:600/w:597/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ2MTE0/OS0xNDk0MDg1MDgx/LTg3NzQuanBlZw.jpeg"
     - "https://i.discogs.com/K6rX-asISV-Duxj7hw0KYbLM6lkmpcktpaWZE6cbL8I/rs:fit/g:sm/q:90/h:588/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ2MTE0/OS0xNDk0MDg1MDg4/LTEwMzMuanBlZw.jpeg"
     - "https://i.discogs.com/FBx7FdHqTdRdiHc6h_tpXaXFzfd3_TN6AEiLGgWvPfg/rs:fit/g:sm/q:90/h:556/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ2MTE0/OS0xNDk0MDg1MDg4/LTc5NzQuanBlZw.jpeg"
     - "https://i.discogs.com/YM0memRnL6jfxFlmBavXpFGc7LaFB_ME3Krym7244d8/rs:fit/g:sm/q:90/h:306/w:581/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ2MTE0/OS0xNDk0MDg1MDkw/LTI0MjAuanBlZw.jpeg"
-    - "https://i.discogs.com/v8DNdJvOUl1c4dAuLB0JkXth3HCOszE1tKCvZOriZpU/rs:fit/g:sm/q:90/h:900/w:515/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ2MTE0/OS0xNDk0MDg1MDky/LTI3MjcuanBlZw.jpeg"
+    - "https://i.discogs.com/Ly0xzA4J6uAmxfnwHm-HH09l8VgFJOEQuXmpr58kpoM/rs:fit/g:sm/q:90/h:600/w:343/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ2MTE0/OS0xNDk0MDg1MDky/LTI3MjcuanBlZw.jpeg"
     - "https://i.discogs.com/1_8e0yij2Gv-EooOwXaWR2Ln4fYJAFlg9WwsyadQ7F8/rs:fit/g:sm/q:90/h:273/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ2MTE0/OS0xNDk0MDg1MDk1/LTE4OTkuanBlZw.jpeg"
     - "https://i.discogs.com/lwFEFTk5hlqZO3uiDH5Xu2f7rsj6MKktTFPhZUrgSug/rs:fit/g:sm/q:90/h:119/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ2MTE0/OS0xNDk0MDg1MDk1/LTgyODMuanBlZw.jpeg"
+    - "https://i.discogs.com/HzuN9wCGJ5FGJ8mtJC8EFdQOZQ_HWwPCPaO7VxlsWiY/rs:fit/g:sm/q:90/h:427/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ2MTE0/OS0xNjk5MTA3NDgy/LTc0NTQuanBlZw.jpeg"
+    - "https://i.discogs.com/8xxfFq5giPOArYHef3dlfnrRTbnYYcTqwOqsw1cTowQ/rs:fit/g:sm/q:90/h:421/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ2MTE0/OS0xNjk5MTA3NDgy/LTMwMzYuanBlZw.jpeg"
 genres: ["Rock"]
 styles: ["Alternative Rock", "Grunge"]
 ---
 
-Superfuzz Bigmuff is the debut EP and first major release by the Seattle grunge band Mudhoney. It was released on October 20, 1988, through record label Sub Pop. The album was later re-released in 1990 in the form of Superfuzz Bigmuff Plus Early Singles.
+Superfuzz Bigmuff is the debut album and first major release by the Seattle grunge band Mudhoney. It was released on October 20, 1988, through record label Sub Pop. The album was later re-released in 1990 in Europe in the form of Superfuzz Bigmuff Plus Early Singles.
+
+
     
     
 
@@ -44,15 +48,15 @@ Superfuzz Bigmuff is the debut EP and first major release by the Seattle grunge 
 
 
 ## Videos
-### Need
-{{< youtube id="Pf_yzsgnOnI" title="Need" >}}<br>
+### Mudride
+{{< youtube id="E91cumLaFQI" title="Mudride" >}}<br>
 ### More Videos
 
+- [Need](https://www.youtube.com/watch?v=Pf_yzsgnOnI)
 - [Chain That Door](https://www.youtube.com/watch?v=xOBqYBgjTpk)
-- [Mudride](https://www.youtube.com/watch?v=E91cumLaFQI)
-- [No One Has](https://www.youtube.com/watch?v=blCcd1e9FoQ)
-- [If I Think](https://www.youtube.com/watch?v=TDnCLWgCdk0)
+- [Mudhoney - Touch Me I'm Sick [OFFICIAL VIDEO]](https://www.youtube.com/watch?v=_nGsT_qFMBs)
 - [In 'n' Out of Grace](https://www.youtube.com/watch?v=LYKAXJC1Lkk)
+- [Mudhoney ‎– Superfuzz Bigmuff (1989)](https://www.youtube.com/watch?v=HwiGFlZ0KP8)
 
 ## Release Images
 {{< imageGrid >}}

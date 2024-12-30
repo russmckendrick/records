@@ -24,7 +24,9 @@ styles: ["Alternative Rock"]
 
 Flood is the third studio album by Brooklyn-based alternative rock duo They Might Be Giants, released in January 1990. Flood was the duo's first album on the major label Elektra Records. It generated three singles: "Birdhouse in Your Soul", "Istanbul (Not Constantinople)", and the domestic promotional track "Twisting". The album is generally considered to be the band's definitive release, as it is their best-selling and most recognizable album. Despite minimal stylistic and instrumental differences from previous releases, Flood is distinguished by contributions from seasoned producers Clive Langer and Alan Winstanley. John Linnell and John Flansburgh also took advantage of new equipment and recording techniques, including unconventional, home-recorded samples, which were programmed through Casio FZ-1 synthesizers. The album was recorded in New York City at Skyline Studios, which was better equipped than studios the band had worked in previously.
 Promotion for Flood included television appearances, promotional videos, and an international tour. The album's mainstream promotion and success contributed to its status as the band's most well known album. Many fans, including young viewers of Tiny Toon Adventures, were first exposed to They Might Be Giants's music through Flood.
-The album was initially issued on CD, LP, and cassette. Upon its release, Flood was met with praise from critics and achieved moderate success on sales charts. In 2013, the album was reissued as part of a CD series spanning They Might Be Giants' four Elektra releases. In 2014, it was reissued on LP in Europe by Music On Vinyl and in the United States by Asbestos Records for Record Store Day and Black Friday, and it was reissued again on LP in 2015 on the band's label, Idlewild Recordings.
+The album was initially issued on CD, LP, and cassette. Upon its release, Flood was met with praise from critics and achieved moderate success on sales charts. In 2013, the album was reissued as part of a CD series spanning They Might Be Giants' four Elektra releases. In 2014, it was reissued on LP in Europe by Music On Vinyl and in the United States by Asbestos Records for Record Store Day and Black Friday, and it was reissued again on LP in 2015 and in 2023 on the band's label, Idlewild Recordings.
+
+
         
         
     
@@ -56,14 +58,14 @@ The album was initially issued on CD, LP, and cassette. Upon its release, Flood 
 
 
 ## Videos
-### Theme from Flood
-{{< youtube id="pJ9QQdH3IiQ" title="Theme from Flood" >}}<br>
+### THEY MIGHT BE GIANTS "Istanbul (Not Constantinople)"
+{{< youtube id="vsQrKZcYtqg" title="THEY MIGHT BE GIANTS "Istanbul (Not Constantinople)"" >}}<br>
 ### More Videos
 
-- [THEY MIGHT BE GIANTS Istanbul (Not Constantinople)](https://www.youtube.com/watch?v=vsQrKZcYtqg)
+- [Theme from Flood](https://www.youtube.com/watch?v=pJ9QQdH3IiQ)
 - [Birdhouse In Your Soul (Official Video) - They Might Be Giants](https://www.youtube.com/watch?v=2Am-BF7ObCI)
 - [Lucky Ball and Chain](https://www.youtube.com/watch?v=z8au4eCVPis)
-- [They Might Be Giants - Istanbul (Not Constantinople)](https://www.youtube.com/watch?v=p6NzVd3pGdE)
+- [They Might Be Giants - "Istanbul (Not Constantinople)"](https://www.youtube.com/watch?v=p6NzVd3pGdE)
 - [Dead](https://www.youtube.com/watch?v=bPgXYPJC2uA)
 - [Your Racist Friend](https://www.youtube.com/watch?v=JFGQdvYIJ0M)
 - [Particle Man](https://www.youtube.com/watch?v=vOLivyykLqk)
@@ -79,6 +81,7 @@ The album was initially issued on CD, LP, and cassette. Upon its release, Flood 
 - [Sapphire Bullets of Pure Love](https://www.youtube.com/watch?v=MnYKfrgN76Y)
 - [They Might Be Giants](https://www.youtube.com/watch?v=e-cz03eTE54)
 - [Road Movie to Berlin](https://www.youtube.com/watch?v=dF7euO5RmqI)
+- [THEY MIGHT BE GIANTS "Istanbul (Not Constantinople)"](https://www.youtube.com/watch?v=vsQrKZcYtqg)
 
 ## Release Images
 {{< imageGrid >}}
@@ -87,7 +90,7 @@ The album was initially issued on CD, LP, and cassette. Upon its release, Flood 
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Flood_(They_Might_Be_Giants_album) |
-| Format         | Vinyl LP Limited Edition Picture Disc Reissue (30th Anniversary Edition) |
+| Format         | Vinyl LP Album Limited Edition Picture Disc Reissue (30th Anniversary Edition) |
 | Label          | Idlewild Recordings |
 | Catalog Number | IDLE154 |
 | Notes | Picture disc contains 5 zoetrope animations on side B. |

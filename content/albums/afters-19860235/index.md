@@ -19,11 +19,14 @@ additional_images:
     - "https://i.discogs.com/BpxhU3e4M78APucb_0tL3gpD1E9I-ZQerlIuqn4NDnY/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5ODYw/MjM1LTE2Mjg5NTg0/MDUtNDcwMi5qcGVn.jpeg"
     - "https://i.discogs.com/_y0NtW9Es5yzP1Sq9bU9hL03v8qhvg4H3AOAd7ldB8c/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5ODYw/MjM1LTE2Mjg5NTgz/NTUtODA5OS5qcGVn.jpeg"
     - "https://i.discogs.com/yrG7t9sanBZf9blU3AcPCjJqurvFwWF9yf-Rclk3DIo/rs:fit/g:sm/q:90/h:298/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5ODYw/MjM1LTE2Mjg5NTgz/NTItNDExNS5qcGVn.jpeg"
-    - "https://i.discogs.com/9R1j7UaE4F1f4Pre7Jbpws1UPVl0NVRgYDbBlaYiAIU/rs:fit/g:sm/q:90/h:850/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5ODYw/MjM1LTE2Mjg5NTgz/NTMtNDk5MS5qcGVn.jpeg"
+    - "https://i.discogs.com/ea7ZJWubq9W2FAXpMYm6UmA6HOAOdk7MJwk5Nv5w-30/rs:fit/g:sm/q:90/h:600/w:423/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5ODYw/MjM1LTE2Mjg5NTgz/NTMtNDk5MS5qcGVn.jpeg"
 genres: ["Rock"]
 styles: ["Indie Rock"]
 ---
 
+The Afters is an American Christian rock band founded by Josh Havens and Matt Fuqua. Havens and Fuqua first worked together in a Starbucks coffee shop in Mesquite, Texas, where they performed songs for customers before deciding to form a band. They were initially joined by Brad Wigg from the same Starbucks and drummer Michael Burden and performed with the name Blisse.  When Burden left the band, Marc Dodd, who also worked at the Mesquite Starbucks stepped in. Their song "Never Going Back to OK" was the most-played song on R&R magazine's Christian CHR chart for 2008.
+    
+    
 
 
 ## Tracklisting
@@ -60,6 +63,7 @@ styles: ["Indie Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
+| Wikipedia URL | https://en.wikipedia.org/wiki/The_Afters |
 | Format         | Vinyl LP Album |
 | Label          | Kscope |
 | Catalog Number | KSCOPE1120 |

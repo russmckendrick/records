@@ -13,17 +13,19 @@ cover:
     alt: "Stranger In Town by Bob Seger And The Silver Bullet Band"
     caption: "Stranger In Town by Bob Seger And The Silver Bullet Band"
 additional_images:
-    - "https://i.discogs.com/o4W0I0UrGjiPjoQIi9RZop9UAwZMTn48eI2Q0453YbM/rs:fit/g:sm/q:90/h:602/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUxNzM4/ODQtMTQ0MTQ5MTQ2/NS0xODE4LmpwZWc.jpeg"
+    - "https://i.discogs.com/vjQHJxbrk6oMQjCv2esWPgbtP8sg6M-zU6aDCpLzSNg/rs:fit/g:sm/q:90/h:600/w:597/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUxNzM4/ODQtMTQ0MTQ5MTQ2/NS0xODE4LmpwZWc.jpeg"
     - "https://i.discogs.com/ejh0FK_ac7WvnHjXzJG2uSrzaoXJAKa8DkQea4Q-4CY/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUxNzM4/ODQtMTQ0MTQ5MTQ2/My00OTAwLmpwZWc.jpeg"
     - "https://i.discogs.com/PitOJR0dLjJy-gL_jlVatW9u7GOzVBJpb-oO5UBx2qQ/rs:fit/g:sm/q:90/h:283/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUxNzM4/ODQtMTQ0MTQ5MTUw/MC0zMzg5LmpwZWc.jpeg"
-    - "https://i.discogs.com/KYDmSeCHyS0DUr0oRd2nq0UKWsx3LsKy9YFEzd1xPI0/rs:fit/g:sm/q:90/h:608/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUxNzM4/ODQtMTQ0MTQ5MTQ1/NS05ODQ1LmpwZWc.jpeg"
-    - "https://i.discogs.com/qwqbIBIqPTJ7t4PBxNnjcoilWxUKBDv6s54AkpA85_M/rs:fit/g:sm/q:90/h:605/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUxNzM4/ODQtMTQ0MTQ5MTQ2/My03OTc3LmpwZWc.jpeg"
+    - "https://i.discogs.com/8bquufW5hDc1O0VMUbpeo_bcrfLaGUsq-DSUlTNul1Y/rs:fit/g:sm/q:90/h:600/w:591/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUxNzM4/ODQtMTQ0MTQ5MTQ1/NS05ODQ1LmpwZWc.jpeg"
+    - "https://i.discogs.com/qnUJ_cujeStLDUBnZsriqtWHxUkBjmVvIoLdAhAC-p4/rs:fit/g:sm/q:90/h:600/w:594/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUxNzM4/ODQtMTQ0MTQ5MTQ2/My03OTc3LmpwZWc.jpeg"
 genres: ["Rock"]
 styles: ["Rock & Roll", "Soft Rock", "Classic Rock"]
 ---
 
-Stranger in Town is the tenth studio album by American rock singer Bob Seger and his second with the Silver Bullet Band, released by Capitol Records in May 1978 (see 1978 in music). As with its predecessor, the Silver Bullet Band backed Seger on about half of the songs and the Muscle Shoals Rhythm Section backed Seger on the other half.
-The album became an instant success in the United States, being certified platinum by the Recording Industry Association of America less than a month after the album's release, and, like its predecessor Night Moves, it would later go 6× Platinum. It was also his first album to chart in the UK, where limited editions were released on silver vinyl and in picture disc format as well as standard black vinyl.
+Stranger in Town is the tenth studio album by American rock singer Bob Seger and his second with the Silver Bullet Band, released by Capitol Records in May 1978. As with its predecessor, the Silver Bullet Band backed Seger on about half of the songs and the Muscle Shoals Rhythm Section backed Seger on the other half.
+The album became an instant success in the United States, being certified platinum by the Recording Industry Association of America (RIAA) less than a month after the album's release, and, like its predecessor Night Moves, it would later go 6× Platinum. It was also his first album to chart in the UK, where limited editions were released on silver vinyl and in picture disc format as well as standard black vinyl.
+
+
         
         
     

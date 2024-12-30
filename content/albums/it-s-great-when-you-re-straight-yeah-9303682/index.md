@@ -17,6 +17,13 @@ genres: ["Electronic", "Rock", "Funk / Soul"]
 styles: ["Pop Rock", "Funk"]
 ---
 
+It's Great When You're Straight...Yeah is the debut studio album by the English rock band Black Grape, released on 7 August 1995 through Radioactive Records. Following the breakup of Happy Mondays, frontman Shaun Ryder formed Black Grape with vocalist Paul "Kermit" Leveridge and dancer Bez. They were put in contact with management company Nicholl and Dime, who secured the band a recording contract with Radioactive Records. After demos and the band finalizing their line-up, Ryder met with producers Stephen Lironi and Danny Saber. Black Grape recorded their debut studio album in late 1994 and early 1995 at Rockfield Studios in Wales, Chapel Studios in Lincolnshire, and Boundary Row in London. It's Great When You're Straight...Yeah is a dance-pop and pop funk album, with the word “straight” in its title referring to being sober from drugs.
+Black Grape's existence was made public in 1995; they played a handful of shows in the United Kingdom, as well as festivals in mainland Europe. "Reverend Black Grape" was released as the lead single from It's Great When You're Straight...Yeah in May 1995, followed by the second single "In the Name of the Father" in July 1995. A tour of the United States was planned for later in the year but was postponed due to the band members' past convictions. Kermit was diagnosed with sepsis and, as a result, had to miss performances. His role was covered by Carl "Psycho" McCarthy when the band went on a UK tour in early 1996; Bez left shortly after, citing financial disagreements. They embarked on a US tour in April 1996, which was promoted with "Kelly's Heroes", the third single from the album.
+It's Great When You're Straight...Yeah received generally positive reviews from music critics, several of whom saw it as an update to Happy Mondays' sound and highlighted Ryder's lyricism. It topped the UK Albums Chart for two weeks and reached the top 20 in New Zealand, Scotland, and Sweden. The album went on to sell 100,000 copies in the UK, where it was certified platinum, and 600,000 copies worldwide. "Reverend Black Grape" and "In the Name of the Father" reached the top ten in both Scotland and the UK; "In the Name of the Father" reached the top 40 in the US Billboard Alternative Songs chart. "Kelly's Heroes" peaked within the top 20 in Scotland and the UK. It's Great When You're Straight appeared on album of the year and best of decade lists by Melody Maker, NME, and Select.
+
+
+    
+    
 
 
 ## Tracklisting
@@ -36,23 +43,34 @@ styles: ["Pop Rock", "Funk"]
 
 
 ## Videos
-### Black Grape - In the Name of the Father
-{{< youtube id="2_zaLwdbQYU" title="Black Grape - In the Name of the Father" >}}<br>
+### Black Grape "Reverend Black Grape"
+{{< youtube id="ik9HDX8hJV0" title="Black Grape "Reverend Black Grape"" >}}<br>
 ### More Videos
 
-- [Black Grape Reverend Black Grape](https://www.youtube.com/watch?v=ik9HDX8hJV0)
-- [Black Grape - Pretty Vacant - TFI Friday.MPG](https://www.youtube.com/watch?v=WyacZq8ulcA)
-- [Black Grape - Reverend Black Grape](https://www.youtube.com/watch?v=6uAM1o86znk)
-- [Black Grape Yeah Yeah Brother](https://www.youtube.com/watch?v=1GGpbh0fBu8)
+- [Black Grape "Yeah Yeah Brother"](https://www.youtube.com/watch?v=1GGpbh0fBu8)
 - [Black Grape - Kelly's Heroes (The Milky Bar Kid Mix/Audio)](https://www.youtube.com/watch?v=k8NQ11JtbyA)
-- [Black Grape A Big Day in the North](https://www.youtube.com/watch?v=2JyzEY6Mm7E)
-- [Black Grape In the Name of the Father](https://www.youtube.com/watch?v=-_5a5FBszNw)
-- [Black Grape Kelly's Heroes](https://www.youtube.com/watch?v=RQDYH0KexvI)
-- [Black Grape Submarine](https://www.youtube.com/watch?v=FprdbkOVFek)
+- [Black Grape "In the Name of the Father"](https://www.youtube.com/watch?v=-_5a5FBszNw)
+- [Black Grape "Kelly's Heroes"](https://www.youtube.com/watch?v=RQDYH0KexvI)
+- [Black Grape "Submarine"](https://www.youtube.com/watch?v=FprdbkOVFek)
 - [Black Grape - Tramazi Parti](https://www.youtube.com/watch?v=ptct-D6vFKE)
 - [Black Grape - Kelly's Heroes (The Bank Job Version)](https://www.youtube.com/watch?v=NGTRKy--Iyk)
 - [Black Grape - Kelly's Heroes (The Funeral Version)](https://www.youtube.com/watch?v=PSEkwEeRwKk)
 - [Black Grape, In The Name Of The Father, live on Later With Jools Holland](https://www.youtube.com/watch?v=kRwabWWv_D8)
+- [Black Grape - In the Name of the Father](https://www.youtube.com/watch?v=2_zaLwdbQYU)
+- [Black Grape - Reverend Black Grape](https://www.youtube.com/watch?v=6uAM1o86znk)
+- [Black Grape "Yeah Yeah Brother"](https://www.youtube.com/watch?v=1GGpbh0fBu8)
+- [Black Grape "A Big Day in the North"](https://www.youtube.com/watch?v=2JyzEY6Mm7E)
+- [Black Grape "Reverend Black Grape"](https://www.youtube.com/watch?v=ik9HDX8hJV0)
+- [Black Grape "Yeah Yeah Brother"](https://www.youtube.com/watch?v=1GGpbh0fBu8)
+- [Black Grape - Kelly's Heroes (The Milky Bar Kid Mix/Audio)](https://www.youtube.com/watch?v=k8NQ11JtbyA)
+- [Black Grape "In the Name of the Father"](https://www.youtube.com/watch?v=-_5a5FBszNw)
+- [Black Grape "Kelly's Heroes"](https://www.youtube.com/watch?v=RQDYH0KexvI)
+- [Black Grape "Submarine"](https://www.youtube.com/watch?v=FprdbkOVFek)
+- [Black Grape - Tramazi Parti](https://www.youtube.com/watch?v=ptct-D6vFKE)
+- [Black Grape - Kelly's Heroes (The Bank Job Version)](https://www.youtube.com/watch?v=NGTRKy--Iyk)
+- [Black Grape - Kelly's Heroes (The Funeral Version)](https://www.youtube.com/watch?v=PSEkwEeRwKk)
+- [Black Grape, In The Name Of The Father, live on Later With Jools Holland](https://www.youtube.com/watch?v=kRwabWWv_D8)
+- [Black Grape - Pretty Vacant - TFI Friday.MPG](https://www.youtube.com/watch?v=WyacZq8ulcA)
 
 ## Release Images
 {{< imageGrid >}}
@@ -60,6 +78,7 @@ styles: ["Pop Rock", "Funk"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
+| Wikipedia URL | https://en.wikipedia.org/wiki/It%27s_Great_When_You%27re_Straight...Yeah |
 | Format         | Vinyl LP Album Reissue (180g) |
 | Label          | Radioactive |
 | Catalog Number | 5373030 |

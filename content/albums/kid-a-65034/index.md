@@ -15,7 +15,7 @@ cover:
 additional_images:
     - "https://i.discogs.com/VcVAmP-FGbfBoURYb2DXWOXKfR_WL97rdaF2FXLk1Q4/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY1MDM0/LTE1OTg2NzM0MjIt/NTE0OC5qcGVn.jpeg"
     - "https://i.discogs.com/BG-bUhHCH0MD_QZ_dgclizuQP_a3nFKuBHD-c8-gH4I/rs:fit/g:sm/q:90/h:296/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY1MDM0/LTE0NDI0MTk5MTct/NjQ5NS5qcGVn.jpeg"
-    - "https://i.discogs.com/9XOqXoB9hYmaGRbM1xxpZ87ZQTiZRvzH56hiPt5sp3s/rs:fit/g:sm/q:90/h:601/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY1MDM0/LTE1OTg2NzM0MjIt/ODI1MS5qcGVn.jpeg"
+    - "https://i.discogs.com/zuEVsIV4AZJgbo-e3O5KXigUP5ybLrWQiVoHPBPCoB8/rs:fit/g:sm/q:90/h:600/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY1MDM0/LTE1OTg2NzM0MjIt/ODI1MS5qcGVn.jpeg"
     - "https://i.discogs.com/kYqyraBbBWsJqPw9to738nFDHwKZtnOQfWUqdFfuHnE/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY1MDM0/LTExNjQ2NDAyNzYu/anBlZw.jpeg"
     - "https://i.discogs.com/3WO04U6JkVD0ex-EgV7O2j1Oqk15dWTN8rcYuhGutaI/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY1MDM0/LTExNjQ2NDAzMDUu/anBlZw.jpeg"
     - "https://i.discogs.com/0Rop3uS4sNhYQAIMRvOC4zM8Ajb2JNg_P-y1xQc1KAs/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY1MDM0/LTExNjQ2NDAzMzIu/anBlZw.jpeg"
@@ -24,13 +24,15 @@ genres: ["Electronic", "Rock"]
 styles: ["Alternative Rock", "IDM", "Experimental", "Art Rock"]
 ---
 
-Kid A is the fourth studio album by the English rock band Radiohead, released on 2 October 2000 by Parlophone. It was recorded with their producer, Nigel Godrich, in Paris, Copenhagen, Gloucestershire and Oxfordshire.
-After the stress of promoting Radiohead's 1997 album OK Computer, the songwriter, Thom Yorke, wanted to depart from rock music. Drawing influence from electronic music, ambient music, krautrock, jazz and 20th-century classical music, Radiohead used instruments such as modular synthesisers, the ondes Martenot, brass and strings. They processed guitar sounds, incorporated samples and loops, and manipulated their recordings with software. Yorke wrote impersonal and abstract lyrics, cutting up phrases and assembling them at random.
-In a departure from industry practice, Radiohead released no singles or music videos and conducted few interviews and photoshoots. Instead, they released short animated "blips", and became one of the first major acts to use the internet for promotion. Bootlegs of early performances were shared on filesharing services, and Kid A was leaked before release. In 2000, Radiohead toured Europe in a custom-built tent without corporate logos.
-Kid A debuted at the top of the UK Albums Chart and became Radiohead's first number-one album on the Billboard 200 in the US, where it sold more than 207,000 copies in its first week. Its departure from Radiohead's earlier sound divided listeners, and some dismissed it as pretentious, deliberately obscure, or derivative. However, it later attracted acclaim; at the end of the decade, Rolling Stone, Pitchfork and the Times ranked Kid A the greatest album of the 2000s, and in 2020 Rolling Stone ranked it number 20 on its updated list of the "500 Greatest Albums of All Time". Like OK Computer, it won the Grammy Award for Best Alternative Album and was nominated for the Grammy Award for Album of the Year. It has been certified platinum in Australia, Canada, France, Japan, the US and the UK.
-A second album of material from the sessions, Amnesiac, was released eight months later. Kid A Mnesia, an anniversary reissue compiling Kid A, Amnesiac and previously unreleased material, was released in 2021.
+<b>100 Best Albums</b> In three albums released over the course of four years, Radiohead had done the unlikely: They had gone from potential one-hit wonders cresting a wave of reverent rock to a more atmospheric version of such to a band that then broke many of those rules and reconfigured the lexicon on 1997’s <i>OK Computer</i>. So, what was a band suddenly touted for making “the best record of all time” to do, aside from tour until they were threadbare as was Radiohead’s wont? They were, with some stress and shouting and madness, going to throw away the rules altogether. In turn, <i>Kid A</i> became their second revolutionary act in as many records.
 
+Thom Yorke had begun to resist the idea that he was in a rock band at all, that Radiohead instead was rather an expressive outlet in search of the best way to say something. He found, though, that he had nothing to say, that every idea for a song was better suited for the trash. He went on long walks in the English rain and prowled around old buildings, listening to the vertiginous electronic vanguard of, say, Aphex Twin and Autrechre. New ideas began to emerge, as did new equipment in their Oxford studio—modular synths, samplers, a haunted theremin contemporary called the ondes Martenot.
 
+<i>Kid A</i> did not introduce these intentions slowly. With its seasick sequences and Yorke’s multiplied vocal lines folding in and over and around one another like an Escher sketch, “Everything In Its Right Place” is both taunt and gambit, a little wink from the band that had gone from “Creep” to these so-called creepy sounds. That was simply the start. “Idioteque” brazenly subverted dance-floor tropes, not only with drums so blown out they suggested a bullet’s report, but also Yorke’s purred lines about Cold War anxiety. If the acoustic strums, distant hums and rising rhythm of “How to Disappear Completely” at least suggested something recognisable for those with The Bends, its chaser, “Treefingers”, ferried it away with a dimly phosphorescent electronic ripple, as if the sun had forever set just below the horizon.
+
+The demented bass and howling horns of “The National Anthem”, the harp sweeps and operatic tremors of “Motion Picture Soundtrack”, the refracted guitars and babbling circuity of “In Limbo”: Radiohead found new space to explore on every <i>Kid A</i> track. Each song, though, was anchored to a hook—however hidden it first appeared—something familiar as the band set off into often-unfamiliar spaces.
+
+Popular and critical opinion about <i>Kid A</i> was initially mixed. Had Yorke finally teetered off the edge? Were they a bunch of scene-hopping poseurs? But as people found those melodies and made their own meanings from its mondegreens, they understood that Radiohead not only meant this new avenue of expression but also needed it. This was a new arena for old blues, fit for the 21st century—and helping shape it, too.
         
         
     
@@ -71,7 +73,6 @@ A second album of material from the sessions, Amnesiac, was released eight month
 - [Idioteque](https://www.youtube.com/watch?v=svwJTnZOaco)
 - [Morning Bell](https://www.youtube.com/watch?v=XTT6k3Q4JnQ)
 - [Motion Picture Soundtrack](https://www.youtube.com/watch?v=EcSvMFm2ABE)
-- [Untitled](https://www.youtube.com/watch?v=L_PvBLtvZto)
 
 ## Release Images
 {{< imageGrid >}}

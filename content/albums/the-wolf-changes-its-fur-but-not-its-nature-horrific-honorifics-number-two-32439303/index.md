@@ -27,11 +27,6 @@ styles: ["Prog Rock", "Goth Rock"]
 ---
 
 
-## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/the-wolf-changes-its-fur-but-not-its-nature/1764987258" >}}<br>
-
-
-{{< applemusic url="https://music.apple.com/gb/album/horrific-honorifics-number-two-2/1762680953" >}}<br>
 
 ## Tracklisting
 1. We Forgotten Who We Are

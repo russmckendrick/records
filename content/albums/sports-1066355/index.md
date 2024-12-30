@@ -14,13 +14,15 @@ cover:
 additional_images:
     - "https://i.discogs.com/KrDHwnqVYY-yFbjOL4oGPdjw_6IIC7tUS2voyzoSa1M/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNjYz/NTUtMTQ0MDUxODY3/Ny04MTAwLmpwZWc.jpeg"
     - "https://i.discogs.com/RHGlmGds4RTcH8IP_nLCoY9h4NLSvtQS_Tk9QZ3Gm9k/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNjYz/NTUtMTQ0MDUxODY4/Mi0xMjIxLmpwZWc.jpeg"
-    - "https://i.discogs.com/BQ3XEvLNyQTuCWLSRvn-oXAAUXBhSpREUXbYmRbhY6c/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNjYz/NTUtMTQ0MDUxODY3/MC03NjYxLmpwZWc.jpeg"
-    - "https://i.discogs.com/TZjQfO6dBV44TWj8grQR-S4jbEUD_CwKkhFUb0v6aak/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNjYz/NTUtMTQ0MDUxODY3/My0xNTUwLmpwZWc.jpeg"
+    - "https://i.discogs.com/MbHkXE13TYC3fHejEBMPRKZ77BYXA0yrWdz73bWnOcs/rs:fit/g:sm/q:90/h:579/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNjYz/NTUtMTczNDU2ODgw/My03NTY3LmpwZWc.jpeg"
+    - "https://i.discogs.com/Dd9b_-jE9QoENFP4nTdmGg_XlBQ_RKYcTrEF_nhibZ0/rs:fit/g:sm/q:90/h:594/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNjYz/NTUtMTczNDU2ODgw/Ni0xMjc5LmpwZWc.jpeg"
+    - "https://i.discogs.com/cpcTiEr20RLIYywdXg00i0-YyXQQizKhuy9JEv15aD0/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNjYz/NTUtMTQ0MDUxODY3/MC03NjYxLmpwZWc.jpeg"
+    - "https://i.discogs.com/q0iNm-6XVclj8oM2MThA0vFA-ubI30z0DUgomQbhz1M/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNjYz/NTUtMTQ0MDUxODY3/My0xNTUwLmpwZWc.jpeg"
 genres: ["Rock", "Pop"]
 styles: ["Rock & Roll", "Doo Wop", "Pop Rock"]
 ---
 
-Sports is the third album by American rock band Huey Lewis and the News, released on September 15, 1983 by Chrysalis Records. It reached No. 1 on the Billboard 200 on June 29, 1984, and ultimately charted for 160 weeks. Sports was ranked No. 2 on the Billboard year-end album chart for 1984 and spawned four top-ten hits on the Billboard Hot 100, with "Heart and Soul" and "The Heart of Rock & Roll" earning Grammy Award nominations. Sports did very well internationally, where most of its singles charted in the top 40 in multiple countries. The album has been certified 7× Platinum by the RIAA.
+Sports is the third album by American rock band Huey Lewis and the News, released on September 15, 1983, by Chrysalis Records. It reached No. 1 on the Billboard 200 on June 30, 1984, and ultimately charted for 160 weeks. Sports was ranked No. 2 on the Billboard year-end album chart for 1984 and spawned four top-ten hits on the Billboard Hot 100, with "Heart and Soul" and "The Heart of Rock & Roll" earning Grammy Award nominations. Sports also did very well internationally, where most of its singles charted in the top 40 in multiple countries. The album has been certified 7× Platinum by the RIAA.
     
     
 
@@ -37,20 +39,20 @@ Sports is the third album by American rock band Huey Lewis and the News, release
 9. Honky Tonk Blues (3:16)
 
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/sports-30th-anniversary-edition-2013-remaster/1440825555" >}}<br>
+{{< applemusic url="https://music.apple.com/gb/album/huey-lewis-and-the-news-remastered/715954898" >}}<br>
 
 
 ## Videos
-### Huey Lewis And The News - The Heart Of Rock & Roll (Official Music Video)
-{{< youtube id="M7JVlpm0eRs" title="Huey Lewis And The News - The Heart Of Rock & Roll (Official Music Video)" >}}<br>
+### Huey Lewis And The News - Bad Is Bad
+{{< youtube id="7CscPTI8fwA" title="Huey Lewis And The News - Bad Is Bad" >}}<br>
 ### More Videos
 
 - [Huey Lewis And The News - Heart And Soul (Official Music Video)](https://www.youtube.com/watch?v=8TdaXhpjHws)
-- [Huey Lewis And The News - Bad Is Bad](https://www.youtube.com/watch?v=7CscPTI8fwA)
 - [Huey Lewis And The News - I Want A New Drug (Official Music Video)](https://www.youtube.com/watch?v=N6uEMOeDZsA)
+- [Huey Lewis And The News - The Heart Of Rock & Roll (Official Music Video)](https://www.youtube.com/watch?v=M7JVlpm0eRs)
+- [Huey Lewis And The News - If This Is It (Official Music Video)](https://www.youtube.com/watch?v=AaTQAaJWW54)
 - [Walking On A Thin Line](https://www.youtube.com/watch?v=VVE9Kj1o4ig)
 - [Finally Found A Home](https://www.youtube.com/watch?v=-DQ3ZKyKd0g)
-- [Huey Lewis And The News - If This Is It (Official Music Video)](https://www.youtube.com/watch?v=AaTQAaJWW54)
 - [You Crack Me Up](https://www.youtube.com/watch?v=-Z6WHizfg8U)
 - [Honky Tonk Blues](https://www.youtube.com/watch?v=ko-w5e4-mbw)
 

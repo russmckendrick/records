@@ -50,9 +50,12 @@ Welcome to Sky Valley (also known as Sky Valley and Kyuss) is the third studio a
 {{< youtube id="B7Ske2eKX2g" title="Kyuss - Demon Cleaner (Official Video)" >}}<br>
 ### More Videos
 
+- [Kyuss - Demon Cleaner](https://www.youtube.com/watch?v=_o8Qqfu1pwQ)
 - [Gardenia](https://www.youtube.com/watch?v=Ew6qzoN2sqk)
+- [Space Cadet](https://www.youtube.com/watch?v=rcU-IfF-CWY)
+- [Odyssey](https://www.youtube.com/watch?v=xv83rTG-fQg)
 - [Supa Scoopa and Mighty Scoop](https://www.youtube.com/watch?v=Av-gUkwzvzk)
-- [Whitewater / Lick Doo (Hidden Track)](https://www.youtube.com/watch?v=q8rvXl-la3w)
+- [Asteroid](https://www.youtube.com/watch?v=EjHzPrBCgf0)
 
 ## Release Images
 {{< imageGrid >}}

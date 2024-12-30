@@ -69,7 +69,8 @@ IH: “It’s a calm song about anger. It was about how to work in restraint for
 
 <b>”Wish I Could Cross the Sea”</b>
 IH: “The way the cellos and maybe the piano loop moves from the start of the song feels like the sea. I just love being in the water—for me, music feels like water most of the time. With the strings, the idea was to create a big hug at the end, to represent the love one might feel for their family. Funnily enough, this one was written way before the pandemic, which is again an example of how a lot of these songs can find relevance in lots of different situations.”
-    
+        
+        
     
 
 
@@ -92,21 +93,33 @@ IH: “The way the cellos and maybe the piano loop moves from the start of the s
 
 
 ## Videos
-### Daughter - To Rage (Official Lyric Video)
-{{< youtube id="4O-Jg8Bp67s" title="Daughter - To Rage (Official Lyric Video)" >}}<br>
+### Daughter - Intro (Official Lyric Video)
+{{< youtube id="CLMNIFyjeYw" title="Daughter - Intro (Official Lyric Video)" >}}<br>
 ### More Videos
 
-- [Daughter - Junkmail (Official Lyric Video)](https://www.youtube.com/watch?v=ubcE16uf4_Y)
-- [Daughter - Dandelion (Official Lyric Video)](https://www.youtube.com/watch?v=eYS7xmjR4Fk)
-- [Daughter - Isolation (Official Lyric Video)](https://www.youtube.com/watch?v=fcbGDyRF5gM)
 - [Daughter - Be On Your Way (Official Video)](https://www.youtube.com/watch?v=6GDzvjRRIkY)
+- [Daughter - Party (Official Video)](https://www.youtube.com/watch?v=KdgntP7Yp5o)
+- [Daughter - Dandelion (Official Lyric Video)](https://www.youtube.com/watch?v=eYS7xmjR4Fk)
+- [Daughter - Neptune (Official Lyric Video)](https://www.youtube.com/watch?v=XMa8MDjcjN0)
+- [Daughter - Swim Back (Official Video)](https://www.youtube.com/watch?v=MXuYBBjHHiQ)
+- [Daughter - Junkmail (Official Lyric Video)](https://www.youtube.com/watch?v=ubcE16uf4_Y)
 - [Daughter - Future Lover (Official Lyric Video)](https://www.youtube.com/watch?v=yyOr8tzmzBM)
 - [Daughter - (Missed Calls) (Official Lyric Video)](https://www.youtube.com/watch?v=R02iLK2ku64)
-- [Daughter - Party (Official Video)](https://www.youtube.com/watch?v=KdgntP7Yp5o)
+- [Daughter - Isolation (Official Lyric Video)](https://www.youtube.com/watch?v=fcbGDyRF5gM)
+- [Daughter - To Rage (Official Lyric Video)](https://www.youtube.com/watch?v=4O-Jg8Bp67s)
 - [Daughter - Wish I Could Cross The Sea (Official Lyric Video)](https://www.youtube.com/watch?v=oh7Ptszx-V0)
 - [Daughter - Intro (Official Lyric Video)](https://www.youtube.com/watch?v=CLMNIFyjeYw)
+- [Daughter - Be On Your Way (Official Video)](https://www.youtube.com/watch?v=6GDzvjRRIkY)
+- [Daughter - Party (Official Video)](https://www.youtube.com/watch?v=KdgntP7Yp5o)
+- [Daughter - Dandelion (Official Lyric Video)](https://www.youtube.com/watch?v=eYS7xmjR4Fk)
+- [Daughter - Neptune (Official Lyric Video)](https://www.youtube.com/watch?v=XMa8MDjcjN0)
 - [Daughter - Swim Back (Official Video)](https://www.youtube.com/watch?v=MXuYBBjHHiQ)
-- [Neptune](https://www.youtube.com/watch?v=v7Vl6CttTPE)
+- [Daughter - Junkmail (Official Lyric Video)](https://www.youtube.com/watch?v=ubcE16uf4_Y)
+- [Daughter - Future Lover (Official Lyric Video)](https://www.youtube.com/watch?v=yyOr8tzmzBM)
+- [Daughter - (Missed Calls) (Official Lyric Video)](https://www.youtube.com/watch?v=R02iLK2ku64)
+- [Daughter - Isolation (Official Lyric Video)](https://www.youtube.com/watch?v=fcbGDyRF5gM)
+- [Daughter - To Rage (Official Lyric Video)](https://www.youtube.com/watch?v=4O-Jg8Bp67s)
+- [Daughter - Wish I Could Cross The Sea (Official Lyric Video)](https://www.youtube.com/watch?v=oh7Ptszx-V0)
 
 ## Release Images
 {{< imageGrid >}}
@@ -114,8 +127,9 @@ IH: “The way the cellos and maybe the piano loop moves from the start of the s
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
+| Wikipedia URL | https://en.wikipedia.org/wiki/Stereo_Mind_Game |
 | Format         | Vinyl LP Album Limited Edition (Coloured Eco-Vinyl) |
 | Label          | 4AD |
 | Catalog Number | 4AD0512LPE |
 | Notes | The tracks are numbered sequentially, 1 to 12, on the release. |
-| Discogs URL    | [Daughter - Stereo Mind Game](https://www.discogs.com/release/26675387-Daughter-Stereo-Mind-Game) |
+| Discogs URL    | [Daughter - Stereo Mind Game](https://www.discogs.com/release/26675387-Daughter-2-Stereo-Mind-Game) |

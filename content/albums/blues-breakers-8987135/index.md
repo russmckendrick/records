@@ -4,7 +4,6 @@ artist_name: "John Mayall"
 artist: "john-mayall"
 album_name: "Blues Breakers"
 date: 2021-05-21T07:27:09.000000Z
-release_date: "1966-07-22"
 release_id: "8987135"
 slug: "blues-breakers-8987135"
 hideSummary: true
@@ -13,17 +12,19 @@ cover:
     alt: "Blues Breakers by John Mayall"
     caption: "Blues Breakers by John Mayall"
 additional_images:
-    - "https://i.discogs.com/RZNfELey4MMMqYycvDgjXxD7u28u-2OZHGubguYOE4w/rs:fit/g:sm/q:90/h:602/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg5ODcx/MzUtMTU0NzQ1MTg3/OS0zOTE4LmpwZWc.jpeg"
+    - "https://i.discogs.com/h0YWw4prGh9Onzh1nHv1PlVtscoM_v5FkV_cmczK9m4/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg5ODcx/MzUtMTcxODUyNDgy/NS0yNDE2LmpwZWc.jpeg"
+    - "https://i.discogs.com/T75AwAHxy5_gAnDrapg3RgXrkKzVOZegEBs_c3OAjKQ/rs:fit/g:sm/q:90/h:600/w:597/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg5ODcx/MzUtMTU0NzQ1MTg3/OS0zOTE4LmpwZWc.jpeg"
     - "https://i.discogs.com/8Hwf2DLbC9P3fWQG_36o5u8_TES6fiQz87x7mmcTWOM/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg5ODcx/MzUtMTU0NzQ1MTg4/Ni00ODg1LmpwZWc.jpeg"
+    - "https://i.discogs.com/ha3ACcXynFbdGSd49PLOeHQkscnxSRe7fj7REvG4H_4/rs:fit/g:sm/q:90/h:455/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg5ODcx/MzUtMTcxODUyNDk0/Ny0zMzEwLmpwZWc.jpeg"
     - "https://i.discogs.com/wQJra0VYvZ4UVO99mRSi6775QBXzwvQu82HrwtSw1oU/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg5ODcx/MzUtMTU0NzQ1MTg3/OS01MzY4LmpwZWc.jpeg"
-    - "https://i.discogs.com/FP9qL5YJMSSzDHSYdRO4VeoutqTsO5qVFl47OqZMRYo/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg5ODcx/MzUtMTU0NzQ1MTg4/MC0yMTc0LmpwZWc.jpeg"
+    - "https://i.discogs.com/aIHjB_Sv29nbhRyz7KASKOU7Ga_rSWmmIJTMDCf2urM/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg5ODcx/MzUtMTU0NzQ1MTg4/MC0yMTc0LmpwZWc.jpeg"
 genres: ["Rock", "Blues"]
 styles: ["Blues Rock", "Electric Blues", "Chicago Blues", "Harmonica Blues"]
 ---
 
-Eric Clapton was a rising star when he recorded this potent and scruffy album with British blues singer/songwriter John Mayall in 1966. Mayall’s tunes, including the brass-fortified “Key to Love,” the slow-burning “Double Crossing Time,” and barroom rave-up “Little Girl,” lift on Clapton’s fluid, gritty licks. The band channels some Beatles on Ray Charles’ R&B standard “What’d I Say,” before tackling with noisy accuracy Mose Allison and Bukka White’s gnarly prison anthem “Parchman Farm.” Meanwhile, Clapton makes his lead-vocal debut on a languorous rendition of Robert Johnson’s “Ramblin’ on My Mind.” 
-        
-        
+Blues Breakers, colloquially known as The Beano Album, is the debut studio album by the English blues rock band John Mayall & the Bluesbreakers, originally credited to John Mayall with Eric Clapton. Produced by Mike Vernon and released in 1966 by Decca Records (UK) and London Records (US), it pioneered a guitar-dominated blues-rock sound.
+The album was commercially successful and most critics viewed it positively. In 2003 and 2012, Rolling Stone ranked it number 195 on its list of the "500 Greatest Albums of All Time". It was voted number 391 in Colin Larkin's All Time Top 1000 Albums (2000).
+    
     
 
 
@@ -42,10 +43,19 @@ Eric Clapton was a rising star when he recorded this potent and scruffy album wi
 12. It Ain't Right (2:41)
 
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/blues-breakers-with-eric-clapton/1434913344" >}}<br>
+{{< applemusic url="https://music.apple.com/gb/album/silver-tones-the-best-of-john-mayall-the-bluesbreakers/254559678" >}}<br>
 
 
+## Videos
+### Steppin' Out
+{{< youtube id="HquRIGE6zDA" title="Steppin' Out" >}}<br>
+### More Videos
 
+- [Hideaway](https://www.youtube.com/watch?v=_xes9UVj6RY)
+- [All Your Love](https://www.youtube.com/watch?v=OkedAcAAcU4)
+- [Ramblin' On My Mind](https://www.youtube.com/watch?v=mUrQlL4VGdo)
+- [Have You Heard (Stereo)](https://www.youtube.com/watch?v=2ZINjFcMs6k)
+- [Little Girl (Stereo)](https://www.youtube.com/watch?v=Dz61ZunjIRU)
 
 ## Release Images
 {{< imageGrid >}}

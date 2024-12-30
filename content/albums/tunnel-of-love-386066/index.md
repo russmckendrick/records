@@ -4,6 +4,7 @@ artist_name: "Bruce Springsteen"
 artist: "bruce-springsteen"
 album_name: "Tunnel Of Love"
 date: 2015-09-11T18:02:25.000000Z
+release_date: "1987-10-09"
 release_id: "386066"
 slug: "tunnel-of-love-386066"
 hideSummary: true
@@ -12,8 +13,8 @@ cover:
     alt: "Tunnel Of Love by Bruce Springsteen"
     caption: "Tunnel Of Love by Bruce Springsteen"
 additional_images:
-    - "https://i.discogs.com/qAPEKI1SXRmYKk7Go8Lg5cHvnREjzeQ0mXE7v5Ojt1w/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4NjA2/Ni0xNDkzODMxMjAz/LTM1MjYuanBlZw.jpeg"
-    - "https://i.discogs.com/TgPrYwMu0gpNtuJeD_OnUhyAzp8LRx65wGI3eLdZRuk/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4NjA2/Ni0xNDkzODMxMjA0/LTg3OTguanBlZw.jpeg"
+    - "https://i.discogs.com/6X9fhahxUTaupqCiPYDDFdnUJq_FNVAhjIbKoOkOfcw/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4NjA2/Ni0xNjg0MDk0MTU5/LTMwMTYucG5n.jpeg"
+    - "https://i.discogs.com/QJ4pnjawsdPnzukh7yjkSQrT9V6AXUAAbcz-9oVqTyE/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4NjA2/Ni0xNDkzODMxMjA0/LTg3OTguanBlZw.jpeg"
     - "https://i.discogs.com/mMKQUhF7kYwVcsrg6sezjrJeH5BV-QEjc_trus1_vXY/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4NjA2/Ni0xMTc0MTY4NTIy/LmpwZWc.jpeg"
     - "https://i.discogs.com/fItVNvyMJRh-7_fZUurYbHr7mWxR4dX1kDpbRJdQo2M/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4NjA2/Ni0xMTc0MTY4NTA1/LmpwZWc.jpeg"
     - "https://i.discogs.com/JrFG_EKSluEJU_ezCHLCMKCjpML2MPGwrs13WWYt238/rs:fit/g:sm/q:90/h:594/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4NjA2/Ni0xNDA4NDAyMDQz/LTUyMzguanBlZw.jpeg"
@@ -24,11 +25,15 @@ genres: ["Rock", "Pop"]
 styles: ["Soft Rock", "Pop Rock", "Ballad"]
 ---
 
-Tunnel of Love is the eighth studio album by American singer-songwriter Bruce Springsteen, released on October 9, 1987. Although members of the E Street Band occasionally performed on the album, Springsteen recorded most of the parts himself, often with drum machines and synthesizers. While the album's liner notes list the E Street Band members under that name, Shore Fire Media, Springsteen's public relations firm, does not count it as an E Street Band album and 2002's The Rising was advertised as his first studio album with the E Street Band since Born in the USA. The album won Best Rock Vocal Performance, Solo at the 1988 Grammy Awards.
-In 1989, the album was ranked #25 on Rolling Stone magazine's list of the "100 Best Albums of the Eighties" while in 2012, Rolling Stone ranked it at #467 on their list of the 500 greatest albums of all time. "Brilliant Disguise", "Tunnel of Love", "One Step Up", "Tougher Than the Rest", and "Spare Parts" were all released as singles.
+Bruce Springsteen has said that, after 20 years writing about the man on the road, he was ready to write about “the man in the house”. The result? <i>Tunnel of Love</i>, his eighth studio album, and his first since the success of <i>Born in the U.S.A.</i> Released in 1987, <i>Tunnel of Love</i> found Springsteen exploring his characters’ inner lives. It was a conscious attempt by Springsteen to grow and evolve as a songwriter, and to meet the needs of his maturing fanbase.
 
+The album was also a deliberate attempt to step back into a more introspective place after the intergalactic explosion of 1984’s <i>Born in the U.S.A.</i> Instead of hopping on the hamster wheel of pop stardom and trying to create what he viewed as the impossible goal of repeating his previous level of success, Springsteen wanted to direct the focus towards his work as a composer and songwriter—while also turning his attention to matters of the heart. <i>Tunnel of Love</i> turned out to be a deeply introspective collection of songs about men, women and their relationships. To this day, fans still refer to it as “the divorce album”, as Springsteen—who’d wind up splitting from wife Julianne Phillips nearly a year after <i>Tunnel of Love</i>’s release—basically wrote an entire record about his marriage falling apart.
 
-    
+But, as usual with Springsteen, the details are more complex than that. The album’s fulcrum is “Brilliant Disguise”, a poignant, lilting paean about the fragility of trust in a relationship, about the importance of vulnerability and about the delicate balance between the two. The album’s other songs delve into different views of this eternal quest for love and identity—some darker, some lighter: There’s the inner turmoil of “One Step Up”; the push and pull of commitment in “Tougher Than the Rest” or “All That Heaven Will Allow”; and the fear and emotional rollercoaster described in “Tunnel of Love” and “Spare Parts”.
+
+<i>Tunnel of Love</i> would be Springsteen’s final studio album of the 1980s, and it marked the start of a new phase in his career, personally <i>and</i> sonically: He did much of the instrumentation himself, with cameos from assorted E Street Band members on various songs. It was the first hint that the Boss and his ferocious bandmates were about to take a lengthy break—making this a “divorce album” in more ways than one.
+        
+        
     
 
 
@@ -51,23 +56,14 @@ In 1989, the album was ranked #25 on Rolling Stone magazine's list of the "100 B
 
 
 ## Videos
-### Ain't Got You
-{{< youtube id="5iO8d8m0esY" title="Ain't Got You" >}}<br>
+### Bruce Springsteen - Tunnel of Love [cassette]
+{{< youtube id="q4kOco548tE" title="Bruce Springsteen - Tunnel of Love [cassette]" >}}<br>
 ### More Videos
 
-- [VINYL « Nr. 6763 -1987 - (Sides 2) Bruce Springsteen – Tunnel Of Love](https://www.youtube.com/watch?v=4e_qcQVFtoQ)
-- [Bruce Springsteen - Tunnel Of Love [Cassette]](https://www.youtube.com/watch?v=x02Uesie3Pk)
-- [Tougher Than the Rest](https://www.youtube.com/watch?v=9XQX-zRVK-w)
-- [All That Heaven Will Allow](https://www.youtube.com/watch?v=XlMDSTeb4_w)
-- [Spare Parts](https://www.youtube.com/watch?v=mkFD8gmBWQc)
-- [Cautious Man](https://www.youtube.com/watch?v=QRHPkseMFnU)
-- [Walk Like a Man](https://www.youtube.com/watch?v=k2WDBy53x2k)
-- [Tunnel of Love](https://www.youtube.com/watch?v=SVynfAYk_0I)
+- [Bruce Springsteen - One Step Up (Official Video)](https://www.youtube.com/watch?v=MkFQHScyti0)
+- [Bruce Springsteen - Tunnel of Love (Official Video)](https://www.youtube.com/watch?v=M4K7XZGeHTE)
 - [Two Faces](https://www.youtube.com/watch?v=119sq2IIoiA)
-- [Brilliant Disguise](https://www.youtube.com/watch?v=vQVs36wfyaY)
-- [One Step Up](https://www.youtube.com/watch?v=hK0XsJ9GH1w)
-- [When You're Alone](https://www.youtube.com/watch?v=yj53o9pkKRo)
-- [Valentine's Day](https://www.youtube.com/watch?v=h5XgjPfL8KM)
+- [Bruce Springsteen - Tunnel of Love [cassette]](https://www.youtube.com/watch?v=q4kOco548tE)
 
 ## Release Images
 {{< imageGrid >}}
@@ -79,5 +75,5 @@ In 1989, the album was ranked #25 on Rolling Stone magazine's list of the "100 B
 | Format         | Vinyl LP Album Stereo |
 | Label          | CBS |
 | Catalog Number | CBS 460270 1 |
-| Notes | Issued with a printed inner sleeve with lyrics, pic and credits  Back cover: ℗ 1987 Bruce Springsteen/ / © 1987 Bruce Springsteen Printed in Holland / Imprimé en Hollande  Labels: Made in Holland  Inner sleeve: Recorded in New Jersey ("One Step Up" [B4] recorded at A&M Studios, Los Angeles, California) Mixed at A&M Studios, Los Angeles, California ("Tunnel of Love" [B1] mixed at The Hit Factory, New York City).  Additional Recording: The Hit Factory, New York City Kren Studio, Los Angeles, California A&M Studios, Los Angeles, California.  All recording and mixing on Sony Digital.  Mastering at Masterdisk, New York (on Neve Digital Console).  All music performed by Bruce Springsteen except where noted.  All songs © 1987 Bruce Springsteen (ASCAP)  Runouts: Side A is etched Side B is stamped except the sequence LX-B-III which is etched    |
+| Notes | Issued with a printed inner sleeve with lyrics, pic and credits  Back cover: ℗ 1987 Bruce Springsteen/ / © 1987 Bruce Springsteen Printed in Holland / Imprimé en Hollande  Labels: Made in Holland  Inner sleeve: Recorded in New Jersey ("One Step Up" [B4] recorded at A&M Studios, Los Angeles, California) Mixed at A&M Studios, Los Angeles, California ("Tunnel of Love" [B1] mixed at The Hit Factory, New York City).  Additional Recording: The Hit Factory, New York City Kren Studio, Los Angeles, California A&M Studios, Los Angeles, California.  All recording and mixing on Sony Digital.  Mastering at Masterdisk, New York (on Neve Digital Console).  All music performed by Bruce Springsteen except where noted.  All songs © 1987 Bruce Springsteen (ASCAP)  Runouts: Side A is etched Side B is stamped |
 | Discogs URL    | [Bruce Springsteen - Tunnel Of Love](https://www.discogs.com/release/386066-Bruce-Springsteen-Tunnel-Of-Love) |

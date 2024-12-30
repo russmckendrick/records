@@ -15,8 +15,8 @@ cover:
 additional_images:
     - "https://i.discogs.com/jI3gAEIaswogA7Cm9-5vH-gVV-A1G94M1WyxqHgBRR4/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcwNDAw/NTYtMTUzODk0ODcy/MS05NTY1LmpwZWc.jpeg"
     - "https://i.discogs.com/Av02Iwu3dlq6AyTD0EqhDaWK3BHdPY08Uxr-pR-Hk90/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcwNDAw/NTYtMTUzODk0ODcy/My00ODI3LmpwZWc.jpeg"
-    - "https://i.discogs.com/hd_1x21b1DQC4zhWmNwFSW34o1aCtADPsng6DxzkEF0/rs:fit/g:sm/q:90/h:609/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcwNDAw/NTYtMTUzODk0ODcy/MS0xMzk0LmpwZWc.jpeg"
-    - "https://i.discogs.com/Jw2wei3rs3dq5-cwUnQUQZpHNzSjW8-65p_73WPJdGs/rs:fit/g:sm/q:90/h:603/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcwNDAw/NTYtMTUzODk0ODcy/MS05MTI4LmpwZWc.jpeg"
+    - "https://i.discogs.com/t-O1aTqbbh8Zcn9vanN0njCDJiMmhWhMccggInk0K5I/rs:fit/g:sm/q:90/h:600/w:590/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcwNDAw/NTYtMTUzODk0ODcy/MS0xMzk0LmpwZWc.jpeg"
+    - "https://i.discogs.com/bUil2tLkYDRvKSEmGbZ1sEtm9wWQZtQ5Gd4lihAszNU/rs:fit/g:sm/q:90/h:600/w:596/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcwNDAw/NTYtMTUzODk0ODcy/MS05MTI4LmpwZWc.jpeg"
     - "https://i.discogs.com/HkWkP41UVV8yVEeQfucf36YvsUrsVR8hhLVH30KXOnA/rs:fit/g:sm/q:90/h:589/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcwNDAw/NTYtMTUzODk0ODcy/Mi0zMzgzLmpwZWc.jpeg"
     - "https://i.discogs.com/TDX7sQcidbGn6jinTum3lfNBiDizGpO5pI_PT0A_4KQ/rs:fit/g:sm/q:90/h:591/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcwNDAw/NTYtMTUzODk0ODcy/Mi0zNTE0LmpwZWc.jpeg"
     - "https://i.discogs.com/c4g2m47429XFVbtKy_akaC9pHND6UX4qREK_TzOuAPA/rs:fit/g:sm/q:90/h:589/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcwNDAw/NTYtMTUzODk0ODcy/NC04MDk3LmpwZWc.jpeg"
@@ -28,7 +28,9 @@ genres: ["Rock", "Blues"]
 styles: ["Acoustic"]
 ---
 
-Heartbreaker is the debut solo studio album by American singer/songwriter Ryan Adams, released September 5, 2000 on Bloodshot Records. The album was recorded over fourteen days at Woodland Studios in Nashville, Tennessee. It was nominated for the 2001 Shortlist Music Prize. The album is said to be inspired by Adams' break-up with music industry publicist Amy Lombardi.According to Adams, the album's title originates from a poster of Mariah Carey: "My manager called and said, 'You have 15 seconds to name this record,' "My eyes focused on this poster of Mariah wearing a T-shirt that said HEARTBREAKER. I just shouted, 'Heartbreaker!'"A Deluxe Edition, featuring bonus recording session takes and pre-album demos, was released on May 6, 2016 on PAX-AM records.
+Heartbreaker is the debut solo studio album by American singer-songwriter Ryan Adams, released on September 5, 2000, by Bloodshot Records. The album was recorded over fourteen days at Woodland Studios in Nashville, Tennessee. It was nominated for the 2001 Shortlist Music Prize. The album is said to be inspired by Adams' break-up with music industry publicist Amy Lombardi.
+According to Adams, the album's title originates from a poster of Mariah Carey: "My manager called and said, 'You have 15 seconds to name this record,' "My eyes focused on this poster of Mariah wearing a T-shirt that said HEARTBREAKER. I just shouted, 'Heartbreaker!'"
+A Deluxe Edition, featuring bonus recording session takes and pre-album demos, was released on May 6, 2016 on PAX-AM records.
         
         
     
@@ -60,18 +62,18 @@ Heartbreaker is the debut solo studio album by American singer/songwriter Ryan A
 {{< youtube id="-Z0o7zWtu_0" title="[Argument with David Rawlings Concerning Morrisey]" >}}<br>
 ### More Videos
 
-- [Ryan Adams, To Be Young (Is to Be Sad, Is to Be High)](https://www.youtube.com/watch?v=g_c1YM53Wwo)
-- [Ryan Adams, My Winding Wheel](https://www.youtube.com/watch?v=dfu5Tx9A_wo)
+- [Ryan Adams, "To Be Young (Is to Be Sad, Is to Be High)"](https://www.youtube.com/watch?v=g_c1YM53Wwo)
+- [Ryan Adams, "My Winding Wheel"](https://www.youtube.com/watch?v=dfu5Tx9A_wo)
 - [Ryan Adams - AMY (Heartbreaker)](https://www.youtube.com/watch?v=BvmORF7DLFM)
 - [Oh My Sweet Carolina](https://www.youtube.com/watch?v=eMZYRvDvgT4)
 - [Bartering Lines](https://www.youtube.com/watch?v=aKHyuoPriRQ)
-- [Ryan Adams, Call Me on Your Way Back Home](https://www.youtube.com/watch?v=BYrhG5g4Mc8)
+- [Ryan Adams, "Call Me on Your Way Back Home"](https://www.youtube.com/watch?v=BYrhG5g4Mc8)
 - [Ryan Adams - Damn, Sam (I Love A Woman That Rains)](https://www.youtube.com/watch?v=C0i3LyJXAjo)
 - [Ryan Adams - Come Pick Me Up](https://www.youtube.com/watch?v=kM0mjukDGRw)
-- [Ryan Adams, To Be the One](https://www.youtube.com/watch?v=hekcNSyhW9g)
-- [Ryan Adams, Why Do They Leave](https://www.youtube.com/watch?v=VGIFTHlJLO8)
-- [Ryan Adams, Shakedown on 9th Street](https://www.youtube.com/watch?v=aOV_WQLp1_M)
-- [Ryan Adams, Don't Ask for the Water](https://www.youtube.com/watch?v=s2aVfugHN5w)
+- [Ryan Adams, "To Be the One"](https://www.youtube.com/watch?v=hekcNSyhW9g)
+- [Ryan Adams, "Why Do They Leave"](https://www.youtube.com/watch?v=VGIFTHlJLO8)
+- [Ryan Adams, "Shakedown on 9th Street"](https://www.youtube.com/watch?v=aOV_WQLp1_M)
+- [Ryan Adams, "Don't Ask for the Water"](https://www.youtube.com/watch?v=s2aVfugHN5w)
 - [Ryan Adams - In My Time Of Need](https://www.youtube.com/watch?v=9mpBPs-IgQ4)
 - [Sweet Lil' gal (23rd/1st)](https://www.youtube.com/watch?v=DuL3Zx0hEFs)
 

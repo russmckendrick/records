@@ -18,7 +18,10 @@ genres: ["Rock"]
 styles: ["Pop Rock", "Prog Rock"]
 ---
 
-Anyone acquainted with the epic grandeur of this progressive rock trio's work in the ‘70s might be surprised to hear Rush so comfortable in the pop-rock world of the ‘80s. Yet, it makes great sense that a band constantly looking to re-invent itself would find comfort in the emergent technologies of the era. Geddy Lee's voice frequently comes down from the helium-screech end of his range to embrace a warmer, human tone and it's his extra keyboard washes that layer the intricacies of the songs. Drummer Neil Peart can still be heard functioning as both the steady metronomic beat box and a percussive wunderkind consistently surprising with his inventive fills. But the real emphasis here is on songwriting. "Time Stand Still" with ‘Til Tuesday's Aimee Mann doubling up the vocals, "Open Secrets," and "Turn the Page" are among the group's most rewarding. "Force Ten" is a techno-charged hard rocker that recalls the band's fiery early edge. "Lock and Key" and "Mission" use ethereal textures underneath rock brawn.
+Hold Your Fire is the twelfth studio album by Canadian progressive rock band Rush, released on September 8, 1987. It was recorded at The Manor Studio in Oxfordshire, Ridge Farm Studio in Surrey, AIR Studios in Montserrat and McClear Place in Toronto. Hold Your Fire was the last Rush studio album released outside Canada by PolyGram/Mercury. 'Til Tuesday bassist and vocalist Aimee Mann contributed vocals to "Time Stand Still" and appeared in the Zbigniew Rybczyński-directed video.  
+The album was not as commercially successful as most of the band's releases of the 1980s, peaking at number 13 on the Billboard charts, the lowest chart peak for a Rush album since 1978's Hemispheres. However, it was eventually certified Gold by the RIAA.
+
+
         
         
     
@@ -41,8 +44,8 @@ Anyone acquainted with the epic grandeur of this progressive rock trio's work in
 
 
 ## Videos
-### Rush - Lock And Key (Hold Your Fire) (German Repress CD)
-{{< youtube id="wbyZfD3umTM" title="Rush - Lock And Key (Hold Your Fire) (German Repress CD)" >}}<br>
+### Rush - Time Stand Still (Official Music Video)
+{{< youtube id="dMSFqXGZ5TQ" title="Rush - Time Stand Still (Official Music Video)" >}}<br>
 
 
 ## Release Images

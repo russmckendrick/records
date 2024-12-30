@@ -13,8 +13,9 @@ cover:
     caption: "One EP by Mansun"
 additional_images:
     - "https://i.discogs.com/5hgL37f7IyVslSWE9flpaRRf18DSYW7fQn1jMfzZlN0/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMjg1/NjEwLTE1MTM0NDA0/NzctMTUyMC5qcGVn.jpeg"
-    - "https://i.discogs.com/tZ-iutRxNCY5lRBQFCT_vhBsouD4vla2-_MhCVMmp3Y/rs:fit/g:sm/q:90/h:558/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMjg1/NjEwLTE2NzM0NzAx/OTYtNTU5My5qcGVn.jpeg"
-    - "https://i.discogs.com/Mm5gd20dNmcDptU-4sAS07FjNrF9f9Jug72ihbyhYAY/rs:fit/g:sm/q:90/h:556/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMjg1/NjEwLTE2NzM0NzAy/MTktMjIxNC5qcGVn.jpeg"
+    - "https://i.discogs.com/PKDn1mzwVM1EyPT8ieeHG1a1HzuOodLlTPfmNj5mb8U/rs:fit/g:sm/q:90/h:584/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMjg1/NjEwLTE2ODQyNjcw/NjgtNTA4Ni5qcGVn.jpeg"
+    - "https://i.discogs.com/Mxst2Tg0JlOHJ24dl4FC3wJR0p9HjokDZYNawdVEDJ4/rs:fit/g:sm/q:90/h:600/w:588/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMjg1/NjEwLTE2ODQyNjcw/NzItNjkwNC5qcGVn.jpeg"
+    - "https://i.discogs.com/6qZ_upvBAFm_CoKHbHdLkacuPeGL6QWuotSPTRjNln4/rs:fit/g:sm/q:90/h:600/w:276/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMjg1/NjEwLTE2ODQyNjcx/NTEtNzkxNC5qcGVn.jpeg"
 genres: ["Rock"]
 styles: ["Alternative Rock", "Indie Rock"]
 ---
@@ -28,13 +29,16 @@ styles: ["Alternative Rock", "Indie Rock"]
 4. Thief (3:03)
 
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/one-ep/1584010231" >}}<br>
+{{< applemusic url="https://music.apple.com/gb/album/1man-1sound-ep/1737695659" >}}<br>
 
 
 ## Videos
-### Mansun -  Egg Shaped Fred (official PV)
-{{< youtube id="xX29wha0bKw" title="Mansun -  Egg Shaped Fred (official PV)" >}}<br>
+### Egg Shaped Fred [Remastered]
+{{< youtube id="MNaFbl0mMMQ" title="Egg Shaped Fred [Remastered]" >}}<br>
+### More Videos
 
+- [Ski Jump Nose](https://www.youtube.com/watch?v=7po5fCmyUzY)
+- [Mansun - Lemonade Secret Drinker](https://www.youtube.com/watch?v=vEW_PJN2JZs)
 
 ## Release Images
 {{< imageGrid >}}

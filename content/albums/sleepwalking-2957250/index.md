@@ -17,6 +17,11 @@ genres: ["Rock"]
 styles: ["Indie Rock", "Alternative Rock"]
 ---
 
+Sleepwalking, also known as somnambulism or noctambulism, is a phenomenon of combined sleep and wakefulness. It is classified as a sleep disorder belonging to the parasomnia family. It occurs during the slow wave stage of sleep, in a state of low consciousness, with performance of activities that are usually performed during a state of full consciousness. These activities can be as benign as talking, sitting up in bed, walking to a bathroom, consuming food, and cleaning, or as hazardous as cooking, driving a motor vehicle, violent gestures and grabbing at hallucinated objects.
+Although sleepwalking cases generally consist of simple, repeated behaviors, there are occasionally reports of people performing complex behaviors while asleep, although their legitimacy is often disputed. Sleepwalkers often have little or no memory of the incident, as their consciousness has altered into a state in which memories are difficult to recall. Although their eyes are open, their expression is dim and glazed over. This may last from 30 seconds to 30 minutes.
+Sleepwalking occurs during slow-wave sleep (N3) of non-rapid eye movement sleep (NREM sleep) cycles. It typically occurs within the first third of the night when slow-wave sleep is most prominent. Usually, it will occur once in a night, if at all.
+    
+    
 
 
 ## Tracklisting
@@ -38,11 +43,11 @@ styles: ["Indie Rock", "Alternative Rock"]
 
 
 ## Videos
-### Playground Brutality Kingmaker
-{{< youtube id="8TT8tNF67v8" title="Playground Brutality Kingmaker" >}}<br>
+### Kingmaker - Queen Jane
+{{< youtube id="oyTtxrFYsmU" title="Kingmaker - Queen Jane" >}}<br>
 ### More Videos
 
-- [Kingmaker - Queen Jane](https://www.youtube.com/watch?v=oyTtxrFYsmU)
+- [Playground Brutality Kingmaker](https://www.youtube.com/watch?v=8TT8tNF67v8)
 - [Shiver](https://www.youtube.com/watch?v=3LiTYNB6tMc)
 - [I'm in Love](https://www.youtube.com/watch?v=jooIpqCnBJA)
 - [Tomorrow's World](https://www.youtube.com/watch?v=kmffdCUjWEs)
@@ -55,6 +60,7 @@ styles: ["Indie Rock", "Alternative Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
+| Wikipedia URL | https://en.wikipedia.org/wiki/Sleepwalking |
 | Format         | Vinyl LP Album |
 | Label          | Chrysalis |
 | Catalog Number | CHR 6014 |

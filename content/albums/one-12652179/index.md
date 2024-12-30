@@ -35,16 +35,18 @@ styles: ["Indie Rock"]
 10. Mantra (6:32)
 
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/one/1553879308" >}}<br>
+{{< applemusic url="https://music.apple.com/gb/album/dubstar-preludes-vol-1-ep/1529008332" >}}<br>
 
 
 ## Videos
-### Dubstar - Love Comes Late (Official Music Video)
-{{< youtube id="W3c4_v-wPw8" title="Dubstar - Love Comes Late (Official Music Video)" >}}<br>
+### Why Don't You Kiss Me
+{{< youtube id="vLk-EO4SjJs" title="Why Don't You Kiss Me" >}}<br>
 ### More Videos
 
-- [Why Don't You Kiss Me](https://www.youtube.com/watch?v=vLk-EO4SjJs)
+- [Dubstar - Love Comes Late (Official Music Video)](https://www.youtube.com/watch?v=W3c4_v-wPw8)
 - [Dubstar - You Were Never In Love (Official Video)](https://www.youtube.com/watch?v=9ORxgXkNb7w)
+- [Dubstar - You Were Never In Love (Official Video)](https://www.youtube.com/watch?v=9ORxgXkNb7w)
+- [Why Don't You Kiss Me](https://www.youtube.com/watch?v=vLk-EO4SjJs)
 
 ## Release Images
 {{< imageGrid >}}
@@ -56,4 +58,4 @@ styles: ["Indie Rock"]
 | Label          | Northern Writes |
 | Catalog Number | none |
 | Notes | Limited to 500 copies.  Comes with Mp3 download code card. |
-| Discogs URL    | [Dubstar - One](https://www.discogs.com/release/12652179-Dubstar-One) |
+| Discogs URL    | [Dubstar - One](https://www.discogs.com/release/12652179-Dubstar-2-One) |

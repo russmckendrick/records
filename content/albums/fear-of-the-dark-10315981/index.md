@@ -15,19 +15,19 @@ additional_images:
     - "https://i.discogs.com/l-dmqm8gq32M_POOeJ6GHf0pT1csVB7MboSpcd-JDU4/rs:fit/g:sm/q:90/h:585/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMzE1/OTgxLTE2Mjg0NzYz/NDMtOTE5NS5qcGVn.jpeg"
     - "https://i.discogs.com/foZ4OwxkpZ9GDX67Kd_MzwHof6HhCr7f86Z0sYGx-O0/rs:fit/g:sm/q:90/h:587/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMzE1/OTgxLTE2Mjg0NzYz/NzEtMzQyOC5qcGVn.jpeg"
     - "https://i.discogs.com/zrQWuHsD-L6cUdiaHgksus0N9T3bpX4rgOUSMhHFkGs/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMzE1/OTgxLTE2Mjg0NzY0/MjAtNTc3Mi5qcGVn.jpeg"
-    - "https://i.discogs.com/_H7BpLV_5RxPSWKNHQ33QDMhLXjD-uI88BCeFf4dbNs/rs:fit/g:sm/q:90/h:607/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMzE1/OTgxLTE2Mjg0NzYz/OTgtMTM1MC5qcGVn.jpeg"
-    - "https://i.discogs.com/PedyGvJ4XjTz2-N8yDu7btfKpYnh5h9IdABh32WRtIQ/rs:fit/g:sm/q:90/h:605/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMzE1/OTgxLTE1NzA1Njcz/MzgtNjkxNi5qcGVn.jpeg"
-    - "https://i.discogs.com/J1L793B9waRg4b2ab4UDUFxPE52zFwrmzBszjU-TLGw/rs:fit/g:sm/q:90/h:605/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMzE1/OTgxLTE1NzA1Njcz/MzgtNjIxOS5qcGVn.jpeg"
-    - "https://i.discogs.com/J9W5YN74Zrrcdks_e4cLo64LvKfLHs8bYzPu4tF2puk/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMzE1/OTgxLTE1NzA1Njcz/MzgtNDA0Ny5qcGVn.jpeg"
+    - "https://i.discogs.com/btDrU5MYAJwdUZDM5qyp3WUvgK3He8ySWu_UjJ7vqUU/rs:fit/g:sm/q:90/h:600/w:592/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMzE1/OTgxLTE2Mjg0NzYz/OTgtMTM1MC5qcGVn.jpeg"
+    - "https://i.discogs.com/WlGpLQpp6aYN2bXhSc2bX6iUussKrxzzlVK1aT4kDgA/rs:fit/g:sm/q:90/h:600/w:595/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMzE1/OTgxLTE1NzA1Njcz/MzgtNjkxNi5qcGVn.jpeg"
+    - "https://i.discogs.com/eVtO-FTcdFpw8YzhUipRy2YoTqRmXTZ609q2nOm0F1w/rs:fit/g:sm/q:90/h:600/w:595/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMzE1/OTgxLTE1NzA1Njcz/MzgtNjIxOS5qcGVn.jpeg"
+    - "https://i.discogs.com/5celMqe1UewaP1Acj0B8qYTjfndK1l1gepZNUrnxJw0/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMzE1/OTgxLTE1NzA1Njcz/MzgtNDA0Ny5qcGVn.jpeg"
     - "https://i.discogs.com/HGsIHOmDDnimYJHU3ErIeJhEUN80J-aNA4xW0fnmgv4/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMzE1/OTgxLTE1NzA1Njcz/MzgtNjUwNS5qcGVn.jpeg"
-    - "https://i.discogs.com/ywnfmoc5HUC2wskVoM0IBe4kAnqrcpY3mQPSBCO2DDA/rs:fit/g:sm/q:90/h:864/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMzE1/OTgxLTE1MDg3MjEz/NDUtMjUwNy5qcGVn.jpeg"
+    - "https://i.discogs.com/8ZQLfTa3ESXqxTOBcXPsUkPf45ilC080AcFzxiGOgiY/rs:fit/g:sm/q:90/h:600/w:416/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMzE1/OTgxLTE1MDg3MjEz/NDUtMjUwNy5qcGVn.jpeg"
     - "https://i.discogs.com/WFklEvGYQ-3gLVv8cwudS8_5YuUbRu5XgGRpSsuvw0o/rs:fit/g:sm/q:90/h:528/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMzE1/OTgxLTE1MDg3MjEy/MzgtOTU4My5qcGVn.jpeg"
     - "https://i.discogs.com/-1QCvf37dVsLchmqV3UFu_9Grot7IdoePjhPjt-lTdw/rs:fit/g:sm/q:90/h:155/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMzE1/OTgxLTE1MDg3MjEz/MTctMzkxMC5qcGVn.jpeg"
 genres: ["Rock"]
 styles: ["Heavy Metal"]
 ---
 
-Fear of the Dark is the ninth studio album released by English heavy metal band Iron Maiden. Released on 11 May 1992, it was their third studio release to top the UK Albums Chart, and the last to feature Bruce Dickinson as the group's lead vocalist until his return in 1999.
+Fear of the Dark is the ninth studio album by English heavy metal band Iron Maiden. Released on 11 May 1992, it was their third studio release to top the UK Albums Chart, and the last to feature Bruce Dickinson as the group's lead vocalist until his return in 1999.
 It was also the first album to be produced by bassist and band founder Steve Harris, and the last album to feature the work of producer Martin Birch, who retired after its release.
 
 
@@ -54,9 +54,21 @@ It was also the first album to be produced by bassist and band founder Steve Har
 
 
 ## Videos
-### CD / Iron Maiden - Fear Of The Dark / 1992
-{{< youtube id="VuKoiD423q8" title="CD / Iron Maiden - Fear Of The Dark / 1992" >}}<br>
+### Iron Maiden - Be Quick Or Be Dead (Official Video)
+{{< youtube id="CTt1vk9nM9c" title="Iron Maiden - Be Quick Or Be Dead (Official Video)" >}}<br>
+### More Videos
 
+- [Iron Maiden - From Here To Eternity (Official Video)](https://www.youtube.com/watch?v=MhUUTvgjUFQ)
+- [Iron Maiden - Afraid To Shoot Strangers (Official Video)](https://www.youtube.com/watch?v=0c9iYZdsZMM)
+- [Fear Is the Key (2015 Remaster)](https://www.youtube.com/watch?v=SOledhOU05c)
+- [Childhood's End (2015 Remaster)](https://www.youtube.com/watch?v=W29NlxCZxb0)
+- [Iron Maiden - Wasting Love (Official Video)](https://www.youtube.com/watch?v=SbWeP7KkeCU)
+- [The Fugitive (2015 Remaster)](https://www.youtube.com/watch?v=WG6_gYpgH3I)
+- [Chains of Misery (2015 Remaster)](https://www.youtube.com/watch?v=xmi8p8KncCE)
+- [The Apparition (2015 Remaster)](https://www.youtube.com/watch?v=KcJlkqMC7dg)
+- [Judas Be My Guide (2015 Remaster)](https://www.youtube.com/watch?v=dnm2rA0KYOA)
+- [Weekend Warrior (2015 Remaster)](https://www.youtube.com/watch?v=FOOJF_RGu4s)
+- [Fear of the Dark (2015 Remaster)](https://www.youtube.com/watch?v=bePCRKGUwAY)
 
 ## Release Images
 {{< imageGrid >}}

@@ -16,11 +16,11 @@ additional_images:
     - "https://i.discogs.com/BgxOWxzUiChNKsNSiYcuPfOgOUS0lsFD1TuhMYND69w/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNTE0/OTktMTYwMjI1Mjc1/MS01NDc2LmpwZWc.jpeg"
     - "https://i.discogs.com/4paN0XQTCDN4bZ349ywzSPSv4rtdNureSTs2rQTigOA/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNTE0/OTktMTYwMjI1Mjcz/OC01MzU0LmpwZWc.jpeg"
     - "https://i.discogs.com/Mvpp-afk8nc1-dK4erTICpU56vV9xi0h_Pd3MoaHiV8/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNTE0/OTktMTYwMjI1Mjc1/MC05MzA3LmpwZWc.jpeg"
-    - "https://i.discogs.com/VgDtJpD75Df07kevBqtg-7ZikffygihyM_kD55z2rBw/rs:fit/g:sm/q:90/h:602/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNTE0/OTktMTYwMjI1Mjc0/OC01Nzk5LmpwZWc.jpeg"
-    - "https://i.discogs.com/TcLKJ1YZKyPRIGeehhsNbqSSMXwst6EQlxzLsAKr4Cw/rs:fit/g:sm/q:90/h:605/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNTE0/OTktMTYwMjI1Mjc1/Mi02Njg3LmpwZWc.jpeg"
+    - "https://i.discogs.com/AQG-P8yofKru0ur64XrAVBni9OMDGvdMHmR6EMXQtFw/rs:fit/g:sm/q:90/h:600/w:597/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNTE0/OTktMTYwMjI1Mjc0/OC01Nzk5LmpwZWc.jpeg"
+    - "https://i.discogs.com/jksrrO29KOclyRwQErBYEuKtobWPZX8Xxo7pj-TTi0o/rs:fit/g:sm/q:90/h:600/w:594/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNTE0/OTktMTYwMjI1Mjc1/Mi02Njg3LmpwZWc.jpeg"
     - "https://i.discogs.com/jd1DO8N-_sKEJWXmozIv-hMgxqIp0O10FsJ8BgwPmKg/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNTE0/OTktMTYwMjI1Mjc0/NS05MDcwLmpwZWc.jpeg"
-    - "https://i.discogs.com/ZN6X3rR5MIJ-xpeOaYOs3TRvLmrUuXTEAWrMFSO0MoE/rs:fit/g:sm/q:90/h:603/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNTE0/OTktMTYwMjI1Mjc0/MS01MjQyLmpwZWc.jpeg"
-    - "https://i.discogs.com/yzf4TqRZFnITSkv4eamna5Qz1kzp5JUnepyWM0isY_I/rs:fit/g:sm/q:90/h:604/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNTE0/OTktMTYwMjI1Mjc1/MC0xODgwLmpwZWc.jpeg"
+    - "https://i.discogs.com/lvuMM4X9OJ4-pJWv2cUcRj2RNXM6ddSI4yVYfejV9eY/rs:fit/g:sm/q:90/h:600/w:596/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNTE0/OTktMTYwMjI1Mjc0/MS01MjQyLmpwZWc.jpeg"
+    - "https://i.discogs.com/TMo8vou-hGoQjW8dWYQ46fc7ZsO3KI3yIZA5jH0jE6Q/rs:fit/g:sm/q:90/h:600/w:595/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNTE0/OTktMTYwMjI1Mjc1/MC0xODgwLmpwZWc.jpeg"
     - "https://i.discogs.com/ZhyywqCfFYtv0G1vy1H1PazbZ4ARUcDLyr2T02xa0Ms/rs:fit/g:sm/q:90/h:594/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNTE0/OTktMTYwMjI1Mjc1/MS00NjcxLmpwZWc.jpeg"
     - "https://i.discogs.com/nR0v952Xvi0ksC1a5ouvjTkhaBRu2WJ5EnQ7hyceh3g/rs:fit/g:sm/q:90/h:588/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNTE0/OTktMTYwMjI1Mjc1/MS01OTcyLmpwZWc.jpeg"
     - "https://i.discogs.com/wG7Hw7Ai4w837vyvfQVbWG04efNwGCjcQBM_Ca4eZeY/rs:fit/g:sm/q:90/h:335/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNTE0/OTktMTYwMjI1Mjc0/OC0xNTc1LmpwZWc.jpeg"
@@ -30,33 +30,33 @@ genres: ["Electronic", "Rock"]
 styles: ["Indie Rock", "Alternative Rock"]
 ---
 
-The Greatest is the first compilation album from British musician Ian Brown, lead singer of The Stone Roses. It was released on 12 September 2005 and covers material from his first four albums plus two new tracks, "All Ablaze" and "Return of the Fisherman". "All Ablaze" was released as a single on 5 September 2005.
+The Greatest is the first compilation album from British musician Ian Brown, lead singer of the Stone Roses. It was released on 12 September 2005 and covers material from his first four albums plus two new tracks, "All Ablaze" and "Return of the Fisherman". "All Ablaze" was released as a single on 5 September 2005.
 The compilation was released in a single disc Standard Edition and two disc Limited Edition; the latter includes extended liner notes in book-sized packaging.
     
     
 
 
 ## Tracklisting
-1. My Star (Album Version) (5:23)
-2. Corpses In Their Mouths (Album Version) (4:11)
-3. Can't See Me (Bacon & Quarmby Remix) (3:57)
+1. My Star (Album Version) (5:13)
+2. Corpses In Their Mouths (Album Version) (4:09)
+3. Can't See Me (Bacon & Quarmby Remix) (3:56)
 4. Be There (5:16)
 5. Love Like A Fountain (Single Version) (3:31)
-6. Dolphins Were Monkeys (Single Version) (2:57)
-7. Golden Gaze (Single Version) (3:11)
-8. F.E.A.R. (Album Version) (4:30)
+6. Dolphins Were Monkeys (Single Version) (2:55)
+7. Golden Gaze (Single Version) (3:09)
+8. F.E.A.R. (Album Version) (4:29)
 9. Whispers (Album Version) (3:56)
 10. Forever And A Day (The Greatest Version) (3:03)
-11. Keep What Ya Got (Album Version) (4:29)
-12. Time Is My Everything (Album Version) (3:53)
+11. Keep What Ya Got (Album Version) (4:28)
+12. Time Is My Everything (Album Version) (3:52)
 13. Longsight M13 (Album Version) (3:12)
-14. Reign (5:33)
+14. Reign (5:32)
 15. Lovebug (The Greatest Version) (3:12)
-16. All Ablaze (The Album Version) (4:07)
-17. Return Of The Fisherman (The Album Version) (4:19)
+16. All Ablaze (The Album Version) (4:29)
+17. Return Of The Fisherman (The Album Version) (4:17)
 
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/ian-brown-the-greatest/1442516060" >}}<br>
+{{< applemusic url="https://music.apple.com/gb/album/ian-brown-the-greatest/1445740062" >}}<br>
 
 
 ## Videos
@@ -65,10 +65,7 @@ The compilation was released in a single disc Standard Edition and two disc Limi
 ### More Videos
 
 - [Ian Brown - Time Is My Everything](https://www.youtube.com/watch?v=jW6cLKlKOek)
-- [Ian Brown - Music of the Spheres (Full Album)](https://www.youtube.com/watch?v=aUn2KH5ORyM)
 - [Ian Brown - Dolphins Were Monkeys](https://www.youtube.com/watch?v=kPIIlm24-lk)
-- [Ian Brown - Billie Jean](https://www.youtube.com/watch?v=LC2lidZxymA)
-- [Ian Brown - Thriller (Michael Jackson cover)](https://www.youtube.com/watch?v=L5vwuhnM1QQ)
 
 ## Release Images
 {{< imageGrid >}}
@@ -80,5 +77,5 @@ The compilation was released in a single disc Standard Edition and two disc Limi
 | Format         | Vinyl 2× LP Compilation |
 | Label          | Polydor |
 | Catalog Number | 987 289-0 |
-| Notes | Made in the EU. |
+| Notes | Made in the EU. Runouts are etched. |
 | Discogs URL    | [Ian Brown - The Greatest](https://www.discogs.com/release/1051499-Ian-Brown-The-Greatest) |

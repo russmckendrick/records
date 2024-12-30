@@ -12,7 +12,7 @@ cover:
     alt: "Tones Of Town by Field Music"
     caption: "Tones Of Town by Field Music"
 additional_images:
-    - "https://i.discogs.com/sBgGBYD2jwlXxZWxlwI_oI4P5wGz3f2xETBcEh5xBOU/rs:fit/g:sm/q:90/h:603/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMTcz/OTM4LTE1NjM5ODkz/ODgtNTMwMy5qcGVn.jpeg"
+    - "https://i.discogs.com/szDZJMw14MTCsgAWR_-fFQfUh11zEozEQQFon70cOLg/rs:fit/g:sm/q:90/h:600/w:597/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMTcz/OTM4LTE1NjM5ODkz/ODgtNTMwMy5qcGVn.jpeg"
     - "https://i.discogs.com/66PF1IOWL90G59AZFyxGYwBUoB9nM9TpJIVocC6S9UI/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMTcz/OTM4LTE1NjM5ODkz/OTAtMTk5Ni5qcGVn.jpeg"
     - "https://i.discogs.com/55C0TJ_Cosa4frNlKZhYSEsGBIwVVEMRq7ged0LNtG8/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMTcz/OTM4LTE0OTI4NzIw/ODctMjAwMy5qcGVn.jpeg"
 genres: ["Rock"]

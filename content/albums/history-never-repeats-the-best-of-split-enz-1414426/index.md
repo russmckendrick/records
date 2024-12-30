@@ -35,15 +35,18 @@ styles: ["New Wave"]
 10. Dirty Creature (4:02)
 11. Poor Boy (3:26)
 
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/waiata/1442252874" >}}<br>
 
 
 ## Videos
-### Split Enz - Message To My Girl (1984)
-{{< youtube id="YUC_jE78FNE" title="Split Enz - Message To My Girl (1984)" >}}<br>
+### Split Enz - History Never Repeats (Video)
+{{< youtube id="TvBVcLMkhFE" title="Split Enz - History Never Repeats (Video)" >}}<br>
 ### More Videos
 
-- [Split Enz - I Got You (1980)](https://www.youtube.com/watch?v=YmQlBfxh4Us)
 - [Split Enz - History Never Repeats (Video)](https://www.youtube.com/watch?v=TvBVcLMkhFE)
+- [Split Enz - Message To My Girl (1984)](https://www.youtube.com/watch?v=YUC_jE78FNE)
+- [Split Enz - I Got You (1980)](https://www.youtube.com/watch?v=YmQlBfxh4Us)
 
 ## Release Images
 {{< imageGrid >}}

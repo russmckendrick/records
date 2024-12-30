@@ -14,20 +14,23 @@ cover:
 additional_images:
     - "https://i.discogs.com/TH9Cfp-a_Ub2aEyhZ7cFnab1JruIzI9Pfj1A5r99AmQ/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NjEw/MTE3LTE2MjE2OTg2/NzUtMjI1NC5qcGVn.jpeg"
     - "https://i.discogs.com/Y5_WAYVnDxzYZAYwzkn1wEDuolecLv36NgXDwprsaUU/rs:fit/g:sm/q:90/h:295/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NjEw/MTE3LTE2MjE2OTg3/MTYtNDI2OC5qcGVn.jpeg"
-    - "https://i.discogs.com/_kRBb54alWxDf-2QZG0eArfFTXtP3_vkTzcPXKV2Ekg/rs:fit/g:sm/q:90/h:609/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NjEw/MTE3LTE2MjE2OTg3/MTQtMzA0MC5qcGVn.jpeg"
+    - "https://i.discogs.com/5aAb48m39EfPLexG3KAfPlDzNHYpOSWCetnXydZZnL8/rs:fit/g:sm/q:90/h:600/w:590/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NjEw/MTE3LTE2MjE2OTg3/MTQtMzA0MC5qcGVn.jpeg"
     - "https://i.discogs.com/1bHbu91fjZaF4ybPZktnqTKS5Kuy3jBNNLorFGNi7dI/rs:fit/g:sm/q:90/h:585/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NjEw/MTE3LTE2MjE0MzA4/MjUtNTIyMi5qcGVn.jpeg"
     - "https://i.discogs.com/MIk7P5M2IJT9vdTtbM8vKqCbp5uzrZvkAdvRg_LJewg/rs:fit/g:sm/q:90/h:592/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NjEw/MTE3LTE2MjE0MzA4/MTktNTAwMy5qcGVn.jpeg"
-    - "https://i.discogs.com/AWcGT7XxYD4gr6HfrubNkXybeY0oJwyL3xb5bHIE_Aw/rs:fit/g:sm/q:90/h:608/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NjEw/MTE3LTE2MjE0MzA4/MTUtNzY1MC5qcGVn.jpeg"
-    - "https://i.discogs.com/v_wx9A-ExdT5DMz4Q890Z6aqoWDagffK3TTbIlqGlg4/rs:fit/g:sm/q:90/h:601/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NjEw/MTE3LTE2MjE0MzA4/MjUtNjg5My5qcGVn.jpeg"
+    - "https://i.discogs.com/7fNOprJA2MaPYIfn8OCxTUWeSBi8JFuzLeLLKEnvtHI/rs:fit/g:sm/q:90/h:600/w:591/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NjEw/MTE3LTE2MjE0MzA4/MTUtNzY1MC5qcGVn.jpeg"
+    - "https://i.discogs.com/ZpCwAQviT9NLJGgZRQNAO6564_3T2W26AavtSTxJqxo/rs:fit/g:sm/q:90/h:600/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NjEw/MTE3LTE2MjE0MzA4/MjUtNjg5My5qcGVn.jpeg"
     - "https://i.discogs.com/62hR4ChQtWCMCqTC_pvYFseQOWcu5fX8vr-klWJyIJA/rs:fit/g:sm/q:90/h:591/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NjEw/MTE3LTE2MjE2OTg3/MTUtNzQ3NS5qcGVn.jpeg"
-    - "https://i.discogs.com/S_-zTDRVVtVV-zXIICW9GSk1rAPoAUBmxjmPPlq5_oc/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NjEw/MTE3LTE2MjE2OTg3/MTUtNDU5MS5qcGVn.jpeg"
+    - "https://i.discogs.com/mDucue6aVUJGpLPfL4ub1QGCOR108OD1009vidOvIBc/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NjEw/MTE3LTE2MjE2OTg3/MTUtNDU5MS5qcGVn.jpeg"
     - "https://i.discogs.com/NCdw-XHQXHZ9GUrxptWvZ4eyAiVLLqMo5a8j1mY1yeM/rs:fit/g:sm/q:90/h:592/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NjEw/MTE3LTE2MjE2OTg3/MTYtODEwNS5qcGVn.jpeg"
-    - "https://i.discogs.com/MtkKuLlgrGJHPEfzuKxzEQws9TrhajtjKQfkFvA_7Ig/rs:fit/g:sm/q:90/h:601/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NjEw/MTE3LTE2MjE2OTg3/MTQtODM3Ny5qcGVn.jpeg"
+    - "https://i.discogs.com/tGur-YcHQwbKUI6kKEzha5v3gjw-UOy3bxkdr_eAsFY/rs:fit/g:sm/q:90/h:600/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NjEw/MTE3LTE2MjE2OTg3/MTQtODM3Ny5qcGVn.jpeg"
     - "https://i.discogs.com/rYPcJmXl11XabL7cZHyvSGIAX3928EByNPZyeroiaBo/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NjEw/MTE3LTE2MjE2OTg3/MTEtNDc2MS5qcGVn.jpeg"
 genres: ["Rock", "Reggae"]
 styles: ["Punk", "Ska"]
 ---
 
+When God Was Great is the eleventh and final studio album by the Boston ska punk band the Mighty Mighty Bosstones. It was released in 2021 on Hellcat, the band's only album with the label. The album was co-produced by Hellcat founder and Rancid member Tim Armstrong. The album was preceded by the singles and music videos for "The Final Parade", "I Don't Believe in Anything" and "The Killing of Georgie (Part III)".
+    
+    
 
 
 ## Tracklisting
@@ -52,12 +55,9 @@ styles: ["Punk", "Ska"]
 
 
 ## Videos
-### The Mighty Mighty BossToneS - I DON'T BELIEVE IN ANYTHING
-{{< youtube id="fsOq0-tdQkA" title="The Mighty Mighty BossToneS - I DON'T BELIEVE IN ANYTHING" >}}<br>
-### More Videos
+### The Mighty Mighty BossToneS - "I DON'T BELIEVE IN ANYTHING"
+{{< youtube id="fsOq0-tdQkA" title="The Mighty Mighty BossToneS - "I DON'T BELIEVE IN ANYTHING"" >}}<br>
 
-- [The Mighty Mighty BossToneS - THE FINAL PARADE (Lyric Video)](https://www.youtube.com/watch?v=WcwNZLgVE1g)
-- [The Mighty Mighty BossToneS - I DON'T BELIEVE IN ANYTHING](https://www.youtube.com/watch?v=USUEiyKJJjs)
 
 ## Release Images
 {{< imageGrid >}}
@@ -65,6 +65,7 @@ styles: ["Punk", "Ska"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
+| Wikipedia URL | https://en.wikipedia.org/wiki/When_God_Was_Great |
 | Format         | Vinyl 2× LP Album Limited Edition (Red With Yellow Splatter) |
 | Label          | Hellcat Records |
 | Catalog Number | 0539-1 |

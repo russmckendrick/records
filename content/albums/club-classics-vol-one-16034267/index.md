@@ -4,7 +4,6 @@ artist_name: "Soul II Soul"
 artist: "soul-ii-soul"
 album_name: "Club Classics Vol. One"
 date: 2020-10-16T10:31:44.000000Z
-release_date: "1989-04-10"
 release_id: "16034267"
 slug: "club-classics-vol-one-16034267"
 hideSummary: true
@@ -19,16 +18,12 @@ additional_images:
     - "https://i.discogs.com/cGsMaX9dKgr8j30LOc_XSYpvHleXYTgil6PpqLMVqJc/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MDM0/MjY3LTE2MDM2NDQ3/NTgtOTk5Ni5qcGVn.jpeg"
     - "https://i.discogs.com/uaGsj3DCaUoF_SCKSZ6YRronXb7d6tAIaTlqHeOVDsA/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MDM0/MjY3LTE2MDM2NDQ3/MjAtNTkzOC5qcGVn.jpeg"
     - "https://i.discogs.com/JsJmB27l0L_LLu__IgrEj4ZpJ4c3K7zpWguzIsgniiY/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MDM0/MjY3LTE2MDM2NDQ3/MzMtNDg4OC5qcGVn.jpeg"
-    - "https://i.discogs.com/AN0tZtA6reM11UwR2IHfim5V2kWoGTByPAJpGjQl1Ys/rs:fit/g:sm/q:90/h:609/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MDM0/MjY3LTE2MDI2ODY5/OTItODU2Mi5qcGVn.jpeg"
-    - "https://i.discogs.com/LjJfJzBgr38kfrSv5WQo909inctnfLZvvSqddfQoUqw/rs:fit/g:sm/q:90/h:611/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MDM0/MjY3LTE2MDI2ODY5/OTYtNTA1OC5qcGVn.jpeg"
+    - "https://i.discogs.com/acftZEUrhoUtx-zAcMmE9Nu-inNvSq0QTMFNr2DYWrk/rs:fit/g:sm/q:90/h:600/w:590/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MDM0/MjY3LTE2MDI2ODY5/OTItODU2Mi5qcGVn.jpeg"
+    - "https://i.discogs.com/mVJ6FEjdqbVCRVzO-_ENVBZtG5pXztaUTuYEXt5puVQ/rs:fit/g:sm/q:90/h:600/w:588/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MDM0/MjY3LTE2MDI2ODY5/OTYtNTA1OC5qcGVn.jpeg"
 genres: ["Hip Hop", "Jazz", "Funk / Soul", "Pop"]
 styles: []
 ---
 
-“What is Soul II Soul?” the London collective’s lynchpin Jazzie B ponders on “Jazzie’s Groove”. “Well, we’re a soundsystem, an amalgamation of good dance music.” In hindsight, it’s a deceptively modest appraisal. This album did far more than aggregate the sounds of late-’80s London club life—it completely reset the possibilities for dance music and revitalised a UK soul and R&B scene that was in thrall to what was happening across the Atlantic. By the time Virgin Records approached them with the idea of making an album, Soul II Soul were already a multi-armed enterprise: a soundsystem, a clothing brand (with its own shop) and a club night so popular that they occasionally had to ask punters to leave halfway through so the queues outside could be let in. A broth of soul, R&B, house, hip-hop and Afrobeat, <i>Club Classics Vol. One</i> channelled the diversity and innovation of the capital’s underground dance scene. It’s all emboldened by superb but, at that time, little-known singers including Caron Wheeler and Rose Windross, and infused with an Afrocentric spirit of positivity and inclusiveness.<br />
-That sound bore an immediate and enduring influence on UK music. Just as the Soul II Soul club nights offered a more serene alternative to the accelerating BPMs of warehouse parties, “Keep On Movin’” laid ground for trip-hop with its strings, spaciousness and unhurried breakbeats. And “African Dance” predicted London’s Afroswing explosion 30 years in advance by cross-pollinating Afrobeat with multiple strains of house. With “Back to Life (However Do You Want Me)”,  a retooling of swingbeat assisted by the Reggae Philharmonic Orchestra, topping the UK singles charts, a route from the reggae soundsystems to the mainstream had been drawn. It was one that, over the coming decades, garage, jungle and dubstep would follow.
-    
-    
 
 
 ## Tracklisting
@@ -44,21 +39,22 @@ That sound bore an immediate and enduring influence on UK music. Just as the Sou
 10. Jazzie's Groove (2:42)
 
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/club-classics-vol-one/724011185" >}}<br>
+{{< applemusic url="https://music.apple.com/gb/album/club-classics-vol-1/723622157" >}}<br>
 
 
 ## Videos
-### Soul II Soul ‎– Club Classics Vol.  One (1989)
-{{< youtube id="rAGZnmVOpJQ" title="Soul II Soul ‎– Club Classics Vol.  One (1989)" >}}<br>
+### Soul II Soul - Fairplay (Official Video)
+{{< youtube id="WaZtVZuqNcI" title="Soul II Soul - Fairplay (Official Video)" >}}<br>
 ### More Videos
 
-- [Soul II Soul - Fairplay (Official Video)](https://www.youtube.com/watch?v=WaZtVZuqNcI)
-- [Feel Free](https://www.youtube.com/watch?v=Ighc6cJKyWs)
 - [Soul II Soul - Keep On Movin' (Official Video)](https://www.youtube.com/watch?v=1iQl46-zIcM)
 - [Soul II Soul - Back To Life (However Do You Want Me) (Official Music Video)](https://www.youtube.com/watch?v=TB54dZkzZOY)
-- [Soul II Soul - Feeling Free](https://www.youtube.com/watch?v=QDble9Z7pDs)
 - [Soul II Soul - Jazzie's Groove](https://www.youtube.com/watch?v=_FtrDBpl0WI)
+- [Soul II Soul - Feeling Free](https://www.youtube.com/watch?v=QDble9Z7pDs)
+- [Soul II Soul - African Dance](https://www.youtube.com/watch?v=DzBlSj-y-Rk)
+- [Soul II Soul ‎– Club Classics Vol.  One (1989)](https://www.youtube.com/watch?v=rAGZnmVOpJQ)
 - [Happiness (Dub)](https://www.youtube.com/watch?v=X_W2zyhwzMg)
+- [Soul II Soul ‎– Club Classics Vol.  One (1989)](https://www.youtube.com/watch?v=rAGZnmVOpJQ)
 
 ## Release Images
 {{< imageGrid >}}

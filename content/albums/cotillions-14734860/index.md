@@ -35,30 +35,32 @@ styles: ["Bluegrass"]
 
 
 ## Tracklisting
-1. To Scatter One's Own
-2. Hard Times
-3. Jubilee
-4. Fragile, The Spark
-5. Cotillions
-6. Faithless Darlin'
-7. Colosseum
-8. Martinets
-9. Buffalo Boys
-10. Dancehall
-11. Cri De Coeur
-12. Like Lambs
-13. Rider
-14. Apologia
-15. Neptulius
-16. 6+7
-17. Anon
+1. To Scatter One's Own (4:15)
+2. Hard Times (3:11)
+3. Jubilee (5:04)
+4. Fragile, The Spark (2:42)
+5. Cotillions (5:08)
+6. Faithless Darlin' (3:01)
+7. Colosseum (3:33)
+8. Martinets (2:55)
+9. Buffalo Boys (2:54)
+10. Dancehall (4:30)
+11. Cri De Coeur (3:56)
+12. Like Lambs (3:38)
+13. Rider (3:01)
+14. Apologia (3:08)
+15. Neptulius (4:09)
+16. 6+7 (4:14)
+17. Anon (2:07)
 
 
 
 ## Videos
 ### Cotillions
 {{< youtube id="lHKIJoDB0zQ" title="Cotillions" >}}<br>
+### More Videos
 
+- [Cotillions](https://www.youtube.com/watch?v=lHKIJoDB0zQ)
 
 ## Release Images
 {{< imageGrid >}}
@@ -69,4 +71,5 @@ styles: ["Bluegrass"]
 | Format         | Vinyl 2× LP Album Stereo (Smoke Translucent Marble, Gatefold) |
 | Label          | Martha's Music |
 | Catalog Number | MM001WPC |
+| Notes | Track durations do not appear on the release.  Made in the EU. |
 | Discogs URL    | [WPC - Cotillions](https://www.discogs.com/release/14734860-William-Patrick-Corgan-Cotillions) |

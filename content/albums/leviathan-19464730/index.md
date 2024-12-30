@@ -42,19 +42,7 @@ styles: ["Ambient", "Drone", "Deep Techno"]
 {{< applemusic url="https://music.apple.com/gb/album/leviathan/1566407448" >}}<br>
 
 
-## Videos
-### The Grid / Fripp - Empire
-{{< youtube id="pR9Ig8JhffE" title="The Grid / Fripp - Empire" >}}<br>
-### More Videos
 
-- [The Grid / Fripp - Milkwood](https://www.youtube.com/watch?v=P_oQuB49VnA)
-- [The Grid / Fripp - Pulse Detected](https://www.youtube.com/watch?v=gllVSMQBR7c)
-- [The Grid / Fripp - Loom](https://www.youtube.com/watch?v=UAOmlMLkd8w)
-- [The Grid / Fripp - Leviathan](https://www.youtube.com/watch?v=ylNNEx6GUNw)
-- [The Grid / Fripp - After The Rain](https://www.youtube.com/watch?v=VuyDihMwHSY)
-- [The Grid / Fripp - Fire Tower](https://www.youtube.com/watch?v=kp03NRe_tOs)
-- [The Grid / Fripp - Zhora](https://www.youtube.com/watch?v=9ClPw6JWGPM)
-- [The Grid / Fripp - Sympatico](https://www.youtube.com/watch?v=MinRXsxINRg)
 
 ## Release Images
 {{< imageGrid >}}

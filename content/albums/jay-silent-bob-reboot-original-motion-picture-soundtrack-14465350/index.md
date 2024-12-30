@@ -12,10 +12,10 @@ cover:
     alt: "Jay & Silent Bob Reboot (Original Motion Picture Soundtrack) by Various"
     caption: "Jay & Silent Bob Reboot (Original Motion Picture Soundtrack) by Various"
 additional_images:
-    - "https://i.discogs.com/Z77Y_lEfXSTO611oXn_MtaLBGEsjsYN52ZasJhA5qrc/rs:fit/g:sm/q:90/h:602/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NDY1/MzUwLTE1NzUwODc2/MjktNzkyNy5qcGVn.jpeg"
-    - "https://i.discogs.com/BdKOWKMN-EteiAK6F0IGC0jL0paEfTM6kLgI69IsmWI/rs:fit/g:sm/q:90/h:603/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NDY1/MzUwLTE1NzUwODc2/MjgtNDU5Ny5qcGVn.jpeg"
+    - "https://i.discogs.com/mmD9EzUyN5rbHmVIoy8JY6TAfZqqjWfvwsuZw3ghc5E/rs:fit/g:sm/q:90/h:600/w:597/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NDY1/MzUwLTE1NzUwODc2/MjktNzkyNy5qcGVn.jpeg"
+    - "https://i.discogs.com/5SSJzSDkVWtFyY7ceZMtpGQMQVLsmCDWO_xPlBMIWIc/rs:fit/g:sm/q:90/h:600/w:596/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NDY1/MzUwLTE1NzUwODc2/MjgtNDU5Ny5qcGVn.jpeg"
     - "https://i.discogs.com/CfBa5WltNPLUQQXAdcYYhkXnn_NWUDvOzR5fU7QAak0/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NDY1/MzUwLTE1NzUwODc2/MjgtNzc2OS5qcGVn.jpeg"
-    - "https://i.discogs.com/K2VDG903Lok07Q916SKHyVGixn3qJPq8daFxYQYmSck/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NDY1/MzUwLTE1NzUwODc2/MjgtMjkwOC5qcGVn.jpeg"
+    - "https://i.discogs.com/0jkd88bxoNfYgFp6uWl8uh7oOEVcRmnLJxRlt1pPQ9k/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NDY1/MzUwLTE1NzUwODc2/MjgtMjkwOC5qcGVn.jpeg"
     - "https://i.discogs.com/EK4Ce0Nyn8d62qljVQlyt6RBZcwF6FnW1QWZRCLbTso/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NDY1/MzUwLTE1NzUwODc2/MjktMTA1NS5qcGVn.jpeg"
     - "https://i.discogs.com/w0spBANftZh0z2jU0hYFCCXVZzVwsUehUi6REOv0ank/rs:fit/g:sm/q:90/h:456/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NDY1/MzUwLTE2NDMyMTEz/ODAtOTM4NS5qcGVn.jpeg"
 genres: ["Rock", "Non-Music", "Pop", "Stage & Screen"]
@@ -54,14 +54,20 @@ styles: ["Soundtrack", "Spoken Word", "Pop Rock", "Indie Rock", "Synth-pop", "Po
 
 
 ## Spotify
-{{< spotify type="album" id="5i9znXMK0Ni5hrHCdSDZY9" width="100%" height="500" >}}<br>
+{{< spotify type="album" id="1TLTcuWVMB3nxObS2racxa" width="100%" height="500" >}}<br>
 
 
 ## Videos
-### PM Dawn - I'd Die Without You
-{{< youtube id="C_qWlPCEnGM" title="PM Dawn - I'd Die Without You" >}}<br>
+### Mooby's Song
+{{< youtube id="YUdJKKG8ih0" title="Mooby's Song" >}}<br>
 ### More Videos
 
+- [Loser](https://www.youtube.com/watch?v=nNqQbsFoZfc)
+- [Keep On Loving You](https://www.youtube.com/watch?v=7YLYXU2eSWM)
+- [Come My Way](https://www.youtube.com/watch?v=--LiNPM2goI)
+- [Good Morning](https://www.youtube.com/watch?v=joXb-dLqg_M)
+- [JAY AND SILENT BOB REBOOT Red Band Trailer (2019)](https://www.youtube.com/watch?v=l5UJu1BAy8U)
+- [PM Dawn - I'd Die Without You](https://www.youtube.com/watch?v=C_qWlPCEnGM)
 - [Mooby's Song](https://www.youtube.com/watch?v=YUdJKKG8ih0)
 - [Loser](https://www.youtube.com/watch?v=nNqQbsFoZfc)
 - [Keep On Loving You](https://www.youtube.com/watch?v=7YLYXU2eSWM)

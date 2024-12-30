@@ -14,12 +14,12 @@ cover:
 additional_images:
     - "https://i.discogs.com/f7_voC_Y_Ez-CG1Hmtpu6rKWkXfbJfBPv_dJw93A9Bc/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3NjE3/NjQ4LTE2MTUwMzU0/MDQtMjc3Ny5qcGVn.jpeg"
     - "https://i.discogs.com/AnQphWq3fE-a3AKpTyWs7_yEM3DSgu5u1TpisOIcHRk/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3NjE3/NjQ4LTE2MTUwMzU0/MDUtNjAxOS5qcGVn.jpeg"
-    - "https://i.discogs.com/4l7lf8mqqJDFY9SHyrbT__nemrNG8wLrpH1KH9djC68/rs:fit/g:sm/q:90/h:639/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3NjE3/NjQ4LTE2MTQ5MDQ0/NDctNzM3OC5qcGVn.jpeg"
+    - "https://i.discogs.com/7ArHsKlKWnntYQJpfmnz2KTIqSAFznCqVfnqDlYHM3s/rs:fit/g:sm/q:90/h:600/w:562/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3NjE3/NjQ4LTE2MTQ5MDQ0/NDctNzM3OC5qcGVn.jpeg"
 genres: ["Electronic", "Rock", "Pop"]
 styles: ["New Wave"]
 ---
 
-Quiet Life is the third studio album by English new wave band Japan, first released on 17 November 1979 in Canada by record label Hansa (it would be released in the UK some weeks later).
+Quiet Life is the third studio album by English new wave band Japan, first released on 7 December 1979 in Canada, Japan and The Netherlands by record label Hansa and on 18 January 1980 in the UK.
 The album was a transition from the glam rock-influenced style of previous albums to a synth-pop style. Though sales were initially slow, Quiet Life was the band's first album to chart and was later certified Gold by the British Phonographic Industry for sales in excess of 100,000 copies.
     
     
@@ -36,7 +36,7 @@ The album was a transition from the glam rock-influenced style of previous album
 8. The Other Side Of Life (7:30)
 
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/quiet-life-deluxe-edition/1552770369" >}}<br>
+{{< applemusic url="https://music.apple.com/gb/album/quiet-life/1308548994" >}}<br>
 
 
 ## Videos
@@ -48,7 +48,6 @@ The album was a transition from the glam rock-influenced style of previous album
 - [Despair (2020 - Remaster)](https://www.youtube.com/watch?v=nK5mCwpBVkQ)
 - [In Vogue (2020 - Remaster)](https://www.youtube.com/watch?v=zLpRqPrZo1c)
 - [Halloween (2020 - Remaster)](https://www.youtube.com/watch?v=8ONjgjgaY4s)
-- [All Tomorrow's Parties (2020 - Remaster)](https://www.youtube.com/watch?v=jOipeqngolc)
 - [Alien (2020 - Remaster)](https://www.youtube.com/watch?v=tdVzXjXsjwU)
 - [The Other Side of Life (2020 - Remaster)](https://www.youtube.com/watch?v=_LURKl9kp7k)
 

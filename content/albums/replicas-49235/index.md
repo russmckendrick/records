@@ -12,7 +12,7 @@ cover:
     alt: "Replicas by Tubeway Army"
     caption: "Replicas by Tubeway Army"
 additional_images:
-    - "https://i.discogs.com/GV8UevBavnD9UjuzVRtPgD0Lsmt5FEkEPtKXki4Rtcg/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ5MjM1/LTE0ODUyODY1ODQt/OTA2NS5qcGVn.jpeg"
+    - "https://i.discogs.com/-wA5pK8p489XRejZKTPgw6OfK06AP9ITTYiHfRWNxDY/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ5MjM1/LTE0ODUyODY1ODQt/OTA2NS5qcGVn.jpeg"
     - "https://i.discogs.com/vZMkeB4eEMes8Y9kAlACqPhPUc0sSvrPzDvv_EokmAk/rs:fit/g:sm/q:90/h:594/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ5MjM1/LTE0ODUyODY2MDAt/OTYwNS5qcGVn.jpeg"
     - "https://i.discogs.com/gaKFrgHQvkPA5_vETHjeenewQmXV0lNYwrEWNu_widM/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ5MjM1/LTE0ODUyODY1ODgt/OTQ5Ny5qcGVn.jpeg"
     - "https://i.discogs.com/qWqMkjK-9rETrSr1oOqmk9B893IQKouJrEyiReUSOlo/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ5MjM1/LTE0ODUyODY1ODct/ODcwMy5qcGVn.jpeg"
@@ -27,6 +27,12 @@ genres: ["Electronic", "Rock"]
 styles: ["Synth-pop", "New Wave", "Post-Punk"]
 ---
 
+Replicas is the second and final studio album by the English new wave band Tubeway Army, released on 6 April 1979 by Beggars Banquet Records. It followed their self-titled debut from the previous year. After this, Tubeway Army frontman Gary Numan would continue to release records under his own name, though the musicians in Tubeway Army would continue to work with him for some time. Replicas was the first album of what Numan later termed the "machine" phase of his career, preceding The Pleasure Principle (1979) and Telekon (1980), a collection linked by common themes of a dystopian science fiction future and transmutation of man/machine, coupled with an androgynous image and a synthetic rock sound.
+Fuelled by a surprise No. 1 hit single, "Are 'Friends' Electric?", the album also reached No. 1 in the UK charts in July 1979 and was certified Gold by the BPI for sales in excess of 100,000 copies.
+
+
+    
+    
 
 
 ## Tracklisting
@@ -42,7 +48,7 @@ styles: ["Synth-pop", "New Wave", "Post-Punk"]
 10. I Nearly Married A Human (6:31)
 
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/replicas-the-first-recordings-feat-tubeway-army/1481784868" >}}<br>
+{{< applemusic url="https://music.apple.com/gb/album/replicas-redux/273106969" >}}<br>
 
 
 ## Videos
@@ -59,6 +65,16 @@ styles: ["Synth-pop", "New Wave", "Post-Punk"]
 - [It Must Have Been Years](https://www.youtube.com/watch?v=so98lFTAZV0)
 - [When the Machines Rock](https://www.youtube.com/watch?v=OhMBGZx9KYE)
 - [I Nearly Married A Human (Remastered)](https://www.youtube.com/watch?v=oFd9OhnKqvw)
+- [Me, I Disconnect from You](https://www.youtube.com/watch?v=gb66ZMHlixQ)
+- [Are 'Friends' Electric?](https://www.youtube.com/watch?v=1snv-0jCiWY)
+- [The Machman](https://www.youtube.com/watch?v=D8C76KM7xg0)
+- [Praying to the Aliens](https://www.youtube.com/watch?v=Niw_cOHiY1w)
+- [Down in the Park](https://www.youtube.com/watch?v=9GQS-iFCzus)
+- [You Are in My Vision](https://www.youtube.com/watch?v=FETUoLuEYxg)
+- [Replicas](https://www.youtube.com/watch?v=SjCW0kXqBR8)
+- [It Must Have Been Years](https://www.youtube.com/watch?v=so98lFTAZV0)
+- [When the Machines Rock](https://www.youtube.com/watch?v=OhMBGZx9KYE)
+- [I Nearly Married A Human (Remastered)](https://www.youtube.com/watch?v=oFd9OhnKqvw)
 
 ## Release Images
 {{< imageGrid >}}
@@ -66,6 +82,7 @@ styles: ["Synth-pop", "New Wave", "Post-Punk"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
+| Wikipedia URL | https://en.wikipedia.org/wiki/Replicas_(album) |
 | Format         | Vinyl LP Album Stereo |
 | Label          | Beggars Banquet |
 | Catalog Number | BEGA 7 |

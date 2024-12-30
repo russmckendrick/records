@@ -12,16 +12,21 @@ cover:
     alt: "Aftertones by Janis Ian"
     caption: "Aftertones by Janis Ian"
 additional_images:
-    - "https://i.discogs.com/jot9WNNOq2OqgDoiTw7dCt29XSl-um2qxmqoVIJhjRs/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMzc3/MTctMTUwODM1MDk1/MS02NTk2LmpwZWc.jpeg"
-    - "https://i.discogs.com/NJxfLVPEmVXQNzkXGYcN7cNejzCXBJCNG1OE_RQQ7-E/rs:fit/g:sm/q:90/h:584/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMzc3/MTctMTUwODM1MDk2/MC04NzY3LmpwZWc.jpeg"
+    - "https://i.discogs.com/jQVceQoNqBiRvGI3P3HLYlHUNM7YowPve6fUTasn2-c/rs:fit/g:sm/q:90/h:598/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMzc3/MTctMTM3OTQzOTk5/MC0zNTM0LmpwZWc.jpeg"
+    - "https://i.discogs.com/5QvHVv5klfQmR1-KsRdIX1lkSTzaDLTpEjNbvBuSvA8/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMzc3/MTctMTI4OTg4MjY0/MS5qcGVn.jpeg"
     - "https://i.discogs.com/BwYY-Asb5W1zgnexL1WjJ429Z--shK81hjWtQbbCaNY/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMzc3/MTctMTUwODM1MTA0/Ni0zMzAxLmpwZWc.jpeg"
-    - "https://i.discogs.com/X0mD-_Yqo1usFG-7kZ40Nbw9OeSdGgYTPmC-1nlWKE0/rs:fit/g:sm/q:90/h:605/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMzc3/MTctMTUwODM1MTA3/My0yNzk1LmpwZWc.jpeg"
-    - "https://i.discogs.com/oI4UAxJKTQvIak_tiyZ5UxcqUgeGewwP64ka-MVNdT4/rs:fit/g:sm/q:90/h:605/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMzc3/MTctMTUwODM1MTA4/NC0xNDY3LmpwZWc.jpeg"
+    - "https://i.discogs.com/6kcQcKh8RahXUJ87yXMcRSPAEYjOQhE-leXmMLWFINY/rs:fit/g:sm/q:90/h:600/w:594/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMzc3/MTctMTUwODM1MTA3/My0yNzk1LmpwZWc.jpeg"
+    - "https://i.discogs.com/sMweGLPd3WJr5Zp1k2pD3VqQuWg50mN4FqbsP-3Qm9w/rs:fit/g:sm/q:90/h:600/w:594/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMzc3/MTctMTUwODM1MTA4/NC0xNDY3LmpwZWc.jpeg"
     - "https://i.discogs.com/4yzAxcNn1-dWcHp1lZ1krKZT4Cerhj08DY0iqRx0xds/rs:fit/g:sm/q:90/h:594/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMzc3/MTctMTUwODM1MTA5/Mi0zNjUwLmpwZWc.jpeg"
 genres: ["Rock", "Blues", "Pop"]
 styles: ["Ballad"]
 ---
 
+Aftertones is the eighth album by American singer/songwriter Janis Ian, recorded 1975 in various New York studios and released 1976 by Columbia Records. "Love Is Blind" was a #1 single in Japan for six months.  It was the highest-selling album by a solo female artist in Japan and was also a top twenty and gold record in the United States, Ireland and Holland. "I Would Like to Dance" reached #86 in Canada.
+
+
+    
+    
 
 
 ## Tracklisting
@@ -45,14 +50,19 @@ styles: ["Ballad"]
 {{< youtube id="NlY_DgfLMm8" title="Aftertones" >}}<br>
 ### More Videos
 
-- [Janis Ian Belle of the Blues video](https://www.youtube.com/watch?v=5tZOHvT28k0)
-- [Belle of the Blues](https://www.youtube.com/watch?v=cv9HnJvcOps)
 - [I Would Like to Dance](https://www.youtube.com/watch?v=AyBv5m4akxU)
-- [Hymn](https://www.youtube.com/watch?v=zgn20lxHCNk)
-- [Aftertones](https://www.youtube.com/watch?v=oyCbfl0Sq5I)
 - [Janis Ian - Love is Blind](https://www.youtube.com/watch?v=YXWaUSGxB40)
 - [Roses](https://www.youtube.com/watch?v=9bx3_D2YALI)
+- [Aftertones](https://www.youtube.com/watch?v=NlY_DgfLMm8)
+- [I Would Like to Dance](https://www.youtube.com/watch?v=AyBv5m4akxU)
+- [Janis Ian - Love is Blind](https://www.youtube.com/watch?v=YXWaUSGxB40)
+- [Roses](https://www.youtube.com/watch?v=9bx3_D2YALI)
+- [Belle of the Blues](https://www.youtube.com/watch?v=cv9HnJvcOps)
+- [Hymn](https://www.youtube.com/watch?v=zgn20lxHCNk)
+- [Aftertones](https://www.youtube.com/watch?v=oyCbfl0Sq5I)
 - [I Would Like to Dance](https://www.youtube.com/watch?v=OUN1Yon-Q50)
+- [Aftertones](https://www.youtube.com/watch?v=NlY_DgfLMm8)
+- [Janis Ian Belle of the Blues video](https://www.youtube.com/watch?v=5tZOHvT28k0)
 
 ## Release Images
 {{< imageGrid >}}
@@ -60,6 +70,7 @@ styles: ["Ballad"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
+| Wikipedia URL | https://en.wikipedia.org/wiki/Aftertones |
 | Format         | Vinyl LP Album (Terre Haute Pressing) |
 | Label          | Columbia |
 | Catalog Number | PC 33919 |

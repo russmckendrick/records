@@ -4,6 +4,7 @@ artist_name: "Neil Young"
 artist: "neil-young"
 album_name: "After The Gold Rush"
 date: 2017-04-02T12:58:19.000000Z
+release_date: "1970-09-19"
 release_id: "8069035"
 slug: "after-the-gold-rush-8069035"
 hideSummary: true
@@ -12,8 +13,8 @@ cover:
     alt: "After The Gold Rush by Neil Young"
     caption: "After The Gold Rush by Neil Young"
 additional_images:
-    - "https://i.discogs.com/0Rmhb0B3jHpT2EkWfFm9WVwlL3tTChJL268RuIyGZ6Y/rs:fit/g:sm/q:90/h:601/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgwNjkw/MzUtMTU2MDcxNTIy/Ny03NzgyLmpwZWc.jpeg"
-    - "https://i.discogs.com/UmiR97yFkpJc7J96jd-hvtO9C4qYqS-Pag6h9SAPGX8/rs:fit/g:sm/q:90/h:605/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgwNjkw/MzUtMTU2MDcxNTIy/OC00Nzg0LmpwZWc.jpeg"
+    - "https://i.discogs.com/Yc4XHLCsUiLLqCE0lgLtKeuUu0euIZ-K9Hwzz50pWcc/rs:fit/g:sm/q:90/h:600/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgwNjkw/MzUtMTU2MDcxNTIy/Ny03NzgyLmpwZWc.jpeg"
+    - "https://i.discogs.com/mfP1vTqsT2suCrZL8FcamEw30hga-VoOpC4H12_U6Ek/rs:fit/g:sm/q:90/h:600/w:594/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgwNjkw/MzUtMTU2MDcxNTIy/OC00Nzg0LmpwZWc.jpeg"
     - "https://i.discogs.com/ZvReiVhIga2iHjXfLB5KtoVPPzVbRP2IdCnkIeh638A/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgwNjkw/MzUtMTU2MDcxNTIy/OS02MjIxLmpwZWc.jpeg"
     - "https://i.discogs.com/rdVxZ_mheI8pU0T5O90pmyZhgv6khQALCQ90gcYaVTI/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgwNjkw/MzUtMTU2MDcxNTIz/MC0zMzcwLmpwZWc.jpeg"
     - "https://i.discogs.com/qsoRTlpdGRNdYPC4B3UfrYS2hNQ55LylJSMH0O51XWg/rs:fit/g:sm/q:90/h:541/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgwNjkw/MzUtMTU2MDcxNTIy/My03MDAyLmpwZWc.jpeg"
@@ -24,12 +25,11 @@ genres: ["Rock"]
 styles: ["Folk Rock", "Country Rock"]
 ---
 
-After the Gold Rush is the third studio album by the Canadian-American musician Neil Young, released in September 1970 on Reprise Records, catalogue number RS 6383. It is one of four high-profile solo albums released by the members of folk rock group Crosby, Stills, Nash & Young in the wake of their chart-topping 1970 album Déjà Vu. Young's album consists mainly of country folk music along with several rock tracks, including "Southern Man". The material was inspired by the unproduced Dean Stockwell-Herb Bermann screenplay After the Gold Rush.
-After the Gold Rush peaked at number eight on the Billboard Top Pop Albums chart; the two singles taken from the album, "Only Love Can Break Your Heart" and "When You Dance I Can Really Love", made it to number 33 and number 93 respectively on the Billboard Hot 100. Despite a mixed initial reaction, the album has since appeared on a number of greatest albums of all time lists.
-In 2014, the album was inducted into the Grammy Hall of Fame.
+<b>100 Best Albums</b> <i>After the Gold Rush</i> is probably the first multiplatinum album to be recorded in someone’s basement, but more importantly, it sounds like it. Having peeled away from the formalities of Crosby, Stills & Nash with <i>Everybody Knows This Is Nowhere</i>, Young settled into the style that defined him for the next 50-plus years: intuitive, direct, a little messy but with a reliable line on what often felt like deeper creative truths. Factories, he called recording studios—places where you churned out your album in one room while another band churned theirs out the next room over. Where documentary film had the unvarnished simplicity of cinema verité, Young said, well, he was gonna do the same for music. The heavy songs are pretty (“Southern Man”, “When You Dance I Can Really Love”) and the pretty songs feel as comforting and eternal as an old shoe (“Only Love Can Break Your Heart”). 
 
-
-    
+And in a moment when the optimism of the ’60s was dissipating into the realities of the Vietnam War and ecological ruin, Young took the now-familiar step of engaging his surroundings by withdrawing to somewhere safer, quieter, more sober, more despairing (“After the Gold Rush”)—a hermeticism that gave us everything from Elliott Smith to Bon Iver. James Taylor and Joni Mitchell could keep their sophistication—Young was gonna rhyme “burning” with “turning” and “fly” with “sky” all day long. When the hotshot teenage guitarist Nils Lofgren fielded his request to play piano by saying he didn’t know how, Young said great—that’s exactly the kind of pianist he was looking for.
+        
+        
     
 
 
@@ -47,10 +47,24 @@ In 2014, the album was inducted into the Grammy Hall of Fame.
 11. Cripple Creek Ferry (1:34)
 
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/after-the-gold-rush-50th-anniversary-bonus-tracks-edition/1541168056" >}}<br>
+{{< applemusic url="https://music.apple.com/gb/album/after-the-gold-rush/1015783330" >}}<br>
 
 
+## Videos
+### After the Gold Rush
+{{< youtube id="atOcSKbrl38" title="After the Gold Rush" >}}<br>
+### More Videos
 
+- [Tell Me Why](https://www.youtube.com/watch?v=3ppMcqsg0Sw)
+- [Only Love Can Break Your Heart](https://www.youtube.com/watch?v=RN5jMXLPBQI)
+- [Southern Man](https://www.youtube.com/watch?v=-KTpIQROSAw)
+- [Till the Morning Comes](https://www.youtube.com/watch?v=VxTmf8gm5-U)
+- [Oh, Lonesome Me](https://www.youtube.com/watch?v=6UrdY0t_NxM)
+- [Don't Let It Bring You Down](https://www.youtube.com/watch?v=uCheMBE8hq0)
+- [Birds](https://www.youtube.com/watch?v=7-nj2gP1aBg)
+- [When You Dance I Can Really Love](https://www.youtube.com/watch?v=Im0EerJZWlo)
+- [I Believe in You](https://www.youtube.com/watch?v=4VkbavD6aHE)
+- [Cripple Creek Ferry](https://www.youtube.com/watch?v=wBZi3M0bR-g)
 
 ## Release Images
 {{< imageGrid >}}

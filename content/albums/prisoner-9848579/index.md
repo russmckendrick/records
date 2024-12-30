@@ -14,11 +14,11 @@ cover:
     caption: "Prisoner by Ryan Adams"
 additional_images:
     - "https://i.discogs.com/cOLtwtYdsPEX38w_zTyIlqHWH84N7Fp_ghg5jAoOrYk/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk4NDg1/NzktMTQ4NzMyOTIy/Ni00MTM5LmpwZWc.jpeg"
-    - "https://i.discogs.com/PU_JtEagzgNWb0v1AFdYP7Q8nwrQ_5dt-QlXY4NLQ9s/rs:fit/g:sm/q:90/h:602/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk4NDg1/NzktMTY1NzU2MjIw/OC03ODU0LmpwZWc.jpeg"
+    - "https://i.discogs.com/Y1BR2RvOsX9sEIQFguNKVKWW_Jl6Gpej_c_cFFw8T2E/rs:fit/g:sm/q:90/h:600/w:597/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk4NDg1/NzktMTY1NzU2MjIw/OC03ODU0LmpwZWc.jpeg"
     - "https://i.discogs.com/usXkRKGU2O2IyxP1joEF8BOOsp5TqcGLe7WK4gsFVyU/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk4NDg1/NzktMTY1NzU2MjIw/NS00ODAzLmpwZWc.jpeg"
     - "https://i.discogs.com/2V19siUSl6SgU1hNUiHkhGZAl8AQ0gqjDISYUcz2HnA/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk4NDg1/NzktMTY1NzU2MjIw/NS0xNTQwLmpwZWc.jpeg"
     - "https://i.discogs.com/77LjjX6gU9dmRwb_5Gb5bOQbNqf4SZkbbz-E0pLdaVY/rs:fit/g:sm/q:90/h:594/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk4NDg1/NzktMTY1NzU2MjIw/Ny00OTU2LmpwZWc.jpeg"
-    - "https://i.discogs.com/kiO70TQ66zkVYsdgeH8HDA8EFfT2vz7sSmGzarfU-Qg/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk4NDg1/NzktMTY1NzU2MjIy/Ny04NjE2LmpwZWc.jpeg"
+    - "https://i.discogs.com/6L4XzskGA07nv4qwLJy4tvG2zIj7xrxa4tHmIGLC_Hs/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk4NDg1/NzktMTY1NzU2MjIy/Ny04NjE2LmpwZWc.jpeg"
 genres: ["Rock"]
 styles: ["Indie Rock", "Pop Rock", "Country Rock"]
 ---

@@ -12,6 +12,12 @@ cover:
     alt: "Kimono My House by Sparks"
     caption: "Kimono My House by Sparks"
 additional_images:
+    - "https://i.discogs.com/BCGrDPoVC-TRZc815d4F4BGh3BfVXBhDqnvnnCRiCh0/rs:fit/g:sm/q:90/h:600/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyNDM0/MjM5LTE3MzUxMjQz/NDAtMzczOC5qcGVn.jpeg"
+    - "https://i.discogs.com/6sRhhgJI-dcMtGNYoOzdlT6O_amVIoCGCzmVEY_xwHE/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyNDM0/MjM5LTE3MzUxMjQz/NDAtMzk2My5qcGVn.jpeg"
+    - "https://i.discogs.com/2D8SZbIgS9EOYrpLI00Gou83bVXAExuXf_1Hnt_vLbQ/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyNDM0/MjM5LTE3MzUxMjQz/MzgtODUwNS5qcGVn.jpeg"
+    - "https://i.discogs.com/sDl2hph6CytaN4JBm-kL2Wes1O3q4P1-P_JsYNMffxM/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyNDM0/MjM5LTE3MzUxMjQz/MzktMzQzMi5qcGVn.jpeg"
+    - "https://i.discogs.com/QyBNbHj68bNrryZsTZpWoWhwN9RsdmxwEfc29aMjpy0/rs:fit/g:sm/q:90/h:600/w:595/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyNDM0/MjM5LTE3MzUxMjQz/NDAtMzQ0OC5qcGVn.jpeg"
+    - "https://i.discogs.com/HuqCwB33wc0ndW0ZTmXs9iRlzsTt9nXACg9FtTKT4rU/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyNDM0/MjM5LTE3MzUxMjQz/NDAtMzIyNy5qcGVn.jpeg"
     - "https://i.discogs.com/ayqBDLg2gWT-TDeS9omN-b2c_AC2Po9BH3QyEYTZLMA/rs:fit/g:sm/q:90/h:594/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyNDM0/MjM5LTE3MzMwNTgy/MjEtNDQyMC5qcGVn.jpeg"
     - "https://i.discogs.com/yOveqUjtiK-uGAkVd6J3BFyNbMJLE0GS8nUIlxKsR7U/rs:fit/g:sm/q:90/h:600/w:522/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyNDM0/MjM5LTE3MzMwNTgy/MTYtMTIxMy5qcGVn.jpeg"
 genres: ["Rock"]
@@ -65,8 +71,8 @@ Preceded by the single "This Town Ain't Big Enough for Both of Us", Kimono My Ho
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Kimono_My_House |
-| Format         | Vinyl LP Album Reissue (Green (Caramel Apple)) |
+| Format         | Vinyl LP Album Reissue (Green [Caramel Apple]) |
 | Label          | Demon Records |
 | Catalog Number | DEMREC1269 |
-| Notes | Manufactured in the EU |
+| Notes | Manufactured in the EU.  ℗ 1974 Universal Music Operations Limited © 1974, 2024 Universal Operations Limited Licensed courtesy of Universal Operations Limited  Runouts are machine-etched. |
 | Discogs URL    | [Sparks - Kimono My House](https://www.discogs.com/release/32434239-Sparks-Kimono-My-House) |

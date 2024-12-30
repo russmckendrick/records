@@ -18,6 +18,13 @@ genres: ["Electronic", "Funk / Soul", "Pop"]
 styles: ["Soul", "House"]
 ---
 
+A happy ending is an ending of the plot of a work of fiction in which there is a positive outcome for the protagonist or protagonists, and in which this is to be considered a favourable outcome.
+In storylines where the protagonists are in physical danger, a happy ending mainly consists of their survival and successful completion of the quest or mission; where there is no physical danger, a happy ending may be lovers consummating their love despite various factors which might have thwarted it. A considerable number of storylines combine both situations. In Steven Spielberg's version of War of the Worlds, the happy ending consists of three distinct elements: The protagonists all survive the countless perils of their journey; humanity as a whole survives the alien invasion; and the protagonist father regains the respect of his estranged children. The plot is so constructed that all three are needed for the audience's feeling of satisfaction in the end.
+A happy ending is epitomized in the standard fairy tale ending phrase, "happily ever after" or "and they lived happily ever after". (One Thousand and One Nights has the more restrained formula "they lived happily until there came to them the One who Destroys all Happiness" (i.e. Death); likewise, the Russian versions of fairy tales typically end with "they lived long and happily, and died together on the same day".) Satisfactory happy endings are happy for the reader as well, in that the characters they sympathize with are rewarded. However, this can also serve as an open path for a possible sequel. For example, in the 1977 film Star Wars, Luke Skywalker defeats the Galactic Empire by destroying the Death Star; however, the story's happy ending has consequences that follow in 1980's The Empire Strikes Back that are reversed in 1983's Return of the Jedi. The concept of a permanent happy ending is specifically brought up in the Stephen King fantasy/fairy tale novel The Eyes of the Dragon which has a standard good ending for the genre, but simply states that "there were good days and bad days" afterwards.
+
+
+    
+    
 
 
 ## Tracklisting
@@ -54,6 +61,7 @@ styles: ["Soul", "House"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
+| Wikipedia URL | https://en.wikipedia.org/wiki/Happy_ending |
 | Format         | Vinyl 2× LP Album (Clear vinyl) |
 | Label          | Last Night From Glasgow |
 | Catalog Number | LNFG57CC |

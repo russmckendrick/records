@@ -17,6 +17,12 @@ genres: ["Rock"]
 styles: ["New Wave", "Indie Rock"]
 ---
 
+Ocean Rain is the fourth studio album by the English post-punk band Echo & the Bunnymen. It was released on 4 May 1984 by Korova and reached number four on the UK Albums Chart, number 87 on the United States Billboard 200, number 41 on the Canadian RPM 100 Albums and number 22 on the Swedish chart. Since 1984 the album has been certified gold by the British Phonographic Industry. Ocean Rain includes the singles "The Killing Moon", "Silver" and "Seven Seas".
+The band wrote the songs for the new album in 1983. In early 1984 they recorded most of the album in Paris using a 35-piece orchestra, with other sessions taking place in Bath and Liverpool. Receiving mixed reviews the album was originally released as an LP and a cassette in May 1984 before it was reissued on CD in August. The album was reissued on CD in 2003, along with the other four of the band's first five studio albums, having been remastered and expanded before again being reissued in 2008 with a live bonus disc. The artwork for the album was designed by Martyn Atkins and the photography was by Brian Griffin. Echo & the Bunnymen played a number of concerts in 2008 where they performed Ocean Rain in full and with the backing of an orchestra.
+
+
+    
+    
 
 
 ## Tracklisting
@@ -31,7 +37,7 @@ styles: ["New Wave", "Indie Rock"]
 9. Ocean Rain (5:10)
 
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/ocean-rain-expanded-version/184690028" >}}<br>
+{{< applemusic url="https://music.apple.com/gb/album/echo-the-bunnymen-expanded-version/281706730" >}}<br>
 
 
 ## Videos
@@ -47,7 +53,6 @@ styles: ["New Wave", "Indie Rock"]
 - [Echo & The Bunnymen - Seven Seas (Official Music Video)](https://www.youtube.com/watch?v=LbYxP11rbSM)
 - [My Kingdom](https://www.youtube.com/watch?v=2q1RWbAqYtU)
 - [Ocean Rain](https://www.youtube.com/watch?v=p_AsT8Ney4A)
-- [ECHO & THE BUNNYMEN - Killing Moon - Lyrics for Fun Scenes and Full Moon](https://www.youtube.com/watch?v=prd9RX-fW2g)
 
 ## Release Images
 {{< imageGrid >}}
@@ -55,6 +60,7 @@ styles: ["New Wave", "Indie Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
+| Wikipedia URL | https://en.wikipedia.org/wiki/Ocean_Rain |
 | Format         | Vinyl LP Album Reissue |
 | Label          | Korova |
 | Catalog Number | VIN180LP075 |

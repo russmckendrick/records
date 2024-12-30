@@ -12,19 +12,19 @@ cover:
     alt: "Feel Flows (The Sunflower & Surf's Up Sessions • 1969 - 1971) by The Beach Boys"
     caption: "Feel Flows (The Sunflower & Surf's Up Sessions • 1969 - 1971) by The Beach Boys"
 additional_images:
-    - "https://i.discogs.com/QqYeyWQ00ZizN3L9lG7a7YIpmp5wmUnaUcBWrGRDj3E/rs:fit/g:sm/q:90/h:602/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMDE1/NTI0LTE2MzA4MzM1/MTItMzM0OC5qcGVn.jpeg"
+    - "https://i.discogs.com/fBZ5r7fWbEgZbq0FRv_K-8-V1YXMxWL831ozt-bQhNk/rs:fit/g:sm/q:90/h:600/w:597/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMDE1/NTI0LTE2MzA4MzM1/MTItMzM0OC5qcGVn.jpeg"
     - "https://i.discogs.com/yTVA0yin5lCigyCgILX8paRapARMLMWYAml8gCJtWhM/rs:fit/g:sm/q:90/h:593/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMDE1/NTI0LTE2MzAwODI0/MTQtNTM2MC5qcGVn.jpeg"
     - "https://i.discogs.com/hSMHK8_VEUgd_XQF8IRQ5gL4ydyW2Mc7MXpv1XjBFck/rs:fit/g:sm/q:90/h:574/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMDE1/NTI0LTE2MzAxMzk4/NjItODEwOS5qcGVn.jpeg"
     - "https://i.discogs.com/_jKqIPdTk0ZGeyzVtnP4B-tpgf1S1s6Ael4rolqbcRM/rs:fit/g:sm/q:90/h:575/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMDE1/NTI0LTE2MzAxMzk4/NjQtODQ1MS5qcGVn.jpeg"
     - "https://i.discogs.com/thzCqonD4LnUBeIlzlNTS5Ww1fWunZOuL0_i_myRUz0/rs:fit/g:sm/q:90/h:583/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMDE1/NTI0LTE2MzAxMzk4/NjYtNTczNi5qcGVn.jpeg"
-    - "https://i.discogs.com/PrLxmR5Ps284f2ELais1OQeHUmEeFuHjIhKgXvyuuUU/rs:fit/g:sm/q:90/h:622/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMDE1/NTI0LTE2MzAxMzk4/NjctMTYxNS5qcGVn.jpeg"
+    - "https://i.discogs.com/n35kCcVdM8DSffd-AiM2r_1RtTEyVFzi6jL1mpe5T0I/rs:fit/g:sm/q:90/h:600/w:578/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMDE1/NTI0LTE2MzAxMzk4/NjctMTYxNS5qcGVn.jpeg"
     - "https://i.discogs.com/wvlxz3lPoxghqdCdx5894-VWUG7zplWeVjt_nDsC2V4/rs:fit/g:sm/q:90/h:591/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMDE1/NTI0LTE2MzAxMzk4/NzAtNDE3Ny5qcGVn.jpeg"
     - "https://i.discogs.com/AbdeFioZvxfR39kK4Y1sCupVqNx3onLWbNBCmqneBuU/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMDE1/NTI0LTE2MzAxMzk4/NzItNDU3NC5qcGVn.jpeg"
-    - "https://i.discogs.com/Zsgb1qa40N4Q9JkiCB1A6Qzi8i5kRVfOaWIfCtG1g6E/rs:fit/g:sm/q:90/h:601/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMDE1/NTI0LTE2MzAxMzk4/NzUtNjY3MC5qcGVn.jpeg"
+    - "https://i.discogs.com/4Ob1HByp3UwNE_mFyPlSHfkbl8_2dRUaFIkpZDgjpPI/rs:fit/g:sm/q:90/h:600/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMDE1/NTI0LTE2MzAxMzk4/NzUtNjY3MC5qcGVn.jpeg"
     - "https://i.discogs.com/rank6DJIoz1K5FDStEqi8f1sCLsU8vdA4wPLJdc9-h0/rs:fit/g:sm/q:90/h:593/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMDE1/NTI0LTE2MzAxMzk4/NzctNjY3Ny5qcGVn.jpeg"
     - "https://i.discogs.com/UiTURvX49ZTkuOaJWYc_28aJAgmKr_N9wV1zfKFJtwU/rs:fit/g:sm/q:90/h:593/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMDE1/NTI0LTE2MzAxMzk4/ODAtOTk1Ny5qcGVn.jpeg"
     - "https://i.discogs.com/aB67990AQt0-WZYgzP043i4UgLejBuTjhnKsUkNapGg/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMDE1/NTI0LTE2MzAxMzk4/ODMtMTY4MS5qcGVn.jpeg"
-    - "https://i.discogs.com/KZZEaOjXEl5X_yF8IvxwHAk3LN9cOgVzOhjyTBJ7e-E/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMDE1/NTI0LTE2MzAxMzk4/ODYtODI3MC5qcGVn.jpeg"
+    - "https://i.discogs.com/t7v9SZ9v8xkNjjB4b5XwJTkqpq-h0wW_GDGjfoFphUo/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMDE1/NTI0LTE2MzAxMzk4/ODYtODI3MC5qcGVn.jpeg"
 genres: ["Rock"]
 styles: ["Psychedelic Rock", "Pop Rock"]
 ---
@@ -72,7 +72,7 @@ styles: ["Psychedelic Rock", "Pop Rock"]
 38. 'Til I Die (A Capella) (2:11)
 
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/feel-flows-the-sunflower-surfs-up-sessions-1969-1971/1570363167" >}}<br>
+{{< applemusic url="https://music.apple.com/gb/album/feel-flows-the-sunflower-surfs-up-sessions-1969-1971/1570550016" >}}<br>
 
 
 

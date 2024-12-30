@@ -51,12 +51,9 @@ styles: ["Acoustic"]
 22. Rock 'Till You Drop (2:49)
 
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/aquostic-stripped-bare/920706074" >}}<br>
+{{< applemusic url="https://music.apple.com/gb/album/aquostic-stripped-bare/913227382" >}}<br>
 
 
-## Videos
-### Status Quo-Stripped Bare [full album]
-{{< youtube id="l9a1KiMzhUs" title="Status Quo-Stripped Bare [full album]" >}}<br>
 
 
 ## Release Images

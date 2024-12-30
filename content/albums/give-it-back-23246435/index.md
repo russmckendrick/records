@@ -16,14 +16,19 @@ additional_images:
     - "https://i.discogs.com/SPZzl4Zlxd79920aj79dU94YQSp8dyrGdPCrmfJBGr8/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMjQ2/NDM1LTE2NTkxMjQ4/MjAtMTg5My5qcGVn.jpeg"
     - "https://i.discogs.com/V58zzT1U3_lXpI3j6yPB8xSalL_3OdtixZpc8B3orvk/rs:fit/g:sm/q:90/h:594/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMjQ2/NDM1LTE2NTkxMjQ4/MjEtNDcxNS5qcGVn.jpeg"
     - "https://i.discogs.com/_zbDPO1hE-PrTAoJ5fN0LnwZ3kjufQICYj2G-8CYaZE/rs:fit/g:sm/q:90/h:592/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMjQ2/NDM1LTE2NTkxMjQ4/MjEtMTUwNS5qcGVn.jpeg"
-    - "https://i.discogs.com/Fq0ZaUNfZdc_dYE-EszThUuwpZ9CtgP_C-7xqHKsjhE/rs:fit/g:sm/q:90/h:601/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMjQ2/NDM1LTE2NTkxMjQ4/MjAtNjA1NC5qcGVn.jpeg"
-    - "https://i.discogs.com/E-bQL6So9r2Ti7BV_AJiKgaSRubOSkci-bMgm7CeTn8/rs:fit/g:sm/q:90/h:601/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMjQ2/NDM1LTE2NTkxMjQ4/MjAtMzc1NC5qcGVn.jpeg"
-    - "https://i.discogs.com/QOKpRCOHR_GnoIsWaRBs_FEUkOPMCH6yIS4FlGdaum8/rs:fit/g:sm/q:90/h:484/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMjQ2/NDM1LTE2NTkxMjQ4/MjAtODA1Ny5qcGVn.jpeg"
+    - "https://i.discogs.com/PvEmICDO5NGUFRreubA-NSzcycGk4Knqa8jOSqGRmsA/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMjQ2/NDM1LTE3MzAwNDE4/NjYtNjI3MS5qcGVn.jpeg"
+    - "https://i.discogs.com/2iCiOZeWPhWLjGdoZGGrBaq8JoO-iay76cG8cZG5E9o/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMjQ2/NDM1LTE3MzAwNDE4/NjUtOTU2My5qcGVn.jpeg"
+    - "https://i.discogs.com/pT4wXBrnHc8PXALM9csD2_AUD7uasA2MMSTItj54e9Y/rs:fit/g:sm/q:90/h:593/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMjQ2/NDM1LTE3MzAwNDE4/NjEtODExMi5qcGVn.jpeg"
+    - "https://i.discogs.com/Y9-AoYiqkbkklqY5XNarvQ4Dg8xnXn_MNckytn_FydQ/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMjQ2/NDM1LTE3MzAwNDE4/NjYtNzk4Mi5qcGVn.jpeg"
     - "https://i.discogs.com/-MbH9-ryKLhBwyHFq87AExWbOj7W3g4XUVqUGfbHWfI/rs:fit/g:sm/q:90/h:210/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMjQ2/NDM1LTE2NTkxMjQ4/MTktNTA5MS5qcGVn.jpeg"
+    - "https://i.discogs.com/8C4q6OkdP4DtW4CwFF60fbvc7cmZbaor30S_NMjMqcg/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMjQ2/NDM1LTE2NTQwMjE0/ODYtNTY5OS5qcGVn.jpeg"
 genres: ["Rock"]
 styles: ["Prog Rock"]
 ---
 
+Give It Back! is the sixth studio album by the American psychedelic rock band The Brian Jonestown Massacre, released in 1997 by the Bomp! record label.
+    
+    
 
 
 ## Tracklisting
@@ -65,6 +70,7 @@ styles: ["Prog Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
+| Wikipedia URL | https://en.wikipedia.org/wiki/Give_It_Back! |
 | Format         | Vinyl LP Album |
 | Label          | Kscope |
 | Catalog Number | KSCOPE1172 |

@@ -26,34 +26,38 @@ genres: ["Rock"]
 styles: ["Indie Rock", "Britpop"]
 ---
 
-Suede is the debut album by English alternative rock band Suede, released in March 1993 on Nude Records. It was recorded in London at Master Rock studios late 1992 and early 1993 and was produced by Ed Buller. At the time the fastest-selling debut album in British history in almost a decade, Suede debuted at the top of the UK Albums Chart, won the 1993 Mercury Music Prize, and is often cited as one of the first Britpop records. Displaying a sound of Britishness and glam rock, its music and lyrical content has been compared to The Smiths and early David Bowie.The album was preceded by what Rolling Stone called "its triptych of instantly classic singles." The three singles, "The Drowners", "Metal Mickey" and "Animal Nitrate" helped to create a media buzz leading to significant hype for a year leading up to the album's release. It was met with generally favourable reviews both in the UK and in the US. Although it remains the group's biggest-selling album in the US, it struggled to make headway commercially compared to the success in the UK. In 2013, NME placed the album at number 78 in its list of the 500 greatest albums of all time.
+Suede is the debut album by English alternative rock band Suede, released in March 1993 on Nude Records. It was recorded in London at Master Rock studios in late 1992 and early 1993 and was produced by Ed Buller. At the time the fastest-selling debut album in British history in almost a decade, Suede debuted at the top of the UK Albums Chart, won the 1993 Mercury Music Prize, and is often cited as one of the first Britpop records. Displaying a sound of Britishness and glam rock, its music and lyrical content has been compared to the Smiths and early David Bowie.
+The album was preceded by what Rolling Stone called "its triptych of instantly classic singles." The three singles, "The Drowners", "Metal Mickey" and "Animal Nitrate" helped to create a media buzz leading to significant hype for a year leading up to the album's release. It was met with generally favourable reviews both in the UK and in the US. Although it remains the group's biggest-selling album in the US, it struggled to make headway commercially compared to the success in the UK. In 2013, NME placed the album at number 78 in its list of the 500 greatest albums of all time.
     
     
 
 
 ## Tracklisting
-1. So Young
-2. Animal Nitrate
-3. She's Not Dead
-4. Moving
-5. Pantomime Horse
-6. The Drowners
-7. Sleeping Pills
-8. Breakdown 
-9. Metal Mickey
-10. Animal Lover
-11. The Next Life
+1. So Young (3:38)
+2. Animal Nitrate (3:27)
+3. She's Not Dead (4:33)
+4. Moving (2:51)
+5. Pantomime Horse (5:50)
+6. The Drowners (4:10)
+7. Sleeping Pills (3:51)
+8. Breakdown  (6:03)
+9. Metal Mickey (3:28)
+10. Animal Lover (4:18)
+11. The Next Life (3:32)
 
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/autofiction/1623156405" >}}<br>
+{{< applemusic url="https://music.apple.com/gb/album/suede/1689619989" >}}<br>
 
 
 ## Videos
-### Suede - Sleeping Pills (Audio Only)
-{{< youtube id="2e5N0tn1-7s" title="Suede - Sleeping Pills (Audio Only)" >}}<br>
+### Suede - The Drowners (Remastered Official HD Video)
+{{< youtube id="3nWJQStqrfw" title="Suede - The Drowners (Remastered Official HD Video)" >}}<br>
 ### More Videos
 
+- [Suede - Metal Mickey (Remastered Official HD Video)](https://www.youtube.com/watch?v=0rbw5FaCAzw)
+- [Suede - Animal Nitrate (Remastered Official HD Video)](https://www.youtube.com/watch?v=i7mEB2wnDLQ)
 - [Suede - So Young](https://www.youtube.com/watch?v=twoO3xYRsz0)
+- [Suede - The Drowners (Remastered Official HD Video) (US version)](https://www.youtube.com/watch?v=-FBmYOB9WkA)
 
 ## Release Images
 {{< imageGrid >}}
@@ -65,5 +69,5 @@ Suede is the debut album by English alternative rock band Suede, released in Mar
 | Format         | Vinyl LP Album Reissue |
 | Label          | Demon Records |
 | Catalog Number | INSATIABLE 1 |
-| Notes | 2014 Demon Records reissue on 180g vinyl.  Supplied with download card for the full album.  Late issue doesn't have Demon sticker or download coupon. Though reissued in 2014, copyright notice states '(c) 2013'. |
+| Notes | 2014 Demon Records reissue on 180g vinyl.   Supplied with download card for the full album.  Late issue doesn't have Demon sticker or download coupon. Though reissued in 2014, copyright notice states '(c) 2013.' |
 | Discogs URL    | [Suede - Suede](https://www.discogs.com/release/5438130-Suede-Suede) |

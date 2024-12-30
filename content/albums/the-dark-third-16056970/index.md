@@ -23,6 +23,9 @@ genres: ["Rock"]
 styles: ["Alternative Rock", "Psychedelic Rock", "Prog Rock"]
 ---
 
+The Dark Third is the first full-length album by Pure Reason Revolution. It was produced by Paul Northfield (Rush, Porcupine Tree, Gentle Giant, Hole) and recorded at Fairhazel Studios and later RAK studios. An earlier single "Apprentice of the Universe" peaked at #74. The title refers to the "Dark Third", the third of a person's life spent asleep and dreaming, with the song on disc 2 "In Aurelia" being based lyrically and thematically around the book Aurelia by Gérard de Nerval.
+    
+    
 
 
 ## Tracklisting
@@ -44,47 +47,41 @@ styles: ["Alternative Rock", "Psychedelic Rock", "Prog Rock"]
 16. The Exact Colour
 17. The Twyncyn
 18. Trembling Willows
-19. Aeropause (05:04)
-20. Goshen’s Remains (05:44)
-21. Apprentice Of The Universe (04:16)
+19. Aeropause (5:04)
+20. Goshen’s Remains (5:44)
+21. Apprentice Of The Universe (4:16)
 22. The Bright Ambassadors Of Morning (11:56)
-23. Nimos And Tambos (03:44)
-24. Voices In Winter / In The Realms Of The Divine (06:34)
-25. Bullitts Dominae (05:22)
-26. Arrival / The Intention Craft (08:53)
-27. He Tried To Show Them Magic! / Ambassadors Return (05:13)
-28. Asleep Under Eiderdown (03:02)
-29. In Aurélia (03:59)
-30. Borgens Vor (04:17)
-31. The Exact Colour (04:05)
-32. The Twyncyn / Trembling Willows (07:16)
-33. Golden Clothes (07:31)
+23. Nimos And Tambos (3:44)
+24. Voices In Winter / In The Realms Of The Divine (6:34)
+25. Bullitts Dominae (5:22)
+26. Arrival / The Intention Craft (8:53)
+27. He Tried To Show Them Magic! / Ambassadors Return (5:13)
+28. Asleep Under Eiderdown (3:02)
+29. In Aurélia (3:59)
+30. Borgens Vor (4:17)
+31. The Exact Colour (4:05)
+32. The Twyncyn / Trembling Willows (7:16)
+33. Golden Clothes (7:31)
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/the-dark-third/270604771" >}}<br>
 
 
 ## Videos
-### Pure Reason Revolution - The Twyncyn / Trembilin Willows
-{{< youtube id="wwwIiyFmoxM" title="Pure Reason Revolution - The Twyncyn / Trembilin Willows" >}}<br>
+### Aeropause
+{{< youtube id="r6b7lVJSKQY" title="Aeropause" >}}<br>
 ### More Videos
 
-- [Aeropause](https://www.youtube.com/watch?v=r6b7lVJSKQY)
 - [Goshens Remains](https://www.youtube.com/watch?v=lyE82wgOkVY)
 - [Apprentice of the Universe](https://www.youtube.com/watch?v=qbTSSD-nZZE)
 - [Nimos and Tambos](https://www.youtube.com/watch?v=dEcQhIlPb1Y)
 - [Voices in Winter / In the Realms of the Divine](https://www.youtube.com/watch?v=1_R96xcQKrw)
-- [Pure Reason Revolution - Goshen's Remains](https://www.youtube.com/watch?v=DDHW8bsHB0w)
 - [Bullitts Dominae](https://www.youtube.com/watch?v=X3-VtVsXcdE)
 - [Arrival / The Intention Craft](https://www.youtube.com/watch?v=aZcO_EAqoj0)
 - [He Tried to Show Them Magic / Ambassadors Return](https://www.youtube.com/watch?v=WD3aCXr2VVg)
 - [Asleep Under Eiderdown](https://www.youtube.com/watch?v=tZzWfMcUHPQ)
-- [Pure Reason Revolution - The Exact Colour](https://www.youtube.com/watch?v=TPWwd8AARjE)
 - [The Exact Colour](https://www.youtube.com/watch?v=cerFbpn__sc)
-- [Pure Reason Revolution - Voices in Winter / The Realms of Divine](https://www.youtube.com/watch?v=KKx0yODlwJs)
 - [The Twyncyn / Trembling Willows](https://www.youtube.com/watch?v=kDXbZhTToxo)
-- [Pure Reason Revolution - The Dark Third (2006)](https://www.youtube.com/watch?v=B-eVqbjwnHk)
-- [Apprentice of universe (lyrics) - Pure reason revolution](https://www.youtube.com/watch?v=zwQXwWumtxI)
 
 ## Release Images
 {{< imageGrid >}}
@@ -92,6 +89,7 @@ styles: ["Alternative Rock", "Psychedelic Rock", "Prog Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
+| Wikipedia URL | https://en.wikipedia.org/wiki/The_Dark_Third |
 | Format         | Vinyl 2× LP Album (Yellow), CD 2× Album, All Media Limited Edition Reissue |
 | Label          | Inside Out Music |
 | Catalog Number | 19439793441 |

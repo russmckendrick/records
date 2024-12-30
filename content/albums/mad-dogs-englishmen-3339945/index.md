@@ -15,10 +15,10 @@ additional_images:
     - "https://i.discogs.com/R8G_iI8uAhsr-Uc7RXxU4ur2NLC2VZ-_fCd6HkhNgWs/rs:fit/g:sm/q:90/h:500/w:500/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzMzk5/NDUtMTMyNjQ4NDUx/Ni5qcGVn.jpeg"
     - "https://i.discogs.com/e8s5ly1Pwi36aoJQ8rBRhz4vCxzjShxoD9FZF6xKohY/rs:fit/g:sm/q:90/h:588/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzMzk5/NDUtMTUzMTMwMjAy/NS0yMzU4LmpwZWc.jpeg"
     - "https://i.discogs.com/SXxloYuhoTBXzCT5N85Y1OfXR4AJ8_3TsUQPXIp1n0k/rs:fit/g:sm/q:90/h:270/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzMzk5/NDUtMTUzMTMwMjAy/NS00MjUwLmpwZWc.jpeg"
-    - "https://i.discogs.com/PXwedB9ZKjpUd0b2A4onl_lXTJrCq0hzLvLedryeXVM/rs:fit/g:sm/q:90/h:606/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzMzk5/NDUtMTQ2ODc4MTg5/Mi0yNDQ4LmpwZWc.jpeg"
+    - "https://i.discogs.com/FIVFIheut-rBZ8U3qISYXRDc9H4VmE745ZvJEYW1OGM/rs:fit/g:sm/q:90/h:600/w:593/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzMzk5/NDUtMTQ2ODc4MTg5/Mi0yNDQ4LmpwZWc.jpeg"
     - "https://i.discogs.com/l1jh5lRfswBj9lTHtpztJD88EvmOZdKv6DsArA7Q0Qw/rs:fit/g:sm/q:90/h:587/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzMzk5/NDUtMTQ2ODc4MTg5/My02MzUxLmpwZWc.jpeg"
-    - "https://i.discogs.com/s3Vp4LJEsflb16e65ykapY0LsUsxTChRYuc6WDi8Kws/rs:fit/g:sm/q:90/h:626/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzMzk5/NDUtMTQ2ODc4MTg5/Ny05MzY2LmpwZWc.jpeg"
-    - "https://i.discogs.com/-KkiTeIiZEhykD_1mEn7h6tY7XovVbO8ADvtxv-1fAc/rs:fit/g:sm/q:90/h:607/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzMzk5/NDUtMTQ2ODc4MTg5/OS05NTg4LmpwZWc.jpeg"
+    - "https://i.discogs.com/GhJFgyPRrMBcbOwDSP1bwhFUf4PtDfJLJW5ccL7CCt4/rs:fit/g:sm/q:90/h:600/w:574/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzMzk5/NDUtMTQ2ODc4MTg5/Ny05MzY2LmpwZWc.jpeg"
+    - "https://i.discogs.com/aJHoUD1vNPvCWPyu6LQqQVuo-6Oxz-RKfSTUIyK32Iw/rs:fit/g:sm/q:90/h:600/w:593/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzMzk5/NDUtMTQ2ODc4MTg5/OS05NTg4LmpwZWc.jpeg"
 genres: ["Rock"]
 styles: ["Blues Rock", "Classic Rock"]
 ---
@@ -47,28 +47,14 @@ styles: ["Blues Rock", "Classic Rock"]
 19. Delta Lady (5:35)
 
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/mad-dogs-englishmen-live-at-the-fillmore-east-1970-reissue/1423706584" >}}<br>
+{{< applemusic url="https://music.apple.com/gb/album/mad-dogs-englishmen/886524874" >}}<br>
 
 
 ## Videos
-### Joe Cocker - Sticks and Stones (Mad Dogs & Englishmen)
-{{< youtube id="79YmYQebXzE" title="Joe Cocker - Sticks and Stones (Mad Dogs & Englishmen)" >}}<br>
+### Joe Cocker  - Mad Dogs & Englishmen - Space Captain
+{{< youtube id="-407iUd_pFY" title="Joe Cocker  - Mad Dogs & Englishmen - Space Captain" >}}<br>
 ### More Videos
 
-- [MAD DOGS AND ENGLISHMEN @ THE FILLMORE EAST](https://www.youtube.com/watch?v=Ia-IoPMR9Uo)
-- [MAD DOGS AND ENGLISHMEN - SECOND SET FILLMORE EAST](https://www.youtube.com/watch?v=2cLV_pIPdNE)
-- [Joe Cocker  - Mad Dogs & Englishmen - Space Captain](https://www.youtube.com/watch?v=-407iUd_pFY)
-- [The Letter (Live At The Fillmore East/1970)](https://www.youtube.com/watch?v=LlX5IWwizGg)
-- [J̤o̤e̤ ̤C̤o̤c̤k̤e̤r̤-̤M̤a̤d̤ Dogs & .... (Deluxe Edition)[Full Album HQ]](https://www.youtube.com/watch?v=tr7EOkIgiqo)
-- [Joe Cocker, Mad Dogs and Englishmen - Honky Tonky Woman (LIVE) HD](https://www.youtube.com/watch?v=P8tqpe99QJw)
-- [Joe Cocker - Feelin' Alright - Mad Dogs & Englishmen (April 1970 - Fillmore East, NYC)](https://www.youtube.com/watch?v=uJMzuGVQRyc)
-- [Something (Set 1 / Live At The Fillmore East/3/28/70)](https://www.youtube.com/watch?v=EIjikyrW8ak)
-- [Joe Cocker, Mad Dogs and Englishmen - Mad Dogs & Englishmen Theme](https://www.youtube.com/watch?v=YrK5GZGqxNg)
-- [Joe Cocker (Mad Dogs & Englishmen) - Side 1](https://www.youtube.com/watch?v=7WdO95H_k-4)
-- [Honky Tonk Women (With Intro / Set 1 / Live At The Fillmore East/1970)](https://www.youtube.com/watch?v=mkR-RCx2CTo)
-- [Joe Cocker Feelin' Alright Mad Dogs & Englishmen (1970)](https://www.youtube.com/watch?v=Xy3NFzw_cfY)
-- [Delta Lady (Set 2 / Live At The Fillmore East/1970)](https://www.youtube.com/watch?v=cXwD6mBxFgM)
-- [Joe Cocker, Mad Dogs and Englishmen - Something (LIVE) HD](https://www.youtube.com/watch?v=kiT5J61f588)
 - [Joe Cocker - Mad Dogs & Englishmen - With A Little Help From My Friends](https://www.youtube.com/watch?v=n6splB7acXc)
 
 ## Release Images

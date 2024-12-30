@@ -21,8 +21,10 @@ genres: ["Electronic", "Rock"]
 styles: ["Alternative Rock", "Industrial", "Indie Rock"]
 ---
 
-Liquidizer is the debut album by British rock band Jesus Jones, released in October 1989 through Food Records. After various line-up changes, the members of the band moved to London, where frontman Mike Edwards would diversify his musical tastes. Guitarist Jerry de Borg joined soon after; in May 1988, Edwards acquired a sampler which would further his songwriting. With the addition of keyboardist Iain Baker, the band signed to EMI imprint Food Records by the end of the year. Initially enthusiastic about working with producer David Motion, recording sessions with him were fruitless. Craig Leon then produced Liquidizer in mid-1989, helping to give the album its signature tone, though the members would later be disappointed by the mixing.
+Liquidizer is the debut album by British rock band Jesus Jones, released in October 1989 through Food Records. After various line-up changes, the members of the band moved to London, where frontman Mike Edwards would diversify his musical tastes. Guitarist Jerry de Borg joined soon after; in May 1988, Edwards acquired a sampler which would further his songwriting. With the addition of keyboardist Iain Baker, the band signed to Food Records by the end of the year. Initially enthusiastic about working with producer David Motion, recording sessions with him were fruitless. Craig Leon then produced Liquidizer in mid-1989, helping to give the album its signature tone, though the members would later be disappointed by the mixing.
 Liquidizer is a techno and power pop album, borrowing influence from hip hop, that employed a large amount of samples, drawing comparison to Pop Will Eat Itself, Renegade Soundwave and World Domination Enterprises. It was met with favourable reviews from critics, many of whom praised the songwriting and use of samples. The album peaked at number 32 on the UK Albums Chart. "Info Freako" was released as the album's lead single in February 1989, followed that same year by "Never Enough" in June 1989 and "Bring It on Down" in September 1989. The first two both charted at number 42 on the UK Singles Chart, while "Bring It Down" reached number 46.
+
+
     
     
 

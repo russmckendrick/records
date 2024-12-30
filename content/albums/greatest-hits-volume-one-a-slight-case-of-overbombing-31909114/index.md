@@ -63,8 +63,8 @@ styles: ["Goth Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl 2× LP Compilation Reissue Stereo (Purple) |
+| Format         | Vinyl 2× LP Compilation Limited Edition Reissue Repress Stereo (Purple) |
 | Label          | Merciful Release |
 | Catalog Number | 0190295695071 |
-| Notes | Gatefold sleeve |
+| Notes | Gatefold sleeve with lyrics. Track timings printed on side labels. Runouts are etched. |
 | Discogs URL    | [The Sisters Of Mercy - Greatest Hits Volume One - A Slight Case Of Overbombing](https://www.discogs.com/release/31909114-The-Sisters-Of-Mercy-Greatest-Hits-Volume-One-A-Slight-Case-Of-Overbombing) |

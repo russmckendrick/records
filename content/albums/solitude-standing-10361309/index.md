@@ -45,21 +45,26 @@ Solitude Standing is the second studio album by American singer-songwriter Suzan
 
 
 ## Videos
-### Suzanne Vega - Luka
-{{< youtube id="VZt7J0iaUD0" title="Suzanne Vega - Luka" >}}<br>
+### Calypso
+{{< youtube id="I8ExnrHJRUA" title="Calypso" >}}<br>
 ### More Videos
 
-- [Ironbound / Fancy Poultry](https://www.youtube.com/watch?v=wnV-DPmrkLk)
+- [Suzanne Vega - Tom's Diner (Acapella Version)](https://www.youtube.com/watch?v=mto47BMT3yA)
+- [Suzanne Vega - Luka](https://www.youtube.com/watch?v=VZt7J0iaUD0)
 - [Suzanne Vega - Solitude Standing](https://www.youtube.com/watch?v=05AHPFPpHIM)
-- [Suzanne Vega - Wooden Horse (Caspar Hauser's Song) (1987 European Vinyl)](https://www.youtube.com/watch?v=I_tEHqfvroA)
-- [Tom's Diner](https://www.youtube.com/watch?v=L9x-DENKIts)
+- [Ironbound / Fancy Poultry](https://www.youtube.com/watch?v=wnV-DPmrkLk)
 - [In The Eye](https://www.youtube.com/watch?v=tXwmeEZPl0Y)
 - [Night Vision](https://www.youtube.com/watch?v=wsso9MAHYoc)
-- [Calypso](https://www.youtube.com/watch?v=I8ExnrHJRUA)
+- [Tom's Diner](https://www.youtube.com/watch?v=L9x-DENKIts)
 - [Language](https://www.youtube.com/watch?v=kISZKZqjUs4)
 - [Gypsy](https://www.youtube.com/watch?v=1kOG4FVuqG8)
 - [Wooden Horse (Casper Hauser's Song)](https://www.youtube.com/watch?v=nPBZDs5y2vg)
 - [Tom's Diner (Reprise)](https://www.youtube.com/watch?v=bnOQIfaNQso)
+- [Suzanne Vega / Solitude Standing (Live 1989) [Reworked]](https://www.youtube.com/watch?v=670I1bmTqMQ)
+- [Suzanne Vega - Solitude standing - Berlin 1990 Live](https://www.youtube.com/watch?v=xVrsAisqc0Q)
+- [Suzanne Vega - Solitude Standing - 2 Suzannes!](https://www.youtube.com/watch?v=k9oBDg1SZeQ)
+- [Suzanne Vega - Tom's Diner (Blue Tint Acapella Version)](https://www.youtube.com/watch?v=hxRuZ67vliY)
+- [Suzanne Vega - Wooden Horse (Caspar Hauser's Song) (1987 European Vinyl)](https://www.youtube.com/watch?v=I_tEHqfvroA)
 
 ## Release Images
 {{< imageGrid >}}

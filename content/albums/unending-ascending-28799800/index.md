@@ -18,6 +18,9 @@ genres: ["Rock"]
 styles: ["Psychedelic Rock", "Prog Rock"]
 ---
 
+Unending Ascending (subtitled A Pan-Galactic Suite by Gong) is a studio album by Gong, released on 3 November 2023 by Kscope.
+    
+    
 
 
 ## Tracklisting
@@ -26,7 +29,7 @@ styles: ["Psychedelic Rock", "Prog Rock"]
 3. Ship Of Ishtar
 4. O, Arcturus
 5. All Clocks Reset
-6. Choose Your Goodess
+6. Choose Your Goddess
 7. Lunar Invocation
 8. Asleep Do We Lay
 
@@ -35,20 +38,17 @@ styles: ["Psychedelic Rock", "Prog Rock"]
 
 
 ## Videos
-### Gong - All Clocks Reset - official video (from Unending Ascending)
-{{< youtube id="PVjU7LX0YiQ" title="Gong - All Clocks Reset - official video (from Unending Ascending)" >}}<br>
+### Gong - Tiny Galaxies  - Official Video
+{{< youtube id="jqoFLJlxpWw" title="Gong - Tiny Galaxies  - Official Video" >}}<br>
 ### More Videos
 
 - [Gong - My Guitar is a Spaceship - official video](https://www.youtube.com/watch?v=RrJRaWzXvW8)
-- [Gong - Tiny Galaxies  - Official Video](https://www.youtube.com/watch?v=jqoFLJlxpWw)
 - [Ship Of Ishtar](https://www.youtube.com/watch?v=dB76yqH7xzw)
-- [My Guitar is a Spaceship](https://www.youtube.com/watch?v=ZWAhQ0d24N0)
-- [GONG 'All Clocks Reset'](https://www.youtube.com/watch?v=bMYlvcTMRoI)
-- [Choose Your Goddess](https://www.youtube.com/watch?v=DMbxcF0pE0s)
-- [Tiny Galaxies](https://www.youtube.com/watch?v=5ST32lZqiMA)
 - [O, Arcturus](https://www.youtube.com/watch?v=f42GQp8R8kY)
-- [Asleep Do We Lay](https://www.youtube.com/watch?v=aOjAJl0jVRo)
+- [Gong - All Clocks Reset - official video (from Unending Ascending)](https://www.youtube.com/watch?v=PVjU7LX0YiQ)
+- [Choose Your Goddess](https://www.youtube.com/watch?v=DMbxcF0pE0s)
 - [Lunar Invocation](https://www.youtube.com/watch?v=xicXtuPSEhs)
+- [Asleep Do We Lay](https://www.youtube.com/watch?v=aOjAJl0jVRo)
 
 ## Release Images
 {{< imageGrid >}}
@@ -56,7 +56,9 @@ styles: ["Psychedelic Rock", "Prog Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
+| Wikipedia URL | https://en.wikipedia.org/wiki/Unending_Ascending |
 | Format         | Vinyl LP Album Limited Edition (Green Vinyl) |
 | Label          | Kscope |
 | Catalog Number | KSCOPE1293 |
+| Notes | Comes with an advertising sheet of K-scope releases. Pre-orders from the band's Bandcamp page and PlanetGong website came with an exclusive A5 limited edition art print, hand-numbered (xxxx/1000), and signed by the artist, Kavus Torabi. |
 | Discogs URL    | [Gong - Unending Ascending](https://www.discogs.com/release/28799800-Gong-Unending-Ascending) |

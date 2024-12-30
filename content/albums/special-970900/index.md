@@ -22,6 +22,11 @@ genres: ["Reggae"]
 styles: ["Reggae"]
 ---
 
+Special is an album by the Jamaican musician Jimmy Cliff, released in 1982. It was his first album for Columbia Records. Cliff supported the album with a North American tour coheadlined by Peter Tosh. He was disappointed with the commercial response to the album, claiming repeatedly that the tour would be his last. Special peaked at No. 186 on the Billboard 200. "Treat the Youths Right" was a significant hit in Jamaica.
+
+
+    
+    
 
 
 ## Tracklisting
@@ -46,16 +51,7 @@ styles: ["Reggae"]
 {{< youtube id="7t_56xBaLwY" title="Special" >}}<br>
 ### More Videos
 
-- [Jimmy Cliff - Roots Radical - (Special)](https://www.youtube.com/watch?v=JSc4-XYANZU)
-- [Jimmy Cliff - Originator - (Special)](https://www.youtube.com/watch?v=KCQ2HYjXGgc)
-- [Jimmy Cliff - Rock Children - (Special)](https://www.youtube.com/watch?v=zoaqgjTLRx0)
-- [Jimmy Cliff   Special](https://www.youtube.com/watch?v=E7tGME656_I)
-- [Jimmy Cliff - Rub A Dub Partner - (Special)](https://www.youtube.com/watch?v=5hP59-qo0i8)
-- [Treat the Youths Right](https://www.youtube.com/watch?v=6AYTozAXiT8)
-- [Keep On Dancing](https://www.youtube.com/watch?v=UfRxM6XNwDg)
-- [Rub-A-Dub Partners](https://www.youtube.com/watch?v=JFXQ7_Ou59Q)
-- [Rock Children](https://www.youtube.com/watch?v=OOWaTCeUgX0)
-- [Love Heights](https://www.youtube.com/watch?v=Jo23MfdC2_k)
+- [Jimmy Cliff - Special (Full Album)](https://www.youtube.com/watch?v=nYq8U4gkpYc)
 
 ## Release Images
 {{< imageGrid >}}
@@ -63,7 +59,8 @@ styles: ["Reggae"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl LP Album |
+| Wikipedia URL | https://en.wikipedia.org/wiki/Special_(Jimmy_Cliff_album) |
+| Format         | Vinyl LP Album Stereo |
 | Label          | CBS |
 | Catalog Number | CX 85878 |
 | Notes | ℗ 1982 CBS Inc./© 1982 CBS Inc. Made & Printed in Holland Printed inner sleeve with lyrics. CX Encoded Recording |

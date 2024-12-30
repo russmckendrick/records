@@ -16,12 +16,15 @@ additional_images:
     - "https://i.discogs.com/9gZJpRldeS008juN3J4dlQmfhGUkUfhXYT1KRPrwj88/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMDIw/ODE3LTE2NDM5ODM4/MDctNTkyNi5qcGVn.jpeg"
     - "https://i.discogs.com/ioBFoPbJzAHFg2plIi-hFlvM1iBc0OZbe2dMiGVx7ik/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMDIw/ODE3LTE2NDM5ODM4/MDgtNTI1MS5qcGVn.jpeg"
     - "https://i.discogs.com/2D7Hze6EtSDzTDaWDLpr78eBPzncatk5I8bDBN5WmxY/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMDIw/ODE3LTE2NDM5ODM4/MDgtMzAzNi5qcGVn.jpeg"
-    - "https://i.discogs.com/Ja-E7ERBS5ZZ0GGLs2Bn0Oo4qmWTfpQZmQ-Po-rwdz0/rs:fit/g:sm/q:90/h:800/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMDIw/ODE3LTE2NDM5ODM4/MDctODIxOC5qcGVn.jpeg"
+    - "https://i.discogs.com/s8IYjw0h1ZpSp-UOCvabamMFtT9kzFQYlTtHjMKxbw4/rs:fit/g:sm/q:90/h:600/w:449/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMDIw/ODE3LTE2NDM5ODM4/MDctODIxOC5qcGVn.jpeg"
+    - "https://i.discogs.com/PjUpdYk0zzGnoy7A7CJbciNsboTCLuFNFWWa8SxQS8U/rs:fit/g:sm/q:90/h:569/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMDIw/ODE3LTE2ODU4ODY2/NjgtNTM0NS5qcGVn.jpeg"
 genres: ["Rock"]
 styles: ["Alternative Rock", "Indie Rock"]
 ---
 
-I Am an Elastic Firecracker (stylized as i am an ELASTIC FIRECRACKER) is the second studio album by Tripping Daisy, released on June 20, 1995 through Island Records. It is the band's major label debut, and was produced by Ted Niceley. It featured the band's biggest hit, "I Got a Girl", whose video received extensive airplay on MTV. By 1998, the album had sold over 300,000 copies in the United States. The album was certified Platinum in Canada on May 1, 1998.
+I Am an Elastic Firecracker (stylized as i am an ELASTIC FIRECRACKER) is the second studio album by Tripping Daisy, released on June 20, 1995, through Island Records. It is the band's major label debut, and was produced by Ted Niceley. It featured the band's biggest hit, "I Got a Girl", whose video received extensive airplay on MTV. By 1998, the album had sold over 300,000 copies in the United States. The album was certified Platinum in Canada on May 1, 1998.
+
+
     
     
 
@@ -50,7 +53,12 @@ I Am an Elastic Firecracker (stylized as i am an ELASTIC FIRECRACKER) is the sec
 ### More Videos
 
 - [Rocketpop](https://www.youtube.com/watch?v=kpx5YaRm0hs)
+- [Noose](https://www.youtube.com/watch?v=ltSu-V_QPDY)
+- [Trip Along](https://www.youtube.com/watch?v=Hd9AQ_a8uXY)
+- [Tripping Daisy - Prick](https://www.youtube.com/watch?v=iwBWEjPX0qk)
 - [Tripping Daisy - Piranha](https://www.youtube.com/watch?v=_-JPNvS5yJA)
+- [Tripping Daisy - I Got A Girl](https://www.youtube.com/watch?v=eYI99xuI9CM)
+- [Rocketpop](https://www.youtube.com/watch?v=kpx5YaRm0hs)
 - [Noose](https://www.youtube.com/watch?v=ltSu-V_QPDY)
 - [Trip Along](https://www.youtube.com/watch?v=Hd9AQ_a8uXY)
 - [Tripping Daisy - Prick](https://www.youtube.com/watch?v=iwBWEjPX0qk)

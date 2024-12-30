@@ -1,31 +1,31 @@
 ---
-title: "Justin Townes Earle - ALL IN: Unreleased & Rarities (The New West Years)"
+title: "Justin Townes Earle - All In: Unreleased & Rarities (The New West Years)"
 artist_name: "Justin Townes Earle"
 artist: "justin-townes-earle"
-album_name: "ALL IN: Unreleased & Rarities (The New West Years)"
+album_name: "All In: Unreleased & Rarities (The New West Years)"
 date: 2024-08-13T04:37:34.000000Z
 release_id: "31381727"
 slug: "all-in-unreleased-rarities-the-new-west-years-31381727"
 hideSummary: true
 cover:
     image: "all-in-unreleased-rarities-the-new-west-years-31381727.jpg"
-    alt: "ALL IN: Unreleased & Rarities (The New West Years) by Justin Townes Earle"
-    caption: "ALL IN: Unreleased & Rarities (The New West Years) by Justin Townes Earle"
+    alt: "All In: Unreleased & Rarities (The New West Years) by Justin Townes Earle"
+    caption: "All In: Unreleased & Rarities (The New West Years) by Justin Townes Earle"
 additional_images:
-    - "https://i.discogs.com/4QN1mH35SiZL20dI0uMmJsK_bGJZYtqWM4hoHBWS-Bw/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxMzgx/NzI3LTE3MjI2Mjky/MzAtMzE2OS5qcGVn.jpeg"
+    - "https://i.discogs.com/CE7o-DfRRua52yc8i7BHjnghVD86E6sA-cwJKdPxu00/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxMzgx/NzI3LTE3MjI2Mjky/MzAtMzE2OS5qcGVn.jpeg"
     - "https://i.discogs.com/yKa4kpS7yvnU7Arpa27u1A6YSMSuxRepj392E_u9ysY/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxMzgx/NzI3LTE3MjI2Mjky/MzEtNjM4Ni5qcGVn.jpeg"
-    - "https://i.discogs.com/PlBK6pSfvRAoJVXtXgL88dlJZivrc8JKjjEwI5AD3TU/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxMzgx/NzI3LTE3MjI2Mjky/MzItNzUwNi5qcGVn.jpeg"
-    - "https://i.discogs.com/s_Bg-3HlRSRNEoJH3Hsn-g75Y1pEjJIsImQSw4FDfwY/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxMzgx/NzI3LTE3MjI2Mjky/MzAtNTMyNi5qcGVn.jpeg"
+    - "https://i.discogs.com/HrycB4eTjp2MxRIsX7_FjSmb-xE7zH54JtB0ij8KELU/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxMzgx/NzI3LTE3MjI2Mjky/MzItNzUwNi5qcGVn.jpeg"
+    - "https://i.discogs.com/QUhgfrBRW5c9mvpeOT_rrpN_3gJanrDfZIp_FoHqmrc/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxMzgx/NzI3LTE3MjI2Mjky/MzAtNTMyNi5qcGVn.jpeg"
     - "https://i.discogs.com/J9kqdFmGYm8khYCUoxuWIwe1UUiEYgGnIBAWtlM1xcU/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxMzgx/NzI3LTE3MjI2Mjky/MzEtNDY2OC5qcGVn.jpeg"
-    - "https://i.discogs.com/vyxV8uEmc0VQ8UF2QaxALIWIMx1_oE6KAIIQ1y_-u48/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxMzgx/NzI3LTE3MjI2Mjky/MzMtNzE2NC5qcGVn.jpeg"
-    - "https://i.discogs.com/J4VVNbVADyP7S7d4TsaLxeGlFWk2P5_-sxz7xvtgEbI/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxMzgx/NzI3LTE3MjI2Mjky/MzItODkzNC5qcGVn.jpeg"
-    - "https://i.discogs.com/Dah0geTwgYwlELJCETBqJlHR8UuA3muC950rfnmIprw/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxMzgx/NzI3LTE3MjI2Mjky/MzEtMTkyMi5qcGVn.jpeg"
-    - "https://i.discogs.com/TXVs6K9EnzRs3k-F7K7HyoQ52dPo54K-nmVx_wF1xXo/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxMzgx/NzI3LTE3MjI2Mjky/MzItNTM3OS5qcGVn.jpeg"
-    - "https://i.discogs.com/IQk5g8G-UIYIGJOA8ptfPU5iqY1yRO2Dlpe_hU-Lt2E/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxMzgx/NzI3LTE3MjI2Mjky/MjktODYwOC5qcGVn.jpeg"
-    - "https://i.discogs.com/Kw8Fr3LR_5EVNbHCdSlVFhvc55VIW8X-BbMoQBvfZwo/rs:fit/g:sm/q:90/h:799/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxMzgx/NzI3LTE3MjI2Mjky/MzMtOTEyOC5qcGVn.jpeg"
-    - "https://i.discogs.com/Ir0umATyYuwks2siI3x-4Xpxfc_m1bmAfy5WhAMerKM/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxMzgx/NzI3LTE3MjI2Mjky/MzEtMzU1Mi5qcGVn.jpeg"
-    - "https://i.discogs.com/apgwQPGjyTX6_TGtA2SV9Ooy-cwMYQcyhtcYLBI8pWg/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxMzgx/NzI3LTE3MjI2Mjky/MzItNzUxOC5qcGVn.jpeg"
-    - "https://i.discogs.com/Upkg0kWm8QpR5vfpqcP-fG0xF4TOaVMqLjBbP_zY7iw/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxMzgx/NzI3LTE3MjI2Mjky/MjUtMzk3MS5qcGVn.jpeg"
+    - "https://i.discogs.com/2fmbat99v_wyxuXFWqvppFg6djTlPGr1kDvDqpkyGhk/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxMzgx/NzI3LTE3MjI2Mjky/MzMtNzE2NC5qcGVn.jpeg"
+    - "https://i.discogs.com/crpmqmQRyOndbx-zpKbbki2MzKAud4CwHPXuz9bPSJs/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxMzgx/NzI3LTE3MjI2Mjky/MzItODkzNC5qcGVn.jpeg"
+    - "https://i.discogs.com/HHd9uM0oTZ5J78Dd3y2TyjMWYdwQIwb8gmlfEZBwHtY/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxMzgx/NzI3LTE3MjI2Mjky/MzEtMTkyMi5qcGVn.jpeg"
+    - "https://i.discogs.com/Qbbz9kKk-PKJzu2POPCj4G0S2LZPURdqylx3L24lPhw/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxMzgx/NzI3LTE3MjI2Mjky/MzItNTM3OS5qcGVn.jpeg"
+    - "https://i.discogs.com/W0U-rH_IrbOP6IOAQqSl7fuCeY_IxlUKYJjl71aRdgM/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxMzgx/NzI3LTE3MjI2Mjky/MjktODYwOC5qcGVn.jpeg"
+    - "https://i.discogs.com/4214QgS4WesVYMdAcdBxIUbDm43LH9DM2Ggjfy-xBCQ/rs:fit/g:sm/q:90/h:600/w:450/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxMzgx/NzI3LTE3MjI2Mjky/MzMtOTEyOC5qcGVn.jpeg"
+    - "https://i.discogs.com/8AfWJ2dokc1Qjp8FoHr1duPa70VQvFBnk_8LpRXSFbQ/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxMzgx/NzI3LTE3MjI2Mjky/MzEtMzU1Mi5qcGVn.jpeg"
+    - "https://i.discogs.com/NXizP3MKuqdnmnBOEWyDq9bKf2JWpG-WpzXJuF0H9AQ/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxMzgx/NzI3LTE3MjI2Mjky/MzItNzUxOC5qcGVn.jpeg"
+    - "https://i.discogs.com/7jOA4LyEwexgIqeNg3DV-mDXZoGJ6-CvREopp9VwFpU/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxMzgx/NzI3LTE3MjI2Mjky/MjUtMzk3MS5qcGVn.jpeg"
 genres: ["Folk, World, & Country"]
 styles: []
 ---
@@ -57,7 +57,13 @@ styles: []
 {{< applemusic url="https://music.apple.com/gb/album/all-in-unreleased-rarities-the-new-west-years/1750016771" >}}<br>
 
 
+## Videos
+### Justin Townes Earle - "Cold Comfort" [Official Audio]
+{{< youtube id="Nkarq0Dm5Vo" title="Justin Townes Earle - "Cold Comfort" [Official Audio]" >}}<br>
+### More Videos
 
+- [Justin Townes Earle - "Already Gone" [Official Audio]](https://www.youtube.com/watch?v=qcmodLoOWWY)
+- [Justin Townes Earle - "I Know You" [Official Audio]](https://www.youtube.com/watch?v=THDmaZPQdE4)
 
 ## Release Images
 {{< imageGrid >}}
@@ -69,4 +75,4 @@ styles: []
 | Label          | New West Records |
 | Catalog Number | NW5797 |
 | Notes | 140g gold nugget color vinyl  12", 2-LP, gatefold Rigid Slipcase 52-page photobook Numbered 0001-1000 (numbered copies exceed 1000) |
-| Discogs URL    | [Justin Townes Earle - ALL IN: Unreleased & Rarities (The New West Years)](https://www.discogs.com/release/31381727-Justin-Townes-Earle-ALL-IN-Unreleased-Rarities-The-New-West-Years) |
+| Discogs URL    | [Justin Townes Earle - All In: Unreleased & Rarities (The New West Years)](https://www.discogs.com/release/31381727-Justin-Townes-Earle-All-In-Unreleased-Rarities-The-New-West-Years) |

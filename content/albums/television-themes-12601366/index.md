@@ -20,6 +20,9 @@ genres: ["Electronic", "Jazz", "Rock", "Pop", "Folk, World, & Country", "Stage &
 styles: ["Theme"]
 ---
 
+Television Themes is the seventh studio album by English comedian and musician Matt Berry, released in October 2018 by Acid Jazz Records. The album includes Berry's reworked versions of television theme tunes from the 1960s to the 1980s. It reached number 38 in the UK Albums Chart.
+    
+    
 
 
 ## Tracklisting
@@ -61,6 +64,21 @@ styles: ["Theme"]
 - [Wildtrak](https://www.youtube.com/watch?v=DpmVDmDuK7g)
 - [Picture Box](https://www.youtube.com/watch?v=kE0zAi8s2ck)
 - [LWT](https://www.youtube.com/watch?v=1WwYWczgfmQ)
+- [The Good Life](https://www.youtube.com/watch?v=XiaGzoiHX1s)
+- [Are You Being Served?](https://www.youtube.com/watch?v=pinYgTWT6Ik)
+- [Blankety Blank](https://www.youtube.com/watch?v=W8R9s0OuQ_w)
+- [Sorry](https://www.youtube.com/watch?v=hL_rsGOWFqg)
+- [World In Action](https://www.youtube.com/watch?v=lE851dFthm8)
+- [Open University](https://www.youtube.com/watch?v=yEiZY1XYuYo)
+- [The Liver Birds](https://www.youtube.com/watch?v=oprq1yXttEg)
+- [Doctor Who](https://www.youtube.com/watch?v=QjAm6HuGnmQ)
+- [Rainbow](https://www.youtube.com/watch?v=ad4aCatN_xs)
+- [World In Action](https://www.youtube.com/watch?v=fRtjVNVvqKM)
+- [Thames Television](https://www.youtube.com/watch?v=wwSF3chj1Xg)
+- [Top Of The Pops](https://www.youtube.com/watch?v=xG59HcHphi4)
+- [Wildtrak](https://www.youtube.com/watch?v=DpmVDmDuK7g)
+- [Picture Box](https://www.youtube.com/watch?v=kE0zAi8s2ck)
+- [LWT](https://www.youtube.com/watch?v=1WwYWczgfmQ)
 
 ## Release Images
 {{< imageGrid >}}
@@ -68,8 +86,9 @@ styles: ["Theme"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
+| Wikipedia URL | https://en.wikipedia.org/wiki/Television_Themes |
 | Format         | Vinyl LP Album (Orange) |
 | Label          | Acid Jazz |
 | Catalog Number | AJXLP450 |
 | Notes | "Halloween" orange vinyl.  Sleeve signed by Matt Berry.  Front cover states Matt Berry, rear cover Matt Berry and the Maypoles, labels Matt Berry and the Maypoles. |
-| Discogs URL    | [Matt Berry - Television Themes](https://www.discogs.com/release/12601366-Matt-Berry-Television-Themes) |
+| Discogs URL    | [Matt Berry - Television Themes](https://www.discogs.com/release/12601366-Matt-Berry-3-Television-Themes) |

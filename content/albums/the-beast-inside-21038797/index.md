@@ -12,17 +12,22 @@ cover:
     alt: "The Beast Inside by Inspiral Carpets"
     caption: "The Beast Inside by Inspiral Carpets"
 additional_images:
-    - "https://i.discogs.com/wsOxGZgQiai0CFUqDYnIWz6Jsbja7veTBE8C1vTa44Q/rs:fit/g:sm/q:90/h:616/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMDM4/Nzk3LTE2MzczMjAw/MDMtNzg5Ni5qcGVn.jpeg"
-    - "https://i.discogs.com/6yCS06bTlxmqjANpbK5aE8mcks5DyHTP3tV7Kd4Vdcc/rs:fit/g:sm/q:90/h:626/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMDM4/Nzk3LTE2MzczMjAw/MjctODMwMS5qcGVn.jpeg"
-    - "https://i.discogs.com/-h3TzGuJcMjS4fbQcuEOHbLFdItK3kFICGkY8Y53zg4/rs:fit/g:sm/q:90/h:608/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMDM4/Nzk3LTE2MzczMjE2/NzItMzA0NS5qcGVn.jpeg"
-    - "https://i.discogs.com/Nm5dfwW4_tKSIb34jApAGdjVuCIqNNVC7tIxeQomkt8/rs:fit/g:sm/q:90/h:604/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMDM4/Nzk3LTE2MzczMjE2/NzItNzE2Ny5qcGVn.jpeg"
-    - "https://i.discogs.com/Z94TiIXK6JEnbsOmgOC81MW_LTnvEkMKwhbDoZYAarQ/rs:fit/g:sm/q:90/h:632/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMDM4/Nzk3LTE2MzczMjE2/NzItMjQxNi5qcGVn.jpeg"
-    - "https://i.discogs.com/qUrZSsyFhTyjGjs4TMVBZhMOtT90DjGHluE87EJD1W4/rs:fit/g:sm/q:90/h:606/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMDM4/Nzk3LTE2MzczMjE2/NzItMjQ0NC5qcGVn.jpeg"
-    - "https://i.discogs.com/iowzrohqDjuF2u2-inKxt7WBvFonLoUpCI816bVVrHs/rs:fit/g:sm/q:90/h:631/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMDM4/Nzk3LTE2MzczMjE2/NzItNjgxNC5qcGVn.jpeg"
+    - "https://i.discogs.com/Mf8d3D82pWqquoUyLfe2GMq6wSA3qiVBALd1nbmi7to/rs:fit/g:sm/q:90/h:600/w:584/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMDM4/Nzk3LTE2MzczMjAw/MDMtNzg5Ni5qcGVn.jpeg"
+    - "https://i.discogs.com/Zy4LVa-2jmjt7syDFDzxXrYCl7CmuTrEAoxKMDHZPy4/rs:fit/g:sm/q:90/h:600/w:574/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMDM4/Nzk3LTE2MzczMjAw/MjctODMwMS5qcGVn.jpeg"
+    - "https://i.discogs.com/gcWSk3MNmR3NLCo6XirycIEuAm07Eo7u6WBVq4xapdU/rs:fit/g:sm/q:90/h:600/w:591/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMDM4/Nzk3LTE2MzczMjE2/NzItMzA0NS5qcGVn.jpeg"
+    - "https://i.discogs.com/SWlwV4aD0mGPTb0y79nTPjJloOtNBtuxP5UwVDTpOUc/rs:fit/g:sm/q:90/h:600/w:595/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMDM4/Nzk3LTE2MzczMjE2/NzItNzE2Ny5qcGVn.jpeg"
+    - "https://i.discogs.com/PqcsWTGb0QzojxtYj2yVlr4030kqUdlnURXMEzxKhq0/rs:fit/g:sm/q:90/h:600/w:568/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMDM4/Nzk3LTE2MzczMjE2/NzItMjQxNi5qcGVn.jpeg"
+    - "https://i.discogs.com/wb3kzJMn4oSh0jfKeFprg8o10w9-xAy3HpWrG8i70fA/rs:fit/g:sm/q:90/h:600/w:593/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMDM4/Nzk3LTE2MzczMjE2/NzItMjQ0NC5qcGVn.jpeg"
+    - "https://i.discogs.com/H_coxFF-68B-IfBM6AkmIFCRssw0iV97wuLAPTpMZgg/rs:fit/g:sm/q:90/h:600/w:570/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMDM4/Nzk3LTE2MzczMjE2/NzItNjgxNC5qcGVn.jpeg"
+    - "https://i.discogs.com/AucWURUsjqxCJz6PotfGbjE1D_Tkot7v8Dv-qNvK5ko/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMDM4/Nzk3LTE3MzA1NDU3/MjItMzAxNC5wbmc.jpeg"
 genres: ["Pop"]
 styles: ["Indie Pop"]
 ---
 
+The Beast Inside is the second studio album from British indie rock band Inspiral Carpets. It was released on 22 April 1991 on Mute Records.
+The album made the Top 10 in the United Kingdom.
+    
+    
 
 
 ## Tracklisting
@@ -39,7 +44,7 @@ styles: ["Indie Pop"]
 11. Dreams Are All We Have
 
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/the-beast-inside/1144277578" >}}<br>
+{{< applemusic url="https://music.apple.com/gb/album/the-beast-inside/1435624385" >}}<br>
 
 
 ## Videos
@@ -63,6 +68,7 @@ styles: ["Indie Pop"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
+| Wikipedia URL | https://en.wikipedia.org/wiki/The_Beast_Inside |
 | Format         | Vinyl 2× LP Album Limited Edition Reissue Stereo (Purple Transparent) |
 | Label          | Mute |
 | Catalog Number | Ldung14 |

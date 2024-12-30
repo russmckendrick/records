@@ -13,17 +13,18 @@ cover:
     alt: "Gravity Stairs by Crowded House"
     caption: "Gravity Stairs by Crowded House"
 additional_images:
-    - "https://i.discogs.com/jfPd8QfGFarf7e2l1nk-2YbYrGhjeAfxSwdpccxpXhQ/rs:fit/g:sm/q:90/h:608/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwODMw/MzA3LTE3MTcxNDMx/MjgtNDE1NS5qcGVn.jpeg"
-    - "https://i.discogs.com/2j24prxxW7I6JyuB1Qv5q0w2PmqfOhsQ84xywn4fRNQ/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwODMw/MzA3LTE3MTcxNDMx/MjgtNzQwMC5qcGVn.jpeg"
-    - "https://i.discogs.com/gG2yY5gl6UKzVyHjqYxGALKaZ3re41UfkgXYeE8ft80/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwODMw/MzA3LTE3MTcxNzA5/ODAtMzI5NC5qcGVn.jpeg"
-    - "https://i.discogs.com/9hhzPd3af7pfdp9ivQYndnXW7XhupMkNt-AArYM7LVk/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwODMw/MzA3LTE3MTcxNzA5/ODAtNTYxNy5qcGVn.jpeg"
+    - "https://i.discogs.com/jZkwWS6H167QNBWJYFZ1gdprxaZmg-WESsSzIxspb5A/rs:fit/g:sm/q:90/h:600/w:591/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwODMw/MzA3LTE3MTcxNDMx/MjgtNDE1NS5qcGVn.jpeg"
     - "https://i.discogs.com/hO04K_PT8Rwr12Psz2lvdN9bJOFEG14Jsq_H6WzvEH4/rs:fit/g:sm/q:90/h:298/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwODMw/MzA3LTE3MTcxNDMx/MjktMjAyMy5qcGVn.jpeg"
+    - "https://i.discogs.com/RviGZsM19Y6VTb90_EbnoCnhqG-IjosF_dBOtxQIGr4/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwODMw/MzA3LTE3MTcxNDMx/MjgtNzQwMC5qcGVn.jpeg"
+    - "https://i.discogs.com/OFPIMIETWRDdwNxs1yqeE3iRgQu7r_ddfXPnO-6K_Cs/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwODMw/MzA3LTE3MjE4NTI5/MjAtNjIyMy5qcGVn.jpeg"
+    - "https://i.discogs.com/oAZSJ-GoUVuyAqXQb8GFSh-EPWM_um7R0gbOEoV-lP0/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwODMw/MzA3LTE3MjE4NTI5/MjAtMzIyMy5qcGVn.jpeg"
     - "https://i.discogs.com/L585CI3TrWPi5BBOPEQPNE2C22e7IkNBcxX-Zx2Bja0/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwODMw/MzA3LTE3MTcxNDMx/MjgtNzcxOC5qcGVn.jpeg"
     - "https://i.discogs.com/qsHCf-LtJvydvfN9Et3OVIhIbBRkrUJP3Yhy_yJkdbo/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwODMw/MzA3LTE3MTcxNDMx/MjgtMTAyNS5qcGVn.jpeg"
     - "https://i.discogs.com/mFd9EJlDkGlfRyYR2aVGg2Es0T4QKaZfid7NLEbP0ZY/rs:fit/g:sm/q:90/h:558/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwODMw/MzA3LTE3MTcxNDMx/MjgtNjA5Ni5qcGVn.jpeg"
     - "https://i.discogs.com/6FPqmwq5EshJUeMFZOkDKFUHTx_R48RHBw8O4T4OSFA/rs:fit/g:sm/q:90/h:500/w:348/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwODMw/MzA3LTE3MTcyMDky/MjUtNzM2My5qcGVn.jpeg"
+    - "https://i.discogs.com/v7HPQOA0FM5f25QJYIw1KUgfzNLNZdfB_OXew4VA2Zk/rs:fit/g:sm/q:90/h:64/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwODMw/MzA3LTE3MjE4NTI5/MTgtNDgwMC5qcGVn.jpeg"
 genres: ["Rock", "Pop"]
-styles: ["AOR", "Dream Pop"]
+styles: ["AOR", "Pop Rock", "Dream Pop"]
 ---
 
 While speaking with Apple Music’s Zane Lowe about Crowded House’s eighth studio album, <i>Gravity Stairs</i>, vocalist/guitarist (and primary songwriter) Neil Finn noted that, “People have said that there’s a dreamy sort of semi-psychedelic atmosphere that runs through the record. It’s not something we ever discussed, but...we were excited about having layers and atmospheres through the record.”
@@ -60,14 +61,31 @@ The LP’s cover was drawn by bassist Seymour and pays homage to The Beatles’ 
 
 
 ## Videos
-### CROWDED HOUSE - I CAN'T KEEP UP WITH YOU (OFFICIAL LYRIC VIDEO)
-{{< youtube id="YlWSF6g6gWs" title="CROWDED HOUSE - I CAN'T KEEP UP WITH YOU (OFFICIAL LYRIC VIDEO)" >}}<br>
+### CROWDED HOUSE - MAGIC PIANO (OFFICIAL LYRIC VIDEO)
+{{< youtube id="nSdHrnzD_KA" title="CROWDED HOUSE - MAGIC PIANO (OFFICIAL LYRIC VIDEO)" >}}<br>
 ### More Videos
 
-- [CROWDED HOUSE - THE HOWL (OFFICIAL MUSIC VIDEO)](https://www.youtube.com/watch?v=MFln0Ll2s6A)
-- [CROWDED HOUSE - OH HI (OFFICIAL MUSIC VIDEO)](https://www.youtube.com/watch?v=_uMmTV4oGaA)
-- [CROWDED HOUSE - BLURRY GRASS (OFFICIAL LYRIC VIDEO)](https://www.youtube.com/watch?v=cL8JV-G2QD8)
 - [CROWDED HOUSE - TEENAGE SUMMER (OFFICIAL MUSIC VIDEO)](https://www.youtube.com/watch?v=DDXlz2srXOg)
+- [CROWDED HOUSE - THE HOWL (OFFICIAL MUSIC VIDEO)](https://www.youtube.com/watch?v=MFln0Ll2s6A)
+- [CROWDED HOUSE - ALL THAT I CAN EVER OWN (OFFICIAL LYRIC VIDEO)](https://www.youtube.com/watch?v=wvFCiFVz3Xs)
+- [CROWDED HOUSE - OH HI (OFFICIAL MUSIC VIDEO)](https://www.youtube.com/watch?v=_uMmTV4oGaA)
+- [CROWDED HOUSE - SOME GREATER PLAN (OFFICIAL LYRIC VIDEO)](https://www.youtube.com/watch?v=_Ymj6gmlGCM)
+- [CROWDED HOUSE - BLACK WATER WHITE CIRCLE (OFFICIAL LYRIC VIDEO)](https://www.youtube.com/watch?v=6J8pCgS33Bs)
+- [CROWDED HOUSE - BLURRY GRASS (OFFICIAL LYRIC VIDEO)](https://www.youtube.com/watch?v=cL8JV-G2QD8)
+- [CROWDED HOUSE - I CAN'T KEEP UP WITH YOU (OFFICIAL LYRIC VIDEO)](https://www.youtube.com/watch?v=YlWSF6g6gWs)
+- [CROWDED HOUSE - THIRSTY (OFFICIAL LYRIC VIDEO)](https://www.youtube.com/watch?v=dP8fsH7NhVs)
+- [CROWDED HOUSE - NIGHT SONG (OFFICIAL LYRIC VIDEO)](https://www.youtube.com/watch?v=6SBF7vMxK9c)
+- [CROWDED HOUSE - MAGIC PIANO (OFFICIAL LYRIC VIDEO)](https://www.youtube.com/watch?v=nSdHrnzD_KA)
+- [CROWDED HOUSE - TEENAGE SUMMER (OFFICIAL MUSIC VIDEO)](https://www.youtube.com/watch?v=DDXlz2srXOg)
+- [CROWDED HOUSE - THE HOWL (OFFICIAL MUSIC VIDEO)](https://www.youtube.com/watch?v=MFln0Ll2s6A)
+- [CROWDED HOUSE - ALL THAT I CAN EVER OWN (OFFICIAL LYRIC VIDEO)](https://www.youtube.com/watch?v=wvFCiFVz3Xs)
+- [CROWDED HOUSE - OH HI (OFFICIAL MUSIC VIDEO)](https://www.youtube.com/watch?v=_uMmTV4oGaA)
+- [CROWDED HOUSE - SOME GREATER PLAN (OFFICIAL LYRIC VIDEO)](https://www.youtube.com/watch?v=_Ymj6gmlGCM)
+- [CROWDED HOUSE - BLACK WATER WHITE CIRCLE (OFFICIAL LYRIC VIDEO)](https://www.youtube.com/watch?v=6J8pCgS33Bs)
+- [CROWDED HOUSE - BLURRY GRASS (OFFICIAL LYRIC VIDEO)](https://www.youtube.com/watch?v=cL8JV-G2QD8)
+- [CROWDED HOUSE - I CAN'T KEEP UP WITH YOU (OFFICIAL LYRIC VIDEO)](https://www.youtube.com/watch?v=YlWSF6g6gWs)
+- [CROWDED HOUSE - THIRSTY (OFFICIAL LYRIC VIDEO)](https://www.youtube.com/watch?v=dP8fsH7NhVs)
+- [CROWDED HOUSE - NIGHT SONG (OFFICIAL LYRIC VIDEO)](https://www.youtube.com/watch?v=6SBF7vMxK9c)
 
 ## Release Images
 {{< imageGrid >}}
@@ -76,8 +94,8 @@ The LP’s cover was drawn by bassist Seymour and pays homage to The Beatles’ 
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Gravity_Stairs |
-| Format         | Vinyl LP Album (Blue [Cloudy]) |
+| Format         | Vinyl LP Album Stereo (Blue [Cloudy]) |
 | Label          | BMG |
 | Catalog Number | 4099964027372 |
-| Notes | Gatefold sleeve. Management - Carl Stubner & Dave Gibson for Shelter Music Group. "Additional recording at our homes." ℗© 2024 Lester Records Ltd under exclusive license to BMG Rights Management (Australia) Pty Ltd.  Original packaging is shrink wrapped with two stickers:   - One with the band, album name and barcode along with the inscription "Standard Vinyl" and the cat number 964027371   - One stating "Made in Czech Republic"  Note: There were apparently no black vinyl original pressings. LP in the "Standard Vinyl" package is cloudy blue. |
+| Notes | Gatefold sleeve. Includes a printed inner sleeve with track list on one side and lyrics on the other.  Catalog numbers: 4099964027372 (on back cover) 964027371 (on sticker and side B label)  Runouts are machine etched.  [Back cover:] All Songs [...] (BMG Publishing) except: The Howl [...] (Mushroom Music Publishing), Some Greater Plan (for Claire) [...] (BMG Publishing / Mushroom Music Publishing), Blurry Glass [...] (Control) and [...] (BMG Publishing), Can't Keep Up With You [...] (BMG Publishing / Mushroom Music Publishing), Thirsty [...] (Control / BMG Publishing)  Recorded at Music Farm Studios - Byron Bay, Roundhead Studios - Auckland, LaLa Mansion Studios - Los Angeles, La Fabrique Studios St Remy de Provence. Additional Recording at our homes. All songs mixed at Roundhead Studios - Auckland New Zealand. All songs mastered [...] at Gateway Mastering - Portland Maine USA  'Oh Hi' was inspired and created for the children of 'So They Can' schools in Kenya and Tanzania.  ℗© 2024 Lester Records Ltd under exclusive license to BMG Rights Management (Australia) Pty Ltd.  Antonis Moraitis misspelled as "Antonis Moriatis" on the back cover.  Original packaging is shrink wrapped with two stickers:   - One with the band, album name and barcode along with the inscription "Standard Vinyl" and the catalog number 964027371.   - One stating "Made in Czech Republic".   - Additionally, there is a printing on the shrink wrap stating "Made in Canada".  Note: There were apparently no black vinyl original pressings. LP in the "Standard Vinyl" package is cloudy blue. |
 | Discogs URL    | [Crowded House - Gravity Stairs](https://www.discogs.com/release/30830307-Crowded-House-Gravity-Stairs) |

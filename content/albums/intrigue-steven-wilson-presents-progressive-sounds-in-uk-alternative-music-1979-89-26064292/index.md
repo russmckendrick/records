@@ -12,10 +12,10 @@ cover:
     alt: "Intrigue (Steven Wilson Presents: Progressive Sounds In UK Alternative Music 1979-89) by Steven Wilson"
     caption: "Intrigue (Steven Wilson Presents: Progressive Sounds In UK Alternative Music 1979-89) by Steven Wilson"
 additional_images:
-    - "https://i.discogs.com/q3JLFQ41C-rrrwjlVXzSv7tL3oCGBEaIpfP6_g5bzfE/rs:fit/g:sm/q:90/h:800/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2MDY0/MjkyLTE2Nzc2Mzg0/NDktOTcwMi5qcGVn.jpeg"
-    - "https://i.discogs.com/MC-h-09wDLouyOh4ct7m3wwiRwtSM4IeQSpYq3hta90/rs:fit/g:sm/q:90/h:800/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2MDY0/MjkyLTE2Nzc2Mzg0/NDktMzI1NS5qcGVn.jpeg"
-    - "https://i.discogs.com/hwbgmTdF9NbaIGmVvYM0Gr5EiF_yysZDRQxovGKP3kc/rs:fit/g:sm/q:90/h:800/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2MDY0/MjkyLTE2Nzc2Mzg0/NDktNTYzNi5qcGVn.jpeg"
-    - "https://i.discogs.com/6wjT1EhnUagTnNuWAQZDBIW_ddGANoFuh4xFyvc3QQw/rs:fit/g:sm/q:90/h:1687/w:340/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2MDY0/MjkyLTE2Nzc2Mzg0/NDgtMzgwNC5qcGVn.jpeg"
+    - "https://i.discogs.com/hT7rBeTELdIkyb_4oC9LrjFWmTmkoP0Y8Zr3j9xfgbY/rs:fit/g:sm/q:90/h:600/w:450/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2MDY0/MjkyLTE2Nzc2Mzg0/NDktOTcwMi5qcGVn.jpeg"
+    - "https://i.discogs.com/OVmbt1MI8c90liK9zBWNN0rz5E3sJfNNjUEK1lQPi4s/rs:fit/g:sm/q:90/h:600/w:450/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2MDY0/MjkyLTE2Nzc2Mzg0/NDktMzI1NS5qcGVn.jpeg"
+    - "https://i.discogs.com/lQij-M7vZNMRWSmlYX26LO5h2_kuBIpF91CDqAAIKCY/rs:fit/g:sm/q:90/h:600/w:450/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2MDY0/MjkyLTE2Nzc2Mzg0/NDktNTYzNi5qcGVn.jpeg"
+    - "https://i.discogs.com/L3uD5255Z5Tyh260r3C5OshdzsAe6SN86WCOnQsIv_Q/rs:fit/g:sm/q:90/h:600/w:120/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2MDY0/MjkyLTE2Nzc2Mzg0/NDgtMzgwNC5qcGVn.jpeg"
 genres: ["Electronic", "Jazz", "Rock", "Reggae", "Funk / Soul", "Pop", "Folk, World, & Country"]
 styles: ["Alternative Rock", "Ambient", "Art Rock", "Avantgarde", "Electro", "Ethereal", "Experimental", "Funk", "Goth Rock", "House", "Indie Pop", "Indie Rock", "Industrial", "Leftfield", "Lounge", "Modern Classical", "New Wave", "Noise", "Pop Rock", "Post-Punk", "Prog Rock", "Punk", "Rocksteady", "Ska", "Synth-pop", "Tribal"]
 ---
@@ -69,7 +69,7 @@ styles: ["Alternative Rock", "Ambient", "Art Rock", "Avantgarde", "Electro", "Et
 44. Dream Within A Dream (9:08)
 45. Waking The Witch (4:19)
 46. Ivy And Neet (4:51)
-47. Beehead (7” Version) (4:13)
+47. Beehead (7" Version) (4:13)
 48. This Corrosion (9:31)
 49. Ascension (5:57)
 50. Gutter Busting (3:17)
@@ -89,11 +89,18 @@ styles: ["Alternative Rock", "Ambient", "Art Rock", "Avantgarde", "Electro", "Et
 {{< youtube id="0TZbOz1Pz5o" title="Wire - I should have known better" >}}<br>
 ### More Videos
 
-- [Joy Division - The Eternal](https://www.youtube.com/watch?v=L5NpJa72-Bc)
 - [A Better Home in the Phantom Zone (1999 Remastered Version)](https://www.youtube.com/watch?v=1m6DAvVurVE)
-- [New Order - The Him [High Quality]](https://www.youtube.com/watch?v=lg7ZtIYvWjw)
 - [XTC - Complicated Game (remastered)](https://www.youtube.com/watch?v=L_QFMuieWiI)
+- [Wire - I should have known better](https://www.youtube.com/watch?v=0TZbOz1Pz5o)
+- [A Better Home in the Phantom Zone (1999 Remastered Version)](https://www.youtube.com/watch?v=1m6DAvVurVE)
+- [XTC - Complicated Game (remastered)](https://www.youtube.com/watch?v=L_QFMuieWiI)
+- [Joy Division - The Eternal](https://www.youtube.com/watch?v=L5NpJa72-Bc)
+- [New Order - The Him [High Quality]](https://www.youtube.com/watch?v=lg7ZtIYvWjw)
 - [Steven Wilson Presents: Intrigue-Progressive Sounds In Uk Alternative Music 1979-89 Reseña](https://www.youtube.com/watch?v=qV7uXAHPKEk)
+- [Steven Wilson presents Intrigue: Progressive Sounds In UK Alternative Music 1979-89 (Trailer)](https://www.youtube.com/watch?v=bNJPBA-hkNs)
+- [Steven Wilson "Intrigue: Progressive Sounds in UK alternative music 1979-89" ALBUM REVIEW](https://www.youtube.com/watch?v=WRlzxCa4elY)
+- [Steven Wilson Presents: Intrigue-Progressive Sounds In Uk Alternative Music 1979-89 Reseña](https://www.youtube.com/watch?v=qV7uXAHPKEk)
+- [Steven Wilson presents Intrigue - Rough Trade Event Reminder #shorts](https://www.youtube.com/watch?v=MVzZXSma_1I)
 
 ## Release Images
 {{< imageGrid >}}
@@ -104,5 +111,5 @@ styles: ["Alternative Rock", "Ambient", "Art Rock", "Avantgarde", "Electro", "Et
 | Format         | Box Set Compilation Limited Edition, Vinyl 7× LP Compilation (140g) |
 | Label          | Demon Records |
 | Catalog Number | DEMRECBOX78X |
-| Notes | UK limited edition box set 7 x 140g vinyl compilation.  An exclusive signed edition includes a limited edition print (1,000 copies worldwide) signed by Steven Wilson.  58 tracks exploring the creativity, experimentation, and progressive spirit of alternative British music from 1979 to 1989  Includes a 40-page booklet with extensive liner notes by James Nice and an introduction from Steven Wilson.  This compilation ℗ & © 2023 Demon Music Group.   Marketed by Demon Records, a division of Demon Music Group Limited, London W12 7FA.   The Demon Music Group is a BBC Studios company.   Made in the EU.   DEMRECBOX78X www.demonmusicgroup.co.uk  Three other versions exist: *  [url=/release/26078881]DEMRECBOX78 / 5014797908376 - (7 x 140g Black Vinyl)[/url] *  [url=/release/26080168]DEMREC1081 / 5014797908390 - (2 x 140g Black Vinyl)[/url] *  [url=/release/26079736]EDSL0133 / 0740155733339 - (4CD)[/url]  [ERRATUM]: F3:  [m=829865], printed as They All Run After The Carving Knife |
+| Notes | UK limited edition box set 7 x 140g vinyl compilation.  An exclusive signed edition includes a limited edition print (1,000 copies worldwide) signed by Steven Wilson.  58 tracks exploring the creativity, experimentation, and progressive spirit of alternative British music from 1979 to 1989  Includes a 40-page booklet with extensive liner notes by James Nice and an introduction from Steven Wilson.  This compilation ℗ & © 2023 Demon Music Group.   Marketed by Demon Records, a division of Demon Music Group Limited, London W12 7FA.   The Demon Music Group is a BBC Studios company.   Made in the EU.   DEMRECBOX78X www.demonmusicgroup.co.uk  Three other versions exist: *  [url=/release/26078881]DEMRECBOX78 / 5014797908376 - (7 x 140g Black Vinyl)[/url] *  [url=/release/26080168]DEMREC1081 / 5014797908390 - (2 x 140g Black Vinyl)[/url] *  [url=/release/26079736]EDSL0133 / 0740155733339 - (4CD)[/url] |
 | Discogs URL    | [Steven Wilson - Intrigue (Steven Wilson Presents: Progressive Sounds In UK Alternative Music 1979-89)](https://www.discogs.com/release/26064292-Steven-Wilson-Intrigue-Steven-Wilson-Presents-Progressive-Sounds-In-UK-Alternative-Music-1979-89) |

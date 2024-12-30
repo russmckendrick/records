@@ -12,17 +12,17 @@ cover:
     alt: "Are You Serious by Andrew Bird"
     caption: "Are You Serious by Andrew Bird"
 additional_images:
-    - "https://i.discogs.com/54TEi27jc6QKuDQN7GadSBp1F-02lNSv7PnC-xNRAO4/rs:fit/g:sm/q:90/h:608/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgzMjg0/ODMtMTQ2MDQwMzU1/OC0yODM3LmpwZWc.jpeg"
-    - "https://i.discogs.com/4-NO9GgAMhLygRhnEvIHBxWKPc_tbXjata8wLyNYsgs/rs:fit/g:sm/q:90/h:607/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgzMjg0/ODMtMTYyODg4OTYz/MC0xMTQ3LmpwZWc.jpeg"
-    - "https://i.discogs.com/RhmDkp_OEp-Iw2uMgJQ-8hW7i91Kf19zY8djd2c0xjQ/rs:fit/g:sm/q:90/h:617/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgzMjg0/ODMtMTYyODg4OTYz/MS04NTI1LmpwZWc.jpeg"
-    - "https://i.discogs.com/QtS1sFYzezt37brC0Cw-lYBwqZ5hYSTgG0WgLUmgBRI/rs:fit/g:sm/q:90/h:611/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgzMjg0/ODMtMTYyODg4OTYz/MC05Mzg4LmpwZWc.jpeg"
-    - "https://i.discogs.com/flsVQkCw3o0ltaPW7XYVX2PGaCaUACV-QLAM1psdPkc/rs:fit/g:sm/q:90/h:609/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgzMjg0/ODMtMTQ2MDQwMzU0/OC00MTAxLmpwZWc.jpeg"
+    - "https://i.discogs.com/1exfAnrC30_YILAYdi7ImN3d5SO4vw1-tL4etGL66Rc/rs:fit/g:sm/q:90/h:600/w:591/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgzMjg0/ODMtMTQ2MDQwMzU1/OC0yODM3LmpwZWc.jpeg"
+    - "https://i.discogs.com/g7JqYnAOx3jB2sidkuZMG89sntEeBUxVI0ub09Im_b0/rs:fit/g:sm/q:90/h:600/w:592/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgzMjg0/ODMtMTYyODg4OTYz/MC0xMTQ3LmpwZWc.jpeg"
+    - "https://i.discogs.com/U8zuW6Hy2Mr3UmuEcFp2JMW9GNiHzu0_Tz2TyXltqKA/rs:fit/g:sm/q:90/h:600/w:582/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgzMjg0/ODMtMTYyODg4OTYz/MS04NTI1LmpwZWc.jpeg"
+    - "https://i.discogs.com/b_zZFNSkNI_T6CL4g0wN2voLgioAFrfAtViGlIiVMhc/rs:fit/g:sm/q:90/h:600/w:589/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgzMjg0/ODMtMTYyODg4OTYz/MC05Mzg4LmpwZWc.jpeg"
+    - "https://i.discogs.com/eXn1J6gqTz33HcvP79oVOn6j-vbnAIhtAXxdUfm72FU/rs:fit/g:sm/q:90/h:600/w:591/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgzMjg0/ODMtMTQ2MDQwMzU0/OC00MTAxLmpwZWc.jpeg"
     - "https://i.discogs.com/cNOPZzebJiYQkxBLjL2-P2NNJjA9ru_QVA6MmzLajyA/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgzMjg0/ODMtMTYyODg4OTYz/MC01MTQzLmpwZWc.jpeg"
     - "https://i.discogs.com/xjA-a1lnluhiRml_mYytk7Uc_7GSUTPIx0fwXoZz3Hs/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgzMjg0/ODMtMTYyODg4OTYz/MC0yOTgyLmpwZWc.jpeg"
-    - "https://i.discogs.com/Wc1E7vTnDe4cvYK7LKZ_9hTWKjzLa1_IxwJLwjVBRdo/rs:fit/g:sm/q:90/h:609/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgzMjg0/ODMtMTYyODg4OTY1/Mi0zMTQwLmpwZWc.jpeg"
+    - "https://i.discogs.com/3GoMH65lbTZj-k2WjXLLorb_F8eeLhHUqTSD1Q4Jmwo/rs:fit/g:sm/q:90/h:600/w:590/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgzMjg0/ODMtMTYyODg4OTY1/Mi0zMTQwLmpwZWc.jpeg"
     - "https://i.discogs.com/7TdbWfvte_L7sfpGg48oRtLrsOkdrtGYa1x4KSx_Uoo/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgzMjg0/ODMtMTYyODg4OTY1/OC02MjM4LmpwZWc.jpeg"
     - "https://i.discogs.com/P_7HklVcUX8rTMQ_eka8QUTP_LMjxbAQelupchfYuw4/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgzMjg0/ODMtMTYyODg4OTYz/MC01MTQ1LmpwZWc.jpeg"
-    - "https://i.discogs.com/eIiz8skhiy5K100NEO2G9Km-_9ZpmqS3gOLus-ZWDFQ/rs:fit/g:sm/q:90/h:602/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgzMjg0/ODMtMTYyODg4OTYy/OS04MzA5LmpwZWc.jpeg"
+    - "https://i.discogs.com/etqyZrf6zVefh3mvDgwz8o6fzi1igxtCE0jIv3CwQEo/rs:fit/g:sm/q:90/h:600/w:597/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgzMjg0/ODMtMTYyODg4OTYy/OS04MzA5LmpwZWc.jpeg"
     - "https://i.discogs.com/6IaPHjpcWGPBwbW2dywfgBGjDDDuWH0FzFEjRPG_aSE/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgzMjg0/ODMtMTU0OTgzMTU0/OC0yMzMzLmpwZWc.jpeg"
     - "https://i.discogs.com/UeIn9IEz-XsAIuavuUXyV_xcH2v_EglA54Cv-cQrazI/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgzMjg0/ODMtMTU0OTgzMTUx/My0yMjc1LmpwZWc.jpeg"
     - "https://i.discogs.com/0W5AS9yIJYJtrszRo-DalRSbHoulo3vUtLfMIu7uqXQ/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgzMjg0/ODMtMTYyODg4OTYz/MS0xNDE1LmpwZWc.jpeg"
@@ -52,7 +52,7 @@ Are You Serious is the tenth solo studio album by Andrew Bird, released on April
 13. Pulaski (3:32)
 
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/are-you-serious-deluxe-edition/1440954407" >}}<br>
+{{< applemusic url="https://music.apple.com/gb/album/are-you-serious/1440939218" >}}<br>
 
 
 ## Videos
@@ -60,11 +60,11 @@ Are You Serious is the tenth solo studio album by Andrew Bird, released on April
 {{< youtube id="RZwtWExDmoI" title="Andrew Bird - Left Handed Kisses (ft. Fiona Apple) [OFFICIAL VIDEO]" >}}<br>
 ### More Videos
 
-- [Andrew Bird - Saints Preservus  (Are You Serious 2016)](https://www.youtube.com/watch?v=vXXpcVVR8C4)
 - [Andrew Bird - Capsized](https://www.youtube.com/watch?v=b3dw3NHwbvI)
 - [Andrew Bird - Roma Fade](https://www.youtube.com/watch?v=hlKKdBR_ZWw)
 - [Andrew Bird - Valleys of the Young](https://www.youtube.com/watch?v=IeuCE-iazeA)
 - [Andrew Bird - ROMA FADE  (Are You Serious 2016)](https://www.youtube.com/watch?v=wRoj8WzBsJo)
+- [Andrew Bird - Saints Preservus  (Are You Serious 2016)](https://www.youtube.com/watch?v=vXXpcVVR8C4)
 
 ## Release Images
 {{< imageGrid >}}

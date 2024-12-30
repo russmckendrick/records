@@ -4,7 +4,6 @@ artist_name: "Belly"
 artist: "belly"
 album_name: "Bees"
 date: 2021-06-12T06:03:40.000000Z
-release_date: "1988-09-19"
 release_id: "19112494"
 slug: "bees-19112494"
 hideSummary: true
@@ -13,16 +12,23 @@ cover:
     alt: "Bees by Belly"
     caption: "Bees by Belly"
 additional_images:
-    - "https://i.discogs.com/34LwHgDAA4e7sBfTj_7YZVqc4JxUvZWJHJDrMnUFyKI/rs:fit/g:sm/q:90/h:579/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MTEy/NDk0LTE2MjM0OTcx/MTktNTU2MC5wbmc.jpeg"
-    - "https://i.discogs.com/SXi_LzaYRDIPqYb5hx36vMKC62uR_XIhSLDzbgNsPCs/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MTEy/NDk0LTE2MjQwMDQ0/NTEtNzU4OC5qcGVn.jpeg"
+    - "https://i.discogs.com/iKJxdxfdJ4tKvMGJeFxGh1JduGpw0a_SGR79NRnDnqI/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MTEy/NDk0LTE3MjQ1MDc3/ODEtNzg4My5qcGVn.jpeg"
+    - "https://i.discogs.com/m8-ybayac2GzWFq3b-3zicEYgMCFqYEfnNuJUvuNvD0/rs:fit/g:sm/q:90/h:290/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MTEy/NDk0LTE3MjQ1MDgw/MzktMzQwMy5qcGVn.jpeg"
+    - "https://i.discogs.com/o50toW_txlyuDnuXGPnrprzjpkPoqlQWCvvGUYq0AyA/rs:fit/g:sm/q:90/h:591/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MTEy/NDk0LTE3MjQ1MDgw/MzktMzg1My5qcGVn.jpeg"
+    - "https://i.discogs.com/nIpWQyv9Cf7-mTXDj4ynCifXDff80OqFhmh-eoa2sdc/rs:fit/g:sm/q:90/h:297/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MTEy/NDk0LTE3MjQ1MDgw/MzktOTg4OC5qcGVn.jpeg"
+    - "https://i.discogs.com/BK4cn0_nbrT9CDWjoEK3gSzww30RwsLpjQQVOOn6Ev0/rs:fit/g:sm/q:90/h:600/w:595/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MTEy/NDk0LTE3MjQ1MDc3/ODEtMjg0Ni5qcGVn.jpeg"
+    - "https://i.discogs.com/yC-UA-qCIlIkZb2XubwyeL_IrnL1-8COla_Znw9OdLU/rs:fit/g:sm/q:90/h:600/w:595/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MTEy/NDk0LTE3MjQ1MDc3/NzQtNjMyNi5qcGVn.jpeg"
+    - "https://i.discogs.com/fXaLsxExyWii0gNJ6Ram9S3-mnpdrZLx3FBfqZLPcXE/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MTEy/NDk0LTE3MjQ1MDgw/MzktNDE4OC5qcGVn.jpeg"
+    - "https://i.discogs.com/GO2vFvOYHTojgNou8C8joQXESIng_KWZODI4oa0u1b0/rs:fit/g:sm/q:90/h:600/w:594/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MTEy/NDk0LTE3MjQ1MDc3/NzUtOTQ0Ni5qcGVn.jpeg"
+    - "https://i.discogs.com/e9RHJhXMrE6RTMad0qlJl1g0ySSIs0NW6rNI92OUcb4/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MTEy/NDk0LTE3MjQ1MDgw/MzktOTMzMy5qcGVn.jpeg"
+    - "https://i.discogs.com/UVJrC7P27v4UmfF7dzdxMMlOWH2LTwChWxcLzDLUdF4/rs:fit/g:sm/q:90/h:600/w:595/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MTEy/NDk0LTE3MjQ1MDc3/NzUtNTM1NS5qcGVn.jpeg"
+    - "https://i.discogs.com/D7m1tlG0FEuCY1EajQ2hiSYZNnG3HyrhTRaYgLHd70I/rs:fit/g:sm/q:90/h:600/w:595/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MTEy/NDk0LTE3MjQ1MDgw/MzktMTg3MC5qcGVn.jpeg"
+    - "https://i.discogs.com/Lt1UqY5A2oLCwbt0GjuOedUitEas0EsLjJY450O82_c/rs:fit/g:sm/q:90/h:600/w:595/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MTEy/NDk0LTE3MjQ1MDc3/NzUtMzE1Ny5qcGVn.jpeg"
     - "https://i.discogs.com/TKmgIiKEPRNcOD8G3HG9xA2BGg4hT4XYuvr1ZYKu46M/rs:fit/g:sm/q:90/h:327/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MTEy/NDk0LTE2MjQwMDQ0/NDktNzc5MS5qcGVn.jpeg"
 genres: ["Rock"]
 styles: ["Indie Rock"]
 ---
 
-Dividing their woozy mid-‘80s output from their later work’s clean-lined contours, 1988’s <i>Blue Bell Knoll</i> is a singular gem in Cocteau Twins’ sparkling catalog. The title track is among their most beautiful songs: Elizabeth Fraser’s lithe voice soars above crisp harpsichord, and the heartstring-tugging climax is all too short. The swirling churn of “Athol-brose” and “Suckling the Mender” tug toward shoegaze, and the album builds to a stunning finale with “Ella Megalast Burls Forever,” in which every element seems to shine brighter than everything else.
-    
-    
 
 
 ## Tracklisting
@@ -47,12 +53,9 @@ Dividing their woozy mid-‘80s output from their later work’s clean-lined con
 19. Thief
 
 ## Apple Music
-{{< applemusic url="https://music.apple.com//gb/album/bees/1569255970" >}}<br>
+{{< applemusic url="https://music.apple.com/gb/album/bees/1569255970" >}}<br>
 
 
-## Videos
-### Belly - the bees
-{{< youtube id="jZao8Esp7g8" title="Belly - the bees" >}}<br>
 
 
 ## Release Images
@@ -64,5 +67,5 @@ Dividing their woozy mid-‘80s output from their later work’s clean-lined con
 | Format         | Vinyl 2× LP Record Store Day Compilation (Honey) |
 | Label          | 4AD |
 | Catalog Number | 4AD0342LPE |
-| Notes | RSD 2021, Limited to 1,000 copies on Honey coloured vinyl, housed in a gatefold sleeve.  Barcode sticker on reverse with 4AD address, address, Belly web address.  From 4AD announcement:  “Belly celebrate 30 years since forming with Bees, a comprehensive compilation of b-sides, covers and oddities that’s sure to delight fans. Collecting their non-album tracks together for the very first time, Bees was lovingly compiled by the band with their chosen 19 tracks spanning their whole career. Its first pressing outside the US is a deluxe pressing for Record Store Day 2021, coming on exclusive double ‘honey’ coloured vinyl, housed in a beautiful gatefold sleeve designed by the band.” |
+| Notes | RSD 2021, Limited to 1,000 copies on Honey coloured vinyl, housed in a gatefold sleeve. Compilation of B-sides, covers and oddities.  Barcode sticker on reverse with 4AD address, address, Belly web address.  Runouts are hand etched except MPO codes which are laser etched. |
 | Discogs URL    | [Belly - Bees](https://www.discogs.com/release/19112494-Belly-Bees) |

@@ -13,9 +13,9 @@ cover:
     caption: "Conflicting Emotions by Split Enz"
 additional_images:
     - "https://i.discogs.com/u_u4lw2OKcgyZkYZ8Fvd8owdBZYgO91WTQvIDdKxZ-g/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNDM4/NjEtMTQyOTYwOTgz/Ny02NTY5LmpwZWc.jpeg"
-    - "https://i.discogs.com/B79kXALnRLIwNhAzY3-FFFNhaffQR5EO7Su9y1moYXE/rs:fit/g:sm/q:90/h:601/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNDM4/NjEtMTY1ODAxMTQx/My02OTkxLmpwZWc.jpeg"
-    - "https://i.discogs.com/lF8qd7O16ZabacqDKD0PLd3LMWl0A9rdfwVR2IPCAQQ/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNDM4/NjEtMTQyOTYwOTg0/Mi0yMzYyLmpwZWc.jpeg"
-    - "https://i.discogs.com/ab0lZQLBpeSmQzsSIAt-KxzPRHx_d52GmW1o80jXVkU/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNDM4/NjEtMTQyOTYwOTg0/Ni04MzMyLmpwZWc.jpeg"
+    - "https://i.discogs.com/9_8ynRlGaFciuKAUPPAloM5ujU1etlP0lPc4jTo14cg/rs:fit/g:sm/q:90/h:600/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNDM4/NjEtMTY1ODAxMTQx/My02OTkxLmpwZWc.jpeg"
+    - "https://i.discogs.com/CoG7kvercAG2VcJvXl7M3GAtNQBjRGhOZupX7dy7rIY/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNDM4/NjEtMTY5NzAxNzAy/Mi03ODMzLmpwZWc.jpeg"
+    - "https://i.discogs.com/Mv6yOeZG65B95NnvSvssGxDykh21Ka71aXUc2zRQJVA/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNDM4/NjEtMTY5NzAxNzAy/Mi00MDc1LmpwZWc.jpeg"
     - "https://i.discogs.com/XR_vZPPJXi_pGSieC8h-qayXrZQZRngm3GY8KVtaPew/rs:fit/g:sm/q:90/h:594/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNDM4/NjEtMTQyOTYwOTg0/OS05MjkxLmpwZWc.jpeg"
     - "https://i.discogs.com/6H_Sh6jMqkbGB8IZGRqj0atCTkNlKF22ZN9bSgtKJwA/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNDM4/NjEtMTQyOTYwOTg1/NC0yMjUwLmpwZWc.jpeg"
     - "https://i.discogs.com/yz22bXb7_yd_c5Exx15Uc0YqNGqYCOcnTr4o_WSTYgw/rs:fit/g:sm/q:90/h:450/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNDM4/NjEtMTYxMzkzMzQw/My04OTIzLmpwZWc.jpeg"
@@ -25,7 +25,8 @@ styles: ["Alternative Rock"]
 
 Conflicting Emotions is the ninth album by New Zealand band Split Enz.
 As recording began, Tim Finn had just released a successful solo album, Escapade, and was focused on promoting it.  As a result, six of the ten songs on the album are written and sung by Neil Finn.
-The rumored resentment over Tim Finn's successful solo career was worsened by his desire to include drummer Ricky Fataar in recording sessions, and using a drum machine on most other tracks.  Hence, although Noel Crombie is credited as drummer/percussionist on the album liner notes, he actually contributed very little drumming. Neil Finn said at the time of recording, "These drum machine things that are going around at the moment. We thought it was high time we utilised one and we've been very careful with it."Eddie Rayner at this point started to use the Yamaha DX7 synthesizer which can heard on many tracks.
+The rumored resentment over Tim Finn's successful solo career was worsened by his desire to include drummer Ricky Fataar in recording sessions, and using a drum machine on most other tracks.  Hence, although Noel Crombie is credited as drummer/percussionist on the album liner notes, he actually contributed very little drumming. Neil Finn said at the time of recording, "These drum machine things that are going around at the moment. We thought it was high time we utilised one and we've been very careful with it."
+Eddie Rayner at this point started to use the Yamaha DX7 synthesizer which can heard on many tracks.
 The band advertised for a new drummer before taking to the road for the Conflicting Emotions tour, hoping an injection of new blood would revitalize them. Paul Hester answered the call, joining Split Enz in time to feature in the video clip for "Message to My Girl".
 The album cover art was created by former Split Enz frontman Phil Judd, while the back cover was painted by Noel Crombie.
     
@@ -44,19 +45,25 @@ The album cover art was created by former Split Enz frontman Phil Judd, while th
 9. Conflicting Emotions (4:31)
 10. Bon Voyage (4:02)
 
-
-## Spotify
-{{< spotify type="album" id="5GHFTDBFBEIyzUUY8PiIrP" width="100%" height="500" >}}<br>
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/conflicting-emotions/1443885439" >}}<br>
 
 
 ## Videos
-### Split Enz - The Devil You Know
-{{< youtube id="7WGCQqYlgZQ" title="Split Enz - The Devil You Know" >}}<br>
+### Split Enz - Straight Old Line
+{{< youtube id="d-m7HcNuFyA" title="Split Enz - Straight Old Line" >}}<br>
 ### More Videos
 
-- [Split Enz - Message To My Girl](https://www.youtube.com/watch?v=O6YD4rjVIO8)
-- [Audiosurf - Split enz - Bon voyage](https://www.youtube.com/watch?v=e7FqT3T1_q4)
-- [Audiosurf - Split enz - Our day](https://www.youtube.com/watch?v=0D8WfeT9f0o)
+- [Bullet Brain And Cactus Head](https://www.youtube.com/watch?v=rqgxYL56n00)
+- [Split Enz - Message To My Girl (Official Video)](https://www.youtube.com/watch?v=n0pcM30pjgQ)
+- [Working Up An Appetite](https://www.youtube.com/watch?v=y1tT6wC120s)
+- [Our Day](https://www.youtube.com/watch?v=_gNlaExfKvI)
+- [No Mischief](https://www.youtube.com/watch?v=Uty4eVfkWR8)
+- [The Devil You Know](https://www.youtube.com/watch?v=ffnUGQr6kpM)
+- [I Wake Up Every Night](https://www.youtube.com/watch?v=jKj0NxlhHuw)
+- [Split Enz - The Devil You Know](https://www.youtube.com/watch?v=7WGCQqYlgZQ)
+- [Split Enz - Conflicting Emotions](https://www.youtube.com/watch?v=tpNLtLIOHbE)
+- [Bon Voyage](https://www.youtube.com/watch?v=1rImGjZzmMI)
 
 ## Release Images
 {{< imageGrid >}}

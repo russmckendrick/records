@@ -13,26 +13,34 @@ cover:
     alt: "Whatever People Say I Am, That's What I'm Not by Arctic Monkeys"
     caption: "Whatever People Say I Am, That's What I'm Not by Arctic Monkeys"
 additional_images:
+    - "https://i.discogs.com/N7LvxETSrkb1rHOX9rr7MStLvFvaQK65oFPP-5S4yl4/rs:fit/g:sm/q:90/h:593/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExODI2/MTE2LTE1MjQwNjA4/MzQtNzc5OC5qcGVn.jpeg"
     - "https://i.discogs.com/921qBqW9AgI1DjR8VKMKetbdGcK1jPINGI6cJHuMnHg/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExODI2/MTE2LTE1MjQxNTEy/ODMtNDAxNS5qcGVn.jpeg"
+    - "https://i.discogs.com/YuJgYBskHacvhoMFljmFSQgpU3rTjItFw9Yh63asA3Q/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExODI2/MTE2LTE1MjQwNjA4/NDAtOTQwNS5qcGVn.jpeg"
     - "https://i.discogs.com/wUGhcyvoqeWVQ4ucH1u77Ugg0OFjrwsQgp5zcbHn3g0/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExODI2/MTE2LTE1MjQxNTEy/ODQtODA3MC5qcGVn.jpeg"
     - "https://i.discogs.com/nLSZuh0YrKUJokgEStSklwU9JHVzMaUrr3qTcsD5VtM/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExODI2/MTE2LTE1MjM0OTA2/MTEtMjIzOS5qcGVn.jpeg"
     - "https://i.discogs.com/5sATtmpYM-MtXJckODaQwFzDUUNIyTmwMrpF5eZwPTI/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExODI2/MTE2LTE1MjM0OTA2/MTEtNDYzOC5qcGVn.jpeg"
     - "https://i.discogs.com/OnRY-Yr7yB6uIk8gqJAEpuptBoDO0nfjx-qYSNuE0Z0/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExODI2/MTE2LTE1MjM0OTA1/MTUtODMzNC5qcGVn.jpeg"
     - "https://i.discogs.com/feS91NOT0_UgVBNsotjNu6vuQ8JNOdzDeNdVNykI5eY/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExODI2/MTE2LTE1MjQxNTEy/ODQtMjI0Ni5qcGVn.jpeg"
     - "https://i.discogs.com/LWz7NXtTxEzy-OyvW96cw5bIwTGZESbToDuUgive0lA/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExODI2/MTE2LTE1MjQxNTEy/ODQtNjczMy5qcGVn.jpeg"
-    - "https://i.discogs.com/dSOa607kDcfh5ynRwlkJd89hVzUJCuWNbF_VVY6A-sY/rs:fit/g:sm/q:90/h:1368/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExODI2/MTE2LTE1MjQxNTEy/MTgtNTI3OS5qcGVn.jpeg"
-    - "https://i.discogs.com/d5PXNQtOheIr-9lqvQSttyPURWW1_rSakYYux_nzkoA/rs:fit/g:sm/q:90/h:1370/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExODI2/MTE2LTE1MjQxNTEy/MjEtNzQ0MS5qcGVn.jpeg"
-    - "https://i.discogs.com/k6omM0oROkgxIULPJ94BwGUJZ25tgU37RANJJ1C4aHQ/rs:fit/g:sm/q:90/h:677/w:400/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExODI2/MTE2LTE1MjQwNjA4/NTUtODIyOC5qcGVn.jpeg"
-    - "https://i.discogs.com/1fli6Ch47PkQnORjojC3QLTffArYLGkOFqWR8MJNlLs/rs:fit/g:sm/q:90/h:604/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExODI2/MTE2LTE1MjQwNjA4/NTItNTk5OS5qcGVn.jpeg"
+    - "https://i.discogs.com/qF3OzluieXtWqta3MHSurcIbXdd7hj7yntIG7h7mqHg/rs:fit/g:sm/q:90/h:600/w:263/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExODI2/MTE2LTE1MjQxNTEy/MTgtNTI3OS5qcGVn.jpeg"
+    - "https://i.discogs.com/Z1u8h0cD5fbLfSfBHJ1hn_m_VztRxm2OaC5jM3fgbpE/rs:fit/g:sm/q:90/h:600/w:262/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExODI2/MTE2LTE1MjQxNTEy/MjEtNzQ0MS5qcGVn.jpeg"
+    - "https://i.discogs.com/0q3y0AkLX1o91iOs83EGneVBp82qJG84o62bd8IFogo/rs:fit/g:sm/q:90/h:600/w:354/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExODI2/MTE2LTE1MjQwNjA4/NTUtODIyOC5qcGVn.jpeg"
+    - "https://i.discogs.com/6E7-uJO0hbO64mbYoSI1mgCqth-xnKh7G7yofyYbP50/rs:fit/g:sm/q:90/h:600/w:596/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExODI2/MTE2LTE1MjQwNjA4/NTItNTk5OS5qcGVn.jpeg"
     - "https://i.discogs.com/4cCkV8DsrY_f8gd9DSvi6pjgPILZLLxsZ5sGhKWxMOU/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExODI2/MTE2LTE1MjQwNjA4/NTMtODM4MS5qcGVn.jpeg"
-    - "https://i.discogs.com/16ttd9wSVjSuQkUCwNGfPLjhjYhRIavOtAhATdZLBiQ/rs:fit/g:sm/q:90/h:800/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExODI2/MTE2LTE1MzgzMDY0/NjgtMzM4MC5qcGVn.jpeg"
+    - "https://i.discogs.com/_3PwFmGkOAHbD0tOS7PgX7i8Yg2-SFjL0fW0jxwykDk/rs:fit/g:sm/q:90/h:600/w:450/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExODI2/MTE2LTE1MzgzMDY0/NjgtMzM4MC5qcGVn.jpeg"
     - "https://i.discogs.com/_SDR4YF-D0SsiY0OAEI6r7hRjrsB4RHtQtN7agUAdng/rs:fit/g:sm/q:90/h:450/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExODI2/MTE2LTE1MzgzMDY1/NzEtNTM5OC5qcGVn.jpeg"
 genres: ["Rock"]
 styles: ["Indie Rock"]
 ---
 
-Back in 2006, Arctic Monkeys were cast as revolutionaries for uploading music to the internet. There’s nothing <i>quite</i> so radical about their debut, which fuses a punk snarl with the sharp tunes and agitated rhythms of New Wave, but it’s delivered with such invigorating panache that every note sounds fresh. The clincher is Alex Turner, who can carve knowing vignettes from any situation—whether he’s idly fantasising in a checkout queue (“I Bet You Look Good on the Dancefloor”) or, on “Mardy Bum”, lamenting a girlfriend’s volatile mood (“I see your frown and it’s like looking down the barrel of a gun.”)
-    
+Whatever People Say I Am, That's What I'm Not is the debut studio album by the English rock band Arctic Monkeys, released on 23 January 2006 in the United Kingdom and on 21 February 2006 in the United States by Domino Recording Company. Preceded by the chart-topping singles "I Bet You Look Good on the Dancefloor" and "When the Sun Goes Down", the album also contains re-recorded versions of both tracks from the band's debut extended play (EP), Five Minutes with Arctic Monkeys (2005). It is the only Arctic Monkeys album to feature bassist Andy Nicholson, as he left the band shortly after the album's release.
+Forming in 2002, Arctic Monkeys frequently gave away free demo CDs to fans at gigs, which resulted in the fans uploading the band's music to social media sites. As attention towards them continued to grow, the band eventually garnered great demand from fans, the press and the music industry. Several of the album's tracks had been released for free via the Internet in late 2004, which consolidated on the unofficial Beneath the Boardwalk compilation. Musically, Whatever People Say I Am, That's What I'm Not features indie rock, garage rock, post-punk revival, punk rock, and alternative rock. Its thematic content has been likened to a concept, generally concerning British nightlife, including lyricism surrounding clubbing and pub culture, and romance from the perspective of young Northerners.
+Prior to the release of Whatever People Say I Am, That's What I'm Not, Arctic Monkeys achieved their first UK number-ones with album singles "I Bet You Look Good on the Dancefloor" and "When the Sun Goes Down". Upon release, it became the fastest-selling debut album in British music history, selling over 360,000 copies in its first week, and remains the fastest-selling debut album by a band in the country. It has since been certified 8× platinum in the UK by the British Phonographic Industry (BPI). In the US, it also became the second-fastest selling independent record label debut album in the country and was certified platinum by the Recording Industry Association of America (RIAA) for selling at least 1,000,000 copies there.
+The album received widespread critical acclaim from critics for its vivid depiction of contemporary British youth culture and for resurging British indie music, which had waned after the 1990s. Among its accolades included being named the best album of 2006 by Time magazine, winning the Brit Award for Best British Album, winning the 2007 Mercury Prize, and receiving a Grammy Award nomination for Best Alternative Music Album. It has been ranked in several greatest albums lists, including 371 in Rolling Stone's 2012 edition of "The 500 Greatest Albums of All Time", 19 in NME's "The 500 Greatest Albums of All Time", and 97 in Rolling Stone's 2022 edition of "The 100 Best Debut Albums of All Time".
+
+
+        
+        
     
 
 
@@ -79,6 +87,7 @@ Back in 2006, Arctic Monkeys were cast as revolutionaries for uploading music to
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
+| Wikipedia URL | https://en.wikipedia.org/wiki/Whatever_People_Say_I_Am,_That%27s_What_I%27m_Not |
 | Format         | Vinyl LP Album Club Edition Reissue (Gray Translucent w/ Black Smoke, 180 g) |
 | Label          | Domino |
 | Catalog Number | WIGLP162VMP |

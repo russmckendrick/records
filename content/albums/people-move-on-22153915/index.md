@@ -40,7 +40,7 @@ Music critics gave People Move On generally favourable reviews, though some of t
 12. I'm Tired (4:54)
 
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/people-move-on/1587703233" >}}<br>
+{{< applemusic url="https://music.apple.com/gb/album/people-move-on/192956535" >}}<br>
 
 
 ## Videos
@@ -48,7 +48,6 @@ Music critics gave People Move On generally favourable reviews, though some of t
 {{< youtube id="xM54pVZkEMU" title="Bernard Butler - People Move On (1998) Full album" >}}<br>
 ### More Videos
 
-- [BERNARD BUTLER LIVE. NOT ALONE. FROM 'PEOPLE MOVE ON' ALBUM.](https://www.youtube.com/watch?v=FtRzuPw_XSo)
 - [People Move On](https://www.youtube.com/watch?v=KozoJM3DLrM)
 - [Bernard Butler - I'm Tired](https://www.youtube.com/watch?v=S8rqHZTfMZM)
 - [Bernard butler - Autograph. 1998 Suede Britpop.](https://www.youtube.com/watch?v=KRGAHUXgKlU)
@@ -57,6 +56,7 @@ Music critics gave People Move On generally favourable reviews, though some of t
 - [A Change Of Heart](https://www.youtube.com/watch?v=3-TOSYaTASA)
 - [Bernard Butler - Woman I know](https://www.youtube.com/watch?v=kOICJ_-yXe0)
 - [YOU JUST KNOW. BERNARD BUTLER. LIVE ON JOOLS HOLLAND.](https://www.youtube.com/watch?v=yeQUVyYiJKU)
+- [BERNARD BUTLER LIVE. NOT ALONE. FROM 'PEOPLE MOVE ON' ALBUM.](https://www.youtube.com/watch?v=FtRzuPw_XSo)
 
 ## Release Images
 {{< imageGrid >}}

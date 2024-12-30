@@ -15,19 +15,19 @@ cover:
 additional_images:
     - "https://i.discogs.com/WqW0lbNIM9HNB11It-0XBc8044PiWblTvawLoREmOmU/rs:fit/g:sm/q:90/h:570/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY4ODYw/MzQtMTQ1MDUzNDQ2/OC02NzY0LmpwZWc.jpeg"
     - "https://i.discogs.com/X615UYCyZZCrNKuElAJW5UPO3yRhb7P9UPWzArkb40g/rs:fit/g:sm/q:90/h:570/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY4ODYw/MzQtMTQ1MDUzNDQ5/NS03MDYxLmpwZWc.jpeg"
-    - "https://i.discogs.com/J4-QMZnDiH8AyujzxgR-T3jrwVagT8J8SXi5ubjlHDI/rs:fit/g:sm/q:90/h:601/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY4ODYw/MzQtMTU2MzI5NzU1/Ny05NjY1LmpwZWc.jpeg"
-    - "https://i.discogs.com/khZ9dPYNVOMoPTMN7dqW_2N76D1-rF2oJ_oMUthVH5E/rs:fit/g:sm/q:90/h:602/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY4ODYw/MzQtMTU2MzI5NzU1/NC05Mjg1LmpwZWc.jpeg"
-    - "https://i.discogs.com/m8Ok7vq8GmskBw2Mtr7e5smRVIks2wjTjVhVupD51rw/rs:fit/g:sm/q:90/h:602/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY4ODYw/MzQtMTU2MzI5NzU1/OS05MDAzLmpwZWc.jpeg"
-    - "https://i.discogs.com/XLPDHEuY94wQaTmnoJ6DuVcSurWFX6hgmVIExA8o_Ww/rs:fit/g:sm/q:90/h:601/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY4ODYw/MzQtMTU2MzI5NzU2/MS03NzQ1LmpwZWc.jpeg"
+    - "https://i.discogs.com/OJcKwqFex8Af_W-leID9Evsqq0Kpigm8UMftorqsq7A/rs:fit/g:sm/q:90/h:600/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY4ODYw/MzQtMTU2MzI5NzU1/Ny05NjY1LmpwZWc.jpeg"
+    - "https://i.discogs.com/Ep_SkbWjj91kF3PH093-vzZXiJ93lTWbhNQwaZQ822Y/rs:fit/g:sm/q:90/h:600/w:597/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY4ODYw/MzQtMTU2MzI5NzU1/NC05Mjg1LmpwZWc.jpeg"
+    - "https://i.discogs.com/syFy3NG96zY62MWerxGdohUtACw1zD-UrOm-nUp8638/rs:fit/g:sm/q:90/h:600/w:597/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY4ODYw/MzQtMTU2MzI5NzU1/OS05MDAzLmpwZWc.jpeg"
+    - "https://i.discogs.com/Klsmq76Sb6R527WipYnCkWTkseQs3y_Kaptr-LKMgxg/rs:fit/g:sm/q:90/h:600/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY4ODYw/MzQtMTU2MzI5NzU2/MS03NzQ1LmpwZWc.jpeg"
     - "https://i.discogs.com/jUvjqPB_pUPyni4_CpZRFqelAiMVdbhHb-8lRMX2wxc/rs:fit/g:sm/q:90/h:488/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY4ODYw/MzQtMTU2MzI5NzU1/NC04OTE0LmpwZWc.jpeg"
-    - "https://i.discogs.com/vbWTmq_oMN118GmulT0TOzVIqVLm7dFVRR4KVttR5AY/rs:fit/g:sm/q:90/h:778/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY4ODYw/MzQtMTQ1MDUzNDQ4/MC02MDA1LmpwZWc.jpeg"
+    - "https://i.discogs.com/6OklsVvg2Yb-QgvwxnUXZtJqGVflx9z9tG8nvkZ8QFg/rs:fit/g:sm/q:90/h:600/w:462/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY4ODYw/MzQtMTQ1MDUzNDQ4/MC02MDA1LmpwZWc.jpeg"
 genres: ["Rock"]
 styles: ["Alternative Rock", "Acoustic"]
 ---
 
-By now, the story of Tori Amos’ 1992 solo debut is familiar: Child prodigy starts band; band gets signed; band makes album that falls prey to the stylistic trappings of its day (1988’s self-titled <i>Y Kant Tori Read</i>); album flops, and child prodigy—now in her late twenties—faces the rare opportunity to be honest with herself and start over.<br />
+By now, the story of Tori Amos’ 1992 solo debut is familiar: Child prodigy starts band; band gets signed; band makes album that falls prey to the stylistic trappings of its day (1988’s self-titled <I>Y Kant Tori Read</I>); album flops, and child prodigy—now in her late twenties—faces the rare opportunity to be honest with herself and start over.<br />
 Even in the midst of landmark records by Tracy Chapman and Sinéad O’Connor, Amos stood out, a confessional female singer-songwriter who chose piano instead of guitar, who forsook conversational directness for a musical vocabulary as dense as art rock. The comparisons to Kate Bush made sense: Both seemed like they’d fallen out of the sky, wailing in a language more readily felt than understood. But Amos’ closest comparison was Joni Mitchell, not for her warmth or the rawness of her soul, but for the way she balanced the gut-punch of her subject matter—rape (“Me and a Gun”) the eroticism of power (“Silent All These Years”)—with music that was circuitous and complex, but still catchy, even funny. “You’ve found a girl who thinks really deep thoughts,” she sings on “Silent All These Years”. “What’s so amazing about really deep thoughts?”<br />
-Her label famously wanted to replace the album’s piano with guitars—a response in part to the predominance of bands like Nirvana. But the grace of <i>Little Earthquakes</i> is that no matter how abstract Amos is in presentation, she never leaves any doubt of where she’s coming from. And for as delicate as the music sounds at first glance, the lingering impression is one of confidence and power. Like Alanis Morissette and Fiona Apple, Amos brought you into her head without sparing you the ugliness and complexity that lived there.
+Her label famously wanted to replace the album’s piano with guitars—a response in part to the predominance of bands like Nirvana. But the grace of <I>Little Earthquakes</I> is that no matter how abstract Amos is in presentation, she never leaves any doubt of where she’s coming from. And for as delicate as the music sounds at first glance, the lingering impression is one of confidence and power. Like Alanis Morissette and Fiona Apple, Amos brought you into her head without sparing you the ugliness and complexity that lived there.
         
         
     
@@ -52,12 +52,21 @@ Her label famously wanted to replace the album’s piano with guitars—a respon
 
 
 ## Videos
-### Tori Amos - Silent All These Years (Official Music Video)
-{{< youtube id="HSYr0etDzRM" title="Tori Amos - Silent All These Years (Official Music Video)" >}}<br>
+### Crucify (2015 Remaster)
+{{< youtube id="dGBwsC0yJ8o" title="Crucify (2015 Remaster)" >}}<br>
 ### More Videos
 
-- [Tori Amos - Winter (Official Music Video)](https://www.youtube.com/watch?v=_PDlGUdDF8Y)
-- [Tori Amos - Crucify [Music Video]](https://www.youtube.com/watch?v=q8ljHOSqc4A)
+- [Girl (2015 Remaster)](https://www.youtube.com/watch?v=boNX-dl7VXc)
+- [Silent All These Years (2015 Remaster)](https://www.youtube.com/watch?v=qt9IkhdRK30)
+- [Precious Things (2015 Remaster)](https://www.youtube.com/watch?v=e6z2wE8ECao)
+- [Tori Amos-Winter](https://www.youtube.com/watch?v=9JofmYkcaRE)
+- [Happy Phantom (2015 Remaster)](https://www.youtube.com/watch?v=4ZUkTtAsv4A)
+- [China (2015 Remaster)](https://www.youtube.com/watch?v=zKGgBz5cVfo)
+- [Leather (2015 Remaster)](https://www.youtube.com/watch?v=athwHqqtSpM)
+- [Mother (2015 Remaster)](https://www.youtube.com/watch?v=2uaA23WOytc)
+- [Tear in Your Hand (2015 Remaster)](https://www.youtube.com/watch?v=kGjpRNtoA0A)
+- [Me and a Gun (2015 Remaster)](https://www.youtube.com/watch?v=_jjaiM71CtI)
+- [Little Earthquakes (2015 Remaster)](https://www.youtube.com/watch?v=VzPtNtrNm_k)
 
 ## Release Images
 {{< imageGrid >}}

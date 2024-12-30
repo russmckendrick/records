@@ -15,11 +15,10 @@ cover:
 additional_images:
     - "https://i.discogs.com/DbPtfKEF91ZSOR0xjoTfvV6it-lQoskfuW6pwLoo58w/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc2ODcz/NzUtMTU3NTU3NDgz/Mi05NTE2LmpwZWc.jpeg"
     - "https://i.discogs.com/VXCCgPa-u4fw_BEFUF9UQx0kM7wLz_W73vMHG7k8NXU/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc2ODcz/NzUtMTU3NTU3NDg0/MC01MjY2LmpwZWc.jpeg"
-    - "https://i.discogs.com/wwDuwmbapx5fRngLBnRf08nyqvyYe0DwZHpekofkoew/rs:fit/g:sm/q:90/h:592/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc2ODcz/NzUtMTU3NTU3NDg0/MC0yNTkwLmpwZWc.jpeg"
-    - "https://i.discogs.com/JFGlCU3agBTtJeq6nHYVyzsw51OD1WP56SlA-LlIYXk/rs:fit/g:sm/q:90/h:592/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc2ODcz/NzUtMTU3NTU3NDg0/MC03NDU5LmpwZWc.jpeg"
-    - "https://i.discogs.com/TkNHNgGH9clkq3KyiPKscRtgfwWRYZ5ZDJujEnkpLbg/rs:fit/g:sm/q:90/h:641/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc2ODcz/NzUtMTU3NTU3NDgy/Ni00Mzc3LmpwZWc.jpeg"
-    - "https://i.discogs.com/BJBBAssVmL5tvW-7DamrJWKalh8DNRd6a0s7ptBLqMU/rs:fit/g:sm/q:90/h:602/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc2ODcz/NzUtMTU3NTU3NDgy/OS02ODIzLmpwZWc.jpeg"
-    - "https://i.discogs.com/g4fzHOAYlqo8gHhxcgf1DonYEbYQIgtTMJ2C3JVqpMo/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc2ODcz/NzUtMTU3NTU3NDgz/Ny00ODAyLmpwZWc.jpeg"
+    - "https://i.discogs.com/PJ_Odw0TtRy3R4C-GVKMHSy4QLiTMgBbLy-PJti20Y4/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc2ODcz/NzUtMTcwNDkzNDc5/Mi02ODk2LmpwZWc.jpeg"
+    - "https://i.discogs.com/XW1NOBjWNrn-I4uJg4wvR2yJabcjKJROhqHLHMuSI6w/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc2ODcz/NzUtMTcwNDkzNDc5/Mi05ODY4LmpwZWc.jpeg"
+    - "https://i.discogs.com/dl9-ArfbA6rEieqEW3BXVCU0OxqMHzSDiup8T55avbM/rs:fit/g:sm/q:90/h:67/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc2ODcz/NzUtMTY5OTQwNzMz/MC0yODQ1LmpwZWc.jpeg"
+    - "https://i.discogs.com/uR6Fcx1DtNDjUBL1AXkwrQHLyFS_Mb9Ulyf-_0xKoOM/rs:fit/g:sm/q:90/h:600/w:560/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc2ODcz/NzUtMTU3NTU3NDgy/Ni00Mzc3LmpwZWc.jpeg"
     - "https://i.discogs.com/DF1zbbs4c04lvYcVM8GmecmOp3rQP1cvd1s0lIYlDnY/rs:fit/g:sm/q:90/h:265/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc2ODcz/NzUtMTYxODAxMTI1/Ny03MDQwLmpwZWc.jpeg"
     - "https://i.discogs.com/jmMKYQdi3xKo8E6sxMAtsOT5D6McaIldg9ga4Lb-klQ/rs:fit/g:sm/q:90/h:246/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc2ODcz/NzUtMTYxODAxMTI2/OS05NjM4LmpwZWc.jpeg"
 genres: ["Funk / Soul"]
@@ -49,20 +48,15 @@ Al Green's Greatest Hits is a 1975 greatest hits release by soul singer Al Green
 
 
 ## Videos
-### Tired of Being Alone
-{{< youtube id="osvlh6XQCYg" title="Tired of Being Alone" >}}<br>
+### Al Green - Sha-La-La (Make Me Happy) [Official Audio]
+{{< youtube id="KURTpEdnDo4" title="Al Green - Sha-La-La (Make Me Happy) [Official Audio]" >}}<br>
 ### More Videos
 
-- [Call Me (Come Back Home)](https://www.youtube.com/watch?v=7vPYMqEjWOo)
-- [I'm Still in Love with You](https://www.youtube.com/watch?v=tS4W_A1X1pM)
+- [Love and Happiness](https://www.youtube.com/watch?v=q8AMZmWqgRM)
 - [Here I Am (Come and Take Me)](https://www.youtube.com/watch?v=vHAXp39WjZM)
-- [Al Green - How Can You Mend a Broken Heart (Official Audio)](https://www.youtube.com/watch?v=PTY6Kv0nPr8)
-- [Let's Stay Together](https://www.youtube.com/watch?v=2FEJINHoRcU)
-- [I Can't Get Next to You](https://www.youtube.com/watch?v=FJeyL4rXPV4)
-- [You Ought to Be with Me](https://www.youtube.com/watch?v=BWXuLHzj8JM)
-- [Look What You Done for Me](https://www.youtube.com/watch?v=le_SsLujDjg)
-- [Let's Get Married](https://www.youtube.com/watch?v=KakFC6aRfEA)
-- [The Best of Al Green - Greatest Hits (Full Album Stream) [30 Minutes]](https://www.youtube.com/watch?v=csZV3w_nscg)
+- [Al Green - How Can You Mend A Broken Heart (Official Audio)](https://www.youtube.com/watch?v=r0qmJoav5rE)
+- [The Best of Al Green - Al Green Greatest Hits  Full Album](https://www.youtube.com/watch?v=Rksvpr-vNJQ)
+- [Al Green - Love and Happiness](https://www.youtube.com/watch?v=rqqAnjY2Rmo)
 
 ## Release Images
 {{< imageGrid >}}

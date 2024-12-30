@@ -49,6 +49,8 @@ styles: ["New Wave", "Synth-pop"]
 20. Behind The Shades (5:55)
 21. Feather Bed (3:02)
 
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/music-for-ballet-class-dance-with-margot-vol-8/787502368" >}}<br>
 
 
 ## Videos

@@ -28,6 +28,12 @@ genres: ["Rock", "Pop"]
 styles: ["Soft Rock", "Pop Rock", "Synth-pop"]
 ---
 
+We Can't Dance is the fourteenth studio album by the English rock band Genesis, released on 11 November 1991 by Virgin Records in the UK and a day later by Atlantic Records in the US. It is their last studio album recorded with drummer and singer Phil Collins before his departure in 1996 to pursue solo projects full time. The album marked the return of band activity following an almost four-year hiatus after touring their previous album, Invisible Touch (1986).
+We Can't Dance was a worldwide commercial success for the band. It became the band's fifth consecutive No. 1 album in the UK and reached No. 4 in the US, where it sold over 4 million copies. Between 1991 and 1993, six tracks from the album were released as singles, including "No Son of Mine" and "I Can't Dance". The latter received a Grammy Award nomination for Best Pop Performance by a Duo or Group With Vocals in 1993. Genesis toured in support of We Can't Dance from May to November 1992, playing large stadiums and arenas across North America and Europe.
+
+
+    
+    
 
 
 ## Tracklisting
@@ -49,11 +55,32 @@ styles: ["Soft Rock", "Pop Rock", "Synth-pop"]
 
 
 ## Videos
-### We Can t Dance   Genesis   Full Album   1991
-{{< youtube id="ZPJ1A0G0Lo8" title="We Can t Dance   Genesis   Full Album   1991" >}}<br>
+### Genesis - No Son Of Mine (Official Music Video)
+{{< youtube id="0f2Pt1aqDMo" title="Genesis - No Son Of Mine (Official Music Video)" >}}<br>
 ### More Videos
 
-- [Genesis - No Son Of Mine (Official Music Video)](https://www.youtube.com/watch?v=cddQn1mZRfI)
+- [Genesis - Jesus He Knows Me (Official Music Video)](https://www.youtube.com/watch?v=2-rfCnW5VlE)
+- [Genesis - Driving The Last Spike (Official Audio)](https://www.youtube.com/watch?v=aZrMQwM8owI)
+- [Genesis - I Can't Dance (Official Music Video)](https://www.youtube.com/watch?v=hGI2d31M7Ns)
+- [Genesis - Never A Time (Official Audio)](https://www.youtube.com/watch?v=s4ccUQ4oE6s)
+- [Genesis - Dreaming While You Sleep (Official Audio)](https://www.youtube.com/watch?v=8m2oUeHUEBg)
+- [Genesis - Tell Me Why (Official Music Video)](https://www.youtube.com/watch?v=73kVlLKvkB8)
+- [Genesis - Living Forever (Official Audio)](https://www.youtube.com/watch?v=EHx9MqCfCjw)
+- [Genesis - Hold On My Heart (Official Music Video)](https://www.youtube.com/watch?v=mGfqB1-gHEM)
+- [Genesis - Way Of The World (Official Audio)](https://www.youtube.com/watch?v=Zh_lQixMezs)
+- [Genesis - Since I Lost You (Official Audio)](https://www.youtube.com/watch?v=LymGZ1_MZ2Y)
+- [Genesis - Fading Lights (Official Audio)](https://www.youtube.com/watch?v=sRKtxLDTgAw)
+- [Genesis - No Son Of Mine (Official Music Video)](https://www.youtube.com/watch?v=0f2Pt1aqDMo)
+- [Genesis - Jesus He Knows Me (Official Music Video)](https://www.youtube.com/watch?v=2-rfCnW5VlE)
+- [Genesis - Driving The Last Spike (Official Audio)](https://www.youtube.com/watch?v=aZrMQwM8owI)
+- [Genesis - I Can't Dance (Official Music Video)](https://www.youtube.com/watch?v=hGI2d31M7Ns)
+- [Genesis - Never A Time (Official Audio)](https://www.youtube.com/watch?v=s4ccUQ4oE6s)
+- [Genesis - Dreaming While You Sleep (Official Audio)](https://www.youtube.com/watch?v=8m2oUeHUEBg)
+- [Genesis - Tell Me Why (Official Music Video)](https://www.youtube.com/watch?v=73kVlLKvkB8)
+- [Genesis - Living Forever (Official Audio)](https://www.youtube.com/watch?v=EHx9MqCfCjw)
+- [Genesis - Hold On My Heart (Official Music Video)](https://www.youtube.com/watch?v=mGfqB1-gHEM)
+- [Genesis - Way Of The World (Official Audio)](https://www.youtube.com/watch?v=Zh_lQixMezs)
+- [Genesis - Since I Lost You (Official Audio)](https://www.youtube.com/watch?v=LymGZ1_MZ2Y)
 - [Genesis - Fading Lights (Official Audio)](https://www.youtube.com/watch?v=sRKtxLDTgAw)
 - [Genesis - I Can't Dance (Official Audio)](https://www.youtube.com/watch?v=A6xCZW_DQ-U)
 
@@ -63,6 +90,7 @@ styles: ["Soft Rock", "Pop Rock", "Synth-pop"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
+| Wikipedia URL | https://en.wikipedia.org/wiki/We_Can%27t_Dance |
 | Format         | Vinyl 2× LP Album Reissue Stereo |
 | Label          | Rhino Records (2) |
 | Catalog Number | R1 374780 |

@@ -63,4 +63,4 @@ Pollen is the sixth studio album by the musical duo Tennis, released via their o
 | Label          | Mutually Detrimental |
 | Catalog Number | MD008LP |
 | Notes | Comes in sleeve with foil text and printed inner.  Hype-sticker on shrink with barcode.  Lossless lacquer cut by Sterling Sound Exclusive Pollen-Colored Vinyl |
-| Discogs URL    | [Tennis - Pollen](https://www.discogs.com/release/26049697-Tennis-Pollen) |
+| Discogs URL    | [Tennis - Pollen](https://www.discogs.com/release/26049697-Tennis-6-Pollen) |

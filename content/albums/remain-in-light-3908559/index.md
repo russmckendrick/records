@@ -25,12 +25,15 @@ genres: ["Rock"]
 styles: ["Alternative Rock", "Art Rock", "Funk", "New Wave"]
 ---
 
-Remain in Light is the fourth studio album by American rock band Talking Heads, released on October 8, 1980 by Sire Records. It was recorded at Compass Point Studios in the Bahamas and Sigma Sound Studios in Philadelphia during July and August 1980. It was the last Talking Heads album to be produced by Brian Eno.
-After the release of Fear of Music in 1979, Talking Heads and Eno sought to dispel notions of the band as a mere vehicle for frontman and songwriter David Byrne. Drawing influence from Nigerian musician Fela Kuti, they experimented with African polyrhythms, funk, and electronics, recording instrumental tracks as a series of looping grooves. The sessions incorporated a variety of side musicians, including guitarist Adrian Belew, singer Nona Hendryx, and trumpet player Jon Hassell.
-Byrne struggled with writer's block, but adopted a scattered, stream-of-consciousness lyrical style inspired by early rap and academic literature on Africa. The artwork was conceived by bassist Tina Weymouth and drummer Chris Frantz, and crafted with the help of the Massachusetts Institute of Technology's computers and design company M&Co. The band hired additional members for a promotional tour, and following its completion, they went on a year-long hiatus to pursue side projects.
-Remain in Light was acclaimed by critics, who praised its sonic experimentation, rhythmic innovations, and cohesive merging of disparate genres. The album peaked at number 19 on the US Billboard 200 and number 21 on the UK Albums Chart, and spawned the singles "Once in a Lifetime" and "Houses in Motion". It has been featured in several publications' lists of the best albums of the 1980s and of all time, and is often considered Talking Heads' magnum opus. In 2017, the Library of Congress deemed the album "culturally, historically, or artistically significant", and selected it for preservation in the National Recording Registry.
+<b>100 Best Albums</b> Talking Heads and their producer Brian Eno shared a love of African music, especially the work of Nigerian firebrand Fela Kuti, who built 15- to 20-minute songs out of repeated funk and jazz riffs. Fela was one of the strongest influences on <i>Remain in Light</i>, the fourth Talking Heads record, which is often ranked (justly!) as one of the greatest albums ever. 
 
+There’d never been a prominent rock band that explored polyrhythms this thoroughly and ably. All four band members and Eno played multiple instruments on the album’s eight songs, and they also brought in percussionists, guitarist Adrian Belew (who’d recently played with David Bowie), the fantastic soul singer Nona Hendryx of Labelle, and avant-garde trumpeter Jon Hassell, who adds a tart melody line to “Houses in Motion”. 
 
+Talking Heads albums are always conceptually sound, but they’re also physically satisfying, and the cross-current rhythms and musical hooks on <i>Remain in Light</i> give the album a kind of brute force. The band was also savvy enough by now to add small touches that rooted the music to pop traditions: a cowbell on “Crosseyed and Painless”, Hendryx’s prominent background vocal on “The Great Curve” and Tina Weymouth’s see-saw, six-note bass on “Once In a Lifetime.”
+
+Singer David Byrne’s interest in non-American cultures led him to the atmospheric song “Listening Wind”, which describes the stealthy actions of a man named Mojique, a bomber who targets the colonialist Americans who’ve begun living in his country. Where Mojique lives isn’t specified (there are hints of North Africa), and maybe that’s the point—there are many countries where Americans have made themselves unwelcome. Byrne wrote the song in the midst of the Iranian hostage crisis, which may have influenced him. 
+
+The album describes terrorism and danger (and on the last song, “The Overload”, dread as well), but the overall mood of these thick, extended jams is ebullience, in the music as well as the lyrics. “The world moves on a woman’s hips,” Byrne whoops on “The Great Curve”, a celebration of sexuality and physical joy, in which the singer escapes from existential angst into a “world of light.” 
         
         
     
@@ -47,21 +50,21 @@ Remain in Light was acclaimed by critics, who praised its sonic experimentation,
 8. The Overload
 
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/remain-in-light-deluxe-version/124922154" >}}<br>
+{{< applemusic url="https://music.apple.com/gb/album/remain-in-light/300948043" >}}<br>
 
 
 ## Videos
-### Born Under Punches (The Heat Goes On) (2005 Remaster)
-{{< youtube id="w6T_X7MXg40" title="Born Under Punches (The Heat Goes On) (2005 Remaster)" >}}<br>
+### Talking Heads - Once In A Lifetime (Official Audio)
+{{< youtube id="fR0jgT9UX0Q" title="Talking Heads - Once In A Lifetime (Official Audio)" >}}<br>
 ### More Videos
 
-- [Crosseyed and Painless (2005 Remaster)](https://www.youtube.com/watch?v=z92avHmgDRA)
-- [The Great Curve (2005 Remaster)](https://www.youtube.com/watch?v=3N5qQrGSuJ4)
-- [Once in a Lifetime (2005 Remaster)](https://www.youtube.com/watch?v=CHatn3_UxEU)
-- [Houses in Motion (2005 Remaster)](https://www.youtube.com/watch?v=Yt9_uyXgOzc)
-- [Seen and Not Seen (2005 Remaster)](https://www.youtube.com/watch?v=PH5JvU19_YQ)
-- [Listening Wind (2005 Remaster)](https://www.youtube.com/watch?v=RjWej8fOdR8)
-- [The Overload (2005 Remaster)](https://www.youtube.com/watch?v=fNpc8jv7Awk)
+- [Born Under Punches (The Heat Goes On)](https://www.youtube.com/watch?v=Mmp5jAKpyns)
+- [Crosseyed and Painless](https://www.youtube.com/watch?v=hVBr3kVF9qM)
+- [The Great Curve](https://www.youtube.com/watch?v=dGsHLKyZ8H8)
+- [Houses in Motion](https://www.youtube.com/watch?v=PjIR1ESQLI0)
+- [Seen and Not Seen](https://www.youtube.com/watch?v=vDptHYVTWNg)
+- [Listening Wind](https://www.youtube.com/watch?v=jK5uqY-VYDM)
+- [The Overload](https://www.youtube.com/watch?v=5eOWkohW2NE)
 
 ## Release Images
 {{< imageGrid >}}

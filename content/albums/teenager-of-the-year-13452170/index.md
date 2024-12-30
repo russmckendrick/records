@@ -14,20 +14,26 @@ cover:
 additional_images:
     - "https://i.discogs.com/K2qrWpmDoSsHhFGKWWQ78T3zivp3y9BxGuGmCnPBXPE/rs:fit/g:sm/q:90/h:587/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNDUy/MTcwLTE1NTU0MjAy/MzEtNDA3MC5qcGVn.jpeg"
     - "https://i.discogs.com/-3xQepo-e8NCVBPxsRY4Kich4e6f0W_yzqBFqRC4jDY/rs:fit/g:sm/q:90/h:587/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNDUy/MTcwLTE1NTU0MjAy/MzEtODYzOS5qcGVn.jpeg"
-    - "https://i.discogs.com/TgODOMD-b0w8qT7Hp0eAl1OV5vOQqpBYfEIuGP6FLik/rs:fit/g:sm/q:90/h:606/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNDUy/MTcwLTE1NTU0MjAy/MzEtNTY1NS5qcGVn.jpeg"
+    - "https://i.discogs.com/gNGMl8MCAmGjlNZuqQWr73z-wGXnuzqtHPpLTKrfp0Q/rs:fit/g:sm/q:90/h:600/w:593/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNDUy/MTcwLTE1NTU0MjAy/MzEtNTY1NS5qcGVn.jpeg"
     - "https://i.discogs.com/bG9Fle0CZpHRDT_AGszoZGI6nF3nj9uNX4sXWcMFVS4/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNDUy/MTcwLTE1NTU0MjAy/MzEtOTIxNi5qcGVn.jpeg"
     - "https://i.discogs.com/5cuoo0loOhMk3HBkdZyGY-8LMhPPj0JWSAZzaFLLihk/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNDUy/MTcwLTE1NTU0MjAy/MzAtNTU4OS5qcGVn.jpeg"
-    - "https://i.discogs.com/sVt-cBSVGgcRSWdkvHRJ8qDVfFro-LCfEjfv8Q6XnU0/rs:fit/g:sm/q:90/h:608/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNDUy/MTcwLTE1NTU0MjAy/MzEtMTM0NS5qcGVn.jpeg"
-    - "https://i.discogs.com/91XGVIHe5lvjMf0BMUciKPUoJX6Jql5DV8HJzZE-pm8/rs:fit/g:sm/q:90/h:614/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNDUy/MTcwLTE1NTU0MjAy/MzAtMzQ5Ni5qcGVn.jpeg"
-    - "https://i.discogs.com/tYz0xemidt0W2bTcEJMjdpCLnaPQlOYcCLF8Wnkgqnc/rs:fit/g:sm/q:90/h:603/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNDUy/MTcwLTE1NTU0MjAy/MzEtOTIwMi5qcGVn.jpeg"
+    - "https://i.discogs.com/jL6coIRMsIvyUhyxXsTJObRBfxpFrc9q8INMXEDLStk/rs:fit/g:sm/q:90/h:600/w:592/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNDUy/MTcwLTE1NTU0MjAy/MzEtMTM0NS5qcGVn.jpeg"
+    - "https://i.discogs.com/_k0Bahw33IzR5zHrJY4iTGTMBuYG_h6_MRqr_G0ZQoY/rs:fit/g:sm/q:90/h:600/w:585/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNDUy/MTcwLTE1NTU0MjAy/MzAtMzQ5Ni5qcGVn.jpeg"
+    - "https://i.discogs.com/qhj7cqA0wkQjksgt0JXcfzBosN8OSq9vcxqCsZv5hzg/rs:fit/g:sm/q:90/h:600/w:596/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNDUy/MTcwLTE1NTU0MjAy/MzEtOTIwMi5qcGVn.jpeg"
     - "https://i.discogs.com/KxDE2A2ImLc-zzlYgbyfZu0BBzBWzHFJqN08pSVpEIs/rs:fit/g:sm/q:90/h:592/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNDUy/MTcwLTE1NTU0MjAy/MzEtMzEyNS5qcGVn.jpeg"
-    - "https://i.discogs.com/Q0iqe50h8JfVCwkzz5uzdKnmxVDRlXDvJbSCos3obu4/rs:fit/g:sm/q:90/h:602/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNDUy/MTcwLTE1NTU0MjAy/MzAtMjY1Mi5qcGVn.jpeg"
-    - "https://i.discogs.com/nhaBSZc8N6pF27ww57dwZa9rjJWO_PMaIXLoLeHMG_Q/rs:fit/g:sm/q:90/h:602/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNDUy/MTcwLTE1NTU0MjAy/MzAtNjE2Ni5qcGVn.jpeg"
+    - "https://i.discogs.com/ypOWg5SjUYiAKpxtqjm5U0qjDVyRSXdX0g1zMT3kv8Y/rs:fit/g:sm/q:90/h:600/w:597/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNDUy/MTcwLTE1NTU0MjAy/MzAtMjY1Mi5qcGVn.jpeg"
+    - "https://i.discogs.com/fmdLkyuI6-s7CdE2kJpP1ibllggufbmyB0IkkI-R80M/rs:fit/g:sm/q:90/h:600/w:597/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNDUy/MTcwLTE1NTU0MjAy/MzAtNjE2Ni5qcGVn.jpeg"
     - "https://i.discogs.com/kkPysrLKEAbu_5TST2s68e2Lc935DQSmJ6B_ZFOsZN8/rs:fit/g:sm/q:90/h:587/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNDUy/MTcwLTE1NTUxNjA1/OTYtODY5OS5qcGVn.jpeg"
 genres: ["Rock"]
 styles: ["Indie Rock", "Alternative Rock"]
 ---
 
+Teenager of the Year is the second solo studio album by American musician Frank Black. The album was released in 1994 by 4AD in the United Kingdom and Elektra Records in the United States. It was co-produced by Eric Drew Feldman, who also played keyboards and bass guitar on the album. Teenager also features work by several backing musicians, including Lyle Workman, Moris Tepper and Black's Pixies bandmate Joey Santiago.
+The album reached No. 2 on Billboard's Heatseekers chart and No. 131 on the Billboard 200 chart in 1994. The single "Headache" reached No. 10 on Billboard's Modern Rock Tracks chart that year.
+Although not originally well-received, the record is now widely praised by both critics and fans. The album is often cited as the high-point of Francis' post-Pixies catalogue, and was ranked No. 94 on Pitchfork's "Top 100 Albums of the 1990s". The album is included in the book "1001 Albums You Must Hear Before You Die
+""
+    
+    
 
 
 ## Tracklisting
@@ -59,10 +65,32 @@ styles: ["Indie Rock", "Alternative Rock"]
 
 
 ## Videos
-### Frank Black - Headache
-{{< youtube id="ytQhL0-3FtM" title="Frank Black - Headache" >}}<br>
+### Whatever Happened to Pong?
+{{< youtube id="9Z6Bt89Y3-4" title="Whatever Happened to Pong?" >}}<br>
 ### More Videos
 
+- [Frank Black - Headache](https://www.youtube.com/watch?v=ytQhL0-3FtM)
+- [Thalassocracy](https://www.youtube.com/watch?v=deWB1OvlFS0)
+- [[I Want to Live on an] Abstract Plain](https://www.youtube.com/watch?v=X5e8MqYvg9Y)
+- [Calistan](https://www.youtube.com/watch?v=wAGm2pAWxFo)
+- [The Vanishing Spies](https://www.youtube.com/watch?v=cAVKfAoz2eM)
+- [Speedy Marie](https://www.youtube.com/watch?v=kCPCspkreSI)
+- [Sir Rockaby](https://www.youtube.com/watch?v=8N5_8Q1q5IQ)
+- [Freedom Rock](https://www.youtube.com/watch?v=rUH063gXs9E)
+- [Two Reelers](https://www.youtube.com/watch?v=LJl7hVLcDpU)
+- [Fiddle Riddle](https://www.youtube.com/watch?v=29DesruxknY)
+- [Olé Mulholland](https://www.youtube.com/watch?v=jABQPx-zW-Q)
+- [Fazer Eyes](https://www.youtube.com/watch?v=8WL2pVJY18s)
+- [I Could Stay Here Forever](https://www.youtube.com/watch?v=ulAaLgLq8jg)
+- [The Hostess with the Mostest](https://www.youtube.com/watch?v=WHkQLPl4ovk)
+- [Superabound](https://www.youtube.com/watch?v=xHNqjgjFdUc)
+- [Big Red](https://www.youtube.com/watch?v=XBs6aM89BmU)
+- [Space is Gonna do me Good](https://www.youtube.com/watch?v=hMONmqdArWk)
+- [White Noise Maker](https://www.youtube.com/watch?v=dWIOMXeEjKM)
+- [Pure Denizen Of The Citizens Band](https://www.youtube.com/watch?v=1Wu6-2d-Xi4)
+- [Bad, Wicked World](https://www.youtube.com/watch?v=Xoa7n_1aPW0)
+- [Pie in the Sky](https://www.youtube.com/watch?v=pF1tly1BKT0)
+- [Frank Black - Headache](https://www.youtube.com/watch?v=ytQhL0-3FtM)
 - [Superabound](https://www.youtube.com/watch?v=IFx4FGUyPBc)
 - [Fazer Eyes](https://www.youtube.com/watch?v=l_e_UKFGpUQ)
 - [[I Want to Live on an] Abstract Plain](https://www.youtube.com/watch?v=KKFrrtq7BF8)
@@ -75,6 +103,7 @@ styles: ["Indie Rock", "Alternative Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
+| Wikipedia URL | https://en.wikipedia.org/wiki/Teenager_of_the_Year_(album) |
 | Format         | Vinyl 2× LP Album Record Store Day Reissue (White) |
 | Label          | 4AD |
 | Catalog Number | DAD 4009 LPE |

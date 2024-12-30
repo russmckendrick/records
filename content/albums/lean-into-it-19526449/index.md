@@ -21,9 +21,13 @@ genres: ["Rock"]
 styles: ["Hard Rock"]
 ---
 
-Lean into It is the second studio album by the American rock band Mr. Big, released on March 26, 1991. The band's breakthrough release, Lean into It peaked at number 15 on the Billboard 200 charts, while the single "To Be with You" became the band's first and only song to hit number 1 on the Billboard Hot 100. The follow-up single, "Just Take My Heart", was a top-20 hit, peaking at number 16 on the Billboard Hot 100."Daddy, Brother, Lover, Little Boy" features Gilbert and Sheehan running Makita cordless drills over their guitar strings in harmony to create an unusually fast solo which is likely not possible to replicate with hands. The "CDFF" prefix of the Jeff Paris-penned "Lucky This Time", is the song "Addicted to That Rush" from the band's 1989 eponymous debut album, played at a higher playback speed; hence the "CDFF" for "Compact Disc Fast Forward", "CDFF" is also the chord structure to the song.
-The cover image is a picture from the Montparnasse train accident that occurred on October 22, 1895 in Gare Montparnasse station in Paris, France.
-The album was ranked No. 49 on Rolling Stone's list of the 50 Greatest Hair Metal Albums of All Time.The album includes the psychedelic rock song "Green-Tinted Sixties Mind".
+Lean into It is the second studio album by the American rock band Mr. Big, released on March 26, 1991. The band's breakthrough release, Lean into It peaked at number 15 on the Billboard 200 charts, while the single "To Be with You" became the band's first and only song to hit number 1 on the Billboard Hot 100. The follow-up single, "Just Take My Heart", was a top-20 hit, peaking at number 16 on the Billboard Hot 100.
+"Daddy, Brother, Lover, Little Boy" features Gilbert and Sheehan running Makita cordless drills over their guitar strings in harmony to create an unusually fast solo which is likely not possible to replicate with hands. The "CDFF" prefix of the Jeff Paris-penned "Lucky This Time", is the song "Addicted to That Rush" from the band's 1989 eponymous debut album, played at a higher playback speed; hence the "CDFF" for "Compact Disc Fast Forward", "CDFF" is also the chord structure to the song.
+The cover image is a picture from the Montparnasse train accident that occurred on October 22, 1895, in Gare Montparnasse station in Paris.
+The album was ranked No. 49 on Rolling Stone's list of the 50 Greatest Hair Metal Albums of All Time.
+The album includes the song "Green-Tinted Sixties Mind".
+
+
     
     
 
@@ -46,11 +50,13 @@ The album was ranked No. 49 on Rolling Stone's list of the 50 Greatest Hair Meta
 
 
 ## Videos
-### Mr. Big - To Be With You 4K Video
-{{< youtube id="L6-uJLteKek" title="Mr. Big - To Be With You 4K Video" >}}<br>
+### CD / Mr. Big – Lean Into It / 1991
+{{< youtube id="96FHTcm66qI" title="CD / Mr. Big – Lean Into It / 1991" >}}<br>
 ### More Videos
 
+- [MC / Mr. Big – Lean Into It / 1991](https://www.youtube.com/watch?v=W9aHOWwS5aQ)
 - [Mr. Big - Daddy, Brother, Lover, Little Boy [The Electric Drill Song] (MV)](https://www.youtube.com/watch?v=46BCpSJKIjw)
+- [Mr. Big - To Be With You 4K Video](https://www.youtube.com/watch?v=L6-uJLteKek)
 - [Mr. Big - Just Take My Heart (MV)](https://www.youtube.com/watch?v=AyYoc5JGY7c)
 
 ## Release Images

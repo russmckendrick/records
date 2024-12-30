@@ -12,17 +12,23 @@ cover:
     alt: "In Space by Big Star"
     caption: "In Space by Big Star"
 additional_images:
-    - "https://i.discogs.com/I3NVEfjA0WeZ-mrbyM1XUCtBsQFMe92aHPMNac30PTg/rs:fit/g:sm/q:90/h:612/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0Mjk5/ODExLTE1NzE3NTc2/MTgtNzUyNC5qcGVn.jpeg"
+    - "https://i.discogs.com/B-otvrFEtebyFKITJOJM-WI8XkfaZYN_2o1U3qcEPiY/rs:fit/g:sm/q:90/h:600/w:587/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0Mjk5/ODExLTE1NzE3NTc2/MTgtNzUyNC5qcGVn.jpeg"
     - "https://i.discogs.com/D2XxqWQsHS6ieI6d8wzJ0jh9Bj21mfs8d4PP1wZcC30/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0Mjk5/ODExLTE1NzE3NTc2/MTgtNDE5Ny5qcGVn.jpeg"
     - "https://i.discogs.com/Xr7Lahgzb5JJf-gZUf6tL_x-X6WvwIpyFtLGEbBEH1Y/rs:fit/g:sm/q:90/h:378/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0Mjk5/ODExLTE1NzE3NTc2/MTctNDU5My5qcGVn.jpeg"
     - "https://i.discogs.com/jrSPmcoOZetzyaWx4e2VvknYXBafgs3l-uQtFn26z5c/rs:fit/g:sm/q:90/h:557/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0Mjk5/ODExLTE1NzMwMDE4/NjctNTEyOC5qcGVn.jpeg"
     - "https://i.discogs.com/coQTukskYkv0uJNs5CoRo7_4_5tiF7x7UqvSGOfDQYQ/rs:fit/g:sm/q:90/h:558/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0Mjk5/ODExLTE1NzMwMDE4/NzYtNjU4OC5qcGVn.jpeg"
     - "https://i.discogs.com/Xsb1IXL5FO99blgvpvJ08958glf4HiWOesSbjq9ik3Y/rs:fit/g:sm/q:90/h:592/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0Mjk5/ODExLTE1NzMwMDE4/OTktMzQxMC5qcGVn.jpeg"
-    - "https://i.discogs.com/Br1Y7Gct1MINoHKD_5WrPLSuMVwS1QVtA9z2TpVXC98/rs:fit/g:sm/q:90/h:602/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0Mjk5/ODExLTE1NzMwMDE4/NzYtNTQzMS5qcGVn.jpeg"
+    - "https://i.discogs.com/M82Ae37yF0rY-r324lfMCM5Xag9Lc5WV5whmmFrLpTU/rs:fit/g:sm/q:90/h:600/w:597/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0Mjk5/ODExLTE1NzMwMDE4/NzYtNTQzMS5qcGVn.jpeg"
 genres: ["Rock"]
 styles: ["Power Pop"]
 ---
 
+In Space is the fourth and final studio album by American rock group Big Star, released in 2005. It was the first new Big Star studio album since Third/Sister Lovers, recorded in 1974 and released in 1978.
+The album features original Big Star members Alex Chilton and Jody Stephens on guitar and drums respectively, with two more recent recruits, Jon Auer and Ken Stringfellow who play second guitar and bass. Auer and Stringfellow had been members of The Posies before joining Big Star in 1993 for sporadic live performances and tours. The four band members share lead vocal duty across the album's twelve tracks, with Chilton singing the majority.
+
+
+    
+    
 
 
 ## Tracklisting
@@ -39,9 +45,16 @@ styles: ["Power Pop"]
 11. Do You Wanna Make It
 12. Makeover
 
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/evening-star/1477532178" >}}<br>
 
 
+## Videos
+### Big Star - In Space (2005) FULL ALBUM
+{{< youtube id="mSq7YXsoLpo" title="Big Star - In Space (2005) FULL ALBUM" >}}<br>
+### More Videos
 
+- [Big Star - In Space (2005) FULL ALBUM](https://www.youtube.com/watch?v=mSq7YXsoLpo)
 
 ## Release Images
 {{< imageGrid >}}
@@ -49,6 +62,7 @@ styles: ["Power Pop"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
+| Wikipedia URL | https://en.wikipedia.org/wiki/In_Space |
 | Format         | Vinyl LP Album Reissue (Blue, Translucent) |
 | Label          | Omnivore Recordings |
 | Catalog Number | OVLP-338 |

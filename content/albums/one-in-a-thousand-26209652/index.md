@@ -38,7 +38,17 @@ styles: ["Alternative Rock", "Indie Pop"]
 {{< applemusic url="https://music.apple.com/gb/album/one-in-a-thousand/1671552108" >}}<br>
 
 
+## Videos
+### One in a Thousand
+{{< youtube id="S92lbepekyg" title="One in a Thousand" >}}<br>
+### More Videos
 
+- [Porcupine - Obey Robots [Official Music Video]](https://www.youtube.com/watch?v=U_jgPXdXKOs)
+- [Not The Quiet Type - Obey Robots [Official Music Video]](https://www.youtube.com/watch?v=HhLo2yzxbVo)
+- [Elephant - Obey Robots [Official Music Video]](https://www.youtube.com/watch?v=c7EIIMGLfvw)
+- [UK Album Chart Position Reveal: Obey Robots "One In A Thousand"](https://www.youtube.com/watch?v=l71w6rHs5tk)
+- [Super Connected - Obey Robots [Official Music Video]](https://www.youtube.com/watch?v=PCHSlFB8VN4)
+- [Let It Snow - Obey Robots [Official Music Video]](https://www.youtube.com/watch?v=cb734Q9HuK4)
 
 ## Release Images
 {{< imageGrid >}}

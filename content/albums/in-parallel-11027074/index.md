@@ -19,25 +19,25 @@ genres: ["Electronic", "Rock"]
 styles: ["Alternative Rock"]
 ---
 
-Hypnotic, compelling, and at times unsettling: welcome to the vivid debut solo album of Dhani Harrison. <i>IN///PARALLEL</i> is an electrifying meeting between modern industrial thumps and the Eastern-influenced sitar psychedelia made so famous by his father. The percussion and melodramatic strings on seductive opening track “Never Know” is a a stark contrast to the jarring distortion of “#WarOnFalse”. Elsewhere, “Downtown Tigers” and “Summertime Police” are woozy and eccentric. On <i>IN///PARALLEL</i>, Harrison's unique sound is on full display—but there's still room left to pay homage to George.
+Hypnotic, compelling and at times unsettling: welcome to the vivid debut solo album of Dhani Harrison. <i>IN///PARALLEL</i> is an electrifying meeting between modern industrial thumps and the Eastern-influenced sitar psychedelia made so famous by his father. The percussion and melodramatic strings on seductive opening track “Never Know” is a a stark contrast to the jarring distortion of “#WarOnFalse”. Elsewhere, “Downtown Tigers” and “Summertime Police” are woozy and eccentric. On <i>IN///PARALLEL</i>, Harrison's unique sound is on full display—but there's still room left to pay homage to George.
     
     
 
 
 ## Tracklisting
-1. Never Know (5:23)
-2. #WarOnFalse (3:57)
-3. Ulfur Resurrection (7:24)
-4. Downtown Tigers (6:21)
-5. London Water (7:52)
-6. Summertime Police (4:31)
-7. Poseidon (Keep Me Safe) (6:18)
-8. The Light Under The Door (6:44)
-9. All About Waiting (5:03)
-10. Admiral Of Upside Down (5:28)
+1. Never Know
+2. #WarOnFalse
+3. Úlfur Resurrection
+4. Downtown Tigers
+5. London Water
+6. Summertime Police
+7. Poseidon (Keep Me Safe)
+8. The Light Under The Door
+9. All About Waiting
+10. Admiral Of Upside Down
 
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/in-parallel/1258197590" >}}<br>
+{{< applemusic url="https://music.apple.com/gb/album/in-parallel/1473514161" >}}<br>
 
 
 ## Videos
@@ -45,6 +45,8 @@ Hypnotic, compelling, and at times unsettling: welcome to the vivid debut solo a
 {{< youtube id="B757_F4TLvs" title="Dhani Harrison - Never Know [Audio]" >}}<br>
 ### More Videos
 
+- [Dhani Harrison - All About Waiting [Official Video]](https://www.youtube.com/watch?v=reRlyvQvTng)
+- [Dhani Harrison - Never Know [Audio]](https://www.youtube.com/watch?v=B757_F4TLvs)
 - [Dhani Harrison - All About Waiting [Official Video]](https://www.youtube.com/watch?v=reRlyvQvTng)
 
 ## Release Images
@@ -56,5 +58,5 @@ Hypnotic, compelling, and at times unsettling: welcome to the vivid debut solo a
 | Format         | Vinyl 2× LP Album Limited Edition (180g) |
 | Label          | BMG |
 | Catalog Number | 538317510 |
-| Notes | Includes digital download code. Gatefold sleeve.  Copies distributed in the US have a stickered barcode affixed to the shrink. Released in the US 10/20/17. |
+| Notes | Includes digital download code. Gatefold sleeve.  Copies distributed in the US have a stickered barcode affixed to the shrink. Released in the US 10/20/17.  Runouts are etched. |
 | Discogs URL    | [Dhani Harrison - In///Parallel](https://www.discogs.com/release/11027074-Dhani-Harrison-InParallel) |

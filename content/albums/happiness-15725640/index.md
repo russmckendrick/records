@@ -20,7 +20,7 @@ styles: ["House", "Synth-pop", "Downtempo"]
 ---
 
 Happiness is the debut studio album, and second album overall, by English electronic group The Beloved, released in February 1990 in the United Kingdom by East West Records and in the United States by Atlantic Records the following month. The group's first album since slimming down from a four-piece to a duo comprising Jon Marsh and Steve Waddington in 1987, the two members moved away from their previous, New Order-styled sound and drew influence from the late 1980s rave scene in London and from Black American house music.
-Recorded with producers Paul Staveley O'Duffy and Martyn Phillips, Happiness exemplifies the Beloved's new house-styled dance-pop material, becoming one of the first albums to fuse house and pop music, and features optimistic lyrics that helped it fit in with the hedonism of the UK's contemporary music scene and the second summer of love. Aided by four charting singles, including the group's breakthrough hit—the ambient-styled "The Sun Rising"—and their first Top 20 success in "Hello", Happiness reached number 14 on the UK Albums Chart and number 154 on the US Billboard 200 chart. It also received critical acclaim, and numerous magazines ranked the album among the greatest of the year.
+Recorded with producers Paul Staveley O'Duffy and Martyn Phillips, Happiness exemplifies the Beloved's new house-styled dance-pop material, becoming one of the first albums to fuse house and pop music, and features optimistic lyrics that helped it fit in with the hedonism of the UK's contemporary music scene and the Second Summer of Love. Aided by four charting singles, including the group's breakthrough hit—the ambient-styled "The Sun Rising"—and their first Top 20 success in "Hello", Happiness reached number 14 on the UK Albums Chart and number 154 on the US Billboard 200 chart. It also received critical acclaim, and numerous magazines ranked the album among the greatest of the year.
     
     
 
@@ -56,10 +56,12 @@ Recorded with producers Paul Staveley O'Duffy and Martyn Phillips, Happiness exe
 - [Up, Up And Away (Remastered)](https://www.youtube.com/watch?v=DWOYUz07XvI)
 - [Found](https://www.youtube.com/watch?v=_tgz2omaRek)
 - [I Love You More (Demo)](https://www.youtube.com/watch?v=_HgaSc2BEOY)
+- [The Sun Rising (Remastered)](https://www.youtube.com/watch?v=i6b3JTGDsWI)
 - [Jackie (Won’t You Please Come Home?)](https://www.youtube.com/watch?v=hjbtMzoLu_4)
 - [Your Love Takes Me Higher (Demo)](https://www.youtube.com/watch?v=54N8uSIHzf0)
 - [Time After Time (Demo)](https://www.youtube.com/watch?v=DeIjVkuB4eM)
 - [Jennifer Smiles](https://www.youtube.com/watch?v=R_hKl9z_IdQ)
+- [THE BELOVED - Happiness / Wolf Studios 1988-1990 (Demos, Unreleased Songs & Rarities) (Full Album)](https://www.youtube.com/watch?v=P9SUmwZcxjc)
 
 ## Release Images
 {{< imageGrid >}}

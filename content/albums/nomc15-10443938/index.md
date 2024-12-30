@@ -27,7 +27,7 @@ additional_images:
     - "https://i.discogs.com/-jRoYCFbup9XigmoC0XevkcC0T5c8cniyCvKLSeyY8o/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNDQz/OTM4LTE0OTc5NjY2/NDAtMzYwNy5qcGVn.jpeg"
     - "https://i.discogs.com/qkGuSVNLXUhSwuXJhvTlw5R3YfJoTIeWLozGT3-A9Ks/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNDQz/OTM4LTE0OTc5NjY2/NDItMzc4My5qcGVn.jpeg"
     - "https://i.discogs.com/V4mRrrgCmpA2aYOav6TIt-7Kl5KRR88yeJ8JgpLHPz4/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNDQz/OTM4LTE0OTc5NjY2/NDItNDg4OC5qcGVn.jpeg"
-    - "https://i.discogs.com/cWscINbTk6iPPKi0jXVbUVnCtxhhSEOasRtdwQdSao0/rs:fit/g:sm/q:90/h:617/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNDQz/OTM4LTE1MTIyMTA1/MTktNTU1Ni5qcGVn.jpeg"
+    - "https://i.discogs.com/k_TXECGqMXHsrNl8IcKdqCb5JjBUJTqFB_18qQ2h9q8/rs:fit/g:sm/q:90/h:600/w:582/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNDQz/OTM4LTE1MTIyMTA1/MTktNTU1Ni5qcGVn.jpeg"
 genres: ["Electronic", "Rock"]
 styles: ["Alternative Rock", "Electro", "Post-Punk", "Synth-pop"]
 ---

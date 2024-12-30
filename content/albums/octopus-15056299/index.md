@@ -12,17 +12,17 @@ cover:
     alt: "Octopus by Gentle Giant"
     caption: "Octopus by Gentle Giant"
 additional_images:
-    - "https://i.discogs.com/k3gHhhsvnvCCnLBxLguJpJ-sQ6PiZEPpv_sYJJBxHFM/rs:fit/g:sm/q:90/h:601/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MDU2/Mjk5LTE2MDk4MDI5/NTYtMTUyOC5wbmc.jpeg"
+    - "https://i.discogs.com/J0C4YCnucvLpNmLNXKB2yKhdnt7fREnvBV_hmWyltDE/rs:fit/g:sm/q:90/h:600/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MDU2/Mjk5LTE2MDk4MDI5/NTYtMTUyOC5wbmc.jpeg"
     - "https://i.discogs.com/1wvVG3TEI6kx9RuDTvDHCEcnkg6xKno0gjGCZkF62rM/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MDU2/Mjk5LTE2MDk4MDI5/NTgtMjg3OC5wbmc.jpeg"
     - "https://i.discogs.com/Lnu2BM4-Mynat2rQ388WINyWHj4SgUtj9LQGoFOqoug/rs:fit/g:sm/q:90/h:586/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MDU2/Mjk5LTE2MDk4MDI5/NTUtNTk2NC5wbmc.jpeg"
     - "https://i.discogs.com/AtctgNNFSNixG1nb08rkTE7YvMX3CNGAteTjmFPZrlg/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MDU2/Mjk5LTE2MDk4MDI5/NTctNDU1Mi5wbmc.jpeg"
-    - "https://i.discogs.com/dvcnB79RuOMPBNtvczvvrQx3i5TtihGt9Ek-UnsWAtA/rs:fit/g:sm/q:90/h:601/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MDU2/Mjk5LTE2MDk4MDI5/NTMtODk2OC5wbmc.jpeg"
-    - "https://i.discogs.com/Dj5t0PdNxHPzBpgNAwAswa2GdKAJFx9mYAauLUBiBRA/rs:fit/g:sm/q:90/h:605/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MDU2/Mjk5LTE2MDk4MDI5/NTgtOTc1NS5wbmc.jpeg"
+    - "https://i.discogs.com/yJOXQJW_YWEQGsT0APHkKTzAKzmxpFRvwDXf-ogyMeM/rs:fit/g:sm/q:90/h:600/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MDU2/Mjk5LTE2MDk4MDI5/NTMtODk2OC5wbmc.jpeg"
+    - "https://i.discogs.com/AjmTLPiz7DcjgBAhfDUASDlT_k-Eu9FB2qIZ1_n3DUw/rs:fit/g:sm/q:90/h:600/w:594/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MDU2/Mjk5LTE2MDk4MDI5/NTgtOTc1NS5wbmc.jpeg"
 genres: ["Rock"]
 styles: ["Prog Rock"]
 ---
 
-Octopus is the fourth album by British progressive rock band Gentle Giant, released in 1972. It was the band's last album with founding member Phil Shulman and the first with new drummer John Weathers, who would remain with the band until their dissolution in 1980. Octopus remains a highly regarded example of the progressive rock genre and is generally considered to represent the start of the band's peak period.
+Octopus is the fourth studio album by British progressive rock band Gentle Giant, released in 1972. It was the band's last album which all the Shulman brothers involved together in the band, as the founding member Phil Shulman left the band after the release, and the first with new drummer John Weathers, who would remain with the band until their dissolution in 1980. Octopus remains a highly regarded example of the progressive rock genre and is generally considered to represent the start of the band's peak period.
     
     
 
@@ -38,13 +38,21 @@ Octopus is the fourth album by British progressive rock band Gentle Giant, relea
 8. River
 
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/octopus-steven-wilson-mix/1204273198" >}}<br>
+{{< applemusic url="https://music.apple.com/gb/album/octopus/1443562139" >}}<br>
 
 
 ## Videos
-### Gentle Giant - Octopus (Full Album - 1972) Remastered
-{{< youtube id="ifRnVEkqB2I" title="Gentle Giant - Octopus (Full Album - 1972) Remastered" >}}<br>
+### The Advent Of Panurge
+{{< youtube id="guxnve_K8tA" title="The Advent Of Panurge" >}}<br>
+### More Videos
 
+- [Raconteur Troubadour](https://www.youtube.com/watch?v=gMZy7YYeWGw)
+- [A Cry For Everyone](https://www.youtube.com/watch?v=_VjL7CoDTa0)
+- [Knots](https://www.youtube.com/watch?v=_gl-83nVGwU)
+- [The Boys In The Band](https://www.youtube.com/watch?v=sDrODRwDJec)
+- [Dog's Life](https://www.youtube.com/watch?v=PHcaNlrlLLA)
+- [Think Of Me With Kindness](https://www.youtube.com/watch?v=cKKAuSd93U0)
+- [River](https://www.youtube.com/watch?v=QJy6KIAYryk)
 
 ## Release Images
 {{< imageGrid >}}

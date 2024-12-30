@@ -12,12 +12,12 @@ cover:
     alt: "Ghosts Of West Virginia by Steve Earle & The Dukes"
     caption: "Ghosts Of West Virginia by Steve Earle & The Dukes"
 additional_images:
-    - "https://i.discogs.com/j_Q2JxumEV7QK5QEO7ofyEB-wUJM_DI5vN6PnLEKZYI/rs:fit/g:sm/q:90/h:603/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MzMw/MDEzLTE1OTAwOTc3/NzAtNjQyOC5qcGVn.jpeg"
+    - "https://i.discogs.com/ITtdLR0yDbm243sG96mGgPz-pHpmMUwlh_oh2oQzjF8/rs:fit/g:sm/q:90/h:600/w:596/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MzMw/MDEzLTE1OTAwOTc3/NzAtNjQyOC5qcGVn.jpeg"
     - "https://i.discogs.com/H1707TpRTQVgxFR-STwSNOLZBryVhAWut8uvGExe5a4/rs:fit/g:sm/q:90/h:594/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MzMw/MDEzLTE1OTAwOTc3/NzAtNTY2OC5qcGVn.jpeg"
     - "https://i.discogs.com/S4l80RDoq1TNge2mwtUNAW9fwPp1xKsZphz0u2gEAAw/rs:fit/g:sm/q:90/h:591/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MzMw/MDEzLTE1OTAwOTc3/NzAtNTg2NS5qcGVn.jpeg"
-    - "https://i.discogs.com/yj-UJ1VEqJTbkmH1CRsXEkeiIP78yu6c2EJVSXTZov4/rs:fit/g:sm/q:90/h:605/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MzMw/MDEzLTE1OTAwOTc3/NzAtMTg1OC5qcGVn.jpeg"
-    - "https://i.discogs.com/pCiYnSnQabCH33oJy1jFeN_JXbgCld_2LXV7ZyMpE5Y/rs:fit/g:sm/q:90/h:604/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MzMw/MDEzLTE1OTAwOTc3/NzAtOTczNS5qcGVn.jpeg"
-    - "https://i.discogs.com/knsUX53Y70PnPVoyQPsFJU4ACuAiEH4guyzbF-2hV0Q/rs:fit/g:sm/q:90/h:613/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MzMw/MDEzLTE1OTAwOTc3/NzAtMjM4OC5qcGVn.jpeg"
+    - "https://i.discogs.com/1jQOXu_2jy7lOHBUxmt-EuIm2Mk8En8sJpBv5P5IghI/rs:fit/g:sm/q:90/h:600/w:594/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MzMw/MDEzLTE1OTAwOTc3/NzAtMTg1OC5qcGVn.jpeg"
+    - "https://i.discogs.com/BTGa5w3XqUQaA9B8ib6yC18CXhpRg0plAGaxaHVBS9Y/rs:fit/g:sm/q:90/h:600/w:595/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MzMw/MDEzLTE1OTAwOTc3/NzAtOTczNS5qcGVn.jpeg"
+    - "https://i.discogs.com/ydfbt7SV279uj0LadYS1HABnXr8ISQo06EGSTUi44sk/rs:fit/g:sm/q:90/h:600/w:586/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MzMw/MDEzLTE1OTAwOTc3/NzAtMjM4OC5qcGVn.jpeg"
     - "https://i.discogs.com/LHa8S8hrs0ML0t7ehk3Pk3iRiqMQmVem1Q2YIM6YIJw/rs:fit/g:sm/q:90/h:586/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MzMw/MDEzLTE1OTAwOTc3/NzAtOTkwNC5qcGVn.jpeg"
     - "https://i.discogs.com/TNFJl5Bb5Vwqed8mHSsiZj82Di1iwdoVur-u9nOwEVk/rs:fit/g:sm/q:90/h:589/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MzMw/MDEzLTE1OTAwOTc3/NzAtOTA0NC5qcGVn.jpeg"
     - "https://i.discogs.com/pO74H6L7Ww3oumW0HqiXmf4zq9tZqus37DQ0YUUIjFg/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MzMw/MDEzLTE1OTM2MzU5/MjgtOTY3MC5wbmc.jpeg"
@@ -25,7 +25,9 @@ genres: ["Folk, World, & Country"]
 styles: ["Country"]
 ---
 
-Ghosts of West Virginia is the twentieth studio album by American country musician Steve Earle, credited to Steve Earle and the Dukes. It was released on May 22, 2020 under New West Records. Most of the songs were written for the off-Broadway play Coal Country about the Upper Big Branch Mine disaster in 2010. Earle collaborated on the play written by Jessica Blank and Erik Jensen, drawing on interviews with survivors and families of the miners.
+Ghosts of West Virginia is the twentieth studio album by American country musician Steve Earle, credited to Steve Earle and the Dukes. It was released on May 22, 2020, under New West Records. Most of the songs were written for the off-Broadway play Coal Country about the Upper Big Branch Mine disaster in 2010. Earle collaborated on the play written by Jessica Blank and Erik Jensen, drawing on interviews with survivors and families of the miners.
+
+
     
     
 
@@ -47,11 +49,11 @@ Ghosts of West Virginia is the twentieth studio album by American country musici
 
 
 ## Videos
-### Steve Earle & The Dukes - Devil Put the Coal in the Ground [Audio Only]
-{{< youtube id="d5tOkJK8DUk" title="Steve Earle & The Dukes - Devil Put the Coal in the Ground [Audio Only]" >}}<br>
+### Steve Earle & The Dukes - "Devil Put the Coal in the Ground" [Audio Only]
+{{< youtube id="d5tOkJK8DUk" title="Steve Earle & The Dukes - "Devil Put the Coal in the Ground" [Audio Only]" >}}<br>
 ### More Videos
 
-- [Steve Earle & The Dukes - It's About Blood [Audio Only]](https://www.youtube.com/watch?v=iKWPjr0NPQo)
+- [Steve Earle & The Dukes - "It's About Blood" [Audio Only]](https://www.youtube.com/watch?v=iKWPjr0NPQo)
 - [Union, God and Country: A Livestream Performance of Ghosts of West Virginia + Q&A](https://www.youtube.com/watch?v=L5QqgJ3u11k)
 
 ## Release Images

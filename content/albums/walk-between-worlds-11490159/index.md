@@ -12,8 +12,8 @@ cover:
     alt: "Walk Between Worlds by Simple Minds"
     caption: "Walk Between Worlds by Simple Minds"
 additional_images:
-    - "https://i.discogs.com/NHkHzAdzusDWDAkiejbIrqn9UFdUNx1RQ8aHv_7hpHA/rs:fit/g:sm/q:90/h:601/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNDkw/MTU5LTE1MTcyNDg1/MjMtODg2MC5qcGVn.jpeg"
-    - "https://i.discogs.com/5tX5URcde5ogj0zT-H_dE_OgSfnQvqXYutiyH369uMc/rs:fit/g:sm/q:90/h:627/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNDkw/MTU5LTE1MTcyNDg1/MzItNzY3Mi5qcGVn.jpeg"
+    - "https://i.discogs.com/AFu0dbUuVi6UKLUhQ77eW5AkOy1D69Zw1SDtiPCmF3g/rs:fit/g:sm/q:90/h:600/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNDkw/MTU5LTE1MTcyNDg1/MjMtODg2MC5qcGVn.jpeg"
+    - "https://i.discogs.com/VLfRJoDkomA6gF6LjCY64d7cjRVKVzClZr0VEcuTF2g/rs:fit/g:sm/q:90/h:600/w:574/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNDkw/MTU5LTE1MTcyNDg1/MzItNzY3Mi5qcGVn.jpeg"
     - "https://i.discogs.com/qld3otK20BhBcJBWTJjSpwg542QVHNr6GpwtdK8Vaog/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNDkw/MTU5LTE1MTgzNDIw/NjUtNDcwOC5qcGVn.jpeg"
     - "https://i.discogs.com/IIeqOrcb87RBWbwSJIOxEakHwn2M0b_DZ1IW8hqbDLM/rs:fit/g:sm/q:90/h:594/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNDkw/MTU5LTE1MTgzNDIw/ODEtNjU4My5qcGVn.jpeg"
     - "https://i.discogs.com/ABICk5o928TBExrqZDUaOWt3oH_YNBeCtzLWi4SlafY/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNDkw/MTU5LTE1MTcyNDg1/NDgtMzg4Ni5qcGVn.jpeg"
@@ -40,7 +40,7 @@ Walk Between Worlds is the eighteenth studio album by Scottish rock band Simple 
 11. Dirty Old Town (Live)
 
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/walk-between-worlds/1311990803" >}}<br>
+{{< applemusic url="https://music.apple.com/gb/album/walk-between-worlds/1439238144" >}}<br>
 
 
 
@@ -51,7 +51,7 @@ Walk Between Worlds is the eighteenth studio album by Scottish rock band Simple 
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Wikipedia URL | https://en.wikipedia.org/wiki/Walk_Between_Worlds_(album) |
+| Wikipedia URL | https://en.wikipedia.org/wiki/Walk_Between_Worlds |
 | Format         | Vinyl LP, Vinyl LP Single Sided Etched, All Media Album Deluxe Edition (Fuchsia) |
 | Label          | BMG |
 | Catalog Number | 538349730 |

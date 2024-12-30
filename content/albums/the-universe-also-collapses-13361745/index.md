@@ -13,7 +13,7 @@ cover:
     caption: "The Universe Also Collapses  by Gong"
 additional_images:
     - "https://i.discogs.com/mZlc6UqaCRqIakClvOnzvRPOh0riM2v0Yw0mBWTmQ4E/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMzYx/NzQ1LTE1NTI3Njc1/OTUtMTY3NS5qcGVn.jpeg"
-    - "https://i.discogs.com/6EYnsyUyNw3Z7XrPeWIKj-UzH2A5TwBXB9cqmhhYdBU/rs:fit/g:sm/q:90/h:701/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMzYx/NzQ1LTE1NTcwNjIy/MzktNDQ1MS5qcGVn.jpeg"
+    - "https://i.discogs.com/SN6WsC6apulA4_ooLt-cNZKU5icMXI2zd-CcymeOFv0/rs:fit/g:sm/q:90/h:600/w:512/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMzYx/NzQ1LTE1NTcwNjIy/MzktNDQ1MS5qcGVn.jpeg"
     - "https://i.discogs.com/cku2M1a_-zBOkdS7mYKc7O4XDhI0ANCJD0JTFGYdLc0/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMzYx/NzQ1LTE1NTcwNjIy/MzctMzk4OC5qcGVn.jpeg"
     - "https://i.discogs.com/E3rnAfLWTr4lVbJrNkxoTJaSjwi-KkVNBURzGdKaHuM/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMzYx/NzQ1LTE1NTcwNjIy/MzctOTc5Ny5qcGVn.jpeg"
     - "https://i.discogs.com/70hu8zJScg7ZLRRf6Fh5rS3fB05M4wLQIpbt9tupORc/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMzYx/NzQ1LTE1NTcwNjIy/MzctMjc0Ny5qcGVn.jpeg"
@@ -25,6 +25,11 @@ genres: ["Rock"]
 styles: ["Psychedelic Rock", "Prog Rock"]
 ---
 
+The Universe Also Collapses is a studio album by the psychedelic rock band Gong, released on 10 May 2019 by Kscope. The album was highly acclaimed.
+
+
+    
+    
 
 
 ## Tracklisting
@@ -52,6 +57,7 @@ styles: ["Psychedelic Rock", "Prog Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
+| Wikipedia URL | https://en.wikipedia.org/wiki/The_Universe_Also_Collapses |
 | Format         | Vinyl LP Album Limited Edition (Pink) |
 | Label          | Kscope |
 | Catalog Number | KSCOPE1039 |

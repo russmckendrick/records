@@ -23,7 +23,9 @@ genres: ["Jazz"]
 styles: []
 ---
 
-Soultrane is the fourth studio album by jazz musician John Coltrane, released in 1958 on Prestige Records, catalogue 7142. It was recorded at the studio of Rudy Van Gelder in Hackensack, New Jersey, three days after a Columbia Records session for Miles Davis and the Milestones album.
+Soultrane is a studio album by the jazz musician John Coltrane. It was released in 1958 through Prestige Records, with catalogue no. 7142. It was recorded at the studio of Rudy Van Gelder in Hackensack, New Jersey, three days after a Columbia Records session for Miles Davis and the Milestones album.
+
+
     
     
 
@@ -37,18 +39,18 @@ Soultrane is the fourth studio album by jazz musician John Coltrane, released in
 6. Soft Lights And Sweet Music (4:44)
 
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/soultrane-remastered/1440948339" >}}<br>
+{{< applemusic url="https://music.apple.com/gb/album/coltranes-sound/962194510" >}}<br>
 
 
 ## Videos
-### Russian Lullaby (Rudy Van Gelder Remaster)
-{{< youtube id="8RfThojoh40" title="Russian Lullaby (Rudy Van Gelder Remaster)" >}}<br>
+### Good Bait by John Coltrane from 'Soultrane'
+{{< youtube id="HKpkiL3EZMk" title="Good Bait by John Coltrane from 'Soultrane'" >}}<br>
 ### More Videos
 
-- [John Coltrane - Soultrane [FULL ALBUM]](https://www.youtube.com/watch?v=OJTD8eSgOjw)
-- [You Say You Care](https://www.youtube.com/watch?v=qKIYtNZkQgY)
-- [I Want To Talk About You](https://www.youtube.com/watch?v=osUFSIugxx8)
-- [Theme For Ernie](https://www.youtube.com/watch?v=OGzrwu7uTCo)
+- [I Want To Talk About You by John Coltrane from 'Soultrane'](https://www.youtube.com/watch?v=V42pcH_2lUs)
+- [You Say You Care by John Coltrane from 'Soultrane'](https://www.youtube.com/watch?v=3n6ZKLoqRHs)
+- [Theme For Ernie by John Coltrane from 'Soultrane'](https://www.youtube.com/watch?v=36toCmk4SCI)
+- [Russian Lullaby by John Coltrane from 'Soultrane'](https://www.youtube.com/watch?v=DRm4iaNn3OU)
 
 ## Release Images
 {{< imageGrid >}}

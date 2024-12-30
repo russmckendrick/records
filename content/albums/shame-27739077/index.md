@@ -24,6 +24,8 @@ styles: ["Alternative Rock", "Grunge", "Pop Rock"]
 ---
 
 Shame is the debut studio album by the American rock band Brad. It was released on April 27, 1993, through Epic Records.
+
+
     
     
 
@@ -50,10 +52,10 @@ Shame is the debut studio album by the American rock band Brad. It was released 
 {{< youtube id="EdcpC0gShss" title="Brad: Shame - 01 Buttercup" >}}<br>
 ### More Videos
 
+- [Brad: Shame 05 - 20th Century](https://www.youtube.com/watch?v=-MyK7N6_0v4)
 - [Brad: Shame - 02 My Fingers](https://www.youtube.com/watch?v=O6_uzMEb8qM)
 - [Brad: Shame - 03 Nadine](https://www.youtube.com/watch?v=MsVSwx8f1wQ)
 - [BRAD - Screen](https://www.youtube.com/watch?v=ahUw17bhQ3U)
-- [Brad: Shame 05 - 20th Century](https://www.youtube.com/watch?v=-MyK7N6_0v4)
 - [Brad: Shame - 06 Good News](https://www.youtube.com/watch?v=gksZf1pLNVw)
 - [Brad: Shame - 07 Raise Love](https://www.youtube.com/watch?v=7624jyfAizs)
 - [Brad: Shame - 08 Bad For The Soul](https://www.youtube.com/watch?v=Wc1c3aBSLvQ)

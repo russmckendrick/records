@@ -12,10 +12,10 @@ cover:
     alt: "Smart by Sleeper"
     caption: "Smart by Sleeper"
 additional_images:
-    - "https://i.discogs.com/Kfjfo32yCAdcHHi3lxyy7LH1v8ZBOPXsujO6UKgO5do/rs:fit/g:sm/q:90/h:604/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NDI1/OTQ0LTE1OTM3OTIx/MjQtNjc0Mi5qcGVn.jpeg"
+    - "https://i.discogs.com/ZJlpwVMKL7FxavC_47M_IvQIrPPQZp-PSs78omILDLE/rs:fit/g:sm/q:90/h:600/w:595/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NDI1/OTQ0LTE1OTM3OTIx/MjQtNjc0Mi5qcGVn.jpeg"
     - "https://i.discogs.com/4539_Z7peLQc8kSOgizilrzfMB-Bp1xj6T5BV_BCl-I/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NDI1/OTQ0LTE1OTEzNTI1/MjgtMTU2OS5qcGVn.jpeg"
     - "https://i.discogs.com/yH7BP7iEn8GVoTTWnc_cAgcsZhyLqY1ztOq7Y_wYTx4/rs:fit/g:sm/q:90/h:579/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NDI1/OTQ0LTE1OTM3OTIx/MjQtMTgwNC5qcGVn.jpeg"
-    - "https://i.discogs.com/zmxNGEfh88aqGKH1akA9d3Y5smxWxUxNwMPN9cyiOqo/rs:fit/g:sm/q:90/h:606/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NDI1/OTQ0LTE1OTM3OTIx/MjQtNjg3My5qcGVn.jpeg"
+    - "https://i.discogs.com/AmsTCJUMEecOmcVu_3bYR4p2e20hDZ-K-6d6SUGXj_U/rs:fit/g:sm/q:90/h:600/w:593/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NDI1/OTQ0LTE1OTM3OTIx/MjQtNjg3My5qcGVn.jpeg"
     - "https://i.discogs.com/pBPZMRbr38_JpxZsdeQeDY1oZwtBTa8RiX7uj2Cvw2Q/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NDI1/OTQ0LTE1OTEzNTI1/MjgtMjkzMC5qcGVn.jpeg"
     - "https://i.discogs.com/Z4mcdE7nM83hwjC8xW9sCLLJCxE6Hjvn3D_AuHG4Ys8/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NDI1/OTQ0LTE1OTMzNTI2/MTktNzUyMi5qcGVn.jpeg"
     - "https://i.discogs.com/LD79Mi_UiUhl7fnE_EXk5pkkL_3ixhaH-2SaEaL0gZI/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NDI1/OTQ0LTE1OTMzNTI2/MjEtOTEyMC5qcGVn.jpeg"
@@ -43,7 +43,9 @@ genres: ["Rock"]
 styles: ["Britpop"]
 ---
 
-Smart is the debut studio album by English Britpop band Sleeper, released on 13 February 1995 by Indolent Records. It was mixed by Stephen Street. The album's sleeve photo is of the Mercury Seven astronauts. A 25th anniversary deluxe edition was released in 2020 on both vinyl and CD. The CD version has 10 extra tracks.
+Smart is the debut studio album by English rock band Sleeper, released on 13 February 1995 by Indolent Records. It was mixed by Stephen Street. The album's sleeve photo is of the Mercury Seven astronauts. A 25th anniversary deluxe edition was released in 2020 on both vinyl and CD. The CD version has 10 extra tracks.
+
+
     
     
 
@@ -84,12 +86,13 @@ Smart is the debut studio album by English Britpop band Sleeper, released on 13 
 
 - [Sleeper - Inbetweener (TOTP)](https://www.youtube.com/watch?v=El-XUjEJ_rU)
 - [Sleeper - Swallow](https://www.youtube.com/watch?v=zu6m1ylEruA)
-- [Sleeper - 03 Delicious](https://www.youtube.com/watch?v=GW1pRigN4gM)
-- [SLEEPER Vegas](https://www.youtube.com/watch?v=zmkq2_gMUgY)
-- [Sleeper– Inbetweener](https://www.youtube.com/watch?v=1zKM3Xt-vM4)
+- [SLEEPER "Vegas"](https://www.youtube.com/watch?v=zmkq2_gMUgY)
 - [Britpop Now Part 9- Sleeper- Inbetweener](https://www.youtube.com/watch?v=IfPjNHwm4Nk)
-- [Sleeper - 11 Twisted](https://www.youtube.com/watch?v=pHQrq3cBsZ4)
 - [Sleeper - Alice In Vain (Live at Glastonbury 1995)](https://www.youtube.com/watch?v=80b7PlTyZEY)
+- [Sleeper - Swallow](https://www.youtube.com/watch?v=zu6m1ylEruA)
+- [Sleeper - 03 Delicious](https://www.youtube.com/watch?v=GW1pRigN4gM)
+- [Sleeper– Inbetweener](https://www.youtube.com/watch?v=1zKM3Xt-vM4)
+- [Sleeper - 11 Twisted](https://www.youtube.com/watch?v=pHQrq3cBsZ4)
 - [Sleeper - 12 Pyrotechnician](https://www.youtube.com/watch?v=_-pzp-5okOw)
 - [Sleeper - Swallow](https://www.youtube.com/watch?v=QYaagkD26YY)
 - [Amuse](https://www.youtube.com/watch?v=kk2JCEUDwQk)
@@ -110,4 +113,4 @@ Smart is the debut studio album by English Britpop band Sleeper, released on 13 
 | Label          | Gorsky Records |
 | Catalog Number | SLEEP25LPC |
 | Notes | 25th Anniversary Edition. Includes 14 page colour booklet Made in the EU  |
-| Discogs URL    | [Sleeper - Smart](https://www.discogs.com/release/15425944-Sleeper-Smart) |
+| Discogs URL    | [Sleeper - Smart](https://www.discogs.com/release/15425944-Sleeper-2-Smart) |

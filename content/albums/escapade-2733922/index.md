@@ -45,13 +45,20 @@ At the 1983 Countdown Australian Music Awards the album won Best Australian Albu
 
 
 ## Videos
-### Tim Finn - Through The Years (1983)
-{{< youtube id="oyVGUQguaic" title="Tim Finn - Through The Years (1983)" >}}<br>
+### Tim Finn - Through The Years
+{{< youtube id="8RCPPbW4F18" title="Tim Finn - Through The Years" >}}<br>
 ### More Videos
 
-- [Tim Finn – “Made My Day” (Epic) 1983](https://www.youtube.com/watch?v=NVFBUo0aj28)
-- [Tim Finn - Staring At The Embers](https://www.youtube.com/watch?v=0hKx2VZ0X1w)
 - [Tim Finn - Fraction Too Much Friction](https://www.youtube.com/watch?v=nP0v4lL_rZw)
+- [Tim Finn - Made My Day](https://www.youtube.com/watch?v=6DwerC0Dbug)
+- [Tim Finn - Staring At The Embers](https://www.youtube.com/watch?v=uvXpu6qr9uE)
+- [Tim Finn - Fraction Too Much Friction](https://www.youtube.com/watch?v=nP0v4lL_rZw)
+- [Tim Finn - Through The Years (1983)](https://www.youtube.com/watch?v=oyVGUQguaic)
+- [Tim Finn - Staring At The Embers](https://www.youtube.com/watch?v=0hKx2VZ0X1w)
+- [Tim Finn - Through The Years](https://www.youtube.com/watch?v=8RCPPbW4F18)
+- [Tim Finn - Fraction Too Much Friction](https://www.youtube.com/watch?v=nP0v4lL_rZw)
+- [Tim Finn - Made My Day](https://www.youtube.com/watch?v=6DwerC0Dbug)
+- [Tim Finn - Staring At The Embers](https://www.youtube.com/watch?v=uvXpu6qr9uE)
 
 ## Release Images
 {{< imageGrid >}}
@@ -63,5 +70,5 @@ At the 1983 Countdown Australian Music Awards the album won Best Australian Albu
 | Format         | Vinyl LP Album |
 | Label          | Mushroom |
 | Catalog Number | RML 53104 |
-| Notes | Made In Australia    ℗ 1983 MUSHROOM RECORDS.  MANUFACTURED AND DISTRIBUTED UNDER LICENSE BY FESTIVAL RECORDS PTY. LTD. AUST.  TRADEMARK OWNED BY MUSHROOM RECORDS AUSTRALIA & USED BY FESTIVAL RECORDS PTY. LTD. UNDER AUTHORIZATION.   |
+| Notes | All runouts are etched  Made In Australia  ℗ 1983 MUSHROOM RECORDS. MANUFACTURED AND DISTRIBUTED UNDER LICENSE BY FESTIVAL RECORDS PTY. LTD. AUST. TRADEMARK OWNED BY MUSHROOM RECORDS AUSTRALIA & USED BY FESTIVAL RECORDS PTY. LTD. UNDER AUTHORIZATION.  |
 | Discogs URL    | [Tim Finn - Escapade](https://www.discogs.com/release/2733922-Tim-Finn-Escapade) |

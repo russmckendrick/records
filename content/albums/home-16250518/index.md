@@ -49,4 +49,4 @@ styles: ["New Wave", "Indie Rock", "Alternative Rock"]
 | Label          | Long Branch Records |
 | Catalog Number | SPV 289221 LP |
 | Notes | (p) & (c) 2020 Long Branch Records, a division of SPV GmbH. Distributed by SPV GmbH, Boulevard der EU 8, 30539 Hannover, Germany. Made in the EU. Supported by Initiative Musik gGmbH with project funds from the Federal Government Commissioner for Culture and Media. |
-| Discogs URL    | [Koj - Home](https://www.discogs.com/release/16250518-Koj-Home) |
+| Discogs URL    | [Koj - Home](https://www.discogs.com/release/16250518-Koj-3-Home) |

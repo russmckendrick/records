@@ -4,7 +4,7 @@ artist_name: "The Beatles"
 artist: "the-beatles"
 album_name: "The Beatles"
 date: 2016-11-27T11:51:28.000000Z
-release_date: "1968-11-22"
+release_date: "1973-04-02"
 release_id: "4030692"
 slug: "the-beatles-4030692"
 hideSummary: true
@@ -20,28 +20,17 @@ additional_images:
     - "https://i.discogs.com/ksbhbIrefBKP2VVMfAfsNH1sCLaxxId4Eawa0OZa-ko/rs:fit/g:sm/q:90/h:600/w:238/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQwMzA2/OTItMTM1Nzg0MTI1/MC03NzUzLmpwZWc.jpeg"
     - "https://i.discogs.com/4wMaT8f4bVF9ubSXVuuPWojypO0GDdQChVKvnake26Q/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQwMzA2/OTItMTM1MjkyMTU4/NC01MzkxLmpwZWc.jpeg"
     - "https://i.discogs.com/UWawjUKJ5MMLhF2GiI2m45eOdZO3J3ROTTl0bpAEo7Y/rs:fit/g:sm/q:90/h:346/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQwMzA2/OTItMTM1MjkyMTYx/Mi02OTYwLmpwZWc.jpeg"
-    - "https://i.discogs.com/ZxaqJiIGOH69iiGtZNDEFQPGu0WTfwAHrrxxgm1VtA4/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQwMzA2/OTItMTU0ODAwNjAy/MC0zMjY4LmpwZWc.jpeg"
-    - "https://i.discogs.com/_DED8TfgNmgRbWDU2qfhDlDCKxYK3VF-DxW87PdFCvI/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQwMzA2/OTItMTU0ODAwNjA3/Ni0xMzMyLmpwZWc.jpeg"
-    - "https://i.discogs.com/efpuOAsenkeISUlU6zGbotWwBwVh-xbQmWsbjpfoAYM/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQwMzA2/OTItMTU0ODAwNjEz/Ni00NzA3LmpwZWc.jpeg"
-    - "https://i.discogs.com/SIqvJzn-_rmu4tYxMTGzLA2YjjTvZzJZqFTlQ8uca6w/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQwMzA2/OTItMTU0ODAwNjE5/Mi01NzkxLmpwZWc.jpeg"
-    - "https://i.discogs.com/xxwTZJtmtEJXKGlOxWdhNARc2SRfzQBYmyiPTjiSHHE/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQwMzA2/OTItMTU0ODAwNjI3/MS03Njc3LmpwZWc.jpeg"
-    - "https://i.discogs.com/nbK4V2F3wSmnqSUR27gICL1Wx93RtasdSadSkQVZm-8/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQwMzA2/OTItMTU0ODAwNjMy/OS0yNDMxLmpwZWc.jpeg"
-    - "https://i.discogs.com/Fp2K7kLqb19gh07RC09U76q0_V74Ctwej2gD61lDE2U/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQwMzA2/OTItMTU0ODAwNjUx/NS0xMjk3LmpwZWc.jpeg"
-    - "https://i.discogs.com/7R1oGH92inseijcRm2BsPtyLrXF5a3kn2dLuOdtqb_4/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQwMzA2/OTItMTU0ODAwNjU2/NS04Njk4LmpwZWc.jpeg"
-    - "https://i.discogs.com/xCzJfqWkeyC7Slw8ADx-e4xGHfgxR4sbmiwA5XxZ0CU/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQwMzA2/OTItMTU0ODAwNjYx/MC01MTQ1LmpwZWc.jpeg"
-    - "https://i.discogs.com/mS6qzlnXEbvcfzQ7QDxM9bLCQdXNj_kk2kESJl8Mm6k/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQwMzA2/OTItMTU0ODAwNjY1/Ni0xNTUyLmpwZWc.jpeg"
-    - "https://i.discogs.com/JkJURbv-QD8QtNlala0kDZMsXoifFbTizL_D4P6Arqw/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQwMzA2/OTItMTU0ODAwNjcx/MS02ODg0LmpwZWc.jpeg"
-    - "https://i.discogs.com/fnMy-gxyaspnuZbDWuXu_npnnfu3NvYs6U2wYvbRPSo/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQwMzA2/OTItMTU0ODAwNjc3/MC00NDIwLmpwZWc.jpeg"
-    - "https://i.discogs.com/Pdfjx9Kn9Ma_U9I65ltdXvqHRM1294aEU8mWNXwsfpk/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQwMzA2/OTItMTU0ODAwNjgx/Mi05NDUwLmpwZWc.jpeg"
-    - "https://i.discogs.com/ym0bgP9RaE6nYUPrBvV37SR0_Y7HGy9tanF_tFtj_6M/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQwMzA2/OTItMTU0ODAwNjg3/NC00Mjg3LmpwZWc.jpeg"
     - "https://i.discogs.com/IcL_qYl8_57RJtC7E1vitNKJ5mnXqhw_LgQ8_0CxP8s/rs:fit/g:sm/q:90/h:399/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQwMzA2/OTItMTM1Nzg0MTI4/MS03MzkxLmpwZWc.jpeg"
 genres: ["Rock", "Pop"]
 styles: ["Beat", "Rock & Roll", "Pop Rock", "Psychedelic Rock"]
 ---
 
-The Beatles were an English rock band, formed in Liverpool in 1960, that comprised John Lennon, Paul McCartney, George Harrison and Ringo Starr. They are regarded as the most influential band of all time and were integral to the development of 1960s counterculture and popular music's recognition as an art form. Rooted in skiffle, beat and 1950s rock 'n' roll, their sound incorporated elements of classical music and traditional pop in innovative ways; the band also explored music styles ranging from folk and Indian music to psychedelia and hard rock. As pioneers in recording, songwriting and artistic presentation, the Beatles revolutionised many aspects of the music industry and were often publicised as leaders of the era's youth and sociocultural movements.Led by primary songwriters Lennon and McCartney, the Beatles evolved from Lennon's previous group, the Quarrymen, and built their reputation playing clubs in Liverpool and Hamburg over three years from 1960, initially with Stuart Sutcliffe playing bass. The core trio of Lennon, McCartney and Harrison, together since 1958, went through a succession of drummers, including Pete Best, before asking Starr to join them in 1962. Manager Brian Epstein moulded them into a professional act, and producer George Martin guided and developed their recordings, greatly expanding their domestic success after signing to EMI Records and achieving their first hit, "Love Me Do", in late 1962. As their popularity grew into the intense fan frenzy dubbed "Beatlemania", the band acquired the nickname "the Fab Four", with Epstein, Martin or another member of the band's entourage sometimes informally referred to as a "fifth Beatle".
-By early 1964, the Beatles were international stars and had achieved unprecedented levels of critical and commercial success. They became a leading force in Britain's cultural resurgence, ushering in the British Invasion of the United States pop market, and soon made their film debut with A Hard Day's Night (1964). A growing desire to refine their studio efforts, coupled with the untenable nature of their concert tours, led to the band's retirement from live performances in 1966. At this time, they produced records of greater sophistication, including the albums Rubber Soul (1965), Revolver (1966) and Sgt. Pepper's Lonely Hearts Club Band (1967), and enjoyed further commercial success with The Beatles (also known as "the White Album", 1968) and Abbey Road (1969). The success of these records heralded the album era, as albums became the dominant form of record consumption over singles; they also increased public interest in psychedelic drugs and Eastern spirituality, and furthered advancements in electronic music, album art and music videos. In 1968, they founded Apple Corps, a multi-armed multimedia corporation that continues to oversee projects related to the band's legacy. After the group's break-up in 1970, all principal former members enjoyed success as solo artists and some partial reunions have occurred. Lennon was murdered in 1980 and Harrison died of lung cancer in 2001. McCartney and Starr remain musically active.
-The Beatles are the best-selling music act of all time, with estimated sales of 600 million units worldwide. They are the most successful act in the history of the US Billboard charts. They hold the record for most number-one albums on the UK Albums Chart (15), most number-one hits on the US Billboard Hot 100 chart (20), and most singles sold in the UK (21.9 million). The band received many accolades, including seven Grammy Awards, four Brit Awards, an Academy Award (for Best Original Song Score for the 1970 documentary film Let It Be) and fifteen Ivor Novello Awards. They were inducted into the Rock and Roll Hall of Fame in 1988, and each principal member was inducted individually between 1994 and 2015. In 2004 and 2011, the group topped Rolling Stone's lists of the greatest artists in history. Time magazine named them among the 20th century's 100 most important people.
+The Beatles were an English rock band formed in Liverpool in 1960. The core lineup of the band comprised John Lennon, Paul McCartney, George Harrison and Ringo Starr. They are widely regarded as the most influential band of all time and were integral to the development of 1960s counterculture and the recognition of popular music as an art form. Rooted in skiffle, beat and 1950s rock 'n' roll, their sound incorporated elements of classical music and traditional pop in innovative ways. The band also explored music styles ranging from folk and Indian music to psychedelia and hard rock. As pioneers in recording, songwriting and artistic presentation, the Beatles revolutionised many aspects of the music industry and were often publicised as leaders of the era's youth and sociocultural movements.
+Led by primary songwriters Lennon and McCartney, the Beatles evolved from Lennon's previous group, the Quarrymen, and built their reputation by playing clubs in Liverpool and Hamburg, Germany, over three years starting in 1960, initially with Stuart Sutcliffe playing bass. The core trio of Lennon, McCartney and Harrison, together since 1958, went through a succession of drummers, including Pete Best, before inviting Starr to join them in 1962. Manager Brian Epstein moulded them into a professional act, and producer George Martin guided and developed their recordings, greatly expanding their domestic success after they signed with EMI and achieved their first hit, "Love Me Do", in late 1962. As their popularity grew into the intense fan frenzy dubbed "Beatlemania", the band acquired the nickname "the Fab Four". Epstein, Martin or other members of the band's entourage were sometimes informally referred to as a "fifth Beatle".
+By early 1964, the Beatles were international stars and had achieved unprecedented levels of critical and commercial success. They became a leading force in Britain's cultural resurgence, ushering in the British Invasion of the United States pop market. They soon made their film debut with A Hard Day's Night (1964). A growing desire to refine their studio efforts, coupled with the challenging nature of their concert tours, led to the band's retirement from live performances in 1966. During this time, they produced albums of greater sophistication, including Rubber Soul (1965), Revolver (1966) and Sgt. Pepper's Lonely Hearts Club Band (1967). They enjoyed further commercial success with The Beatles (also known as "the White Album", 1968) and Abbey Road (1969). The success of these records heralded the album era, as albums became the dominant form of record use over singles. These records also increased public interest in psychedelic drugs and Eastern spirituality, and furthered advancements in electronic music, album art and music videos. In 1968, they founded Apple Corps, a multi-armed multimedia corporation that continues to oversee projects related to the band's legacy. After the group's break-up in 1970, all principal former members enjoyed success as solo artists, and some partial reunions occurred. Lennon was murdered in 1980, and Harrison died of lung cancer in 2001. McCartney and Starr remain musically active.
+The Beatles are the best-selling music act of all time, with estimated sales of 600 million units worldwide. They are the most successful act in the history of the US Billboard charts, with the most number-one hits on the US Billboard Hot 100 chart (20), and they hold the record for  most number-one albums on the UK Albums Chart (15) and most singles sold in the UK (21.9 million). The band received many accolades, including seven Grammy Awards, four Brit Awards, an Academy Award (for Best Original Song Score for the 1970 documentary film Let It Be) and fifteen Ivor Novello Awards. They were inducted into the Rock and Roll Hall of Fame in their first year of eligibility, 1988, and each principal member was individually inducted between 1994 and 2015. In 2004 and 2011, the group topped Rolling Stone's lists of the greatest artists in history. Time magazine named them among the 20th century's 100 most important people.
+
+
         
         
     
@@ -280,8 +269,8 @@ The Beatles are the best-selling music act of all time, with estimated sales of 
 230. The Inner Light
 231. Hey Jude
 232. Revolution
-233. Get Back (With Billy Preston)
-234. Don't Let Me Down (With Billy Preston)
+233. Get Back
+234. Don't Let Me Down
 235. The Ballad Of John And Yoko
 236. Old Brown Shoe
 237. Across The Universe
@@ -289,7 +278,7 @@ The Beatles are the best-selling music act of all time, with estimated sales of 
 239. You Know My Name (Look Up The Number)
 
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/the-beatles-the-white-album/1441133180" >}}<br>
+{{< applemusic url="https://music.apple.com/gb/album/the-beatles-1967-1970-the-blue-album/1441133100" >}}<br>
 
 
 

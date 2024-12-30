@@ -4,7 +4,6 @@ artist_name: "Beck"
 artist: "beck"
 album_name: "Odelay"
 date: 2016-10-21T17:27:55.000000Z
-release_date: "1996-01-01"
 release_id: "9168171"
 slug: "odelay-9168171"
 hideSummary: true
@@ -15,7 +14,7 @@ cover:
 additional_images:
     - "https://i.discogs.com/6r-113NLBl6ZC_PPdsTMuczJMXNXMVUKCqnzN6pSXMk/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkxNjgx/NzEtMTQ3NjczNDA3/OC04NDc1LmpwZWc.jpeg"
     - "https://i.discogs.com/Fy_bpjNRTZBJ-nSJf-PB6zknH8tDliVGFqI7weFrwV0/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkxNjgx/NzEtMTUwMzQ1MjY1/My0zMTkyLnBuZw.jpeg"
-    - "https://i.discogs.com/nZWRmgulg9axZml0eFKKu06jP7PVX8cyWdaiJnkJm_U/rs:fit/g:sm/q:90/h:604/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkxNjgx/NzEtMTQ3ODAxNDk3/OC05NTM1LmpwZWc.jpeg"
+    - "https://i.discogs.com/A2yAMUiKrptwE4vPhiRcLqyglbPnA5G_kpK6Gznk3h0/rs:fit/g:sm/q:90/h:600/w:595/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkxNjgx/NzEtMTQ3ODAxNDk3/OC05NTM1LmpwZWc.jpeg"
     - "https://i.discogs.com/KsADsf_MFfcp9-Ih955fUdslRpUNUQeZ7y0ni7_5JZA/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkxNjgx/NzEtMTQ3ODAxNDk4/OC01MjM5LmpwZWc.jpeg"
     - "https://i.discogs.com/t7S_awhZ2HxG1SRHbO1r8b57g97PGu49q9L2QNIQo64/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkxNjgx/NzEtMTQ3ODAxNDk5/Mi05MjI0LmpwZWc.jpeg"
     - "https://i.discogs.com/hJ-XsZWumXzvG32GFuqxclxseqIRH9J9hhqMg1v6vS4/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkxNjgx/NzEtMTUwMzM1NTg1/Mi0xODY1LnBuZw.jpeg"
@@ -27,8 +26,9 @@ styles: ["Indie Rock", "Alternative Rock"]
 ---
 
 Odelay is the fifth studio album by American musician Beck, released on June 18, 1996, by DGC Records. The album featured several successful singles, including "Where It's At", "Devils Haircut", and "The New Pollution", and peaked at number sixteen on the Billboard 200. As of July 2008, the album had sold 2.3 million copies in the United States, making Odelay Beck's most successful album to date. Since its release, the album has appeared in numerous publications' lists of the greatest of the 1990s and of all time.
-        
-        
+
+
+    
     
 
 
@@ -48,10 +48,17 @@ Odelay is the fifth studio album by American musician Beck, released on June 18,
 13. Ramshackle
 
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/odelay/1440871815" >}}<br>
+{{< applemusic url="https://music.apple.com/gb/album/becks-odelay-ep/1738275155" >}}<br>
 
 
+## Videos
+### Beck - Devils Haircut (Official Music Video)
+{{< youtube id="aa3rBVb3v4g" title="Beck - Devils Haircut (Official Music Video)" >}}<br>
+### More Videos
 
+- [Beck - The New Pollution (Official Music Video)](https://www.youtube.com/watch?v=uxugaMpt1vU)
+- [Beck - Where It's At (Official Music Video)](https://www.youtube.com/watch?v=EPfmNxKLDG4)
+- [(1996)Odelay - BECK](https://www.youtube.com/watch?v=5sdQVVggJu4)
 
 ## Release Images
 {{< imageGrid >}}

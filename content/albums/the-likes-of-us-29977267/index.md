@@ -16,14 +16,12 @@ additional_images:
     - "https://i.discogs.com/-IsHaJL6Ey4ln1g_3c2OEdABlRZBiybXpss768aie2k/rs:fit/g:sm/q:90/h:294/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5OTc3/MjY3LTE3MDkzODI1/MjctNzk3MS5wbmc.jpeg"
     - "https://i.discogs.com/vgOPeNDHF0hM-CNuCegLvl4FnWdsbi9LHY1LqhLfeYU/rs:fit/g:sm/q:90/h:589/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5OTc3/MjY3LTE3MDkzODI1/MjctNzAzOC5wbmc.jpeg"
     - "https://i.discogs.com/v7xhbR9e4UJE5tiuNn8l0zs4xwGyrgg1oSj9MfSsPEs/rs:fit/g:sm/q:90/h:359/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5OTc3/MjY3LTE3MDkzODI1/MjctNTY3MS5wbmc.jpeg"
-    - "https://i.discogs.com/k_V2VWbRk9HmAwaAGwhyYeh2r1UIGSb6nniKTBzi2wA/rs:fit/g:sm/q:90/h:603/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5OTc3/MjY3LTE3MDkzODI1/MjctMjU4MC5wbmc.jpeg"
+    - "https://i.discogs.com/bftGnGgpF6yS07vcnCS46fXScJ9LAp0N3XkHmvmQy5U/rs:fit/g:sm/q:90/h:600/w:596/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5OTc3/MjY3LTE3MDkzODI1/MjctMjU4MC5wbmc.jpeg"
 genres: ["Rock"]
 styles: ["Prog Rock"]
 ---
 
-The Likes of Us is the fifteenth studio album by English progressive rock band Big Big Train, released on 1 March 2024. It is the band's first album of new material with singer Alberto Bravin and keyboardist Oskar Holldorff who joined in 2022 and 2023 respectively, as well as first without singer David Longdon who died in 2021. It is the first album to be released on progressive label InsideOut Music, which the band signed to in July 2023, having self released several of their albums before.
-
-
+The Likes of Us is the fifteenth studio album by English progressive rock band Big Big Train, released on 1 March 2024. It is the band's first album of new material with singer Alberto Bravin and keyboardist Oskar Holldorff who joined in 2022 and 2023 respectively, as well as the first album since The Difference Machine without singer David Longdon, who died in 2021. It is their first album to be released on progressive label InsideOut Music, which the band signed to in July 2023, having self released several of their albums before. The album was also released in Japan, featuring a Japanese language version of "Love Is The Light".
     
     
 
@@ -42,6 +40,9 @@ The Likes of Us is the fifteenth studio album by English progressive rock band B
 {{< applemusic url="https://music.apple.com/gb/album/the-likes-of-us/1716950345" >}}<br>
 
 
+## Videos
+### BIG BIG TRAIN -  Oblivion (OFFICIAL VIDEO)
+{{< youtube id="TZjAreGfqlU" title="BIG BIG TRAIN -  Oblivion (OFFICIAL VIDEO)" >}}<br>
 
 
 ## Release Images

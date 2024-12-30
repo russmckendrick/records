@@ -4,7 +4,7 @@ artist_name: "Alison Krauss"
 artist: "alison-krauss"
 album_name: "Windy City"
 date: 2017-03-04T17:52:12.000000Z
-release_date: "2017-03-03"
+release_date: "2017-02-17"
 release_id: "9914922"
 slug: "windy-city-9914922"
 hideSummary: true
@@ -18,7 +18,8 @@ genres: ["Folk, World, & Country"]
 styles: []
 ---
 
-Windy City is the fourth solo studio album by bluegrass-country artist Alison Krauss. Released on February 17, 2017, the album is Krauss' first solo release since Forget About It in 1999, and includes ten covers of classic songs that she selected with producer Buddy Cannon.The deluxe edition adds four live versions of tracks. The Target Exclusive version adds two more tracks to the deluxe edition. The Cracker Barrel Exclusive version adds one more track to the regular edition. The Barnes & Noble Exclusive vinyl LP version has an alternate cover image.
+Windy City is the fourth solo studio album by bluegrass-country artist Alison Krauss. Released on February 17, 2017, the album is Krauss' first solo release since Forget About It in 1999, and includes ten covers of classic songs that she selected with producer Buddy Cannon.
+The deluxe edition adds four live versions of tracks. The Target Exclusive version adds two more tracks to the deluxe edition. The Cracker Barrel Exclusive version adds one more track to the regular edition. The Barnes & Noble Exclusive vinyl LP version has an alternate cover image.
         
         
     
@@ -37,7 +38,7 @@ Windy City is the fourth solo studio album by bluegrass-country artist Alison Kr
 10. You Don't Know Me
 
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/windy-city-deluxe/1440864842" >}}<br>
+{{< applemusic url="https://music.apple.com/gb/album/windy-city/1440866016" >}}<br>
 
 
 ## Videos
@@ -45,8 +46,8 @@ Windy City is the fourth solo studio album by bluegrass-country artist Alison Kr
 {{< youtube id="LNtKPzHxKG8" title="Alison Krauss - Windy City" >}}<br>
 ### More Videos
 
-- [Alison Krauss - Make The World Go Away (Feat Jamey Johnson)](https://www.youtube.com/watch?v=1w_VU8C0WGA)
 - [Alison Krauss - Losing You](https://www.youtube.com/watch?v=mLpuId3BNcU)
+- [Alison Krauss - Make The World Go Away (Feat Jamey Johnson)](https://www.youtube.com/watch?v=1w_VU8C0WGA)
 
 ## Release Images
 {{< imageGrid >}}

@@ -16,7 +16,7 @@ additional_images:
     - "https://i.discogs.com/JsLE89nashGfSivL4pAh92C2L7Np2bSABivpPSHz8FA/rs:fit/g:sm/q:90/h:513/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNDU2/MzAzLTE1MTczMTY2/NjItNTA5MC5qcGVn.jpeg"
     - "https://i.discogs.com/eOvsSZl7oS1wxHQJluVxoI_JzFLo6Kr8DFmmwLE94SQ/rs:fit/g:sm/q:90/h:564/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNDU2/MzAzLTE1MTczMTY2/NjEtNDQ5Ni5qcGVn.jpeg"
     - "https://i.discogs.com/XcD2apWPYTo13CZqUMqVhEM6nB7zkmPnwhuZHPyOJ98/rs:fit/g:sm/q:90/h:568/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNDU2/MzAzLTE1MTczMTY2/NjItNjgyMS5qcGVn.jpeg"
-    - "https://i.discogs.com/c5dMp9yLB30VQUezHRIM3ZowSSF_-sjFRWDN3wva4Lg/rs:fit/g:sm/q:90/h:656/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNDU2/MzAzLTE1MTczMTY2/NjEtMjQ1Ny5qcGVn.jpeg"
+    - "https://i.discogs.com/a6oosQcT-W25s72Dg01HnE0C5ylCeC_XsJ8wPMryDRI/rs:fit/g:sm/q:90/h:600/w:548/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNDU2/MzAzLTE1MTczMTY2/NjEtMjQ1Ny5qcGVn.jpeg"
 genres: ["Reggae", "Funk / Soul"]
 styles: ["Reggae-Pop", "Soul", "Dub"]
 ---
@@ -40,14 +40,14 @@ styles: ["Reggae-Pop", "Soul", "Dub"]
 
 
 ## Videos
-### Hollie Cook Angel Fire
-{{< youtube id="GjThn4PMHyI" title="Hollie Cook Angel Fire" >}}<br>
+### Hollie Cook "Angel Fire"
+{{< youtube id="GjThn4PMHyI" title="Hollie Cook "Angel Fire"" >}}<br>
 ### More Videos
 
-- [Hollie Cook Stay Alive](https://www.youtube.com/watch?v=N1--GrdPQWc)
-- [Hollie Cook Survive](https://www.youtube.com/watch?v=-Lr1T_6gd_w)
+- [Hollie Cook "Stay Alive"](https://www.youtube.com/watch?v=N1--GrdPQWc)
+- [Hollie Cook "Survive"](https://www.youtube.com/watch?v=-Lr1T_6gd_w)
 - [Ghostly Fading](https://www.youtube.com/watch?v=RgpWSENFGhk)
-- [Hollie Cook Freefalling](https://www.youtube.com/watch?v=KoVZOvdkst8)
+- [Hollie Cook "Freefalling"](https://www.youtube.com/watch?v=KoVZOvdkst8)
 - [Lunar Addiction](https://www.youtube.com/watch?v=c88OyiFLjVQ)
 - [Turn It Around](https://www.youtube.com/watch?v=KK4gRqiMcao)
 - [Vessel of Love](https://www.youtube.com/watch?v=CI4e9Z3eCb0)

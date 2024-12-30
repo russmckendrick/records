@@ -4,6 +4,7 @@ artist_name: "Jethro Tull"
 artist: "jethro-tull"
 album_name: "Thick As A Brick"
 date: 2016-05-11T17:08:30.000000Z
+release_date: "2012-04-02"
 release_id: "7190621"
 slug: "thick-as-a-brick-7190621"
 hideSummary: true
@@ -15,7 +16,7 @@ additional_images:
     - "https://i.discogs.com/8vXS0SDc3a6ydMpInkquuoTOvKaGo-daX1QuBgfKX40/rs:fit/g:sm/q:90/h:593/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcxOTA2/MjEtMTQzNzkxNjI2/My0xMTE1LmpwZWc.jpeg"
     - "https://i.discogs.com/36e9FDobPDTq9jzlHBAx0PJh3zTE2Uogz7zX49whFv0/rs:fit/g:sm/q:90/h:594/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcxOTA2/MjEtMTQzNzkxNjI5/Mi0yNTExLmpwZWc.jpeg"
     - "https://i.discogs.com/8EZQdqfY89g_FHOHmXNClrbhT--zELEEogP6LCtbj0Y/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcxOTA2/MjEtMTQzNzkxNjI1/MC05MDI5LmpwZWc.jpeg"
-    - "https://i.discogs.com/T75MtAN3s-MdCmllFuycaITRlLSuzJsxLJ9m27S6PUg/rs:fit/g:sm/q:90/h:601/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcxOTA2/MjEtMTQzNzkxNjI2/NC0xMzAwLmpwZWc.jpeg"
+    - "https://i.discogs.com/y-_dY3tv6y5UzFfxc1uGWGnUDIiW9SL2G4zZvT6giiQ/rs:fit/g:sm/q:90/h:600/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcxOTA2/MjEtMTQzNzkxNjI2/NC0xMzAwLmpwZWc.jpeg"
     - "https://i.discogs.com/5QmLOQ0KpixkNZoz2SWa9nvdguynOZaRvAOYEFZgV0k/rs:fit/g:sm/q:90/h:399/w:250/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcxOTA2/MjEtMTQzNzkxNjI0/OC0zNjkyLmpwZWc.jpeg"
     - "https://i.discogs.com/JSKj5NrvM2ZTU1LULrN1rNn3IEObKHOMPQF2MHc7j8A/rs:fit/g:sm/q:90/h:400/w:400/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcxOTA2/MjEtMTQzNzkxNjM1/Mi0yMzY1LmpwZWc.jpeg"
     - "https://i.discogs.com/grRwiuTc9jECIZTiYNRMFxWQN8qAJk5vK43wr8J9TpU/rs:fit/g:sm/q:90/h:509/w:587/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcxOTA2/MjEtMTQzNzkxNjI1/Mi05MDI3LmpwZWc.jpeg"
@@ -35,9 +36,12 @@ genres: ["Rock"]
 styles: ["Prog Rock", "Folk Rock"]
 ---
 
-Thick as a Brick is the fifth studio album by the British rock band Jethro Tull, released on 3 March 1972. The album contains a continuous piece of music, split over two sides of an LP record, and is intended as a parody of the concept album genre. The original packaging, designed as a 12-page newspaper, claims the album to be a musical adaptation of an epic poem by fictional eight-year-old genius Gerald Bostock, though the lyrics were actually written by the band's frontman, Ian Anderson.
-The album was recorded in late 1971, featuring music composed by Anderson and arranged with the contribution of all band members. The album was the band's first to include drummer Barrie "Barriemore" Barlow, replacing the band's previous drummer Clive Bunker. The live show promoting the album included the playing of the full suite, with various comic interludes. Thick as a Brick is considered by critics to be the first Jethro Tull release to entirely consist of progressive rock music. It received mixed reviews upon its release, but was a commercial success and topped various charts in 1972. Today it is regarded as a classic of progressive rock, and has received several accolades. Anderson produced a follow-up to the album in 2012, focusing on the adult life of the fictional Gerald Bostock.
-    
+Thick as a Brick is the fifth studio album by the British rock band Jethro Tull, released on 3 March 1972. The album contains one continuous piece of music, split over two sides of an LP record, and is intended as a parody of the concept album genre. The original packaging, designed as a 12-page newspaper, claims the album to be a musical adaptation of an epic poem by fictional eight-year-old genius Gerald Bostock, though the lyrics were actually written by the band's frontman, Ian Anderson.
+The album was recorded in late 1971, featuring music composed by Anderson and arranged with the contribution of all band members. The album was the band's first to include drummer Barrie "Barriemore" Barlow, replacing the band's previous drummer Clive Bunker. The live show promoting the album included the playing of the full suite, with various comic interludes. Thick as a Brick is considered by critics to be the first Jethro Tull release to entirely consist of progressive rock music. It received mixed reviews upon its release, but was a commercial success and topped various charts in 1972. Today it is regarded as a classic of progressive rock, and has received several accolades. Anderson produced a follow-up to the album in 2012, focusing on the adult life of the fictional Gerald Bostock, and being released as Anderson's solo album instead of as Jethro Tull's album.
+
+
+        
+        
     
 
 
@@ -46,13 +50,15 @@ The album was recorded in late 1971, featuring music composed by Anderson and ar
 2. Thick As A Brick
 
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/thick-as-a-brick-2012-steven-wilson-stereo-remix/1006839794" >}}<br>
+{{< applemusic url="https://music.apple.com/gb/album/thick-as-a-brick-2/693545308" >}}<br>
 
 
 ## Videos
-### JETHRO TULL - THICK AS A BRICK  (Pt.1&2) - FULL ALBUM [HD]
-{{< youtube id="X15PsqN0DHc" title="JETHRO TULL - THICK AS A BRICK  (Pt.1&2) - FULL ALBUM [HD]" >}}<br>
+### Jethro Tull - 1st UK press - Thick as a brick - side 1
+{{< youtube id="ulQylM_bAzc" title="Jethro Tull - 1st UK press - Thick as a brick - side 1" >}}<br>
+### More Videos
 
+- [JethroTull - 1st UK press - Thick as a brick - side2](https://www.youtube.com/watch?v=zJ7BMFSKxxE)
 
 ## Release Images
 {{< imageGrid >}}

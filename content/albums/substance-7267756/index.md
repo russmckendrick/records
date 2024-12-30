@@ -4,7 +4,6 @@ artist_name: "Joy Division"
 artist: "joy-division"
 album_name: "Substance"
 date: 2015-08-09T08:43:10.000000Z
-release_date: "1988-07-11"
 release_id: "7267756"
 slug: "substance-7267756"
 hideSummary: true
@@ -19,9 +18,10 @@ genres: ["Rock"]
 styles: ["Post-Punk", "New Wave"]
 ---
 
-This anthology gave listeners an unprecedented glimpse into Joy Division's catalogue when it appeared, eight years after Ian Curtis' death, and it remains an essential compendium. The smouldering "Warsaw" and the rest of the group's 1978 debut EP capture their punk intensity; "Atmosphere" offers a whiff of their ethereal beauty. An industrial-tinged version of "She's Lost Control" hints at an electronic path they never got the chance to take. And then there's the heartbreaking "Love Will Tear Us Apart". If any one song represents their legacy, it's this one.
-        
-        
+Substance is a singles compilation album by the English rock band Joy Division. It was released on 11 July 1988 by Factory Records. It is the companion to a similar singles compilation by their subsequent band New Order, also titled Substance. It peaked at number 7 on the UK Albums Chart and 146 on the Billboard 200, the band's only chart appearance in the United States. It also reached number 15 in New Zealand and number 53 in Australia in August 1988.
+
+
+    
     
 
 
@@ -47,29 +47,28 @@ This anthology gave listeners an unprecedented glimpse into Joy Division's catal
 19. Love Will Tear Us Apart (Pennine Version)
 
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/substance-1977-1980/996111401" >}}<br>
+{{< applemusic url="https://music.apple.com/gb/album/joy-division-tribute/1635438418" >}}<br>
 
 
 ## Videos
-### Warsaw (2010 Remaster)
-{{< youtube id="gtSFtvXgeRk" title="Warsaw (2010 Remaster)" >}}<br>
+### Incubation (2010 Remaster)
+{{< youtube id="12q03RA0HKY" title="Incubation (2010 Remaster)" >}}<br>
 ### More Videos
 
+- [Warsaw (2010 Remaster)](https://www.youtube.com/watch?v=gtSFtvXgeRk)
+- [Komakino (2010 Remaster)](https://www.youtube.com/watch?v=4DbnkkyhPnI)
 - [Leaders of Men (2010 Remaster)](https://www.youtube.com/watch?v=iQjGHxQ2nn4)
 - [Digital (2010 Remaster)](https://www.youtube.com/watch?v=MnnWHhAJktM)
-- [Joy Division - Autosuggestion](https://www.youtube.com/watch?v=qrX5d6pt60k)
 - [Transmission (2010 Remaster)](https://www.youtube.com/watch?v=Kx3EqNYQklg)
 - [She's Lost Control (2010 Remaster)](https://www.youtube.com/watch?v=Hzd5inljWhA)
-- [Incubation (2010 Remaster)](https://www.youtube.com/watch?v=12q03RA0HKY)
 - [Dead Souls (2010 Remaster)](https://www.youtube.com/watch?v=mKWHa65cmns)
 - [Atmosphere (2010 Remaster)](https://www.youtube.com/watch?v=KSYBW8JlijM)
-- [Love Will Tear Us Apart (2010 Remaster)](https://www.youtube.com/watch?v=mAAqKx4aD_g)
 - [No Love Lost (2010 Remaster)](https://www.youtube.com/watch?v=5v8Frk_37-Y)
 - [Failures (2010 Remaster)](https://www.youtube.com/watch?v=7Bbb86ajF3U)
 - [Glass (2010 Remaster)](https://www.youtube.com/watch?v=iI-IoAEGV4U)
 - [From Safety to Where (2010 Remaster)](https://www.youtube.com/watch?v=ZFV5XSGC4qQ)
 - [Novelty (2010 Remaster)](https://www.youtube.com/watch?v=Gqqr31PWsII)
-- [Komakino (2010 Remaster)](https://www.youtube.com/watch?v=4DbnkkyhPnI)
+- [Love Will Tear Us Apart (2010 Remaster)](https://www.youtube.com/watch?v=mAAqKx4aD_g)
 - [These Days (2010 Remaster)](https://www.youtube.com/watch?v=6g_b0xr9rZs)
 
 ## Release Images

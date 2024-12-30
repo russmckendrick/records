@@ -4,6 +4,7 @@ artist_name: "Adrian Younge"
 artist: "adrian-younge"
 album_name: "Luke Cage - Original Soundtrack"
 date: 2016-11-10T18:26:31.000000Z
+release_date: "2016-10-07"
 release_id: "9299784"
 slug: "luke-cage-original-soundtrack-9299784"
 hideSummary: true
@@ -20,6 +21,9 @@ genres: ["Hip Hop", "Funk / Soul", "Stage & Screen"]
 styles: ["Soundtrack"]
 ---
 
+The superhero’s score blends '90s hip-hop with cinematic drama.
+    
+    
 
 
 ## Tracklisting
@@ -70,6 +74,8 @@ styles: ["Soundtrack"]
 45. Crushin' On Reva
 46. Beloved Reva
 
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/luke-cage-original-soundtrack-album/1440838810" >}}<br>
 
 
 ## Videos
@@ -77,6 +83,22 @@ styles: ["Soundtrack"]
 {{< youtube id="yhwcVrVUa3U" title="Adrian Younge & Ali Shaheed Muhammad - I'm Luke Cage" >}}<br>
 ### More Videos
 
+- [Adrian Younge & Ali Shaheed Muhammad - End Theme](https://www.youtube.com/watch?v=DPJqvwJQxzI)
+- [Adrian Younge & Ali Shaheed Muhammad - Coffee At Midnight](https://www.youtube.com/watch?v=p8rl5kvlGdQ)
+- [Adrian Younge & Ali Shaheed Muhammad - Red-Handedly Blameless](https://www.youtube.com/watch?v=7Zc0av55sKI)
+- [Adrian Younge & Ali Shaheed Muhammad - Theme (from Luke Cage)](https://www.youtube.com/watch?v=_-w2BeDlfCo)
+- [Adrian Younge & Ali Shaheed Muhammad feat. Method Man - Bulletproof Love](https://www.youtube.com/watch?v=wkpRgSAhfbg)
+- [Adrian Younge & Ali Shaheed Muhammad - Microphone Check Five' O](https://www.youtube.com/watch?v=uy4Bt8g6J54)
+- [Adrian Younge & Ali Shaheed Muhammad - Luke's Freedom](https://www.youtube.com/watch?v=_K4S91WrFL0)
+- [Adrian Younge & Ali Shaheed Muhammad - Uptown Claire](https://www.youtube.com/watch?v=fthV5QA-ing)
+- [Adrian Younge & Ali Shaheed Muhammad - Misty Resolute](https://www.youtube.com/watch?v=FGZBmUoSvT4)
+- [Adrian Younge & Ali Shaheed Muhammad - Fresh Air](https://www.youtube.com/watch?v=rIoxLrFNGks)
+- [Adrian Younge & Ali Shaheed Muhammad - Big Man Little Jacket](https://www.youtube.com/watch?v=zHqdU1VPShY)
+- [Adrian Younge & Ali Shaheed Muhammad - Bad Love](https://www.youtube.com/watch?v=4b0L89Zon5U)
+- [Adrian Younge & Ali Shaheed Muhammad - Cuban Coffee](https://www.youtube.com/watch?v=CwSA2h8CnE4)
+- [Adrian Younge & Ali Shaheed Muhammad - Cottonmouth Theme](https://www.youtube.com/watch?v=7R8WxNN7h78)
+- [Adrian Younge & Ali Shaheed Muhammad - Luke Cops](https://www.youtube.com/watch?v=VMUS_42cLmE)
+- [Adrian Younge & Ali Shaheed Muhammad - I'm Luke Cage](https://www.youtube.com/watch?v=yhwcVrVUa3U)
 - [Adrian Younge & Ali Shaheed Muhammad - End Theme](https://www.youtube.com/watch?v=DPJqvwJQxzI)
 - [Adrian Younge & Ali Shaheed Muhammad - Coffee At Midnight](https://www.youtube.com/watch?v=p8rl5kvlGdQ)
 - [Adrian Younge & Ali Shaheed Muhammad - Red-Handedly Blameless](https://www.youtube.com/watch?v=7Zc0av55sKI)

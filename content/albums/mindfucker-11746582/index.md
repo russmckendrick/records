@@ -4,6 +4,7 @@ artist_name: "Monster Magnet"
 artist: "monster-magnet"
 album_name: "Mindfucker"
 date: 2018-03-24T11:43:41.000000Z
+release_date: "2010-10-25"
 release_id: "11746582"
 slug: "mindfucker-11746582"
 hideSummary: true
@@ -25,6 +26,9 @@ genres: ["Rock"]
 styles: ["Stoner Rock", "Psychedelic Rock"]
 ---
 
+After highlighting Monster Magnet’s melodic side and Stones-schooled roots on 2007’s <i>4-Way Diablo</i>, Dave Wyndorf gets right to bruising business on <i>Mastermind</i>’s opener, “Hallucination Bomb”, where a sludgy bassline sets the stoner-rock steamroller in motion. Arriving two decades into his career, this album is a testament to Wyndorf’s undiminished swagger: “Gods and Punks” whips a maraca-spiced strut into a rousing statement of defiance, and “100 Million Miles” is a fierce floorboard cracker that romps and stomps like heavy-metal Motown.
+    
+    
 
 
 ## Tracklisting
@@ -41,9 +45,8 @@ styles: ["Stoner Rock", "Psychedelic Rock"]
 11. You Can't Be Trusted [bonus track]
 12. Utopia [bonus track]
 
-
-## Spotify
-{{< spotify type="album" id="6BJCZ6aloaqh8S4FcmvZbQ" width="100%" height="500" >}}<br>
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/mastermind/1183584710" >}}<br>
 
 
 ## Videos
@@ -53,6 +56,11 @@ styles: ["Stoner Rock", "Psychedelic Rock"]
 
 - [MONSTER MAGNET - I'm God (Official Lyric Video) | Napalm Records](https://www.youtube.com/watch?v=jxvU7o_PSWk)
 - [MONSTER MAGNET - Mindfucker (Official Video) | Napalm Records](https://www.youtube.com/watch?v=tsvvS142wWg)
+- [Monster Magnet - Utopia **BONUS TRACK!!! off of Mindfucker**!](https://www.youtube.com/watch?v=M4DKRUQmVvY)
+- [MONSTER MAGNET - Ejection (Official Video) | Napalm Records](https://www.youtube.com/watch?v=odiGshPzmlI)
+- [MONSTER MAGNET - I'm God (Official Lyric Video) | Napalm Records](https://www.youtube.com/watch?v=jxvU7o_PSWk)
+- [MONSTER MAGNET - Mindfucker (Official Video) | Napalm Records](https://www.youtube.com/watch?v=tsvvS142wWg)
+- [Monster Magnet - Utopia **BONUS TRACK!!! off of Mindfucker**!](https://www.youtube.com/watch?v=M4DKRUQmVvY)
 - [Monster Magnet - Utopia **BONUS TRACK!!! off of Mindfucker**!](https://www.youtube.com/watch?v=M4DKRUQmVvY)
 
 ## Release Images

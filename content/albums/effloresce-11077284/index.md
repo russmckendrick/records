@@ -12,7 +12,7 @@ cover:
     alt: "Effloresce by Oceansize"
     caption: "Effloresce by Oceansize"
 additional_images:
-    - "https://i.discogs.com/pgbAvRRRIqpSfHiq49BXADg1329diliXejhN3UBUe8I/rs:fit/g:sm/q:90/h:602/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMDc3/Mjg0LTE1MDk0MjQy/NTAtOTY2OS5qcGVn.jpeg"
+    - "https://i.discogs.com/77xElDDiV8PmFSqfC8qFZ4w9NbqfyBLTWDoYdjztl8o/rs:fit/g:sm/q:90/h:600/w:597/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMDc3/Mjg0LTE1MDk0MjQy/NTAtOTY2OS5qcGVn.jpeg"
     - "https://i.discogs.com/Fcj5Fz-5pXpFOm-H39B3qZmkUofgs5DUa168JCIX__8/rs:fit/g:sm/q:90/h:308/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMDc3/Mjg0LTE1MDk0MjQy/NDctNzUzMy5qcGVn.jpeg"
     - "https://i.discogs.com/UQgZplgt7e9M_ZN6bPC2b8uW8FFOZcB_cXk-GbRcbaQ/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMDc3/Mjg0LTE1MDk0MjQy/NDQtMzU0MS5qcGVn.jpeg"
     - "https://i.discogs.com/mapIcBpeBS9zf6a2Nv7cw1nbcvXfvxmONvu1hyjdCII/rs:fit/g:sm/q:90/h:590/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMDc3/Mjg0LTE1MDk0MjQy/NTItNjcyNy5qcGVn.jpeg"
@@ -21,13 +21,20 @@ additional_images:
     - "https://i.discogs.com/ypGEkZucZ39ft1e6VqIOT9nKFVEF_Ye3MGMp9smBC5c/rs:fit/g:sm/q:90/h:588/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMDc3/Mjg0LTE1MDk0MjQy/NTgtMzk2Ny5qcGVn.jpeg"
     - "https://i.discogs.com/aYXdu6CRPpd_G5BMJJAtQx58gVbFSYlXW6hmwhfwaxw/rs:fit/g:sm/q:90/h:584/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMDc3/Mjg0LTE1MDk0MjQy/NjAtODA3OC5qcGVn.jpeg"
     - "https://i.discogs.com/A5J7mRFr4P6ZbasN20G_-HNI9WmQIiWsxjZ17702V_s/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMDc3/Mjg0LTE1MDk0MjQy/NjAtMTkyOC5qcGVn.jpeg"
-    - "https://i.discogs.com/6Aqlu3GCLgD4g_jmKo6SlXZukoswGMC3GwOjsHNFoWg/rs:fit/g:sm/q:90/h:602/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMDc3/Mjg0LTE1MDk0MjQy/NjEtMTA3Ny5qcGVn.jpeg"
+    - "https://i.discogs.com/CsvsO9nSL4cu1IJSOsKRZVSdecLCroZ5FJNUyNAU-Pc/rs:fit/g:sm/q:90/h:600/w:597/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMDc3/Mjg0LTE1MDk0MjQy/NjEtMTA3Ny5qcGVn.jpeg"
     - "https://i.discogs.com/YKOZ9rDM1E8rP89a48k3KVjwVnJ0X1tLrMimKQGFCOM/rs:fit/g:sm/q:90/h:593/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMDc3/Mjg0LTE1MDk0MjQy/NjEtMjUyMi5qcGVn.jpeg"
-    - "https://i.discogs.com/MRPzxqCYMWiO4kThnTjlYHVIZduqNgK9sNzfJdLWF4A/rs:fit/g:sm/q:90/h:604/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMDc3/Mjg0LTE1MDk0MjQy/NjItMTMyNy5qcGVn.jpeg"
+    - "https://i.discogs.com/IDkFtDhdQBaU31Hwyy4bxRyCE0TnuaHd0muzwuPmp_o/rs:fit/g:sm/q:90/h:600/w:595/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMDc3/Mjg0LTE1MDk0MjQy/NjItMTMyNy5qcGVn.jpeg"
 genres: ["Rock"]
 styles: ["Alternative Rock", "Indie Rock"]
 ---
 
+In chemistry, efflorescence (which roughly means "the flowering" in French) is the migration of a salt to the surface of a porous material, where it forms a coating. The essential process involves the dissolving of an internally held salt in water or occasionally, in another solvent. The water, with the salt now held in solution, migrates to the surface, then evaporates, leaving a coating of the salt.
+In what has been described as "primary efflorescence", the water is the invader and the salt was already present internally, and a reverse process, where the salt is originally present externally and is then carried inside in solution, is referred to as "secondary efflorescence".
+Efflorescences can occur in natural and built environments. On porous construction materials it may present a cosmetic outer problem only (primary efflorescence causing staining), but can sometimes indicate internal structural weakness (migration/degradation of component materials).  Efflorescence may clog the pores of porous materials, resulting in the destruction of those materials by internal water pressure, as seen in the spalling of brick.
+
+
+    
+    
 
 
 ## Tracklisting
@@ -61,6 +68,7 @@ styles: ["Alternative Rock", "Indie Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
+| Wikipedia URL | https://en.wikipedia.org/wiki/Efflorescence |
 | Format         | Vinyl 2× LP Album Reissue Remastered (Yellow/Red Swirl) |
 | Label          | Beggars Banquet |
 | Catalog Number | BBQLP 235X |

@@ -23,6 +23,8 @@ styles: ["Leftfield", "Synth-pop"]
 ---
 
 Schubert Dip is the debut album by British rock band EMF, released on Parlophone Records on 7 May 1991. It features the worldwide hit single "Unbelievable" which reached number one on the US Billboard Hot 100. The name of the album is a pun on the name of the popular sweet sherbet dip and the 19th-century composer Franz Schubert.
+
+
     
     
 
@@ -45,21 +47,22 @@ Schubert Dip is the debut album by British rock band EMF, released on Parlophone
 
 
 ## Videos
-### EMF - Children (Official Music Video)
-{{< youtube id="fN7XEB31uow" title="EMF - Children (Official Music Video)" >}}<br>
+### EMF - Unbelievable (Official Music Video) HD
+{{< youtube id="sfCLt0kTd5E" title="EMF - Unbelievable (Official Music Video) HD" >}}<br>
 ### More Videos
 
+- [EMF - Children (Official Music Video)](https://www.youtube.com/watch?v=fN7XEB31uow)
 - [Children](https://www.youtube.com/watch?v=FHoLIZtzxbY)
 - [Long Summer Days](https://www.youtube.com/watch?v=w8DnOwohmG8)
 - [When You're Mine](https://www.youtube.com/watch?v=XjjUqJc3wBQ)
 - [Travelling Not Running](https://www.youtube.com/watch?v=ofZBwZkuSy4)
 - [I Believe](https://www.youtube.com/watch?v=-iAmTM2fTEU)
-- [EMF - Unbelievable (Official Music Video) HD](https://www.youtube.com/watch?v=sfCLt0kTd5E)
 - [Girl of an Age](https://www.youtube.com/watch?v=gTOZ-YRo2IE)
 - [Admit It](https://www.youtube.com/watch?v=MqlAJjBDntA)
 - [Lies](https://www.youtube.com/watch?v=V73bNerGrSY)
 - [Longtime](https://www.youtube.com/watch?v=elrHGYu0CWo)
 - [EMF - EMF](https://www.youtube.com/watch?v=bpmAQeGzmXo)
+- [Unbelievable (Remastered)](https://www.youtube.com/watch?v=A3pxkMaUNvc)
 
 ## Release Images
 {{< imageGrid >}}

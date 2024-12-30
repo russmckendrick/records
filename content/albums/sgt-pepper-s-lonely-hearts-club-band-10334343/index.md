@@ -4,7 +4,7 @@ artist_name: "The Beatles"
 artist: "the-beatles"
 album_name: "Sgt. Pepper's Lonely Hearts Club Band"
 date: 2017-05-27T08:24:00.000000Z
-release_date: "1967-05-26"
+release_date: "1967-06-01"
 release_id: "10334343"
 slug: "sgt-pepper-s-lonely-hearts-club-band-10334343"
 hideSummary: true
@@ -17,24 +17,25 @@ additional_images:
     - "https://i.discogs.com/a0vmmJm3GzwsUYCy0zygi97IvaOBmumNfu2YeCwSoas/rs:fit/g:sm/q:90/h:292/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMzM0/MzQzLTE1MTM0MTg0/NzYtNjQ3OC5qcGVn.jpeg"
     - "https://i.discogs.com/-hOGguScLhPxwOJKy7Na8VT48-z26w47nhDd-9RpLC4/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMzM0/MzQzLTE1Mjk1ODcw/NzctMjAyNS5qcGVn.jpeg"
     - "https://i.discogs.com/20Snv-BNZGKykYFPQNJMhwUKSizdcCeeLkVAOTKRvMI/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMzM0/MzQzLTE1Mjk1ODcw/NzYtMjc1MC5qcGVn.jpeg"
-    - "https://i.discogs.com/OlSxSsRJnrb24gEr3PL1aihZIgLn7PhDqWkAJpUyauQ/rs:fit/g:sm/q:90/h:615/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMzM0/MzQzLTE0OTU3NzE4/MzEtNTQxNS5qcGVn.jpeg"
-    - "https://i.discogs.com/uCX-3pPBZZNjJ8mSJUjCHakJSXTvjeWF8issfnEYEO8/rs:fit/g:sm/q:90/h:603/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMzM0/MzQzLTE0OTYwMTUz/NTEtNjg1Ny5qcGVn.jpeg"
-    - "https://i.discogs.com/3a7N-Io-aGxAJ_qd6lOb3Qjl-HiV4w-JaOO9x2UosNw/rs:fit/g:sm/q:90/h:601/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMzM0/MzQzLTE0OTYwMTUz/NTEtNzAwMi5qcGVn.jpeg"
-    - "https://i.discogs.com/-OJmSFPaHdwWATQuHhknasxPzP4KwiLvW1QiETtk2SE/rs:fit/g:sm/q:90/h:603/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMzM0/MzQzLTE0OTYwMTUz/NTAtMTk3MC5qcGVn.jpeg"
+    - "https://i.discogs.com/N-NA1eq11VcdOZ7U-De_9fUtOmYZL4TLDdN8w5o5tRc/rs:fit/g:sm/q:90/h:600/w:585/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMzM0/MzQzLTE0OTU3NzE4/MzEtNTQxNS5qcGVn.jpeg"
+    - "https://i.discogs.com/g-vBMHO7D53ZsOzvKekpfFAUx2Hvbmy5Sy3EqVbhqOI/rs:fit/g:sm/q:90/h:600/w:596/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMzM0/MzQzLTE0OTYwMTUz/NTEtNjg1Ny5qcGVn.jpeg"
+    - "https://i.discogs.com/rawXORBfKO5FrIyAP9TIdkt9onlHDr6tqFAhptoIMzs/rs:fit/g:sm/q:90/h:600/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMzM0/MzQzLTE0OTYwMTUz/NTEtNzAwMi5qcGVn.jpeg"
+    - "https://i.discogs.com/jb6qbKl1EcCPxATpcN23C3axu49AvMYbovEsJ8Q4Ox0/rs:fit/g:sm/q:90/h:600/w:596/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMzM0/MzQzLTE0OTYwMTUz/NTAtMTk3MC5qcGVn.jpeg"
     - "https://i.discogs.com/t3y6WHbiAdL6oZu_PwOLTR5pPDktSPFwoc69sh14zjM/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMzM0/MzQzLTE0OTYwMTUz/NTAtMzk4My5qcGVn.jpeg"
     - "https://i.discogs.com/vYCoJuTFGA7h77u2zsxCT9leGT9AWK6CW3dItlZ3P0M/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMzM0/MzQzLTE1MTM0MTg0/NzctOTEzNC5qcGVn.jpeg"
     - "https://i.discogs.com/Udw-NZ7NErmVy2gtMtQhT5LxZNn55wU0Sfo-JyRWkms/rs:fit/g:sm/q:90/h:298/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMzM0/MzQzLTE1MTM0MTg0/NzMtMTc0Ny5qcGVn.jpeg"
-    - "https://i.discogs.com/nnaoN1Ak_QlgX61TBz5p6JwrBl5SrV_IHMLGxYJXdTQ/rs:fit/g:sm/q:90/h:606/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMzM0/MzQzLTE1MTM0MTg0/NzMtMTgwOC5qcGVn.jpeg"
-    - "https://i.discogs.com/ZS4eVDTFMHYSV2NnhXfdw8VXTQwQZxEACQY2bsynxqg/rs:fit/g:sm/q:90/h:603/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMzM0/MzQzLTE1MTM0MTg0/NzctMTkzNS5qcGVn.jpeg"
+    - "https://i.discogs.com/MLY8pIFzJSmg_-VFP8crtSyu_8WjnGSJZUhtjHbcTmY/rs:fit/g:sm/q:90/h:600/w:593/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMzM0/MzQzLTE1MTM0MTg0/NzMtMTgwOC5qcGVn.jpeg"
+    - "https://i.discogs.com/U1Qo61AU97YpPdbxYlQSZgDYuxzO3dag4dU3C4Q23Lg/rs:fit/g:sm/q:90/h:600/w:596/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMzM0/MzQzLTE1MTM0MTg0/NzctMTkzNS5qcGVn.jpeg"
     - "https://i.discogs.com/N3wwE226UPCO1izQC-LpBDP96cWzmSuhlI8Nwh8-CIE/rs:fit/g:sm/q:90/h:590/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMzM0/MzQzLTE1MjAxMDQy/MzEtNTc5MS5qcGVn.jpeg"
-    - "https://i.discogs.com/l3tGa6N47sgKuFhCuVFEvK_Gg_m0ag72Rc0qDGNlfCM/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMzM0/MzQzLTE2NDcxNjky/MzUtODc0NC5qcGVn.jpeg"
+    - "https://i.discogs.com/9FCVa4zrWqPArdg42Zpyrk7I28EJhqjGD_9MUnBmQys/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMzM0/MzQzLTE2NDcxNjky/MzUtODc0NC5qcGVn.jpeg"
 genres: ["Rock", "Pop"]
 styles: ["Rock & Roll", "Psychedelic Rock"]
 ---
 
 For better and worse, <i>Sgt. Pepper’s Lonely Hearts Club Band</i> helped set the precedent that rock bands could (and should) do more or less whatever they wanted. Songs got longer, albums grew concepts and the idea of the LP as a concise product meant to showcase a performer’s talents gave way to the suspicion that commercial concerns ultimately only served The Man. A few months before The Beatles were set to record <i>Sgt. Pepper’s</i>, Bob Dylan had released <i>Blonde on Blonde</i>, an album so expansive it had to literally be pressed onto two records, while The Beach Boys’ <i>Pet Sounds</i> stretched the dimensions and possibilities of the three-minute pop song. McCartney in particular had been fascinated by things like Frank Zappa & The Mothers of Invention’s 1966 debut, <i>Freak Out!</i>, a double album whose hodgepodge of songs, noise, skits and sound gags mirrored conceptual art’s breaking of the painterly frame. Where The Beatles had once sought to distil and consolidate, now they were looking to expand. McCartney had even come up with an alter ego and pseudo-unifying backstory—a move Lennon later said only worked because the band <i>said</i> it worked. In other words, they didn’t want to just exorcise the group that made “I Want to Hold Your Hand”, they wanted to smother them with a pillow. Vacationing in France just before recording had started, McCartney slicked his hair back with Vaseline and wandered the streets in a fake moustache and clear-lens glasses, an experience he called “quite liberating”.<br />
 For all its experiments (“A Day in the Life”) and invocations of the counterculture (“Lucy in the Sky With Diamonds”), it’s probably the band’s most conservative album: the beer hall sing-alongs of the title track and “With a Little Help From My Friends”, the old-timey entertainments of “Being for the Benefit of Mister Kite!”, the domestic contentment of “When I’m Sixty-Four”. Like The Kinks circa “Waterloo Sunset” and <i>The Kinks Are the Village Green Preservation Society</i> and The Beach Boys of <i>Smiley Smile</i>, <i>Sgt. Pepper’s</i> is an album that looked towards the past instead of the future, the work of guys in their late twenties starting to wonder if they’d been too eager to break from the old world—or at least might have lost something along the way. (Lennon’s “Strawberry Fields Forever”, recorded around the same time, covered similar themes; that the band was all taking acid—a drug that has a way of flattening geologic time—probably didn’t hurt either.) Even Lennon’s lyric on “A Day in the Life”—“I read the news today, oh boy”—rang with a cosmic quaintness, an image not of young radicals on the loose but of the aging souls of “Eleanor Rigby”, finding infinite richness in a narrow life. A couple of months after the album was released, the band—along with partners, children and business infrastructure—travelled to Greece with the vague intention of buying an island for everyone to live on, but eventually managed to think better of it.
-    
+        
+        
     
 
 
@@ -68,10 +69,15 @@ For all its experiments (“A Day in the Life”) and invocations of the counter
 27. A Day In The Life (Take 1 And Hummed Last Chord) (4:51)
 
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/sgt-peppers-lonely-hearts-club-band-remix/1573250333" >}}<br>
+{{< applemusic url="https://music.apple.com/gb/album/sgt-peppers-lonely-hearts-club-band/1441164604" >}}<br>
 
 
+## Videos
+### Beatles - 1st UK press - Sgt pepper.....- side 1
+{{< youtube id="sQ-q8oz-GTk" title="Beatles - 1st UK press - Sgt pepper.....- side 1" >}}<br>
+### More Videos
 
+- [Beatles - 1st UK press - Sgt pepper.....- side 2](https://www.youtube.com/watch?v=CkSH76b4-2o)
 
 ## Release Images
 {{< imageGrid >}}
@@ -79,6 +85,7 @@ For all its experiments (“A Day in the Life”) and invocations of the counter
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
+| Wikipedia URL | https://en.wikipedia.org/wiki/Sgt._Pepper%27s_Lonely_Hearts_Club_Band_(film) |
 | Format         | Vinyl 2× LP Album Reissue Special Edition Stereo (Anniversary Edition, ½ Speed Mastered, Gatefold) |
 | Label          | Parlophone |
 | Catalog Number | PCS 7027 |

@@ -13,8 +13,8 @@ cover:
     alt: "American Tunes by Allen Toussaint"
     caption: "American Tunes by Allen Toussaint"
 additional_images:
-    - "https://i.discogs.com/zMP9TdTOzWsuzn2x-D631Gkj1Mder9fwDI3nszG_wps/rs:fit/g:sm/q:90/h:611/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg2MzQ2/MjMtMTY2MTgzMjY2/MC00ODA3LmpwZWc.jpeg"
-    - "https://i.discogs.com/iqvJZ2ITQEYm6v8VHssZpsQFI8reCF5EPlhKiYGWDWY/rs:fit/g:sm/q:90/h:613/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg2MzQ2/MjMtMTY2MTgzMjY1/OS02NDg4LmpwZWc.jpeg"
+    - "https://i.discogs.com/WWBZlg_jQYGri5wxg838HYit4Z_3Z0e-vvSac2qLSF4/rs:fit/g:sm/q:90/h:600/w:588/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg2MzQ2/MjMtMTY2MTgzMjY2/MC00ODA3LmpwZWc.jpeg"
+    - "https://i.discogs.com/RTiIFMz6DsqFM-DPaKzoNEuRqyVFKPI2e8yr3jutFMg/rs:fit/g:sm/q:90/h:600/w:587/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg2MzQ2/MjMtMTY2MTgzMjY1/OS02NDg4LmpwZWc.jpeg"
     - "https://i.discogs.com/ezLVxb4FBtuCGb6jzlzy4WoG54xZZq3zc0MLi3ov3Vs/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg2MzQ2/MjMtMTY2MTgzMjQ4/MC01MjEyLmpwZWc.jpeg"
     - "https://i.discogs.com/AJ21eqtj-Ze9LM4yA1WPajg2ilM6Vddc1ohpwj41cVs/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg2MzQ2/MjMtMTY2MTgzMjQ4/MC05Nzg3LmpwZWc.jpeg"
     - "https://i.discogs.com/Zlg9gVnukfZEw7QIvCIVCytbokF1f0tYNMwc8rmvhXk/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg2MzQ2/MjMtMTY2MTgzMjQ4/MC02OTU2LmpwZWc.jpeg"
@@ -23,7 +23,11 @@ genres: ["Funk / Soul"]
 styles: ["Rhythm & Blues", "Soul"]
 ---
 
-American Tunes  is the final recording from New Orleans jazz and R&B pianist Allen Toussaint, released on Nonesuch Records on June 10, 2016. It was produced by Joe Henry and includes music from a 2013 solo session at the pianist's home studio in New Orleans and an October 2015 session featuring musicians Bill Frisell, Charles Lloyd, Greg Leisz, Jay Bellerose, and David Piltch, with special guest vocalist Rhiannon Giddens and pianist Van Dyke Parks, recorded in Los Angeles the month before Toussaint died.The album title is taken from the 1973 Paul Simon song "American Tune," which Toussaint performs on the album. Also included are songs written or recorded by Toussaint, Professor Longhair (Henry Roeland Byrd), Duke Ellington, Bill Evans, and Fats Waller.Allen Toussaint was due to play with Paul Simon in a New Orleans benefit concert to celebrate the 30th anniversary of New Orleans Artists Against Hunger and Homelessness, an organization Toussaint co-founded, on December 8, 2015; instead, Simon played the concert without Toussaint in tribute to the late musician. "Allen Toussaint brought New Orleans to the world," Simon has said, "and he left before he could bless us with the complete genius of his music."
+American Tunes  is the final recording from New Orleans jazz and R&B pianist Allen Toussaint, released on Nonesuch Records on June 10, 2016. It was produced by Joe Henry and includes music from a 2013 solo session at the pianist's home studio in New Orleans and an October 2015 session featuring musicians Bill Frisell, Charles Lloyd, Greg Leisz, Jay Bellerose, and David Piltch, with special guest vocalist Rhiannon Giddens and pianist Van Dyke Parks, recorded in Los Angeles the month before Toussaint died.
+The album title is taken from the 1973 Paul Simon song "American Tune," which Toussaint performs on the album. Also included are songs written or recorded by Toussaint, Professor Longhair (Henry Roeland Byrd), Duke Ellington, Bill Evans, and Fats Waller.
+Allen Toussaint was due to play with Paul Simon in a New Orleans benefit concert to celebrate the 30th anniversary of New Orleans Artists Against Hunger and Homelessness, an organization Toussaint co-founded, on December 8, 2015; instead, Simon played the concert without Toussaint in tribute to the musician. "Allen Toussaint brought New Orleans to the world," Simon has said, "and he left before he could bless us with the complete genius of his music."
+
+
         
         
     
@@ -54,25 +58,15 @@ American Tunes  is the final recording from New Orleans jazz and R&B pianist All
 
 
 ## Videos
-### Allen Toussaint - Big Chief [Official Audio]
-{{< youtube id="NKhE8YNU4cQ" title="Allen Toussaint - Big Chief [Official Audio]" >}}<br>
+### Allen Toussaint - Confessin' (That I Love You) [Official Audio]
+{{< youtube id="kZ9W9X45B2s" title="Allen Toussaint - Confessin' (That I Love You) [Official Audio]" >}}<br>
 ### More Videos
 
-- [Allen Toussaint - Confessin' (That I Love You) [Official Audio]](https://www.youtube.com/watch?v=kZ9W9X45B2s)
-- [American Tune](https://www.youtube.com/watch?v=TNZ1RQqCjdc)
-- [Southern Nights](https://www.youtube.com/watch?v=1E1LIXlMzWw)
-- [Viper's Drag](https://www.youtube.com/watch?v=6-xSPorfyCE)
-- [Lotus Blossom](https://www.youtube.com/watch?v=1gVWhGpZvJo)
-- [Mardi Gras In New Orleans](https://www.youtube.com/watch?v=JxzW78F-lRM)
-- [Delores' Boyfriend](https://www.youtube.com/watch?v=EEptig6QMAE)
-- [Come Sunday](https://www.youtube.com/watch?v=vvrPynE7Y-0)
-- [Rocks In My Bed](https://www.youtube.com/watch?v=wpmh0L8UgRE)
-- [Danza, Op. 33](https://www.youtube.com/watch?v=edcqdFkAz8c)
-- [Rosetta](https://www.youtube.com/watch?v=1WHtjZF0P54)
-- [Hey Little Girl](https://www.youtube.com/watch?v=UvqIYt2f3Zk)
-- [Waltz For Debby](https://www.youtube.com/watch?v=WK0nwThV8dE)
+- [Allen Toussaint - Big Chief [Official Audio]](https://www.youtube.com/watch?v=NKhE8YNU4cQ)
 - [Confessin' (That I Love You)](https://www.youtube.com/watch?v=VTvzPmI5hzo)
 - [Big Chief](https://www.youtube.com/watch?v=5xOgbMlESMs)
+- [Allen Toussaint - Big Chief [Official Audio]](https://www.youtube.com/watch?v=NKhE8YNU4cQ)
+- [Allen Toussaint - Confessin' (That I Love You) [Official Audio]](https://www.youtube.com/watch?v=kZ9W9X45B2s)
 
 ## Release Images
 {{< imageGrid >}}

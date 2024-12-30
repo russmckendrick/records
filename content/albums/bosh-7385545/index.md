@@ -12,9 +12,9 @@ cover:
     alt: "Bosh! by Cleft"
     caption: "Bosh! by Cleft"
 additional_images:
-    - "https://i.discogs.com/i8jjfVLQhNT8lF2c_SAEMDjPjLfDEouJ-Vx6o1KWlhA/rs:fit/g:sm/q:90/h:603/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTczODU1/NDUtMTQ2Nzk4Mzkz/NC0zNDA3LmpwZWc.jpeg"
+    - "https://i.discogs.com/UKiQ0fFVv69nDlo3I6k9VYuviT7CqCft4s0_TCGTK6I/rs:fit/g:sm/q:90/h:600/w:596/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTczODU1/NDUtMTQ2Nzk4Mzkz/NC0zNDA3LmpwZWc.jpeg"
     - "https://i.discogs.com/FPvlomapIv4pDJ7_FgHCae8IM5xuJKIvPmxIZn1x3gA/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTczODU1/NDUtMTQ2Nzk4Mzky/OS05MTE2LmpwZWc.jpeg"
-    - "https://i.discogs.com/8PMvdrn7TfHmcNNeT6YBYRBHhd2paHMiI3dAJilnY6E/rs:fit/g:sm/q:90/h:601/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTczODU1/NDUtMTQ2Nzk4Mzkz/Mi05NjAxLmpwZWc.jpeg"
+    - "https://i.discogs.com/1chDw6sOzP0fmoY95yzxbi0WjdKfzlFfSgTYj0Q-4Y8/rs:fit/g:sm/q:90/h:600/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTczODU1/NDUtMTQ2Nzk4Mzkz/Mi05NjAxLmpwZWc.jpeg"
     - "https://i.discogs.com/WNqEWLm8LU2WtEvJgbTvFQ7wveG0ZzcbVSnyw8-Yd1w/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTczODU1/NDUtMTQ2Nzk4Mzkz/MS0yMjY5LmpwZWc.jpeg"
     - "https://i.discogs.com/zql0kI3ixFl5s44Wf9Aq3ZecIpuGl7AHTe_we5aaz3g/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTczODU1/NDUtMTQ2Nzk4Mzkz/Mi02NTU3LmpwZWc.jpeg"
     - "https://i.discogs.com/SOxQZk3kJWhG1Lta6YHukP2MTuQajr2s5Gyf329eZtQ/rs:fit/g:sm/q:90/h:594/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTczODU1/NDUtMTQ2Nzk4Mzky/Ni05MzQyLmpwZWc.jpeg"

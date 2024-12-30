@@ -30,8 +30,10 @@ genres: ["Rock"]
 styles: ["Acoustic", "Indie Rock", "Folk Rock"]
 ---
 
-White Ladder is the fourth studio album by English singer-songwriter David Gray. It was first released in March 1999 through Gray's own record label, IHT Records, but failed to chart. On 24 April 2000, the album was re-released by Dave Matthews' label ATO Records and debuted at number 69 on the UK Albums Chart, before climbing to number one on 5 August 2001, more than a year later. White Ladder produced five singles, including the hit "Babylon", which ignited interest in the album and shot Gray to worldwide fame. Other singles released from the album were "This Year's Love", "Please Forgive Me", "Sail Away", and "Say Hello, Wave Goodbye".
+White Ladder is the fourth studio album by English singer-songwriter David Gray. It was first released in November 1998 through Gray's own record label, IHT Records, but failed to chart. On 24 April 2000, the album was re-released by Dave Matthews' label ATO Records and debuted at number 69 on the UK Albums Chart, before climbing to number one on 5 August 2001, more than a year later. White Ladder produced five singles, including the hit "Babylon", which ignited interest in the album and shot Gray to worldwide fame. Other singles released from the album were "This Year's Love", "Please Forgive Me", "Sail Away", and "Say Hello, Wave Goodbye".
 White Ladder spent almost three full years on the UK top 100, consistently charting between May 2000 and March 2003. Its total charting time as of 2020 was 176 weeks, making it one of the longest-charting albums in UK chart history. It was massively successful in Ireland, where it spent six consecutive weeks at number one on the Irish Albums Chart and had sold 350,000 copies by 2002. In 2015, it was still the biggest-selling album of all time in that country. White Ladder was the fifth-best-selling album of the 2000s in the UK, with 2.9 million copies sold. The album has sold over 3 million copies in the UK, making it the country's eleventh-best-selling album of the 21st century as well as the 28th-best-selling album of all time. The record has sold over seven million copies worldwide.
+
+
     
     
 
@@ -49,14 +51,16 @@ White Ladder spent almost three full years on the UK top 100, consistently chart
 10. Say Hello, Wave Goodbye
 
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/white-ladder-20th-anniversary-edition/1479987640" >}}<br>
+{{< applemusic url="https://music.apple.com/gb/album/white-ladder/1738297829" >}}<br>
 
 
 ## Videos
-### David Gray - White Ladder (live)
-{{< youtube id="mV3d6jKFvQA" title="David Gray - White Ladder (live)" >}}<br>
+### David Gray - This Year's Love (Official Video)
+{{< youtube id="6zN4_7hq77g" title="David Gray - This Year's Love (Official Video)" >}}<br>
 ### More Videos
 
+- [David Gray - Sail Away (Official Video)](https://www.youtube.com/watch?v=Kq-jLjCVx_Q)
+- [David Gray - White Ladder (live)](https://www.youtube.com/watch?v=mV3d6jKFvQA)
 - [David Gray - Babylon (Official Video)](https://www.youtube.com/watch?v=zI_SBAkdKzc)
 - [David Gray - Please Forgive Me (Official Video)](https://www.youtube.com/watch?v=qmFRXwYKQwU)
 - [David Gray - Say Hello, Wave Goodbye - BBC Mastertapes - Maida Vale - 23 Nov 2017](https://www.youtube.com/watch?v=jUZZyzHyqgM)

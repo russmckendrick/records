@@ -31,6 +31,8 @@ styles: ["Prog Rock"]
 
 Going for the One is the eighth studio album by English progressive rock band Yes, released on 15 July 1977 by Atlantic Records. After taking a break in activity in 1975 for each member to release a solo album, and their 1976 tour of the United States and Canada, the band relocated to Montreux, Switzerland to record their next studio album. During rehearsals, keyboardist Patrick Moraz left the group, which marked the return of Rick Wakeman who had left to pursue a solo career after differences surrounding Tales from Topographic Oceans (1973). In a departure from their previous albums, Going for the One, with the exception of the fifteen-minute "Awaken", features shorter and more direct songs without an overarching concept, and saw Yes record with new engineering personnel and cover artists.
 Going for the One received a mostly positive response from music critics who welcomed the band's return to more accessible music. It was a commercial success, reaching No. 1 on the UK Albums Chart for two weeks and No. 8 on the US Billboard 200. "Wonderous Stories" and "Going for the One" were released as singles; the former went to No. 7 in the UK and remains the band's highest-charting single in the country. It was certified gold by the Recording Industry Association of America (RIAA) within a month for selling 500,000 copies. Yes supported the album with a six-month tour of the US, Canada and Europe. A remastered edition was released in 2003 containing previously unreleased tracks from the album's recording sessions.
+
+
     
     
 
@@ -43,10 +45,21 @@ Going for the One received a mostly positive response from music critics who wel
 5. Awaken (15:38)
 
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/going-for-the-one-deluxe-edition/1082014857" >}}<br>
+{{< applemusic url="https://music.apple.com/gb/album/going-for-the-one/1048475557" >}}<br>
 
 
+## Videos
+### Going for the One (2003 Remaster)
+{{< youtube id="s-DEnI6RLwM" title="Going for the One (2003 Remaster)" >}}<br>
+### More Videos
 
+- [Turn of the Century (2003 Remaster)](https://www.youtube.com/watch?v=g0k-Klq-FNA)
+- [Going for the One (2003 Remaster)](https://www.youtube.com/watch?v=s-DEnI6RLwM)
+- [Turn of the Century (2003 Remaster)](https://www.youtube.com/watch?v=g0k-Klq-FNA)
+- [Yes - Wonderous Stories (Official Music Video)](https://www.youtube.com/watch?v=9-BMlq_zyko)
+- [Parallels (2008 Remaster)](https://www.youtube.com/watch?v=sF7ZSfyL0hU)
+- [Wonderous Stories (2013 Remaster)](https://www.youtube.com/watch?v=f7pk3iinPBE)
+- [Awaken (2008 Remaster)](https://www.youtube.com/watch?v=G42-qaPxZK0)
 
 ## Release Images
 {{< imageGrid >}}

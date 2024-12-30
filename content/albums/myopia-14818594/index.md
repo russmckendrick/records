@@ -19,13 +19,15 @@ additional_images:
     - "https://i.discogs.com/BtdSN0mMs-0p_wH6mWeA5pdKCe68rijiQOSEtob2xIM/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0ODE4/NTk0LTE1ODM4Mzg0/ODUtNjI0My5qcGVn.jpeg"
     - "https://i.discogs.com/Wr5vXgcDf69oGwCzDDRlMd4ZHQLthRg7ZNpSGs4qJz0/rs:fit/g:sm/q:90/h:592/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0ODE4/NTk0LTE1ODM4Mzg0/OTAtNDEwMS5qcGVn.jpeg"
     - "https://i.discogs.com/3sqg_IznENNVMQZXJwA5CHbapYToy3sV-5-x_wXRJMM/rs:fit/g:sm/q:90/h:528/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0ODE4/NTk0LTE1ODM4Mzg1/MDEtODg2OC5qcGVn.jpeg"
-    - "https://i.discogs.com/4VY2LFCCcYr0hG3erFJtPrcXRr0mfM-6NSnY7CiPAc4/rs:fit/g:sm/q:90/h:705/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0ODE4/NTk0LTE1ODM4Mzg1/MDQtODA4OS5qcGVn.jpeg"
-    - "https://i.discogs.com/NqztDpVyQQz1CTpiGG5cOsMbznjPgZumgeOnGU5hJvk/rs:fit/g:sm/q:90/h:610/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0ODE4/NTk0LTE1ODM4Mzg3/NDMtMjQ1MC5qcGVn.jpeg"
+    - "https://i.discogs.com/bdMLisWN0PZNK-rODPM9eFpKQLcThsuw9PpYV93i-3c/rs:fit/g:sm/q:90/h:600/w:510/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0ODE4/NTk0LTE1ODM4Mzg1/MDQtODA4OS5qcGVn.jpeg"
+    - "https://i.discogs.com/EDKKL0Hx9MUWtEdd3BTscWxXMHT1gfd6nuP9plL5IiU/rs:fit/g:sm/q:90/h:600/w:589/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0ODE4/NTk0LTE1ODM4Mzg3/NDMtMjQ1MC5qcGVn.jpeg"
 genres: ["Pop", "Folk, World, & Country"]
 styles: ["Vocal", "Ballad"]
 ---
 
 Myopia is the fourth studio album by Danish singer-songwriter Agnes Obel. It was released on 21 February 2020 by production studio Strange Harvest Limited. Three tracks were released as singles prior to the main release: "Island of Doom", "Broken Sleep" and "Parliament of Owls".
+
+
     
     
 

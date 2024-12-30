@@ -36,6 +36,8 @@ styles: ["Heavy Metal"]
 10. Too Posh To Mosh
 11. Some Kind Of Alien
 
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/too-posh-to-mosh/1601288637" >}}<br>
 
 
 

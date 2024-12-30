@@ -45,8 +45,8 @@ genres: ["Rock"]
 styles: ["Prog Rock", "Ambient", "Art Rock", "Instrumental"]
 ---
 
-The Endless River is the fifteenth studio album by the English rock band Pink Floyd, released in November 2014 by Parlophone Records in Europe and Columbia Records in the rest of the world. It was the third Pink Floyd album recorded under the leadership of guitarist David Gilmour after the departure of bassist Roger Waters in 1985, and the first following the death of keyboardist Richard Wright in 2008, who appears posthumously. Gilmour said it will be the final Pink Floyd album.
-The Endless River comprises mainly instrumental and ambient music composed on material recorded during sessions for the previous Pink Floyd album, The Division Bell (1994). Additional material was recorded in 2013 and 2014 on Gilmour's Astoria boat studio and in Medina Studios in Hove, England. It was produced by Gilmour, Youth, Andy Jackson and Phil Manzanera. Only one track, "Louder than Words", has lead vocals. After the death of longtime Pink Floyd artist Storm Thorgerson in 2013, the cover was created by artist Ahmed Emad Eldin, design company Stylorouge and Aubrey Powell, co-founder of Thorgerson's design company Hipgnosis.
+The Endless River is the fifteenth and final studio album by the English rock band Pink Floyd, released in November 2014 by Parlophone Records in Europe and Columbia Records in the rest of the world. It was the third Pink Floyd album recorded under the leadership of the guitarist, David Gilmour, after the departure of the bassist, Roger Waters, and the first following the death of the keyboardist, Richard Wright, in 2008, who appears posthumously.
+The Endless River comprises mainly instrumental and ambient music composed of material recorded during sessions for the previous Pink Floyd album, The Division Bell (1994). Additional material was recorded in 2012 and 2014 on Gilmour's Astoria boat studio and in Medina Studios in Hove, England. It was produced by Gilmour, Youth, Andy Jackson and Phil Manzanera. Only one track, "Louder than Words", has lead vocals. After the death of the longtime Pink Floyd cover artist Storm Thorgerson in 2014, the cover was created by Ahmed Emad Eldin, design company Stylorouge and Aubrey Powell, the co-founder of Thorgerson's design company Hipgnosis.
 The Endless River was promoted with the "Louder than Words" single and artwork installations in cities around the world. It became the most pre-ordered album of all time on Amazon UK and debuted at number one in several countries. The vinyl edition was the fastest-selling UK vinyl release since 1997. The album received mixed reviews: some critics praised the nostalgic mood, while others found it unambitious or meandering.
 
 
@@ -78,9 +78,6 @@ The Endless River was promoted with the "Louder than Words" single and artwork i
 {{< applemusic url="https://music.apple.com/gb/album/the-endless-river/919664303" >}}<br>
 
 
-## Videos
-### Pink Floyd  Sum vinyl
-{{< youtube id="2IKdU6T601g" title="Pink Floyd  Sum vinyl" >}}<br>
 
 
 ## Release Images
@@ -93,5 +90,5 @@ The Endless River was promoted with the "Louder than Words" single and artwork i
 | Format         | Vinyl 2× LP Album Stereo (180 gram) |
 | Label          | Parlophone |
 | Catalog Number | 825646215478 |
-| Notes | Issued in a gatefold sleeve.  Matrix cat# is etched, except part beginning with TML which is stamped  Made in the EU  Pressing plant uncredited, identified by the matrix numbers.   Printed on front cover sticker: "PINK FLOYD ENDLESS RIVER 2-LP SET includes • Heavyweight 180 gram vinyl • Gatefold sleeve, full colour inner bags • 16-page 275mm x 275mm booklet with unseen photographs from 1993 sessions • Download card 825646215478"  Durations do not appear on release. Timings via stopwatch.  ℗ 2014 The copyright in this sound recording is owned by Pink Floyd (1987) Ltd. under exclusive licence to Parlophone Records Ltd. © 2014 Pink Floyd (1987) Ltd. under exclusive licence to Parlophone Records Ltd. © 2014 Pink Floyd (1987) Ltd. under exclusive licence to Parlophone Records Ltd., a Warner Music Group company.  |
+| Notes | Issued in a gatefold sleeve.  Matrix cat# is etched, except part beginning with TML which is stamped  Made in the EU  Pressing plant uncredited, identified by the matrix numbers.   Printed on front cover sticker: "PINK FLOYD ENDLESS RIVER 2-LP SET includes • Heavyweight 180 gram vinyl • Gatefold sleeve, full colour inner bags • 16-page 275mm x 275mm booklet with unseen photographs from 1993 sessions • Download card 825646215478"  ℗ 2014 The copyright in this sound recording is owned by Pink Floyd (1987) Ltd. under exclusive licence to Parlophone Records Ltd. © 2014 Pink Floyd (1987) Ltd. under exclusive licence to Parlophone Records Ltd. © 2014 Pink Floyd (1987) Ltd. under exclusive licence to Parlophone Records Ltd., a Warner Music Group company.  Track durations are not printed on the release |
 | Discogs URL    | [Pink Floyd - The Endless River](https://www.discogs.com/release/6268164-Pink-Floyd-The-Endless-River) |

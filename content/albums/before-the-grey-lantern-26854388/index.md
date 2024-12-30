@@ -40,6 +40,8 @@ styles: ["Indie Rock", "Psychedelic Rock"]
 13. Moronica
 14. The Most To Gain
 
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/attack-of-the-grey-lantern-collectors-edition/1770502521" >}}<br>
 
 
 

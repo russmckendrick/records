@@ -20,9 +20,11 @@ genres: ["Rock"]
 styles: ["Art Rock", "Prog Rock"]
 ---
 
-The Yes Album is the third studio album by English progressive rock band Yes, released on 19 February 1971 by Atlantic Records. It was the band's first album to feature guitarist Steve Howe, who replaced Peter Banks in 1970, as well as their last to feature keyboardist Tony Kaye until 1983's 90125.
-The band spent mid-1970 writing and rehearsing new material at a farmhouse at Romansleigh, Devon, and the new songs were recorded at Advision Studios in London in the autumn. The album was the first by the band to feature all-original material. While the album retained close harmony singing, Kaye's Hammond organ, and Chris Squire's melodic bass, as heard on earlier releases, the new material also covered further styles including jazz piano, funk, and acoustic music. All of the band members contributed ideas, and tracks were extended in length to allow music to develop. Howe contributed a variety of guitar styles, including a Portuguese guitar, and recorded the solo acoustic guitar piece "Clap", live at the Lyceum Theatre, London.
+The Yes Album is the third studio album by English progressive rock band Yes, released in the UK on 19 February 1971 and in the US on 19 March 1971 by Atlantic Records. It was the band's first album to feature guitarist Steve Howe, who replaced Peter Banks in 1970, as well as their last to feature keyboardist Tony Kaye until 1983's 90125.
+The band spent mid-1970 writing and rehearsing new material at a farmhouse at Romansleigh, Devon, and the new songs were recorded at Advision Studios in London in the autumn. The album was the first by the band to feature all-original material. While the album retained close harmony singing, Kaye's Hammond organ, and Chris Squire's melodic bass, as heard on earlier releases, the new material also covered further styles including jazz piano, funk, and acoustic music. All of the band members contributed ideas, and tracks were extended in length to allow music to develop. Howe contributed a variety of guitar styles, including a Spanish laúd, and recorded the solo acoustic guitar piece "Clap", live at the Lyceum Theatre, London.
 The album was a critical success and a major commercial breakthrough for Yes, who had been at risk of being dropped by Atlantic due to the commercial failures of their first two albums. It reached number 4 in the United Kingdom and number 40 in the United States, and was later certified platinum by the Recording Industry Association of America for surpassing one million copies. The album has been reissued on CD several times, and was given a Blu-ray release in 2014 remixed by Steven Wilson.
+
+
     
     
 
@@ -40,9 +42,15 @@ The album was a critical success and a major commercial breakthrough for Yes, wh
 
 
 ## Videos
-### Y̲es – T̲he Y̲es Album (Full Album) 1971
-{{< youtube id="_Y6oPS4aLk8" title="Y̲es – T̲he Y̲es Album (Full Album) 1971" >}}<br>
+### Yours Is No Disgrace (2008 Remaster)
+{{< youtube id="1fUudna1Xuw" title="Yours Is No Disgrace (2008 Remaster)" >}}<br>
+### More Videos
 
+- [The Clap (2008 Remaster)](https://www.youtube.com/watch?v=0rHaZYWEtYs)
+- [Starship Trooper: a. Life Seeker, b. Disillusion, c. Würm (2008 Remaster)](https://www.youtube.com/watch?v=Yu9ykgGUm1w)
+- [I've Seen All Good People: a. Your Move, b. All Good People (2008 Remaster)](https://www.youtube.com/watch?v=WfgPEh2J9aI)
+- [A Venture (2008 Remaster)](https://www.youtube.com/watch?v=8mLbzNPOXpI)
+- [Perpetual Change (2008 Remaster)](https://www.youtube.com/watch?v=OZ5av777ANk)
 
 ## Release Images
 {{< imageGrid >}}

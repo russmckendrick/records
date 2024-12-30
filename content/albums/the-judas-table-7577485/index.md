@@ -24,7 +24,9 @@ genres: ["Rock"]
 styles: ["Prog Rock"]
 ---
 
-The Judas Table is the sixth album by the UK band Antimatter. It was released on 9 October 2015. In January 2020, The Judas Table was voted the number 1 'Album of the Decade' (2010's) by Dead Rhetoric's David E. Gehlke  as well as being among the 'Top 25 Progressive Metal Albums Of The Decade' by Dutch Progressive Rock Page's Andy Read
+The Judas Table is the sixth album by the UK band Antimatter. It was released on 9 October 2015. In January 2020, The Judas Table was voted the number 1 'Album of the Decade' (2010's) by Dead Rhetoric's David E. Gehlke  as well as being among the 'Top 25 Progressive Metal Albums Of The Decade' by Dutch Progressive Rock Page's Andy Read 
+
+
     
     
 
@@ -69,4 +71,4 @@ The Judas Table is the sixth album by the UK band Antimatter. It was released on
 | Label          | Prophecy Productions |
 | Catalog Number | PRO 184LP |
 | Notes | Gatefold 2LP (180g vinyl) incl. poster and PVC protection sleeve (500 copies available) |
-| Discogs URL    | [Antimatter - The Judas Table](https://www.discogs.com/release/7577485-Antimatter-The-Judas-Table) |
+| Discogs URL    | [Antimatter - The Judas Table](https://www.discogs.com/release/7577485-Antimatter-3-The-Judas-Table) |

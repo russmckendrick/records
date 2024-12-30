@@ -20,6 +20,8 @@ styles: []
 ---
 
 Nothing Lasts Forever is the twelfth full studio album by Scottish band Teenage Fanclub, released on 22 September 2023 through PeMa in Europe and Merge Records in North America. It received positive reviews from critics.
+
+
     
     
 

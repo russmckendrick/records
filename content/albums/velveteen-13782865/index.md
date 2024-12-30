@@ -17,6 +17,11 @@ genres: ["Rock"]
 styles: ["Rock & Roll"]
 ---
 
+Velveteen (or velveret) is a type of woven fabric with a dense, even, short pile. It has less sheen than velvet because the pile in velveteen is cut from weft threads, while that of velvet is cut from warp threads. Velveteen also has a shorter pile than velvet and is stiffer, with less drape, and is usually made of cotton or a cotton-silk blend.
+Velveteen is typically used for upholstery, or in fashion for garments that need stiffness, structure, or durability. Some velveteens are a kind of fustian, having a rib of velvet pile alternating with a plain depression.
+Historically, the velveteen trade varied with the fashions that controlled the production of velvet.
+    
+    
 
 
 ## Tracklisting
@@ -37,17 +42,13 @@ styles: ["Rock & Roll"]
 
 
 ## Videos
-### Transvision Vamp - Landslide Of Love (Musikladen Eurotops) 1989
-{{< youtube id="q-ccY2xHhY8" title="Transvision Vamp - Landslide Of Love (Musikladen Eurotops) 1989" >}}<br>
+### Transvision Vamp - Landslide of Love
+{{< youtube id="eF05qNEc-dI" title="Transvision Vamp - Landslide of Love" >}}<br>
 ### More Videos
 
-- [Transvision Vamp - Baby I Don't Care (1989)](https://www.youtube.com/watch?v=yIsESekPHFo)
-- [Transvision Vamp - Baby I Don't Care (1989)](https://www.youtube.com/watch?v=r26krlXFmOI)
-- [Transvision Vamp - Landslide of Love](https://www.youtube.com/watch?v=eF05qNEc-dI)
-- [Transvision Vamp - The Only One (1989)](https://www.youtube.com/watch?v=i3rm5OnuFTw)
+- [Transvision Vamp - Landslide Of Love (Musikladen Eurotops) 1989](https://www.youtube.com/watch?v=q-ccY2xHhY8)
 - [Transvision Vamp - I'm hanging out with Halo Jones](https://www.youtube.com/watch?v=FYza-Zspoo4)
-- [Transvision Vamp - Landslide of Love (1989)](https://www.youtube.com/watch?v=H1TBj_bYog8)
-- [Transvision Vamp - Born to Be Sold (1989)](https://www.youtube.com/watch?v=wyBphauZeJo)
+- [Transvision Vamp - Baby I Don't Care (1989)](https://www.youtube.com/watch?v=r26krlXFmOI)
 
 ## Release Images
 {{< imageGrid >}}
@@ -55,6 +56,7 @@ styles: ["Rock & Roll"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
+| Wikipedia URL | https://en.wikipedia.org/wiki/Velveteen |
 | Format         | Vinyl LP Album Reissue (Red) |
 | Label          | Demon Records |
 | Catalog Number | DEMREC325 |

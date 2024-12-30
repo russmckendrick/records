@@ -14,6 +14,7 @@ cover:
     caption: "Rattle That Lock by David Gilmour"
 additional_images:
     - "https://i.discogs.com/pp52Lp8CFtFqqQVr0AE_YFp6tnMizK2jLMfQr4KnJfE/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcyNTI0/OTItMTQ1MTcyODM0/Mi00NDAwLmpwZWc.jpeg"
+    - "https://i.discogs.com/eVtYBOMjA6pqWxKLf5vpzfEBh9-T8PB1fiLU0npphKI/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcyNTI0/OTItMTYzMTM2NTUy/Mi0xNTYyLmpwZWc.jpeg"
     - "https://i.discogs.com/sna4gnjRaaRukdxIyD4oFEA8UF0B9eV5MJba7O4AXgY/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcyNTI0/OTItMTQ1MTcyODM0/Mi00MDgxLmpwZWc.jpeg"
     - "https://i.discogs.com/zbAjs9Kz0P-QzipXh0MTIGGokMfOw3-kS93-pvRgSns/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcyNTI0/OTItMTQ1MTcyODM0/Mi00OTQ4LmpwZWc.jpeg"
     - "https://i.discogs.com/AzgfuPlhE3K0vPtcKGiU6QHf_XoypDuP40YlnNrv73A/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcyNTI0/OTItMTQ1MTcyODM0/MS03NDY3LmpwZWc.jpeg"
@@ -38,12 +39,14 @@ additional_images:
     - "https://i.discogs.com/JOgsRziqbfrAwR8DMRhEXB3aQ89AtDIfoPoCK4uUo78/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcyNTI0/OTItMTQ1MTcyODM2/MC0xMzU0LmpwZWc.jpeg"
     - "https://i.discogs.com/eTAt6jgslNmuQ3P-exyOvEU4zIBNlKDOjyV0exMJ4nI/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcyNTI0/OTItMTQ0Mjc3NDE0/My03OTkzLmpwZWc.jpeg"
     - "https://i.discogs.com/OCdKaeuyK9qYIzAHy8POivJn1AvzIj7ulTxTaDJf0Xs/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcyNTI0/OTItMTQ0Mjc3NDE0/Ni05OTM3LmpwZWc.jpeg"
-    - "https://i.discogs.com/eVtYBOMjA6pqWxKLf5vpzfEBh9-T8PB1fiLU0npphKI/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcyNTI0/OTItMTYzMTM2NTUy/Mi0xNTYyLmpwZWc.jpeg"
 genres: ["Rock"]
 styles: ["Prog Rock", "Psychedelic Rock"]
 ---
 
-Rattle That Lock is the fourth solo studio album by former Pink Floyd singer and guitarist David Gilmour. It was released on 18 September 2015 via Columbia Records. The artwork for the album was created by Dave Stansbie from The Creative Corporation under the direction of Aubrey Powell, who has worked with Gilmour and Pink Floyd since the late 1960s.The album received generally positive reviews from critics and was a commercial success, becoming Gilmour's second UK no.1 solo album. Gilmour supported the album with the Rattle That Lock Tour throughout 2015 and 2016, with a performance from the tour at the Amphitheatre of Pompeii being made into the live album and video, Live at Pompeii (2017).
+Rattle That Lock is the fourth solo studio album by English musician David Gilmour. It was released on 18 September 2015 via Columbia Records. The artwork for the album was created by Dave Stansbie from The Creative Corporation under the direction of Aubrey Powell, who has worked with Gilmour and Pink Floyd since the late 1960s.
+The album received generally positive reviews from critics and was a commercial success, becoming Gilmour's second UK no.1 solo album. Gilmour supported the album with the Rattle That Lock Tour throughout 2015 and 2016, with a performance from the tour at the Amphitheatre of Pompeii being made into the live album and video, Live at Pompeii (2017).
+
+
         
         
     
@@ -79,7 +82,16 @@ Rattle That Lock is the fourth solo studio album by former Pink Floyd singer and
 - [David Gilmour - The Girl In The Yellow Dress (Official Audio)](https://www.youtube.com/watch?v=N69ArORNEhE)
 - [David Gilmour - Today (Official Audio)](https://www.youtube.com/watch?v=t3c8VOdO_G4)
 - [David Gilmour - And Then... (Official Audio)](https://www.youtube.com/watch?v=ZZlXn-DaCwY)
-- [David Gilmour, Rattle That Lock (Albun completo)](https://www.youtube.com/watch?v=HMJl3gq2Ows)
+- [David Gilmour - 5 A.M. (Official Audio)](https://www.youtube.com/watch?v=lIoflO7R480)
+- [David Gilmour - Rattle That Lock (Official Audio)](https://www.youtube.com/watch?v=GkVWsk8xueo)
+- [David Gilmour - Faces of Stone (Official Audio)](https://www.youtube.com/watch?v=AUGOkCQ37NA)
+- [David Gilmour - A Boat Lies Waiting (Official Audio)](https://www.youtube.com/watch?v=hoSCZuX0SwE)
+- [David Gilmour - Dancing Right In Front of Me (Official Audio)](https://www.youtube.com/watch?v=_ULYgFNq44E)
+- [David Gilmour - In Any Tongue (Official Audio)](https://www.youtube.com/watch?v=IyWuen5ytes)
+- [David Gilmour - Beauty (Official Audio)](https://www.youtube.com/watch?v=FC5Q2liC2yI)
+- [David Gilmour - The Girl In The Yellow Dress (Official Audio)](https://www.youtube.com/watch?v=N69ArORNEhE)
+- [David Gilmour - Today (Official Audio)](https://www.youtube.com/watch?v=t3c8VOdO_G4)
+- [David Gilmour - And Then... (Official Audio)](https://www.youtube.com/watch?v=ZZlXn-DaCwY)
 
 ## Release Images
 {{< imageGrid >}}

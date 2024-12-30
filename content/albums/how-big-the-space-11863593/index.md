@@ -13,7 +13,7 @@ cover:
     caption: "How Big The Space by Steven Wilson"
 additional_images:
     - "https://i.discogs.com/2MEW8lKXlTUZkX6vDnRhfoL4oUj3OuimUxvb2fYtneY/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExODYz/NTkzLTE1MjQzMTY5/NjMtNzA0MS5qcGVn.jpeg"
-    - "https://i.discogs.com/4q3oR11HYFzNSQDMLEoyw-45tl-UT7QBe2cyHSLSmc4/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExODYz/NTkzLTE2NTQyNjI3/MjAtNjI0NC5qcGVn.jpeg"
+    - "https://i.discogs.com/cJPDQhjXGr8Cw5NbTvDK0kDEsO4oh50Y6mhsX8eQUdo/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExODYz/NTkzLTE2NTQyNjI3/MjAtNjI0NC5qcGVn.jpeg"
     - "https://i.discogs.com/1ITYKXOwkWnLK9oFjqhnmIdWfB9O9naPKPDAle8RW-4/rs:fit/g:sm/q:90/h:578/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExODYz/NTkzLTE2NTQyNjI3/MTUtNzkwMy5qcGVn.jpeg"
     - "https://i.discogs.com/Fhln9zNoFXcD-SEhvEBNxjaKKLH5SMl-FycALaLLcc0/rs:fit/g:sm/q:90/h:587/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExODYz/NTkzLTE2NTQyNjI3/MTUtNDg0MC5qcGVn.jpeg"
     - "https://i.discogs.com/NR7pPvaNgRoMIjipJyk-IuGSxGa7YnA2QD_X85q1J1M/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExODYz/NTkzLTE2NTQyNjI3/MjAtODg2OC5qcGVn.jpeg"
@@ -36,6 +36,9 @@ styles: ["Prog Rock"]
 {{< youtube id="udJsxISenfA" title="How Big the Space - Steven Wilson - (RSD 2018)" >}}<br>
 ### More Videos
 
+- [How Big the Space [Instrumental] - Steven Wilson (RSD 2018)](https://www.youtube.com/watch?v=2TlYJ1Dgfpw)
+- [People Who Eat Darkness [Ninet Edit] - Steven Wilson](https://www.youtube.com/watch?v=qg42zH3c-oU)
+- [How Big the Space - Steven Wilson - (RSD 2018)](https://www.youtube.com/watch?v=udJsxISenfA)
 - [How Big the Space [Instrumental] - Steven Wilson (RSD 2018)](https://www.youtube.com/watch?v=2TlYJ1Dgfpw)
 - [People Who Eat Darkness [Ninet Edit] - Steven Wilson](https://www.youtube.com/watch?v=qg42zH3c-oU)
 

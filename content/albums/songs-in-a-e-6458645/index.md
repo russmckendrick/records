@@ -40,9 +40,8 @@ styles: ["Alternative Rock", "Space Rock"]
 17. Harmony 6 (Glockenspiel)
 18. Goodnight Goodnight
 
-
-## Spotify
-{{< spotify type="album" id="2sVtK7SzMhN1NRrTB42Vqo" width="100%" height="500" >}}<br>
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/songs-in-a-e/1708958804" >}}<br>
 
 
 ## Videos
@@ -50,8 +49,13 @@ styles: ["Alternative Rock", "Space Rock"]
 {{< youtube id="ncD2YXmCUeI" title="Baby I'm Just a Fool" >}}<br>
 ### More Videos
 
-- [Soul On Fire](https://www.youtube.com/watch?v=-DHGimTS7lQ)
 - [Sweet Talk](https://www.youtube.com/watch?v=6pb_8WVXgFs)
+- [Soul On Fire](https://www.youtube.com/watch?v=-DHGimTS7lQ)
+- [Death Take Your Fiddle](https://www.youtube.com/watch?v=k03itZ9z0ao)
+- [Spiritualized - You Lie You Cheat (Official Music Video)](https://www.youtube.com/watch?v=mL64wElTj8M)
+- [Spiritualized 'Songs in A&E' LP Reissue is in stores  June 21st.  Pre-Order now.](https://www.youtube.com/watch?v=jInSTwFmC8c)
+- [Spiritualized - Soul On Fire (Official Music Video)](https://www.youtube.com/watch?v=s9hunPhi768)
+- [Spiritualized - You Lie You Cheat (Official Music Video)](https://www.youtube.com/watch?v=mL64wElTj8M)
 
 ## Release Images
 {{< imageGrid >}}

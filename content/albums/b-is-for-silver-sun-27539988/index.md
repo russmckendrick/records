@@ -33,7 +33,7 @@ styles: ["Power Pop", "Alternative Rock"]
 11. Tokyo E Ikitai (Instrumental)
 
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/b-is-for-silver-sun/1518621330" >}}<br>
+{{< applemusic url="https://music.apple.com/gb/album/b-is-for-silver-sun/1755948124" >}}<br>
 
 
 

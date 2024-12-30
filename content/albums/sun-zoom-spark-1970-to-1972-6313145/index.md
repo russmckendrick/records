@@ -12,15 +12,15 @@ cover:
     alt: "Sun Zoom Spark: 1970 To 1972 by Captain Beefheart"
     caption: "Sun Zoom Spark: 1970 To 1972 by Captain Beefheart"
 additional_images:
-    - "https://i.discogs.com/VKvofqf7e6Ugmq7VGHSEK-Qs_WsoG0mFtxF2tShWOSU/rs:fit/g:sm/q:90/h:606/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYzMTMx/NDUtMTYwMjE4MjE1/Ni05ODk0LmpwZWc.jpeg"
-    - "https://i.discogs.com/scBMpPYp62cNSwPo3-3ZkmQOk7E8UVSmytfDuUmDDVw/rs:fit/g:sm/q:90/h:606/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYzMTMx/NDUtMTQxNjMyMzE5/Ni05NzgzLmpwZWc.jpeg"
-    - "https://i.discogs.com/Ep65kVQbSO0zVpJqKZPdx-4Hjob_SCBbiJj2_iyJZX4/rs:fit/g:sm/q:90/h:617/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYzMTMx/NDUtMTQxNjMyMzIx/OC00NTYwLmpwZWc.jpeg"
+    - "https://i.discogs.com/HC1OI0dg6kTn9jFdA9iePBwEQrHFXwzBp2sqTMgWjwQ/rs:fit/g:sm/q:90/h:600/w:593/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYzMTMx/NDUtMTYwMjE4MjE1/Ni05ODk0LmpwZWc.jpeg"
+    - "https://i.discogs.com/21GUii2bHQwtLmqkHJ2yPn9n2ps969tZ2uivkGNb9Xs/rs:fit/g:sm/q:90/h:600/w:594/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYzMTMx/NDUtMTQxNjMyMzE5/Ni05NzgzLmpwZWc.jpeg"
+    - "https://i.discogs.com/QGi7fsu2-ShYxZzKJYeYuDbgEqPGq6O-xSkv66tZnKM/rs:fit/g:sm/q:90/h:600/w:583/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYzMTMx/NDUtMTQxNjMyMzIx/OC00NTYwLmpwZWc.jpeg"
     - "https://i.discogs.com/POm4ocPM2NXdw1ANecLVdBI39WQ8q-VGrSi88VlR3p8/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYzMTMx/NDUtMTQxNjMyMzIz/Mi03ODY0LmpwZWc.jpeg"
     - "https://i.discogs.com/OC7QqOAjgpE-onAIrxEVgvIkW6qhdir2jL0PRfgH6L4/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYzMTMx/NDUtMTQxNjMyMzI0/NS01ODA4LmpwZWc.jpeg"
     - "https://i.discogs.com/mBNRJwdDZG_5bnMeKALPlfAR0L-hsI0uW_WUJTgYtnE/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYzMTMx/NDUtMTYwMjExNjc5/MS0zMTY2LmpwZWc.jpeg"
-    - "https://i.discogs.com/1p2x-8YNHOb5x2MuIfXXMr7wFubyyaZCIU0LJKZyz9A/rs:fit/g:sm/q:90/h:625/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYzMTMx/NDUtMTYwMjExNjc5/My00MjcwLmpwZWc.jpeg"
-    - "https://i.discogs.com/Q6UEz4ZpLYfmaoYwkTFZ57Lg1nm9gRbVOxOillKg-Jc/rs:fit/g:sm/q:90/h:606/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYzMTMx/NDUtMTYwMjExNjc5/NS00NjI4LmpwZWc.jpeg"
-    - "https://i.discogs.com/PCqzYVmp15sI_WVLcIZHrfOE37q39TAX2DLX77RmP10/rs:fit/g:sm/q:90/h:607/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYzMTMx/NDUtMTYwMjExNjc5/Ny02MDY1LmpwZWc.jpeg"
+    - "https://i.discogs.com/fshi4h8Cjeomy_Y71c4m18_ZRPq8AZoni8fR3n4w-ak/rs:fit/g:sm/q:90/h:600/w:575/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYzMTMx/NDUtMTYwMjExNjc5/My00MjcwLmpwZWc.jpeg"
+    - "https://i.discogs.com/xKYqTWxdKeQz38mDuguEVVPo5J0JZnoOdGKoJaiJ-c4/rs:fit/g:sm/q:90/h:600/w:594/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYzMTMx/NDUtMTYwMjExNjc5/NS00NjI4LmpwZWc.jpeg"
+    - "https://i.discogs.com/Evz3P8TjsQkkac4Z9RKCznqEa5JasVVH9gV8ypW07fE/rs:fit/g:sm/q:90/h:600/w:592/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYzMTMx/NDUtMTYwMjExNjc5/Ny02MDY1LmpwZWc.jpeg"
     - "https://i.discogs.com/L8xInH6rXtOnjTqrsVCgAFaGSNn_WqDsDLWh41QLR88/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYzMTMx/NDUtMTYwMjExNjc5/OS01NTc3LmpwZWc.jpeg"
 genres: ["Rock"]
 styles: ["Blues Rock", "Experimental"]

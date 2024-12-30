@@ -28,6 +28,9 @@ genres: ["Rock"]
 styles: ["Progressive Metal"]
 ---
 
+Fauna (pl.: faunae or faunas) is all of the animal life present in a particular region or time. The corresponding terms for plants and fungi are flora and funga, respectively. Flora, fauna, funga and other forms of life are collectively referred to as biota. Zoologists and paleontologists use fauna to refer to a typical collection of animals found in a specific time or place, e.g. the "Sonoran Desert fauna" or the "Burgess Shale fauna". Paleontologists sometimes refer to a sequence of faunal stages, which is a series of rocks all containing similar fossils. The study of animals of a particular region is called faunistics.
+    
+    
 
 
 ## Tracklisting
@@ -74,8 +77,9 @@ styles: ["Progressive Metal"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
+| Wikipedia URL | https://en.wikipedia.org/wiki/Fauna |
 | Format         | Vinyl 2× LP Album Limited Edition (Magenta [Transparent], 180g) |
 | Label          | Inside Out Music |
 | Catalog Number | IOM667 |
 | Notes | Gatefold with LP-booklet. Limited to 500 copies worldwide. |
-| Discogs URL    | [Haken - Fauna](https://www.discogs.com/release/26288243-Haken-Fauna) |
+| Discogs URL    | [Haken - Fauna](https://www.discogs.com/release/26288243-Haken-2-Fauna) |

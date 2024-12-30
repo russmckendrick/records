@@ -18,15 +18,17 @@ additional_images:
     - "https://i.discogs.com/hD_u2snr-gzPsAPPF_r3Di6OPpe11cLsJuXwqSD9RK0/rs:fit/g:sm/q:90/h:594/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMzQ1/NjE5LTE1MzUxMDA0/ODYtNjU1NS5qcGVn.jpeg"
     - "https://i.discogs.com/XLRDzEBDyo88j0RjPhhgWQnK3PRGIZjmRJlbQfOZLEs/rs:fit/g:sm/q:90/h:591/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMzQ1/NjE5LTE1MzUxMDA1/MDctNDkzMi5qcGVn.jpeg"
     - "https://i.discogs.com/7rXJZ18f6Fb6KsAXDuEx6nHRzMkv9dAPu30d297PRhM/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMzQ1/NjE5LTE1MzUxMDA1/MjUtMzkzOC5qcGVn.jpeg"
-    - "https://i.discogs.com/IEIK8N3eaExUGk7I7KWsE4LVGWYsQBs3KzNqKNRZpHw/rs:fit/g:sm/q:90/h:694/w:390/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMzQ1/NjE5LTE1NjkyMzg0/MzktMTU4MC5qcGVn.jpeg"
+    - "https://i.discogs.com/r46o0C89uob31LTJ7QTZYiqG7l8FAsdtzUQlBQls75Q/rs:fit/g:sm/q:90/h:600/w:337/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMzQ1/NjE5LTE1NjkyMzg0/MzktMTU4MC5qcGVn.jpeg"
     - "https://i.discogs.com/iKWWDGrP4MgScKo1rRIOe6GV7FuvfcJQDhP-wu3dLK4/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMzQ1/NjE5LTE1OTM1MjUz/ODAtNTEwMi5qcGVn.jpeg"
 genres: ["Rock"]
 styles: ["Prog Rock"]
 ---
 
-Selling England by the Pound is the fifth studio album by the English progressive rock band Genesis, released in September 1973 on Charisma Records. It reached No. 3 in the United Kingdom and No. 70 in the United States. A single from the album, "I Know What I Like (In Your Wardrobe)", was released in February 1974 and became the band's first top 30 hit in the UK.
+Selling England by the Pound is the fifth studio album by the English progressive rock band Genesis, released on 28 September 1973 on Charisma Records. It reached No. 3 in the United Kingdom and No. 70 in the United States. A single from the album, "I Know What I Like (In Your Wardrobe)", was released in February 1974 and became the band's first top 30 hit in the UK.
 The album was recorded in August 1973 following the tour supporting the previous album, Foxtrot (1972). The group set aside a short period of time to write new material, which covered a number of themes, including the loss of English folk culture and an increased American influence, which was reflected in the title. Following the album's release, the group set out on tour, where they drew an enthusiastic reception from fans.
-Critics and the band members themselves have given mixed opinions of the album, though guitarist Steve Hackett has said it is his favourite Genesis record. Its reputation has improved over time, appearing on various critical and fan-voted rankings of the best progressive rock albums. The album has continued to sell and has reached Gold certification by the British Phonographic Industry and the Recording Industry Association of America. It was remastered for CD in 1994 and 2007. Several of the album tracks became fan favourites and featured as a regular part of the band's live setlist into the 1980s.
+Critics and the band members themselves have given mixed opinions of the album. Its reputation has improved over time, appearing on various critical and fan-voted rankings of the best progressive rock albums. The album has continued to sell and has reached Gold certification by the British Phonographic Industry and the Recording Industry Association of America. It was remastered for CD in 1994 and 2007. Several of the album tracks became fan favourites and featured as a regular part of the band's live setlist into the 1980s.
+
+
     
     
 
@@ -42,10 +44,15 @@ Critics and the band members themselves have given mixed opinions of the album, 
 8. Aisle Of Plenty (1:58)
 
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/selling-england-by-the-pound/714416654" >}}<br>
+{{< applemusic url="https://music.apple.com/gb/album/selling-england-by-the-pound-2007-stereo-mix/294810249" >}}<br>
 
 
+## Videos
+### Genesis - 1st UK press - Selling England by the Pound - side 1
+{{< youtube id="qDI4yUYVgqc" title="Genesis - 1st UK press - Selling England by the Pound - side 1" >}}<br>
+### More Videos
 
+- [Genesis - 1st UK press - Selling England by the Pound - side 2](https://www.youtube.com/watch?v=LGE4SMe1e6o)
 
 ## Release Images
 {{< imageGrid >}}

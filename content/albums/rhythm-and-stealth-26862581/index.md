@@ -14,22 +14,24 @@ cover:
 additional_images:
     - "https://i.discogs.com/dV7OPAObGlC5lidI1xVKCywfbETWCBovzkL-4pllKGU/rs:fit/g:sm/q:90/h:591/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2ODYy/NTgxLTE2ODIzNzQw/ODItMjEyNi5qcGVn.jpeg"
     - "https://i.discogs.com/FCaVgo2mKTEJ43ojqyVzrXBbRLjeK9OcStyy2W9yOpo/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2ODYy/NTgxLTE2ODIzNzU2/NjgtOTI1MC5qcGVn.jpeg"
-    - "https://i.discogs.com/tjxeJmvnQRsezBh1g4kpw1_asiuLyiHDS7PDkFDGTvM/rs:fit/g:sm/q:90/h:601/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2ODYy/NTgxLTE2ODIzNzU2/NzctMTE0Mi5qcGVn.jpeg"
+    - "https://i.discogs.com/ofmoGHcgAp-6KUPDX14Q_asGqp_F4_PNFUQBLoJJszw/rs:fit/g:sm/q:90/h:600/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2ODYy/NTgxLTE2ODIzNzU2/NzctMTE0Mi5qcGVn.jpeg"
     - "https://i.discogs.com/TKMMe7oWFXtBxSMc0ozJNSDDhvMZ8hLkopACuBzHNY8/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2ODYy/NTgxLTE2ODIzNzU2/OTQtODYzMC5qcGVn.jpeg"
-    - "https://i.discogs.com/9-mOezFKawTfNHhEJWGZ3KaDxf0jQai41Gen8II5Uj0/rs:fit/g:sm/q:90/h:601/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2ODYy/NTgxLTE2ODIzNzU3/MDEtNjU5Ny5qcGVn.jpeg"
+    - "https://i.discogs.com/MNeIRFfrP3KCYWUieFMTjF0KItSFMC8kYTbBIdppKrs/rs:fit/g:sm/q:90/h:600/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2ODYy/NTgxLTE2ODIzNzU3/MDEtNjU5Ny5qcGVn.jpeg"
     - "https://i.discogs.com/Jj0NHFoGFrQEWyHlLFHHzRn7mf5PBV2JJ6iNrc5wOnw/rs:fit/g:sm/q:90/h:591/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2ODYy/NTgxLTE2ODIzNzU4/MzYtOTI2OS5qcGVn.jpeg"
-    - "https://i.discogs.com/ey7o4n0tkcT7nbEPOsN0VNCpyyGcS5NQ_xy2BKzof-8/rs:fit/g:sm/q:90/h:612/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2ODYy/NTgxLTE2ODIzNzU4/MzgtNjA3My5qcGVn.jpeg"
+    - "https://i.discogs.com/a6plpQ4Grna69_DZ4qpypl09d6ZRjHeIL4sVJ_A7GCo/rs:fit/g:sm/q:90/h:600/w:587/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2ODYy/NTgxLTE2ODIzNzU4/MzgtNjA3My5qcGVn.jpeg"
     - "https://i.discogs.com/P44qBQEjTu-7HaSsL8eYnZ-6xK7IkzJerY7jKFoX47s/rs:fit/g:sm/q:90/h:593/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2ODYy/NTgxLTE2ODIzNzU4/NDEtMTY5MS5qcGVn.jpeg"
-    - "https://i.discogs.com/7r1ISOX-eu9rDQJzPu6KnpCA0r8oCpJmPKDr__1HlqQ/rs:fit/g:sm/q:90/h:612/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2ODYy/NTgxLTE2ODIzNzU4/NDItMjU0MS5qcGVn.jpeg"
+    - "https://i.discogs.com/dR7BIPhHaOxdigDqlUOTObYpQIIyBKNKBkYLJTuzYmA/rs:fit/g:sm/q:90/h:600/w:588/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2ODYy/NTgxLTE2ODIzNzU4/NDItMjU0MS5qcGVn.jpeg"
     - "https://i.discogs.com/UfC6dYOp3_6UuNvrTsNOHNdUL3bZNJVwx2ijje6-2Yg/rs:fit/g:sm/q:90/h:449/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2ODYy/NTgxLTE2ODIzNzU4/NTQtNjE1My5qcGVn.jpeg"
-    - "https://i.discogs.com/sx2nl5I6nF4tP_GF2Qsk_5ErQMcsX4u8TFJKZyrO6is/rs:fit/g:sm/q:90/h:730/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2ODYy/NTgxLTE2ODIzNzYx/NzQtMzk0MS5qcGVn.jpeg"
-    - "https://i.discogs.com/BdhoZyXDrcJwDdiiVBLTsNDTjJgs_7g-DwtiBu9MmJk/rs:fit/g:sm/q:90/h:774/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2ODYy/NTgxLTE2ODIzNzYx/NzctMTk2Ny5qcGVn.jpeg"
-    - "https://i.discogs.com/Z8Q6OQTLs1OvStwj0MjYYNpVNGemK3l0hBVmBJp7h7w/rs:fit/g:sm/q:90/h:610/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2ODYy/NTgxLTE2ODIzOTU5/OTQtNzI4NC5qcGVn.jpeg"
+    - "https://i.discogs.com/22aArFwd2QQViKerwYgvxYWoQsaC-yM_Lb-PWprtziE/rs:fit/g:sm/q:90/h:600/w:492/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2ODYy/NTgxLTE2ODIzNzYx/NzQtMzk0MS5qcGVn.jpeg"
+    - "https://i.discogs.com/KiXFbp8PSfyiJLGVYBPLZI8k2VEiX9U-19_G-S2RnaY/rs:fit/g:sm/q:90/h:600/w:464/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2ODYy/NTgxLTE2ODIzNzYx/NzctMTk2Ny5qcGVn.jpeg"
+    - "https://i.discogs.com/_nzulngmAx72rWfh57LbpwfgCZglYwqyhv8XTAyVrAo/rs:fit/g:sm/q:90/h:600/w:589/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2ODYy/NTgxLTE2ODIzOTU5/OTQtNzI4NC5qcGVn.jpeg"
 genres: ["Electronic"]
 styles: ["Breakbeat", "Leftfield", "Techno", "Downtempo"]
 ---
 
-Rhythm and Stealth is the second studio album by Leftfield, released on 20 September 1999. It reached number 1 on the UK Albums Chart. It was nominated for the 2000 Mercury Music Prize.
+Rhythm and Stealth is the second studio album by the English electronic group Leftfield, released on 20 September 1999. It reached number 1 on the UK Albums Chart. It was nominated for the 2000 Mercury Music Prize.
+
+
     
     
 
@@ -51,30 +53,21 @@ Rhythm and Stealth is the second studio album by Leftfield, released on 20 Septe
 
 
 ## Videos
-### Swords
-{{< youtube id="S37BvISrFuE" title="Swords" >}}<br>
+### Leftfield - Rhythm and Stealth || Full Album || 432.001Hz || HQ || 1999 ||
+{{< youtube id="eYXuKRFoBX4" title="Leftfield - Rhythm and Stealth || Full Album || 432.001Hz || HQ || 1999 ||" >}}<br>
 ### More Videos
 
-- [Chant of a Poor Man](https://www.youtube.com/watch?v=W1UpiOLc3uY)
-- [Leftfield – Rhythm And Stealth | B](https://www.youtube.com/watch?v=Q-zo9KurMJY)
-- [El Cid](https://www.youtube.com/watch?v=NdTch25PoZk)
 - [Leftfield- Dusted](https://www.youtube.com/watch?v=4bILMkqskt4)
-- [Leftfield – Rhythm And Stealth | C](https://www.youtube.com/watch?v=EWYvs9fTDP4)
-- [Leftfield – Rhythm And Stealth | D](https://www.youtube.com/watch?v=fdltIeUr2Io)
-- [Leftfield - Phat Planet (Audio)](https://www.youtube.com/watch?v=LDkmaNfBOtU)
-- [Dub Gussett](https://www.youtube.com/watch?v=iAwtwi4BUEw)
-- [Double Flash](https://www.youtube.com/watch?v=aSDQ9H2GY20)
-- [6/8 War](https://www.youtube.com/watch?v=KMFH_IudV54)
-- [Leftfield: Rhythm And Stealth:Stealth Remixes (Full Album) CD 2](https://www.youtube.com/watch?v=p1zpIPpbw_w)
-- [L̲e̲f̲t̲f̲i̲e̲l̲d̲ | R̲h̲y̲t̲h̲m̲ A̲n̲d̲ S̲t̲e̲a̲l̲t̲h̲](https://www.youtube.com/watch?v=C2_FaiUzIY0)
 - [Afrika Shox](https://www.youtube.com/watch?v=23ViourbxrE)
 - [Leftfield – Rhythm And Stealth | A](https://www.youtube.com/watch?v=XTgk_j8yvjs)
-- [Leftfield- Phat Planet](https://www.youtube.com/watch?v=5GC_X_tI5kA)
-- [LEFTFIELD Rhythm & Stealth](https://www.youtube.com/watch?v=B92kJCzn7W4)
-- [Leftfield Profile (release of Rhythm & Stealth) + Guinness advert](https://www.youtube.com/watch?v=qRo1g6swtXo)
-- [Leftfield feat. Africa Bambaata - Africa Shox](https://www.youtube.com/watch?v=KvxbFWY2Hsc)
-- [Leftfield- El Cid](https://www.youtube.com/watch?v=_7djSnJEc3I)
-- [Rino's Prayer](https://www.youtube.com/watch?v=w4EBNSeS8II)
+- [Leftfield – Rhythm And Stealth | B](https://www.youtube.com/watch?v=Q-zo9KurMJY)
+- [Leftfield – Rhythm And Stealth | C](https://www.youtube.com/watch?v=EWYvs9fTDP4)
+- [Leftfield – Rhythm And Stealth | D](https://www.youtube.com/watch?v=fdltIeUr2Io)
+- [Chant of a Poor Man](https://www.youtube.com/watch?v=W1UpiOLc3uY)
+- [Leftfield: Rhythm And Stealth:Stealth Remixes (Full Album) CD 2](https://www.youtube.com/watch?v=p1zpIPpbw_w)
+- [Leftfield - Phat Planet (Dave Clarke Remix)](https://www.youtube.com/watch?v=JZC_dQK1En4)
+- [Leftfield - Rino's Prayer (Nick Rapaccioli Remix)](https://www.youtube.com/watch?v=Y_18-xZXVoo)
+- [Leftfield - Rhythm and Stealth || Full Album || 432.001Hz || HQ || 1999 ||](https://www.youtube.com/watch?v=eYXuKRFoBX4)
 
 ## Release Images
 {{< imageGrid >}}

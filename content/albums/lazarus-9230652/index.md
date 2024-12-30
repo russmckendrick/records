@@ -12,13 +12,28 @@ cover:
     alt: "Lazarus by Original New York Cast Of Lazarus"
     caption: "Lazarus by Original New York Cast Of Lazarus"
 additional_images:
-    - "https://i.discogs.com/Om-VYjyIEpwu4RT-j-5vEi0T9vt_BEVpp-zPnVmgAGo/rs:fit/g:sm/q:90/h:539/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkyMzA2/NTItMTQ3NzA1OTQ1/My03NTM5LmpwZWc.jpeg"
-    - "https://i.discogs.com/nR4tZIcmdeBSUyKJVyyioGlryP57vmDs4tNP7_LrXw0/rs:fit/g:sm/q:90/h:555/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkyMzA2/NTItMTQ3Nzc1NTAz/My03OTE1LmpwZWc.jpeg"
-    - "https://i.discogs.com/4_p5JCUk27654PGekSl6HZGwt5o4jgnB0TJN3m39uKI/rs:fit/g:sm/q:90/h:431/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkyMzA2/NTItMTQ3Nzc1NTA0/NS01MjczLmpwZWc.jpeg"
+    - "https://i.discogs.com/qMLTgp4JMPdHnPocPKccaDhQJ1HbUIOyiFqlhV4ezjQ/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkyMzA2/NTItMTcyNDI3NzM0/OS03MzkzLmpwZWc.jpeg"
+    - "https://i.discogs.com/FyEJBGFWXvorA2z7iprYAjDpdIMEJ0b0-O67nPL7FAE/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkyMzA2/NTItMTcyNDI3NzM5/NS03MjI2LmpwZWc.jpeg"
+    - "https://i.discogs.com/hhTDmqnAyJL-CM54dce8ioPvdIAvgbA2-aYgIH2AuNI/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkyMzA2/NTItMTcyNDI3NzQx/MS04NTY4LmpwZWc.jpeg"
+    - "https://i.discogs.com/m5m2vGhjYW5rfDnY-oREa-u__pCwnXOf9Hwm_DVsf-U/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkyMzA2/NTItMTcyNDI3NzQy/NC0yNDM4LmpwZWc.jpeg"
+    - "https://i.discogs.com/ZV4q4nJNPbPKZY9kVBv6ja9PS_kZx73FL4b_J_puBcg/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkyMzA2/NTItMTcyNDI3NzQz/NS05MTI0LmpwZWc.jpeg"
+    - "https://i.discogs.com/vZapz3w1mdiUi7g_SwtTyGo2ZyWKY87gsi7N_dcjQ7k/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkyMzA2/NTItMTcyNDI3NzQ1/MS04MDI4LmpwZWc.jpeg"
+    - "https://i.discogs.com/V9EDPreioZHpC3Vzk8WXg4QS8TtHpW3a5-Zs0gME3-U/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkyMzA2/NTItMTcyNDI3NzQ2/MS03MzYwLmpwZWc.jpeg"
+    - "https://i.discogs.com/veZqJ984Snq5Zfcr9iWl1-SLMi0P8V62vJfo6rqhd9Y/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkyMzA2/NTItMTcyNDI3NzQ2/Mi01NTg2LmpwZWc.jpeg"
+    - "https://i.discogs.com/pxXtO3LX1PTb9-CyaRHxR_c8aw4TxUvct9thq2EWxKo/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkyMzA2/NTItMTcyNDI3NzQ2/Mi0zNzU5LmpwZWc.jpeg"
+    - "https://i.discogs.com/cyspuj0C_G6Gl-RnEz9NiKeNrYAKHfgU6HEwmM9lMzg/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkyMzA2/NTItMTcyNDI3Nzkw/Ny05MDAxLmpwZWc.jpeg"
 genres: ["Rock", "Stage & Screen"]
 styles: ["Classic Rock", "Musical"]
 ---
 
+Lazarus of Bethany is a figure of the New Testament whose life is restored by Jesus four days after his death, as told in the Gospel of John. The resurrection is considered one of the miracles of Jesus. In the Eastern Orthodox Church, Lazarus is venerated as Righteous Lazarus, the Four-Days Dead. The Eastern Orthodox and Catholic traditions offer varying accounts of the later events of his life.
+In the context of the seven signs in the Gospel of John, the raising of Lazarus at Bethany – today the town of Al-Eizariya in the West Bank, which translates to "the place of Lazarus" – is the climactic narrative: exemplifying the power of Jesus "over the last and most irresistible enemy of humanity: death. For this reason, it is given a prominent place in the gospel."
+The name Lazarus is frequently used in science and popular culture in reference to apparent restoration to life; for example, the scientific term Lazarus taxon denotes organisms that reappear in the fossil record after a period of apparent extinction, and also the Lazarus sign and the Lazarus syndrome. There are also numerous literary uses of the term.
+A distinct character of the same name is also mentioned in the Gospel of Luke in Jesus' parable of the rich man and Lazarus, in which both eponymous characters die, and the former begs for the latter to comfort him from his torments in hell.
+
+
+    
+    
 
 
 ## Tracklisting
@@ -46,9 +61,19 @@ styles: ["Classic Rock", "Musical"]
 22. Killing A Little Time
 23. When I Met You
 
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/lazarus-single/1742980993" >}}<br>
 
 
+## Videos
+### David Bowie - Killing a Little Time (Audio)
+{{< youtube id="OpzVxylreME" title="David Bowie - Killing a Little Time (Audio)" >}}<br>
+### More Videos
 
+- [David Bowie - When I Met You (Audio)](https://www.youtube.com/watch?v=5fDy-mRGFkw)
+- [Valentine's Day (Lazarus Cast Recording [Audio)](https://www.youtube.com/watch?v=-ry0PRlbJJc)
+- [Michael Esper - Dirty Boys (Lazarus Cast Recording [Audio])](https://www.youtube.com/watch?v=VlY7uGMoars)
+- [Changes (Lazarus Cast Recording [Audio])](https://www.youtube.com/watch?v=rjhVtA6Vt8M)
 
 ## Release Images
 {{< imageGrid >}}
@@ -56,8 +81,9 @@ styles: ["Classic Rock", "Musical"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
+| Wikipedia URL | https://en.wikipedia.org/wiki/Lazarus_of_Bethany |
 | Format         | Vinyl 2× LP, Vinyl LP Single Sided, All Media Album |
 | Label          | Columbia |
 | Catalog Number | 88985 37455 1 |
 | Notes | 3LP 180gr in a tri fold cover with 8 page booklet.  LAZARUS The original cast recording to the musical by David Bowie and Enda Walsh  Sticker on shrinkwrap: LAZARUS The Musical from David Bowie & Enda Walsh 19 cast recordings of David Bowie's music From Michael C. Hall, Cristin Milioti, Sophia Anne Caruso and more Includes the Most Recent Studio Recordings from [a10263] 180 GRAM VINYL PLUS DIGITAL DOWNLOAD 88985374551 S1  © 2016 & ℗ Compilation 2016 Jones Tintoretto Entertainment Company LLC, in association with Lazarus Productions, LLC under exclusive license to Columbia Records, a Division of Sony Music Entertainment  Manufactured and Distributed by Columbia Records, a Division of Sony Music Entertainment  Sony Music Entertainment International Services GmbH, PO Box 510, 33311 Gütersloh, Germany.  Made in the EU. |
-| Discogs URL    | [Original New York Cast Of Lazarus - Lazarus](https://www.discogs.com/release/9230652-Original-New-York-Cast-David-Bowie-And-Enda-Walsh-Lazarus) |
+| Discogs URL    | [Original New York Cast Of Lazarus - Lazarus](https://www.discogs.com/release/9230652-Original-New-York-Cast-David-Bowie-And-Enda-Walsh-2-Lazarus) |

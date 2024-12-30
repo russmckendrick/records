@@ -13,16 +13,16 @@ cover:
     caption: "Grace Under Pressure by Rush"
 additional_images:
     - "https://i.discogs.com/9fHslmBqF8kc7uniY0jbZu8XPp1DD8v4mtSNsohczoY/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc4NTU4/MTMtMTUxMjgxOTQ2/MS0xMjg5LmpwZWc.jpeg"
-    - "https://i.discogs.com/7jyByCsPwSdApBO7ez1oF2lFsMw-b2w7occFyf3j8-Q/rs:fit/g:sm/q:90/h:605/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc4NTU4/MTMtMTUxMjgxOTQ4/Ni0xNDE4LmpwZWc.jpeg"
-    - "https://i.discogs.com/e4pEu98BHO5l3VKIudw4iNCaKZTmNqee6kdOvESS5ag/rs:fit/g:sm/q:90/h:617/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc4NTU4/MTMtMTUxMjgxOTUw/My01MjUxLmpwZWc.jpeg"
-    - "https://i.discogs.com/zV3rH9cuq5GsRThVqYVsj0qAS1NywIXRXqcW1s23v90/rs:fit/g:sm/q:90/h:620/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc4NTU4/MTMtMTUxMjgxOTUw/MS02NTExLmpwZWc.jpeg"
-    - "https://i.discogs.com/u1Bbh5SOLe8g7q9iJXUgeocxjAAWLNWqzNLKIuNenS0/rs:fit/g:sm/q:90/h:604/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc4NTU4/MTMtMTUxMjgxOTQ2/MC01NzkzLmpwZWc.jpeg"
+    - "https://i.discogs.com/CU4uRefqvXBWSKMXXyYTInal8l3NA0B9k68UyF0W0nY/rs:fit/g:sm/q:90/h:600/w:594/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc4NTU4/MTMtMTUxMjgxOTQ4/Ni0xNDE4LmpwZWc.jpeg"
+    - "https://i.discogs.com/XuAoNv9SQwp5S_16XOotfv7KX0ggg8GsTQASGUB0Ff8/rs:fit/g:sm/q:90/h:600/w:583/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc4NTU4/MTMtMTUxMjgxOTUw/My01MjUxLmpwZWc.jpeg"
+    - "https://i.discogs.com/mz3YE1yKv7ulMiWta38pWOlF6oNnWHMUl5j1nV-pvKE/rs:fit/g:sm/q:90/h:600/w:580/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc4NTU4/MTMtMTUxMjgxOTUw/MS02NTExLmpwZWc.jpeg"
+    - "https://i.discogs.com/wn2ahoS9-J4rk5-UPU3C7DOBOlIz-dFQCCWxS53fjUY/rs:fit/g:sm/q:90/h:600/w:595/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc4NTU4/MTMtMTUxMjgxOTQ2/MC01NzkzLmpwZWc.jpeg"
     - "https://i.discogs.com/YsGG4C4gEtPYv55gyTj_3e2ozDDcvJwb4kkhQfrGW3U/rs:fit/g:sm/q:90/h:591/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc4NTU4/MTMtMTUxMjgxOTQ4/MC00NjE1LmpwZWc.jpeg"
 genres: ["Rock"]
 styles: ["Prog Rock", "Hard Rock"]
 ---
 
-Grace Under Pressure is the tenth studio album by Canadian rock band Rush, released April 12, 1984 on Anthem Records. After touring for the band's previous album, Signals (1982), came to an end in mid-1983, Rush started work on a follow-up in August. The band had decided to not work with longtime producer Terry Brown, who had collaborated with Rush since 1974. The new material accentuated the group's change in direction towards a synthesizer-oriented sound like its previous album. After some difficulty finding a suitable producer who could commit, the album was recorded with Peter Henderson.
+Grace Under Pressure is the tenth studio album by Canadian rock band Rush, released April 12, 1984, on Anthem Records. After touring for the band's previous album, Signals (1982), came to an end in mid-1983, Rush started work on a follow-up in August. The band had decided not to work with longtime producer Terry Brown, who had collaborated with Rush since 1974. The new material accentuated the group's change in direction towards a synthesizer-oriented sound like its previous album. After some difficulty finding a suitable producer who could commit, the album was recorded with Peter Henderson.
 Grace Under Pressure reached number 4 in Canada, number 5 in the UK, and number 10 on the U.S. Billboard 200.  It was certified platinum in the U.S. for selling one million copies.
     
     
@@ -42,6 +42,9 @@ Grace Under Pressure reached number 4 in Canada, number 5 in the UK, and number 
 {{< applemusic url="https://music.apple.com/gb/album/grace-under-pressure-remastered/1440801137" >}}<br>
 
 
+## Videos
+### Red Sector A
+{{< youtube id="YSZf0yIx1ec" title="Red Sector A" >}}<br>
 
 
 ## Release Images

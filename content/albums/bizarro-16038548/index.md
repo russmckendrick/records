@@ -15,14 +15,16 @@ additional_images:
     - "https://i.discogs.com/Aq7zaZq9EXNivPG0fPF6t7vW7C9eok-HFYNUw--B89I/rs:fit/g:sm/q:90/h:583/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MDM4/NTQ4LTE2MDI1MDgy/NTAtMTA1NS5qcGVn.jpeg"
     - "https://i.discogs.com/0KZON-1gDaBiLRUXz7ubV3xVYSmNfz7Em1Rgy8CEUKE/rs:fit/g:sm/q:90/h:577/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MDM4/NTQ4LTE2MDI1MDgy/NTAtODc0Mi5qcGVn.jpeg"
     - "https://i.discogs.com/ey4V-npMik08GyUu4jHyGstjUZLcx6AIuMUkA4eO6xM/rs:fit/g:sm/q:90/h:586/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MDM4/NTQ4LTE2MTQxOTkx/MjUtOTY1Ni5qcGVn.jpeg"
-    - "https://i.discogs.com/64nndcpSkp3ji0CX6F1hag2wK7yUFUH4w1-pzx13F2k/rs:fit/g:sm/q:90/h:609/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MDM4/NTQ4LTE2MTQxOTkx/MjYtMjI0Mi5qcGVn.jpeg"
-    - "https://i.discogs.com/z3E8O0C-6EUS5jajDlEmISoYlrK4OILEexkLbTtU5wA/rs:fit/g:sm/q:90/h:620/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MDM4/NTQ4LTE2MTQxOTkx/MjMtMzMxNC5qcGVn.jpeg"
+    - "https://i.discogs.com/5imvdLFn1HljFfMdaMazf-DkzYL0q8iYP2unP5yJhow/rs:fit/g:sm/q:90/h:600/w:591/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MDM4/NTQ4LTE2MTQxOTkx/MjYtMjI0Mi5qcGVn.jpeg"
+    - "https://i.discogs.com/zYQhd3PfA7v_xjH1pZwHqRiQNwAJmkIKj2DZB0h0KiI/rs:fit/g:sm/q:90/h:600/w:580/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MDM4/NTQ4LTE2MTQxOTkx/MjMtMzMxNC5qcGVn.jpeg"
     - "https://i.discogs.com/HdBAgddM9U6M_zVrpunc577U85m2_GzPAJ-SwfRjQq4/rs:fit/g:sm/q:90/h:450/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MDM4/NTQ4LTE2MTQxOTkx/MjktNjMyOC5qcGVn.jpeg"
 genres: ["Rock"]
 styles: ["Indie Rock"]
 ---
 
 Bizarro is the second studio album by The Wedding Present. It was released in October 1989 by their record label, RCA.
+
+
     
     
 
@@ -44,13 +46,14 @@ Bizarro is the second studio album by The Wedding Present. It was released in Oc
 
 
 ## Videos
-### What Have I Said Now?
-{{< youtube id="BTHl_JYqWpE" title="What Have I Said Now?" >}}<br>
+### The Wedding Present - Brassneck
+{{< youtube id="d9DjDh3yjSM" title="The Wedding Present - Brassneck" >}}<br>
 ### More Videos
 
 - [The Wedding Present - Kennedy](https://www.youtube.com/watch?v=PuNYyNqCSSg)
-- [What Have I Said Now?](https://www.youtube.com/watch?v=l-66q31s1Uw)
 - [THE WEDDING PRESENT - GRANADALAND](https://www.youtube.com/watch?v=XfAn-bo_2pA)
+- [What Have I Said Now?](https://www.youtube.com/watch?v=BTHl_JYqWpE)
+- [What Have I Said Now?](https://www.youtube.com/watch?v=l-66q31s1Uw)
 - [Bewitched](https://www.youtube.com/watch?v=yJhcnWIrF7I)
 - [Be Honest](https://www.youtube.com/watch?v=HfNduoq-Gz8)
 - [No](https://www.youtube.com/watch?v=Rww6zqqTh7A)

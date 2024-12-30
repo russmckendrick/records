@@ -63,12 +63,16 @@ If Elbow’s 2017 album <i>Little Fictions</i> was a typically excellent express
 {{< youtube id="-CR628yT7aE" title="elbow - Dexter & Sinister (Official)" >}}<br>
 ### More Videos
 
-- [elbow - Empires (Official Video)](https://www.youtube.com/watch?v=EJa5FvCaBJc)
 - [elbow - Empires (Official)](https://www.youtube.com/watch?v=XNRGGQ_138I)
-- [Elbow - Giants of All Sizes: Review](https://www.youtube.com/watch?v=noA1dVWIgng)
 - [elbow - Seven Veils (Official)](https://www.youtube.com/watch?v=wAJ_CHwNSXY)
-- [Elbow - Giants Of All Sizes [2019]](https://www.youtube.com/watch?v=iWY1UJMNJ-Q)
 - [elbow - My Trouble (Official)](https://www.youtube.com/watch?v=BD_ZgAEjLNg)
+- [elbow - Dexter & Sinister (Official)](https://www.youtube.com/watch?v=-CR628yT7aE)
+- [elbow - Empires (Official)](https://www.youtube.com/watch?v=XNRGGQ_138I)
+- [elbow - Seven Veils (Official)](https://www.youtube.com/watch?v=wAJ_CHwNSXY)
+- [elbow - My Trouble (Official)](https://www.youtube.com/watch?v=BD_ZgAEjLNg)
+- [elbow - Empires (Official Video)](https://www.youtube.com/watch?v=EJa5FvCaBJc)
+- [Elbow - Giants of All Sizes: Review](https://www.youtube.com/watch?v=noA1dVWIgng)
+- [Elbow - Giants Of All Sizes [2019]](https://www.youtube.com/watch?v=iWY1UJMNJ-Q)
 - [elbow - Weightless (Lyrics)](https://www.youtube.com/watch?v=5vW5HpyPKME)
 - [elbow - The Delayed 3.15 (Lyrics)](https://www.youtube.com/watch?v=c7yOQloSClU)
 

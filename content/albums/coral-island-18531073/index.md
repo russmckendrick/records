@@ -23,8 +23,8 @@ additional_images:
     - "https://i.discogs.com/Qd9e1EKj0zsLIdjFmHQmDhoBNAb1Fp8F4nAFmJS0hOk/rs:fit/g:sm/q:90/h:298/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NTMx/MDczLTE2NDY4MTc0/NjEtNTk0Ny5qcGVn.jpeg"
     - "https://i.discogs.com/tPLGXpHy-4v6ZJ2aS_XgWNYDSwYijwDGExjUCaJAnWE/rs:fit/g:sm/q:90/h:295/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NTMx/MDczLTE2NDY4MTc0/NTktNjkzNi5qcGVn.jpeg"
     - "https://i.discogs.com/fS6hx8AJ_xmqwK4hrbGNCTsBMqeE4mfvrl_g_xzWrl8/rs:fit/g:sm/q:90/h:293/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NTMx/MDczLTE2NDY4MTc0/NjItODA3My5qcGVn.jpeg"
-    - "https://i.discogs.com/omTqjxlQCHfi8pjhobmQSU9fkAOP9rsD_wU6odp76Ug/rs:fit/g:sm/q:90/h:613/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NTMx/MDczLTE2NDY4MTc0/NjMtMjc2Mi5qcGVn.jpeg"
-    - "https://i.discogs.com/dpDn0L39G9Bs_7lbGYi02LFPmHSrArQMuDYxxvQPN3U/rs:fit/g:sm/q:90/h:618/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NTMx/MDczLTE2NDY4MTc0/NjAtOTA2OS5qcGVn.jpeg"
+    - "https://i.discogs.com/qrQNSBgHTwV-NKslMUkRVxbcFcnWFnHKgbxyZr-f4BY/rs:fit/g:sm/q:90/h:600/w:587/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NTMx/MDczLTE2NDY4MTc0/NjMtMjc2Mi5qcGVn.jpeg"
+    - "https://i.discogs.com/usPxlzvGmZr-QSZ9-8B3ALB1qkEEAAG448wuExSBheI/rs:fit/g:sm/q:90/h:600/w:582/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NTMx/MDczLTE2NDY4MTc0/NjAtOTA2OS5qcGVn.jpeg"
     - "https://i.discogs.com/LN3eme2xJt0C45EMzJV1gghytMo1xPLLFt95_TbfEMQ/rs:fit/g:sm/q:90/h:577/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NTMx/MDczLTE2NDY4MTc0/NjItNDM5OC5qcGVn.jpeg"
     - "https://i.discogs.com/-qbZqi30qO1F7xm0el6sx8pgXr16D_z9hMFXhF7UEH0/rs:fit/g:sm/q:90/h:583/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NTMx/MDczLTE2NDY4MTc0/NTctOTI1MC5qcGVn.jpeg"
     - "https://i.discogs.com/biWml7P89bJWu4dfzgRa2Ww9LcSSCgnV2F9M78WLxY4/rs:fit/g:sm/q:90/h:581/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NTMx/MDczLTE2NDY4MTc0/NTgtMTM0OC5qcGVn.jpeg"
@@ -36,8 +36,7 @@ genres: ["Rock"]
 styles: ["Indie Rock"]
 ---
 
-Coral Island is the tenth studio album by English rock band the Coral. Run On Records and Modern Sky UK released it on 30 April 2021. During the cycle for their ninth studio album Move Through the Dawn (2018), the band began stockpiling song ideas; on the way home from Blackpool, the band had the idea of making a concept album about a fictional town. With the assistance of Edwin Burdis, the band began mapping out the album. The recording sessions were held at Parr Street Studios in Liverpool, with the narration recorded at Ian Murrary's house in Merseyside; the band and Chris Taylor acted as producers. Described as a psychedelic album, it drew comparison to the Kinks' Village Green Preservation Society (1968), while the narration was reminiscent of that heard on the Small Faces' Ogdens' Nut Gone Flake (1968).
-Coral Island received positive reviews from music critics, who praised the high-quality song writing. It reached number two in the UK, and charted in Germany, Scotland, and Switzerland. The album was preceded by the release of three singles: "Faceless Angel" in January 2021, "Lover Undiscovered" in March 2021, and "Vacancy" in April 2021. Coinciding with the album was the publication of a book by keyboardist Nick Power, which provided backstories for each of the characters mentioned on the album.
+A coral island is a type of island formed from coral detritus and associated organic material.  It occurs in tropical and sub-tropical areas, typically as part of a coral reef which has grown to cover a far larger area under the sea. The term low island can be used to distinguish such islands from high islands, which are formed through volcanic action. Low islands are formed as a result of sedimentation upon a coral reef or of the uplifting of such islands.
 
 
     
@@ -71,16 +70,26 @@ Coral Island received positive reviews from music critics, who praised the high-
 24. The Last Entertainer
 
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/coral-island/1550963543" >}}<br>
+{{< applemusic url="https://music.apple.com/gb/album/coral-island/1700447876" >}}<br>
 
 
 ## Videos
-### Change Your Mind
-{{< youtube id="0f_0F_RR21U" title="Change Your Mind" >}}<br>
+### Welcome To Coral Island
+{{< youtube id="difQoPoSoxk" title="Welcome To Coral Island" >}}<br>
 ### More Videos
 
+- [The Coral - Lover Undiscovered (Official Video)](https://www.youtube.com/watch?v=UN_DS2zUEFA)
+- [The Coral - Change Your Mind (Official Video)](https://www.youtube.com/watch?v=OjCZ8hIqV0o)
+- [Autumn Has Come](https://www.youtube.com/watch?v=xvROK-_y_S8)
+- [My Best Friend](https://www.youtube.com/watch?v=i-SICIGU2k0)
+- [Change Your Mind](https://www.youtube.com/watch?v=0f_0F_RR21U)
 - [Autumn Has Come](https://www.youtube.com/watch?v=Ei1lTXge2AI)
 - [My Best Friend](https://www.youtube.com/watch?v=js0V828SPQE)
+- [Welcome To Coral Island](https://www.youtube.com/watch?v=difQoPoSoxk)
+- [The Coral - Lover Undiscovered (Official Video)](https://www.youtube.com/watch?v=UN_DS2zUEFA)
+- [The Coral - Change Your Mind (Official Video)](https://www.youtube.com/watch?v=OjCZ8hIqV0o)
+- [Autumn Has Come](https://www.youtube.com/watch?v=xvROK-_y_S8)
+- [My Best Friend](https://www.youtube.com/watch?v=i-SICIGU2k0)
 
 ## Release Images
 {{< imageGrid >}}
@@ -88,7 +97,7 @@ Coral Island received positive reviews from music critics, who praised the high-
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Wikipedia URL | https://en.wikipedia.org/wiki/Coral_Island_(album) |
+| Wikipedia URL | https://en.wikipedia.org/wiki/Coral_island |
 | Format         | Vinyl 2× LP Album Limited Edition (Lime Green) |
 | Label          | Modern Sky UK |
 | Catalog Number | RO-001-LP |

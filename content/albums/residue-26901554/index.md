@@ -59,5 +59,5 @@ styles: ["Prog Rock", "Psychedelic Rock"]
 | Format         | Vinyl 2× LP Compilation Limited Edition Reissue Remastered (Green, Yellow & Blue Marble) |
 | Label          | Rockosmos |
 | Catalog Number | ROK221 |
-| Notes | Comes in a gatefold jacket.  Funded via a Bandcamp Vinyl Pressing campaign.  Amplifier Info:  Double Gatefold Vinyl - 180g Hand Dipped - Each set unique As good as it gets for vinyl.  "We've remixed and remastered the original Residue tracks for Vinyl and additionally included some previously unheard demos and thrown in the tracks from Insider Versions as well to make a bumper double album of gems from the diamond mine on Crystal Mountain." |
-| Discogs URL    | [Amplifier - Residue](https://www.discogs.com/release/26901554-Amplifier-Residue) |
+| Notes | Comes in a gatefold jacket. Printed inner sleeves were mistakenly missing when it first released, but were sent out separately to backers later.  Funded via a Bandcamp Vinyl Pressing campaign.  Amplifier Info:  Double Gatefold Vinyl - 180g Hand Dipped - Each set unique As good as it gets for vinyl.  "We've remixed and remastered the original Residue tracks for Vinyl and additionally included some previously unheard demos and thrown in the tracks from Insider Versions as well to make a bumper double album of gems from the diamond mine on Crystal Mountain." |
+| Discogs URL    | [Amplifier - Residue](https://www.discogs.com/release/26901554-Amplifier-3-Residue) |

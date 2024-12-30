@@ -13,21 +13,21 @@ cover:
     alt: "Return To Cookie Mountain by TV On The Radio"
     caption: "Return To Cookie Mountain by TV On The Radio"
 additional_images:
-    - "https://i.discogs.com/XH3nSgQVDBLdnKSKIHvaCQq-aTRHSxc2yqpqH_UUnoI/rs:fit/g:sm/q:90/h:604/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMTE3/ODYzLTE1MjkyMzM4/MTktNzAxOC5qcGVn.jpeg"
-    - "https://i.discogs.com/iQHPQL6o0n2_rI8QApQqI5r8IBFo1N5Oa8W7oF5txiE/rs:fit/g:sm/q:90/h:602/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMTE3/ODYzLTE1MjkyMzM4/MTYtNjg0MC5qcGVn.jpeg"
+    - "https://i.discogs.com/c0UTFYZmeoiNxAc196_wYVtuEYk1fmTP--TUoAYi0u8/rs:fit/g:sm/q:90/h:600/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMTE3/ODYzLTE1MjkyMzM4/MTYtNjg0MC5qcGVn.jpeg"
+    - "https://i.discogs.com/Y9xQ7xiGD6pMd-DxtpHT1Ztk_AZBgv1MzhqJ6F6amkA/rs:fit/g:sm/q:90/h:600/w:596/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMTE3/ODYzLTE1MjkyMzM4/MTktNzAxOC5qcGVn.jpeg"
     - "https://i.discogs.com/BXrQ-hpMqpPX2zHwQsTksXgSiAhEW3EA30TbPRSN4cY/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMTE3/ODYzLTE1MjkyMzM4/MjEtOTI3NS5qcGVn.jpeg"
-    - "https://i.discogs.com/MDZHEcFcZnBSdYxBQDEp_dL5UzrzQTMBmIKdpPqIn9c/rs:fit/g:sm/q:90/h:604/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMTE3/ODYzLTE1MjkyMzM4/MjMtMjgwOS5qcGVn.jpeg"
-    - "https://i.discogs.com/JZpCBnXzZsni6vufOL2L-i0fj-1F7EgKZo045IFnnRc/rs:fit/g:sm/q:90/h:605/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMTE3/ODYzLTE1MjkyMzM4/MjgtMzE4Ny5qcGVn.jpeg"
-    - "https://i.discogs.com/QpKDWptWyfXBMVNh971tFr-VlVGcwM0XFZDQRZH9Ghg/rs:fit/g:sm/q:90/h:603/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMTE3/ODYzLTE1MjkyMzM4/MzAtMTk4My5qcGVn.jpeg"
-    - "https://i.discogs.com/PEtf5jf6IL6ykGQFNHCwjwLrmL42e80uBaAQQLIabBg/rs:fit/g:sm/q:90/h:604/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMTE3/ODYzLTE1MjkyMzM4/MzMtODU2Ny5qcGVn.jpeg"
-    - "https://i.discogs.com/n4IEEiettoV8D73rzdPRA5mhfLK5PFXNOZF2CgpmgAo/rs:fit/g:sm/q:90/h:602/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMTE3/ODYzLTE1MjkyMzM4/MzUtNTM1Mi5qcGVn.jpeg"
-    - "https://i.discogs.com/WyV74wGy56p7hibAD0GqpXCsZMQnMXFO-a8oFZEnbGA/rs:fit/g:sm/q:90/h:603/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMTE3/ODYzLTE1MjkyMzM4/MzctODUxMi5qcGVn.jpeg"
+    - "https://i.discogs.com/zbOvOdFglLVkJZCas3s4W5TH1ajUenc-5S9Wxk48sCQ/rs:fit/g:sm/q:90/h:600/w:596/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMTE3/ODYzLTE1MjkyMzM4/MjMtMjgwOS5qcGVn.jpeg"
+    - "https://i.discogs.com/MgNVnU1mSmq066fFt2ESGWM6nONFI9vDO9hIKnv3dl4/rs:fit/g:sm/q:90/h:600/w:595/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMTE3/ODYzLTE1MjkyMzM4/MjgtMzE4Ny5qcGVn.jpeg"
+    - "https://i.discogs.com/xKG4fgZJ8klYLQt8p0_aN7GxwdcJiQsf5nye_2M2oVQ/rs:fit/g:sm/q:90/h:600/w:597/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMTE3/ODYzLTE1MjkyMzM4/MzAtMTk4My5qcGVn.jpeg"
+    - "https://i.discogs.com/hi5ozJ16xSgMPToPJy5WMjUuypOwx-oqzHIqoeB677M/rs:fit/g:sm/q:90/h:600/w:596/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMTE3/ODYzLTE1MjkyMzM4/MzMtODU2Ny5qcGVn.jpeg"
+    - "https://i.discogs.com/iyeeveWGHtnINjI6w1IOOUb6MKwNB6JTqr9_r9IUO3Y/rs:fit/g:sm/q:90/h:600/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMTE3/ODYzLTE1MjkyMzM4/MzUtNTM1Mi5qcGVn.jpeg"
+    - "https://i.discogs.com/F8OVfUwDYthrkpfG2cbtg5ltDLE1BMbvH1UJej6evss/rs:fit/g:sm/q:90/h:600/w:597/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMTE3/ODYzLTE1MjkyMzM4/MzctODUxMi5qcGVn.jpeg"
     - "https://i.discogs.com/DkwSnCcPzCes8msdqLmalwDMAp-zrzLaP-0Fzms0baI/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMTE3/ODYzLTE1MjkyMzM4/MzktOTY5MS5qcGVn.jpeg"
-    - "https://i.discogs.com/W05w7LbVEWckq4g7ZMyH3YQjWCITgC0nuM3g6IzGKRk/rs:fit/g:sm/q:90/h:601/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMTE3/ODYzLTE1MjkyMzM4/NDEtNjk4NS5qcGVn.jpeg"
+    - "https://i.discogs.com/sWnBIkUsnMCW8i9uroKyPAuujhw6njQORo9zvhgVBL0/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMTE3/ODYzLTE1MjkyMzM4/NDEtNjk4NS5qcGVn.jpeg"
     - "https://i.discogs.com/H94uYu8Mj_CkUPijf874ntSyYWexDCK8l-lS4GromLo/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMTE3/ODYzLTE1MjkyMzM4/NDMtOTAxMy5qcGVn.jpeg"
-    - "https://i.discogs.com/t40Ai5sSo4zm6WElQqntfSJlMi_XEAWISUJzkAF6d4s/rs:fit/g:sm/q:90/h:601/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMTE3/ODYzLTE1MjkyMzM4/NDctNDUxNC5qcGVn.jpeg"
-    - "https://i.discogs.com/TLOLXAnOj6nuCCleIA7MoDKezVZqvfrmaTx7seCaZzU/rs:fit/g:sm/q:90/h:601/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMTE3/ODYzLTE1MjkyMzM4/NDgtNTE3Ny5qcGVn.jpeg"
-    - "https://i.discogs.com/Fi9aBv40f9yx5v1agx2Oe3MImB9_xJMKmVrwGRcjeQE/rs:fit/g:sm/q:90/h:603/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMTE3/ODYzLTE1MjkyMzM4/NTAtODE3MS5qcGVn.jpeg"
+    - "https://i.discogs.com/KkWclMeqrvxJzddvwMJgzbWAPtJIjf4KQmc0SeutPZ4/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMTE3/ODYzLTE1MjkyMzM4/NDctNDUxNC5qcGVn.jpeg"
+    - "https://i.discogs.com/NCH8aGCVzr3CKN19IstXU6K9k4oTX8gmXjxr_eFyICg/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMTE3/ODYzLTE1MjkyMzM4/NDgtNTE3Ny5qcGVn.jpeg"
+    - "https://i.discogs.com/KM2T_wStzHkD1d8uI4YoRhLxP7FYxSNQFJRU2YW_tIA/rs:fit/g:sm/q:90/h:600/w:597/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMTE3/ODYzLTE1MjkyMzM4/NTAtODE3MS5qcGVn.jpeg"
     - "https://i.discogs.com/SnRXm6Sa4bGtBOuoIiD8IaVXq1RCQZDQiXFr9genh6A/rs:fit/g:sm/q:90/h:177/w:400/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMTE3/ODYzLTE1MjkyMzM4/NTMtNTcwMS5qcGVn.jpeg"
 genres: ["Rock"]
 styles: ["Indie Rock", "Alternative Rock"]
@@ -57,16 +57,12 @@ By turns aggressive and elusive, abrasive and romantic, <i>Return to Cookie Moun
 
 
 ## Videos
-### TV On The Radio - Wolf Like Me (Official Video)
-{{< youtube id="j1-xRk6llh4" title="TV On The Radio - Wolf Like Me (Official Video)" >}}<br>
+### TV On The Radio - Wolf Like Me (Official Music Video) / Re-upload
+{{< youtube id="6yyNJXpP3EU" title="TV On The Radio - Wolf Like Me (Official Music Video) / Re-upload" >}}<br>
 ### More Videos
 
-- [TV On The Radio - Province](https://www.youtube.com/watch?v=xigAXL5e5Kw)
-- [I Was A Lover](https://www.youtube.com/watch?v=giEM5Ze6d80)
-- [Tonight](https://www.youtube.com/watch?v=rGJylVYuYU4)
-- [A Method](https://www.youtube.com/watch?v=Wth4L-rWt3U)
-- [Untitled](https://www.youtube.com/watch?v=_ZyRRWO_teA)
-- [Let The Devil In](https://www.youtube.com/watch?v=vb9DxtmsYHM)
+- [TV On The Radio  Wolf Like Me](https://www.youtube.com/watch?v=03hC_Ml8aAM)
+- [Wolf Like Me](https://www.youtube.com/watch?v=xZl-ssLKyPE)
 
 ## Release Images
 {{< imageGrid >}}

@@ -22,6 +22,9 @@ genres: ["Rock"]
 styles: ["Alternative Rock", "Indie Rock"]
 ---
 
+"Closed for Business" is a song by English rock band Mansun. It was released as the lead song on Seven EP in 1997 and became their second top ten hit on the UK Singles Chart.
+    
+    
 
 
 ## Tracklisting
@@ -34,12 +37,12 @@ styles: ["Alternative Rock", "Indie Rock"]
 7. Egg Shaped Fred (Acoustic)
 
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/closed-for-business/1582887992" >}}<br>
+{{< applemusic url="https://music.apple.com/gb/album/closed-for-business/1770512039" >}}<br>
 
 
 ## Videos
-### Mansun - Closed for business
-{{< youtube id="zAGa_yl5GwA" title="Mansun - Closed for business" >}}<br>
+### Mansun - Closed For Business (Official Promo Video)
+{{< youtube id="A-qS11sqyqY" title="Mansun - Closed For Business (Official Promo Video)" >}}<br>
 
 
 ## Release Images
@@ -48,6 +51,7 @@ styles: ["Alternative Rock", "Indie Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
+| Wikipedia URL | https://en.wikipedia.org/wiki/Closed_for_Business |
 | Format         | Vinyl 12" 33 ⅓ RPM EP Record Store Day Limited Edition Stereo (Clear, 180g) |
 | Label          | Kscope |
 | Catalog Number | KSCOPE1117 |

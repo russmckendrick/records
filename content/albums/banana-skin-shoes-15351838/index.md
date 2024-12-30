@@ -26,7 +26,8 @@ styles: ["Indie Rock"]
 ---
 
 On the title track that opens Badly Drawn Boy’s ninth studio album (and first in eight years), Damon Gough is getting back up and he’s ready to move on. “It’s time to break free from this plaster cast/And leave your past behind,” the English singer-songwriter rejoices over horn-filled funk, returning to the genre-bending experiments of 2000’s Mercury Prize-winning <i>The Hour of Bewilderbeast</i> and 2002’s <i>Have You Fed the Fish</i>. Gough, who went through an extended bout of soul-searching during his absence, exudes marital bliss on "I Need Someone to Trust" and "Fly on the Wall", taking a more pop-minded bent even as his penchant for chamber music remains present. The loose-limbed “Is This a Dream?” and “Colours” carry a celebratory tone, where he acknowledges his past mistakes as he recollects his thoughts. Even the more subdued moments, like the bossa-nova-tinged “You and Me Against the World”, play with a slow rhythmic groove as Gough opens his heart: “I feel so vulnerable/I want to be/Only in love.”
-    
+        
+        
     
 
 
@@ -65,6 +66,17 @@ On the title track that opens Badly Drawn Boy’s ninth studio album (and first 
 - [I'll Do My Best](https://www.youtube.com/watch?v=fCuvPJVyy0Q)
 - [Never Change](https://www.youtube.com/watch?v=Vm_c8B_jOOE)
 - [Colours](https://www.youtube.com/watch?v=QTrSaqpPtfI)
+- [Badly Drawn Boy - Banana Skin Shoes (Official Music Video)](https://www.youtube.com/watch?v=9DoVsGK87NM)
+- [Badly Drawn Boy - I Just Wanna Wish You Happiness](https://www.youtube.com/watch?v=sUrot70vd90)
+- [Badly Drawn Boy - I'll Do My Best](https://www.youtube.com/watch?v=f2OCTbOy0Ho)
+- [Fly on the Wall](https://www.youtube.com/watch?v=79ZeZd52iFI)
+- [Funny Time of Year](https://www.youtube.com/watch?v=Ahepoi7RE24)
+- [Badly Drawn Boy - Never Change](https://www.youtube.com/watch?v=M1J_IAx2_eg)
+- [Appletree Boulevard](https://www.youtube.com/watch?v=taCPUZTMlDk)
+- [Note to Self](https://www.youtube.com/watch?v=ny-RkvrMto8)
+- [I'll Do My Best](https://www.youtube.com/watch?v=fCuvPJVyy0Q)
+- [Never Change](https://www.youtube.com/watch?v=Vm_c8B_jOOE)
+- [Colours](https://www.youtube.com/watch?v=QTrSaqpPtfI)
 
 ## Release Images
 {{< imageGrid >}}
@@ -72,6 +84,7 @@ On the title track that opens Badly Drawn Boy’s ninth studio album (and first 
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
+| Wikipedia URL | https://en.wikipedia.org/wiki/Banana_Skin_Shoes |
 | Format         | Vinyl 2× LP Album Limited Edition (Yellow) |
 | Label          | One Last Fruit |
 | Catalog Number | OLF005LP |

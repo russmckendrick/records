@@ -4,6 +4,7 @@ artist_name: "Deep Purple"
 artist: "deep-purple"
 album_name: "Deep Purple In Rock"
 date: 2016-06-21T18:26:00.000000Z
+release_date: "1970-06-01"
 release_id: "8668461"
 slug: "deep-purple-in-rock-8668461"
 hideSummary: true
@@ -34,6 +35,14 @@ genres: ["Rock"]
 styles: ["Hard Rock"]
 ---
 
+Deep Purple in Rock is the fourth studio album by English rock band Deep Purple, released on 5 June 1970. It was the first studio album recorded by the Mark II line-up of Ritchie Blackmore, Ian Gillan, Roger Glover, Jon Lord and Ian Paice.
+Work on In Rock began shortly after Gillan and Glover joined the band in June 1969, with rehearsals at Hanwell Community Centre. The music was intended to be loud and heavy, and accurately represent the group's live show. Recording took place at various studios around London in between extensive touring, during which time songs and arrangements were honed into shape.
+In Rock was the band's breakthrough album in Europe and peaked at No. 4 in the UK, remaining in the charts for over a year. By contrast, it underperformed in the US, where the band's Mark I albums had been more successful. An accompanying single, "Black Night" reached No. 2 in the UK, becoming their highest charting single there. The album has continued to attract critical praise as a key early example of the hard rock and heavy metal genres.
+
+
+        
+        
+    
 
 
 ## Tracklisting
@@ -46,15 +55,15 @@ styles: ["Hard Rock"]
 7. Hard Lovin' Man
 
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/deep-purple-in-rock-25th-anniversary-edition/696798568" >}}<br>
+{{< applemusic url="https://music.apple.com/gb/album/deep-purple-in-rock/1105612887" >}}<br>
 
 
 ## Videos
-### DEEP PURPLE - DEEP PURPLE IN ROCK - ORIGINAL - 1970/UK - SIDE-A - HQ AUDIO - REMASTERED / 4K VIDEO
-{{< youtube id="VymRIGR-CAg" title="DEEP PURPLE - DEEP PURPLE IN ROCK - ORIGINAL - 1970/UK - SIDE-A - HQ AUDIO - REMASTERED / 4K VIDEO" >}}<br>
+### Speed King (1995 Remaster)
+{{< youtube id="W_jfHvcAXRY" title="Speed King (1995 Remaster)" >}}<br>
 ### More Videos
 
-- [DEEP PURPLE - DEEP PURPLE IN ROCK - ORIGINAL - 1970/UK - SIDE-B - HQ AUDIO - REMASTERED / 4K VIDEO](https://www.youtube.com/watch?v=YgZWLjrpSlE)
+- [Deep Purple - Deep Purple in Rock Full Album](https://www.youtube.com/watch?v=RBaWNoo1ALA)
 
 ## Release Images
 {{< imageGrid >}}
@@ -62,6 +71,7 @@ styles: ["Hard Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
+| Wikipedia URL | https://en.wikipedia.org/wiki/Deep_Purple_in_Rock |
 | Format         | Vinyl LP Album Limited Edition Reissue Remastered (Marbled) |
 | Label          | Harvest |
 | Catalog Number | SHVL 777 |

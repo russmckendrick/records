@@ -16,13 +16,17 @@ additional_images:
     - "https://i.discogs.com/dk894jtVnKy0ZN9679-Kdn0xhwBD2ynhD5zNb94iY90/rs:fit/g:sm/q:90/h:600/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcyMTkz/LTEyNzE2MzEyMTUu/anBlZw.jpeg"
     - "https://i.discogs.com/UDvQ5fk0ZwE7JG3Dt7J3mTXnsxIESZrEy5MbkVvqVgA/rs:fit/g:sm/q:90/h:403/w:400/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcyMTkz/LTAwMS5qcGc.jpeg"
     - "https://i.discogs.com/Df_2N8_JcGmsPLCjfIQi1P_I145lViSaKFZ2dqHalHI/rs:fit/g:sm/q:90/h:385/w:400/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcyMTkz/LTAwMi5qcGc.jpeg"
-    - "https://i.discogs.com/ZyuG8dxklChDA3xCh1o_NnRfwHn7-yNb1dVpVrjPyl4/rs:fit/g:sm/q:90/h:608/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcyMTkz/LTEyNzE2MzEyNDYu/anBlZw.jpeg"
-    - "https://i.discogs.com/KBingbCrWDtgyUVjEGyOpPNQC74sCfacZtQtf40M97g/rs:fit/g:sm/q:90/h:606/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcyMTkz/LTEyNzE2MzEyNjgu/anBlZw.jpeg"
+    - "https://i.discogs.com/izw5avYato8PCi9N3TyOPqJps-83HJnp1d9lh5yjNQg/rs:fit/g:sm/q:90/h:600/w:590/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcyMTkz/LTEyNzE2MzEyNDYu/anBlZw.jpeg"
+    - "https://i.discogs.com/sOLZr199_QdYqi_-lxJHZwS0tKfAV2dcAx3fxfatR3w/rs:fit/g:sm/q:90/h:600/w:592/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcyMTkz/LTEyNzE2MzEyNjgu/anBlZw.jpeg"
     - "https://i.discogs.com/M4Ll3ljaVNrRjr0PeA29B3arVqPN2oD7xrzKztFvwM8/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcyMTkz/LTE2MDk0MTE0NjAt/MzY1MC5qcGVn.jpeg"
 genres: ["Electronic", "Hip Hop", "Rock"]
 styles: ["House", "Hip Hop", "Indie Rock"]
 ---
 
+Box Frenzy  is the debut studio album by English rock band Pop Will Eat Itself. It was released on 26 October 1987 in the United Kingdom by Chapter 22 Records and in the United States by Rough Trade Records.
+At the end of 1987, the NME ranked the album at number 49 in their list of the top 50 "Albums of the Year". Q also included it in their unordered list of the year's 50 best albums. In 2005, The Word included the album in the second part of its list "Hidden Treasure: Great Underrated Albums of Our Time."
+    
+    
 
 
 ## Tracklisting
@@ -40,19 +44,45 @@ styles: ["House", "Hip Hop", "Indie Rock"]
 12. Razorblade Kisses (1:49)
 
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/box-frenzy-25th-anniversary-expanded-edition/1607835372" >}}<br>
+{{< applemusic url="https://music.apple.com/gb/album/box-frenzy/1577748309" >}}<br>
 
 
 ## Videos
-### Pop Will Eat Itself - There Is No Love Between Us Anymore (Video)
-{{< youtube id="hWhwXhpiMMU" title="Pop Will Eat Itself - There Is No Love Between Us Anymore (Video)" >}}<br>
+### Grebo Guru
+{{< youtube id="wwu9jg-qMYA" title="Grebo Guru" >}}<br>
 ### More Videos
 
+- [Beaver Patrol](https://www.youtube.com/watch?v=DwzKdw7XQPI)
+- [Let's Get Ugly](https://www.youtube.com/watch?v=mLoQueaCLqA)
+- [U.B.L.U.D.](https://www.youtube.com/watch?v=ysxUvJVf9lM)
+- [Inside You](https://www.youtube.com/watch?v=hP0FHDxRUhU)
+- [Evelyn](https://www.youtube.com/watch?v=U--SDFgXLmE)
+- [There Is No Love Between Us Anymore](https://www.youtube.com/watch?v=m5TGuQQGrEs)
+- [She's Surreal](https://www.youtube.com/watch?v=1rKejQDiNPM)
+- [Intergalactic Love Mission](https://www.youtube.com/watch?v=Fhc5N9y1BHk)
+- [Love Missile F1-11](https://www.youtube.com/watch?v=t4eTHO3LHT0)
+- [Hit the Hi-Tech Groove](https://www.youtube.com/watch?v=CyxvAPIJfJ8)
+- [Razorblade Kisses](https://www.youtube.com/watch?v=Cfuhs3ixY9Q)
+- [Pop Will Eat Itself - Beaver Patrol](https://www.youtube.com/watch?v=0U4D4pErQ_E)
+- [Pop Will Eat Itself - There Is No Love Between Us Anymore (Video)](https://www.youtube.com/watch?v=hWhwXhpiMMU)
+- [Pop Will Eat Itself - Def Con One (Video)](https://www.youtube.com/watch?v=Xef60FAN6Vk)
 - [Pop Will Eat Itself - Love Missile F1 - 11](https://www.youtube.com/watch?v=EBuNUk4J2jk)
-- [Pop Will Eat Itself - Go Box Frenzy - Let's Get Ugly](https://www.youtube.com/watch?v=k2jzNd_pm8U)
-- [Pop Will Eat Itself  hit the hi tech groove](https://www.youtube.com/watch?v=XdfNh6P_A3g)
-- [Pop Will Eat Itself ~ Razorblade Kisses](https://www.youtube.com/watch?v=78hI6JDfJVw)
-- [Pop Will Eat Itself ~ Evelyn](https://www.youtube.com/watch?v=8rw9hgPMkEY)
+- [Grebo Guru](https://www.youtube.com/watch?v=wwu9jg-qMYA)
+- [Beaver Patrol](https://www.youtube.com/watch?v=DwzKdw7XQPI)
+- [Let's Get Ugly](https://www.youtube.com/watch?v=mLoQueaCLqA)
+- [U.B.L.U.D.](https://www.youtube.com/watch?v=ysxUvJVf9lM)
+- [Inside You](https://www.youtube.com/watch?v=hP0FHDxRUhU)
+- [Evelyn](https://www.youtube.com/watch?v=U--SDFgXLmE)
+- [There Is No Love Between Us Anymore](https://www.youtube.com/watch?v=m5TGuQQGrEs)
+- [She's Surreal](https://www.youtube.com/watch?v=1rKejQDiNPM)
+- [Intergalactic Love Mission](https://www.youtube.com/watch?v=Fhc5N9y1BHk)
+- [Love Missile F1-11](https://www.youtube.com/watch?v=t4eTHO3LHT0)
+- [Hit the Hi-Tech Groove](https://www.youtube.com/watch?v=CyxvAPIJfJ8)
+- [Razorblade Kisses](https://www.youtube.com/watch?v=Cfuhs3ixY9Q)
+- [Pop Will Eat Itself - Beaver Patrol](https://www.youtube.com/watch?v=0U4D4pErQ_E)
+- [Pop Will Eat Itself - There Is No Love Between Us Anymore (Video)](https://www.youtube.com/watch?v=hWhwXhpiMMU)
+- [Pop Will Eat Itself - Def Con One (Video)](https://www.youtube.com/watch?v=Xef60FAN6Vk)
+- [Pop Will Eat Itself - Love Missile F1 - 11](https://www.youtube.com/watch?v=EBuNUk4J2jk)
 
 ## Release Images
 {{< imageGrid >}}
@@ -60,6 +90,7 @@ styles: ["House", "Hip Hop", "Indie Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
+| Wikipedia URL | https://en.wikipedia.org/wiki/Box_Frenzy |
 | Format         | Vinyl LP Album |
 | Label          | Chapter 22 |
 | Catalog Number | CHAP LP 18 |

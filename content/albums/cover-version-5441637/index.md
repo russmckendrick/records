@@ -18,14 +18,14 @@ additional_images:
     - "https://i.discogs.com/D1DKZgMkVE-a0zV9vSbqTqvPUa3zTwr0zCaVf9Thv-I/rs:fit/g:sm/q:90/h:300/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU0NDE2/MzctMTQyNzQ3MjE4/OC05OTE4LmpwZWc.jpeg"
     - "https://i.discogs.com/7wkedr5OMIs8nOxVX-g99-RVW4ex8MT1a02QXY7o1aE/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU0NDE2/MzctMTQyNzQ3MjE5/NC0xMjQwLmpwZWc.jpeg"
     - "https://i.discogs.com/klwzQwi2dtmaOIAi6ux93DRMIujSFhbM_vp6UZjbz7I/rs:fit/g:sm/q:90/h:300/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU0NDE2/MzctMTQyNzQ3MjIw/NS0xNjY5LmpwZWc.jpeg"
-    - "https://i.discogs.com/7nLGqbqOVah3k8NVHQJ2hkZCfssqx4Lku2GL2ebzA6I/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU0NDE2/MzctMTQyNzQ3MjIx/MC05OTAzLmpwZWc.jpeg"
-    - "https://i.discogs.com/hb3TLUy68RThx8WfsbrH7CpaHE4il3PFf7i4GqhqSBs/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU0NDE2/MzctMTQyNzQ3MjIx/Ni02NzExLmpwZWc.jpeg"
-    - "https://i.discogs.com/UxigP9AF_7BKwkiHN53vSfLKsrJB8X8J8Ox9cWL-_kY/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU0NDE2/MzctMTQyNzQ3MjIy/MC0yNTEzLmpwZWc.jpeg"
-    - "https://i.discogs.com/buP__LLZyOiig5PrnRZ3VVn1dOFnXc7LMs4t1zuF6tY/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU0NDE2/MzctMTQyNzQ3MjIy/NS00OTI2LmpwZWc.jpeg"
     - "https://i.discogs.com/2iOsXACt3eeZUXbeTXh8JN4NeWsF0DvMvOcUfk9-5zs/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU0NDE2/MzctMTQyNzQ3MjIz/MS05MTE4LmdpZg.jpeg"
     - "https://i.discogs.com/cjIRzj0mPpRNHiFuzDvn3qCdzgAqYi0Sla3-WQ4SrNU/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU0NDE2/MzctMTQyNzQ3MjIz/NS0zODgzLmdpZg.jpeg"
     - "https://i.discogs.com/mzUsyNHzxUDNrWN8JK33avV_zPHi1J6_C-FBjUDjg8Y/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU0NDE2/MzctMTQyNzQ3MjI0/MS04OTgyLmdpZg.jpeg"
     - "https://i.discogs.com/wUro1rf-XaaB4qGDgn7v13X1Euterp2paecQszuAhc0/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU0NDE2/MzctMTQyNzQ3MjI0/Ni03MjQ3LmdpZg.jpeg"
+    - "https://i.discogs.com/7nLGqbqOVah3k8NVHQJ2hkZCfssqx4Lku2GL2ebzA6I/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU0NDE2/MzctMTQyNzQ3MjIx/MC05OTAzLmpwZWc.jpeg"
+    - "https://i.discogs.com/hb3TLUy68RThx8WfsbrH7CpaHE4il3PFf7i4GqhqSBs/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU0NDE2/MzctMTQyNzQ3MjIx/Ni02NzExLmpwZWc.jpeg"
+    - "https://i.discogs.com/UxigP9AF_7BKwkiHN53vSfLKsrJB8X8J8Ox9cWL-_kY/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU0NDE2/MzctMTQyNzQ3MjIy/MC0yNTEzLmpwZWc.jpeg"
+    - "https://i.discogs.com/buP__LLZyOiig5PrnRZ3VVn1dOFnXc7LMs4t1zuF6tY/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU0NDE2/MzctMTQyNzQ3MjIy/NS00OTI2LmpwZWc.jpeg"
     - "https://i.discogs.com/Ki_DBylvS-7fVMB83tMmBJknDC1hqUiAeyzo5fyl-Lo/rs:fit/g:sm/q:90/h:14/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU0NDE2/MzctMTQyNzQ3MjI0/OC03Mzc5LmpwZWc.jpeg"
 genres: ["Electronic", "Rock", "Folk, World, & Country"]
 styles: ["Folk", "Ambient", "Prog Rock"]
@@ -59,6 +59,7 @@ Cover Version is a compilation album released in 2014 by British musician and re
 {{< youtube id="dqzX26jkM-g" title="Steven Wilson - A Forest (The Cure cover)" >}}<br>
 ### More Videos
 
+- [Steven Wilson - A Forest (The Cure cover)](https://www.youtube.com/watch?v=dqzX26jkM-g)
 - [Steven Wilson - The Day Before You Came (ABBA Cover from Cover Version)](https://www.youtube.com/watch?v=qcj1gOGNrhc)
 - [Steven Wilson Cover Versions IV.wmv](https://www.youtube.com/watch?v=iuwzIU2wVxU)
 - [Steven Wilson-Cover version VI](https://www.youtube.com/watch?v=Gtx-TQzDzy8)

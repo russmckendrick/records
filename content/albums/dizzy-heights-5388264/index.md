@@ -47,7 +47,11 @@ Dizzy Heights, released in February 2014, is the third solo album by New Zealand
 ## Videos
 ### Neil Finn - Divebomber
 {{< youtube id="ks_-25Fgh5U" title="Neil Finn - Divebomber" >}}<br>
+### More Videos
 
+- [Neil Finn - Dizzy Heights](https://www.youtube.com/watch?v=d67sb3rBmlo)
+- [Neil Finn - Divebomber](https://www.youtube.com/watch?v=ks_-25Fgh5U)
+- [Neil Finn - Divebomber](https://www.youtube.com/watch?v=ks_-25Fgh5U)
 
 ## Release Images
 {{< imageGrid >}}

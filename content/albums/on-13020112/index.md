@@ -12,19 +12,21 @@ cover:
     alt: "On by Echobelly"
     caption: "On by Echobelly"
 additional_images:
-    - "https://i.discogs.com/Y3dmtdwMGl0IJk2R3ma33HV-_U18rmCkfMPgm0m58ok/rs:fit/g:sm/q:90/h:618/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMDIw/MTEyLTE1NTE0NDA2/OTMtOTI3OC5qcGVn.jpeg"
-    - "https://i.discogs.com/yL54nuwomVKekks-StH9afchxAKQyPTWkeGJLgxQqYg/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMDIw/MTEyLTE1NTE0NDA2/OTQtMjA3MS5qcGVn.jpeg"
-    - "https://i.discogs.com/DZhqBRDC3sZvwfLx0-63gj645EURPuSWVEjM07-kVBc/rs:fit/g:sm/q:90/h:635/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMDIw/MTEyLTE1NTE0NDA2/OTQtNDc0Ny5qcGVn.jpeg"
-    - "https://i.discogs.com/vPCpyuqwxkwjIEMH1RiniEcp9f_ZwDRIORXfkmmNmwI/rs:fit/g:sm/q:90/h:642/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMDIw/MTEyLTE1NTE0NDA2/OTQtNDczMy5qcGVn.jpeg"
-    - "https://i.discogs.com/SvDOlM0p0NxpAdY2rbfCYuhPXsc1jAFe9zyDQlmJrbM/rs:fit/g:sm/q:90/h:607/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMDIw/MTEyLTE1NTE0NDA2/OTQtODc2OS5qcGVn.jpeg"
-    - "https://i.discogs.com/QjB6WoRzlWEldsfQqobxwLkyI9AW8QMMhtDWJBUx6j8/rs:fit/g:sm/q:90/h:608/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMDIw/MTEyLTE1NTE0NDA2/OTQtNTE0Mi5qcGVn.jpeg"
-    - "https://i.discogs.com/n5V90N7qFHktYmg-zJSY2C0LeARuc04LgAalxFpc6ZU/rs:fit/g:sm/q:90/h:624/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMDIw/MTEyLTE1NTE0NDA2/OTQtNDcyNC5qcGVn.jpeg"
+    - "https://i.discogs.com/cEk0i3F-nCn-fCiH4rSMmsOSZNv8eG2Zp_n87IpDbMo/rs:fit/g:sm/q:90/h:600/w:582/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMDIw/MTEyLTE1NTE0NDA2/OTMtOTI3OC5qcGVn.jpeg"
     - "https://i.discogs.com/vIQ08z0-ZwQ0hYckcj3VZhj_yUVYH4JWtVDP1eKxOfc/rs:fit/g:sm/q:90/h:589/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMDIw/MTEyLTE1NDY2OTEw/MDItMTcwNy5qcGVn.jpeg"
+    - "https://i.discogs.com/yL54nuwomVKekks-StH9afchxAKQyPTWkeGJLgxQqYg/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMDIw/MTEyLTE1NTE0NDA2/OTQtMjA3MS5qcGVn.jpeg"
+    - "https://i.discogs.com/G-q9W9C3LTxd_t8TPW-t6LfsioclW2IEqH4dA5IL5o0/rs:fit/g:sm/q:90/h:600/w:592/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMDIw/MTEyLTE1NTE0NDA2/OTQtODc2OS5qcGVn.jpeg"
+    - "https://i.discogs.com/D06C28DBaCKpvuiV-lwNWYIJa9AZ4n6IzViP43kY1jI/rs:fit/g:sm/q:90/h:600/w:591/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMDIw/MTEyLTE1NTE0NDA2/OTQtNTE0Mi5qcGVn.jpeg"
+    - "https://i.discogs.com/K8gwe33GE5u9340QowjHbcAtE4y84F_gDdARmduBaNE/rs:fit/g:sm/q:90/h:600/w:576/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMDIw/MTEyLTE1NTE0NDA2/OTQtNDcyNC5qcGVn.jpeg"
+    - "https://i.discogs.com/Rtu8kjS-1qx7Ltp-qsMk8m61i4epqBRPXLeNgPRXLkM/rs:fit/g:sm/q:90/h:600/w:566/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMDIw/MTEyLTE1NTE0NDA2/OTQtNDc0Ny5qcGVn.jpeg"
+    - "https://i.discogs.com/BCNU6R7AfOVsOkbskj3ViD2v2InlvIPoBTDUnhzBzsQ/rs:fit/g:sm/q:90/h:600/w:560/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMDIw/MTEyLTE1NTE0NDA2/OTQtNDczMy5qcGVn.jpeg"
 genres: ["Rock"]
 styles: ["Indie Rock", "Britpop"]
 ---
 
-On was the second album from English rock band Echobelly. Gaining a favourable response from critics, the album reached number 4 in the UK Albums Chart becoming their most commercially successful album. The album spawned three top 40 singles two of which managed to reach the top 20. On 21 July 2014, a 2CD expanded edition of the album was released with B-sides and previously unreleased live performances.
+On is the second studio album by English alternative rock band Echobelly. Gaining a favourable response from critics, the album reached number 4 in the UK Albums Chart becoming their most commercially successful album. The album spawned three top 40 singles two of which managed to reach the top 20. On 21 July 2014, a 2CD expanded edition of the album was released with B-sides and previously unreleased live performances.
+
+
     
     
 

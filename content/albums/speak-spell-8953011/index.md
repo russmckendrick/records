@@ -4,6 +4,7 @@ artist_name: "Depeche Mode"
 artist: "depeche-mode"
 album_name: "Speak & Spell"
 date: 2017-02-15T18:28:58.000000Z
+release_date: "1981-10-05"
 release_id: "8953011"
 slug: "speak-spell-8953011"
 hideSummary: true
@@ -12,12 +13,12 @@ cover:
     alt: "Speak & Spell by Depeche Mode"
     caption: "Speak & Spell by Depeche Mode"
 additional_images:
-    - "https://i.discogs.com/HxKSBJknaY_ZzVN-38m-kY5RFziVcd53goDKvLiTBWg/rs:fit/g:sm/q:90/h:611/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg5NTMw/MTEtMTUwMjYzNjMx/Mi05OTA5LmpwZWc.jpeg"
+    - "https://i.discogs.com/NWaKashqksSL9l6DxCkQMgQ9dqYM2Aleo_zswGvZjmQ/rs:fit/g:sm/q:90/h:600/w:588/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg5NTMw/MTEtMTUwMjYzNjMx/Mi05OTA5LmpwZWc.jpeg"
     - "https://i.discogs.com/CNmfw-LviJOEWISDyBH0p91V845w2cU9l-cj9C1Nfl4/rs:fit/g:sm/q:90/h:573/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg5NTMw/MTEtMTUwMjYzNjMw/My05Njk2LmpwZWc.jpeg"
     - "https://i.discogs.com/mZhLTLJZefkHIalKhCie8YfL72KbwdtWeR3RYESvAro/rs:fit/g:sm/q:90/h:577/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg5NTMw/MTEtMTUwMjYzNjI5/OC03NDI4LmpwZWc.jpeg"
-    - "https://i.discogs.com/8Qcnn4CzGlpTK2RhSxKnuhQihFIjyLXHiOgTsE819E4/rs:fit/g:sm/q:90/h:607/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg5NTMw/MTEtMTUwMjYzNjI4/Ni04ODAwLmpwZWc.jpeg"
-    - "https://i.discogs.com/rS95g0LO7fMFJuvu8lAhjBs5e5qyLjyPKRneNQxCH30/rs:fit/g:sm/q:90/h:611/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg5NTMw/MTEtMTUwMjYzNjUz/Ni0zNjg2LmpwZWc.jpeg"
-    - "https://i.discogs.com/oPwkqxXFZsiBDr19HcJkmQ0Pv1sadCKEyNN_576O0ng/rs:fit/g:sm/q:90/h:608/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg5NTMw/MTEtMTUwMjYzNjUy/OS0zNzQ2LmpwZWc.jpeg"
+    - "https://i.discogs.com/tMOJ07DSeN5xz2SlxyH8pSRd4ADX0pPqwE7pcgb7EI0/rs:fit/g:sm/q:90/h:600/w:592/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg5NTMw/MTEtMTUwMjYzNjI4/Ni04ODAwLmpwZWc.jpeg"
+    - "https://i.discogs.com/1rS7Cv4lciAEYhr9SYBM_3Kmj0B5ZRvb6N29nCh5J08/rs:fit/g:sm/q:90/h:600/w:588/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg5NTMw/MTEtMTUwMjYzNjUz/Ni0zNjg2LmpwZWc.jpeg"
+    - "https://i.discogs.com/vk6nDj19tLgD-QrPa5-PFLDeQAdHqm77W9u5Yr9HbR4/rs:fit/g:sm/q:90/h:600/w:591/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg5NTMw/MTEtMTUwMjYzNjUy/OS0zNzQ2LmpwZWc.jpeg"
     - "https://i.discogs.com/OJ3IH-4mZFjk8VcRvcBawu4jwhmoUmDzkrPix64kxD8/rs:fit/g:sm/q:90/h:592/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg5NTMw/MTEtMTUwMjYzNjUx/My00MTU1LmpwZWc.jpeg"
     - "https://i.discogs.com/--18jVc7JTdT0Ures2QkBr9r6JTCKM-fzeLDTxjEWVM/rs:fit/g:sm/q:90/h:593/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg5NTMw/MTEtMTUwMjYzNjUy/Ny03NjU3LmpwZWc.jpeg"
     - "https://i.discogs.com/yn-xDGFoS9RF-gOyvxry5igVm4bcHle0pRhHHUPIXJ0/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg5NTMw/MTEtMTQ3MjEzODk5/Ni05MTgyLmpwZWc.jpeg"
@@ -25,6 +26,9 @@ genres: ["Electronic"]
 styles: ["Synth-pop"]
 ---
 
+Largely written by a soon-to-exit Vince Clarke, the Basildon synth band’s debut is strikingly upbeat, by their later standards. “New Life” and “Just Can’t Get Enough” remain two of the great pop singles of the early ’80s, setting percolating melodies to disco momentum. However, there are hints of a band preparing to explore a darker sound within the sinister pulse of “Puppets” and the unhinged synths of the Martin Gore-penned “Tora! Tora! Tora!”
+    
+    
 
 
 ## Tracklisting
@@ -42,9 +46,12 @@ styles: ["Synth-pop"]
 12. Dreaming Of Me (4:05)
 
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/speak-and-spell-deluxe/665412305" >}}<br>
+{{< applemusic url="https://music.apple.com/gb/album/speak-spell/665396776" >}}<br>
 
 
+## Videos
+### Depeche Mode - Speak And Spell (full album)
+{{< youtube id="m1A9USD8NJk" title="Depeche Mode - Speak And Spell (full album)" >}}<br>
 
 
 ## Release Images

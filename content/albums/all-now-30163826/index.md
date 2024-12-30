@@ -12,8 +12,8 @@ cover:
     alt: "All Now by The Staves"
     caption: "All Now by The Staves"
 additional_images:
-    - "https://i.discogs.com/9HhJv0o_xyP4v-3U6Yqiuc2bp4DH-UHAwZ3NLjPbDxU/rs:fit/g:sm/q:90/h:450/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMTYz/ODI2LTE3MTEyMTQ1/NDQtNjQyNy5qcGVn.jpeg"
-    - "https://i.discogs.com/XzWTuuKOdVsi7s030uHPNup1QFthUVm75-Kq8abZsgY/rs:fit/g:sm/q:90/h:450/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMTYz/ODI2LTE3MTEyMTQ1/NjEtODg3OS5qcGVn.jpeg"
+    - "https://i.discogs.com/co9J0ZlP_EAgMokBcW9YnrOqKp836ofS6pdTI3c5KHs/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMTYz/ODI2LTE3MTMzNzIx/MzctOTUyMi5qcGVn.jpeg"
+    - "https://i.discogs.com/pj2bstEfKOECzlcHLTxWHh9XmEgEEscWlSfMJbP3P3A/rs:fit/g:sm/q:90/h:600/w:590/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMTYz/ODI2LTE3MTMzNzIx/MzYtODYwMy5qcGVn.jpeg"
 genres: ["Folk, World, & Country"]
 styles: []
 ---
@@ -50,4 +50,4 @@ styles: []
 | Label          | Communion Records (2) |
 | Catalog Number | COMM602 |
 | Notes | Standard black version  ℗ & © 2024 The Staves Under Exclusive License to Communion Music Group Ltd. COMM602 |
-| Discogs URL    | [The Staves - All Now](https://www.discogs.com/release/30163826-The-Staves-All-Now) |
+| Discogs URL    | [The Staves - All Now](https://www.discogs.com/release/30163826-The-Staves-2-All-Now) |

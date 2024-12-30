@@ -14,16 +14,18 @@ cover:
 additional_images:
     - "https://i.discogs.com/v9ZMpEuDaxxwFrZSUn6Xx6tw9olUHVqoRX1R8XlmBCM/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4MzM3/MS0xNDg2MDc1MDc2/LTgyMjAuanBlZw.jpeg"
     - "https://i.discogs.com/JBrG-pwBhgPYPO8Ov10mhH3SSOLo7siNsuEiKQOr0DE/rs:fit/g:sm/q:90/h:590/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4MzM3/MS0xNDg2MDc1MDc2/LTQ3NzEuanBlZw.jpeg"
-    - "https://i.discogs.com/FtUxe-GjMU2Bbx6OkzJ-p355poPyJpGTHxhaPHHeloY/rs:fit/g:sm/q:90/h:606/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4MzM3/MS0xNDg2MDc1MDc2/LTg5NjcuanBlZw.jpeg"
-    - "https://i.discogs.com/Arqrx6jCuhNfP6kmELuOVDFKQBTIzndoOGOOxtpLuYk/rs:fit/g:sm/q:90/h:609/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4MzM3/MS0xNDg2MDc1MDc2/LTYxNzMuanBlZw.jpeg"
-    - "https://i.discogs.com/cbtbahB7pWyqHQd536eHes9OtSQzlmHjEbV_e2uOsF0/rs:fit/g:sm/q:90/h:630/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4MzM3/MS0xNDg2MDc1MDc3/LTU3MjcuanBlZw.jpeg"
-    - "https://i.discogs.com/JpRjKYxs6k_CQp_iWNkmWLeVZD_2lV6158NVNObJeyQ/rs:fit/g:sm/q:90/h:621/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4MzM3/MS0xNDg2MDc1MDc4/LTEyNDUuanBlZw.jpeg"
+    - "https://i.discogs.com/sC2LumTTawroltM-emlVw4Xs0sYS7nslLBlOFIb6s_Y/rs:fit/g:sm/q:90/h:600/w:594/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4MzM3/MS0xNDg2MDc1MDc2/LTg5NjcuanBlZw.jpeg"
+    - "https://i.discogs.com/MH3gWCQfNSUsFJeYj5QznrIQyt2h_ac0ydIc-pTxUjo/rs:fit/g:sm/q:90/h:600/w:591/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4MzM3/MS0xNDg2MDc1MDc2/LTYxNzMuanBlZw.jpeg"
+    - "https://i.discogs.com/7m78J04peVCyBO4V0e3jrfFi1qHfv5qV_IYW49qi1UQ/rs:fit/g:sm/q:90/h:600/w:571/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4MzM3/MS0xNDg2MDc1MDc3/LTU3MjcuanBlZw.jpeg"
+    - "https://i.discogs.com/EhH5i4nXnId4QkWEXn7cRmFuvY_Me8jDlMN_VBk-_nc/rs:fit/g:sm/q:90/h:600/w:579/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4MzM3/MS0xNDg2MDc1MDc4/LTEyNDUuanBlZw.jpeg"
     - "https://i.discogs.com/DVWDxQ_v3bqvi2-aI9rsmCj0ZLkBJMNe0U39M0_UPtc/rs:fit/g:sm/q:90/h:320/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4MzM3/MS0xMzI5NzQ0MzYz/LmpwZWc.jpeg"
 genres: ["Rock"]
-styles: ["Alternative Rock"]
+styles: ["Alternative Metal", "Funk Metal", "Alternative Rock"]
 ---
 
-The Real Thing is the third studio album by American rock band Faith No More, released on June 20, 1989 by Slash and Reprise Records. It was the first album by the band not to feature vocalist Chuck Mosley, instead, the album featured Mike Patton from the experimental/funk band Mr. Bungle. On this album, Faith No More continued to advance their sound range, combining funk metal, rap metal and alternative rock.
+The Real Thing is the third studio album by American rock band Faith No More, released on June 20, 1989, by Slash and Reprise Records. It is the first album to feature singer Mike Patton, following the dismissal of previous vocalist Chuck Mosley. On this album, Faith No More continued to advance their sound range, combining alternative metal, funk metal, and rap metal.
+
+
     
     
 
@@ -44,28 +46,14 @@ The Real Thing is the third studio album by American rock band Faith No More, re
 
 
 ## Videos
-### Faith No More - From Out Of Nowhere (Official Music Video)
-{{< youtube id="j4tsGWdarHc" title="Faith No More - From Out Of Nowhere (Official Music Video)" >}}<br>
+### Faith No More - Epic (Official Music Video)
+{{< youtube id="ZG_k5CSYKhg" title="Faith No More - Epic (Official Music Video)" >}}<br>
 ### More Videos
 
-- [Faith No More - Epic (Official Music Video)](https://www.youtube.com/watch?v=ZG_k5CSYKhg)
-- [Epic](https://www.youtube.com/watch?v=EO6JN3LLTz8)
-- [Zombie Eaters](https://www.youtube.com/watch?v=33dAH1vC4K0)
-- [The Real Thing](https://www.youtube.com/watch?v=HYFDKk4K1tY)
-- [Underwater Love](https://www.youtube.com/watch?v=jQ1N9khfSYc)
-- [The Morning After](https://www.youtube.com/watch?v=LWMjJxpgbgM)
-- [Woodpecker from Mars](https://www.youtube.com/watch?v=FMGA21QxzsM)
-- [War Pigs](https://www.youtube.com/watch?v=pQD-u6FfXp0)
-- [Edge of the World](https://www.youtube.com/watch?v=pDRUHMOXZts)
-- [Sweet Emotion](https://www.youtube.com/watch?v=To7EeBQtBRQ)
-- [Cowboy Song (B-Side)](https://www.youtube.com/watch?v=P1tSCCwnOrY)
-- [The Grade (B-Side)](https://www.youtube.com/watch?v=5DfYJq6R2Bs)
-- [From out of Nowhere (Extended Remix)](https://www.youtube.com/watch?v=7_-Mg20ISiU)
-- [War Pigs (Live in Berlin 11.9.1989)](https://www.youtube.com/watch?v=305qpNQfhq8)
-- [Surprise! You're Dead! (Live in Sheffield) (B-Side)](https://www.youtube.com/watch?v=Io1zkvfbQrs)
-- [Chinese Arithmetic (Live in Sheffield) (B-Side)](https://www.youtube.com/watch?v=0jB7-5-Z_qc)
-- [Underwater Love (Live in Brixton)](https://www.youtube.com/watch?v=BaIcny57hN0)
-- [As the Worm Turns (Live in Brixton)](https://www.youtube.com/watch?v=fOkSvCe-aEE)
+- [Faith No More - Falling to Pieces (Official Music Video)](https://www.youtube.com/watch?v=32bdevGClD4)
+- [Faith No More - From Out Of Nowhere (Official Music Video)](https://www.youtube.com/watch?v=j4tsGWdarHc)
+- [Faith No More - Surprise You're Dead [Official Music Video]](https://www.youtube.com/watch?v=eG4AawcYdSE)
+- [Faith No More - The Real Thing (Full Album)](https://www.youtube.com/watch?v=TebRt1gFVhs)
 
 ## Release Images
 {{< imageGrid >}}
@@ -74,7 +62,7 @@ The Real Thing is the third studio album by American rock band Faith No More, re
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/The_Real_Thing_(Faith_No_More_album) |
-| Format         | Vinyl LP Album |
+| Format         | Vinyl LP Album Stereo |
 | Label          | London American Recordings |
 | Catalog Number | 828 154-1 |
 | Notes | Silver and black London Records labels printed with "Made in Holland". Label, album title, artist and catalogue number is printed along the top edge of the sleeve in addition to the release spine.    This version is very similar to the UK version. The [url=http://www.discogs.com/Faith-No-More-The-Real-Thing/release/1869217]UK version[/url] does not have album, artist, label and catalogue number information printed along the top edge of the sleeve and has white and red labels with no mention of its country of manufacture.    Includes a printed inner sleeve with graphics, photographs and credits.    Recorded December 1988 at Studio D, Sausalito, CA.  Mixed January 1989 at Blue Canyon, Studio City, CA.  Mastered at K-Disc, Los Angeles, CA.    Marketed in France by Barclay and in West Germany by Metronome Musik GmbH.    ℗ 1989 Slash Records  © 1989 Slash Records   |

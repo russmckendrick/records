@@ -50,6 +50,8 @@ styles: ["Blues Rock", "Psychedelic Rock"]
 22. 3rd. Stone From The Sun (6:38)
 23. Gloria (8:45)
 
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/jimi-hendrix-single/1765290097" >}}<br>
 
 
 

@@ -12,15 +12,15 @@ cover:
     alt: "Benton County Relic by Cedric Burnside"
     caption: "Benton County Relic by Cedric Burnside"
 additional_images:
-    - "https://i.discogs.com/r8QgiVZZJcwSovZn9lFh6HOw95hX7ZSK1YUuqFUebLU/rs:fit/g:sm/q:90/h:608/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNDky/NDIwLTE1MzYzNTcw/OTItNDQ4OC5qcGVn.jpeg"
-    - "https://i.discogs.com/499IgvOgRiqvFr1eSU9-70A9EGisRkOAiYIS3I6m-SM/rs:fit/g:sm/q:90/h:608/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNDky/NDIwLTE2NTQ3MTM0/NDgtNDcyMi5qcGVn.jpeg"
-    - "https://i.discogs.com/KIn5jdmqYD-TL9i10b1OR8bqak_WgytKGO38kNO1lxU/rs:fit/g:sm/q:90/h:605/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNDky/NDIwLTE2NTQ3MTM0/NDctNDU4My5qcGVn.jpeg"
+    - "https://i.discogs.com/yBVLNhArhVucUPWvhZQoE0UhIsKLDPjSe8sLk8N9wt4/rs:fit/g:sm/q:90/h:600/w:591/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNDky/NDIwLTE1MzYzNTcw/OTItNDQ4OC5qcGVn.jpeg"
+    - "https://i.discogs.com/SA_hPU2SqNNsly5OtRv1H20N9z7Mr5rw02o1_r0_7KI/rs:fit/g:sm/q:90/h:600/w:591/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNDky/NDIwLTE2NTQ3MTM0/NDgtNDcyMi5qcGVn.jpeg"
+    - "https://i.discogs.com/SntRxQhZyOnnmIXnQIsZqr5m-jTqBiRrDS1QPEbNlkk/rs:fit/g:sm/q:90/h:600/w:594/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNDky/NDIwLTE2NTQ3MTM0/NDctNDU4My5qcGVn.jpeg"
     - "https://i.discogs.com/sPDvbKNZbatDBAjxAj_aPJykSXmcjnJgCHDduck27JU/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNDky/NDIwLTE2NTQ3MTM0/NDgtMTQ0Mi5qcGVn.jpeg"
     - "https://i.discogs.com/0vXWyMaPteuWqwO0PW3SRbVUKn_yzdeR6uqu0Eeiego/rs:fit/g:sm/q:90/h:593/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNDky/NDIwLTE2NTQ3MTM0/NDctNDE5Ni5qcGVn.jpeg"
-    - "https://i.discogs.com/SmRmdZnBp4JFnNRgbA4pXikvriyubLu2eHVpBrJVOtU/rs:fit/g:sm/q:90/h:608/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNDky/NDIwLTE1MzYzNTcx/MjUtOTQ5NC5qcGVn.jpeg"
+    - "https://i.discogs.com/QP9qTLv9WOM5rvu1GMHpwMHjXfk0ok7GAEYt2G5kc4M/rs:fit/g:sm/q:90/h:600/w:592/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNDky/NDIwLTE1MzYzNTcx/MjUtOTQ5NC5qcGVn.jpeg"
     - "https://i.discogs.com/rgiIXnmRiWZIOv-x81ToT_sXbIC-nD5TvAcxYq27LpA/rs:fit/g:sm/q:90/h:593/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNDky/NDIwLTE2NTQ3MTM0/NDktNTY3Mi5qcGVn.jpeg"
-    - "https://i.discogs.com/9dj8pTyeeSM5kZlW7TaeMQfvYkviNreL8EO9G6X9uRM/rs:fit/g:sm/q:90/h:611/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNDky/NDIwLTE1MzYzNTcx/MzUtMzQ4OC5qcGVn.jpeg"
-    - "https://i.discogs.com/ytbFBtRs7nHDlcC9AOQ7r_6Z42pxCMSyceGzO3E4478/rs:fit/g:sm/q:90/h:602/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNDky/NDIwLTE1MzYzNTcx/MTMtMTYyMC5qcGVn.jpeg"
+    - "https://i.discogs.com/7hc7rn6FliqIq1_fXwDOKFrpVZ_5LGv6lNxdpqiy2-o/rs:fit/g:sm/q:90/h:600/w:588/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNDky/NDIwLTE1MzYzNTcx/MzUtMzQ4OC5qcGVn.jpeg"
+    - "https://i.discogs.com/ghI_QMjlEGU3Qkx295P2Hz8ax2ZoNNMR3-ECeSmeP24/rs:fit/g:sm/q:90/h:600/w:597/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNDky/NDIwLTE1MzYzNTcx/MTMtMTYyMC5qcGVn.jpeg"
 genres: ["Blues"]
 styles: ["Country Blues", "Hill Country Blues"]
 ---

@@ -19,12 +19,18 @@ additional_images:
     - "https://i.discogs.com/pmIL9z9MJ9PWaEq9-J6-j6HbDarRorSXGEjPawaa4-M/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2MDcx/NTE5LTE2ODE5MDI3/MDMtNTcwMC5qcGVn.jpeg"
     - "https://i.discogs.com/eLGMd3ZwYufPDO93xR72UeOwOwLoSK-tW8htEiJXlOg/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2MDcx/NTE5LTE2ODE5MDI3/MDQtODY5MS5qcGVn.jpeg"
     - "https://i.discogs.com/8Fre9W9jiqXd_Dd2cTzQjtILi1aXVFK40Srv2qAEYj4/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2MDcx/NTE5LTE2NzYxODg1/OTAtMTI4Mi5qcGVn.jpeg"
-    - "https://i.discogs.com/XDJ-YXKC93_cMn2fbkicB6-0pCzkNeT808qL9ZypbqQ/rs:fit/g:sm/q:90/h:779/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2MDcx/NTE5LTE2ODE5MDI2/OTgtNjk3Ni5qcGVn.jpeg"
+    - "https://i.discogs.com/30_9KRu-3-FOZD_ZJWCH-JZReQPgOvooAmd1jcIJFRo/rs:fit/g:sm/q:90/h:600/w:461/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2MDcx/NTE5LTE2ODE5MDI2/OTgtNjk3Ni5qcGVn.jpeg"
     - "https://i.discogs.com/qEVTWa2OGTdRJJzPlsn71fkLOGB0pQAqSDmrResEHLc/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2MDcx/NTE5LTE2NzY1NTcy/OTMtMjk3Ny5qcGVn.jpeg"
 genres: ["Electronic", "Rock"]
 styles: ["Indie Rock", "Shoegaze", "Synth-pop"]
 ---
 
+Frozen (Chinese: 极度寒冷) is a 1997 Chinese film directed by Wang Xiaoshuai. The film was originally shot in 1994, but was banned by Chinese authorities and had to be smuggled out of the country. Moreover, Wang was operating under a blacklisting from the Chinese Film Bureau that was imposed after his previous film, The Days, was screened internationally without government approval. As such, Wang was forced to use the pseudonym "Wu Ming" (literally "Anonymous") while making this film.
+The film, supposedly based on a true story, follows a young performance artist, Qi Lei, who attempts to create a masterpiece centred on the theme of death. After two "acts" where he simulates death, he decides that his final act will be a true suicide through hypothermia.
+Frozen was originally titled The Great Game (simplified Chinese: 大游戏; traditional Chinese: 大游戲; pinyin: Dà yóuxi). This was meant to reflect the attitude of both the film and the artist portrayed within it to treat death and suicide as a game or a manipulation.
+Canadian scholar Erik Bordeleau has interpreted Frozen as an allegory of the aftermath of the 1989 Tiananmen Square protests in China. Qi Lei’s “experience of a radical loss of social subjectivity, staged in performative terms, powerfully echoes also that of the Tiananmen survivors, those whose lives did not come to an end, as did the world to which they belonged.”
+    
+    
 
 
 ## Tracklisting
@@ -33,18 +39,23 @@ styles: ["Indie Rock", "Shoegaze", "Synth-pop"]
 3. Frozen
 4. Zoo
 
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/chen-yi-karen-tanaka-invisible-curve/400843029" >}}<br>
 
 
 ## Videos
-### Curve Frozen
-{{< youtube id="q8_5TC1s0wQ" title="Curve Frozen" >}}<br>
+### Curve - The colour hurts
+{{< youtube id="wv9NKUiKR4U" title="Curve - The colour hurts" >}}<br>
 ### More Videos
 
+- [Curve Frozen](https://www.youtube.com/watch?v=q8_5TC1s0wQ)
+- [Curve - Zoo](https://www.youtube.com/watch?v=kKvzP8j13_o)
 - [Curve - The colour hurts](https://www.youtube.com/watch?v=wv9NKUiKR4U)
-- [Curve - Coast is clear](https://www.youtube.com/watch?v=k8kObm7NfQY)
 - [Curve - Zoo](https://www.youtube.com/watch?v=kKvzP8j13_o)
 - [Curve - Coast is clear](https://www.youtube.com/watch?v=lqtxTl4m6l4)
 - [Curve - Frozen](https://www.youtube.com/watch?v=vAANdjxEKlU)
+- [Curve Frozen](https://www.youtube.com/watch?v=q8_5TC1s0wQ)
+- [Curve - Coast is clear](https://www.youtube.com/watch?v=k8kObm7NfQY)
 
 ## Release Images
 {{< imageGrid >}}
@@ -52,6 +63,7 @@ styles: ["Indie Rock", "Shoegaze", "Synth-pop"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
+| Wikipedia URL | https://en.wikipedia.org/wiki/Frozen_(1997_film) |
 | Format         | Vinyl 12" EP Limited Edition Numbered (White marbled) |
 | Label          | Music On Vinyl |
 | Catalog Number | MOV12031 |

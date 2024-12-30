@@ -14,8 +14,8 @@ cover:
 additional_images:
     - "https://i.discogs.com/dP2-dQfkJZ7Q1ODf8i1l1RK85ziGc8XPAIbsQwvPgYw/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNjQz/ODY2LTE1MTk5MzMy/NjItNjk4My5qcGVn.jpeg"
     - "https://i.discogs.com/5RJ9ZNees04T2pvwMq4ZaGRlGz9DF328UeGAOkOf_1k/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNjQz/ODY2LTE1MTk5MzMy/NjMtMTE3Mi5qcGVn.jpeg"
-    - "https://i.discogs.com/ARZQnMsktQsdKGr_cU0iovv3bo6R3AIhUDoYpVJNyIg/rs:fit/g:sm/q:90/h:616/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNjQz/ODY2LTE1MjA5NzM3/MTgtMjc1NC5qcGVn.jpeg"
-    - "https://i.discogs.com/Wylo-MkgTHOaefqHfL2vWkCcaj1NDn39l9fVN2Oc0yQ/rs:fit/g:sm/q:90/h:644/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNjQz/ODY2LTE1MjA5NzM3/NDAtODMwMi5qcGVn.jpeg"
+    - "https://i.discogs.com/qUnAgHC2I2soZpH6sF_jl4FH--H_2oY1Hk4_goWLZnU/rs:fit/g:sm/q:90/h:600/w:584/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNjQz/ODY2LTE1MjA5NzM3/MTgtMjc1NC5qcGVn.jpeg"
+    - "https://i.discogs.com/WgRRlcaljH6HaMHKDLk7YmAalMCGNFafId-0sUAUMZ8/rs:fit/g:sm/q:90/h:600/w:558/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNjQz/ODY2LTE1MjA5NzM3/NDAtODMwMi5qcGVn.jpeg"
     - "https://i.discogs.com/UwKfyshYp-ZrnuccnelNp6ixcq0bwVdhAuSBvT4eTtM/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNjQz/ODY2LTE1MjE5ODY5/NDktMzE0MC5qcGVn.jpeg"
     - "https://i.discogs.com/oQSzueSA_RhpFF6QXD5V0sl80pHErjOBX4X0nGSwI_Y/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNjQz/ODY2LTE1MjE5ODY5/NTQtMTgxOC5qcGVn.jpeg"
     - "https://i.discogs.com/jDgryceb4ZuY1nrmEThsWplE1hnElsTF5VY90ObfxeI/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNjQz/ODY2LTE1MTk5MzMy/NjItNDUyMC5qcGVn.jpeg"
@@ -25,7 +25,9 @@ genres: ["Electronic"]
 styles: ["Synth-pop"]
 ---
 
-Please is the debut studio album by English synth-pop duo Pet Shop Boys, released on 24 March 1986 by Parlophone in the United Kingdom and by EMI America Records in the United States. According to the duo, the album's title was chosen so that people had to go into a record shop and say "Can I have the Pet Shop Boys album, 'Please'?". Please spawned four singles: "West End Girls", "Opportunities (Let's Make Lots of Money)", "Suburbia", and "Love Comes Quickly"; "West End Girls" reached number one in both the UK and the US.
+Please is the debut studio album by English synth-pop duo Pet Shop Boys, released on 24 March 1986 by Parlophone in the United Kingdom and by EMI America Records in the United States. According to the duo, the album's title was chosen so that people could go into a record shop and say "Can I have the Pet Shop Boys album, please?" Please featured the number one hit "West End Girls" and nine other songs, including the singles "Opportunities (Let's Make Lots of Money)", "Love Comes Quickly", and "Suburbia".
+
+
     
     
 
@@ -43,20 +45,13 @@ Please is the debut studio album by English synth-pop duo Pet Shop Boys, release
 10. Why Don't We Live Together? (4:47)
 
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/please-2018-remaster/1645128742" >}}<br>
+{{< applemusic url="https://music.apple.com/gb/album/nonetheless/1726963941" >}}<br>
 
 
 ## Videos
-### Pet Shop Boys - Opportunities
-{{< youtube id="di60NYGu03Y" title="Pet Shop Boys - Opportunities" >}}<br>
-### More Videos
+### Pet Shop Boys   Please Whole Album HQ 1986 #
+{{< youtube id="_KAGx_52PAg" title="Pet Shop Boys   Please Whole Album HQ 1986 #" >}}<br>
 
-- [Pet Shop Boys   Please Whole Album HQ 1986 #](https://www.youtube.com/watch?v=_KAGx_52PAg)
-- [Pet Shop Boys - West End Girls (Official Video) [HD REMASTERED]](https://www.youtube.com/watch?v=p3j2NYZ8FKs)
-- [Pet Shop Boys - Opportunities (Let's Make Lots of Money) (Version 2) (HD)](https://www.youtube.com/watch?v=PyeWRd7ZEBs)
-- [Pet Shop Boys - Love Comes Quickly](https://www.youtube.com/watch?v=QHaA1beOwrY)
-- [Pet Shop Boys - Suburbia](https://www.youtube.com/watch?v=-VCqAjYO3NM)
-- [Pet Shop Boys - Suburbia (2003 Digital Remaster)](https://www.youtube.com/watch?v=oY7XObvKFx8)
 
 ## Release Images
 {{< imageGrid >}}

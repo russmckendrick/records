@@ -12,6 +12,7 @@ cover:
     alt: "When It Falls by Zero 7"
     caption: "When It Falls by Zero 7"
 additional_images:
+    - "https://i.discogs.com/15nJCLNhXu-ya_RE1GBRST2lRQX7G6lA0_jfBDrmvOc/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyMTMz/NTQwLTE3MzA0NzUz/MjYtMjI5My5qcGVn.jpeg"
 genres: ["Electronic"]
 styles: ["Downtempo", "Future Jazz"]
 ---

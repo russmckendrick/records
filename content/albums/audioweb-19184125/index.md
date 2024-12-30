@@ -17,7 +17,10 @@ genres: ["Hip Hop", "Rock", "Reggae"]
 styles: ["Dub", "Alternative Rock"]
 ---
 
-Audioweb is the eponymously titled debut album from the Manchester-based band.  The album was released in the UK in October 1996, along with a 2CD limited edition version containing a bonus disc of 6 live tracks.The album was produced by Kevin Bacon and Jonathan Quarmby with additional production and programming by Audioweb.
+Audioweb is the eponymously titled debut album from the Manchester-based band.  The album was released in the UK in October 1996, along with a 2CD limited edition version containing a bonus disc of 6 live tracks.
+The album was produced by Kevin Bacon and Jonathan Quarmby with additional production and programming by Audioweb.
+
+
     
     
 
@@ -43,7 +46,6 @@ Audioweb is the eponymously titled debut album from the Manchester-based band.  
 {{< youtube id="4bl1IbUH1A8" title="Sleeper" >}}<br>
 ### More Videos
 
-- [AUDIOWEB - SLEEPER (1996)](https://www.youtube.com/watch?v=Kcq5cbjbdoU)
 - [Yeah?](https://www.youtube.com/watch?v=a6dbwCFFP9E)
 - [Into My World](https://www.youtube.com/watch?v=5uKcORkJeR4)
 - [Faker](https://www.youtube.com/watch?v=-VaNSckSJII)
@@ -53,6 +55,7 @@ Audioweb is the eponymously titled debut album from the Manchester-based band.  
 - [Bankrobber](https://www.youtube.com/watch?v=epm2Ml_FrEw)
 - [Lover](https://www.youtube.com/watch?v=RSeZFH8yD7Y)
 - [Drip Feed / Untitled Dialogue (Medley)](https://www.youtube.com/watch?v=TDLHsvDsmXE)
+- [AUDIOWEB - SLEEPER (1996)](https://www.youtube.com/watch?v=Kcq5cbjbdoU)
 
 ## Release Images
 {{< imageGrid >}}

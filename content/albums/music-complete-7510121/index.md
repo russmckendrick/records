@@ -13,19 +13,22 @@ cover:
     alt: "Music Complete by New Order"
     caption: "Music Complete by New Order"
 additional_images:
-    - "https://i.discogs.com/SYdkf99e6ypydfuiGEOpp5SYf_y-mczcuupJol_fCDA/rs:fit/g:sm/q:90/h:611/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc1MTAx/MjEtMTQ0Mjk1Njk2/OC0yNzM2LmpwZWc.jpeg"
-    - "https://i.discogs.com/SXTJEMTZr6Et9QRViQawKhYhpddBeq17Av7NO807Dzs/rs:fit/g:sm/q:90/h:611/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc1MTAx/MjEtMTQ0Mjk1Njk2/OC04ODQ4LmpwZWc.jpeg"
+    - "https://i.discogs.com/zxN9-Wjx1HYS7lHLt44QRd9BgtfLRoH2FP-w3UaxV2U/rs:fit/g:sm/q:90/h:600/w:589/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc1MTAx/MjEtMTQ0Mjk1Njk2/OC0yNzM2LmpwZWc.jpeg"
+    - "https://i.discogs.com/WistxvIgY125GOa-Rv32KJPGGji1cY3c-DOYgDBHkFA/rs:fit/g:sm/q:90/h:600/w:589/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc1MTAx/MjEtMTQ0Mjk1Njk2/OC04ODQ4LmpwZWc.jpeg"
     - "https://i.discogs.com/n7NjIx6u5rc8N0XnJVhuICVhECHOle9DFHGTa36JJjo/rs:fit/g:sm/q:90/h:436/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc1MTAx/MjEtMTQ4NzQyNTEz/NC0xNTg5LmpwZWc.jpeg"
     - "https://i.discogs.com/dtaPen6dPg09iJUUU6a_aBbb7Z2EPJrPiV8Rh_JOP2c/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc1MTAx/MjEtMTU2MTYzNTcy/Mi02MDU5LmpwZWc.jpeg"
     - "https://i.discogs.com/fxyDpHjBFjDDLIk3FwaRZk1kg1FLpb89WamUm125ma0/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc1MTAx/MjEtMTU2MTYzNTcy/NC00NDM2LmpwZWc.jpeg"
-    - "https://i.discogs.com/Ex3LuhNY0ahJKle2cGupjM7WEEZSMhFvJ3ug8QkSUMg/rs:fit/g:sm/q:90/h:603/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc1MTAx/MjEtMTU2MTYzNTcy/NS0xNzk4LmpwZWc.jpeg"
+    - "https://i.discogs.com/D2MfKtXuV3qK37KNwKb0j4fbPGUvXx0p4Bvng4S3TRU/rs:fit/g:sm/q:90/h:600/w:596/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc1MTAx/MjEtMTU2MTYzNTcy/NS0xNzk4LmpwZWc.jpeg"
     - "https://i.discogs.com/gluJYKT2Mm51TV-TFKqbkJO4UrSiVtPPlS4IT1hZgGg/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc1MTAx/MjEtMTU2MTYzNTcy/NC0zNTU1LmpwZWc.jpeg"
 genres: ["Electronic", "Rock"]
 styles: ["Alternative Rock", "Electro", "Synth-pop", "Tech House"]
 ---
 
-Dance, it seems, can be a healer. New Order return to the propulsive modern electronica they pretty much invented on a spectacular tenth album that nimbly outmanoeuvres both the spectres of a tragic past and an acrimonious recent history. It’s their first record without founding member Peter Hook, but a handful of shrewd cameos (notably Iggy Pop’s rumbling monologue on the sparse, spooky “Stray Dog”) add to the feel of cathartic, communal celebration. Expect to fall hard for “Singularity”, which rolls back the years to reverberate with the urgent majesty of a packed Hacienda.
-    
+Since the beginning, New Order thrived on a certain amount of internal friction, particularly between co-founders Bernard Sumner and Peter Hook. Thirty-five years on, the group’s first effort following Hook’s contemptuous departure, 2015’s <i>Music Complete</i> sounds surprisingly...complete. Hailed as a return to form, the album emphasises the electronic side of the band’s dance-rock duality—it’s more “Mr. Disco”, less “Rock the Shack”. That might be due to the return of original keyboardist Gillian Gilbert, who’d spent the 2000s raising her children (their father, drummer Stephen Morris, remained in the band). It was Gilbert and Morris’ commitment to early computers and other studio innovations that drove New Order’s early-1980s grooves, and their return as an unofficial writing partnership cannot be underestimated.
+
+There’s also the addition of guitarist Phil Cunningham and bass player Tom Chapman—two younger musicians who’d grown up listening to New Order, and who now comprised a second writing duo. <i>Music Complete</i> also features help from Tom Rowlands of The Chemical Brothers, who co-wrote and co-produced “Singularity” and “Unlearn This Hatred”—two tracks that brilliantly split the difference between New Order’s 1980s electro-dance sounds and the Chemicals’ 1990s electronica style. Another major change: New Order had recently signed to Mute, the only UK post-punk label as historically consequential as the band’s storied former home of Factory Records. The band members had spent years in a major-label limbo, and it’s hard not to view the new professional relationship as a sort of homecoming for New Order. Whatever the confluence of circumstances, <i>Music Complete</i> is an unexpectedly robust re-introduction to a celebrated group in its third act.
+        
+        
     
 
 
@@ -49,7 +52,10 @@ Dance, it seems, can be a healer. New Order return to the propulsive modern elec
 ## Videos
 ### New Order - Singularity (Official Music Video)
 {{< youtube id="9xLvF6xoG30" title="New Order - Singularity (Official Music Video)" >}}<br>
+### More Videos
 
+- [New Order - Restless (Official Video)](https://www.youtube.com/watch?v=8c_3Afx9ZGE)
+- [New Order - Tutti Frutti (Official Video)](https://www.youtube.com/watch?v=koXE2TuQ1_c)
 
 ## Release Images
 {{< imageGrid >}}
@@ -57,6 +63,7 @@ Dance, it seems, can be a healer. New Order return to the propulsive modern elec
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
+| Wikipedia URL | https://en.wikipedia.org/wiki/Music_Complete |
 | Format         | Vinyl 2× LP Album |
 | Label          | Mute |
 | Catalog Number | STUMM390 |

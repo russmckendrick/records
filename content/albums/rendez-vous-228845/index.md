@@ -4,7 +4,7 @@ artist_name: "Jean-Michel Jarre"
 artist: "jean-michel-jarre"
 album_name: "Rendez-Vous"
 date: 2017-06-14T07:25:40.000000Z
-release_date: "2015-08-28"
+release_date: "2015-10-16"
 release_id: "228845"
 slug: "rendez-vous-228845"
 hideSummary: true
@@ -13,15 +13,15 @@ cover:
     alt: "Rendez-Vous by Jean-Michel Jarre"
     caption: "Rendez-Vous by Jean-Michel Jarre"
 additional_images:
-    - "https://i.discogs.com/uc4JMlZKoefC-gJ2jk0nT3xyTeNGBy-hunifY8l7NXQ/rs:fit/g:sm/q:90/h:602/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyODg0/NS0xNDI5NTYwNTc2/LTIzODIuanBlZw.jpeg"
-    - "https://i.discogs.com/bGAvErBK4UlnMqPcw43MWs9cADnogBYqdIOsuUJmAsM/rs:fit/g:sm/q:90/h:605/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyODg0/NS0xNDI5NTYwNTc3/LTEyNzcuanBlZw.jpeg"
-    - "https://i.discogs.com/j4y-oXZufKIKtZEiDsQbnjiAftVY0mW4Uy7_HSND1e4/rs:fit/g:sm/q:90/h:600/w:584/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyODg0/NS0xNDA0NTAxODc0/LTc4NTEuanBlZw.jpeg"
-    - "https://i.discogs.com/ClhBXwJ1-vu0RuaTlYxFkC6P4zfVTgpWH8NttZOzibw/rs:fit/g:sm/q:90/h:600/w:595/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyODg0/NS0xNDA0NTAxODc1/LTU2ODMuanBlZw.jpeg"
+    - "https://i.discogs.com/AMES9qlbz7QfbIU6f4z5HDixsNhZWCNDpNy5PiCqxmI/rs:fit/g:sm/q:90/h:600/w:597/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyODg0/NS0xNDI5NTYwNTc2/LTIzODIuanBlZw.jpeg"
+    - "https://i.discogs.com/IO01NolS8MP3qWvcH3G3H8Pnkrm2wl9P3kdQs7Gn_6M/rs:fit/g:sm/q:90/h:600/w:594/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyODg0/NS0xNDI5NTYwNTc3/LTEyNzcuanBlZw.jpeg"
+    - "https://i.discogs.com/tk5yWfqjozmp6VrquA6sb2dPrtWcPxcPV0rcprqumxc/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyODg0/NS0xNjk0MzY2NzM4/LTc0ODQuanBlZw.jpeg"
+    - "https://i.discogs.com/6lIbV_aMtpoPJjUyeTWwlRjhHiyVv9vK0NBiVGHqfdg/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyODg0/NS0xNjk0MzY2NzQz/LTg4MzQuanBlZw.jpeg"
 genres: ["Electronic"]
 styles: ["Leftfield", "Experimental", "Ambient"]
 ---
 
-Jean-Michel Jarre's electronic epics have always tended toward the spacey, but <i>Rendez-Vous</i> goes clear into the cosmos. Designed for play onboard space shuttle missions, the six-part suite has a weightless, soaring quality appropriate for that otherworldly setting. The final section is dedicated to Jarre's friend Ron McNair, an astronaut who died in the 1986 Challenger explosion. With a haunting saxophone solo atop a synthesised heartbeat, the piece becomes an emotional memorial and a somber conclusion to the interplanetary trip.
+On <i>Electronica 1: The Time Machine</i>, French synthesizer legend Jean Michel Jarre explores electronic music’s past with an eye toward its future—and with a few notable friends in tow. “Glory”, with M83, is all airy, modern electronic pop while “Zero Gravity”, Jarre’s Tangerine Dream collaboration, is a meandering cinematic soundscape that recalls his new-age roots. Elsewhere, he contrasts those lighter sounds with emotive trance flourishes and drops some thudding kicks and eerie, electro-inspired synths on the Gesaffelstein-assisted “Conquistador”.
         
         
     
@@ -36,21 +36,20 @@ Jean-Michel Jarre's electronic epics have always tended toward the spacey, but <
 6. Last Rendez-vous: "Ron's Piece" (6:04)
 
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/rendez-vous/1027735025" >}}<br>
+{{< applemusic url="https://music.apple.com/gb/album/electronica-1-the-time-machine-deluxe-edition/1012484745" >}}<br>
 
 
 ## Videos
-### Jean Michel Jarre - Rendez Vous
-{{< youtube id="qcf3eGVPlZE" title="Jean Michel Jarre - Rendez Vous" >}}<br>
+### Jean Michel Jarre - Rendez-vous
+{{< youtube id="URaWRK7vqDE" title="Jean Michel Jarre - Rendez-vous" >}}<br>
 ### More Videos
 
-- [Jean Michel Jarre - First Rendez - Vous](https://www.youtube.com/watch?v=iFcmxcO7AFg)
-- [Rendez-vous, Second Rendez-Vous](https://www.youtube.com/watch?v=6ZxBuqStdTA)
-- [Jean Michel Jarre - Third Rendez - Vous](https://www.youtube.com/watch?v=NbCk8MWFnnM)
-- [Jean Michel Jarre - Fourth Rendez - Vous](https://www.youtube.com/watch?v=hKirGBRLQik)
-- [Rendez-vous, Fifth Rendez-Vous](https://www.youtube.com/watch?v=fvXl8s4f518)
+- [First Rendez Vous](https://www.youtube.com/watch?v=VD6OCOVigfo)
+- [Second Rendez-Vous (Remastered)](https://www.youtube.com/watch?v=v6lPTqPHicE)
+- [Third Rendez Vous (Remastered)](https://www.youtube.com/watch?v=wwxlFtj85aA)
+- [Fourth Rendez-Vous](https://www.youtube.com/watch?v=9ggp1YJh4bA)
+- [Fifth Rendez Vous (Remastered)](https://www.youtube.com/watch?v=POUsIMpRvhI)
 - [Last Rendez Vous (Remastered)](https://www.youtube.com/watch?v=kJDzaG1AJco)
-- [Jean Michel Jarre - Rendez-vous](https://www.youtube.com/watch?v=URaWRK7vqDE)
 
 ## Release Images
 {{< imageGrid >}}
@@ -59,8 +58,8 @@ Jean-Michel Jarre's electronic epics have always tended toward the spacey, but <
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Rendez-Vous_(Jean-Michel_Jarre_album) |
-| Format         | Vinyl LP Album |
+| Format         | Vinyl LP Album Stereo |
 | Label          | Polydor |
 | Catalog Number | POLH 27 |
-| Notes | Ron McNair's part played by Pierre Gossez.  The record is dedicated to Ron McNair and the six Astronauts who died aboard the Challenger Shuttle on 28th January, 1986.    The label carries the catalogue number POLH 27 as well as (829 125-1).    Roland JX-8P incorrectly written as Roland JX BP in credits for track A1. |
+| Notes | Ron McNair's part played by Pierre Gossez. The record is dedicated to Ron McNair and the six Astronauts who died aboard the Challenger Shuttle on 28th January, 1986.  Catalogue numbers: POLH 27 – on sleeve and label 829 125-1 – on label in parentheses  Roland JX-8P incorrectly written as Roland JX BP in credits for track A1.  ℗ 1986 Disques Dreyfus, Paris  Runout A-side variant 3 has "420" under the X's. |
 | Discogs URL    | [Jean-Michel Jarre - Rendez-Vous](https://www.discogs.com/release/228845-Jean-Michel-Jarre-Rendez-Vous) |

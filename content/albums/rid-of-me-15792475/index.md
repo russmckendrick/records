@@ -13,19 +13,20 @@ cover:
     alt: "Rid Of Me by PJ Harvey"
     caption: "Rid Of Me by PJ Harvey"
 additional_images:
-    - "https://i.discogs.com/H-eTFMw9h3sXvk4cp1tvBj6Bm8ROZAGXTYYVKJGnRZk/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1Nzky/NDc1LTE1OTc4ODUz/NTctMzQ1OS5qcGVn.jpeg"
+    - "https://i.discogs.com/IC_sBwI9GoSS79zRXC5dWIWOqr3rsKZlg8QbYruqKQA/rs:fit/g:sm/q:90/h:586/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1Nzky/NDc1LTE3MjQzODUx/NTQtNTg0NC5qcGVn.jpeg"
     - "https://i.discogs.com/FJmMH8sTKuNcjRcaag12-NZ8FotNNPrfyofb3i5mQYQ/rs:fit/g:sm/q:90/h:593/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1Nzky/NDc1LTE1OTgwMDQz/MDItODU4My5qcGVn.jpeg"
     - "https://i.discogs.com/dN5ePrkEYnZfk4omvx9z6j5hRn0ZAEd9YoPq300L9z4/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1Nzky/NDc1LTE1OTgwMDQz/MDgtODM4Ny5qcGVn.jpeg"
     - "https://i.discogs.com/RlKAxwGN_5e_xPMQHQ7PTRlwRGCK3QHlcDKGi5T1cu8/rs:fit/g:sm/q:90/h:600/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1Nzky/NDc1LTE1OTgwMDQz/MTEtNzc2NC5qcGVn.jpeg"
     - "https://i.discogs.com/HRa72ZNozImxlbEkrgXETW-UI3025JR6zi6BIjqF9Sk/rs:fit/g:sm/q:90/h:587/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1Nzky/NDc1LTE1OTgwMDQz/MTctNTYzMi5qcGVn.jpeg"
     - "https://i.discogs.com/0KzoSDkmSWNwdofu-NBarZ9264o6GFGeK8C-1JxkaFI/rs:fit/g:sm/q:90/h:590/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1Nzky/NDc1LTE1OTgwMDQz/MjAtNDk2Ny5qcGVn.jpeg"
     - "https://i.discogs.com/Ext4c79byi1Bl8ahC8cCk5VXEvductWlesPiWcz5664/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1Nzky/NDc1LTE2MTkzNDIx/NTItMzE2My5qcGVn.jpeg"
+    - "https://i.discogs.com/wbreGxJ0oDP-NNTmveWk7HGDFiKflsvgthi4qvY7qYY/rs:fit/g:sm/q:90/h:590/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1Nzky/NDc1LTE2OTQzNTE3/MDktNjc3Mi5qcGVn.jpeg"
 genres: ["Rock"]
 styles: ["Indie Rock"]
 ---
 
-Rid of Me is the second studio album by English singer-songwriter and musician PJ Harvey. It was released by Island Records in May 1993, approximately one year after the release of her critically acclaimed debut album Dry. It marked a departure from Harvey's previous songwriting, being more raw and aggressive than its predecessor.
-The songs on Rid of Me were performed by Harvey's eponymous trio, consisting of Harvey on guitar and vocals, Rob Ellis on drums and background vocals, and Steve Vaughan on bass. Most of the songs on the album were recorded by Steve Albini, and it was the last album they recorded as a trio before disbanding in late 1993. Rid of Me was met with critical acclaim, and is cited as one of the greatest albums of all time, ranking at number 153 on the 2020 version of Rolling Stone's 500 Greatest Albums of All Time (up from 406 on the list's previous edition).
+Rid of Me is the second studio album by the English singer-songwriter PJ Harvey, released on 26 April 1993 by Island Records, approximately one year after the release of her critically acclaimed debut studio album Dry (1992). It marked a departure from Harvey's previous songwriting, being more raw and aggressive than its predecessor.
+The songs on Rid of Me were performed by Harvey's eponymous trio, consisting of Harvey on guitar and vocals, Rob Ellis on drums and backing vocals, and Steve Vaughan on bass guitar. Most of the songs on the album were recorded by Steve Albini, and it was the last album they recorded as a trio before disbanding in late 1993. Rid of Me was met with critical acclaim, and is widely regarded as one of the greatest albums of the 1990s and of all time, ranking at number 153 on the 2020 version of Rolling Stone's 500 Greatest Albums of All Time (up from 406 on the list's previous edition).
 
 
         
@@ -54,19 +55,19 @@ The songs on Rid of Me were performed by Harvey's eponymous trio, consisting of 
 
 
 ## Videos
-### PJ Harvey - Man-Size
-{{< youtube id="WuJE40OBt48" title="PJ Harvey - Man-Size" >}}<br>
+### Rid Of Me
+{{< youtube id="8PlaNe3mXl8" title="Rid Of Me" >}}<br>
 ### More Videos
 
-- [Rid Of Me](https://www.youtube.com/watch?v=8PlaNe3mXl8)
-- [PJ Harvey - 50 Ft Queenie](https://www.youtube.com/watch?v=jKLiU7Hq93w)
 - [Missed](https://www.youtube.com/watch?v=U7ezOM1zvo4)
 - [Legs](https://www.youtube.com/watch?v=n60TTqe9fJ8)
 - [Rub 'Til It Bleeds](https://www.youtube.com/watch?v=a5x8p22UU_4)
 - [Hook](https://www.youtube.com/watch?v=NuxosL6KKeA)
 - [Man-Size Sextet](https://www.youtube.com/watch?v=tRFul2yAJzE)
 - [Highway '61 Revisited](https://www.youtube.com/watch?v=UKQLVrtWN2M)
+- [PJ Harvey - 50 Ft Queenie](https://www.youtube.com/watch?v=jKLiU7Hq93w)
 - [Yuri-G](https://www.youtube.com/watch?v=-e7T0iEWwYA)
+- [PJ Harvey - Man-Size](https://www.youtube.com/watch?v=WuJE40OBt48)
 - [Dry](https://www.youtube.com/watch?v=lXYHQJX9O_Q)
 - [Me-Jane](https://www.youtube.com/watch?v=IBJerSPT9h8)
 - [Snake](https://www.youtube.com/watch?v=aAIntnlrvfE)

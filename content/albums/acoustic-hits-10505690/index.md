@@ -21,9 +21,9 @@ additional_images:
     - "https://i.discogs.com/JDBr5FjOdRSBvTi7zdOOLW-1WSR54aojla4yQ6hIKHQ/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNTA1/NjkwLTE1NDUwNjA1/NTQtMjkwOC5qcGVn.jpeg"
     - "https://i.discogs.com/8RoydEC45ESpKFugGsg96gJJbh2v6TyT0-drC6aG_F8/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNTA1/NjkwLTE1NDUwNjA1/NDgtMzA0Ni5qcGVn.jpeg"
     - "https://i.discogs.com/U44wcrWsVJpx8jn6jgmH2bVibQwfN-SEF8HIeTQJOyg/rs:fit/g:sm/q:90/h:587/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNTA1/NjkwLTE1NDUwNjA1/ODgtODM0OS5qcGVn.jpeg"
-    - "https://i.discogs.com/0y_rePVaNQoSAAFHs0oMcbuO8xh-ipd71FOceZaeXcg/rs:fit/g:sm/q:90/h:607/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNTA1/NjkwLTE1NDUwNjA1/OTItNDMyMC5qcGVn.jpeg"
-    - "https://i.discogs.com/fbT45CvoLfkdg7JO-E4gEecxGvmBJqVe-P2gkNdOcDA/rs:fit/g:sm/q:90/h:601/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNTA1/NjkwLTE1NDUwNjA1/OTgtMjI2MC5qcGVn.jpeg"
-    - "https://i.discogs.com/Oqrl_xlYhsjR5IxtYSwREiNKuf7Wz4-FKds6MPxNlRs/rs:fit/g:sm/q:90/h:606/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNTA1/NjkwLTE1NDUwNjA1/ODgtMjAxNC5qcGVn.jpeg"
+    - "https://i.discogs.com/h0-m4njqpJfvQ4BLN3q0InVUyrvYU6eMvSayCQrjm_Q/rs:fit/g:sm/q:90/h:600/w:593/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNTA1/NjkwLTE1NDUwNjA1/OTItNDMyMC5qcGVn.jpeg"
+    - "https://i.discogs.com/v5mM-6JxAskoJdHwIUUxWPKrq90W3F3q42uMu4vZqCQ/rs:fit/g:sm/q:90/h:600/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNTA1/NjkwLTE1NDUwNjA1/OTgtMjI2MC5qcGVn.jpeg"
+    - "https://i.discogs.com/dnE7HSuTrjQAiaFgTOw0VXo6RchqXHtwgA5YvC9Ks70/rs:fit/g:sm/q:90/h:600/w:593/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNTA1/NjkwLTE1NDUwNjA1/ODgtMjAxNC5qcGVn.jpeg"
     - "https://i.discogs.com/y6T7toAoWBhgwWFUtFt75Bj9XW80jW7-q2bJnNBCFFY/rs:fit/g:sm/q:90/h:584/w:583/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNTA1/NjkwLTE2NTAzOTU4/MjAtNzUyOC5qcGVn.jpeg"
 genres: ["Rock"]
 styles: ["Acoustic", "Alternative Rock", "Pop Rock", "New Wave"]
@@ -52,7 +52,7 @@ styles: ["Acoustic", "Alternative Rock", "Pop Rock", "New Wave"]
 18. Just Say Yes
 
 ## Apple Music
-{{< applemusic url="https://music.apple.com/us/album/acoustic-hits/1753357310" >}}<br>
+{{< applemusic url="https://music.apple.com/gb/album/the-cure-greatest-hits/1440932660" >}}<br>
 
 
 
@@ -66,5 +66,5 @@ styles: ["Acoustic", "Alternative Rock", "Pop Rock", "New Wave"]
 | Format         | Vinyl 2× LP Album Reissue Repress (180) |
 | Label          | Fiction Records |
 | Catalog Number | 572 634-0 |
-| Notes | Black vinyl repress of the [url=https://www.discogs.com/The-Cure-Acoustic-Hits/release/10171635]picture disc[/url] (reissue) released in April 2017 as Record Store Day exclusive. Originally released in 2001 as the second disc of "[m=32194]" 2xCD edition.  As on front sticker: "The Cure Acoustic Hits 180gram Vinyl Contains download voucher 572 634-0"  Released in gatefold sleeve.  Download Voucher: [r16766940] |
+| Notes | Black vinyl repress of the [url=https://www.discogs.com/The-Cure-Acoustic-Hits/release/10171635]picture disc[/url] (reissue) released in April 2017 as Record Store Day exclusive. Originally released in 2001 as the second disc of "[m=32194]" 2xCD edition.  As on front sticker: "The Cure Acoustic Hits 180gram Vinyl Contains download voucher 572 634-0"  Released in gatefold sleeve.  Download Voucher: [r16766940]  The runouts are stamped. |
 | Discogs URL    | [The Cure - Acoustic Hits](https://www.discogs.com/release/10505690-The-Cure-Acoustic-Hits) |

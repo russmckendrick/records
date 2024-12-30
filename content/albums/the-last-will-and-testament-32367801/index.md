@@ -16,6 +16,8 @@ additional_images:
     - "https://i.discogs.com/LW0J95-a9fZif5mciyZ9Pco1KxBCwHdJ8SXo8ePAgZA/rs:fit/g:sm/q:90/h:600/w:588/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyMzY3/ODAxLTE3MzIzMjIz/MjItNjY2Ni5qcGVn.jpeg"
     - "https://i.discogs.com/qVPz65SdMETRHMkEWHKjNu4GDvYiTMk33S0eE6zYWrQ/rs:fit/g:sm/q:90/h:553/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyMzY3/ODAxLTE3MzIzNjYz/NzgtMjE4MS5wbmc.jpeg"
     - "https://i.discogs.com/meVmvJo493PYfgWcsfJ8rs1VDP69Rz3X3vquVwPZZdg/rs:fit/g:sm/q:90/h:594/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyMzY3/ODAxLTE3MzI4MDQ1/NDMtNjkzOS5qcGVn.jpeg"
+    - "https://i.discogs.com/V5fnkRieuPuMFhQc52_p4AlCHJJQJoeHAGE-x-kI4Kw/rs:fit/g:sm/q:90/h:600/w:338/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyMzY3/ODAxLTE3MzUxMTUy/MzUtMjAzOC5qcGVn.jpeg"
+    - "https://i.discogs.com/sIxwJdxL51M37icc9linlXR6_TPo1tjGuLoMVD-apso/rs:fit/g:sm/q:90/h:495/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyMzY3/ODAxLTE3MzUxMjA1/OTctNDMwMS5qcGVn.jpeg"
 genres: ["Rock"]
 styles: ["Progressive Metal", "Death Metal", "Prog Rock"]
 ---
@@ -53,13 +55,13 @@ For their 14th album, Swedish prog wizards Opeth created a concept record around
 
 
 ## Tracklisting
-1. §1
-2. §2
-3. §3
-4. §4
-5. §5
-6. §6
-7. §7
+1. §I
+2. §II
+3. §III
+4. §IV
+5. §V
+6. §VI
+7. §VII
 8. A Story Never Told
 
 ## Apple Music
@@ -80,7 +82,7 @@ For their 14th album, Swedish prog wizards Opeth created a concept record around
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/The_Last_Will_and_Testament |
-| Format         | Vinyl 2× LP 45 RPM Album (Rough Seas) |
+| Format         | Vinyl 2× 12" 45 RPM Album (Rough Seas) |
 | Label          | Reigning Phoenix Music |
 | Catalog Number | 1.0155 |
 | Notes | Indie exclusive variant. Gatefold sleeve.  Cat.number 1.0155 on spine, cat.number 1.0155.101.08 on top of barcode. |

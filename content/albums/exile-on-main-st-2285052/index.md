@@ -4,7 +4,7 @@ artist_name: "The Rolling Stones"
 artist: "the-rolling-stones"
 album_name: "Exile On Main St."
 date: 2015-08-09T08:42:13.000000Z
-release_date: "1972-05-12"
+release_date: "2010-01-01"
 release_id: "2285052"
 slug: "exile-on-main-st-2285052"
 hideSummary: true
@@ -31,10 +31,12 @@ genres: ["Rock"]
 styles: ["Blues Rock", "Country Rock", "Rock & Roll"]
 ---
 
-Exile on Main St. is the 10th British and 12th American studio album by the English rock band the Rolling Stones, released on 12 May 1972 by Rolling Stones Records. It is viewed as a culmination of a string of the band's most critically successful albums, following the releases of Beggars Banquet (1968), Let It Bleed (1969) and Sticky Fingers (1971). The album is known for its murky, inconsistent sound due to more disjointed musicianship and a party-like atmosphere heard in several tracks.
-Recording began in 1969 at Olympic Studios in London during sessions for Sticky Fingers, with the main sessions beginning in mid-1971 at a rented villa in the South of France named Nellcôte after the band became tax exiles. Due to the lack of a professional studio nearby they worked with a mobile recording studio and recorded in-house. The loose and unorganised Nellcôte sessions went on for hours into the night, with personnel varying greatly from day to day. Recording was completed with overdub sessions at Sunset Sound in Los Angeles and included additional musicians such as pianist Nicky Hopkins, saxophonist Bobby Keys, drummer and producer Jimmy Miller, and horn player Jim Price. The results produced enough songs for the Stones' first double album.
-The band continued a back-to-basics direction heard in Sticky Fingers after the experimental instrumentation of previous albums, yet Exile exhibited a wider range of influences in blues, rock and roll, swing, country and gospel, while the lyrics explored themes related to hedonism, fame, sex and time. The album contains frequently performed concert staples and topped the charts in six countries, including the UK, US and Canada. It spawned the hit songs "Happy", which featured a rare lead vocal from Keith Richards, country music ballad "Sweet Virginia", and worldwide top-ten hit "Tumbling Dice". The album's artwork, a collage of various images, reflects the Rolling Stones as "runaway outlaws using the blues as its weapon against the world". After its release, the Stones embarked on an American tour, gaining infamy for the riotous audience and performances.
-Exile on Main St. was originally met with mixed reviews before receiving strong reassessments by the end of the 1970s. It has since been recognized as a pivotal hard rock album, viewed by many critics as the Rolling Stones' best work and as one of the greatest albums of all time. Rolling Stone magazine has ranked the album number 7 on its list of the 500 Greatest Albums of All Time in 2003 and 2012, and dropping to number 14 in the 2020 edition, consistently as the highest rated Rolling Stones album on the list. In 2012, the album was inducted into the Grammy Hall of Fame, the band's fourth album to be inducted. A remastered and expanded version of the album was released in 2010 featuring a bonus disc with 10 new tracks. Unusual for a re-release, it also charted highly at the time of its release, reaching number one in the UK and number two in the US.
+Exile on Main St. is the tenth studio album by the English rock band the Rolling Stones, released on 12 May 1972, by Rolling Stones Records. The 10th released in the UK and 12th in the US, it is viewed as a culmination of a string of the band's most critically successful albums, following Beggars Banquet (1968), Let It Bleed (1969) and Sticky Fingers (1971). Exile on Main St. is known for its murky, inconsistent sound due to more disjointed musicianship and production, along with a party-like atmosphere heard in several tracks.
+Recording began in 1969 at Olympic Studios in London during sessions for Sticky Fingers, with the main sessions beginning in mid-1971 at Nellcôte, a rented villa in the South of France, after the band members became tax exiles. Due to the lack of a professional studio nearby, they worked with a mobile recording studio and recorded in-house. The loose and unorganised Nellcôte sessions went on for hours into the night, with personnel varying greatly from day to day. Recording was completed with overdub sessions at Sunset Sound in Los Angeles and included additional musicians such as the pianist Nicky Hopkins, the saxophonist Bobby Keys, the drummer and producer Jimmy Miller, and the horn player Jim Price. The results produced enough songs for the Stones' first double album.
+The band continued a back-to-basics direction heard in Sticky Fingers after the experimental instrumentation of previous albums, yet Exile exhibited a wider range of influences in blues, rock and roll, swing, country and gospel, while the lyrics explored themes related to hedonism, sex and time. The album contains frequently-performed concert staples and topped the charts in six countries, including the UK, US and Canada. It included the singles "Happy", which featured lead vocals from Keith Richards, the country ballad "Sweet Virginia", and the worldwide top-ten hit "Tumbling Dice". The album's artwork, a collage of various images, reflected the Rolling Stones' prideful rebellion. After its release, the Stones embarked on an American tour, gaining infamy for riotous audiences and performances.
+Exile on Main St. was originally met with mixed reviews before receiving strong reassessments by the end of the 1970s. It has since been recognized as a pivotal hard rock album, viewed by many critics as the Rolling Stones' best work and as one of the greatest albums of all time. Rolling Stone magazine ranked the album number 7 on its list of the "500 Greatest Albums of All Time" in 2003 and 2012, with it dropping to number 14 in the 2020 edition, consistently as the highest-ranked Rolling Stones album on the list. In 2012, the album was inducted into the Grammy Hall of Fame, the band's fourth album to be inducted. A remastered and expanded version of the album was released in 2010 featuring a bonus disc with 10 new tracks. Unusual for a re-release, it also charted highly at the time of its release, reaching number one in the UK and number two in the US.
+
+
         
         
     
@@ -61,12 +63,12 @@ Exile on Main St. was originally met with mixed reviews before receiving strong 
 18. Soul Survivor (3:46)
 
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/exile-on-main-st-2010-remaster/1440872228" >}}<br>
+{{< applemusic url="https://music.apple.com/gb/album/exile-on-main-street/1470962069" >}}<br>
 
 
 ## Videos
-### The Rolling Stones - Ventilator Blues (2010 European Vinyl)
-{{< youtube id="N4hVZj5xlvc" title="The Rolling Stones - Ventilator Blues (2010 European Vinyl)" >}}<br>
+### The Rolling Stones   Exile on Main St Full Album 1972
+{{< youtube id="IQz67BJEJIU" title="The Rolling Stones   Exile on Main St Full Album 1972" >}}<br>
 
 
 ## Release Images

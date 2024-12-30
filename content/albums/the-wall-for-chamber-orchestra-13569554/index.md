@@ -13,9 +13,9 @@ cover:
     caption: "The Wall For Chamber Orchestra by Pink Floyd"
 additional_images:
     - "https://i.discogs.com/O9xRZzCzdj9tC8v0fS9p8QYDcbR6Q0jGEP2n3hHQqTc/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNTY5/NTU0LTE1NTY3MDIy/NTAtNjE2MS5qcGVn.jpeg"
-    - "https://i.discogs.com/moY5-QHM2QWJcmWmHACb-tOl8ZuI59p0USySzqO1-Mk/rs:fit/g:sm/q:90/h:602/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNTY5/NTU0LTE1NTY3MDIy/NzAtNDYwMS5qcGVn.jpeg"
-    - "https://i.discogs.com/sfyOGBsgAW0fDr8Ady1aPVjHIG3jQDK5dTqDk0EQMqw/rs:fit/g:sm/q:90/h:613/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNTY5/NTU0LTE1ODM1NzIw/MjMtOTc3MS5wbmc.jpeg"
-    - "https://i.discogs.com/VywoC4iyaO-0niuzt1CPWCCumQceB8nl3iEJN52g4to/rs:fit/g:sm/q:90/h:613/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNTY5/NTU0LTE1ODM1NzIw/MjMtMjc5NC5wbmc.jpeg"
+    - "https://i.discogs.com/3PAxPz-yECVWhjfeYkqLr8x4BzTxXBeTUOnQU5S0NmY/rs:fit/g:sm/q:90/h:600/w:597/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNTY5/NTU0LTE1NTY3MDIy/NzAtNDYwMS5qcGVn.jpeg"
+    - "https://i.discogs.com/RrA49oncG4wboZ9cSnOOavHdQgP7u7VGPpnHFMsOCm8/rs:fit/g:sm/q:90/h:600/w:587/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNTY5/NTU0LTE1ODM1NzIw/MjMtOTc3MS5wbmc.jpeg"
+    - "https://i.discogs.com/yIMRPTlVEYT3jyZXWxDokCITZEF4VHopSigLpZoB9u8/rs:fit/g:sm/q:90/h:600/w:587/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNTY5/NTU0LTE1ODM1NzIw/MjMtMjc5NC5wbmc.jpeg"
 genres: ["Classical"]
 styles: []
 ---
@@ -39,6 +39,8 @@ styles: []
 14. The Trial
 15. Outside The Wall
 
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/easy-contest-solos-vol-1-trombone/1187447336" >}}<br>
 
 
 

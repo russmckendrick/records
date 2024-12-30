@@ -21,7 +21,7 @@ additional_images:
     - "https://i.discogs.com/nWsOKl_anOSr3Ar1RIrXLuhSNvRuUht29r4z49QB08g/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkwMTY0/MTMtMTY1MzcxODIw/Ni04NjI1LmpwZWc.jpeg"
     - "https://i.discogs.com/l-g9MoCzvN727pOV4C-I4J7kvC5a68h-ayCetNtqiRw/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkwMTY0/MTMtMTY1MzcxODIw/Ni00Njk5LmpwZWc.jpeg"
     - "https://i.discogs.com/gmqRoZJZgZOLVUYX7-n_JvP9sUJGY4wHDvdV2e9xpjI/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkwMTY0/MTMtMTY1MzcxODIw/My01NDEzLmpwZWc.jpeg"
-    - "https://i.discogs.com/F854nxgzfOZfzBNyNx5T9EgT8nbJlicm465Bipaw8-U/rs:fit/g:sm/q:90/h:1214/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkwMTY0/MTMtMTY1MzcxODE5/NS0zODI0LmpwZWc.jpeg"
+    - "https://i.discogs.com/8dm4LrkTE3px2mpikEicxe5i3UGrlwTTNjXBAP0Ilgw/rs:fit/g:sm/q:90/h:600/w:296/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkwMTY0/MTMtMTY1MzcxODE5/NS0zODI0LmpwZWc.jpeg"
 genres: ["Electronic", "Stage & Screen"]
 styles: ["Soundtrack", "Score"]
 ---
@@ -68,6 +68,10 @@ styles: ["Soundtrack", "Score"]
 {{< youtube id="-B--tEBZwCg" title="Mr. Robot Volume 1 - Mac Quayle - Soundtrack Preview (Official Video)" >}}<br>
 ### More Videos
 
+- [Mac Quayle | BSO Mr. Robot | Vol. 1](https://www.youtube.com/watch?v=Phrxu3lrnEY)
+- [MR ROBOT   Soundtrack OST   Depth Of Field Mix](https://www.youtube.com/watch?v=YC1n6NGANw0)
+- [MR ROBOT Episode 5 Ending Song- Love On A Real Train - Tangerine Dream](https://www.youtube.com/watch?v=L5v7UmvvM0Q)
+- [Mr. Robot Volume 1 - Mac Quayle - Soundtrack Preview (Official Video)](https://www.youtube.com/watch?v=-B--tEBZwCg)
 - [Mac Quayle | BSO Mr. Robot | Vol. 1](https://www.youtube.com/watch?v=Phrxu3lrnEY)
 - [MR ROBOT   Soundtrack OST   Depth Of Field Mix](https://www.youtube.com/watch?v=YC1n6NGANw0)
 - [MR ROBOT Episode 5 Ending Song- Love On A Real Train - Tangerine Dream](https://www.youtube.com/watch?v=L5v7UmvvM0Q)

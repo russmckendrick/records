@@ -4,6 +4,7 @@ artist_name: "Cypress Hill"
 artist: "cypress-hill"
 album_name: "Black Sunday"
 date: 2015-10-27T08:44:43.000000Z
+release_date: "1993-07-20"
 release_id: "4491885"
 slug: "black-sunday-4491885"
 hideSummary: true
@@ -18,8 +19,12 @@ genres: ["Hip Hop"]
 styles: []
 ---
 
-Black Sunday is the second studio album by American hip hop group Cypress Hill. It was released on July 20, 1993, by Ruffhouse and Columbia Records. The album proved to be a massive success just like the first album Cypress Hill. The album debuted at #1 on the US Billboard 200, selling 261,000 copies in its first week of sales and became the highest Soundscan recording for a hip hop group at the time. Also, with their first album (Cypress Hill) still in the charts, they became the first hip hop group ever to have 2 albums in the Top 10 of the U.S. Billboard 200 at the same time. The album went Triple platinum in the U.S. with 3.4 million units sold.As Cypress Hill advocates for medical and recreational use of cannabis the booklet of the album contains 19 facts about the history of hemp and the positive attributes of cannabis.
-    
+After establishing themselves with their still-revered debut album in 1991, Los Angeles’ Cypress Hill broke through to the masses with their sophomore album. <i>Black Sunday</i> retains all the distinctive qualities of its predecessor, but this time the atmosphere is mellower and the hooks are catchier. The tone is set by “I Wanna Get High”, in which DJ Muggs blends samples from three different songs and creates a sound that evokes billows of smoke. The stoned atmosphere continues with “Legalize It” and “Hits From the Bong” (which makes great use of Dusty Springfield’s “Son of a Preacher Man”), but <i>Black Sunday</i> still has plenty of menace. 
+
+Songs like “Cock the Hammer”, “I Ain’t Goin’ Out Like That” and “Lick a Shot” are frenetic party anthems, while the simmering grooves of “3 Lil’ Putos” and “What Go Around Come Around, Kid” strike a low-key pose of gangsta cool. Even when the craziness reaches a fever pitch, the songs are always grounded in Muggs’ rock-solid rhythms. The group’s chemistry peaks on “When the Shit Goes Down” and the immortal “Insane in the Brain”, two hit anthems that exemplify the trio’s strength.
+
+        
+        
     
 
 
@@ -44,15 +49,12 @@ Black Sunday is the second studio album by American hip hop group Cypress Hill. 
 
 
 ## Videos
-### Cypress Hill - Insane In The Brain (Official Video)
-{{< youtube id="RijB8wnJCN0" title="Cypress Hill - Insane In The Brain (Official Video)" >}}<br>
+### Cypress Hill - I Ain't Goin' Out Like That
+{{< youtube id="q7p-ihYOG5s" title="Cypress Hill - I Ain't Goin' Out Like That" >}}<br>
 ### More Videos
 
-- [Lock Down](https://www.youtube.com/watch?v=PHZl5DuWMbo)
-- [Cypress Hill - When the Shit Goes Down](https://www.youtube.com/watch?v=I826gxc8TvI)
-- [Cypress Hill - I Ain't Goin' Out Like That](https://www.youtube.com/watch?v=q7p-ihYOG5s)
-- [Cypress Hill - Hits from the Bong (Audio)](https://www.youtube.com/watch?v=eMK4cfXj5c0)
-- [cψρƦε$$ HILL - Black Sunday FULLΛLBUM](https://www.youtube.com/watch?v=k4D5kp1d3nE)
+- [Cypress Hill - Insane In The Brain (Official Video)](https://www.youtube.com/watch?v=RijB8wnJCN0)
+- [Cypress Hill - Black Sunday (Full Album)](https://www.youtube.com/watch?v=ARGFhMihDsQ)
 
 ## Release Images
 {{< imageGrid >}}

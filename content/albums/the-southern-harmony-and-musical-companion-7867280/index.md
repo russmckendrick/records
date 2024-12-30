@@ -13,41 +13,47 @@ cover:
     caption: "The Southern Harmony And Musical Companion by The Black Crowes"
 additional_images:
     - "https://i.discogs.com/7osnlw6972YExmp0btSbCaDyZ16VzAJHrkpPghcAbio/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc4Njcy/ODAtMTQ1MDUyMDA2/Ny0yMzk3LmpwZWc.jpeg"
-    - "https://i.discogs.com/2nlQAMGO6JGU_1VZ1aSWL_4Kq0KK6ojQHarqxxCrXbI/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc4Njcy/ODAtMTQ1MDUyMDA2/Ny05MDk3LmpwZWc.jpeg"
-    - "https://i.discogs.com/G4def4S9CMoSJCgLEnU98yxX93XHhhe8mkJQS9H21_M/rs:fit/g:sm/q:90/h:613/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc4Njcy/ODAtMTQ1MDUyMDA2/Ny04OTc3LmpwZWc.jpeg"
+    - "https://i.discogs.com/vdDSd1rzBEjuvtTkeqD81JuwUqT7FJ0oWPMXp9e3IS8/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc4Njcy/ODAtMTQ1MDUyMDA2/Ny05MDk3LmpwZWc.jpeg"
+    - "https://i.discogs.com/jT4OcjPW4PHrf6QmaxwRljx2Ac1O79K-9UjzSyNVoGY/rs:fit/g:sm/q:90/h:600/w:591/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc4Njcy/ODAtMTcyMTU4NTgw/OC03MDUxLmpwZWc.jpeg"
+    - "https://i.discogs.com/MzH-rvzL2zoHzDQepGUxKBPhdPzV1C0WpYCD24nAmjo/rs:fit/g:sm/q:90/h:600/w:595/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc4Njcy/ODAtMTcyMTU4NTgw/NS05Mzc5LmpwZWc.jpeg"
+    - "https://i.discogs.com/EbN4jPsopF9pe0gwxOCfXrowwlb0P0W42KZpSv97oy8/rs:fit/g:sm/q:90/h:600/w:590/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc4Njcy/ODAtMTcyMTU4NTgw/OS0zODg3LmpwZWc.jpeg"
+    - "https://i.discogs.com/91c8gwZRi1ACLlapbycBvg4c95ZHS0bdDs5MgKtY3GY/rs:fit/g:sm/q:90/h:600/w:595/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc4Njcy/ODAtMTcyMTU4NTgx/MS0zOTMwLmpwZWc.jpeg"
+    - "https://i.discogs.com/21QGtO4Ggvvvub6t1hTCk-YvzmEhgxE3UZaX3dFHXEs/rs:fit/g:sm/q:90/h:600/w:586/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc4Njcy/ODAtMTQ1MDUyMDA2/Ny04OTc3LmpwZWc.jpeg"
     - "https://i.discogs.com/eVH4HWWyri-vuujmx-P4TVJfJaFM486kbwgrZSI_YRA/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc4Njcy/ODAtMTQ1MDUyMDA2/OC01NzQ3LmpwZWc.jpeg"
 genres: ["Rock"]
 styles: ["Rock & Roll", "Southern Rock", "Hard Rock"]
 ---
 
 The Southern Harmony and Musical Companion is the second studio album by American rock band the Black Crowes, released on May 12, 1992. It was the first album by the band to feature Marc Ford on lead guitar, replacing Jeff Cease, who was fired the year before, and the first to feature keyboardist Eddie Harsch. The album's name derives from the full name of the Southern Harmony, an influential 1835 hymnal compiled by William Walker.
+
+
     
     
 
 
 ## Tracklisting
-1. Sting Me (4:40)
-2. Remedy (5:23)
-3. Thorn In My Pride (6:04)
-4. Bad Luck Blue Eyes Goodbye (6:28)
-5. Sometimes Salvation (4:44)
-6. Hotel Illness (4:00)
-7. Black Moon Creeping (4:54)
-8. No Speak No Slave (4:02)
-9. My Morning Song (6:15)
-10. Time Will Tell (4:08)
+1. Sting Me (4:39)
+2. Remedy (5:22)
+3. Thorn In My Pride (6:03)
+4. Bad Luck Blue Eyes Goodbye (6:29)
+5. Sometimes Salvation (4:47)
+6. Hotel Illness (3:59)
+7. Black Moon Creeping (4:59)
+8. No Speak No Slave (4:01)
+9. My Morning Song (6:14)
+10. Time Will Tell (4:06)
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/the-southern-harmony-and-musical-companion/1444056030" >}}<br>
 
 
 ## Videos
-### The Black Crowes - Remedy
-{{< youtube id="BYyRLTveFJQ" title="The Black Crowes - Remedy" >}}<br>
+### The Black Crowes - Sting Me
+{{< youtube id="OaH9wIQDUwE" title="The Black Crowes - Sting Me" >}}<br>
 ### More Videos
 
+- [The Black Crowes - Remedy](https://www.youtube.com/watch?v=BYyRLTveFJQ)
 - [Time Will Tell](https://www.youtube.com/watch?v=8EnPeGaZ8Tk)
-- [The Black Crowes - Sting Me](https://www.youtube.com/watch?v=OaH9wIQDUwE)
 - [No Speak No Slave](https://www.youtube.com/watch?v=-bPhju3r1qc)
 
 ## Release Images

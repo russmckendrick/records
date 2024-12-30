@@ -20,9 +20,9 @@ additional_images:
     - "https://i.discogs.com/ncbvW9bH1UcZoz5d643PT3LFX4hfXjMGDBUY79ROcdo/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwODg5/MDUwLTE2MDY5Mjk1/MjQtODAzOS5qcGVn.jpeg"
     - "https://i.discogs.com/S6-lYBpXgZ4FyoF_UYLH8hUcd3gGDiDis3GjipHglvQ/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwODg5/MDUwLTE2MDY5Mjk1/MjctMjg0My5qcGVn.jpeg"
     - "https://i.discogs.com/hhE7zmhF9SGuv5Bqjdo65QixrF0fLE9KyTZKhpD5LAA/rs:fit/g:sm/q:90/h:296/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwODg5/MDUwLTE2MDY5Mjk1/ODgtNzk5NC5qcGVn.jpeg"
-    - "https://i.discogs.com/vv4Gs5HfmLEEsdJKzbWYslNoNIAaiOVuiSva-6QpTrk/rs:fit/g:sm/q:90/h:603/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwODg5/MDUwLTE1MDYxNzYz/ODMtOTk3Ny5qcGVn.jpeg"
-    - "https://i.discogs.com/98Qw-GtKrwAiRcyjkvllNU2dxVIFK4sUFYH1LNwNluI/rs:fit/g:sm/q:90/h:615/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwODg5/MDUwLTE1MDYxNzYx/ODktMjk2MS5qcGVn.jpeg"
-    - "https://i.discogs.com/f4nLmBHOIZBnCyih0GJ4bQmhpIa9QSuhXxgxk3BQsPo/rs:fit/g:sm/q:90/h:1066/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwODg5/MDUwLTE1MDYxNzYx/OTktNzI2My5qcGVn.jpeg"
+    - "https://i.discogs.com/8TM41JVWy4U-gY2KJIoaZ5qgruPaznJbfizPBiCQzcw/rs:fit/g:sm/q:90/h:600/w:596/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwODg5/MDUwLTE1MDYxNzYz/ODMtOTk3Ny5qcGVn.jpeg"
+    - "https://i.discogs.com/hn_z0MQz-24lCikDqt6Hxk9H8x5nyYRTuPYDV9f5ov4/rs:fit/g:sm/q:90/h:600/w:584/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwODg5/MDUwLTE1MDYxNzYx/ODktMjk2MS5qcGVn.jpeg"
+    - "https://i.discogs.com/lbeRQUyZao5rl6vEhPELURMX4koI6QJKg5dQ7N9JAH0/rs:fit/g:sm/q:90/h:600/w:337/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwODg5/MDUwLTE1MDYxNzYx/OTktNzI2My5qcGVn.jpeg"
     - "https://i.discogs.com/MXtyvHCeYE54AD4LyLWB-7JW-bPrdGu2JfdE6RY_oX8/rs:fit/g:sm/q:90/h:476/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwODg5/MDUwLTE1NTA5MTgy/NjItODQ5OC5qcGVn.jpeg"
     - "https://i.discogs.com/pdX41toYYZUm0C6ncqJInocedonJ9mnHGsra98Q7SSQ/rs:fit/g:sm/q:90/h:156/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwODg5/MDUwLTE1NTA5MTgy/NjItNTU1NS5qcGVn.jpeg"
 genres: ["Electronic", "Rock", "Funk / Soul", "Pop", "Stage & Screen"]
@@ -60,12 +60,11 @@ styles: ["Alternative Rock", "Folk Rock", "Indie Rock", "Industrial", "Lo-Fi", "
 {{< youtube id="Mgfu97u9ILs" title="Twin Peaks- Limited Event Series Full Soundtrack (HQ)" >}}<br>
 ### More Videos
 
-- [THE NINE INCH NAILS - SHE'S GONE AWAY (Twin Peaks Music Video)](https://www.youtube.com/watch?v=GXc2rPmawek)
-- [CHROMATICS SHADOW (Official Video)](https://www.youtube.com/watch?v=IGUboLZx3Tk)
-- [Twin Peaks Limited Event Series Soundtracks Official Trailer](https://www.youtube.com/watch?v=6bfqC1bZw7g)
-- [Twin Peaks (Music from the Limited Event Series) Soundtrack Teaser](https://www.youtube.com/watch?v=g9xpxO-vzO8)
-- [Twin Peaks Theme](https://www.youtube.com/watch?v=nCn3LYqCnrk)
+- ["THE" NINE INCH NAILS - SHE'S GONE AWAY (Twin Peaks Music Video)](https://www.youtube.com/watch?v=GXc2rPmawek)
 - [Eddie Vedder Out of Sand Twin Peaks](https://www.youtube.com/watch?v=WJHM4w_TD28)
+- [Rebekah Del Rio sings No Stars Live at the Twin Peaks UK Festival 2018](https://www.youtube.com/watch?v=JqzfQWse2uI)
+- [CHROMATICS "SHADOW" (Official Video)](https://www.youtube.com/watch?v=IGUboLZx3Tk)
+- [Twin Peaks Theme](https://www.youtube.com/watch?v=nCn3LYqCnrk)
 
 ## Release Images
 {{< imageGrid >}}

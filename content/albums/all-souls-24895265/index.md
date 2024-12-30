@@ -12,15 +12,15 @@ cover:
     alt: "All Souls by Siouxsie & The Banshees"
     caption: "All Souls by Siouxsie & The Banshees"
 additional_images:
-    - "https://i.discogs.com/0XT4vR6sGUgsN1y2M-6Cgib8AyU2c1p4JyojDoGxPl0/rs:fit/g:sm/q:90/h:627/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0ODk1/MjY1LTE2NjY0NDU0/NTgtNDM3NS5qcGVn.jpeg"
-    - "https://i.discogs.com/DGBKGKTd_hWF-VdbjNwWouinuyaCm_Zwlm3ft8bmtk0/rs:fit/g:sm/q:90/h:621/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0ODk1/MjY1LTE2NjY0NDU0/NjYtNDI0Mi5qcGVn.jpeg"
+    - "https://i.discogs.com/W8XHQDVGfJ1VcPzyfbNSlHBazgYMXGKk4_i0WwCb-jQ/rs:fit/g:sm/q:90/h:600/w:574/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0ODk1/MjY1LTE2NjY0NDU0/NTgtNDM3NS5qcGVn.jpeg"
+    - "https://i.discogs.com/TC5S4g3YKEkQ7dAHpp8_70gRFZD5g1RrGjfxIk6S8Q8/rs:fit/g:sm/q:90/h:600/w:579/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0ODk1/MjY1LTE2NjY0NDU0/NjYtNDI0Mi5qcGVn.jpeg"
     - "https://i.discogs.com/4e_KrUx_e32RAswx3RbBSpH5qdPgYnXWzqYar38XD2k/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0ODk1/MjY1LTE2NjY0NDU0/ODQtMjk3Ni5qcGVn.jpeg"
     - "https://i.discogs.com/TcJ5VXVxhJU2n87e0y4WieNuAve0zAvDG9gLyHRDuk4/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0ODk1/MjY1LTE2NjY0NDU0/ODgtMzA0Mi5qcGVn.jpeg"
     - "https://i.discogs.com/H4t2HhLqzKEQTG1HUBkVpiuOalG6JVi0piSTEQh1-rU/rs:fit/g:sm/q:90/h:569/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0ODk1/MjY1LTE2NjY0NDU1/MDgtMTM1OS5qcGVn.jpeg"
     - "https://i.discogs.com/2NJn8X4tyJU5zVhQImMOuyxDOa-R21DPKY5MpmGOduQ/rs:fit/g:sm/q:90/h:553/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0ODk1/MjY1LTE2NjY0NDU1/MTUtOTE4MC5qcGVn.jpeg"
     - "https://i.discogs.com/u_k5Noh2Z1d3yD5SKKoUBZdUCYPlEKJe0XL3lMwf5kk/rs:fit/g:sm/q:90/h:95/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0ODk1/MjY1LTE2Njc0MjAy/OTEtMTY5MS5qcGVn.jpeg"
     - "https://i.discogs.com/2_hs8THOC2XMRH4Aoh5Rayxsr6VQ961LW3_Y5y-Cdrw/rs:fit/g:sm/q:90/h:295/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0ODk1/MjY1LTE2Njc0MjAy/ODctNzA0NC5qcGVn.jpeg"
-    - "https://i.discogs.com/EuODpSpQe1vz8BvB2-3fl6dFo6ooewJbszfsqUNIxBE/rs:fit/g:sm/q:90/h:843/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0ODk1/MjY1LTE2Njc0MjAz/MDEtNjk3OS5qcGVn.jpeg"
+    - "https://i.discogs.com/OjIQxKdjnv21jMtoVFqZYk-dMt08IAWBqLmuB8Jf-jw/rs:fit/g:sm/q:90/h:600/w:426/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0ODk1/MjY1LTE2Njc0MjAz/MDEtNjk3OS5qcGVn.jpeg"
     - "https://i.discogs.com/4ONGSBsKS3L07a6nLaDsfNq1ccVLl5AhXnN9L3Uh-T0/rs:fit/g:sm/q:90/h:394/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0ODk1/MjY1LTE2Njc0MjAz/MDItNzIyNi5qcGVn.jpeg"
     - "https://i.discogs.com/IkQXl-6pLLdICbByNEHp3YaqNXlSY5QslQwzx381qQI/rs:fit/g:sm/q:90/h:586/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0ODk1/MjY1LTE2Njc0MjAz/MDEtNzkxNC5qcGVn.jpeg"
 genres: ["Rock"]
@@ -46,15 +46,11 @@ styles: ["Post-Punk", "New Wave"]
 
 
 ## Videos
-### Siouxsie and the Banshees - Fireworks 12 version - vinyl rip All Souls
-{{< youtube id="XmEasAdZo7s" title="Siouxsie and the Banshees - Fireworks 12 version - vinyl rip All Souls" >}}<br>
+### Siouxsie and the Banshees - Fireworks 12" version - vinyl rip All Souls
+{{< youtube id="XmEasAdZo7s" title="Siouxsie and the Banshees - Fireworks 12" version - vinyl rip All Souls" >}}<br>
 ### More Videos
 
-- [Siouxsie and the Banshees - El Dia de los Muertos - vinyl rip All Souls](https://www.youtube.com/watch?v=rAVxdM6khWY)
-- [Siouxsie and the Banshees - Halloween - vinyl rip All Souls](https://www.youtube.com/watch?v=6bUiifyHZYw)
-- [Siouxsie and the Banshees - Rawhead and Bloodybones - vinyl rip All Souls](https://www.youtube.com/watch?v=qBFYD0EQR1s)
-- [Siouxsie and the Banshees - Something Wicked This Way Comes - vinyl rip All Souls](https://www.youtube.com/watch?v=6B8jL8T9OM4)
-- [Siouxsie and the Banshees - Peek-A-Boo - vinyl rip All Souls](https://www.youtube.com/watch?v=3hdVQOzAGog)
+- [Siouxsie and the Banshees - Fireworks 12" version - vinyl rip All Souls](https://www.youtube.com/watch?v=XmEasAdZo7s)
 
 ## Release Images
 {{< imageGrid >}}

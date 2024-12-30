@@ -43,7 +43,7 @@ styles: ["Ambient", "Post Rock", "Soundtrack", "Video Game Music"]
 16. Outlier / EOTWS_Variation1 (11:59)
 
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/no-mans-sky-music-for-an-infinite-universe/1469726921" >}}<br>
+{{< applemusic url="https://music.apple.com/gb/album/no-mans-sky-music-for-an-infinite-universe-original/1745068019" >}}<br>
 
 
 ## Videos
@@ -51,6 +51,7 @@ styles: ["Ambient", "Post Rock", "Soundtrack", "Video Game Music"]
 {{< youtube id="RhC5a_sXayA" title="No Mans Sky - Escape Velocity - LP 2015" >}}<br>
 ### More Videos
 
+- [No Mans Sky - Escape Velocity - LP 2015](https://www.youtube.com/watch?v=RhC5a_sXayA)
 - [65daysofstatic - Monolith | No Man's Sky Soundtrack (Vinyl RIP)](https://www.youtube.com/watch?v=bK_SRAuem4Q)
 
 ## Release Images

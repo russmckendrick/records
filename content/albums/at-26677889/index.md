@@ -39,7 +39,7 @@ styles: []
 12. Rock 'N' Roll Star
 
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/at/1675919389" >}}<br>
+{{< applemusic url="https://music.apple.com/gb/album/bits-and-pieces/1026256741" >}}<br>
 
 
 

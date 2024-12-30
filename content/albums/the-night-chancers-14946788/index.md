@@ -18,12 +18,15 @@ additional_images:
     - "https://i.discogs.com/3eWDgkFXZs3Yo9m0NdKv9DUqGzrP0Hhv6TAh90_soAo/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0OTQ2/Nzg4LTE2MTI0NTMz/MDgtMjEzMi5qcGVn.jpeg"
     - "https://i.discogs.com/paLKmSA33pk5N0b7jCrSm5EouBP3A5MwAbyLN3hkdHw/rs:fit/g:sm/q:90/h:585/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0OTQ2/Nzg4LTE2MTI0NTMz/MTEtMzA1OC5qcGVn.jpeg"
     - "https://i.discogs.com/mSZ4tKHpOLoDil6uLhbMNPrdXldyHhhLCUUWEngGhUg/rs:fit/g:sm/q:90/h:588/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0OTQ2/Nzg4LTE2MTI0NTMz/MDYtODUxMi5qcGVn.jpeg"
-    - "https://i.discogs.com/XiLwYTzWcZMAosqZt5vtow6Ghq2BuMjhobWCDd-HgSw/rs:fit/g:sm/q:90/h:605/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0OTQ2/Nzg4LTE1ODQ1NTM0/OTItMTc1OS5qcGVn.jpeg"
+    - "https://i.discogs.com/8qE5zIfaKa1oRH1MPEorQ85sfgUwOkynoy8QFiV3NZ0/rs:fit/g:sm/q:90/h:600/w:594/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0OTQ2/Nzg4LTE1ODQ1NTM0/OTItMTc1OS5qcGVn.jpeg"
+    - "https://i.discogs.com/fc9V9hSjY35OGgQPw66ul6IVv59VGk-N3mQv_DXQHO4/rs:fit/g:sm/q:90/h:450/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0OTQ2/Nzg4LTE2OTMxNDc2/NjgtMjQ2NC5qcGVn.jpeg"
 genres: ["Rock", "Pop"]
 styles: ["Alternative Rock", "Indie Pop"]
 ---
 
 The Night Chancers is the sixth studio album by English musician Baxter Dury. It was released on 20 March 2020 under [PIAS] France LE LABEL for the world and under Heavenly Recordings for the UK, Ireland and USA.
+
+
     
     
 
@@ -49,8 +52,10 @@ The Night Chancers is the sixth studio album by English musician Baxter Dury. It
 {{< youtube id="KWbVIv7DrU8" title="Baxter Dury - Slumlord (Official Music Video)" >}}<br>
 ### More Videos
 
-- [Baxter Dury - Carla's Got A Boyfriend (Official Audio)](https://www.youtube.com/watch?v=CaAszLkOh6w)
 - [Baxter Dury - I'm Not Your Dog (Official Music Video)](https://www.youtube.com/watch?v=x_x9tB2Qsyk)
+- [Baxter Dury - Slumlord (Official Music Video)](https://www.youtube.com/watch?v=KWbVIv7DrU8)
+- [Baxter Dury - I'm Not Your Dog (Official Music Video)](https://www.youtube.com/watch?v=x_x9tB2Qsyk)
+- [Baxter Dury - Carla's Got A Boyfriend (Official Audio)](https://www.youtube.com/watch?v=CaAszLkOh6w)
 - [Say Nothing](https://www.youtube.com/watch?v=tahejIw1jXw)
 - [The Night Chancers](https://www.youtube.com/watch?v=W-7-sddliMo)
 - [Baxter Dury - Samurai](https://www.youtube.com/watch?v=JsnwNgvXFEU)

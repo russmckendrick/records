@@ -16,8 +16,8 @@ additional_images:
     - "https://i.discogs.com/jrKw5f1b9ykBNbJWkppsfMOVENlHZJS79IfFrC-sNi4/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MTEx/NDg5LTE2MjM3MDU4/NDctMTMwNy5qcGVn.jpeg"
     - "https://i.discogs.com/-lsSXjnT_JioAwFoflTDNX11a9iq2Un5xNsLxHzsNGU/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MTEx/NDg5LTE2MjM3MDU4/NDktOTY5NC5qcGVn.jpeg"
     - "https://i.discogs.com/H5kXu3NBtgKlO59poBrpnPNZUjy_-NRgE06n-1-s3ag/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MTEx/NDg5LTE2MjM3MDU4/NTUtMTI5OC5qcGVn.jpeg"
-    - "https://i.discogs.com/BehU4-F4FYzgdYtAkxNJ2edc20hIPquiRKX7tQWfVQk/rs:fit/g:sm/q:90/h:893/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MTEx/NDg5LTE2MjM3MDU4/ODMtMjk1My5qcGVn.jpeg"
-    - "https://i.discogs.com/CSux53gcnSRvZR8rhSV40h32ga5V59cWxBYVfH7FH58/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MTEx/NDg5LTE2MjM3MDIw/MDctMzY2Ni5qcGVn.jpeg"
+    - "https://i.discogs.com/lP7RqTYXIS99N-xxu65ur_Ohvs7OaplMRFO8jOUeoEg/rs:fit/g:sm/q:90/h:600/w:402/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MTEx/NDg5LTE2MjM3MDU4/ODMtMjk1My5qcGVn.jpeg"
+    - "https://i.discogs.com/RTdxhhLXL0-kyZC-8VwekGy134Z3vdGESqvjiStskuw/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MTEx/NDg5LTE2MjM3MDIw/MDctMzY2Ni5qcGVn.jpeg"
 genres: ["Rock"]
 styles: ["Psychedelic Rock", "Indie Rock"]
 ---
@@ -30,6 +30,8 @@ styles: ["Psychedelic Rock", "Indie Rock"]
 3. Ice Hockey Hair (6:45)
 4. Let's Quit Smoking (2:05)
 
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/songbook-the-singles-volume-1/1641278241" >}}<br>
 
 
 ## Videos
@@ -40,6 +42,8 @@ styles: ["Psychedelic Rock", "Indie Rock"]
 - [Super Furry Animals - Ice Hockey Hair](https://www.youtube.com/watch?v=o2gh5kzeTPk)
 - [Super Furry Animals - Smokin'](https://www.youtube.com/watch?v=kSThnmNv9f4)
 - [Smokin'](https://www.youtube.com/watch?v=A8MIKyYh600)
+- [Super Furry Animals - Ice Hockey Hair EP (BMG CAT491EP) RSD 2021](https://www.youtube.com/watch?v=njixhnsyRUU)
+- [Super Furry Animals - Ice Hockey Hair](https://www.youtube.com/watch?v=o2gh5kzeTPk)
 
 ## Release Images
 {{< imageGrid >}}
@@ -50,5 +54,5 @@ styles: ["Psychedelic Rock", "Indie Rock"]
 | Format         | Vinyl 12" 45 RPM EP Record Store Day Limited Edition Reissue Remastered |
 | Label          | BMG |
 | Catalog Number | BMGCAT491EP |
-| Notes | RSD release limited to 1500 UK / 1500 US / Additional Quantities for EU & Other Regions  Some records came with a white sticker or transparent sticker.  " Smokin' " (Super Furry Animals/Simpson/Rose) contains a sample of "I Love King Selassie" by Black Uhuru.  Archived by: Kliph Scurlock     |
+| Notes | RSD release limited to 1500 UK / 1500 US / Additional Quantities for EU & Other Regions  Some records came with a white sticker or transparent sticker.  " Smokin' " (Super Furry Animals/Simpson/Rose) contains a sample of "I Love King Selassie" by Black Uhuru.  Archived by: Kliph Scurlock |
 | Discogs URL    | [Super Furry Animals - Ice Hockey Hair EP](https://www.discogs.com/release/19111489-Super-Furry-Animals-Ice-Hockey-Hair-EP) |

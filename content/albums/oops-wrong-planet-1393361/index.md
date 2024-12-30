@@ -23,7 +23,10 @@ styles: ["Art Rock", "Prog Rock"]
 ---
 
 Oops! Wrong Planet is the third studio album by American rock band  Utopia. It delivers a markedly trimmed down, pop-oriented direction for the band following the progressively influenced previous album, Ra.
-Oops! peaked at #77 on the Billboard album chart in 1977."Love is the Answer" later became a hit for England Dan & John Ford Coley, charting #1 on the Billboard Adult Contemporary list in 1979.
+Oops! peaked at No. 77 on the Billboard album chart in 1977.
+"Love is the Answer" later became a hit for England Dan & John Ford Coley, charting #1 on the Billboard Adult Contemporary list in 1979.
+
+
     
     
 
@@ -53,10 +56,8 @@ Oops! peaked at #77 on the Billboard album chart in 1977."Love is the Answer" la
 
 - [Utopia-My angel](https://www.youtube.com/watch?v=GpW8WXlC094)
 - [Windows // Utopia 1977](https://www.youtube.com/watch?v=1m08iCofGoA)
-- [Todd Rundgren & Utopia - The Martyr](https://www.youtube.com/watch?v=Sel6IHexvng)
 - [Utopia - Love Is The Answer](https://www.youtube.com/watch?v=YadkaBwxazE)
 - [Utopia- Trapped](https://www.youtube.com/watch?v=tOAdhIWpgk8)
-- [Utopia - Crazy Lady Blue](https://www.youtube.com/watch?v=QxeGZuwgPEU)
 
 ## Release Images
 {{< imageGrid >}}
@@ -69,4 +70,4 @@ Oops! peaked at #77 on the Billboard album chart in 1977."Love is the Answer" la
 | Label          | Bearsville |
 | Catalog Number | K 55517 |
 | Notes | Recorded at Utopia Sound The Message: Use your head, use your heart, save yourselves Printed inner sleeve: photo one side / lyrics other side ℗ & © 1977 [Warner logo] Made in UK Additional cat# (cover back, right top, and on labels): BR 6970  |
-| Discogs URL    | [Utopia - Oops! Wrong Planet](https://www.discogs.com/release/1393361-Utopia-Oops-Wrong-Planet) |
+| Discogs URL    | [Utopia - Oops! Wrong Planet](https://www.discogs.com/release/1393361-Utopia-5-Oops-Wrong-Planet) |

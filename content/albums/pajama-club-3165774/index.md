@@ -23,6 +23,12 @@ genres: ["Electronic", "Rock"]
 styles: ["New Wave", "Indie Rock"]
 ---
 
+Pajama Club is the eponymous 2011 debut album by Pajama Club, the band formed by Crowded House songwriter Neil Finn, his wife Sharon Finn, and keyboard player Sean Donnelly. The album was released in Australia and New Zealand on 9 September 2011, 13 September in North America and 19 September in Europe.
+The album is change in style from the material Finn performs with Crowded House, with a more groove oriented feel. Finn has stated that the Post-punk funk band ESG were a key inspiration on the album. Guitarist Johnny Marr plays on two tracks, Can't Put It Down Until It Ends and Go Kart.
+
+
+    
+    
 
 
 ## Tracklisting
@@ -50,6 +56,7 @@ styles: ["New Wave", "Indie Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
+| Wikipedia URL | https://en.wikipedia.org/wiki/Pajama_Club_(album) |
 | Format         | Vinyl LP Album |
 | Label          | Lester Records |
 | Catalog Number | LRPJCO11LP |

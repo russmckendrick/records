@@ -18,6 +18,9 @@ genres: ["Rock"]
 styles: ["Prog Rock", "Symphonic Rock"]
 ---
 
+The Second Brightest Star is the eleventh studio album by the English progressive rock band Big Big Train. It contains a mix of new songs along with re-worked material from the band's previous two albums, Folklore and Grimspound. It is the band's last album to feature co-founder Andy Poole who departed the band in January 2018.
+    
+    
 
 
 ## Tracklisting
@@ -54,6 +57,7 @@ styles: ["Prog Rock", "Symphonic Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
+| Wikipedia URL | https://en.wikipedia.org/wiki/The_Second_Brightest_Star |
 | Format         | Vinyl 2× LP Album Limited Edition Stereo (180 Gram, Transparent Sea Foam Green) |
 | Label          | Plane Groovy |
 | Catalog Number | PLG056 |

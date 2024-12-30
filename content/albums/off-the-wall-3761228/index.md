@@ -13,7 +13,7 @@ cover:
     alt: "Off The Wall by Michael Jackson"
     caption: "Off The Wall by Michael Jackson"
 additional_images:
-    - "https://i.discogs.com/089je2dYLzQl6ZvR84xiii0eFq5k_NzO05ndWS35lHA/rs:fit/g:sm/q:90/h:602/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3NjEy/MjgtMTM0MzQwMzE0/NS01MjE4LmpwZWc.jpeg"
+    - "https://i.discogs.com/mHGMhYG1N3B63OXHrUoLBSzUeNq7AV5NQECURm9EzBI/rs:fit/g:sm/q:90/h:600/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3NjEy/MjgtMTM0MzQwMzE0/NS01MjE4LmpwZWc.jpeg"
     - "https://i.discogs.com/Tflb67xveQ6ExjKiLmreblxWChDvQRJGTEVKXiiAdaY/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3NjEy/MjgtMTM0MzQwMzE1/My0yNzI1LmpwZWc.jpeg"
     - "https://i.discogs.com/dpDvqUdwOOXjBXwp642pi-8xafkcf_sy6gpPFXolQ08/rs:fit/g:sm/q:90/h:590/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3NjEy/MjgtMTQ5MzQ3NzEz/Ny01Mzk1LmpwZWc.jpeg"
     - "https://i.discogs.com/GLFi0xjTIoGNvD_fipbUPp8awZee-yQNCW4OQQhl1eA/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3NjEy/MjgtMTQ5MzQ3NzE0/Ny0yNjE4LmpwZWc.jpeg"
@@ -25,8 +25,12 @@ genres: ["Funk / Soul"]
 styles: ["Disco", "Rhythm & Blues", "Soul"]
 ---
 
-"Off the Wall" is a song by American singer Michael Jackson, from his fifth album of the same name (1979). It was written by English songwriter Rod Temperton and produced by Quincy Jones, and released by Epic Records as the album's third single on November 17, 1979 in the UK and on February 2, 1980 in the U.S. The song was first offered to Karen Carpenter, while she was working on her first solo album, but she turned it down. Lyrically, the song is about getting over troubles.
-The song was well received by music critics, and became Jackson's third top 10 single from Off the Wall, which eventually spawned four top 10 singles; Jackson was the first person to accomplish this. It was performed by Jackson in five of his concert tours.
+Off the Wall is the fifth studio album by the American singer Michael Jackson, released on August 10, 1979, by Epic Records. It was Jackson's first album released through Epic Records, and the first produced by Quincy Jones, whom he met while working on the 1978 film The Wiz. Several critics observed that Off the Wall was crafted from disco, pop, funk, R&B, soft rock and Broadway ballads. Its lyrical themes include escapism, liberation, loneliness, hedonism and romance. The album features songwriting contributions from Stevie Wonder, Paul McCartney, Rod Temperton, Tom Bahler, and David Foster, alongside three tracks penned by Jackson himself.
+Between 1972 and 1975, Jackson released a total of four solo studio albums with Motown as part of The Jackson 5 franchise: Got to Be There (1972), Ben (1972), Music & Me (1973) and Forever, Michael (1975). Before recording his next album, which came to be Off the Wall, Jackson desired to create a record not sounding like a Jacksons record, but rather showcasing creative freedom and individualism. Five singles were released from the album. 
+Off the Wall became Jackson's highest charting album on the Billboard Top LPs & Tapes chart and was number one on the Top Black Albums chart, staying at number one on the latter for 16 weeks. The album was an enormous critical success and produced two Billboard Hot 100 number-one singles "Don't Stop 'Til You Get Enough" and "Rock with You". With following singles "Off the Wall" and "She's Out of My Life" also reaching the US top 10, Jackson became the first solo artist to have four singles from the same album reach the top 10 of the Hot 100.
+Off the Wall was a significant departure from Jackson's previous work for Motown and was hailed as a major breakthrough for him. In retrospect, writers have hailed it a landmark release of the disco era and among the greatest albums in history. It has sold over 20 million copies worldwide, making it one of the best-selling albums of all time. In 2021, it was certified 9× platinum by the Recording Industry Association of America (RIAA). At the 1980 Grammy Awards, it was controversially nominated for just two Grammy Awards, with Jackson winning Best R&B Vocal Performance, Male for "Don't Stop 'Til You Get Enough". Off the Wall won Favorite Soul/R&B Album at both the 1980 and 1981 American Music Awards. In 2008, it was inducted into the Grammy Hall of Fame.
+
+
         
         
     
@@ -49,22 +53,9 @@ The song was well received by music critics, and became Jackson's third top 10 s
 
 
 ## Videos
-### Michael Jackson - Don’t Stop 'Til You Get Enough (Official Video)
-{{< youtube id="yURRmWtbTbo" title="Michael Jackson - Don’t Stop 'Til You Get Enough (Official Video)" >}}<br>
-### More Videos
+### michael jackson off the wall full album
+{{< youtube id="kbwt8E-pPEU" title="michael jackson off the wall full album" >}}<br>
 
-- [Don't Stop 'Til You Get Enough](https://www.youtube.com/watch?v=n3qQtSRmHxo)
-- [Michael Jackson - Get On The Floor (Off The Wall) (CD Reissue)](https://www.youtube.com/watch?v=79Wx4wULXCM)
-- [michael jackson off the wall full album](https://www.youtube.com/watch?v=kbwt8E-pPEU)
-- [Michael Jackson - Rock With You (Official Video)](https://www.youtube.com/watch?v=5X-Mrc2l1d0)
-- [Workin' Day and Night](https://www.youtube.com/watch?v=zWaRajBJGiU)
-- [Get on the Floor](https://www.youtube.com/watch?v=bzb2He1C_UU)
-- [Off the Wall](https://www.youtube.com/watch?v=g0ViBH7m4XA)
-- [Girlfriend](https://www.youtube.com/watch?v=7He5c6PGDns)
-- [She's Out of My Life](https://www.youtube.com/watch?v=BtjO1gyBzPg)
-- [I Can't Help It](https://www.youtube.com/watch?v=_3h7wQxdM3A)
-- [It's the Falling in Love](https://www.youtube.com/watch?v=G1fll9DHS1w)
-- [Burn This Disco Out](https://www.youtube.com/watch?v=3w75_OUcRXs)
 
 ## Release Images
 {{< imageGrid >}}
@@ -72,7 +63,7 @@ The song was well received by music critics, and became Jackson's third top 10 s
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Wikipedia URL | https://en.wikipedia.org/wiki/Off_the_Wall_(Michael_Jackson_song) |
+| Wikipedia URL | https://en.wikipedia.org/wiki/Off_the_Wall |
 | Format         | Vinyl LP Album Reissue Stereo |
 | Label          | Epic |
 | Catalog Number | EPC 450086 1 |

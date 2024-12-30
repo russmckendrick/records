@@ -13,13 +13,13 @@ cover:
     caption: "The Later Years 1987-2019 by Pink Floyd"
 additional_images:
     - "https://i.discogs.com/1D0NzaDPPLf7BIGPnwZlWmgZ8NGwt107z1R2nVCH0zc/rs:fit/g:sm/q:90/h:588/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NDYy/NzE5LTE1ODE2OTk2/NjMtMTAzOS5qcGVn.jpeg"
-    - "https://i.discogs.com/hr_W0LIgMU8r2wrqHYpwlwYqjTyX9T0SXjDBmlLEhsM/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NDYy/NzE5LTE1NzUwMzc1/MzItMjg1My5qcGVn.jpeg"
     - "https://i.discogs.com/2MnZnEHbjL7_LTxUiboS0mxzlNoW7zw9MYwolAeLGC0/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NDYy/NzE5LTE1NzUwMzc1/MzItNTgxMi5qcGVn.jpeg"
     - "https://i.discogs.com/arNOZrWorZOUDQAzcI_pDOGcRuh_Jbg2sCO4tpg16Es/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NDYy/NzE5LTE1NzcxMjgx/ODAtNjU2Ni5qcGVn.jpeg"
     - "https://i.discogs.com/R_gPJsbZqsv7P8i5n6VggbPwJZlxv6seV64Pl9altw8/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NDYy/NzE5LTE1NzcxMjgx/ODAtMTYwMC5qcGVn.jpeg"
     - "https://i.discogs.com/3WkcUNsnOmIBcAV7qV51H4MsFoU-9O58c3nPammgLSA/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NDYy/NzE5LTE1NzcxMjgx/ODAtMjE2Ny5qcGVn.jpeg"
     - "https://i.discogs.com/a6Lwi7cS_NBk_qwnJDUXscucyxOAFokd_3R0y1LwyyE/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NDYy/NzE5LTE1NzcxMjgx/ODAtMzE2Mi5qcGVn.jpeg"
     - "https://i.discogs.com/G-7TYneMXAOXEJ98SUKyImi5zKDPcVJ5bkTimtoBi_s/rs:fit/g:sm/q:90/h:450/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NDYy/NzE5LTE1NzcyODA3/ODYtNDk5NC5qcGVn.jpeg"
+    - "https://i.discogs.com/hr_W0LIgMU8r2wrqHYpwlwYqjTyX9T0SXjDBmlLEhsM/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NDYy/NzE5LTE1NzUwMzc1/MzItMjg1My5qcGVn.jpeg"
 genres: ["Rock"]
 styles: ["Prog Rock", "Art Rock"]
 ---

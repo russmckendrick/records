@@ -13,9 +13,9 @@ cover:
     caption: "Goin' Your Way (Highlights) by Neil Finn"
 additional_images:
     - "https://i.discogs.com/KEnw_sT_A7K-xUJ2ZtJVp1H_pkVQbZgrkYwwxeAg3Qo/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc3ODA4/ODItMTUxNDI4NDU1/MS03MDc2LmpwZWc.jpeg"
-    - "https://i.discogs.com/JuRC228yaYbMyKHihJjNTBeSXKK946uQYm4UnazMl3c/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc3ODA4/ODItMTUxNDI4NDU1/My00ODU1LmpwZWc.jpeg"
+    - "https://i.discogs.com/0IGDMtJD8FntsTjPMaq2hl5MSE5iY1vfBz0tfHwYKPM/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc3ODA4/ODItMTUxNDI4NDU1/My00ODU1LmpwZWc.jpeg"
     - "https://i.discogs.com/PywQ1_gJaPlX3n93XKpAQPQhbPuk-YtlHKgnUFFnv54/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc3ODA4/ODItMTUxNDI4NDU2/Mi04MjM1LmpwZWc.jpeg"
-    - "https://i.discogs.com/1SDCkfOOVQNv2yQpyGsnDuSEO3i3feBmf4iQrPsUefs/rs:fit/g:sm/q:90/h:601/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc3ODA4/ODItMTUxNDI4NDU2/MS02NDU4LmpwZWc.jpeg"
+    - "https://i.discogs.com/AuyYMHn8yLKH9e35IOW4LLmXyovoULZwznGnqJ2bxzI/rs:fit/g:sm/q:90/h:600/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc3ODA4/ODItMTUxNDI4NDU2/MS02NDU4LmpwZWc.jpeg"
     - "https://i.discogs.com/-XPfMOENW-MAXcMblZ0ZKJywFRI2H004Xz0xVAlxQ7Q/rs:fit/g:sm/q:90/h:591/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc3ODA4/ODItMTUxNDI4NDU2/MC00NTU4LmpwZWc.jpeg"
     - "https://i.discogs.com/EwY7KudI5DIkHgOtAta_XUNGxG_O4KN9oUztExNc3qg/rs:fit/g:sm/q:90/h:591/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc3ODA4/ODItMTUxNDI4NDU1/OS01MzUxLmpwZWc.jpeg"
     - "https://i.discogs.com/8zkTvb92vuo_ChxFhowruuNeaGzPsvExQK_vj1wH65k/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc3ODA4/ODItMTUxNDI4NDU2/Mi03MTQyLmpwZWc.jpeg"
@@ -38,12 +38,16 @@ styles: ["Acoustic", "Pop Rock"]
 9. To Her Door (3:34)
 10. Don't Dream It's Over (4:31)
 
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/goin-your-way/1055804128" >}}<br>
 
 
 ## Videos
 ### Neil Finn & Paul Kelly - Goin' Your Way [Trailer]
 {{< youtube id="Vh7Jk9tUluY" title="Neil Finn & Paul Kelly - Goin' Your Way [Trailer]" >}}<br>
+### More Videos
 
+- [Neil Finn & Paul Kelly - Goin' Your Way [Trailer]](https://www.youtube.com/watch?v=Vh7Jk9tUluY)
 
 ## Release Images
 {{< imageGrid >}}
@@ -55,4 +59,4 @@ styles: ["Acoustic", "Pop Rock"]
 | Label          | Omnivore Recordings |
 | Catalog Number | OVLP-154 |
 | Notes | Recorded in Sydney on Monday, 18 March 2013   |
-| Discogs URL    | [Neil Finn - Goin' Your Way (Highlights)](https://www.discogs.com/release/7780882-Neil-Finn-Paul-Kelly-Goin-Your-Way-Highlights) |
+| Discogs URL    | [Neil Finn - Goin' Your Way (Highlights)](https://www.discogs.com/release/7780882-Neil-Finn-Paul-Kelly-2-Goin-Your-Way-Highlights) |

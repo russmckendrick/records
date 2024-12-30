@@ -27,7 +27,8 @@ Kiwanuka won the Mercury Prize for 2019’s self-titled third album, yet nothing
 Early in his career, Kiwanuka followed the traditional singer-songwriter route of writing songs at home and taking them into the studio to get down on tape. There’s something looser and more free-spirited at work here—the trio starting from nothing and letting ideas blossom in the sessions. It has resulted in a record that inhabits its own sonic world, its mix of airy ’70s soul, orchestral folk and minimalist ballads gently luring you in to its mesmerising flow, everything elevated by Kiwanuka’s lightness of touch and melodic ease. There’s a spellbinding restraint to the way “One and Only” guides you to its string-laden outro, or how the mournful piano patterns of “Rebel Soul” lurk on the edge of the song, never stepping into the spotlight. Then there’s the way “Follow Your Dreams” lets its jubilant chorus drift blissfully by. At times, such as the moment when “Lowdown (part ii)” takes flight and unfurls into a Pink Floyd-esque epic with shimmering guitar flourishes, it sounds utterly timeless. 
 
 It’s a record that sees Kiwanuka glancing back to his youth, reflecting on doubt-filled teenage years and considering the advice he could give to his young self. But this is also an album that strides hopefully into the future, the sound of an artist in full control of who he wants to be.
-    
+        
+        
     
 
 
@@ -69,6 +70,7 @@ It’s a record that sees Kiwanuka glancing back to his youth, reflecting on dou
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
+| Wikipedia URL | https://en.wikipedia.org/wiki/Small_Changes_(album) |
 | Format         | Vinyl LP Limited Edition (White and Black Marbled) |
 | Label          | Polydor |
 | Catalog Number | 6590614 |

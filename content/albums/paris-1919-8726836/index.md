@@ -14,15 +14,18 @@ cover:
 additional_images:
     - "https://i.discogs.com/v48k1fo3V0txT-f7Y5-me9MX4GrPmE49nwMijjkec-E/rs:fit/g:sm/q:90/h:500/w:500/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg3MjY4/MzYtMTQ5MTY5MDM3/Ny00NTA4LmpwZWc.jpeg"
     - "https://i.discogs.com/O3eLEjbLrK3Kg-4NXUVXs3d5qujmk0yQTPoUXKothfk/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg3MjY4/MzYtMTQ2NzQ2MTY5/MC02Njc3LmpwZWc.jpeg"
-    - "https://i.discogs.com/D5HczKc6HbM90vRe2spNLn9mY50RoDWT01MK_HC94tg/rs:fit/g:sm/q:90/h:604/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg3MjY4/MzYtMTQ2NzQ2MTY5/MC0xNTk3LmpwZWc.jpeg"
+    - "https://i.discogs.com/y1yVWaCEuvPOEmyezkIWsuVUo12hDAW7hD1ro2HUyvs/rs:fit/g:sm/q:90/h:600/w:595/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg3MjY4/MzYtMTQ2NzQ2MTY5/MC0xNTk3LmpwZWc.jpeg"
     - "https://i.discogs.com/x4QqcqkxfHCctQv036LuUdCZQkEec-O5nV8w2Z5ks3U/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg3MjY4/MzYtMTQ2NzQ2MTY5/MC0yMTk1LmpwZWc.jpeg"
     - "https://i.discogs.com/TnjRqBsaxtpUOM9VAE7B0x8DHRUl_AjgitKaZf5JKyk/rs:fit/g:sm/q:90/h:514/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg3MjY4/MzYtMTQ2NzQ2MTY5/MC04NjA4LmpwZWc.jpeg"
 genres: ["Rock"]
 styles: ["Folk Rock", "Soft Rock", "Art Rock"]
 ---
 
-Paris 1919 is the third solo studio album by Welsh musician John Cale, released on 25 February 1973 by Reprise Records. Musicians such as Lowell George and Wilton Felder performed on the release. It was produced by Chris Thomas, who had previously worked producing Procol Harum.In contrast to the experimental nature of much of John Cale's work before and after Paris 1919, the album is noted for its orchestral-influenced style, reminiscent of contemporary pop rock music. Its title is a reference to the 1919 Paris Peace Conference, and song contents explore various aspects of early 20th century Western Europe culture and history.
-The album has received critical praise from several publications over the years, including AllMusic and Rolling Stone. It was reissued on 19 June 2006 by Rhino Records.
+Paris 1919 is the third solo studio album by the Welsh musician John Cale, released on 25 February 1973 by Reprise Records. Musicians such as Lowell George and Wilton Felder performed on the release. It was produced by Chris Thomas, who had previously worked producing Procol Harum.
+In contrast to the experimental nature of much of John Cale's work before and after Paris 1919, the album is noted for its orchestral-influenced style, reminiscent of contemporary pop rock music. Its title is a reference to the 1919 Paris Peace Conference, and song contents explore various aspects of early 20th century Western Europe culture and history.
+The album has received critical praise from several publications over the years, including AllMusic and Rolling Stone.
+
+
     
     
 
@@ -43,18 +46,18 @@ The album has received critical praise from several publications over the years,
 
 
 ## Videos
-### John Cale - Child's Christmas in Wales
-{{< youtube id="r9IKnVVRsmk" title="John Cale - Child's Christmas in Wales" >}}<br>
+### Child's Christmas In Wales
+{{< youtube id="VUwjejvhXOY" title="Child's Christmas In Wales" >}}<br>
 ### More Videos
 
-- [John Cale - Hanky Panky Nohow](https://www.youtube.com/watch?v=UlWeVY64TpU)
-- [John Cale - The Endless Plain of Fortune](https://www.youtube.com/watch?v=-0gvn5SM7uM)
-- [John Cale - Andalucia](https://www.youtube.com/watch?v=r7iLFuapeY8)
-- [John Cale - Macbeth](https://www.youtube.com/watch?v=qydVioHgxGk)
-- [John Cale - Paris 1919](https://www.youtube.com/watch?v=q5YHqWqhFkU)
-- [John Cale - Graham Greene](https://www.youtube.com/watch?v=n_g_n_SxVgc)
-- [John Cale - Half Past France](https://www.youtube.com/watch?v=-_5NXNIZnhw)
-- [John Cale - Antarctica Starts Here](https://www.youtube.com/watch?v=Sbmo0MfLiBE)
+- [Hanky Panky Nohow](https://www.youtube.com/watch?v=1N5rx_P1irs)
+- [The Endless Plain Of Fortune](https://www.youtube.com/watch?v=KFf19OGAAFE)
+- [Andalucia](https://www.youtube.com/watch?v=wR2Y08yty9g)
+- [Macbeth](https://www.youtube.com/watch?v=XhZKaL5RrTI)
+- [Paris 1919](https://www.youtube.com/watch?v=r1NmrknzeLg)
+- [Graham Greene](https://www.youtube.com/watch?v=tGtS8GMVt2I)
+- [Half Past France](https://www.youtube.com/watch?v=OmzBtJ5AayE)
+- [Antarctica Starts Here](https://www.youtube.com/watch?v=QM2vQzl1xos)
 
 ## Release Images
 {{< imageGrid >}}

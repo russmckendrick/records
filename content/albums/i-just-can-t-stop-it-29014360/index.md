@@ -14,11 +14,18 @@ cover:
 additional_images:
     - "https://i.discogs.com/jobtHYDgiZV4TbXwR10tLzCD52nxnjhONrCN888FhcU/rs:fit/g:sm/q:90/h:582/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5MDE0/MzYwLTE3MDA5MTA5/MDktNjY0OC5qcGVn.jpeg"
     - "https://i.discogs.com/mEpHMEUH8NFQhklCuveexT3NCY4N87wIOYEH80mGxHE/rs:fit/g:sm/q:90/h:588/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5MDE0/MzYwLTE3MDA5MTEw/MDYtNzc1NS5qcGVn.jpeg"
-    - "https://i.discogs.com/FWS1FYAls7cNsx3FzkvVOax7vu9Fpg3Bsm5CtJiL14I/rs:fit/g:sm/q:90/h:270/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5MDE0/MzYwLTE3MDA5MTEw/MDctNzU4Mi5qcGVn.jpeg"
+    - "https://i.discogs.com/LgHP67Hc25tSDuvD0nqohtNyPlTl6cBy3ml0QjJ2V9o/rs:fit/g:sm/q:90/h:600/w:418/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5MDE0/MzYwLTE3MDA5MjIy/OTctMjExNi5qcGVn.jpeg"
 genres: ["Rock", "Reggae"]
 styles: ["Ska"]
 ---
 
+I Just Can't Stop It is the debut studio album by British two-tone band the Beat, released on 23 May 1980 by Go-Feet Records in the United Kingdom. It was released the same year in the United States on Sire Records, with the band credited as "The English Beat"; in Australia, it was released on Go-Feet under the band name "The British Beat".
+The album was well-received; Rolling Stone raved that the music was "wild and threatening, sexy and sharp," while AllMusic later wrote it "was a stunning achievement" which had not been diminished by time.
+The album was reissued on CD in 1990 by I.R.S. Records in the U.S, and in 2012 by Edsel Records in the UK and Shout! Factory in the U.S.
+
+
+    
+    
 
 
 ## Tracklisting
@@ -49,23 +56,25 @@ styles: ["Ska"]
 25. Get-A-Job / Stand Down Margaret
 
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/i-just-cant-stop-it/1446575988" >}}<br>
+{{< applemusic url="https://music.apple.com/gb/album/i-just-cant-stop-it-2012-remaster/1714522873" >}}<br>
 
 
 ## Videos
-### The English Beat - Twist And Crawl
-{{< youtube id="Bch9DuV0Y8o" title="The English Beat - Twist And Crawl" >}}<br>
+### The Beat - Mirror In The Bathroom - 1980
+{{< youtube id="dgMQco_0T-E" title="The Beat - Mirror In The Bathroom - 1980" >}}<br>
 ### More Videos
 
 - [THE BEAT - MEGAMIX - MEDLEY - (I JUST CAN'T STOP IT ALBUM)](https://www.youtube.com/watch?v=Ff7vcofoY1E)
-- [The Beat - Mirror In The Bathroom - 1980](https://www.youtube.com/watch?v=dgMQco_0T-E)
-- [Can't get used to losing you](https://www.youtube.com/watch?v=qErykBldZCs)
-- [The Beat - Hands Off She's Mine](https://www.youtube.com/watch?v=BR4HiPHRbrs)
-- [THE BEAT - (THE COMPLETE I JUST CAN'T STOP IT ALBUM)](https://www.youtube.com/watch?v=I58tsdmA5Co)
-- [THE BEAT - TWIST & CRAWL (EXTENDED VERSION)](https://www.youtube.com/watch?v=eteCTeZpSmU)
+- [The English Beat - Two Swords - I Just Can't Stop It [1980]](https://www.youtube.com/watch?v=YRYwncfYzrQ)
+- [THE BEAT - MEGAMIX - MEDLEY - (I JUST CAN'T STOP IT ALBUM)](https://www.youtube.com/watch?v=Ff7vcofoY1E)
+- ["Can't get used to losing you"](https://www.youtube.com/watch?v=qErykBldZCs)
 - [English Beat - rough rider](https://www.youtube.com/watch?v=KDJFEJsHhrs)
 - [Twist & Crawl](https://www.youtube.com/watch?v=bgCPeW_ZglM)
-- [The English Beat - Two Swords - I Just Can't Stop It [1980]](https://www.youtube.com/watch?v=YRYwncfYzrQ)
+- [THE BEAT - (THE COMPLETE I JUST CAN'T STOP IT ALBUM)](https://www.youtube.com/watch?v=I58tsdmA5Co)
+- [THE BEAT - TWIST & CRAWL (EXTENDED VERSION)](https://www.youtube.com/watch?v=eteCTeZpSmU)
+- [THE BEAT - MEGAMIX - MEDLEY - (I JUST CAN'T STOP IT ALBUM)](https://www.youtube.com/watch?v=Ff7vcofoY1E)
+- [The English Beat - Twist And Crawl](https://www.youtube.com/watch?v=Bch9DuV0Y8o)
+- [The Beat - Hands Off She's Mine](https://www.youtube.com/watch?v=BR4HiPHRbrs)
 
 ## Release Images
 {{< imageGrid >}}
@@ -73,7 +82,8 @@ styles: ["Ska"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
+| Wikipedia URL | https://en.wikipedia.org/wiki/I_Just_Can%27t_Stop_It |
 | Format         | Vinyl 2× LP Album Record Store Day Reissue (Clear) |
 | Label          | Rhino Records (2) |
 | Catalog Number | RCV1 725637 |
-| Discogs URL    | [The Beat - I Just Can't Stop It](https://www.discogs.com/release/29014360-The-Beat-I-Just-Cant-Stop-It) |
+| Discogs URL    | [The Beat - I Just Can't Stop It](https://www.discogs.com/release/29014360-The-Beat-2-I-Just-Cant-Stop-It) |

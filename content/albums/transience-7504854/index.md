@@ -55,7 +55,9 @@ Transience is a compilation album released in 2015 by British musician and recor
 {{< youtube id="YMM2Iqvmu_4" title="Steven Wilson - Lazarus" >}}<br>
 ### More Videos
 
+- [Steven Wilson - Lazarus](https://www.youtube.com/watch?v=YMM2Iqvmu_4)
 - [Steven Wilson - Transience (Single Version)](https://www.youtube.com/watch?v=3zM4AvAl9gQ)
+- [Steven Wilson - Lazarus](https://www.youtube.com/watch?v=YMM2Iqvmu_4)
 - [Happiness III](https://www.youtube.com/watch?v=NcQDccPNar4)
 - [Thank You](https://www.youtube.com/watch?v=IQQOvl1WM2A)
 - [Psychosins Psychoanalysis: Steven Wilson - Transience](https://www.youtube.com/watch?v=62ddEbw4Hao)

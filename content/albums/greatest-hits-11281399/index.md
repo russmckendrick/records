@@ -26,6 +26,8 @@ Greatest Hits is a compilation album by the American group Sly and the Family St
 Three tracks released on singles in 1969 appear on album for the first time here: "Hot Fun in the Summertime", "Everybody Is a Star", and "Thank You (Falettinme Be Mice Elf Agin)".
 The recordings on this compilation are not the same as the single versions in all cases; some songs appear here in their album lengths and mixes. Mixes sometimes have different editing and changes in vocals and or instrumentation.
 Greatest Hits was certified quintuple platinum by the Recording Industry Association of America (RIAA), having shipped five million copies in the United States. In 2003, Rolling Stone magazine ranked the album number 60 on its list of the 500 greatest albums of all time, 61 in a 2012 revised list, and number 343 in the 2020 rankings.
+
+
     
     
 
@@ -42,23 +44,29 @@ Greatest Hits was certified quintuple platinum by the Recording Industry Associa
 9. Hot Fun In The Summertime (2:37)
 10. M'Lady (2:44)
 11. Sing A Simple Song (4:47)
-12. Thank You (Falettinme Be Mice Elf Agin) (3:55)
+12. Thank You Falettinme Be Mice Elf Agin (3:55)
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/greatest-hits/212579326" >}}<br>
 
 
 ## Videos
-### Sly & The Family Stone - Hot Fun in the Summertime (Official Audio)
-{{< youtube id="Bg0tFRea0wA" title="Sly & The Family Stone - Hot Fun in the Summertime (Official Audio)" >}}<br>
+### Sly & Family Stone - You Can Make It If You Try
+{{< youtube id="l8sz_7TPWE0" title="Sly & Family Stone - You Can Make It If You Try" >}}<br>
 ### More Videos
 
-- [Sly & The Family Stone - Everybody Is a Star (Official Audio)](https://www.youtube.com/watch?v=3-1s2gqDs_U)
-- [Stand!](https://www.youtube.com/watch?v=Al0WUPn_CnM)
+- [Sly & The Family Stone Thank You (Falettinme Be Mice Elf Agin) HQ Audio](https://www.youtube.com/watch?v=wj5VODa-eTY)
+- [Sly & The Family Stone - Sing a Simple Song (Official Audio)](https://www.youtube.com/watch?v=42YGprrAOj0)
+- [Sly & The Family Stone - Fun](https://www.youtube.com/watch?v=wKpVxOMNofg)
+- [Sly & The Family Stone - Everyday People (Audio)](https://www.youtube.com/watch?v=3JvkaUvB-ec)
+- [Sly & The Family Stone - Hot Fun in the Summertime (Official Audio)](https://www.youtube.com/watch?v=Bg0tFRea0wA)
 - [I Want To Take You Higher](https://www.youtube.com/watch?v=GZrsNne4XhM)
+- [Stand!](https://www.youtube.com/watch?v=Al0WUPn_CnM)
 - [Everyday People](https://www.youtube.com/watch?v=bsxM-zuKdmQ)
 - [Life](https://www.youtube.com/watch?v=dbD1UVjr39s)
 - [M'Lady](https://www.youtube.com/watch?v=ZZ-MtP_LDXU)
+- [Sly & The Family Stone - Dance To The Music (Audio)](https://www.youtube.com/watch?v=Jn2PNlhvy8E)
+- [Sly & The Family Stone - Everybody Is a Star (Official Audio)](https://www.youtube.com/watch?v=3-1s2gqDs_U)
 
 ## Release Images
 {{< imageGrid >}}
@@ -67,8 +75,8 @@ Greatest Hits was certified quintuple platinum by the Recording Industry Associa
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Greatest_Hits_(Sly_and_the_Family_Stone_album) |
-| Format         | Vinyl LP Compilation |
+| Format         | Vinyl LP Compilation Reissue |
 | Label          | Epic |
 | Catalog Number | 88985432351 |
-| Notes |   |
+| Notes | Runouts are etched, '03' on Side A is mirrored.  |
 | Discogs URL    | [Sly & The Family Stone - Greatest Hits](https://www.discogs.com/release/11281399-Sly-The-Family-Stone-Greatest-Hits) |

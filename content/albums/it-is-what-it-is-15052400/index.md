@@ -14,11 +14,11 @@ cover:
     caption: "It Is What It Is by Thundercat"
 additional_images:
     - "https://i.discogs.com/3OBZMv4dc-j0dPCh2OqCINHnVLeLqmWBG19qS_D49EE/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MDUy/NDAwLTE1ODYwMzUy/OTgtOTA5NS5qcGVn.jpeg"
-    - "https://i.discogs.com/EWHhEgSJb8mMiAvCu4uKvJ-SrIR_rwdWk2Rem-xerR8/rs:fit/g:sm/q:90/h:603/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MDUy/NDAwLTE1OTI1OTI4/OTgtNDAyOC5qcGVn.jpeg"
+    - "https://i.discogs.com/Kl7mjPFpJmH9luJH-2_64zn0OASAmce4NheTzycsjXk/rs:fit/g:sm/q:90/h:600/w:596/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MDUy/NDAwLTE1OTI1OTI4/OTgtNDAyOC5qcGVn.jpeg"
     - "https://i.discogs.com/b0gKvKPRqVlHZVu0dzZCZiQutHcehhxVZRt8Pl5D3To/rs:fit/g:sm/q:90/h:420/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MDUy/NDAwLTE1ODYwMzUy/OTEtNzYzMy5qcGVn.jpeg"
     - "https://i.discogs.com/_ziij7-Hz56Z0V-hA0tPdb1oSLrlyswsy1913sWNZKY/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MDUy/NDAwLTE1ODYwMzUy/OTgtNzA3NC5qcGVn.jpeg"
     - "https://i.discogs.com/cQ6FFSAQEgIKJPSlEiRjKpuW6verVp6blgcM04Brnhw/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MDUy/NDAwLTE1ODYwMzUy/OTgtMzI2Ni5qcGVn.jpeg"
-    - "https://i.discogs.com/Yg8_lrm2xxdbStZGpY6_3FIdGTcpb4fisVOWrNbORXA/rs:fit/g:sm/q:90/h:1920/w:585/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MDUy/NDAwLTE1OTI4MzAx/OTEtNTkxMy5qcGVn.jpeg"
+    - "https://i.discogs.com/TKZ5vGOUEh3063O4ba2kTEk8OviVbLRosYojal6iaYo/rs:fit/g:sm/q:90/h:600/w:182/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MDUy/NDAwLTE1OTI4MzAx/OTEtNTkxMy5qcGVn.jpeg"
     - "https://i.discogs.com/MydvNn8ZSVu0VFE2NnzLnz65TlPAL3JMToJtta5yqUA/rs:fit/g:sm/q:90/h:190/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MDUy/NDAwLTE1OTI4MzAx/OTEtMjYzNy5qcGVn.jpeg"
 genres: ["Electronic", "Jazz", "Funk / Soul"]
 styles: ["Contemporary Jazz", "Contemporary R&B", "Hip Hop"]
@@ -99,6 +99,7 @@ Stephen Bruner’s fourth album as Thundercat is shrouded in loss—of love, of 
 - [Miguel's Happy Dance](https://www.youtube.com/watch?v=_D_DGhBR7NA)
 - [It Is What It Is](https://www.youtube.com/watch?v=lqDs_quhy0I)
 - [Innerstellar Love](https://www.youtube.com/watch?v=S19y2wksSz8)
+- [Thundercat - 'Dragonball Durag' (Official Video)](https://www.youtube.com/watch?v=ormQQG2UhtQ)
 - [Thundercat - 'Dragonball Durag' (Official Video)](https://www.youtube.com/watch?v=ormQQG2UhtQ)
 
 ## Release Images

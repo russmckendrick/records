@@ -21,12 +21,12 @@ additional_images:
     - "https://i.discogs.com/6aWWBh5L-8w_KemqJJ96fraiZlQD_67mrtIlAwijVKs/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExODY1/Njc5LTE1MjM4MTU1/NTAtNTExNi5qcGVn.jpeg"
     - "https://i.discogs.com/wadsqAgWMtNZs8tR5vtyL4yhWWqBwB2hw5wfqb-FmrE/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExODY1/Njc5LTE1MjM4MTU1/NTAtNTE0MS5qcGVn.jpeg"
     - "https://i.discogs.com/Jww7GYd9bKRjasKSPigxmc9ijkj86gtyUQ--dGQ0wcs/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExODY1/Njc5LTE1MjM4MTU1/NTMtNjE3MS5qcGVn.jpeg"
-    - "https://i.discogs.com/GimXFR0OyioB5hRHpgfLh3dRgEY6wl9IUnfOYKMXp2U/rs:fit/g:sm/q:90/h:1041/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExODY1/Njc5LTE1MjM4MTU3/MTMtODQzOC5qcGVn.jpeg"
+    - "https://i.discogs.com/9hsZAgTsg2TeG8A82dbk8sVR40ydaxDP8mHYDmTUCno/rs:fit/g:sm/q:90/h:600/w:345/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExODY1/Njc5LTE1MjM4MTU3/MTMtODQzOC5qcGVn.jpeg"
 genres: ["Rock", "Pop", "Folk, World, & Country"]
 styles: ["Folk"]
 ---
 
-On her first solo release since her supergroup outing with k.d. lang and Neko Case, Laura Veirs strips things down to the bare essentials, framing her evocative lyrics in as sparse a production as possible. Aside from the psychedelic guitar fest that breaks out halfway through "The Canyon," <i>The Lookout</i> alternates between gentle, breezy folk-rock cuts, like "Seven Falls," and spartan ballads, like the piano-based "The Meadow." Veirs' cover of the Grateful Dead's dreamy folk-psych nugget "Mountains of the Moon" fits right in.
+On her first solo release since her supergroup outing with k.d. lang and Neko Case, Laura Veirs strips things down to the bare essentials, framing her evocative lyrics in as sparse a production as possible. Aside from the psychedelic guitar fest that breaks out halfway through "The Canyon", <i>The Lookout</i> alternates between gentle, breezy folk-rock cuts, like "Seven Falls", and spartan ballads, like the piano-based "The Meadow". Veirs' cover of the Grateful Dead's dreamy folk-psych nugget "Mountains of the Moon" fits right in.
     
     
 
@@ -54,6 +54,10 @@ On her first solo release since her supergroup outing with k.d. lang and Neko Ca
 {{< youtube id="9nSs3Xn2blI" title="Laura Veirs - The Lookout [Full Album Stream]" >}}<br>
 ### More Videos
 
+- [Laura Veirs - Margaret Sands (opbmusic)](https://www.youtube.com/watch?v=_LoW3hKVBGQ)
+- [Laura Veirs - Everybody Needs You](https://www.youtube.com/watch?v=srwAMHbHVAE)
+- [Laura Veirs - Seven Falls (Live on KEXP)](https://www.youtube.com/watch?v=46Z89pu4Lu0)
+- [Laura Veirs - The Lookout [Full Album Stream]](https://www.youtube.com/watch?v=9nSs3Xn2blI)
 - [Laura Veirs - Margaret Sands (opbmusic)](https://www.youtube.com/watch?v=_LoW3hKVBGQ)
 - [Laura Veirs - Everybody Needs You](https://www.youtube.com/watch?v=srwAMHbHVAE)
 - [Laura Veirs - Seven Falls (Live on KEXP)](https://www.youtube.com/watch?v=46Z89pu4Lu0)

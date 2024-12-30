@@ -30,12 +30,15 @@ genres: ["Electronic", "Rock"]
 styles: ["Industrial"]
 ---
 
-When Trent Reznor submitted <i>The Downward Spiral</i> to Interscope Records cofounder Jimmy Iovine, he offered an apology. “Sorry,” Reznor remembered saying in a 2016 interview with Beats 1 host Zane Lowe. “I had to do it.” 
-Even in a shifted mid-’90s paradigm where bands like Nirvana could become famous, <i>Spiral</i> felt extreme—a blast of negativity so thorough that it’s hard to imagine it making headway with any size of audience, let alone the four million or so who ended up buying it. (Reznor himself remains somewhat incredulous—a note on the band’s own website describes the album as a “celebration of self-destruction in the form of a concept record that somehow managed to become a multi-platinum worldwide hit.”)<br />
-Inspired by Iggy Pop, Lou Reed, and David Bowie’s Berlin trilogy (<i>Low</i> in particular), <i>Spiral</i> pushed the industrial pop of <i>Pretty Hate Machine</i> and the <i>Broken</i> EP in unexpected directions, experimenting with torch songs (“Piggy”), disco and soul (“Closer”), and ballads of such unnerving fragility that listening to them feels voyeuristic (“Hurt”). Even tracks that found continuity with the band’s earlier music—“Big Man with a Gun,” the stuttering hardcore of “March of the Pigs”—were drastically more aggressive than anything they’d done before, flashes of mania that made the album’s quieter moments feel all the more exhausted.<br />
-What emerged was a pattern of emotional whiplash: You feel like you can topple the world, shred your tormentors, vent your toxic depths. Then, suddenly, you feel nothing. That you could whistle along with half of it was perverse but strangely fitting, especially given Reznor’s S&M affectations: Here was pain that felt pretty good. The album’s sound was just as polarized. Mixing digital and analog, sample collages with live performances, densely processed signals with naturalistic ones, <i>Spiral</i> was a drastic renovation to the texture and feel of conventional rock. Even now, it feels damaged, noisy, wrong—the product of both a gleaming future and an already ruined past. If the album has an essentializing moment, it’s the climax of “Closer”: mechanistic synth-funk that gives way to a warped, solitary piano, part music box, part trash. After <i>Spiral</i>, artists didn’t have to decide whether to be a rock band or an electronic producer—Reznor had bridged the two.<br />
+<b>100 Best Albums</b> When Trent Reznor submitted <i>The Downward Spiral</i> to Interscope Records co-founder Jimmy Iovine, he offered an apology. “Sorry,” Reznor remembered saying in a 2016 interview with Beats 1 host Zane Lowe. “I had to do it.” Even in a shifted mid-’90s paradigm where bands like Nirvana could become famous, <i>Spiral</i> felt extreme—a blast of negativity so thorough that it’s hard to imagine it making headway with any size of audience, let alone the four million or so who ended up buying it. (Reznor himself remains somewhat incredulous—a note on the band’s own website describes the album as a “celebration of self-destruction in the form of a concept record that somehow managed to become a multi-platinum worldwide hit.”)
+
+Inspired by Iggy Pop, Lou Reed, and David Bowie’s Berlin trilogy (<i>Low</i> in particular), <i>Spiral</i> pushed the industrial pop of <i>Pretty Hate Machine</i> and the <i>Broken</i> EP in unexpected directions, experimenting with torch songs (“Piggy”), disco and soul (“Closer”) and ballads of such unnerving fragility that listening to them feels voyeuristic (“Hurt”). Even tracks that found continuity with the band’s earlier music—“Big Man with a Gun”, the stuttering hardcore of “March of the Pigs”—were drastically more aggressive than anything they’d done before, flashes of mania that made the album’s quieter moments feel all the more exhausted.
+
+What emerged was a pattern of emotional whiplash: You feel like you can topple the world, shred your tormentors, vent your toxic depths. Then, suddenly, you feel nothing. That you could whistle along with half of it was perverse but strangely fitting, especially given Reznor’s S&M affectations: Here was pain that felt pretty good. The album’s sound was just as polarised. Mixing digital and analogue, sample collages with live performances, densely processed signals with naturalistic ones, <i>Spiral</i> was a drastic renovation to the texture and feel of conventional rock. Even now, it feels damaged, noisy, wrong—the product of both a gleaming future and an already ruined past. If the album has an essentialising moment, it’s the climax of “Closer”: mechanistic synth-funk that gives way to a warped, solitary piano, part music box, part trash. After <i>Spiral</i>, artists didn’t have to decide whether to be a rock band or an electronic producer—Reznor had bridged the two.
+
 “I was feeling my way around,” Reznor told Zane Lowe of the period leading up to <i>Spiral</i>. “What do I have to say? I didn’t live this exotic life. I grew up in a town in Pennsylvania. Kind of boring. What I did know is how I felt about myself, and my struggles to figure out who and what and why from my own perspective.” And therein lies the album’s healing irony: In facing the abyss, Reznor found his congregation.
-    
+        
+        
     
 
 
@@ -60,11 +63,9 @@ What emerged was a pattern of emotional whiplash: You feel like you can topple t
 
 
 ## Videos
-### The Downward Spiral
-{{< youtube id="9FNe7l3KkQU" title="The Downward Spiral" >}}<br>
-### More Videos
+### Nine Inch Nails - Closer (Director's Cut)
+{{< youtube id="PTFwQP86BRs" title="Nine Inch Nails - Closer (Director's Cut)" >}}<br>
 
-- [Mr. Self Destruct](https://www.youtube.com/watch?v=lZY91ZsyHGw)
 
 ## Release Images
 {{< imageGrid >}}
@@ -72,6 +73,7 @@ What emerged was a pattern of emotional whiplash: You feel like you can topple t
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
+| Wikipedia URL | https://en.wikipedia.org/wiki/The_Downward_Spiral |
 | Format         | Vinyl 2× LP Album Reissue |
 | Label          | Interscope Records |
 | Catalog Number | B0011697-01 |

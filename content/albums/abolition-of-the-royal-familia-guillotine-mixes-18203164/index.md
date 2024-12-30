@@ -18,9 +18,9 @@ additional_images:
     - "https://i.discogs.com/PL9jNcCsGtdISsNJs2wDiUyW4sFpNSSadcLqM2FiAtE/rs:fit/g:sm/q:90/h:448/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4MjAz/MTY0LTE2MTgwNTI5/NTQtMzc4NC5qcGVn.jpeg"
     - "https://i.discogs.com/dhdILeV-xXNwSpD0x5uIjK4gS1-yASH42vLxtPoequw/rs:fit/g:sm/q:90/h:448/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4MjAz/MTY0LTE2MTgwNTI5/NTItNjM1Mi5qcGVn.jpeg"
     - "https://i.discogs.com/Jb0Y0roURyZ9Worz-UfO-Za3R4etjc2L2H911raVgdY/rs:fit/g:sm/q:90/h:448/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4MjAz/MTY0LTE2MTgwNTI5/NTMtMzY5My5qcGVn.jpeg"
-    - "https://i.discogs.com/wqeCTGKwL0aGIngCei8zGPcKg9lwbWque8Wh08Ah8aM/rs:fit/g:sm/q:90/h:603/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4MjAz/MTY0LTE2MTgwNTI5/NTUtOTE4NC5qcGVn.jpeg"
+    - "https://i.discogs.com/atY0dKz9X8SFh0bf03D_Vuvm3WoUzGXoEHoDdqkpPyo/rs:fit/g:sm/q:90/h:600/w:596/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4MjAz/MTY0LTE2MTgwNTI5/NTUtOTE4NC5qcGVn.jpeg"
     - "https://i.discogs.com/O6n88nVdV0dManl6GHNJeYh8ACzNZe7zZy08W5-yKm4/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4MjAz/MTY0LTE2MTgwNTI5/NTUtMjM3NC5qcGVn.jpeg"
-    - "https://i.discogs.com/O3q_JhapnyL3s6EVkcMO6h0mJDC9KvdW3xt7gAbLCGQ/rs:fit/g:sm/q:90/h:614/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4MjAz/MTY0LTE2MTgwNTI5/NTQtNTk2Mi5qcGVn.jpeg"
+    - "https://i.discogs.com/nA2atvWybyDt5w-iwwMY90paaCm9mEsW1FTX4WCDW98/rs:fit/g:sm/q:90/h:600/w:585/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4MjAz/MTY0LTE2MTgwNTI5/NTQtNTk2Mi5qcGVn.jpeg"
     - "https://i.discogs.com/4MK5meunNsyspa2VyXwzGPecsdH6i8n6jUfw7Hcv4AE/rs:fit/g:sm/q:90/h:593/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4MjAz/MTY0LTE2MTgwNTI5/NTUtNjA3MS5qcGVn.jpeg"
     - "https://i.discogs.com/rFPBJabClIkg8qvRs08B3MA7qEkjvTVwojlo6d5wIvw/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4MjAz/MTY0LTE2MjQ5Mjc1/NzUtOTc5MS5qcGVn.jpeg"
 genres: ["Electronic"]
@@ -47,9 +47,15 @@ styles: ["Ambient", "House"]
 
 
 ## Videos
-### Orb – Abolition Of The Royal Familia (Guillotine Mixes)
-{{< youtube id="RuVSXb_dTJk" title="Orb – Abolition Of The Royal Familia (Guillotine Mixes)" >}}<br>
+### Slave Till U Die No Matter What U Buy (L'anse Aux Meadows Mix)
+{{< youtube id="wZDik3CbH40" title="Slave Till U Die No Matter What U Buy (L'anse Aux Meadows Mix)" >}}<br>
+### More Videos
 
+- [The Orb - Ital Orb (Iron Chair) - Gaudi Remix (Official Audio)](https://www.youtube.com/watch?v=ymKDIqKxvCk)
+- [The Orb - AAA (Hung, Drawn and Quartered) - Violeta Vicci Remix (Official Audio)](https://www.youtube.com/watch?v=BXD09ox8y70)
+- [The Orb - Pervitin (Empire Culling & The Hemlock Stone Version)](https://www.youtube.com/watch?v=llGe4H1hwqw)
+- [The Orb - Queen of Hearts (Duck or Drown) - Moody Boyz Remix (Official Audio)](https://www.youtube.com/watch?v=xibTj1SqTck)
+- [Orb – Abolition Of The Royal Familia (Guillotine Mixes)](https://www.youtube.com/watch?v=RuVSXb_dTJk)
 
 ## Release Images
 {{< imageGrid >}}

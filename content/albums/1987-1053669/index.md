@@ -13,9 +13,9 @@ cover:
     caption: "1987 by Whitesnake"
 additional_images:
     - "https://i.discogs.com/dULZTv6qDewSDnQMAvs8p56GDOeVVd7WFULUicnr8IA/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNTM2/NjktMTUzNDk0ODg4/OC0xNDc4LmpwZWc.jpeg"
-    - "https://i.discogs.com/4bMCEUicQvKhhsQ5t8hUmf0-HXqovjQOp2WLk65_bKg/rs:fit/g:sm/q:90/h:642/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNTM2/NjktMTUwODI1MTEz/Mi01NjM0LmpwZWc.jpeg"
-    - "https://i.discogs.com/40XT6JojNEmCmw_BDhOMX-F_8uNl0eST43sFblpid1E/rs:fit/g:sm/q:90/h:622/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNTM2/NjktMTUwODI1MTEx/Ny04NTk0LmpwZWc.jpeg"
-    - "https://i.discogs.com/afbotK2O4U2mgcMPUozUmtXn2BNUShUXKqQ0duV_1tg/rs:fit/g:sm/q:90/h:619/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNTM2/NjktMTUwODI1MTE0/MC00MjY0LmpwZWc.jpeg"
+    - "https://i.discogs.com/sCtTJe5nH6ky6suUWcM3IFw6ulCSS6927J4dm-AxcEE/rs:fit/g:sm/q:90/h:600/w:560/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNTM2/NjktMTUwODI1MTEz/Mi01NjM0LmpwZWc.jpeg"
+    - "https://i.discogs.com/5WpAvJPHMgh4lXtZaWOuQwlK2lt_toGsLPziy-VxbAY/rs:fit/g:sm/q:90/h:600/w:578/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNTM2/NjktMTUwODI1MTEx/Ny04NTk0LmpwZWc.jpeg"
+    - "https://i.discogs.com/OcS88GVofW_RbDYDWDzXrsJrAwBKnB68Q8xJmiTj-UE/rs:fit/g:sm/q:90/h:600/w:580/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNTM2/NjktMTUwODI1MTE0/MC00MjY0LmpwZWc.jpeg"
     - "https://i.discogs.com/Ir_mX2NgAnMPljqsI0bcl9rnsqXXwlkREuqfoPLfZRY/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNTM2/NjktMTUxMzQ3MTE1/OS04NDg5LmpwZWc.jpeg"
     - "https://i.discogs.com/CN3hbFThZSds-bQM2DqaQcpqQjM18vBE8iOAY90e16g/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNTM2/NjktMTUxMzQ3MTE4/MC00MzY5LmpwZWc.jpeg"
 genres: ["Rock"]
@@ -41,13 +41,13 @@ styles: ["Hard Rock", "Arena Rock"]
 
 
 ## Videos
-### Whitesnake - Is This Love (Official Music Video)
-{{< youtube id="GOJk0HW_hJw" title="Whitesnake - Is This Love (Official Music Video)" >}}<br>
+### Whitesnake - Here I Go Again '87 (Official Music Video)
+{{< youtube id="WyF8RHM1OCg" title="Whitesnake - Here I Go Again '87 (Official Music Video)" >}}<br>
 ### More Videos
 
-- [Whitesnake - Here I Go Again '87 (Official Music Video)](https://www.youtube.com/watch?v=WyF8RHM1OCg)
-- [Whitesnake - Still of the Night (Official Music Video)](https://www.youtube.com/watch?v=swPt9HBRXuE)
+- [Whitesnake - Is This Love (Official Music Video)](https://www.youtube.com/watch?v=GOJk0HW_hJw)
 - [Whitesnake - Give Me All Your Love (Official Music Video)](https://www.youtube.com/watch?v=dkl2hiTHUrc)
+- [Straight for the Heart (2017 Remaster)](https://www.youtube.com/watch?v=V-2PjKfhoOo)
 
 ## Release Images
 {{< imageGrid >}}

@@ -26,15 +26,14 @@ additional_images:
     - "https://i.discogs.com/FU-WTVor97_UcQtKANFIsLd4_2pAPD4a_Aj4GfPGxdk/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMzgx/MzM5LTE0OTcwNTEw/MjAtOTMwOS5qcGVn.jpeg"
     - "https://i.discogs.com/u6PPWZAqYK9cv5pUUGqwsNK46fEJf9s136gbRzuXDOI/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMzgx/MzM5LTE0OTcwNTEw/MTktNTc0MS5qcGVn.jpeg"
     - "https://i.discogs.com/wIIodIJh3ZmiGZ4fMw0HPtzd0U3rUStvuznfid-Haq8/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMzgx/MzM5LTE0OTcwNTEw/MTktNzc4MS5qcGVn.jpeg"
-    - "https://i.discogs.com/IwaDeDMFg1D5O7im-0Ge_YFQ6lSme-K7aKsozVg0Ojc/rs:fit/g:sm/q:90/h:750/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMzgx/MzM5LTE1MzgwOTM4/MzktNzI5NS5qcGVn.jpeg"
+    - "https://i.discogs.com/5WZIsfUyaw61E4i8V9BdUhdwL18VFt6KbfngHZ14jgM/rs:fit/g:sm/q:90/h:600/w:479/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMzgx/MzM5LTE1MzgwOTM4/MzktNzI5NS5qcGVn.jpeg"
     - "https://i.discogs.com/uK-6OdqsynM-EOlpv-jyxzeDsb5cPZn57st9EBg1ytw/rs:fit/g:sm/q:90/h:594/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMzgx/MzM5LTE1MzgwOTM4/MzktNjc3My5qcGVn.jpeg"
     - "https://i.discogs.com/3B2y4GLL8nBDIjeSue07B4RTxn-wbMPf_LEC8AP9-08/rs:fit/g:sm/q:90/h:333/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMzgx/MzM5LTE1MzgwOTM4/MzgtMTY1OC5qcGVn.jpeg"
 genres: ["Rock", "Latin"]
 styles: ["Acoustic"]
 ---
 
-Rodrigo y Gabriela is the second studio album by Mexican musical duo Rodrigo y Gabriela. It was first released in Ireland on February 17, 2006, where it debuted at number one on the Irish Albums Chart. The album included covers of Led Zeppelin's "Stairway to Heaven" and Metallica's "Orion", two artists who the duo say influenced their music.
-Their album was subsequently certified platinum in Ireland.The Japanese version of the album has an extra track, named "Señorita Xxx".
+Rodrigo y Gabriela ([roˈð̞ɾi.ɣ̞o i ɡaˈβ̞ɾje.la], "Rodrigo and Gabriela") are a Mexican acoustic guitar duo whose music is influenced by a number of genres including nuevo flamenco, rock, and heavy metal. The duo's recordings consist largely of instrumental duets on the flamenco guitar. Currently residing in Mexico City, they began their career in Dublin, Ireland, during an eight-year stay. They have toured internationally and in 2010, performed at The White House for President Barack Obama. In 2020, their fifth studio album Mettavolution won a Grammy Award for the Best Contemporary Instrumental Album at the 62nd Annual Grammy Awards. Their most recent album, In Between Thoughts…A New World, was released in April 2023.
 
 
     
@@ -67,18 +66,16 @@ Their album was subsequently certified platinum in Ireland.The Japanese version 
 
 
 ## Videos
-### Rodrigo y Gabriela - Diablo Rojo (HQ)
-{{< youtube id="l_cJ5fvVhiI" title="Rodrigo y Gabriela - Diablo Rojo (HQ)" >}}<br>
+### Rodrigo y Gabriela - Tamacun
+{{< youtube id="vyOSXRCJlIg" title="Rodrigo y Gabriela - Tamacun" >}}<br>
 ### More Videos
 
-- [Rodrigo y Gabriela- Hanuman OFFICIAL](https://www.youtube.com/watch?v=ENBX_v1Po1Y)
-- [Rodrigo Y Gabriela - Orion   (Metallica cover)](https://www.youtube.com/watch?v=_zwKvCXw_8M)
+- [Rodrigo y Gabriela - Diablo Rojo](https://www.youtube.com/watch?v=0bLEzeW5CJQ)
+- [Rodrigo y Gabriela - Ixtapa](https://www.youtube.com/watch?v=-V3qCq48bP0)
 - [Rodrigo y Gabriela - Orion (Studio Version)](https://www.youtube.com/watch?v=GP6rkf3qB0c)
-- [Rodrigo y Gabriela - Diablo Rojo](https://www.youtube.com/watch?v=g2BBiKu-zmg)
-- [Rodrigo y Gabriela | Stairway to Heaven](https://www.youtube.com/watch?v=sEk8wTB7UfU)
-- [Rodrigo y Gabriela - Tamacun](https://www.youtube.com/watch?v=Fn9nUE3ngvs)
 - [Rodrigo y Gabriela - Viking Man](https://www.youtube.com/watch?v=dLESmgh-VCE)
-- [Rodrigo y Gabriela - Stairway To Heaven (Led Zeppelin coer)](https://www.youtube.com/watch?v=YRNVn_B-7OA)
+- [Rodrigo y Gabriela | Stairway to Heaven](https://www.youtube.com/watch?v=sEk8wTB7UfU)
+- [Rodrigo y Gabriela- "Hanuman" OFFICIAL](https://www.youtube.com/watch?v=ENBX_v1Po1Y)
 
 ## Release Images
 {{< imageGrid >}}
@@ -86,7 +83,7 @@ Their album was subsequently certified platinum in Ireland.The Japanese version 
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Wikipedia URL | https://en.wikipedia.org/wiki/Rodrigo_y_Gabriela_(album) |
+| Wikipedia URL | https://en.wikipedia.org/wiki/Rodrigo_y_Gabriela |
 | Format         | Vinyl 2× LP Album Deluxe Edition Limited Edition Remastered |
 | Label          | Rubyworks |
 | Catalog Number | RWXLP37R |

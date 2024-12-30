@@ -12,19 +12,23 @@ cover:
     alt: "Black Cherry by Goldfrapp"
     caption: "Black Cherry by Goldfrapp"
 additional_images:
-    - "https://i.discogs.com/xzzkVihiLUJ-69A6KBheH8B3iZPMMKAsb0HYD-z54Qs/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MTgy/OTMyLTE2NTA4MzIz/MzYtOTkzMS5qcGVn.jpeg"
-    - "https://i.discogs.com/_P04KpKzqS8WbdKrOpVYP5cxZmKhVU4DQRaKuVi7YtI/rs:fit/g:sm/q:90/h:602/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MTgy/OTMyLTE2NTA4MzIz/MzYtNjI0Ny5qcGVn.jpeg"
-    - "https://i.discogs.com/x1K0xOQpz-_fBBpNi8eTmFf0y-jq0Yix6xYpSivM3XM/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MTgy/OTMyLTE2NTA4MzIz/MzgtNTA5NC5qcGVn.jpeg"
-    - "https://i.discogs.com/vxTja91qiT5kEmG-kHytRpdm1iGLvwu4akITqMKVJgU/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MTgy/OTMyLTE2NTA4MzIz/MzctNzM5My5qcGVn.jpeg"
+    - "https://i.discogs.com/6EzT_LOhNVAI_BKDVX6G5D4HisGCUSREchlDNmfnTWI/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MTgy/OTMyLTE2MzQ4NDA3/MzYtODQwOS5qcGVn.jpeg"
+    - "https://i.discogs.com/MJ7O_DLrgI8OgERQeSnwbJkEuu1eF0RMrUMLEN7A1bQ/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MTgy/OTMyLTE2MzQ3NjIw/MDAtNTAzNC5qcGVn.jpeg"
     - "https://i.discogs.com/k4VoGD5fZXDyCGTooG8sF5o-BS3P6lL9saVv1RDjlj8/rs:fit/g:sm/q:90/h:589/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MTgy/OTMyLTE2NTA1MDc5/NjUtNDI3MS5qcGVn.jpeg"
-    - "https://i.discogs.com/Li6oUiI1_0AhQ2QScOXXywmehT-whk9h6Nnc-2I0LyY/rs:fit/g:sm/q:90/h:611/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MTgy/OTMyLTE2NTA1MDc5/NjUtMjUyNi5qcGVn.jpeg"
-    - "https://i.discogs.com/uz1rqA_jvOYbVFQUmfOxniUYBiqb8NEL5Bu6lGJCups/rs:fit/g:sm/q:90/h:601/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MTgy/OTMyLTE2NTA4MzIz/MzYtNTU3OC5qcGVn.jpeg"
+    - "https://i.discogs.com/RPs2i2Xr29ajgy-EP748b5q8-aBWa8ZILtHkGq-Gvhg/rs:fit/g:sm/q:90/h:600/w:588/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MTgy/OTMyLTE2NTA1MDc5/NjUtMjUyNi5qcGVn.jpeg"
+    - "https://i.discogs.com/4rykMDyPlUcKZvpeVIu62f6VRDYHrwIy_gBQhyHRMhM/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MTgy/OTMyLTE2MzQ3NjE5/OTktNDg2MC5qcGVn.jpeg"
+    - "https://i.discogs.com/f6V-OMeBuSzUHbf0QGl50ILnGKWx1YEV5W_fmC5FIZU/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MTgy/OTMyLTE2MzQ3NjIw/MDAtOTg3Ny5qcGVn.jpeg"
+    - "https://i.discogs.com/M2u-_i-7zBhsPlRacj1Rhh8r-zSea8xt1m8_xmPvzVk/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MTgy/OTMyLTE2MzQ3NjE5/OTktMTk2Ni5qcGVn.jpeg"
+    - "https://i.discogs.com/VsGWRlNTbLFTECjHRTfearZdT-QkaqlpowlH1VPRLfg/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MTgy/OTMyLTE2NTA4MzIz/MzYtOTkzMS5qcGVn.jpeg"
+    - "https://i.discogs.com/bcMmD9K375w1ayw7gcsvTHq1XXi_dUm3ELv0I2aEwS8/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MTgy/OTMyLTE2MzQ3NjE5/OTYtMTIwMy5qcGVn.jpeg"
 genres: ["Electronic"]
 styles: ["Electroclash", "Synth-pop", "Downtempo"]
 ---
 
 Black Cherry is the second studio album by English electronic music duo Goldfrapp, released on 23 April 2003 by Mute Records. It marked a departure from the ambient sound of their debut album, Felt Mountain (2000), incorporating glam rock and synth-pop music; inspirations were Spanish disco group Baccara and Swedish techno artist Håkan Lidbo. The album was met with positive reviews, with many critics complimenting its blend of retro and modern electropop music.
 The album debuted at number 19 on the UK Albums Chart and has been certified platinum by the British Phonographic Industry (BPI). As of May 2005, it had sold nearly 500,000 copies worldwide. Black Cherry yielded four singles, including "Strict Machine", which reached number 20 on the UK Singles Chart. It earned the band a nomination for Best British Dance Act at the 2004 Brit Awards. The album was supported by the Black Cherry Tour (2003–2004).
+
+
     
     
 
@@ -42,7 +46,7 @@ The album debuted at number 19 on the UK Albums Chart and has been certified pla
 10. Slippage
 
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/black-cherry/1143687106" >}}<br>
+{{< applemusic url="https://music.apple.com/gb/album/black-cherry/1435643051" >}}<br>
 
 
 ## Videos
@@ -50,10 +54,12 @@ The album debuted at number 19 on the UK Albums Chart and has been certified pla
 {{< youtube id="YeawPUpTHJA" title="Goldfrapp - Strict Machine (Official HD Video)" >}}<br>
 ### More Videos
 
-- [Goldfrapp - Train](https://www.youtube.com/watch?v=PHnYe5Nj0F0)
 - [Goldfrapp - Black Cherry Documentary](https://www.youtube.com/watch?v=Lgktgw8a69I)
+- [Goldfrapp - Train](https://www.youtube.com/watch?v=PHnYe5Nj0F0)
 - [Goldfrapp - Twist](https://www.youtube.com/watch?v=tAhMo-wWTsk)
 - [Goldfrapp - Black Cherry (Lyric Video)](https://www.youtube.com/watch?v=vnN342N6NQw)
+- [Crystalline Green](https://www.youtube.com/watch?v=4mZZOIBD0wA)
+- [Goldfrapp - Crystalline Green (Remastered Video).](https://www.youtube.com/watch?v=juLtASAJ-ws)
 
 ## Release Images
 {{< imageGrid >}}

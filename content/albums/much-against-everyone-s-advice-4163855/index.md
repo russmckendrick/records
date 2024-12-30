@@ -14,7 +14,7 @@ cover:
 additional_images:
     - "https://i.discogs.com/lVOAb5jAzmolbrEVgRQLXpe6HQimMozDQjcJym3vsLo/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQxNjM4/NTUtMTM1NzQ5Mzkz/Mi0yNjY1LmpwZWc.jpeg"
     - "https://i.discogs.com/A1NwUfZoWEQP_Kk915mONT_I2ZhrD-YGQSMSu8MX4RE/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQxNjM4/NTUtMTM1NzQ5Mzky/NC03NTgzLmpwZWc.jpeg"
-    - "https://i.discogs.com/fbCOk-4G1Rln6SvqtBahonxbC20JhCipn5DYXS1kT88/rs:fit/g:sm/q:90/h:601/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQxNjM4/NTUtMTYxMzY3MTIz/My0xNjkyLmpwZWc.jpeg"
+    - "https://i.discogs.com/aoM26eQp6tW71HuD5Qqe5KL8ZEYbOctK2JsPRWMbOCE/rs:fit/g:sm/q:90/h:600/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQxNjM4/NTUtMTYxMzY3MTIz/My0xNjkyLmpwZWc.jpeg"
 genres: ["Rock"]
 styles: ["Alternative Rock"]
 ---
@@ -43,9 +43,7 @@ styles: ["Alternative Rock"]
 {{< youtube id="r28N6iYEN0I" title="01   Conversation Intercom - Soulwax" >}}<br>
 ### More Videos
 
-- [Soulwax - Too Many DJs](https://www.youtube.com/watch?v=C6xHYuuYdoM)
 - [03   When Logics Die - Soulwax](https://www.youtube.com/watch?v=fIe4ygIvwKM)
-- [Too Many DJs](https://www.youtube.com/watch?v=gJ9ao8u4GMY)
 - [04   Much Against Everyone's Advice - Soulwax](https://www.youtube.com/watch?v=Jm7N789FXUg)
 - [Funny](https://www.youtube.com/watch?v=eNimQu7lx40)
 - [When Logics Die](https://www.youtube.com/watch?v=x5hVMKDpMnU)
@@ -53,6 +51,8 @@ styles: ["Alternative Rock"]
 - [Soulwax - Saturday](https://www.youtube.com/watch?v=Dxq9VnAoV9A)
 - [13   Scream - Soulwax](https://www.youtube.com/watch?v=gAeNoZR6zcA)
 - [soulwax - my cruel joke](https://www.youtube.com/watch?v=rW7UzZ9sqKc)
+- [Soulwax - Too Many DJs](https://www.youtube.com/watch?v=C6xHYuuYdoM)
+- [Too Many DJs](https://www.youtube.com/watch?v=gJ9ao8u4GMY)
 
 ## Release Images
 {{< imageGrid >}}

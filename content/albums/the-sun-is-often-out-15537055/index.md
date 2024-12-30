@@ -30,8 +30,7 @@ styles: ["Indie Rock"]
 ---
 
 The Sun Is Often Out (stylized as THE SUN iS OfTEN oUT) is the debut album by Longpigs, released in 1996 on U2's record label, Mother Records.
-Five singles were released from the album, initially to little success. The first two - "She Said" and "Jesus Christ" - both failed to crack the UK Top 40, both stalling at No. 67. The third single - "Far" fared a little better, scraping into the Top 40, reaching No. 37 and received significant radio airplay, particularly on the national pop and rock radio station, BBC Radio 1. It was, however, the next single, "On and On” which would be the band’s breakthrough single; reaching No. 16 in the UK. With this momentum the album was released in April and shortly after "She Said" was re-released, also making it to No. 16 in the UK singles chart. The final single from the album "Lost Myself", narrowly missed out on giving the band a third successive Top 20 single, stalling at No. 22.
-The Sun Is Often Out was declared one of 1996's 50 best albums by both Q and Melody Maker and retains a favourable 4 star rating on the AllMusic website, by both critics and fans.
+Five singles were released from the album, initially to little success. The first two—"She Said" and "Jesus Christ"—both failed to crack the UK Top 40, both stalling at No. 67. The third single, "Far", fared a little better, scraping into the Top 40, reaching No. 37 and receiving significant radio airplay, particularly on the national pop and rock radio station, BBC Radio 1. However, the next single, "On and On", would be the band's breakthrough single, reaching No. 16 in the UK. With this momentum the album was released in April, and shortly after, "She Said" was re-released, also making it to No. 16 in the UK singles chart. The final single from the album, "Lost Myself", narrowly missed giving the band a third successive Top 20 single, stalling at No. 22.
     
     
 
@@ -58,23 +57,25 @@ The Sun Is Often Out was declared one of 1996's 50 best albums by both Q and Mel
 {{< youtube id="6Pg32F19KfI" title="Longpigs - On and On" >}}<br>
 ### More Videos
 
-- [Lost Myself](https://www.youtube.com/watch?v=n2v1sj9eRXI)
 - [The Longpigs - Jesus Christ](https://www.youtube.com/watch?v=wjGPT7LJQHA)
-- [Lost Myself](https://www.youtube.com/watch?v=OXMRz0WQPgI)
 - [Longpigs - Sally Dances](https://www.youtube.com/watch?v=TAdFwQMgt8k)
-- [On & On](https://www.youtube.com/watch?v=vmHNHWPtlZg)
 - [Longpigs - Far](https://www.youtube.com/watch?v=3ZW04NmOf7g)
-- [Elvis](https://www.youtube.com/watch?v=1SrfFy523f8)
 - [Lost Myself - Longpigs, The](https://www.youtube.com/watch?v=1fdbblQ2HMc)
-- [Over Our Bodies](https://www.youtube.com/watch?v=2soMlrKasCI)
 - [Longpigs - Elvis](https://www.youtube.com/watch?v=IrZ7-xuxrSY)
-- [Far](https://www.youtube.com/watch?v=MS066blVC1I)
 - [Longpigs - She Said](https://www.youtube.com/watch?v=dutG1mcfkpo)
-- [She Said](https://www.youtube.com/watch?v=sStoUPJk_Ac)
 - [LONGPIGS  On  and On  ( BBC Radio One live session track ) 1995.](https://www.youtube.com/watch?v=TnKFBlkw8gU)
 - [Longpigs - She Said (Top Of The Pops)](https://www.youtube.com/watch?v=4S1DgmkbW6E)
-- [All Hype](https://www.youtube.com/watch?v=N6p9vVxTBpM)
 - [The Longpigs - On And On (US Version)](https://www.youtube.com/watch?v=1P-oRJ-5M0A)
+- [Lost Myself](https://www.youtube.com/watch?v=n2v1sj9eRXI)
+- [Lost Myself](https://www.youtube.com/watch?v=OXMRz0WQPgI)
+- [On & On](https://www.youtube.com/watch?v=vmHNHWPtlZg)
+- [Elvis](https://www.youtube.com/watch?v=1SrfFy523f8)
+- [Over Our Bodies](https://www.youtube.com/watch?v=2soMlrKasCI)
+- [Far](https://www.youtube.com/watch?v=MS066blVC1I)
+- [She Said](https://www.youtube.com/watch?v=sStoUPJk_Ac)
+- [LONGPIGS  On  and On  ( BBC Radio One live session track ) 1995.](https://www.youtube.com/watch?v=TnKFBlkw8gU)
+- [All Hype](https://www.youtube.com/watch?v=N6p9vVxTBpM)
+- [Longpigs - On and On](https://www.youtube.com/watch?v=6Pg32F19KfI)
 
 ## Release Images
 {{< imageGrid >}}

@@ -14,7 +14,7 @@ cover:
     caption: "The Center Won't Hold by Sleater-Kinney"
 additional_images:
     - "https://i.discogs.com/ZxcCeJJZ4Pdf_PKkxZ1mADp5XFrwtdjY48dvtbJaU6w/rs:fit/g:sm/q:90/h:590/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MDAz/MDkzLTE1NjU4Nzc3/MjItMjc2NS5qcGVn.jpeg"
-    - "https://i.discogs.com/K9z2E51ZIgEC_ggfQDYr_CZSLefywoZplxa5pBDc7mw/rs:fit/g:sm/q:90/h:601/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MDAz/MDkzLTE1NjU4Nzc3/MjAtNTM0Ni5qcGVn.jpeg"
+    - "https://i.discogs.com/nII7KhPBSaARw76vtMuczqlwDOVesdF8a47BPDOH9oA/rs:fit/g:sm/q:90/h:600/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MDAz/MDkzLTE1NjU4Nzc3/MjAtNTM0Ni5qcGVn.jpeg"
     - "https://i.discogs.com/HX43_BoYR7oTBgFMS_Z63AROGKJJ6unEqa1C4_TUQL8/rs:fit/g:sm/q:90/h:588/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MDAz/MDkzLTE1NjU5NzYw/MzYtMzU0My5qcGVn.jpeg"
     - "https://i.discogs.com/QzveZjpBUwbm5Ka3_YLEkxRzQOsbq8JqE0gwo5DZjAk/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MDAz/MDkzLTE1NjU5NzYw/MzItOTgyMS5qcGVn.jpeg"
 genres: ["Rock"]
@@ -46,7 +46,8 @@ Tucker: “If ‘Bad Dance’ is like a terrible party, this is the next morning
 Brownstein: “I wrote this song after Tom Petty died, and I think it feels very Tom Petty in the chorus. There's these weird things when people leave you and leave this world. I remember listening to Tom Petty's music, but he’s not here. And that was a weird haunted feeling to me. With the chorus, Annie was like, ‘I just want this to sound like everyone's at a bar singing along at the end of the night, like when the lights come on.’”<br />
 <b>“Broken”</b> 
 Tucker: “This song is really about realising that there's some social justice that hasn't happened in our country, and I probably won't see it in my lifetime. That's a sad feeling. There's mourning and grief there about the world we're living in.” Brownstein: “I think you have to find new ways of loving something and appreciating it. And it's good to kind of step outside of that comfort zone a bit. We’ve written on guitar for so long. But I'm such a fan of Corin's voice, and to hear her sing over a piano song for me is very rewarding.”
-    
+        
+        
     
 
 
@@ -74,8 +75,8 @@ Tucker: “This song is really about realising that there's some social justice 
 {{< youtube id="_xfPoLEJpgY" title="Sleater-Kinney - The Center Won't Hold (Official Lyric Video)" >}}<br>
 ### More Videos
 
-- [Sleater-Kinney - Can I Go On (Official Video)](https://www.youtube.com/watch?v=pB08AUiTP3w)
 - [Sleater-Kinney - The Future Is Here (Official Lyric Video)](https://www.youtube.com/watch?v=MP_2p79Ems4)
+- [Sleater-Kinney - Can I Go On (Official Video)](https://www.youtube.com/watch?v=pB08AUiTP3w)
 
 ## Release Images
 {{< imageGrid >}}
@@ -83,8 +84,9 @@ Tucker: “This song is really about realising that there's some social justice 
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
+| Wikipedia URL | https://en.wikipedia.org/wiki/The_Center_Won%27t_Hold |
 | Format         | Vinyl LP Album, Vinyl 7" Single |
 | Label          | Caroline International |
 | Catalog Number | 7790840 |
-| Notes | Heavyweight black vinyl in gatefold sleeve with black die-cut printed inner bag, bonus 7" and collectible artpack.   Catalogue number on LP sleeve is 7790840 Catalogue number of 7" single is 7790839 Administered by BMG Rights Management (US) LLC. |
+| Notes | Sticker on shrinkwrap: GATEFOLD JACKET - 180G BLACK HEAVYWEIGHT VINYL - COLLECTABLE ARTPACK - 7" VINYL SINGLE   Catalogue number on LP sleeve is 7790840 Catalogue number of 7" single is 7790839 Administered by BMG Rights Management (US) LLC. |
 | Discogs URL    | [Sleater-Kinney - The Center Won't Hold](https://www.discogs.com/release/14003093-Sleater-Kinney-The-Center-Wont-Hold) |

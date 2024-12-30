@@ -16,16 +16,16 @@ additional_images:
     - "https://i.discogs.com/hqb5OHzFY-6OUTdeHsbZ50IAV1xTokr7qZUZS-C2qAY/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3NDg1/NzEtMTM5NjU1NzI3/My00MTI0LmpwZWc.jpeg"
     - "https://i.discogs.com/oo_aCx94KIsbvCxCRc5CEWo-uUd1Vrmhi09PwFKhJjc/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3NDg1/NzEtMTM5NjU1NzI3/My0zNzg2LmpwZWc.jpeg"
     - "https://i.discogs.com/vjG3QV9EU3sQv_t7ZyzZmamGY6GznCQRCiwdRkGDw0E/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3NDg1/NzEtMTY1NzIwNTUw/MC0xMTE5LmpwZWc.jpeg"
-    - "https://i.discogs.com/2KQH0g4JSFPrhaeuxVW8YXBizGWHgWfYnTIluEJKBN4/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3NDg1/NzEtMTY1NzIwNTUw/MC0xMzAxLmpwZWc.jpeg"
-    - "https://i.discogs.com/x73Ic5udI4BT3Hv2CtCseXxhr6EQuoOSp217uSA90jU/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3NDg1/NzEtMTY1NzIwNTUw/MC0xMzcxLmpwZWc.jpeg"
-    - "https://i.discogs.com/6oZyWUnabkvknmhIei0SNzmYfAbZm5MXEIDXX_je3w8/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3NDg1/NzEtMTY1NzIwNTUw/MC0zMjAzLmpwZWc.jpeg"
-    - "https://i.discogs.com/6oVZkFIif80JoYMsY91sitqrQqFrG8Cu3U3JX0PP8LE/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3NDg1/NzEtMTY1NzIwNTUw/MC03ODQxLmpwZWc.jpeg"
-    - "https://i.discogs.com/qL7JSr52n2P24RdTgExCmaSpfAAJPC7xnNQQjZXQ4T0/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3NDg1/NzEtMTY1NzIwNTUw/MC00Mjg5LmpwZWc.jpeg"
+    - "https://i.discogs.com/YJ6q8apQZhIgGow5nKKXajSTVqTb_4NulXjGhZSDEtw/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3NDg1/NzEtMTY1NzIwNTUw/MC0xMzAxLmpwZWc.jpeg"
+    - "https://i.discogs.com/tvDgc_MU89rC62xGR4ZHKmp9DSzDXtujkzyqUUPcgb8/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3NDg1/NzEtMTY1NzIwNTUw/MC0xMzcxLmpwZWc.jpeg"
+    - "https://i.discogs.com/KCwUP4Pj59pxSjR_srwJ6gktU11Pi0l1IB-nIAFSiH8/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3NDg1/NzEtMTY1NzIwNTUw/MC0zMjAzLmpwZWc.jpeg"
+    - "https://i.discogs.com/oRCjPplDxq2cueOvHwlZRJ07jatRoCV-B6pMAtUaiZk/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3NDg1/NzEtMTY1NzIwNTUw/MC03ODQxLmpwZWc.jpeg"
+    - "https://i.discogs.com/q6eeEN2zC_Fxic-sWLF9ahySTKQTuFlkcRR9y_d2ILk/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3NDg1/NzEtMTY1NzIwNTUw/MC00Mjg5LmpwZWc.jpeg"
 genres: ["Funk / Soul"]
 styles: ["Soul", "Funk"]
 ---
 
-On a rainy New York City night in 1972, Bill Withers transformed Carnegie Hall into a soul revival meeting. It’s not just his warm, gritty vocals on the sweetly aching “Ain’t No Sunshine” or his fervent take on the gospel-infused “Lean on Me.” It’s the palpable connection you can hear between performer and audience in his warm patter and reminiscences. By the time he closes the evening with the 13-minute soul-stirrer “Harlem / Cold Baloney,” everyone in the room is a believer.
+On a rainy New York City night in 1972, Bill Withers transformed Carnegie Hall into a soul revival meeting. It’s not just his warm, gritty vocals on the sweetly aching “Ain’t No Sunshine” or his fervent take on the gospel-infused “Lean on Me”. It’s the palpable connection you can hear between performer and audience in his warm patter and reminiscences. By the time he closes the evening with the 13-minute soul-stirrer “Harlem / Cold Baloney”, everyone in the room is a believer.
     
     
 
@@ -56,7 +56,6 @@ On a rainy New York City night in 1972, Bill Withers transformed Carnegie Hall i
 ### More Videos
 
 - [Friend of Mine (Live at Carnegie Hall, New York, NY - October 1972)](https://www.youtube.com/watch?v=LXIe92-eQCg)
-- [Ain't No Sunshine (Live at Carnegie Hall, New York, NY - October 1972)](https://www.youtube.com/watch?v=oHoM2i804QI)
 - [Grandma's Hands (Live at Carnegie Hall, New York, NY - October 1972)](https://www.youtube.com/watch?v=erARI_f9AvA)
 - [World Keeps Going Around (Live at Carnegie Hall, New York, NY - October 1972)](https://www.youtube.com/watch?v=hwFz7--6e2w)
 - [Let Me in Your Life (Live at Carnegie Hall, New York, NY - October 1972)](https://www.youtube.com/watch?v=EiVnd1DwSHA)

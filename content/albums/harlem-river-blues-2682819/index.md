@@ -4,7 +4,6 @@ artist_name: "Justin Townes Earle"
 artist: "justin-townes-earle"
 album_name: "Harlem River Blues"
 date: 2015-12-30T18:48:51.000000Z
-release_date: "2010-09-14"
 release_id: "2682819"
 slug: "harlem-river-blues-2682819"
 hideSummary: true
@@ -13,17 +12,22 @@ cover:
     alt: "Harlem River Blues by Justin Townes Earle"
     caption: "Harlem River Blues by Justin Townes Earle"
 additional_images:
-    - "https://i.discogs.com/g-Z21uJW6QRZOslAEgmQm5AcUP9B3uofymb0nYQD-eg/rs:fit/g:sm/q:90/h:500/w:500/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2ODI4/MTktMTI5NjQwMjc4/NS5qcGVn.jpeg"
-    - "https://i.discogs.com/-zYWM5Gnk-cXRo00VFma2faFyUlL9UbLpuOUjQ2mkIg/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2ODI4/MTktMTYwNzU0MDY0/Mi0zODg0LmpwZWc.jpeg"
-    - "https://i.discogs.com/Psk96afe2w7ROVGIZR9Xh6eSf89Re1fOc5woGdrqbPw/rs:fit/g:sm/q:90/h:605/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2ODI4/MTktMTM4NjQyNTE4/Mi05NDU1LmpwZWc.jpeg"
-    - "https://i.discogs.com/ZRgPnZnXtfWYGzES4y7ibWIldS1nhclPh_EMkQl0i_8/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2ODI4/MTktMTM4NjQyNTE5/NC0xNjQxLmpwZWc.jpeg"
+    - "https://i.discogs.com/dQ-RAJ4s-g5X5e28HoscydG-Fy7Fo1KCh4ecbQRh8CU/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2ODI4/MTktMTczMDA0Mjg4/MC05MDUxLmpwZWc.jpeg"
+    - "https://i.discogs.com/7OUTimmVv4NRMVAvlTSno5R1rFvVZ10JKX_v5reVet8/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2ODI4/MTktMTczMDA0Mjg4/MC00ODYzLmpwZWc.jpeg"
+    - "https://i.discogs.com/C46nbcLABRvRDaNvi7oEDKuSSpUgvMz5qTdaI2iIDDw/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2ODI4/MTktMTczMDA0Mjg4/NC01Mjk0LmpwZWc.jpeg"
+    - "https://i.discogs.com/MKxydWt3h3C3uwxJ5DzWeIB2snnxwFxED4EZr4IIKho/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2ODI4/MTktMTczMDA0Mjg4/MS0yNTg4LmpwZWc.jpeg"
+    - "https://i.discogs.com/qkCh0agixPjCpf-O9x43HPXsV9_l6Oovjp4MQ66ornw/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2ODI4/MTktMTczMDA0Mjg4/MC02NDEzLmpwZWc.jpeg"
+    - "https://i.discogs.com/VG8Qk7qU_4V3GfJT9Ox_d7DRQiUYfejSjbCm-P-EMf4/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2ODI4/MTktMTczMDA0Mjg4/MC03MzYxLmpwZWc.jpeg"
+    - "https://i.discogs.com/vYKcbY3SiBSCLSDJAsnustrKEjIOclsR4i8nb1mc0s4/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2ODI4/MTktMTczMDA0Mjg4/MS00MTI3LmpwZWc.jpeg"
     - "https://i.discogs.com/gr7miMeTYojUvjdD1CmtuD-3aKdODiIWIkdCyjFFEM4/rs:fit/g:sm/q:90/h:566/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2ODI4/MTktMTM4NjQyNDI0/NS03NDQwLmpwZWc.jpeg"
     - "https://i.discogs.com/Qu1NGplfIYDd5soM3bEGvCAeikqClr18d6yeNzv8A6k/rs:fit/g:sm/q:90/h:426/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2ODI4/MTktMTM4NjQyNDY3/NS04Njc5LmpwZWc.jpeg"
 genres: ["Rock", "Folk, World, & Country"]
 styles: ["Country", "Folk"]
 ---
 
-Justin Townes Earle has quite a legacy to live up to. His father is Steve Earle and he was named in part after the late, great legendary songwriter Townes Van Zandt. With those influences of artistic purity looking over his shoulder, Earle sticks to roots music where a Hammond B-3 sounds perfectly at home. “Move Over Mama” is the perfect example of Earle’s sincerity towards old forms. It’s a rockabilly number that sounds like it could’ve been recorded in the 1950s with its cloudy reverb and slapping acoustic bass. “Workin’ for the MTA” sounds like an old country music mountain ballad. “Wanderin’” is the Woody Guthrie-like tune Bob Dylan chased as a young man. “Slippin’ and Slidin’” adds some gritty guitar and R&B horns to Earle’s high lonesome vocals. “Christchurch Woman” is a gripping love song that could’ve been written and performed by his father. “Learning to Cry” sounds like a great tune for Roy Orbison to sing. As it stands, they’re all great tunes from a promising young talent who, unlike many flavors of the month, should be with us for years to come.
+Harlem River Blues is Justin Townes Earle's third studio album, released on January 1, 2010, on Bloodshot Records.
+
+
     
     
 
@@ -42,7 +46,7 @@ Justin Townes Earle has quite a legacy to live up to. His father is Steve Earle 
 11. Harlem River Blues Reprise
 
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/harlem-river-blues/387455658" >}}<br>
+{{< applemusic url="https://music.apple.com/gb/album/harlem-river-blues/1700576027" >}}<br>
 
 
 ## Videos
@@ -50,8 +54,11 @@ Justin Townes Earle has quite a legacy to live up to. His father is Steve Earle 
 {{< youtube id="vf9lvU8_JUo" title="Justin Townes Earle - Harlem River Blues - album version" >}}<br>
 ### More Videos
 
-- [Justin Townes Earle - Ain't Waitin' (Live) | Grooveshark Presents: Nashville Sessions](https://www.youtube.com/watch?v=Y9W511HVxuY)
-- [Justin Townes Earle - Wanderin' - KXT Live Sessions](https://www.youtube.com/watch?v=-lMUY1VAZEI)
+- [Justin Townes Earle - "Ain't Waitin'" (Live) | Grooveshark Presents: Nashville Sessions](https://www.youtube.com/watch?v=Y9W511HVxuY)
+- [Justin Townes Earle - "Wanderin'" - KXT Live Sessions](https://www.youtube.com/watch?v=-lMUY1VAZEI)
+- [Justin Townes Earle - Harlem River Blues - album version](https://www.youtube.com/watch?v=vf9lvU8_JUo)
+- [Justin Townes Earle - "Ain't Waitin'" (Live) | Grooveshark Presents: Nashville Sessions](https://www.youtube.com/watch?v=Y9W511HVxuY)
+- [Justin Townes Earle - "Wanderin'" - KXT Live Sessions](https://www.youtube.com/watch?v=-lMUY1VAZEI)
 
 ## Release Images
 {{< imageGrid >}}
@@ -59,6 +66,7 @@ Justin Townes Earle has quite a legacy to live up to. His father is Steve Earle 
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
+| Wikipedia URL | https://en.wikipedia.org/wiki/Harlem_River_Blues |
 | Format         | Vinyl LP Album |
 | Label          | Bloodshot Records |
 | Catalog Number | BS 178 LP |

@@ -14,10 +14,10 @@ cover:
 additional_images:
     - "https://i.discogs.com/Gjx8FmEUn9zJsrPDIqbWPqiCSdrrVrKTOjWv5z_D65A/rs:fit/g:sm/q:90/h:594/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNDUy/MTU2LTE2MTcyOTA0/NDYtNTQxNC5qcGVn.jpeg"
     - "https://i.discogs.com/To18LhMTVVOMy8lsT_n85p5yBoMM5xxsYpThnl70DyY/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNDUy/MTU2LTE2MTcyOTA0/MzItMzk3OS5qcGVn.jpeg"
-    - "https://i.discogs.com/R8t4_dH2uo2PPusveAsLbf6H_vOcdR4dGj28Tx316YE/rs:fit/g:sm/q:90/h:603/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNDUy/MTU2LTE2MTcyOTA0/NzEtMjg0MC5qcGVn.jpeg"
+    - "https://i.discogs.com/aTBiZBAo_U_6cKJA9lAnwDNK3f48KdqOLUnSb97wAFw/rs:fit/g:sm/q:90/h:600/w:596/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNDUy/MTU2LTE2MTcyOTA0/NzEtMjg0MC5qcGVn.jpeg"
     - "https://i.discogs.com/jlmMG3HIKlK9fsveRU3uqDUqv3iOBf6WmwEs_f4RyeA/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNDUy/MTU2LTE2MTcyOTA0/NTctODcyOS5qcGVn.jpeg"
     - "https://i.discogs.com/bpdtMsILa2rZsgVg6g_1Nf_Zk-aISn7oPOCJ-nmJams/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNDUy/MTU2LTE2MTcyOTA0/NDMtNjUzOC5qcGVn.jpeg"
-    - "https://i.discogs.com/gwZYd7DOiQLZh5de36INbvn75uLzrlItfTu5rkRk6jQ/rs:fit/g:sm/q:90/h:603/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNDUy/MTU2LTE2MTcyOTA0/NDktMTUwOC5qcGVn.jpeg"
+    - "https://i.discogs.com/hGLvzp080LPc1x1e3r-6qxa-gDqxm8DzUo45efkhPtk/rs:fit/g:sm/q:90/h:600/w:596/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNDUy/MTU2LTE2MTcyOTA0/NDktMTUwOC5qcGVn.jpeg"
     - "https://i.discogs.com/hVkZdVShJrWLZriqDi1DwI3fWRCdr3s7BQVn-ji86zM/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNDUy/MTU2LTE2MTcyOTA0/NjYtNDE5OC5qcGVn.jpeg"
     - "https://i.discogs.com/IOlBMusYg4sVP44r9tkq8zTxdQd6EFyGc5LfZ76gVUo/rs:fit/g:sm/q:90/h:525/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNDUy/MTU2LTE2MTcyOTA0/NzQtODY1My5qcGVn.jpeg"
     - "https://i.discogs.com/AXWiv_4YBy_9ouO-v28Jr7IBVwth2Ityyt60hTB8sww/rs:fit/g:sm/q:90/h:587/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNDUy/MTU2LTE1NTUxNjAz/MzMtMzg0Ni5qcGVn.jpeg"
@@ -27,6 +27,7 @@ styles: ["Indie Rock"]
 
 Frank Black is the debut solo album by American alternative rock musician Frank Black. The album was recorded in 1992 and released on March 8, 1993, via 4AD and Elektra Records, after the breakup of Black's band Pixies.
 The album is similar in style, both musically and lyrically, to the Pixies' last album prior to their 1993 breakup, Trompe le Monde. Frank Black is characterized by a focus on UFOs and science fiction. Two singles from the album—"Los Angeles" and "Hang On to Your Ego"—were released in 1993; both reached the top ten of Billboard's Modern Rock Tracks chart.
+The song "I Heard Ramona Sing" is featured in the 2010 film Scott Pilgrim vs. the World, as well as its soundtrack.
     
     
 
@@ -53,24 +54,14 @@ The album is similar in style, both musically and lyrically, to the Pixies' last
 
 
 ## Videos
-### Frank Black.- Los Angeles (Official Video 1993)
-{{< youtube id="fuLllNyfiHs" title="Frank Black.- Los Angeles (Official Video 1993)" >}}<br>
+### Los Angeles
+{{< youtube id="rxeQHQQwiZ0" title="Los Angeles" >}}<br>
 ### More Videos
 
-- [Frank Black - Los Angeles (Lyrics in description)](https://www.youtube.com/watch?v=HymVbqTlL58)
-- [I Heard Ramona Sing - Frank Black](https://www.youtube.com/watch?v=RYfUuXmdrgk)
-- [Hang on to your Ego - Frank Black](https://www.youtube.com/watch?v=VIiYJRO7HAI)
-- [Fu Manchu - Frank Black](https://www.youtube.com/watch?v=4Ou9S-qE4BA)
-- [Places Named After Numbers - Frank Black](https://www.youtube.com/watch?v=YW1nbALCBlk)
-- [Czar - Frank Black](https://www.youtube.com/watch?v=mccxj_l3lME)
-- [Old Black Dawning - Frank Black](https://www.youtube.com/watch?v=FUFFzn3qP1A)
+- [Frank Black.- Los Angeles (Official Video 1993)](https://www.youtube.com/watch?v=fuLllNyfiHs)
 - [10 Percenter - Frank Black](https://www.youtube.com/watch?v=kfhc0frCr6M)
-- [Brackish Boy - Frank Black](https://www.youtube.com/watch?v=1wj-kBMPDkc)
+- [Places Named After Numbers - Frank Black](https://www.youtube.com/watch?v=9NDt41bY70s)
 - [Two Spaces - Frank Black](https://www.youtube.com/watch?v=5zOEyOvaEYU)
-- [Tossed (Instrumental Version) - Frank Black](https://www.youtube.com/watch?v=WWTcw3N6jGk)
-- [Parry the Wind High, Low - Frank Black](https://www.youtube.com/watch?v=gyu8dpLZtEo)
-- [Adda Lee   Frank Black](https://www.youtube.com/watch?v=btZ0kRsTkTQ)
-- [Don't Ya Rile 'Em - Frank Black](https://www.youtube.com/watch?v=GE9MNA_C-Ts)
 
 ## Release Images
 {{< imageGrid >}}

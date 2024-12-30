@@ -23,10 +23,16 @@ additional_images:
     - "https://i.discogs.com/TW1Gf9dEnXDGIV55zbUz3s4Ce_mTkjkU1WrH_FwHeF8/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2ODA5/MTIwLTE2MTAzMTQ1/NjQtOTA2NS5qcGVn.jpeg"
     - "https://i.discogs.com/O6wa9MWQR_B-lL0C5oAZGirFl3vUxMZL7J9lHZwUUwY/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2ODA5/MTIwLTE2MTAzMTQ1/NjUtODU4Mi5qcGVn.jpeg"
     - "https://i.discogs.com/s2uaJMPfWa8iAOHm1evht2JioAhCkV0IKhUOALJF_WU/rs:fit/g:sm/q:90/h:450/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2ODA5/MTIwLTE2MDk5NTUx/MjMtMzIxNC5qcGVn.jpeg"
-genres: ["Rock", "Funk / Soul"]
+genres: ["Rock"]
 styles: ["New Wave", "Art Rock", "Funk"]
 ---
 
+The Name of This Band Is Talking Heads is a double live album by the American new wave band Talking Heads, released in 1982 by Sire Records. The first LP features the original quartet in concert and radio recordings in 1977 and 1979, and the second LP features the expanded ten-piece lineup that toured in 1980 and 1981.
+Though a decent commercial and critical success upon release, The Name of This Band was somewhat overshadowed by Talking Heads' subsequent live album and concert film Stop Making Sense. However, it went on to attract greater retrospective acclaim, with critics remarking on its importance in documenting the band's artistic growth.
+
+
+    
+    
 
 
 ## Tracklisting
@@ -53,21 +59,24 @@ styles: ["New Wave", "Art Rock", "Funk"]
 
 
 ## Videos
-### New Feeling (Live at WCOZ, Massachusetts) (2004 Remaster)
-{{< youtube id="2KM5XNGJDqg" title="New Feeling (Live at WCOZ, Massachusetts) (2004 Remaster)" >}}<br>
+### Life During Wartime (2004 Remaster)
+{{< youtube id="GTIkfzGiIyo" title="Life During Wartime (2004 Remaster)" >}}<br>
 ### More Videos
 
-- [Stay Hungry (1979 Version) (2004 Remaster)](https://www.youtube.com/watch?v=q4TXwmtvOiI)
-- [Psycho Killer (Live at WCOZ, Massachusetts) (2004 Remaster)](https://www.youtube.com/watch?v=nGhPaJw8p6c)
 - [A Clean Break (Let's Work) (Live) (2004 Remaster)](https://www.youtube.com/watch?v=-vhtCe4PmHA)
-- [Life During Wartime (Live at Central Park) (2004 Remaster)](https://www.youtube.com/watch?v=GTIkfzGiIyo)
+- [Stay Hungry (1979 Version) (2004 Remaster)](https://www.youtube.com/watch?v=q4TXwmtvOiI)
 - [Memories (Can't Wait) (2004 Remaster)](https://www.youtube.com/watch?v=d_DdC3PlVdo)
+- [Don't Worry About the Government (Live at WCOZ, Massachusetts) (2004 Remaster)](https://www.youtube.com/watch?v=Rqitv9Xxw88)
+- [A Clean Break (Let's Work) (Live at WCOZ, Massachusetts) (2004 Remaster)](https://www.youtube.com/watch?v=-vhtCe4PmHA)
+- [Memories (Can't Wait) (Live at Capitol Theater, New Jersey) (2004 Remaster)](https://www.youtube.com/watch?v=d_DdC3PlVdo)
+- [New Feeling (Live at WCOZ, Massachusetts) (2004 Remaster)](https://www.youtube.com/watch?v=2KM5XNGJDqg)
+- [Once in a Lifetime (Live at Sun Plaza Tokyo)](https://www.youtube.com/watch?v=NCd5OCpeJjw)
+- [Life During Wartime (Live at Central Park) (2004 Remaster)](https://www.youtube.com/watch?v=GTIkfzGiIyo)
+- [Psycho Killer (Live at WCOZ, Massachusetts) (2004 Remaster)](https://www.youtube.com/watch?v=nGhPaJw8p6c)
 - [Drugs (Live at Emerald City, New Jersey) (2004 Remaster)](https://www.youtube.com/watch?v=nZ8GumPYT5E)
 - [Born Under Punches (The Heat Goes On) (Live at Sun Plaza Tokyo)](https://www.youtube.com/watch?v=zJpzHoo4XAQ)
-- [Once in a Lifetime (Live at Sun Plaza Tokyo)](https://www.youtube.com/watch?v=NCd5OCpeJjw)
 - [Take Me to the River (Live at Central Park) (2004 Remaster)](https://www.youtube.com/watch?v=G6rUomO27G4)
 - [The Great Curve (Live at Central Park) (2004 Remaster)](https://www.youtube.com/watch?v=2iYETa3pa6U)
-- [Houses in Motion (Live at Emerald City, New Jersey) (2004 Remaster)](https://www.youtube.com/watch?v=9GG2oiTGGT0)
 - [Heaven (Live at Emerald City, New Jersey)](https://www.youtube.com/watch?v=5uBKmnVi0r4)
 - [Electricity (Drugs) (Live at The Agora, Cleveland, Ohio) (2004 Remaster)](https://www.youtube.com/watch?v=YBlj-a97HYI)
 - [I'm Not in Love (Live at KSAN, San Francisco)](https://www.youtube.com/watch?v=MZgkcx3R1F0)
@@ -82,6 +91,7 @@ styles: ["New Wave", "Art Rock", "Funk"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
+| Wikipedia URL | https://en.wikipedia.org/wiki/The_Name_of_This_Band_Is_Talking_Heads |
 | Format         | Vinyl 2× LP Album Limited Edition Reissue Repress (Red Opaque ) |
 | Label          | Sire |
 | Catalog Number | RCV5 3590 |

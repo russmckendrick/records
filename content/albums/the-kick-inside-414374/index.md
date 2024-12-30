@@ -4,6 +4,7 @@ artist_name: "Kate Bush"
 artist: "kate-bush"
 album_name: "The Kick Inside"
 date: 2018-02-20T19:29:28.000000Z
+release_date: "1978-02-17"
 release_id: "414374"
 slug: "the-kick-inside-414374"
 hideSummary: true
@@ -24,8 +25,13 @@ genres: ["Rock", "Pop"]
 styles: ["Art Rock", "Pop Rock"]
 ---
 
-The Kick Inside is the debut studio album by English art rock singer Kate Bush. Released on 17 February 1978 by EMI Records, it includes her UK No. 1 hit, "Wuthering Heights". The album peaked at No. 3 on the UK Albums Chart and has been certified Platinum by the British Phonographic Industry (BPI). The production included efforts by several progressive rock veterans, including Duncan Mackay, Ian Bairnson, David Paton, Andrew Powell, and Stuart Elliott of the Alan Parsons Project, and David Gilmour of Pink Floyd.
-    
+Kate Bush knows how to make a grand entrance. At age 19, she spent four weeks at No. 1 on the UK Singles chart with her debut single, “Wuthering Heights”—making her the first female artist ever to top the UK charts with a song she wrote completely by herself. As the title implies, the lyrics were a literary tour de force: Bush wrote the song from the perspective of Catherine, the protagonist of Emily Brontë’s novel of the same name, as she visits her beloved Heathcliff from the afterlife.
+
+With its marriage of delicate piano and Bush’s siren-like vocals, “Wuthering Heights” was also a blueprint for her 1978 debut album, <i>The Kick Inside</i>. Comprising songs she had amassed for years—the soaring, orchestrated “The Man with the Child in His Eyes” and aptly named “The Saxophone Song” were even on her 1975 demo, which was produced by Pink Floyd’s David Gilmour—the album is elegant and wise, suffused with gratitude and gorgeous music.
+
+Bush worked with session musicians who had worked with groups such as Pilot, The Alan Parsons Project and Steve Harley & Cockney Rebel to craft theatrical rock (“James and the Cold Gun”), prog with a jazzy bent (“Strange Phenomena”) and baroque-pop (the synth-driven “Oh to Be in Love”). Lyrically, Bush drew on her own life for perceptive, heartfelt lyrics; notably, “Moving” was inspired by classes she took from mime artist Lindsay Kemp, while “The Man with the Child in His Eyes” is about a relationship with an older man who hasn’t lost his innocence. <i>The Kick Inside</i> made Bush an instant star and, today, it’s considered one of the most striking debut albums of all time—a testament to the power of nurturing original voices.
+        
+        
     
 
 
@@ -45,28 +51,13 @@ The Kick Inside is the debut studio album by English art rock singer Kate Bush. 
 13. The Kick Inside (3:32)
 
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/the-kick-inside-remastered/1441813799" >}}<br>
+{{< applemusic url="https://music.apple.com/gb/album/the-kick-inside/726230233" >}}<br>
 
 
 ## Videos
-### Kate Bush - Wuthering Heights - Official Music Video - Version 1
-{{< youtube id="-1pMMIe4hb4" title="Kate Bush - Wuthering Heights - Official Music Video - Version 1" >}}<br>
-### More Videos
+### L'Amour Looks Something Like You
+{{< youtube id="4c6UEHhgSHA" title="L'Amour Looks Something Like You" >}}<br>
 
-- [Kate Bush - The Man with the Child in His Eyes - Official Music Video](https://www.youtube.com/watch?v=NAj8suae3WY)
-- [Moving (2018 Remaster)](https://www.youtube.com/watch?v=UPxi6EmWp-o)
-- [The Saxophone Song (2018 Remaster)](https://www.youtube.com/watch?v=ArhssokTFuk)
-- [Strange Phenomena (2018 Remaster)](https://www.youtube.com/watch?v=uY-Z8Lte8WU)
-- [Kite (2018 Remaster)](https://www.youtube.com/watch?v=fZdZmDwEhl0)
-- [The Man with the Child in His Eyes (2018 Remaster)](https://www.youtube.com/watch?v=mj9lnMuez-Q)
-- [Wuthering Heights (2018 Remaster)](https://www.youtube.com/watch?v=mj9RNQnRqPU)
-- [James and the Cold Gun (2018 Remaster)](https://www.youtube.com/watch?v=7Yj5OLEBje4)
-- [Feel It (2018 Remaster)](https://www.youtube.com/watch?v=dYPd5N71S4k)
-- [Oh to Be in Love (2018 Remaster)](https://www.youtube.com/watch?v=9wtxpz3VMWY)
-- [L'Amour Looks Something Like You (2018 Remaster)](https://www.youtube.com/watch?v=NnVmfYmguiQ)
-- [Them Heavy People (2018 Remaster)](https://www.youtube.com/watch?v=xNE8a51OYCQ)
-- [Room for the Life (2018 Remaster)](https://www.youtube.com/watch?v=M60QcBKxFPY)
-- [The Kick Inside (2018 Remaster)](https://www.youtube.com/watch?v=_Lay3XINaLg)
 
 ## Release Images
 {{< imageGrid >}}
@@ -78,5 +69,5 @@ The Kick Inside is the debut studio album by English art rock singer Kate Bush. 
 | Format         | Vinyl LP Album Stereo |
 | Label          | EMI |
 | Catalog Number | EMC 3223 |
-| Notes | Fully laminated sleeve Tan labels with red EMI logo Durations do not appear on the release. Either "REMEMBER YOURSELF" or the misspelt "REMBER YOURSELF" can be found etched in runouts, the rest stamped.  Recorded at Air London Studios: July/August 1977 Recorded at Air London Studios: June 1975 [Gilmour executive produced songs] All songs published by EMI/Kate Bush ©1978  On labels: ℗ 1978 EMI Records Ltd. Made in Gt. Britain |
+| Notes | Fully laminated sleeve. Tan labels with red EMI logo. First cat.# on cover & labels, 2nd (EMI int. cat.#) on cover back.  Recorded at AIR London Studios: July/August 1977 A2, A5 Recorded at AIR London Studios: June 1975 [Executive Producer: David Gilmour]  All songs published by EMI/Kate Bush © 1978 ℗ 1978 EMI Records Ltd. Made in Gt. Britain  Durations do not appear on this release. (Taken per stop watch.)  Runouts are stamped. Either "REMEMBER YOURSELF" or the misspelt "REMBER YOURSELF" can be found etched in the runouts. |
 | Discogs URL    | [Kate Bush - The Kick Inside](https://www.discogs.com/release/414374-Kate-Bush-The-Kick-Inside) |

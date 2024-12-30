@@ -48,9 +48,6 @@ Radio Active is a radio comedy programme, broadcast on BBC Radio 4 during the 19
 20. I Think It's Gonna Rain
 
 
-## Spotify
-{{< spotify type="album" id="5dQDHHJhFoEk2mFxDdWs5t" width="100%" height="500" >}}<br>
-
 
 ## Videos
 ### Radio Active (Face A) (1980)
@@ -68,7 +65,28 @@ Radio Active is a radio comedy programme, broadcast on BBC Radio 4 during the 19
 - [Surface Noise - Dancin' on a Wire [HQ Audio]](https://www.youtube.com/watch?v=wHksbw-ZuXk)
 - [Metropolis](https://www.youtube.com/watch?v=VLhbZH7YWtE)
 - [Kelly Marie - feels like i'm in love - HQ video sound](https://www.youtube.com/watch?v=WR03E91J_uA)
-- [Linx - You're Lying (12 Jazz-Disco-Funk 1980)](https://www.youtube.com/watch?v=obcrmJ-eOf8)
+- [Linx - You're Lying (12" Jazz-Disco-Funk 1980)](https://www.youtube.com/watch?v=obcrmJ-eOf8)
+- [Use It Up And Wear It Out - Odyssey  (1980)](https://www.youtube.com/watch?v=xNWSO7Hod0E)
+- [Orchestral Manoeuvres In The Dark - Enola Gay (Official Music Video)](https://www.youtube.com/watch?v=d5XJ2GiR6Bo)
+- [Manfred Mann's Earth Band - Lies Through The 80s (Official)](https://www.youtube.com/watch?v=sjyAkmZd63g)
+- [XTC - Generals and Majors](https://www.youtube.com/watch?v=LCW6Kte2o1A)
+- [Black Sabbath - Paranoid (Lyrics)](https://www.youtube.com/watch?v=FSGyXeRFLyE)
+- [Locksmith  -  Unlock The Funk](https://www.youtube.com/watch?v=VMGvgwb4SfM)
+- [Sue Wilkinson - You've Got to be a Hustler - TOTP 1980 [HD]](https://www.youtube.com/watch?v=rT0T6ErJEJU)
+- [UB40 - I Think It's Going to Rain Today (Lyrics)](https://www.youtube.com/watch?v=JSUhwUF5P_w)
+- [Radio Active (Face A) (1980)](https://www.youtube.com/watch?v=c-NmtskiSzo)
+- [Ottawan - D.I.S.C.O. (HD) Legendado em PT- BR](https://www.youtube.com/watch?v=mJpymZpk-t8)
+- [Black Slate - Amigo](https://www.youtube.com/watch?v=-9NgIPLtwSc)
+- [Robert Palmer - Johnny and Mary (Official Video)](https://www.youtube.com/watch?v=7_SAMrDnXOE)
+- [Gillan - Trouble](https://www.youtube.com/watch?v=wcceF1v0EE4)
+- [Gary Numan   I Die You Die](https://www.youtube.com/watch?v=Xw8dTF9Jr34)
+- [Genesis - Misunderstanding](https://www.youtube.com/watch?v=IrNTsKg4z64)
+- [The Korgis - If It's Alright With You Baby](https://www.youtube.com/watch?v=BCgwJDBGMW0)
+- [The Selecter - Whisper -  TOTP 1980](https://www.youtube.com/watch?v=Q7z7EoTvlQI)
+- [Surface Noise - Dancin' on a Wire [HQ Audio]](https://www.youtube.com/watch?v=wHksbw-ZuXk)
+- [Metropolis](https://www.youtube.com/watch?v=VLhbZH7YWtE)
+- [Kelly Marie - feels like i'm in love - HQ video sound](https://www.youtube.com/watch?v=WR03E91J_uA)
+- [Linx - You're Lying (12" Jazz-Disco-Funk 1980)](https://www.youtube.com/watch?v=obcrmJ-eOf8)
 - [Use It Up And Wear It Out - Odyssey  (1980)](https://www.youtube.com/watch?v=xNWSO7Hod0E)
 - [Orchestral Manoeuvres In The Dark - Enola Gay (Official Music Video)](https://www.youtube.com/watch?v=d5XJ2GiR6Bo)
 - [Manfred Mann's Earth Band - Lies Through The 80s (Official)](https://www.youtube.com/watch?v=sjyAkmZd63g)

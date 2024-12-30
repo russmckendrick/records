@@ -16,30 +16,30 @@ additional_images:
     - "https://i.discogs.com/9VNRwjFGxdiJUxdPm2hETWXhwh1yJnvDre-x__abHyw/rs:fit/g:sm/q:90/h:299/w:300/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0MzAz/OTAtMTMzMDExNTI1/My5qcGVn.jpeg"
     - "https://i.discogs.com/qmKTOphAmEy6dAHk-QiwTARMAzBBiwm11pH7XYHAah8/rs:fit/g:sm/q:90/h:574/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0MzAz/OTAtMTMzMDExNTI2/Ni5qcGVn.jpeg"
     - "https://i.discogs.com/Bu0i3qAKqEfWft8vxg9_e5xGH5ueyyxOPcwjLLjUZU4/rs:fit/g:sm/q:90/h:593/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0MzAz/OTAtMTMzMDExNTI4/MC5qcGVn.jpeg"
-    - "https://i.discogs.com/gu_6d2z8PQGS5wSwGzXRLgCdFTjvN0mvRCP1ptijMUM/rs:fit/g:sm/q:90/h:603/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0MzAz/OTAtMTMzMDExNTI5/Ni5qcGVn.jpeg"
+    - "https://i.discogs.com/ZQ3sngqWm3Udh6hxjPO64QQPuPgI8Bv7pJgsBpT9v0c/rs:fit/g:sm/q:90/h:600/w:597/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0MzAz/OTAtMTMzMDExNTI5/Ni5qcGVn.jpeg"
     - "https://i.discogs.com/6eOB0QrswALYKxvsW5wdBXAF_m7d1nijN_ObXB6H7T0/rs:fit/g:sm/q:90/h:587/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0MzAz/OTAtMTU2NTk4Njc0/MC0xMzQ5LmpwZWc.jpeg"
     - "https://i.discogs.com/hEzs3DsAGUSllB-6zkfpIYQl8OZVAOZljyuEvQcIyks/rs:fit/g:sm/q:90/h:592/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0MzAz/OTAtMTMzMDExNTMw/NC5qcGVn.jpeg"
-    - "https://i.discogs.com/gXC_gpzDbEZQa0e5Gosojz-ZUagdyIkUvl04d3YlXo8/rs:fit/g:sm/q:90/h:603/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0MzAz/OTAtMTMzMDExNTMx/NC5qcGVn.jpeg"
+    - "https://i.discogs.com/kNmmxMSN0BmLeqg2VRUWounwJYCiglyon4GKwmkG_FY/rs:fit/g:sm/q:90/h:600/w:597/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0MzAz/OTAtMTMzMDExNTMx/NC5qcGVn.jpeg"
     - "https://i.discogs.com/CcTMhJzs_dIpZ7cYOJdg4q_G52SvyzPSLSn5ZknemJw/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0MzAz/OTAtMTU2NTk4NzE0/My0zMTM0LmpwZWc.jpeg"
     - "https://i.discogs.com/GkkoyZY_fCcyFhMIv5_T0HRPfjgNNU0NjlxO2VZ0uJo/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0MzAz/OTAtMTMzMDExNTMy/Mi5qcGVn.jpeg"
-    - "https://i.discogs.com/qW2CP_dsVu1oNQKw0EHNIQlW9f1_VX5gHa7os_0qvH4/rs:fit/g:sm/q:90/h:603/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0MzAz/OTAtMTMzMDExNTMz/Mi5qcGVn.jpeg"
-    - "https://i.discogs.com/yRWHYvNi6hZg7RDI4kjhsJPFfbLz4hVTgLDt0gH_DBA/rs:fit/g:sm/q:90/h:605/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0MzAz/OTAtMTU2NTk4Njgx/Ny00ODQwLmpwZWc.jpeg"
+    - "https://i.discogs.com/q1Mh9JLPFUUaP4xsJMAjNDYhDZRzhb15_zEpohJM23Q/rs:fit/g:sm/q:90/h:600/w:597/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0MzAz/OTAtMTMzMDExNTMz/Mi5qcGVn.jpeg"
+    - "https://i.discogs.com/oMN0eHMRle7RJuhZ2w6HQ-tH5yHb1-HGTV5ozirftds/rs:fit/g:sm/q:90/h:600/w:594/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0MzAz/OTAtMTU2NTk4Njgx/Ny00ODQwLmpwZWc.jpeg"
     - "https://i.discogs.com/ccfOKV5ovnPHvvTJjxjUXUfxfApu3eb1fpDx_UspCxI/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0MzAz/OTAtMTMzMDExNTM0/MC5qcGVn.jpeg"
-    - "https://i.discogs.com/LNMg8PdSgFM15QOph-gxHo07yNjNUqpN6W6HPsGVwMM/rs:fit/g:sm/q:90/h:605/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0MzAz/OTAtMTMzMDExNTM1/MC5qcGVn.jpeg"
+    - "https://i.discogs.com/g3kz6BnFtNRICSW6ZTTgsF3-5X5j4jmXB174WZdZdcU/rs:fit/g:sm/q:90/h:600/w:595/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0MzAz/OTAtMTMzMDExNTM1/MC5qcGVn.jpeg"
     - "https://i.discogs.com/aAN6XYgkDQl10jfbDA0NM3hgC3l2CocnB0ygZ1DAZwk/rs:fit/g:sm/q:90/h:592/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0MzAz/OTAtMTU2NTk4NzM0/NC0xNjg4LmpwZWc.jpeg"
     - "https://i.discogs.com/kodS_QXK0_eVdaaqT_qw7SOb7aT-dA868kLPpf6W80Q/rs:fit/g:sm/q:90/h:592/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0MzAz/OTAtMTMzMDExNTM4/My5qcGVn.jpeg"
     - "https://i.discogs.com/Twv_AKZ_9MxfWWKupZ-vQKbtbI9Wi-skGgVShL2qZKE/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0MzAz/OTAtMTMzMDExNTM5/Ny5qcGVn.jpeg"
-    - "https://i.discogs.com/mLG5wvIGrB9uZ0vK0BkOSdf16G7fatjYpezounHYBVw/rs:fit/g:sm/q:90/h:602/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0MzAz/OTAtMTMzMDExNTQw/Ny5qcGVn.jpeg"
+    - "https://i.discogs.com/VHIoSry7dmeRyQ4wNtydOb2pbhp83fc0pY7jvm_QoO0/rs:fit/g:sm/q:90/h:600/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0MzAz/OTAtMTMzMDExNTQw/Ny5qcGVn.jpeg"
     - "https://i.discogs.com/_DC2ESlpbQNXMMErcoWGZoyeWBlelKtkeAMvHPJXrq0/rs:fit/g:sm/q:90/h:586/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0MzAz/OTAtMTU2NTk4NzIy/NC0xNTc1LmpwZWc.jpeg"
     - "https://i.discogs.com/h80VRSigFm92U3XjH1Zj_G6YdmXXV247Zlu7UHNH_w8/rs:fit/g:sm/q:90/h:594/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0MzAz/OTAtMTMzMDExNTQy/MC5qcGVn.jpeg"
     - "https://i.discogs.com/uQ79LqfTaoNgfoIeYKeoFs335DDUg2pCyeugwzBAe1o/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0MzAz/OTAtMTMzMDExNTQz/MS5qcGVn.jpeg"
-    - "https://i.discogs.com/cMNju0QcnsoUnXIhzBqusYPoXg4_w4X378N2aSwlJDA/rs:fit/g:sm/q:90/h:607/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0MzAz/OTAtMTMzMDExNTQ0/MC5qcGVn.jpeg"
-    - "https://i.discogs.com/7_ZYpi3gUeU-fhId9t1tRHTkDl3Xx-uB8Y7OOiKIV8I/rs:fit/g:sm/q:90/h:602/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0MzAz/OTAtMTU2NTk4NzMw/OC05MjY4LmpwZWc.jpeg"
+    - "https://i.discogs.com/yWXKGUfo8n-sBNJaR9waNL6n83Abr_flUcJvZOZi9UI/rs:fit/g:sm/q:90/h:600/w:593/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0MzAz/OTAtMTMzMDExNTQ0/MC5qcGVn.jpeg"
+    - "https://i.discogs.com/9JSdBa4qI9LfEx1FHEVg5l5IF4z3kCWNevJ35lguRCY/rs:fit/g:sm/q:90/h:600/w:597/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0MzAz/OTAtMTU2NTk4NzMw/OC05MjY4LmpwZWc.jpeg"
     - "https://i.discogs.com/-_V5kirjJKE6oLZe072gsfxok6rVl8vNsbbtJECfOD4/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0MzAz/OTAtMTMzMDExNjI0/Ni5qcGVn.jpeg"
     - "https://i.discogs.com/aNEF2xsSHp3lcUbkdMMLDk_Ak6ktGuIRh67BaQCGWuE/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0MzAz/OTAtMTMzMDExNjI1/NS5qcGVn.jpeg"
-    - "https://i.discogs.com/zMVDstbda5dLmlCXpepHsEZjzQY7ompinLo0mliQOMw/rs:fit/g:sm/q:90/h:603/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0MzAz/OTAtMTMzMDExNjI2/My5qcGVn.jpeg"
+    - "https://i.discogs.com/5aS5kiqmUAD1DIIUPonX8tIWrF9Mv4mR31ZSqPIMQ0U/rs:fit/g:sm/q:90/h:600/w:597/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0MzAz/OTAtMTMzMDExNjI2/My5qcGVn.jpeg"
     - "https://i.discogs.com/tnb8VRalcEUBJ956spjoQDei6vC55LaVJiA4zsozVVg/rs:fit/g:sm/q:90/h:590/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0MzAz/OTAtMTU2NTk4NzM2/MC04NTA0LmpwZWc.jpeg"
-    - "https://i.discogs.com/gqJvDfpuOjWeKhZJeTs--2t5G9z_SxmCuDfFRNXPODg/rs:fit/g:sm/q:90/h:604/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0MzAz/OTAtMTMzMDExMTU5/OC5qcGVn.jpeg"
+    - "https://i.discogs.com/tDrsH3mAfRiB6hbwvpFz0bgre-wjU12Zy9HMNaNiQ8o/rs:fit/g:sm/q:90/h:600/w:596/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0MzAz/OTAtMTMzMDExMTU5/OC5qcGVn.jpeg"
     - "https://i.discogs.com/ldrziCND1gQUCPGz-cl519OrMxfDTRTArPwa7Wmcnpw/rs:fit/g:sm/q:90/h:590/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0MzAz/OTAtMTYyMTI4NTI5/Mi00ODcxLmpwZWc.jpeg"
     - "https://i.discogs.com/R1Hf958d6Q9U4GEekbfVahMdFI3ChWSmPrmGfC35iM8/rs:fit/g:sm/q:90/h:58/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0MzAz/OTAtMTYyMTI4NTI5/My0xNDI2LmpwZWc.jpeg"
 genres: ["Rock"]
@@ -188,14 +188,16 @@ styles: ["Art Rock", "Prog Rock"]
 137. Behind The Wall - Documentary (50:27)
 138. Gerald Scarfe Interview (17:21)
 
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/the-wall-for-babies-the-complete-pink-floyd-the/590014388" >}}<br>
 
 
 ## Videos
-### P̲ink Flo̲yd - T̲h̲e̲ W̲a̲l̲l̲ (Full Album)1979
-{{< youtube id="r48BLz42NuI" title="P̲ink Flo̲yd - T̲h̲e̲ W̲a̲l̲l̲ (Full Album)1979" >}}<br>
+### Is There Anybody Out There?
+{{< youtube id="CIxYe3G3Iz4" title="Is There Anybody Out There?" >}}<br>
 ### More Videos
 
-- [Pink    Floyd    --    The    Wall   [[  Official   Video   ]]  HQ](https://www.youtube.com/watch?v=fvPpAPIIZyo)
+- [Empty Spaces](https://www.youtube.com/watch?v=zL5AJHijgag)
 
 ## Release Images
 {{< imageGrid >}}

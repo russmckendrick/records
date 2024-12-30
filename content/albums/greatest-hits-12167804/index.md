@@ -22,6 +22,10 @@ genres: ["Rock", "Funk / Soul", "Pop"]
 styles: ["Punk"]
 ---
 
+A greatest hits album or best-of album is a type of compilation album that collects popular and commercially successful songs by a particular artist or band. While greatest hits albums are typically supported by the artist, they can also be created by record companies without express approval from the original artist as a means to generate sales. They are typically regarded as a good starting point for new fans of an artist, but are sometimes criticized by longtime fans as not inclusive enough or necessary at all.
+It is also common for greatest hits albums to include new recordings, remixes or unreleased alternate takes of the hit songs, plus other new material as bonus tracks to increase appeal for longtime fans (who might otherwise already own the recordings included). At times, a greatest hits compilation marks the first album appearance of a successful single that was never attached to a previous studio album. Greatest hits albums usually are released after an artist or band's contract with a major label is completed, they've been dropped or died, with next releases following on new labels.
+    
+    
 
 
 ## Tracklisting
@@ -39,15 +43,16 @@ styles: ["Punk"]
 12. Billericay Dickie
 13. Clevor Trever
 
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/hit-me-the-best-of/1534568853" >}}<br>
 
 
 ## Videos
-### Ian Dury & The Blockheads - Reasons To Be Cheerful Part III
-{{< youtube id="6iiZEOHpogA" title="Ian Dury & The Blockheads - Reasons To Be Cheerful Part III" >}}<br>
+### Ian Dury - Wake up and make love with me
+{{< youtube id="c-VeOakGGPQ" title="Ian Dury - Wake up and make love with me" >}}<br>
 ### More Videos
 
 - [Ian Dury and the Blockheads - Sex and Drugs and Rock & Roll](https://www.youtube.com/watch?v=rJjM9lr8nys)
-- [Ian Dury - Wake up and make love with me](https://www.youtube.com/watch?v=c-VeOakGGPQ)
 
 ## Release Images
 {{< imageGrid >}}
@@ -55,6 +60,7 @@ styles: ["Punk"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
+| Wikipedia URL | https://en.wikipedia.org/wiki/Greatest_hits_album |
 | Format         | Vinyl LP Compilation (Yellow) |
 | Label          | Demon Records |
 | Catalog Number | DEMREC280 |

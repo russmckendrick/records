@@ -18,7 +18,7 @@ additional_images:
     - "https://i.discogs.com/wj1-VrBb6bOI1-fz9ZHfNi8WLP8karMiTyoLE6FIeY4/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNDUy/MDU4LTE1MzU1NTc4/NDctNzQwNC5qcGVn.jpeg"
     - "https://i.discogs.com/qxUVrbvRU0sjyTCZcb3jZxeACXIEt9p4kE5Pc_NZS-g/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNDUy/MDU4LTE1MzYxNDc3/MTQtNTY4NC5qcGVn.jpeg"
     - "https://i.discogs.com/xI6Dt_CHUkM83v0eW76rxeBSmtiO7BmBSk-BrLWy8og/rs:fit/g:sm/q:90/h:591/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNDUy/MDU4LTE1MzYxNDc3/MTktMjE1MS5qcGVn.jpeg"
-    - "https://i.discogs.com/rPwuWpcOmvEI4NIQSwIwkrWOeD7r68Dj84k3g4AE_yo/rs:fit/g:sm/q:90/h:811/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNDUy/MDU4LTE1MzY5MzEx/NjktMzkzMi5qcGVn.jpeg"
+    - "https://i.discogs.com/_aJ81INz4fhJ4p7o1-ZIuSrUbDu-ubHnfVvsRFSlGKI/rs:fit/g:sm/q:90/h:600/w:443/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNDUy/MDU4LTE1MzY5MzEx/NjktMzkzMi5qcGVn.jpeg"
 genres: ["Rock"]
 styles: ["Post Rock"]
 ---

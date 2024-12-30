@@ -13,14 +13,15 @@ cover:
     caption: "Everybody Else Is Doing It, So Why Can't We? by The Cranberries"
 additional_images:
     - "https://i.discogs.com/2hYjOt4HrVnn6BK6X6Q7LtIbRjE6dhBsVrkbf-QrmE0/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNjU3/MTk3LTE1Mzk4NDYy/NjYtNTc0MS5qcGVn.jpeg"
-    - "https://i.discogs.com/LjpaD1KEs1KvhkFS_FFr1QGX5dYcoO3p0DkxiW6eono/rs:fit/g:sm/q:90/h:623/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNjU3/MTk3LTE1NDA5Mjc0/OTgtNzE5Ny5qcGVn.jpeg"
-    - "https://i.discogs.com/Lnmgegs_0Hw1CaMQB2K1gHGaJ-BeAh3JFrnGTrYBmoo/rs:fit/g:sm/q:90/h:627/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNjU3/MTk3LTE1NDA5Mjc0/OTgtOTYyOC5qcGVn.jpeg"
+    - "https://i.discogs.com/yBIyETBHGq273hJHE4_POcT4wL8OQlD6OORYsSLMn3A/rs:fit/g:sm/q:90/h:600/w:577/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNjU3/MTk3LTE1NDA5Mjc0/OTgtNzE5Ny5qcGVn.jpeg"
+    - "https://i.discogs.com/EF_Rp2PEdUh7r_hYKO2KiFtdrJ7q0Xf_se-90yVD9x8/rs:fit/g:sm/q:90/h:600/w:573/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNjU3/MTk3LTE1NDA5Mjc0/OTgtOTYyOC5qcGVn.jpeg"
     - "https://i.discogs.com/pRKkAYtpGGGV4Rp7oyDCa7RoPgCaBx-MsIlF4IwgJt0/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNjU3/MTk3LTE1Mzk4NDYy/NTYtNDQxNC5qcGVn.jpeg"
-    - "https://i.discogs.com/ZnsT8sSXVDsUX59_yD2C7SZnCrAe8caY3FkRG5_SRlI/rs:fit/g:sm/q:90/h:605/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNjU3/MTk3LTE1NjMxMDQ1/ODMtNzQyMS5qcGVn.jpeg"
-    - "https://i.discogs.com/qUdEgqBTLYs-kx-fyE7eaJ-Nm7b_b-k0vxVYkyMleRY/rs:fit/g:sm/q:90/h:604/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNjU3/MTk3LTE1NjMxMDQ1/ODMtODk5NS5qcGVn.jpeg"
-    - "https://i.discogs.com/seG4tlgci4DWv6GL-XFnYLDUiDO2goay5cxrmc_yzlY/rs:fit/g:sm/q:90/h:620/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNjU3/MTk3LTE1NDA5Mjc0/OTgtMzY4My5qcGVn.jpeg"
-    - "https://i.discogs.com/h8xuuytFhwpegcx7VCCL3ruoeLoN5aAIat8Al-ILgWk/rs:fit/g:sm/q:90/h:616/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNjU3/MTk3LTE1NDA5Mjc0/OTktMTcyNS5qcGVn.jpeg"
+    - "https://i.discogs.com/Z7_XAFo7cZTZf8GxkP-06hVBeqxJWUG2vFYZu9MDv34/rs:fit/g:sm/q:90/h:600/w:594/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNjU3/MTk3LTE1NjMxMDQ1/ODMtNzQyMS5qcGVn.jpeg"
+    - "https://i.discogs.com/mZ5GQwVTvQh500yFXbevX2L_xq_DPb28zgu635R3I3M/rs:fit/g:sm/q:90/h:600/w:595/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNjU3/MTk3LTE1NjMxMDQ1/ODMtODk5NS5qcGVn.jpeg"
+    - "https://i.discogs.com/Z5sc6QYcptDBAzs1Lk-dStwg87qAiCGD8OrALWTWt5Q/rs:fit/g:sm/q:90/h:600/w:580/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNjU3/MTk3LTE1NDA5Mjc0/OTgtMzY4My5qcGVn.jpeg"
+    - "https://i.discogs.com/iayK91OyevEF4ygX-2OJtom01pNW_KNwJeLRuykK-AQ/rs:fit/g:sm/q:90/h:600/w:583/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNjU3/MTk3LTE1NDA5Mjc0/OTktMTcyNS5qcGVn.jpeg"
     - "https://i.discogs.com/DxT3m_yI8sJYvUoxkLxDu7Y4mDMZSM7GNZoNKz8xPKk/rs:fit/g:sm/q:90/h:327/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNjU3/MTk3LTE2NTk4MDg1/MjYtODgyMy5qcGVn.jpeg"
+    - "https://i.discogs.com/lSh0q8me2Y-L2z9LbDiCpJXmvFs0NZKLf-oi1PMCZ8I/rs:fit/g:sm/q:90/h:471/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNjU3/MTk3LTE3MzQyNjA4/NjgtODM4NS5qcGVn.jpeg"
 genres: ["Rock"]
 styles: ["Alternative Rock"]
 ---
@@ -42,7 +43,7 @@ styles: ["Alternative Rock"]
 12. Put Me Down (3:32)
 
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/everybody-else-is-doing-it-so-why-cant-we-the/1440743107" >}}<br>
+{{< applemusic url="https://music.apple.com/gb/album/everybody-else-is-doing-it-so-why-cant-we/1440911650" >}}<br>
 
 
 ## Videos
@@ -50,10 +51,10 @@ styles: ["Alternative Rock"]
 {{< youtube id="Yam5uK6e-bQ" title="The Cranberries - Dreams" >}}<br>
 ### More Videos
 
+- [The Cranberries - Linger](https://www.youtube.com/watch?v=G6Kspj3OO0s)
 - [Sunday](https://www.youtube.com/watch?v=lPfa7h5wXQE)
 - [I Still Do](https://www.youtube.com/watch?v=vovVgQ2BsTo)
 - [What You Were](https://www.youtube.com/watch?v=sVRmMYcOe6M)
-- [The Cranberries - Linger](https://www.youtube.com/watch?v=G6Kspj3OO0s)
 - [Linger](https://www.youtube.com/watch?v=QzQIWKHglPs)
 - [Wanted](https://www.youtube.com/watch?v=MtVObrb9NLI)
 - [Íosa](https://www.youtube.com/watch?v=I_-3nNIBY10)

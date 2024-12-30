@@ -13,24 +13,27 @@ cover:
     caption: "Know Your Enemy by Manic Street Preachers"
 additional_images:
     - "https://i.discogs.com/YGXRO46chKpphNFtU0Wk4lSycZXXaMJfsJ59XJqt5LY/rs:fit/g:sm/q:90/h:579/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NDUz/NjI2LTE2NjI3MTI3/NTgtNjY2My5qcGVn.jpeg"
-    - "https://i.discogs.com/iv1jGp6QlyOrDBnY8Ay0zL6YhteRDQglUgAquJfBnrA/rs:fit/g:sm/q:90/h:298/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NDUz/NjI2LTE2NjM0Mjcz/ODUtMjQ2NS5qcGVn.jpeg"
     - "https://i.discogs.com/5YMVhbnRzftYugNc1Kf8xBWB0Vodg1tU8b_3Nwk1RHY/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NDUz/NjI2LTE2NjI3MTI3/NTgtMzU2My5qcGVn.jpeg"
-    - "https://i.discogs.com/jXRgphPjb5WuUMkISKktb7bzOGnnpF0RW1laenXR2H0/rs:fit/g:sm/q:90/h:610/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NDUz/NjI2LTE2NjM1MjYw/MzUtMzgyOS5qcGVn.jpeg"
-    - "https://i.discogs.com/kCftXeXW8coOgVKVbUo1z_Qs8Tdhtwjj3rjbny8sty8/rs:fit/g:sm/q:90/h:608/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NDUz/NjI2LTE2NjM1MjYw/MzMtNzQxMC5qcGVn.jpeg"
+    - "https://i.discogs.com/iv1jGp6QlyOrDBnY8Ay0zL6YhteRDQglUgAquJfBnrA/rs:fit/g:sm/q:90/h:298/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NDUz/NjI2LTE2NjM0Mjcz/ODUtMjQ2NS5qcGVn.jpeg"
+    - "https://i.discogs.com/uDkymvC1oObkbCiwwCaYWRCcasuXkef1WNGmNXmle5o/rs:fit/g:sm/q:90/h:276/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NDUz/NjI2LTE2ODcyOTY5/NDItNDU3Mi5qcGVn.jpeg"
+    - "https://i.discogs.com/njOq268JqIMJzlNGp6HEjw47TCSYo6LLpHqBPdAiKHU/rs:fit/g:sm/q:90/h:600/w:589/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NDUz/NjI2LTE2NjM1MjYw/MzUtMzgyOS5qcGVn.jpeg"
+    - "https://i.discogs.com/H4rheHHCyZ7y21XVr0nMf8p3cHfLgS0lMwbqg5o7ngs/rs:fit/g:sm/q:90/h:600/w:591/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NDUz/NjI2LTE2NjM1MjYw/MzMtNzQxMC5qcGVn.jpeg"
+    - "https://i.discogs.com/30wtTqaeDn_wK0KNMsBezspvkT8d0o-axwG_88OTwwo/rs:fit/g:sm/q:90/h:591/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NDUz/NjI2LTE2ODcyOTY5/NDItMzc0NC5qcGVn.jpeg"
+    - "https://i.discogs.com/nV3iI2gbJP6APwlbz9HOZP2hyY8aMuvKSre4D2kXP7A/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NDUz/NjI2LTE2ODcyOTY5/NDItNDMyMC5qcGVn.jpeg"
     - "https://i.discogs.com/mH5Z5ESyFrxFOpoy0jLlz5Nyg1UP6sg9UZUxiPVVaSY/rs:fit/g:sm/q:90/h:593/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NDUz/NjI2LTE2NjM1MjYw/MzMtMjgzMy5qcGVn.jpeg"
-    - "https://i.discogs.com/6G0Ul7Z3a-QteemTml-FMEjFYRb6uh4N8hfK1_sjl2A/rs:fit/g:sm/q:90/h:605/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NDUz/NjI2LTE2NjM1MjYw/MjYtOTQzMi5qcGVn.jpeg"
+    - "https://i.discogs.com/5D0QxFviVxjmcVGsusuUD0Spl-NEB0MV4973ZtgzM3k/rs:fit/g:sm/q:90/h:600/w:594/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NDUz/NjI2LTE2NjM1MjYw/MjYtOTQzMi5qcGVn.jpeg"
+    - "https://i.discogs.com/cCWf1UlBp2bJDZPUHaTtLLwHv_rOGnnig4QlL0dkl2g/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NDUz/NjI2LTE2ODcyOTY5/NDItNDc0OS5qcGVn.jpeg"
+    - "https://i.discogs.com/45thrQUccUihVhuRGRCJQ9bIpRbpsAjU8aNmwCet2AA/rs:fit/g:sm/q:90/h:600/w:591/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NDUz/NjI2LTE2ODcyOTY5/NDItNzQ3Ny5qcGVn.jpeg"
     - "https://i.discogs.com/br4mBFY_VZXWseyShLAiqEcbF-c4pRufinKaSdwmzKA/rs:fit/g:sm/q:90/h:337/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NDUz/NjI2LTE2NjM0Mjcz/ODMtMzIyOS5qcGVn.jpeg"
-    - "https://i.discogs.com/z8C6zjckY7LBF8o3LchupVi6S5XL1yPXO-a0Syh_5DM/rs:fit/g:sm/q:90/h:588/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NDUz/NjI2LTE2NjM0Mjcz/ODYtMjczNS5qcGVn.jpeg"
-    - "https://i.discogs.com/-ERzOzRWxXUjpDeAPAuJdmwieyyHh5Q4BVMTcBvb7GE/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NDUz/NjI2LTE2NjM0Mjcz/ODQtMTgzMy5qcGVn.jpeg"
-    - "https://i.discogs.com/N4E-zrWjczjHURgDXBfh0Qh4pfZRobAo3K6LcnolhMk/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NDUz/NjI2LTE2NjM0Mjcz/ODctODAzOS5qcGVn.jpeg"
-    - "https://i.discogs.com/9PUbm1X7y5fiyy5lc7-yqIS3EuKdWqP0cXtaUA2CN9g/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NDUz/NjI2LTE2NjM0Mjcz/ODctNTk0Ny5qcGVn.jpeg"
     - "https://i.discogs.com/pYKGbF1FHTjBCHzJz1RE6c8pRmI4dShWqH8pc0eiuJE/rs:fit/g:sm/q:90/h:483/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NDUz/NjI2LTE2NjM1MjYw/NTAtODM2Ni5qcGVn.jpeg"
     - "https://i.discogs.com/qLPMJFHEguk84mqN9vP-xBg6-lrCJOl9fefe-EflmyM/rs:fit/g:sm/q:90/h:580/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NDUz/NjI2LTE2NjM1MjYw/NTMtNjg3OS5qcGVn.jpeg"
 genres: ["Rock"]
 styles: ["Alternative Rock"]
 ---
 
-Know Your Enemy is the sixth studio album by Welsh rock band Manic Street Preachers. It was released on 19 March 2001 by record label Epic. It was supported by four singles; two of them, "So Why So Sad" and "Found That Soul", were released on the same day for promotional purposes.The band originally envisioned Know Your Enemy as two separate albums: Door to the River, which consisted of reflective, personal material, and the heavier, more politically-leaning Solidarity, with the intent of releasing both on the same day. However, their record label was not inclined to follow through on the idea (as they would later do in 2013–2014 with Rewind the Film and Futurology), so the material ended up released as one album, a move that drummer Sean Moore described as "strange" and "confusing".Whilst Know Your Enemy sold well commercially, it did not match the same success as its predecessor, This Is My Truth Tell Me Yours. Critics were somewhat divided in their opinions, but its reception has been mostly positive. In 2022, the band released a remixed version of Know Your Enemy, with a revised track listing closer to the double album that they previously intended.
+Know Your Enemy is the sixth studio album by Welsh alternative rock band Manic Street Preachers, released on 19 March 2001 by Epic Records. It was supported by four singles, all of which reached the  top 20 of the UK Singles Chart. 
+The band originally envisioned Know Your Enemy as two separate albums with very different sounds and concepts, with the intention of releasing both on the same day. However, the record label vetoed the idea and a compromise was made, resulting in a single, lengthy, very diverse record. Whilst the album sold well, it did not match the success of its predecessor, This Is My Truth Tell Me Yours. Critics were somewhat divided in their opinions at first, but its reception since has been more positive.
+In 2022, the band released remixed and expanded 2- and 3-disc editions of Know Your Enemy, rearranging the tracks into the two separate albums as originally intended.
     
     
 
@@ -70,11 +73,17 @@ Know Your Enemy is the sixth studio album by Welsh rock band Manic Street Preach
 {{< youtube id="x3i1E9N8zww" title="Manic Street Preachers - So Why So Sad" >}}<br>
 ### More Videos
 
-- [My Guernica](https://www.youtube.com/watch?v=wqyOYXQY748)
 - [Manic Street Preachers - Ocean Spray](https://www.youtube.com/watch?v=vUJLdC6wqno)
-- [Manic Street Preachers  -  The Masses Against The Classes](https://www.youtube.com/watch?v=ZW2Gk1pkL6s)
-- [Manic Street Preachers - Found That Soul](https://www.youtube.com/watch?v=DWmtlTxvUsU)
-- [Manic Street Preachers - Ocean Spray](https://www.youtube.com/watch?v=3UAjcuSVZMs)
+- [Manic Street Preachers - Let Robeson Sing (Official Video)](https://www.youtube.com/watch?v=9_QGfzeiNb0)
+- [Manic Street Preachers - Found That Soul](https://www.youtube.com/watch?v=-uwacLOnyKA)
+- [Manic Street Preachers Know Your Enemy Studio Footage from www.manics.co.uk 2001](https://www.youtube.com/watch?v=vnTwDFWwm88)
+- [Manic Street Preachers - The Year of Purification (Official Audio)](https://www.youtube.com/watch?v=NYJ3TBfFbN4)
+- [Manic Street Preachers - Intravenous Agnostic (Official Audio)](https://www.youtube.com/watch?v=fRiOYL_TpUc)
+- [Manic Street Preachers - We Are All Bourgeois Now (Official Audio)](https://www.youtube.com/watch?v=LWzWm1-Q76Y)
+- [Manics Know Your Enemy Interview](https://www.youtube.com/watch?v=zzMHzqdzuyI)
+- [Manic street preachers know your enemy unboxing](https://www.youtube.com/watch?v=b8e_m8Gpdos)
+- [Manic Street Preachers - Ocean Spray (Live in Cuba)](https://www.youtube.com/watch?v=y3yT3EEvebE)
+- [Manic Street Preachers - The Year of Purification (Live in Cuba)](https://www.youtube.com/watch?v=rCV-1l1DsQE)
 
 ## Release Images
 {{< imageGrid >}}

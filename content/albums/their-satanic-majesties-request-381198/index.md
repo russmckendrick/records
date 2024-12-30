@@ -15,7 +15,7 @@ cover:
 additional_images:
     - "https://i.discogs.com/Ph0o-UjUVKORcB_LV_cFGsc-WESCcvxrjkmeA18_Wmo/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4MTE5/OC0xNjE1OTY1NzY0/LTIyMzcuanBlZw.jpeg"
     - "https://i.discogs.com/B3W7_VkdzLB8vbZkGoYItw6GS1djEOjvMhQ5UJ11QdE/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4MTE5/OC0xNjE1OTY2MjUx/LTQwNjUuanBlZw.jpeg"
-    - "https://i.discogs.com/dDj4AIRi-q0UzGXlsp1msHbWIgsB65aBwaySoQkPfg0/rs:fit/g:sm/q:90/h:632/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4MTE5/OC0xNjE1OTY2Mjcy/LTI3NDUuanBlZw.jpeg"
+    - "https://i.discogs.com/Pdkti4eXyv1TnUJXM9hI__e9264cCW9ar8gTA1F43HI/rs:fit/g:sm/q:90/h:600/w:569/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4MTE5/OC0xNjE1OTY2Mjcy/LTI3NDUuanBlZw.jpeg"
     - "https://i.discogs.com/IqbVsmzwEUfjNE_-yLvCwH4TapfXXpIZ4qEIM7MPwDc/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4MTE5/OC0xNjE1OTY2Mjc4/LTYwNjIuanBlZw.jpeg"
     - "https://i.discogs.com/KeITSjdf5KY9xLWKMt8VV8nNSbjQFHmbNGGNi3oni2g/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4MTE5/OC0xNjE1OTU3Mjg0/LTg5MDAuanBlZw.jpeg"
     - "https://i.discogs.com/AL-Dk-xnjzoJIxr-Os92-FV5KkkviGORxbSA3f3YzMI/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4MTE5/OC0xNjE1OTU3Mjg1/LTQwMzQuanBlZw.jpeg"
@@ -24,10 +24,10 @@ genres: ["Rock"]
 styles: ["Psychedelic Rock", "Classic Rock"]
 ---
 
-To be a Rolling Stone circa <i>Their Satanic Majesties Request</i> is to have stood at the convergence of cultural change in ways few can claim. Swinging London, sexual liberation, the embrace of drugs and the desecration of a life decent young men (like them) were expected not only to work for but to embrace: It all mapped. Most of the time, the band were on the leading edge—they didn’t just set trends, they transcended them. Yes, you could find them in the bigger picture, but by 1967 they were good enough to exist outside it, too. <i>Their Satanic Majesties Request</i> was one of the few times they responded directly to the sound of the moment—in this case, the excesses of “psychedelia”. (That term had always been a little foolish: What were “Paint It Black” and “19th Nervous Breakdown” if not three-minute explorations of the bent perceptions and spiralling anxieties of LSD?) But like The Beatles’ <i>Sgt. Pepper’s</i>—which had come out earlier that year—<i>Satanic Majesties</i> was bright and ostentatious, a peacock instead of a tense, circling crow.<br />
+To be a Rolling Stone circa <i>Their Satanic Majesties Request</i> is to have stood at the convergence of cultural change in ways few can claim. Swinging London, sexual liberation, the embrace of drugs and the desecration of a life decent young men (like them) were expected not only to work for but to embrace: It all mapped. Most of the time, the band were on the leading edge—they didn’t just set trends, they transcended them. Yes, you could find them in the bigger picture, but by 1967 they were good enough to exist outside it, too. <I>Their Satanic Majesties Request</I> was one of the few times they responded directly to the sound of the moment—in this case, the excesses of “psychedelia”. (That term had always been a little foolish: What were “Paint It Black” and “19th Nervous Breakdown” if not three-minute explorations of the bent perceptions and spiralling anxieties of LSD?) But like The Beatles’ <i>Sgt. Pepper’s</i>—which had come out earlier that year—<i>Satanic Majesties</i> was bright and ostentatious, a peacock instead of a tense, circling crow.<br />
 The album’s recording had been long and disjointed—a function, in part, of court appearances, jail time and managerial shake-ups in the wake of a drug raid the previous February. The band were rarely in the studio together at the same time, and foresight in terms of writing was limited. After falling out with Andrew Loog Oldham, they also found themselves serving as producer, a job none of them had done or seemed to want to do. Bill Wyman later described the sessions as a lottery. Jagger joked that the album was made under the influence of bail.<br />
 But there was still gold in the hills. “Citadel” stung like a glitter whip, as physical as their mid-’60s singles albeit with the production baubles the moment demanded. “She’s a Rainbow”: the moony lyric; the sped-up, childlike voices; Nicky Hopkins’ sparkling piano—here was a rare sweet side. “2000 Light Years From Home” was requisitely spaced-out but grounded in real anxiety and longing—the alien’s lament, yes, but also the kind of thing you might write from jail, which is where Jagger had recently been.<br />
-In hindsight, the album was an anomaly. But it also served as a kind of cleansing. Brian Jones, the band’s agent of experimentation, ebbed further into drugs and would be dead within two years. The infinite horizons of psychedelia were starting to look pretty limited. Six months later, the band released “Jumpin’ Jack Flash”—by <i>Beggars Banquet</i>, the trip was over and reality was at the door.
+In hindsight, the album was an anomaly. But it also served as a kind of cleansing. Brian Jones, the band’s agent of experimentation, ebbed further into drugs and would be dead within two years. The infinite horizons of psychedelia were starting to look pretty limited. Six months later, the band released “Jumpin’ Jack Flash”—by <I>Beggars Banquet</I>, the trip was over and reality was at the door.
         
         
     
@@ -46,7 +46,7 @@ In hindsight, the album was an anomaly. But it also served as a kind of cleansin
 10. On With The Show
 
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/their-satanic-majesties-request-50th-anniversary-special/1440759322" >}}<br>
+{{< applemusic url="https://music.apple.com/gb/album/their-satanic-majesties-request/1440773836" >}}<br>
 
 
 

@@ -35,19 +35,21 @@ additional_images:
     - "https://i.discogs.com/BVU5IIUFz51kT7FVLmVglfq_pVBeIjPt4yaPZ_i_DkA/rs:fit/g:sm/q:90/h:581/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyODEx/NDkyLTE1NDcyNTMw/NDgtOTA2MC5qcGVn.jpeg"
     - "https://i.discogs.com/9M2INzTDed1UwGDfO3nDMv_Dy1_COXFpeDf5AjJ7Xx8/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyODEx/NDkyLTE1NDcyNTMw/NTItMjE3My5qcGVn.jpeg"
     - "https://i.discogs.com/YiHCcUlGJeKVkg2_1xfINYfIR-xFSrItXYU-AlycPJg/rs:fit/g:sm/q:90/h:564/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyODEx/NDkyLTE1NDcyNTMw/NTItMjkzNi5qcGVn.jpeg"
-    - "https://i.discogs.com/S7e6vXcmtu8x2tsEuFIBiE9aJEkPLJVa2O5BAgWX44E/rs:fit/g:sm/q:90/h:601/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyODEx/NDkyLTE1NDcyNTMw/NTMtOTg0Mi5qcGVn.jpeg"
+    - "https://i.discogs.com/DoVENxW4mDZjuH_d9b_uiyjn5daGHWqj4rj01CnjtAA/rs:fit/g:sm/q:90/h:600/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyODEx/NDkyLTE1NDcyNTMw/NTMtOTg0Mi5qcGVn.jpeg"
     - "https://i.discogs.com/uButMkZRuFYO_tTUXDp_eQ_zyp_1QdelngDI1ux7bS0/rs:fit/g:sm/q:90/h:572/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyODEx/NDkyLTE1NDcyNTMw/NTYtMzExMy5qcGVn.jpeg"
     - "https://i.discogs.com/FbWmtgyk4ar24K2Py0yZbD0kMnZv1TKmLr6bjb3-buU/rs:fit/g:sm/q:90/h:590/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyODEx/NDkyLTE1NDcyNTMw/NTktMTQxOS5qcGVn.jpeg"
     - "https://i.discogs.com/9SZIwyjwP-m6TH5XNX6dF8KC3iej-grdSsIakU0fi9M/rs:fit/g:sm/q:90/h:571/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyODEx/NDkyLTE1NDcyNTMw/NTctOTY2NC5qcGVn.jpeg"
     - "https://i.discogs.com/3wv8wQn_I7NIVv4u-3Gj8kbfTQHQdKDUCNDvg_LS6No/rs:fit/g:sm/q:90/h:570/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyODEx/NDkyLTE1NDcyNTMw/NTctMzgwMi5qcGVn.jpeg"
     - "https://i.discogs.com/I-uO_Q2HIZx0F4YS7aYmk-b9hDDa6w_w_aNkb2458-g/rs:fit/g:sm/q:90/h:573/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyODEx/NDkyLTE1NDcyNTMw/NTgtNjcwMy5qcGVn.jpeg"
-    - "https://i.discogs.com/WLFYoIo7WoE-1P-0dcJdUxQhVF87F0cPd5fIg1GUZYE/rs:fit/g:sm/q:90/h:601/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyODEx/NDkyLTE1NDcyNTMw/NTgtNTMzNS5qcGVn.jpeg"
+    - "https://i.discogs.com/X7Z36F9QMISMjlFkSo_ywdDxQgqhgJmA2L4S5GlS4Gg/rs:fit/g:sm/q:90/h:600/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyODEx/NDkyLTE1NDcyNTMw/NTgtNTMzNS5qcGVn.jpeg"
     - "https://i.discogs.com/kJZ4yPYC4aVKThkh1n53spNpuFUdweY0SQLDWVosdsU/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyODEx/NDkyLTE2MDExMDA1/MzUtODA5NC5wbmc.jpeg"
 genres: ["Rock"]
 styles: ["Art Rock", "Pop Rock"]
 ---
 
-Glastonbury 2000 is a live album by English musician David Bowie. It was recorded during his Sunday night headline slot at the Glastonbury Festival on 25 June 2000. The album marks the first time the full video and audio of the performance are released, 18 years after it took place. It was shown in its entirety for the first time on BBC2 on 28 June 2020.
+Glastonbury 2000 is a live album by English musician David Bowie. It was recorded during his Sunday night headline slot at the Glastonbury Festival on 25 June 2000, part of his Mini Tour. The album marks the first time the full video and audio of the performance are released, 18 years after it took place. It was shown in its entirety for the first time on BBC2 on 28 June 2020.
+
+
     
     
 

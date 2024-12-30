@@ -13,14 +13,16 @@ cover:
     caption: "Big Bad Luv by John Moreland"
 additional_images:
     - "https://i.discogs.com/WlnDwlOUdwxDPZI-eNSABkBdJVfUMnZLZY9OLskSkyQ/rs:fit/g:sm/q:90/h:591/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMjM3/NTIwLTE2NDU4ODkz/NzctOTM0OS5qcGVn.jpeg"
-    - "https://i.discogs.com/gfkYZHK02tSnKVWmatkcDzsapkvjvQpKuqV3m8xmirQ/rs:fit/g:sm/q:90/h:594/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMjM3/NTIwLTE2NDU4ODkz/NzktNjAzNS5qcGVn.jpeg"
     - "https://i.discogs.com/DmebrYLKJt7-ElOe20QQ_o57ZJZnc3DVJah6hWYIUO0/rs:fit/g:sm/q:90/h:298/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMjM3/NTIwLTE2NDU4ODkz/NzgtNjcyNi5qcGVn.jpeg"
+    - "https://i.discogs.com/gfkYZHK02tSnKVWmatkcDzsapkvjvQpKuqV3m8xmirQ/rs:fit/g:sm/q:90/h:594/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMjM3/NTIwLTE2NDU4ODkz/NzktNjAzNS5qcGVn.jpeg"
+    - "https://i.discogs.com/vlFlafx9SyJ5IFBQDFyphcvLMDdlzNYgFbD4N6pH6_o/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMjM3/NTIwLTE2NDU4ODkz/NzQtMjg5NS5qcGVn.jpeg"
+    - "https://i.discogs.com/hfyVpIiyRbKm5MwpfeqCLyubaOGGortYSU0UGoV8Ydc/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMjM3/NTIwLTE2NDU4ODkz/NzItNTI1MC5qcGVn.jpeg"
     - "https://i.discogs.com/6Zs5k8BbYnkwyLG_ocDl0NYs5hEUYvfOMfKAebcIIGY/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMjM3/NTIwLTE2NDU4ODkz/NzMtNzEzOS5qcGVn.jpeg"
     - "https://i.discogs.com/geZtfYkxR5f6HE6tz-pC6FN573hL-v5cseKBSmOcZQ8/rs:fit/g:sm/q:90/h:593/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMjM3/NTIwLTE2NDU4ODkz/NzktNzQ3Ny5qcGVn.jpeg"
-    - "https://i.discogs.com/585Yb7c8nxxKDbm_bfqUF-JsP0NnbNGVEAyluWOXBQM/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMjM3/NTIwLTE2NDU4ODkz/ODItNTc0Ny5qcGVn.jpeg"
+    - "https://i.discogs.com/Fana_aLjGn7x8K0vQXVbRvfYNe__eJzWkQ9qTjU3hkU/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMjM3/NTIwLTE2NDU4ODkz/ODItNTc0Ny5qcGVn.jpeg"
     - "https://i.discogs.com/jzgPdlT1QTZLtjiqxRptD-vnj1-ccea7OrZebBagt4E/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMjM3/NTIwLTE2NDU4ODkz/NzktNzY1MC5qcGVn.jpeg"
-    - "https://i.discogs.com/vlFlafx9SyJ5IFBQDFyphcvLMDdlzNYgFbD4N6pH6_o/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMjM3/NTIwLTE2NDU4ODkz/NzQtMjg5NS5qcGVn.jpeg"
-    - "https://i.discogs.com/z2q3noRH8HmhY3Q0RoEzzSo8NgOzMR2sJ6D_7XR5bTQ/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMjM3/NTIwLTE2NDU4ODkz/NzItNTI1MC5qcGVn.jpeg"
+    - "https://i.discogs.com/85R2sxoWcigZNij2ktn2SJVfwR15Dae8rvAm0pCBgB0/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMjM3/NTIwLTE3MDU4NjE2/MjgtOTUwMS5qcGVn.jpeg"
+    - "https://i.discogs.com/PpNlRdV4noqnXngyYmHUL64Bm3OHceJh1vqffmopbu4/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMjM3/NTIwLTE3MDU4NjE2/MjgtNzYxNy5qcGVn.jpeg"
 genres: ["Rock"]
 styles: ["Folk Rock"]
 ---
@@ -56,7 +58,18 @@ styles: ["Folk Rock"]
 - [Amen, So Be It](https://www.youtube.com/watch?v=CJXRbDZQ07Q)
 - [No Glory in Regret](https://www.youtube.com/watch?v=FVGpp9Ltv-s)
 - [Ain't We Gold](https://www.youtube.com/watch?v=pl91Up1uWFI)
-- [John Moreland - Slow Down Easy](https://www.youtube.com/watch?v=yR0QCXbxM3U)
+- [John Moreland - Slow Down Easy](https://www.youtube.com/watch?v=9HoIEzv0Fqw)
+- [John Moreland - It Don't Suit Me (Like Before)](https://www.youtube.com/watch?v=FLrmGYpzh_k)
+- [Latchkey Kid](https://www.youtube.com/watch?v=t61aeKHE7QE)
+- [John Moreland - Sallisaw Blue (Official Audio)](https://www.youtube.com/watch?v=bfkXnZ65jS8)
+- [Old Wounds](https://www.youtube.com/watch?v=sJWBJx64frM)
+- [Every Kind of Wrong](https://www.youtube.com/watch?v=ZZ1bZqWpRGk)
+- [Love Is Not an Answer](https://www.youtube.com/watch?v=R4tE27oj8vU)
+- [Lies I Chose to Believe](https://www.youtube.com/watch?v=e9hui3Foy4E)
+- [Amen, So Be It](https://www.youtube.com/watch?v=CJXRbDZQ07Q)
+- [No Glory in Regret](https://www.youtube.com/watch?v=FVGpp9Ltv-s)
+- [Ain't We Gold](https://www.youtube.com/watch?v=pl91Up1uWFI)
+- [John Moreland - Slow Down Easy](https://www.youtube.com/watch?v=9HoIEzv0Fqw)
 - [John Moreland - It Don't Suit Me (Like Before)](https://www.youtube.com/watch?v=FLrmGYpzh_k)
 - [Latchkey Kid](https://www.youtube.com/watch?v=t61aeKHE7QE)
 
@@ -66,8 +79,8 @@ styles: ["Folk Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl LP Album (Gatefold) |
+| Format         | Vinyl LP Album Stereo |
 | Label          | 4AD |
 | Catalog Number | 4AD0007LP |
-| Notes | Includes download card. |
+| Notes | Housed in matte gatefold sleeve with color printed inner sleeve and separate printed insert featuring lyrics and credits.  Includes download card. includes a tattoo sticker.  Runouts are etched. |
 | Discogs URL    | [John Moreland - Big Bad Luv](https://www.discogs.com/release/10237520-John-Moreland-Big-Bad-Luv) |

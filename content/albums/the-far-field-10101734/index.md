@@ -25,7 +25,7 @@ genres: ["Electronic", "Rock"]
 styles: ["Indie Rock", "Synth-pop"]
 ---
 
-Bolstered by a notoriously great <i>Letterman</i> performance, Future Islands’ 2014 effort <i>Singles</i> was a breakthrough for the synth-pop romantics. <i>The Far Field</i> dives further into their sound, combining the expressiveness of soul with the leanness of post-punk and New Wave, underlined by immediate songwriting and the strong, vulnerable voice of Samuel T. Herring. “I don’t believe anymore/I won’t grieve anymore,” he croons on the standout “Cave.” “’Cause what was gold/Is gone and cold.”
+Future Islands’ 2014 effort <i>Singles</i> was a breakthrough for the synth-pop romantics. <i>The Far Field</i> dives further into their sound, combining the expressiveness of soul with the leanness of post-punk and New Wave, underlined by immediate songwriting and the strong, vulnerable voice of Samuel T. Herring. “I don’t believe anymore/I won’t grieve anymore,” he croons on the standout “Cave”. “’Cause what was gold/Is gone and cold.”
         
         
     
@@ -50,10 +50,12 @@ Bolstered by a notoriously great <i>Letterman</i> performance, Future Islands’
 
 
 ## Videos
-### Aladdin
-{{< youtube id="5PFZnKYnL1s" title="Aladdin" >}}<br>
+### Future Islands - Cave (Official Lyric Video)
+{{< youtube id="RGrhubD8VDg" title="Future Islands - Cave (Official Lyric Video)" >}}<br>
 ### More Videos
 
+- [Future Islands - Ran (Official Video)](https://www.youtube.com/watch?v=MlQunle406U)
+- [Aladdin](https://www.youtube.com/watch?v=5PFZnKYnL1s)
 - [Shadows](https://www.youtube.com/watch?v=XpDbwHbQ_Ak)
 - [Time On Her Side](https://www.youtube.com/watch?v=r1oGu0w5ySI)
 - [North Star](https://www.youtube.com/watch?v=5oOk8j0SfoA)
@@ -63,8 +65,6 @@ Bolstered by a notoriously great <i>Letterman</i> performance, Future Islands’
 - [Ancient Water](https://www.youtube.com/watch?v=sUw-sF4kOI8)
 - [Through the Roses](https://www.youtube.com/watch?v=gZ0TF3IzNm0)
 - [Future Islands - Beauty Of The Road (Official Video)](https://www.youtube.com/watch?v=vsYHJ1ijoik)
-- [Future Islands - Cave (Official Lyric Video)](https://www.youtube.com/watch?v=RGrhubD8VDg)
-- [Future Islands - Ran (Official Video)](https://www.youtube.com/watch?v=MlQunle406U)
 
 ## Release Images
 {{< imageGrid >}}

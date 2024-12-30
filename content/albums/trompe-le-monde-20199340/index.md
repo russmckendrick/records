@@ -23,7 +23,9 @@ genres: ["Rock"]
 styles: ["Alternative Rock"]
 ---
 
-Trompe le Monde is the fourth studio album by the American alternative rock band Pixies, released on September 23, 1991 on 4AD in the United Kingdom and on September 24, 1991, on  Elektra Records in the United States. Recorded in Burbank, California, Paris and London, the album was produced by Gil Norton, and was Pixies' final studio album before their subsequent break-up two years later. Trompe le Monde is the last album to feature founding bass guitarist Kim Deal.
+Trompe le Monde is the fourth studio album by the American alternative rock band Pixies, released on September 23, 1991 on 4AD in the United Kingdom and on September 24, 1991, on  Elektra Records in the United States. Recorded in Burbank, California, Paris and London, the album was produced by Gil Norton, and was Pixies' final studio album before their break-up two years later. There would be no Pixies' albums of new material for 23 years after Trompe le Monde.
+
+
     
     
 
@@ -49,7 +51,22 @@ Trompe le Monde is the fourth studio album by the American alternative rock band
 {{< applemusic url="https://music.apple.com/gb/album/trompe-le-monde/1457604293" >}}<br>
 
 
+## Videos
+### Trompe le Monde
+{{< youtube id="hp7NgLIWCiE" title="Trompe le Monde" >}}<br>
+### More Videos
 
+- [PIXIES - Planet Of Sound (Official Lyric Video)](https://www.youtube.com/watch?v=TFl4AemxH4g)
+- [PIXIES - Alec Eiffel (Official Video)](https://www.youtube.com/watch?v=rsMLjaloyvI)
+- [The Sad Punk](https://www.youtube.com/watch?v=zcVpFug2p00)
+- [Head On](https://www.youtube.com/watch?v=oliTZ5hQcjI)
+- [U-Mass](https://www.youtube.com/watch?v=anVauyMv-nE)
+- [Space (I Believe In)](https://www.youtube.com/watch?v=Xf5mRBPzTQ4)
+- [Subbacultcha](https://www.youtube.com/watch?v=SWYsAbbx0rQ)
+- [Distance Equals Rate Times Time](https://www.youtube.com/watch?v=VpHYy3ZmklM)
+- [Lovely Day](https://www.youtube.com/watch?v=BdVt1IXdGpQ)
+- [Motorway to Roswell](https://www.youtube.com/watch?v=mPzLGTgyAw4)
+- [The Navajo Know](https://www.youtube.com/watch?v=PGjHxjf_les)
 
 ## Release Images
 {{< imageGrid >}}

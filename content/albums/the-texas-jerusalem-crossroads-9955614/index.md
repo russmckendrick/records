@@ -12,28 +12,28 @@ cover:
     alt: "The Texas-Jerusalem Crossroads by Lift To Experience"
     caption: "The Texas-Jerusalem Crossroads by Lift To Experience"
 additional_images:
-    - "https://i.discogs.com/eHPtqDiJxULtxVmw31MlulSAtkQcmIHW8SQ8sgvQqSI/rs:fit/g:sm/q:90/h:605/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk5NTU2/MTQtMTQ4OTIzMjQ4/Mi0yMDQ1LmpwZWc.jpeg"
+    - "https://i.discogs.com/PK5R9jtziKRbWI3L_3oB0Dd7mYGDsZtLAcc9kP1hh1g/rs:fit/g:sm/q:90/h:600/w:594/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk5NTU2/MTQtMTQ4OTIzMjQ4/Mi0yMDQ1LmpwZWc.jpeg"
     - "https://i.discogs.com/gyUhVdQdtnC7WuMhncTgmECdAmHHfH8aY7Ii9srEI0c/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk5NTU2/MTQtMTQ4OTIzMjQ4/My02MzM3LmpwZWc.jpeg"
     - "https://i.discogs.com/515Bg_c9JBL0djNSa0acqwuhEl_5O6UAUdrPKenQx7U/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk5NTU2/MTQtMTQ4OTIzMjUw/Ni0zNTkyLmpwZWc.jpeg"
     - "https://i.discogs.com/8YV4IWVM7NztXy0yzzOGd_xhfwY__OMvr1iKv0qpbZA/rs:fit/g:sm/q:90/h:289/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk5NTU2/MTQtMTQ4OTIzMjUw/OC04NjAxLmpwZWc.jpeg"
     - "https://i.discogs.com/koJh0Ydt0i9gh2fkaDrFO30vRR3zfkz8yUzSuL0ATeI/rs:fit/g:sm/q:90/h:591/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk5NTU2/MTQtMTQ4OTIzMjQ4/Mi0zNTQzLmpwZWc.jpeg"
-    - "https://i.discogs.com/pB0B-qOQUC12ofODDZZue2cvYhT7Jgy0nssUhyZHePY/rs:fit/g:sm/q:90/h:604/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk5NTU2/MTQtMTQ4OTIzMjQ4/NS02Njk0LmpwZWc.jpeg"
-    - "https://i.discogs.com/X0DAvpTKsUrlNwvd8yaTT-5EY4g3bQFEhxaD5a1Boac/rs:fit/g:sm/q:90/h:606/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk5NTU2/MTQtMTQ4OTIzMjQ4/MC02MTQwLmpwZWc.jpeg"
-    - "https://i.discogs.com/iKVxn4tdUrm2FOtfCa6LJ-Gc9SScejCQHRqMtmwIt5A/rs:fit/g:sm/q:90/h:611/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk5NTU2/MTQtMTQ4OTIzMjYw/OS01OTg0LmpwZWc.jpeg"
-    - "https://i.discogs.com/szCRb9PdqOuHbtvDohGTXBXVLX8inDtGVxcJLd0xWOM/rs:fit/g:sm/q:90/h:602/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk5NTU2/MTQtMTQ4OTIzMjU2/Ni03NTE0LmpwZWc.jpeg"
+    - "https://i.discogs.com/76UvmuYE7IPTmQau0BSxrKtg9n4mLb0Xj58-al2UuXE/rs:fit/g:sm/q:90/h:600/w:595/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk5NTU2/MTQtMTQ4OTIzMjQ4/NS02Njk0LmpwZWc.jpeg"
+    - "https://i.discogs.com/Ihp7gXXZ7xtjc0bcq09s_mLV-qGnYA2hVCHUhDc1noE/rs:fit/g:sm/q:90/h:600/w:593/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk5NTU2/MTQtMTQ4OTIzMjQ4/MC02MTQwLmpwZWc.jpeg"
+    - "https://i.discogs.com/wW9b-WfWPWyv8qIKvt4kkqrA3rNujH2rGnaLQ1R65c4/rs:fit/g:sm/q:90/h:600/w:588/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk5NTU2/MTQtMTQ4OTIzMjYw/OS01OTg0LmpwZWc.jpeg"
+    - "https://i.discogs.com/AuTcQGF7XdYOBlPD_SOOPk1Fxd2kKA9owevlFGXel-A/rs:fit/g:sm/q:90/h:600/w:597/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk5NTU2/MTQtMTQ4OTIzMjU2/Ni03NTE0LmpwZWc.jpeg"
     - "https://i.discogs.com/3QCVRjwHOhzoxXBI2WumSU21bF96h-QNxGM_cxAVwv4/rs:fit/g:sm/q:90/h:593/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk5NTU2/MTQtMTQ4OTIzMjU2/OC05NjUxLmpwZWc.jpeg"
     - "https://i.discogs.com/UgT_8rnypws4mRxWEKVasLQ2xhMUHqvxPcE8u2kmMq0/rs:fit/g:sm/q:90/h:590/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk5NTU2/MTQtMTQ4OTIzMjU2/OS0zMzU2LmpwZWc.jpeg"
-    - "https://i.discogs.com/gzfq-PB2srtJY1FNSDzYrcRmtPMEXSe0jVtqlMFT9Go/rs:fit/g:sm/q:90/h:608/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk5NTU2/MTQtMTQ4OTIzMjU2/Mi01NzgyLmpwZWc.jpeg"
+    - "https://i.discogs.com/MwiyL3bsGQlMm2AiK1AhjMZkWY9YmxwYvS8vg1YzAp4/rs:fit/g:sm/q:90/h:600/w:591/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk5NTU2/MTQtMTQ4OTIzMjU2/Mi01NzgyLmpwZWc.jpeg"
     - "https://i.discogs.com/9j9yogaljKuQVOyTSHjbwckpxH2n2QflWqbTtfbGS00/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk5NTU2/MTQtMTQ4OTIzMjU1/Ny04MTgyLmpwZWc.jpeg"
     - "https://i.discogs.com/YXvXK3ElRxr7f99E6hj7x_dcjjQpw5BWBsoRwbGjdXw/rs:fit/g:sm/q:90/h:591/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk5NTU2/MTQtMTQ4OTIzMjY2/MS04NDQ2LmpwZWc.jpeg"
-    - "https://i.discogs.com/_4G_h3DBO_q3jYhGI1DiAt2rvKAQN0LOuCGzOuy9OJ8/rs:fit/g:sm/q:90/h:605/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk5NTU2/MTQtMTQ4OTIzMjU2/MS03MTk2LmpwZWc.jpeg"
+    - "https://i.discogs.com/-nZkUZGzTve1zvWgGq3v8X2qOcv1EsqgtB1LH_8MyjA/rs:fit/g:sm/q:90/h:600/w:594/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk5NTU2/MTQtMTQ4OTIzMjU2/MS03MTk2LmpwZWc.jpeg"
     - "https://i.discogs.com/GSzVxj8nOO2R6Vv11bIuAuKGOilCJhWu7r6Gpmogvzc/rs:fit/g:sm/q:90/h:593/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk5NTU2/MTQtMTQ4OTIzMjY4/Mi01MjAyLmpwZWc.jpeg"
     - "https://i.discogs.com/QZOmpIgdVnjbTkra7-0e13TjNqYTN3Q0aeIH3uzGdTc/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk5NTU2/MTQtMTQ4OTIzMjY4/Ny05ODkzLmpwZWc.jpeg"
     - "https://i.discogs.com/zMnJis4ki4dFR_lvzdqIdjRvtS-bq_3W7c_WOUObxjE/rs:fit/g:sm/q:90/h:590/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk5NTU2/MTQtMTQ4OTIzMjcx/Mi00ODE1LmpwZWc.jpeg"
-    - "https://i.discogs.com/JIxPe3THRi9h7mK0i3QyAfuvuuGE7R3vdQNVqwlH9oA/rs:fit/g:sm/q:90/h:608/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk5NTU2/MTQtMTQ4OTIzMjY5/My01NTc4LmpwZWc.jpeg"
+    - "https://i.discogs.com/gWUPCFdN87vEwQKy_YuZamUeFSy8yxu_9XD1RgIJPXA/rs:fit/g:sm/q:90/h:600/w:591/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk5NTU2/MTQtMTQ4OTIzMjY5/My01NTc4LmpwZWc.jpeg"
     - "https://i.discogs.com/QnuHRc1ThaJKRZ90fHwTYAsSRLawyVdR-NSTXci9gcY/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk5NTU2/MTQtMTQ4OTIzMjY5/My02MTg0LmpwZWc.jpeg"
-    - "https://i.discogs.com/k3IolxXobq-mIKrOz3apwbHljefAVHcIzPaExPMIiNU/rs:fit/g:sm/q:90/h:614/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk5NTU2/MTQtMTQ4OTIzMjcy/Mi0yNjQ0LmpwZWc.jpeg"
-    - "https://i.discogs.com/lSo60b-Ji3sYTL9G7nVZbvR_bHzog5ZLgsL7UvEOBsU/rs:fit/g:sm/q:90/h:614/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk5NTU2/MTQtMTQ4OTIzMjcy/OS05NzA2LmpwZWc.jpeg"
+    - "https://i.discogs.com/rmJN2O5WHSerHK1urfO3XR2VUEoRUrEcEtCI78mdesE/rs:fit/g:sm/q:90/h:600/w:586/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk5NTU2/MTQtMTQ4OTIzMjcy/Mi0yNjQ0LmpwZWc.jpeg"
+    - "https://i.discogs.com/LX6h-UcAIT4nBAdlWPSOen_krHi1W26VRJ9_hwfrXws/rs:fit/g:sm/q:90/h:600/w:586/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk5NTU2/MTQtMTQ4OTIzMjcy/OS05NzA2LmpwZWc.jpeg"
     - "https://i.discogs.com/LFxi4RKSZ2MpsB8p3IW4eEsfB56lu5iwmcoC6hbGh9c/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk5NTU2/MTQtMTUwNjg4NDUz/My0zNzMyLnBuZw.jpeg"
 genres: ["Rock"]
 styles: ["Psychedelic Rock"]
@@ -81,9 +81,8 @@ The album was remastered and reissued for its 15-year anniversary by Mute Record
 {{< youtube id="sthmEkUjACM" title="Lift To Experience - When We Shall Touch (Official Audio)" >}}<br>
 ### More Videos
 
-- [Lift To Experience   The Texas Jerusalem Crossroads](https://www.youtube.com/watch?v=RebkScGC2JE)
 - [Lift To Experience - Just As Was Told (Official Audio)](https://www.youtube.com/watch?v=iF96B27HYik)
-- [Lift To Experience - These Are The Days (2017 Mix) (Official Video)](https://www.youtube.com/watch?v=FbBPve8A6yI)
+- [Lift To Experience - "These Are The Days (2017 Mix)" (Official Video)](https://www.youtube.com/watch?v=FbBPve8A6yI)
 - [Lift To Experience - Falling From Cloud 9 (Official Video)](https://www.youtube.com/watch?v=bWWzcgsutdk)
 - [Lift To Experience - Waiting To Hit (Official Audio)](https://www.youtube.com/watch?v=sZ28bBvKjig)
 - [Lift To Experience - To Guard And To Guide You (Official Audio)](https://www.youtube.com/watch?v=xOgkUe2437o)

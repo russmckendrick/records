@@ -15,7 +15,7 @@ additional_images:
     - "https://i.discogs.com/61Wd83srwcHF4djiW4conFh7LogcLmIilORXZkXFr_k/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMzg0/NjAxLTE1NTMxOTM2/MTctODE0NC5qcGVn.jpeg"
     - "https://i.discogs.com/AU_BmOb60wK6cORbGzZxnUsD1QyWAbV-mF-ARZp0z1Q/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMzg0/NjAxLTE1NTMxOTM2/MjQtNTk4MC5qcGVn.jpeg"
     - "https://i.discogs.com/CyjapX1NFXgxlIt31NLvt_2O8Jrn00tHDKVS8KA0AkY/rs:fit/g:sm/q:90/h:593/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMzg0/NjAxLTE1NzcwOTEy/MDgtNTEwMy5qcGVn.jpeg"
-    - "https://i.discogs.com/ic4yyEV09ILU7o5QBcMaa-Mf0HtNvskEOrmuCwZu6IQ/rs:fit/g:sm/q:90/h:601/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMzg0/NjAxLTE1NTM2ODEy/MTEtMTkzMS5qcGVn.jpeg"
+    - "https://i.discogs.com/gy0RJ6ZJtOw0s9ljKlIkDyC4kNZ2KCDQMMuvEfoPVXw/rs:fit/g:sm/q:90/h:600/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMzg0/NjAxLTE1NTM2ODEy/MTEtMTkzMS5qcGVn.jpeg"
     - "https://i.discogs.com/VPHAq-PcadsCY1UcZ7OPfslGIZFO67DU5vsbIr684DQ/rs:fit/g:sm/q:90/h:585/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMzg0/NjAxLTE1NTM2ODEy/MTEtMjk5Ny5qcGVn.jpeg"
     - "https://i.discogs.com/fW0RqsoCWGQbu7DSuuXeplIVI16I9Xh2ZFLQzc59HCE/rs:fit/g:sm/q:90/h:585/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMzg0/NjAxLTE1NTM2ODEy/MTItMzc1Ni5qcGVn.jpeg"
     - "https://i.discogs.com/VuRYxlGzcckHgMC5qd-tqvD-RUlwFP8Bq7v4fhy0gf4/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMzg0/NjAxLTE1NTM2ODEy/MTEtMjI4MC5qcGVn.jpeg"
@@ -64,4 +64,4 @@ The Modern Age is the fourth studio album by English Britpop band Sleeper. The a
 | Label          | Gorsky Records |
 | Catalog Number | SLEEP19LPC2 |
 | Notes | "Indies only" limited edition cream coloured vinyl. Issued in a matte sleeve. Picture/lyric inner sleeve of matte card. Barcode over-sticker applied to shrink-wrap. Some copies were made available which were signed by the members of the band.  Label cat# SLEEP19LP on the labels center (side B) and on the back cover. Label cat# SLEEP19LPC2 (for the cream limited edition) on the sticker with barcode.  Mixed by Stephen Street at The Bunker Made in the EU. |
-| Discogs URL    | [Sleeper - The Modern Age](https://www.discogs.com/release/13384601-Sleeper-The-Modern-Age) |
+| Discogs URL    | [Sleeper - The Modern Age](https://www.discogs.com/release/13384601-Sleeper-2-The-Modern-Age) |

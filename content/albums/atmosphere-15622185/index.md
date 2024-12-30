@@ -22,7 +22,7 @@ genres: ["Rock"]
 styles: ["New Wave", "Post-Punk"]
 ---
 
-"Atmosphere" is a song by English post-punk band Joy Division. It was originally released in March 1980 by the Sordide Sentimental label as the "Licht und Blindheit" (German for "Light and Blindness") package, a France-only limited edition single featuring the track "Dead Souls" as the B-side. Following Ian Curtis's death in May, it was re-released as a 12" single by Factory Records in August with "She's Lost Control" as the B-side.
+"Atmosphere" is a song by the English post-punk band Joy Division. It was originally released in March 1980 by the Sordide Sentimental label as the "Licht und Blindheit" (German for "Light and Blindness") package, a France-only limited edition single featuring the track "Dead Souls" as the B-side. Following Ian Curtis's death in May 1980, it was re-released as a 12" single by Factory Records in September with "She's Lost Control" as the B-side.
 The single was re-released in 1988 to coincide with the release of the compilation album Substance, and a music video was produced for the song.
 
 
@@ -35,12 +35,12 @@ The single was re-released in 1988 to coincide with the release of the compilati
 2. She's Lost Control
 
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/atmosphere-2020-digital-remaster-single/1511760196" >}}<br>
+{{< applemusic url="https://music.apple.com/gb/album/atmosphere-joy-division-cover-single/1508055731" >}}<br>
 
 
 ## Videos
-### JOY DIVISION - Atmosphere (Factory / 1980) FULL 12
-{{< youtube id="4e5uU1YNQlQ" title="JOY DIVISION - Atmosphere (Factory / 1980) FULL 12" >}}<br>
+### Joy Division - Atmosphere [OFFICIAL MUSIC VIDEO]
+{{< youtube id="1EdUjlawLJM" title="Joy Division - Atmosphere [OFFICIAL MUSIC VIDEO]" >}}<br>
 
 
 ## Release Images

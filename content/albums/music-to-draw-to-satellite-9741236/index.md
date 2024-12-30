@@ -57,8 +57,11 @@ The Montreal DJ vibes with Icelandic singer Emilíana Torrini.
 {{< youtube id="u8JLozxxGrg" title="Kid Koala - Music To Draw To: Satellite - the observable universe (trailer)" >}}<br>
 ### More Videos
 
-- [Kid Koala - The Observable Universe (full song stream)](https://www.youtube.com/watch?v=ZDuCTIhvD5w)
-- [Kid Koala Adrift featuring Emilíana Torrini (Official Audio)](https://www.youtube.com/watch?v=QXLK91GLnjg)
+- [Kid Koala - "The Observable Universe" (full song stream)](https://www.youtube.com/watch?v=ZDuCTIhvD5w)
+- [Kid Koala "Adrift" featuring Emilíana Torrini (Official Audio)](https://www.youtube.com/watch?v=QXLK91GLnjg)
+- [Kid Koala - Music To Draw To: Satellite - the observable universe (trailer)](https://www.youtube.com/watch?v=u8JLozxxGrg)
+- [Kid Koala - "The Observable Universe" (full song stream)](https://www.youtube.com/watch?v=ZDuCTIhvD5w)
+- [Kid Koala "Adrift" featuring Emilíana Torrini (Official Audio)](https://www.youtube.com/watch?v=QXLK91GLnjg)
 
 ## Release Images
 {{< imageGrid >}}
@@ -70,4 +73,4 @@ The Montreal DJ vibes with Icelandic singer Emilíana Torrini.
 | Label          | Arts & Crafts |
 | Catalog Number | A&C 129 |
 | Notes | Includes 16p booklet  in CD booklet size (same as used for CD) and Digital Download Card (for MP3 download only) |
-| Discogs URL    | [Kid Koala - Music To Draw To: Satellite](https://www.discogs.com/release/9741236-Kid-Koala-Featuring-Emil%C3%ADana-Torrini-Music-To-Draw-To-Satellite) |
+| Discogs URL    | [Kid Koala - Music To Draw To: Satellite](https://www.discogs.com/release/9741236-Kid-Koala-Featuring-Emilíana-Torrini-Music-To-Draw-To-Satellite) |

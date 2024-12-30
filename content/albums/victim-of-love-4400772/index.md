@@ -23,7 +23,7 @@ genres: ["Funk / Soul", "Blues"]
 styles: ["Soul", "Rhythm & Blues"]
 ---
 
-Where Charles Bradley’s 2011 debut LP sounded like it was recorded in 1971, his 2013 sophomore album plays like it was unearthed from a 1973 time capsule. Working again with Menahan Street Band leader Thomas Brenneck, who discovered Bradley busking around New York City, <i>Victim of Love</i> is a natural evolution. “Strictly Reserved for You” opens with a Memphis-flavored horn section and vintage fuzz-guitar leads buzzing under Bradley’s soulful croon. This time around, his melodies are noticeably more uplifting. Both “You Put the Flame on It” and the amorous ballad “Let Love Stand a Chance” resonate with the sunny soul of classic Stax vinyl. Those craving Bradley’s signature melancholy musings should turn to the lovelorn title track and the funky “Love Bug Blues.”
+Where Charles Bradley’s 2011 debut LP sounded like it was recorded in 1971, his 2013 sophomore album plays like it was unearthed from a 1973 time capsule. Working again with Menahan Street Band leader Thomas Brenneck, who discovered Bradley busking around New York City, <i>Victim of Love</i> is a natural evolution. “Strictly Reserved for You” opens with a Memphis-flavoured horn section and vintage fuzz-guitar leads buzzing under Bradley’s soulful croon. This time around, his melodies are noticeably more uplifting. Both “You Put the Flame on It” and the amorous ballad “Let Love Stand a Chance” resonate with the sunny soul of classic Stax vinyl. Those craving Bradley’s signature melancholy musings should turn to the lovelorn title track and the funky “Love Bug Blues”.
         
         
     

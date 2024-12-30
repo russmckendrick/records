@@ -19,15 +19,17 @@ additional_images:
     - "https://i.discogs.com/sG4Ff9XiPLB9CHHvNGn5xQ7lysz7lT3wYoKCpeNo2Ho/rs:fit/g:sm/q:90/h:593/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3NTQ1/MzYwLTE2MzUxMDM1/MTItMjU2Mi5qcGVn.jpeg"
     - "https://i.discogs.com/aO0eG092-CEFN6fdo3YhL-2JCuNrUrZuN3JP7aEP9nI/rs:fit/g:sm/q:90/h:587/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3NTQ1/MzYwLTE2MzExMjk2/OTAtODMwNS5qcGVn.jpeg"
     - "https://i.discogs.com/5lXAvp46PbKbjdMmWuoGnwzoJqBjqiVVieWbNckF5vE/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3NTQ1/MzYwLTE2MzUxMDQx/NjUtOTI2Ny5qcGVn.jpeg"
-    - "https://i.discogs.com/cIthcs5mGsNn8T6rxFQB3iwTbrzb1pRaIB2mr2zkLiY/rs:fit/g:sm/q:90/h:602/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3NTQ1/MzYwLTE2MzUxMDUx/OTEtNTYwNS5qcGVn.jpeg"
+    - "https://i.discogs.com/Vkzbg9s4tJjGpjJkyDlkVP2gbP6Or_ugKtlygU2CoBI/rs:fit/g:sm/q:90/h:600/w:597/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3NTQ1/MzYwLTE2MzUxMDUx/OTEtNTYwNS5qcGVn.jpeg"
     - "https://i.discogs.com/3jXn9amoQ7uTThbGmAGKq0_SL2NJkRpJwETylYdNAWw/rs:fit/g:sm/q:90/h:594/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3NTQ1/MzYwLTE2MzUxMDQ4/ODUtMzM3MC5qcGVn.jpeg"
     - "https://i.discogs.com/fHPUcrScjtjOyvqB-MLD4vFb5UlFgAZ9t2OPiRFRGms/rs:fit/g:sm/q:90/h:462/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3NTQ1/MzYwLTE2MTQ0MzQx/NTEtMTc1NS5qcGVn.jpeg"
     - "https://i.discogs.com/OPBg0IWeva_9T3tFWXry7E3IiczneywbIn2I9Hxep6Y/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3NTQ1/MzYwLTE2MTQwOTkx/OTQtODUzNS5qcGVn.jpeg"
+    - "https://i.discogs.com/sENcvrLVudhCRt7x-I24mBXL-U6UrYFaZO_wPtBwrpU/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3NTQ1/MzYwLTE2ODkyNzg2/NTQtOTEyMi5qcGVn.jpeg"
 genres: ["Rock"]
 styles: ["Alternative Rock"]
 ---
 
-Stories from the City, Stories from the Sea is the fifth studio album by English alternative rock musician PJ Harvey, released on 24 October 2000 by Island Records. Recorded during March to April 2000, it contains themes of love that are tied into Harvey's affection for New York City.The album became the second major commercial success of her recording career, following her successful breakthrough To Bring You My Love (1995). Upon its release, the album received acclaim from most music critics and earned Harvey several accolades, including the 2001 Mercury Prize. It spent 17 weeks on the UK Albums Chart, and was certified Platinum in the UK and Australia. It is generally regarded as one of her best works.
+Stories from the City, Stories from the Sea is the fifth studio album by the English singer-songwriter PJ Harvey, released on 23 October 2000 by Island Records. Recorded during March to April 2000, it contains themes of love that are tied into Harvey's affection for New York City.
+The album became the second major commercial success of her recording career, following her successful breakthrough To Bring You My Love (1995). Upon its release, the album received acclaim from most music critics and earned Harvey several accolades, including the 2001 Mercury Prize. It spent 17 weeks on the UK Albums Chart, and has been certified Platinum in the United Kingdom and Australia. It is generally regarded as one of her best works.
 
 
         

@@ -15,18 +15,18 @@ cover:
 additional_images:
     - "https://i.discogs.com/xfqgTAHxolxDQ7UIDi79XmPD6BEfsBLgQn7218gUm3Q/rs:fit/g:sm/q:90/h:590/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5Njg2/OTY3LTE2Mjc3MTQ5/NTktMjQxNC5qcGVn.jpeg"
     - "https://i.discogs.com/dqJjV4EVFS4bGFoJxzPP7mwGZKIT7AzL6Nrr8UqfIws/rs:fit/g:sm/q:90/h:591/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5Njg2/OTY3LTE2Mjc3MTQ5/NjQtNzM1MS5qcGVn.jpeg"
-    - "https://i.discogs.com/2gF65-yEDbrl8EaDod1Q9xW1neWFIGFWWMkvp0U5lzE/rs:fit/g:sm/q:90/h:1195/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5Njg2/OTY3LTE2Mjg4NjQw/NDYtMzUwNS5qcGVn.jpeg"
+    - "https://i.discogs.com/nequvKiOpKGQB5_FQcmx83He6PbaDpG-Dn0xFdiOtt0/rs:fit/g:sm/q:90/h:600/w:301/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5Njg2/OTY3LTE2Mjg4NjQw/NDYtMzUwNS5qcGVn.jpeg"
     - "https://i.discogs.com/QSRZoNqigtg1d6xq45yyCE7qKShkB0gA1Srp76P2G98/rs:fit/g:sm/q:90/h:308/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5Njg2/OTY3LTE2Mjg4NjQw/NDUtNjg0NC5qcGVn.jpeg"
-    - "https://i.discogs.com/NIcYs6JKGDUYuQ64RVAj2zhndLmPg79ZbQBw8jH4Z5A/rs:fit/g:sm/q:90/h:604/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5Njg2/OTY3LTE2Mjg4NjQw/NDUtNzkxMS5qcGVn.jpeg"
+    - "https://i.discogs.com/o86Cvfcu8J-OyrdHUKuGAOnEXtVevhy-spwxWUkji70/rs:fit/g:sm/q:90/h:600/w:595/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5Njg2/OTY3LTE2Mjg4NjQw/NDUtNzkxMS5qcGVn.jpeg"
     - "https://i.discogs.com/k36XzGpp5ydXisj2qiM84r2cLHAFb-VH4XADxJBdPF0/rs:fit/g:sm/q:90/h:589/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5Njg2/OTY3LTE2Mjg4NjQw/NDUtNjYyMC5qcGVn.jpeg"
     - "https://i.discogs.com/9bXTvdJQ2kgXcNkdiwGiMIIFpMo50VVR35nt5EEw6cc/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5Njg2/OTY3LTE2Mjg4NjQw/NDQtNzEzMC5qcGVn.jpeg"
     - "https://i.discogs.com/vXj1qkEK1wc-NQs4c9lvv1WXjNNA0CBv-SeLSixSKI0/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5Njg2/OTY3LTE2MjgyODgz/MjYtMTg5MC5qcGVn.jpeg"
-    - "https://i.discogs.com/sGktFsDWnbPKRyBEH2qrh2Dm5quxEpbXiEzD0Gob2_w/rs:fit/g:sm/q:90/h:605/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5Njg2/OTY3LTE2MjgyODgz/MzItNTM1Mi5qcGVn.jpeg"
-    - "https://i.discogs.com/_ntrHPss4oXFcnC9G7EUSzGQkzE267wTDma0frLUsKc/rs:fit/g:sm/q:90/h:799/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5Njg2/OTY3LTE2MjgyODgz/NDUtNTM3NC5qcGVn.jpeg"
+    - "https://i.discogs.com/T03gFUNx0BciIxscetmqDrRDNUVV4rpQMAKGtzR0ogk/rs:fit/g:sm/q:90/h:600/w:594/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5Njg2/OTY3LTE2MjgyODgz/MzItNTM1Mi5qcGVn.jpeg"
+    - "https://i.discogs.com/evQak5NrLlLS5HhR79V7-q6_A7rBWehcPYbsJwMO7nk/rs:fit/g:sm/q:90/h:600/w:450/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5Njg2/OTY3LTE2MjgyODgz/NDUtNTM3NC5qcGVn.jpeg"
     - "https://i.discogs.com/D7DyqRcVDhVD1b2Qu9F2PlwpUdEPTRtoODCoFHEo3eU/rs:fit/g:sm/q:90/h:270/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5Njg2/OTY3LTE2MzAwNzk1/NjEtNjk5My5qcGVn.jpeg"
     - "https://i.discogs.com/S5-kqiaL_DCWwLzklZOaMXrI5fh-0TiY18OhqIKV274/rs:fit/g:sm/q:90/h:270/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5Njg2/OTY3LTE2MzAwNzk1/NjEtOTUyMi5qcGVn.jpeg"
     - "https://i.discogs.com/xE2H7Fw0jRfTvM3kiCYtegmYSbLRATXKkuRFNDOFIUE/rs:fit/g:sm/q:90/h:270/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5Njg2/OTY3LTE2MzAwNzk1/NjEtNzI5Ny5qcGVn.jpeg"
-    - "https://i.discogs.com/2jUHzjnBgooeekt_CobeeYiz75AFATsgusWGBYF8Gyg/rs:fit/g:sm/q:90/h:960/w:432/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5Njg2/OTY3LTE2MzAwNzk1/NjEtMTYzOC5qcGVn.jpeg"
+    - "https://i.discogs.com/Zv7XzpDQKazJNUsVknm4CBL3W00DNGuD_HTlaMXm6k4/rs:fit/g:sm/q:90/h:600/w:270/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5Njg2/OTY3LTE2MzAwNzk1/NjEtMTYzOC5qcGVn.jpeg"
     - "https://i.discogs.com/gsLwkms6M7qzMBDGaLUlqfcYEXh59ZzoPRbcTCG1xZM/rs:fit/g:sm/q:90/h:270/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5Njg2/OTY3LTE2MzAwNzk1/NjEtNDkyNi5qcGVn.jpeg"
     - "https://i.discogs.com/S0vo2rnjvD9KWKGscNyUTcv3pjrBhKeuB7ZOKt_HI4c/rs:fit/g:sm/q:90/h:270/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5Njg2/OTY3LTE2MzAwNzk1/NjEtODc4OC5qcGVn.jpeg"
 genres: ["Rock", "Funk / Soul", "Pop"]
@@ -67,11 +67,11 @@ If she started humming a tune while straightening up the house, she wouldn't imm
 
 
 ## Videos
-### Yola - Diamond Studded Shoes [Official Music Video]
-{{< youtube id="GfC_n8efpiM" title="Yola - Diamond Studded Shoes [Official Music Video]" >}}<br>
+### Yola - "Diamond Studded Shoes" [Official Music Video]
+{{< youtube id="GfC_n8efpiM" title="Yola - "Diamond Studded Shoes" [Official Music Video]" >}}<br>
 ### More Videos
 
-- [Yola - Starlight [Official Music Video]](https://www.youtube.com/watch?v=8IGDA8ZUQ08)
+- [Yola - "Starlight" [Official Music Video]](https://www.youtube.com/watch?v=8IGDA8ZUQ08)
 
 ## Release Images
 {{< imageGrid >}}
@@ -84,4 +84,4 @@ If she started humming a tune while straightening up the house, she wouldn't imm
 | Label          | Easy Eye Sound |
 | Catalog Number | EES-0081 |
 | Notes | Contains a four page inlay folder with a large photo on one side and lyrics on the other side.  Publishing: [url=https://www.discogs.com/artist/7004421]Yola[/url] – Downtown Music Publishing, LLC (BMI) [a266197] – Profit Daniel (BMI), administered by Wixen Music Publishing [a1427421] – Songs of Universal, Inc. / Wrucke For You Publishing. All rights for Wrucke For You Publishing controlled and administered by Songs of Universal, Inc.All rights reserved. Used by permission. (BMI) [a5975372] – Olubukola Oladokun/Where Da Kasz (BMI) [a2976110] – Tasjan Music (ASCAP) [a347626] – Like Butta Baby Music (BMI) [a641241] – Scarlet Moon Music, Inc. (ASCAP), administered by ClearBox Rights [a293222] – Janwood Music (SESAC) [a617010] – Doorway Music (ASCAP), administered by Kobalt [a1055577] – Songs From The Sendero Music (BMI) and Warner-Tamerlane Publishing Corp. (BMI) All rights on behalf of itself and Songs From The Sendero Music administered by Warner-Tamerlane Publishing Corp. [url=https://www.discogs.com/artist/274737]Patrick James McLaughlin [/url] – Corn Country Music (BMI), administered by ClearBox Rights [a3223539] – Budde Publishing  |
-| Discogs URL    | [Yola - Stand For Myself](https://www.discogs.com/release/19686967-Yola-Stand-For-Myself) |
+| Discogs URL    | [Yola - Stand For Myself](https://www.discogs.com/release/19686967-Yola-4-Stand-For-Myself) |

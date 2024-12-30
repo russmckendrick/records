@@ -19,6 +19,10 @@ genres: ["Rock"]
 styles: ["Emo", "Indie Rock"]
 ---
 
+Disappointment Island is one of seven uninhabited islands in the Auckland Islands archipelago, in New Zealand. It is 475 kilometres (295 mi) south of the country's main South Island and 8 kilometres (5 mi) from the northwest end of Auckland Island.
+It is home to a large colony of white-capped albatrosses: about 65,000 pairs – nearly the entire world's population – nest there. Also on the island is the Auckland rail, endemic to the archipelago; once thought to be extinct, it was rediscovered in 1966. The island is known for being one of the least-modified subantarctic islands in New Zealand.
+    
+    
 
 
 ## Tracklisting
@@ -36,9 +40,11 @@ styles: ["Emo", "Indie Rock"]
 
 
 ## Videos
-### TTNG - Disappointment Island [Full LP] (2016)
-{{< youtube id="hI6Yeas0aMc" title="TTNG - Disappointment Island [Full LP] (2016)" >}}<br>
+### TTNG - "Disappointment Island" [Full LP] (2016)
+{{< youtube id="hI6Yeas0aMc" title="TTNG - "Disappointment Island" [Full LP] (2016)" >}}<br>
+### More Videos
 
+- [TTNG - "Disappointment Island" [Full LP] (2016)](https://www.youtube.com/watch?v=hI6Yeas0aMc)
 
 ## Release Images
 {{< imageGrid >}}
@@ -46,6 +52,7 @@ styles: ["Emo", "Indie Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
+| Wikipedia URL | https://en.wikipedia.org/wiki/Disappointment_Island |
 | Format         | Vinyl LP Album |
 | Label          | Sargent House |
 | Catalog Number | sh157 |

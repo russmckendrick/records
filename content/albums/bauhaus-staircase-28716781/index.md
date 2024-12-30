@@ -17,12 +17,6 @@ genres: ["Electronic", "Pop"]
 styles: ["Synth-pop"]
 ---
 
-Bauhaus Staircase is the fourteenth studio album by English electronic band Orchestral Manoeuvres in the Dark (OMD), and the fourth since their 2006 reformation. Released on 27 October 2023 by White Noise Records (and by 100% Records in the UK and Ireland), it is their first album in six years since The Punishment of Luxury (2017). The record was largely inspired by world politics during the late 2010s and early 2020s. Its release was preceded by three singles: the title track, "Slow Train", and "Veruschka".
-Bauhaus Staircase has received positive reviews. Record Collector and Classic Pop magazines named it the best new album release in their respective November 2023 issues, while other outlets considered it to be OMD's best work since the mid 1980s.
-
-
-    
-    
 
 
 ## Tracklisting
@@ -40,7 +34,7 @@ Bauhaus Staircase has received positive reviews. Record Collector and Classic Po
 12. Healing
 
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/bauhaus-staircase/1697479025" >}}<br>
+{{< applemusic url="https://music.apple.com/gb/album/orchestral-manoeuvres-in-the-dark/714727396" >}}<br>
 
 
 ## Videos
@@ -59,7 +53,6 @@ Bauhaus Staircase has received positive reviews. Record Collector and Classic Po
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Wikipedia URL | https://en.wikipedia.org/wiki/Bauhaus_Staircase |
 | Format         | Vinyl LP Album (White) |
 | Label          | 100% Records (2) |
 | Catalog Number | 100LP138W |

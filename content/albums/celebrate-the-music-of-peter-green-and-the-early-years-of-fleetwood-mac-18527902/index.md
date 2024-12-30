@@ -25,18 +25,22 @@ additional_images:
     - "https://i.discogs.com/c2ov-noy46L_3Qa36_12LeGFfs5JaMbJvBohHTnzMx4/rs:fit/g:sm/q:90/h:593/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NTI3/OTAyLTE2MjA2Mzk0/MzctODQ5NS5qcGVn.jpeg"
     - "https://i.discogs.com/3F199hjIh2QRtncs9WS-_7LcFBjeta7Y5LjOVrmp__w/rs:fit/g:sm/q:90/h:101/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NTI3/OTAyLTE2MjA2Mzk0/NTktOTcwNC5qcGVn.jpeg"
     - "https://i.discogs.com/x5KAg3mfNtofOPcttia8Oxm86JPGlm_UoVb9WlMtQjM/rs:fit/g:sm/q:90/h:593/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NTI3/OTAyLTE2MjA2Mzk1/MDctMzA5OS5qcGVn.jpeg"
-    - "https://i.discogs.com/ZrN-PCyU7DLSiSTVNKcWFvMxNVV76ItwDKSiMlrwLWQ/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NTI3/OTAyLTE2MjA2Mzk1/MDUtNTA3Ny5qcGVn.jpeg"
+    - "https://i.discogs.com/1vmv5qmFjYFyeJ4E0lrt-9MwVsRfFXT3udAmEVk8rA0/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NTI3/OTAyLTE2MjA2Mzk1/MDUtNTA3Ny5qcGVn.jpeg"
     - "https://i.discogs.com/nSQbZo5vgPEtFjJhj7Xbj5ngcfEVVOd9KfzhGoDFhUo/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NTI3/OTAyLTE2MjA2Mzk1/MTItNTk2Ny5qcGVn.jpeg"
     - "https://i.discogs.com/Y70-0IjA2Oe1Sz4qmqelXX8MHFi2ang6-WeL1tbWMPQ/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NTI3/OTAyLTE2MjA2Mzk1/MDctODIxNi5qcGVn.jpeg"
     - "https://i.discogs.com/0k7KQlYg7o8DN5jQL3zF8gHArli5UkgmJKK9sjn8jkU/rs:fit/g:sm/q:90/h:592/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NTI3/OTAyLTE2MjA2Mzk1/MDYtOTQxOS5qcGVn.jpeg"
     - "https://i.discogs.com/s_Rlul0tCwqTCcvUuAkLyVPlfV4csi2cBEYooDpALD4/rs:fit/g:sm/q:90/h:593/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NTI3/OTAyLTE2MjA2Mzk1/MTItNDk3Ni5qcGVn.jpeg"
-    - "https://i.discogs.com/EF6M8dcufInCfJhbv0ZGDqmA7XYRPzdQby5EKvCa0z8/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NTI3/OTAyLTE2MjA2Mzk1/MTEtNzIxOC5qcGVn.jpeg"
+    - "https://i.discogs.com/tgDL0ZPH7EeBbB7QlWd092-rALH9DJdHu3UGNV1wIS0/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NTI3/OTAyLTE2MjA2Mzk1/MTEtNzIxOC5qcGVn.jpeg"
     - "https://i.discogs.com/O3oO5xwwYQ4T9bC0oqJvVbFBvYtRXhEcqYaEWD17yaI/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NTI3/OTAyLTE2MjA2Mzk1/MTItNzc0MC5qcGVn.jpeg"
     - "https://i.discogs.com/znjqoGfswSKBXG65niasu1jSd_q-2mp-p9zt66dfEgI/rs:fit/g:sm/q:90/h:275/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NTI3/OTAyLTE2MjA2Mzk1/MzEtNTI2My5qcGVn.jpeg"
 genres: ["Rock", "Pop"]
 styles: ["Classic Rock", "Blues Rock"]
 ---
 
+Celebrate the Music of Peter Green and the Early Years of Fleetwood Mac is a live album by Mick Fleetwood and his seventh solo album overall. It was recorded during a February 2020 concert at the London Palladium to honor the music of founding Fleetwood Mac guitarist Peter Green, who died less than six months after the performance. Although Green did not participate, the concert and album does feature Jeremy Spencer, one of the four original members of Fleetwood Mac.
+The album reached the album charts in several countries upon its release, including the UK, Germany, Australia, and the Netherlands.
+    
+    
 
 
 ## Tracklisting
@@ -64,15 +68,31 @@ styles: ["Classic Rock", "Blues Rock"]
 22. Albatross
 23. Shake Your Money Maker
 
-
-## Spotify
-{{< spotify type="album" id="0my24L5pit3nfpj6ccdlZA" width="100%" height="500" >}}<br>
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/celebrate-the-music-of-peter-green-and-the/1563694617" >}}<br>
 
 
 ## Videos
-### Mick Fleetwood & friends celebrate the music of Peter Green | Vinyl unboxing and more
-{{< youtube id="clf-JWLd8_Y" title="Mick Fleetwood & friends celebrate the music of Peter Green | Vinyl unboxing and more" >}}<br>
+### Mick Fleetwood And Friends - The Green Manalishi (With The Two Prong Crown) (Official Video)
+{{< youtube id="rt8zGoEmGrk" title="Mick Fleetwood And Friends - The Green Manalishi (With The Two Prong Crown) (Official Video)" >}}<br>
+### More Videos
 
+- [Mick Fleetwood And Friends - Oh Well, Pt. 1 (Official Video)](https://www.youtube.com/watch?v=wrvK-q8Q2XY)
+- [Mick Fleetwood And Friends - Albatross (Official Video)](https://www.youtube.com/watch?v=xPJZygFYTKI)
+- [Mick Fleetwood And Friends - Stop Messin' Round (Official Video)](https://www.youtube.com/watch?v=KL8L-t8VLqE)
+- [Mick Fleetwood And Friends - Official Trailer](https://www.youtube.com/watch?v=eqUaoL-zKRg)
+- [Mick Fleetwood And Friends - The World Keep On Turning (Official Video)](https://www.youtube.com/watch?v=bioql-_-v-0)
+- [The Sky Is Crying (with Jeremy Spencer, Bill Wyman) (Live from The London Palladium)](https://www.youtube.com/watch?v=MQhNLMpWE_s)
+- [Station Man (with Pete Townshend) (Live from The London Palladium)](https://www.youtube.com/watch?v=nH5wXNHKCRg)
+- [All Your Love (with John Mayall) (Live from The London Palladium)](https://www.youtube.com/watch?v=l9eV__tbM3Q)
+- [Mick Fleetwood And Friends - Rattlesnake Shake (Official Video)](https://www.youtube.com/watch?v=Z7xbZhD4sPA)
+- [Oh Well, Pt. 1 (with Steven Tyler, Billy Gibbons) (Live from The London Palladium)](https://www.youtube.com/watch?v=MQ_1lSvGAzw)
+- [Oh Well, Pt. 2 (with David Gilmour) (Live from The London Palladium)](https://www.youtube.com/watch?v=n3KFI-x7Qhc)
+- [Looking for Somebody (with Christine McVie) (Live from The London Palladium)](https://www.youtube.com/watch?v=aMdbKLm_LhI)
+- [Sandy Mary (with Jonny Lang) (Live from The London Palladium)](https://www.youtube.com/watch?v=0YqRL0NkALk)
+- [Like Crying (with Noel Gallagher) (Live from The London Palladium)](https://www.youtube.com/watch?v=nteRiOW2SS0)
+- [I Can't Hold Out (with Jeremy Spencer, Bill Wyman) (Live from The London Palladium)](https://www.youtube.com/watch?v=QBjpmJ1p6aY)
+- [Mick Fleetwood & friends celebrate the music of Peter Green | Vinyl unboxing and more](https://www.youtube.com/watch?v=clf-JWLd8_Y)
 
 ## Release Images
 {{< imageGrid >}}
@@ -80,6 +100,7 @@ styles: ["Classic Rock", "Blues Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
+| Wikipedia URL | https://en.wikipedia.org/wiki/Celebrate_the_Music_of_Peter_Green_and_the_Early_Years_of_Fleetwood_Mac |
 | Format         | Vinyl 4× LP Album |
 | Label          | BMG |
 | Catalog Number | BMGCAT454QLP |

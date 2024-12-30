@@ -4,7 +4,7 @@ artist_name: "The Stone Roses"
 artist: "the-stone-roses"
 album_name: "The Stone Roses"
 date: 2015-08-09T08:35:22.000000Z
-release_date: "1989-05-02"
+release_date: "1992-07-20"
 release_id: "5581078"
 slug: "the-stone-roses-5581078"
 hideSummary: true
@@ -23,10 +23,13 @@ genres: ["Rock"]
 styles: ["Indie Rock"]
 ---
 
-The Stone Roses were an English rock band formed in Manchester in 1983. One of the pioneering groups of the Madchester movement in the late 1980s and early 1990s, the band's classic and most prominent lineup consisted of vocalist Ian Brown, guitarist John Squire, bassist Mani and drummer Reni.
-The band released their debut album, The Stone Roses, in 1989. The album was a breakthrough success for the band and received critical acclaim, many regarding it as one of the greatest British albums ever recorded. At this time the group decided to capitalise on their success by signing to a major label. Their record label at the time, Silvertone, would not let them out of their contract, which led to a long legal battle that culminated with the band signing with Geffen Records in 1991.
-The Stone Roses released their second album, Second Coming, in 1994, which received mixed reviews. The group soon disbanded after several line-up changes throughout the supporting tour, which began with Reni departing in early 1995, followed by Squire in April 1996. Brown and Mani dissolved the remains of the group in October 1996 following their appearance at Reading Festival.
-Following much intensified media speculation, the Stone Roses called a press conference on 18 October 2011 to announce that the band had reunited and would perform a reunion world tour in 2012, including three homecoming shows in Heaton Park, Manchester. Plans to record a third album in the future were also floated but only two singles were released. In June 2012, Chris Coghill, the writer of a new film which is set during the Stone Roses 1990 Spike Island show, revealed that the band "have at least three or four new tracks recorded". In June 2013, a documentary about the band's reformation directed by Shane Meadows and titled The Stone Roses: Made of Stone was released.In 2016, the Stone Roses released their first new material in two decades. The band members continued to tour until June 2017, at which point cryptic remarks by Brown indicated the band had split again, which was later confirmed in a 2019 interview with Squire.
+The Stone Roses were an English rock band formed in Manchester, England in 1983. They were one of the pioneering groups of the Madchester movement in the late 1980s and early 1990s. The band's classic and most prominent lineup consisted of vocalist Ian Brown, guitarist John Squire, bassist Mani, and drummer Reni.
+The Stone Roses released their debut album, The Stone Roses, in 1989. The album was a breakthrough success for the band, receiving widespread critical acclaim, and is regarded by many as one of the greatest British albums ever recorded. Following this success, the band sought to capitalize on their newfound fame by signing with a major label. However, their record label at the time, Silvertone, would not let them out of their contract, leading to a lengthy legal battle that culminated with the band signing with Geffen Records in 1991.
+The Stone Roses released their second album, Second Coming, in 1994, which received mixed reviews. The group soon disbanded after several lineup changes throughout the supporting tour, which began with Reni departing in early 1995, followed by Squire in April 1996. Brown and Mani dissolved the remains of the group in October 1996 following their appearance at the Reading Festival.
+Following much media speculation, The Stone Roses announced their reunion on 18 October 2011 and embarked on a world tour in 2012, including three homecoming shows in Heaton Park, Manchester. Plans to record a third album were also floated, but only two singles were released. In June 2012, Chris Coghill, the writer of the film Spike Island, revealed that the band "have at least three or four new tracks recorded". In June 2013, a documentary about the band's reformation, directed by Shane Meadows and titled The Stone Roses: Made of Stone, was released.
+In 2016, The Stone Roses released their first new material in two decades. The band continued to tour until June 2017, at which point cryptic remarks by Brown indicated that the band had split again. This was later confirmed in a 2019 interview with Squire.
+
+
         
         
     
@@ -46,25 +49,24 @@ Following much intensified media speculation, the Stone Roses called a press con
 11. I Am The Resurrection (8:10)
 
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/the-stone-roses-remastered/322969529" >}}<br>
+{{< applemusic url="https://music.apple.com/gb/album/the-stone-roses-turns-into-stone/553210422" >}}<br>
 
 
 ## Videos
-### The Stone Roses - I Wanna Be Adored (Official Video)
-{{< youtube id="4D2qcbu26gs" title="The Stone Roses - I Wanna Be Adored (Official Video)" >}}<br>
+### I Wanna Be Adored (Remastered)
+{{< youtube id="aa10yl8mirk" title="I Wanna Be Adored (Remastered)" >}}<br>
 ### More Videos
 
-- [The Stone Roses - Fools Gold (Official Video)](https://www.youtube.com/watch?v=NSD11dnphg0)
-- [The Stone Roses - She Bangs the Drums (Official Video)](https://www.youtube.com/watch?v=wD6Pq0bSMPo)
-- [The Stone Roses - Waterfall (Official Video)](https://www.youtube.com/watch?v=7NrLBlw9WZE)
-- [The Stone Roses - Don't Stop (Audio)](https://www.youtube.com/watch?v=yNLx6EUTBlU)
-- [The Stone Roses - Bye Bye Bad Man (Audio)](https://www.youtube.com/watch?v=xwi2TaaOq-Y)
-- [The Stone Roses - Elizabeth My Dear (Audio)](https://www.youtube.com/watch?v=t7Xi1Jt9lXM)
-- [The Stone Roses - (Song for My) Sugar Spun Sister (Audio)](https://www.youtube.com/watch?v=zsjnrlvXVqo)
-- [Made of Stone](https://www.youtube.com/watch?v=i-LUfBouHOo)
-- [The Stone Roses - Shoot You Down (Audio)](https://www.youtube.com/watch?v=40-u8Xky6HI)
-- [The Stone Roses - This Is the One (Audio)](https://www.youtube.com/watch?v=DbyrOBVDtR4)
-- [The Stone Roses - I Am the Resurrection (Audio)](https://www.youtube.com/watch?v=vY9g-PgSiGA)
+- [She Bangs the Drums (Remastered)](https://www.youtube.com/watch?v=T6cUmieJwJY)
+- [Waterfall (Remastered)](https://www.youtube.com/watch?v=Sk5bekdJ78o)
+- [Don't Stop (Remastered)](https://www.youtube.com/watch?v=VTvzdEQhMIY)
+- [Bye Bye Bad Man (Remastered)](https://www.youtube.com/watch?v=QCPdjuG2KMI)
+- [Elizabeth My Dear (Remastered)](https://www.youtube.com/watch?v=zrRKmKVYrPg)
+- [[Song for My] Sugar Spun Sister (Remastered)](https://www.youtube.com/watch?v=E7wflP-o1VQ)
+- [Made of Stone (Remastered)](https://www.youtube.com/watch?v=6zDYMLtVJ4g)
+- [Shoot You Down (Remastered)](https://www.youtube.com/watch?v=SesXkvL485c)
+- [This Is the One (Remastered)](https://www.youtube.com/watch?v=DBwU_EtoP1o)
+- [I Am the Resurrection (Remastered)](https://www.youtube.com/watch?v=vWP54WPwYlI)
 
 ## Release Images
 {{< imageGrid >}}

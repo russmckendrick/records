@@ -57,6 +57,7 @@ These Systems Are Failing is the thirteenth studio album by American electronica
 - [Moby & The Void Pacific Choir - The Light Is Clear In My Eyes](https://www.youtube.com/watch?v=WsXbZrLahSs)
 - [Moby & The Void Pacific Choir - Break. Doubt (Performance Video)](https://www.youtube.com/watch?v=ebNnzqjaBew)
 - [Moby & The Void Pacific Choir - A Simple Love](https://www.youtube.com/watch?v=2guWg9C-YGE)
+- [Moby & The Void Pacific Choir - And It Hurts](https://www.youtube.com/watch?v=_-hVE_9W0bw)
 
 ## Release Images
 {{< imageGrid >}}

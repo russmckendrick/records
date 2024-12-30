@@ -12,9 +12,13 @@ cover:
     alt: "Sublime Meets Scientist & Mad Professor Inna L.B.C. by Sublime"
     caption: "Sublime Meets Scientist & Mad Professor Inna L.B.C. by Sublime"
 additional_images:
-    - "https://i.discogs.com/u31NF97d-hwjWtzRQjl3T7b6xjUjohoQVCrNIVtXUyc/rs:fit/g:sm/q:90/h:610/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MTEz/NTIzLTE2MjQwODYz/NjgtMjE1Ny5qcGVn.jpeg"
+    - "https://i.discogs.com/NYHWR5YwDCVXAEQZbiEY2kpe2oT2TTewmQ0dQxXhw1w/rs:fit/g:sm/q:90/h:600/w:589/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MTEz/NTIzLTE2MjQwODYz/NjgtMjE1Ny5qcGVn.jpeg"
     - "https://i.discogs.com/F9Ek63WRHEpubP2pAyKq_EGcbjd68c0ykLJ_iN9a7EY/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MTEz/NTIzLTE2MjQwODYz/NjgtMzQxMi5qcGVn.jpeg"
     - "https://i.discogs.com/HR1zC28GQdYaJvrf_aAXAmVEtnKdDMdE9-sUBdye4aw/rs:fit/g:sm/q:90/h:600/w:589/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MTEz/NTIzLTE2NzQwODcz/MjAtNzU3MS5qcGVn.jpeg"
+    - "https://i.discogs.com/hml1uURvMEAqC5XYUersE4Uva7Tp7ubXPXFDtw9IKhk/rs:fit/g:sm/q:90/h:450/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MTEz/NTIzLTE2MjM2Nzkw/MzYtMjI1NS5qcGVn.jpeg"
+    - "https://i.discogs.com/XKT8adFM5X9yjtDGGxqvUtslU_TfwypCTl2xGmTLX0o/rs:fit/g:sm/q:90/h:450/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MTEz/NTIzLTE2MjM2Nzkw/MzYtNDI2My5qcGVn.jpeg"
+    - "https://i.discogs.com/gd4GCxGxaG8sfQ-QVOMtINkK433h9n5txil-XdcLVTY/rs:fit/g:sm/q:90/h:450/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MTEz/NTIzLTE2MjM2Nzkw/MzUtNjg1OS5qcGVn.jpeg"
+    - "https://i.discogs.com/87V4Ebp5-pNppeyeHvKJAn9Q3D6FyFvFhMYg2iLVhcE/rs:fit/g:sm/q:90/h:450/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MTEz/NTIzLTE2MjM2Nzkw/MzUtNTM3OC5qcGVn.jpeg"
 genres: ["Rock", "Reggae"]
 styles: ["Dub"]
 ---
@@ -46,6 +50,15 @@ styles: ["Dub"]
 - [Sublime - Hong Kong Phooey Dub (Mad Professor Mix)](https://www.youtube.com/watch?v=guHlxH4Em-A)
 - [Sublime - April 29, 1992 (Miami) Dub (Mad Professor Mix)](https://www.youtube.com/watch?v=fAGSE9ddZV4)
 - [Sublime - Santeria Dub (Scientist Mix)](https://www.youtube.com/watch?v=5vr7Te-AJfI)
+- [Sublime Meets Scientist & Mad Professor - Caress Me Down - Español Dub (Scientist Mix)](https://www.youtube.com/watch?v=wu4zXIFAsXI)
+- [MAD PROFESSOR remixing SUBLIME - Pawn Shop Dub](https://www.youtube.com/watch?v=EsHLjK2cQws)
+- [Sublime~meets Scientists & Mad Professor~Dub Remixes RSD2021](https://www.youtube.com/watch?v=Vbjax__IcEw)
+- [Sublime - Garden Grove Vocal Dub (Scientist Mix)](https://www.youtube.com/watch?v=vhm6uKeUHHM)
+- [Sublime - Pawn Shop Dub (Mad Professor Mix)](https://www.youtube.com/watch?v=K6mzegiKD2c)
+- [Sublime - Hong Kong Phooey Dub (Mad Professor Mix)](https://www.youtube.com/watch?v=guHlxH4Em-A)
+- [Sublime - April 29, 1992 (Miami) Dub (Mad Professor Mix)](https://www.youtube.com/watch?v=fAGSE9ddZV4)
+- [Sublime - Santeria Dub (Scientist Mix)](https://www.youtube.com/watch?v=5vr7Te-AJfI)
+- [Sublime Meets Scientist & Mad Professor - Caress Me Down - Español Dub (Scientist Mix)](https://www.youtube.com/watch?v=wu4zXIFAsXI)
 
 ## Release Images
 {{< imageGrid >}}

@@ -29,6 +29,8 @@ styles: ["Pop Rock", "Indie Rock"]
 1977 is the debut studio album by Northern Irish rock band Ash. It was released on 6 May 1996 by Home Grown and Infectious Records, with whom the band had signed following the release of several demo tapes. Ash released the mini-album Trailer in 1994, and followed it with three singles "Kung Fu", "Girl from Mars", and "Angel Interceptor", all of which would reappear on 1977. Ash recorded their debut album with producer Owen Morris at Rockfield Studios in Wales in early 1996. Described as a Britpop, power pop and garage rock album, 1977 drew comparisons to the Buzzcocks, Dinosaur Jr., and Sonic Youth.
 Preceded by the album's fourth single "Goldfinger" in April 1996, the band embarked on tours of the United Kingdom and Europe. "Oh Yeah" was released as the fifth single in June 1996, followed by tours of the United States, Japan, Australia, and New Zealand. Ash ended the year with another US tour, as well as a US support slot for Weezer. They toured Europe and the UK, before their appearance at Glastonbury Festival.
 1977 received generally positive reviews from music critics, who praised the album's "catchy" nature. The album peaked at number one in the UK, as well as reaching the top 40 in Australia, Finland, New Zealand, Norway, and Switzerland. "Kung Fu", "Girl from Mars", "Angel Interceptor", "Goldfinger", and "Oh Yeah" all charted on the UK Singles Chart, with "Goldfinger" reaching the highest position at number five. 1977 appeared on several UK publications' best-of-the-year album lists, by the likes of Kerrang!, NME, and Melody Maker, among others. The album would later be certified platinum in the UK.
+
+
     
     
 
@@ -48,10 +50,18 @@ Preceded by the album's fourth single "Goldfinger" in April 1996, the band embar
 12. Darkside Lightside
 
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/1977-collectors-edition/294347354" >}}<br>
+{{< applemusic url="https://music.apple.com/gb/album/1977/1437459330" >}}<br>
 
 
+## Videos
+### Ash - Kung Fu (Official HD Video)
+{{< youtube id="dWqY8qrBBSI" title="Ash - Kung Fu (Official HD Video)" >}}<br>
+### More Videos
 
+- [Ash - Girl From Mars (UK version) (Official HD Video)](https://www.youtube.com/watch?v=FkSl9GGOFHM)
+- [Ash - Angel Interceptor (Official Video)](https://www.youtube.com/watch?v=QawmH3hOkl8)
+- [Ash - Goldfinger (Official HD Video)](https://www.youtube.com/watch?v=35hDrzcHnIA)
+- [Ash - Oh Yeah (Official HD Video)](https://www.youtube.com/watch?v=-aPIXeAmpO8)
 
 ## Release Images
 {{< imageGrid >}}

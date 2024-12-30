@@ -4,7 +4,7 @@ artist_name: "Counting Crows"
 artist: "counting-crows"
 album_name: "August And Everything After"
 date: 2017-06-10T11:12:30.000000Z
-release_date: "1993-01-01"
+release_date: "1993-09-14"
 release_id: "9982250"
 slug: "august-and-everything-after-9982250"
 hideSummary: true
@@ -19,19 +19,20 @@ additional_images:
     - "https://i.discogs.com/Sn8kAHSyHUgGbC3ZYmdU3RZ_uL3L2r0VZfp96s_tdfc/rs:fit/g:sm/q:90/h:574/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk5ODIy/NTAtMTQ5MDU2MzM1/OC0yMDc4LmpwZWc.jpeg"
     - "https://i.discogs.com/gUgRqFp-rxlIorAsVR-MCiiXQ2312FgXW-JyAL8nDEc/rs:fit/g:sm/q:90/h:567/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk5ODIy/NTAtMTQ5MDU2MzM2/Mi04MzAyLmpwZWc.jpeg"
     - "https://i.discogs.com/2Q-v1_vwbZlSo-cuH0da76eDFOSGziiLa5zTeqWM66c/rs:fit/g:sm/q:90/h:585/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk5ODIy/NTAtMTQ5MDU2MzM2/NS0yMDI5LmpwZWc.jpeg"
-    - "https://i.discogs.com/JmODa4NDQx_Wk4a92JGDYT4B7pPX4JGgRyvZliziTyE/rs:fit/g:sm/q:90/h:615/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk5ODIy/NTAtMTQ5MDU2MzM2/Ni01MzU5LmpwZWc.jpeg"
+    - "https://i.discogs.com/LV1RJWpHbZ0y_dcpb9nl3qDCt7yUG6Ule4TQjLWZ_-4/rs:fit/g:sm/q:90/h:600/w:585/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk5ODIy/NTAtMTQ5MDU2MzM2/Ni01MzU5LmpwZWc.jpeg"
     - "https://i.discogs.com/jWr8TLHooexQfX51OXJydtE6nxCp3sEGGFa-ai-5a9o/rs:fit/g:sm/q:90/h:585/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk5ODIy/NTAtMTQ5MDU2MzM2/My04ODMyLmpwZWc.jpeg"
     - "https://i.discogs.com/qT4O3t_lkP-j4Aoe-Zjc6YVrVntL2192Urc_wCmx4Nk/rs:fit/g:sm/q:90/h:585/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk5ODIy/NTAtMTQ5MDU2MzM2/Ny04MzA5LmpwZWc.jpeg"
 genres: ["Rock"]
 styles: ["Alternative Rock"]
 ---
 
-August and Everything After is the debut studio album by American rock band Counting Crows, released September 14, 1993, on Geffen Records.  The album was produced by T Bone Burnett and featured the founding members of the band: Steve Bowman (drums), David Bryson (guitar), Adam Duritz (vocals), Charlie Gillingham (keyboards), and Matt Malley (bass).  Among the several session musicians used for the album was multi-instrumentalist David Immerglück, who later joined the band as a full-time member in 1999, as well as Burnett, who also provided additional guitar work.
-Four singles were released from the album, the highest charting of which was "Mr. Jones", which peaked at number 5 on the Billboard US Radio Songs Chart and number 2 on several genre-specific Billboard charts. The album itself was well received by critics and has gone multi-platinum in several countries, including the U.S. where it has sold over seven million copies, and peaked at number 4 on the Billboard 200 album chart.
-The album cover depicts handwritten lyrics to a song called "August and Everything After", but the band decided against featuring the song on the album; it was not until over a decade later that it was played as part of one of their live concerts. The song "August and Everything After" was released on January 24, 2019, as an Amazon Original.On September 18, 2007, a two-disc deluxe edition of the album was issued. The first disc contains the original album, remastered by Adam Ayan at Gateway Mastering, with six demos added as bonus tracks. The second disc is taken from the band's penultimate performance during the August tour, recorded at the Élysée Montmartre in Paris, France, on December 9, 1994.
-The album August & Everything After: Live at Town Hall was released on August 29, 2011, featuring live recordings of the songs from this album. More than 6 million copies of the album have been sold by February 2002 in the US.
+“We all wanna be big stars,” Adam Duritz admits during the final minute of “Mr. Jones”, his pep momentarily dissolving into a bittersweet yelp. “But we don’t know why, and we don’t know how.” Indeed, for the first three months after San Francisco’s Counting Crows released their debut, <i>August and Everything After</i>, in the fall of 1993, it seemed as though Geffen Records had bet big on a flop—that the band’s fairy-tale brush with fame would end in anonymity. A&R legend Gary Gersh began trailing the band around town in the early 1990s, ignoring the band’s unstable line-up long enough to spot a star in Duritz. And T Bone Burnett—yet another legend, and the former guitarist for Duritz’s obvious north star, Bob Dylan—signed on to produce the band’s debut record, a compelling showcase of self-doubt and ambition that, upon its arrival, no one seemed to care about.
 
+But as a long December passed, “Mr. Jones”—that madcap account of musicians doing it for the love, but maybe one day for the money, too—slowly caught traction as a single, with Duritz’s bleat serving as an uncanny MTV beacon for those who felt outside of grunge. In early 1994, <i>August and Everything After</i> finally landed on the furthest reaches of the album charts. But by year’s end, the album had become a multi-platinum smash, an early indication of a softer-rock sea-change that would soon lead to the rise of such acts as Dave Matthews Band and Ben Folds Five.
 
+Though that slow rise must have been frustrating, it fit the self-regard of the 11 songs collected on <i>August and Everything After</i>. Sure, Duritz had the gumption to sing “I wanna be Bob Dylan”. But he resents and interrogates himself often here, questioning his capacity to live—let alone love. During “Rain King”, he realises he’s the source of an unnamed paramour’s woes, but he wants neither pity nor sustenance. And on the devastating “Perfect Blue Buildings”, he hides out from someone he loves, too riddled by addiction and affliction to be seen. “Love is a ghost train rumbling through the darkness,” he sings over mandolin runs and trotting drums at one point, discarding the one thing in which he’d found hope.
+
+Despite its Americana trappings, <i>August and Everything After</i> would become a gateway for a generation of emo and metalcore kids. Duritz, after all, perfectly balanced his vulnerability and worry with the confidence to shout out loud about both, his voice cracking with complete candour.
         
         
     
@@ -55,17 +56,20 @@ The album August & Everything After: Live at Town Hall was released on August 29
 
 
 ## Videos
-### Anna Begins
-{{< youtube id="d8LSBdUKo0c" title="Anna Begins" >}}<br>
+### Counting Crows - Round Here (Official Music Video)
+{{< youtube id="SAe3sCIakXo" title="Counting Crows - Round Here (Official Music Video)" >}}<br>
 ### More Videos
 
-- [Counting Crows - Round Here (Official Video)](https://www.youtube.com/watch?v=SAe3sCIakXo)
-- [A Murder Of One](https://www.youtube.com/watch?v=QWj-04CoNuw)
-- [Counting Crows - Mr. Jones (Official Music Video)](https://www.youtube.com/watch?v=-oqAU5VxFWs)
-- [Sullivan Street](https://www.youtube.com/watch?v=6Ekq19HIb_E)
-- [Perfect Blue Buildings](https://www.youtube.com/watch?v=HKcD2AxnEYw)
 - [Omaha](https://www.youtube.com/watch?v=O1RsswsO10M)
+- [Counting Crows - Mr. Jones (Official Music Video)](https://www.youtube.com/watch?v=-oqAU5VxFWs)
+- [Perfect Blue Buildings](https://www.youtube.com/watch?v=HKcD2AxnEYw)
+- [Anna Begins](https://www.youtube.com/watch?v=d8LSBdUKo0c)
+- [Time And Time Again](https://www.youtube.com/watch?v=4VEjXU3WYdM)
 - [Rain King](https://www.youtube.com/watch?v=FEL48-0xRAA)
+- [Sullivan Street](https://www.youtube.com/watch?v=6Ekq19HIb_E)
+- [Ghost Train](https://www.youtube.com/watch?v=U4NdMJK2EM8)
+- [Raining In Baltimore](https://www.youtube.com/watch?v=_Bxohwsx14Q)
+- [A Murder Of One](https://www.youtube.com/watch?v=QWj-04CoNuw)
 
 ## Release Images
 {{< imageGrid >}}

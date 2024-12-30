@@ -18,6 +18,11 @@ genres: ["Rock", "Pop"]
 styles: ["Prog Rock", "Symphonic Rock"]
 ---
 
+Map of the Past is the fifth studio album by progressive rock band It Bites. It was released on March 26, 2012. This is the band's first concept album. It was written by singer/guitarist John Mitchell and keyboardist John Beck throughout 2011. This concept deals with the theme of the past, as seen through old photographs.
+
+
+    
+    
 
 
 ## Tracklisting
@@ -51,11 +56,10 @@ styles: ["Prog Rock", "Symphonic Rock"]
 
 
 ## Videos
-### It Bites - Map of The Past
-{{< youtube id="UTkXOi5c3dE" title="It Bites - Map of The Past" >}}<br>
+### It Bites - Map of the Past
+{{< youtube id="Ny5bD9bhUpQ" title="It Bites - Map of the Past" >}}<br>
 ### More Videos
 
-- [It Bites - Map of the Past](https://www.youtube.com/watch?v=Ny5bD9bhUpQ)
 - [It Bites   Map of the Past](https://www.youtube.com/watch?v=zwLerWDhX9Y)
 - [Man in the Photograph - It Bites](https://www.youtube.com/watch?v=gguU7-MhugA)
 - [It Bites - Meadow and the Stream](https://www.youtube.com/watch?v=wYlohpuSZ9A)
@@ -66,6 +70,7 @@ styles: ["Prog Rock", "Symphonic Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
+| Wikipedia URL | https://en.wikipedia.org/wiki/Map_of_the_Past |
 | Format         | Vinyl 2× LP 45 RPM Album Remastered, CD Album Remastered, All Media Reissue |
 | Label          | Inside Out Music |
 | Catalog Number | IOMLP 585 |

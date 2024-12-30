@@ -23,6 +23,8 @@ styles: ["Punk"]
 
 Bivouac is the second studio album by American punk rock band Jawbreaker, released through Tupelo Recording Company and The Communion Label on December 1, 1992. While promoting their debut album Unfun (1990) on a ten-week tour of the United States, the band had new material that they wished to work on through their shows. They ended up breaking up after the tour's conclusion, though later regrouped in 1991 to write new songs. From June 1991, they wrote material and practiced several times a week, in the lead up to recording sessions in October 1991. Sessions were held at Razor's Edge in San Francisco, California with producers Billy Anderson and Jonathan Burnside. Categorized as an emo, punk rock, and pop-punk release, it had elements of the work of Helmet, Naked Raygun and early Smashing Pumpkins, and took influence from the Midwestern and Washington, D.C. post-punk scenes.
 Bivouac was met with favorable reviews from music critics, many of whom praised its varied sound, while others commented on the change of direction from Unfun. In the lead up to the album's release, "Chesterfield King" was released in May 1992, which was promoted with a US East Coast tour. After a few months, frontman Blake Schwarzenbach started suffering from issues with his throat; while touring in Europe, he underwent surgery in London to remove a polyp that had formed on his vocal chords. He returned to singing five days later and had to break in his voice, which had shifted two octaves higher. Bivouac was reissued through drummer Adam Pfahler's label Blackball Records in 2012, and has since been re-pressed on vinyl twice.
+
+
     
     
 
@@ -47,6 +49,7 @@ Bivouac was met with favorable reviews from music critics, many of whom praised 
 {{< youtube id="OBcEEWH4DpM" title="Jawbreaker - Bivouac [Full Album]" >}}<br>
 ### More Videos
 
+- [Jawbreaker - Bivouac](https://www.youtube.com/watch?v=_AzCgE43OXg)
 - [Jawbreaker - Chesterfield King](https://www.youtube.com/watch?v=TVbaYdh6hhc)
 
 ## Release Images

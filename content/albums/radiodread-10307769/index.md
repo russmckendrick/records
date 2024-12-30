@@ -23,6 +23,11 @@ genres: ["Reggae"]
 styles: ["Reggae", "Dub"]
 ---
 
+Radiodread is a 2006 tribute album by the Easy Star All-Stars that covers Radiohead's 1997 album OK Computer in reggae, ska and dub styles.
+
+
+    
+    
 
 
 ## Tracklisting
@@ -48,16 +53,13 @@ styles: ["Reggae", "Dub"]
 
 
 ## Videos
-### Easy Star All Stars - Radiodread (Album Full)
-{{< youtube id="wKIvYmlOS_o" title="Easy Star All Stars - Radiodread (Album Full)" >}}<br>
+### Easy-star all-stars - Karma police (Radiodread)
+{{< youtube id="edNNvg-NBzY" title="Easy-star all-stars - Karma police (Radiodread)" >}}<br>
 ### More Videos
 
-- [Easy-star all-stars - Karma police (Radiodread)](https://www.youtube.com/watch?v=edNNvg-NBzY)
+- [Easy Star All Stars - Radiodread (Album Full)](https://www.youtube.com/watch?v=wKIvYmlOS_o)
 - [Easy Star All-Stars - Paranoid Android](https://www.youtube.com/watch?v=kOe7xRQUxa4)
-- [Radiodread - No Surprises](https://www.youtube.com/watch?v=ShEqdWaS50Q)
-- [Easy Star All-Stars ft Morgan Heritage - High and Dry](https://www.youtube.com/watch?v=Zur0gr7tE60)
 - [Easystar Allstars - Radiodread - Climbing up the Walls](https://www.youtube.com/watch?v=oA1g7P1D6pk)
-- [Radiodread featuring Kirsty Rock-Paranoid Android](https://www.youtube.com/watch?v=N7_s6EpDRVA)
 - [Let Down - Easy Star All Stars](https://www.youtube.com/watch?v=HXBamm5XqO8)
 - [No Surprises - Easy All Stars](https://www.youtube.com/watch?v=f8ZRduB1Uzs)
 - [Airbag - Easy All Stars - Radiodread](https://www.youtube.com/watch?v=USuhLK_bn_Y)
@@ -65,6 +67,12 @@ styles: ["Reggae", "Dub"]
 - [Easy Star All-Stars - Radiodread - No Surprises](https://www.youtube.com/watch?v=GP4o8CIEyBY)
 - [Easy Star Allstars - Lucky](https://www.youtube.com/watch?v=SLXKbGI8G5s)
 - [Easy Star All Stars - The Tourist (featuring Israel Vibration)](https://www.youtube.com/watch?v=LdnsfrDXhiE)
+- [Easy Star All-Stars - Paranoid Android](https://www.youtube.com/watch?v=kOe7xRQUxa4)
+- [Easy-star all-stars - Karma police (Radiodread)](https://www.youtube.com/watch?v=edNNvg-NBzY)
+- [Radiodread - No Surprises](https://www.youtube.com/watch?v=ShEqdWaS50Q)
+- [Radiodread featuring Kirsty Rock-Paranoid Android](https://www.youtube.com/watch?v=N7_s6EpDRVA)
+- [Easy Star All Stars - Radiodread (Album Full)](https://www.youtube.com/watch?v=wKIvYmlOS_o)
+- [Easy Star All-Stars ft Morgan Heritage - "High and Dry"](https://www.youtube.com/watch?v=Zur0gr7tE60)
 
 ## Release Images
 {{< imageGrid >}}
@@ -72,6 +80,7 @@ styles: ["Reggae", "Dub"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
+| Wikipedia URL | https://en.wikipedia.org/wiki/Radiodread |
 | Format         | Vinyl 2× LP Album Repress (Transparent gold & solid army green ) |
 | Label          | Easy Star Records |
 | Catalog Number | ES-1055V |

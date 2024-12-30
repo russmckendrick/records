@@ -63,6 +63,9 @@ styles: ["Modern", "Contemporary", "Vocal", "Ballad", "Avantgarde", "Acoustic", 
 {{< applemusic url="https://music.apple.com/gb/album/scratch-my-back-and-ill-scratch-yours/987543707" >}}<br>
 
 
+## Videos
+### Peter Gabriel - And I'll Scratch Yours (Album Sampler)
+{{< youtube id="3kYbmTMbinQ" title="Peter Gabriel - And I'll Scratch Yours (Album Sampler)" >}}<br>
 
 
 ## Release Images

@@ -16,22 +16,22 @@ additional_images:
     - "https://i.discogs.com/qAGbKiiOgfkdJwAaBxs_MbCuGl7g9QKzH8ZoiiO89jo/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0Nzcz/NjMzLTE2NjUzNTM0/MDItMzI2OS5qcGVn.jpeg"
     - "https://i.discogs.com/jLynBGZjRatYMJJV7qpOtcDVlhsblt0DDLZoUhPy1pY/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0Nzcz/NjMzLTE2NjUzNTQy/OTktNTYwNi5qcGVn.jpeg"
     - "https://i.discogs.com/Vgucu8tdJoGdnx4a_bg3PFtm_-4zIC1BTjPlCslyyKU/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0Nzcz/NjMzLTE2NjUzNTQz/MTEtNTkyMy5qcGVn.jpeg"
-    - "https://i.discogs.com/PkNPfTahGt40AuUOadiaIYCfiluApiKBSg7DoXXtOUI/rs:fit/g:sm/q:90/h:617/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0Nzcz/NjMzLTE2NjUzNTUy/NTMtMjExMy5qcGVn.jpeg"
-    - "https://i.discogs.com/RBgaVJldlF9uWR04SdjBhkDuc5Wv5dM__wgT3SZf8VQ/rs:fit/g:sm/q:90/h:617/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0Nzcz/NjMzLTE2NjUzNTUy/NTgtODc3NS5qcGVn.jpeg"
+    - "https://i.discogs.com/UU2PV1mL5hUr4vcCy5GAiVhInjNpsbQcXPha2lpWWMY/rs:fit/g:sm/q:90/h:600/w:583/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0Nzcz/NjMzLTE2NjUzNTUy/NTMtMjExMy5qcGVn.jpeg"
+    - "https://i.discogs.com/qEitHS2g1EcFAUTQsy6Mcm33khRyvM-pSvqbPWOb3_g/rs:fit/g:sm/q:90/h:600/w:583/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0Nzcz/NjMzLTE2NjUzNTUy/NTgtODc3NS5qcGVn.jpeg"
     - "https://i.discogs.com/ylRRNSfRlprH5VObfGn6YfaRCzr37qqWkwtbDrFU_OI/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0Nzcz/NjMzLTE2NjUzNTQz/MTgtMzMwOC5qcGVn.jpeg"
     - "https://i.discogs.com/4VS4aWlB-g6-aQI0lMKL3d05Zh2GS5dCptmEAZm5CRU/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0Nzcz/NjMzLTE2NjUzNTQ0/OTctNDU2Ni5qcGVn.jpeg"
-    - "https://i.discogs.com/6QGFsMK6AJa-v868p7o_xPq9vB84Yo0jybCTlAloDZA/rs:fit/g:sm/q:90/h:617/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0Nzcz/NjMzLTE2NjUzNTUy/NjEtODA2Ny5qcGVn.jpeg"
-    - "https://i.discogs.com/o2OFmAkUawF6fB5F8QpUlqHKQmUykUkVr5wPZKDui-Y/rs:fit/g:sm/q:90/h:617/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0Nzcz/NjMzLTE2NjUzNTUy/NjYtMTQyMC5qcGVn.jpeg"
+    - "https://i.discogs.com/F5Nd4YQHF8Vaef9sAuAvmd8ioVAcL23i84ssigjXByE/rs:fit/g:sm/q:90/h:600/w:583/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0Nzcz/NjMzLTE2NjUzNTUy/NjEtODA2Ny5qcGVn.jpeg"
+    - "https://i.discogs.com/HlOZvw2fvn28jnQeWRMySq-bGRkrDLvSrO0Mi8DeQ2A/rs:fit/g:sm/q:90/h:600/w:583/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0Nzcz/NjMzLTE2NjUzNTUy/NjYtMTQyMC5qcGVn.jpeg"
     - "https://i.discogs.com/sGl_r3X7AhMmp27hpHvWxtH3LQ3V2B1m50-RemakBH4/rs:fit/g:sm/q:90/h:584/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0Nzcz/NjMzLTE2NjUzNTUy/NTYtMTE0Ni5qcGVn.jpeg"
     - "https://i.discogs.com/IkxlDyeYCU3Dn8eu2nGIDngse4nkCnUK1HIJY2TjoNU/rs:fit/g:sm/q:90/h:583/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0Nzcz/NjMzLTE2NjUzNTUx/NDktODkxMy5qcGVn.jpeg"
-    - "https://i.discogs.com/txPx_RLQgeJKuYk7ReRx8rsSpGnJ91AkgRaFleOi4hA/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0Nzcz/NjMzLTE2NjUzNTUx/NjMtMjc3NC5qcGVn.jpeg"
+    - "https://i.discogs.com/LPfjbnRSxnuReMPKO-yfEc12kNCEd99HeNpZvYfyOf0/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0Nzcz/NjMzLTE2NjUzNTUx/NjMtMjc3NC5qcGVn.jpeg"
     - "https://i.discogs.com/7-6CMkD0Z3lMr8Sdx3ARrIBC7J8u5d6jIGdLHMtKltE/rs:fit/g:sm/q:90/h:585/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0Nzcz/NjMzLTE2NjUzNTUx/NzctNDczNC5qcGVn.jpeg"
-    - "https://i.discogs.com/zUcNGb75nsG44p1-IBXDrSNUbeLH25Z_pH_tKz_mvGI/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0Nzcz/NjMzLTE2NjUzNTUy/MzUtNjU4NS5qcGVn.jpeg"
-    - "https://i.discogs.com/m1nZ7vL5Vv564uJ2PwXcT3jiv83oToguQTkYzvCU3b4/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0Nzcz/NjMzLTE2NjUzNTU2/ODctODA1NC5qcGVn.jpeg"
+    - "https://i.discogs.com/UXLp4qIaOmZbrKy5NJAlToBeYU_9rGrqkYF2brJuYbY/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0Nzcz/NjMzLTE2NjUzNTUy/MzUtNjU4NS5qcGVn.jpeg"
+    - "https://i.discogs.com/LkBBXnUDe5zQqWBhujbppWBwDpCVIlJ2Dfjzb8gV-6U/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0Nzcz/NjMzLTE2NjUzNTU2/ODctODA1NC5qcGVn.jpeg"
     - "https://i.discogs.com/TTj4Y-JqHruwcV0IqzjrF6DE7G98q4uOcF9IqMnABnA/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0Nzcz/NjMzLTE2NjUzNTU3/MDMtNDI4OS5qcGVn.jpeg"
-    - "https://i.discogs.com/wtZ8lwE9_hyvpvrtwMvGFqebgXj1doLdbiiaYLpv2aY/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0Nzcz/NjMzLTE2NjUzNTU3/MTktNTMwNy5qcGVn.jpeg"
-    - "https://i.discogs.com/WNENIWEqEwzwWPdueWHKyglI_s-RhdPUgUqWBhRkyhs/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0Nzcz/NjMzLTE2NjUzNTU3/MjgtODk4Ny5qcGVn.jpeg"
-    - "https://i.discogs.com/e8lFvhKP4pSZmQq3HnB0mKQCqDHYi4LZpHg-QIBt2kU/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0Nzcz/NjMzLTE2NjUzNTU3/MzYtMjI5NC5qcGVn.jpeg"
+    - "https://i.discogs.com/bDfer65AqqfjeRMmPZaA0uAhTprjsNjV9WkjYakh-Do/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0Nzcz/NjMzLTE2NjUzNTU3/MTktNTMwNy5qcGVn.jpeg"
+    - "https://i.discogs.com/x-x6c8RT7fpUophasMriR8rqcQgDQqz3k2ad8ojwrQ4/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0Nzcz/NjMzLTE2NjUzNTU3/MjgtODk4Ny5qcGVn.jpeg"
+    - "https://i.discogs.com/kWn6b_uLCWox0GbYoHc22QNRc9QUb13pg7pKHWRe3YI/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0Nzcz/NjMzLTE2NjUzNTU3/MzYtMjI5NC5qcGVn.jpeg"
 genres: ["Rock"]
 styles: ["Glam"]
 ---
@@ -66,7 +66,20 @@ styles: ["Glam"]
 
 
 
+## Videos
+### The Sweet - The Ballroom Blitz (1973)
+{{< youtube id="afwwckbcD4c" title="The Sweet - The Ballroom Blitz (1973)" >}}<br>
+### More Videos
 
+- [The Sweet - Blockbuster (1973)](https://www.youtube.com/watch?v=wiR126m42Mk)
+- [The Sweet - Fox On The Run (1975)](https://www.youtube.com/watch?v=t46OEW1zEZs)
+- [The Sweet - Hell Raiser (1973)](https://www.youtube.com/watch?v=1ZPd38RSgso)
+- [The Sweet - Wig Wam Bam (1972)](https://www.youtube.com/watch?v=1FY2ap05X0k)
+- [The Sweet - The Ballroom Blitz (1973)](https://www.youtube.com/watch?v=afwwckbcD4c)
+- [The Sweet - Blockbuster (1973)](https://www.youtube.com/watch?v=wiR126m42Mk)
+- [The Sweet - Fox On The Run (1975)](https://www.youtube.com/watch?v=t46OEW1zEZs)
+- [The Sweet - Hell Raiser (1973)](https://www.youtube.com/watch?v=1ZPd38RSgso)
+- [The Sweet - Wig Wam Bam (1972)](https://www.youtube.com/watch?v=1FY2ap05X0k)
 
 ## Release Images
 {{< imageGrid >}}

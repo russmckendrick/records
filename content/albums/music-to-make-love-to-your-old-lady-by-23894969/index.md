@@ -12,23 +12,21 @@ cover:
     alt: "Music To Make Love To Your Old Lady By by Nathaniel Merriweather"
     caption: "Music To Make Love To Your Old Lady By by Nathaniel Merriweather"
 additional_images:
-    - "https://i.discogs.com/VuTt3QNGEdsp8IF7KmHZK7jgb025AgVkb56GePmEPpI/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzODk0/OTY5LTE2NjMwMTgz/OTEtODE2Mi5qcGVn.jpeg"
-    - "https://i.discogs.com/EmcvHFhvzdR-N14Gmd6raFTRF1J4kqCuz-45HvfMomU/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzODk0/OTY5LTE2NjMwMTgz/OTEtOTc2My5qcGVn.jpeg"
-    - "https://i.discogs.com/4zCF5N6DhCuAT6sEKZEjgIhyOMV_qmmfqwdTj5-P-4k/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzODk0/OTY5LTE2NjMwMTgz/OTEtOTY2NS5qcGVn.jpeg"
-    - "https://i.discogs.com/jy43kODRXrJoYTdC470nMt-cAVHilaeKUQg-HVsN7eQ/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzODk0/OTY5LTE2NjMwMTgz/OTItNDQ2NS5qcGVn.jpeg"
-    - "https://i.discogs.com/SpPfir0WB3zzQUdYsTZtkCKtoul440QxeXaHYpyLgHU/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzODk0/OTY5LTE2NjMwMTgz/OTEtMTA2NC5qcGVn.jpeg"
-    - "https://i.discogs.com/uGEOb7jrAaUuYJsUIPh8EgaLGfeCd459o5jfHKABfEk/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzODk0/OTY5LTE2NjMwMTgz/OTItNzkyOC5qcGVn.jpeg"
-    - "https://i.discogs.com/esO3GNmpTw6RpsSOvvHizC0RyLPxjIb23JwnKd3GX5M/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzODk0/OTY5LTE2NjMwMTgz/OTItOTQ2MS5qcGVn.jpeg"
-    - "https://i.discogs.com/yE-OIfggitGLp3pgEez12SL_XXnMOB5WKcI-BERs1lM/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzODk0/OTY5LTE2NjMwMTgz/OTItMTY0OS5qcGVn.jpeg"
-    - "https://i.discogs.com/8dPPIHjDFiNEYKQK5mDBNkBZa7YWq6UHOWUWJEC2US0/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzODk0/OTY5LTE2NjMwMTgz/OTItODY1MS5qcGVn.jpeg"
-    - "https://i.discogs.com/CVv_gJBM4o4LJtDCzRqa0SjToWEMqiDmViJmXXKS2GI/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzODk0/OTY5LTE2NjMwMTgz/OTItODI1NS5qcGVn.jpeg"
+    - "https://i.discogs.com/MRcZzYpS81l5ROWEnWqyAtFIsUp64ZHZp0Ns6rjygVE/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzODk0/OTY5LTE2OTQzMDQz/MzEtOTM4OC5qcGVn.jpeg"
+    - "https://i.discogs.com/QkMpYQK2IvVUj0aJCrSE7pQ2ixkLC_y8StvS_BcgavI/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzODk0/OTY5LTE2OTQzMDQz/MjktMzQwOS5qcGVn.jpeg"
+    - "https://i.discogs.com/orsb4xZ34809Vomo_2w_IEbaBBQhMFUeMxbSD7Z2k2k/rs:fit/g:sm/q:90/h:600/w:595/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzODk0/OTY5LTE2OTE5NTk0/MjgtMjAyMS5qcGVn.jpeg"
+    - "https://i.discogs.com/cfU2dF_4HR6Shjo25MonnXjR_nV1PMyEog1Y4qauBbs/rs:fit/g:sm/q:90/h:594/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzODk0/OTY5LTE2OTE5NTk0/MzAtNTQwNi5qcGVn.jpeg"
+    - "https://i.discogs.com/qW0HciU3xaaKeHfv__jyjf-IfaXkpPRAuonnjdXhEJo/rs:fit/g:sm/q:90/h:600/w:581/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzODk0/OTY5LTE2OTE5NTk0/MzEtNDQyMy5qcGVn.jpeg"
+    - "https://i.discogs.com/bfqe9PXX_6IybLgDNKDOFCbUPi1F8Xq4NenvfTMJA4U/rs:fit/g:sm/q:90/h:600/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzODk0/OTY5LTE2OTE5NTk0/MzMtNTQ0MS5qcGVn.jpeg"
+    - "https://i.discogs.com/57LqU1rVeyMxmkE4lDmtAz5Q6S2LineHszZ6XnExiY8/rs:fit/g:sm/q:90/h:594/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzODk0/OTY5LTE2OTQzMDQz/NTQtNTQ0NC5qcGVn.jpeg"
+    - "https://i.discogs.com/OBg0CNhniReChNJly58WRLJxTONwumxp4EnBjkrouT8/rs:fit/g:sm/q:90/h:594/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzODk0/OTY5LTE2OTQzMDQz/MzAtNjQ2My5qcGVn.jpeg"
+    - "https://i.discogs.com/tG77PxnKMgS8btXq1QmNLvMZLHEAsMY-0NA3ucXWamE/rs:fit/g:sm/q:90/h:593/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzODk0/OTY5LTE2OTQzMDQz/MzAtMzEzMC5qcGVn.jpeg"
+    - "https://i.discogs.com/qbepwgQi5R-nNPC5_GwpumfpQh22WKdzqO2O1LgytNI/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzODk0/OTY5LTE2OTQzMDQz/MzAtMzc5My5qcGVn.jpeg"
 genres: ["Electronic", "Hip Hop", "Pop"]
 styles: ["Chanson", "Downtempo", "Hip Hop"]
 ---
 
-Nathaniel Merriweather Presents... Lovage: Music to Make Love to Your Old Lady By is the debut studio album by Lovage. It was released by 75 Ark in 2001. It peaked at number 37 on the Billboard Independent Albums chart.
-
-
+Nathaniel Merriweather Presents... Lovage: Music to Make Love to Your Old Lady By is the debut studio album by Lovage. It was released by 75 Ark in 2001, with current reissues done by Bulk. It peaked at number 37 on the Billboard Independent Albums chart.
     
     
 
@@ -52,27 +50,17 @@ Nathaniel Merriweather Presents... Lovage: Music to Make Love to Your Old Lady B
 16. Archie & Veronica (6:06)
 
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/nathaniel-merriweather-presents-lovage-music-to-make/844768342" >}}<br>
+{{< applemusic url="https://music.apple.com/gb/album/music-to-make-love-to-your-old-lady-by-instrumental/435820292" >}}<br>
 
 
 ## Videos
-### Lovage - Lies and Alibis
-{{< youtube id="hxf21Yh0LsI" title="Lovage - Lies and Alibis" >}}<br>
+### Ladies Love Chest Rockwell
+{{< youtube id="KhtXq2B4Ogo" title="Ladies Love Chest Rockwell" >}}<br>
 ### More Videos
 
-- [Ladies Love Chest Rockwell](https://www.youtube.com/watch?v=KhtXq2B4Ogo)
-- [Lovage - Everyone Has A Summer - Music To Make Love To Your Old Lady By - 2001](https://www.youtube.com/watch?v=iTeHE1zKnHg)
-- [Lovage Book of the Month  (full video)](https://www.youtube.com/watch?v=KwBRkN9__uc)
-- [Lovage- Stroker Ace](https://www.youtube.com/watch?v=PIZboBSZiYg)
-- [Lovage - Strangers on a Train](https://www.youtube.com/watch?v=9jmK_UTXafs)
 - [Pit Stop (Take Me Home)](https://www.youtube.com/watch?v=y3Hm8wJ55wQ)
-- [Lovage / Music To Make Love To Your Old Lady By - Instrumental (Full Album)](https://www.youtube.com/watch?v=CbyRp4CX5_0)
-- [Lovage - Stroker Ace](https://www.youtube.com/watch?v=6uUvjdSHWeQ)
-- [Lovage - Pit Stop (take me home) (/w Mike Patton)](https://www.youtube.com/watch?v=iPXKzHBTSA4)
 - [Anger Management](https://www.youtube.com/watch?v=RQvs6dAmlYM)
-- [Lovage - Lifeboat (/w Mike Patton)](https://www.youtube.com/watch?v=xu3tzC9evm8)
 - [Everyone Has a Summer](https://www.youtube.com/watch?v=8l32OnMUGVc)
-- [Lovage - Anger Management (/w Mike Patton)](https://www.youtube.com/watch?v=2P3RTPevirM)
 - [To Catch a Thief](https://www.youtube.com/watch?v=8nvzKqia8GM)
 - [Lies and Alibis](https://www.youtube.com/watch?v=yPgz_una_nI)
 - [Herbs, Good Hygiene and Socks](https://www.youtube.com/watch?v=efRQfNywAxM)
@@ -85,6 +73,8 @@ Nathaniel Merriweather Presents... Lovage: Music to Make Love to Your Old Lady B
 - [Tea Time With Maseo](https://www.youtube.com/watch?v=j_I4u6qAK3k)
 - [Stroker Ace](https://www.youtube.com/watch?v=I6opOz3Y9-w)
 - [Archie & Veronica](https://www.youtube.com/watch?v=yCFImkbhZD4)
+- [Lovage "Book of the Month"  (full video)](https://www.youtube.com/watch?v=KwBRkN9__uc)
+- [Lovage - Stroker Ace](https://www.youtube.com/watch?v=6uUvjdSHWeQ)
 
 ## Release Images
 {{< imageGrid >}}

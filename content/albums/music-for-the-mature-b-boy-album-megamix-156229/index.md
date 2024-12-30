@@ -29,7 +29,9 @@ styles: ["Breakbeat"]
 ## Videos
 ### DJ Format - Music For The Mature B Boy - Album Sampler Mix
 {{< youtube id="_DoiY8Xckyg" title="DJ Format - Music For The Mature B Boy - Album Sampler Mix" >}}<br>
+### More Videos
 
+- [DJ Format - Music For The Mature B Boy - Album Sampler Mix](https://www.youtube.com/watch?v=_DoiY8Xckyg)
 
 ## Release Images
 {{< imageGrid >}}

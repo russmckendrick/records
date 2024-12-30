@@ -21,6 +21,13 @@ genres: ["Electronic", "Rock"]
 styles: ["IDM", "Indie Rock"]
 ---
 
+Rings Around the World is the fifth studio album and the major label debut by Super Furry Animals. Released on 23 July 2001 by Epic Records in the United Kingdom, it was the first album by any artist to be simultaneously released on both audio CD and DVD. The record reached number 3 in the UK Albums Chart and includes the singles "Juxtapozed with U", "(Drawing) Rings Around the World" and "It's Not the End of the World?".
+The album, which singer Gruff Rhys describes as "a very ambitious project", was recorded between April and September 2000 at Monnow Valley Studios in Rockfield, Monmouthshire, Wales and Bearsville Studios, New York with the band acting as co-producers alongside Chris Shaw. The majority of the songs on Rings Around the World were written by Rhys on guitar and piano with keyboardist Cian Ciaran contributing "[A] Touch Sensitive" and "Miniature" as well as collaborating with other members of the band on "Run! Christian, Run!", "Alternate Route to Vulcan Street" and "No Sympathy". Ex-Beatle Paul McCartney and former Velvet Underground member John Cale make cameo appearances on the album.
+Musically Rings Around the World is an eclectic record incorporating pop, prog, punk, jungle, electronica, techno and death metal. Rhys has offered several explanations of the album's lyrical content, claiming the record is "about Earth, and the pollution of space" and also that it addresses the human condition. Critics meanwhile have referred to the record as "thematically eccentric" and lacking an "overarching theme". Critical reception was generally positive, with the album being nominated for 2001's Mercury Music Prize and placing at #1 in Mojo's "best albums of 2001" feature. Some reviews claimed it to be the best record of the band's career although the NME described it as the band's worst album.
+
+
+    
+    
 
 
 ## Tracklisting
@@ -39,15 +46,14 @@ styles: ["IDM", "Indie Rock"]
 13. Fragile Happiness
 
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/rings-around-the-world/207054203" >}}<br>
+{{< applemusic url="https://music.apple.com/gb/album/rings-around-the-world/1626518352" >}}<br>
 
 
 ## Videos
-### Super Furry Animals - Juxtapozed with U (Video)
-{{< youtube id="dmCZ4f8NhOk" title="Super Furry Animals - Juxtapozed with U (Video)" >}}<br>
+### Super Furry Animals - (Drawing) Rings Around the World (Official Video)
+{{< youtube id="GcqGRE_fGlQ" title="Super Furry Animals - (Drawing) Rings Around the World (Official Video)" >}}<br>
 ### More Videos
 
-- [Super Furry Animals - Receptacle for the Respectable](https://www.youtube.com/watch?v=HpjMy_e8XlA)
 - [Super Furry Animals - (Drawing) Rings Around the World](https://www.youtube.com/watch?v=kZJIrF5OPGU)
 - [Super Furry Animals - (Drawing) Rings Around the World (Video (DPD))](https://www.youtube.com/watch?v=-i2Kn-EXh_A)
 
@@ -57,6 +63,7 @@ styles: ["IDM", "Indie Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
+| Wikipedia URL | https://en.wikipedia.org/wiki/Rings_Around_the_World |
 | Format         | Vinyl 2× LP Album Reissue Remastered Stereo |
 | Label          | BMG |
 | Catalog Number | BMGCAT510DLP |

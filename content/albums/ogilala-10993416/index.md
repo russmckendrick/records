@@ -22,6 +22,12 @@ genres: ["Folk, World, & Country"]
 styles: ["Acoustic", "Folk"]
 ---
 
+Ogilala () is the second solo album by American musician Billy Corgan (under his full name, William Patrick Corgan), frontman of alternative rock band The Smashing Pumpkins. The album was released on October 13, 2017, in the United States. It marks Corgan's first solo album since his 2005 debut, TheFutureEmbrace. The album was co-produced by Corgan with Rick Rubin, and does not feature Corgan's longtime collaborator Bjorn Thorsrud. "Aeronaut" preceded the record as its lead single, with a US tour beginning the day after the record's release.
+The album's songs are primarily acoustic and are predominantly performed on acoustic guitar, piano and strings, contrasting with much of Corgan's other work, as well as his debut solo album. The song "Processional" marked the first time since the Smashing Pumpkins' initial break-up in 2000 that Corgan had collaborated with the band's founding guitarist James Iha.
+
+
+    
+    
 
 
 ## Tracklisting
@@ -46,6 +52,9 @@ styles: ["Acoustic", "Folk"]
 
 - [William Patrick Corgan - The Spaniards](https://www.youtube.com/watch?v=e1ZnYLBKs-o)
 - [PILLBOX - Official Trailer (2017)](https://www.youtube.com/watch?v=ULv4EwpJlb8)
+- [William Patrick Corgan - Aeronaut](https://www.youtube.com/watch?v=7PdZXNET88A)
+- [William Patrick Corgan - The Spaniards](https://www.youtube.com/watch?v=e1ZnYLBKs-o)
+- [PILLBOX - Official Trailer (2017)](https://www.youtube.com/watch?v=ULv4EwpJlb8)
 
 ## Release Images
 {{< imageGrid >}}
@@ -53,6 +62,7 @@ styles: ["Acoustic", "Folk"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
+| Wikipedia URL | https://en.wikipedia.org/wiki/Ogilala |
 | Format         | Vinyl LP Album Limited Edition (Pink) |
 | Label          | BMG |
 | Catalog Number | 538321031 |

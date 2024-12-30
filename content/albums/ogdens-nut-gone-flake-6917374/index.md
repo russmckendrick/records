@@ -17,6 +17,11 @@ genres: ["Rock", "Pop"]
 styles: ["Pop Rock", "Psychedelic Rock"]
 ---
 
+Ogdens' Nut Gone Flake is the third studio album, and only concept album by the English rock band Small Faces. Released on 24 May 1968, the LP peaked at number one on the UK Album Charts on 29 June, where it remained for six weeks. It became the group's final studio album during their original incarnation (and the last album to contain solely new material until the release of reunion album Playmates in 1977). The album title and  distinctive packaging design was a parody of Ogden's Nut-brown Flake, a brand of tinned tobacco that was produced in Liverpool from 1899 by Thomas Ogden.
+
+
+    
+    
 
 
 ## Tracklisting
@@ -36,7 +41,7 @@ styles: ["Pop Rock", "Psychedelic Rock"]
 14. Happydaystoytown
 
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/ogdens-nut-gone-flake/1193811494" >}}<br>
+{{< applemusic url="https://music.apple.com/gb/album/ogdens-nut-gone-flake/1757584407" >}}<br>
 
 
 ## Videos
@@ -45,8 +50,8 @@ styles: ["Pop Rock", "Psychedelic Rock"]
 ### More Videos
 
 - [The Small Faces - Ogdens Nut Flake](https://www.youtube.com/watch?v=rCjrF2wWuSg)
-- [The Small Faces - Ogdens' Nut Gone Flake (1968) (Full Album)](https://www.youtube.com/watch?v=TwB3bug2p-I)
-- [The Journey](https://www.youtube.com/watch?v=ffOy_wQO9LE)
+- [Small Faces - Happiness Stan](https://www.youtube.com/watch?v=LI7ASaAA55g)
+- [The Small Faces - Ogdens' Nut Gone Flake](https://www.youtube.com/watch?v=H8YHplnn60U)
 
 ## Release Images
 {{< imageGrid >}}
@@ -54,6 +59,7 @@ styles: ["Pop Rock", "Psychedelic Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
+| Wikipedia URL | https://en.wikipedia.org/wiki/Ogdens%27_Nut_Gone_Flake |
 | Format         | Vinyl LP Album Record Store Day Limited Edition Reissue Mono |
 | Label          | Charly Records |
 | Catalog Number | 101L |

@@ -12,22 +12,22 @@ cover:
     alt: "In Absentia by Porcupine Tree"
     caption: "In Absentia by Porcupine Tree"
 additional_images:
-    - "https://i.discogs.com/DhTwdq1cMDJs34aBmv2hgl_2XZUWJJtx9uZYkoCjcvc/rs:fit/g:sm/q:90/h:609/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNjMy/NTUzLTE1MjA2MDEy/MjktNTYzMy5qcGVn.jpeg"
-    - "https://i.discogs.com/-D9-iCxqCduj2kXLIPLtZk_xWWlsnYT9gTLn3Q3_5Q4/rs:fit/g:sm/q:90/h:604/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNjMy/NTUzLTE1MjA2MDEy/MzAtMzk1Mi5qcGVn.jpeg"
+    - "https://i.discogs.com/e9i_qu7BMl0WmkEHLLWJMFpwGME2h0uF3dN8GhXoHKY/rs:fit/g:sm/q:90/h:600/w:590/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNjMy/NTUzLTE1MjA2MDEy/MjktNTYzMy5qcGVn.jpeg"
+    - "https://i.discogs.com/Al4kAjWmREO8mYnlpdOFMTm_dpm1XHTRPZqB-JvWxtE/rs:fit/g:sm/q:90/h:600/w:595/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNjMy/NTUzLTE1MjA2MDEy/MzAtMzk1Mi5qcGVn.jpeg"
     - "https://i.discogs.com/sGpxi5ErXyWkmF85wBwEzsde0zBRrkXwhlEIzUJPrwI/rs:fit/g:sm/q:90/h:589/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNjMy/NTUzLTE1MjA2MDEy/MzQtMTA0MS5qcGVn.jpeg"
     - "https://i.discogs.com/fowSruxQwvjjGulRdnQJ-A__wi1EU6wzEHJkIOmsUT8/rs:fit/g:sm/q:90/h:594/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNjMy/NTUzLTE1MjA2MDEy/MzQtOTIyOC5qcGVn.jpeg"
-    - "https://i.discogs.com/HTOiCtmhebCTq7AC2BcALnb6fpwWIwyr916Yb89E9ow/rs:fit/g:sm/q:90/h:603/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNjMy/NTUzLTE1MjA2MDEy/MzMtOTg5NS5qcGVn.jpeg"
+    - "https://i.discogs.com/L-p3rza2HiZSDIfJ-eFhonx8-MzIUU3vceI1vA_Uo9M/rs:fit/g:sm/q:90/h:600/w:596/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNjMy/NTUzLTE1MjA2MDEy/MzMtOTg5NS5qcGVn.jpeg"
     - "https://i.discogs.com/lOISMSZmZhRvhX-NEWIYo0nRCJsUOpcEmYtiTzWT4Uk/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNjMy/NTUzLTE1MjA2MDEy/MzMtMjYxMS5qcGVn.jpeg"
-    - "https://i.discogs.com/fiEPhxfINMqlsv9H55icFm4M5jbKz4Mv3ZEPSn_tVJo/rs:fit/g:sm/q:90/h:614/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNjMy/NTUzLTE1MjA2MDEy/MzEtNjgwOC5qcGVn.jpeg"
-    - "https://i.discogs.com/XqeL7aIpk6osU7MkcpfTlGFJE6iEkILgovswM4f2II4/rs:fit/g:sm/q:90/h:611/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNjMy/NTUzLTE1MjA2MDEy/MzItNjIwMy5qcGVn.jpeg"
+    - "https://i.discogs.com/y91aWDUpnaG4EuUJyNEimvdYXMROES333UGVOQ08lMI/rs:fit/g:sm/q:90/h:600/w:586/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNjMy/NTUzLTE1MjA2MDEy/MzEtNjgwOC5qcGVn.jpeg"
+    - "https://i.discogs.com/UXVkoKjaCf1rCRoJEEUW3PBpF-Sv5wj5xwLigAUy5lY/rs:fit/g:sm/q:90/h:600/w:589/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNjMy/NTUzLTE1MjA2MDEy/MzItNjIwMy5qcGVn.jpeg"
     - "https://i.discogs.com/bspW1nk1MZcwMJyBu-vbDoOYXl1RjUnA_ZRXwE6f9l4/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNjMy/NTUzLTE1MjA2MDEy/MzQtOTY1NS5qcGVn.jpeg"
-    - "https://i.discogs.com/66XHfOJ3_ckQIYl3JcWfV8yDXcZk_upGPAlT8AOXjJU/rs:fit/g:sm/q:90/h:612/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNjMy/NTUzLTE1MjA2MDEy/MzUtNjg0My5qcGVn.jpeg"
+    - "https://i.discogs.com/OS3EQc0TdaFXTk5oOOZ5PgLpL8tr9sh93S0EnFunBFU/rs:fit/g:sm/q:90/h:600/w:587/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNjMy/NTUzLTE1MjA2MDEy/MzUtNjg0My5qcGVn.jpeg"
     - "https://i.discogs.com/SKg9wAmF90vQW9EaTgiPZPebKEA75mvIfAATopQTDvg/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNjMy/NTUzLTE1MjA2MDEy/MzgtNTU2NC5qcGVn.jpeg"
-    - "https://i.discogs.com/A3xff8lL5rQe7CJqLAckeLNQqm1SRA6gQgqJ-Ub9z6Q/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNjMy/NTUzLTE1MjA2MDEy/MzgtNzc2OS5qcGVn.jpeg"
-    - "https://i.discogs.com/F9BeGyUs6mvwq1UgiSxLvto_tYL4AusQnYg-L6xafq8/rs:fit/g:sm/q:90/h:606/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNjMy/NTUzLTE1MjA2MDEy/MzgtMTA2My5qcGVn.jpeg"
-    - "https://i.discogs.com/C4oGp9Og0FUJDbTNrCgNATk_oShRp7s65Ek6pLaR1bA/rs:fit/g:sm/q:90/h:602/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNjMy/NTUzLTE1MjA2MDEy/MzctNDMwMS5qcGVn.jpeg"
-    - "https://i.discogs.com/niDBX8ndYapMaVYIuPN0i7kaPsLavLnVpyXt2GFO6XQ/rs:fit/g:sm/q:90/h:601/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNjMy/NTUzLTE1MjA2MDEy/MzgtNzQ3MS5qcGVn.jpeg"
-    - "https://i.discogs.com/D9Akz2b6WV7dbef1oMncvqonhXBMNUGGyrUFeVSYMTc/rs:fit/g:sm/q:90/h:736/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNjMy/NTUzLTE1MjA2MDI1/MTctMTg4OS5qcGVn.jpeg"
+    - "https://i.discogs.com/s2iJpeo6I2zV-1I0W-o_Fvers7TrFV312g58U3-np0Q/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNjMy/NTUzLTE1MjA2MDEy/MzgtNzc2OS5qcGVn.jpeg"
+    - "https://i.discogs.com/XRo4bsyB9FmK8l4FRt0YQzILrpR0ItJufHJWVkbQxIs/rs:fit/g:sm/q:90/h:600/w:593/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNjMy/NTUzLTE1MjA2MDEy/MzgtMTA2My5qcGVn.jpeg"
+    - "https://i.discogs.com/pPZarwF_8UPA0MW7scVXY5iu7D6v6HhrgJY7_q7PYnM/rs:fit/g:sm/q:90/h:600/w:597/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNjMy/NTUzLTE1MjA2MDEy/MzctNDMwMS5qcGVn.jpeg"
+    - "https://i.discogs.com/lhdLMkwDa-i4BktkGvCPvZVNXEagq2RNS1hDPOJDYbw/rs:fit/g:sm/q:90/h:600/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNjMy/NTUzLTE1MjA2MDEy/MzgtNzQ3MS5qcGVn.jpeg"
+    - "https://i.discogs.com/F0CmJsMwHRXjX47N1dOROsx84HH19RzQb9ii62caL4g/rs:fit/g:sm/q:90/h:600/w:488/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNjMy/NTUzLTE1MjA2MDI1/MTctMTg4OS5qcGVn.jpeg"
 genres: ["Rock"]
 styles: ["Alternative Rock"]
 ---
@@ -54,7 +54,7 @@ In Absentia is the seventh studio album by British progressive rock band Porcupi
 12. Collapse The Light Into Earth (5:52)
 
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/in-absentia/1581760123" >}}<br>
+{{< applemusic url="https://music.apple.com/gb/album/in-absentia/1770062036" >}}<br>
 
 
 ## Videos
@@ -68,6 +68,7 @@ In Absentia is the seventh studio album by British progressive rock band Porcupi
 - [Chloroform [Remastered]](https://www.youtube.com/watch?v=3GVBLqa8JMM)
 - [Futile [Remastered]](https://www.youtube.com/watch?v=YN-N_YSXhcg)
 - [Meantime [Remastered]](https://www.youtube.com/watch?v=JNmaWGOnJz0)
+- [Unboxing Porcupine Tree - In Absentia 2020 Boxset](https://www.youtube.com/watch?v=Rh22gKXw63s)
 
 ## Release Images
 {{< imageGrid >}}

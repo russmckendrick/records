@@ -14,7 +14,7 @@ cover:
 additional_images:
     - "https://i.discogs.com/FjUPnCbO_eJb0bTGS7DaD2lt-DwJzWyxD72zHwFO5tA/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkzMjI0/MjgtMTQ3ODU2Mjk5/Ny0zMDIxLmpwZWc.jpeg"
     - "https://i.discogs.com/hpqV-NTfneTtDEXY_Elzih3JsYNMaApSjfBrdwpCP_o/rs:fit/g:sm/q:90/h:592/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkzMjI0/MjgtMTU0Nzk5NDEw/Ni0zNjcxLmpwZWc.jpeg"
-    - "https://i.discogs.com/lnMTogGZehNJML7h2oZtCn8FO4FPSjTnPLne20cuWzc/rs:fit/g:sm/q:90/h:604/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkzMjI0/MjgtMTU0Nzk5NDEw/OC0xMTk3LmpwZWc.jpeg"
+    - "https://i.discogs.com/ue-SgEu9h-jXfUXLImyfQfmOZoV45FuvXzP4dsSWFjY/rs:fit/g:sm/q:90/h:600/w:595/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkzMjI0/MjgtMTU0Nzk5NDEw/OC0xMTk3LmpwZWc.jpeg"
     - "https://i.discogs.com/4KXzQRhpI68fIqAnLo4yFIVdT8a9Jh6oZjgC78VcIvI/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkzMjI0/MjgtMTU0Nzk5NDEw/OC0yNDg2LmpwZWc.jpeg"
     - "https://i.discogs.com/DS4n7eOEu15k7w29naqnIvJllo84bkjRgWY7ai45Fy0/rs:fit/g:sm/q:90/h:564/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkzMjI0/MjgtMTU0Nzk5NDEw/Ny0yNTYzLmpwZWc.jpeg"
     - "https://i.discogs.com/doIAmWPW6ONuFT38KikYNT0BGTBRzL6xNVCrolFPWzQ/rs:fit/g:sm/q:90/h:593/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkzMjI0/MjgtMTY2NzQ4MDMz/Ni04NjE0LmpwZWc.jpeg"
@@ -26,6 +26,12 @@ genres: ["Rock"]
 styles: ["Pop Rock"]
 ---
 
+Afterglow is a compilation album released by Australian-New Zealand rock band Crowded House in 1999. It consists of outtakes, b-sides and other rarities recorded between 1985 and 1995. Seven of the songs were originally recorded for the Woodface album before Tim Finn became involved.
+The song "Left Hand" appears on Crowded House's live album Special Edition Live Album. "Help Is Coming" was the first released studio recording to feature drummer and co-writer Peter Jones, and was re-released in 2015 as a charity single for Syrian refugees.  "You Can Touch" was a bonus track for the Japanese edition of Together Alone.
+
+
+    
+    
 
 
 ## Tracklisting
@@ -44,7 +50,7 @@ styles: ["Pop Rock"]
 13. Time Immemorial
 
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/afterglow-deluxe-edition/1442858192" >}}<br>
+{{< applemusic url="https://music.apple.com/gb/album/afterglow/724777714" >}}<br>
 
 
 ## Videos
@@ -53,6 +59,8 @@ styles: ["Pop Rock"]
 ### More Videos
 
 - [Time Immemorial (Remastered 1999)](https://www.youtube.com/watch?v=mrplADyVRug)
+- [CROWDED HOUSE - AFTERGLOW 15](https://www.youtube.com/watch?v=rjEFOuITayE)
+- [Time Immemorial (Remastered 1999)](https://www.youtube.com/watch?v=mrplADyVRug)
 
 ## Release Images
 {{< imageGrid >}}
@@ -60,6 +68,7 @@ styles: ["Pop Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
+| Wikipedia URL | https://en.wikipedia.org/wiki/Afterglow_(Crowded_House_album) |
 | Format         | Vinyl LP Album Compilation Reissue (180 Gram) |
 | Label          | Capitol Records |
 | Catalog Number | 788022 |

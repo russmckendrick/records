@@ -13,9 +13,9 @@ cover:
     caption: "Order Of Magnitude - Empath Live Volume 1 by Devin Townsend"
 additional_images:
     - "https://i.discogs.com/efEShEuQNltsYmVCYJQy10bU5s_T98_K7BzZbxTFs14/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MDky/NjA1LTE2MDMzODQy/NDYtMzI3Ni5qcGVn.jpeg"
-    - "https://i.discogs.com/JedZL5RR2bY69-TI_xAOCp1pqJ4idN1CHPAppprMjRU/rs:fit/g:sm/q:90/h:611/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MDky/NjA1LTE2MzgwMTkw/MTUtOTI4My5qcGVn.jpeg"
-    - "https://i.discogs.com/f-60C1N_RZLgWfJjodJEN42p2Qiof6DSk_l6_UPjsYY/rs:fit/g:sm/q:90/h:605/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MDky/NjA1LTE2MzgwMTkw/MTUtOTkxNy5qcGVn.jpeg"
-    - "https://i.discogs.com/J1gfocRrWRrNsYpt3_gdWIwYhTRXjmQrSuP1om6vOoI/rs:fit/g:sm/q:90/h:1005/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MDky/NjA1LTE2MzgwMTg3/NTgtMjI0NS5qcGVn.jpeg"
+    - "https://i.discogs.com/PPHg53ij_1Pa3MYV26IjHvoSx7A5YxPwC4832_IrgSw/rs:fit/g:sm/q:90/h:600/w:588/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MDky/NjA1LTE2MzgwMTkw/MTUtOTI4My5qcGVn.jpeg"
+    - "https://i.discogs.com/MBEDqpqzx3XY19tigmtU4KiWJmyJEtmuZml6X47j6D0/rs:fit/g:sm/q:90/h:600/w:594/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MDky/NjA1LTE2MzgwMTkw/MTUtOTkxNy5qcGVn.jpeg"
+    - "https://i.discogs.com/2PKm0DEIz4PNlXT3OBnlplog8nF8BIxK4EdDEHwePkQ/rs:fit/g:sm/q:90/h:600/w:358/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MDky/NjA1LTE2MzgwMTg3/NTgtMjI0NS5qcGVn.jpeg"
     - "https://i.discogs.com/BxECYE-C-BzVc4gLSyxTEBVwqajvehxdPMu2UwUTl_Y/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MDky/NjA1LTE2MzgwMTg5/NDAtMzU3OS5qcGVn.jpeg"
 genres: ["Rock"]
 styles: ["Progressive Metal", "Prog Rock"]
@@ -62,8 +62,8 @@ styles: ["Progressive Metal", "Prog Rock"]
 
 
 ## Videos
-### Devin Townsend GENESIS (Order of Magnitude - Official Promo Video)
-{{< youtube id="qtgv89oLCOU" title="Devin Townsend GENESIS (Order of Magnitude - Official Promo Video)" >}}<br>
+### Devin Townsend "GENESIS" (Order of Magnitude - Official Promo Video)
+{{< youtube id="qtgv89oLCOU" title="Devin Townsend "GENESIS" (Order of Magnitude - Official Promo Video)" >}}<br>
 ### More Videos
 
 - [Borderlands (live in London 2019)](https://www.youtube.com/watch?v=xo8iSy87-5w)

@@ -4,7 +4,6 @@ artist_name: "Slowdive"
 artist: "slowdive"
 album_name: "Slowdive"
 date: 2017-05-05T17:26:48.000000Z
-release_date: "2017-05-05"
 release_id: "10229694"
 slug: "slowdive-10229694"
 hideSummary: true
@@ -13,21 +12,28 @@ cover:
     alt: "Slowdive by Slowdive"
     caption: "Slowdive by Slowdive"
 additional_images:
-    - "https://i.discogs.com/YAtahvroHEYfVOVMDQapOdVJtGZo98hJ5YvIyhvjOUM/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMjI5/Njk0LTE0OTM3Njg0/ODItNTI2NS5qcGVn.jpeg"
+    - "https://i.discogs.com/QBJ_AMdEppovzPQrDVpTUQUaFJAdpkAWeUK-iFeDV0I/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMjI5/Njk0LTE3MDQ2NDgx/MTktNzU0Ni5qcGVn.jpeg"
     - "https://i.discogs.com/SUD_qX0PwHQYXnHDWIHl_56mA0x6fZFlyKekppvxZ6A/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMjI5/Njk0LTE0OTQwODU0/NDMtNTM0My5qcGVn.jpeg"
     - "https://i.discogs.com/3kqUs6ZfhQH-ZHQoXSt8-TGmJt1fLx3XbLX11t0OCuk/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMjI5/Njk0LTE0OTQwODU0/NjYtMTM4NS5qcGVn.jpeg"
     - "https://i.discogs.com/fdvXKwvwo1Fse4AFoFTMw7pNyIcFqH2kbXeCE9SCnN4/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMjI5/Njk0LTE0OTQwODUy/ODktNzIyNC5qcGVn.jpeg"
+    - "https://i.discogs.com/_bc9yiV2Qex0foFtnJWL59G3cNAZ1tainRXyvDr20Vg/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMjI5/Njk0LTE3MDQ2NDgx/MTgtMzEwOC5qcGVn.jpeg"
+    - "https://i.discogs.com/1Dkjo7LQO5k0onDnaQE2waQIEChNSMz41jCSrR9IBHo/rs:fit/g:sm/q:90/h:586/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMjI5/Njk0LTE3MDQ2NDgx/MTgtNjg4Ny5qcGVn.jpeg"
     - "https://i.discogs.com/ww8Kykp5bmYgmHdZUjCUuTX589c9dajaF_vuaLHmHvg/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMjI5/Njk0LTE0OTQwODU1/NjktMjU1Ni5qcGVn.jpeg"
     - "https://i.discogs.com/tLvbEBoAxlWNFIF2kNlvvg8Lc4QRfPsuy5ZqPaCUTZo/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMjI5/Njk0LTE0OTQwODU2/MTAtOTk4NC5qcGVn.jpeg"
     - "https://i.discogs.com/mx2NMiBiwcW-GqifY3eWSZFFMlr1lsei_iTYFKSrLm4/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMjI5/Njk0LTE0OTQwODU3/ODMtODg5My5qcGVn.jpeg"
     - "https://i.discogs.com/dLBdLWB6_iLhhsA9XCFfh6GOd1njB6Q1N5H4LZ6FIfg/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMjI5/Njk0LTE0OTQwODU0/MTItNjY2My5qcGVn.jpeg"
+    - "https://i.discogs.com/Y-J9LyTka9MFTpPnXFr4WWeZaxWfTnRCWU3WCPUtLr8/rs:fit/g:sm/q:90/h:237/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMjI5/Njk0LTE3MDQ2NDgx/MTYtMTAwMC5qcGVn.jpeg"
+    - "https://i.discogs.com/inrqJpGQJeAJvqQwjRiqaCLRrQke63MgeKjFThrSf9k/rs:fit/g:sm/q:90/h:375/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMjI5/Njk0LTE3MDQ2NDgx/MTYtODE2Ny5qcGVn.jpeg"
+    - "https://i.discogs.com/LDaAJ0JjPvp79qH3A9bkLQtn5xxNsz74Eo84tDRUF3E/rs:fit/g:sm/q:90/h:218/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMjI5/Njk0LTE3MDQ2NDgx/MTktMjkxNy5qcGVn.jpeg"
+    - "https://i.discogs.com/wH6Ro9oPIHznD8pbHabFa05lExKhTstQW1q8bfWMpKo/rs:fit/g:sm/q:90/h:221/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMjI5/Njk0LTE3MDQ2NDgx/MTctMjg5Ni5qcGVn.jpeg"
 genres: ["Rock"]
-styles: ["Shoegaze", "Indie Rock"]
+styles: ["Shoegaze", "Indie Rock", "Dream Pop"]
 ---
 
-Some bands take a few years to regroup for their next move; dream-pop pioneers Slowdive took 22, a return all the more bittersweet given how many bands their sound has influenced since. Combining the atmospherics of ambient music with rock ’n’ roll’s low center of gravity, <i>Slowdive</i> sounds as vital as anything the band recorded in the early ‘90s, whether it’s the foggy, countryish inflections of “No Longer Making Time” or the propulsive “Star Roving.”
-        
-        
+Slowdive is the fourth studio album by English rock band Slowdive. It was released on 5 May 2017 by the record label Dead Oceans. It was Slowdive's first studio album in 22 years, following Pygmalion (1995). It was also the band's first album since Souvlaki (1993) to feature the drummer Simon Scott as a member.
+Slowdive was preceded by the singles "Star Roving", released on 12 January 2017, and "Sugar for the Pill", released on 28 March 2017.
+The album artwork is a still image from avant-garde cut-out animation film, Heaven and Earth Magic (1962), by beatnik artist and polymath Harry Smith.
+    
     
 
 
@@ -42,19 +48,22 @@ Some bands take a few years to regroup for their next move; dream-pop pioneers S
 8. Falling Ashes
 
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/slowdive/1210172617" >}}<br>
+{{< applemusic url="https://music.apple.com/gb/album/slowdive-ep/270300100" >}}<br>
 
 
 ## Videos
-### Everyone Knows
-{{< youtube id="2hY0bFCtZbA" title="Everyone Knows" >}}<br>
+### Slomo
+{{< youtube id="KDIDLIE7Z1E" title="Slomo" >}}<br>
 ### More Videos
 
-- [Slowdive - Sugar for the Pill (Official Video)](https://www.youtube.com/watch?v=BxwAPBxc0lU)
-- [Slomo](https://www.youtube.com/watch?v=KDIDLIE7Z1E)
-- [Slowdive - Everyone Knows](https://www.youtube.com/watch?v=mC2dFwIfp-M)
-- [Slowdive - Don't Know Why (Official Video)](https://www.youtube.com/watch?v=_kB2ot1PWy8)
 - [Slowdive - Star Roving (Official Audio)](https://www.youtube.com/watch?v=ogCih4OavoY)
+- [Slowdive - Sugar for the Pill (Official Video)](https://www.youtube.com/watch?v=BxwAPBxc0lU)
+- [Slowdive - Don't Know Why (Official Video)](https://www.youtube.com/watch?v=_kB2ot1PWy8)
+- [Slowdive   No Longer Making Time](https://www.youtube.com/watch?v=uxlXJf5iUzU)
+- [Slowdive - Go Get It (Music video)](https://www.youtube.com/watch?v=N0rMOMq-cqA)
+- [Slowdive - Falling Ashes](https://www.youtube.com/watch?v=t2INV5FS6AM)
+- [Slomo](https://www.youtube.com/watch?v=KDIDLIE7Z1E)
+- [Slowdive - 30th June](https://www.youtube.com/watch?v=AaGtVvx6R-0)
 
 ## Release Images
 {{< imageGrid >}}

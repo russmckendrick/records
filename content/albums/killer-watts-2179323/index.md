@@ -13,7 +13,7 @@ cover:
     caption: "Killer Watts by Various"
 additional_images:
     - "https://i.discogs.com/_tLdGwQu32Q7GlAAd1IyH18STmsVvo_EdpB2MvbHhiA/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxNzkz/MjMtMTQ4NjY0Mzg5/MS03NjQ5LmpwZWc.jpeg"
-    - "https://i.discogs.com/ZECnPXEj0OgL2vn1dUSVM8l7Limg7ZWxu2VUbzGIezg/rs:fit/g:sm/q:90/h:605/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxNzkz/MjMtMTQ4NjY0Mzg4/Ny00NTkwLmpwZWc.jpeg"
+    - "https://i.discogs.com/NIdj5pnfXXYdstoN7hO7G0bbUmsbtdzPMGgJq_X5K7U/rs:fit/g:sm/q:90/h:600/w:594/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxNzkz/MjMtMTQ4NjY0Mzg4/Ny00NTkwLmpwZWc.jpeg"
     - "https://i.discogs.com/1EJj_8AO9jarlDERVhNpDhhCGvpDVfCy-lUP6sF-d24/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxNzkz/MjMtMTQ4NjY0Mzg5/NC02ODM0LmpwZWc.jpeg"
     - "https://i.discogs.com/uXdjiCoekbP9X6NOEHpCi4Qdaz1YTiZqqMsn5rYM_XM/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxNzkz/MjMtMTQ4NjY0Mzg5/NS05NjQxLmpwZWc.jpeg"
     - "https://i.discogs.com/4cMo4OFlPWmy_oEefi95h44Wm-zj9pGURVKc1z19VsU/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxNzkz/MjMtMTQ4NjY0Mzg5/My02Nzg0LmpwZWc.jpeg"
@@ -54,6 +54,13 @@ styles: ["Hard Rock", "Classic Rock", "Heavy Metal"]
 {{< youtube id="_roTCXelnq0" title="Aerosmith - No Surprize" >}}<br>
 ### More Videos
 
+- [Ray Gomez - U.S.A.](https://www.youtube.com/watch?v=07d0ynor2TU)
+- [Ozz - 05.Checkin' It Out (Baby Don't You Cry)](https://www.youtube.com/watch?v=fk447PtK5Zk)
+- [shakin'street- Solid As A Rock](https://www.youtube.com/watch?v=v6KkdEzc9EY)
+- [Too Wild To Tame - The Boyzz](https://www.youtube.com/watch?v=9aHCp8TK_Tw)
+- [Journey-Line of Fire(Departure)](https://www.youtube.com/watch?v=cHxkJ9TTSdk)
+- [Boogie No More](https://www.youtube.com/watch?v=H36aL8u7eX0)
+- [Aerosmith - No Surprize](https://www.youtube.com/watch?v=_roTCXelnq0)
 - [Ray Gomez - U.S.A.](https://www.youtube.com/watch?v=07d0ynor2TU)
 - [Ozz - 05.Checkin' It Out (Baby Don't You Cry)](https://www.youtube.com/watch?v=fk447PtK5Zk)
 - [shakin'street- Solid As A Rock](https://www.youtube.com/watch?v=v6KkdEzc9EY)

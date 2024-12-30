@@ -107,6 +107,8 @@ styles: ["Classic Rock"]
 56. Planet Of New Orleans
 57. How Long
 
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/live-1978-1992/1705881552" >}}<br>
 
 
 

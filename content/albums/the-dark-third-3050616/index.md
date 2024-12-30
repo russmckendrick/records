@@ -27,6 +27,9 @@ genres: ["Rock"]
 styles: ["Alternative Rock", "Psychedelic Rock", "Prog Rock"]
 ---
 
+The Dark Third is the first full-length album by Pure Reason Revolution. It was produced by Paul Northfield (Rush, Porcupine Tree, Gentle Giant, Hole) and recorded at Fairhazel Studios and later RAK studios. An earlier single "Apprentice of the Universe" peaked at #74. The title refers to the "Dark Third", the third of a person's life spent asleep and dreaming, with the song on disc 2 "In Aurelia" being based lyrically and thematically around the book Aurelia by Gérard de Nerval.
+    
+    
 
 
 ## Tracklisting
@@ -50,26 +53,31 @@ styles: ["Alternative Rock", "Psychedelic Rock", "Prog Rock"]
 
 
 ## Videos
-### Pure Reason Revolution - The Twyncyn / Trembilin Willows
-{{< youtube id="wwwIiyFmoxM" title="Pure Reason Revolution - The Twyncyn / Trembilin Willows" >}}<br>
+### Aeropause
+{{< youtube id="r6b7lVJSKQY" title="Aeropause" >}}<br>
 ### More Videos
 
+- [Goshens Remains](https://www.youtube.com/watch?v=lyE82wgOkVY)
+- [Apprentice of the Universe](https://www.youtube.com/watch?v=qbTSSD-nZZE)
+- [Nimos and Tambos](https://www.youtube.com/watch?v=dEcQhIlPb1Y)
+- [Voices in Winter / In the Realms of the Divine](https://www.youtube.com/watch?v=1_R96xcQKrw)
+- [Bullitts Dominae](https://www.youtube.com/watch?v=X3-VtVsXcdE)
+- [Arrival / The Intention Craft](https://www.youtube.com/watch?v=aZcO_EAqoj0)
+- [He Tried to Show Them Magic / Ambassadors Return](https://www.youtube.com/watch?v=WD3aCXr2VVg)
+- [Asleep Under Eiderdown](https://www.youtube.com/watch?v=tZzWfMcUHPQ)
+- [The Exact Colour](https://www.youtube.com/watch?v=cerFbpn__sc)
+- [The Twyncyn / Trembling Willows](https://www.youtube.com/watch?v=kDXbZhTToxo)
 - [Aeropause](https://www.youtube.com/watch?v=r6b7lVJSKQY)
 - [Goshens Remains](https://www.youtube.com/watch?v=lyE82wgOkVY)
 - [Apprentice of the Universe](https://www.youtube.com/watch?v=qbTSSD-nZZE)
 - [Nimos and Tambos](https://www.youtube.com/watch?v=dEcQhIlPb1Y)
 - [Voices in Winter / In the Realms of the Divine](https://www.youtube.com/watch?v=1_R96xcQKrw)
-- [Pure Reason Revolution - Goshen's Remains](https://www.youtube.com/watch?v=DDHW8bsHB0w)
 - [Bullitts Dominae](https://www.youtube.com/watch?v=X3-VtVsXcdE)
 - [Arrival / The Intention Craft](https://www.youtube.com/watch?v=aZcO_EAqoj0)
 - [He Tried to Show Them Magic / Ambassadors Return](https://www.youtube.com/watch?v=WD3aCXr2VVg)
 - [Asleep Under Eiderdown](https://www.youtube.com/watch?v=tZzWfMcUHPQ)
-- [Pure Reason Revolution - The Exact Colour](https://www.youtube.com/watch?v=TPWwd8AARjE)
 - [The Exact Colour](https://www.youtube.com/watch?v=cerFbpn__sc)
-- [Pure Reason Revolution - Voices in Winter / The Realms of Divine](https://www.youtube.com/watch?v=KKx0yODlwJs)
 - [The Twyncyn / Trembling Willows](https://www.youtube.com/watch?v=kDXbZhTToxo)
-- [Pure Reason Revolution - The Dark Third (2006)](https://www.youtube.com/watch?v=B-eVqbjwnHk)
-- [Apprentice of universe (lyrics) - Pure reason revolution](https://www.youtube.com/watch?v=zwQXwWumtxI)
 
 ## Release Images
 {{< imageGrid >}}
@@ -77,6 +85,7 @@ styles: ["Alternative Rock", "Psychedelic Rock", "Prog Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
+| Wikipedia URL | https://en.wikipedia.org/wiki/The_Dark_Third |
 | Format         | Vinyl 2× LP Album |
 | Label          | Primal Vinyl Records |
 | Catalog Number | PVR0005LP |

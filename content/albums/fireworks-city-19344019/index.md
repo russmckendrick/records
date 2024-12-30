@@ -20,6 +20,9 @@ genres: ["Electronic", "Rock", "Reggae"]
 styles: ["Breakbeat", "Dub", "Indie Rock", "Big Beat"]
 ---
 
+Fireworks City is the second album by the rock/reggae influenced UK band Audioweb. It was produced by Steve Lironi and released in 1998 via Mother Records.
+    
+    
 
 
 ## Tracklisting
@@ -61,6 +64,7 @@ styles: ["Breakbeat", "Dub", "Indie Rock", "Big Beat"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
+| Wikipedia URL | https://en.wikipedia.org/wiki/Fireworks_City |
 | Format         | Vinyl LP Album Limited Edition Reissue Stereo (Red, 180g) |
 | Label          | Demon Records |
 | Catalog Number | DEMREC918 |

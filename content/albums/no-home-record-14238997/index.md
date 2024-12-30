@@ -14,10 +14,10 @@ cover:
     caption: "No Home Record by Kim Gordon"
 additional_images:
     - "https://i.discogs.com/nuPLYrSZoLnSIKdH7kWNfri2If1cyJoS3SErbXCqRXY/rs:fit/g:sm/q:90/h:592/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MjM4/OTk3LTE1NzA1NzEy/OTItMjcyMy5qcGVn.jpeg"
-    - "https://i.discogs.com/DsENuQ1xQ_t3GUNVudy_oLFRakdgRST4NRbMgRPND24/rs:fit/g:sm/q:90/h:604/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MjM4/OTk3LTE1NzA1NzEy/OTQtMzMzOC5qcGVn.jpeg"
+    - "https://i.discogs.com/08iG0p9lDWvHerO33m-VBggNYms_9Co-dYtBKdo4iOs/rs:fit/g:sm/q:90/h:600/w:596/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MjM4/OTk3LTE1NzA1NzEy/OTQtMzMzOC5qcGVn.jpeg"
     - "https://i.discogs.com/uJBE-68VkLQhemFzOCIsFtJU5oC-lLOLCM0qeFnJsxU/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MjM4/OTk3LTE1NzA1NzEy/OTYtODY1NC5qcGVn.jpeg"
-    - "https://i.discogs.com/C2CgC8sng7zEVCAuwG-MiasKOJFXjDC_rdnAu-gwPnk/rs:fit/g:sm/q:90/h:605/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MjM4/OTk3LTE1NzA1NzEy/OTgtOTUwOS5qcGVn.jpeg"
-    - "https://i.discogs.com/IiOndIZhT4YeEuBLctstQO0rhrRLMOKfJHUdsDnDW0w/rs:fit/g:sm/q:90/h:604/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MjM4/OTk3LTE1NzA1NzEy/OTktNjIyOC5qcGVn.jpeg"
+    - "https://i.discogs.com/vSFCG9IIFBcdyQ1xt1ygzAIfeGUdYiQLbYJafaICJnM/rs:fit/g:sm/q:90/h:600/w:595/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MjM4/OTk3LTE1NzA1NzEy/OTgtOTUwOS5qcGVn.jpeg"
+    - "https://i.discogs.com/U49PT-bfLgX2cPIUG67LI0ubARBL5q23xehxXp9sKyQ/rs:fit/g:sm/q:90/h:600/w:596/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MjM4/OTk3LTE1NzA1NzEy/OTktNjIyOC5qcGVn.jpeg"
     - "https://i.discogs.com/BDJZGai5K5JSTKvHby15deuPcuzLs8GicTC3wXJyfJQ/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MjM4/OTk3LTE1NzA1NzEz/MDEtMzU4Ni5qcGVn.jpeg"
     - "https://i.discogs.com/qqjRGC_BLxJ1t551njXLkx3MEVRONu8sGaXk-DG2GbI/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MjM4/OTk3LTE1NzA1NzEz/MDItODE3NS5qcGVn.jpeg"
     - "https://i.discogs.com/87-Ur7uwKOguai0OpaJmcwETfa5g6LLlioBWKvX-Y-w/rs:fit/g:sm/q:90/h:289/w:500/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MjM4/OTk3LTE1NzA1NzMw/NjctNjMxNi5qcGVn.jpeg"
@@ -48,17 +48,20 @@ The wit is classic (“Airbnb/Could set me free!” she wails on “Air BnB”, 
 
 
 ## Videos
-### Kim Gordon - Sketch Artist (Official Music Video)
-{{< youtube id="TJl_9a6dp4g" title="Kim Gordon - Sketch Artist (Official Music Video)" >}}<br>
+### Kim Gordon - "Sketch Artist" (Official Music Video)
+{{< youtube id="TJl_9a6dp4g" title="Kim Gordon - "Sketch Artist" (Official Music Video)" >}}<br>
 ### More Videos
 
+- [Kim Gordon - "Air BnB"](https://www.youtube.com/watch?v=_Jhhzy7vr8A)
+- [Kim Gordon - "Murdered Out"](https://www.youtube.com/watch?v=NvgRg_mUhtQ)
+- [Kim Gordon - "Sketch Artist" (Official Music Video)](https://www.youtube.com/watch?v=TJl_9a6dp4g)
+- [Kim Gordon - "Air BnB"](https://www.youtube.com/watch?v=_Jhhzy7vr8A)
+- [Kim Gordon - "Murdered Out"](https://www.youtube.com/watch?v=NvgRg_mUhtQ)
 - [Kim Gordon - Paprika Pony](https://www.youtube.com/watch?v=H8bGYENQjGM)
-- [Kim Gordon - Air BnB](https://www.youtube.com/watch?v=_Jhhzy7vr8A)
 - [Don't Play It](https://www.youtube.com/watch?v=Hitjbwqz4iY)
-- [Kim Gordon - Murdered Out](https://www.youtube.com/watch?v=NvgRg_mUhtQ)
 - [Cookie Butter](https://www.youtube.com/watch?v=YvwgSnIyJdE)
-- [Kim Gordon - Hungry Baby (Official Video)](https://www.youtube.com/watch?v=paKCImP-IOk)
-- [Kim Gordon - Earthquake (Official Video)](https://www.youtube.com/watch?v=_eT9O62dEBU)
+- [Kim Gordon - "Hungry Baby" (Official Video)](https://www.youtube.com/watch?v=paKCImP-IOk)
+- [Kim Gordon - "Earthquake" (Official Video)](https://www.youtube.com/watch?v=_eT9O62dEBU)
 - [Get Yr Life Back](https://www.youtube.com/watch?v=i9o3bdEXl1U)
 
 ## Release Images

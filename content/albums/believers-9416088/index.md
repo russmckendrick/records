@@ -49,7 +49,7 @@ Believers is the eighth studio album released by Scottish band Deacon Blue, rele
 {{< youtube id="UVUsVqdKzmI" title="Deacon Blue  - Believers - 03 - I Will and I Won't" >}}<br>
 ### More Videos
 
-- [Deacon Blue The Believers Official Music Video](https://www.youtube.com/watch?v=d9JmILWh5i8)
+- [Deacon Blue "The Believers" Official Music Video](https://www.youtube.com/watch?v=d9JmILWh5i8)
 
 ## Release Images
 {{< imageGrid >}}

@@ -49,4 +49,4 @@ styles: ["Prog Rock", "Stoner Rock", "Alternative Rock"]
 | Label          | Season Of Mist |
 | Catalog Number | SOM 574LP |
 | Notes | Plastic Head Distribution excl. edition on purple double vinyl strictly limited to 300 copies worldwide |
-| Discogs URL    | [Crippled Black Phoenix - Ellengæst](https://www.discogs.com/release/16022505-Crippled-Black-Phoenix-Elleng%C3%A6st) |
+| Discogs URL    | [Crippled Black Phoenix - Ellengæst](https://www.discogs.com/release/16022505-Crippled-Black-Phoenix-Ellengæst) |

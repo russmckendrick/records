@@ -19,6 +19,11 @@ genres: ["Electronic", "Reggae"]
 styles: ["Reggae", "Dub"]
 ---
 
+Dubber Side of the Moon is the second dub reggae tribute to the Pink Floyd album, The Dark Side of the Moon, by New York–based band Easy Star All-Stars.  The album features bass-heavy dub remixes by prominent dub producers of its predecessor, Easy Star Records' 2003 release Dub Side of the Moon.  Dubber Side of the Moon debuted at #2 on the Billboard Reggae charts.
+
+
+    
+    
 
 
 ## Tracklisting
@@ -37,10 +42,12 @@ styles: ["Reggae", "Dub"]
 
 
 ## Videos
-### EASY STAR ALL-STARS: DUBBER SIDE OF THE MOON TRAILER
-{{< youtube id="waLrqTiltmQ" title="EASY STAR ALL-STARS: DUBBER SIDE OF THE MOON TRAILER" >}}<br>
+### Brain Damage (Adrian Sherwood and Jazzwad Remix)
+{{< youtube id="XsCWT9QVK3A" title="Brain Damage (Adrian Sherwood and Jazzwad Remix)" >}}<br>
 ### More Videos
 
+- [Easy Star All Stars - Brain Damage {Adrian Sherwood & Jazzwad Remix}{Pink Floyd}](https://www.youtube.com/watch?v=Xnwz_L2ZKo0)
+- [EASY STAR ALL-STARS: DUBBER SIDE OF THE MOON TRAILER](https://www.youtube.com/watch?v=waLrqTiltmQ)
 - [Easy Star All Stars - Money (The Alchemist Remix)](https://www.youtube.com/watch?v=azmdQp4MryE)
 - [Easy All-Stars - Dubber Side Of The Moon (Full Album) (HQ)](https://www.youtube.com/watch?v=CD_SkZpc6J0)
 
@@ -50,6 +57,7 @@ styles: ["Reggae", "Dub"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
+| Wikipedia URL | https://en.wikipedia.org/wiki/Dubber_Side_of_the_Moon |
 | Format         | Vinyl LP Album (Light Blue) |
 | Label          | Easy Star Records |
 | Catalog Number | ES-1023V |

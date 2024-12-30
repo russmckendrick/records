@@ -33,7 +33,12 @@ styles: ["Art Rock", "Post Rock", "Avantgarde"]
 {{< applemusic url="https://music.apple.com/gb/album/this-is-basic/1751798961" >}}<br>
 
 
+## Videos
+### For Stars of the Air
+{{< youtube id="jHe1eMLTNpc" title="For Stars of the Air" >}}<br>
+### More Videos
 
+- [For Stars of the Air](https://www.youtube.com/watch?v=jHe1eMLTNpc)
 
 ## Release Images
 {{< imageGrid >}}

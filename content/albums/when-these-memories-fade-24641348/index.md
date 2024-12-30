@@ -14,7 +14,7 @@ cover:
 additional_images:
     - "https://i.discogs.com/OzXDdVvqivYEIpZRn-bxdmC92-bXJLJ9I89Ro4U94ok/rs:fit/g:sm/q:90/h:579/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NjQx/MzQ4LTE2NjU1NDMz/ODgtMTEyNy5qcGVn.jpeg"
     - "https://i.discogs.com/li3ycrQcZnPobMUhgSSHDi1xPpIyIbL_FvtduV2f4js/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NjQx/MzQ4LTE2NjQyOTYw/NzItMzIxMi5qcGVn.jpeg"
-    - "https://i.discogs.com/XzkJIjcVQB_gVYbQcSu3DGuXduwngdp-qz6V7unBz2I/rs:fit/g:sm/q:90/h:604/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NjQx/MzQ4LTE2NjQyOTYx/ODAtMTI4MC5qcGVn.jpeg"
+    - "https://i.discogs.com/mLLXzO-D0RU7ugmZ82nLyF-acUlS9w_vPQh_ZHJNnPk/rs:fit/g:sm/q:90/h:600/w:596/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NjQx/MzQ4LTE2NjQyOTYx/ODAtMTI4MC5qcGVn.jpeg"
     - "https://i.discogs.com/7yTVMeoMriKKETcf2IvwGtmquokt8Zo09YoXnD_pags/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NjQx/MzQ4LTE2NjU1NDMy/NjctNDYwMS5qcGVn.jpeg"
     - "https://i.discogs.com/oEc9LAd0xPyrw9DCt-SPNUMDG0JUbPtMy1I_pd6e5Vc/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NjQx/MzQ4LTE2NjU1NDMy/NjctMjc3NS5qcGVn.jpeg"
     - "https://i.discogs.com/DHSrnLsDvn0-ApMPKKRHKPwxCvBA6hlbqSmu7xBtmPM/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NjQx/MzQ4LTE2NjU1NDMy/NjctNDE2OS5qcGVn.jpeg"
@@ -56,9 +56,6 @@ styles: ["Power Pop", "Pop Rock", "Alternative Rock"]
 
 
 
-## Videos
-### Jellyfish - When These Memories Fade [7 Singles Box Set] - Trailer
-{{< youtube id="LWD6GQOTjPE" title="Jellyfish - When These Memories Fade [7 Singles Box Set] - Trailer" >}}<br>
 
 
 ## Release Images
@@ -71,4 +68,4 @@ styles: ["Power Pop", "Pop Rock", "Alternative Rock"]
 | Label          | New Land + |
 | Catalog Number | NEWLANDX001 |
 | Notes | 7 record box set features all 6 of Jellyfish's UK singles, pulled from the two albums – 1990’s Bellybutton and 1993’s Spilt Milk, including the 4-track ‘Scary-Go-Round’ EP,  all pressed on 'multi-coloured' 7" vinyl.   Also included is a unique bonus disc featuring two covers, one of which is ‘Think About Your Troubles’, a tribute to Harry Nilsson, recorded by Roger Manning Jr and Andy Sturmer in February 1994, a few weeks after Nilsson’s death (“it was the last thing Jellyfish did as a group”, Roger recalls).  The audio has all been remastered especially for vinyl and as well as the singles in picture sleeves, the set includes a 64-page book with very detailed and entertaining track-by-track guides (not the same as those in the 2015 Omnivore CDs) from Roger Manning Jr, Jason Falkner, Chris Manning, Tim Smith, Eric Dover and band members and a newly written essay by Maura K. Johnston.   The [68 pages including the cover] soft-back book is packed with previously unseen photographs, rare memorabilia and promotional items, plus a 3D poster & Jellyfish branded 3D glasses.  Limited to 1,000 units worldwide and is a one-time pressing (A black vinyl edition was later released on 28th October 2022).  All seven records are in picture sleeves with die-cut white paper inner sleeves. All seven records have 'artwork' Side B labels, with track information on Side A labels [Side A (This Side) / Side B (Other Side)]  Live tracks are denoted with an asterisk on the rear of the box as " * Live tracks " |
-| Discogs URL    | [Jellyfish - When These Memories Fade](https://www.discogs.com/release/24641348-Jellyfish-When-These-Memories-Fade) |
+| Discogs URL    | [Jellyfish - When These Memories Fade](https://www.discogs.com/release/24641348-Jellyfish-2-When-These-Memories-Fade) |

@@ -4,6 +4,7 @@ artist_name: "Tom Waits"
 artist: "tom-waits"
 album_name: "Small Change"
 date: 2016-04-30T15:21:41.000000Z
+release_date: "1976-09-21"
 release_id: "3341211"
 slug: "small-change-3341211"
 hideSummary: true
@@ -23,8 +24,15 @@ genres: ["Jazz", "Blues"]
 styles: []
 ---
 
-Small Change is the fourth studio album by singer and songwriter Tom Waits, released on September 21, 1976 on Asylum Records. It was recorded in July at Wally Heider's Studio 3 in Hollywood. It was successful commercially and outsold his previous albums. This resulted in Waits putting together a touring band - The Nocturnal Emissions, which consisted of Frank Vicari on tenor saxophone, FitzGerald Jenkins on bass guitar and Chip White on drums and vibraphone. The Nocturnal Emissions toured Europe and the United States extensively from October 1976 till May 1977.
-    
+The album that marked Tom Waits’ quantum leap as a songwriter—1976’s <i>Small Change</i>—coincided with the rusty-throated storyteller’s descent into alcoholism: Life as a touring musician had given Waits no shortage of the kinds of late nights, booze and lonely hotel rooms he’d always sung about. Indeed, his fourth album has a unique bleakness: It’s a collection of bleary-eyed bawlers, narrated by lost men holding up lamp posts or dreaming of New Orleans. Recorded in five nights with no overdubs, the beautifully weather-beaten <i>Small Change</i> ended up as the singer’s breakthrough moment, becoming his first album to make a dent in the Billboard charts.
+ 
+The opening track, “Tom Traubert’s Blues (Four Sheets to the Wind in Copenhagen)”, remains one of Waits’ most enduring songs, dripping with melancholy, regrets and a dusting of strings. Reportedly inspired by Waits’ time wandering Los Angeles’ Skid Row with whisky in a bag, “Traubert” is a textbook example of Waits’ evocative storytelling (“And it’s a battered old suitcase to a hotel someplace, and a wound that will never heal/No prima donna, the perfume is on an old shirt that is stained with blood and whisky”). Waits was already widely respected by his singer-songwriter peers by the time <i>Small Change</i> was released, but “Tom Traubert’s Blues” established him as a once-in-a-generation talent (decades later, the song would be turned into a worldwide smash hit for Rod Stewart).
+ 
+Waits has always been an anachronistic figure; even in his twenties, he was name-dropping actresses from the golden age of cinema, and letting his piano wander into <i>Casablanca</i>’s “As Time Goes By”. And indeed, much of <i>Small Change</i> sounds like it could have emerged from a jazz club in an early film noir. Tracks like “The One That Got Away” and “Step Right Up” feature walking bass, salty sax and an atmosphere of hopelessness and doom. Meanwhile, “Small Change (Got Rained on With His Own .38)”—which features nothing more than Waits’ gravelly voice and the moonlit sax of Lew Tabackin—plays like a Mickey Spillane novel in miniature. And “Pasties and a G-String” is pure neon-soaked, zooba-zabbaing sleaze.
+
+But no track best encapsulates the boozy joys of <i>Small Change</i> like the closing-time anthem “The Piano Has Been Drinking (Not Me) (An Evening with Pete King)”, on which Waits sounds absolutely sloshed—he even plays some bum notes on the piano. It’s a standout on an album that finds a masterfully constructed character singing stories of masterfully constructed characters. <i>Small Change</i> is 1970s Waits at his heartbroken-barfly best.
+        
+        
     
 
 
@@ -46,14 +54,11 @@ Small Change is the fourth studio album by singer and songwriter Tom Waits, rele
 
 
 ## Videos
-### Tom Waits - Small Change (Got Rained On With His Own .38)
-{{< youtube id="vvGW4A_EI24" title="Tom Waits - Small Change (Got Rained On With His Own .38)" >}}<br>
+### Tom Waits - "Invitation To The Blues"
+{{< youtube id="Ag2hddV1hE4" title="Tom Waits - "Invitation To The Blues"" >}}<br>
 ### More Videos
 
-- [Tom Waits - Invitation To The Blues](https://www.youtube.com/watch?v=Ag2hddV1hE4)
-- [Tom Waits - Jitterbug Boy](https://www.youtube.com/watch?v=zhK7ZylXTs0)
-- [Tom Waits - Bad Liver And A Broken Heart (In Lowell)](https://www.youtube.com/watch?v=IO4CvpL-O5s)
-- [Tom Waits - Step Right Up](https://www.youtube.com/watch?v=kTdScE3Rqh8)
+- [Tom Waits - "The Piano Has Been Drinking (Not Me) (An Evening With Pete King)"](https://www.youtube.com/watch?v=3rzTuh202fA)
 
 ## Release Images
 {{< imageGrid >}}

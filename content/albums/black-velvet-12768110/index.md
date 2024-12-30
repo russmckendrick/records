@@ -18,7 +18,7 @@ additional_images:
     - "https://i.discogs.com/uVhdGCHLRWXbAyHLScvnn3keOBwA0CkRMa5D2Snlk7Q/rs:fit/g:sm/q:90/h:592/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNzY4/MTEwLTE1ODUyNTI4/NTItNzcwNC5qcGVn.jpeg"
     - "https://i.discogs.com/kKPSG9L4-7yAGFStuw7S587takLo-rSE9YqadbxZgAY/rs:fit/g:sm/q:90/h:571/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNzY4/MTEwLTE1ODUyNTI4/NTktMTkyMy5qcGVn.jpeg"
     - "https://i.discogs.com/qgd3ZFVzKsUqp723jv26-0Uu0aHXx5vMs_2rpts6xWY/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNzY4/MTEwLTE1NDE3MTk5/OTctNjg1My5qcGVn.jpeg"
-    - "https://i.discogs.com/F2W3Jz5kr1E_Rygbl8eZYypUCK_9FfamnO3QOkQeT1Y/rs:fit/g:sm/q:90/h:608/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNzY4/MTEwLTE1NDE1Njc2/NTMtODkxMC5qcGVn.jpeg"
+    - "https://i.discogs.com/jsupRsZaV_N9fEIxjB1wCbMn2hr-bWsZByeJktX_UNM/rs:fit/g:sm/q:90/h:600/w:591/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNzY4/MTEwLTE1NDE1Njc2/NTMtODkxMC5qcGVn.jpeg"
 genres: ["Funk / Soul"]
 styles: ["Funk", "Soul", "Rhythm & Blues"]
 ---
@@ -41,7 +41,7 @@ Black Velvet is the fourth and final studio album by American funk/soul artist C
 10. Victim Of Love (Electric Version)
 
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/black-velvet-feat-menahan-street-band/1485029036" >}}<br>
+{{< applemusic url="https://music.apple.com/gb/album/black-velvet-the-instrumentals/1485646436" >}}<br>
 
 
 ## Videos
@@ -50,7 +50,7 @@ Black Velvet is the fourth and final studio album by American funk/soul artist C
 ### More Videos
 
 - [Charles Bradley - Luv Jones (Official Audio)](https://www.youtube.com/watch?v=931ZsQyAE2o)
-- [Charles Bradley I Feel a Change (OFFICIAL VIDEO)](https://www.youtube.com/watch?v=Cx8qITIIRiU)
+- [Charles Bradley "I Feel a Change" (OFFICIAL VIDEO)](https://www.youtube.com/watch?v=Cx8qITIIRiU)
 - [Charles Bradley - Slip Away (Official Audio)](https://www.youtube.com/watch?v=DB6zL9lJ55U)
 - [Charles Bradley - Black Velvet (Official Audio)](https://www.youtube.com/watch?v=hOX9FmZrj04)
 - [Charles Bradley - Stay Away (Official Audio)](https://www.youtube.com/watch?v=orZABpOFUj4)

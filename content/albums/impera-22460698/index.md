@@ -15,7 +15,7 @@ cover:
 additional_images:
     - "https://i.discogs.com/NMNX4VHClvreZj25vuKm70gbHE7Bmfuv0OHfg_vVV8s/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNDYw/Njk4LTE2NDY5OTU5/NDktODk5OS5qcGVn.jpeg"
     - "https://i.discogs.com/jPXFMMA9s6c3bmA_3ThL-mJAj8mOc3h1smYpjRi03pM/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNDYw/Njk4LTE2NDY5OTU5/NDgtNDE4Ny5qcGVn.jpeg"
-    - "https://i.discogs.com/jpA-AHaEqofz8SJk8heedkfAa6ePAEi-9__fucvW2UE/rs:fit/g:sm/q:90/h:620/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNDYw/Njk4LTE2NDczNDIw/MTUtODIwMC5qcGVn.jpeg"
+    - "https://i.discogs.com/8jVIWJapbLCmcP_aayCdZvIuZXkGQ3ezuHARfkB8J1Q/rs:fit/g:sm/q:90/h:600/w:579/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNDYw/Njk4LTE2NDczNDIw/MTUtODIwMC5qcGVn.jpeg"
     - "https://i.discogs.com/89h6X6VW9jRW9rp7b4PeBnsbhEzV6a-MqO6HP75VjNs/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNDYw/Njk4LTE2NDcwMTY3/MTktODY5OC5qcGVn.jpeg"
     - "https://i.discogs.com/qpM3Qg16gJyd2gK5fhEhWAPaCFeCTyeqNkDSCnyYP6o/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNDYw/Njk4LTE2NDcwMTY3/MTktNDg2Ny5qcGVn.jpeg"
     - "https://i.discogs.com/sgA6nJ6Y37kNBJ4tPc2y4FZmB1-gseqdC71ZkSMiJlA/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNDYw/Njk4LTE2NDY5OTU5/NDgtNTM4MC5qcGVn.jpeg"
@@ -100,13 +100,16 @@ At the time, Forge was already planning to make a record about the bubonic plagu
 
 
 ## Videos
-### Ghost - Call Me Little Sunshine (Official Music Video)
-{{< youtube id="DD2m_iqD7dI" title="Ghost - Call Me Little Sunshine (Official Music Video)" >}}<br>
+### Ghost - Hunter's Moon (Official Music Video)
+{{< youtube id="rtkaUZvMaG8" title="Ghost - Hunter's Moon (Official Music Video)" >}}<br>
 ### More Videos
 
+- [Ghost - Call Me Little Sunshine (Official Music Video)](https://www.youtube.com/watch?v=DD2m_iqD7dI)
+- [Ghost - Spillways (Official Music Video)](https://www.youtube.com/watch?v=u9DV1eHQpcA)
+- [Ghost - Call Me Little Sunshine (Official Music Video)](https://www.youtube.com/watch?v=DD2m_iqD7dI)
+- [Ghost - Twenties (Official Lyric Video)](https://www.youtube.com/watch?v=nQ-pxlKgiTI)
 - [Ghost - Hunter's Moon (Official Music Video)](https://www.youtube.com/watch?v=rtkaUZvMaG8)
 - [Ghost - Darkness At The Heart Of My Love (Official Audio)](https://www.youtube.com/watch?v=tzXFZuB1wSQ)
-- [Ghost - Twenties (Official Lyric Video)](https://www.youtube.com/watch?v=nQ-pxlKgiTI)
 - [Ghost - Spillways (Official Audio)](https://www.youtube.com/watch?v=wFxXpPAFnks)
 - [Ghost - Watcher In The Sky (Official Audio)](https://www.youtube.com/watch?v=0mGr5bMItQY)
 - [Ghost - Griftwood (Official Audio)](https://www.youtube.com/watch?v=d6WA06fNscc)
@@ -123,8 +126,8 @@ At the time, Forge was already planning to make a record about the bubonic plagu
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Impera |
-| Format         | Vinyl LP Album Limited Edition (Magenta [Dark]) |
+| Format         | Vinyl LP Album Limited Edition (Magenta [Dark Magenta]) |
 | Label          | Loma Vista |
 | Catalog Number | LVR02521 |
-| Notes | Issued in Dark Magenta Vinyl and 28-page booklet. Total number of copies unknown, 200 copies with hand numbered obi-strip exclusive to Assai Records.   Recorded April 2020 - July 2021. Mixed June - August 2021. Mastered August 2021.  Hype sticker: Dark Magenta Vinyl Featuring new singles "Hunter's Moon" & "Call Me Little Sunshine"  Plus a 28-page book of illustrations   |
-| Discogs URL    | [Ghost - Impera](https://www.discogs.com/release/22460698-Ghost-Impera) |
+| Notes | Issued with a 28-page booklet. Total number of copies unknown, 200 copies with hand numbered obi-strip exclusive to Assai Records.  Recorded April 2020 - July 2021. Mixed June - August 2021. Mastered August 2021.  Hype sticker: Dark Magenta Vinyl Featuring new singles "Hunter's Moon" & "Call Me Little Sunshine"  Plus a 28-page book of illustrations |
+| Discogs URL    | [Ghost - Impera](https://www.discogs.com/release/22460698-Ghost-32-Impera) |

@@ -12,16 +12,16 @@ cover:
     alt: "Everybody's Going To Die  by Church Of The Cosmic Skull"
     caption: "Everybody's Going To Die  by Church Of The Cosmic Skull"
 additional_images:
-    - "https://i.discogs.com/IFk4zqtNke8A54HbUx654e2xKkM_oJD-c6CUrhOYZx0/rs:fit/g:sm/q:90/h:609/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0OTI0/MDM4LTE1ODQxNzg1/OTQtODI1NS5qcGVn.jpeg"
-    - "https://i.discogs.com/S7R8rTqAHDxd2U18e1iac5_GcpCIH2ouubMDK6bUg6s/rs:fit/g:sm/q:90/h:607/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0OTI0/MDM4LTE1ODQxNzg2/MDItMjAzNS5qcGVn.jpeg"
-    - "https://i.discogs.com/1M5V1z5ACMZUth2UG6rU7Tc7v95rW6C796zH-FNUmQ0/rs:fit/g:sm/q:90/h:604/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0OTI0/MDM4LTE1ODQxNzg2/MDgtMzYzNC5qcGVn.jpeg"
+    - "https://i.discogs.com/FF0r5_pjk0aozV-7v-Z1vK4yI31GGrSHshqTsGwsCF0/rs:fit/g:sm/q:90/h:600/w:590/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0OTI0/MDM4LTE1ODQxNzg1/OTQtODI1NS5qcGVn.jpeg"
+    - "https://i.discogs.com/1mfsQL_IpLzKFNuqnfZCOsaEG0TvGUayktIAmy88ZuY/rs:fit/g:sm/q:90/h:600/w:592/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0OTI0/MDM4LTE1ODQxNzg2/MDItMjAzNS5qcGVn.jpeg"
+    - "https://i.discogs.com/-C5B_YhpE-JYlBVuqjOz2EpGKP72eiON8X3tCwHMNOw/rs:fit/g:sm/q:90/h:600/w:595/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0OTI0/MDM4LTE1ODQxNzg2/MDgtMzYzNC5qcGVn.jpeg"
     - "https://i.discogs.com/vQbAzFAPiJNEe3J6NJ1bBft9PeAiUfIvNio7kll0bGc/rs:fit/g:sm/q:90/h:280/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0OTI0/MDM4LTE1ODQxNzg2/MTMtMzU2OS5qcGVn.jpeg"
-    - "https://i.discogs.com/eLGUinrW2Xr_koErxKwC8clVz6aGFg0ll2KvObrqjpI/rs:fit/g:sm/q:90/h:610/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0OTI0/MDM4LTE1ODQxNzg2/MTktMjI1NS5qcGVn.jpeg"
+    - "https://i.discogs.com/5lNbfvJRUKYt-n6P7PL3oliUyQJUyPvHuM8eKGe_qug/rs:fit/g:sm/q:90/h:600/w:589/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0OTI0/MDM4LTE1ODQxNzg2/MTktMjI1NS5qcGVn.jpeg"
     - "https://i.discogs.com/bgAl0ZYv80bS5MwMSKaIrE4i0_jSFYVA5ujL8Mu6OVA/rs:fit/g:sm/q:90/h:577/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0OTI0/MDM4LTE1ODQxNzg2/MjMtMjM0Ny5qcGVn.jpeg"
     - "https://i.discogs.com/sA0dDH4IPHr-7kbpx8R9v1NYo98c7Hz3mP38RWRd6y8/rs:fit/g:sm/q:90/h:594/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0OTI0/MDM4LTE1ODQxNzg2/MjgtNTgyNi5qcGVn.jpeg"
-    - "https://i.discogs.com/Tzq81KjlhCtXDi2Ms6yz-HWoD4HjywuVGUcA7gB-RLM/rs:fit/g:sm/q:90/h:637/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0OTI0/MDM4LTE1ODQxNzg2/MzQtMzg1MS5qcGVn.jpeg"
+    - "https://i.discogs.com/CbmJPe1KC7cnnBbvarhMKL_vEgKplL1syW1eDDd4vx4/rs:fit/g:sm/q:90/h:600/w:564/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0OTI0/MDM4LTE1ODQxNzg2/MzQtMzg1MS5qcGVn.jpeg"
     - "https://i.discogs.com/XfmSRG2kKYYx0wAj_0QYn_1uDuJjKvj7kVcPOTm9T6o/rs:fit/g:sm/q:90/h:300/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0OTI0/MDM4LTE1ODQxNzg2/NDAtMTk4MC5qcGVn.jpeg"
-    - "https://i.discogs.com/F13hSwWLGlfFtGL_8XnuQqmwh6w-qfyNJb1vLS9l5fk/rs:fit/g:sm/q:90/h:872/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0OTI0/MDM4LTE1ODQxNzg2/NDYtODExMy5qcGVn.jpeg"
+    - "https://i.discogs.com/ogfAoueKQeQPqYImD39Gvulskj-BcTgv6H9el9EdsCk/rs:fit/g:sm/q:90/h:600/w:412/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0OTI0/MDM4LTE1ODQxNzg2/NDYtODExMy5qcGVn.jpeg"
 genres: ["Rock"]
 styles: ["Psychedelic Rock", "Hard Rock", "Prog Rock"]
 ---
@@ -49,6 +49,8 @@ styles: ["Psychedelic Rock", "Hard Rock", "Prog Rock"]
 {{< youtube id="vaMH-ha3Lbc" title="Everybody's Going to Die" >}}<br>
 ### More Videos
 
+- [Church of the Cosmic Skull - Sorcery & Sabotage (Official Video)](https://www.youtube.com/watch?v=KcFy-lYmncE)
+- [Everybody's Going to Die](https://www.youtube.com/watch?v=vaMH-ha3Lbc)
 - [Church of the Cosmic Skull - Sorcery & Sabotage (Official Video)](https://www.youtube.com/watch?v=KcFy-lYmncE)
 
 ## Release Images

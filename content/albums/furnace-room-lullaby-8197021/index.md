@@ -43,19 +43,21 @@ The title track was included on the soundtrack to Sam Raimi's film The Gift.
 
 
 ## Videos
-### Set Out Running
-{{< youtube id="HTPJq30ghBA" title="Set Out Running" >}}<br>
+### Neko Case "Furnace Room Lullaby" from The Gift
+{{< youtube id="9nBt_e9tzdQ" title="Neko Case "Furnace Room Lullaby" from The Gift" >}}<br>
 ### More Videos
 
-- [Neko Case Furnace Room Lullaby from The Gift](https://www.youtube.com/watch?v=9nBt_e9tzdQ)
-- [Guided By Wire](https://www.youtube.com/watch?v=sCwg05ayU6o)
 - [Neko Case & Her Boyfriends - Mood to Burn Bridges](https://www.youtube.com/watch?v=_s6DQSIjTFs)
+- [Set Out Running](https://www.youtube.com/watch?v=HTPJq30ghBA)
+- [Guided By Wire](https://www.youtube.com/watch?v=sCwg05ayU6o)
 - [Mood to Burn Bridges](https://www.youtube.com/watch?v=qKdDcwdygos)
 - [Thrice All American](https://www.youtube.com/watch?v=lT4QMN93g9o)
 - [We've Never Met](https://www.youtube.com/watch?v=zhMr1kCJy-Y)
 - [South Tacoma Way](https://www.youtube.com/watch?v=k8iz8oNzOxM)
 - [Neko Case - Furnace Room Lullaby](https://www.youtube.com/watch?v=jttWyvL6iIM)
-- [Neko Case - Furnace Room Lullaby [Live from Austin, TX]](https://www.youtube.com/watch?v=lz2gMJqtIz4)
+- [Neko Case - "Furnace Room Lullaby" [Live from Austin, TX]](https://www.youtube.com/watch?v=lz2gMJqtIz4)
+- [Neko Case "Furnace Room Lullaby" from The Gift](https://www.youtube.com/watch?v=9nBt_e9tzdQ)
+- [Neko Case & Her Boyfriends - Mood to Burn Bridges](https://www.youtube.com/watch?v=_s6DQSIjTFs)
 
 ## Release Images
 {{< imageGrid >}}

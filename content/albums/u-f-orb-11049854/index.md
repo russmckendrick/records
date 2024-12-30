@@ -12,17 +12,22 @@ cover:
     alt: "U.F.Orb by The Orb"
     caption: "U.F.Orb by The Orb"
 additional_images:
-    - "https://i.discogs.com/RPeuDJ0Cg4QVgCob4-FHWZ8jYGnJfAH62zMQEQixko4/rs:fit/g:sm/q:90/h:601/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMDQ5/ODU0LTE1MDkyMDYw/NjktMjY5NS5qcGVn.jpeg"
+    - "https://i.discogs.com/bMiFxAnJFwfn5ONTyHLvb94ast7JZ5vNrCgtAxKfASU/rs:fit/g:sm/q:90/h:600/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMDQ5/ODU0LTE1MDkyMDYw/NjktMjY5NS5qcGVn.jpeg"
     - "https://i.discogs.com/OT_xbylgk2l-lh7e-7g7oiNU9WnLdPgr8tWyFEeGxgA/rs:fit/g:sm/q:90/h:590/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMDQ5/ODU0LTE2NDEwODUy/NzgtMTMxMi5qcGVn.jpeg"
-    - "https://i.discogs.com/P2hpZzNJrbi1YEfoTiQEeIaMOY8ojwKCUHFJoueti7Q/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMDQ5/ODU0LTE1NDEyNjg2/MzgtMjA5OS5qcGVn.jpeg"
+    - "https://i.discogs.com/b8hAAwvXaIUIiMlNw2RiEMuNs10xbMFCvLmciSYdbjw/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMDQ5/ODU0LTE1NDEyNjg2/MzgtMjA5OS5qcGVn.jpeg"
     - "https://i.discogs.com/kLs0LqrsmQo0FAFn6jrltr_EZStNFbFI-XkdSW4RZ-A/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMDQ5/ODU0LTE1NDEyNjg2/MzktMzYxMy5qcGVn.jpeg"
     - "https://i.discogs.com/Omf1FuvM8ERXa3lyD6tw2qm_c62WhQEvvL5ZgxsEcK0/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMDQ5/ODU0LTE1NDEyNjg2/MzktNzA2NS5qcGVn.jpeg"
-    - "https://i.discogs.com/AsiU1LgTM3h5ZcBZ779O-swBqKA3vE6gkIXrN_EkgCE/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMDQ5/ODU0LTE1NDEyNjg2/MzktODM2Ny5qcGVn.jpeg"
+    - "https://i.discogs.com/fra-5mWKwy0uxNyV0jUC78RmDdcWftrAuH1R4y7jbTU/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMDQ5/ODU0LTE1NDEyNjg2/MzktODM2Ny5qcGVn.jpeg"
     - "https://i.discogs.com/Rfsqz1uoAhyw7hmZ17IEZUOKrT4Y6f82duNoXHRyPhc/rs:fit/g:sm/q:90/h:590/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMDQ5/ODU0LTE1MDkyOTg1/MzEtODAwOS5qcGVn.jpeg"
 genres: ["Electronic"]
 styles: ["Ambient", "Dub", "House"]
 ---
 
+U.F.Orb is the second studio album by English electronic music group the Orb. It was released on 6 July 1992 as their last work with record label Big Life. Upon its release, the album reached No. 1 on the UK Albums Chart. The music database AllMusic described it as "the commercial and artistic peak of the ambient-house movement."
+
+
+    
+    
 
 
 ## Tracklisting
@@ -35,19 +40,19 @@ styles: ["Ambient", "Dub", "House"]
 7. Sticky End (0:49)
 
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/u-f-orb-deluxe-edition/1444192610" >}}<br>
+{{< applemusic url="https://music.apple.com/gb/album/u-f-orb/1443195868" >}}<br>
 
 
 ## Videos
-### U.F.Orb
-{{< youtube id="MzNp1n37Gm4" title="U.F.Orb" >}}<br>
+### O.O.B.E.
+{{< youtube id="UEbyC_hQkhQ" title="O.O.B.E." >}}<br>
 ### More Videos
 
-- [O.O.B.E.](https://www.youtube.com/watch?v=UEbyC_hQkhQ)
+- [U.F.Orb](https://www.youtube.com/watch?v=MzNp1n37Gm4)
 - [Blue Room](https://www.youtube.com/watch?v=S2Uolg1saNM)
 - [Towers Of Dub](https://www.youtube.com/watch?v=MEc8_2NAy4E)
-- [Majestic](https://www.youtube.com/watch?v=EkQc0YeYm3M)
 - [Close Encounters](https://www.youtube.com/watch?v=J4-9ALbPQFo)
+- [Majestic](https://www.youtube.com/watch?v=EkQc0YeYm3M)
 - [Sticky End](https://www.youtube.com/watch?v=KwRA-_OBWYU)
 
 ## Release Images
@@ -56,6 +61,7 @@ styles: ["Ambient", "Dub", "House"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
+| Wikipedia URL | https://en.wikipedia.org/wiki/U.F.Orb |
 | Format         | Vinyl 2× LP Album Reissue (180g) |
 | Label          | Island Records |
 | Catalog Number | 00602557797831 |

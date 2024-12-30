@@ -12,10 +12,10 @@ cover:
     alt: "Metrobolist (Nine Songs By David Bowie) by David Bowie"
     caption: "Metrobolist (Nine Songs By David Bowie) by David Bowie"
 additional_images:
-    - "https://i.discogs.com/XvI8KjKS224Mpmv39L9gGdxl1sYBx1Kkq-LdOSgUQv8/rs:fit/g:sm/q:90/h:617/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MTM1/MjE0LTE2MDQwNjc5/NTItMzAwMS5qcGVn.jpeg"
+    - "https://i.discogs.com/kkw8q32-rjbHf0YsV5w496M8c37cZUB5o3Pzujt6N9U/rs:fit/g:sm/q:90/h:600/w:583/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MTM1/MjE0LTE2MDQwNjc5/NTItMzAwMS5qcGVn.jpeg"
     - "https://i.discogs.com/ecEggePX6UF_SHhsSX-3D70cUO7IUma1f3iWizJW61A/rs:fit/g:sm/q:90/h:291/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MTM1/MjE0LTE2MDQwNjg5/MzAtNjk4My5qcGVn.jpeg"
     - "https://i.discogs.com/rHvoDUsXHiLbT1Dtgp1nXOiwWlqVDa6IKQVByELTL74/rs:fit/g:sm/q:90/h:591/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MTM1/MjE0LTE2MDQwNjg5/MDItODY4My5qcGVn.jpeg"
-    - "https://i.discogs.com/Qv5g3XiZzIXXGCw9X3ht85eZi_DV3fFSZ0kwoGHjaBE/rs:fit/g:sm/q:90/h:726/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MTM1/MjE0LTE2MDQwNjg5/MzktNjc2Ny5qcGVn.jpeg"
+    - "https://i.discogs.com/OXPqNgox-GPkd5b-yXdGqQOHqfC67_AbEmG8BkMiK34/rs:fit/g:sm/q:90/h:600/w:495/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MTM1/MjE0LTE2MDQwNjg5/MzktNjc2Ny5qcGVn.jpeg"
     - "https://i.discogs.com/i5g2XQzREz28shKo7LLV_dtO5HwPuqgMcQ0xzSAqxag/rs:fit/g:sm/q:90/h:450/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MTM1/MjE0LTE2MDQwNjg5/MzgtNjYyNi5qcGVn.jpeg"
     - "https://i.discogs.com/cPyE-SMpKd04NlJ9bqpMj8iaz2o_o1WR_KV16QGjP4Q/rs:fit/g:sm/q:90/h:582/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MTM1/MjE0LTE2MTI5NTUz/MTEtODEwMS5qcGVn.jpeg"
     - "https://i.discogs.com/qKrknWW8zuaYnGVFl1-FaPrrfVREWwLObTBWiiEhn7A/rs:fit/g:sm/q:90/h:290/w:253/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MTM1/MjE0LTE2MDQ2NjAx/NDktNTg2My5qcGVn.jpeg"
@@ -38,7 +38,19 @@ styles: ["Prog Rock", "Glam", "Hard Rock"]
 
 
 
+## Videos
+### David Bowie - The Man Who Sold The World [2020 Mix] [Official Lyric Video]
+{{< youtube id="u3MX-rUtS6M" title="David Bowie - The Man Who Sold The World [2020 Mix] [Official Lyric Video]" >}}<br>
+### More Videos
 
+- [The Supermen (2015 Remaster)](https://www.youtube.com/watch?v=t0871DYyHSE)
+- [All the Madmen (2015 Remaster)](https://www.youtube.com/watch?v=KrlvgARHdzc)
+- [After All (2015 Remaster)](https://www.youtube.com/watch?v=OXewmtDGQFQ)
+- [Black Country Rock (2015 Remaster)](https://www.youtube.com/watch?v=-c4Gj7XbrRQ)
+- [The Width of a Circle (2015 Remaster)](https://www.youtube.com/watch?v=pnRNAIQAc50)
+- [She Shook Me Cold (2015 Remaster)](https://www.youtube.com/watch?v=u08RG6HYaO4)
+- [Saviour Machine (2015 Remaster)](https://www.youtube.com/watch?v=ZBO0gf27sl8)
+- [Running Gun Blues (2015 Remaster)](https://www.youtube.com/watch?v=WM74wALZJjk)
 
 ## Release Images
 {{< imageGrid >}}

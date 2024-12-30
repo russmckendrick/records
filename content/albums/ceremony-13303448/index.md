@@ -16,13 +16,15 @@ additional_images:
     - "https://i.discogs.com/xiinFlRf8GmVKiGT6Ls5KBYmmEjTa7F-KE4IbJ6vEGw/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMzAz/NDQ4LTE1NjMwNDg0/NzItNzI5Ni5qcGVn.jpeg"
     - "https://i.discogs.com/DmRsy1Jz8c7tOY_xIyA-Tt2jQG8hUzTexk6E_T4Cjgs/rs:fit/g:sm/q:90/h:589/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMzAz/NDQ4LTE1NjMwNDg0/NzUtOTY1MS5qcGVn.jpeg"
     - "https://i.discogs.com/tysbKQka9_H-VLDDFvuN7DERmBDf8q1iBRUs6EfOOv4/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMzAz/NDQ4LTE1NjMwNDg0/NjYtODEyMS5qcGVn.jpeg"
-    - "https://i.discogs.com/hB50gDNBQgJd8I_zhTe_JCopoPyYsbScRItK5kKk5Ks/rs:fit/g:sm/q:90/h:604/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMzAz/NDQ4LTE1NjMwNDg0/NjUtMzI3Mi5qcGVn.jpeg"
+    - "https://i.discogs.com/K9tYK8-UdykaYsb42kB5Nr7dyKlkB-kx8dzhe08uJjI/rs:fit/g:sm/q:90/h:600/w:595/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMzAz/NDQ4LTE1NjMwNDg0/NjUtMzI3Mi5qcGVn.jpeg"
 genres: ["Rock"]
 styles: ["Post-Punk"]
 ---
 
-"Ceremony" is a song written by Joy Division, and first released as New Order's debut single in 1981. The song and its B-side, "In a Lonely Place", were written and recorded as Joy Division prior to the death of Ian Curtis. Both were re-recorded and carried over to Joy Division's re-formation under the name New Order.
+"Ceremony" is a song written by Joy Division, and first released as New Order's debut single in 1981. The track and its B-side, "In a Lonely Place", were recorded as Joy Division prior to the death of Ian Curtis. Both were re-recorded and carried over to Joy Division's re-formation as New Order.
 New Order released the song as a single twice, firstly in January 1981 and secondly in September 1981 featuring new member Gillian Gilbert, with the latter recording later appearing on the album Substance.
+
+
     
     
 
@@ -32,14 +34,16 @@ New Order released the song as a single twice, firstly in January 1981 and secon
 2. In A Lonely Place (6:12)
 
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/ceremony-version-2-2019-remaster-single/1457720890" >}}<br>
+{{< applemusic url="https://music.apple.com/gb/album/ceremony-a-new-order-tribute/355451688" >}}<br>
 
 
 ## Videos
-### New Order (Substance; 1987) - Ceremony
-{{< youtube id="fi33-cITS0s" title="New Order (Substance; 1987) - Ceremony" >}}<br>
+### Ceremony (Version 1) (2016 Remaster)
+{{< youtube id="hbgQOeKDcMw" title="Ceremony (Version 1) (2016 Remaster)" >}}<br>
 ### More Videos
 
+- [In a Lonely Place](https://www.youtube.com/watch?v=I3qPo5ys_J4)
+- [New Order - Ceremony (Live in New York City 1981)](https://www.youtube.com/watch?v=tOuvg68oQPo)
 - [Ceremony](https://www.youtube.com/watch?v=kkASIx9Xk6s)
 
 ## Release Images

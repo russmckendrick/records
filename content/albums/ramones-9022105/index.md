@@ -21,10 +21,15 @@ genres: ["Rock"]
 styles: ["Punk"]
 ---
 
-Ramones is the debut studio album by American punk rock band the Ramones, released on April 23, 1976, by Sire Records. After Hit Parader editor Lisa Robinson saw the band at a gig in New York City, she wrote about them in an article and contacted Danny Fields, insisting that he be their manager. Fields agreed and convinced Craig Leon to produce Ramones, and the band recorded a demo for prospective record labels. Leon persuaded Sire president Seymour Stein to listen to the band perform, and he later offered the band a recording contract. The Ramones began recording in January 1976, needing only seven days and $6,400 to record the album.
-The album cover, photographed by Punk magazine's Roberta Bayley, features the four members leaning against a brick wall in New York City. The record company paid only $125 for the front photo, which has since become one of the most imitated album covers of all time. The back cover depicts an eagle belt buckle along with the album's liner notes. After its release, Ramones was promoted with two singles, which failed to chart. The Ramones also began touring to help sell records; these tour dates were mostly based in the United States, although two were booked in Britain.
-Violence, drug use, relationship issues, humor, and Nazism were prominent in the album's lyrics. The album opens with "Blitzkrieg Bop", which is among the band's most recognized songs. Most of the album's tracks are uptempo, with many songs measuring at well over 160 beats per minute. The songs are also rather short; at two-and-a-half minutes, "I Don't Wanna Go Down to the Basement" is the album's longest track. Ramones contains a cover of the Chris Montez song "Let's Dance".
-Ramones was unsuccessful commercially, peaking at number 111 on the US Billboard Top LPs & Tape chart, although it received glowing reviews from critics. Many later deemed it a highly influential record, and it has since received many accolades, such as the top spot on Spin magazine's list of the "50 Most Essential Punk Records". Ramones is considered an influential punk album in the United States and United Kingdom, and had a significant impact on other genres of rock music, such as grunge and heavy metal. The album was ranked at number 33 in Rolling Stone's 2003 list of the 500 Greatest Albums of All Time, maintaining the ranking in a 2012 revision and dropping to number 47 in the 2020 reboot of the list. It was placed first in the Rolling Stone 100 Best Debut Albums of All Time list in 2022. It was certified gold by the Recording Industry Association of America in 2014.
+Sure, there were plenty of antecedents to their music, including The Stooges, a Detroit band of hooligans whom the Ramones loved. But it was the four misfits from Queens, New York, who formalised the sound of punk rock, right down to song lengths and onstage attire. Even all these years later, punk exists in its original, unevolved form, played by thousands of bands worldwide, because there’s no simpler or more democratic way to express strong feelings—especially negative ones. The Sex Pistols are often credited as the fathers of punk, but their debut album came out a few weeks before the <i>third</i> Ramones album.
+
+Johnny Ramone played a $50 Mosrite guitar on this earth-shaking album, which was recorded for only $6,500—an amount Fleetwood Mac might have routinely spent on a catered lunch. The Ramones were minimalists who created an entire world out of just a few chords and one or two ideas. They played like they were in a hurry: a typical set in 1976 included 20 songs, which the band sped through in less than 40 minutes. They didn’t write songs about girls because, Johnny later said, they didn’t really have any. Instead, in the manner of Pop Art painters like Andy Warhol and Richard Hamilton, they made art out of the commonplace events in their lives.
+
+The songs on <i>Ramones</i> are dark and antisocial, but usually with a knowing sense of humour. “Beat on the Brat” is about kids who behave badly, “Now I Wanna Sniff Some Glue” is about getting high, and “53rd & 3rd”, an autobiographical song by Dee Dee Ramone, the band’s most prolific songwriter, is about working as a male prostitute. “I’m tryin’ to turn a trick,” Joey Ramone sings in his charming British-by-way-of-Queens accent. One of the band’s most prominent influences was B movies; there’s even a <i>Texas Chainsaw Massacre</i> reference in “Chain Saw”.
+
+The debut album also shows off a little of the band’s romantic streak, via a cover of “Let’s Dance”, a 1962 hit for Chris Montez, and “I Wanna Be Your Boyfriend”, written by drummer and co-producer Tommy Ramone. It’s the album’s slowest song—calling it a ballad would be an exaggeration—and, while not quite <i>Sgt. Pepper’s Lonely Hearts Club Band</i>, it incorporates some different sounds via 12-string guitar, glockenspiel and tubular bells.
+
+One thing that distinguishes the Ramones from the punk bands that followed them is their genuine love of (and occasional facility with) melody. They admired lots of 1960s groups, from the Beach Boys to the Shirelles, and they thought every song on their debut album was a potential hit single, even though they sounded nothing like the biggest rock bands of 1976—most notably Queen, the Eagles and Boston. The Ramones thought they were about to become the most popular band in the world. They didn’t, but instead they became something better than that: one of the most influential bands in the world.
         
         
     
@@ -137,7 +142,12 @@ Ramones was unsuccessful commercially, peaking at number 111 on the US Billboard
 ## Videos
 ### Blitzkrieg Bop
 {{< youtube id="NQDPx_k66w4" title="Blitzkrieg Bop" >}}<br>
+### More Videos
 
+- [Havana Affair (2016 Remaster)](https://www.youtube.com/watch?v=FFFr2BIft-c)
+- [Chain Saw (2016 Remaster)](https://www.youtube.com/watch?v=aka98A0Ekrw)
+- [53rd & 3rd (2016 Remaster)](https://www.youtube.com/watch?v=jJ_q5Zu3LSg)
+- [Let's Dance (2016 Remaster)](https://www.youtube.com/watch?v=W3rynG8PF0I)
 
 ## Release Images
 {{< imageGrid >}}

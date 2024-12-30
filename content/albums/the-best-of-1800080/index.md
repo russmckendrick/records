@@ -4,6 +4,7 @@ artist_name: "Judas Priest"
 artist: "judas-priest"
 album_name: "The Best Of"
 date: 2020-08-02T13:48:10.000000Z
+release_date: "1979-10"
 release_id: "1800080"
 slug: "the-best-of-1800080"
 hideSummary: true
@@ -20,8 +21,9 @@ genres: ["Rock"]
 styles: ["Heavy Metal"]
 ---
 
-The Best of Judas Priest is a compilation album featuring select songs from English heavy metal band Judas Priest's first two albums, Rocka Rolla (1974) and Sad Wings of Destiny (1976).
-    
+Judas Priest had been steadily gaining ground as one of the leading practitioners of 1970’s heavy metal, and as was the tradition in those days a live album was the surest way to establish market dominance: a live album screamed you had arrived. While each studio album to this point had its charm and showed a growing evolution within the group as a tighter, more concise unit, none captured the group’s infernal live energy. In later years, singer Rob Halford admitted to dubbing his vocals due to a poor sound mix, but the band’s two-guitar firepower is left raw and untouched. Definitive Priest tracks such as “Sinner,” “The Ripper,” “Victim of Changes” and their two career-defining covers — Joan Baez’s (!) “Diamonds and Rust” and the Peter Green-era Fleetwood Mac’s “Green Manalishi (with the Two-Pronged Crown)” — never sounded this loose and free in the studio. The band learned something from this experience. Why else would their next album, <I>British Steel</I>, be their first to capture this wilder side of the band in the studio? The expanded edition adds four tracks, including the band’s at-the-time newest classic “Hell Bent for Leather.”
+        
+        
     
 
 
@@ -36,16 +38,13 @@ The Best of Judas Priest is a compilation album featuring select songs from Engl
 8. Deceiver (2:43)
 
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/setlist-the-very-best-of-judas-priest-live/646158338" >}}<br>
+{{< applemusic url="https://music.apple.com/gb/album/unleashed-in-the-east-live/207346224" >}}<br>
 
 
 ## Videos
-### Judas Priest - Rocka Rolla (BBC Performance)
-{{< youtube id="957N7EAtpY4" title="Judas Priest - Rocka Rolla (BBC Performance)" >}}<br>
-### More Videos
+### Judas Priest - The Ripper (Video)
+{{< youtube id="lriWlHZAy8A" title="Judas Priest - The Ripper (Video)" >}}<br>
 
-- [Judas Priest - The Ripper (Video)](https://www.youtube.com/watch?v=lriWlHZAy8A)
-- [Judas Priest - Victim Of Changes](https://www.youtube.com/watch?v=EKSU1W0ZUmQ)
 
 ## Release Images
 {{< imageGrid >}}

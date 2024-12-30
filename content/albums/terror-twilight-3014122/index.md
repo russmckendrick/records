@@ -22,8 +22,8 @@ genres: ["Rock"]
 styles: ["Indie Rock"]
 ---
 
-Terror Twilight is the fifth and final studio album by American indie rock band Pavement, released on June 8, 1999, on Matador Records in the US and Domino Recording Company in the UK.
-Terror Twilight was produced by Nigel Godrich, who hoped to create a "straighter" album and bring Pavement to a wider audience. He and the band disagreed over some creative choices, and songwriter Stephen Malkmus later expressed dissatisfaction with the album. It received positive reviews. After finishing the tour for the album, Pavement disbanded. In 2022, Matador released an expanded reissue, Terror Twilight: Farewell Horizontal.
+Terror Twilight is the fifth and final studio album by the American indie rock band Pavement. It was released on June 8, 1999, on Matador Records in the US and Domino Recording Company in the UK.
+Terror Twilight was produced by Nigel Godrich, who hoped to create a "straighter" album and bring Pavement to a wider audience. He and the band disagreed over some choices, and the songwriter, Stephen Malkmus, later expressed dissatisfaction with the album. It received positive reviews. After finishing the tour for the album, Pavement disbanded. In 2022, Matador released an expanded reissue, Terror Twilight: Farewell Horizontal.
     
     
 
@@ -51,6 +51,12 @@ Terror Twilight was produced by Nigel Godrich, who hoped to create a "straighter
 ### More Videos
 
 - [Pavement - Major Leagues (Official Video)](https://www.youtube.com/watch?v=qWmXoHLF0LE)
+- [Pavement - Carrot Rope (Official Video)](https://www.youtube.com/watch?v=G53DW71BlNk)
+- [Terror Twilight (Speak, See, Remember)](https://www.youtube.com/watch?v=OwQQ3sSPl7M)
+- [You Are a Light](https://www.youtube.com/watch?v=QCfTrMX4Xj0)
+- [Billie](https://www.youtube.com/watch?v=Vi7yF7rzfRc)
+- [Terror Twilight (Speak, See, Remember)](https://www.youtube.com/watch?v=V3G3ywHXtN4)
+- [Ground Beefheart (Platform Blues)](https://www.youtube.com/watch?v=luCQzgySaBA)
 
 ## Release Images
 {{< imageGrid >}}

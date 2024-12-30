@@ -14,7 +14,7 @@ cover:
 additional_images:
     - "https://i.discogs.com/B3l8-uYaSNiQF9nUbwxfu6b1n1jCBsF93npTC9c6Ens/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNzQ0/MDIxLTE1Mzc1NDE3/MDctNDA0Mi5qcGVn.jpeg"
     - "https://i.discogs.com/_N3ichQL2Hmg32z3pY9oRdXu3fIqZuo26vPmeCQQowM/rs:fit/g:sm/q:90/h:494/w:500/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNzQ0/MDIxLTE1Mzc1NDE3/MTEtNTA1My5qcGVn.jpeg"
-    - "https://i.discogs.com/Pm9sl0ZaDC-UIALSERsfI2v96a9mvwAL0oKGGz8x2CA/rs:fit/g:sm/q:90/h:695/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNzQ0/MDIxLTE1MjE2NDI1/OTQtODY3NC5qcGVn.jpeg"
+    - "https://i.discogs.com/YBmW0BVSkB6hGA1iH528RkL5k3e3kmDOAytkM_cgDNI/rs:fit/g:sm/q:90/h:600/w:517/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNzQ0/MDIxLTE1MjE2NDI1/OTQtODY3NC5qcGVn.jpeg"
 genres: ["Rock"]
 styles: ["Prog Rock"]
 ---
@@ -74,4 +74,4 @@ styles: ["Prog Rock"]
 | Label          | Inside Out Music |
 | Catalog Number | IOMLP 501 |
 | Notes | Gatefold sleeve |
-| Discogs URL    | [Kino - Radio Voltaire](https://www.discogs.com/release/11744021-Kino-Radio-Voltaire) |
+| Discogs URL    | [Kino - Radio Voltaire](https://www.discogs.com/release/11744021-Kino-2-Radio-Voltaire) |

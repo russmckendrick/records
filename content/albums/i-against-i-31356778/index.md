@@ -17,18 +17,16 @@ additional_images:
     - "https://i.discogs.com/AvysvHa73Ka6N-FDGs5OvIiKxVscP836YAfCnlfbkZY/rs:fit/g:sm/q:90/h:591/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxMzU2/Nzc4LTE3MjIzNDEz/MDItNTc5NC5qcGVn.jpeg"
     - "https://i.discogs.com/HNfeXJXdc4-gWNJ8C1emCSIQCT3fUvMZfapiYs23zKg/rs:fit/g:sm/q:90/h:592/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxMzU2/Nzc4LTE3MjIzNDEz/MDYtOTU4Mi5qcGVn.jpeg"
     - "https://i.discogs.com/PZMgjyIhtmhYdtwvmLMwHFD6YQgC1MB4ARV4mrmkxIo/rs:fit/g:sm/q:90/h:469/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxMzU2/Nzc4LTE3MjIzNDEz/MTMtNjY3My5qcGVn.jpeg"
-    - "https://i.discogs.com/WEidIIcfrZD1HpZ6gKtMZcNReCOGcKeS07M9h52r7ow/rs:fit/g:sm/q:90/h:731/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxMzU2/Nzc4LTE3MjIzNDEz/MTctNzM4NS5qcGVn.jpeg"
-    - "https://i.discogs.com/g1TqP9qVWlFeLErDiNBqkQ57cq1GHnJxVsfuj-bqMIo/rs:fit/g:sm/q:90/h:624/w:415/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxMzU2/Nzc4LTE3MjIzNDEz/MTctMjA5MS5qcGVn.jpeg"
+    - "https://i.discogs.com/u1IPyhF9rDTWZa66QTh9CyY-9OemQZVBQzcqFznIQSY/rs:fit/g:sm/q:90/h:600/w:492/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxMzU2/Nzc4LTE3MjIzNDEz/MTctNzM4NS5qcGVn.jpeg"
+    - "https://i.discogs.com/ksjTpz8lE02WsUZ-9C6QiCE_IniTHWAMOvoKUoADwtc/rs:fit/g:sm/q:90/h:600/w:399/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxMzU2/Nzc4LTE3MjIzNDEz/MTctMjA5MS5qcGVn.jpeg"
 genres: ["Rock"]
 styles: ["Hardcore", "Punk"]
 ---
 
-I Against I is the third studio album by the American rock band Bad Brains. It was released on November 21, 1986 through SST Records with the catalog number SST 065. The best-selling album in the band's catalog, I Against I  finds the band branching out from their early hardcore punk style to touch on funk, soul, reggae and heavy metal. It is also included in the book 1001 Albums You Must Hear Before You Die. The title track was a Paul Rachman-directed video (Rachman would go on to direct the documentary film American Hardcore).
+I Against I is the third studio album by American rock band Bad Brains. It was released on November 21, 1986 through SST Records with the catalog number SST 065. The best-selling album in the band's catalog, I Against I  finds the band branching out from their early hardcore punk style to touch on funk, soul, reggae and heavy metal. It is also included in the book 1001 Albums You Must Hear Before You Die. The title track was a Paul Rachman-directed video (Rachman would go on to direct the documentary film American Hardcore).
 The title I Against I presumably refers to the common Rastafarian phrase I and I, which is used in place of the first-person plural (i.e. we) to signify the union of the speaker, audience, and Jah (God) in love and peace.
 At the producer's suggestion, the vocals to "Sacred Love" were recorded over the phone from the prison where H.R. was serving time on a marijuana distribution 
 charge.
-
-
     
     
 
@@ -49,6 +47,9 @@ charge.
 {{< applemusic url="https://music.apple.com/gb/album/i-against-i/115821017" >}}<br>
 
 
+## Videos
+### I Against I
+{{< youtube id="rrXPkkIgLYM" title="I Against I" >}}<br>
 
 
 ## Release Images

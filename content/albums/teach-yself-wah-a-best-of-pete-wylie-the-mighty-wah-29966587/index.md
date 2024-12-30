@@ -45,7 +45,20 @@ styles: ["Post-Punk", "Art Rock", "Power Pop"]
 {{< applemusic url="https://music.apple.com/gb/album/teach-yself-wah-a-best-of/1732680365" >}}<br>
 
 
+## Videos
+### The Seven Thousand Names of WAH! (2024 Remaster)
+{{< youtube id="T7H9O38XUbM" title="The Seven Thousand Names of WAH! (2024 Remaster)" >}}<br>
+### More Videos
 
+- [Seven Minutes To Midnight 2024 (2024 Remaster)](https://www.youtube.com/watch?v=htI1vr6semw)
+- [The Death of WAH! (2024 Remaster)](https://www.youtube.com/watch?v=mUOtOIKcbQY)
+- [Better Scream 2024 (2024 Remaster)](https://www.youtube.com/watch?v=UkBEPMYFEGg)
+- [You Can't Put Your Arms Around A Memory (2024 Remaster)](https://www.youtube.com/watch?v=Oj1oFV-x7II)
+- [Remember (2024 Remaster)](https://www.youtube.com/watch?v=YcXfHWOnAoE)
+- [Hope (I Wish You'd Believe Me)](https://www.youtube.com/watch?v=nKPaByqhKpw)
+- [Hey! Mona Lisa (2024 Remaster)](https://www.youtube.com/watch?v=G4esUFunNck)
+- [Make Your Mind Up (2024 Remaster)](https://www.youtube.com/watch?v=8eIEaI9tVwM)
+- [The Day That Margaret Thatcher Dies - A Party Song (2024 Remaster)](https://www.youtube.com/watch?v=gFp4cbSHpLg)
 
 ## Release Images
 {{< imageGrid >}}
@@ -53,7 +66,7 @@ styles: ["Post-Punk", "Art Rock", "Power Pop"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl 2× LP 45 RPM Compilation Stereo |
+| Format         | Vinyl 2× LP Compilation Stereo |
 | Label          | Chrysalis Records |
 | Catalog Number | WV0001 |
 | Discogs URL    | [Pete Wylie - Teach Yself WAH! - A Best of Pete Wylie & The Mighty WAH!](https://www.discogs.com/release/29966587-Pete-Wylie-Teach-Yself-WAH-A-Best-of-Pete-Wylie-The-Mighty-WAH) |

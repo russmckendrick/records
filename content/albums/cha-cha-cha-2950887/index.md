@@ -20,6 +20,10 @@ genres: ["Jazz", "Latin"]
 styles: ["Cha-Cha"]
 ---
 
+Hometown Cha-Cha-Cha (Korean: 갯마을 차차차) is a 2021 South Korean romantic comedy drama television series starring Shin Min-a, Kim Seon-ho and Lee Sang-yi. It is a remake of 2004 South Korean film Mr. Handy, Mr. Hong. It aired on tvN from August 28 to October 17, 2021, every Saturday and Sunday at 21:00 (KST). It is also available for streaming on Netflix.
+The series was a commercial hit and became one of the highest-rated dramas in Korean cable television history. It ranked first place during its entire run for eight weeks, and the last episode achieved 12.665% nationwide rating, with over 3.2 million views. It also became one of Netflix's most-watched non-English television shows, and one of its longest-running hits as it spent 16 weeks in global top ten rankings.
+    
+    
 
 
 ## Tracklisting
@@ -34,9 +38,8 @@ styles: ["Cha-Cha"]
 9. Vacation Cha Cha
 10. Piccadilly Cha Cha
 
-
-## Spotify
-{{< spotify type="album" id="0jb8vEYeUB4UUMHjv3SVRe" width="100%" height="500" >}}<br>
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/the-best-cha-cha-cha-collection-of-dancelife/349833081" >}}<br>
 
 
 ## Videos
@@ -70,6 +73,7 @@ styles: ["Cha-Cha"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
+| Wikipedia URL | https://en.wikipedia.org/wiki/Hometown_Cha-Cha-Cha |
 | Format         | Vinyl LP |
 | Label          | Allegro Records |
 | Catalog Number | ALL734 |

@@ -12,11 +12,18 @@ cover:
     alt: "Fisherman's Blues by The Waterboys"
     caption: "Fisherman's Blues by The Waterboys"
 additional_images:
-    - "https://i.discogs.com/grdSgQxvy2C95OeZ9E3OEcbIUVOURXo-cUiCt98W2-c/rs:fit/g:sm/q:90/h:536/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcxNDc0/OTUtMTQzNDc4OTU3/Ni0xNDA0LmpwZWc.jpeg"
+    - "https://i.discogs.com/t4HVi5Jdoy4oS5xbJpUXf8sw9G48joKEf45oiVXoZzo/rs:fit/g:sm/q:90/h:600/w:569/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcxNDc0/OTUtMTcyOTUxMjU3/MS0xNjk0LmpwZWc.jpeg"
+    - "https://i.discogs.com/B2ssIhhJkzP4pfV3DzcepljGyDTmXT9CjOsKoedfsOg/rs:fit/g:sm/q:90/h:600/w:594/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcxNDc0/OTUtMTcyOTUxMjU3/MS0zMDU5LmpwZWc.jpeg"
 genres: ["Rock", "Folk, World, & Country"]
 styles: ["Acoustic"]
 ---
 
+Fisherman's Blues is the fourth studio album by the Waterboys, released by Ensign Records in October 1988. The album marked a change in the band's sound, with them abandoning their earlier grandiose rock sound for a mixture of traditional Irish music, traditional Scottish music, country music, and rock and roll. Critics were divided on its release with some disappointed at the change of direction and others ranking it among the Waterboys' best work. The album was 
+the Waterboys' best selling album, reaching a number 13 placing on the U.K. charts on release, and 76 on the Billboard 200.
+
+
+    
+    
 
 
 ## Tracklisting
@@ -33,9 +40,12 @@ styles: ["Acoustic"]
 11. The Stolen Child
 
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/fishermans-blues-collectors-edition/1631053858" >}}<br>
+{{< applemusic url="https://music.apple.com/gb/album/fishermans-blues-single/1744424818" >}}<br>
 
 
+## Videos
+### The Waterboys - Fisherman's Blues (High Quality)
+{{< youtube id="a4UQJwd3awQ" title="The Waterboys - Fisherman's Blues (High Quality)" >}}<br>
 
 
 ## Release Images
@@ -44,6 +54,7 @@ styles: ["Acoustic"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
+| Wikipedia URL | https://en.wikipedia.org/wiki/Fisherman%27s_Blues |
 | Format         | Vinyl LP Album Reissue (180g) |
 | Label          | Chrysalis |
 | Catalog Number | CHEN 5 |

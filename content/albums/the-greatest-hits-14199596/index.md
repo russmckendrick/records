@@ -29,6 +29,13 @@ genres: ["Rock"]
 styles: ["Hard Rock"]
 ---
 
+The Greatest Hits is a 2024 American romantic fantasy film written, produced and directed by Ned Benson, and starring Lucy Boynton, Justin H. Min, David Corenswet, and Austin Crute. It follows Harriet (Boynton) who, mourning her deceased boyfriend, travels back in time when she listens to a particular song associated with the latter.
+Searchlight Pictures announced the film in August 2022, with principal photography commencing at the end of the month and continued till October. Much of the film was shot predominantly in Los Angeles by cinematographer Chung-hoon Chung. During post-production, the musical score was composed by Ryan Lott and editing was completed by Saira Haider.
+The Greatest Hits had its world premiere at South by Southwest on March 14, 2024 and had a limited theatrical release on April 5, 2024, followed by a worldwide premiere as a Hulu original film on April 12, 2024. The film received mixed reviews from critics.
+
+
+    
+    
 
 
 ## Tracklisting
@@ -62,7 +69,7 @@ styles: ["Hard Rock"]
 28. Your Time Is Gonna Come (4:26)
 
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/the-very-best-of-thunder/693200360" >}}<br>
+{{< applemusic url="https://music.apple.com/gb/album/greatest-hits/1469579555" >}}<br>
 
 
 ## Videos
@@ -78,8 +85,9 @@ styles: ["Hard Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
+| Wikipedia URL | https://en.wikipedia.org/wiki/The_Greatest_Hits_(film) |
 | Format         | Vinyl 3× LP Compilation Limited Edition Stereo |
 | Label          | BMG |
 | Catalog Number | BMGCAT386TLP |
 | Notes | ALL KILLER, NO FILLER.  Limited edition 3 vinyl disc gatefold with signed band photo. Only available through the Thunder website.   Durations do not appear on this release.  Timings via stopwatch.  Online sales expertise: Bruce McKenzie, Townsend Music. |
-| Discogs URL    | [Thunder - The Greatest Hits](https://www.discogs.com/release/14199596-Thunder-The-Greatest-Hits) |
+| Discogs URL    | [Thunder - The Greatest Hits](https://www.discogs.com/release/14199596-Thunder-3-The-Greatest-Hits) |

@@ -23,10 +23,8 @@ genres: ["Rock"]
 styles: ["Experimental", "Art Rock", "Math Rock"]
 ---
 
-Cavalcade is the second studio album by English rock band Black Midi. It was released on 28 May 2021, through Rough Trade Records. The album was primarily recorded in the summer of 2020 with producer John "Spud" Murphy, with the exception of the song "John L", which was recorded beforehand with Marta Salogni.
+Cavalcade is the second studio album by English rock band Black Midi. It was released on 28 May 2021, through Rough Trade Records. The album was primarily recorded in the summer of 2020 with producer John "Spud" Murphy, with the exception of the song "John L", which was recorded beforehand with Marta Salogni. The album marks the final appearance of guitarist Matt Kwasniewski-Kelvin, who left the band on 2021 citing mental health reasons, however, Kwasniewski-Kelvin has songwriting credits on the songs "John L" and "Chondromalacia Patella".
 For Cavalcade, the band had a more premeditated approach to the writing and recording, as opposed to the improvisational approach taken for their debut studio album, Schlagenheim (2019). The opening track "John L" was released as a single in promotion of the album, followed by a louder mix of the fourth track "Slow", and finally "Chondromalacia Patella" before its release. The album received widespread acclaim, with critics complimenting the band's stylistic progression and composition.
-
-
     
     
 
@@ -47,11 +45,11 @@ For Cavalcade, the band had a more premeditated approach to the writing and reco
 
 
 ## Videos
-### black midi - John L
-{{< youtube id="GT0nSp8lUws" title="black midi - John L" >}}<br>
+### black midi - Intro (Cavalcavde vinyl introduction rip)
+{{< youtube id="RBPM5z2pmys" title="black midi - Intro (Cavalcavde vinyl introduction rip)" >}}<br>
 ### More Videos
 
-- [black midi - Intro (Cavalcavde vinyl introduction rip)](https://www.youtube.com/watch?v=RBPM5z2pmys)
+- [black midi - John L](https://www.youtube.com/watch?v=GT0nSp8lUws)
 - [Marlene Dietrich](https://www.youtube.com/watch?v=t-GM18LE1lA)
 - [Chondromalacia Patella](https://www.youtube.com/watch?v=fDnzpxWIMII)
 - [Slow](https://www.youtube.com/watch?v=nGYVnm_hQfQ)
@@ -59,6 +57,8 @@ For Cavalcade, the band had a more premeditated approach to the writing and reco
 - [Dethroned](https://www.youtube.com/watch?v=nPquyDbdXWw)
 - [Hogwash and Balderdash](https://www.youtube.com/watch?v=fHaTEtGRoa4)
 - [Ascending Forth](https://www.youtube.com/watch?v=FA3IJOodbWc)
+- [black midi - Intro (Cavalcavde vinyl introduction rip)](https://www.youtube.com/watch?v=RBPM5z2pmys)
+- [black midi - Hey Joe](https://www.youtube.com/watch?v=yO8lUf2Pi4w)
 
 ## Release Images
 {{< imageGrid >}}

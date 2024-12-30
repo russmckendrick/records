@@ -13,14 +13,14 @@ cover:
     alt: "Kiwanuka by Michael Kiwanuka"
     caption: "Kiwanuka by Michael Kiwanuka"
 additional_images:
-    - "https://i.discogs.com/sx39q6ZFPIxCanRNyfF__C5DTnwsbT-tGBl4YOM-LYM/rs:fit/g:sm/q:90/h:608/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MzM1/MjY3LTE1Nzk1MzYw/NDEtOTYxNi5qcGVn.jpeg"
+    - "https://i.discogs.com/DsPBL-x8E5fKZq_Pr1INB17bUSIADecuVUekQAkEDUE/rs:fit/g:sm/q:90/h:600/w:592/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MzM1/MjY3LTE1Nzk1MzYw/NDEtOTYxNi5qcGVn.jpeg"
     - "https://i.discogs.com/-aKbWDkS2xgTxjfwLTzoSynTdxWeWy5g1mDEM7mX6L4/rs:fit/g:sm/q:90/h:576/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MzM1/MjY3LTE1NzMyOTU2/ODQtNTgxNC5qcGVn.jpeg"
     - "https://i.discogs.com/y_kpKBCAdWhXxoFJsUhh6Bk1B79NCKicJKuGHDNJqFQ/rs:fit/g:sm/q:90/h:585/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MzM1/MjY3LTE1NzMyOTU2/ODUtNjQ2Mi5qcGVn.jpeg"
-    - "https://i.discogs.com/ikKYQIc0MsjxBr3PJmg_Unaapvq_IhHmhaLs10o4QYg/rs:fit/g:sm/q:90/h:614/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MzM1/MjY3LTE1Nzk1MzYw/NDEtMTM4MC5qcGVn.jpeg"
-    - "https://i.discogs.com/YHZ93H3VOMGBJPIJG8NW0jcvDRWNy_nXa2UhgYNydMY/rs:fit/g:sm/q:90/h:610/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MzM1/MjY3LTE1NzMxNTE1/NjQtNjEzNi5qcGVn.jpeg"
-    - "https://i.discogs.com/lgZnoZdgx1YHxK2AkLT0sxotzW8IqF5RX7OEpDwlgss/rs:fit/g:sm/q:90/h:610/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MzM1/MjY3LTE1NzMxNTE1/NjgtNzM1Mi5qcGVn.jpeg"
-    - "https://i.discogs.com/hfGzW6N5ZMhH9QDyrhQvKe_AB8N3-4qKBB9lM_WW41M/rs:fit/g:sm/q:90/h:610/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MzM1/MjY3LTE1NzMxNTE2/NzMtNjY2Ni5qcGVn.jpeg"
-    - "https://i.discogs.com/6aH1Pt58BfKeu0kvKbCaAftYapCDa7RuAdT0ucPPa1o/rs:fit/g:sm/q:90/h:610/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MzM1/MjY3LTE1NzMxNTE3/MjgtNTY3Ny5qcGVn.jpeg"
+    - "https://i.discogs.com/0lGERqcKKAfRXPYfZuynq9PmKWWcL5aQUPwTZp0xKwI/rs:fit/g:sm/q:90/h:600/w:585/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MzM1/MjY3LTE1Nzk1MzYw/NDEtMTM4MC5qcGVn.jpeg"
+    - "https://i.discogs.com/_68DrazPkLamoKM1uk84o08-8p54eNZwMs1IYrPS010/rs:fit/g:sm/q:90/h:600/w:589/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MzM1/MjY3LTE1NzMxNTE1/NjQtNjEzNi5qcGVn.jpeg"
+    - "https://i.discogs.com/C5iLujVc0e1dQs3Qq0NB_xc9AyYuS2KTQKEXQvOwd-0/rs:fit/g:sm/q:90/h:600/w:589/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MzM1/MjY3LTE1NzMxNTE1/NjgtNzM1Mi5qcGVn.jpeg"
+    - "https://i.discogs.com/NCVu5t4DdDfR_Sv5ulK-5iv3CjTfd-RP8qWprA9RQ6s/rs:fit/g:sm/q:90/h:600/w:589/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MzM1/MjY3LTE1NzMxNTE2/NzMtNjY2Ni5qcGVn.jpeg"
+    - "https://i.discogs.com/-sdaqllVRDGYKKE42BKHio9ueJfk3uZvtzGFOLZG968/rs:fit/g:sm/q:90/h:600/w:589/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MzM1/MjY3LTE1NzMxNTE3/MjgtNTY3Ny5qcGVn.jpeg"
     - "https://i.discogs.com/wSZm-0xOukEDXi1ReGOIEV_JOenC6dEjJAtDq_wIHRE/rs:fit/g:sm/q:90/h:594/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MzM1/MjY3LTE1NzMyOTU2/ODYtOTMyOC5qcGVn.jpeg"
     - "https://i.discogs.com/JgDcKlDnhemrYr_dNGO13a5lbxF10docN7fDqeu7tGI/rs:fit/g:sm/q:90/h:588/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MzM1/MjY3LTE1NzMyOTU2/ODctNDQwNy5qcGVn.jpeg"
     - "https://i.discogs.com/VmafuiFh7bB1kxh9NdsI5_g27FU2I_TTI7x_w-sEcw0/rs:fit/g:sm/q:90/h:585/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MzM1/MjY3LTE1NzMyOTU2/ODItNTYxNS5qcGVn.jpeg"
@@ -86,12 +86,10 @@ Works with iPhone 7 or later with the latest version of iOS; 12.9-inch iPad Pro 
 
 
 ## Videos
-### Michael Kiwanuka  - You Ain't The Problem
-{{< youtube id="APBqmPQcRK8" title="Michael Kiwanuka  - You Ain't The Problem" >}}<br>
+### Michael Kiwanuka - You Ain't The Problem (Lyric Video)
+{{< youtube id="2yEeF65NnyI" title="Michael Kiwanuka - You Ain't The Problem (Lyric Video)" >}}<br>
 ### More Videos
 
-- [Michael Kiwanuka - You Ain't The Problem (Lyric Video)](https://www.youtube.com/watch?v=2yEeF65NnyI)
-- [Michael Kiwanuka - Final Days](https://www.youtube.com/watch?v=9Z8lLMNSwLM)
 - [Rolling](https://www.youtube.com/watch?v=WeRQ_Essido)
 - [I've Been Dazed](https://www.youtube.com/watch?v=HEqeRL4LRuE)
 - [Piano Joint (This Kind Of Love)](https://www.youtube.com/watch?v=NPOyFQQvXJ4)
@@ -111,7 +109,7 @@ Works with iPhone 7 or later with the latest version of iOS; 12.9-inch iPad Pro 
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Wikipedia URL | https://en.wikipedia.org/wiki/Love_%26_Hate_(Michael_Kiwanuka_album) |
+| Wikipedia URL | https://en.wikipedia.org/wiki/Kiwanuka_(album) |
 | Format         | Vinyl 2× LP Album Limited Edition (Yellow, 180g) |
 | Label          | Polydor |
 | Catalog Number | 7795288 |

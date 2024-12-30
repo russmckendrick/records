@@ -24,7 +24,7 @@ additional_images:
     - "https://i.discogs.com/9O7YEOSpIOHckAMbJ2dVrmxl6DUfMeh7WjZSUwecREY/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMDUx/OTYxLTE0OTMzODAz/OTEtNDc2OS5qcGVn.jpeg"
     - "https://i.discogs.com/fPbSHCS6YAzUu_rMPmZks8U0SsbtXc6Nz-GNkhdC1EQ/rs:fit/g:sm/q:90/h:598/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMDUx/OTYxLTE0OTMzODAz/OTAtNDA5MC5qcGVn.jpeg"
     - "https://i.discogs.com/xhsHd3mAUY-7IvGtscuc6RcXe6Aak0Rp0ej-j0OmIIM/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMDUx/OTYxLTE0OTMzODA0/MTMtMjQ5OC5qcGVn.jpeg"
-    - "https://i.discogs.com/SVQ0_DT6rqCtaVZn-4CXl06C-213e8r7GeACt4-ZE-0/rs:fit/g:sm/q:90/h:775/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMDUx/OTYxLTE2NDkzNDQy/OTMtNzcyMS5qcGVn.jpeg"
+    - "https://i.discogs.com/IWjUYp2vkZUrlbgccIzau1JZZfCx6mvcRsToBWcHG3Q/rs:fit/g:sm/q:90/h:600/w:464/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMDUx/OTYxLTE2NDkzNDQy/OTMtNzcyMS5qcGVn.jpeg"
     - "https://i.discogs.com/uSTswBBjkj1wqC_Iz0Kt0pXif-T8eeO0bJ-n6RQd_yg/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMDUx/OTYxLTE1ODIwNTkw/NzAtNTY3NS5qcGVn.jpeg"
 genres: ["Rock"]
 styles: ["Progressive Metal", "Sludge Metal"]
@@ -61,6 +61,7 @@ With their customary cross-breeding of rock genres, the Georgians reflect on mor
 - [Mastodon - Sultan's Curse [Official Audio]](https://www.youtube.com/watch?v=Og39iIBeOHI)
 - [Mastodon - Andromeda [Official Audio]](https://www.youtube.com/watch?v=8Ry7FStwey4)
 - [Mastodon - Show Yourself [Official Music Video]](https://www.youtube.com/watch?v=gUGda7GdZPQ)
+- [Mastodon - Steambreather [Official Music Video]](https://www.youtube.com/watch?v=HEubrZV04b0)
 
 ## Release Images
 {{< imageGrid >}}

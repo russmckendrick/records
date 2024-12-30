@@ -42,7 +42,27 @@ styles: ["Leftfield", "Soundtrack", "Techno", "Ambient", "Britpop"]
 
 
 
+## Videos
+### New Order - Temptation (Official Music Video) [HD Upgrade]
+{{< youtube id="xxDv_RTdLQo" title="New Order - Temptation (Official Music Video) [HD Upgrade]" >}}<br>
+### More Videos
 
+- [Primal Scream - Trainspotting](https://www.youtube.com/watch?v=1yRfSPmhihs)
+- [New Order - Temptation (Official Music Video) [HD Upgrade]](https://www.youtube.com/watch?v=xxDv_RTdLQo)
+- [Iggy Pop - Lust For Life](https://www.youtube.com/watch?v=jQvUBf5l7Vw)
+- [Brian Eno - Deep Blue Day (Trainspotting Soundtrack)](https://www.youtube.com/watch?v=GDvTHFwcub4)
+- [Primal Scream - Trainspotting (Official Audio)](https://www.youtube.com/watch?v=ZwnT-GhADBw)
+- [Sleeper - Atomic (Audio)](https://www.youtube.com/watch?v=zaLMFRt9few)
+- [Temptation (7" Version) (2015 Remaster)](https://www.youtube.com/watch?v=BnIlM79JNj8)
+- [Iggy pop-The Idiot-Nightclubbing](https://www.youtube.com/watch?v=G3OaMZojJRg)
+- [Blur - Sing (Official Audio)](https://www.youtube.com/watch?v=zsQ6_9m-iDo)
+- [Lou Reed - Perfect Day (Official Audio)](https://www.youtube.com/watch?v=9wxI4KK9ZYo)
+- [Mile End (From 'Trainspotting' Original Motion Picture Soundtrack)](https://www.youtube.com/watch?v=V5oC5xw9o6s)
+- [Bedrock Feat. KYO - For What You Dream Of](https://www.youtube.com/watch?v=zzHmXaUSL6o)
+- [Elastica - 2:1](https://www.youtube.com/watch?v=HHlypG2kJuc)
+- [Leftfield - A final hit](https://www.youtube.com/watch?v=UcrbKAZff80)
+- [Underworld - Born Slippy [Trainspotting]](https://www.youtube.com/watch?v=6iKFn8dlxX8)
+- [Damon Albarn   Closet Romantic](https://www.youtube.com/watch?v=1z5RAGKp60M)
 
 ## Release Images
 {{< imageGrid >}}

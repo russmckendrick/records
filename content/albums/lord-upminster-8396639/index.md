@@ -16,6 +16,11 @@ genres: ["Electronic", "Reggae", "Funk / Soul"]
 styles: ["New Wave", "Dub", "Disco"]
 ---
 
+Lord Upminster  is the second solo studio album by the English rock and roll singer-songwriter Ian Dury. It was released by Polydor Records in September 1981. 
+It was recorded over a period of one month at Compass Point Studios in Nassau, Bahamas with his old writing partner Chas Jankel and the reggae duo Sly and Robbie. It is also the first Dury album distributed by Polydor. It was his first solo album in four years, since New Boots and Panties!! (1977), and like that album covers a diverse range of musical styles reflecting Dury's influences and background in pub rock, taking in funk, disco, British music hall and early rock and roll, courtesy of Dury's musical hero Gene Vincent.
+Unlike New Boots..., however, the album was received negatively by the majority of music critics, while other reviewers noted good points to the album. It was a commercial disappointment failing to make the Top 40, and the album's only single, "Spasticus Autisticus", failed to chart in the UK.
+    
+    
 
 
 ## Tracklisting
@@ -31,27 +36,18 @@ styles: ["New Wave", "Dub", "Disco"]
 
 
 ## Videos
-### Ian Dury - Red Letter
-{{< youtube id="elL42w6qOdk" title="Ian Dury - Red Letter" >}}<br>
+### Ian Dury - Lord Upminster (Full Album) 1981
+{{< youtube id="7Z2hgwig88c" title="Ian Dury - Lord Upminster (Full Album) 1981" >}}<br>
 ### More Videos
 
-- [Ian Dury - Lord Upminster (Full Album) 1981](https://www.youtube.com/watch?v=7Z2hgwig88c)
-- [Ian Dury - Girls (Watching)](https://www.youtube.com/watch?v=s7Hi_aX_L34)
-- [IAN DURY - Trust (Is A Must) (1981) Disco Funk *Chas Jankel, Sly Dunbar, Robbie Shakespeare](https://www.youtube.com/watch?v=_C0cWQFT8uk)
-- [Ian Dury - Funky Disco Pops](https://www.youtube.com/watch?v=CPUjlF1frlw)
-- [Ian Dury Lonely Town](https://www.youtube.com/watch?v=VsNiI37ITss)
-- [Ian Dury - Spasticus Autisticus](https://www.youtube.com/watch?v=rVoE5FIg5jw)
-- [Ian Dury - The Body Song](https://www.youtube.com/watch?v=_6hpltc0Sl8)
-- [Ian Dury - The (Body Song)](https://www.youtube.com/watch?v=wKC23ciPYmw)
-- [IAN DURY - Girls (Watching) 1981](https://www.youtube.com/watch?v=5CcxpGJaMpA)
-- [Ian Dury - Lonely (Town)](https://www.youtube.com/watch?v=1SJU3N5qHt8)
-- [Ian Dury - Wait (For Me)](https://www.youtube.com/watch?v=EUNnW2jmYBI)
-- [Jan Dury - Funky Disco Pops](https://www.youtube.com/watch?v=uQIJhqxKpiE)
+- [Ian Dury - Funky Disco (Pops)](https://www.youtube.com/watch?v=lKb_PXDfcM8)
+- [Ian Dury - Red (Letter)](https://www.youtube.com/watch?v=iDqy8iGQHA8)
 - [Ian Dury - Girls (Watching)](https://www.youtube.com/watch?v=EgosGoTI-fw)
-- [Ian Dury -- Trust Is a Must (1981) slow version](https://www.youtube.com/watch?v=R8um4UfRUgM)
-- [IAN DURY, Lord Upminster, Spasticus (Autisticus)](https://www.youtube.com/watch?v=h08TWKtbGug)
-- [ian dury   trust is a must](https://www.youtube.com/watch?v=BgwGao1-zmI)
-- [Ian Dury   Lord Upminster   TRUST IS A MUST](https://www.youtube.com/watch?v=kVllPYHD81w)
+- [Ian Dury - Wait (For Me)](https://www.youtube.com/watch?v=EUNnW2jmYBI)
+- [Ian Dury - The (Body Song)](https://www.youtube.com/watch?v=wKC23ciPYmw)
+- [Ian Dury - Lonely (Town)](https://www.youtube.com/watch?v=1SJU3N5qHt8)
+- [Ian Dury - Trust (Is A Must)](https://www.youtube.com/watch?v=SlRxXFRs2zs)
+- [Ian Dury - Spasticus (Autisticus)](https://www.youtube.com/watch?v=0lULlLeMPcY)
 
 ## Release Images
 {{< imageGrid >}}
@@ -59,6 +55,7 @@ styles: ["New Wave", "Dub", "Disco"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
+| Wikipedia URL | https://en.wikipedia.org/wiki/Lord_Upminster |
 | Format         | Vinyl LP Album Reissue Stereo |
 | Label          | Demon Records |
 | Catalog Number | DEMREC58 |

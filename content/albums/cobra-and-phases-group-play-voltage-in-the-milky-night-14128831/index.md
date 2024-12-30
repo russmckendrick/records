@@ -21,6 +21,8 @@ styles: ["Experimental", "Indie Rock", "Post Rock"]
 ---
 
 Cobra and Phases Group Play Voltage in the Milky Night is the sixth studio album by English-French rock band Stereolab. It was released on 21 September 1999 and was issued by Duophonic Records and Elektra Records. The album was largely co-produced by Stereolab, John McEntire, and Jim O'Rourke.
+
+
     
     
 
@@ -64,18 +66,39 @@ Cobra and Phases Group Play Voltage in the Milky Night is the sixth studio album
 
 
 ## Videos
-### Stereolab - The Free Design (Official Video)
-{{< youtube id="FBR6bFZbh6A" title="Stereolab - The Free Design (Official Video)" >}}<br>
+### Fuses
+{{< youtube id="ql903cagPfw" title="Fuses" >}}<br>
 ### More Videos
 
-- [Come And Play In The Milky Night](https://www.youtube.com/watch?v=acai-WmHYXM)
-- [Italian Shoes Continuum](https://www.youtube.com/watch?v=2uYldgJ4l0U)
-- [Galaxidion](https://www.youtube.com/watch?v=W1QXXBMNsgM)
-- [Blue Milk](https://www.youtube.com/watch?v=ia7YA9a4JqM)
-- [Infinity Girl](https://www.youtube.com/watch?v=fjY0UyGze_k)
+- [People Do It All The Time](https://www.youtube.com/watch?v=58uQX694gwY)
+- [The Free Design](https://www.youtube.com/watch?v=s_xxsR9GxLE)
+- [Blips, Drips And Strips](https://www.youtube.com/watch?v=Nk4_enrnuRg)
+- [Italian Shoes Continuum](https://www.youtube.com/watch?v=KKKMMaDSmT0)
+- [Infinity Girl](https://www.youtube.com/watch?v=KnQqORK_i0Q)
+- [The Spiracles](https://www.youtube.com/watch?v=VEII-a2GZaI)
+- [Op Hop Detonation](https://www.youtube.com/watch?v=GHd7kpewepM)
+- [Puncture In The Radak Permutation](https://www.youtube.com/watch?v=BaxIpUU0GVg)
+- [Velvet Water](https://www.youtube.com/watch?v=rRExTqCBv_0)
+- [Blue Milk](https://www.youtube.com/watch?v=Eswwc2Y1jnA)
+- [Caleidoscopic Gaze](https://www.youtube.com/watch?v=lOR61RniyN4)
+- [Strobo Acceleration](https://www.youtube.com/watch?v=CWb0JU5wft8)
+- [The Emergency Kisses](https://www.youtube.com/watch?v=EOvmdPaRcxA)
+- [Come Andy Play In The Milky Night](https://www.youtube.com/watch?v=rBxHWqxJ2ZM)
+- [Stereolab - The Free Design (Official Video)](https://www.youtube.com/watch?v=FBR6bFZbh6A)
+- [Velvet Water](https://www.youtube.com/watch?v=rRExTqCBv_0)
+- [Strobo Acceleration](https://www.youtube.com/watch?v=CWb0JU5wft8)
+- [Fuses](https://www.youtube.com/watch?v=SyfbeE25SsU)
+- [People Do It All The Time](https://www.youtube.com/watch?v=ZULwUDF5WSM)
 - [Blips Drips And Strips](https://www.youtube.com/watch?v=GIbxZmXUUcM)
-- [Caleidoscopic Gaze](https://www.youtube.com/watch?v=jTS6Mu2guiI)
+- [Italian Shoes Continuum](https://www.youtube.com/watch?v=2uYldgJ4l0U)
+- [Infinity Girl](https://www.youtube.com/watch?v=fjY0UyGze_k)
 - [The Spiracles](https://www.youtube.com/watch?v=lbW9w7Oo6vs)
+- [Op Hop Detonation](https://www.youtube.com/watch?v=OX7b99xI1Y4)
+- [Puncture In The Radax Permutation](https://www.youtube.com/watch?v=j_UBXSHcp44)
+- [Blue Milk](https://www.youtube.com/watch?v=ia7YA9a4JqM)
+- [Caleidoscopic Gaze](https://www.youtube.com/watch?v=jTS6Mu2guiI)
+- [The Emergency Kisses](https://www.youtube.com/watch?v=rdGnPxLq5sA)
+- [Come And Play In The Milky Night](https://www.youtube.com/watch?v=acai-WmHYXM)
 
 ## Release Images
 {{< imageGrid >}}

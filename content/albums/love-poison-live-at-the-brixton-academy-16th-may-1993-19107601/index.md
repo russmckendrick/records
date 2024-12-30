@@ -13,9 +13,9 @@ cover:
     caption: "Love & Poison (Live At The Brixton Academy, 16th May 1993) by Suede"
 additional_images:
     - "https://i.discogs.com/9oU0BVRgOSJ1zjM_aqn1d7lYgEt1doDh6tSuOtK6om0/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MTA3/NjAxLTE2MjM1MzUx/MjEtODkyNi5qcGVn.jpeg"
-    - "https://i.discogs.com/BMB8_0u2f46DL5V2W_fY2meM0HJtFo8G2Iv4wJ2hFWY/rs:fit/g:sm/q:90/h:609/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MTA3/NjAxLTE2MjM0NTMz/MTQtMTc0MC5qcGVn.jpeg"
-    - "https://i.discogs.com/IvNI4AGxkGnpe5i5LoOZ8yEwKkykm3IUrgjYjm5kyjs/rs:fit/g:sm/q:90/h:845/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MTA3/NjAxLTE2MjM0NTMz/MDAtNjc3OC5qcGVn.jpeg"
-    - "https://i.discogs.com/oaVr4egZVlevKwANaqNTX7whVtbp1zyue_ej6MQpVQA/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MTA3/NjAxLTE2MjM1NzYx/NDAtNzIwMy5qcGVn.jpeg"
+    - "https://i.discogs.com/vL_l1Tox5ddZrsyMFCSyn5KqHw-i-qbTF9nBq5iA-_E/rs:fit/g:sm/q:90/h:600/w:590/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MTA3/NjAxLTE2MjM0NTMz/MTQtMTc0MC5qcGVn.jpeg"
+    - "https://i.discogs.com/AQ6WwjiLYyYXwrZ1JVLV6jXVLmmh7IujNRC9lE1TSr8/rs:fit/g:sm/q:90/h:600/w:425/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MTA3/NjAxLTE2MjM0NTMz/MDAtNjc3OC5qcGVn.jpeg"
+    - "https://i.discogs.com/OSd1kumAh0Sk3vtE8iUmKEOY0Vkp0blrmydAg1wqw4E/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MTA3/NjAxLTE2MjM1NzYx/NDAtNzIwMy5qcGVn.jpeg"
     - "https://i.discogs.com/_FTEneS3ryPyIWG9MK91jJY7FMlTHlgToadTlzfHNO8/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MTA3/NjAxLTE2MjM1NzYx/NDEtMTg2Mi5qcGVn.jpeg"
     - "https://i.discogs.com/05flb4tI82XUw3QFTDOMTd6Tkgy2Zy5rUHLjzH8SGUI/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MTA3/NjAxLTE2MjM1NzYx/NDAtMzIxNy5qcGVn.jpeg"
     - "https://i.discogs.com/fScNdOqHWpr3KI8QF_DcvxDujJaUF3m8GfuOU8pHex4/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MTA3/NjAxLTE2MjM1NzYx/MzEtOTAwMC5qcGVn.jpeg"
@@ -49,12 +49,19 @@ styles: ["Alternative Rock", "Pop Rock", "Indie Rock", "Britpop"]
 
 
 ## Videos
-### 🔴Suede ‎– Complete A Side [ Love & Poison (Live At The Brixton Academy, 16th May 1993) RSD 2021 UK ]
-{{< youtube id="fNCogNik9n0" title="🔴Suede ‎– Complete A Side [ Love & Poison (Live At The Brixton Academy, 16th May 1993) RSD 2021 UK ]" >}}<br>
+### Suede - Love & Poison (Remastered)
+{{< youtube id="6AHGc1fDWDk" title="Suede - Love & Poison (Remastered)" >}}<br>
 ### More Videos
 
-- [🔴Suede ‎– Complete B Side [ Love & Poison (Live At The Brixton Academy, 16th May 1993) RSD 2021 UK ]](https://www.youtube.com/watch?v=HZP5yePt6oY)
-- [🔴Suede ‎– Complete C Side [ Love & Poison (Live At The Brixton Academy, 16th May 1993) RSD 2021 UK ]](https://www.youtube.com/watch?v=1z2ysPUqirE)
+- [Intro / The Next Life (Live at The Brixton Academy, 16th May, 1993)](https://www.youtube.com/watch?v=kDIOpWoUMlE)
+- [Moving  (Live at The Brixton Academy, 16th May, 1993)](https://www.youtube.com/watch?v=pF66i4as4Ws)
+- [Animal Nitrate  (Live at The Brixton Academy, 16th May, 1993)](https://www.youtube.com/watch?v=VNhATttTBH8)
+- [My Insatiable One (Live at The Brixton Academy, 16th May, 1993)](https://www.youtube.com/watch?v=k8-xe7UNYes)
+- [The Drowners (Live at The Brixton Academy, 16th May, 1993)](https://www.youtube.com/watch?v=Srb9dISe2Rc)
+- [She's Not Dead (Live at The Brixton Academy, 16th May, 1993)](https://www.youtube.com/watch?v=yMgqF2Waf0g)
+- [To The Birds (Live at The Brixton Academy, 16th May, 1993)](https://www.youtube.com/watch?v=JwEiBMO0CFM)
+- [Sleeping Pills (Live at The Brixton Academy, 16th May, 1993)](https://www.youtube.com/watch?v=3LGa0Si-m7E)
+- [So Young (Live at The Brixton Academy, 16th May, 1993)](https://www.youtube.com/watch?v=QV-OLXr-PRo)
 
 ## Release Images
 {{< imageGrid >}}

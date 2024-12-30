@@ -27,8 +27,11 @@ genres: ["Rock", "Folk, World, & Country"]
 styles: []
 ---
 
-Global a Go-Go is the second album by Joe Strummer and The Mescaleros, displaying trademark genre-melding folk-rock and Strummer's unique lyrical style.  As the title suggests, there are world music influences on the album, mostly on the title track and "Bhindi Bhagee", a celebration of the "humble" but diverse and exciting ethnic and multi-cultural areas of London and other major cities.  The album is heavy on acoustic instruments, especially in the instrumental "Minstrel Boy", a nearly 18-minute-long arrangement of a traditional Irish song.  Other topics covered include Strummer's radio show, which was broadcast on the BBC World Service (Global a Go-Go) and left-wing political issues Strummer was well known for expounding as a member of The Clash.  The album was well received by critics and fans, making much more of an impact than the group's previous effort Rock Art and the X-Ray Style.  The title track, "Global A Go-Go", features backing vocals from longtime friend of Strummer, Roger Daltrey. Pete Townshend is also rumoured to be buried in the mix of "Minstrel Boy", but this has never been positively confirmed.  The cover-art for the album was designed by Josh Shoes and Strummer.The lead track and album's only single, "Johnny Appleseed" was the opening theme to the HBO show John from Cincinnati. A music video for the song was also filmed. A different version of "Minstrel Boy" was used as the closing track on the Ridley Scott film Black Hawk Down. This film version, which can also be found on the soundtrack, is significantly shorter and does feature the actual lyrics to the song.  The "Minstrel Boy" track is also known as the "Worldcom Dirge" after being featured in a commercial by the soon-to be-bankrupt telecommunications company.  Likewise, "Mondo Bongo" is featured in the Doug Liman film Mr. & Mrs. Smith. In Orphan Black, lines from "Bummed Out City" are recited at Sarah Manning's funeral as her eulogy.
+Global a Go-Go is the second album by Joe Strummer and The Mescaleros, released on 24 July 2001. As the title suggests, there are world music influences on the album, mostly on the title track and "Bhindi Bhagee", a celebration of the "humble" but diverse and exciting ethnic and multi-cultural areas of London and other major cities.  The album is heavy on acoustic instruments, especially in the instrumental "Minstrel Boy", a nearly 18-minute-long arrangement of a traditional Irish song.  Other topics covered include Strummer's radio show, which was broadcast on the BBC World Service (Global a Go-Go) and left-wing political issues Strummer was well known for expounding as a member of The Clash.  The album was well received by critics and fans, making much more of an impact than the group's previous effort Rock Art and the X-Ray Style.  The title track, "Global A Go-Go", features backing vocals from longtime friend of Strummer, Roger Daltrey. Pete Townshend is also rumoured to be buried in the mix of "Minstrel Boy", but this has never been positively confirmed.  The cover-art for the album was designed by Josh Shoes and Strummer.
+The lead track and album's only single, "Johnny Appleseed" was the opening theme to the HBO show John from Cincinnati. A music video for the song was also filmed. A different version of "Minstrel Boy" was used as the closing track on the Ridley Scott film Black Hawk Down. This film version, which can also be found on the soundtrack, is significantly shorter and does feature the actual lyrics to the song.  The "Minstrel Boy" track is also known as the "Worldcom Dirge" after being featured in a commercial by the soon-to be-bankrupt telecommunications company.  Likewise, "Mondo Bongo" is featured in the Doug Liman film Mr. & Mrs. Smith. In Orphan Black, lines from "Bummed Out City" are recited at Sarah Manning's funeral as her eulogy.
 A remastered version of the album along with Strummer's other two Hellcat released albums was released as a special 57 song digital download titled Joe Strummer & The Mescaleros: The Hellcat Years on 21 August 2012 to celebrate what would have been Strummer's 60th birthday. Hellcat will also release each remastered album individually on CD and vinyl on 25 September 2012.
+
+
     
     
 
@@ -59,7 +62,7 @@ A remastered version of the album along with Strummer's other two Hellcat releas
 23. Bhindi Bhagee (Live From The Action Concert) (5:58)
 
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/global-a-go-go/1493855775" >}}<br>
+{{< applemusic url="https://music.apple.com/gb/album/joe-strummer-002-the-mescaleros-years/1639499091" >}}<br>
 
 
 ## Videos
@@ -67,10 +70,10 @@ A remastered version of the album along with Strummer's other two Hellcat releas
 {{< youtube id="nmyKLpVM98Q" title="Joe Strummer & the Mescaleros - Global A Go-Go" >}}<br>
 ### More Videos
 
+- [Joe Strummer "Johnny Appleseed"](https://www.youtube.com/watch?v=9pYwPc6UNmo)
 - [Joe Strummer & The Mescaleros - Mondo Bongo](https://www.youtube.com/watch?v=_B9OaJIFumg)
-- [Joe Strummer Johnny Appleseed](https://www.youtube.com/watch?v=9pYwPc6UNmo)
-- [Joe Strummer & The Mescaleros - Cool 'n' Out](https://www.youtube.com/watch?v=RDDo1csGyrk)
 - [Joe Strummer & the Mescaleros - Mega Bottle Ride](https://www.youtube.com/watch?v=PJs2R-DWEMo)
+- [Joe Strummer & The Mescaleros - Cool 'n' Out](https://www.youtube.com/watch?v=RDDo1csGyrk)
 
 ## Release Images
 {{< imageGrid >}}

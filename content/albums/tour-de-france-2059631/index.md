@@ -26,8 +26,10 @@ genres: ["Electronic"]
 styles: ["House", "Techno", "Electro", "Synth-pop"]
 ---
 
-Tour de France Soundtracks (renamed to Tour de France for its remastered release) is the eleventh studio album by German electronic music band Kraftwerk. It was first released on 4 August 2003, through Kling Klang and EMI in Europe and Astralwerks in North America. The album was recorded for the 100th anniversary of the first Tour de France bicycle race, although it missed its intended release date for the actual tour. It includes a new recording of their 1983 song of the same name, the cover artwork of both releases being nearly identical. The announcement of the release caused much anticipation, as it had been 17 years since the group had put out a full album of new studio material (1986's Electric Café, also known as Techno Pop). It is also the last studio album to feature Florian Schneider before his departure from the band in 2008 and his death on 21 April 2020.
+Tour de France Soundtracks (renamed to Tour de France for its remastered release) is the eleventh and final studio album by German electronic music band Kraftwerk. It was first released on 4 August 2003, through Kling Klang and EMI in Europe and Astralwerks in North America. The album was recorded for the 100th anniversary of the first Tour de France bicycle race, although it missed its intended release date for the actual tour. It includes a new recording of their 1983 song of the same name, the cover artwork of both releases being nearly identical. The announcement of the release caused much anticipation, as it had been 17 years since the group had put out a full album of new studio material (1986's Electric Café, also known as Techno Pop). It is also the last studio album to feature Florian Schneider before his departure from the band in 2008 and his death on 21 April 2020.
 The album received positive reviews from critics and was a commercial success. It reached No. 1 in Germany, the top 40 in the UK, as well as No. 3 in the US dance charts.
+
+
     
     
 
@@ -47,10 +49,22 @@ The album received positive reviews from critics and was a commercial success. I
 12. Tour De France (5:11)
 
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/tour-de-france-remastered/726341054" >}}<br>
+{{< applemusic url="https://music.apple.com/gb/album/tour-de-france-single/1696505507" >}}<br>
 
 
+## Videos
+### Kraftwerk - Tour De France - Prologue + Tour De France Étape 1+2+3 + Chrono HD
+{{< youtube id="ZC_anEzaBVs" title="Kraftwerk - Tour De France - Prologue + Tour De France Étape 1+2+3 + Chrono HD" >}}<br>
+### More Videos
 
+- [Kraftwerk - (Minimum Maximum) Tour de France étape 2](https://www.youtube.com/watch?v=gUzQtSLu_zI)
+- [Kraftwerk - Tour De France 3D (Full Album)](https://www.youtube.com/watch?v=tJPnyjuE3II)
+- [Tour de France (Live)](https://www.youtube.com/watch?v=ztFajwxbhZo)
+- [KRAFTWERK - Aéro Dynamik (Paris Nice 2002 - Prologue) (2003)](https://www.youtube.com/watch?v=kHkzQiDenZM)
+- [Kraftwerk - Tour De France - Prologue + Tour De France Étape 1+2+3 + Chrono HD](https://www.youtube.com/watch?v=ZC_anEzaBVs)
+- [Kraftwerk - (Minimum Maximum) Tour de France étape 2](https://www.youtube.com/watch?v=gUzQtSLu_zI)
+- [Kraftwerk - Tour De France 3D (Full Album)](https://www.youtube.com/watch?v=tJPnyjuE3II)
+- [Tour de France (Live)](https://www.youtube.com/watch?v=ztFajwxbhZo)
 
 ## Release Images
 {{< imageGrid >}}
@@ -59,7 +73,7 @@ The album received positive reviews from critics and was a commercial success. I
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Tour_de_France_Soundtracks |
-| Format         | Vinyl 2× LP Album Reissue Remastered |
+| Format         | Vinyl 2× LP Album Reissue Remastered (180 g) |
 | Label          | Kling Klang |
 | Catalog Number | 50999 9 66109 1 6 |
 | Notes | Remastered 2009 release of the 2003 album called "Tour De France Soundtracks". Comes with a 30x30 cm 20-page photo booklet.  Kling Klang Produkt 2003 Made in the EU Printed in Germany |

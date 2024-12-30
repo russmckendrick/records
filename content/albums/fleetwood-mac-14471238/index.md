@@ -4,7 +4,7 @@ artist_name: "Fleetwood Mac"
 artist: "fleetwood-mac"
 album_name: "Fleetwood Mac"
 date: 2019-12-02T09:34:05.000000Z
-release_date: "2002-10-12"
+release_date: "1975-07-11"
 release_id: "14471238"
 slug: "fleetwood-mac-14471238"
 hideSummary: true
@@ -15,9 +15,9 @@ cover:
 additional_images:
     - "https://i.discogs.com/x6ZQm4fUaKyKKqqGwImSvGjZWaTUu09u8o4EnLd6uaE/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NDcx/MjM4LTE1ODg4NzU4/NjktMzM2NS5qcGVn.jpeg"
     - "https://i.discogs.com/IXInlnHbtV79sU9xm3AS8gzfWTOlnClu9VKWmBq4hL4/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NDcx/MjM4LTE1ODg4NzU4/NzEtMzU1MS5qcGVn.jpeg"
-    - "https://i.discogs.com/sxxwfW7MOuKXhHYhYfwnARVPnu7RxK6L-NHrh_OipQY/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NDcx/MjM4LTE1ODg4NzU4/NzEtNTcyMS5qcGVn.jpeg"
-    - "https://i.discogs.com/xaysWOKP2lxXy4sJVOyLOyLibfNM0oSi2Ts7Hj0w6VM/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NDcx/MjM4LTE1ODg4NzU4/NzEtMzI2OC5qcGVn.jpeg"
-    - "https://i.discogs.com/bLi3floVSjUdts-T7NW0ww2Dm6gKMQPkdHGGclbYPLI/rs:fit/g:sm/q:90/h:602/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NDcx/MjM4LTE1ODg4NzU4/NjktNjI2OC5qcGVn.jpeg"
+    - "https://i.discogs.com/g8OAwYKj0cmtrKdy7EH5GB9ToOicezLoAC8dZDOwbEc/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NDcx/MjM4LTE1ODg4NzU4/NzEtNTcyMS5qcGVn.jpeg"
+    - "https://i.discogs.com/oUqGQhn90wSAvOiXDiff-pk7xgPBMoBklSKeaqmmMlU/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NDcx/MjM4LTE1ODg4NzU4/NzEtMzI2OC5qcGVn.jpeg"
+    - "https://i.discogs.com/HDrQqhpkPBIgCq11yUIJZTVwhtJh72vxDobtCnlPti8/rs:fit/g:sm/q:90/h:600/w:597/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NDcx/MjM4LTE1ODg4NzU4/NjktNjI2OC5qcGVn.jpeg"
     - "https://i.discogs.com/LX5xyLHZzYRao-iGj8u0k1g7d3oRNGLtUYCyWV265Hw/rs:fit/g:sm/q:90/h:589/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NDcx/MjM4LTE1ODg4NzU4/NzEtMjIxMi5qcGVn.jpeg"
     - "https://i.discogs.com/f9S5IUX3YOAhxYfuHl7J42pcN3lgqJGONvU5AVkQcu4/rs:fit/g:sm/q:90/h:589/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NDcx/MjM4LTE1ODg4NzU4/NzEtNjM5MC5qcGVn.jpeg"
     - "https://i.discogs.com/fC4D-KywiseG_yCweSKeFeY4v7eYkmXiRxMLBNiyyeQ/rs:fit/g:sm/q:90/h:594/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NDcx/MjM4LTE1ODg4NzU4/NzAtNjQ5Ni5qcGVn.jpeg"
@@ -25,7 +25,11 @@ genres: ["Rock"]
 styles: ["Pop Rock"]
 ---
 
-"Landslide" is a song written by Stevie Nicks and performed by British-American rock band Fleetwood Mac. The song was first featured on the band's self-titled album Fleetwood Mac (1975). The original recording also appears on the compilation albums 25 Years – The Chain (1992) and The Very Best of Fleetwood Mac (2002), while a live version was released as a single 23 years later from the live reunion album The Dance (1997). "Landslide" reached No. 51 on the US Billboard Hot 100 chart and No. 10 on the Adult Contemporary chart. "Landslide" was certified Gold in October 2009 for sales of over 500,000 copies in the United States. According to Nielsen Soundscan, "Landslide" sold 2,093,186 copies in the United States as of 2017.In 2021, the song was listed at No. 163 on Rolling Stone's "500 Greatest Songs of All Time".
+When Mick Fleetwood walked into Sound City studios in 1974, he wasn’t just looking for a place to record, he was looking for a place to start over. The band had lost four vocalists in as many years, and were on the wane both critically and commercially. So when producer Ken Olsen played Fleetwood an album by a middling folk-rock duo called Buckingham Nicks (just to test the sound), and Fleetwood liked the guitar playing, he figured, why not? Even when Buckingham said he and Nicks were a package deal, Fleetwood was unfazed: After all, they’d met, gotten along, and figured it might be interesting to have two female singer-songwriters in a band, not to mention two couples.
+
+Why does <i>Fleetwood Mac</i> work so well? Balance. Fleetwood and John McVie—the band’s rhythm section—came from blues, but never quite crossed the threshold into hard rock, and they took to their new pop material without friction. Buckingham the chippy perfectionist (“Monday Morning”) is a foil for Nicks the mystic (“Rhiannon”), and Nicks the West Coast Earth mama (“Landslide”) a foil for Christine McVie the sophisticate (“Warm Ways”). Together they resolve the oxymoron not just of ”soft rock”, but of “folk pop”, creating, as though through spontaneous combustion, a sound commercial enough to sell millions, and personal enough to make those millions feel like the music is whispering something secret about their own lives.
+
+On being reminded by John McVie that they were supposed to be a blues band, Olsen famously assured him that what they were doing now was a much faster way to the bank. But the beauty of the album’s creation is that nobody in the band seemed to expect it, and everyone shared in it equally. As Mick Fleetwood later put it, Buckingham Nicks didn’t join Fleetwood Mac—the two bands became one.
         
         
     
@@ -45,12 +49,9 @@ styles: ["Pop Rock"]
 11. I'm So Afraid (4:15)
 
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/the-very-best-of-fleetwood-mac-remastered/986496155" >}}<br>
+{{< applemusic url="https://music.apple.com/gb/album/fleetwood-mac/309646617" >}}<br>
 
 
-## Videos
-### Fleetwood Mac - Fleetwood Mac (Full Album) [1975]
-{{< youtube id="qs-hn1y7T7c" title="Fleetwood Mac - Fleetwood Mac (Full Album) [1975]" >}}<br>
 
 
 ## Release Images
@@ -59,7 +60,7 @@ styles: ["Pop Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Wikipedia URL | https://en.wikipedia.org/wiki/Landslide_(Fleetwood_Mac_song) |
+| Wikipedia URL | https://en.wikipedia.org/wiki/Fleetwood_Mac_(1975_album) |
 | Format         | Vinyl LP Album Reissue Stereo (White) |
 | Label          | Reprise Records |
 | Catalog Number | RCV1 2281 |

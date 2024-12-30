@@ -14,17 +14,17 @@ cover:
     caption: "Central Belters by Mogwai"
 additional_images:
     - "https://i.discogs.com/fuxgcAguJrjZSH889nJShz4oZkR95qD80YMlCDTD3PY/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc2MzE3/MzAtMTQ0NTUzNzM5/MC0zMjQ5LmpwZWc.jpeg"
-    - "https://i.discogs.com/HI6WgGl4W2_CBI_i0CGxvnJ5i-aFFmWeJ7Jx98yjVAM/rs:fit/g:sm/q:90/h:601/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc2MzE3/MzAtMTQ0NTc4ODI0/MS01ODQ1LmpwZWc.jpeg"
-    - "https://i.discogs.com/cO1ajZZ0t0z6BT6dNpSXwmgmmY4fulkHxizltSb7lbA/rs:fit/g:sm/q:90/h:602/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc2MzE3/MzAtMTQ0NTc4ODIz/NC03OTQ4LmpwZWc.jpeg"
-    - "https://i.discogs.com/YwoY_WPfZs3IrLwg7rwVNk-IOLoaghi3O0l4t2pmilw/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc2MzE3/MzAtMTQ0NTc4ODIz/My0zNTg3LmpwZWc.jpeg"
+    - "https://i.discogs.com/3JyRlTyy_jGCe2fnNO7MA8SFTX8Xnw3W3rnF5gxvFis/rs:fit/g:sm/q:90/h:600/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc2MzE3/MzAtMTQ0NTc4ODI0/MS01ODQ1LmpwZWc.jpeg"
+    - "https://i.discogs.com/x-r14ZSmJRfuPhVRss2l6INIHhEGHlwfhnv69PdwwAQ/rs:fit/g:sm/q:90/h:600/w:597/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc2MzE3/MzAtMTQ0NTc4ODIz/NC03OTQ4LmpwZWc.jpeg"
+    - "https://i.discogs.com/fzwyde8eIVtKlEbPo0UcWYHz57i4SXo42wrPE09QF6M/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc2MzE3/MzAtMTQ0NTc4ODIz/My0zNTg3LmpwZWc.jpeg"
     - "https://i.discogs.com/Wy8I2Vj1nv8_mWX01eKza4iS8MuvvxL5xxAJl5XrBfc/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc2MzE3/MzAtMTQ0NTc4ODI0/MS04NTAwLmpwZWc.jpeg"
     - "https://i.discogs.com/lLNHHdpqhKHtd1RAq2JefqQoxgD5m2tTx10fA3uvJFw/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc2MzE3/MzAtMTQ0NTc4ODIz/Ny0zNDk4LmpwZWc.jpeg"
-    - "https://i.discogs.com/IivDbBhabzQKid4Vx3z-U3QE8z_P-ThXMHKll00WuvA/rs:fit/g:sm/q:90/h:601/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc2MzE3/MzAtMTQ0NTc4ODIz/Ny02OTg5LmpwZWc.jpeg"
-    - "https://i.discogs.com/zPwanKhCKtj_cEin6DJeWRsGNYtQW4DTDxUpJHJ5zPg/rs:fit/g:sm/q:90/h:601/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc2MzE3/MzAtMTQ0NTc4ODIz/NC01NTE4LmpwZWc.jpeg"
+    - "https://i.discogs.com/WbOnhENGFHNCOX5rBqIVFIZtc5LI50mI8ZGIKiwAknY/rs:fit/g:sm/q:90/h:600/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc2MzE3/MzAtMTQ0NTc4ODIz/Ny02OTg5LmpwZWc.jpeg"
+    - "https://i.discogs.com/BzD90TAV4c8aekQ1GCFSM5Su7WhOCnvLc35H73F_Lgw/rs:fit/g:sm/q:90/h:600/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc2MzE3/MzAtMTQ0NTc4ODIz/NC01NTE4LmpwZWc.jpeg"
     - "https://i.discogs.com/LRgLVPQbjhUwJspQmSNLpX9fTpgbjOB7yg8rSPtj17s/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc2MzE3/MzAtMTQ0NTc4ODI0/Ni05OTU1LmpwZWc.jpeg"
     - "https://i.discogs.com/4cq2RifFkDAdH9p37RzxZ7oD12IoCp3oF0rv0TiHIRg/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc2MzE3/MzAtMTQ0NTc4ODIz/NS03ODA4LmpwZWc.jpeg"
     - "https://i.discogs.com/RULWf7p3VxBjPf15P58S-_6sc_q0pRxvvOGBucphIJ0/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc2MzE3/MzAtMTQ0NTc4ODI0/Mi0zNDU0LmpwZWc.jpeg"
-    - "https://i.discogs.com/ekUJJ1KAXiFdAeB_3mHSA56kbjkaf6IjmKfVzAldJTo/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc2MzE3/MzAtMTQ0NTc4ODI0/MC0xMjg0LmpwZWc.jpeg"
+    - "https://i.discogs.com/Ny2WSXP25Ga5vFgcUYYue_bMS37ndnhODuC0ANHTQ88/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc2MzE3/MzAtMTQ0NTc4ODI0/MC0xMjg0LmpwZWc.jpeg"
     - "https://i.discogs.com/N72wJkUCZNs4_XzrJHUaJo6QcLucXoPfRaoqloQi0qI/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc2MzE3/MzAtMTQ0NTc4ODI0/Mi0yMTk0LmpwZWc.jpeg"
     - "https://i.discogs.com/aJccGygHUbb_1gBBpTD9bfZZ47N-R4DwTRWn5hYjWcg/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc2MzE3/MzAtMTQ0NTc4ODI0/OC0yNDM4LmpwZWc.jpeg"
     - "https://i.discogs.com/0HSvZFD7G9tQFrilH59R-UX9lar-pyUkz4S9PMxH-bE/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc2MzE3/MzAtMTQ0NTc4ODIz/OC0zNDM2LmpwZWc.jpeg"
@@ -38,18 +38,18 @@ additional_images:
     - "https://i.discogs.com/TbbkFU7xH3nC9M4q615Z2u5Z09XB2dZxlvzx2QATaz4/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc2MzE3/MzAtMTQ0NTc4ODI0/Ny0yMDA1LmpwZWc.jpeg"
     - "https://i.discogs.com/Qzz7yIWcC37IKs6ShKAnRXK0OMkYjqd1x5BIRKJlctM/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc2MzE3/MzAtMTQ0NTc4ODI0/Ny03NDg5LmpwZWc.jpeg"
     - "https://i.discogs.com/GqIaGHD5jrU5XenuU6dQM63pJWgWzrH9HWXMb_gxjB8/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc2MzE3/MzAtMTQ0NTc4ODI0/Ny0zMzYyLmpwZWc.jpeg"
-    - "https://i.discogs.com/ajwIYWwIv7uV4_yjFDMWyzp_LbQHxBX1OVoqBkCNFqE/rs:fit/g:sm/q:90/h:607/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc2MzE3/MzAtMTQ0NTc4ODQ5/NS01NzE4LmpwZWc.jpeg"
-    - "https://i.discogs.com/hcF3g307VrkSpg6cfm-4o2F4vDsJj-lZBhgyNbXbmgI/rs:fit/g:sm/q:90/h:607/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc2MzE3/MzAtMTQ0NTc4ODIz/OC01NjA5LmpwZWc.jpeg"
+    - "https://i.discogs.com/akJVY4o5DvE8W4fpFSvyRoor2XqUs4hvZs5CIFFbxcM/rs:fit/g:sm/q:90/h:600/w:592/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc2MzE3/MzAtMTQ0NTc4ODQ5/NS01NzE4LmpwZWc.jpeg"
+    - "https://i.discogs.com/hszyyxs99v6HpN08Uue93dAwxMOivEoVXMU-qdSAfqE/rs:fit/g:sm/q:90/h:600/w:592/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc2MzE3/MzAtMTQ0NTc4ODIz/OC01NjA5LmpwZWc.jpeg"
     - "https://i.discogs.com/vXQapj805Z1YruJS6--QtAVg_rzyMzw-EAfrouSWkWk/rs:fit/g:sm/q:90/h:336/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc2MzE3/MzAtMTUxMTM2NTg4/Ni05NTc5LmpwZWc.jpeg"
     - "https://i.discogs.com/M_KMJBKn2ZZImIGI_D8MsYO7Wze61EpGHfYymz5DjJg/rs:fit/g:sm/q:90/h:336/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc2MzE3/MzAtMTUxMTM2NTg4/Ny01ODg1LmpwZWc.jpeg"
     - "https://i.discogs.com/LJ1mafRd3CuyBllP16mcI4bkTjj0IazpD9FZzDmzelY/rs:fit/g:sm/q:90/h:336/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc2MzE3/MzAtMTUxMTM2NTg4/Ni05NjExLmpwZWc.jpeg"
-    - "https://i.discogs.com/Itipmiv-F7xr8DZpYhGeDJzHJdJbuq0718d4uNG2cas/rs:fit/g:sm/q:90/h:615/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc2MzE3/MzAtMTQ0NjQxNTYy/OC0xNjQ4LmpwZWc.jpeg"
+    - "https://i.discogs.com/8nA5kCiym7tcnK6Kn5FXbhR1nxkUYJnH5tJmkXF25Zo/rs:fit/g:sm/q:90/h:600/w:584/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc2MzE3/MzAtMTQ0NjQxNTYy/OC0xNjQ4LmpwZWc.jpeg"
     - "https://i.discogs.com/hJ3iv3nIcsWXHb2fx2v5NL8OeGMmMKV2bZsSK1l9nug/rs:fit/g:sm/q:90/h:280/w:300/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc2MzE3/MzAtMTQ0NjM3MDg0/NC05MDA0LmpwZWc.jpeg"
 genres: ["Electronic", "Rock"]
 styles: ["Post Rock"]
 ---
 
-Glasgow’s Mogwai has never done anything in a small way. Their towering post-rock is rife with gorgeous, swelling crescendos (“Helicon 1”), frenetic, calculated explosions (“Mogwai Fear Satan”), and vast depths of emotion (“Devil Rides”). The career-spanning compilation <i>Central Belters</i> reflects the band’s preference for the monumental, packing in nearly four hours of highlights. It’s a long, tempestuous ride, but the heart-stopping (and tear duct-filling) drama doesn’t relent for a second.
+Glasgow’s Mogwai have never done anything in a small way. Their towering post-rock is rife with gorgeous, swelling crescendos (“Helicon 1”), frenetic, calculated explosions (“Mogwai Fear Satan”) and vast depths of emotion (“Devil Rides”). The career-spanning compilation <i>Central Belters</i> reflects the band’s preference for the monumental, packing in nearly four hours of highlights. It’s a long, tempestuous ride, but the heart-stopping (and tear duct-filling) drama doesn’t relent for a second.
         
         
     

@@ -13,12 +13,12 @@ cover:
     alt: "Kids In The Street by Justin Townes Earle"
     caption: "Kids In The Street by Justin Townes Earle"
 additional_images:
-    - "https://i.discogs.com/1ARvm8gld_c-nJbr2lFCA40wMkcXuckuICWmMS1L7ic/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMzY2/NjUzLTE0OTg3Nzk4/NDYtNjExMS5qcGVn.jpeg"
-    - "https://i.discogs.com/SPEnjybW5bgBlhk1l1YYDxKBmxS5Ptq0eAciAEVU42Q/rs:fit/g:sm/q:90/h:591/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMzY2/NjUzLTE0OTg3Nzk4/NDUtNzQ2OS5qcGVn.jpeg"
-    - "https://i.discogs.com/f2hsxutyUzja3sYd8OgtxvGL_r7nYy3D-55lCu_tecY/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMzY2/NjUzLTE1MDUyOTQx/ODAtMTAzMC5qcGVn.jpeg"
-    - "https://i.discogs.com/T_YAPn8hpZ7itjez2EQaomCDT5FM0KLuDM0u8LvhwXI/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMzY2/NjUzLTE1MDUyOTQx/NzktMjIxNC5qcGVn.jpeg"
-    - "https://i.discogs.com/W_bFQeEwTsYgTxjD9uEWIcjUAB6xtvb_Ijr7BZ74Cqw/rs:fit/g:sm/q:90/h:593/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMzY2/NjUzLTE0OTg3Nzk4/NDUtMzEzMi5qcGVn.jpeg"
-    - "https://i.discogs.com/h3xfCKJ-5JgMg8QgOF6dRJrc0LtLtLA09sQCTkeaQAE/rs:fit/g:sm/q:90/h:585/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMzY2/NjUzLTE0OTg3Nzk4/NDYtNTM2NC5qcGVn.jpeg"
+    - "https://i.discogs.com/9IcJPt_lJJ2YvbgTTWK7qEnBc3IivXQuE-n8BHXMFHQ/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMzY2/NjUzLTE3Mjg5MzYx/MDUtMTcxNS5qcGVn.jpeg"
+    - "https://i.discogs.com/9WTu3AArRMTkrq_nIOmLvXzZ-leVktLyVBOQVtTaGVc/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMzY2/NjUzLTE3Mjg5MzYx/MDctNDA2Mi5qcGVn.jpeg"
+    - "https://i.discogs.com/2R-fX_otKnd65-Zw8863PV0BqRdfsMJqF7N2E9Lolyo/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMzY2/NjUzLTE3Mjg5MzYx/MDYtMTI5OS5qcGVn.jpeg"
+    - "https://i.discogs.com/5jwWVslf9gkY67M7hBMNyubyQme9Jc73nIH5hDP1RLw/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMzY2/NjUzLTE3Mjg5MzYx/MDgtMTMxNS5qcGVn.jpeg"
+    - "https://i.discogs.com/Z7JifpafHYbrZQj-mnEaEr0yse7rqrKnFFyYsQx769E/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMzY2/NjUzLTE3Mjg5MzYx/MDUtMTM3Ny5qcGVn.jpeg"
+    - "https://i.discogs.com/9GgQ3xs_SKOdLpbVv3ntxKZPgDeFvSuyjM5WDcdlmuo/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMzY2/NjUzLTE3Mjg5MzYx/MDgtMzE5My5qcGVn.jpeg"
 genres: ["Folk, World, & Country"]
 styles: []
 ---
@@ -47,17 +47,17 @@ A Nashville native and Steve Earle’s son, Justin Townes Earle cut his teeth on
 
 
 ## Videos
-### Justin Townes Earle - Kids In The Street [Audio Only]
-{{< youtube id="mDx4GtD3XJU" title="Justin Townes Earle - Kids In The Street [Audio Only]" >}}<br>
+### Justin Townes Earle - "Kids In The Street" [Audio Only]
+{{< youtube id="mDx4GtD3XJU" title="Justin Townes Earle - "Kids In The Street" [Audio Only]" >}}<br>
 ### More Videos
 
-- [Justin Townes Earle - Faded Valentine [Audio Only]](https://www.youtube.com/watch?v=30JGMrbPDW4)
-- [Justin Townes Earle - There Go A Fool [Audio Only]](https://www.youtube.com/watch?v=jqCJzivj5HA)
-- [Justin Townes Earle - What's She Crying For [Audio Only]](https://www.youtube.com/watch?v=m6HlYKW5zRU)
-- [Justin Townes Earle - Same Old Stagolee [Audio Only]](https://www.youtube.com/watch?v=fPUid3nZuSQ)
+- [Justin Townes Earle - "Faded Valentine" [Audio Only]](https://www.youtube.com/watch?v=30JGMrbPDW4)
+- [Justin Townes Earle - "There Go A Fool" [Audio Only]](https://www.youtube.com/watch?v=jqCJzivj5HA)
+- [Justin Townes Earle - "What's She Crying For" [Audio Only]](https://www.youtube.com/watch?v=m6HlYKW5zRU)
+- [Justin Townes Earle - "Same Old Stagolee" [Audio Only]](https://www.youtube.com/watch?v=fPUid3nZuSQ)
 - [Justin Townes Earle - 15-25 [Audio Only]](https://www.youtube.com/watch?v=2P5lqkS0tOw)
-- [Justin Townes Earle - Trouble Is [Audio Only]](https://www.youtube.com/watch?v=SmJ2E3IP_JA)
-- [Justin Townes Earle - Champagne Corolla [Lyric Video]](https://www.youtube.com/watch?v=_V5vLfmNPMw)
+- [Justin Townes Earle - "Trouble Is" [Audio Only]](https://www.youtube.com/watch?v=SmJ2E3IP_JA)
+- [Justin Townes Earle - "Champagne Corolla" [Lyric Video]](https://www.youtube.com/watch?v=_V5vLfmNPMw)
 
 ## Release Images
 {{< imageGrid >}}

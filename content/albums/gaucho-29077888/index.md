@@ -4,7 +4,6 @@ artist_name: "Steely Dan"
 artist: "steely-dan"
 album_name: "Gaucho"
 date: 2023-12-05T10:34:56.000000Z
-release_date: "1980-11-21"
 release_id: "29077888"
 slug: "gaucho-29077888"
 hideSummary: true
@@ -22,11 +21,11 @@ genres: ["Jazz", "Rock"]
 styles: ["Pop Rock"]
 ---
 
-Released in 1980, Steely Dan’s last album before a 20-year break from the studio was always the most divisive in their catalogue: Is <i>Gaucho</i> a last gasp—or a logical conclusion? Is it the product of too much time and money—or the disquietingly perfect companion to the lives of the creeps who’d populated their songs from day one? Throughout the album, you can almost feel the staleness of the central air running a little too cold from the corner office where a glum, middle-aged white guy wonders: “Wasn’t I supposed to feel better by now? The doctor—maybe I’ll call the doctor again.” In <i>Gaucho</i>’s opening moments, the reggae is stiff (“Babylon Sisters”), the romance is predatory (“Hey Nineteen”) and the ordinary people—such as they brush against the upper crust—are as disposable as hotel toothbrushes (“Gaucho”). By the time you get to the midway point of “Third World Man”. it’s hard to know how to feel, other than numb.
+Gaucho is the seventh studio album by the American rock band Steely Dan, released by MCA Records on November 21, 1980. The album marked a significant stylistic shift for the band, with more focus on rhythm and atmosphere than their earlier work, but the recording sessions demonstrated the group's typical obsessive nature and perfectionism, as they used at least 42 different session musicians, spent over a year in the studio, and far exceeded the original monetary advance given by the record label. At the 24th Annual Grammy Awards, Gaucho won Best Engineered Recording – Non-Classical, and was nominated for Album of the Year and Best Pop Performance by a Duo or Group with Vocals.
+The making of the album was plagued by a number of creative, personal, and professional problems, and, once it was completed, there was a three-way legal battle between MCA, Warner Bros., and Steely Dan over the rights to release it. After the album was released, jazz pianist Keith Jarrett sued Walter Becker and Donald Fagen for copyright infringement, claiming the title track plagiarized "'Long As You Know You're Living Yours" from his 1974 album Belonging, and he was given a co-writing credit. Steely Dan did not release another studio album until Two Against Nature, nearly 20 years later.
 
-Like Frank Zappa’s 1968 “hippie” album <i>We’re Only in it for the Money</i>, Steely Dan’s <i>Gaucho</i> is both an example of a specific sound, and a perversion of it. You can almost hear Donald Fagen and Walter Becker’s own discomfort with the polish and ruthlessness of LA showbiz running through the record. Of course, the guys took the money anyway—that’s dystopia, baby. Reflecting on <i>Gaucho</i>’s state-of-the-art computerized drum machine—one that had been custom-built by engineer Roger Nichols, and included a six-figure price tag—Fagen wrote, “At the time, it all seemed worth it.” When the album went platinum, the Recording Industry Association of America issued the machine—which the band called Wendel—its own plaque. Like a face freshly injected with botox, <i>Gaucho</i> is miraculously wrinkle-free. Just don’t expect it to smile.
-        
-        
+
+    
     
 
 
@@ -40,7 +39,7 @@ Like Frank Zappa’s 1968 “hippie” album <i>We’re Only in it for the Money
 7. Third World Man (5:14)
 
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/gaucho/1440496378" >}}<br>
+{{< applemusic url="https://music.apple.com/gb/album/gaucho/1715946508" >}}<br>
 
 
 ## Videos
@@ -62,8 +61,8 @@ Like Frank Zappa’s 1968 “hippie” album <i>We’re Only in it for the Money
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Gaucho_(album) |
-| Format         | Vinyl LP Album Reissue |
+| Format         | Vinyl LP Album Reissue Remastered |
 | Label          | Geffen Records |
 | Catalog Number | B0034896-01 |
-| Notes | Distributed in the U.S.A. by Universal Music Enterprises |
+| Notes | Distributed in the U.S.A. by Universal Music Enterprises  Runout's etched up to and including AA. The rest stamped. |
 | Discogs URL    | [Steely Dan - Gaucho](https://www.discogs.com/release/29077888-Steely-Dan-Gaucho) |

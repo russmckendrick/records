@@ -12,7 +12,7 @@ cover:
     alt: "High Fidelity (A Hulu Original) by Various"
     caption: "High Fidelity (A Hulu Original) by Various"
 additional_images:
-    - "https://i.discogs.com/siPBmUErzVa0SEkuO1_CsEzL3gwPJmk4hb7AADrlPLU/rs:fit/g:sm/q:90/h:611/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NTQw/OTc1LTE1OTMyODYy/MjgtODYxMy5qcGVn.jpeg"
+    - "https://i.discogs.com/MHBAQ9f2Car29husatZV10TnDKq_c4Axt-m8p4p2ANo/rs:fit/g:sm/q:90/h:600/w:588/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NTQw/OTc1LTE1OTMyODYy/MjgtODYxMy5qcGVn.jpeg"
 genres: ["Stage & Screen"]
 styles: ["Soundtrack"]
 ---
@@ -35,12 +35,12 @@ styles: ["Soundtrack"]
 
 
 ## Videos
-### Ann Peebles - I can't stand the Rain 1974
-{{< youtube id="A09GZeORYlo" title="Ann Peebles - I can't stand the Rain 1974" >}}<br>
+### High Fidelity: Opening Scene • A Hulu Original
+{{< youtube id="fZUvZD_VlwU" title="High Fidelity: Opening Scene • A Hulu Original" >}}<br>
 ### More Videos
 
-- [High Fidelity: Opening Scene • A Hulu Original](https://www.youtube.com/watch?v=fZUvZD_VlwU)
-- [Darondo - Didn't I [HQ - REMASTER]](https://www.youtube.com/watch?v=PZqQT5904_U)
+- [Ann Peebles - I can't stand the Rain 1974](https://www.youtube.com/watch?v=A09GZeORYlo)
+- [Darondo - "Didn't I" [HQ - REMASTER]](https://www.youtube.com/watch?v=PZqQT5904_U)
 - [I'll Make Love to You](https://www.youtube.com/watch?v=b0idmxw8dtk)
 - [Come On Eileen](https://www.youtube.com/watch?v=GbpnAGajyMc)
 - [Tiebreaker](https://www.youtube.com/watch?v=WgPCuiBPVR0)
@@ -50,6 +50,7 @@ styles: ["Soundtrack"]
 - [Gimmie Light/New Tattoo](https://www.youtube.com/watch?v=m5b2r6Im5yw)
 - [Silk Rhodes - Pains](https://www.youtube.com/watch?v=SoxbvE1Doog)
 - [I Believe (When I Fall in Love It Will Be Forever)](https://www.youtube.com/watch?v=JO_b807HaLM)
+- [High Fidelity: Opening Scene • A Hulu Original](https://www.youtube.com/watch?v=fZUvZD_VlwU)
 
 ## Release Images
 {{< imageGrid >}}

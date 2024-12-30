@@ -14,14 +14,20 @@ cover:
     caption: "If You're Feeling Sinister by Belle & Sebastian"
 additional_images:
     - "https://i.discogs.com/BTtXq01ROtr05UuiCctnVABbqLlfmjfo07KGDBfQIEI/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMTMw/ODYxLTE2Mzc5NDY0/NzMtODczNy5qcGVn.jpeg"
-    - "https://i.discogs.com/vPEmY4ZHU03DauHXf1ukYCxs1XVfu9T4vewPEOZwYcA/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMTMw/ODYxLTE2Mzc5NDY0/NzMtMTMyOC5qcGVn.jpeg"
+    - "https://i.discogs.com/HCG15OreZrdmEioecLwh1u_uHOHqXh8RQdHl6HivrO4/rs:fit/g:sm/q:90/h:303/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMTMw/ODYxLTE2OTk0NzQ0/MjMtODUyMS5qcGVn.jpeg"
+    - "https://i.discogs.com/dRe9nmx-u2YVnEHpqCO9epg1T2IYXthgxB_2aNetHKU/rs:fit/g:sm/q:90/h:600/w:592/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMTMw/ODYxLTE2OTk0NzQ0/MzUtOTk5Mi5qcGVn.jpeg"
+    - "https://i.discogs.com/msp_1QlN3zdKfq-BYEql1VslXjJ-_at-yLGuKSdSfSA/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMTMw/ODYxLTE2OTk0NzQz/NzEtNTAyOC5qcGVn.jpeg"
+    - "https://i.discogs.com/KgCrsSqHwp5UdIEAriSjCp4ACgir0miln4xGtX1Ji2M/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMTMw/ODYxLTE2OTk0NzQz/ODYtNDk3NS5qcGVn.jpeg"
+    - "https://i.discogs.com/2t6nP_OyAcH2kjpwybWpBLzvHNXN6bm3wIk7AgNHyMo/rs:fit/g:sm/q:90/h:600/w:587/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMTMw/ODYxLTE2OTk0NzQ0/MDMtMzk3NC5qcGVn.jpeg"
+    - "https://i.discogs.com/vov_FWfJunj-rHjsT-kNJCNzs7S7H9rJBSzU9iblg8M/rs:fit/g:sm/q:90/h:600/w:596/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMTMw/ODYxLTE2OTk0NzQ0/MTItMjM5OS5qcGVn.jpeg"
 genres: ["Rock"]
 styles: ["Acoustic", "Folk", "Indie Pop"]
 ---
 
-With intimate storytelling, intricate orchestration, and catchy melodies, <i>If You’re Feeling Sinister</i> established the Scottish collective among the most eloquent indie bands of the ‘90s. Using a breezy mix of influences (mid-century French pop, Brit folk, and ‘80s indie pop, to name a few) songwriter Stuart Murdoch creates characters who cast the mould for Wes Anderson’s twee, bookish heroes—they’re pensive and precocious, maudlin and mischievous. But ultimately it’s the shimmering melodies of songs like “Dylan in the Movies” and “The Fox in the Snow” that make the album an unforgettable triumph.
+With intimate storytelling, intricate orchestration, and catchy melodies, <i>If You’re Feeling Sinister</i> established the Scottish collective among the most eloquent indie bands of the ‘90s. Using a breezy mix of influences (mid-century French pop, Brit folk and ‘80s indie pop, to name a few) songwriter Stuart Murdoch creates characters who cast the mould for Wes Anderson’s twee, bookish heroes—they’re pensive and precocious, maudlin and mischievous. But ultimately it’s the shimmering melodies of songs like “Dylan in the Movies” and “The Fox in the Snow” that make the album an unforgettable triumph.
 
-    
+        
+        
     
 
 
@@ -46,9 +52,12 @@ With intimate storytelling, intricate orchestration, and catchy melodies, <i>If 
 {{< youtube id="O_r2K3vvbQ0" title="Get Me Away from Here, I’m Dying" >}}<br>
 ### More Videos
 
-- [Belle and Sebastian - If You're Feeling Sinister](https://www.youtube.com/watch?v=e-jnftESRJE)
 - [If You're Feeling Sinister](https://www.youtube.com/watch?v=hS6IeXyVhV8)
 - [The Stars Of Track And Field](https://www.youtube.com/watch?v=yCYphHhF4Mo)
+- [Belle and Sebastian - If You're Feeling Sinister](https://www.youtube.com/watch?v=e-jnftESRJE)
+- [Belle and Sebastian - If You're Feeling Sinister - Pitchfork Classic](https://www.youtube.com/watch?v=4de-RHHLCBA)
+- [The Stars of Track & Field](https://www.youtube.com/watch?v=LDrCuEAHNZc)
+- [Belle and Sebastian - Get Me Away from Here, I'm Dying](https://www.youtube.com/watch?v=wcKsxHURj24)
 
 ## Release Images
 {{< imageGrid >}}
@@ -56,6 +65,7 @@ With intimate storytelling, intricate orchestration, and catchy melodies, <i>If 
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
+| Wikipedia URL | https://en.wikipedia.org/wiki/If_You%27re_Feeling_Sinister |
 | Format         | Vinyl LP Album Limited Edition Reissue (Red Transparent, 25th Anniversary Edition) |
 | Label          | Jeepster Recordings |
 | Catalog Number | JPRLP001RED |

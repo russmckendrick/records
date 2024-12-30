@@ -66,6 +66,18 @@ Electric Lady Sessions is a live in-studio album by American rock band LCD Sound
 - [LCD Soundsystem - emotional haircut (electric lady sessions - official audio)](https://www.youtube.com/watch?v=uQoZ_9vtb0Q)
 - [LCD Soundsystem - oh baby (electric lady sessions - official audio)](https://www.youtube.com/watch?v=LLJegb3TdPY)
 - [(We Don't Need This) Fascist Groove Thang (electric lady sessions - official audio)](https://www.youtube.com/watch?v=EUtsnXt-H80)
+- [LCD Soundsystem - Seconds (electric lady sessions - official audio)](https://www.youtube.com/watch?v=nkj83iwRmNk)
+- [LCD Soundsystem - american dream (electric lady sessions - official audio)](https://www.youtube.com/watch?v=pvuo-PUCi90)
+- [LCD Soundsystem - you wanted a hit (electric lady sessions - official audio)](https://www.youtube.com/watch?v=ol8kl1mDDaE)
+- [LCD Soundsystem - get innocuous (electric lady sessions - official audio)](https://www.youtube.com/watch?v=hI4AMdE0SAQ)
+- [LCD Soundsystem - call the police (electric lady sessions - official audio)](https://www.youtube.com/watch?v=igyk9YN6aVM)
+- [LCD Soundsystem - i used to (electric lady sessions - official audio)](https://www.youtube.com/watch?v=17uquO5IbOI)
+- [LCD Soundsystem - tonite (electric lady sessions - official audio)](https://www.youtube.com/watch?v=q25E__7vpK4)
+- [LCD Soundsystem - home (electric lady sessions - official audio)](https://www.youtube.com/watch?v=VXnOusZ5fXE)
+- [LCD Soundsystem - I Want Your Love (electric lady sessions - official audio)](https://www.youtube.com/watch?v=AZVhrv_sC3g)
+- [LCD Soundsystem - emotional haircut (electric lady sessions - official audio)](https://www.youtube.com/watch?v=uQoZ_9vtb0Q)
+- [LCD Soundsystem - oh baby (electric lady sessions - official audio)](https://www.youtube.com/watch?v=LLJegb3TdPY)
+- [(We Don't Need This) Fascist Groove Thang (electric lady sessions - official audio)](https://www.youtube.com/watch?v=EUtsnXt-H80)
 
 ## Release Images
 {{< imageGrid >}}

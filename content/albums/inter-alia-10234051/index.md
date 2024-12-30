@@ -15,7 +15,7 @@ additional_images:
     - "https://i.discogs.com/L5I-vmsOPjzMmzxtC4pvvYg_C9pZkUXBe_KosC75_nM/rs:fit/g:sm/q:90/h:300/w:300/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMjM0/MDUxLTE0OTM4NDU2/OTctNTQ2NC5qcGVn.jpeg"
     - "https://i.discogs.com/6PY3T-_awfocZIBOiEwI2O1hE_RXl9flTZRerosnxA4/rs:fit/g:sm/q:90/h:400/w:595/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMjM0/MDUxLTE0OTM4NDU2/OTYtMjEyMS5qcGVn.jpeg"
     - "https://i.discogs.com/ACBWSwoVp33CEa_f6KHvd_ElbxAlYmJObxHHJIojJNw/rs:fit/g:sm/q:90/h:561/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMjM0/MDUxLTE0OTUyNjMx/NzItNTEzNC5qcGVn.jpeg"
-    - "https://i.discogs.com/55nVXQjGgwp-bIlQuanbC7Lz4xUBERz3ucxZkC9v2Ec/rs:fit/g:sm/q:90/h:634/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMjM0/MDUxLTE0OTUyNjM2/NDctOTQ2My5qcGVn.jpeg"
+    - "https://i.discogs.com/mydW1S5DhWKcIjPtgdGTPggSK4aULNQU2Yk1z11SzAg/rs:fit/g:sm/q:90/h:600/w:567/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMjM0/MDUxLTE0OTUyNjM2/NDctOTQ2My5qcGVn.jpeg"
 genres: ["Rock"]
 styles: ["Indie Rock", "Post-Hardcore"]
 ---
@@ -35,16 +35,16 @@ styles: ["Indie Rock", "Post-Hardcore"]
 10. Ghost-Tape No. 9
 11. Hostage Stamps
 
-
-## Spotify
-{{< spotify type="album" id="3Ka6oBfQ6rdAvQ1kK9KYvX" width="100%" height="500" >}}<br>
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/in-ter-a-li-a/1207471331" >}}<br>
 
 
 ## Videos
-### At The Drive In - Hostage Stamps (Official Music Video)
-{{< youtube id="JoNJ6AQhmFY" title="At The Drive In - Hostage Stamps (Official Music Video)" >}}<br>
+### At The Drive-In - in.ter a.li.a 2017 Full album vinyl
+{{< youtube id="Y-dIyGbATsc" title="At The Drive-In - in.ter a.li.a 2017 Full album vinyl" >}}<br>
 ### More Videos
 
+- [At The Drive In - Hostage Stamps (Official Music Video)](https://www.youtube.com/watch?v=JoNJ6AQhmFY)
 - [At The Drive In - Incurably Innocent (Lyric Video)](https://www.youtube.com/watch?v=uS_IramA9m4)
 
 ## Release Images

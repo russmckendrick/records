@@ -12,10 +12,16 @@ cover:
     alt: "Special Beat Service  by The Beat"
     caption: "Special Beat Service  by The Beat"
 additional_images:
+    - "https://i.discogs.com/oVu9sCtIMiVGJFSpzNgNR-MAFuuZgUI0UlwYJHrNalc/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyNDMz/NDcxLTE3MzU1NjQ4/MDMtODY3NS5qcGVn.jpeg"
 genres: ["Reggae"]
 styles: ["Ska", "Reggae", "Dub"]
 ---
 
+Special Beat Service is the third studio album by the British ska band the Beat, released on 1 October 1982 by Go-Feet Records. Like the rest of their material, it was released in the US under the name "the English Beat". It peaked at No. 39 on the Billboard 200 album chart in 1983 on the strength of two singles, "I Confess" and "Save It for Later," the music videos for which received modest airplay on the fledgling MTV video network.
+
+
+    
+    
 
 
 ## Tracklisting
@@ -70,6 +76,7 @@ styles: ["Ska", "Reggae", "Dub"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
+| Wikipedia URL | https://en.wikipedia.org/wiki/Special_Beat_Service |
 | Format         | Vinyl LP (Red Translucent), Vinyl LP (Blue Translucent), All Media Record Store Day Limited Edition |
 | Label          | Rhino Records (2) |
 | Catalog Number | 603497822300 |

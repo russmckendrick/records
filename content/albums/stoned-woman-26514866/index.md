@@ -12,7 +12,7 @@ cover:
     alt: "Stoned Woman by Mother Earth"
     caption: "Stoned Woman by Mother Earth"
 additional_images:
-    - "https://i.discogs.com/bkl9H-Nl5toz-BRQU79BOmjXfGB7-7JnNhq99utytTY/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NTE0/ODY2LTE2Nzk1NzE2/MzktNzcxMC5qcGVn.jpeg"
+    - "https://i.discogs.com/tvIx-_176T4TqxcX2g8PdSefAvTvDao2DpruoVb364E/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NTE0/ODY2LTE2Nzk1NzE2/MzktNzcxMC5qcGVn.jpeg"
     - "https://i.discogs.com/rxvHJKmFiU9IJ2BRv6IBw24rbEb5ACTcm4BvUT18WLE/rs:fit/g:sm/q:90/h:590/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NTE0/ODY2LTE2Nzk1NzE2/MzktMTEzNS5qcGVn.jpeg"
     - "https://i.discogs.com/7PrHBajqTqvABCsBSHtL3pncaz3_a4qRUIo38NFsU4E/rs:fit/g:sm/q:90/h:450/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NTE0/ODY2LTE2Nzk1NzE2/NDAtNjk2Ni5qcGVn.jpeg"
     - "https://i.discogs.com/JH1QX6wVKmsRXPMSJ-Rc2S9pgh1ZSEs6QTRDZmHc9mE/rs:fit/g:sm/q:90/h:450/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NTE0/ODY2LTE2Nzk1NzE2/NDAtMzIyMy5qcGVn.jpeg"
@@ -42,15 +42,14 @@ styles: ["Acid Jazz", "Soul", "Funk"]
 {{< youtube id="2gmCTD3IEIM" title="Theme from Riot on 103rd Street" >}}<br>
 ### More Videos
 
-- [mother earth - stoned woman](https://www.youtube.com/watch?v=vK0jilRC5FQ)
-- [Look to the Light](https://www.youtube.com/watch?v=ZrUTQvPhL8M)
+- [Look To The Light](https://www.youtube.com/watch?v=ZrUTQvPhL8M)
 - [Stoned Woman](https://www.youtube.com/watch?v=f7e5KezOzCY)
-- [Mother Earth -  Stoned Woman](https://www.youtube.com/watch?v=k_PvO2rFpR8)
 - [The Fifth Quadrant](https://www.youtube.com/watch?v=NbwUScJuVMA)
 - [Jonathan E](https://www.youtube.com/watch?v=ZAk9APjQeP0)
 - [Bad Ass Weed](https://www.youtube.com/watch?v=ChOI-Vw08Sg)
 - [Knowledge (Rap Version)](https://www.youtube.com/watch?v=fxU5i6YefnY)
-- [Look to the Light (Alternate Flute Mix)](https://www.youtube.com/watch?v=REpkPqI9_o8)
+- [Knowledge](https://www.youtube.com/watch?v=nw1dtLDAy-o)
+- [Look To The Light (Alternate Flute Mix)](https://www.youtube.com/watch?v=REpkPqI9_o8)
 
 ## Release Images
 {{< imageGrid >}}

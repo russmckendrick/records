@@ -4,7 +4,7 @@ artist_name: "Prince And The Revolution"
 artist: "prince-and-the-revolution"
 album_name: "Parade"
 date: 2016-09-12T16:37:06.000000Z
-release_date: "1986-03-31"
+release_date: "1987-03-30"
 release_id: "8955563"
 slug: "parade-8955563"
 hideSummary: true
@@ -21,11 +21,11 @@ genres: ["Rock", "Funk / Soul", "Pop"]
 styles: ["Funk", "Minneapolis Sound", "Pop Rock"]
 ---
 
-Parade is the eighth studio album by American recording artist Prince, and the third and final album where the Revolution is billed. It also was the soundtrack album to the 1986 film Under the Cherry Moon, directed by and starring Prince. It was released on March 31, 1986 by Paisley Park Records and Warner Bros. Records.
-Parade eschews the guitar and rock elements of Prince's 1984 album Purple Rain in favor of the psychedelic pop style he explored on Around the World in a Day (1985), austerely produced funk, and soundtrack compositions. After the critical disappointment of his 1985 album Around the World in a Day, Parade was released to acclaim from music critics. "Kiss" reached number one on the Billboard Hot 100. Parade was certified Platinum by the Recording Industry Association of America (RIAA) in June 1986.
-Parade was named one of the best albums of 1986 by The Village Voice and NME magazine, who named it their Album of the Year.
+Prince didn’t waste any time in the 1980s. Even before the arrival of his 1986 film <i>Under the Cherry Moon</i>—which turned out to be a royal flop—he was already at work on new music, resulting in the double album that would become perhaps his most obsessed-about record of his career: <i>Sign O’ The Times</i>. Released in 1987, the album marked the end of Prince’s astonishing run with The Revolution, his famed backing band (though the group is credited here on the live jam “It’s Gonna Be a Beautiful Night”, and members Wendy Melvoin and Lisa Coleman are featured elsewhere).
 
+The 16 tracks that make up the original edition of <i>Sign O’ The Times</i> find Prince incorporating the various sounds he’d perfected during The Revolution era—including the psychedelic trippiness of 1985’s <i>Around the World in a Day</i>—along with the funk and R&B innovations he’d made on his own before <i>Purple Rain</i> turned him into a pop-rock supernova. <i>Sign O’ The Times</i> is, in essence, his magnum opus—at once a summary and celebration of everything Prince was capable of during the peak of his powers. And with the hit title tune—the album’s first single, and opening track—the Purple One became the Political One, tackling everything from drug addiction to nuclear war. On an album packed with lushly produced tracks, “Sign O’ The Times” is notably spare—so much so, you really <i>hear</i> the message in the music. It’s one of Prince’s boldest statements, and a spiritual successor to Marvin Gaye’s “What’s Going On”.
 
+And he was just getting started. <i>Sign O’ The Times</i> also features such crucial cuts as “If I Was Your Girlfriend”, which he sings from the perspective of his female alter ego, Camille; it’s a slinky, slightly sinister piece of freaky funk. “I Could Never Take the Place of Your Man”, meanwhile, is a burst of guitar-pop glitter that wouldn’t have been out of place on <i>Purple Rain</i>. And the album closer “Adore” is one of Prince’s all-time best ballads, one that finds him at the top of his game (and his falsetto). In between it all comes “U Got the Look”, <i>Sign O’ The Times</i>’ biggest single, and a bit of pop-rock perfection, with an eroticised Sheena Easton providing heck-a-slammin’ support.
         
         
     
@@ -48,20 +48,25 @@ Parade was named one of the best albums of 1986 by The Village Voice and NME mag
 14. Sometimes It Snows In April (6:50)
 
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/parade-music-from-the-motion-picture-under-the-cherry-moon/260336005" >}}<br>
+{{< applemusic url="https://music.apple.com/gb/album/sign-o-the-times/212852926" >}}<br>
 
 
 ## Videos
-### Prince - Kiss (Official Music Video)
-{{< youtube id="H9tEvfIsDyo" title="Prince - Kiss (Official Music Video)" >}}<br>
+### Christopher Tracy's Parade
+{{< youtube id="U2QWdZ7m_3o" title="Christopher Tracy's Parade" >}}<br>
 ### More Videos
 
+- [New Position](https://www.youtube.com/watch?v=ruaeusy4aOE)
+- [I Wonder U](https://www.youtube.com/watch?v=ajFBDxdYz0I)
+- [Under the Cherry Moon](https://www.youtube.com/watch?v=XiZMEMJnlW8)
 - [Prince - Girls & Boys (Official Music Video)](https://www.youtube.com/watch?v=gQcKgAsQHzs)
-- [Prince - Anotherloverholenyohead (Official Music Video)](https://www.youtube.com/watch?v=Zc99JK9gHDk)
+- [Life Can Be so Nice](https://www.youtube.com/watch?v=DJzjpLUQb8E)
+- [Venus De Milo](https://www.youtube.com/watch?v=2ZIFV7TRfhU)
 - [Prince - Mountains (Official Music Video)](https://www.youtube.com/watch?v=_WmPeLOLDnA)
-- [Sometimes It Snows in April](https://www.youtube.com/watch?v=ikZgBhSMSUM)
 - [Do U Lie?](https://www.youtube.com/watch?v=FRaxAVVuqLs)
-- [Christopher Tracy's Parade](https://www.youtube.com/watch?v=U2QWdZ7m_3o)
+- [Prince - Kiss (Official Music Video)](https://www.youtube.com/watch?v=H9tEvfIsDyo)
+- [Anotherloverholenyohead](https://www.youtube.com/watch?v=kvICKkHe-Pw)
+- [Sometimes It Snows in April](https://www.youtube.com/watch?v=ikZgBhSMSUM)
 
 ## Release Images
 {{< imageGrid >}}

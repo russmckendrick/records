@@ -57,31 +57,29 @@ Between the album title and the cover art, you might expect that The Orb’s <i>
 
 
 ## Videos
-### The Orb - Daze (Missing & Messed Up Mix) Official Video
-{{< youtube id="_uUhsZHmwtE" title="The Orb - Daze (Missing & Messed Up Mix) Official Video" >}}<br>
+### The Orb - Hawk Kings (Oseberg Buddhas Buttonhole)
+{{< youtube id="8tPHdqP3xVU" title="The Orb - Hawk Kings (Oseberg Buddhas Buttonhole)" >}}<br>
 ### More Videos
 
-- [The Orb - Hawk Kings (Oseberg Buddhas Buttonhole)](https://www.youtube.com/watch?v=8tPHdqP3xVU)
-- [The Orb - Pervitin (Empire Culling & The Hemlock Stone Version)](https://www.youtube.com/watch?v=llGe4H1hwqw)
-- [House of Narcotics (Opium Wars Mix)](https://www.youtube.com/watch?v=BG-FQagncJw)
-- [Honey Moonies (Brain Washed at Area 49 Mix)](https://www.youtube.com/watch?v=ph-SqqMBMJE)
-- [Afros, Afghans and Angels (Helgö Treasure Chest)](https://www.youtube.com/watch?v=ig0kGerYiBY)
+- [Say Cheese (Siberian Tiger Cookie Mix)](https://www.youtube.com/watch?v=cTv4fDOGPgE)
+- [The Orb - "Daze" (Missing & Messed Up Mix) Official Video](https://www.youtube.com/watch?v=_uUhsZHmwtE)
 - [Shape Shifters (In Two Parts)](https://www.youtube.com/watch?v=5udlig_JTpc)
-- [Say Cheese (Siberian Tiger Cookie Mix)](https://www.youtube.com/watch?v=WNbad_9c2jI)
+- [House of Narcotics (Opium Wars Mix)](https://www.youtube.com/watch?v=BG-FQagncJw)
 - [Ital Orb (Too Blessed to Be Stressed Mix)](https://www.youtube.com/watch?v=N7CkqjQaZ2o)
 - [The Weekend It Rained Forever (Oseberg Buddha Mix (The Ravens Have Left the Tower))](https://www.youtube.com/watch?v=Noqyr9oDMVE)
 - [Slave Till U Die No Matter What U Buy (L'anse Aux Meadows Mix)](https://www.youtube.com/watch?v=Sk-wdS3PeYQ)
 - [The House of Narcotics in Dub (Agent Norbert's Drive by Special Deal Mix)](https://www.youtube.com/watch?v=nyNl8CjVWeI)
 - [Hawk Kings in Dub (Question Everything)](https://www.youtube.com/watch?v=RabEXh6VrWk)
 - [Ital Orb in Dub (North South East and West Mix)](https://www.youtube.com/watch?v=r_Qk3CLetTA)
-- [The Queen of Hearts (Princess of Clubs Mix)](https://www.youtube.com/watch?v=M2dISNBPxjA)
 - [The Queen of Hearts in Dub (Don't Let History Repeat Itself)](https://www.youtube.com/watch?v=jRmUb7e3Mzs)
 - [The Weekend It Rained Forever in Dub (The Waterbed Experience Mix)](https://www.youtube.com/watch?v=8fTm0XEPG0E)
-- [Slave Til You Die, No Matter What You Buy in Dub (Imflamable Air Mix)](https://www.youtube.com/watch?v=13BhlhY_W00)
+- [Honey Moonies (Brain Washed at Area 49 Mix)](https://www.youtube.com/watch?v=ph-SqqMBMJE)
+- [The Queen of Hearts (Princess of Clubs Mix)](https://www.youtube.com/watch?v=M2dISNBPxjA)
 - [Daze in Dub (98.7 Kiss FM Mix)](https://www.youtube.com/watch?v=71u6SeGu-Yo)
-- [Afros, Afghans & Angels in Dub (Hoodie Wood Mix)](https://www.youtube.com/watch?v=VfdPMKxexIE)
 - [Shape Shifting Part 2 in Dub (Pitter Patter in Batter See Version Excursion)](https://www.youtube.com/watch?v=2Dd7UuTs8-I)
+- [Slave Til You Die, No Matter What You Buy in Dub (Imflamable Air Mix)](https://www.youtube.com/watch?v=13BhlhY_W00)
 - [Say Cheese in Dub (Smile You're on Cctv)](https://www.youtube.com/watch?v=Y9KMOPEg3c8)
+- [Afros, Afghans & Angels in Dub (Hoodie Wood Mix)](https://www.youtube.com/watch?v=VfdPMKxexIE)
 
 ## Release Images
 {{< imageGrid >}}

@@ -12,12 +12,13 @@ cover:
     alt: "21st Century Love Songs by The Wildhearts"
     caption: "21st Century Love Songs by The Wildhearts"
 additional_images:
-    - "https://i.discogs.com/CCWdXkfOx7SnKU1yYy7ehCSMVh8ncWFiJdcDKdzTj-4/rs:fit/g:sm/q:90/h:635/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMTk1/NTkwLTE2MzEzNzIw/MjktNDU2MS5qcGVn.jpeg"
+    - "https://i.discogs.com/xk9CApPpR5rO3oijr5l90PDG5B_75SqDVFI9doz8U0Y/rs:fit/g:sm/q:90/h:600/w:566/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMTk1/NTkwLTE2MzEzNzIw/MjktNDU2MS5qcGVn.jpeg"
 genres: ["Rock"]
 styles: []
 ---
 
-21st Century Love Songs is the tenth studio album by English rock band The Wildhearts. It was released on 3 September 2021. The album was preceded by the singles "Sort Your Fucking Shit Out" and "Splitter". Singer/guitarist Ginger Wildheart has described the album as a chance to "flex our creative muscle". Ginger has also stated that the album's attitude is inspired by the band's most successful previous album, the 1995 release P.H.U.Q.
+21st Century Love Songs is the tenth studio album by British rock band the Wildhearts. Recorded at the Old Cider Press in Pershore, Worcestershire, it was produced by Dave Draper and released on 3 September 2021 by Graphite Records. The album was the band's first release since P.H.U.Q. in 1995 to reach the top ten of the UK Albums Chart, peaking at number 9. Three songs were released as singles: "Remember These Days", "Sort Your Fucking Shit Out" and "Sleepaway".
+Following their first studio album in ten years, 2019's Renaissance Men, the Wildhearts returned with 21st Century Love Songs in 2021, which was the fourth studio album to feature the lineup of Ginger Wildheart, C. J. Wildheart, Danny McCormack and Ritch Battersby. The album received universal acclaim from critics, who praised its high-quality songwriting and range of musical styles. It was the group's last studio album before their breakup in 2022 (they would later reform in 2024).
     
     
 
@@ -41,7 +42,9 @@ styles: []
 ## Videos
 ### The Wildhearts  - 21st Century Love Songs ( 2021 ) Full Album
 {{< youtube id="TTpP3Nu12Us" title="The Wildhearts  - 21st Century Love Songs ( 2021 ) Full Album" >}}<br>
+### More Videos
 
+- [The Wildhearts  - 21st Century Love Songs ( 2021 ) Full Album](https://www.youtube.com/watch?v=TTpP3Nu12Us)
 
 ## Release Images
 {{< imageGrid >}}

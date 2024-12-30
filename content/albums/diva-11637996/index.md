@@ -12,7 +12,7 @@ cover:
     alt: "Diva by Annie Lennox"
     caption: "Diva by Annie Lennox"
 additional_images:
-    - "https://i.discogs.com/EXW83QoqDC0JejadMfqfOB5UxhHaEzw3Fra4zJWGLjA/rs:fit/g:sm/q:90/h:618/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNjM3/OTk2LTE1MjA0MzQ3/NDMtOTMzNC5qcGVn.jpeg"
+    - "https://i.discogs.com/tAfEvrxaIeqR2KBNJbN9TAwk-ksGs_Nf3cNyuto851w/rs:fit/g:sm/q:90/h:600/w:581/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNjM3/OTk2LTE1MjA0MzQ3/NDMtOTMzNC5qcGVn.jpeg"
     - "https://i.discogs.com/rVIkDU3gtwIWEHsTA_MxbFqfUFsVQm-dad16jVF9-hE/rs:fit/g:sm/q:90/h:586/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNjM3/OTk2LTE1MjA0MzQ3/NDUtMTkwMy5qcGVn.jpeg"
     - "https://i.discogs.com/TbKp35Sy4Ka4FksmKdMtRCPgTg08qbChMA8F7n5AJs8/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNjM3/OTk2LTE1MjA0MzQ3/NDQtMjU0NC5qcGVn.jpeg"
     - "https://i.discogs.com/j0mMvrfg9s0XpkHInihEcUPrl-L-PZ2z10NpntoeZiU/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNjM3/OTk2LTE1MjA0MzQ3/NDUtOTI3Mi5qcGVn.jpeg"
@@ -23,7 +23,9 @@ genres: ["Electronic", "Pop"]
 styles: ["Synth-pop", "Ballad", "Pop Rock"]
 ---
 
-Diva is the debut solo studio album by Scottish singer Annie Lennox, released on 6 April 1992 by RCA Records. The album entered the UK Albums Chart at number one and has since sold over 1.2 million copies in the UK alone, being certified quadruple platinum. In the United States, it reached number 23 on the Billboard 200 and has been certified double platinum. Diva won the Brit Award for British Album of the Year at the 1993 Brit Awards. The album received nominations for Album of the Year, Best Female Pop Vocal Performance and Best Long Form Music Video, winning the latter award at the Grammy Awards the same year.
+Diva is the debut solo studio album by Scottish singer Annie Lennox, released on 6 April 1992 by RCA Records. The album entered the UK Albums Chart at number one and has since sold over 1.2 million copies in the UK alone, being certified quadruple platinum. Diva was the 7th best selling album of 1992 in the United Kingdom. In the United States, it reached number 23 on the Billboard 200 and has been certified double platinum.
+The album spawned five successful single releases, beginning with "Why" in March 1992, and followed by "Precious" in May, "Walking on Broken Glass" in August and "Cold" in October 1992. "Little Bird" was released in February 1993 as a double A-side with "Love Song for a Vampire", a song Lennox had recorded for the 1992 film Bram Stoker's Dracula. All five single releases achieved commercial success worldwide.
+Diva won the Brit Award for British Album of the Year at the 1993 Brit Awards. The album received nominations for Album of the Year, Best Female Pop Vocal Performance and Best Long Form Music Video, winning the latter award at the Grammy Awards the same year. Diva has been described as "state-of-the-art soul pop" by Rolling Stone magazine, who also included the album in their "Essential Recordings of the '90s" list.
     
     
 
@@ -41,7 +43,7 @@ Diva is the debut solo studio album by Scottish singer Annie Lennox, released on
 10. The Gift (4:52)
 
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/diva/258646635" >}}<br>
+{{< applemusic url="https://music.apple.com/gb/album/the-annie-lennox-collection/304385026" >}}<br>
 
 
 ## Videos
@@ -49,16 +51,16 @@ Diva is the debut solo studio album by Scottish singer Annie Lennox, released on
 {{< youtube id="HG7I4oniOyA" title="Annie Lennox - Why (Official Music Video)" >}}<br>
 ### More Videos
 
-- [Annie Lennox - Walking on Broken Glass (Official Video)](https://www.youtube.com/watch?v=y25stK5ymlA)
 - [Annie Lennox - Precious (Official Video)](https://www.youtube.com/watch?v=HQCHd__Zd1w)
 - [Annie Lennox - Legend In My Living Room (Official Video)](https://www.youtube.com/watch?v=YrHUkE3A_G0)
-- [Annie Lennox - Cold (Official Video)](https://www.youtube.com/watch?v=xi19gH6_waE)
-- [Annie Lennox - Money Can't Buy It (Official Video)](https://www.youtube.com/watch?v=z7-bj7idSok)
 - [Annie Lennox - Little Bird (Official Video)](https://www.youtube.com/watch?v=pjbNLVQ_Iwk)
+- [Annie Lennox - Cold (Official Video)](https://www.youtube.com/watch?v=xi19gH6_waE)
 - [Annie Lennox - Primitive (Official Video)](https://www.youtube.com/watch?v=0W3cxF409Pg)
-- [Stay By Me](https://www.youtube.com/watch?v=MyHL6D8x8RY)
+- [Annie Lennox - Walking on Broken Glass (Official Video)](https://www.youtube.com/watch?v=y25stK5ymlA)
+- [Annie Lennox - Money Can't Buy It (Official Video)](https://www.youtube.com/watch?v=z7-bj7idSok)
 - [Annie Lennox - The Gift (Official Video)](https://www.youtube.com/watch?v=_8Lc1QP0nlI)
 - [Annie Lennox - Keep Young and Beautiful (Official Video)](https://www.youtube.com/watch?v=pfk8kLJMab0)
+- [Love Song For A Vampire](https://www.youtube.com/watch?v=vhG8zC4npsE)
 
 ## Release Images
 {{< imageGrid >}}

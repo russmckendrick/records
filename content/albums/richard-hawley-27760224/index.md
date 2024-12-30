@@ -18,7 +18,7 @@ genres: ["Rock", "Pop"]
 styles: ["Acoustic", "Pop Rock", "Indie Rock"]
 ---
 
-Richard Willis Hawley (born 17 January 1967) is an English singer-songwriter, guitarist, and producer. After his first band Treebound Story (formed while he was still at school) broke up, Hawley found success as a member of Britpop band Longpigs in the 1990s. After that group broke up in 2000, he joined the band Pulp, led by his friend Jarvis Cocker, for a short time. As a solo musician, Hawley has released eight studio albums. He has been nominated for a Mercury prize twice and once for a Brit Award. He has collaborated with Lisa Marie Presley, Shakespears Sister, Arctic Monkeys, Manic Street Preachers, Elbow, Duane Eddy and Paul Weller.
+Richard Willis Hawley (born 17 January 1967) is an English singer-songwriter, guitarist, and producer. After his first band Treebound Story (formed while he was still at school) broke up, Hawley found success as a member of Britpop band Longpigs in the 1990s. He played with Pulp, led by his friend Jarvis Cocker, as a touring musician for a short time. As a solo musician, Hawley has released eight studio albums. He has been nominated for a Mercury prize twice and once for a Brit Award. He has collaborated with Lisa Marie Presley, Shakespears Sister, Arctic Monkeys, Manic Street Preachers, Elbow, Duane Eddy and Paul Weller.
 
 
     

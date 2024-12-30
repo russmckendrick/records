@@ -14,8 +14,8 @@ cover:
 additional_images:
     - "https://i.discogs.com/-Y_UzZXnJtx7dSyI63NUCoida1ofOC83AU3d-2UzkXw/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNDg5/MjE5LTE1NDMxMzkw/NTgtODE3Mi5qcGVn.jpeg"
     - "https://i.discogs.com/CryqJvoKOkIIHTT9v2pdw0KnXRPRTzLjm715Rv4LAbk/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNDg5/MjE5LTE1NDMxMzkw/NTktMTYzNy5qcGVn.jpeg"
-    - "https://i.discogs.com/nVdfBbRysLtatTS0XYN-0DleE942-ERJjNZRaJyJGWc/rs:fit/g:sm/q:90/h:800/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNDg5/MjE5LTE1NDMxMzkw/NTktMjA4NC5qcGVn.jpeg"
-    - "https://i.discogs.com/08M31I85OPjDDpp7-ud2OA7FxATXEOeIEkj0RfYl-9g/rs:fit/g:sm/q:90/h:800/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNDg5/MjE5LTE1NDMxMzkw/NTktODQwNS5qcGVn.jpeg"
+    - "https://i.discogs.com/jZP5AjAissLTXNymNK7DfWWfFOXYqn48edYki9wITHM/rs:fit/g:sm/q:90/h:600/w:450/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNDg5/MjE5LTE1NDMxMzkw/NTktMjA4NC5qcGVn.jpeg"
+    - "https://i.discogs.com/_YFrD-vz1p-3tH8_UIlqhbxD2kFxYGZJRc5V7SnP7Cs/rs:fit/g:sm/q:90/h:600/w:450/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNDg5/MjE5LTE1NDMxMzkw/NTktODQwNS5qcGVn.jpeg"
     - "https://i.discogs.com/VpXaWeFCNkO8SGfwKmq7M3p8HwspfBe84E06ZRSaImY/rs:fit/g:sm/q:90/h:591/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNDg5/MjE5LTE1NDMxMzkw/NTktNjI1NC5qcGVn.jpeg"
     - "https://i.discogs.com/P6YgOYWwvC-vdTHRFwI3sDnwDTHRO0xyOBmbGq9cmwo/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNDg5/MjE5LTE1NDMxMzkw/NTktOTA1Ny5qcGVn.jpeg"
     - "https://i.discogs.com/nJlg9c1G9-osz8TF1uwuV3jJmKqvajakddK4VV70lJo/rs:fit/g:sm/q:90/h:389/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNDg5/MjE5LTE1NDMxMzkw/NTgtNTcwMy5qcGVn.jpeg"
@@ -23,7 +23,9 @@ genres: ["Electronic", "Hip Hop", "Funk / Soul"]
 styles: ["Hip-House", "Acid House", "Freestyle"]
 ---
 
-Into the Dragon is the debut studio album by Bomb the Bass, released on Rhythm King Records in 1988. It peaked at number 18 on the UK Albums Chart. It features a number of guest vocalists and three singles "Beat Dis", "Megablast/Don't Make Me Wait" and a cover version of "I Say A Little Prayer" featuring Maureen Walsh.
+Into the Dragon is the debut studio album by English musician Bomb the Bass, released on Rhythm King Records in 1988. It first made the UK Albums Chart in October of '88 and peaked at number 18. It features a number of guest vocalists and three singles "Beat Dis", "Megablast/Don't Make Me Wait" and a cover version of "I Say a Little Prayer" featuring Maureen Walsh.
+
+
     
     
 
@@ -47,21 +49,21 @@ Into the Dragon is the debut studio album by Bomb the Bass, released on Rhythm K
 
 
 ## Videos
-### Bomb The Bass - Don't Make Me Wait (Video)
-{{< youtube id="b_42p66WeM0" title="Bomb The Bass - Don't Make Me Wait (Video)" >}}<br>
+### Bomb the bass - Into the dragon (Full Album)
+{{< youtube id="00_lzstpX1Y" title="Bomb the bass - Into the dragon (Full Album)" >}}<br>
 ### More Videos
 
-- [Bomb The Bass - Beat Dis (Video)](https://www.youtube.com/watch?v=W6CJmJ5p3Ow)
-- [BOMB THE BASS featuring LAURAINE - Don't Make Me Wait [7 Mix].](https://www.youtube.com/watch?v=T56ONhUdZXg)
-- [BOMB THE BASS - Beat Dis [7 US Mix].](https://www.youtube.com/watch?v=CX-OsVJE-DE)
-- [BOMB THE BASS - Shake It.](https://www.youtube.com/watch?v=nEpeVSQ4S3U)
+- [BOMB THE BASS - Beat Dis [7" US Mix].](https://www.youtube.com/watch?v=CX-OsVJE-DE)
 - [BOMB THE BASS featuring MERLIN - Mégablast Rap.](https://www.youtube.com/watch?v=s4WnGHIK88k)
-- [Bomb The Bass feat Maureen - Say A Little Prayer (HQ)](https://www.youtube.com/watch?v=2IBqzFkecQw)
 - [BOMB THE BASS - On the Cut.](https://www.youtube.com/watch?v=rU0VJXc0H1s)
+- [BOMB THE BASS featuring LAURAINE - Don't Make Me Wait [7" Mix].](https://www.youtube.com/watch?v=T56ONhUdZXg)
 - [BOMB THE BASS - Dynamite Beats.](https://www.youtube.com/watch?v=dhn2mL2F36s)
-- [BOMB THE BASS -Megablast (Hip Hop On Precinct 13) [7 Mix].](https://www.youtube.com/watch?v=bWbJeUEKzc8)
+- [BOMB THE BASS -Megablast (Hip Hop On Precinct 13) [7" Mix].](https://www.youtube.com/watch?v=bWbJeUEKzc8)
 - [BOMB THE BASS featuring AURRA - Hey You!](https://www.youtube.com/watch?v=alQBkH08BDU)
+- [BOMB THE BASS - Shake It.](https://www.youtube.com/watch?v=nEpeVSQ4S3U)
+- [Bomb The Bass - Say A Little Prayer](https://www.youtube.com/watch?v=LF559UnQ7zM)
 - [BOMB THE BASS - Beat Dat [Freestyle Scratch Mix].](https://www.youtube.com/watch?v=vbMj6sfuIK8)
+- [B̲o̲m̲b̲ T̲h̲e̲ B̲a̲s̲s̲ | I̲n̲t̲o̲ T̲h̲e̲ D̲r̲a̲g̲o̲n̲](https://www.youtube.com/watch?v=lihARFPi2k4)
 
 ## Release Images
 {{< imageGrid >}}

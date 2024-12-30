@@ -48,4 +48,4 @@ styles: []
 | Label          | Lojinx |
 | Catalog Number | LJX111LP |
 | Notes | Black vinyl. |
-| Discogs URL    | [Pugwash - Silverlake](https://www.discogs.com/release/11269948-Pugwash-Silverlake) |
+| Discogs URL    | [Pugwash - Silverlake](https://www.discogs.com/release/11269948-Pugwash-2-Silverlake) |

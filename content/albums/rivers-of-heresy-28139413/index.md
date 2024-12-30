@@ -83,7 +83,13 @@ Neil: “As soon as I heard this, I knew it was going to close the record. Even 
 {{< applemusic url="https://music.apple.com/gb/album/rivers-of-heresy/1686591552" >}}<br>
 
 
+## Videos
+### Empire State Bastard - The Looming [Official Video]
+{{< youtube id="0x9kRPsRHuk" title="Empire State Bastard - The Looming [Official Video]" >}}<br>
+### More Videos
 
+- [Empire State Bastard - Harvest [Video]](https://www.youtube.com/watch?v=S5Xjku-dYJ8)
+- [Empire State Bastard - Moi? [Visualiser]](https://www.youtube.com/watch?v=SW3_WzcKuOY)
 
 ## Release Images
 {{< imageGrid >}}

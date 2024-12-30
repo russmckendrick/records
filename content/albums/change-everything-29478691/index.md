@@ -46,7 +46,7 @@ Change Everything is the third studio album by Del Amitri, released on 1 June 19
 12. Sometimes I Just Have To Say Your Name
 
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/change-everything-re-presents/1444160853" >}}<br>
+{{< applemusic url="https://music.apple.com/gb/album/change-everything/1443348283" >}}<br>
 
 
 ## Videos
@@ -64,7 +64,7 @@ Change Everything is the third studio album by Del Amitri, released on 1 June 19
 - [Behind The Fool](https://www.youtube.com/watch?v=-A9Mrq_SFdA)
 - [To Last A Lifetime](https://www.youtube.com/watch?v=y3FtkSnDcwQ)
 - [The First Rule Of Love](https://www.youtube.com/watch?v=iiVcbrbjCqM)
-- [Del Amitri, Sometimes I Just Have to Say Your Name](https://www.youtube.com/watch?v=F6yn5-TIZWQ)
+- [Del Amitri, "Sometimes I Just Have to Say Your Name"](https://www.youtube.com/watch?v=F6yn5-TIZWQ)
 - [Always The Last To Know (Single Mix)](https://www.youtube.com/watch?v=0_102g1WH6A)
 - [Lighten Up The Load](https://www.youtube.com/watch?v=OUaMyAKjqkw)
 - [Del Amitri - Just Like A Man](https://www.youtube.com/watch?v=1S6KJBcIiVo)

@@ -13,17 +13,17 @@ cover:
     alt: "The Principle Of Moments by Robert Plant"
     caption: "The Principle Of Moments by Robert Plant"
 additional_images:
-    - "https://i.discogs.com/cgYLOeQKRu5RtDPtTHzeyStEcg9fTHzBsomDcndy2iU/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwODQ4/ODc5LTE1MDUzMTI2/NDAtMTQ0OC5qcGVn.jpeg"
+    - "https://i.discogs.com/udDB8lLYcywFgCKjgDio55rxVOMwx0D216rwkQ_S7do/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwODQ4/ODc5LTE1MDUzMTI2/NDAtMTQ0OC5qcGVn.jpeg"
     - "https://i.discogs.com/IbztU4_eBKb_4ywDZJc3ZTiUIRS0db0qsb_vl_dnEFI/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwODQ4/ODc5LTE1MDUzMTI2/MzYtNTkxNS5qcGVn.jpeg"
-    - "https://i.discogs.com/-i2YK3b2QEsJ5RzkG7sP0rUyczZ36_nn4XGiwxeZQWo/rs:fit/g:sm/q:90/h:608/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwODQ4/ODc5LTE1MDUzMTI2/MzktMzM2Ni5qcGVn.jpeg"
+    - "https://i.discogs.com/RARCiPAH_8M6Ilez4MQbuPenAC-D7PkKCzTqDT6lclg/rs:fit/g:sm/q:90/h:600/w:591/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwODQ4/ODc5LTE1MDUzMTI2/MzktMzM2Ni5qcGVn.jpeg"
     - "https://i.discogs.com/wfYzlBtBv67vBlQ0U8CPcrue7Ens5z1teV-3wXWJ238/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwODQ4/ODc5LTE1MDUzMTI2/MzctNTMxNS5qcGVn.jpeg"
-    - "https://i.discogs.com/K-M7uuAaD9H5eEaFPZ5Gu0a7VfcCt29AqaLi1wffyck/rs:fit/g:sm/q:90/h:607/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwODQ4/ODc5LTE1MDUzMTI2/NTUtMzY3NC5qcGVn.jpeg"
-    - "https://i.discogs.com/ppzJADoiTg0dk_BcKf-PVmKnsvPcS-1iXS76gdx4Up0/rs:fit/g:sm/q:90/h:604/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwODQ4/ODc5LTE1MDUzMTI2/NjAtMTk0OC5qcGVn.jpeg"
+    - "https://i.discogs.com/-LpiD3OCGScNx-y7dsughqGczNKOBXFF19o11xKQyLI/rs:fit/g:sm/q:90/h:600/w:592/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwODQ4/ODc5LTE1MDUzMTI2/NTUtMzY3NC5qcGVn.jpeg"
+    - "https://i.discogs.com/egJ-a0l-uhURse9J4Qws8njQFtb_HG2j4mF1vBLCt6Q/rs:fit/g:sm/q:90/h:600/w:595/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwODQ4/ODc5LTE1MDUzMTI2/NjAtMTk0OC5qcGVn.jpeg"
 genres: ["Rock"]
 styles: ["Classic Rock"]
 ---
 
-The Principle of Moments is the second solo studio album by the English singer Robert Plant, formerly of Led Zeppelin. It was Plant's second Top 10 album in the US and UK. It also gave him his first solo Top 40 hit with "Big Log". The most popular track on album-oriented rock radio in the US was "Other Arms", which reached number-one on the Billboard Top Tracks chart. Genesis' drummer Phil Collins played drums for five of the album's eight songs (as he did on Pictures at Eleven). On the other two tracks former Jethro Tull drummer Barriemore Barlow performed. On the closing track "Big Log", Gerald Woodroffe programmed a Roland TR-808 drum machine.
+The Principle of Moments is the second solo studio album by the English singer Robert Plant, formerly of Led Zeppelin. It was Plant's second Top 10 album in the US and UK. It also gave him his first solo Top 40 hit with "Big Log". The most popular track on album-oriented rock radio in the US was "Other Arms", which reached number-one on the Billboard Top Tracks chart. Genesis' drummer Phil Collins played drums on five of the album's eight songs (as he did on Pictures at Eleven). On two tracks former Jethro Tull drummer Barriemore Barlow performed and on the closing track, "Big Log", Gerald Woodroffe programmed a Roland TR-808 drum machine.
 Like Plant's debut solo studio album, Pictures at Eleven (1982), the songs departed from the hard rock sound of Led Zeppelin. Following the strength of these albums, Plant launched a successful tour in 1983. Phil Collins was the drummer for Plant's band for the North American portion of the tour. Collins was content to perform in the background, despite his own enormous success as a solo artist and with Genesis at the time. Little Feat's Richie Hayward played drums for the remaining dates.
 Rhino Entertainment released a remastered edition of the album, with bonus tracks, on 3 April 2007.
 
@@ -48,19 +48,20 @@ Rhino Entertainment released a remastered edition of the album, with bonus track
 
 
 ## Videos
-### Robert Plant - Big Log (Official Video) [HD REMASTERED]
-{{< youtube id="FxSsol3Zd7k" title="Robert Plant - Big Log (Official Video) [HD REMASTERED]" >}}<br>
+### A1  Other Arms   - Robert Plant – The Principle Of Moments 1983 Vinyl Album HQ Audio Rip
+{{< youtube id="iUo9HV4aslY" title="A1  Other Arms   - Robert Plant – The Principle Of Moments 1983 Vinyl Album HQ Audio Rip" >}}<br>
 ### More Videos
 
+- [A2  In The Mood   - Robert Plant – The Principle Of Moments 1983 Vinyl Album HQ Audio Rip](https://www.youtube.com/watch?v=oNUqEkWHEQs)
+- [A3  Messin' With The Mekon  - Robert Plant – The Principle Of Moments 1983 Vinyl Album HQ Audio Rip](https://www.youtube.com/watch?v=JDVOHFMJVRU)
+- [A4  Wreckless Love - Robert Plant – The Principle Of Moments 1983 Vinyl Album HQ Audio Rip](https://www.youtube.com/watch?v=4xdTExGA9FI)
+- [B1  Thru' With The Two Step - Robert Plant – The Principle Of Moments 1983 Vinyl Album HQ Audio Rip](https://www.youtube.com/watch?v=c-MrnD9mc6U)
+- [B2  Horizontal Departure - Robert Plant – The Principle Of Moments 1983 Vinyl Album HQ Audio Rip](https://www.youtube.com/watch?v=SQCQmgu5g4g)
+- [B3  Stranger Here...Than Over There  Robert Plant – The Principle Of Moments 1983 Vinyl Album HQ Rip](https://www.youtube.com/watch?v=4Y-Cs8pRH8A)
+- [B4  Big Log  - Robert Plant – The Principle Of Moments 1983 Vinyl Album HQ Audio Rip](https://www.youtube.com/watch?v=ox9t_8peT3s)
+- [ROBERT PLANT 1983   The Principle Of Moments Stereo](https://www.youtube.com/watch?v=EwxOHYivi0w)
 - [Robert Plant - In the Mood (Official Video) [HD REMASTERED]](https://www.youtube.com/watch?v=jj5nH0O8lmg)
-- [Robert Plant - In The Mood (studio version)](https://www.youtube.com/watch?v=k9T8GJyA71c)
-- [Big Log (2006 Remaster)](https://www.youtube.com/watch?v=gR1SvcFMWBg)
-- [Other Arms (2006 Remaster)](https://www.youtube.com/watch?v=z2c9v3cwmr4)
-- [Messin' with the Mekon (2006 Remaster)](https://www.youtube.com/watch?v=QU3QprhTa7U)
-- [Wreckless Love (2006 Remaster)](https://www.youtube.com/watch?v=NGPYjalEHZQ)
-- [Thru' with the Two Step (2006 Remaster)](https://www.youtube.com/watch?v=sf9DboGeydQ)
-- [Robert Plant - Horizontal Departure](https://www.youtube.com/watch?v=-kFpBF-96fE)
-- [Stranger Here... Than over There (2006 Remaster)](https://www.youtube.com/watch?v=m_JgDLdyaiM)
+- [Robert Plant - Big Log (Official Video) [HD REMASTERED]](https://www.youtube.com/watch?v=FxSsol3Zd7k)
 
 ## Release Images
 {{< imageGrid >}}

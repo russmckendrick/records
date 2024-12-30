@@ -49,6 +49,7 @@ styles: ["Soul", "Funk", "Disco"]
 {{< youtube id="aSORZzduAos" title="DJ Spinna & Bobbito - Ray Barretto--Pastime Paradise" >}}<br>
 ### More Videos
 
+- [DJ Spinna & Bobbito - Ray Barretto--Pastime Paradise](https://www.youtube.com/watch?v=aSORZzduAos)
 - [Hugo Montenegro - You Got it Bad Gir](https://www.youtube.com/watch?v=xFbJrTfrmTE)
 - [JOSE  FELICIANO - GOLDEN LADY](https://www.youtube.com/watch?v=PNeqAq4Ljt8)
 - [Sergio Mendes and Brasil '77 Superstition](https://www.youtube.com/watch?v=heB9Mizn_Bk)

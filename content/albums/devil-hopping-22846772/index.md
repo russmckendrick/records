@@ -16,7 +16,7 @@ additional_images:
     - "https://i.discogs.com/_veC4F97c9k26QX5E-WNQSsieV362XhYQlDcDuFxdzM/rs:fit/g:sm/q:90/h:593/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyODQ2/NzcyLTE2NTk3MjE1/NjEtNzI5OC5qcGVn.jpeg"
     - "https://i.discogs.com/vwBwKNUhZT4Tnj7GsBQxwyUtyQzxWfszaMUPikb_tXE/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyODQ2/NzcyLTE2NTk3MjE1/NzEtMTk4OC5qcGVn.jpeg"
     - "https://i.discogs.com/CR_VK7r8rpe3PFzZBRoFaUKRNilF3mXX1SbU71SbNK8/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyODQ2/NzcyLTE2NTk3MjE1/ODUtODQzNS5qcGVn.jpeg"
-    - "https://i.discogs.com/C83GpIoSYhsuQcmHtAyqRa9IBIbjPGWXnbp1aimiuBs/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyODQ2/NzcyLTE2NTk3MjE2/MDYtODYxOC5qcGVn.jpeg"
+    - "https://i.discogs.com/UYgVgMWe024Uq7m2U3PS4Wdx9pxMv5kOxDb7feSufzY/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyODQ2/NzcyLTE2NTk3MjE2/MDYtODYxOC5qcGVn.jpeg"
     - "https://i.discogs.com/e3oi5kheYiTULHNDtmasTAIyutPNnZ4HoWDtDNrN1nA/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyODQ2/NzcyLTE2NDk3MDQ0/MzItMzc4MS5qcGVn.jpeg"
     - "https://i.discogs.com/goPJBMjNRF2GZVOvPnnq06QJMOkXreK2DGk3e9Owcio/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyODQ2/NzcyLTE2NDk3MDQ0/ODAtNzUxMC5qcGVn.jpeg"
     - "https://i.discogs.com/G6-G58sjYGsMYwP78rLAMjKwGnWYCN6xPQK7KGS9EDA/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyODQ2/NzcyLTE2NDk3MDQ0/MzctMzAwNC5qcGVn.jpeg"
@@ -27,6 +27,12 @@ genres: ["Rock"]
 styles: ["Indie Rock", "Alternative Rock"]
 ---
 
+Devil Hopping is the fourth studio album from British indie band Inspiral Carpets, released on 7 March 1994 via Mute Records. The single version of "I Want You" features vocals by Mark E. Smith of the Fall. Mute dropped the band after the release of Devil Hopping.
+The title of the album came from producer Pascal Gabriel's pronunciation of the word "developing."
+
+
+    
+    
 
 
 ## Tracklisting
@@ -44,7 +50,7 @@ styles: ["Indie Rock", "Alternative Rock"]
 12. I Don't Want To Go Blind (4:02)
 
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/devil-hopping/1144283586" >}}<br>
+{{< applemusic url="https://music.apple.com/gb/album/devil-hopping/1435626647" >}}<br>
 
 
 ## Videos
@@ -70,6 +76,7 @@ styles: ["Indie Rock", "Alternative Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
+| Wikipedia URL | https://en.wikipedia.org/wiki/Devil_Hopping |
 | Format         | Vinyl LP Album Limited Edition Reissue (Red Transparent) |
 | Label          | Mute |
 | Catalog Number | ldung25 |

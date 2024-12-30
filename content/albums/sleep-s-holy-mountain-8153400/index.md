@@ -20,7 +20,8 @@ styles: ["Stoner Rock"]
 ---
 
 Sleep cut ties with their sludge past and dove into neo-Sabbath doom and stoner metal on their landmark album, <i>Sleep’s Holy Mountain</i>. The power trio’s lumbering chugs wander through prehistoric landscapes covered in mountains of fuzz and whirling vocal effects (“Dragonaut”) and continue into shadowy nether realms wherein monk-like chants ride throbbing, meditative riffs (“From Beyond”). Subtle yet incredibly potent doses of blues and funk pop up all over, giving jams like the hazy, psychedelic “Aquarian” a slow and shaggy swing.
-    
+        
+        
     
 
 
@@ -60,6 +61,7 @@ Sleep cut ties with their sludge past and dove into neo-Sabbath doom and stoner 
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
+| Wikipedia URL | https://en.wikipedia.org/wiki/Sleep%27s_Holy_Mountain |
 | Format         | Vinyl LP Album Reissue Remastered |
 | Label          | Earache |
 | Catalog Number | MOSH079FDR |

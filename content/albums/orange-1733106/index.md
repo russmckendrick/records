@@ -40,7 +40,7 @@ styles: ["Blues Rock", "Alternative Rock", "Experimental", "Garage Rock"]
 13. Greyhound (4:04)
 
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/orange/1169152194" >}}<br>
+{{< applemusic url="https://music.apple.com/gb/album/plastic-fang/1273347125" >}}<br>
 
 
 ## Videos

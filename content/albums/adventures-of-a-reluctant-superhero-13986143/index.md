@@ -13,11 +13,11 @@ cover:
     caption: "Adventures Of A Reluctant Superhero by Chali 2NA"
 additional_images:
     - "https://i.discogs.com/iOejJqVpOiOlm4ybay_aFsJ_VQCBuy_phKGQBlIFhB4/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzOTg2/MTQzLTE1NjU1Mzcw/ODAtMTk1NS5qcGVn.jpeg"
-    - "https://i.discogs.com/j2sLAkdZbyBRomPmOSQZd8BhpGSK_jK8JFWS2fTOX3M/rs:fit/g:sm/q:90/h:604/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzOTg2/MTQzLTE1NjU1Mzcw/ODgtMzE3MC5qcGVn.jpeg"
+    - "https://i.discogs.com/hL0uapwbFPvU5yD9rdVkI4CsMreqHIvtj1EtIUqL0z0/rs:fit/g:sm/q:90/h:600/w:595/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzOTg2/MTQzLTE1NjU1Mzcw/ODgtMzE3MC5qcGVn.jpeg"
     - "https://i.discogs.com/3dODnONOYjiPi301SoFiztQraKuwDWL_4hCTsb42Fmw/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzOTg2/MTQzLTE1NjU1Mzcx/MDEtMjk0OC5qcGVn.jpeg"
-    - "https://i.discogs.com/6R7Lutc5wNET7kblWDe_JvtbQSnTCj_PPXaifKng5_c/rs:fit/g:sm/q:90/h:601/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzOTg2/MTQzLTE1NjU1Mzcx/MDktMjk1Mi5qcGVn.jpeg"
+    - "https://i.discogs.com/iaom6B3rGar0KB8oz8aWtnkaz-cYNSXtjR8EUuL8IOE/rs:fit/g:sm/q:90/h:600/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzOTg2/MTQzLTE1NjU1Mzcx/MDktMjk1Mi5qcGVn.jpeg"
     - "https://i.discogs.com/863nSgPPY0TUDfIn3qwEUmNzwRg22IneoH3ehTWKHo8/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzOTg2/MTQzLTE1NjU1Mzcx/MjMtNzA1OC5qcGVn.jpeg"
-    - "https://i.discogs.com/0Fg3hjcjq2aRCT21IufxqxewQ10ZNmwGmhNb5B_kMS8/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzOTg2/MTQzLTE1NjU1Mzcx/MzQtODgxMC5qcGVn.jpeg"
+    - "https://i.discogs.com/KdRCrofdaUlpRmKlDr5hCBz23RWDx8BXjuBdhJXMqe0/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzOTg2/MTQzLTE1NjU1Mzcx/MzQtODgxMC5qcGVn.jpeg"
 genres: ["Hip Hop"]
 styles: []
 ---
@@ -45,15 +45,22 @@ styles: []
 
 
 ## Videos
-### Stay Tuned - Chali 2na and Krafty Kuts
-{{< youtube id="Zzs5wXa3-Jk" title="Stay Tuned - Chali 2na and Krafty Kuts" >}}<br>
+### Bruce 2na
+{{< youtube id="a9AcviLZ_nU" title="Bruce 2na" >}}<br>
 ### More Videos
 
-- [Bruce 2na](https://www.youtube.com/watch?v=a9AcviLZ_nU)
-- [Guard The Fort (Radio Edit)](https://www.youtube.com/watch?v=tjSkYsL8fvM)
 - [Black Vapor](https://www.youtube.com/watch?v=oBo0xTEeovw)
+- ["Adventures Of A Reluctant Superhero Tour"](https://www.youtube.com/watch?v=61hMphtfZpk)
+- [Krafty Kuts & Chali 2na - Hands High](https://www.youtube.com/watch?v=fYrSnh3jHco)
+- [Stay Tuned - Chali 2na and Krafty Kuts](https://www.youtube.com/watch?v=Zzs5wXa3-Jk)
+- [WASTE NO TIME / CHALI 2NA DYNAMITE MC & KRAFTY CUTS](https://www.youtube.com/watch?v=J-VYfDRrtpo)
+- [Bruce 2na](https://www.youtube.com/watch?v=a9AcviLZ_nU)
+- [Black Vapor](https://www.youtube.com/watch?v=oBo0xTEeovw)
+- ["Adventures Of A Reluctant Superhero Tour"](https://www.youtube.com/watch?v=61hMphtfZpk)
+- [Bruce 2na](https://www.youtube.com/watch?v=a9AcviLZ_nU)
+- [Black Vapor](https://www.youtube.com/watch?v=oBo0xTEeovw)
+- [Guard The Fort (Radio Edit)](https://www.youtube.com/watch?v=tjSkYsL8fvM)
 - [Feel The Power](https://www.youtube.com/watch?v=EfI5n59BOLo)
-- [Adventures Of A Reluctant Superhero Tour](https://www.youtube.com/watch?v=61hMphtfZpk)
 - [Waste No Time](https://www.youtube.com/watch?v=hu1_Sk1VbOo)
 - [Superheroes Anonymous](https://www.youtube.com/watch?v=kTpCD9T4Mm0)
 - [Skillz](https://www.youtube.com/watch?v=i830SXYp2K8)

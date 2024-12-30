@@ -17,8 +17,8 @@ additional_images:
     - "https://i.discogs.com/JEfz8JFciHZSDvT__cmZySZhjJJdoNwJ_uKnIGnloG0/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgyMDM0/ODktMTQ3OTc1MzEw/OS0yNjgwLmpwZWc.jpeg"
     - "https://i.discogs.com/8AdWWWyEK1jNiDzT1ycWr7sF0pMYi8Y5BgEKCRgCGt4/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgyMDM0/ODktMTQ3OTc1MzEx/NS00ODAwLmpwZWc.jpeg"
     - "https://i.discogs.com/hWOom-FKm-Umd4Gf2rnUwT4QSmBDarZEI-tD1wbnuwc/rs:fit/g:sm/q:90/h:590/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgyMDM0/ODktMTQ3OTc1MzE4/My01ODI1LmpwZWc.jpeg"
-    - "https://i.discogs.com/E9PDM0zR883IM7n9nJmSnLi5k9k1m4k7B-PEwu-HgDE/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgyMDM0/ODktMTQ3OTc1MzE4/My01NjI1LmpwZWc.jpeg"
-    - "https://i.discogs.com/NATCYdo2waqJ--K8BataPxMST2UVBruQq3kdZWG8-Yw/rs:fit/g:sm/q:90/h:618/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgyMDM0/ODktMTQ3OTc1MzIz/NC0zMTcwLmpwZWc.jpeg"
+    - "https://i.discogs.com/IJ87A2c2-mSckrb1LpNe3QzVCXzRrU5cmiUrg5KlXdA/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgyMDM0/ODktMTQ3OTc1MzE4/My01NjI1LmpwZWc.jpeg"
+    - "https://i.discogs.com/Uzzv_JMbgoQeTyH8iJ783-2NTaIjV1rJwWnSFpRAygQ/rs:fit/g:sm/q:90/h:600/w:581/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgyMDM0/ODktMTQ3OTc1MzIz/NC0zMTcwLmpwZWc.jpeg"
     - "https://i.discogs.com/U22RQj9yGM5L2qyC0tXXeRlNjhA3MdgZhQhm9Q9EDHg/rs:fit/g:sm/q:90/h:593/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgyMDM0/ODktMTQ3OTc1MzM1/My03NzM3LmpwZWc.jpeg"
 genres: ["Rock"]
 styles: ["Progressive Metal"]
@@ -42,19 +42,32 @@ styles: ["Progressive Metal"]
 13. Grace (3:20)
 
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/winter/1068112932" >}}<br>
+{{< applemusic url="https://music.apple.com/gb/album/classical-sleep/1509903251" >}}<br>
 
 
 ## Videos
-### OCEANS OF SLUMBER - Winter (OFFICIAL VIDEO)
-{{< youtube id="QxzqnetYSbk" title="OCEANS OF SLUMBER - Winter (OFFICIAL VIDEO)" >}}<br>
+### OCEANS OF SLUMBER - Devout (Album Track)
+{{< youtube id="TN8f2ouaqfs" title="OCEANS OF SLUMBER - Devout (Album Track)" >}}<br>
 ### More Videos
 
-- [OCEANS OF SLUMBER - Devout (Album Track)](https://www.youtube.com/watch?v=TN8f2ouaqfs)
+- [OCEANS OF SLUMBER - Winter (OFFICIAL VIDEO)](https://www.youtube.com/watch?v=QxzqnetYSbk)
 - [OCEANS OF SLUMBER - Suffer The Last Bridge (OFFICIAL VIDEO)](https://www.youtube.com/watch?v=uj2lpQxGKhU)
-- [Turpentine](https://www.youtube.com/watch?v=ygykQnXU0NI)
 - [OCEANS OF SLUMBER - Turpentine (Album Track)](https://www.youtube.com/watch?v=XXKUSynBbAI)
+- [OCEANS OF SLUMBER - Turpentine (Acoustic Version)](https://www.youtube.com/watch?v=EvxBoL8IExQ)
+- [OCEANS OF SLUMBER's Cammie Gilbert On 'Winter', Concept & Women In Metal (2016)](https://www.youtube.com/watch?v=ZV6aLF5rtM0)
+- [OCEANS OF SLUMBER - Solitude (Candlemass cover)](https://www.youtube.com/watch?v=e91SnsQS1O8)
+- [Oceans of Slumber, Live in New York 2015](https://www.youtube.com/watch?v=ny97bdStY_Q)
+- [Oceans Of Slumber interview for GoetiaMedia.com 2016 (Dobber)](https://www.youtube.com/watch?v=llbQ2NptIT4)
+- [Oceans of Slumber, Live in New York 2015](https://www.youtube.com/watch?v=9QvTeOfEpX0)
+- [Oceans of Slumber - Memoriam (Blue Session)](https://www.youtube.com/watch?v=Ls2HX_Ubz-o)
+- [OCEANS OF SLUMBER - Winter (OFFICIAL VIDEO)](https://www.youtube.com/watch?v=QxzqnetYSbk)
+- [OCEANS OF SLUMBER - Devout (Album Track)](https://www.youtube.com/watch?v=TN8f2ouaqfs)
+- [Turpentine](https://www.youtube.com/watch?v=ygykQnXU0NI)
 - [Grace](https://www.youtube.com/watch?v=5LVlTJfH1qk)
+- [OCEANS OF SLUMBER - Devout (Album Track)](https://www.youtube.com/watch?v=TN8f2ouaqfs)
+- [OCEANS OF SLUMBER - Winter (OFFICIAL VIDEO)](https://www.youtube.com/watch?v=QxzqnetYSbk)
+- [OCEANS OF SLUMBER - Suffer The Last Bridge (OFFICIAL VIDEO)](https://www.youtube.com/watch?v=uj2lpQxGKhU)
+- [OCEANS OF SLUMBER - Turpentine (Album Track)](https://www.youtube.com/watch?v=XXKUSynBbAI)
 - [OCEANS OF SLUMBER - Turpentine (Acoustic Version)](https://www.youtube.com/watch?v=EvxBoL8IExQ)
 - [OCEANS OF SLUMBER's Cammie Gilbert On 'Winter', Concept & Women In Metal (2016)](https://www.youtube.com/watch?v=ZV6aLF5rtM0)
 - [OCEANS OF SLUMBER - Solitude (Candlemass cover)](https://www.youtube.com/watch?v=e91SnsQS1O8)

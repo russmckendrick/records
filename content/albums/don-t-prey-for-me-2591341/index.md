@@ -13,12 +13,12 @@ cover:
     caption: "Don't Prey For Me by Little Angels"
 additional_images:
     - "https://i.discogs.com/6QPC1oyutQWqKzDNY7Vmq8rImzE-BdLlmMYuhbddQ_8/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1OTEz/NDEtMTU2MzczOTAy/Mi00NjY5LmpwZWc.jpeg"
-    - "https://i.discogs.com/5Uiu8NyfYoCqZunUa74lp-pTn5qVCuq2fIMiZxbYorc/rs:fit/g:sm/q:90/h:605/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1OTEz/NDEtMTU2MzczODk4/My02NDk2LmpwZWc.jpeg"
-    - "https://i.discogs.com/A7Ju5UlaPSG03koH-M2-zFOiy93fDSBlOLb-bYZozEc/rs:fit/g:sm/q:90/h:603/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1OTEz/NDEtMTU2MzczODk5/OC00NDIwLmpwZWc.jpeg"
-    - "https://i.discogs.com/X-5FUfv9F6TAq1xeoj98KiDzT6xsqmVoS8ibxm-j6jU/rs:fit/g:sm/q:90/h:603/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1OTEz/NDEtMTU2MzczOTAz/MS05NjczLmpwZWc.jpeg"
-    - "https://i.discogs.com/93RxVJBWM-10zrKviR74P_PlKNOf09CZpN8vE3dr_6U/rs:fit/g:sm/q:90/h:608/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1OTEz/NDEtMTU2MzczOTA1/OS00NzEwLmpwZWc.jpeg"
-    - "https://i.discogs.com/mopBfnRhYGydobKIa5IXZUDee8Wn26s7tJAWsbvxS2M/rs:fit/g:sm/q:90/h:608/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1OTEz/NDEtMTU2MzczOTA1/Ny02MjYyLmpwZWc.jpeg"
-    - "https://i.discogs.com/GRzcF9sqpP9YbJsjob_W15W7SclzOkxFfx5UiJnqYuo/rs:fit/g:sm/q:90/h:617/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1OTEz/NDEtMTU2MzczODk3/Ny0xNDkzLmpwZWc.jpeg"
+    - "https://i.discogs.com/_UHY2qUlzWsJyLePwB6_-MF-jHBnC13FABYAr26wuzU/rs:fit/g:sm/q:90/h:600/w:594/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1OTEz/NDEtMTU2MzczODk4/My02NDk2LmpwZWc.jpeg"
+    - "https://i.discogs.com/VDtmJKPnj-STYi3FBzKJRizUx_a-2TjCG6NHa5tPgzU/rs:fit/g:sm/q:90/h:600/w:596/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1OTEz/NDEtMTU2MzczODk5/OC00NDIwLmpwZWc.jpeg"
+    - "https://i.discogs.com/xESxuzF8B4VY7Lhq-jEP_DWHjcfeea_ABz4k5-jpoI8/rs:fit/g:sm/q:90/h:600/w:596/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1OTEz/NDEtMTU2MzczOTAz/MS05NjczLmpwZWc.jpeg"
+    - "https://i.discogs.com/evIFHxcFAQhVs1cottGjWZSgV5OZA3zBQHZSKv_CWjA/rs:fit/g:sm/q:90/h:600/w:591/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1OTEz/NDEtMTU2MzczOTA1/OS00NzEwLmpwZWc.jpeg"
+    - "https://i.discogs.com/Uv79jRDqcVQd5JGXietJCbNRnfAsvNqRXB8y-1BbIq4/rs:fit/g:sm/q:90/h:600/w:591/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1OTEz/NDEtMTU2MzczOTA1/Ny02MjYyLmpwZWc.jpeg"
+    - "https://i.discogs.com/V3aqWGYa8piYXcymKMYiXQsBKIEO_qIOJRe2lpVDZgQ/rs:fit/g:sm/q:90/h:600/w:583/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1OTEz/NDEtMTU2MzczODk3/Ny0xNDkzLmpwZWc.jpeg"
 genres: ["Rock"]
 styles: ["Hard Rock"]
 ---
@@ -50,6 +50,7 @@ styles: ["Hard Rock"]
 
 - [Little Angels - Don´t pray for me](https://www.youtube.com/watch?v=H5Mx2UZ2UaA)
 - [Little Angels - Don't prey for me.](https://www.youtube.com/watch?v=Az-ayGM81Yo)
+- [Little Angels - Don't Prey For Me (Full Album)](https://www.youtube.com/watch?v=wW4ex-Id_nA)
 
 ## Release Images
 {{< imageGrid >}}

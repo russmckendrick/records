@@ -12,7 +12,7 @@ cover:
     alt: "Replicas by Tubeway Army"
     caption: "Replicas by Tubeway Army"
 additional_images:
-    - "https://i.discogs.com/3JfIXFElJ7afmPdgl4G4AdIDR_62OFqwB92_4FzeCuE/rs:fit/g:sm/q:90/h:604/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc2MjIx/MzAtMTQ0NTg3NDEz/NS0zNzE4LmpwZWc.jpeg"
+    - "https://i.discogs.com/Zd__2vwjr7Be6e5v8B9aOkFSN_A_MZRoXCVQO2C2LfY/rs:fit/g:sm/q:90/h:600/w:595/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc2MjIx/MzAtMTQ0NTg3NDEz/NS0zNzE4LmpwZWc.jpeg"
     - "https://i.discogs.com/c40q3whpJMZ8uy-wQHiBq0nQJCLNeTtzAUunGI7kK4I/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc2MjIx/MzAtMTUxOTMyMjU4/Mi05MTA5LmpwZWc.jpeg"
     - "https://i.discogs.com/a5793ppr-BrpAGtAaZMPKkj15OyZ0zdF9djFuCz-1ls/rs:fit/g:sm/q:90/h:594/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc2MjIx/MzAtMTUxOTMyMjU4/MS04NDY3LmpwZWc.jpeg"
     - "https://i.discogs.com/sfOvXFFjgNgjXwkvkjXLOzdtHEfihnIgzKMHDx2iQyY/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc2MjIx/MzAtMTUxOTMyMjU4/Mi03ODg1LmpwZWc.jpeg"
@@ -23,6 +23,12 @@ genres: ["Electronic", "Rock"]
 styles: ["New Wave", "Synth-pop", "Post-Punk"]
 ---
 
+Replicas is the second and final studio album by the English new wave band Tubeway Army, released on 6 April 1979 by Beggars Banquet Records. It followed their self-titled debut from the previous year. After this, Tubeway Army frontman Gary Numan would continue to release records under his own name, though the musicians in Tubeway Army would continue to work with him for some time. Replicas was the first album of what Numan later termed the "machine" phase of his career, preceding The Pleasure Principle (1979) and Telekon (1980), a collection linked by common themes of a dystopian science fiction future and transmutation of man/machine, coupled with an androgynous image and a synthetic rock sound.
+Fuelled by a surprise No. 1 hit single, "Are 'Friends' Electric?", the album also reached No. 1 in the UK charts in July 1979 and was certified Gold by the BPI for sales in excess of 100,000 copies.
+
+
+    
+    
 
 
 ## Tracklisting
@@ -38,7 +44,7 @@ styles: ["New Wave", "Synth-pop", "Post-Punk"]
 10. I Nearly Married A Human (6:31)
 
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/replicas-the-first-recordings-feat-tubeway-army/1481784868" >}}<br>
+{{< applemusic url="https://music.apple.com/gb/album/replicas-redux/273106969" >}}<br>
 
 
 ## Videos
@@ -62,8 +68,9 @@ styles: ["New Wave", "Synth-pop", "Post-Punk"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
+| Wikipedia URL | https://en.wikipedia.org/wiki/Replicas_(album) |
 | Format         | Vinyl LP Album Reissue Remastered |
 | Label          | Beggars Banquet |
 | Catalog Number | BBQLP 7 |
-| Notes | Record housed in a single jacket.  Mastered From HD Digital 96/24 Transfers Of Analogue Tapes.  ℗ 1979 Beggars Banquet © 2015 Beggars Banquet  Mixed at Marcus Music AB, London  Thanks So Far To: Tony Webb, Derek Cox, Cheryl McLachlan, Stephen Webbon, Karen, Mike Stone, John Peel, Pete Edwards, Hugh S., The Two Soos, Rosanna, Kelly Pike, Su ”Magus”. |
+| Notes | Record housed in a single jacket.  Mastered From HD Digital 96/24 Transfers Of Analogue Tapes.  ℗ 1979 Beggars Banquet © 2015 Beggars Banquet  Mixed at Marcus Music AB, London  Thanks So Far To: Tony Webb, Derek Cox, Cheryl McLachlan, Stephen Webbon, Karen, Mike Stone, John Peel, Pete Edwards, Hugh S., The Two Soos, Rosanna, Kelly Pike, Su ”Magus”.   The lacquer cut identifier appears as /L (AL for Alex Nimmermann) in runouts |
 | Discogs URL    | [Tubeway Army - Replicas](https://www.discogs.com/release/7622130-Tubeway-Army-Replicas) |

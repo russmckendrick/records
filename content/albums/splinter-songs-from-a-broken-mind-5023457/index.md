@@ -29,6 +29,8 @@ styles: ["New Wave", "Darkwave"]
 ---
 
 Splinter (Songs from a Broken Mind) is the seventeenth solo studio album by English musician Gary Numan, released on 9 October 2013 by Mortal Records and Cooking Vinyl. The album debuted at number twenty on the UK Albums Chart on sales of 6,187 copies, becoming Numan's highest-charting album since 1983's Warriors.
+
+
     
     
 
@@ -52,18 +54,17 @@ Splinter (Songs from a Broken Mind) is the seventeenth solo studio album by Engl
 
 
 ## Videos
-### Here in the Black
-{{< youtube id="HCxk8FCu4xE" title="Here in the Black" >}}<br>
+### Gary Numan - I Am Dust
+{{< youtube id="iMAz9jofm_4" title="Gary Numan - I Am Dust" >}}<br>
 ### More Videos
 
+- [Here in the Black](https://www.youtube.com/watch?v=HCxk8FCu4xE)
 - [Gary Numan - The Calling](https://www.youtube.com/watch?v=vvNIOmESiTk)
 - [Gary Numan - Splinter](https://www.youtube.com/watch?v=TozL0z4bDwA)
 - [Gary Numan - A Shadow Falls On Me](https://www.youtube.com/watch?v=7uXmL81ZVWM)
 - [Gary Numan - Where I Can Never Be](https://www.youtube.com/watch?v=ByyC1fQWUc8)
 - [Gary Numan - We're The Unforgiven](https://www.youtube.com/watch?v=3Zv04TSYTeY)
 - [Gary Numan - My Last Day](https://www.youtube.com/watch?v=uFrldNl6jq8)
-- [Gary Numan - Love Hurt Bleed](https://www.youtube.com/watch?v=46kXvXV42Qk)
-- [Gary Numan - I Am Dust](https://www.youtube.com/watch?v=iMAz9jofm_4)
 
 ## Release Images
 {{< imageGrid >}}
@@ -75,5 +76,5 @@ Splinter (Songs from a Broken Mind) is the seventeenth solo studio album by Engl
 | Format         | Vinyl 2× LP Album (180) |
 | Label          | Mortal Records |
 | Catalog Number | MORTALLP15 |
-| Notes | Gatefold Sleeve    ℗© 2013 Machine Music USA, INC    Mastered At Alchemy Mastering, London.    Recorded In Waldon (East Sussex), Long Eaton (Nottinghamshire) And Los Angeles (California).    Photography By LaRoche Brothers (Woolhouse Studios)     |
+| Notes | Gatefold sleeve.  ℗© 2013 Machine Music USA, INC.  Mastered at Alchemy Mastering, London.  Recorded in Waldon (East Sussex), Long Eaton (Nottinghamshire) and Los Angeles (California).  Photography by LaRoche Brothers (Woolhouse Studios).  Runouts are etched.   |
 | Discogs URL    | [Gary Numan - Splinter (Songs From A Broken Mind)](https://www.discogs.com/release/5023457-Gary-Numan-Splinter-Songs-From-A-Broken-Mind) |

@@ -12,13 +12,20 @@ cover:
     alt: "Grimspound by Big Big Train"
     caption: "Grimspound by Big Big Train"
 additional_images:
-    - "https://i.discogs.com/t3TKkbRjq0O7xmoYhpU6TqS-dQmAx21ESRltiiSwQlc/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMjA0/ODM3LTE0OTMzNzA3/NDctMTM3NS5qcGVn.jpeg"
-    - "https://i.discogs.com/3Wz8RiqtA1zGr6NHaNaIaGRPp2tsYQUV1tmdlzCUzfE/rs:fit/g:sm/q:90/h:800/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMjA0/ODM3LTE1MjEwMzM2/OTYtNzc4OC5qcGVn.jpeg"
-    - "https://i.discogs.com/LqYDiBm8VdlOaFO0B1hv1t5QbcTdzlWX8LOcYKkZock/rs:fit/g:sm/q:90/h:800/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMjA0/ODM3LTE1MjEwMzM3/MDQtNDQzMy5qcGVn.jpeg"
+    - "https://i.discogs.com/sSruX6T6k4WOX3z_UUOVvUTkhNumTArSpWGXuNCYU8w/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMjA0/ODM3LTE2OTkyODI4/NTEtNTM1NS5qcGVn.jpeg"
+    - "https://i.discogs.com/oR4S22guy-9oA0kF-AnRbYLeGmAe65Gb9_8aY0Urobg/rs:fit/g:sm/q:90/h:600/w:450/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMjA0/ODM3LTE1MjEwMzM2/OTYtNzc4OC5qcGVn.jpeg"
+    - "https://i.discogs.com/cCvpWIABD9dEWjaBuXqSkd_PAV8dQ3J8JvdQV_-4ygk/rs:fit/g:sm/q:90/h:600/w:450/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMjA0/ODM3LTE1MjEwMzM3/MDQtNDQzMy5qcGVn.jpeg"
 genres: ["Rock"]
 styles: ["Prog Rock"]
 ---
 
+Grimspound is a late Bronze Age settlement, situated on Dartmoor in Devon, England. It consists of a set of 24 hut circles surrounded by a low stone wall. The name was first recorded by the Reverend Richard Polwhele in 1797; it was probably derived from the Anglo-Saxon god of war, Grim (more commonly known as Woden, or Odin).
+In 1893 an archaeological dig was carried out by the Dartmoor Exploration Committee, which recorded many details of Grimspound as well as, controversially, making a reconstruction of the site.
+The site was designate as a scheduled monument in 1928.
+
+
+    
+    
 
 
 ## Tracklisting
@@ -49,6 +56,7 @@ styles: ["Prog Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
+| Wikipedia URL | https://en.wikipedia.org/wiki/Grimspound |
 | Format         | Vinyl 2× LP Album Limited Edition (Opaque Vinyl) |
 | Label          | Plane Groovy |
 | Catalog Number | PLG050 |

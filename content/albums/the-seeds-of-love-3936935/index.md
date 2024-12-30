@@ -22,9 +22,11 @@ genres: ["Rock", "Pop"]
 styles: ["Psychedelic Rock", "Pop Rock"]
 ---
 
-The Seeds of Love is the third studio album by British pop rock band Tears for Fears, released on 25 September 1989 by Fontana Records. It retained the band's epic sound while incorporating influences ranging from jazz and soul to Beatlesque pop. Its lengthy production and scrapped recording sessions cost over £1 million. The album spanned the title hit single "Sowing the Seeds of Love," as well as "Woman in Chains," and "Advice for the Young at Heart", both of which reached the top 40 in several countries.
-The Seeds of Love was an international success, entering the UK Albums Chart at number one, and top ten in other countries including the U.S. It has been certified Gold or Platinum in several territories including the United Kingdom, the United States, France, Germany, Canada, and the Netherlands. Despite its success, personal tensions during recording led to band members Curt Smith and Roland Orzabal splitting up at the conclusion of their 1990 world tour, with Orzabal remaining as the band's sole official member until the two reunited in the early 2000s.
+The Seeds of Love is the third studio album by English pop rock band Tears for Fears, released on 25 September 1989 by Fontana Records. It retained the band's epic sound while incorporating influences ranging from jazz and soul to Beatlesque pop. Its lengthy production and scrapped recording sessions cost over £1 million. The album spawned the title hit single "Sowing the Seeds of Love", as well as "Woman in Chains", and "Advice for the Young at Heart", both of which reached the top 40 in several countries.
+The Seeds of Love was an international success, entering the UK Albums Chart at number one, and top ten in other countries including the United States. It has been certified Gold or Platinum in several territories including the United Kingdom, the US, France, Germany, Canada, and the Netherlands. Despite its success, personal tensions during recording led to band members Curt Smith and Roland Orzabal splitting up at the conclusion of their 1990 world tour, with Orzabal remaining as the band's sole official member until the two reunited in the early 2000s.
 In October 2020, the remastered reissue of The Seeds of Love was released in several formats including a super deluxe edition, with B-sides, remixes, and a 5.1 surround sound mix.
+
+
     
     
 
@@ -40,15 +42,21 @@ In October 2020, the remastered reissue of The Seeds of Love was released in sev
 8. Famous Last Words
 
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/the-seeds-of-love/1447096341" >}}<br>
+{{< applemusic url="https://music.apple.com/gb/album/the-seeds-of-love/1527554451" >}}<br>
 
 
 ## Videos
-### Tears For Fears - Sowing The Seeds Of Love
-{{< youtube id="VAtGOESO7W8" title="Tears For Fears - Sowing The Seeds Of Love" >}}<br>
+### Woman In Chains
+{{< youtube id="QCocz5p4kvk" title="Woman In Chains" >}}<br>
 ### More Videos
 
-- [Tea̲rs fo̲r Fea̲rs - Th̲e See̲ds of Lov̲e [Full Album] 1989](https://www.youtube.com/watch?v=BP3mq_LoFWQ)
+- [Badman’s Song](https://www.youtube.com/watch?v=92FRHjqY-WI)
+- [Sowing The Seeds Of Love](https://www.youtube.com/watch?v=XEQKy8g5UK4)
+- [Advice For The Young At Heart](https://www.youtube.com/watch?v=0aI19OorlVw)
+- [Standing On The Corner Of The Third World](https://www.youtube.com/watch?v=BxpAsZxd3pE)
+- [Swords And Knives](https://www.youtube.com/watch?v=85lQg1HhniU)
+- [Year Of The Knife](https://www.youtube.com/watch?v=UdcJOZqRTFM)
+- [Famous Last Words](https://www.youtube.com/watch?v=Z4bKHQYQ8Ck)
 
 ## Release Images
 {{< imageGrid >}}
@@ -60,5 +68,5 @@ In October 2020, the remastered reissue of The Seeds of Love was released in sev
 | Format         | Vinyl LP Album Limited Edition Numbered Reissue Remastered Special Edition Stereo (Gatefold) |
 | Label          | Mobile Fidelity Sound Lab |
 | Catalog Number | MOFI 1-034 |
-| Notes | Mastered on "The Gain 2 Ultra Analog System". Special numbered limited edition. Standart weight audiophile quality vinyl, 140gram.  1/2" / 30 IPS analog copy to analog console to lathe |
+| Notes | Comes in a single pocket gatefold jacket with bi-fold protective packaging, which doubles as a catalog, around the MOFI Original Master inner sleeve. The gatefold interior has lyrics and credits. The number is in gold in the white rectangle below 'Special Limited Edition' on the back cover.  Standard weight audiophile quality vinyl, 140gram.  1/2" / 30 IPS analog copy to analog console to lathe  [Back cover and labels] ℗ & © 1989 Mercury Records Limited. Manufactured by Universal Music Enterprises, a division of UMG Recordings Inc.  [Back cover] Special limited edition. Mastered on "The Gain 2 Ultra Analog System™"  Runouts are etched. |
 | Discogs URL    | [Tears For Fears - The Seeds Of Love](https://www.discogs.com/release/3936935-Tears-For-Fears-The-Seeds-Of-Love) |

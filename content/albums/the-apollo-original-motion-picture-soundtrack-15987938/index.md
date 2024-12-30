@@ -13,12 +13,13 @@ cover:
     caption: "The Apollo (Original Motion Picture Soundtrack) by Various"
 additional_images:
     - "https://i.discogs.com/7D5e23OVKnSoxfTIXfqa6m7OhUqKshWcY4ub3wVdCyE/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1OTg3/OTM4LTE2MTUyNTU0/MDYtMzAzMi5qcGVn.jpeg"
+    - "https://i.discogs.com/tS3Xw1uTpmu4VcmwVvFoP-t6bN4PP4ZmrrWkHSLrySc/rs:fit/g:sm/q:90/h:600/w:596/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1OTg3/OTM4LTE3MjAzNjI5/NTItMTM4Ny5qcGVn.jpeg"
     - "https://i.discogs.com/DRVPbqEotb-c-Q9JW0BoVr2dycyzW2OzfQFYVcjbv5c/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1OTg3/OTM4LTE2MTQxOTgz/NTEtNzgyMy5qcGVn.jpeg"
     - "https://i.discogs.com/BlBtQ5sGSodnT-nMMcF3C3v8Wx_PfQSmYSfm01fAv2o/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1OTg3/OTM4LTE2MTQxOTgz/NTAtNzkwNy5qcGVn.jpeg"
     - "https://i.discogs.com/XKCydagkI3pl5OogKGcU-fmhViMXNE1jw-shupgxCZ4/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1OTg3/OTM4LTE2MTQxOTgz/NTEtNDQyNC5qcGVn.jpeg"
     - "https://i.discogs.com/QymAdg-QJJ1plPUvp-JAnRHu7-YS0ThXRcjvv8fKpuA/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1OTg3/OTM4LTE2MTQxOTgz/NTEtMTI2NS5qcGVn.jpeg"
     - "https://i.discogs.com/Px9jY-iMdopf2LnG-R4igj7BjwPgEIxgufarK9TKAQE/rs:fit/g:sm/q:90/h:129/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1OTg3/OTM4LTE2MTQxOTgz/NTUtMzcyNC5qcGVn.jpeg"
-    - "https://i.discogs.com/vWZ9MHWyAgcU0BbX1oQzqO1mZ96memzDIHinLfdbrwo/rs:fit/g:sm/q:90/h:623/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1OTg3/OTM4LTE2MTQxOTgz/NDktNzE5NC5qcGVn.jpeg"
+    - "https://i.discogs.com/Kmxkukonjqd5q5No3w1Bj82T3SoCgI1B8NaIf4tBCGU/rs:fit/g:sm/q:90/h:600/w:577/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1OTg3/OTM4LTE2MTQxOTgz/NDktNzE5NC5qcGVn.jpeg"
 genres: ["Jazz", "Stage & Screen"]
 styles: ["Soundtrack"]
 ---

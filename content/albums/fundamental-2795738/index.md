@@ -23,7 +23,9 @@ genres: ["Rock"]
 styles: ["New Wave", "Pop Rock"]
 ---
 
-Fundamental or Fundamental As Anything is the fifth studio album released by Australian rock/pop group, Mental As Anything. The album was produced by Richard Gottehrer and was released on Regular Records in March 1985. It peaked at #3 on the Australian Kent Music Report albums charts.
+Fundamental or Fundamental As Anything is the fifth studio album released by Australian rock/pop group, Mental As Anything. The album was produced by Richard Gottehrer and was released on Regular Records in March 1985. It peaked at No. 3 on the Australian Kent Music Report albums charts.
+
+
     
     
 
@@ -46,20 +48,21 @@ Fundamental or Fundamental As Anything is the fifth studio album released by Aus
 
 
 ## Videos
-### Mental As Anything - Live It Up (1985)
-{{< youtube id="eD01-p3oVI0" title="Mental As Anything - Live It Up (1985)" >}}<br>
+### Mental As Anything - Live It Up (HQ)
+{{< youtube id="izIFgVG6Y9o" title="Mental As Anything - Live It Up (HQ)" >}}<br>
 ### More Videos
 
-- [Mental As Anything - Live It Up (HQ)](https://www.youtube.com/watch?v=izIFgVG6Y9o)
-- [MENTAL AS ANYTHING BIG WHEEL](https://www.youtube.com/watch?v=f9ELfVE6pRM)
+- [Mental As Anything - Live It Up (1985)](https://www.youtube.com/watch?v=eD01-p3oVI0)
 - [Mental As Anything - You're So Strong](https://www.youtube.com/watch?v=AfsMYLy2yCQ)
+- [Mental As Anything - Live It Up (HQ)](https://www.youtube.com/watch?v=izIFgVG6Y9o)
 - [Mental As Anything – “Surf & Mull & Sex & Fun” (UK Epic) 1987](https://www.youtube.com/watch?v=DR_huwgd5Ok)
-- [Good Friday](https://www.youtube.com/watch?v=JuzSzB-BCuQ)
+- ["Good Friday"](https://www.youtube.com/watch?v=JuzSzB-BCuQ)
 - [Mental As Anything - Date With Destiny](https://www.youtube.com/watch?v=XDicSQeV5gs)
 - [Mental As Anything – “Hold On” (CBS) 1986](https://www.youtube.com/watch?v=41D7GYlNn3I)
-- [Mental As Anything You're So Strong](https://www.youtube.com/watch?v=vrUyvhoTQXU)
+- [Mental As Anything "You're So Strong"](https://www.youtube.com/watch?v=vrUyvhoTQXU)
 - [You're So Strong: Mental As Anything (Countdown 1985)](https://www.youtube.com/watch?v=tM_QVP9F2tw)
 - [Mental As Anything - Live It Up](https://www.youtube.com/watch?v=6idg4J9Nqf0)
+- [MENTAL AS ANYTHING BIG WHEEL](https://www.youtube.com/watch?v=f9ELfVE6pRM)
 
 ## Release Images
 {{< imageGrid >}}

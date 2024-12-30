@@ -44,20 +44,15 @@ Al Green's Greatest Hits is a 1975 greatest hits release by soul singer Al Green
 
 
 ## Videos
-### Tired of Being Alone
-{{< youtube id="osvlh6XQCYg" title="Tired of Being Alone" >}}<br>
+### Al Green - Sha-La-La (Make Me Happy) [Official Audio]
+{{< youtube id="KURTpEdnDo4" title="Al Green - Sha-La-La (Make Me Happy) [Official Audio]" >}}<br>
 ### More Videos
 
-- [Call Me (Come Back Home)](https://www.youtube.com/watch?v=7vPYMqEjWOo)
-- [I'm Still in Love with You](https://www.youtube.com/watch?v=tS4W_A1X1pM)
+- [Love and Happiness](https://www.youtube.com/watch?v=q8AMZmWqgRM)
 - [Here I Am (Come and Take Me)](https://www.youtube.com/watch?v=vHAXp39WjZM)
-- [Al Green - How Can You Mend a Broken Heart (Official Audio)](https://www.youtube.com/watch?v=PTY6Kv0nPr8)
-- [Let's Stay Together](https://www.youtube.com/watch?v=2FEJINHoRcU)
-- [I Can't Get Next to You](https://www.youtube.com/watch?v=FJeyL4rXPV4)
-- [You Ought to Be with Me](https://www.youtube.com/watch?v=BWXuLHzj8JM)
-- [Look What You Done for Me](https://www.youtube.com/watch?v=le_SsLujDjg)
-- [Let's Get Married](https://www.youtube.com/watch?v=KakFC6aRfEA)
-- [The Best of Al Green - Greatest Hits (Full Album Stream) [30 Minutes]](https://www.youtube.com/watch?v=csZV3w_nscg)
+- [Al Green - How Can You Mend A Broken Heart (Official Audio)](https://www.youtube.com/watch?v=r0qmJoav5rE)
+- [The Best of Al Green - Al Green Greatest Hits  Full Album](https://www.youtube.com/watch?v=Rksvpr-vNJQ)
+- [Al Green - Love and Happiness](https://www.youtube.com/watch?v=rqqAnjY2Rmo)
 
 ## Release Images
 {{< imageGrid >}}

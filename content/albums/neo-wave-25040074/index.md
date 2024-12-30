@@ -19,7 +19,9 @@ styles: ["Power Pop"]
 ---
 
 Neo Wave is the second album by the British power pop band Silver Sun, released in 1998. It contains a cover version of the Johnny Mathis and Deniece Williams number-one US hit "Too Much, Too Little, Too Late".
-The album reached No. 74 in the UK albums chart. Two singles reached the UK Top 40: "Too Much, Too Little, Too Late" (No. 20) and "I'll See You Around" (No. 26).
+The album reached No. 74 on the UK Albums Chart. Two singles reached the UK top 40: "Too Much, Too Little, Too Late" (No. 20) and "I'll See You Around" (No. 26).
+
+
     
     
 
@@ -42,9 +44,8 @@ The album reached No. 74 in the UK albums chart. Two singles reached the UK Top 
 15. Patients
 16. Dead End
 
-
-## Spotify
-{{< spotify type="album" id="3PGfj2tMCyXkfzonJkxpcF" width="100%" height="500" >}}<br>
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/neo-wave/1740871831" >}}<br>
 
 
 ## Videos

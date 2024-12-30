@@ -12,13 +12,12 @@ cover:
     alt: "Nu-Clear Sounds by Ash"
     caption: "Nu-Clear Sounds by Ash"
 additional_images:
-    - "https://i.discogs.com/VQAvKfkLkSKfmBDRVGuoXxp3IIgzguia7CEMz-ntohc/rs:fit/g:sm/q:90/h:602/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2MjA3/OTUxLTE2NzcyNDQx/NDEtMzA4MC5qcGVn.jpeg"
-    - "https://i.discogs.com/c3EF5SgUzGrfyb12Q9mk-MRqNFjud-Mmp2s7Pluwbys/rs:fit/g:sm/q:90/h:615/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2MjA3/OTUxLTE2NzcyNDQx/NDEtNjg3OS5qcGVn.jpeg"
-    - "https://i.discogs.com/NkVQqdaV3bffgc5VczdfDgp-6DNNpEkkAlNd7y90lIY/rs:fit/g:sm/q:90/h:589/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2MjA3/OTUxLTE2NzcyNDQx/NDEtODk0MS5qcGVn.jpeg"
+    - "https://i.discogs.com/xQrJ0jn5dfc5dSJEButPNQkbbEfBW1lFTeovwaCUytw/rs:fit/g:sm/q:90/h:600/w:597/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2MjA3/OTUxLTE2NzcyNDQx/NDEtMzA4MC5qcGVn.jpeg"
     - "https://i.discogs.com/5PypUNwIo8hesR5Spm5oeOyhAnYVhPHH6DZyXo1h-bM/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2MjA3/OTUxLTE2NzcyNDQx/NDEtNDIzNi5qcGVn.jpeg"
+    - "https://i.discogs.com/snCMTDhjJFbAHrE1CN0GMu0299Z9OAw8m8UhWdbFwYE/rs:fit/g:sm/q:90/h:600/w:584/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2MjA3/OTUxLTE2NzcyNDQx/NDEtNjg3OS5qcGVn.jpeg"
     - "https://i.discogs.com/dHeGt_r3xVybBo7XlcLdqUqwIxTGRaec7yWADNFzgKk/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2MjA3/OTUxLTE2NzcyNDQx/NDItNzQxOS5qcGVn.jpeg"
+    - "https://i.discogs.com/NkVQqdaV3bffgc5VczdfDgp-6DNNpEkkAlNd7y90lIY/rs:fit/g:sm/q:90/h:589/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2MjA3/OTUxLTE2NzcyNDQx/NDEtODk0MS5qcGVn.jpeg"
     - "https://i.discogs.com/QCB1ueB1XxVVLCcOv14NaYiuiCylLDJcNht1xdEA4aU/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2MjA3/OTUxLTE2NzcyNDQx/NDItMjQ1Mi5qcGVn.jpeg"
-    - "https://i.discogs.com/8-hxT8eNq0UrCMBRMX45845Q0HWhUMeHWTXMyc6FC-0/rs:fit/g:sm/q:90/h:450/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2MjA3/OTUxLTE2NzczMzky/MDctMjUyMi5qcGVn.jpeg"
 genres: ["Rock"]
 styles: ["Pop Rock", "Indie Rock"]
 ---
@@ -44,10 +43,16 @@ Music critics gave Nu-Clear Sounds mixed reviews; some complimented the musician
 11. I'm Gonna Fall
 
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/nu-clear-sounds/150385693" >}}<br>
+{{< applemusic url="https://music.apple.com/gb/album/nu-clear-sounds/1437334874" >}}<br>
 
 
+## Videos
+### Ash - Jesus Says (Official Video)
+{{< youtube id="61EXldAwHzw" title="Ash - Jesus Says (Official Video)" >}}<br>
+### More Videos
 
+- [Ash - Wildsurf (Official Video)](https://www.youtube.com/watch?v=xdjQgJCnoIA)
+- [Ash - A Life Less Ordinary (Official Video)](https://www.youtube.com/watch?v=szUeXBaOfl4)
 
 ## Release Images
 {{< imageGrid >}}

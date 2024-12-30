@@ -20,7 +20,9 @@ genres: ["Electronic", "Rock"]
 styles: ["Pop Rock"]
 ---
 
-Faithful is Todd Rundgren's seventh album, released in 1976.
+Faithful is the seventh studio album by American musician Todd Rundgren, released in May 1976 on Bearsville Records.
+
+
     
     
 
@@ -44,9 +46,15 @@ Faithful is Todd Rundgren's seventh album, released in 1976.
 
 
 ## Videos
-### T͎o͎d͎d͎ ͎R͎u͎n͎d͎g͎r͎e͎n͎ ͎-͎ ͎F͎a͎i͎t͎h͎f͎u͎l͎ ͎a͎s͎ ͎l͎o͎v͎e͎ ͎1͎.͎9͎7͎6͎ ͎U͎.͎S͎.͎
-{{< youtube id="_d3JyvmT0Xg" title="T͎o͎d͎d͎ ͎R͎u͎n͎d͎g͎r͎e͎n͎ ͎-͎ ͎F͎a͎i͎t͎h͎f͎u͎l͎ ͎a͎s͎ ͎l͎o͎v͎e͎ ͎1͎.͎9͎7͎6͎ ͎U͎.͎S͎.͎" >}}<br>
+### Love of the Common Man (2015 Remaster)
+{{< youtube id="rxGTAZ0P_pA" title="Love of the Common Man (2015 Remaster)" >}}<br>
+### More Videos
 
+- [Good Vibrations (2015 Remaster)](https://www.youtube.com/watch?v=_E3RgULRWKU)
+- [Todd Rundgren - The Verb "To Love" (Lyrics Below) (HQ)](https://www.youtube.com/watch?v=rEJ85SaJ4_Q)
+- [Todd Rundgren - Black And White (Lyrics Below) (HQ)](https://www.youtube.com/watch?v=tOg8Eir2r5g)
+- [Strawberry Fields Forever (2015 Remaster)](https://www.youtube.com/watch?v=pWd73sQw9Yc)
+- [T͎o͎d͎d͎ ͎R͎u͎n͎d͎g͎r͎e͎n͎ ͎-͎ ͎F͎a͎i͎t͎h͎f͎u͎l͎ ͎a͎s͎ ͎l͎o͎v͎e͎ ͎1͎.͎9͎7͎6͎ ͎U͎.͎S͎.͎](https://www.youtube.com/watch?v=_d3JyvmT0Xg)
 
 ## Release Images
 {{< imageGrid >}}

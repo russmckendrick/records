@@ -13,17 +13,17 @@ cover:
     alt: "Flood by They Might Be Giants"
     caption: "Flood by They Might Be Giants"
 additional_images:
-    - "https://i.discogs.com/fgkCFIC9euk0DCvgIgM9K8zqFw6KWK2Hch9Ggo_s-hg/rs:fit/g:sm/q:90/h:604/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1OTM1/NjItMTU0NzYzOTQ2/NS0xNjA4LmpwZWc.jpeg"
+    - "https://i.discogs.com/hnKRIcS35BFs8EE4Cktf20NTGQKcW22N2SRyZ-fWd7o/rs:fit/g:sm/q:90/h:600/w:595/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1OTM1/NjItMTU0NzYzOTQ2/NS0xNjA4LmpwZWc.jpeg"
     - "https://i.discogs.com/8xhDZH8yTW3wKG7s5-LXHyrYei41T_o8oMfBe4-_hZk/rs:fit/g:sm/q:90/h:588/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1OTM1/NjItMTU0NzYzOTQ3/NS02NjAwLmpwZWc.jpeg"
     - "https://i.discogs.com/Tp2lH4y8yXmbPpk1JiwVCOwjS9mQZ8gu3dkE07coBBw/rs:fit/g:sm/q:90/h:579/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1OTM1/NjItMTU0NzYzOTQ3/OC02MDcwLmpwZWc.jpeg"
-    - "https://i.discogs.com/UNX9HSvIBPsg6dWVKd5jCbCblkTU2ecSi7ubk-8BoWo/rs:fit/g:sm/q:90/h:607/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1OTM1/NjItMTU0NzYzOTQ4/My02MDAzLmpwZWc.jpeg"
+    - "https://i.discogs.com/RljhpLBROYS2Iv3Lx2qnkTYvRqUv3EH-xFCRNL9nV7A/rs:fit/g:sm/q:90/h:600/w:592/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1OTM1/NjItMTU0NzYzOTQ4/My02MDAzLmpwZWc.jpeg"
     - "https://i.discogs.com/auXgbZ_FyT5anQgAwxEbVV9RLyROTDDsCVb1ddmFI1c/rs:fit/g:sm/q:90/h:590/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1OTM1/NjItMTU0NzYzOTQ5/MS03MjM4LmpwZWc.jpeg"
     - "https://i.discogs.com/ZoSEHTRkvTT-rP9LAYZz12g-4zI-cB3Zbf2kKQ0BoL0/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1OTM1/NjItMTU0NzYzOTQ5/My02OTQwLmpwZWc.jpeg"
     - "https://i.discogs.com/BVXwiMj1dRkLPgQn91ZQjKtzp4ocnBonq1VbjtDCQSo/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1OTM1/NjItMTU0NzYzOTUx/Ni0xNjIwLmpwZWc.jpeg"
-    - "https://i.discogs.com/xd-O_rL7aT2HyrarimCp2Kd5rm1mdisr4KuTW6NYb8A/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1OTM1/NjItMTU0NzYzOTUx/OC0zMDEyLmpwZWc.jpeg"
+    - "https://i.discogs.com/U1hO61Jj0tWzRnW0bYf8dDZ-5PzffIVQfd4emAzaOfc/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1OTM1/NjItMTU0NzYzOTUx/OC0zMDEyLmpwZWc.jpeg"
     - "https://i.discogs.com/8Vmpj-7vosBdHGdo7sChJf6fUx08CXHAKplAtE6YNtU/rs:fit/g:sm/q:90/h:85/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1OTM1/NjItMTU0NzYzOTUw/Mi02NzU2LmpwZWc.jpeg"
     - "https://i.discogs.com/Vh4EJfzOiOg3FcwFsBWnIdGtbe9lKOUdkNfQEmzeRNM/rs:fit/g:sm/q:90/h:295/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1OTM1/NjItMTU0NzYzOTUw/NS0zMTUxLmpwZWc.jpeg"
-    - "https://i.discogs.com/XeZRP9BfIl2arPduPBIjRSsdpi9VlJFF0GNrCQQbqeY/rs:fit/g:sm/q:90/h:758/w:390/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1OTM1/NjItMTU0NzYzOTUy/MS04ODU5LmpwZWc.jpeg"
+    - "https://i.discogs.com/nHWtImTg_epuJzOzUcOQBZOl-QmnWq-LUwc7LRePyK8/rs:fit/g:sm/q:90/h:600/w:308/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1OTM1/NjItMTU0NzYzOTUy/MS04ODU5LmpwZWc.jpeg"
     - "https://i.discogs.com/i279XkZ1i6XAOpnOhue1asqgVuNfTIaLcWlYXeYzkEk/rs:fit/g:sm/q:90/h:338/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1OTM1/NjItMTYxOTYxMzky/Mi0xMjYzLmpwZWc.jpeg"
 genres: ["Rock"]
 styles: ["Alternative Rock", "Pop Rock"]
@@ -31,7 +31,9 @@ styles: ["Alternative Rock", "Pop Rock"]
 
 Flood is the third studio album by Brooklyn-based alternative rock duo They Might Be Giants, released in January 1990. Flood was the duo's first album on the major label Elektra Records. It generated three singles: "Birdhouse in Your Soul", "Istanbul (Not Constantinople)", and the domestic promotional track "Twisting". The album is generally considered to be the band's definitive release, as it is their best-selling and most recognizable album. Despite minimal stylistic and instrumental differences from previous releases, Flood is distinguished by contributions from seasoned producers Clive Langer and Alan Winstanley. John Linnell and John Flansburgh also took advantage of new equipment and recording techniques, including unconventional, home-recorded samples, which were programmed through Casio FZ-1 synthesizers. The album was recorded in New York City at Skyline Studios, which was better equipped than studios the band had worked in previously.
 Promotion for Flood included television appearances, promotional videos, and an international tour. The album's mainstream promotion and success contributed to its status as the band's most well known album. Many fans, including young viewers of Tiny Toon Adventures, were first exposed to They Might Be Giants's music through Flood.
-The album was initially issued on CD, LP, and cassette. Upon its release, Flood was met with praise from critics and achieved moderate success on sales charts. In 2013, the album was reissued as part of a CD series spanning They Might Be Giants' four Elektra releases. In 2014, it was reissued on LP in Europe by Music On Vinyl and in the United States by Asbestos Records for Record Store Day and Black Friday, and it was reissued again on LP in 2015 on the band's label, Idlewild Recordings.
+The album was initially issued on CD, LP, and cassette. Upon its release, Flood was met with praise from critics and achieved moderate success on sales charts. In 2013, the album was reissued as part of a CD series spanning They Might Be Giants' four Elektra releases. In 2014, it was reissued on LP in Europe by Music On Vinyl and in the United States by Asbestos Records for Record Store Day and Black Friday, and it was reissued again on LP in 2015 and in 2023 on the band's label, Idlewild Recordings.
+
+
         
         
     
@@ -67,10 +69,9 @@ The album was initially issued on CD, LP, and cassette. Upon its release, Flood 
 {{< youtube id="pJ9QQdH3IiQ" title="Theme from Flood" >}}<br>
 ### More Videos
 
-- [THEY MIGHT BE GIANTS Istanbul (Not Constantinople)](https://www.youtube.com/watch?v=vsQrKZcYtqg)
 - [Birdhouse In Your Soul (Official Video) - They Might Be Giants](https://www.youtube.com/watch?v=2Am-BF7ObCI)
 - [Lucky Ball and Chain](https://www.youtube.com/watch?v=z8au4eCVPis)
-- [They Might Be Giants - Istanbul (Not Constantinople)](https://www.youtube.com/watch?v=p6NzVd3pGdE)
+- [They Might Be Giants - "Istanbul (Not Constantinople)"](https://www.youtube.com/watch?v=p6NzVd3pGdE)
 - [Dead](https://www.youtube.com/watch?v=bPgXYPJC2uA)
 - [Your Racist Friend](https://www.youtube.com/watch?v=JFGQdvYIJ0M)
 - [Particle Man](https://www.youtube.com/watch?v=vOLivyykLqk)
@@ -86,6 +87,7 @@ The album was initially issued on CD, LP, and cassette. Upon its release, Flood 
 - [Sapphire Bullets of Pure Love](https://www.youtube.com/watch?v=MnYKfrgN76Y)
 - [They Might Be Giants](https://www.youtube.com/watch?v=e-cz03eTE54)
 - [Road Movie to Berlin](https://www.youtube.com/watch?v=dF7euO5RmqI)
+- [THEY MIGHT BE GIANTS "Istanbul (Not Constantinople)"](https://www.youtube.com/watch?v=vsQrKZcYtqg)
 
 ## Release Images
 {{< imageGrid >}}

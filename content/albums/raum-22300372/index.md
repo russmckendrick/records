@@ -12,7 +12,7 @@ cover:
     alt: "Raum by Tangerine Dream"
     caption: "Raum by Tangerine Dream"
 additional_images:
-    - "https://i.discogs.com/xqCp2wyPy_zj7PgbhzRdl_AdhK3F-MSecqvR-Q0gO4c/rs:fit/g:sm/q:90/h:601/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMzAw/MzcyLTE2NDU4ODA5/MjgtODIzMy5qcGVn.jpeg"
+    - "https://i.discogs.com/rht1MSXYNl9ugxpQrx587AR7MwAsQIv1hdmW2JZk1c4/rs:fit/g:sm/q:90/h:600/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMzAw/MzcyLTE2NDU4ODA5/MjgtODIzMy5qcGVn.jpeg"
     - "https://i.discogs.com/Nxtq9u3KcG9grC0ijJMuaxMPlc6ckA_dt5cPRuC6J4g/rs:fit/g:sm/q:90/h:593/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMzAw/MzcyLTE2NDU4MDcw/NzctNjM5NS5qcGVn.jpeg"
     - "https://i.discogs.com/bzGxIw7S0-b8PIxf8HfTzRSq8YVYT74t1WCfs53WdFQ/rs:fit/g:sm/q:90/h:587/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMzAw/MzcyLTE2NDU4ODA5/NTItMjQ5OC5qcGVn.jpeg"
     - "https://i.discogs.com/wZnMCxHScpK-vXRgKQJWQ5Cj_pqFNoP0WSJi-nlLRgU/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMzAw/MzcyLTE2NDU4ODA5/NTctOTEyMy5qcGVn.jpeg"
@@ -30,6 +30,9 @@ genres: ["Electronic"]
 styles: ["Berlin-School"]
 ---
 
+Raum is a studio album by Tangerine Dream, released on Kscope on 25 February 2022. It is the group's second studio album since the death of founding member Edgar Froese in 2015. It was created by Thorsten Quaeschning, Hoshiko Yamane, and Paul Frick, using Froese's archives from 1977 to 2013, with access to his Cubase arrangements and tape recordings. It topped the UK Dance Albums Chart.
+    
+    
 
 
 ## Tracklisting
@@ -46,16 +49,15 @@ styles: ["Berlin-School"]
 
 
 ## Videos
-### Continuum
-{{< youtube id="V4FmQ2an8ww" title="Continuum" >}}<br>
+### Tangerine Dream • Raum • Full Album • 2022
+{{< youtube id="O8BOIDRjfyg" title="Tangerine Dream • Raum • Full Album • 2022" >}}<br>
 ### More Videos
 
-- [Portico](https://www.youtube.com/watch?v=h0j1vFfyxvg)
-- [In 256 Zeichen](https://www.youtube.com/watch?v=m9yXrfiuQ9M)
-- [Tangerine Dream - You're Always On Time [Edit] (Official Music Video)](https://www.youtube.com/watch?v=MM2xZZuJvpg)
-- [Along The Canal](https://www.youtube.com/watch?v=I8cVXa1YckY)
-- [What You Should Know About Endings](https://www.youtube.com/watch?v=eKNVMBfy-rk)
+- [Tangerine Dream - Raum [Full Album] (HQ)](https://www.youtube.com/watch?v=-McfWNwGsc4)
 - [Raum](https://www.youtube.com/watch?v=RM5aeRkVf4I)
+- [Tangerine Dream - Raum [Single Edit] (Official Music Video)](https://www.youtube.com/watch?v=7vpChxxgB9Y)
+- [Tangerine Dream - You're Always On Time [Edit] (Official Music Video)](https://www.youtube.com/watch?v=MM2xZZuJvpg)
+- [Raum (Single Edit)](https://www.youtube.com/watch?v=1gxYWZ8Nc4A)
 
 ## Release Images
 {{< imageGrid >}}
@@ -63,6 +65,7 @@ styles: ["Berlin-School"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
+| Wikipedia URL | https://en.wikipedia.org/wiki/Raum_(album) |
 | Format         | Vinyl 2× LP Album Stereo |
 | Label          | Kscope |
 | Catalog Number | KSCOPE1019 |

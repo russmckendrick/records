@@ -65,6 +65,13 @@ genres: ["Electronic", "Rock"]
 styles: ["Industrial"]
 ---
 
+The Fragile is the third studio album by the American industrial rock band Nine Inch Nails, released as a double album by Nothing Records and Interscope Records on September 21, 1999. It was produced by Nine Inch Nails frontman Trent Reznor and the English producer Alan Moulder, a longtime Reznor collaborator. It was recorded throughout 1997 to 1999 in New Orleans.
+Looking to depart from the distorted production of their previous album, The Downward Spiral (1994), the album features elements of ambient and electronic music within a wide variety of genres. The album continues some of the lyrical themes from The Downward Spiral, including depression and drug abuse. The album notably contains more instrumental sections than their previous work, with some entire tracks being instrumentals. The Fragile is also one of the band's longest studio releases, clocking in at nearly 1 hour and 45 minutes long. The record was promoted with three singles: "The Day the World Went Away", "We're in This Together", and "Into the Void", as well as the promotional single "Starfuckers, Inc." and an accompanying tour, the Fragility Tour, which spanned two legs. Several accompanying recordings were also released, including a remix album, Things Falling Apart (2000), a live album, And All That Could Have Been (2002), as well as an alternate version of the record, The Fragile: Deviations 1 (2016).
+Upon release, critics applauded the album's ambition and composition, although some criticized its length and perceived lack of lyrical substance. However, in the years following its release, it has come to be regarded by many critics and listeners to be among the band's best work. The album debuted at number one in the U.S. to become the band's first chart-topper, and was eventually certified double platinum by the RIAA.
+
+
+    
+    
 
 
 ## Tracklisting
@@ -130,6 +137,7 @@ styles: ["Industrial"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
+| Wikipedia URL | https://en.wikipedia.org/wiki/The_Fragile |
 | Format         | Vinyl 3× LP Album Reissue Remastered (Definitive Edition) |
 | Label          | Nothing Records |
 | Catalog Number | 00602557142778 |

@@ -4,6 +4,7 @@ artist_name: "Crowded House"
 artist: "crowded-house"
 album_name: "Together Alone"
 date: 2015-09-10T18:28:00.000000Z
+release_date: "1993-10-18"
 release_id: "2187186"
 slug: "together-alone-2187186"
 hideSummary: true
@@ -12,7 +13,7 @@ cover:
     alt: "Together Alone by Crowded House"
     caption: "Together Alone by Crowded House"
 additional_images:
-    - "https://i.discogs.com/3jcZbKLFFDxauAiV4Rn_RWId1Hzes9feE81QHqWmO1g/rs:fit/g:sm/q:90/h:603/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxODcx/ODYtMTQyNjk1MjAz/OC01OTE1LmpwZWc.jpeg"
+    - "https://i.discogs.com/KXEXlf3icrxeNMf-fZWpM8aRNKGvMZicY1ny9fcj0UY/rs:fit/g:sm/q:90/h:600/w:597/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxODcx/ODYtMTQyNjk1MjAz/OC01OTE1LmpwZWc.jpeg"
     - "https://i.discogs.com/uwbFQeXQoOFWJkh6Ml4jQd0Td1ZNqzuWG_3udSGNnJw/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxODcx/ODYtMTQyNjk1MjA0/NS0zMzcxLmpwZWc.jpeg"
     - "https://i.discogs.com/JcPOXu59uAZgEAYqLbBiojElVxI4ZoPGuXEVvWW_cu8/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxODcx/ODYtMTQyNjk1MjA1/MC0yNjc5LmpwZWc.jpeg"
     - "https://i.discogs.com/rovszWqoGNIBpdfTOBiwaHZNKUADNqo0kTEV_bT7pM4/rs:fit/g:sm/q:90/h:590/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxODcx/ODYtMTQyNjk1MjA1/Ni0zMjc1LmpwZWc.jpeg"
@@ -22,8 +23,11 @@ genres: ["Rock"]
 styles: ["Soft Rock", "Pop Rock"]
 ---
 
-Together Alone is the fourth studio album by New Zealand-Australian recording artists Crowded House. It was released in October 1993 and was their first album to feature multi-instrumentalist Mark Hart as a full band member. Unlike the band's first three albums, which were recorded in the US and Australia and produced by Mitchell Froom, Together Alone was recorded in New Zealand with producer Youth. Six singles were released from Together Alone, including "Distant Sun", which was a top 10 hit in New Zealand and Canada, and "Locked Out" which reached number 12 on the UK singles chart and number 8 on the US Modern Rock chart, the latter on the strength of the song's inclusion on the soundtrack of the 1994 film Reality Bites.
-    
+On their 1993 album <i>Together Alone</I>, Crowded House pushed themselves to a level of experimentalism they had not previously explored. Its persistent strangeness is strange in a spiritual way—which is not to say Neil Finn’s renowned talent for classic pop songwriting is obscured. <i>Together Alone</i> found its way into many a chart on the back of six singles, two of which—“Distant Sun” and “Locked Out”—became enduring, clamoured-for favourites.
+
+Joined by Killing Joke bassist Martin ‘Youth’ Glover as producer, Crowded House also elevated multi-instrumentalist Mark Hart from touring member to full-time band fixture for the proceedings. Youth’s job was to make sense of <i>Together Alone</i>’s myriad instrumentation, vocalists and ideas (several songs feature a Māori choir and log drummers). Hart would go on to work extensively with Ringo Starr in the 2000s, and there is a distinctly <i>White Album</i>-era sensibility to the weird whimsy of “Pineapple Head” and the bubbling Indian percussion underpinning “Private Universe”. Every track was an odd proposition from Crowded House, dense with curly melodies that never fully unfurl (“Fingers Of Love”) and digressions into jangly alt-pop (“Skin Feeling”). The titular closing track is the apex of everything that came before—an anthem for a non-existent nation.</i>
+        
+        
     
 
 
@@ -47,11 +51,16 @@ Together Alone is the fourth studio album by New Zealand-Australian recording ar
 
 
 ## Videos
-### Kare Kare
-{{< youtube id="44chfOSuRNk" title="Kare Kare" >}}<br>
+### Crowded House - Nails In My Feet
+{{< youtube id="dqxobKeH4Zs" title="Crowded House - Nails In My Feet" >}}<br>
 ### More Videos
 
+- [Kare Kare](https://www.youtube.com/watch?v=44chfOSuRNk)
+- [Crowded House - Fingers of Love](https://www.youtube.com/watch?v=iLFpWo3i6VY)
+- [Crowded House - Locked Out](https://www.youtube.com/watch?v=nkSUAj4BEac)
 - [Crowded House - Nails In My Feet](https://www.youtube.com/watch?v=dqxobKeH4Zs)
+- [Crowded House - Private Universe](https://www.youtube.com/watch?v=cPa70RNgOzk)
+- [Crowded House - Distant Sun](https://www.youtube.com/watch?v=Bkd5OQ8b0hQ)
 - [Crowded House - Fingers of Love](https://www.youtube.com/watch?v=iLFpWo3i6VY)
 
 ## Release Images

@@ -13,17 +13,20 @@ cover:
     caption: "Mary Star Of The Sea by Zwan"
 additional_images:
     - "https://i.discogs.com/lXwsXcOBLU7vVoES1eHSfB4CWNW6KC6OqK1Cw1LXAIM/rs:fit/g:sm/q:90/h:586/w:585/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg5MjE1/NS0xNDQzMTUwNzIz/LTgyMjgucG5n.jpeg"
-    - "https://i.discogs.com/1ROaKoksqkff3VENYaJBVDUmpQqyXnMtXME3j2OAXOU/rs:fit/g:sm/q:90/h:601/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg5MjE1/NS0xNDEzMTA4NzYw/LTM0MjQuanBlZw.jpeg"
-    - "https://i.discogs.com/QhaUo8qBnp7nfUKjw-Zr1coac1R0Q9AskqhI62OgObg/rs:fit/g:sm/q:90/h:610/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg5MjE1/NS0xNDEzMTA4Nzcz/LTc4NDIuanBlZw.jpeg"
-    - "https://i.discogs.com/-KAS2g5McrgR7QG7tiuTcUnqJB0iXb56ez17U7uT6p8/rs:fit/g:sm/q:90/h:602/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg5MjE1/NS0xNDEzMTA4Nzc0/LTQ2ODkuanBlZw.jpeg"
+    - "https://i.discogs.com/DrUWyVfBAq-3TaVwYn4BKGfOOZ7QRoajqXWfqqo64c8/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg5MjE1/NS0xNDEzMTA4NzYw/LTM0MjQuanBlZw.jpeg"
+    - "https://i.discogs.com/G3nTv1qroDdt5LJuoIJgE6yCRbR5KCWMCYxBFCm10m4/rs:fit/g:sm/q:90/h:600/w:590/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg5MjE1/NS0xNDEzMTA4Nzcz/LTc4NDIuanBlZw.jpeg"
+    - "https://i.discogs.com/hBUbra_7ODgIHQgcWhhJsm3lTSVOV9nDVbQXrnBL41o/rs:fit/g:sm/q:90/h:600/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg5MjE1/NS0xNDEzMTA4Nzc0/LTQ2ODkuanBlZw.jpeg"
     - "https://i.discogs.com/X4MhhP4sSqcFsWHKKILGFLzjH1VGbBHmC5ZJAZ6hjQA/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg5MjE1/NS0xNDEzMTA4Nzcz/LTQ0MzcuanBlZw.jpeg"
-    - "https://i.discogs.com/eN5a501EWHyzKstDjsXBkRnzL5Nf_7TyMhurvu83Bho/rs:fit/g:sm/q:90/h:610/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg5MjE1/NS0xNDEzMTA4Nzcz/LTQ5NjIuanBlZw.jpeg"
+    - "https://i.discogs.com/ziLvE8v2wdOg2rii1InjEbKTx9SjuvpT9wX5tj04oc4/rs:fit/g:sm/q:90/h:600/w:590/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg5MjE1/NS0xNDEzMTA4Nzcz/LTQ5NjIuanBlZw.jpeg"
 genres: ["Rock"]
 styles: ["Alternative Rock"]
 ---
 
-Mary Star of the Sea is the only studio album by American alternative rock band Zwan, released on January 28, 2003 on Reprise. Produced by frontman Billy Corgan and Bjorn Thorsrud, the album was supported by the singles, "Honestly" and "Lyric".
-The album debuted at number 3 in the US, selling 90,000 copies in its first week, and over 250,000 copies by the time of the band's break-up later that year. Described by Corgan as "the great lost Smashing Pumpkins record", the album's music was spearheaded by Corgan and drummer Jimmy Chamberlin.The album is named both for the Blessed Virgin Mary, from whom bandleader Corgan claimed to find comfort and guidance, and for the Catholic Church in Key West, Florida where he spent time during Zwan's early rehearsals. Seven months after the album's release Corgan announced the band's dissolution, which he attributed to conflicts between the band's members.
+Mary Star of the Sea is the only studio album by American alternative rock band Zwan, released on January 28, 2003 on Reprise. Produced by frontman Billy Corgan and Bjorn Thorsrud, the album was supported by the singles "Honestly" and "Lyric".
+The album debuted at number 3 in the US, selling 90,000 copies in its first week, and over 250,000 copies by the time of the band's break-up later that year. Described by Corgan as "the great lost Smashing Pumpkins record", the album's music was spearheaded by Corgan and drummer Jimmy Chamberlin.
+The album is named both for the Blessed Virgin Mary, from whom bandleader Corgan claimed to find comfort and guidance, and for the Catholic Church in Key West, Florida where he spent time during Zwan's early rehearsals. Seven months after the album's release Corgan announced the band's dissolution, which he attributed to conflicts between the band's members.
+
+
     
     
 
@@ -48,10 +51,11 @@ The album debuted at number 3 in the US, selling 90,000 copies in its first week
 
 
 ## Videos
-### Zwan - Mary Star Of The Sea
-{{< youtube id="6cQ66dYE4WY" title="Zwan - Mary Star Of The Sea" >}}<br>
+### Zwan - Lyric (Video Version)
+{{< youtube id="CwmUMySSNQc" title="Zwan - Lyric (Video Version)" >}}<br>
 ### More Videos
 
+- [Zwan - Honestly (Video)](https://www.youtube.com/watch?v=NLPgz9K4D20)
 - [Zwan - Lyric (Video Version)](https://www.youtube.com/watch?v=CwmUMySSNQc)
 - [Zwan - Honestly (Video)](https://www.youtube.com/watch?v=NLPgz9K4D20)
 

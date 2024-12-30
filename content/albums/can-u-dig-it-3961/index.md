@@ -28,6 +28,8 @@ styles: ["House", "Breaks", "Synth-pop", "Indie Rock", "Leftfield", "Industrial"
 3. Radio P.W.E.I. (Acapella) (1:10)
 4. The Fuses Have Been Lit (Instrumental) (2:07)
 
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/ultimate-isaac-hayes-can-you-dig-it/1443105620" >}}<br>
 
 
 ## Videos
@@ -35,9 +37,12 @@ styles: ["House", "Breaks", "Synth-pop", "Indie Rock", "Leftfield", "Industrial"
 {{< youtube id="7uG_gNOhmDc" title="Pop Will Eat Itself - Can U Dig It? (Twelve)" >}}<br>
 ### More Videos
 
+- [Pop Will Eat Itself - Can U Dig It? (Twelve)](https://www.youtube.com/watch?v=7uG_gNOhmDc)
 - [Pop Will Eat Itself - Can U Dig It? (Video)](https://www.youtube.com/watch?v=36nWNAvtwrw)
-- [Pop Will Eat Itself - Can U Dig It? [Justin Strauss 12 House Mix] 1989](https://www.youtube.com/watch?v=D8VTrcfE758)
+- [Pop Will Eat Itself - Can U Dig It? [Justin Strauss 12" House Mix] 1989](https://www.youtube.com/watch?v=D8VTrcfE758)
+- [Pop Will Eat Itself - Can U Dig It? (Video)](https://www.youtube.com/watch?v=36nWNAvtwrw)
 - [Poison to the Mind](https://www.youtube.com/watch?v=ffPjII-GJ7Y)
+- [Pop Will Eat Itself - Can U Dig It? (Video)](https://www.youtube.com/watch?v=36nWNAvtwrw)
 
 ## Release Images
 {{< imageGrid >}}

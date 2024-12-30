@@ -13,7 +13,7 @@ cover:
     caption: "Roll The Bones by Rush"
 additional_images:
     - "https://i.discogs.com/IRxH0ko4SEVmQ1xO6k6rdNcvAM62SjjuPnP-SoDqNWM/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc2MzIx/MTctMTUyNjgyMjQz/NS03ODQ3LmpwZWc.jpeg"
-    - "https://i.discogs.com/y9AigX72Y0eEx_3m_7PsrOPd7exkz6KCG7_JeCPrqxw/rs:fit/g:sm/q:90/h:602/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc2MzIx/MTctMTUyNjgyMjQy/OC05NzQwLmpwZWc.jpeg"
+    - "https://i.discogs.com/HnqSKgi7PfDcm_WetZTgmsCjk8IrK8Lz0YaUdGi6Q30/rs:fit/g:sm/q:90/h:600/w:597/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc2MzIx/MTctMTUyNjgyMjQy/OC05NzQwLmpwZWc.jpeg"
     - "https://i.discogs.com/sGKqYvBa6S42hNE1ZpoPEqjBzNFGBMjXzodUETXkeiU/rs:fit/g:sm/q:90/h:594/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc2MzIx/MTctMTUyNjgyMjQz/My01MzgwLmpwZWc.jpeg"
     - "https://i.discogs.com/34WwhT99J3kmsT8fATYBtplnQrt5E1ZZZVorlLrKGiw/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc2MzIx/MTctMTUyNjgyMjQz/Ny04Mjk0LmpwZWc.jpeg"
     - "https://i.discogs.com/JaUkWSk6LSe_-K8-2wppgVJCM-7L0u02fGTIF0VpjtU/rs:fit/g:sm/q:90/h:594/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc2MzIx/MTctMTQ3NjM5ODIy/Ni03MzI4LmpwZWc.jpeg"
@@ -24,13 +24,15 @@ additional_images:
     - "https://i.discogs.com/2zAlWO_iDrUmxIVdsvz52sOGej7vAWQmR7QlP-QiAcA/rs:fit/g:sm/q:90/h:293/w:500/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc2MzIx/MTctMTUyNjgyMjQ3/Ny0zMTc0LmpwZWc.jpeg"
     - "https://i.discogs.com/oz4XNAH5TwpdJWjhYyBbURC-0-zHjsTToy9U9qrriy0/rs:fit/g:sm/q:90/h:333/w:457/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc2MzIx/MTctMTUyNjgyMjQ3/Ni0yNTQyLmpwZWc.jpeg"
     - "https://i.discogs.com/g5QvbD3BfCo3ykU_X1ZSbDTHksEOHLkKo4Cjug2MZP8/rs:fit/g:sm/q:90/h:238/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc2MzIx/MTctMTUyNjgyMjQ3/OC0yODYwLmpwZWc.jpeg"
-    - "https://i.discogs.com/kNWFme8DJxFO87GHaJzWlL1n3QFIMZ9Q-yjJzp7JpgY/rs:fit/g:sm/q:90/h:721/w:553/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc2MzIx/MTctMTUyNjgyMjQ3/Ny0zMTA4LmpwZWc.jpeg"
+    - "https://i.discogs.com/xrF0g1s7GrmV-7N1eFt2p-G_Jb6OKwjTt-Gd6eUMLtM/rs:fit/g:sm/q:90/h:600/w:460/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc2MzIx/MTctMTUyNjgyMjQ3/Ny0zMTA4LmpwZWc.jpeg"
 genres: ["Rock"]
 styles: ["Hard Rock", "Prog Rock"]
 ---
 
-Roll the Bones is the fourteenth studio album by Canadian rock band Rush, released September 3, 1991, on Anthem Records. The band began working on Roll the Bones after a brief creative hiatus following the tour promoting their previous release, Presto.
-Roll the Bones was a return to commercial success for the band, reaching No. 3 in the United States, No. 10 in the UK, and No. 11 in Canada. The album won a Juno Award for Best Album Design at the 1992 awards. In August 2001, the album was certified platinum by the Recording Industry Association of America for selling one million copies in the US. It was remastered in 2004 and again in 2013 as part of The Studio Albums 1989–2007 box set. In 2015 it was reissued after being remastered by Sean Magee at Abbey Road Studios following a direct approach by Rush to remaster their entire back catalogue.
+Roll the Bones is the fourteenth studio album by Canadian rock band Rush, released September 3, 1991, on Anthem Records. The band began working on the album after a brief creative hiatus following the tour promoting their previous release, Presto (1989).
+Roll the Bones was a return to commercial success for the band, reaching No. 3 in the United States, No. 10 in the UK, and No. 11 in Canada. The album won a Juno Award for Best Album Design at the 1992 Juno Awards. In August 2001, the album was certified platinum by the Recording Industry Association of America for selling one million copies in the US. It was remastered in 2004 and again in 2013 as part of The Studio Albums 1989–2007 box set. In 2015, it was reissued after being remastered by Sean Magee at Abbey Road Studios, following a direct approach by Rush to remaster their entire back catalogue.
+
+
     
     
 
@@ -48,16 +50,10 @@ Roll the Bones was a return to commercial success for the band, reaching No. 3 i
 10. You Bet Your Life
 
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/roll-the-bones-remastered/642200510" >}}<br>
+{{< applemusic url="https://music.apple.com/gb/album/roll-the-bones-x/1752544586" >}}<br>
 
 
-## Videos
-### Rush - Roll the Bones
-{{< youtube id="2Pm6tb7HkRI" title="Rush - Roll the Bones" >}}<br>
-### More Videos
 
-- [Dreamline (2004 Remaster)](https://www.youtube.com/watch?v=lG3KbhXPX3E)
-- [R͟us͟h - Roll The Bones (full album) 1991](https://www.youtube.com/watch?v=1OIrEt9YJow)
 
 ## Release Images
 {{< imageGrid >}}

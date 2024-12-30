@@ -19,8 +19,12 @@ genres: ["Rock"]
 styles: ["Prog Rock"]
 ---
 
-Add this album to your library now.
-    
+Closure/Continuation is the eleventh studio album by British progressive rock band Porcupine Tree. It is their first since 2009's The Incident. Despite public uncertainty of the band's future after frontman Steven Wilson's focus on a solo career in 2010, the album was recorded intermittently in complete secrecy among Wilson, Gavin Harrison, and Richard Barbieri across the course of the following decade, without longtime bassist Colin Edwin. With the COVID-19 pandemic putting members' separate plans on hold, the band found time to finish the record in September 2021. Towards the end of the year, the band's reformation was announced, alongside the album's release date of 24 June 2022. Four singles were released ahead of the record—"Harridan", "Of the New Day", "Herd Culling", and "Rats Return".
+The album debuted at number two on the UK Albums Chart and reached number one in Germany, the Netherlands and Switzerland.
+
+
+        
+        
     
 
 
@@ -51,6 +55,8 @@ Add this album to your library now.
 - [Porcupine Tree - Population Three (Official Audio)](https://www.youtube.com/watch?v=LzG1nOFL3XQ)
 - [Porcupine Tree - Never Have (Official Audio)](https://www.youtube.com/watch?v=LYaur8_mUg4)
 - [Porcupine Tree - Love in the Past Tense (Official Audio)](https://www.youtube.com/watch?v=My9hnoHEgaU)
+- [Unboxing Porcupine Tree - Closure / Continuation 2022 Deluxe Edition](https://www.youtube.com/watch?v=yznt2OSAw7g)
+- [Porcupine Tree – Of The New Day......yerdenizplak.com İstanbul Kadıköy](https://www.youtube.com/watch?v=QXBDIofnwDc)
 
 ## Release Images
 {{< imageGrid >}}
@@ -58,6 +64,7 @@ Add this album to your library now.
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
+| Wikipedia URL | https://en.wikipedia.org/wiki/Closure/Continuation |
 | Format         | Vinyl 2× LP Album Limited Edition (Silver) |
 | Label          | Music For Nations |
 | Catalog Number | 19439966391 |

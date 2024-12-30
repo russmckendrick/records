@@ -13,13 +13,14 @@ cover:
     alt: "Everything Is Alive by Slowdive"
     caption: "Everything Is Alive by Slowdive"
 additional_images:
-    - "https://i.discogs.com/zVC1s7nFTLWhgS0PUgWDDXauHdNZJbobGjrPSZLUx0c/rs:fit/g:sm/q:90/h:604/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4MTMx/MzQ2LTE2OTM0ODkx/NTktODM3NS5qcGVn.jpeg"
-    - "https://i.discogs.com/wx8Zzh5Ca1JUKM0IFJ6Vhb05l6cjXGxC6oX9gOcWhic/rs:fit/g:sm/q:90/h:604/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4MTMx/MzQ2LTE2OTM0ODkx/NjItMTUxOS5qcGVn.jpeg"
+    - "https://i.discogs.com/alVTO5xMlYeherju1SoSF4b55DtZFLU2hmVHgxZtLk0/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4MTMx/MzQ2LTE2OTU2Nzcx/OTgtMzg1NS5qcGVn.jpeg"
+    - "https://i.discogs.com/-fFy2U2PzJZWwEs3dnkjk1tTuL8x0KxxLw9eqbD1JDE/rs:fit/g:sm/q:90/h:600/w:595/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4MTMx/MzQ2LTE2OTM0ODkx/NTktODM3NS5qcGVn.jpeg"
+    - "https://i.discogs.com/0z7LBuhqWgQ-h95Gh7po38IIi93o2Swr0W4lKPy-YKk/rs:fit/g:sm/q:90/h:600/w:595/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4MTMx/MzQ2LTE2OTM0ODkx/NjItMTUxOS5qcGVn.jpeg"
     - "https://i.discogs.com/w_o_XMYdS8MGwz8jaErfxOC0OLO_U04P8LSTyl__S3k/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4MTMx/MzQ2LTE2OTM0ODkx/NjUtNjI5MS5qcGVn.jpeg"
-    - "https://i.discogs.com/BnnT6e2tZplmIGsP_hTCAzLpzrG3RGBtzqM7W1BZMj8/rs:fit/g:sm/q:90/h:609/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4MTMx/MzQ2LTE2OTM0ODkx/NjgtMTA1Mi5qcGVn.jpeg"
-    - "https://i.discogs.com/f3yepoWwwy_eb0YHSbSuhecrT-3dePwwQ9fS693fIwk/rs:fit/g:sm/q:90/h:602/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4MTMx/MzQ2LTE2OTM0ODkx/NzEtNTQ1Ni5qcGVn.jpeg"
+    - "https://i.discogs.com/bxuelYJ8Ed4WtSDj3nqLbd4EpJ-1c4IL0ynVKEXP0dk/rs:fit/g:sm/q:90/h:600/w:591/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4MTMx/MzQ2LTE2OTM0ODkx/NjgtMTA1Mi5qcGVn.jpeg"
+    - "https://i.discogs.com/6NEDzNif9vJEPX97XuONe_GPTxHRZrTPxJtYEByGXbs/rs:fit/g:sm/q:90/h:600/w:597/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4MTMx/MzQ2LTE2OTM0ODkx/NzEtNTQ1Ni5qcGVn.jpeg"
     - "https://i.discogs.com/MbwmGTjdj1-GYSQjuBQd5Pky6JjCOFx2868SW13_VAo/rs:fit/g:sm/q:90/h:594/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4MTMx/MzQ2LTE2OTM0ODkx/NzQtNDA2Ni5qcGVn.jpeg"
-    - "https://i.discogs.com/i3D5s6OEZEIKIsT3seZdxIY0CCiJBTlUuICQu2wbNWU/rs:fit/g:sm/q:90/h:620/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4MTMx/MzQ2LTE2OTM0ODkx/NzYtODgzOS5qcGVn.jpeg"
+    - "https://i.discogs.com/UUG187f0AZuVS40CgNwEkOoIKIu6367j2wh7uZOUBRI/rs:fit/g:sm/q:90/h:600/w:580/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4MTMx/MzQ2LTE2OTM0ODkx/NzYtODgzOS5qcGVn.jpeg"
     - "https://i.discogs.com/DnFgbl2yx28XLpq0rH3sZ2sWDqvYD-GdAOvmuAbrBAE/rs:fit/g:sm/q:90/h:591/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4MTMx/MzQ2LTE2OTM0ODkx/NzgtMTMwMi5qcGVn.jpeg"
 genres: ["Rock"]
 styles: ["Alternative Rock", "Shoegaze", "Dream Pop"]
@@ -79,6 +80,11 @@ Pieced together from a foundation of electronic demos that Halstead had in 2019 
 - [Slowdive - skin in the game (Official Visualizer)](https://www.youtube.com/watch?v=HWtlDuzHc4g)
 - [Slowdive - the slab (Official Visualizer)](https://www.youtube.com/watch?v=AiQUd6F6_kw)
 - [Slowdive - alife (Official Video)](https://www.youtube.com/watch?v=MhQht-YK8rw)
+- [shanty](https://www.youtube.com/watch?v=vQiJrhcwfk0)
+- [prayer remembered](https://www.youtube.com/watch?v=XvMLeQCU8ew)
+- [andalucia plays](https://www.youtube.com/watch?v=VEBl708_ou8)
+- [chained to a cloud](https://www.youtube.com/watch?v=AF6pUQkENoY)
+- [Slowdive - chained to a cloud (El Conde)](https://www.youtube.com/watch?v=Xtzi926Lz50)
 
 ## Release Images
 {{< imageGrid >}}
@@ -89,6 +95,6 @@ Pieced together from a foundation of electronic demos that Halstead had in 2019 
 | Wikipedia URL | https://en.wikipedia.org/wiki/Everything_Is_Alive_(album) |
 | Format         | Vinyl LP Album (Pink [Pale Pink]) |
 | Label          | Dead Oceans |
-| Catalog Number | DOC232LP |
-| Notes | Released in a gatefold sleeve.  Includes a download code. |
+| Catalog Number | DOC232 |
+| Notes | Released in a gatefold sleeve. Includes a download code.  The second cat # only visible on sticker from shrinkwrap. |
 | Discogs URL    | [Slowdive - Everything Is Alive](https://www.discogs.com/release/28131346-Slowdive-Everything-Is-Alive) |

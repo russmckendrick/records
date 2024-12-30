@@ -15,8 +15,8 @@ additional_images:
     - "https://i.discogs.com/yEQobOBKdFERLX6Vrgri5DbBcce67PK2Q6X2bSITJIk/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExOTA4/MzUzLTE1MzM4MjM0/MzgtODgzNC5qcGVn.jpeg"
     - "https://i.discogs.com/uEoTvYe9nH5NfcuAyVJZrlCEQB4xCuJNOswCraorcQ4/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExOTA4/MzUzLTE1MjcxNzA1/OTItODIxMS5qcGVn.jpeg"
     - "https://i.discogs.com/fem7TYInqFfn8w930Ikkd4rNDqWq5YucECy5LaeBvBg/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExOTA4/MzUzLTE1MjcxNzA1/OTItMzU3Mi5qcGVn.jpeg"
-    - "https://i.discogs.com/VhmRypdQdaNDgNVjqWBEhZinMcH2Id0gnRduHGXoMSs/rs:fit/g:sm/q:90/h:605/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExOTA4/MzUzLTE1MjcxNzA1/OTItNTM5NS5qcGVn.jpeg"
-    - "https://i.discogs.com/cs4BuE87tbUcTJ7AMmKZb9MD0_unljkailHgU_4XRyQ/rs:fit/g:sm/q:90/h:643/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExOTA4/MzUzLTE1MjcxNzA1/OTItMzMyNS5qcGVn.jpeg"
+    - "https://i.discogs.com/8FrtBQUPYGtVqJoYy9aik-eLKWOlJLotPeUQfR6DRcs/rs:fit/g:sm/q:90/h:600/w:594/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExOTA4/MzUzLTE1MjcxNzA1/OTItNTM5NS5qcGVn.jpeg"
+    - "https://i.discogs.com/xqMCbj1Ify_KQco_sJ2wvVhWsoBKVh_Q8Qp9LVRJBsc/rs:fit/g:sm/q:90/h:600/w:559/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExOTA4/MzUzLTE1MjcxNzA1/OTItMzMyNS5qcGVn.jpeg"
     - "https://i.discogs.com/JEIYZB3M4xt3e1keub0D7cKr040Ngv2QJ_CB9LEqJjU/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExOTA4/MzUzLTE1MjcxNzA1/OTItNjUwMC5qcGVn.jpeg"
     - "https://i.discogs.com/M9R6SuU5zks7_mQuvg_JvX-BlDBsjiF20I42azd0v9g/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExOTA4/MzUzLTE1MjcxNzA1/OTItNjcxMC5qcGVn.jpeg"
     - "https://i.discogs.com/acHCFdTZt1EzGqYQdDWFyd-oanTjDs62cHL4mGcQhvg/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExOTA4/MzUzLTE1MjcxNzA1/OTItNzczMC5qcGVn.jpeg"
@@ -47,13 +47,13 @@ styles: ["Heavy Metal", "Rock & Roll", "Hard Rock", "Glam"]
 ### More Videos
 
 - [In Time by Robbie Rob](https://www.youtube.com/watch?v=H1tu7RNTZaU)
-- [Bricklin - walk away](https://www.youtube.com/watch?v=DrduICZlxFU)
 - [Play With Me - Extreme (Lyrics)](https://www.youtube.com/watch?v=475g0fZNywU)
 - [Two Heads Are Better Than One by Power Tool](https://www.youtube.com/watch?v=U56KbegdkGs)
 - [The Boys & the Girls Are Doing It by Vital Signs](https://www.youtube.com/watch?v=4-vucvV7gS0)
 - [Bricklin - Walk Away, Bill & Ted OST (HQ Remaster)](https://www.youtube.com/watch?v=w3AJ8kHh97s)
 - [Glen Burtnik - Not So Far Away [HQ]](https://www.youtube.com/watch?v=gFxlwnV8YsI)
 - [Shark Island - Dangerous](https://www.youtube.com/watch?v=5uAjZzeB-hI)
+- [Bricklin - walk away](https://www.youtube.com/watch?v=DrduICZlxFU)
 
 ## Release Images
 {{< imageGrid >}}

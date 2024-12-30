@@ -31,7 +31,10 @@ genres: ["Electronic"]
 styles: ["Electro", "Synth-pop"]
 ---
 
-Computer World (German: Computerwelt) is the eighth studio album by German electronic band Kraftwerk, released on 10 May 1981.The album deals with the themes of the rise of computers within society. In keeping with the album's concept, Kraftwerk showcased their music on an ambitious world tour. The compositions are credited to Ralf Hütter, Florian Schneider, and Karl Bartos. As was the case with the two previous albums, Computer World was released in both German- and English-language editions.
+Computer World (German: Computerwelt) is the eighth studio album by German electronic band Kraftwerk, released on 11 May 1981. It was accompanied by four singles, including a double A-side UK no. 1 featuring "Computer Love".
+The album is themed around computer technology and its rise within society. In keeping with the album's concept, Kraftwerk showcased their music on an ambitious world tour. As was the case with the two previous albums, Computer World was released in both German- and English-language editions.
+
+
     
     
 
@@ -49,13 +52,7 @@ Computer World (German: Computerwelt) is the eighth studio album by German elect
 {{< applemusic url="https://music.apple.com/gb/album/computer-world-remastered/699901844" >}}<br>
 
 
-## Videos
-### Kraftwerk - Computerwelt
-{{< youtube id="zWSkwvvfmco" title="Kraftwerk - Computerwelt" >}}<br>
-### More Videos
 
-- [★★★ Kraftwerk – Computerwelt (LP Full Album) ★★★](https://www.youtube.com/watch?v=AmfIsinSaHc)
-- [Computerwelt (2009 Remaster)](https://www.youtube.com/watch?v=YxlndeU3SVY)
 
 ## Release Images
 {{< imageGrid >}}
@@ -64,8 +61,8 @@ Computer World (German: Computerwelt) is the eighth studio album by German elect
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Computer_World |
-| Format         | Vinyl LP Album Reissue Remastered |
+| Format         | Vinyl LP Album Reissue Remastered (180g) |
 | Label          | Kling Klang |
 | Catalog Number | 50999 9 6602317 |
-| Notes | Packaging:  Comes with a 30x30 cm 16 page booklet, and a picture inner sleeve. "Kling Klang Digital Master" is printed on the sleeve's spine.  Special note:  The left and right channels for all tracks have been swapped for this remastered reissue. |
+| Notes | Comes with a 30x30 cm 16 page booklet, and a picture inner sleeve. "Kling Klang Digital Master" is printed on the sleeve's spine. |
 | Discogs URL    | [Kraftwerk - Computer World](https://www.discogs.com/release/2058343-Kraftwerk-Computer-World) |

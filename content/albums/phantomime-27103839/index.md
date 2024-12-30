@@ -4,7 +4,7 @@ artist_name: "Ghost"
 artist: "ghost"
 album_name: "Phantomime "
 date: 2023-05-19T11:07:27.000000Z
-release_date: "2023-05-19"
+release_date: "2023-05-18"
 release_id: "27103839"
 slug: "phantomime-27103839"
 hideSummary: true
@@ -13,11 +13,17 @@ cover:
     alt: "Phantomime  by Ghost"
     caption: "Phantomime  by Ghost"
 additional_images:
-    - "https://i.discogs.com/mqNjjVdn53k_UlnRzIzxtnufEwj7x3dpG55PWW2wvgk/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3MTAz/ODM5LTE2ODQ0MDEw/MjAtOTcyOS5qcGVn.jpeg"
-    - "https://i.discogs.com/YwooZmyy4GmtfBu6loupZbcrqL25K_Ui9mIN1ff7hrA/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3MTAz/ODM5LTE2ODQ0MDEw/MjAtODk3OC5qcGVn.jpeg"
-    - "https://i.discogs.com/XitDC7nlBCaFYSawTwm2g-IR7GsQfo6PZT6IcPabC5Y/rs:fit/g:sm/q:90/h:801/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3MTAz/ODM5LTE2ODQ0MDEw/MjAtODkyOS5qcGVn.jpeg"
+    - "https://i.discogs.com/LvnxHVEt5aiRNiOt5YiRzIVd6jI5GrEYPF8O4cDAHWc/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3MTAz/ODM5LTE2ODc5NjUw/NjAtODMwNS5qcGVn.jpeg"
+    - "https://i.discogs.com/KNmTTIp2ZXFoIhGVVNfPFhvvChK2W8PDofoUQYI1T5w/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3MTAz/ODM5LTE2ODc5NjUw/NjAtNTQ4My5qcGVn.jpeg"
+    - "https://i.discogs.com/GWCLJmCxO59LPlEBao67bl6KOztExm_Wwbob29fDXoY/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3MTAz/ODM5LTE2ODc5NjUw/NjAtODc2OS5qcGVn.jpeg"
+    - "https://i.discogs.com/TWj-gzP614mQ2AHPtKgOUC6keJ95spgymSRwxSAfHno/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3MTAz/ODM5LTE2ODc5NjUw/NjAtODY0Mi5qcGVn.jpeg"
+    - "https://i.discogs.com/lRwEUd5c4BEuwiNA6rbU2Z8dQcCgw_RQArUpFTubu8k/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3MTAz/ODM5LTE2ODc5NjUw/NjAtMTEzNi5qcGVn.jpeg"
+    - "https://i.discogs.com/pz8pAeplGEqTsO0v5j6zndEgRf27uOhyiHXElwGmk_A/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3MTAz/ODM5LTE2ODc5NjUw/NjAtNDA4OC5qcGVn.jpeg"
+    - "https://i.discogs.com/OyemDOj0zwBaOnacjeIlidyoVnVPrFNQySapF_xrqHQ/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3MTAz/ODM5LTE2ODc5NjUw/NjEtMTkwNi5qcGVn.jpeg"
+    - "https://i.discogs.com/YzYYxCblR2waYGEK8moV-GOxbgFioRYmralDpgrt-RY/rs:fit/g:sm/q:90/h:600/w:596/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3MTAz/ODM5LTE2OTU3NDM4/MzQtODUzMy5qcGVn.jpeg"
+    - "https://i.discogs.com/mEpi2_lNwfWJaoDdjaUlEVsR9W_vE_0kzeKKy0U46lo/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3MTAz/ODM5LTE2OTU3NDM4/MzItMTUxMC5qcGVn.jpeg"
 genres: ["Rock"]
-styles: ["Black Metal"]
+styles: ["Hard Rock"]
 ---
 
 When Ghost mastermind Tobias Forge originally conceived this covers collection, it was meant to be a full-length rather than an EP. In fact, he recorded five more songs in addition to the Genesis, Iron Maiden, Television, Stranglers and Tina Turner covers that appear here. “I had just come off making the <i>IMPERA</i> album, and I just didn’t have the energy to go through another full-length album process,” he tells Apple Music. “That deflated me a little, but as soon as I split the list in half, I saw there was a rock connection in these five songs. It just felt like a more cohesive and attractive solution. As with so many things in life, you just have to rethink your idea and all of a sudden it feels so much more doable.”
@@ -38,7 +44,8 @@ What hasn’t changed is that <i>Phantomime</i> is a companion piece to Ghost’
 
 <b>“We Don’t Need Another Hero”</b>
 “As a songwriter who learned by listening, I can’t read music. I don’t know almost any of the scholastic part of music. But if I can remember the melody of a song, like I did this one, I can usually decipher from memory what the chord sequence is—because there’s usually not too many to choose from. But with this Tina Turner song, I couldn’t really decipher what the third chord was in the chorus. And that’s because it’s actually just two. That’s why it sounds like it does. When I figured it out, I was like, ‘Motherfucker! So smart.’ And that was the push for me. I wanted to formulate this into a bigger, more hard-rocking song because it’s so good and so well-written.”
-    
+        
+        
     
 
 
@@ -54,11 +61,14 @@ What hasn’t changed is that <i>Phantomime</i> is a companion piece to Ghost’
 
 
 ## Videos
-### Ghost - Jesus He Knows Me (Official Music Video)
-{{< youtube id="BE3kJeBr9QI" title="Ghost - Jesus He Knows Me (Official Music Video)" >}}<br>
+### Ghost - Phantom Of The Opera (Official Audio)
+{{< youtube id="Wn-VdZ4LEKg" title="Ghost - Phantom Of The Opera (Official Audio)" >}}<br>
 ### More Videos
 
+- [Ghost - Jesus He Knows Me (Official Music Video)](https://www.youtube.com/watch?v=BE3kJeBr9QI)
+- [Ghost - Jesus He Knows Me (Official Music Video)](https://www.youtube.com/watch?v=BE3kJeBr9QI)
 - [Ghost - Phantom Of The Opera (Official Audio)](https://www.youtube.com/watch?v=Wn-VdZ4LEKg)
+- [Ghost - Jesus He Knows Me (Official Music Video)](https://www.youtube.com/watch?v=BE3kJeBr9QI)
 
 ## Release Images
 {{< imageGrid >}}
@@ -66,7 +76,9 @@ What hasn’t changed is that <i>Phantomime</i> is a companion piece to Ghost’
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl 12" 33 ⅓ RPM EP (Silver) |
+| Wikipedia URL | https://en.wikipedia.org/wiki/Phantomime_(Ghost_EP) |
+| Format         | Vinyl 12" 33 ⅓ RPM EP Limited Edition (Silver) |
 | Label          | Loma Vista |
 | Catalog Number | LVR03333 |
-| Discogs URL    | [Ghost - Phantomime ](https://www.discogs.com/release/27103839-Ghost-Phantomime-) |
+| Notes | 200 copies were also retailed by Assai Records with an approved hand numbered Japanese style Obi under Assai Obi Editions. |
+| Discogs URL    | [Ghost - Phantomime ](https://www.discogs.com/release/27103839-Ghost-32-Phantomime-) |

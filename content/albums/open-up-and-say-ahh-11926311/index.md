@@ -18,11 +18,15 @@ additional_images:
     - "https://i.discogs.com/TQoK8mOlhg4bszc2EkW6g5jW1XYtBUdNDV_X567xXtg/rs:fit/g:sm/q:90/h:558/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExOTI2/MzExLTE1NDM0Mjgx/NzMtMTg4Ni5qcGVn.jpeg"
     - "https://i.discogs.com/TkFC1ozgdAofzLO9KWu_HtZDNrYLLyegeg4x_aY5uEY/rs:fit/g:sm/q:90/h:585/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExOTI2/MzExLTE1NDM0Mjgx/NjgtMzQ5Mi5qcGVn.jpeg"
     - "https://i.discogs.com/1jHqpf4KYcfEGcRXclLFshODx6XWe3ZOyS8qeV1yVzI/rs:fit/g:sm/q:90/h:573/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExOTI2/MzExLTE1NDM0Mjgx/NjgtNDI0NS5qcGVn.jpeg"
-    - "https://i.discogs.com/MyylnPybv2Ziz83iDybeOzMVIukzsCUZHmtgTFdnLxc/rs:fit/g:sm/q:90/h:616/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExOTI2/MzExLTE1NDM0Mjgx/NzUtNzU3My5qcGVn.jpeg"
+    - "https://i.discogs.com/nuUoqP29i3eAGttAH4YNmuhfLZ6Ptz0pIApuskzl0sE/rs:fit/g:sm/q:90/h:600/w:584/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExOTI2/MzExLTE1NDM0Mjgx/NzUtNzU3My5qcGVn.jpeg"
 genres: ["Rock"]
 styles: ["Glam"]
 ---
 
+Open Up and Say... Ahh! is the second studio album by American glam metal band Poison, released on April 27, 1988, through Enigma Records and Capitol Records. It proved to be the band's most successful release, and spawned four hit singles: "Nothin' But a Good Time", "Fallen Angel", "Your Mama Don't Dance" (a Loggins and Messina cover) and their only number one single to date, "Every Rose Has Its Thorn". The album peaked at number two on the US Billboard 200.
+Open Up and Say Ahh was certified platinum in 1988 and 5× platinum in 1991 by the RIAA. It also has been certified 4× platinum in Canada and gold by the BPI.
+    
+    
 
 
 ## Tracklisting
@@ -38,7 +42,7 @@ styles: ["Glam"]
 10. Bad To Be Good
 
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/open-up-and-say-ahh-20th-anniversary-edition/716552394" >}}<br>
+{{< applemusic url="https://music.apple.com/gb/album/open-up-and-say-ahh/1368865887" >}}<br>
 
 
 ## Videos
@@ -46,10 +50,10 @@ styles: ["Glam"]
 {{< youtube id="_88L-CU7PD4" title="Poison - Nothin' But A Good Time (Official Video)" >}}<br>
 ### More Videos
 
-- [LP / Poison – Open Up And Say ...Ahh! / 1988](https://www.youtube.com/watch?v=6PuKzJ5JXMY)
 - [Poison - Fallen Angel (Official Video)](https://www.youtube.com/watch?v=AelpbAegA-4)
 - [Poison - Every Rose Has Its Thorn (Official Video)](https://www.youtube.com/watch?v=j2r2nDhTzO4)
 - [Poison - Your Mama Don't Dance](https://www.youtube.com/watch?v=aB5JRS6JOck)
+- [LP / Poison – Open Up And Say ...Ahh! / 1988](https://www.youtube.com/watch?v=6PuKzJ5JXMY)
 
 ## Release Images
 {{< imageGrid >}}
@@ -57,8 +61,9 @@ styles: ["Glam"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
+| Wikipedia URL | https://en.wikipedia.org/wiki/Open_Up_and_Say..._Ahh! |
 | Format         | Vinyl LP Album Limited Edition Reissue (Green ) |
 | Label          | Capitol Records |
 | Catalog Number | B0027945-01 |
 | Notes | Limited to 1000 copies |
-| Discogs URL    | [Poison - Open Up and Say...Ahh!](https://www.discogs.com/release/11926311-Poison-Open-Up-and-SayAhh) |
+| Discogs URL    | [Poison - Open Up and Say...Ahh!](https://www.discogs.com/release/11926311-Poison-3-Open-Up-and-SayAhh) |

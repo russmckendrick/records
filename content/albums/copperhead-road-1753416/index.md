@@ -18,9 +18,9 @@ additional_images:
     - "https://i.discogs.com/j4BDf_fcMdmJGGoIeX4M80gGSU9tIMvv2lgYi-ng3ZA/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3NTM0/MTYtMTQ0MDMzNTYx/MC0zMDcwLmpwZWc.jpeg"
     - "https://i.discogs.com/jieyyb1c32bw-qt2KItrbAC1PDuCPJZgoG5xQkQN2cU/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3NTM0/MTYtMTQ0MDMzNTYw/OC02NzcxLmpwZWc.jpeg"
     - "https://i.discogs.com/S1vmhmUbAUoq3dPflRMpXtZ-l5rz-d5FitfgvK9Fw3Y/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3NTM0/MTYtMTQ0MDMzNTYw/OS05ODI2LmpwZWc.jpeg"
-    - "https://i.discogs.com/pyEjFUn3d2Hkf0F7_IZfAEvR5CNumd2sRfC6RdzGwXo/rs:fit/g:sm/q:90/h:609/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3NTM0/MTYtMTQ0MDMzNTYw/Ni0xODMyLmpwZWc.jpeg"
+    - "https://i.discogs.com/FKG43CfzLGNOIFP7-UB5NE-hcv7IJjZQq5VYtpND7yw/rs:fit/g:sm/q:90/h:600/w:590/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3NTM0/MTYtMTQ0MDMzNTYw/Ni0xODMyLmpwZWc.jpeg"
     - "https://i.discogs.com/HFr39UELmQkE-LwV_PtYtw591AQ3bhtHmGXBOoiasAo/rs:fit/g:sm/q:90/h:515/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3NTM0/MTYtMTQ0MDMzNTYw/Ny05NjY4LmpwZWc.jpeg"
-    - "https://i.discogs.com/RchXPutEKQ9SA9L9P4c2ESl0Asz02VaSjeQhK1uWiM4/rs:fit/g:sm/q:90/h:799/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3NTM0/MTYtMTYwNTgxOTc5/Mi03NTU0LmpwZWc.jpeg"
+    - "https://i.discogs.com/7hA5m625M9Q5BX6LxDsyjZhd9Ew-AIwqxAAffSoX1c0/rs:fit/g:sm/q:90/h:600/w:450/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3NTM0/MTYtMTYwNTgxOTc5/Mi03NTU0LmpwZWc.jpeg"
 genres: ["Rock"]
 styles: ["Folk Rock", "Country Rock"]
 ---
@@ -60,7 +60,7 @@ A maverick to his Virginia-born bones, Earle took a long stride toward freedom o
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Wikipedia URL | https://en.wikipedia.org/wiki/Copperhead_Road_(song) |
+| Wikipedia URL | https://en.wikipedia.org/wiki/Copperhead_Road |
 | Format         | Vinyl LP Album |
 | Label          | MCA Records |
 | Catalog Number | MCF 3426 |

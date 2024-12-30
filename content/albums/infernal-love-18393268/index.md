@@ -14,7 +14,7 @@ cover:
 additional_images:
     - "https://i.discogs.com/8pbWIn-yzjphA4i0hXIOuri-iiIB_xJv2xJvuCaKPoQ/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4Mzkz/MjY4LTE2MTkwMTE4/NTEtMjQ4Mi5qcGVn.jpeg"
     - "https://i.discogs.com/xStUdnCIzSCy77zQEKLGWpA-e8F4kZkeLFz-f3hD-AQ/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4Mzkz/MjY4LTE2MTkwMTE4/NTEtNDIzNS5qcGVn.jpeg"
-    - "https://i.discogs.com/HErKo5XLB-7Bh_BhPfzm5Tz2QsjnjRftBdXDR6YEKXk/rs:fit/g:sm/q:90/h:603/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4Mzkz/MjY4LTE2MTk1Mzg0/NzUtMjkwMC5qcGVn.jpeg"
+    - "https://i.discogs.com/-PM04OCEcyX6YHXN0YHA-S5b9sZocLcWXsyhGMJRJtQ/rs:fit/g:sm/q:90/h:600/w:596/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4Mzkz/MjY4LTE2MTk1Mzg0/NzUtMjkwMC5qcGVn.jpeg"
     - "https://i.discogs.com/kcvCGnL2KqGfuvB_pYeYpZT5YCRYLOzcWtrsqgbGsdc/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4Mzkz/MjY4LTE2MTk1Mzg0/NzYtMjgyNC5qcGVn.jpeg"
     - "https://i.discogs.com/rNNuhrePUnGtZDTvcnGdgs-9S21zp3R_mLLlV8NTcjg/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4Mzkz/MjY4LTE2MTk1Mzg0/NzYtOTcxOS5qcGVn.jpeg"
     - "https://i.discogs.com/Cdz8i3RgE2tSE-jX3mIAg7k2yVKH_LJ88VaaKFxnvpA/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4Mzkz/MjY4LTE2MTk1Mzg0/NzUtODYyMS5qcGVn.jpeg"
@@ -24,6 +24,8 @@ styles: ["Alternative Rock"]
 ---
 
 Infernal Love is the fifth album by the Northern Ireland rock band Therapy? Their third album on a major label, it was released on 12 June 1995 on A&M Records. The album was recorded at Real World Studios in Box, Wiltshire from January to March 1995.
+
+
     
     
 
@@ -42,7 +44,7 @@ Infernal Love is the fifth album by the Northern Ireland rock band Therapy? Thei
 11. 30 Seconds
 
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/infernal-love-deluxe-edition/1443322426" >}}<br>
+{{< applemusic url="https://music.apple.com/gb/album/infernal-love/1443902937" >}}<br>
 
 
 ## Videos
@@ -51,11 +53,8 @@ Infernal Love is the fifth album by the Northern Ireland rock band Therapy? Thei
 ### More Videos
 
 - [Therapy? - Stories](https://www.youtube.com/watch?v=ewxIPQfDBT4)
-- [01 - Epilepsy / Therapy? - Infernal Love (1995)](https://www.youtube.com/watch?v=UX8dkGlmJKw)
-- [Therapy? - Misery](https://www.youtube.com/watch?v=wURfvocG4FI)
 - [Therapy? - A Moment Of Clarity](https://www.youtube.com/watch?v=NIyKgzTum0w)
-- [Diane](https://www.youtube.com/watch?v=EQeyFHnO5Qw)
-- [Therapy? - Me vs You](https://www.youtube.com/watch?v=RQ4l_Z8Qnds)
+- [01 - Epilepsy / Therapy? - "Infernal Love" (1995)](https://www.youtube.com/watch?v=UX8dkGlmJKw)
 - [Therapy? – Stories](https://www.youtube.com/watch?v=NE6NgYd5xuM)
 - [Therapy? – Diane](https://www.youtube.com/watch?v=p_pwLEVttw4)
 - [Therapy? – Jude The Obscene](https://www.youtube.com/watch?v=xFFUw5pikVc)
@@ -67,6 +66,9 @@ Infernal Love is the fifth album by the Northern Ireland rock band Therapy? Thei
 - [Therapy? – Epilepsy](https://www.youtube.com/watch?v=rEaMCT971Dc)
 - [Therapy? – Loose](https://www.youtube.com/watch?v=55PXTJxbYhA)
 - [Therapy? – 30 Seconds](https://www.youtube.com/watch?v=cvg9lvnmAmY)
+- [Therapy? - Diane](https://www.youtube.com/watch?v=md7SJ1kDE24)
+- [Therapy? - Misery](https://www.youtube.com/watch?v=wURfvocG4FI)
+- [Therapy? - Me vs You](https://www.youtube.com/watch?v=RQ4l_Z8Qnds)
 
 ## Release Images
 {{< imageGrid >}}

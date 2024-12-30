@@ -24,7 +24,8 @@ genres: ["Rock", "Pop"]
 styles: ["Pop Rock"]
 ---
 
-Curt Smith and Roland Orzabal’s MTV-era breakthrough is a tour de force of New Wave's possibilities. They tip toward prog on the surging "Broken" and indulge in piano-led balladry on the spare "I Believe." The album is also a vehicle for some of the '80s' most inspired singles: On "Shout," with its indelible hook and vivid digital production, and the open-road anthem "Everybody Wants to Rule the World," they put their big-tent aspirations front and center, while the majestic "Head Over Heels / Broken" confirms their place atop the arena-pop throne.
+When Tears for Fears convened to make their second album in 1984, they were young, ambitious and dead set on making sure the world knew they were something more than the Thompson Twins or Duran Duran. Curt Smith and Roland Orzabal’s first album under that name, 1983’s <I>The Hurting</I>, was some of the bleakest music to make a commercial impression since Bowie’s Berlin Trilogy, bridging the introversion of goth with the extroversion of pop. <I>Songs From the Big Chair</I> was more polished and more accessible, too, but still sounded out of sync with the prevailing trends of the time—too big, too complex, too intellectually loaded. Where <I>The Hurting</I> had explored ideas about trauma repression and inner darkness, <I>Chair</I> cast its eyes outward. These aren’t songs, they’re billboards: “Shout, shout, let it all out!”; “Everybody wants to rule the world!” The words are clear and the melodies broad, but the treatment is sophisticated enough that the band still scanned as highbrow no matter how many arenas they booked. Smith and Orzabal knew what Depeche Mode and Soft Cell were up to, but remained more interested in stuff like Peter Gabriel, spending 10 hours a day in the studio trimming trees without ever losing sight of the forest.<br />
+As synonymous as the album is in the collective memory with ’80s music, the reality is that <I>Chair</I> is a hodgepodge. Isolate the tracks from their context and you can hear industrial music (“Shout”), jazz ballads (“I Believe”), new-age (“Listen”) and ’60s-style pop (“Everybody Wants to Rule the World”)—a mix so discontinuous that the band said the album’s name was meant to nudge listeners towards the idea that this was more of a collection (“Songs From…”) than a unified creative statement. Still, the album’s modes of expression—complex, finessed, helplessly earnest—come through with such force they may as well have been applied by firehose. Smashing Pumpkins got it, and Arcade Fire too, not to mention Kanye, Drake and Nas, all of whom prominently sampled the band—artists and producers who balanced all-caps feelings with an attention to detail and pop legibility. In November 1985, the band released a documentary called <I>Scenes From the Big Chair</I>, alternating music videos with live performances and interview clips. At one point, the cameraperson addresses a photographer from the German teen magazine <I>Bravo</I>. “Who are you photographing today?” the cameraperson asks. The photographer struggles to articulate the name, turning to Orzabal, standing in the background. “Tears for Fears,” the photographer says. “Is that right?” Orzabal shakes his head. “No,” he says. “We’re the Beatles”—a joke, of course, but evidence of the fences they were swinging for. 
         
         
     
@@ -44,7 +45,17 @@ Curt Smith and Roland Orzabal’s MTV-era breakthrough is a tour de force of New
 {{< applemusic url="https://music.apple.com/gb/album/songs-from-the-big-chair/1440813508" >}}<br>
 
 
+## Videos
+### The Working Hour
+{{< youtube id="eroNADQ_mL8" title="The Working Hour" >}}<br>
+### More Videos
 
+- [Tears For Fears - Listen](https://www.youtube.com/watch?v=CY4va_mw3gk)
+- [Broken](https://www.youtube.com/watch?v=Vsva4qGh8l8)
+- [I Believe](https://www.youtube.com/watch?v=1n4OuEJMIEs)
+- [Tears For Fears - Head Over Heels](https://www.youtube.com/watch?v=CsHiG-43Fzg)
+- [Tears For Fears - Mothers Talk (US Mix)](https://www.youtube.com/watch?v=5dCD1p0zPbs)
+- [Tears For Fears - Shout (Official Music Video)](https://www.youtube.com/watch?v=Ye7FKc1JQe4)
 
 ## Release Images
 {{< imageGrid >}}

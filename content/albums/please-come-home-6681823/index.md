@@ -28,6 +28,10 @@ genres: ["Rock"]
 styles: ["Prog Rock"]
 ---
 
+"Christmas (Baby Please Come Home)" is a pop song originally sung by Darlene Love and included on the 1963 compilation album A Christmas Gift for You from Philles Records (later renamed A Christmas Gift for You from Phil Spector). The song was written by Ellie Greenwich, Jeff Barry, and Phil Spector.
+Upon release, the song did not find commercial success, but in later years it has gone on to become a Christmas standard. It charted for the first time on the Billboard Hot 100 in December 2018 and has since peaked at number 15. It has also been listed on the Billboard Holiday 100 chart, peaking at number seven. The song has been covered by U2, Mariah Carey, Cher, Death Cab for Cutie, and Michael Bublé, among others.
+    
+    
 
 
 ## Tracklisting
@@ -63,7 +67,7 @@ styles: ["Prog Rock"]
 {{< youtube id="WnXbsTZQX3g" title="Why Do We Stay - Lonely Robot" >}}<br>
 ### More Videos
 
-- [Lonely Robot - A Godless Sea](https://www.youtube.com/watch?v=5-ZEiRKwuqw)
+- [Lonely Robot - "A Godless Sea"](https://www.youtube.com/watch?v=5-ZEiRKwuqw)
 - [Lonely Robot - Airlock](https://www.youtube.com/watch?v=XeZcUm77IJg)
 
 ## Release Images
@@ -72,6 +76,7 @@ styles: ["Prog Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
+| Wikipedia URL | https://en.wikipedia.org/wiki/Christmas_(Baby_Please_Come_Home) |
 | Format         | Vinyl 2× LP Album Stereo (180 Gram), CD Album Stereo |
 | Label          | Inside Out Music |
 | Catalog Number | IOMLP 415 |

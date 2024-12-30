@@ -14,15 +14,18 @@ cover:
 additional_images:
     - "https://i.discogs.com/pTHr4Z7u7hxtfPBopVBE9BctUbNuOsHnDT3gZuaVjb8/rs:fit/g:sm/q:90/h:585/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0OTYz/Njk5LTE1ODQ4MDcx/MTgtMjM4OS5qcGVn.jpeg"
     - "https://i.discogs.com/gXltmQaNvCvBDe7JDpd7CQoEcwrSB2wKwRrljSAIODo/rs:fit/g:sm/q:90/h:584/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0OTYz/Njk5LTE1ODQ4MDcx/MjMtMzI4Ni5qcGVn.jpeg"
-    - "https://i.discogs.com/_wx-kNZrfXoBo-kDeKeyLpinj991FbFU_MVf0RtkST8/rs:fit/g:sm/q:90/h:736/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0OTYz/Njk5LTE1ODQ4MDcx/MjYtOTEwOS5qcGVn.jpeg"
-    - "https://i.discogs.com/e9JGe4n-nkAu10UDLYM5dxynzUhzxZDPPC7O7lpiAb0/rs:fit/g:sm/q:90/h:602/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0OTYz/Njk5LTE1ODQ4MDcx/MzEtMzU0NS5qcGVn.jpeg"
+    - "https://i.discogs.com/Q-JTP0HdbfdnboVDPwObfSxogZO4k0dHr89gU-cyI0c/rs:fit/g:sm/q:90/h:600/w:488/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0OTYz/Njk5LTE1ODQ4MDcx/MjYtOTEwOS5qcGVn.jpeg"
+    - "https://i.discogs.com/qZ8oFwPTMY1zMQ2NPcePsxCom2TB7o9vWHZMYbXsSj8/rs:fit/g:sm/q:90/h:600/w:597/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0OTYz/Njk5LTE1ODQ4MDcx/MzEtMzU0NS5qcGVn.jpeg"
     - "https://i.discogs.com/itrJrqqBPB4X75xEAVNaNPMDLp0cUVy-6gDuFf432Lo/rs:fit/g:sm/q:90/h:581/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0OTYz/Njk5LTE1ODQ4MDcx/MzctMjcyNC5qcGVn.jpeg"
     - "https://i.discogs.com/D6WDlLCxK4Ph7owj5MEXViAdVeWLG8aZHlvJly_Ynlk/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0OTYz/Njk5LTE1ODQ4MDcx/MzktODkyMy5qcGVn.jpeg"
-    - "https://i.discogs.com/nwPFoABokacMFUeDs7JdyXRdTsUe11yIE-HEK_fQGz4/rs:fit/g:sm/q:90/h:611/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0OTYz/Njk5LTE1ODQ4MDcx/NDItNDMzNS5qcGVn.jpeg"
+    - "https://i.discogs.com/U-NP4d1EKrJKI_nDfjlj-Qq4o2-ET4kXDeapNoK4v3I/rs:fit/g:sm/q:90/h:600/w:588/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0OTYz/Njk5LTE1ODQ4MDcx/NDItNDMzNS5qcGVn.jpeg"
 genres: ["Rock"]
 styles: ["Alternative Rock", "Prog Rock"]
 ---
 
+We're Here Because We're Here is the eighth album by the British rock band Anathema. It was released on 31 May 2010. The working title of the album was Horizons. The album was mixed by Steven Wilson of Porcupine Tree.
+    
+    
 
 
 ## Tracklisting
@@ -51,6 +54,7 @@ styles: ["Alternative Rock", "Prog Rock"]
 - [Anathema - Everything](https://www.youtube.com/watch?v=KaXWp-3fL_E)
 - [Anathema - Angels Walk Among Us (Lyrics)](https://www.youtube.com/watch?v=BRMNJNzscwQ)
 - [Anathema - Presence](https://www.youtube.com/watch?v=T8fWHvP8oqg)
+- [Anathema - We're Here Because We're Here (Full Album)](https://www.youtube.com/watch?v=xxvfI3uWM1s)
 
 ## Release Images
 {{< imageGrid >}}
@@ -58,6 +62,7 @@ styles: ["Alternative Rock", "Prog Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
+| Wikipedia URL | https://en.wikipedia.org/wiki/We%27re_Here_Because_We%27re_Here_(album) |
 | Format         | Vinyl 2× LP Album Reissue Stereo (Clear) |
 | Label          | Kscope |
 | Catalog Number | Kscope1068 |

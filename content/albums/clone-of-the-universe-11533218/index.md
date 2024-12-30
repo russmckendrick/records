@@ -16,14 +16,15 @@ additional_images:
     - "https://i.discogs.com/d5LsK7O-DCt8E6x_jLHbjS4rdJskASKJ1bOtqwhg3mU/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNTMz/MjE4LTE1MTgwMjgw/MjMtNjE1OC5qcGVn.jpeg"
     - "https://i.discogs.com/ByNzgygDxaj8PezxPF2G-keTA76ko6aFNC_qhd7z23k/rs:fit/g:sm/q:90/h:404/w:480/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNTMz/MjE4LTE1MTgwMjc5/ODctODI0Mi5qcGVn.jpeg"
     - "https://i.discogs.com/AVCU16DQO4lrTUrCfa95C5h2HJNVmTHVrqXTcx8bITk/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNTMz/MjE4LTE1MTg1NDI5/MzQtMTA2OC5qcGVn.jpeg"
-    - "https://i.discogs.com/UsyK0yPmqm5PuCa4S7GeDvkLaEP6E7_gtmBCm4Q-Uxo/rs:fit/g:sm/q:90/h:722/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNTMz/MjE4LTE1MTg1NDI5/NTAtODgyMi5qcGVn.jpeg"
-    - "https://i.discogs.com/m255P6VsOwlxUJ1Ww0wPNAsoOg8nr60st3GPf5sOUtI/rs:fit/g:sm/q:90/h:761/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNTMz/MjE4LTE1MTg1NDI5/NjQtNDIxOS5qcGVn.jpeg"
+    - "https://i.discogs.com/D5wtGYL3GwTO9CpHFax8ZvOYHhspMGEh3guNqSXv6go/rs:fit/g:sm/q:90/h:600/w:498/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNTMz/MjE4LTE1MTg1NDI5/NTAtODgyMi5qcGVn.jpeg"
+    - "https://i.discogs.com/K6m-Le29_KuzLQJJM5eUqvVy2LwHm3pZhXzfbaObivw/rs:fit/g:sm/q:90/h:600/w:472/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNTMz/MjE4LTE1MTg1NDI5/NjQtNDIxOS5qcGVn.jpeg"
 genres: ["Rock"]
 styles: ["Stoner Rock"]
 ---
 
-It might seem like SoCal stoner-rock kings Fu Manchu live on a planet populated exclusively by skate rats, surf dudes, and beach babes, but a closer examination suggests that this planet might actually be in another galaxy. On their 12th album, the fuzzed-out riffs and hot cowbell action of "Intelligent Worship," time-traveling astral rock of "Clone of the Universe," and trippy 18-minute space jam "Il Mostro Atomico"—featuring an unprecedented guest appearance from Rush guitarist Alex Lifeson—are out of this world.
-    
+It might seem like SoCal stoner-rock kings Fu Manchu live on a planet populated exclusively by skate rats, surf dudes and beach babes, but a closer examination suggests that this planet might actually be in another galaxy. On their 12th album, the fuzzed-out riffs and hot cowbell action of "Intelligent Worship", time-traveling astral rock of "Clone of the Universe" and trippy 18-minute space jam "Il Mostro Atomico"—featuring an unprecedented guest appearance from Rush guitarist Alex Lifeson—are out of this world.
+        
+        
     
 
 
@@ -54,6 +55,7 @@ It might seem like SoCal stoner-rock kings Fu Manchu live on a planet populated 
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
+| Wikipedia URL | https://en.wikipedia.org/wiki/Clone_of_the_Universe |
 | Format         | Vinyl LP Album (Black / Blue Swirl) |
 | Label          | At The Dojo Records |
 | Catalog Number | ATD014 |

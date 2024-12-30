@@ -14,13 +14,15 @@ cover:
 additional_images:
     - "https://i.discogs.com/9f237LvpuNHApPgooFDhg7JFay-s4mBZSgom5UkXCG8/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NDky/Mjk1LTE1NzU2NDgw/NzgtNzg2My5qcGVn.jpeg"
     - "https://i.discogs.com/DcSlJH2a9-EIc8IEv8h2qJsP97mqNdzbZkmwK4Yh85U/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NDky/Mjk1LTE1NzU2NDgw/NzktNjQ2OS5qcGVn.jpeg"
-    - "https://i.discogs.com/Ta-pkAhKFX55TD1GuaroUplKw8BilvYbT-ZzB0HOeoc/rs:fit/g:sm/q:90/h:979/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NDky/Mjk1LTE1NzU2NDgw/NzgtMTAzOS5qcGVn.jpeg"
+    - "https://i.discogs.com/vfKJtIbowlm_TA4WS38vnUNrBCytV8NYBUqAxf-VuUo/rs:fit/g:sm/q:90/h:600/w:367/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NDky/Mjk1LTE1NzU2NDgw/NzgtMTAzOS5qcGVn.jpeg"
 genres: ["Rock"]
 styles: ["Classic Rock"]
 ---
 
-Who (sometimes stylised as WHO) is the twelfth studio album by the English rock band the Who, released on 6 December 2019. The band's first new studio album in thirteen years, and the second overall comprising the duo of vocalist Roger Daltrey and instrumentalist Pete Townshend, it comprises ballads, rock music, electronic experimentation and "classic Who-ish" songs, according to Townshend.
+Who is the twelfth studio album by the English rock band The Who, released on 6 December 2019. The band's first new studio album in thirteen years, and the second overall comprising the duo of vocalist Roger Daltrey and instrumentalist Pete Townshend, it comprises ballads, rock music, electronic experimentation and "classic Who-ish" songs, according to Townshend.
 Promoted by three singles, including the lead single "Ball and Chain", WHO was a commercial success, reaching number three on the UK Albums Chart and number two on the American Billboard 200. The album was also positively received by music critics. The Who supported the album with their Moving On! Tour.
+
+
     
     
 
@@ -42,6 +44,9 @@ Promoted by three singles, including the lead single "Ball and Chain", WHO was a
 {{< applemusic url="https://music.apple.com/gb/album/the-who-hits-50-deluxe-edition/1461212271" >}}<br>
 
 
+## Videos
+### The Who - All This Music Must Fade (New Song)
+{{< youtube id="QpKhGNaiS6c" title="The Who - All This Music Must Fade (New Song)" >}}<br>
 
 
 ## Release Images

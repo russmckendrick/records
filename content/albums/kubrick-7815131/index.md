@@ -19,6 +19,8 @@ styles: ["Downtempo", "Modern Classical"]
 ---
 
 Kubrick is the sixth full-length studio album by electronica production duo Soulsavers released by San Quentin Recordings label. The album consists of eight instrumental compositions and is dedicated to the works of Stanley Kubrick.
+
+
     
     
 
@@ -41,8 +43,6 @@ Kubrick is the sixth full-length studio album by electronica production duo Soul
 15. Mandrake (4:33)
 16. Ziegler (2:31)
 
-## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/kubrick/1048598267" >}}<br>
 
 
 ## Videos
@@ -50,6 +50,8 @@ Kubrick is the sixth full-length studio album by electronica production duo Soul
 {{< youtube id="2KLFnzVZh4o" title="Soulsavers - DeLarge (album Kubrick)" >}}<br>
 ### More Videos
 
+- [Clay](https://www.youtube.com/watch?v=HnvJ-FzFLjM)
+- [Soulsavers - DeLarge (album Kubrick)](https://www.youtube.com/watch?v=2KLFnzVZh4o)
 - [Clay](https://www.youtube.com/watch?v=HnvJ-FzFLjM)
 
 ## Release Images

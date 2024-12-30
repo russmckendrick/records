@@ -31,7 +31,7 @@ styles: ["Prog Rock"]
 9. Downhill (3:54)
 
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/fog-electric-deluxe-edition/674007811" >}}<br>
+{{< applemusic url="https://music.apple.com/gb/album/fog-electric/674071038" >}}<br>
 
 
 ## Videos

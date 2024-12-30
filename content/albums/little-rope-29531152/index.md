@@ -14,9 +14,14 @@ cover:
     caption: "Little Rope by Sleater-Kinney"
 additional_images:
     - "https://i.discogs.com/IPM-L4AgKf2B5Tr-LkuYZyyv869_52n63_EJuGxizCI/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5NTMx/MTUyLTE3MDY3OTcx/NTAtNTQyMi5qcGVn.jpeg"
+    - "https://i.discogs.com/h_B076mpj0ml7cBk8XSYKG8ksVCo_nJCBjJBWd9Lwnw/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5NTMx/MTUyLTE3MDcyMzc4/MzMtMzYyOC5qcGVn.jpeg"
+    - "https://i.discogs.com/IxmOFZjV8R5_Es6RUGkAwsjIvAHU0Db3NZhkNCUIicI/rs:fit/g:sm/q:90/h:591/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5NTMx/MTUyLTE3MDcyMzc4/MzQtNzE0Ni5qcGVn.jpeg"
     - "https://i.discogs.com/ECm-rSjprx55boFtBflcDxs28_LUL1yXZh5cUXYY2cU/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5NTMx/MTUyLTE3MDY3OTcx/NTAtNTMxMy5qcGVn.jpeg"
     - "https://i.discogs.com/6Nr8v8y4AFAlAbxZAibhSah2uYw22Cb85Ut2xsarJng/rs:fit/g:sm/q:90/h:580/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5NTMx/MTUyLTE3MDY3OTcx/NDktNDMwNi5qcGVn.jpeg"
     - "https://i.discogs.com/UW7fn4guU2wSlCNiL33TYbxh6MBqGsHdnKeFo0diV5k/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5NTMx/MTUyLTE3MDY3OTcx/NDktMzg3My5qcGVn.jpeg"
+    - "https://i.discogs.com/cOwhXpT80r6Q37bZJZ9x7you3FKG9YSTsg2P0E366KE/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5NTMx/MTUyLTE3MDcyMzc4/MzctMzE4NC5qcGVn.jpeg"
+    - "https://i.discogs.com/KjTEscavNyIigGNLZF5S7SW0bFEPQqy8uA23Qb0Ztzc/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5NTMx/MTUyLTE3MDcyMzc4/MzgtMzMwMC5qcGVn.jpeg"
+    - "https://i.discogs.com/u4OOhdnStEh7dwTcFNv5973BjX3EuW7BlTTVdnsgwNE/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5NTMx/MTUyLTE3MDcyMzc4/NDAtODU5OS5qcGVn.jpeg"
     - "https://i.discogs.com/ClKSScdzp3xc8IlHUFS1i9fY6IvDMtf34VJtLWK6T1s/rs:fit/g:sm/q:90/h:593/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5NTMx/MTUyLTE3MDY3OTcx/NTAtMTU0NS5qcGVn.jpeg"
 genres: ["Rock", "Pop"]
 styles: ["Indie Pop", "Alternative Rock"]
@@ -61,16 +66,16 @@ CT: “This one’s meant to be a very personal story about feeling trapped in a
 
 
 ## Tracklisting
-1. Hell (3:14)
-2. Needlessly Wild (2:48)
-3. Say It Like You Mean It (3:43)
-4. Hunt You Down (3:21)
-5. Small Finds (3:10)
-6. Don’t Feel Right (3:43)
-7. Six Mistakes (3:03)
-8. Crusader (3:30)
-9. Dress Yourself (3:22)
-10. Untidy Creature (3:28)
+1. Hell
+2. Needlessly Wild
+3. Say It Like You Mean It
+4. Hunt You Down
+5. Small Finds
+6. Don’t Feel Right
+7. Six Mistakes
+8. Crusader
+9. Dress Yourself
+10. Untidy Creature
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/little-rope/1706544250" >}}<br>
@@ -93,8 +98,8 @@ CT: “This one’s meant to be a very personal story about feeling trapped in a
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Little_Rope |
-| Format         | Vinyl LP Album Stereo (Metallic Gold) |
+| Format         | Vinyl LP Album Limited Edition Stereo (Metallic Gold) |
 | Label          | Loma Vista |
 | Catalog Number | LVR03681 |
-| Notes | Metallic Gold LP exclusive to Sleater-Kinney + Loma Vista Recordings Online. Matrix/Runout stamped except the first LVR03681, #2, #1, and BG are etched. |
+| Notes | Metallic Gold LP exclusive to Sleater-Kinney + Loma Vista Recordings Online. Packaged in a gatefold sleeve. Includes a printed inner sleeve.  LVR03681 is on the sleeve. LVR03742 is on the additional barcode sticker.  Matrix/Runout stamped except the first LVR03681, #2, #1, and BG are etched.  ℗ & © 2023 Sleater-Kinney, under exclusive license to Loma Vista Recordings. Manufactured and distributed by Concord, 10 Lea Avenue, Suite 300, Nashville, TN 37210. Made in U.S.A.  Recorded at Flora Recording And Playback, Portland, Oregon  Published by BMG Gold Songs / Code Word Nemesis (ASCAP), Administered by BMG Rights Management (US) LLC. |
 | Discogs URL    | [Sleater-Kinney - Little Rope](https://www.discogs.com/release/29531152-Sleater-Kinney-Little-Rope) |

@@ -12,12 +12,18 @@ cover:
     alt: "Eupnea by Pure Reason Revolution"
     caption: "Eupnea by Pure Reason Revolution"
 additional_images:
-    - "https://i.discogs.com/JHlHDa_oD8dv_CEdYckMlFeZeiQwZHHpRJk4UFyD9DM/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MDYx/MzE3LTE1ODYxNjk0/NzktNjgyMC5qcGVn.jpeg"
-    - "https://i.discogs.com/smUuS2TRoQPzUfLLZpyxq2LGk6_yC8qBdnNFfWGRExo/rs:fit/g:sm/q:90/h:694/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MDYx/MzE3LTE1ODYxNjk0/NzktNTI5MC5qcGVn.jpeg"
+    - "https://i.discogs.com/p1J95IcvbBIrt6rcvdr4VDS6TvrhsP9dczArCSdCIRA/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MDYx/MzE3LTE1ODYxNjk0/NzktNjgyMC5qcGVn.jpeg"
+    - "https://i.discogs.com/C19fJC3bOuzu4J2qM2n-GO4rxmZK8mZo6B6CUG1HHx0/rs:fit/g:sm/q:90/h:600/w:518/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MDYx/MzE3LTE1ODYxNjk0/NzktNTI5MC5qcGVn.jpeg"
 genres: ["Electronic", "Rock"]
 styles: ["Prog Rock"]
 ---
 
+In the mammalian respiratory system, eupnea is normal, good, healthy and unlabored breathing, sometimes known as quiet breathing or a resting respiratory rate. In eupnea, expiration employs only the elastic recoil of the lungs.
+Eupnea is the unaffected natural breathing in all mammals, including humans. Eupnea does not require any volitional effort whatsoever, but occurs whenever a mammal is in a natural state of relaxation, i.e. when there is no clear and present danger in their environment and without substantial exertion. When a mammal perceives potential danger or is under exertion, eupnea stops, and a much more limited and labored form of breathing—shallow breathing—occurs. 
+Eupnea is an efficient and effective form of breathing, which balances between maximizing air intake, and minimizing muscular effort.
+During eupnea, neural output to respiratory muscles is highly regular and stable, with rhythmic bursts of activity during inspiration only to the diaphragm and external intercostal muscles.
+    
+    
 
 
 ## Tracklisting
@@ -49,6 +55,7 @@ styles: ["Prog Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
+| Wikipedia URL | https://en.wikipedia.org/wiki/Eupnea |
 | Format         | Vinyl LP (Yellow Neon, 180 Gram), Vinyl LP Single Sided Etched (Yellow Neon, 180 Gram), All Media Album, CD Album, All Media Limited Edition |
 | Label          | Inside Out Music |
 | Catalog Number | IOMLP 545 |

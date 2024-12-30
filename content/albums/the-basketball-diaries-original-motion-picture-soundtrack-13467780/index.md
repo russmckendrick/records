@@ -13,7 +13,7 @@ cover:
     caption: "The Basketball Diaries (Original Motion Picture Soundtrack) by Various"
 additional_images:
     - "https://i.discogs.com/019Qg7MpYSX5eEG3-n8ESUm7LrkxN7x--smBCALDits/rs:fit/g:sm/q:90/h:586/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNDY3/NzgwLTE1NTU1MzQx/MTgtMTkxOS5qcGVn.jpeg"
-    - "https://i.discogs.com/YJ74rYmQ52XYuMNDWr9DmnuFiKbFkrXG9ZbjYbYUZss/rs:fit/g:sm/q:90/h:602/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNDY3/NzgwLTE1NTU1MzQx/MzYtNzg3Ny5qcGVn.jpeg"
+    - "https://i.discogs.com/LR--Oqmv6J6MbRHuOPbdB9Ypub5DQAwgRtPXj1FDI9A/rs:fit/g:sm/q:90/h:600/w:597/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNDY3/NzgwLTE1NTU1MzQx/MzYtNzg3Ny5qcGVn.jpeg"
     - "https://i.discogs.com/OpTCIzM35LB8D2T9YV0Sp2RYPqFozfZkIShcrMeKVzk/rs:fit/g:sm/q:90/h:590/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNDY3/NzgwLTE1NTU1MzQx/NDAtNDA3My5qcGVn.jpeg"
     - "https://i.discogs.com/arIsn2DV13AxtpudFpmhGLdmuMFyQVl4jDEKoVgkogE/rs:fit/g:sm/q:90/h:450/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNDY3/NzgwLTE1NTU1NTA2/NjUtODEzNC5qcGVn.jpeg"
     - "https://i.discogs.com/NGYhswGrcblhZcOw999UW-Lg3SJ9jeehNaKS9n3U5Cc/rs:fit/g:sm/q:90/h:450/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNDY3/NzgwLTE1NTU1NTA2/NjUtNzAzOC5qcGVn.jpeg"
@@ -47,8 +47,8 @@ styles: ["Soundtrack", "Alternative Rock"]
 
 
 ## Videos
-### The Basketball Diaries Catholic Boy Jim Carroll
-{{< youtube id="JB72RnNJk9I" title="The Basketball Diaries Catholic Boy Jim Carroll" >}}<br>
+### "The Basketball Diaries" Catholic Boy Jim Carroll
+{{< youtube id="JB72RnNJk9I" title=""The Basketball Diaries" Catholic Boy Jim Carroll" >}}<br>
 ### More Videos
 
 - [PJ Harvey - Down By The Water](https://www.youtube.com/watch?v=lbq4G1TjKYg)
@@ -66,7 +66,7 @@ styles: ["Soundtrack", "Alternative Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl 2× LP Compilation Limited Edition Reissue (Orange) |
+| Format         | Vinyl 2× LP Record Store Day Compilation Limited Edition Reissue (Orange) |
 | Label          | Real Gone Music |
 | Catalog Number | 0000879 |
 | Notes | * Record Store Day 2019 Exclusive Release • Newly Created Gatefold Jacket • 2xLP Pressed on “Basketball Orange” Vinyl • First Vinyl Release of the Soundtrack • Record Store Day Exclusive • Limited to 2000 Copies! |

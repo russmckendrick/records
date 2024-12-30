@@ -12,17 +12,17 @@ cover:
     alt: "Scratched (Unreleased Rare Tracks & Remixes) by Jesus Jones"
     caption: "Scratched (Unreleased Rare Tracks & Remixes) by Jesus Jones"
 additional_images:
-    - "https://i.discogs.com/EKfgiX7OQ0TvbHcug53fQ0ifwca-04Oc39AkljBwilA/rs:fit/g:sm/q:90/h:604/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyOTc4/NzY2LTE2NTE5MTM2/ODktOTk0My5qcGVn.jpeg"
+    - "https://i.discogs.com/-nErzAcTRD9wUP16uRv-ydrm4tGuI5oVrmBuaUQW3P0/rs:fit/g:sm/q:90/h:600/w:595/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyOTc4/NzY2LTE2NTE5MTM2/ODktOTk0My5qcGVn.jpeg"
     - "https://i.discogs.com/1iHaQomdWCeqhN7qLWd1n1YtVpnK4JKph3FhZXqr7t4/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyOTc4/NzY2LTE2NTE5MTM2/OTEtNjU1My5qcGVn.jpeg"
-    - "https://i.discogs.com/3RO4phQE9Z1JB0Ekmu0AXCT6HonMGWCNoGTC79DuXCo/rs:fit/g:sm/q:90/h:601/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyOTc4/NzY2LTE2NTIwOTM5/MDItNjI1Ny5qcGVn.jpeg"
+    - "https://i.discogs.com/jdxfUf6DVSBa_DJd_iShkytqEwcG5SWN0iRRPSs40u4/rs:fit/g:sm/q:90/h:600/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyOTc4/NzY2LTE2NTIwOTM5/MDItNjI1Ny5qcGVn.jpeg"
     - "https://i.discogs.com/F-Bnp3Nq9nDIX1bkaZP5_454HPWHhn4NaMF7KFBMhTI/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyOTc4/NzY2LTE2NTIwOTM5/MDgtMTIyOS5qcGVn.jpeg"
-    - "https://i.discogs.com/BBx0i9DIWqVEColSr2DxqoTC5Eww_1yOk68LDu_Lckg/rs:fit/g:sm/q:90/h:601/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyOTc4/NzY2LTE2NTIwOTM5/MzUtMTQ4NC5qcGVn.jpeg"
-    - "https://i.discogs.com/qPSpwbj_RZrCKxhxwZHX8iuoOJQPU1kJXUofJHGCh3Q/rs:fit/g:sm/q:90/h:606/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyOTc4/NzY2LTE2NTIwOTM5/NDMtODE4MS5qcGVn.jpeg"
+    - "https://i.discogs.com/U6AeeGUSRUf-kK56-X9zPpVv1uJNVMP3VYGQgsSCFtg/rs:fit/g:sm/q:90/h:600/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyOTc4/NzY2LTE2NTIwOTM5/MzUtMTQ4NC5qcGVn.jpeg"
+    - "https://i.discogs.com/nuiPSwA627Wi8unNBrCwxE4z1cad3kl1qstD5bAuRz8/rs:fit/g:sm/q:90/h:600/w:593/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyOTc4/NzY2LTE2NTIwOTM5/NDMtODE4MS5qcGVn.jpeg"
     - "https://i.discogs.com/a5iR30YNtIg6oYEZ3C01FXv8xKqa0nGvft79M0iiF9k/rs:fit/g:sm/q:90/h:589/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyOTc4/NzY2LTE2NTIwOTM4/ODUtNjkyOC5qcGVn.jpeg"
     - "https://i.discogs.com/Q0LCD_trTzAgW8hsTIW5STE9Z6iWJ_oKL70MCQQKsSk/rs:fit/g:sm/q:90/h:593/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyOTc4/NzY2LTE2NTIwOTM4/OTQtMTcyMy5qcGVn.jpeg"
-    - "https://i.discogs.com/WJHirmsbCEad4hY5_6vl0aDaJb7u5bxxtO4aDTi6J8U/rs:fit/g:sm/q:90/h:601/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyOTc4/NzY2LTE2NTIwOTM5/MTgtMjQ0MS5qcGVn.jpeg"
+    - "https://i.discogs.com/D38bT1vhkFJ3QYJHsCaaWcOYn5WhwnSux19N_fk5Mtc/rs:fit/g:sm/q:90/h:600/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyOTc4/NzY2LTE2NTIwOTM5/MTgtMjQ0MS5qcGVn.jpeg"
     - "https://i.discogs.com/oD7xWDzhGpT76G1wF-L3Z7_9P-FnVU6ZcOEmg5vkY9Y/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyOTc4/NzY2LTE2NTIwOTM5/MjYtNTExMi5qcGVn.jpeg"
-    - "https://i.discogs.com/3SuYbnTq9Gtqob_14mYJ_sgDlwVhKo0PHow-q9_JNaA/rs:fit/g:sm/q:90/h:604/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyOTc4/NzY2LTE2NTIwOTM4/NzYtMzUxMy5qcGVn.jpeg"
+    - "https://i.discogs.com/X5j_PcktPE3PDUJHFjekzbcgdAXIka3qe_NrG--U18Q/rs:fit/g:sm/q:90/h:600/w:595/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyOTc4/NzY2LTE2NTIwOTM4/NzYtMzUxMy5qcGVn.jpeg"
 genres: ["Electronic", "Rock", "Pop"]
 styles: ["Synth-pop", "Indie Pop", "Alternative Rock"]
 ---
@@ -54,26 +54,47 @@ styles: ["Synth-pop", "Indie Pop", "Alternative Rock"]
 
 
 ## Videos
-### Jesus Jones - Starting From Scratch
-{{< youtube id="xBrqzeyZtgc" title="Jesus Jones - Starting From Scratch" >}}<br>
+### Jesus Jones - Cut & Dried
+{{< youtube id="0D3YSfXhHdA" title="Jesus Jones - Cut & Dried" >}}<br>
 ### More Videos
 
+- [International Bright Young Thing (Chaos Mix)](https://www.youtube.com/watch?v=sIWYiIBerss)
+- [The Right Decision (Acid Confusion Mix)](https://www.youtube.com/watch?v=vQLpCnxIUBI)
+- [Jesus Jones - Real Real Real (Ben Chapman ''Spaced'' 12'' Mix)](https://www.youtube.com/watch?v=omWUFO3vPj0)
+- [Machine Drug](https://www.youtube.com/watch?v=I9zzs8fcBTM)
+- [International Bright Young Thing (Phil Harding 12'' Mix)](https://www.youtube.com/watch?v=t-6XpgJIQks)
 - [Bring It On Down (Liquidizer Mix)](https://www.youtube.com/watch?v=nLKv9UAg5gQ)
-- [Jesus Jones - Beat It Down](https://www.youtube.com/watch?v=sgtBJMT75sw)
-- [Jesus Jones - Cut & Dried](https://www.youtube.com/watch?v=0D3YSfXhHdA)
+- [Who? Where? Why? (12 Foot Mix)](https://www.youtube.com/watch?v=YmbqoEfZp2k)
+- [Jesus Jones - The Right Decision (Moody Reconstruction Mix)  1993](https://www.youtube.com/watch?v=xk9QKFtraY8)
 - [The Right Decision (Klanger Mix)](https://www.youtube.com/watch?v=74U6q9fvvSM)
 - [None Of The Answers](https://www.youtube.com/watch?v=SYo9xmH0nic)
-- [Machine Drug](https://www.youtube.com/watch?v=I9zzs8fcBTM)
 - [Beat It Down](https://www.youtube.com/watch?v=WyQcoFikdOk)
-- [The Right Decision (Acid Confusion Mix)](https://www.youtube.com/watch?v=vQLpCnxIUBI)
 - [Real Real Real (Rhythm 1) ('Raw' Mix)](https://www.youtube.com/watch?v=cct7Mlt5lxg)
+- [Kill Today](https://www.youtube.com/watch?v=gXg_Bc8hymU)
+- [Starting From Scratch](https://www.youtube.com/watch?v=NiK_Su15BEo)
+- [Jesus Jones - Zeroes & Ones [The Prodigy Versus Jesus Jones Mix]](https://www.youtube.com/watch?v=24_9eyOoslg)
+- [Jesus Jones - International Bright Young Thing (Phil Harding 12 Mix)](https://www.youtube.com/watch?v=FkCI_DO4l1o)
+- [The Right Decision (Acid Confusion Mix)](https://www.youtube.com/watch?v=vQLpCnxIUBI)
 - [International Bright Young Thing (Chaos Mix)](https://www.youtube.com/watch?v=sIWYiIBerss)
-- [Jesus Jones - Real Real Real (Ben Chapman ''Spaced'' 12'' Mix)](https://www.youtube.com/watch?v=omWUFO3vPj0)
+- [Jesus Jones - Starting From Scratch](https://www.youtube.com/watch?v=xBrqzeyZtgc)
+- [Jesus Jones - Beat It Down](https://www.youtube.com/watch?v=sgtBJMT75sw)
+- [The Right Decision (Klanger Mix)](https://www.youtube.com/watch?v=74U6q9fvvSM)
+- [Machine Drug](https://www.youtube.com/watch?v=I9zzs8fcBTM)
 - [Real Real Real (Rhythm 3) (Ben Chapman 'Spaced' Mix)](https://www.youtube.com/watch?v=9YBTyE0lbfk)
+- [Jesus Jones - Cut & Dried](https://www.youtube.com/watch?v=0D3YSfXhHdA)
+- [International Bright Young Thing (Chaos Mix)](https://www.youtube.com/watch?v=sIWYiIBerss)
+- [The Right Decision (Acid Confusion Mix)](https://www.youtube.com/watch?v=vQLpCnxIUBI)
+- [Jesus Jones - Real Real Real (Ben Chapman ''Spaced'' 12'' Mix)](https://www.youtube.com/watch?v=omWUFO3vPj0)
+- [Machine Drug](https://www.youtube.com/watch?v=I9zzs8fcBTM)
 - [International Bright Young Thing (Phil Harding 12'' Mix)](https://www.youtube.com/watch?v=t-6XpgJIQks)
 - [Who? Where? Why? (12 Foot Mix)](https://www.youtube.com/watch?v=YmbqoEfZp2k)
-- [Kill Today](https://www.youtube.com/watch?v=gXg_Bc8hymU)
+- [Bring It On Down (Liquidizer Mix)](https://www.youtube.com/watch?v=nLKv9UAg5gQ)
 - [Jesus Jones - The Right Decision (Moody Reconstruction Mix)  1993](https://www.youtube.com/watch?v=xk9QKFtraY8)
+- [The Right Decision (Klanger Mix)](https://www.youtube.com/watch?v=74U6q9fvvSM)
+- [None Of The Answers](https://www.youtube.com/watch?v=SYo9xmH0nic)
+- [Beat It Down](https://www.youtube.com/watch?v=WyQcoFikdOk)
+- [Real Real Real (Rhythm 1) ('Raw' Mix)](https://www.youtube.com/watch?v=cct7Mlt5lxg)
+- [Kill Today](https://www.youtube.com/watch?v=gXg_Bc8hymU)
 - [Starting From Scratch](https://www.youtube.com/watch?v=NiK_Su15BEo)
 - [Jesus Jones - Zeroes & Ones [The Prodigy Versus Jesus Jones Mix]](https://www.youtube.com/watch?v=24_9eyOoslg)
 - [Jesus Jones - International Bright Young Thing (Phil Harding 12 Mix)](https://www.youtube.com/watch?v=FkCI_DO4l1o)

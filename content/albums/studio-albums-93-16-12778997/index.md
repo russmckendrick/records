@@ -121,6 +121,8 @@ styles: ["Alternative Rock", "Britpop"]
 86. When You Were Young (2:19)
 87. The Fur And The Feathers (4:40)
 
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/live-suede-studio-live-suede-studio-single/1779439135" >}}<br>
 
 
 
@@ -131,7 +133,7 @@ styles: ["Alternative Rock", "Britpop"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Box Set Compilation Limited Edition Numbered, Vinyl LP Album Reissue (Brown), Vinyl 2× LP Album Reissue (Translucent Green), Vinyl LP Album Reissue (Pale Yellow), Vinyl 2× LP Album Reissue (Lilac), Vinyl LP Album Reissue (Red), Vinyl LP Album Reissue (Red), Vinyl 2× LP Album Reissue (Translucent Blue) |
+| Format         | Vinyl LP Album Reissue (Brown), Vinyl 2× LP Album Reissue (Green Translucent), Vinyl LP Album Reissue (Yellow, Pale), Vinyl 2× LP Album Reissue (Lilac), Vinyl LP Album Reissue (Red), Vinyl LP Album Reissue (Red), Vinyl 2× LP Album Mispress Reissue (Blue Translucent), Box Set Compilation Limited Edition Numbered |
 | Label          | Demon Records |
 | Catalog Number | SUEDEBOX009X |
 | Notes | Numbered and Limited (1000 copies) LP boxset including the 7 studio albums, on heavyweight coloured vinyl exclusive to Amazon.  There was an error made with the use of the incorrect masters for Night Thoughts within the box set and replacement discs using the correct mastering were issued by Demon. Replacement issue for blue vinyl edition listed here: [r13083066]  |

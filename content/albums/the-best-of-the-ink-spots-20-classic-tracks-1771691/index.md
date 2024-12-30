@@ -13,9 +13,9 @@ cover:
     caption: "The Best Of The Ink Spots (20 Classic Tracks) by The Ink Spots"
 additional_images:
     - "https://i.discogs.com/ObKbMxN1C1r1AWjYXo_vt4L-UvgFhQUmz73StzWCsNg/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3NzE2/OTEtMTQ5MjAwNzc3/Ni04NjQ5LmpwZWc.jpeg"
-    - "https://i.discogs.com/Res_PjvP2lzXGfWNvbi9WuY6w9XTPByxNFKEQRvz-5s/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3NzE2/OTEtMTQ5MjAwNzc5/Ny0xMzQ3LmpwZWc.jpeg"
+    - "https://i.discogs.com/IUf0nPlTEpmQPZYDavQTcs1WzjwQlxwUEzyK_e1LW-o/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3NzE2/OTEtMTQ5MjAwNzc5/Ny0xMzQ3LmpwZWc.jpeg"
     - "https://i.discogs.com/W55r_o7Y7htlAAMh3F-LymzZkBCiTemf3TVKrhNRls8/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3NzE2/OTEtMTQ5MjAwNzc4/MC0xMjE5LmpwZWc.jpeg"
-    - "https://i.discogs.com/48p3swux1r_6dL_G_RG0x6DXNCq6M_bKP3DZx6IFYR0/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3NzE2/OTEtMTQ5MjAwNzc4/MC0xNjU1LmpwZWc.jpeg"
+    - "https://i.discogs.com/frYO5j8pQzUtypYyJw2kTXBp8uOTT7bEsvYcZYeCibE/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3NzE2/OTEtMTQ5MjAwNzc4/MC0xNjU1LmpwZWc.jpeg"
 genres: ["Pop"]
 styles: ["Vocal"]
 ---
@@ -44,6 +44,8 @@ styles: ["Vocal"]
 19. It's A Sin To Tell A Lie
 20. Someone's Rocking My Dreamboat
 
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/20th-century-masters-the-millennium-series-the/1440921890" >}}<br>
 
 
 ## Videos

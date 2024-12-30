@@ -50,7 +50,7 @@ styles: ["Funk", "Psychedelic", "Disco"]
 20. Family Affair (Remix) (3:53)
 
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/the-best-of-sly-the-family-stone/508650571" >}}<br>
+{{< applemusic url="https://music.apple.com/gb/album/all-over-the-world-the-very-best-of-elo/438416549" >}}<br>
 
 
 ## Videos
@@ -58,12 +58,12 @@ styles: ["Funk", "Psychedelic", "Disco"]
 {{< youtube id="Jn2PNlhvy8E" title="Sly & The Family Stone - Dance To The Music (Audio)" >}}<br>
 ### More Videos
 
-- [I Want To Take You Higher](https://www.youtube.com/watch?v=GZrsNne4XhM)
 - [Sly & The Family Stone - Everyday People (Official Video)](https://www.youtube.com/watch?v=YUUhDoCx8zc)
 - [Sly & The Family Stone - Hot Fun in the Summertime (Official Audio)](https://www.youtube.com/watch?v=Bg0tFRea0wA)
 - [Sly & The Family Stone - If You Want Me To Stay (Audio)](https://www.youtube.com/watch?v=gZFabOuF4Ps)
-- [Sly And The Family Stone - Que Sera Sera (w/ Mishal Moore and The Firth Sisters)](https://www.youtube.com/watch?v=hlc5f-cJEVM)
 - [Sly & The Family Stone - Family Affair (Official Audio)](https://www.youtube.com/watch?v=xag5RKD0VHk)
+- [I Want To Take You Higher](https://www.youtube.com/watch?v=GZrsNne4XhM)
+- [Sly And The Family Stone - "Que Sera Sera" (w/ Mishal Moore and The Firth Sisters)](https://www.youtube.com/watch?v=hlc5f-cJEVM)
 
 ## Release Images
 {{< imageGrid >}}

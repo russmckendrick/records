@@ -23,7 +23,7 @@ genres: ["Rock"]
 styles: ["Alternative Rock", "Funk Metal"]
 ---
 
-Vivid is the debut studio album by American band Living Colour, released on May 3, 1988, through Epic Records. It was one of the most popular albums of 1988, peaking at number six on the US Billboard 200 chart and being certified double platinum by the Recording Industry Association of America.
+Vivid is the debut studio album by American rock band Living Colour, released on May 2, 1988, by Epic Records. It was one of the most popular albums of 1988, peaking at number six on the US Billboard 200 chart and being certified double platinum by the Recording Industry Association of America (RIAA).
 
 
     
@@ -44,24 +44,16 @@ Vivid is the debut studio album by American band Living Colour, released on May 
 11. Which Way To America? (3:40)
 
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/vivid-expanded-edition/192967260" >}}<br>
+{{< applemusic url="https://music.apple.com/gb/album/thousand-lifetimes-feat-corey-glover-of-living/1668841353" >}}<br>
 
 
 ## Videos
-### Cult of Personality
-{{< youtube id="gEjlMvDsp9I" title="Cult of Personality" >}}<br>
+### Living Colour - Cult Of Personality (Official Video)
+{{< youtube id="7xxgRUyzgs0" title="Living Colour - Cult Of Personality (Official Video)" >}}<br>
 ### More Videos
 
-- [I Want To Know](https://www.youtube.com/watch?v=gMzHmdo7BEw)
-- [Middle Man](https://www.youtube.com/watch?v=oQl1yqQGJp8)
-- [Desperate People](https://www.youtube.com/watch?v=D3Mb9e8mqsg)
-- [Open Letter (To a Landlord)](https://www.youtube.com/watch?v=yEeyR6F-RCI)
-- [Funny Vibe](https://www.youtube.com/watch?v=R7Dq8CT0l0E)
-- [Memories Can't Wait](https://www.youtube.com/watch?v=VSkm4Dr2AzQ)
-- [Broken Hearts](https://www.youtube.com/watch?v=pO1hImyPtS8)
-- [Glamour Boys](https://www.youtube.com/watch?v=9bvU5Vl0H-M)
-- [What's Your Favorite Color? (Theme Song) (LeBlanc Remix)](https://www.youtube.com/watch?v=hjmS6rlK6oc)
-- [Which Way to America](https://www.youtube.com/watch?v=IokyWj54ZLs)
+- [Living Colour - Type](https://www.youtube.com/watch?v=1HbF3EAt3ck)
+- [Living Colour - Middle Man](https://www.youtube.com/watch?v=FqlVRsA8aFE)
 
 ## Release Images
 {{< imageGrid >}}

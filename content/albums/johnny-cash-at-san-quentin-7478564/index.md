@@ -4,7 +4,6 @@ artist_name: "Johnny Cash"
 artist: "johnny-cash"
 album_name: "Johnny Cash At San Quentin"
 date: 2016-11-24T18:43:30.000000Z
-release_date: "1969-06-04"
 release_id: "7478564"
 slug: "johnny-cash-at-san-quentin-7478564"
 hideSummary: true
@@ -21,9 +20,6 @@ genres: ["Rock", "Folk, World, & Country"]
 styles: ["Country", "Rock & Roll"]
 ---
 
-Cut at San Quentin State Prison in 1969 (the year after the legendary <i>At Folsom Prison</i> album), <i>this</i> is outlaw country. Cash’s raw-boned rumble (with vital assistance from rockabilly hero Carl Perkins on guitar and, of course, June Carter) gains in excitement as he feeds off the energy of his captive audience. He practically incites a riot with prison-reform anthem “San Quentin,” but it’s the uproarious, rough-and-tumble “A Boy Named Sue” that really nails this album’s iconic status.
-    
-    
 
 
 ## Tracklisting
@@ -39,10 +35,42 @@ Cut at San Quentin State Prison in 1969 (the year after the legendary <i>At Fols
 10. Folsom Prison Blues
 
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/at-san-quentin-live/824812884" >}}<br>
+{{< applemusic url="https://music.apple.com/gb/album/i-am-johnny-cash/1334617503" >}}<br>
 
 
+## Videos
+### Johnny Cash - San Quentin (Official Audio)
+{{< youtube id="ARI42-dv1Mw" title="Johnny Cash - San Quentin (Official Audio)" >}}<br>
+### More Videos
 
+- [Johnny Cash - Folsom Prison Blues - Live at San Quentin (Good sound quality)](https://www.youtube.com/watch?v=wG0fS4DoGUc)
+- [Johnny Cash - At Folsom Prison (1968) (Full album)](https://www.youtube.com/watch?v=GpZ-2HDJzFw)
+- [Johnny Cash - Wanted Man - Live at San Quentin (Good Sound Quality)](https://www.youtube.com/watch?v=5kHiuxn0FhI)
+- [Cocaine Blues (Live at Folsom State Prison, Folsom, CA - January 1968)](https://www.youtube.com/watch?v=0VZuA7iJY4Y)
+- [Johnny Cash - Orange Blossom Special - Live at San Quentin (Good Sound Quality)](https://www.youtube.com/watch?v=Xhs5j7HN8wM)
+- [Johnny Cash - Folsom Prison Blues (Official Audio)](https://www.youtube.com/watch?v=AeZRYhLDLeU)
+- [J͇o͇h͇n͇n͇y͇ ͇C͇a͇s͇h͇-͇A͇t͇ ͇S͇A͇n͇ Quentin   Full Album HQ](https://www.youtube.com/watch?v=vRYxvGUUICI)
+- [Johnny Cash - San Quentin (Live at San Quentin, 1969)](https://www.youtube.com/watch?v=7e2B-thaJG0)
+- [Johnny Cash - Jackson (Live at San Quentin, 1969)](https://www.youtube.com/watch?v=AAca-M-9xpY)
+- [Johnny Cash - A Boy Named Sue (Live at San Quentin, 1969)](https://www.youtube.com/watch?v=WOHPuY88Ry4)
+- [Johnny Cash - Closing Medley (Live at San Quentin, 1969)](https://www.youtube.com/watch?v=i3x-Ir9MT14)
+- [Johnny Cash - I Walk the Line at San Quentin](https://www.youtube.com/watch?v=T7zSstHWRAs)
+- [Johnny Cash at San Quentin 1969 (full video)](https://www.youtube.com/watch?v=PSLsfwTbo4Q)
+- [Big River Solo (Luther Perkins Version)](https://www.youtube.com/watch?v=gnl0u_eyBLA)
+- [Folsom Prison Blues (Live at San Quentin State Prison, San Quentin, CA - February 1969)](https://www.youtube.com/watch?v=1dKySPZPJPM)
+- [Johnny Cash -  San Quentin (Live from prison)](https://www.youtube.com/watch?v=3paDG8ulPbY)
+- [Johnny Cash - I Walk the Line - Live at San Quentin (Good sound quality)](https://www.youtube.com/watch?v=ZgB8Oi0Jzk0)
+- [Johnny Cash live at San Quentin 1969 full movie (part 1)](https://www.youtube.com/watch?v=lYnJGyHxdF4)
+- [San Quentin - Johnny Cash](https://www.youtube.com/watch?v=pDR5kvT2MvU)
+- [Johnny Cash in San Quentin Prison 1969 Full Show.](https://www.youtube.com/watch?v=w17li94ZlAY)
+- [San Quentin](https://www.youtube.com/watch?v=hJVC_Az0NpI)
+- [San Quentin (Live at San Quentin State Prison, San Quentin, CA - February 1969 (Version 1))](https://www.youtube.com/watch?v=J2_ih2a5yuk)
+- [Karaoke Folsom Prison Blues - Johnny Cash *](https://www.youtube.com/watch?v=rw7LVKWEo4o)
+- [Johnny Cash - A Boy Named Sue (Live at San Quentin, 1969) REACTION](https://www.youtube.com/watch?v=C9W025e5bWc)
+- [COUPLE React Johnny Cash - A Boy Named Sue (San Quentin) | OB DAVE REACTS](https://www.youtube.com/watch?v=n2Nu5ICd7u8)
+- [The Legend of John Henry's Hammer (Live at Folsom State Prison, Folsom, CA (1st Show) - January...](https://www.youtube.com/watch?v=uYh9MwKQnb8)
+- [Johnny Cash - He Turned the Water into Wine - Live at San Quentin (Good sound quality)](https://www.youtube.com/watch?v=fE09xqZYBLI)
+- [Johnny Cash - San Quentin - Live at San Quentin (Good Sound Quality)](https://www.youtube.com/watch?v=phIBtNTIjzo)
 
 ## Release Images
 {{< imageGrid >}}

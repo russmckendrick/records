@@ -53,11 +53,15 @@ styles: ["Pop Rock", "Synth-pop", "Ballad", "Classic Rock"]
 
 
 ## Videos
-### Movin' Out Anthony's Song BILLY JOEL Greatest Hits 1985 LP
-{{< youtube id="wltzv3no6bY" title="Movin' Out Anthony's Song BILLY JOEL Greatest Hits 1985 LP" >}}<br>
+### Billy Joel - Piano Man (Official HD Video)
+{{< youtube id="gxEPV4kolz0" title="Billy Joel - Piano Man (Official HD Video)" >}}<br>
 ### More Videos
 
-- [She's Always a Woman - BILLY JOEL ~ from the album Greatest Hits / Volume I & II (1985)](https://www.youtube.com/watch?v=8mCmCvZ7dLA)
+- [Billy Joel - You're Only Human (Second Wind) (Official Video)](https://www.youtube.com/watch?v=YhxjNYvJbgM)
+- [Billy Joel - The Night Is Still Young (Official Video)](https://www.youtube.com/watch?v=C3ogFWISPuw)
+- [Billy Joel - Piano Man (Original Video)](https://www.youtube.com/watch?v=hRlsu-4BNv8)
+- [Billy Joel - Say Goodbye To Hollywood (Audio)](https://www.youtube.com/watch?v=MhrHPTaVKvc)
+- [Billy Joel - Uptown Girl (Official Video)](https://www.youtube.com/watch?v=hCuMWrfXG4E)
 
 ## Release Images
 {{< imageGrid >}}

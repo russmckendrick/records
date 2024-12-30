@@ -14,15 +14,17 @@ cover:
 additional_images:
     - "https://i.discogs.com/PNq_W9SJwvdnSKUg69MmVErHzK0yqAL_E3o7L-4Ic_o/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2ODAw/MzctMTUwMDI4MTk0/NC0xODQyLmpwZWc.jpeg"
     - "https://i.discogs.com/ClyrVUafAp5Or4Hcuwg_XSHNieYQ354_1XxaPmilyf0/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2ODAw/MzctMTQ4NzY5Nzcw/Ni05MzI2LmpwZWc.jpeg"
-    - "https://i.discogs.com/RATpBzcVVkhFC_fLo9Bpkb7c2lTiDhq0RbDyse_dOq0/rs:fit/g:sm/q:90/h:271/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2ODAw/MzctMTQ4NzY5Nzcw/NS00Nzc5LmpwZWc.jpeg"
     - "https://i.discogs.com/tHT-j98rPAVKKfUPGiM8-MCgTraKjNsA0MgIzCjV8hU/rs:fit/g:sm/q:90/h:600/w:595/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2ODAw/MzctMTQ4NzY5Nzcw/NS0yMDE4LmpwZWc.jpeg"
     - "https://i.discogs.com/iy57mEhh1ZW5MirvylCEGf2IzmjYNiVKtk5hcQFjxoE/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2ODAw/MzctMTQ4NzY5Nzcw/Ni0yNjE2LmpwZWc.jpeg"
     - "https://i.discogs.com/oqkEIiTfqkzMgzIDi54d8Bc0GKQpECPFhY3e8ywi4j4/rs:fit/g:sm/q:90/h:582/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2ODAw/MzctMTQ4NzY5Nzcw/NS04MzAxLmpwZWc.jpeg"
+    - "https://i.discogs.com/RATpBzcVVkhFC_fLo9Bpkb7c2lTiDhq0RbDyse_dOq0/rs:fit/g:sm/q:90/h:271/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2ODAw/MzctMTQ4NzY5Nzcw/NS00Nzc5LmpwZWc.jpeg"
 genres: ["Rock", "Blues"]
 styles: ["Hill Country Blues", "Country Blues", "Blues Rock", "Modern Electric Blues"]
 ---
 
-A Ass Pocket of Whiskey is the seventh studio album by the American Mississippi Hill Country Bluesman R.L. Burnside and the American punk blues band Jon Spencer Blues Explosion, released on Matador Records on 18 June 1996. Unusually, The Penguin Guide to Blues Recordings gave the album two contrasting ratings, indicating divided critical opinion.
+A Ass Pocket of Whiskey is the seventh studio album by the American hill country blues musician R. L. Burnside, recorded in conjunction with the Jon Spencer Blues Explosion. It was released on June 18, 1996, through Matador Records. Unusually, The Penguin Guide to Blues Recordings gave the album two contrasting ratings, indicating divided critical opinion.
+
+
     
     
 
@@ -55,8 +57,8 @@ A Ass Pocket of Whiskey is the seventh studio album by the American Mississippi 
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/A_Ass_Pocket_of_Whiskey |
-| Format         | Vinyl LP Album Limited Edition Reissue (180gram) |
+| Format         | Vinyl LP Album Limited Edition Reissue (180 Gram) |
 | Label          | Fat Possum Records |
 | Catalog Number | FP1026-1 |
-| Notes | Recorded on the afternoon of 2-6-96 at Lunati Farms in Holly Springs, MS.   can come with different stickers on shrink and download code  © + ℗ 1996 FAT POSSUM RECORDS, LLC (printing on both labels)   "All Rights Reserved All Wrongs Reversed" printed on Record Label both sides.     |
+| Notes | Recorded on the afternoon of 2-6-96 at Lunati Farms in Holly Springs, MS.   Released with different stickers on shrink and download code. Tracks are listed sequentially on release.  ©℗1996 Fat Possum Records, LLC.   Printed on labels: "All Rights Reserved All Wrongs Reversed"  "Made in the USA".  Runouts are etched. |
 | Discogs URL    | [R.L. Burnside - A Ass Pocket Of Whiskey](https://www.discogs.com/release/1680037-RL-Burnside-A-Ass-Pocket-Of-Whiskey) |

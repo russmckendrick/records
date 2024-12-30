@@ -17,7 +17,7 @@ additional_images:
     - "https://i.discogs.com/A3QiiZJHVLJihwALy6YoU5vNztJ5d38fDtBoYCH-BSE/rs:fit/g:sm/q:90/h:295/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMjg1/MzgyLTE1NTEzODMz/MDgtODQwMS5qcGVn.jpeg"
     - "https://i.discogs.com/Ri6GcqvA9fK9jf14A5_ZwARwH_9FGHgL3WWp3CwJlME/rs:fit/g:sm/q:90/h:575/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMjg1/MzgyLTE1NTEzODMz/MDgtMTAxNC5qcGVn.jpeg"
     - "https://i.discogs.com/61oQWyfNdZKvAgR6h8B3yL4a6SBsaukZbhnqj3tPjXs/rs:fit/g:sm/q:90/h:584/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMjg1/MzgyLTE1NTEzODMz/NTgtNzM3MS5qcGVn.jpeg"
-    - "https://i.discogs.com/jDx4zXaQ_SGSAYVXYyrwEwRdi2S--nuWeCIi68EMtR4/rs:fit/g:sm/q:90/h:603/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMjg1/MzgyLTE1NTEzODMz/NTgtNzU3OC5qcGVn.jpeg"
+    - "https://i.discogs.com/nAurtAsmtC2nlIBgDLnCRO3kd_wj3_-z2iHltQXoIC0/rs:fit/g:sm/q:90/h:600/w:596/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMjg1/MzgyLTE1NTEzODMz/NTgtNzU3OC5qcGVn.jpeg"
     - "https://i.discogs.com/oGTs7XqkwpTYpFmtTj_NpSGJBTuJxXyeFlR6iTZEwJU/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMjg1/MzgyLTE1NTEzODMz/MTItOTkyMi5qcGVn.jpeg"
     - "https://i.discogs.com/vf5VAFcRH7NyUfji8-NlF0_Cqy1rP4vusqoDvtTjRf8/rs:fit/g:sm/q:90/h:588/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMjg1/MzgyLTE1NTEzODMz/MjUtODQyNC5qcGVn.jpeg"
     - "https://i.discogs.com/3BWpFfZiP9QUut2MlDF9t1EKXw73hwxYt9yqcDF3Nhg/rs:fit/g:sm/q:90/h:582/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMjg1/MzgyLTE1NTEzODMz/MDktNzcxMC5qcGVn.jpeg"
@@ -52,6 +52,7 @@ styles: ["Psychedelic Rock"]
 ### More Videos
 
 - [POND - Tasmania (Official Audio)](https://www.youtube.com/watch?v=NX6EIDepJDk)
+- [Pond - Tasmania (Full Album)](https://www.youtube.com/watch?v=y2W1Fwccqwo)
 
 ## Release Images
 {{< imageGrid >}}
@@ -63,4 +64,4 @@ styles: ["Psychedelic Rock"]
 | Label          | Marathon Artists |
 | Catalog Number | MA0145LPX |
 | Notes | Rough Trade exclusive, limited to 1000 copies on white vinyl. Comes with OBI strip and 'Exclusive White Double Vinyl' hype sticker. |
-| Discogs URL    | [Pond - Tasmania](https://www.discogs.com/release/13285382-Pond-Tasmania) |
+| Discogs URL    | [Pond - Tasmania](https://www.discogs.com/release/13285382-Pond-5-Tasmania) |

@@ -12,12 +12,14 @@ cover:
     alt: "Flood by Headswim"
     caption: "Flood by Headswim"
 additional_images:
-    - "https://i.discogs.com/KfhGiqCP3WqW5DHVKuV0zDZ2zr_8mVWqQvpOQzbe04M/rs:fit/g:sm/q:90/h:609/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NzI3/OTczLTE2NjUyMjYy/ODItMzY3MS5qcGVn.jpeg"
+    - "https://i.discogs.com/Xalz3Fmn-XDP58gQz8JFFXSq_yJDj3NjprPtseVHb7Y/rs:fit/g:sm/q:90/h:600/w:590/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NzI3/OTczLTE2NjUyMjYy/ODItMzY3MS5qcGVn.jpeg"
 genres: ["Rock"]
 styles: ["Alternative Rock"]
 ---
 
-Flood is the 1994 debut full-length album by the English rock band Headswim. Its original title was going to be  Precipity Flood. The album included three singles, "Gone to Pot", "Soup", and "Crawl".
+Flood is the 1994 debut full-length album by the English rock band Headswim, released on 24 October 1994 on Epic Records. Originally titled Precipity Flood, it was recorded over three weeks at Rockfield Studios in Wales, with Dave Eringa producing. The album included three singles, "Gone to Pot", "Soup", and "Crawl".
+
+
     
     
 
@@ -47,14 +49,15 @@ Flood is the 1994 debut full-length album by the English rock band Headswim. Its
 22. Precipity Flood
 
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/the-flood-in-our-heads-ep/1169991821" >}}<br>
+{{< applemusic url="https://music.apple.com/gb/album/flood-live-live/1726213047" >}}<br>
 
 
 ## Videos
-### Headswim - Gone To Pot (HQ)
-{{< youtube id="WK2bOn6UGqE" title="Headswim - Gone To Pot (HQ)" >}}<br>
+### HEADSWIM - Flood [FULL ALBUM] 1994 (with inside cover + lyrics)
+{{< youtube id="7CrTrrJWBgE" title="HEADSWIM - Flood [FULL ALBUM] 1994 (with inside cover + lyrics)" >}}<br>
 ### More Videos
 
+- [Headswim - Gone To Pot (HQ)](https://www.youtube.com/watch?v=WK2bOn6UGqE)
 - [Headswim - Stinkhorn (HQ)](https://www.youtube.com/watch?v=ZivlvKrZsFQ)
 
 ## Release Images

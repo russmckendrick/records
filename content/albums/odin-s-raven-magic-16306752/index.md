@@ -13,8 +13,8 @@ cover:
     alt: "Odin's Raven Magic by Sigur Rós"
     caption: "Odin's Raven Magic by Sigur Rós"
 additional_images:
-    - "https://i.discogs.com/Upv4Y25BbKs2GtYYyWvEp0ojG9rmvgIRizK0skBX2k4/rs:fit/g:sm/q:90/h:610/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MzA2/NzUyLTE2MTAwNTQ4/MDItMzMwOS5qcGVn.jpeg"
-    - "https://i.discogs.com/ZyjCy1EqFEQiT0lBOraSqXhrYE8APBovllVW7Whcj6Q/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MzA2/NzUyLTE2MTAwNTQ4/MDItODU5OC5qcGVn.jpeg"
+    - "https://i.discogs.com/WSkqtbWgHkZgwFTdPnnIpH5pv9iYx01DA36ATsFi1EU/rs:fit/g:sm/q:90/h:600/w:590/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MzA2/NzUyLTE2MTAwNTQ4/MDItMzMwOS5qcGVn.jpeg"
+    - "https://i.discogs.com/sdLKg5hsgrJIePywOEBhKNBY3Luuz4s_lKtKQ4rfDJw/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MzA2/NzUyLTE2MTAwNTQ4/MDItODU5OC5qcGVn.jpeg"
     - "https://i.discogs.com/YiBFpD9_VF4JTKs2VoE2KPfNK7nkw0M4wfnGoNeG_8o/rs:fit/g:sm/q:90/h:472/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MzA2/NzUyLTE2MTAwNTcx/MDgtNzYyNi5qcGVn.jpeg"
     - "https://i.discogs.com/tbaYR5sNgpJ8zRpzXVYg6yBKljvE8_t5N2BvxMeNeWI/rs:fit/g:sm/q:90/h:503/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MzA2/NzUyLTE2MTAwNTcx/MDgtODU1Mi5qcGVn.jpeg"
 genres: ["Classical"]
@@ -39,7 +39,8 @@ The former Sigur Rós keyboardist was instrumental in pulling the ambitious proj
 “This is based on the same chant as in ‘Stendur æva’ but with a different tonal language, so it is kind of the same song, the arrangement and tonal language accompanying the main melody. The band has never really been conceptual, but we’ve often figured out the concept after we’ve done something. Of course, this piece is conceptual but when we were working on the music, we weren’t really diving into the lyrics. We were just making music.”<br />
 <b>Dagrenning</b>
 “This is going back to the first one, with the same melody. Then it ends with chanting of Odin’s names, like a ritual. Then we do this embarrassing rock ’n’ roll thing in the end, doing rock ’n’ roll with an orchestra. We did it and we just have to live with it. I mean, we can’t exclude that from the release, can we? No. I was happy with the performance, but I was embarrassed by the rock ’n’ roll thrashing. The world is ending and we were trying to express that somehow. That didn’t go very well. But I was just glad that we survived and managed to play the whole piece, without too many hiccups.”
-    
+        
+        
     
 
 
@@ -74,8 +75,9 @@ The former Sigur Rós keyboardist was instrumental in pulling the ambitious proj
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
+| Wikipedia URL | https://en.wikipedia.org/wiki/Odin%27s_Raven_Magic |
 | Format         | Vinyl 2× LP Album |
 | Label          | Krúnk |
 | Catalog Number | KRUNK41LP |
 | Notes | Standard double gatefold black-vinyl edition. Some issues with round black sticker on front of shrink wrap. Sticker with barcode, label logo & reference on back of shrink wrap.  See images section. |
-| Discogs URL    | [Sigur Rós - Odin's Raven Magic](https://www.discogs.com/release/16306752-Sigur-R%C3%B3s-With-Steind%C3%B3r-Andersen-Hilmar-%C3%96rn-Hilmarsson-And-Mar%C3%ADa-Huld-Markan-Sigf%C3%BAsd%C3%B3ttir-Odin) |
+| Discogs URL    | [Sigur Rós - Odin's Raven Magic](https://www.discogs.com/release/16306752-Sigur-Rós-With-Steindór-Andersen-Hilmar-Örn-Hilmarsson-And-María-Huld-Markan-Sigfúsdóttir-Odin) |

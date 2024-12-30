@@ -37,6 +37,8 @@ styles: []
 11. I Deserve What I Get
 12. Railings
 
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/dead-flowers-reject/1770449644" >}}<br>
 
 
 

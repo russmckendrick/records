@@ -13,12 +13,14 @@ cover:
     caption: "The Boy With The Arab Strap by Belle & Sebastian"
 additional_images:
     - "https://i.discogs.com/Ji_ZZxE6Q6ow4AiVaIl0mLOqKeimCcd4EJwFaJXbaOo/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYyMTUz/NDAtMTQxMzkxNjUy/Mi01ODc3LmpwZWc.jpeg"
-    - "https://i.discogs.com/kFm89INFFsK56FhUIRZtsCjZ5ccOdiJaELMVfev6wuI/rs:fit/g:sm/q:90/h:1843/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYyMTUz/NDAtMTQxMzkxNzE3/OC0zODg4LmpwZWc.jpeg"
+    - "https://i.discogs.com/OLblWliufLL-5pCuYKxTiNDsnR1KdEbyOXSDR_PnfkI/rs:fit/g:sm/q:90/h:600/w:195/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYyMTUz/NDAtMTQxMzkxNzE3/OC0zODg4LmpwZWc.jpeg"
 genres: ["Rock"]
 styles: ["Indie Rock"]
 ---
 
 The Boy with the Arab Strap is the third studio album by Scottish indie pop band Belle & Sebastian, released in 1998 through Jeepster Records.
+
+
     
     
 
@@ -42,21 +44,9 @@ The Boy with the Arab Strap is the third studio album by Scottish indie pop band
 
 
 ## Videos
-### Belle & Sebastian - It Could Have Been A Brilliant Career
-{{< youtube id="qSV4Cs0bwmQ" title="Belle & Sebastian - It Could Have Been A Brilliant Career" >}}<br>
-### More Videos
+### Belle and Sebastian- "The Boy With The Arab Strap (Live)" (Official Music Video)
+{{< youtube id="gnvhhvzAvSM" title="Belle and Sebastian- "The Boy With The Arab Strap (Live)" (Official Music Video)" >}}<br>
 
-- [Belle and Sebastian - Sleep The Clock Around](https://www.youtube.com/watch?v=3mB8V9Lz7u0)
-- [Belle and Sebastian - Is It Wicked Not To Care?](https://www.youtube.com/watch?v=HL0-0F9BaHQ)
-- [Belle & Sebastian - Ease Your Feet in the Sea](https://www.youtube.com/watch?v=DcZL3e42wEs)
-- [Belle and Sebastian - A Summer Wasting](https://www.youtube.com/watch?v=Z8LmfH2kuB8)
-- [Belle and Sebastian - Seymour Stein (subtitulada en español)](https://www.youtube.com/watch?v=ihSXBcaO6yA)
-- [A Space Boy Dream](https://www.youtube.com/watch?v=R92PzrjpLN0)
-- [Belle and Sebastian - Dirty Dream #2](https://www.youtube.com/watch?v=uHLOs9QzgCA)
-- [The Boy With The Arab Strap](https://www.youtube.com/watch?v=dN1iW-ee5I8)
-- [Chickfactor](https://www.youtube.com/watch?v=AjnbRPgM6Kk)
-- [Simple Things](https://www.youtube.com/watch?v=-kfIHFlEUhw)
-- [Belle and Sebastian - The Rollercoaster Ride](https://www.youtube.com/watch?v=b0Vx3a5Fb5E)
 
 ## Release Images
 {{< imageGrid >}}

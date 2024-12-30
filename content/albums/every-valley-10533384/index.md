@@ -13,8 +13,8 @@ cover:
     caption: "Every Valley by Public Service Broadcasting"
 additional_images:
     - "https://i.discogs.com/lKBZpPfp8OQBpbUqw1GJoGoDJ98xS-6lvjcN8Uu5vpk/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNTMz/Mzg0LTE0OTk1MzY5/OTgtNTc0NC5qcGVn.jpeg"
-    - "https://i.discogs.com/HJjYPaBcRYh0Vn6FFWs-PaKbHC96oSRbWUuu7n42A6o/rs:fit/g:sm/q:90/h:709/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNTMz/Mzg0LTE0OTkzNzY3/MjAtODc0NS5qcGVn.jpeg"
-    - "https://i.discogs.com/kUvx37t6qxnSfvhwDCG1-VCLdhhAkdnGh5kzLH_g4-E/rs:fit/g:sm/q:90/h:855/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNTMz/Mzg0LTE1MDcwNjg1/OTAtNjQ1OC5qcGVn.jpeg"
+    - "https://i.discogs.com/s3Mfg2Nf5Sfp1B3nhRxZZMdSK5LSv5uL-qD-3FG3cdY/rs:fit/g:sm/q:90/h:600/w:507/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNTMz/Mzg0LTE0OTkzNzY3/MjAtODc0NS5qcGVn.jpeg"
+    - "https://i.discogs.com/d-DZBtcZqU6UiC76aKAkHeVcSISWBflFjbXeIwGmLnw/rs:fit/g:sm/q:90/h:600/w:420/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNTMz/Mzg0LTE1MDcwNjg1/OTAtNjQ1OC5qcGVn.jpeg"
 genres: ["Electronic", "Rock", "Pop"]
 styles: ["Alternative Rock", "Krautrock"]
 ---

@@ -4,6 +4,7 @@ artist_name: "Peter Gabriel"
 artist: "peter-gabriel"
 album_name: "Up"
 date: 2016-12-08T18:44:51.000000Z
+release_date: "1977-02-25"
 release_id: "9473463"
 slug: "up-9473463"
 hideSummary: true
@@ -12,8 +13,7 @@ cover:
     alt: "Up by Peter Gabriel"
     caption: "Up by Peter Gabriel"
 additional_images:
-    - "https://i.discogs.com/53qrC-uwNYhQHuV2Rsys_teYAgbXDvQR0EVPaTM0bA4/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk0NzM0/NjMtMTU3NjkzMzg2/NC0yMzc1LmpwZWc.jpeg"
-    - "https://i.discogs.com/DWCQAqqJHmlhzX5gKNymYu_e6kJdRyafzKauqVP3YFM/rs:fit/g:sm/q:90/h:601/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk0NzM0/NjMtMTUxNDg0NTI0/NS0yOTE5LmpwZWc.jpeg"
+    - "https://i.discogs.com/D2kyVCtCGye7pVNnUl4gCfJbmmWB5JR-kBk5mVZg2Lc/rs:fit/g:sm/q:90/h:600/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk0NzM0/NjMtMTUxNDg0NTI0/NS0yOTE5LmpwZWc.jpeg"
     - "https://i.discogs.com/IgAx_aCu2-OCohfRVQHRxTVtl-UtsN8GQEbUauE42lw/rs:fit/g:sm/q:90/h:292/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk0NzM0/NjMtMTUxNDg0NTI0/OC05NzExLmpwZWc.jpeg"
     - "https://i.discogs.com/IMh4REKTStf1QVvk3d6WxObfsodp-bt9oem7jzlStbE/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk0NzM0/NjMtMTUxNDg0NTI1/MC0zMTk3LmpwZWc.jpeg"
     - "https://i.discogs.com/sTzPNh-mvJe4LwWCP4DC9JNVvcw_rL56mvwzVLo-25s/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk0NzM0/NjMtMTUxNDg0NTI0/OS0xNjI4LmpwZWc.jpeg"
@@ -32,15 +32,23 @@ additional_images:
     - "https://i.discogs.com/mZRREI0luwDZ3z976w8RmalWKIdx1pVH9v_6VpLZcXU/rs:fit/g:sm/q:90/h:299/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk0NzM0/NjMtMTUxNDg0NTIz/Ny04Njc2LmpwZWc.jpeg"
     - "https://i.discogs.com/NemLYHs4oJa5FeWyjA6TsbjuPSO4-kulIesLetuq2CQ/rs:fit/g:sm/q:90/h:299/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk0NzM0/NjMtMTUxNDg0NTI0/NC02MzAxLmpwZWc.jpeg"
     - "https://i.discogs.com/fre5SSN6EQe0d4GHRoT_cIow_oSRmzzWhEmi46CBxrw/rs:fit/g:sm/q:90/h:298/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk0NzM0/NjMtMTUxNDg0NTI0/MC03ODM5LmpwZWc.jpeg"
-    - "https://i.discogs.com/XwOS52BX38vx48UAXcOh6lnhRRop3TJGsTPKejDPxIQ/rs:fit/g:sm/q:90/h:602/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk0NzM0/NjMtMTUxNDg0NTI0/NS0yOTA3LmpwZWc.jpeg"
+    - "https://i.discogs.com/ijz0UGpvHQWblgEj3PCF-hT7h_3vI6THLz4EMDYDNKA/rs:fit/g:sm/q:90/h:600/w:597/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk0NzM0/NjMtMTUxNDg0NTI0/NS0yOTA3LmpwZWc.jpeg"
     - "https://i.discogs.com/xe7gkBKaT5jxcTpZ2fQebwpNa-x5hhOABiHVDFr1WEA/rs:fit/g:sm/q:90/h:593/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk0NzM0/NjMtMTQ4MTIwMDYw/NS0zOTc3LmpwZWc.jpeg"
-    - "https://i.discogs.com/f_PYcpGK2kkVljFgKuC8QNwYovLrRKCOsTeGs1MvUYQ/rs:fit/g:sm/q:90/h:855/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk0NzM0/NjMtMTU4MjIyOTE0/NC02MDQ3LmpwZWc.jpeg"
+    - "https://i.discogs.com/sJbXxEQSjVgiBBZtQy9HUwHvHdob3YHUt6Mr2Eu0HHU/rs:fit/g:sm/q:90/h:600/w:420/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk0NzM0/NjMtMTU4MjIyOTE0/NC02MDQ3LmpwZWc.jpeg"
+    - "https://i.discogs.com/xCZ8Gr1_xzRfMZRnCsFDLQ6mxhWWSSLy-s9pjvzFKDM/rs:fit/g:sm/q:90/h:600/w:580/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk0NzM0/NjMtMTcwMzA2MDQ3/MS00NDk4LmpwZWc.jpeg"
 genres: ["Rock"]
 styles: []
 ---
 
-Up (2002) is the seventh studio and 13th album overall released by the English rock musician Peter Gabriel. It is his most recent full-length studio album of new original material to date, as the subsequent albums Scratch My Back and New Blood feature covers of other artists' songs, and orchestral renderings of Gabriel's older material, respectively.
-    
+Released in 1977, the debut solo album from Peter Gabriel introduced a different type of left-of-centre songwriter: A darkly hued art-rocker who too was brusque for glam, too baroque for punk and too pop for prog. Gabriel spent seven years leading the abstruse and theatrical progressive rockers Genesis, but he became disillusioned with the industry, which he left in 1975, hoping to spend more time with his wife and daughter. He returned just two years later with a self-titled album that abandoned the fantastical fictions of Genesis for something more personal, with lyrics that explored the fear and thrill of new horizons (“Solsbury Hill”), the psychic boundaries between humans (“Here Comes the Flood”) and the frustrations of romance (“Modern Love”).
+
+Leaving behind much of his pastoral British vistas for sturdier rhythms, Gabriel’s new stomping sound came from a series of hard-rocking North American musicians picked by producer Bob Ezrin (Kiss, Alice Cooper). The line-up included Mountain drummer Allan Schwartzberg, Lou Reed guitarist Steve Hunter, pianist Jozef Chirowski and the gifted session bassist Tony Levin, who’d end up an essential part of Gabriel’s band for more than 45 years. For his part, Gabriel tapped art-rock journeyman Robert Fripp—who’d played with the likes of Brian Eno, David Bowie and King Crimson—as well as synth player Larry Fast.
+
+The album’s opener, “Moribund the Burgermeister”, is a piece of majestic arena rock backed by the London Symphony Orchestra, one that drops down into an abyss of sinister, growling menace. The closer, “Here Comes the Flood”, features a magnificent, bombastic chorus that points forward to future Gabriel ballads like “Biko” and “Come Talk to Me.” In between, <i>Peter Gabriel 1: Car</i> churns through somewhat straightforward rockers (“Modern Love”, “Slowburn”), broken barbershop (“Excuse Me”), on-off Latin rhythms (“Humdrum”), Randy Newman-styled quirk (“Waiting for the Big One”) and an intricately arranged disco-metal odyssey (“Down the Dolce Vita”).
+
+But it’s the album’s lead single, the 12-string-tinged “Solsbury Hill”, that would become one of Gabriel’s most enduring songs, despite a tricky 7/4 rhythm. Its mix of wistfulness and determination, abetted by Gabriel’s own flute-playing, helped make his grandiose art-rock debut in the United Kingdom. And while neither <i>Peter Gabriel 1: Car</i> nor “Solsbury Hill” would break the singer in America, both would chart higher than any of his music with Genesis—a pair of early successes in a solo career that would soon take off around the world.
+        
+        
     
 
 
@@ -57,10 +65,26 @@ Up (2002) is the seventh studio and 13th album overall released by the English r
 10. The Drop
 
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/up/987441376" >}}<br>
+{{< applemusic url="https://music.apple.com/gb/album/peter-gabriel-1-car-remastered/986695072" >}}<br>
 
 
+## Videos
+### Peter Gabriel - The Barry Williams Show
+{{< youtube id="BLGkpFXiMOg" title="Peter Gabriel - The Barry Williams Show" >}}<br>
+### More Videos
 
+- [Peter Gabriel - More Than This (Live at Real World Studios)](https://www.youtube.com/watch?v=hloQg2ODeT0)
+- [Peter Gabriel - Growing Up](https://www.youtube.com/watch?v=tn2VPj1R76U)
+- [Darkness](https://www.youtube.com/watch?v=r1JPO91IpV4)
+- [Growing Up](https://www.youtube.com/watch?v=O-aHqlm6WmE)
+- [Sky Blue](https://www.youtube.com/watch?v=JivC_WsQQuo)
+- [No Way Out](https://www.youtube.com/watch?v=m1COhjggWAc)
+- [I Grieve](https://www.youtube.com/watch?v=7wZkbRJq6wk)
+- [The Barry Williams Show](https://www.youtube.com/watch?v=SpavyOf-rkM)
+- [My Head Sounds Like That](https://www.youtube.com/watch?v=yPDuAqtzrxQ)
+- [More Than This](https://www.youtube.com/watch?v=aVXB4Y_LvpI)
+- [Signal To Noise](https://www.youtube.com/watch?v=1zM7QaPiwqE)
+- [Peter Gabriel - The Drop](https://www.youtube.com/watch?v=darh1ywCsj8)
 
 ## Release Images
 {{< imageGrid >}}

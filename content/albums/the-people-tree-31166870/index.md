@@ -12,8 +12,8 @@ cover:
     alt: "The People Tree by Mother Earth"
     caption: "The People Tree by Mother Earth"
 additional_images:
-    - "https://i.discogs.com/1wAMyNug_zIr7Bp_ZEH4_WGj8DvfPoI2OXPbVyfzClg/rs:fit/g:sm/q:90/h:601/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxMTY2/ODcwLTE3MjA1MjQx/MjMtNzQwMy5qcGVn.jpeg"
-    - "https://i.discogs.com/hiJpxjHtxaOVNSzl2bdJsTpcc4nNgqxNUneDsY2aD78/rs:fit/g:sm/q:90/h:607/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxMTY2/ODcwLTE3MjA1MjQx/MjItOTk4Ni5qcGVn.jpeg"
+    - "https://i.discogs.com/mvQMiUI-X6hcNma-azn47SPlcYyKVobNKCLRiqi7yQs/rs:fit/g:sm/q:90/h:600/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxMTY2/ODcwLTE3MjA1MjQx/MjMtNzQwMy5qcGVn.jpeg"
+    - "https://i.discogs.com/qOO43PHm1A4-Wa7yqWl2BRCohjgZWLtWR4R5qY_EYPE/rs:fit/g:sm/q:90/h:600/w:592/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxMTY2/ODcwLTE3MjA1MjQx/MjItOTk4Ni5qcGVn.jpeg"
 genres: ["Electronic", "Funk / Soul"]
 styles: ["Acid Jazz", "Soul"]
 ---
@@ -61,7 +61,7 @@ The People Tree is an album by British acid jazz group Mother Earth that was rel
 - [Mother Earth People Tree](https://www.youtube.com/watch?v=AnFvHR5rUh4)
 - [Mother Earth - Apple Green](https://www.youtube.com/watch?v=nMRjoms92bg)
 - [Mother Earth - Stardust Bubblegum](https://www.youtube.com/watch?v=ANGjklqwP6o)
-- [Mother Earth A Trip Down Brian Lane](https://www.youtube.com/watch?v=Z8ASEzG0iUE)
+- [Mother Earth "A Trip Down Brian Lane"](https://www.youtube.com/watch?v=Z8ASEzG0iUE)
 
 ## Release Images
 {{< imageGrid >}}

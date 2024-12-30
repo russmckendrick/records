@@ -14,10 +14,10 @@ cover:
 additional_images:
     - "https://i.discogs.com/LRLRxGeBxJfYkHdu1H3IhGVV18alBQiN2Qaa0Udd1zE/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MjQ4/MTQzLTE2MDYyNTY3/NDQtOTMyMi5qcGVn.jpeg"
     - "https://i.discogs.com/ZJevgZmuPBKL-9Zzatj1mqOwD4juHJmvNZ9Z3kpDNWo/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MjQ4/MTQzLTE2MDYyNTY3/NDItMjM5MS5qcGVn.jpeg"
-    - "https://i.discogs.com/TvWHTioIqKg0rX9sILiS1W7lunQ-Xt4CmdELVBVS2Dw/rs:fit/g:sm/q:90/h:607/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MjQ4/MTQzLTE2MDYyNTY3/NDMtOTExMS5qcGVn.jpeg"
-    - "https://i.discogs.com/RwI0C01HvsfpEL_u1mcFBz9A8gc1ttdAy0uYIKrIk9A/rs:fit/g:sm/q:90/h:607/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MjQ4/MTQzLTE2MDYyNTY3/NDItOTgxNC5qcGVn.jpeg"
-    - "https://i.discogs.com/KO3YmLtrW7Ap-wuAXN3wYQjihamwxoJaLZOVB2bhXT4/rs:fit/g:sm/q:90/h:611/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MjQ4/MTQzLTE2MDYyNTY3/NDUtMjI5MC5qcGVn.jpeg"
-    - "https://i.discogs.com/3AMlv_zuf46_HH7aWiUobKPzswJEvcb9XlZo2kJKI3c/rs:fit/g:sm/q:90/h:607/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MjQ4/MTQzLTE2MDYyNTY3/NDQtOTExMS5qcGVn.jpeg"
+    - "https://i.discogs.com/YB_p27UD99RHIGCWeu6-gWgeHLJafTqa1P_YdlJsl0c/rs:fit/g:sm/q:90/h:600/w:592/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MjQ4/MTQzLTE2MDYyNTY3/NDMtOTExMS5qcGVn.jpeg"
+    - "https://i.discogs.com/qzpdbdsLEcIANui2gOntRndFfHa5C3kvO-40kR0R9v4/rs:fit/g:sm/q:90/h:600/w:592/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MjQ4/MTQzLTE2MDYyNTY3/NDItOTgxNC5qcGVn.jpeg"
+    - "https://i.discogs.com/6V9cNQeuU4N7xMu4SFfTRNnT8CgX2FgmceZYYk5pc68/rs:fit/g:sm/q:90/h:600/w:588/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MjQ4/MTQzLTE2MDYyNTY3/NDUtMjI5MC5qcGVn.jpeg"
+    - "https://i.discogs.com/vS1wRpLFhMeDKsjdErER-7li2CeD4W5poDGPmBUqVAs/rs:fit/g:sm/q:90/h:600/w:592/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MjQ4/MTQzLTE2MDYyNTY3/NDQtOTExMS5qcGVn.jpeg"
 genres: ["Electronic", "Rock", "Blues"]
 styles: ["Psychedelic Rock", "Prog Rock", "Space Rock"]
 ---
@@ -39,6 +39,14 @@ styles: ["Psychedelic Rock", "Prog Rock", "Space Rock"]
 {{< youtube id="YUSxUHEt_Cw" title="The Amorphous Androgynous & Peter Hammill - We Persuade Ourselves We Are Immortal" >}}<br>
 ### More Videos
 
+- [The Amorphous Androgynous & Peter Hammill - We Persuade Ourselves We Are Immortal ad](https://www.youtube.com/watch?v=LBpZwZlJzTg)
+- [The Amorphous Androgynous & Peter Hammill  – Immortality Break](https://www.youtube.com/watch?v=MVmVrDbFCXE)
+- [The Amorphous Androgynous and Peter Hammill We Persuade Ourselves We Are Immortal Review](https://www.youtube.com/watch?v=etngBiarRI0)
+- [The Amorphous Androgynous & Peter Hammill - We Persuade Ourselves We Are Immortal](https://www.youtube.com/watch?v=YUSxUHEt_Cw)
+- [The Amorphous Androgynous & Peter Hammill - We Persuade Ourselves We Are Immortal ad](https://www.youtube.com/watch?v=LBpZwZlJzTg)
+- [The Amorphous Androgynous & Peter Hammill  – Immortality Break](https://www.youtube.com/watch?v=MVmVrDbFCXE)
+- [The Amorphous Androgynous and Peter Hammill We Persuade Ourselves We Are Immortal Review](https://www.youtube.com/watch?v=etngBiarRI0)
+- [The Amorphous Androgynous & Peter Hammill - We Persuade Ourselves We Are Immortal](https://www.youtube.com/watch?v=YUSxUHEt_Cw)
 - [The Amorphous Androgynous & Peter Hammill - We Persuade Ourselves We Are Immortal ad](https://www.youtube.com/watch?v=LBpZwZlJzTg)
 - [The Amorphous Androgynous and Peter Hammill We Persuade Ourselves We Are Immortal Review](https://www.youtube.com/watch?v=etngBiarRI0)
 

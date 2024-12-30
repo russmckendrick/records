@@ -4,6 +4,7 @@ artist_name: "Talking Heads"
 artist: "talking-heads"
 album_name: "Speaking In Tongues"
 date: 2017-03-11T12:34:00.000000Z
+release_date: "1983-06-01"
 release_id: "4564584"
 slug: "speaking-in-tongues-4564584"
 hideSummary: true
@@ -23,9 +24,17 @@ genres: ["Rock", "Funk / Soul"]
 styles: ["New Wave", "Pop Rock", "Funk"]
 ---
 
-Speaking in Tongues is the fifth studio album by American rock band Talking Heads, released on June 1, 1983, by Sire Records. After their split with producer Brian Eno and a short hiatus, which allowed the individual members to pursue side projects, recording began in 1982. It became the band's commercial breakthrough and produced the band's sole US top-ten hit, "Burning Down the House".
-The album's tour was documented in Jonathan Demme's 1984 film Stop Making Sense, which generated a live album of the same name. The album also crossed over to the dance charts, where it peaked at number two for six weeks. It is the group's highest-charting album on the US Billboard 200, peaking at number 15. It was also their biggest-selling album in Canada, where it was certified platinum in 1983.
-    
+All four band members had taken a break to do side projects: Singer David Byrne wrote a solo album, <i>The Catherine Wheel</i>, guitarist and keyboardist Jerry Harrison did the same with <i>The Red and the Black</i> and drummer Chris Frantz and bassist Tina Weymouth formed Tom Tom Club and had a massive hit, “Genius of Love”. When Talking Heads regrouped for their fifth studio album, <i>Speaking in Tongues</i>, there were plenty of new ideas to integrate. 
+
+“Slippery People” could almost be a <i>Remain in Light</i> outtake, thanks to background vocals by Nona Hendryx and Dolette McDonald. But working without producer Brian Eno for the first time in years, the band chose a less layered sound. Byrne later called it “a lighter record,” and there isn’t even one song about a terrorist.
+
+The arrangements largely swap guitars for synthesisers and other keyboards. Keyboardist Wally Badarou added some fun but ghostly sounds to “Burning Down the House”, Talking Heads’ first (and, it turned out, only) single that reached the Top 10. The title derived from a chant Frantz heard at a concert by the ecstatic funk group Parliament-Funkadelic: “Burn down the house! Burn down the house!” 
+
+The music is more playful and expansive than before: “Swamp” is a trip downriver into the blues, “Making Flippy Floppy” features the Indian violinist L. Shankar, and “Moon Rocks” offers a touch of reggae. The lyrics are often giddy, which is new: “Some things sure can sweep me off my feet,” Byrne declares in “Burning Down the House”. They’re also often imagistic and hard to fathom—if you think you know what “Watch out/Touch monkeys” means, please tell the rest of us. 
+
+But the newest touch comes at the end. The tender, midtempo song “This Must Be the Place (Naïve Melody)” features the most direct love lyrics Byrne had ever written. There’s a strong feeling of surprise or even confusion in the song, which also includes some tender images. (“Sing into my mouth” was inspired by a photo he’d seen of an unusual Inuit musical custom.) It’s the most frequently covered Talking Heads song: The Lumineers, Iron & Wine, Ivan Neville and Shawn Colvin have all recorded it, and it’s popular at weddings, if not quite as popular as “We’ve Only Just Begun”. It’s a beautiful song, and startling to hear the guy who sang the misanthropic song “The Big Country” a few years earlier now pining for home comforts.
+        
+        
     
 
 
@@ -41,7 +50,7 @@ The album's tour was documented in Jonathan Demme's 1984 film Stop Making Sense,
 9. This Must Be The Place (Naive Melody) (4:56)
 
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/speaking-in-tongues-bonus-track-version/124923817" >}}<br>
+{{< applemusic url="https://music.apple.com/gb/album/speaking-in-tongues/300202199" >}}<br>
 
 
 ## Videos
@@ -49,14 +58,14 @@ The album's tour was documented in Jonathan Demme's 1984 film Stop Making Sense,
 {{< youtube id="_3eC35LoF4U" title="Talking Heads - Burning Down the House (Official Video)" >}}<br>
 ### More Videos
 
-- [Making Flippy Floppy (2005 Remaster)](https://www.youtube.com/watch?v=xphLY5ucIpQ)
-- [Girlfriend Is Better (2005 Remaster)](https://www.youtube.com/watch?v=aK7hC8p5DJ0)
-- [Slippery People (2005 Remaster)](https://www.youtube.com/watch?v=rx2_iHftARo)
-- [I Get Wild / Wild Gravity (2005 Remaster)](https://www.youtube.com/watch?v=gz1go_RC8kk)
-- [Swamp (2005 Remaster)](https://www.youtube.com/watch?v=15UWm0okgvA)
-- [Moon Rocks (2005 Remaster)](https://www.youtube.com/watch?v=kFUH4L3ZTUk)
-- [Pull up the Roots (2005 Remaster)](https://www.youtube.com/watch?v=tQS6XfuH2wE)
-- [Talking Heads - This Must Be the Place (Naive Melody) (Official Video)](https://www.youtube.com/watch?v=Fb2q141rMNE)
+- [Talking Heads - This Must Be the Place (Official Audio)](https://www.youtube.com/watch?v=3ffD8_-s1TQ)
+- [Making Flippy Floppy](https://www.youtube.com/watch?v=NpdT178afp0)
+- [Girlfriend Is Better](https://www.youtube.com/watch?v=OL_uB_4RlJQ)
+- [Slippery People](https://www.youtube.com/watch?v=JwMb06BiB9o)
+- [I Get Wild / Wild Gravity](https://www.youtube.com/watch?v=OPUVGuUPfVM)
+- [Swamp](https://www.youtube.com/watch?v=NBKG2juWANI)
+- [Moon Rocks](https://www.youtube.com/watch?v=MBPhsUfzkiU)
+- [Pull up the Roots](https://www.youtube.com/watch?v=nYWt_U43M9Y)
 
 ## Release Images
 {{< imageGrid >}}

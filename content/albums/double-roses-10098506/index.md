@@ -40,7 +40,9 @@ styles: ["Indie Rock"]
 ## Videos
 ### Karen Elson - Double Roses [FULL ALBUM]
 {{< youtube id="uEKiKp-2bW4" title="Karen Elson - Double Roses [FULL ALBUM]" >}}<br>
+### More Videos
 
+- [Karen Elson - Double Roses [FULL ALBUM]](https://www.youtube.com/watch?v=uEKiKp-2bW4)
 
 ## Release Images
 {{< imageGrid >}}

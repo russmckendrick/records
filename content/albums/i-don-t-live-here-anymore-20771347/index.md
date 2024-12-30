@@ -14,24 +14,24 @@ cover:
     caption: "I Don't Live Here Anymore by The War On Drugs"
 additional_images:
     - "https://i.discogs.com/vtKez5q-Qe81-m0uGng_l5ggmhzScCHAJRlcTatFZjc/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwNzcx/MzQ3LTE2MzU1MjAz/NjAtNTIwOC5qcGVn.jpeg"
-    - "https://i.discogs.com/oG1-kDPMvueNW0vZ1sVFpmh01q83z5bC8cnkUvx6Avc/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwNzcx/MzQ3LTE2MzU2OTM5/MTMtMTU2Ny5qcGVn.jpeg"
-    - "https://i.discogs.com/6ILulR1QdgqAQKcSTH7_Eii2f2AILJM8ESZ9a0BE5lc/rs:fit/g:sm/q:90/h:601/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwNzcx/MzQ3LTE2MzU2OTM5/MjEtNjA2NC5qcGVn.jpeg"
+    - "https://i.discogs.com/0fcX4Q35JkPqtCLMnu8PgtM4NoLBSJCfZ2jN4BYl9j8/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwNzcx/MzQ3LTE2MzU2OTM5/MTMtMTU2Ny5qcGVn.jpeg"
+    - "https://i.discogs.com/OuQ9QvMxhttjeNqOjlQaqnb1HNc9RF0FCTloG_NeIeQ/rs:fit/g:sm/q:90/h:600/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwNzcx/MzQ3LTE2MzU2OTM5/MjEtNjA2NC5qcGVn.jpeg"
     - "https://i.discogs.com/QNZLRlNtlZAb5Tb9RkdXd-1_ijGuC9ikmT5utyby4is/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwNzcx/MzQ3LTE2MzU2OTM4/OTctMjE4Ny5qcGVn.jpeg"
     - "https://i.discogs.com/wbur0h8XvM8NY5PoAvbseC6cyJ1dkwkUH9TdKoWusMc/rs:fit/g:sm/q:90/h:398/w:400/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwNzcx/MzQ3LTE2MzU2OTM5/NzMtNjc1OS5qcGVn.jpeg"
     - "https://i.discogs.com/VxauUSA86q9qZvW3gO6tEM1KI9I7bzDfY_dp9PSMyTM/rs:fit/g:sm/q:90/h:396/w:400/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwNzcx/MzQ3LTE2MzU2OTM5/ODQtMjM2Ny5qcGVn.jpeg"
     - "https://i.discogs.com/0aHO8_DqaypTnxc37lXlpkaRQhHgy4BvA7aF-EG8Mps/rs:fit/g:sm/q:90/h:389/w:400/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwNzcx/MzQ3LTE2MzU2OTQw/MTctMjE5My5qcGVn.jpeg"
     - "https://i.discogs.com/rJx5rCBG2mVZrmG3tnfPjSmMU6UbTIsV2CZyI9H5eoc/rs:fit/g:sm/q:90/h:402/w:400/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwNzcx/MzQ3LTE2MzU2OTQw/MjktOTY2MS5qcGVn.jpeg"
     - "https://i.discogs.com/9FcZ2ZHYDUD7oEyZzTMbbFCUFkByvkHwrq9BlgztKrs/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwNzcx/MzQ3LTE2MzU2OTM5/NTItNTA5OC5qcGVn.jpeg"
-    - "https://i.discogs.com/ZUtms30cFyLncwjUpMSSNF3gPG1PZO6KNeZiLTZRAKU/rs:fit/g:sm/q:90/h:601/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwNzcx/MzQ3LTE2MzU2OTM5/NjQtOTI5MC5qcGVn.jpeg"
-    - "https://i.discogs.com/8GzbhRoD_BvkcGU5uxz1V39YhStUF3WK5sECU6w8oSk/rs:fit/g:sm/q:90/h:605/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwNzcx/MzQ3LTE2MzU2OTM5/OTQtMjkxNy5qcGVn.jpeg"
-    - "https://i.discogs.com/CnD_mRvM3WYjsJ9Zhsia1zmUj0GAoVkgsOifNQVXCPA/rs:fit/g:sm/q:90/h:603/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwNzcx/MzQ3LTE2MzU2OTQw/MDUtOTE3NC5qcGVn.jpeg"
-    - "https://i.discogs.com/fbR0Tmlun0CNH0t9GB1UVVlBVqKBQqLYXOjC2eRrc3A/rs:fit/g:sm/q:90/h:609/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwNzcx/MzQ3LTE2MzU2OTM4/ODEtNjk0Ni5qcGVn.jpeg"
+    - "https://i.discogs.com/if9JaA8rOU3FYWzzerjV06SdGM3FOtOLyIDJKP8cQ6A/rs:fit/g:sm/q:90/h:600/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwNzcx/MzQ3LTE2MzU2OTM5/NjQtOTI5MC5qcGVn.jpeg"
+    - "https://i.discogs.com/NTgNUZjb1xKymakKCtRiQgrzIFcUA6rmmN7fCUPw-Yo/rs:fit/g:sm/q:90/h:600/w:594/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwNzcx/MzQ3LTE2MzU2OTM5/OTQtMjkxNy5qcGVn.jpeg"
+    - "https://i.discogs.com/KapB4mjMfWoqgw1SrpwHmK5CpmbR1sPsIYZ5QZzlFYQ/rs:fit/g:sm/q:90/h:600/w:596/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwNzcx/MzQ3LTE2MzU2OTQw/MDUtOTE3NC5qcGVn.jpeg"
+    - "https://i.discogs.com/UQ-Uzgdrncz5w6BMNoxtOJZXGqGGQi23Wv5k97SCqmM/rs:fit/g:sm/q:90/h:600/w:590/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwNzcx/MzQ3LTE2MzU2OTM4/ODEtNjk0Ni5qcGVn.jpeg"
     - "https://i.discogs.com/rn9PUG--0QRgaz45NVNk8UaYYCY1lGMTxhK-wy94-Lo/rs:fit/g:sm/q:90/h:362/w:400/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwNzcx/MzQ3LTE2MzU2OTM5/NDItODQ4Ni5qcGVn.jpeg"
 genres: ["Rock"]
 styles: ["Alternative Rock"]
 ---
 
-As The War on Drugs have grown in size and stature from bedroom recording project to sprawling, festival-headlining rock outfit, Adam Granduciel’s role has remained constant: It’s his band, his vision. But when the pandemic forced recording sessions for their fifth LP <i>I Don’t Live Here Anymore</i> to go remote in 2020, Granduciel began encouraging his bandmates to take ownership of their roles within each song—to leave their mark. “Once we got into a groove of sending each other sessions, it was this really cool thing where everyone had a way of working on their own time that really helped,” he tells Apple Music. “I think being friends with the guys now and collaborative for so many years, each time we work together, it's like everyone's more confident in their role and I’m more confident in my desire for them to step up and bring something real. I was all about giving up control.”<br />
+As The War on Drugs have grown in size and stature from bedroom recording project to sprawling, festival-headlining rock outfit, Adam Granduciel’s role has remained constant: It’s his band, his vision. But when the pandemic forced recording sessions for their fifth LP <I>I Don’t Live Here Anymore</I> to go remote in 2020, Granduciel began encouraging his bandmates to take ownership of their roles within each song—to leave their mark. “Once we got into a groove of sending each other sessions, it was this really cool thing where everyone had a way of working on their own time that really helped,” he tells Apple Music. “I think being friends with the guys now and collaborative for so many years, each time we work together, it's like everyone's more confident in their role and I’m more confident in my desire for them to step up and bring something real. I was all about giving up control.”<br />
 That shift, Granduciel adds, opened up “new sonic territory” that he couldn’t have seen by himself. And the sense of peace and perspective that came with it was mirrored—if not made possible—by changes in his personal life, namely the birth of his first child. A decade ago, Granduciel would have likely obsessed and fretted over every detail, making himself unwell in the process, “but I wasn't really scared to turn in this record,” he says. “I was excited for it to be out in the world, because it's not so much that you don't care about your work, but it’s just not the most important thing all the time. I was happy with whatever I could contribute, as long as I felt that I had given it my all.” Here, Granduciel guides us through the entire record, track by track.<br />
 <b>“Living Proof”</b>
 “It felt like a complete statement, a complete thought. It felt like the solo was kind of composed and was there for a reason, and it all just felt buttoned up perfectly, where it could open a record in kind of a tender way. Just very deliberate and right.”<br />
@@ -53,7 +53,8 @@ That shift, Granduciel adds, opened up “new sonic territory” that he couldn�
 “I'd been strumming those open chords for a couple years—I had the melody and I had that opening line. I wanted to express something, but I wasn't 100% sure how I was going to go about doing it—part of the journey was to not be embarrassed by a line or not think that something is too obvious and too sentimental. As time went on with this record, I became a dad, and I started seeing it from the other side. It’s not so much a reflection on my relationship with my own dad, but starting to think about being a dad, being a protector.”<br />
 <b>“Occasional Rain”</b>
 “As a songwriter I just love it because it's really concise. Lyrically, I was able to wrap up some of the scenes that I wanted to try and talk about, knowing where it was going to go on the record. I just think it's one of those songs that's a perfect closer. It's the last song in our fifth album. It's like, if this was the last album we ever made and that was the last song, I'd be like, ‘That's a good way to go out.’”
-    
+        
+        
     
 
 
@@ -88,6 +89,7 @@ That shift, Granduciel adds, opened up “new sonic territory” that he couldn�
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
+| Wikipedia URL | https://en.wikipedia.org/wiki/I_Don%27t_Live_Here_Anymore |
 | Format         | Vinyl 2× LP Album Stereo |
 | Label          | Atlantic |
 | Catalog Number | SEL 1-659043 - 075678643477 |

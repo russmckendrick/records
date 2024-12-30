@@ -21,7 +21,7 @@ genres: ["Funk / Soul"]
 styles: ["Soul", "Contemporary R&B"]
 ---
 
-On his brilliant 2015 debut album, <i>Coming Home</i>, Texas singer/songwriter Leon Bridges invited comparisons to Sam Cooke and Otis Redding with his authentic take on soul. <i>Good Thing</i>, his 2018 follow-up, finds Bridges leaving the ’50 and ’60s, instead embracing ’70s icons like The Stylistics (“Bet Ain’t Worth the Hand”) and Chic (“You Don’t Know”). More surprises come in “If It Feels Good (Then It Must Be)” and “Bad Bad News,” contemporary jams that show he can swag it out with the likes of Usher and Pharrell too. Bridges' warm tenor is sturdy and smoky as mesquite wood as he combines deep emotions and nimble wordplay on “Beyond,” “Forgive You,” and “Georgia to Texas”—a moving story of his family’s history.
+On his brilliant 2015 debut album, <I>Coming Home</I>, Texas singer/songwriter Leon Bridges invited comparisons to Sam Cooke and Otis Redding with his authentic take on soul. <I>Good Thing</I>, his 2018 follow-up, finds Bridges leaving the ’50 and ’60s, instead embracing ’70s icons like The Stylistics (“Bet Ain’t Worth the Hand”) and Chic (“You Don’t Know”). More surprises come in “If It Feels Good (Then It Must Be)” and “Bad Bad News”, contemporary jams that show he can swag it out with the likes of Usher and Pharrell too. Bridges' warm tenor is sturdy and smoky as mesquite wood as he combines deep emotions and nimble wordplay on “Beyond”, “Forgive You” and “Georgia to Texas”—a moving story of his family’s history.
         
         
     
@@ -44,13 +44,29 @@ On his brilliant 2015 debut album, <i>Coming Home</i>, Texas singer/songwriter L
 
 
 ## Videos
-### Leon Bridges - Georgia to Texas (Lyrics)
-{{< youtube id="Au3ZxR5zn6g" title="Leon Bridges - Georgia to Texas (Lyrics)" >}}<br>
+### Leon Bridges - Bet Ain't Worth the Hand
+{{< youtube id="UYzpPh1Gf_Q" title="Leon Bridges - Bet Ain't Worth the Hand" >}}<br>
 ### More Videos
 
-- [Leon Bridges - If It Feels Good (Then It Must Be) (Official Audio)](https://www.youtube.com/watch?v=xvPMqljGruE)
+- [Leon Bridges - Bad Bad News (Official Audio)](https://www.youtube.com/watch?v=FJOGT1axUV4)
+- [Leon Bridges - Shy (Official Audio)](https://www.youtube.com/watch?v=EfVhJkQ-mt8)
+- [Leon Bridges - Beyond (Official Audio)](https://www.youtube.com/watch?v=2qVe7CL9uAg)
 - [Leon Bridges - Forgive You (Official Audio)](https://www.youtube.com/watch?v=mK8NE8qtO8o)
-- [Leon Bridges: Good Thing - Available Now!](https://www.youtube.com/watch?v=g8t0-2U6tdQ)
+- [Leon Bridges - Lions (Official Audio)](https://www.youtube.com/watch?v=KE6nqQGegAA)
+- [Leon Bridges - If It Feels Good (Then It Must Be) (Official Audio)](https://www.youtube.com/watch?v=xvPMqljGruE)
+- [Leon Bridges - You Don't Know (Official Audio)](https://www.youtube.com/watch?v=KztV93idYN4)
+- [Leon Bridges - Mrs. (Official Audio)](https://www.youtube.com/watch?v=4WyqaFTgaKI)
+- [Leon Bridges - Georgia to Texas (Official Audio)](https://www.youtube.com/watch?v=XnJe7C2rkiI)
+- [Leon Bridges - Bet Ain't Worth the Hand](https://www.youtube.com/watch?v=UYzpPh1Gf_Q)
+- [Leon Bridges - Bad Bad News (Official Audio)](https://www.youtube.com/watch?v=FJOGT1axUV4)
+- [Leon Bridges - Shy (Official Audio)](https://www.youtube.com/watch?v=EfVhJkQ-mt8)
+- [Leon Bridges - Beyond (Official Audio)](https://www.youtube.com/watch?v=2qVe7CL9uAg)
+- [Leon Bridges - Forgive You (Official Audio)](https://www.youtube.com/watch?v=mK8NE8qtO8o)
+- [Leon Bridges - Lions (Official Audio)](https://www.youtube.com/watch?v=KE6nqQGegAA)
+- [Leon Bridges - If It Feels Good (Then It Must Be) (Official Audio)](https://www.youtube.com/watch?v=xvPMqljGruE)
+- [Leon Bridges - You Don't Know (Official Audio)](https://www.youtube.com/watch?v=KztV93idYN4)
+- [Leon Bridges - Mrs. (Official Audio)](https://www.youtube.com/watch?v=4WyqaFTgaKI)
+- [Leon Bridges - Georgia to Texas (Official Audio)](https://www.youtube.com/watch?v=XnJe7C2rkiI)
 
 ## Release Images
 {{< imageGrid >}}

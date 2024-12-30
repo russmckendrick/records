@@ -33,7 +33,7 @@ genres: ["Rock", "Pop", "Folk, World, & Country"]
 styles: ["Folk Rock", "Folk", "Indie Rock", "Indie Pop", "Pop Rock"]
 ---
 
-Josh Tillman’s third album as Father John Misty is a wry and passionate complaint against nearly everything under the sun: Politics, religion, entertainment, war—even Father John Misty can’t escape Father John Misty’s gimlet eye. But even the wordiest, most cynically self-aware songs here (“Leaving L.A.,” “When the God of Love Returns There’ll Be Hell to Pay”) are executed with angelic beauty, a contrast that puts Tillman in a league with spiritual predecessors like Randy Newman or Harry Nilsson. A performer as savvy as Tillman knows you can’t sell the apocalypse without making it sound pretty.
+Josh Tillman’s third album as Father John Misty is a wry and passionate complaint against nearly everything under the sun: politics, religion, entertainment, war—even Father John Misty can’t escape Father John Misty’s gimlet eye. But even the wordiest, most cynically self-aware songs here (“Leaving LA”, “When the God of Love Returns There’ll Be Hell to Pay”) are executed with angelic beauty, a contrast that puts Tillman in a league with spiritual predecessors like Randy Newman or Harry Nilsson. A performer as savvy as Tillman knows you can’t sell the apocalypse without making it sound pretty.
         
         
     
@@ -57,7 +57,7 @@ Josh Tillman’s third album as Father John Misty is a wry and passionate compla
 15. Rejected Generic Pop Song March '15 #3
 
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/pure-comedy/1195129976" >}}<br>
+{{< applemusic url="https://music.apple.com/gb/album/pure-comedy/1193788689" >}}<br>
 
 
 ## Videos
@@ -65,8 +65,10 @@ Josh Tillman’s third album as Father John Misty is a wry and passionate compla
 {{< youtube id="wKrSYgirAhc" title="Father John Misty - Pure Comedy [Official Music Video]" >}}<br>
 ### More Videos
 
-- [Father John Misty - Things It Would Have Been Helpful To Know Before The Revolution [OFFICIAL VIDEO]](https://www.youtube.com/watch?v=cIsT3dJ60Uk)
 - [Father John Misty - Pure Comedy [FULL ALBUM STREAM]](https://www.youtube.com/watch?v=DzLt-11Glzg)
+- [Father John Misty - Pure Comedy [Official Music Video]](https://www.youtube.com/watch?v=wKrSYgirAhc)
+- [Father John Misty - Pure Comedy [FULL ALBUM STREAM]](https://www.youtube.com/watch?v=DzLt-11Glzg)
+- [Father John Misty - Things It Would Have Been Helpful To Know Before The Revolution [OFFICIAL VIDEO]](https://www.youtube.com/watch?v=cIsT3dJ60Uk)
 
 ## Release Images
 {{< imageGrid >}}

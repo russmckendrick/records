@@ -17,6 +17,12 @@ genres: ["Rock"]
 styles: ["Psychedelic Rock", "Prog Rock"]
 ---
 
+Koyo is an American melodic hardcore band formed in 2020 in Stony Brook, New York. The band was formed as a supergroup of hardcore bands including SeeYouSpaceCowboy, with vocalist Joey Chiaramonte hailing from the band Typecaste. They released their debut EP Painting Words Into Lines in March 2020. In 2022, Koyo signed a record deal with Pure Noise Records.
+The band's music has been compared to Long Island emo, pop punk and melodic hardcore bands such as Taking Back Sunday and The Movielife.
+
+
+    
+    
 
 
 ## Tracklisting
@@ -32,7 +38,7 @@ styles: ["Psychedelic Rock", "Prog Rock"]
 10. Release (6:50)
 
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/koyo/1259107930" >}}<br>
+{{< applemusic url="https://music.apple.com/gb/album/koyo-koyo/1699850474" >}}<br>
 
 
 ## Videos
@@ -46,8 +52,9 @@ styles: ["Psychedelic Rock", "Prog Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
+| Wikipedia URL | https://en.wikipedia.org/wiki/Koyo_(band) |
 | Format         | Vinyl 2× LP Album (Red & Blue) |
 | Label          | 88 Watt |
 | Catalog Number | 88WLPR004X |
 | Notes | Gatefold sleeve |
-| Discogs URL    | [Koyo - Koyo](https://www.discogs.com/release/10895225-Koyo-Koyo) |
+| Discogs URL    | [Koyo - Koyo](https://www.discogs.com/release/10895225-Koyo-2-Koyo) |

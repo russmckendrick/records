@@ -12,7 +12,7 @@ cover:
     alt: "Just Dropped In (To See What Condition My Rendition Was In) by Sharon Jones & The Dap-Kings"
     caption: "Just Dropped In (To See What Condition My Rendition Was In) by Sharon Jones & The Dap-Kings"
 additional_images:
-    - "https://i.discogs.com/KG5gYx_tpYgQjpjyrXW_PZaDEBSf--BypzImSobBYrc/rs:fit/g:sm/q:90/h:601/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2Mjc1/MjE0LTE2MDY2ODYw/ODItNjE4Ny5qcGVn.jpeg"
+    - "https://i.discogs.com/Q1olKctxiMDOltg9Il52IwNq2YRbQ2tIsM6tl_CoF7I/rs:fit/g:sm/q:90/h:600/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2Mjc1/MjE0LTE2MDY2ODYw/ODItNjE4Ny5qcGVn.jpeg"
     - "https://i.discogs.com/D2ZSQJA4YAvCGQkg1M5iLG0Bos3WoUixSWOVDeMqYG0/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2Mjc1/MjE0LTE2MDY0MDkz/NjAtNDQxMS5qcGVn.jpeg"
     - "https://i.discogs.com/d7VbzuXRdn75TGo9m10jE5nNUL8uVOVW8_-H9zwAYms/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2Mjc1/MjE0LTE2MDY1MDYz/MjEtMjIxMC5qcGVn.jpeg"
     - "https://i.discogs.com/mTWXdXuCJ8gc0xqJoEQ-n0za_2-9Wsd17klQZoW6HXY/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2Mjc1/MjE0LTE2MDY1MDYz/MjEtNjk4OC5qcGVn.jpeg"
@@ -55,10 +55,22 @@ styles: ["Soul"]
 - [Trespasser](https://www.youtube.com/watch?v=6pdxS81QPHY)
 - [Take Me With U](https://www.youtube.com/watch?v=YkMVl7a7-q0)
 - [Little by Little](https://www.youtube.com/watch?v=-Q7IP-67kow)
-- [Sharon Jones & the Dap-Kings What Have You Done for Me Lately](https://www.youtube.com/watch?v=mY9tniM8s-g)
+- [Sharon Jones & the Dap-Kings "What Have You Done for Me Lately"](https://www.youtube.com/watch?v=mY9tniM8s-g)
 - [Sharon Jones & The Dap-Kings - Inspiration Information](https://www.youtube.com/watch?v=VsHSxQcXl1k)
-- [Sharon Jones & the Dap-Kings Giving Up](https://www.youtube.com/watch?v=3onr9hAVXKA)
-- [Sharon Jones & the Dap-Kings It Hurts To Be Alone](https://www.youtube.com/watch?v=oLwo_CwbFew)
+- [Sharon Jones & the Dap-Kings "Giving Up"](https://www.youtube.com/watch?v=3onr9hAVXKA)
+- [Sharon Jones & the Dap-Kings "It Hurts To Be Alone"](https://www.youtube.com/watch?v=oLwo_CwbFew)
+- [Sharon Jones & the Dap-Kings - Just Dropped In (To See What Condition My Condition Was In)](https://www.youtube.com/watch?v=lWaKjzh0pFI)
+- [Signed, Sealed, Delivered I'm Yours](https://www.youtube.com/watch?v=x0Obj53eHB0)
+- [In the Bush](https://www.youtube.com/watch?v=XHQ4qpZXG2E)
+- [Here I Am Baby](https://www.youtube.com/watch?v=0RQMzvkkaEg)
+- [Rescue Me](https://www.youtube.com/watch?v=B9Na5FOBsEU)
+- [Trespasser](https://www.youtube.com/watch?v=6pdxS81QPHY)
+- [Take Me With U](https://www.youtube.com/watch?v=YkMVl7a7-q0)
+- [Little by Little](https://www.youtube.com/watch?v=-Q7IP-67kow)
+- [Sharon Jones & the Dap-Kings "What Have You Done for Me Lately"](https://www.youtube.com/watch?v=mY9tniM8s-g)
+- [Sharon Jones & The Dap-Kings - Inspiration Information](https://www.youtube.com/watch?v=VsHSxQcXl1k)
+- [Sharon Jones & the Dap-Kings "Giving Up"](https://www.youtube.com/watch?v=3onr9hAVXKA)
+- [Sharon Jones & the Dap-Kings "It Hurts To Be Alone"](https://www.youtube.com/watch?v=oLwo_CwbFew)
 
 ## Release Images
 {{< imageGrid >}}

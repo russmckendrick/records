@@ -23,9 +23,11 @@ genres: ["Rock"]
 styles: ["Psychedelic Rock"]
 ---
 
-"In-A-Gadda-Da-Vida" (derived from "In the Garden of Eden") is a song recorded by Iron Butterfly, written by bandmember Doug Ingle and released on their 1968 album of the same name. 
+"In-A-Gadda-Da-Vida" (derived from "In the Garden of Eden") is a song recorded by Iron Butterfly, written by band member Doug Ingle and released on their 1968 album of the same name. 
 At slightly over 17 minutes, it occupies the entire second side of the album. The lyrics, a love song from the biblical Adam to his mate Eve, are simple and are heard only at the beginning and the end. The middle of the song features a two-and-a-half-minute Ron Bushy drum solo.
-"In-A-Gadda-Da-Vida" was Iron Butterfly's only song to reach the top 40, reaching number 30, while the album itself reached number four on the album chart and sold over 30 million copies. An 8-minute-20-second edit of the song was included in the soundtrack to the 1986 film Manhunter. In 2009, it was named the 24th-greatest hard rock song of all time by VH1. It is also often regarded as an influence on heavy metal music and one of the firsts of the genre.
+A 2-minute-52-second 45-rpm version of "In-A-Gadda-Da-Vida" was Iron Butterfly's only song to reach the top 40, reaching number 30, while the album itself reached number four on the album chart and has sold over 30 million copies. An 8-minute-20-second edit of the song was included in the soundtrack to the 1986 film Manhunter. In 2009, it was named the 24th-greatest hard rock song of all time by VH1. It is also often regarded as an influence on heavy metal music and one of the firsts of the genre.
+
+
     
     
 
@@ -47,13 +49,9 @@ At slightly over 17 minutes, it occupies the entire second side of the album. Th
 {{< youtube id="5QZdITJX6I0" title="Most Anything You Want" >}}<br>
 ### More Videos
 
-- [In A Gadda Da Vida - Iron Buttefly I](https://www.youtube.com/watch?v=uGmkM4v9AaY)
-- [IRON BUTTERFLY IN- A-GADDA-DA-VIDA IN HD BEST FULL VERSION](https://www.youtube.com/watch?v=ZCkHanF4v1w)
 - [Flowers and Beads](https://www.youtube.com/watch?v=rN8iFqDvB_c)
-- [In-A-Gadda-Da-Vida](https://www.youtube.com/watch?v=XugIsZbTFy0)
-- [My Mirage](https://www.youtube.com/watch?v=zlh4661CQFw)
-- [Iron Butterfly - In-A-Gadda-Da-Vida (Official Audio)](https://www.youtube.com/watch?v=hNBgEirKxq8)
 - [Termination](https://www.youtube.com/watch?v=TxAGeGBhIxI)
+- [My Mirage](https://www.youtube.com/watch?v=zlh4661CQFw)
 - [Are You Happy](https://www.youtube.com/watch?v=XcSZTBuQyK4)
 - [In-A-Gadda-Da-Vida (2006 Remaster Full-Length)](https://www.youtube.com/watch?v=Tfpn3wHoNGA)
 

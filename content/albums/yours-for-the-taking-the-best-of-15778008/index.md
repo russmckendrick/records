@@ -50,7 +50,7 @@ styles: ["Indie Rock"]
 22. Let Me Move On (Long Version)
 
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/the-best-musics-for-taking-care-of-the/1648119317" >}}<br>
+{{< applemusic url="https://music.apple.com/gb/album/the-very-best-of-kiss/1440658055" >}}<br>
 
 
 

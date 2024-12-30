@@ -18,9 +18,9 @@ additional_images:
     - "https://i.discogs.com/McwOZ0pSoDyPYfjhmuB5OEcfRS3vd2H3ii4oPeldfOs/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0OTA5/NTYtMTQ4MjE1MDQz/Ny00NzY3LmpwZWc.jpeg"
     - "https://i.discogs.com/T3ML5vEyQ799OYCupdPwnmK769wNu9kJKrC7G9jjA18/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0OTA5/NTYtMTQ4MjE1MDQy/NC01MDY2LmpwZWc.jpeg"
     - "https://i.discogs.com/wUTAbtaxo4Q4jzjOxIuUVGgKguxbM7IN3KZqPiFsW-A/rs:fit/g:sm/q:90/h:592/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0OTA5/NTYtMTQ4MjE1MDQx/OS0zNTg4LmpwZWc.jpeg"
-    - "https://i.discogs.com/aSTbJysCBJ9p-LBmb14xxWebIdR62CnsShJ9uWLLBVw/rs:fit/g:sm/q:90/h:1197/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0OTA5/NTYtMTQ4MjE1MDQ0/My0xOTcwLmpwZWc.jpeg"
+    - "https://i.discogs.com/hG8QXF7kCJrkTFsvFlnJNz5pMZcjHifvip5c4x4CMdU/rs:fit/g:sm/q:90/h:600/w:300/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0OTA5/NTYtMTQ4MjE1MDQ0/My0xOTcwLmpwZWc.jpeg"
 genres: ["Rock"]
-styles: ["Industrial"]
+styles: ["Industrial Metal"]
 ---
 
 
@@ -39,13 +39,19 @@ styles: ["Industrial"]
 
 
 ## Videos
-### Beavis and Butt-Head - Do 'Ministry - N.W.O.'
-{{< youtube id="WADa5ItkV6o" title="Beavis and Butt-Head - Do 'Ministry - N.W.O.'" >}}<br>
+### Ministry - Just One Fix (Official Music Video)
+{{< youtube id="XYYGKCanqfA" title="Ministry - Just One Fix (Official Music Video)" >}}<br>
 ### More Videos
 
+- [TV II](https://www.youtube.com/watch?v=b8ZZmJu-l4U)
+- [Hero](https://www.youtube.com/watch?v=9geEGT4SgCg)
+- [Ministry - Jesus Built My Hotrod (Official Music Video) | Warner Vault](https://www.youtube.com/watch?v=GXCh9OhDiCI)
+- [Scare Crow](https://www.youtube.com/watch?v=wJqMX1VeFsU)
+- [Corrosion](https://www.youtube.com/watch?v=dmCYD0Zuo2U)
+- [Grace](https://www.youtube.com/watch?v=IOE6TndC6ms)
+- [Ministry - NWO [9/11 videoclip]](https://www.youtube.com/watch?v=T5bX30uUK30)
 - [Ministry - Jesus Built My Hotrod (Official Music Video) | Warner Vault](https://www.youtube.com/watch?v=GXCh9OhDiCI)
 - [Ministry - Just One Fix (Official Music Video)](https://www.youtube.com/watch?v=XYYGKCanqfA)
-- [New World Order by Ministry](https://www.youtube.com/watch?v=HWelpY0O0jc)
 
 ## Release Images
 {{< imageGrid >}}
@@ -57,4 +63,4 @@ styles: ["Industrial"]
 | Label          | Sire |
 | Catalog Number | 8122-79760-1 |
 | Notes | © 1992 Sire Records Company for the U.S. and WEA International Inc. for the world outside of the U.S. ℗ 1991, 1992 Sire Records Company for the U.S. and WEA International Inc. for the world outside of the U.S. Manufactured in the EU Made in the E.U.  Issued with a printed inner sleeve with credits.  Pressed  in Germany by Optimal Media from stampers made by Rainbo Records in the USA for the US release, see [r=3080042] for reference. |
-| Discogs URL    | [Ministry - ΚΕΦΑΛΗΞΘ](https://www.discogs.com/release/3490956-Ministry-%CE%9A%CE%95%CE%A6%CE%91%CE%9B%CE%97%CE%9E%CE%98) |
+| Discogs URL    | [Ministry - ΚΕΦΑΛΗΞΘ](https://www.discogs.com/release/3490956-Ministry-ΚΕΦΑΛΗΞΘ) |

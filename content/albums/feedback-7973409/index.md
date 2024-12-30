@@ -14,17 +14,19 @@ cover:
     caption: "Feedback by Rush"
 additional_images:
     - "https://i.discogs.com/LvhelEpoU-t5carpJxzBroficr2nGa-k4GtnTKO9_IY/rs:fit/g:sm/q:90/h:593/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc5NzM0/MDktMTQ1Mjk4NzQz/NC0yNjc4LmpwZWc.jpeg"
-    - "https://i.discogs.com/-szs_zsPI9q-XOIHdixSxzPN_cAWaoHPBUyj86ldtG8/rs:fit/g:sm/q:90/h:601/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc5NzM0/MDktMTQ1Mjk4NzQz/NC03NzM2LmpwZWc.jpeg"
+    - "https://i.discogs.com/aG7hZy5YfzOWGcZO-oMs33_Q5sZWQQ9jCP67zi_RSMg/rs:fit/g:sm/q:90/h:600/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc5NzM0/MDktMTQ1Mjk4NzQz/NC03NzM2LmpwZWc.jpeg"
     - "https://i.discogs.com/mq1DbUA4QEfrsCiej5p1g4iEurtxg1qkr3jjQL3Si94/rs:fit/g:sm/q:90/h:292/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc5NzM0/MDktMTQ1Mjk4NzQz/NC01NzY1LmpwZWc.jpeg"
     - "https://i.discogs.com/GClMaZmuMaroxm4O5yI4j0lvsF1kvaaiyMt5t6goIE8/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc5NzM0/MDktMTQ1Mjk4NzQz/My0zNDg5LmpwZWc.jpeg"
-    - "https://i.discogs.com/fIeCpLYzh2YcN3rzlu-BhGHvFYIU9dOLIVKGNZoH1qU/rs:fit/g:sm/q:90/h:605/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc5NzM0/MDktMTQ1Mjk4NzQz/NC05NTQ5LmpwZWc.jpeg"
+    - "https://i.discogs.com/tNFEoghrvEM_UKMFOsu-I6aLCCr7BDs0tY5-rhhoOdQ/rs:fit/g:sm/q:90/h:600/w:594/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc5NzM0/MDktMTQ1Mjk4NzQz/NC05NTQ5LmpwZWc.jpeg"
     - "https://i.discogs.com/OxyNLz9of1dd2MWm9a5fJiojAzgIo7aPotikq7D9Tio/rs:fit/g:sm/q:90/h:210/w:460/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc5NzM0/MDktMTQ1Mjk4NzQz/MS0yOTEyLmpwZWc.jpeg"
     - "https://i.discogs.com/46AmVcxdU_sco0yLLMRJSY1EA8VX-USAtlYjr9Cu6vo/rs:fit/g:sm/q:90/h:448/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc5NzM0/MDktMTQ1NDI5NzY2/NS0yNTc2LmpwZWc.jpeg"
 genres: ["Rock"]
 styles: ["Classic Rock"]
 ---
 
-No one could've predicted this 2004 EP — a collection of the band's favorite tunes. The pure heavy metal thunder of Eddie Cochran's "Summertime Blues" is undeniable and quite a shocker coming from a band that always found ways to complicate its simplest impulses with elaborate concepts and deliberate, fussy intricacies. Here, guitarist Alex Lifeson turns the amp to ten, drummer Neil Peart kicks out the jams, slipping in just a few quick flourishes to keep things interesting, and singer Geddy Lee refrains from the high-end hysteria to deliver a full-throated attack. There's nearly an R&B menace to the folk-rock haunting the Yardbirds' "Heart Full of Soul," where gorgeous harmonies and Lifeson's thick fuzz-tone spring the song to life. They double-dip into the Yardbirds catalog with a sonically ambitious take on the psychedelic classic "Shapes of Things." The Buffalo Springfield's "For What It's Worth" never sounded more ominous and the band speeds up Love's "Seven and Seven Is" until it's nearly hardcore punk. This Canadian power trio has never been criticized for being too brief, but this collection could easily be expanded considering how much fun Rush is having.
+Feedback is an EP by Canadian rock band Rush, released in 2004. The record features eight covers of songs that were influential for the band members during the 1960s. The outing marked the 30th anniversary of both the release of Rush's debut album, which featured the original lineup of Geddy Lee, Alex Lifeson and John Rutsey, and of Neil Peart's joining the band in the wake of Rutsey's departure. The tour in support of the Feedback album was called the R30: 30th Anniversary Tour. The record was remastered and reissued in 2013 as a part of the box set The Studio Albums 1989–2007. In 2016 it was reissued after being remastered by Sean Magee at Abbey Road Studios following a direct approach by Rush to remaster their entire back catalogue.
+
+
         
         
     

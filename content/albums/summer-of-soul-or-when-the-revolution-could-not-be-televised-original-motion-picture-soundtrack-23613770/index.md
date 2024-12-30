@@ -24,8 +24,8 @@ additional_images:
     - "https://i.discogs.com/pOhWw5O9X-XfHn_oGPCnbbavXQPWcU570VPOB_jFWak/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNjEz/NzcwLTE2NTU5MDAx/NzUtMzE1OS5qcGVn.jpeg"
     - "https://i.discogs.com/JEgpPjkrvWeGI-YxisaxLvpGc0VDup5UlMPONePpgXQ/rs:fit/g:sm/q:90/h:593/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNjEz/NzcwLTE2NTU5MDAx/NzUtODU5OS5qcGVn.jpeg"
     - "https://i.discogs.com/E-7aVPa9nH41GIZbwQa1hgLmNx_jJeP7np5LBNL2Q5g/rs:fit/g:sm/q:90/h:312/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNjEz/NzcwLTE2NTU5MDAy/MTktMTAzMi5qcGVn.jpeg"
-    - "https://i.discogs.com/uEioM61Walp_V8X29wGGBkm1otpRCgcZcLH0y91FX6c/rs:fit/g:sm/q:90/h:771/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNjEz/NzcwLTE2NTU5MDAy/MDgtNTQxNi5qcGVn.jpeg"
-    - "https://i.discogs.com/S-YVD7SuTYkA00winwXnqGPQY2fwQygotzu11_YIAfQ/rs:fit/g:sm/q:90/h:704/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNjEz/NzcwLTE2NTU5MDAy/MDctOTUwOS5qcGVn.jpeg"
+    - "https://i.discogs.com/LdBi6pnm-3F2Bb_fsy-UaJXpLCM08lFUflsuP4ExApE/rs:fit/g:sm/q:90/h:600/w:466/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNjEz/NzcwLTE2NTU5MDAy/MDgtNTQxNi5qcGVn.jpeg"
+    - "https://i.discogs.com/B5hLEMIUPlrABh22ekuaCRlqsJgC0HOPpxD3w91LkZ0/rs:fit/g:sm/q:90/h:600/w:511/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNjEz/NzcwLTE2NTU5MDAy/MDctOTUwOS5qcGVn.jpeg"
     - "https://i.discogs.com/vCysuy3FraAqO1vtCfMKQmEYE1IE5KqSAbdFKVtWYA0/rs:fit/g:sm/q:90/h:431/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNjEz/NzcwLTE2NTU5MDAy/MDgtMjA5Ni5qcGVn.jpeg"
     - "https://i.discogs.com/onYsCjKjIMyUwMyMdgfbBZ_b4EcGsqcUkvvSuo9QTqg/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNjEz/NzcwLTE2NTU1NTkw/MjYtNzczMC5qcGVn.jpeg"
 genres: ["Latin", "Funk / Soul", "Blues", "Stage & Screen"]

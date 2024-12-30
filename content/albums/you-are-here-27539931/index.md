@@ -17,6 +17,13 @@ genres: ["Rock"]
 styles: ["Power Pop", "Alternative Rock"]
 ---
 
+You Are Here is the debut album of New Zealand pop rock group, Opshop released on 3 May 2004 under Siren Records. On 12 May 2005, a special edition of the album was released. The album has since gone on to achieve platinum status in sales.
+You Are Here peaked at #17 in the New Zealand album charts. "Saturated" reached #39, "No Ordinary Thing" peaked at #22
+The album earned engineer Clint Murphy the runner up position for Best Engineer at the 2004 New Zealand Music Awards.
+
+
+    
+    
 
 
 ## Tracklisting
@@ -43,6 +50,7 @@ styles: ["Power Pop", "Alternative Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
+| Wikipedia URL | https://en.wikipedia.org/wiki/You_Are_Here_(Opshop_album) |
 | Format         | Vinyl LP Album Compilation Reissue |
 | Label          | Demon Records |
 | Catalog Number | DEMREC1037 |

@@ -13,23 +13,22 @@ cover:
     caption: "Pale Communion by Opeth"
 additional_images:
     - "https://i.discogs.com/dTjEBHxwCrmRZvn5p_hGuiVQH0cMb-afeLU8z3q_CYU/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYwMDgz/ODYtMTQwODY5NTY5/MS0xODE2LmpwZWc.jpeg"
-    - "https://i.discogs.com/gZc5oKWA9au0HAiwY9C9nVaPuIWfYU6oiIexOug5rRg/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYwMDgz/ODYtMTQwODY5NzI0/OC02MzI1LmpwZWc.jpeg"
-    - "https://i.discogs.com/j76HQWIdcNIb4Ntk1PZcXRupd_Z6uEinmzMqt1zfolM/rs:fit/g:sm/q:90/h:426/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYwMDgz/ODYtMTQwOTgwNTI3/Ny0xMDgwLmpwZWc.jpeg"
     - "https://i.discogs.com/ufdIRmgLhDEmnNYOj8giPqq8LYy1cH0ApSDsqw0xEUY/rs:fit/g:sm/q:90/h:589/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYwMDgz/ODYtMTQwODY5NzI2/MC0zNTE4LmpwZWc.jpeg"
     - "https://i.discogs.com/Qj747oNdKo-gj6ttCtZ1E5eZThygr91jxz9rT8jxQe0/rs:fit/g:sm/q:90/h:590/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYwMDgz/ODYtMTQwODY5NzI2/NS02NTEzLmpwZWc.jpeg"
-    - "https://i.discogs.com/Q-QVVVqAvYj3o4EMjI_oYqSeZEEEV7uhXwPkpdwh0pA/rs:fit/g:sm/q:90/h:293/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYwMDgz/ODYtMTQwODY5NzI3/MS01NTI2LmpwZWc.jpeg"
-    - "https://i.discogs.com/NhreoJ4Rv6y4_3bjo1GVXNw9J76J0vTbI_yOqCs0upc/rs:fit/g:sm/q:90/h:589/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYwMDgz/ODYtMTQwODY5NzI3/OS0xNjEyLmpwZWc.jpeg"
-    - "https://i.discogs.com/z6A7FBz50tkCwXGEVYQMC7hKTk3-v9gEvFZO9NTvJEQ/rs:fit/g:sm/q:90/h:590/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYwMDgz/ODYtMTQwODY5NzI4/NC05ODY5LmpwZWc.jpeg"
+    - "https://i.discogs.com/gZc5oKWA9au0HAiwY9C9nVaPuIWfYU6oiIexOug5rRg/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYwMDgz/ODYtMTQwODY5NzI0/OC02MzI1LmpwZWc.jpeg"
     - "https://i.discogs.com/NHm4HhSNmm5nowHa6-k0TmWOdjFr1Kgp9C2yu8csD4I/rs:fit/g:sm/q:90/h:600/w:595/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYwMDgz/ODYtMTQwODY5NzI5/NS0yMDU3LmpwZWc.jpeg"
     - "https://i.discogs.com/OkkcWoz5k2ZRAICZDAuQdFhBkcdC7WOx3F7cJiySNrY/rs:fit/g:sm/q:90/h:600/w:595/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYwMDgz/ODYtMTQwODY5NzMw/MS03NTcwLmpwZWc.jpeg"
-    - "https://i.discogs.com/0uIBhzyCoGgxIwMnv5wjCG1IO-3SMQCjqXhxLhxtR6A/rs:fit/g:sm/q:90/h:589/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYwMDgz/ODYtMTQwODY5NzMw/Ni00Mjc5LmpwZWc.jpeg"
-    - "https://i.discogs.com/_w2kn0elR7cyrwlhQLG0XFghd8a17Rx6LVK1upm9Wbg/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYwMDgz/ODYtMTQwODY5NzMx/MS0zMDY3LmpwZWc.jpeg"
     - "https://i.discogs.com/qRpzyhlBdMAQlgtNYxQDXVIWhMqQMtGXa-mAVYfJuog/rs:fit/g:sm/q:90/h:600/w:596/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYwMDgz/ODYtMTQwODY5NzMx/Ni02Mzk2LmpwZWc.jpeg"
     - "https://i.discogs.com/0-D7Pmw3xvMOy75heXc7ZsdUANBN1T9FuS5jyQpVOiY/rs:fit/g:sm/q:90/h:600/w:596/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYwMDgz/ODYtMTQwODY5NzMy/MS05MTA2LmpwZWc.jpeg"
+    - "https://i.discogs.com/NhreoJ4Rv6y4_3bjo1GVXNw9J76J0vTbI_yOqCs0upc/rs:fit/g:sm/q:90/h:589/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYwMDgz/ODYtMTQwODY5NzI3/OS0xNjEyLmpwZWc.jpeg"
+    - "https://i.discogs.com/z6A7FBz50tkCwXGEVYQMC7hKTk3-v9gEvFZO9NTvJEQ/rs:fit/g:sm/q:90/h:590/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYwMDgz/ODYtMTQwODY5NzI4/NC05ODY5LmpwZWc.jpeg"
+    - "https://i.discogs.com/0uIBhzyCoGgxIwMnv5wjCG1IO-3SMQCjqXhxLhxtR6A/rs:fit/g:sm/q:90/h:589/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYwMDgz/ODYtMTQwODY5NzMw/Ni00Mjc5LmpwZWc.jpeg"
+    - "https://i.discogs.com/_w2kn0elR7cyrwlhQLG0XFghd8a17Rx6LVK1upm9Wbg/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYwMDgz/ODYtMTQwODY5NzMx/MS0zMDY3LmpwZWc.jpeg"
+    - "https://i.discogs.com/Q-QVVVqAvYj3o4EMjI_oYqSeZEEEV7uhXwPkpdwh0pA/rs:fit/g:sm/q:90/h:293/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYwMDgz/ODYtMTQwODY5NzI3/MS01NTI2LmpwZWc.jpeg"
     - "https://i.discogs.com/gqm8Y2n1A4GnNu6W5460CEMSHqzS4ks02ZmjbjQn2KY/rs:fit/g:sm/q:90/h:296/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYwMDgz/ODYtMTQwODY5NzMy/Ni02OTcwLmpwZWc.jpeg"
     - "https://i.discogs.com/BD7GASvuv_C5hQansVjM6cuOggz-cDfNRx4WvP7eKRQ/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYwMDgz/ODYtMTQwODY5NzMz/MC05NTIxLmpwZWc.jpeg"
     - "https://i.discogs.com/1WX8p0UII5O-p7eO94cJI71isV_P7zlG5yyq-zSZLp8/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYwMDgz/ODYtMTY0OTMyNzgz/MS05NDU1LmpwZWc.jpeg"
-    - "https://i.discogs.com/K0vebyupCKciBcgA4TSjANtyrhenj8SKiPAANUwlI78/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYwMDgz/ODYtMTY0OTMyNzgz/MC00MjUyLmpwZWc.jpeg"
+    - "https://i.discogs.com/wZGoPk2oZy9QUgqU87UE05aekucqqeEwsHGoww4DYhk/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYwMDgz/ODYtMTY0OTMyNzgz/MC00MjUyLmpwZWc.jpeg"
 genres: ["Rock"]
 styles: ["Prog Rock"]
 ---
@@ -56,19 +55,20 @@ Pale Communion is the eleventh studio album by Swedish progressive metal band Op
 
 
 ## Videos
-### Opeth - Eternal Rains Will Come (Audio)
-{{< youtube id="CoW3Sywb5xQ" title="Opeth - Eternal Rains Will Come (Audio)" >}}<br>
+### Opeth - Cusp Of Eternity (Audio)
+{{< youtube id="JHq9yMXw3iA" title="Opeth - Cusp Of Eternity (Audio)" >}}<br>
 ### More Videos
 
+- [Opeth - Cusp Of Eternity (Audio)](https://www.youtube.com/watch?v=JHq9yMXw3iA)
+- [opeht pale communion 2014 full album](https://www.youtube.com/watch?v=EgfeVZOItlQ)
+- [Unboxing Opeth - Pale Communion 2014 Deluxe Edition](https://www.youtube.com/watch?v=cuAd_0CXfvc)
+- [Opeth - Eternal Rains Will Come (Audio)](https://www.youtube.com/watch?v=CoW3Sywb5xQ)
 - [Opeth - Moon Above, Sun Below (Audio)](https://www.youtube.com/watch?v=a3sYPX17cFk)
 - [Opeth - Goblin (Audio)](https://www.youtube.com/watch?v=tHkb8u0NedQ)
 - [Opeth - Elysian Woes (Audio)](https://www.youtube.com/watch?v=_6k--wHwV5A)
 - [Opeth - River (Audio)](https://www.youtube.com/watch?v=v-sGhzHzLSE)
 - [Opeth - Voice of Treason (Audio)](https://www.youtube.com/watch?v=iO4-mXMbiy8)
-- [opeht pale communion 2014 full album](https://www.youtube.com/watch?v=EgfeVZOItlQ)
 - [Opeth - Faith In Others (Audio)](https://www.youtube.com/watch?v=wFSRCZN843c)
-- [Unboxing Opeth - Pale Communion 2014 Deluxe Edition](https://www.youtube.com/watch?v=cuAd_0CXfvc)
-- [Opeth - Cusp Of Eternity (Audio)](https://www.youtube.com/watch?v=JHq9yMXw3iA)
 
 ## Release Images
 {{< imageGrid >}}

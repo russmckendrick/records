@@ -12,35 +12,35 @@ cover:
     alt: "Radio Gnome Invisible Trilogy by Gong"
     caption: "Radio Gnome Invisible Trilogy by Gong"
 additional_images:
-    - "https://i.discogs.com/E0OdXCRptVVIhDAhcygfYKfWCIc1Xf0HTL9WVGpIMNU/rs:fit/g:sm/q:90/h:602/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc5MTA1/MzctMTQ1MTY0MzY0/MC03OTkyLmpwZWc.jpeg"
-    - "https://i.discogs.com/g9FLYxXqJuTrTWJ-ZlP6psE-N6o-hbbk0qRUvjyG1zw/rs:fit/g:sm/q:90/h:603/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc5MTA1/MzctMTQ1MTY0MzYz/Ni05Njc2LmpwZWc.jpeg"
-    - "https://i.discogs.com/AkfUDaBE2ZsKrpJpCJ_aVoiuhppwfGuFXS4qg0tTMTA/rs:fit/g:sm/q:90/h:611/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc5MTA1/MzctMTQ1MTY0Mzc5/Ny0yMzM0LmpwZWc.jpeg"
-    - "https://i.discogs.com/woFqXbZsyQfIGqbgIcqOaz5SR7_ExNZzgkpCrlWfHAM/rs:fit/g:sm/q:90/h:608/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc5MTA1/MzctMTQ1MTY0Mzc5/NC0zNDc5LmpwZWc.jpeg"
+    - "https://i.discogs.com/s0sN2PQq0AfxeY6i133-TJ4Um0Y4GKWQDtN3MWcMruU/rs:fit/g:sm/q:90/h:600/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc5MTA1/MzctMTQ1MTY0MzY0/MC03OTkyLmpwZWc.jpeg"
+    - "https://i.discogs.com/9K6nIO5xeKQu6qChsnbbmNub7HEarE9aRgnSFnA1qfE/rs:fit/g:sm/q:90/h:600/w:597/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc5MTA1/MzctMTQ1MTY0MzYz/Ni05Njc2LmpwZWc.jpeg"
+    - "https://i.discogs.com/ya71tOZF2hdQX_Hl4UUMDGTGqm_EzdXpOvg92cnLv-s/rs:fit/g:sm/q:90/h:600/w:589/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc5MTA1/MzctMTQ1MTY0Mzc5/Ny0yMzM0LmpwZWc.jpeg"
+    - "https://i.discogs.com/2tb0id2EaQCJP_hpdbAGVzZIiUENry02Z7yXNfMxWu8/rs:fit/g:sm/q:90/h:600/w:592/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc5MTA1/MzctMTQ1MTY0Mzc5/NC0zNDc5LmpwZWc.jpeg"
     - "https://i.discogs.com/cczpfGpTGclDIL-wnJAZlCKIpr555ov0iWFaciaEL_I/rs:fit/g:sm/q:90/h:594/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc5MTA1/MzctMTQ1MTY0Mzcx/Mi0xMTM5LmpwZWc.jpeg"
-    - "https://i.discogs.com/Loo_2kvncsqL-cqVee_qwHd-sfMcqe4UtAqE8tuohis/rs:fit/g:sm/q:90/h:603/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc5MTA1/MzctMTQ1MTY0Mzcx/My0yODA0LmpwZWc.jpeg"
-    - "https://i.discogs.com/rs_PEUGX0Irx-R2n-GEdwBshM8iO_ndJepsuRQmrAqM/rs:fit/g:sm/q:90/h:608/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc5MTA1/MzctMTQ1MTY0Mzc4/Mi0zODAxLmpwZWc.jpeg"
-    - "https://i.discogs.com/AaNMvFBpUjODxs7_Lzc6ZZZXWZcLKIZqGhycigWLPLM/rs:fit/g:sm/q:90/h:606/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc5MTA1/MzctMTQ1MTY0Mzc5/MS05MzIzLmpwZWc.jpeg"
+    - "https://i.discogs.com/Cd9_QSDxNL4buANEY-kPY22PgZz8BJO-4RmdHj1PLAM/rs:fit/g:sm/q:90/h:600/w:597/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc5MTA1/MzctMTQ1MTY0Mzcx/My0yODA0LmpwZWc.jpeg"
+    - "https://i.discogs.com/LeOURHWLqIJ6ToUW5qpYqvFnuCtyItL7u2HPUgpCfZU/rs:fit/g:sm/q:90/h:600/w:592/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc5MTA1/MzctMTQ1MTY0Mzc4/Mi0zODAxLmpwZWc.jpeg"
+    - "https://i.discogs.com/OvSLNFn1RXZ-dXiNVpjgkZFDhdHKF_eYeU0VjkX5ZI4/rs:fit/g:sm/q:90/h:600/w:594/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc5MTA1/MzctMTQ1MTY0Mzc5/MS05MzIzLmpwZWc.jpeg"
     - "https://i.discogs.com/FVsKIqCV6kzfA19ChVnL50VCdu4LMumPCvau3tMSzYk/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc5MTA1/MzctMTQ1MTY0Mzcx/Mi02NTA1LmpwZWc.jpeg"
     - "https://i.discogs.com/IE5LbRspaz01kjLLtHjfF5H5zOm1C1nEYPeQzntkWqE/rs:fit/g:sm/q:90/h:594/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc5MTA1/MzctMTQ1MTY0Mzcw/OS0xNDkwLmpwZWc.jpeg"
-    - "https://i.discogs.com/bkunuxMeFFZ-uZKKYJakG3ZDQn5ZIilx8WZvWl2BvoI/rs:fit/g:sm/q:90/h:611/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc5MTA1/MzctMTQ1MTY0Mzc4/MS04NDQyLmpwZWc.jpeg"
-    - "https://i.discogs.com/Bwj5QZSYYj-7hAOGTAxD8RewtBLhifQlswojyey0Dik/rs:fit/g:sm/q:90/h:610/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc5MTA1/MzctMTQ1MTY0Mzc5/Ni05MTM3LmpwZWc.jpeg"
+    - "https://i.discogs.com/kjDx1zi9Uo30ubWQMwVWXhxKW-UH1M2vFDc9V6Eqp2k/rs:fit/g:sm/q:90/h:600/w:589/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc5MTA1/MzctMTQ1MTY0Mzc4/MS04NDQyLmpwZWc.jpeg"
+    - "https://i.discogs.com/KWkhX8J2zUfFzaK_5qMumEVWA23gvahUz_MMJiiiJYw/rs:fit/g:sm/q:90/h:600/w:590/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc5MTA1/MzctMTQ1MTY0Mzc5/Ni05MTM3LmpwZWc.jpeg"
     - "https://i.discogs.com/QRDWVdLFgQv_j66Ug5Opn626zWiPStynEqRhWG3Mgqo/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc5MTA1/MzctMTQ1MTY0Mzcx/Mi0zNDY3LmpwZWc.jpeg"
     - "https://i.discogs.com/0rG5oyBiaQ5XrIu9XTIpS9Ct7Ir0twnUtGjGJ8E7L3I/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc5MTA1/MzctMTQ1MTY0Mzcx/NC01MTg2LmpwZWc.jpeg"
-    - "https://i.discogs.com/cpU7VVPneMfOkeHkcwqjzK2_3hLrZA3ztBxmrc7SmA4/rs:fit/g:sm/q:90/h:1068/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc5MTA1/MzctMTQ1MTY0Mzk0/Mi04MzM2LmpwZWc.jpeg"
-    - "https://i.discogs.com/UNc5Do9FkTw5z6RI3MiPvrtvH6uVVyXJGcZWwpduXFo/rs:fit/g:sm/q:90/h:845/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc5MTA1/MzctMTQ1MTY0Mzg4/Ni00MTc4LmpwZWc.jpeg"
-    - "https://i.discogs.com/OqZE_hJ0TKGDL7mGonefMGHT_16UU3tVJFUIDZ1oCzc/rs:fit/g:sm/q:90/h:854/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc5MTA1/MzctMTQ1MTY0Mzg4/NS0yMDUxLmpwZWc.jpeg"
-    - "https://i.discogs.com/zaUZewN1dBO_Q6JeIWi-9BU1DlWq1nkG_Cfl9uqO-90/rs:fit/g:sm/q:90/h:848/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc5MTA1/MzctMTQ1MTY0Mzg4/MS00NjE0LmpwZWc.jpeg"
+    - "https://i.discogs.com/VeM_XhefOVpJrHOpUMq5y5zfHkcjSpl48mvt8cOeXPg/rs:fit/g:sm/q:90/h:600/w:337/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc5MTA1/MzctMTQ1MTY0Mzk0/Mi04MzM2LmpwZWc.jpeg"
+    - "https://i.discogs.com/EZEdUU5vma0S8XFTDJE8aYTQxEl9TvdBvA5r_AYSMhQ/rs:fit/g:sm/q:90/h:600/w:426/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc5MTA1/MzctMTQ1MTY0Mzg4/Ni00MTc4LmpwZWc.jpeg"
+    - "https://i.discogs.com/FjXuI8btdGpMfVxpIrCWze29kVJLu8p_aofYuAtxypk/rs:fit/g:sm/q:90/h:600/w:421/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc5MTA1/MzctMTQ1MTY0Mzg4/NS0yMDUxLmpwZWc.jpeg"
+    - "https://i.discogs.com/mKEFO2tUP4l-laneDpGz2A_CoeBdcyliIW_mG5gzyRM/rs:fit/g:sm/q:90/h:600/w:424/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc5MTA1/MzctMTQ1MTY0Mzg4/MS00NjE0LmpwZWc.jpeg"
     - "https://i.discogs.com/djyGKS48d1OZFxF6HnCHLs8ZC70X5SuZZLgzzmRRmrY/rs:fit/g:sm/q:90/h:590/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc5MTA1/MzctMTQ1MTY0Mzk5/OS05NjQ5LmpwZWc.jpeg"
-    - "https://i.discogs.com/Rz9mNZm5hdGKP9Ew9t9rLIN7_BPw--wxhLQFkpMyipI/rs:fit/g:sm/q:90/h:629/w:405/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc5MTA1/MzctMTQ1MTY0Mzk4/OC03OTc5LmpwZWc.jpeg"
+    - "https://i.discogs.com/6m84C27TqYjZSlQtmGmgqBkoHpHpSmKw4Pbg5sgVU8w/rs:fit/g:sm/q:90/h:600/w:386/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc5MTA1/MzctMTQ1MTY0Mzk4/OC03OTc5LmpwZWc.jpeg"
     - "https://i.discogs.com/sedW7-0XdgOeBgGuIbPxNvZxjZ8hhAZAX9zHyFRKUSY/rs:fit/g:sm/q:90/h:186/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc5MTA1/MzctMTQ1MTY0Mzk4/My0yMTAwLmpwZWc.jpeg"
-    - "https://i.discogs.com/QuGvkm4yvTYzo7jGU9DzAubWzGNWC2B_ArIhNnIlLEk/rs:fit/g:sm/q:90/h:1239/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc5MTA1/MzctMTQ1MTY0Mzk5/MS02ODE1LmpwZWc.jpeg"
-    - "https://i.discogs.com/9SQF2LPo_VwJaSE0hv5d6oZ6fUA1Yfp8dYBsFOY6Q2s/rs:fit/g:sm/q:90/h:1149/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc5MTA1/MzctMTQ1MTY0Mzk5/My03NzM3LmpwZWc.jpeg"
-    - "https://i.discogs.com/FakC7d9nkDmfuikfVZXI9pe_VbypNs3xNQCdQTVMPvo/rs:fit/g:sm/q:90/h:1229/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc5MTA1/MzctMTQ1MTY0Mzk5/Ny05MDIyLmpwZWc.jpeg"
-    - "https://i.discogs.com/t1vJAquMtTTxlwAq3vp8l1AGrRDKbQz_f_MonuHU28I/rs:fit/g:sm/q:90/h:804/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc5MTA1/MzctMTU1NTUwODU0/NC0yMzY1LmpwZWc.jpeg"
+    - "https://i.discogs.com/VMTm0cYtIRFPpdDN-MUI9KGWdxT2bufJrCQnOhEq6pU/rs:fit/g:sm/q:90/h:600/w:290/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc5MTA1/MzctMTQ1MTY0Mzk5/MS02ODE1LmpwZWc.jpeg"
+    - "https://i.discogs.com/J6Pqf_Hs9V1grCPPkkrvbtZCfua1B3vdAcu64XTIxTE/rs:fit/g:sm/q:90/h:600/w:313/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc5MTA1/MzctMTQ1MTY0Mzk5/My03NzM3LmpwZWc.jpeg"
+    - "https://i.discogs.com/5u606EyVXdGCg2i53cY6CwHrCbudK60w6e79dFZIeRI/rs:fit/g:sm/q:90/h:600/w:292/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc5MTA1/MzctMTQ1MTY0Mzk5/Ny05MDIyLmpwZWc.jpeg"
+    - "https://i.discogs.com/joBXwpB26oq_o6NCjmHNJXKA9HpmhhpAERrTQ-Q2lAE/rs:fit/g:sm/q:90/h:600/w:447/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc5MTA1/MzctMTU1NTUwODU0/NC0yMzY1LmpwZWc.jpeg"
     - "https://i.discogs.com/Qyv2o5Zf3KvmC_iwUoOu7IVNdnxlEFGB5nfNNt1m-hM/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc5MTA1/MzctMTU1NTUwODYw/NC03NzY3LmpwZWc.jpeg"
     - "https://i.discogs.com/UIR72dy0h3QH41wiXAQ8xdOoKkl3nH6zm8pKtapQ73E/rs:fit/g:sm/q:90/h:590/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc5MTA1/MzctMTU1NTUwODYz/OS00NzE2LmpwZWc.jpeg"
 genres: ["Rock"]
-styles: ["Prog Rock", "Psychedelic Rock", "Avantgarde"]
+styles: ["Prog Rock", "Psychedelic Rock"]
 ---
 
 
@@ -83,7 +83,7 @@ styles: ["Prog Rock", "Psychedelic Rock", "Avantgarde"]
 35. You Never Blow Your Trip Forever (11:08)
 
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/radio-gnome-invisible-trilogy/1057678912" >}}<br>
+{{< applemusic url="https://music.apple.com/gb/album/the-radio-gnome-invisible-trilogy-2015-remastered/1057678912" >}}<br>
 
 
 ## Videos
@@ -91,7 +91,6 @@ styles: ["Prog Rock", "Psychedelic Rock", "Avantgarde"]
 {{< youtube id="u0AhjPHGbLU" title="Gong_ Angel's Egg (1973) full album" >}}<br>
 ### More Videos
 
-- [The Flying Teapot [Full Album]  1973](https://www.youtube.com/watch?v=8GWkSyHGL6U)
 - [Gong - Flying Teapot](https://www.youtube.com/watch?v=k2Yc9mHCwRI)
 
 ## Release Images

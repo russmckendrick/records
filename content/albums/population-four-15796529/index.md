@@ -13,7 +13,7 @@ cover:
     caption: "Population Four by Cranes"
 additional_images:
     - "https://i.discogs.com/_wZ-RqzbE8IJ8nWCZMy6TS3RBCJCl8Zuw-KKaBm71_g/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1Nzk2/NTI5LTE2MDYxMTkz/MDMtOTczNS5qcGVn.jpeg"
-    - "https://i.discogs.com/4_G9B6caO1recDBlbz5Yo9sEeAFHMozMn7khzSpFcAw/rs:fit/g:sm/q:90/h:601/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1Nzk2/NTI5LTE1OTk4MzMy/MzQtNTczNy5qcGVn.jpeg"
+    - "https://i.discogs.com/8jdbXbyBQftbopa9qI6PLXB5rsBHG6owKNZvRyjGY_g/rs:fit/g:sm/q:90/h:600/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1Nzk2/NTI5LTE1OTk4MzMy/MzQtNTczNy5qcGVn.jpeg"
     - "https://i.discogs.com/7U_oxn5pkjIeAcihXy78FPhpd8vqSGBfzVCelZx8uEI/rs:fit/g:sm/q:90/h:408/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1Nzk2/NTI5LTE1OTk4MzMy/NDAtNDQyMC5qcGVn.jpeg"
     - "https://i.discogs.com/WTTk3XSWM2CPqyN8qMISSnNaBfULyHBGPIhm6xxJlkY/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1Nzk2/NTI5LTE1OTk4MzMy/NTQtNjU0Ni5qcGVn.jpeg"
     - "https://i.discogs.com/ASC_HZqhej-v-d_T48PL7InErYO34cKJVWhQJeGw2aY/rs:fit/g:sm/q:90/h:581/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1Nzk2/NTI5LTE1OTk4MzMy/NjEtMTUzMS5qcGVn.jpeg"
@@ -21,7 +21,7 @@ additional_images:
     - "https://i.discogs.com/ZmpYV9-DoMYLNe0kCogI9DUztRxGbb4lMLF22ws6fBE/rs:fit/g:sm/q:90/h:592/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1Nzk2/NTI5LTE1OTk4MzMy/NzctMTU2Mi5qcGVn.jpeg"
     - "https://i.discogs.com/FzB2pweDCAX2wCS5d2l2Z9YmKysqzwHd87QtNHiYUNY/rs:fit/g:sm/q:90/h:578/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1Nzk2/NTI5LTE1OTk4MzMy/ODQtNDU1Ni5qcGVn.jpeg"
     - "https://i.discogs.com/JY7Fd8k9MC1YKuplDHhpqbTe6jHlY7SSWppxPhmz1r8/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1Nzk2/NTI5LTE2MjAzNzU1/NjAtODgwNi5qcGVn.jpeg"
-    - "https://i.discogs.com/gb4RzRqOwFhvQ3xWhj6n5wS50Epe508PlfKlZUSUmuk/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1Nzk2/NTI5LTE2MjAzNzU1/NjAtMzY3Ny5qcGVn.jpeg"
+    - "https://i.discogs.com/q8xWkBqUbSZQ6bFmUmEzcqc02wVgqNQXRGuH8zQCxmg/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1Nzk2/NTI5LTE2MjAzNzU1/NjAtMzY3Ny5qcGVn.jpeg"
 genres: ["Electronic", "Rock"]
 styles: ["Alternative Rock", "Indie Rock"]
 ---

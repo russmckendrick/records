@@ -50,6 +50,8 @@ styles: ["Alternative Rock", "Synth-pop", "Indie Rock", "Industrial"]
 26. Welcome Back Victoria
 27. Run On Empty
 
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/from-here-to-now-to-you/1435611352" >}}<br>
 
 
 

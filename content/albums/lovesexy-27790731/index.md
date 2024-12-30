@@ -12,18 +12,21 @@ cover:
     alt: "Lovesexy by Prince"
     caption: "Lovesexy by Prince"
 additional_images:
+    - "https://i.discogs.com/97XfdvgD3zr0aG9v0e0jSq7w12NyKiOQvMvXrd_RlD4/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3Nzkw/NzMxLTE2OTQ0OTMy/MjQtNTUyNy5qcGVn.jpeg"
+    - "https://i.discogs.com/mEvdsdsN0gs9YauG9phffHln50ybov9R4kRc0RF6kAE/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3Nzkw/NzMxLTE2OTQ0OTMy/MjMtODYxMC5qcGVn.jpeg"
+    - "https://i.discogs.com/_Dl4iRQHOlgikejpRVnFIWR0bcuEWCyR8V86-f9_j88/rs:fit/g:sm/q:90/h:588/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3Nzkw/NzMxLTE2OTIwNjYw/OTItNjY4Ny5qcGVn.jpeg"
+    - "https://i.discogs.com/ABJvQYFDLodclrt4UylFV3yF998TRD_5si5Ttv0QtCw/rs:fit/g:sm/q:90/h:600/w:588/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3Nzkw/NzMxLTE2OTIwNjYw/OTMtNTQ0My5qcGVn.jpeg"
+    - "https://i.discogs.com/u7PAGHVFe0hRjQYWk1OiX1RZwwIXgyA3tqc96wylGCo/rs:fit/g:sm/q:90/h:583/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3Nzkw/NzMxLTE2OTQ0OTMy/MjUtMjQxNy5qcGVn.jpeg"
+    - "https://i.discogs.com/kNt9xwXZ5NGggbVqTmR239TPXbTLdLh73an-N1bMsVE/rs:fit/g:sm/q:90/h:583/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3Nzkw/NzMxLTE2OTQ0OTMy/MjUtODM1Mi5qcGVn.jpeg"
+    - "https://i.discogs.com/mQfrFy4q3IkVNhY-u198MQC5XrfC-qOvdkjvxhgjoeQ/rs:fit/g:sm/q:90/h:425/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3Nzkw/NzMxLTE2OTQ0OTMy/MjMtMzg1Ni5qcGVn.jpeg"
+    - "https://i.discogs.com/pa1Za1tm_Thl-zWNM-uAjCEm3vdfy732npiZH5FrjRA/rs:fit/g:sm/q:90/h:362/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3Nzkw/NzMxLTE2OTQ0OTMy/MjEtNDM5My5qcGVn.jpeg"
     - "https://i.discogs.com/EYvZ1F313JHX9lWaQPdmEZ6zd8XkZGwiGHkxZx1XPnA/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3Nzkw/NzMxLTE2OTA3MzI3/ODEtNDA5MS5qcGVn.jpeg"
     - "https://i.discogs.com/HlF1MxnVxCp54qgGpP2YARLAh2-ARH3DoR5dxWX9V9g/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3Nzkw/NzMxLTE2OTA3MzI3/ODEtNTU5Mi5qcGVn.jpeg"
-    - "https://i.discogs.com/_Dl4iRQHOlgikejpRVnFIWR0bcuEWCyR8V86-f9_j88/rs:fit/g:sm/q:90/h:588/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3Nzkw/NzMxLTE2OTIwNjYw/OTItNjY4Ny5qcGVn.jpeg"
-    - "https://i.discogs.com/CQsh4W3EvwMrIto1hDYYvMgxZoCwZaPoESMqKxsWGyY/rs:fit/g:sm/q:90/h:611/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3Nzkw/NzMxLTE2OTIwNjYw/OTMtNTQ0My5qcGVn.jpeg"
-    - "https://i.discogs.com/CTaz46mRZgQlbWTc4-It-fL8dSOfmHkexAxTodhN7hE/rs:fit/g:sm/q:90/h:588/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3Nzkw/NzMxLTE2OTA3MzI3/ODEtODk5MC5qcGVn.jpeg"
-    - "https://i.discogs.com/5KGVmojV_mrils60nGBkYWSDg5GN9WoolUvzB10tkg4/rs:fit/g:sm/q:90/h:582/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3Nzkw/NzMxLTE2OTA3MzI3/ODEtNzIxMS5qcGVn.jpeg"
-    - "https://i.discogs.com/8ihuX3Lge7PnKI-LNw7xyGL44LmF7yK3ZfuMEC3hx5Q/rs:fit/g:sm/q:90/h:476/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3Nzkw/NzMxLTE2OTA3MzI5/MDgtOTg3NS5qcGVn.jpeg"
 genres: ["Rock", "Funk / Soul", "Pop"]
 styles: ["Funk", "Minneapolis Sound", "Pop Rock"]
 ---
 
-Lovesexy is the tenth studio album by American recording artist Prince. The album was released on May 10, 1988, by Paisley Park Records and Warner Bros. Records. The album was recorded in just seven weeks, from mid-December 1987 to late January 1988, at Prince's new Paisley Park Studios, and most of the album is a solo effort from Prince, with a few exceptions. The lyrical themes of the record include positivity, self-improvement, spirituality, and God.
+Lovesexy is the tenth studio album by American recording artist Prince. The album was released on May 10, 1988, by Paisley Park Records and Warner Bros. Records. The album was recorded in just seven weeks, from mid-December 1987 to late January 1988, at Prince's new Paisley Park Studios, after the cancellation of the infamous Black Album and most of the album is a solo effort from Prince, with a few exceptions. The lyrical themes of the record include positivity, self-improvement, spirituality, and God.
 Despite being critically acclaimed, Lovesexy only reached number 11 on the Billboard 200, Prince's first album since 1981's Controversy not to crack the top 10; however, it reached number one in the Netherlands, New Zealand, Sweden, Switzerland, and the UK. It spawned three singles: "Alphabet St."—which became a worldwide top-10 hit in the spring of 1988—and the follow-up singles "Glam Slam" and "I Wish U Heaven", both of which failed to reach the Billboard Hot 100. Subsequently, it was Prince's least successful album in the United States since 1980. It was certified Gold by the Recording Industry Association of America (RIAA) in December 1988.
 Lovesexy was accompanied by the Lovesexy Tour, of which the September 9th Dortmund show in Germany was released on video cassette and LaserDisc. The tour was also televised (with a short delay for editorial purposes) on several European channels, with the broadcast containing various alternate camera shots in place of the ones used in the officially released video, which was released a year later in 1989.
 

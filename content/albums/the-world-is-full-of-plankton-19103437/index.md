@@ -13,10 +13,10 @@ cover:
     caption: "The World Is Full Of Plankton by Amorphous Androgynous"
 additional_images:
     - "https://i.discogs.com/YKrUYFLVtTYkOFx-_gzshOwNm5TOyPAsiFUkxYUN2xg/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MTAz/NDM3LTE2MjQyOTQz/MjQtMTYxOC5qcGVn.jpeg"
-    - "https://i.discogs.com/qjMwZuyVd--n4zejc--BCjl966zgyJKs6RICklMHK5o/rs:fit/g:sm/q:90/h:605/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MTAz/NDM3LTE2NDc4Mjc1/OTEtOTMxMi5qcGVn.jpeg"
+    - "https://i.discogs.com/ms5FpSoBsVwbqizddmfSv18geU2gCQa6p2c9zGwt6f8/rs:fit/g:sm/q:90/h:600/w:594/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MTAz/NDM3LTE2NDc4Mjc1/OTEtOTMxMi5qcGVn.jpeg"
     - "https://i.discogs.com/fCeRryRbk_LyGgd10h_ZTvytlDK-DjNfqqIYUBXVRMo/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MTAz/NDM3LTE2NDc4Mjcz/NzctNDkzOS5wbmc.jpeg"
-    - "https://i.discogs.com/LpjsbRl_uS6sBWOTGo8oWHTBuSFVxfs2B_bED5i5WxQ/rs:fit/g:sm/q:90/h:601/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MTAz/NDM3LTE2NDc4Mjcz/NzctNjkxNS5wbmc.jpeg"
-    - "https://i.discogs.com/SiqqcfNCjwEEUpuNo9YC42Cf8HHheWXw1viIWmsH2OM/rs:fit/g:sm/q:90/h:607/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MTAz/NDM3LTE2MjM0Mjk3/MDYtMTYzMi5qcGVn.jpeg"
+    - "https://i.discogs.com/b2QXd5cG7JVYYiZBofFfRBdEzfrRBG8x5twcFkk98B8/rs:fit/g:sm/q:90/h:600/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MTAz/NDM3LTE2NDc4Mjcz/NzctNjkxNS5wbmc.jpeg"
+    - "https://i.discogs.com/dIqkwQJMj5qD6dsKj7_CHkAWh92cJBJ0thbp3pPp6DI/rs:fit/g:sm/q:90/h:600/w:592/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MTAz/NDM3LTE2MjM0Mjk3/MDYtMTYzMi5qcGVn.jpeg"
 genres: ["Electronic", "Rock"]
 styles: ["Downtempo", "Abstract", "Psychedelic Rock", "Prog Rock"]
 ---

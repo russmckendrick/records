@@ -18,19 +18,21 @@ additional_images:
     - "https://i.discogs.com/NsIMFs3wRBB06tYycdWhXZrmEroz1VWCDwqfXRVYRww/rs:fit/g:sm/q:90/h:210/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUyOTc0/Ny0xNDM0NTc5NDU3/LTM2MDUuanBlZw.jpeg"
     - "https://i.discogs.com/agb-GGcz06mX5rE3AtbAr9ShVbwNRHn1U9Z5DPRf0AY/rs:fit/g:sm/q:90/h:452/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUyOTc0/Ny0xNDM0NTc5NDUy/LTY4NDkuanBlZw.jpeg"
     - "https://i.discogs.com/B57Oeq26hkszCNwsiJ3SFu3Z4t7nlh4XNwkhmW8t56w/rs:fit/g:sm/q:90/h:157/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUyOTc0/Ny0xNDM0NTc5NDU3/LTQ3NjMuanBlZw.jpeg"
-    - "https://i.discogs.com/KordZVxWbQlvwvPlrIyRZ1Kg9tSM-6HCOZCynLR5kkQ/rs:fit/g:sm/q:90/h:602/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUyOTc0/Ny0xNDM0NTc5NDUz/LTE3ODIuanBlZw.jpeg"
+    - "https://i.discogs.com/TEwZ0NajaMvUtlLuLyiSKvN7bLWnO9UMYYVJl2EbD4M/rs:fit/g:sm/q:90/h:600/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUyOTc0/Ny0xNDM0NTc5NDUz/LTE3ODIuanBlZw.jpeg"
     - "https://i.discogs.com/DBn11ZI197KjqJCpFDK-gU-OIHK7-FLiqTbscFOZSrw/rs:fit/g:sm/q:90/h:594/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUyOTc0/Ny0xNDM0NTc5NDU0/LTQ0MDMuanBlZw.jpeg"
-    - "https://i.discogs.com/VhvKha8zTfrPk-2WpzAuY7gpWm_N_CmgTXccMoOu8Z0/rs:fit/g:sm/q:90/h:1165/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUyOTc0/Ny0xNDM0NTc5NDU4/LTY0NjcuanBlZw.jpeg"
+    - "https://i.discogs.com/MXGxu-WbT8B-JGyWKJHOnSGNQ3texoXRA0RTI7_8OMk/rs:fit/g:sm/q:90/h:600/w:309/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUyOTc0/Ny0xNDM0NTc5NDU4/LTY0NjcuanBlZw.jpeg"
     - "https://i.discogs.com/vWlXKI5n82MNQTehS3sm038uN0K4WxdyEex7tEg19l4/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUyOTc0/Ny0xNDM0NTc5NDU0/LTk3OTguanBlZw.jpeg"
-    - "https://i.discogs.com/BtdAGsFIb_HVwu36IaPZ3QBaSAD22AQlny2Pb191W6U/rs:fit/g:sm/q:90/h:602/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUyOTc0/Ny0xNDM0NTc5NDU1/LTIyODYuanBlZw.jpeg"
-    - "https://i.discogs.com/W6YGncTj9LMFcByhO-lrmYMZCamQJKtXuqKBuzFh9ns/rs:fit/g:sm/q:90/h:603/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUyOTc0/Ny0xNDM0NTc5NDU2/LTg2MjIuanBlZw.jpeg"
-    - "https://i.discogs.com/gdRcfxwRopdeYp34PIy6QA-ajTeUt3RDpBloMQAVeb0/rs:fit/g:sm/q:90/h:606/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUyOTc0/Ny0xNDM0NTc5NDU1/LTkxMzEuanBlZw.jpeg"
+    - "https://i.discogs.com/CZzpXEj3yz2WhkS0XmoODs6-JFO9pAX0A45F79T1nuA/rs:fit/g:sm/q:90/h:600/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUyOTc0/Ny0xNDM0NTc5NDU1/LTIyODYuanBlZw.jpeg"
+    - "https://i.discogs.com/0ffvvFuc4iljDYMpEKJM6hCLFmL7xLVHPqqZKIZcjcE/rs:fit/g:sm/q:90/h:600/w:597/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUyOTc0/Ny0xNDM0NTc5NDU2/LTg2MjIuanBlZw.jpeg"
+    - "https://i.discogs.com/Pdzh2h1bXuLP2J_VzTvpRObeo818qtg9ELrxbbvUR9M/rs:fit/g:sm/q:90/h:600/w:594/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUyOTc0/Ny0xNDM0NTc5NDU1/LTkxMzEuanBlZw.jpeg"
 genres: ["Electronic", "Hip Hop", "Jazz"]
 styles: ["Conscious", "Noise", "Poetry", "Soul-Jazz", "Political", "Industrial"]
 ---
 
-Hypocrisy Is the Greatest Luxury is the debut album by alternative hip hop crew The Disposable Heroes of Hiphoprisy, released in 1992.  Hypocrisy Is the Greatest Luxury was met with critical acclaim.
+Hypocrisy Is the Greatest Luxury is the debut album by alternative hip hop crew the Disposable Heroes of Hiphoprisy, released in 1992.  Hypocrisy Is the Greatest Luxury was met with critical acclaim.
 "Television, the Drug of the Nation" was released as a single. It was recorded previously by Michael Franti's first band, the Beatnigs.
+
+
     
     
 
@@ -61,31 +63,18 @@ Hypocrisy Is the Greatest Luxury is the debut album by alternative hip hop crew 
 ### More Videos
 
 - [Satanic Reverses](https://www.youtube.com/watch?v=3MGxfMH4CJ0)
-- [Disposable Heroes of Hiphoprisy   Hypocrisy is the Greatest Luxury](https://www.youtube.com/watch?v=zurCtInZUcg)
-- [Television The Drug Of The Nation](https://www.youtube.com/watch?v=AioHRn9y6aM)
 - [Famous And Dandy (Like Amos 'N' Andy)](https://www.youtube.com/watch?v=yE7H93Ev4F8)
-- [California Uber Alles - The Disposable Heroes Of Hiphoprisy](https://www.youtube.com/watch?v=cBAkOifDeSw)
-- [The Disposable Heroes of Hiphoprisy - Television, The Drug Of A Nation](https://www.youtube.com/watch?v=wAwEAWSBO_Y)
+- [Television The Drug Of The Nation](https://www.youtube.com/watch?v=AioHRn9y6aM)
 - [Language Of Violence (LP Mix)](https://www.youtube.com/watch?v=vRzkEpwjpSo)
-- [The Disposable Heroes of Hiphoprisy - Language of violence](https://www.youtube.com/watch?v=ldRZRa61iB4)
 - [The Winter Of The Long Hot Summer](https://www.youtube.com/watch?v=TucTQi9SCP4)
-- [The Disposable Heroes Of Hiphoprisy - Music And Politics](https://www.youtube.com/watch?v=ud4qix_IYws)
 - [Hypocrisy Is The Greatest Luxury](https://www.youtube.com/watch?v=PFArDeCfj-M)
-- [Water Pistol Man - The Disposable Heroes Of Hiphoprisy](https://www.youtube.com/watch?v=LOrGp8uU3Kg)
 - [Everyday Life Has Become A Health Risk](https://www.youtube.com/watch?v=wxwufHsUSwo)
-- [Socio-Genetic Experiment - The Disposable Heroes Of Hiphoprisy](https://www.youtube.com/watch?v=p8y1HFzNE-4)
 - [INS Greencard A-19 191 500](https://www.youtube.com/watch?v=_Clv_tdIMNE)
-- [Everyday Life Has Become A Health Risk - The Disposable Heroes Of Hiphoprisy](https://www.youtube.com/watch?v=aw5HfIW2lC8)
 - [Socio-Genetic Experiment](https://www.youtube.com/watch?v=scY4L0SuH34)
-- [INS Greencard A-19 191 500 - The Disposable Heroes Of Hiphoprisy](https://www.youtube.com/watch?v=ozvxSw1cHoM)
 - [Music And Politics](https://www.youtube.com/watch?v=WbU3RJtRuBU)
-- [Financial Leprosy - The Disposable Heroes Of Hiphoprisy](https://www.youtube.com/watch?v=kqB-wf49Xsc)
 - [Financial Leprosy](https://www.youtube.com/watch?v=h8PNFiOhKLg)
-- [Famous and Dandy (just like Amos and Andy) See more info box](https://www.youtube.com/watch?v=HgoTSuBZPGI)
 - [California Uber Alles](https://www.youtube.com/watch?v=U5UOd1tZisg)
-- [DISPOSABLE HEROES OF HIPHOPRISY - Television [PL Napisy]](https://www.youtube.com/watch?v=RKut-ATXUfA)
 - [Water Pistol Man](https://www.youtube.com/watch?v=571lGlM0dAE)
-- [The Disposable Heroes of Hiphoprisy - Satanic Reverses](https://www.youtube.com/watch?v=wS0f9Gh8gLQ)
 
 ## Release Images
 {{< imageGrid >}}
@@ -97,5 +86,5 @@ Hypocrisy Is the Greatest Luxury is the debut album by alternative hip hop crew 
 | Format         | Vinyl LP Album, Vinyl 12" Single Sided, All Media Limited Edition |
 | Label          | 4th & Broadway |
 | Catalog Number | BRLPX 584 |
-| Notes | Fourth & Broadway is a division of Island Records ℗ 1992 Island Records Inc Except Side A, tracks 3 to 5 ℗ 1991 Island Records Inc. © 1992 Island Records Inc. The Copyright In This Sound Recording And Of This Artwork Is Owned By Island Records Inc, And Is Exclusively Licensed to Island Records Ltd, In The UK.  The initial copies of this album included the single-sided 12" "Rock The Vote (Exercise Your Right)".  This was released prior to the 1992 elections as a measure to encourage voting.  Sticker on sleeve reads: "BUY EARLY & GET FREE 12"!!! initial copies of the good old-fashioned vinyl copies of this album will contain an extra 12" including: EXERCISE YOUR RIGHT 12" bootleg vote-a-go-go track"  The catalogue # on the cover spine and back cover is: BRLPX 594.512 259-1. This is reflected in the barcode which ends 2591 |
+| Notes | Fourth & Broadway is a division of Island Records ℗ 1992 Island Records Inc Except Side A, tracks 3 to 5 ℗ 1991 Island Records Inc. © 1992 Island Records Inc. The Copyright In This Sound Recording And Of This Artwork Is Owned By Island Records Inc, And Is Exclusively Licensed to Island Records Ltd, In The UK.  The initial copies of this album included the single-sided 12" "Rock The Vote (Exercise Your Right)".  This was released prior to the 1992 elections as a measure to encourage voting.  Sticker on sleeve reads: "BUY EARLY & GET FREE 12"!!! initial copies of the good old-fashioned vinyl copies of this album will contain an extra 12" including: EXERCISE YOUR RIGHT 12" bootleg vote-a-go-go track"  The catalogue # on the cover spine and back cover is: BRLPX 594.512 259-1. This is reflected in the barcode which ends 2591 Runouts are machine-stamped except for the 'S.D/S.MON./THE EXCHANGE' markings which are hand-etched. Bonus 12" issued in a generic white paper inner LP issued in a printed inner with lyrics sheet/credits Lyrics sheet contains several mistakes including "In the 1270s" which should be "In the 1970s" in Satanic Reverses.  |
 | Discogs URL    | [The Disposable Heroes Of Hiphoprisy - Hypocrisy Is The Greatest Luxury](https://www.discogs.com/release/529747-The-Disposable-Heroes-Of-Hiphoprisy-Hypocrisy-Is-The-Greatest-Luxury) |

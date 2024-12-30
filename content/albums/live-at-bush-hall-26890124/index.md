@@ -17,26 +17,24 @@ additional_images:
     - "https://i.discogs.com/XIYF3QLhovbpypNR_P63zk_2aoGOli9_EcLcgywCo_g/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2ODkw/MTI0LTE2ODI2NTQ3/MjgtNzI5NC5qcGVn.jpeg"
     - "https://i.discogs.com/xMfFzdPHDnDnL3Xa-gjE85xJUYGlxunWT25AKpbp6fg/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2ODkw/MTI0LTE2ODI2NTQ3/MjktNTM1MC5qcGVn.jpeg"
     - "https://i.discogs.com/qrNdaa9r5jFQ6wii9of6MRhrOPSve62BHnqCOFFQXU4/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2ODkw/MTI0LTE2ODI3NzU0/MDEtNzAyOC5qcGVn.jpeg"
-    - "https://i.discogs.com/Wh1JjQXYdqqJrW1_U5irjSRgB_M81hldUz--4CxXbXA/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2ODkw/MTI0LTE2ODI3NzU0/MDAtNzgwNy5qcGVn.jpeg"
+    - "https://i.discogs.com/Iwiknfrg3tqb7_6_5zakiQirg7C1ZB07Eb0AY-hSCdE/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2ODkw/MTI0LTE2ODI3NzU0/MDAtNzgwNy5qcGVn.jpeg"
     - "https://i.discogs.com/aL9oxce3_RhLNE03dGVRp5h8YT4w3Ul8843dr7TSlws/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2ODkw/MTI0LTE2ODI3NzU0/MDAtMTczMy5qcGVn.jpeg"
-    - "https://i.discogs.com/c-dmr9BLJdZ2OkuTGZG4-Zh9E_MNxy1ZAKXB9QS--k4/rs:fit/g:sm/q:90/h:608/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2ODkw/MTI0LTE2ODI3NzU0/MDEtNTM3MC5qcGVn.jpeg"
-    - "https://i.discogs.com/oIQ2LxVRrk8qTx8FCW_EaVuoyyV9iEt8k6SmPrV0ls8/rs:fit/g:sm/q:90/h:602/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2ODkw/MTI0LTE2ODI3NzU0/MDAtMjkwOC5qcGVn.jpeg"
-    - "https://i.discogs.com/AdjGyLO8zW5DmJ7NYTWd9PhbMjHeK8gKcBXXY08qjf4/rs:fit/g:sm/q:90/h:604/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2ODkw/MTI0LTE2ODI3NzU0/MDAtNDk1Ny5qcGVn.jpeg"
-    - "https://i.discogs.com/Y_p8EfbfPuTluRZFMp1DajMQtnQ9bx2UKGtkktrft2Y/rs:fit/g:sm/q:90/h:607/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2ODkw/MTI0LTE2ODI3NzU0/MDEtMTEwMi5qcGVn.jpeg"
-    - "https://i.discogs.com/g20B7Rihxfxv25lsopekR7H1DMLN1K72tKefBFOG3Fo/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2ODkw/MTI0LTE2ODI3NzU0/MDEtMTQ2NS5qcGVn.jpeg"
-    - "https://i.discogs.com/lP7og3xUtaLKy4rHbdSGwUT4Bi7m49ERpLYFiXxHqOk/rs:fit/g:sm/q:90/h:615/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2ODkw/MTI0LTE2ODI3NzU0/MDEtMTA1MC5qcGVn.jpeg"
-    - "https://i.discogs.com/G3qe2PSHtBa8qMoK57S4y2ogMQquh5QnC1453EcXKXs/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2ODkw/MTI0LTE2ODI3NzU0/MDEtODE5NC5qcGVn.jpeg"
+    - "https://i.discogs.com/SelS8NjbADi_HQ-uZ95sMNmQ5H8rAgccIXm-p5_L3TU/rs:fit/g:sm/q:90/h:600/w:591/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2ODkw/MTI0LTE2ODI3NzU0/MDEtNTM3MC5qcGVn.jpeg"
+    - "https://i.discogs.com/3ncs-hU0DlNDZE0Gwvq8KG1tT87rv9QRhA_w7RwzKC8/rs:fit/g:sm/q:90/h:600/w:597/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2ODkw/MTI0LTE2ODI3NzU0/MDAtMjkwOC5qcGVn.jpeg"
+    - "https://i.discogs.com/xnktg5ycAWL1lpA6Km58cdvhl0RYwkGa_E83Cbsfb6Y/rs:fit/g:sm/q:90/h:600/w:595/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2ODkw/MTI0LTE2ODI3NzU0/MDAtNDk1Ny5qcGVn.jpeg"
+    - "https://i.discogs.com/DyQb3DEk0PtT8A7yQ_6wr4oEfOuG67HkupATZK_jGYk/rs:fit/g:sm/q:90/h:600/w:593/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2ODkw/MTI0LTE2ODI3NzU0/MDEtMTEwMi5qcGVn.jpeg"
+    - "https://i.discogs.com/p1g2w-w_zqspVr99DQ3QFAR10_p_cCU3C3w498pHiJo/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2ODkw/MTI0LTE2ODI3NzU0/MDEtMTQ2NS5qcGVn.jpeg"
+    - "https://i.discogs.com/ogHYloqUx9ZXS2ho2XYzbP7kLMXwceHsqo2-w5OX8eg/rs:fit/g:sm/q:90/h:600/w:584/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2ODkw/MTI0LTE2ODI3NzU0/MDEtMTA1MC5qcGVn.jpeg"
+    - "https://i.discogs.com/fYSlelMoNqQxInO3IjsuByLODQ9Aaa3q9c5x5uJwsF8/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2ODkw/MTI0LTE2ODI3NzU0/MDEtODE5NC5qcGVn.jpeg"
     - "https://i.discogs.com/4hqYlGFL0v8Np1PfB24a0TdWiymzosmr8AlRC97wkNs/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2ODkw/MTI0LTE2ODI3NzU0/MDAtNjY5NS5qcGVn.jpeg"
-    - "https://i.discogs.com/9QMmbMRjxQZoqkGaAHtpFKkpeAxf_TAugYSqEqMVRCA/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2ODkw/MTI0LTE2ODI3NzU0/MDAtMTQ0My5qcGVn.jpeg"
-    - "https://i.discogs.com/sd02Y_9tIbTigtuhq-ueom8E-3YAbejlPtDUWzf7q5M/rs:fit/g:sm/q:90/h:991/w:285/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2ODkw/MTI0LTE2ODMyOTgz/MjYtNjk0OS5qcGVn.jpeg"
+    - "https://i.discogs.com/BRmerLx39Cmf7LptBETPl29ykEMUXmKDzIyCWcwDJ3g/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2ODkw/MTI0LTE2ODI3NzU0/MDAtMTQ0My5qcGVn.jpeg"
+    - "https://i.discogs.com/8J378wU2vwggpjDL0mMXrZFAcEGmaTXr3kFzBNGFTng/rs:fit/g:sm/q:90/h:600/w:172/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2ODkw/MTI0LTE2ODMyOTgz/MjYtNjk0OS5qcGVn.jpeg"
 genres: ["Rock"]
 styles: ["Art Rock", "Alternative Rock"]
 ---
 
 Live at Bush Hall is a concert film by British rock band Black Country, New Road released on 20 February 2023 through YouTube. It is the first official release since Ants from Up There and the departure of Isaac Wood, the band's vocalist, and consists of recordings from previously unreleased music performed live at Bush Hall, London, over the period of 15–16 December 2022.
 An album of the performance was released on 24 March 2023 through Ninja Tune.
-
-
     
     
 

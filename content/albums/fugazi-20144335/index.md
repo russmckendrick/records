@@ -38,8 +38,10 @@ genres: ["Rock"]
 styles: ["Prog Rock"]
 ---
 
-Fugazi (titled after a Military slang term well-known at the time of release), is the second studio album by the British neo-progressive rock band Marillion, released in 1984. Produced by Nick Tauber, it was recorded between November 1983 and February 1984 at various studios and was the first to feature drummer Ian Mosley, following the dismissal of the band's original drummer Mick Pointer.
-According to AllMusic, the album "streamlined the intricacies of the group's prog rock leanings in favour of a more straight-ahead hard rock identity". Built upon the success of its predecessor, Script for a Jester's Tear, Fugazi reached the UK Top 5 and went Gold.
+Fugazi is the second studio album by the British neo-prog band Marillion, released in 1984. Produced by Nick Tauber, it was recorded between November 1983 and February 1984 at various studios and was the first to feature drummer Ian Mosley, following the dismissal of the band's original drummer Mick Pointer.
+The album is titled after a military slang term well known at the time of release. According to AllMusic, the album "streamlined the intricacies of the group's prog rock leanings in favour of a more straight-ahead hard rock identity". Built upon the success of its predecessor, Script for a Jester's Tear, Fugazi reached the UK top five and was certified Gold.
+
+
     
     
 
@@ -67,7 +69,7 @@ According to AllMusic, the album "streamlined the intricacies of the group's pro
 20. He Knows, You Know (5:56)
 21. Record 4 - Live At The Spectrum, Montreal, Canada 20th June 1984 (Part 3)
 22. Fugazi (9:11)
-23. Fortgotten Sons (11:03)
+23. Forgotten Sons (11:03)
 24. Garden Party (6:35)
 25. Market Square Heroes (10:46)
 

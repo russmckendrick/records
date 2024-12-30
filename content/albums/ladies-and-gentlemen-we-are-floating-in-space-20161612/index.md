@@ -4,6 +4,7 @@ artist_name: "Spiritualized"
 artist: "spiritualized"
 album_name: "Ladies And Gentlemen We Are Floating In Space"
 date: 2021-09-11T05:26:34.000000Z
+release_date: "1997-06-16"
 release_id: "20161612"
 slug: "ladies-and-gentlemen-we-are-floating-in-space-20161612"
 hideSummary: true
@@ -14,26 +15,35 @@ cover:
 additional_images:
     - "https://i.discogs.com/SND82CF6SOTF7EaYgElMAhr_pLUYkMg1SlH0rYst3YM/rs:fit/g:sm/q:90/h:586/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMTYx/NjEyLTE2MzEyNTEy/MDgtMTY4Ni5qcGVn.jpeg"
     - "https://i.discogs.com/MmfUHupfJtvlrhXnKkUG2EC5NruR57V282pRPSIlX3w/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMTYx/NjEyLTE2MzEyODQw/NTktNzAzNi5qcGVn.jpeg"
-    - "https://i.discogs.com/SBddVIxZ8EOD1Vs0IAyA3a1pbkgNjif8unlVNb_q4-Q/rs:fit/g:sm/q:90/h:601/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMTYx/NjEyLTE2MzEyODUw/MzAtODE5Ni5qcGVn.jpeg"
+    - "https://i.discogs.com/f7wnaO89a0TIqzXdTLI0V-i-hPDDxXEpv1IGUmSkFQQ/rs:fit/g:sm/q:90/h:600/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMTYx/NjEyLTE2MzEyODUw/MzAtODE5Ni5qcGVn.jpeg"
     - "https://i.discogs.com/zeyfNSDp4iFejFm2CHoScwo-WQPI8zo9o5g5DuniTU8/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMTYx/NjEyLTE2MzEyODUw/MzAtNjQ2My5qcGVn.jpeg"
-    - "https://i.discogs.com/Aa67Qvnx4_8w5jFwGVMppe754ZFdjlgYcJBH4vN61uQ/rs:fit/g:sm/q:90/h:602/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMTYx/NjEyLTE2MzEyODUw/MzAtMTA0MC5qcGVn.jpeg"
+    - "https://i.discogs.com/2qMT0LBBmUuHdO78TSQWDsYHCd30kRKci9sYPdFAJ00/rs:fit/g:sm/q:90/h:600/w:597/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMTYx/NjEyLTE2MzEyODUw/MzAtMTA0MC5qcGVn.jpeg"
     - "https://i.discogs.com/-8Vd2KsWP5GMHSmkso82uA_vyXBGCx4Ci7fzE6W9UxM/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMTYx/NjEyLTE2MzEyODUw/MzAtNDIzNi5qcGVn.jpeg"
     - "https://i.discogs.com/-dDpPHtgSxAyhbD23qDLOA5-x_23_RCmGs59vYKvJl4/rs:fit/g:sm/q:90/h:594/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMTYx/NjEyLTE2MzEyODQw/NTktNjg5NS5qcGVn.jpeg"
     - "https://i.discogs.com/KD1Vqo1CeinnvbaZ4Rx6X8GXnknoShz0DjkCtnf65m0/rs:fit/g:sm/q:90/h:591/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMTYx/NjEyLTE2MzEyODQw/NjAtNzkxOS5qcGVn.jpeg"
     - "https://i.discogs.com/Vj-Xt_a09c-xK33eYrPoXo0rTuH5sH4ws7tHSyb7eyg/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMTYx/NjEyLTE2MzEyODQw/NjAtNDYyOC5qcGVn.jpeg"
     - "https://i.discogs.com/tjS-sRjLj_YIR2T6YMthQ1omy4jcRNJ1AaD_g0ZROZ4/rs:fit/g:sm/q:90/h:593/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMTYx/NjEyLTE2MzEyODQw/NTktNzc5MS5qcGVn.jpeg"
-    - "https://i.discogs.com/pd36vvraMSQpsflkB1aCF75cy9mrJ5qO22FR1EeQc6M/rs:fit/g:sm/q:90/h:892/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMTYx/NjEyLTE2MzEyODUy/ODAtNzA0Ny5qcGVn.jpeg"
-    - "https://i.discogs.com/pHWVMm4xNmpbUXs8ol2_u-mAvD3vPpYa4Mag6TdOHaY/rs:fit/g:sm/q:90/h:901/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMTYx/NjEyLTE2MzEyODUy/NzktODM5My5qcGVn.jpeg"
-    - "https://i.discogs.com/_ikANWEghvy2SB_KxB_n2M6EwTu0FVrlFAXAMg8EXcc/rs:fit/g:sm/q:90/h:897/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMTYx/NjEyLTE2MzEyODUy/ODAtNTIxMy5qcGVn.jpeg"
-    - "https://i.discogs.com/8Q4lFHpxJglJFbg23887UtmatVUw26QUuonl8ZLEZwE/rs:fit/g:sm/q:90/h:887/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMTYx/NjEyLTE2MzEyODUy/NzktNjk1My5qcGVn.jpeg"
+    - "https://i.discogs.com/8rmmlyCJHgpFZBNTgWLetwljQs3VkvAbAbIlgxndXA4/rs:fit/g:sm/q:90/h:600/w:403/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMTYx/NjEyLTE2MzEyODUy/ODAtNzA0Ny5qcGVn.jpeg"
+    - "https://i.discogs.com/pmgiSRFtdj_Gem7KV-t_rvmt8VkQKgRMupOU_php3Pg/rs:fit/g:sm/q:90/h:600/w:399/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMTYx/NjEyLTE2MzEyODUy/NzktODM5My5qcGVn.jpeg"
+    - "https://i.discogs.com/v8yCyReQDDiyKRnsyBGg_nJKpcfR40AfnPtFqw8pcmc/rs:fit/g:sm/q:90/h:600/w:400/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMTYx/NjEyLTE2MzEyODUy/ODAtNTIxMy5qcGVn.jpeg"
+    - "https://i.discogs.com/GegS0ftonQrJZdER-hciWKvAUkE30XzW4XTY3PlLmis/rs:fit/g:sm/q:90/h:600/w:405/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMTYx/NjEyLTE2MzEyODUy/NzktNjk1My5qcGVn.jpeg"
     - "https://i.discogs.com/E5OBTdAv5f16rwILrtGivXi_se_-zWG0ctdi-MeZx5o/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMTYx/NjEyLTE2MzExMTk3/MzYtOTc4MS5qcGVn.jpeg"
-    - "https://i.discogs.com/tM7I9EQhoHkGeLjG3aXlGwJmVyr64tMrqP6K7P73WFA/rs:fit/g:sm/q:90/h:603/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMTYx/NjEyLTE2MzEyODQw/NTktOTk5Ny5qcGVn.jpeg"
+    - "https://i.discogs.com/xLvmP4gKK3luVn_Yl_vvOy2KpvKJzslWi8OuNHuMYVA/rs:fit/g:sm/q:90/h:600/w:596/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMTYx/NjEyLTE2MzEyODQw/NTktOTk5Ny5qcGVn.jpeg"
 genres: ["Rock"]
 styles: ["Space Rock", "Psychedelic Rock", "Indie Rock"]
 ---
 
-Ladies and Gentlemen We Are Floating in Space is the third studio album by English space rock band Spiritualized, released on 16 June 1997. The album features guest appearances from the Balanescu Quartet, The London Community Gospel Choir and Dr. John.
-    
+Jason Pierce began working on <i>Ladies and gentlemen we are floating in space</i> during the summer of 1995 and, as it began to take shape, he realised he was making his masterpiece. As Spiritualized leader since 1990, and co-founder of experimental drone-rockers Spacemen 3 before that, Pierce had always heard the sound in his head without fully ever managing to transpose it onto record. On Spiritualized’s third album, he majestically cracked it. Mixing careening rock ’n’ roll, sumptuous strings, orchestral minimalism, gospel, free jazz and more, <i>Ladies and gentlemen…</i> would come to define him.
+
+Of course, the lush, panoramic sonic world that <i>Ladies and gentlemen…</i> inhabits is only the half of it. What gives the record its gripping emotional anchor—one that could reach down into the Mariana Trench—is the sound of Pierce trying to make sense of everything in the wake of a breakup. It’s no coincidence that the first voice you hear on <i>Ladies and gentlemen…</i> is that of keyboardist Kate Radley, intoning the title of the album over a crackled phone line. Radley and Pierce, a couple since the late ’80s, had broken up sometime in 1995 and, later that year, Radleysecretly married The Verve’s Richard Ashcroft. Pierce was bereft.
+
+He has since claimed that devastating ballad “Broken Heart”, the album’s standout moment, was written before the breakup. Even if that is true, you can’t help but hear it through that prism, all raw vulnerability and poignant contemplation. What is clear is that Pierce threw himself into the work (“Though I have a broken heart/I’m too busy to be heartbroken,” he sings on that track). Incessant touring had turned the band around him—guitarist John Coxon, bassist Sean Cook, drummer Damon Reece and Radley—into a formidable live force and their potency is captured on amped-up cuts such as “Electricity” and “Come Together”. But Pierce needed to go further afield to bring the full vision to life, recording strings with the Balanescu Quartet in London, visiting Dr. John in New York—the blues don would add piano to widescreen closer “Cop Shoot Cop…”—and finally enlisting a revolving cast of producers and mixers to perfect the sound.
+
+He would get there in the end and the crowning achievement of his career would be complete. Well, almost. First, he had to get the record company to agree to his idea for the artwork: He wanted the CD to be sold inside a blister pack with foil stamping as if it was a pill, meaning it had to be manufactured inside pharmaceutical factories. “I remember being very disappointed with the way that bands were presented, they all seemed to do the same thing, the same photoshoots, you could prize one band out of the box and then shove the next band into the same box, regardless of how well they fit,” Pierce told Apple Music’s Strombo ahead of the album’s reissue in 2022. “They all seemed to be making the same kind of videos and photography and artwork and imagery. And I remember just thinking we should change that. So we started putting more ideas into the shoots and the videos. [Eventually] I was hanging myself from the bottom of a helicopter [for 2001’s “Do It All Over Again” video] and taking us off to the top of Mount Etna during the eruptions [“Let It Come Down”, 2001].” The label went with it and <i> Ladies and gentlemen we are floating in space</i> was released in June 1997, reviews unanimously agreeing that Spiritualized had created a modern classic. It entered the top five of the UK charts, propelling Spiritualized from cult concern to mainstream success—with <i>Ladies and gentlemen…</i> beating Radiohead’s <i>OK Computer</i> to <i>NME</i>’s Album of the Year Award for 1997. 
+
+“The music business is very geared to ‘What’s the chart position? Where are you in week one? What’s your sales? That’s it, we’re done,’” said Pierce. “I remember sitting with Kate at the time and saying, ‘We can do better than that.’ That record was drip-fed over a year and half, two years. We had a lot of ideas [for artwork and videos, etc] that we put to it and I think that helped enormously. The record was allowed to be around for a lot longer. That introduced it to a lot more people than had it just been, ‘Week one, that’s it, we’re done.’” There would be further excellent explorations from Jason Pierce down the line, but none would be quite as monumental as <i>Ladies and gentlemen we are floating in space</i>. It remains one of a kind.
+        
+        
     
 
 
@@ -60,7 +70,6 @@ Ladies and Gentlemen We Are Floating in Space is the third studio album by Engli
 {{< youtube id="uWOdSeDzyy4" title="Spiritualized - Come Together (Official Music Video)" >}}<br>
 ### More Videos
 
-- [Spiritualized - I Think I'm in Love (Official Audio)](https://www.youtube.com/watch?v=CyZ4IvOwJYI)
 - [Spiritualized - Electricity (Official Music Video)](https://www.youtube.com/watch?v=ZVKXnWDeNr8)
 - [Come Together](https://www.youtube.com/watch?v=idRkBNs-Jgs)
 - [Stay with Me](https://www.youtube.com/watch?v=gSGA1Q5NFUM)

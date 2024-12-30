@@ -12,23 +12,25 @@ cover:
     alt: "Altitude  by ALT"
     caption: "Altitude  by ALT"
 additional_images:
-    - "https://i.discogs.com/AypX9JbtFzlrGMF4QVtpd6T0SUSPGLzyVBIsY7MtF18/rs:fit/g:sm/q:90/h:450/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMjAy/NzU1LTE2NTIzNzI3/OTMtNTExMi5qcGVn.jpeg"
-    - "https://i.discogs.com/fWDxWJ_jIUw_f9EWZ4xGn1VvNOYImQiPMEy0iSWIoGY/rs:fit/g:sm/q:90/h:450/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMjAy/NzU1LTE2NTIzNzI3/OTMtNjk3NS5qcGVn.jpeg"
+    - "https://i.discogs.com/XzdMQR1R-tNmUzjw5xIdSXC0YLQkL1_IrM1Ke8kCzrY/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMjAy/NzU1LTE3MDUyMTIy/NDUtMjczMy5qcGVn.jpeg"
+    - "https://i.discogs.com/of7FX22boJNyK7MGZ4khuqc0uAmUVl1Ouqj_uk2owxk/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMjAy/NzU1LTE3MDUyMTIy/NDUtNDQwNi5qcGVn.jpeg"
     - "https://i.discogs.com/PPL9Uu4FnGXenl1sJMqmlmpu4jgqsYWgGBCoeKgpf4o/rs:fit/g:sm/q:90/h:450/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMjAy/NzU1LTE2NTIzNzI3/OTYtOTkzMC5qcGVn.jpeg"
     - "https://i.discogs.com/qPXueEJWHRHbZSAIkg1u8H8OIguZTfJ4AMlZ5j_TOZQ/rs:fit/g:sm/q:90/h:450/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMjAy/NzU1LTE2NTIzNzI3/OTYtMTA1NS5qcGVn.jpeg"
-    - "https://i.discogs.com/Q-x8vBI9maEWRusQH7g-kW4dry0Trmh9eVd1L7P1oMs/rs:fit/g:sm/q:90/h:450/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMjAy/NzU1LTE2NTIzNzI3/ODgtMjg3OS5qcGVn.jpeg"
-    - "https://i.discogs.com/8PYR7rdf6_vxhO_hvUa8dmImTTwFthEgi-2I62rqpNY/rs:fit/g:sm/q:90/h:450/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMjAy/NzU1LTE2NTIzNzI3/OTctMjE0My5qcGVn.jpeg"
-    - "https://i.discogs.com/b6qElmgmN4eunV6KmSv9_4xHwlTD9O2Q3fmMQjO39mM/rs:fit/g:sm/q:90/h:450/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMjAy/NzU1LTE2NTIzNzI3/OTUtNjA2OS5qcGVn.jpeg"
     - "https://i.discogs.com/B46kSbAlfHPz13NESFMMAPtts-9qDuQcaIJpmKXFhvk/rs:fit/g:sm/q:90/h:450/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMjAy/NzU1LTE2NTIzNzI3/OTEtMjE3OC5qcGVn.jpeg"
-    - "https://i.discogs.com/9T0VxUApxFeHtkfuNpTAexr-nn3FRgySadIwANBwR-U/rs:fit/g:sm/q:90/h:450/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMjAy/NzU1LTE2NTIzNzI3/OTAtMTMyMi5qcGVn.jpeg"
     - "https://i.discogs.com/lCFJcN1VxBq6pUeA0PK7nUh3lET0-vcquoUcUt1tmts/rs:fit/g:sm/q:90/h:450/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMjAy/NzU1LTE2NTIzNzI3/OTQtNDk1Ni5qcGVn.jpeg"
     - "https://i.discogs.com/DhdjdrddUR5wPEpoounFfrdb6-gJU2ymP_TyVJa9XG4/rs:fit/g:sm/q:90/h:450/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMjAy/NzU1LTE2NTIzNzUy/MzQtNTI1Mi5qcGVn.jpeg"
     - "https://i.discogs.com/VdqgvKcGveq_mliIXtYE2zxkUG-7ra-D96i04WyiCVw/rs:fit/g:sm/q:90/h:450/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMjAy/NzU1LTE2NTIzNzI3/ODctMjc1OC5qcGVn.jpeg"
+    - "https://i.discogs.com/Q-x8vBI9maEWRusQH7g-kW4dry0Trmh9eVd1L7P1oMs/rs:fit/g:sm/q:90/h:450/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMjAy/NzU1LTE2NTIzNzI3/ODgtMjg3OS5qcGVn.jpeg"
+    - "https://i.discogs.com/9T0VxUApxFeHtkfuNpTAexr-nn3FRgySadIwANBwR-U/rs:fit/g:sm/q:90/h:450/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMjAy/NzU1LTE2NTIzNzI3/OTAtMTMyMi5qcGVn.jpeg"
+    - "https://i.discogs.com/b6qElmgmN4eunV6KmSv9_4xHwlTD9O2Q3fmMQjO39mM/rs:fit/g:sm/q:90/h:450/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMjAy/NzU1LTE2NTIzNzI3/OTUtNjA2OS5qcGVn.jpeg"
+    - "https://i.discogs.com/8PYR7rdf6_vxhO_hvUa8dmImTTwFthEgi-2I62rqpNY/rs:fit/g:sm/q:90/h:450/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMjAy/NzU1LTE2NTIzNzI3/OTctMjE0My5qcGVn.jpeg"
 genres: ["Rock", "Pop", "Folk, World, & Country"]
 styles: ["Acoustic", "Soft Rock"]
 ---
 
 Altitude was the only studio album to date released by ALT, the grouping of Tim Finn, Andy White & Liam O'Moanlai. Also released was a live recording simply called Bootleg.
+
+
     
     
 
@@ -78,4 +80,4 @@ Altitude was the only studio album to date released by ALT, the grouping of Tim 
 | Format         | Vinyl 2× LP Album Deluxe Edition Reissue Remastered Stereo |
 | Label          | Needle Mythology |
 | Catalog Number | NEMYLP010 |
-| Discogs URL    | [ALT - Altitude ](https://www.discogs.com/release/23202755-ALT-Altitude-) |
+| Discogs URL    | [ALT - Altitude ](https://www.discogs.com/release/23202755-ALT-6-Altitude-) |

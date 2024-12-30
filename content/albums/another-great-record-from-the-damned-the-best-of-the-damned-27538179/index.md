@@ -12,8 +12,8 @@ cover:
     alt: "Another Great Record From The Damned: The Best Of The Damned by The Damned"
     caption: "Another Great Record From The Damned: The Best Of The Damned by The Damned"
 additional_images:
-    - "https://i.discogs.com/HRx7w1UoLLe46qKtX0GkxjGDJjvodr7NA9SJPCKHQW4/rs:fit/g:sm/q:90/h:606/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3NTM4/MTc5LTE2ODgxMzcz/MjAtMjU4Mi5qcGVn.jpeg"
-    - "https://i.discogs.com/3OBxEkQ_oqwPlfxrEjVNrJ5d317VSmDXGE_Wnvv37WU/rs:fit/g:sm/q:90/h:605/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3NTM4/MTc5LTE2ODgxMzcz/MjctNDI1MC5qcGVn.jpeg"
+    - "https://i.discogs.com/dwvIANo_3zQ1u_vgZGiFB6-EHSTqIIKsq-V5X7Tlo2g/rs:fit/g:sm/q:90/h:600/w:593/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3NTM4/MTc5LTE2ODgxMzcz/MjAtMjU4Mi5qcGVn.jpeg"
+    - "https://i.discogs.com/YM2uWjmOQvFvtGzE408DE-KRaZhbJnJ01ykPIIPQTS0/rs:fit/g:sm/q:90/h:600/w:594/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3NTM4/MTc5LTE2ODgxMzcz/MjctNDI1MC5qcGVn.jpeg"
     - "https://i.discogs.com/EEXEOYQ_WCW4ShQM7W91ZSmSL2iNT_RAwkTbpFB_82c/rs:fit/g:sm/q:90/h:576/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3NTM4/MTc5LTE2ODgxMzcz/MzUtODIyMy5qcGVn.jpeg"
     - "https://i.discogs.com/kYlLLW85StATegVbuubRGf1XnlMm6mY6mBSq4KRiyPI/rs:fit/g:sm/q:90/h:574/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3NTM4/MTc5LTE2ODgxMzcz/MzUtMjE3NS5qcGVn.jpeg"
     - "https://i.discogs.com/peGlSYwAF94LXiownSEChwA4VzFYYFWHUSheLRxFri4/rs:fit/g:sm/q:90/h:572/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3NTM4/MTc5LTE2ODgxMzcz/MzQtOTM3MC5qcGVn.jpeg"
@@ -43,7 +43,9 @@ styles: ["Punk", "Goth Rock", "Psychedelic Rock", "Alternative Rock"]
 ## Videos
 ### The Damned - Smash It Up [Part 2]
 {{< youtube id="K6LF7v7FwtI" title="The Damned - Smash It Up [Part 2]" >}}<br>
+### More Videos
 
+- [Born to Kill - The Damned 1976](https://www.youtube.com/watch?v=5YRtubErA_k)
 
 ## Release Images
 {{< imageGrid >}}

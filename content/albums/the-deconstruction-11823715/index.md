@@ -29,7 +29,7 @@ additional_images:
     - "https://i.discogs.com/STZ6CnKpH4dGZ3dRzYv5zU_LPQd7i-V3ecuO5A1rasg/rs:fit/g:sm/q:90/h:592/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExODIz/NzE1LTE1MjU2MTA2/ODAtNTQzMi5qcGVn.jpeg"
     - "https://i.discogs.com/RnbV6LhQt-muzFsbQnHtAROpxt4nu_IegNRe31QsQ2A/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExODIz/NzE1LTE1MjU2MTA2/ODUtNzEyNC5qcGVn.jpeg"
     - "https://i.discogs.com/2MNTpbY6QDddoEsMg90tKJzyMaXj6W2Acd8_GHgd2Ro/rs:fit/g:sm/q:90/h:357/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExODIz/NzE1LTE1MjU2MTA3/MDktNTM0MC5qcGVn.jpeg"
-    - "https://i.discogs.com/TJEYGB7IfQUJgvl9cOSFD0ddDSU8VIn18HAISd2UN4A/rs:fit/g:sm/q:90/h:790/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExODIz/NzE1LTE1MjU2MTA3/MjItNjYyNC5qcGVn.jpeg"
+    - "https://i.discogs.com/5cOUDo0ICgXZYZqdWAN3PlOROyEIfE4mEwbe-NlwxvY/rs:fit/g:sm/q:90/h:600/w:455/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExODIz/NzE1LTE1MjU2MTA3/MjItNjYyNC5qcGVn.jpeg"
     - "https://i.discogs.com/yY1FkKZzPoRIfqbqLN1rW4xD7evsYZyTAq2sfFWrsBY/rs:fit/g:sm/q:90/h:585/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExODIz/NzE1LTE1MjU2MTA3/MjktNjEwNC5qcGVn.jpeg"
 genres: ["Rock"]
 styles: ["Indie Rock"]

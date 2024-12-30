@@ -17,8 +17,8 @@ additional_images:
     - "https://i.discogs.com/HeuhAydk6ULuSs092CwDjDC4Evxeld9dZQRnOaK7nPg/rs:fit/g:sm/q:90/h:299/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2Mzg1/MzctMTY1NjQ1MTYx/OS04MzgzLmpwZWc.jpeg"
     - "https://i.discogs.com/TcPAgAqRCzQfFZntn2yuezdc2nwj2IBCIUspoWXBHiQ/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2Mzg1/MzctMTY1NjQ1MTYz/MC00NTE1LmpwZWc.jpeg"
     - "https://i.discogs.com/cUJNXGFONbMAqp5ZMzytTRh9phKdhyTNnp_YrQU39eU/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2Mzg1/MzctMTY1NjQ1MTYz/OC01NTgwLmpwZWc.jpeg"
-    - "https://i.discogs.com/CpyaxfA-QJYFCyF_PGDI-9ao64A-PpnZNyOgH1yFvY4/rs:fit/g:sm/q:90/h:602/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2Mzg1/MzctMTY1NjQ1MTY0/Ni02NTk5LmpwZWc.jpeg"
-    - "https://i.discogs.com/BQk3wNYaSzLY0CHgs6OAf6bwW8XnakV4krdhGBEM6TM/rs:fit/g:sm/q:90/h:603/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2Mzg1/MzctMTY1NjQ1MTY1/My05MDEyLmpwZWc.jpeg"
+    - "https://i.discogs.com/ySIQ9FuqnMwDgAkxMhmJOSKR1Mm9DVZB0k9Av93rZzE/rs:fit/g:sm/q:90/h:600/w:597/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2Mzg1/MzctMTY1NjQ1MTY0/Ni02NTk5LmpwZWc.jpeg"
+    - "https://i.discogs.com/hrW6GhNi1m0DiB8hV56CqsYqThkrk_geq_jCaQ6wRB0/rs:fit/g:sm/q:90/h:600/w:596/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2Mzg1/MzctMTY1NjQ1MTY1/My05MDEyLmpwZWc.jpeg"
     - "https://i.discogs.com/bxMz8C1zAwFYvwmtLpLuQn6KNmgwAsm1ZeSrdZIGhXo/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2Mzg1/MzctMTY1NjQ1MTY2/MS04NTMxLmpwZWc.jpeg"
     - "https://i.discogs.com/VEHE8YkKVE7h9vLRRU6yRSeXlTtfGVyBmLrQ2EFnrqo/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2Mzg1/MzctMTY1NjQ1MTY3/Ni03NjYyLmpwZWc.jpeg"
     - "https://i.discogs.com/Y11AnNXBtePFNRmOP5ezGEdbNKqkjEAX-b88vC394v0/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2Mzg1/MzctMTY1NjQ1MTY4/NS0xNzkxLmpwZWc.jpeg"
@@ -28,8 +28,10 @@ genres: ["Rock", "Pop"]
 styles: ["Indie Rock"]
 ---
 
-Andrew Bird has a way of making things seem easy. Such is the disarming sense of grace and confidence on the Chicago singer/multi-instrumentalist’s fifth solo studio album, it takes a while to note the complexity of what he achieves so casually. When he’s not fusing whimsical humor, swelling strings, and a bossa-nova swagger on “Masterswarm,” he’s applying his signature croon to machine-made beats and fuzzier noises on “Not a Robot, but a Ghost,” or inventing his version of a pastoral-folk symphony in “Souverian.”
-    
+Noble Beast  is the fifth solo studio album by the American singer-songwriter Andrew Bird, and his eighth overall. It was released on January 20, 2009. Two songs from this album were previewed on his webpage; "Oh No" and "Carrion Suite", while the entire album was made available by NPR as a streaming feed. Noble Beast was made available as a standard CD release, a special limited-edition deluxe two-CD package and a double-LP package.
+The track "Tenuousness" appears in the closing credits for the 2011 movie Crazy, Stupid, Love.
+        
+        
     
 
 
@@ -58,12 +60,13 @@ Andrew Bird has a way of making things seem easy. Such is the disarming sense of
 {{< youtube id="kSOKpw9Y2GY" title="Oh No" >}}<br>
 ### More Videos
 
-- [andrew bird - oh no (new track 2009](https://www.youtube.com/watch?v=Upqcu2DWK8g)
 - [Not a Robot, But a Ghost](https://www.youtube.com/watch?v=ixQUkxp9BKQ)
 - [Effigy](https://www.youtube.com/watch?v=cbUbjuuBgxo)
 - [On Ho!](https://www.youtube.com/watch?v=UFOGZ0KFAOA)
 - [Natural Disaster](https://www.youtube.com/watch?v=dOiQDGPIMtU)
 - [Tenuousness](https://www.youtube.com/watch?v=0nSbR0hG6nc)
+- [andrew bird - oh no (new track 2009](https://www.youtube.com/watch?v=Upqcu2DWK8g)
+- [Andrew Bird - Natural Disaster [HQ]](https://www.youtube.com/watch?v=Q_lc2g3JifM)
 
 ## Release Images
 {{< imageGrid >}}
@@ -71,6 +74,7 @@ Andrew Bird has a way of making things seem easy. Such is the disarming sense of
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
+| Wikipedia URL | https://en.wikipedia.org/wiki/Noble_Beast |
 | Format         | Vinyl 2× LP Album (Gatefold) |
 | Label          | Fat Possum Records |
 | Catalog Number | 1124-1 |

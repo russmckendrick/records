@@ -12,7 +12,7 @@ cover:
     alt: "Test For Echo by Rush"
     caption: "Test For Echo by Rush"
 additional_images:
-    - "https://i.discogs.com/-6PE44Ek9XzPSZKYcLgR7vHmUaXJvKwD66m3T-8SQQE/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc2ODQy/MzQtMTQ0NjY2OTIy/NS0yMjY4LmpwZWc.jpeg"
+    - "https://i.discogs.com/ifcjvOviHZToul5OMYnSoEEL76un3nlwJClUzdsyCD4/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc2ODQy/MzQtMTcwMTAzMzY5/MS00NDU3LmpwZWc.jpeg"
     - "https://i.discogs.com/g3jyieiRy39S05WRCdb_In9lkBzhTcCU5SjJ8x0RVy8/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc2ODQy/MzQtMTQ0NzYyMDYz/OC04MTg5LmpwZWc.jpeg"
     - "https://i.discogs.com/5sjiF2PfAQlDbEY07msKlxvl9L_dOWqrW0LZUkjR1XY/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc2ODQy/MzQtMTQ0NzYyMDYz/Ni05NzU2LmpwZWc.jpeg"
     - "https://i.discogs.com/2ReKU81wwMpEjpZ5VUjpvF52maIR75g87eBDKUJVGFM/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc2ODQy/MzQtMTQ0NzYyMDYz/Ny0zODI4LmpwZWc.jpeg"
@@ -29,8 +29,10 @@ genres: ["Rock"]
 styles: ["Prog Rock"]
 ---
 
-Test for Echo is the sixteenth studio album by the Canadian rock band Rush, released on 10 September 1996 on Anthem Records. It was the final Rush album co-produced by Peter Collins. The band supported the album with a world tour in 1996 and 1997, after which they went on a four-year hiatus following the deaths of drummer Neil Peart's daughter and wife, and would not record again until 2002.
-The title track reached No. 1 on the mainstream rock chart. The song "Driven" became a bass showcase for Geddy Lee during live performances, while "Resist" was rearranged as an acoustic song on the Vapor Trails and R30 tours. The band did not perform any tracks from the album on subsequent tours. Test for Echo was remastered and reissued twice: in 2004 as a continuation of "The Rush Remasters" set and in 2013 as a part of the box set The Studio Albums 1989–2007. In 2015 it was reissued after being remastered by Sean Magee at Abbey Road Studios following a direct approach by Rush to remaster their entire back catalogue.
+Test for Echo is the sixteenth studio album by the Canadian rock band Rush, released on September 10, 1996, by Anthem Records. It was the final Rush album to be co-produced by Peter Collins. The band supported the album with a world tour in 1996 and 1997, after which they went on a five-year hiatus following the deaths of drummer Neil Peart's daughter and wife, and would not record again until 2001.
+The title track reached No. 1 on the mainstream rock chart. The song "Driven" became a bass showcase for Geddy Lee during live performances, while "Resist" was rearranged as an acoustic song on the Vapor Trails and R30 tours. The band did not perform any tracks from the album on subsequent tours. Test for Echo was remastered and reissued twice: in 2004 as a continuation of "The Rush Remasters" set and in 2013 as a part of the box set The Studio Albums 1989–2007. In 2015, it was reissued after being remastered by Sean Magee at Abbey Road Studios following a direct approach by Rush to remaster their entire back catalogue.
+
+
     
     
 
@@ -52,7 +54,21 @@ The title track reached No. 1 on the mainstream rock chart. The song "Driven" be
 {{< applemusic url="https://music.apple.com/gb/album/test-for-echo/642222761" >}}<br>
 
 
+## Videos
+### Test for Echo (Remastered)
+{{< youtube id="_zfIYInFMhg" title="Test for Echo (Remastered)" >}}<br>
+### More Videos
 
+- [Driven (Remastered)](https://www.youtube.com/watch?v=Vo20tDqnf_U)
+- [Half the World (Remastered)](https://www.youtube.com/watch?v=2GvCXX4nRb4)
+- [The Color of Right (Remastered)](https://www.youtube.com/watch?v=WNcK5nFyrO4)
+- [Time and Motion (Remastered)](https://www.youtube.com/watch?v=i4pnxlDitdA)
+- [Totem (Remastered)](https://www.youtube.com/watch?v=mI208DRLsFc)
+- [Dog Years (Remastered)](https://www.youtube.com/watch?v=Cgp6_jJnrO8)
+- [Virtuality (Remastered)](https://www.youtube.com/watch?v=4H2_fQ8xWCM)
+- [Resist (Remastered)](https://www.youtube.com/watch?v=lcTf3ed4Bp8)
+- [Limbo (Remastered)](https://www.youtube.com/watch?v=MLl4d1KlxZ4)
+- [Carve Away the Stone (Remastered)](https://www.youtube.com/watch?v=bOBS6m18qnQ)
 
 ## Release Images
 {{< imageGrid >}}

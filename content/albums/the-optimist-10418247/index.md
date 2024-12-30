@@ -14,10 +14,10 @@ cover:
     caption: "The Optimist by Anathema"
 additional_images:
     - "https://i.discogs.com/Q6pPQanTsRKagbOwwV7hsnNzQkl3drYD7XLineyuM6Q/rs:fit/g:sm/q:90/h:500/w:500/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNDE4/MjQ3LTE0OTcyMDQ5/NzgtMzUzNi5qcGVn.jpeg"
-    - "https://i.discogs.com/zQLG-JaNJcE9jmYEBepHHP9DTxYBwOrB_dR8F0mwonE/rs:fit/g:sm/q:90/h:611/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNDE4/MjQ3LTE0OTczNjg4/NTgtMTk0My5qcGVn.jpeg"
+    - "https://i.discogs.com/4N2UCTUcSu7cbqR_E3Qya1kFzGkoU5MGHFHDKhvHByY/rs:fit/g:sm/q:90/h:600/w:589/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNDE4/MjQ3LTE0OTczNjg4/NTgtMTk0My5qcGVn.jpeg"
     - "https://i.discogs.com/cgeRM0KgJWSxzBptB3oOXNwaErwnoCQyZj67GHODwDo/rs:fit/g:sm/q:90/h:592/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNDE4/MjQ3LTE0OTczNjg4/NjMtMjc1My5qcGVn.jpeg"
     - "https://i.discogs.com/GbHp5WTzg6bXtrkSLftDWgUlo8dcndkp9zG-teNK1NQ/rs:fit/g:sm/q:90/h:390/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNDE4/MjQ3LTE0OTczNjg4/NjctNDE2MC5qcGVn.jpeg"
-    - "https://i.discogs.com/3iRQ6heNOUFWBagtJN1rQSI0viJimkxo9Qbhujdk5Ks/rs:fit/g:sm/q:90/h:602/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNDE4/MjQ3LTE0OTczNjg4/ODYtNzUwNy5qcGVn.jpeg"
+    - "https://i.discogs.com/NO8znDsnTf9ri9UHOBi2DWa5PdV83_5DekoJ7GPwG9Q/rs:fit/g:sm/q:90/h:600/w:597/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNDE4/MjQ3LTE0OTczNjg4/ODYtNzUwNy5qcGVn.jpeg"
     - "https://i.discogs.com/falsvsJ158_nWA6cUaw2hC-4PuT_Tp0xxIvfHL1m-64/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNDE4/MjQ3LTE0OTczNjkw/NzYtNTE2MC5qcGVn.jpeg"
     - "https://i.discogs.com/eTTrZKdATpxWn6zpUTfTtQ85-MNehH8SKIQuAK1ZEHc/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNDE4/MjQ3LTE0OTczNjkw/MDUtMzAyMC5qcGVn.jpeg"
     - "https://i.discogs.com/PhGcWJqAn1GaAMwp6G2SOKGLgx_U7WTWgHj3XJ4UUkI/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNDE4/MjQ3LTE0OTczNjkx/MDItNjkyMy5qcGVn.jpeg"
@@ -28,13 +28,13 @@ additional_images:
     - "https://i.discogs.com/KWeOvbkqgSgGGuXNUtTrghGW82NWtJLRkRe4KyZM1Ks/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNDE4/MjQ3LTE0OTczNjky/MTEtNzE4Ni5qcGVn.jpeg"
     - "https://i.discogs.com/UAxgsSZiH3QGQmu5zMs9vSNpSIRv2SjTXAe_tM4WprU/rs:fit/g:sm/q:90/h:593/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNDE4/MjQ3LTE0OTczNjky/MjktOTgxMC5qcGVn.jpeg"
     - "https://i.discogs.com/0xbPU_9D-9xlqHACjMVSRsOxkxpwqXSpbace8RlcKXQ/rs:fit/g:sm/q:90/h:590/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNDE4/MjQ3LTE0OTczNjky/ODEtNzQyNS5qcGVn.jpeg"
-    - "https://i.discogs.com/KNaPBh2boUeA7eOKNJ1Y_fJoPWT4A3n7dJbBBKti--0/rs:fit/g:sm/q:90/h:607/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNDE4/MjQ3LTE0OTczNjky/OTYtMjIwOC5qcGVn.jpeg"
+    - "https://i.discogs.com/-imObHPCxxP4bdym6GYzFl79TEgOjQhiSgTImqlgbZw/rs:fit/g:sm/q:90/h:600/w:592/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNDE4/MjQ3LTE0OTczNjky/OTYtMjIwOC5qcGVn.jpeg"
     - "https://i.discogs.com/2hbMXSU3THEzQchpj_iAbCs9nMmtEx6pzFtCpQg7yJI/rs:fit/g:sm/q:90/h:540/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNDE4/MjQ3LTE0OTcwMjc2/NDAtMTU4OS5qcGVn.jpeg"
 genres: ["Rock"]
 styles: ["Prog Rock", "Alternative Rock"]
 ---
 
-The Liverpool group’s 11th album is a conceptual sequel to their sixth, 2001’s <i>A Fine Day to Exit</i>, made when they were still a doomy metal outfit. But <i>The Optimist</i> caps their interim transformation into a cinematic art-rock ensemble, whether building minimal electronic beats into hard-charging anthems (“Leaving It Behind”) or using desolate piano chords to summon a shoegaze tsunami (“Springfield”). This album finds its suitably grand finale in “Back to the Start,” whose comfortably numbing Floydian sway blossoms into orchestral ecstasy.
+The Liverpool group’s 11th album is a conceptual sequel to their sixth, 2001’s <i>A Fine Day to Exit</i>, made when they were still a doomy metal outfit. But <i>The Optimist</i> caps their interim transformation into a cinematic art-rock ensemble, whether building minimal electronic beats into hard-charging anthems (“Leaving It Behind”) or using desolate piano chords to summon a shoegaze tsunami (“Springfield”). This album finds its suitably grand finale in “Back to the Start”, whose comfortably numbing Floydian sway blossoms into orchestral ecstasy.
     
     
 

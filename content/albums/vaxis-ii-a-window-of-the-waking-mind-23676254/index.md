@@ -13,19 +13,20 @@ cover:
     alt: "Vaxis II: A Window of the Waking Mind by Coheed And Cambria"
     caption: "Vaxis II: A Window of the Waking Mind by Coheed And Cambria"
 additional_images:
-    - "https://i.discogs.com/w95zq1106MDkQ7mc0k-9iSdh8oY1JyqmV9haaBiBbxg/rs:fit/g:sm/q:90/h:605/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNjc2/MjU0LTE2NTYwNjEy/MzMtNDkxNC5qcGVn.jpeg"
-    - "https://i.discogs.com/aZFlC11KzntgucoH1He0dxelXX1aM9PLl3FfDkVQ0FQ/rs:fit/g:sm/q:90/h:1215/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNjc2/MjU0LTE2NTYwNjEx/NTktMjM2OS5qcGVn.jpeg"
-    - "https://i.discogs.com/3_Vy1AkERsyz7edZdF1Aic1QQTsasnA2A_EYq5MJhoY/rs:fit/g:sm/q:90/h:607/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNjc2/MjU0LTE2NTYwNjEx/NTgtNzQ2OS5qcGVn.jpeg"
+    - "https://i.discogs.com/zcCR6yRtlYWedXZ1-EZemtRqx1n8FPU5qzw8tHjUdqQ/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNjc2/MjU0LTE3MTQ1OTUz/OTItMTI5Mi5qcGVn.jpeg"
+    - "https://i.discogs.com/PlGGyNd55Iz5y_i1_q4TcnLoecgu4IYlGIdDT9wdd3U/rs:fit/g:sm/q:90/h:600/w:594/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNjc2/MjU0LTE2NTYwNjEy/MzMtNDkxNC5qcGVn.jpeg"
+    - "https://i.discogs.com/C0CSQ0OyPV4U2w2ARKVshbV1pEcujI5KPuzl88wtU3c/rs:fit/g:sm/q:90/h:600/w:296/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNjc2/MjU0LTE2NTYwNjEx/NTktMjM2OS5qcGVn.jpeg"
+    - "https://i.discogs.com/h9KPCTxk_0wYY6-hsDKkY1d2BeZQs6Ah4yhsfbacBBI/rs:fit/g:sm/q:90/h:600/w:592/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNjc2/MjU0LTE2NTYwNjEx/NTgtNzQ2OS5qcGVn.jpeg"
     - "https://i.discogs.com/ZMbqgP32IWsphJ75I6A_EJrKwbs6Q__-yXdfrnKAE-c/rs:fit/g:sm/q:90/h:567/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNjc2/MjU0LTE2NTYwNjEx/NTgtMzc0OC5qcGVn.jpeg"
     - "https://i.discogs.com/5NHHvhDPyrD-DtY_WQ1Y8aFV00cYFXnrxP9mEu8UjPw/rs:fit/g:sm/q:90/h:563/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNjc2/MjU0LTE2NTYwNjEx/NTgtNzgyOS5qcGVn.jpeg"
-    - "https://i.discogs.com/fzAPxZ3e99wkjNoEB3BFTZR-lsnz2O280he8d4j96aM/rs:fit/g:sm/q:90/h:606/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNjc2/MjU0LTE2NTYwNjEx/NTgtOTE4OS5qcGVn.jpeg"
+    - "https://i.discogs.com/GrH9iIlM9Sq-GJAeFEuiBPdPay9795oyulnNYLNQCco/rs:fit/g:sm/q:90/h:600/w:593/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNjc2/MjU0LTE2NTYwNjEx/NTgtOTE4OS5qcGVn.jpeg"
     - "https://i.discogs.com/E9fpkxx2_cF9QbzM9gbRdiL0p2XD7AT0HwZNsFLIIz8/rs:fit/g:sm/q:90/h:582/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNjc2/MjU0LTE2NTYwNjE0/NzgtNzk0MS5qcGVn.jpeg"
     - "https://i.discogs.com/CnoXi8zbBKe6S29EjhJmGZF7hLLVr_AFtmbVeeo4MOM/rs:fit/g:sm/q:90/h:566/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNjc2/MjU0LTE2NTYwNjEx/NTktNzU0NC5qcGVn.jpeg"
     - "https://i.discogs.com/RpcfbyfTDpF4eOF2-6tPy4dJGszPGOUdnLYuj1l-NN4/rs:fit/g:sm/q:90/h:538/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNjc2/MjU0LTE2NTYwNjEx/NTgtNjM2MS5qcGVn.jpeg"
     - "https://i.discogs.com/ZqANdOeTyLzRfRsWpZuXr1YgJhMZJaAKoAEHeZT5P3g/rs:fit/g:sm/q:90/h:594/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNjc2/MjU0LTE2NTYwNjEx/NTgtOTU1NS5qcGVn.jpeg"
     - "https://i.discogs.com/4l4TgBUIoRpaKuCMJtFNw_h_EmSq18SbT8KE3R3PFLY/rs:fit/g:sm/q:90/h:581/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNjc2/MjU0LTE2NTYwNjEx/NTctODMwMS5qcGVn.jpeg"
     - "https://i.discogs.com/ksBpT1zPM8Or63P5NilCwGCxfiOzSh8P2QvtXgghIXA/rs:fit/g:sm/q:90/h:314/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNjc2/MjU0LTE2NTYwNjEx/NTgtMjU4NC5qcGVn.jpeg"
-    - "https://i.discogs.com/VA4Pik2LOU8OOLSBcbyp5t3vdSVDZINvjslPjLdG9nE/rs:fit/g:sm/q:90/h:1521/w:406/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNjc2/MjU0LTE2NTYwNjEx/NTctMTE4Ny5qcGVn.jpeg"
+    - "https://i.discogs.com/rvCXskGQkF-5rYjrRomW3b7DZxfvm46zQ0WFXUpzqJs/rs:fit/g:sm/q:90/h:600/w:160/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNjc2/MjU0LTE2NTYwNjEx/NTctMTE4Ny5qcGVn.jpeg"
 genres: ["Rock"]
 styles: ["Prog Rock"]
 ---
@@ -98,7 +99,6 @@ With the second instalment of their <i>Vaxis</i> story arc, emo-prog wizards Coh
 {{< youtube id="9NBaKRUrr_M" title="Coheed and Cambria - The Embers of Fire (Official Audio)" >}}<br>
 ### More Videos
 
-- [Coheed and Cambria - A Disappearing Act (OFFICIAL MUSIC VIDEO)](https://www.youtube.com/watch?v=qmMI6fEpxns)
 - [Coheed and Cambria - Beautiful Losers (Official Audio)](https://www.youtube.com/watch?v=XZpM_G2i5Uo)
 - [Coheed and Cambria - Comatose [OFFICIAL LYRIC VIDEO]](https://www.youtube.com/watch?v=sG940KWNeI8)
 - [Coheed and Cambria - Shoulders (OFFICIAL MUSIC VIDEO)](https://www.youtube.com/watch?v=-Tb_v8MFbF8)
@@ -112,6 +112,7 @@ With the second instalment of their <i>Vaxis</i> story arc, emo-prog wizards Coh
 - [Coheed and Cambria - Rise, Naianasha (Cut The Cord) [Official Lyric Video]](https://www.youtube.com/watch?v=2BFqmKtLj1s)
 - [Coheed and Cambria - Window of the Waking Mind (Official Audio)](https://www.youtube.com/watch?v=WscFSf_OjHA)
 - [Coheed and Cambria - The Liars Club (Performance Video)](https://www.youtube.com/watch?v=N-yvF7Lngr8)
+- [Coheed and Cambria - A Disappearing Act (OFFICIAL MUSIC VIDEO)](https://www.youtube.com/watch?v=qmMI6fEpxns)
 
 ## Release Images
 {{< imageGrid >}}

@@ -41,11 +41,14 @@ styles: ["Blues Rock", "Pop Rock"]
 
 
 ## Videos
-### Peter Green's Fleetwood Mac  1968  (Expanded Edition)
-{{< youtube id="mF9wRyQGv1k" title="Peter Green's Fleetwood Mac  1968  (Expanded Edition)" >}}<br>
+### peter green's fleetwood mac - need your love so bad
+{{< youtube id="RtmW2ek7WkQ" title="peter green's fleetwood mac - need your love so bad" >}}<br>
 ### More Videos
 
-- [peter green's fleetwood mac - need your love so bad](https://www.youtube.com/watch?v=RtmW2ek7WkQ)
+- [Peter Green's Fleetwood Mac  1968  (Expanded Edition)](https://www.youtube.com/watch?v=mF9wRyQGv1k)
+- [FLEETWOOD MAC - LP 1968 Full Album](https://www.youtube.com/watch?v=AvG1TxEQlos)
+- [Fleetwood Mac - Shake Your Moneymaker (Audio)](https://www.youtube.com/watch?v=apL8sYeuOks)
+- [Fleetwood Mac (Peter Green) - I love another woman](https://www.youtube.com/watch?v=Rdik8L_Wxx4)
 
 ## Release Images
 {{< imageGrid >}}

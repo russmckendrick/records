@@ -12,7 +12,7 @@ cover:
     alt: "Hammersmith Odeon, London '75 by Bruce Springsteen & The E-Street Band"
     caption: "Hammersmith Odeon, London '75 by Bruce Springsteen & The E-Street Band"
 additional_images:
-    - "https://i.discogs.com/zmvPhdgthH3n3omA1hWq6YyFchrhWExIpc7vxzWdUNo/rs:fit/g:sm/q:90/h:610/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNDk4/Nzc5LTE2MDk0MDE4/NTUtNDg0MC5qcGVn.jpeg"
+    - "https://i.discogs.com/9qCnQSU1GQMgtcMijpi-NAP1WW-KmN0v2Z1jXNDImdw/rs:fit/g:sm/q:90/h:600/w:589/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNDk4/Nzc5LTE2MDk0MDE4/NTUtNDg0MC5qcGVn.jpeg"
     - "https://i.discogs.com/suWDP3GjqandTlPqMcWuU_SwloACaz5SAHxv-KJoWEU/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNDk4/Nzc5LTE1ODkwODk2/NTctMzk1NS5qcGVn.jpeg"
     - "https://i.discogs.com/22fVZkhrRhnTRA701X4ejusu5CzNLXf_wW_ck2PAKsg/rs:fit/g:sm/q:90/h:592/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNDk4/Nzc5LTE2NDQ2MDg2/NzItNDEzNy5qcGVn.jpeg"
     - "https://i.discogs.com/f33R2fFP6QFbzDFbxrpLt1zU_ToMDcDcZLx2orXAEcQ/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNDk4/Nzc5LTE2NDQ2MDg2/NzMtOTYwMi5qcGVn.jpeg"
@@ -24,20 +24,25 @@ additional_images:
     - "https://i.discogs.com/wOKFBVqCDYWjJX0aDyE6nJ2VyamYxkVRt5nFHmT15Ww/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNDk4/Nzc5LTE2NDQ2MDg2/NzQtMTg3NS5qcGVn.jpeg"
     - "https://i.discogs.com/4Ihbqx5Hnu16WpPQP6vmsltL2_KsXQDP-zKMsXjkfds/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNDk4/Nzc5LTE2NDQ2MDg2/NzQtOTM0NS5qcGVn.jpeg"
     - "https://i.discogs.com/UzCbluzGrgGwYO_hW9IFTli-11XsvIOREN7Du5kBcIc/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNDk4/Nzc5LTE2NDQ2MDg2/NzMtODE5NC5qcGVn.jpeg"
-    - "https://i.discogs.com/WlGw6ux9QaC0PAFdfNiOBTB9Yb_3KdK0yejqF7IpFOM/rs:fit/g:sm/q:90/h:605/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNDk4/Nzc5LTE2NDQ2MDg2/NzQtNDg0Ny5qcGVn.jpeg"
+    - "https://i.discogs.com/kfzIVwa5W3vkEMXbhKJTxjT_IvP36LonEj5P4ZoxMfM/rs:fit/g:sm/q:90/h:600/w:594/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNDk4/Nzc5LTE2NDQ2MDg2/NzQtNDg0Ny5qcGVn.jpeg"
     - "https://i.discogs.com/dAeb6rsK8j_zlak9SiZ6nWKGN639iwCS-hhQvaOWqRk/rs:fit/g:sm/q:90/h:594/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNDk4/Nzc5LTE2NDQ2MDg2/NzQtNDcxMS5qcGVn.jpeg"
     - "https://i.discogs.com/auB2abj24PsCkfENqCC_3H3aEOmd7ZQIdc9TY2wISWs/rs:fit/g:sm/q:90/h:591/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNDk4/Nzc5LTE2NDQ2MDg2/NzQtMjE0NC5qcGVn.jpeg"
     - "https://i.discogs.com/RBlYN82MfcB5SWD46gJsH7tcadl3OhvsDG06sP0DB0k/rs:fit/g:sm/q:90/h:594/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNDk4/Nzc5LTE2NDQ2MDg2/NzQtMzc5OC5qcGVn.jpeg"
     - "https://i.discogs.com/G2NHjdGesiz0_uNPo2QRrqlPFn0h07JOUXgFmXkU6o8/rs:fit/g:sm/q:90/h:592/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNDk4/Nzc5LTE2NDQ2MDg2/NzQtOTc0Ni5qcGVn.jpeg"
     - "https://i.discogs.com/E7EOW8bg0dTILQa5aD133RNie23nPNbBcp3gLrO9NQc/rs:fit/g:sm/q:90/h:587/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNDk4/Nzc5LTE2NDQ2MDg2/NzMtNDk1MC5qcGVn.jpeg"
-    - "https://i.discogs.com/8is5YtxV98TsZyc4bk-iY3KyEoXwuipH6std15SNkiI/rs:fit/g:sm/q:90/h:604/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNDk4/Nzc5LTE1ODAwMDIx/MTgtMzA1Ny5qcGVn.jpeg"
+    - "https://i.discogs.com/AvNAX3tIJAPvhX00tUYbktOBZBuyrTluJZGbfAt-KT0/rs:fit/g:sm/q:90/h:600/w:595/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNDk4/Nzc5LTE1ODAwMDIx/MTgtMzA1Ny5qcGVn.jpeg"
     - "https://i.discogs.com/o_-BXilSHvwvZgSRHBkujxgjAQg5wQjPPX7atMW9EMg/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNDk4/Nzc5LTE1ODkwODk2/ODctNjE2NC5qcGVn.jpeg"
     - "https://i.discogs.com/MqM3seAlHuXDKukzqNpBQZkvE5W47jhIcsY4Q6ZNhGI/rs:fit/g:sm/q:90/h:65/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNDk4/Nzc5LTE1ODAwMDIz/NjEtMzcwOS5qcGVn.jpeg"
-    - "https://i.discogs.com/Oyr189zLoLNNqxoJDXhXKoRZrFASSjsz9_f30dlKAyw/rs:fit/g:sm/q:90/h:603/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNDk4/Nzc5LTE2NDQ2MDg2/NzMtNTU5MC5qcGVn.jpeg"
+    - "https://i.discogs.com/KN8FOFSYWBtl6Mvbm6esVThKORxO_vSq_KIElaoQkzk/rs:fit/g:sm/q:90/h:600/w:596/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNDk4/Nzc5LTE2NDQ2MDg2/NzMtNTU5MC5qcGVn.jpeg"
 genres: ["Rock"]
 styles: ["Folk Rock", "Rock & Roll", "Classic Rock"]
 ---
 
+Hammersmith Odeon, London '75 is a concert video and the fourth live album by Bruce Springsteen and the E Street Band, released in 2006. It is a full-length recording of their performance on November 18, 1975, at the Hammersmith Odeon in London, during their Born to Run tours. It was first released as a DVD on November 14, 2005, as part of the Born to Run 30th Anniversary Edition package, and then several months later on February 28, 2006, released as an audio CD. The album was reissued on vinyl for the first time for Record Store Day on April 22, 2017.
+
+
+    
+    
 
 
 ## Tracklisting
@@ -58,9 +63,8 @@ styles: ["Folk Rock", "Rock & Roll", "Classic Rock"]
 15. For You
 16. Quarter To Three
 
-
-## Spotify
-{{< spotify type="album" id="29HIscCMZKDTvGBWOQgbyf" width="100%" height="500" >}}<br>
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/hammersmith-odeon-london-75/400848471" >}}<br>
 
 
 ## Videos
@@ -100,6 +104,7 @@ styles: ["Folk Rock", "Rock & Roll", "Classic Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
+| Wikipedia URL | https://en.wikipedia.org/wiki/Hammersmith_Odeon,_London_%2775 |
 | Format         | Vinyl 4× LP Album Repress |
 | Label          | Columbia |
 | Catalog Number | 88985441551 |

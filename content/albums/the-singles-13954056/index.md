@@ -48,7 +48,7 @@ styles: ["Soft Rock"]
 16. The Bluetones Big Score (3:55)
 
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/the-singles/1443777907" >}}<br>
+{{< applemusic url="https://music.apple.com/gb/album/the-singles/1596119963" >}}<br>
 
 
 ## Videos
@@ -56,8 +56,8 @@ styles: ["Soft Rock"]
 {{< youtube id="pxA_ESHkE4o" title="The Bluetones | The Singles Commercial (2002)" >}}<br>
 ### More Videos
 
-- [The Bluetones - Are You Blue Or Are You Blind? (Official Video) HD](https://www.youtube.com/watch?v=YjNQaEzc1iI)
-- [The Bluetones - Bluetonic (Official Video) HD](https://www.youtube.com/watch?v=1l_xCy86MLI)
+- [The Bluetones - "Are You Blue Or Are You Blind?" (Official Video) HD](https://www.youtube.com/watch?v=YjNQaEzc1iI)
+- [The Bluetones - "Bluetonic" (Official Video) HD](https://www.youtube.com/watch?v=1l_xCy86MLI)
 - [The Bluetones - Slight Return](https://www.youtube.com/watch?v=B-3UpL6MkZ0)
 - [Keep the Home Fires Burning | The Bluetones (2000)](https://www.youtube.com/watch?v=mNRgUARwQe8)
 

@@ -4,7 +4,6 @@ artist_name: "My Bloody Valentine"
 artist: "my-bloody-valentine"
 album_name: "Loveless"
 date: 2021-05-21T05:28:44.000000Z
-release_date: "1991-11-04"
 release_id: "18793696"
 slug: "loveless-18793696"
 hideSummary: true
@@ -13,7 +12,7 @@ cover:
     alt: "Loveless by My Bloody Valentine"
     caption: "Loveless by My Bloody Valentine"
 additional_images:
-    - "https://i.discogs.com/TKVifr22Gisr9AwA5WtzAJ5nvDx7IWYQyRdl_VnJ4FE/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4Nzkz/Njk2LTE2MjE2NDA3/MzItMzAwNS5qcGVn.jpeg"
+    - "https://i.discogs.com/xDOz74D74cZERv9ROZqu5TDVymW7HQXbcrlVNmBqsYI/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4Nzkz/Njk2LTE2MjE2NDA3/MzItMzAwNS5qcGVn.jpeg"
     - "https://i.discogs.com/a8VTv2qCngRcvUpS7Qq2h7G9I7ifEUaUhZnkG4BMonw/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4Nzkz/Njk2LTE2NTYwOTE1/MzYtNDIyNC5qcGVn.jpeg"
     - "https://i.discogs.com/ryhB4lcChPIpIXt1dYXLVI02uHgGozZb19RDPFKhpLM/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4Nzkz/Njk2LTE2NTYwOTE1/MzYtMTU1Ni5qcGVn.jpeg"
     - "https://i.discogs.com/dyCx5RqJsVpO5WLxNxYje-Z6AfshKh-qjEcH6ZFH2I8/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4Nzkz/Njk2LTE2MjE2NDA3/MjgtOTc4MC5qcGVn.jpeg"
@@ -22,18 +21,18 @@ additional_images:
     - "https://i.discogs.com/qyslZ5hd6P_hyhDCYhpHYNwUn1B1UkyOspTHT-LFCig/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4Nzkz/Njk2LTE2NTYwOTE1/MzYtNDQ2MS5qcGVn.jpeg"
     - "https://i.discogs.com/9jR3lX8ftHL3xaXEScC-Z8Oe8nhVZ11OyKGLIX78P2c/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4Nzkz/Njk2LTE2NTYwOTE1/MzYtNTg3Ny5qcGVn.jpeg"
     - "https://i.discogs.com/8XTmKl0pMUH_SdNSQLvEiFdRcqpp3-R4aFlRtJuW7GM/rs:fit/g:sm/q:90/h:532/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4Nzkz/Njk2LTE2MjE1OTQ5/NjEtOTE5OS5qcGVn.jpeg"
-    - "https://i.discogs.com/emtpAL_bNRdHrmvaPgFB5hHN3VZrTefIuaXvp90qscc/rs:fit/g:sm/q:90/h:606/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4Nzkz/Njk2LTE2MjE2NDA3/MzMtMTY2OS5qcGVn.jpeg"
+    - "https://i.discogs.com/vwSMMELpS539MxTIJ8NGqPEqo9MKBvaBxm4_h1mMcOk/rs:fit/g:sm/q:90/h:600/w:593/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4Nzkz/Njk2LTE2MjE2NDA3/MzMtMTY2OS5qcGVn.jpeg"
     - "https://i.discogs.com/DfzNWGu-EUYtgaXLFenm_fzqzWm7VI0Vr7zzGgovw0s/rs:fit/g:sm/q:90/h:587/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4Nzkz/Njk2LTE2MjE2NDA3/MzItNzc0Ni5qcGVn.jpeg"
 genres: ["Rock"]
-styles: ["Shoegaze", "Alternative Rock"]
+styles: ["Shoegaze", "Alternative Rock", "Noise Rock"]
 ---
 
-Much has been written over the years about the arduous, painstaking creation of my bloody valentine’s 1991 masterpiece. <i>Loveless</i> took over two years to record, with the band visiting over 20 different recording studios in that time. It was an intensely stressful period where frontman Kevin Shields was determined not to compromise an inch of his artistic vision. “The stress was more because of circumstances,” Shields tells Apple Music. “There were chaotic times with no money. There should have been money around, but the direction we went in meant there was no money around.” After the first three months of working on their second album, Shields knew exactly what it should be and developed what he calls a “hardcore attitude” of not letting anything get in the way of that. “If we had any studio problems, I would just stop,” he recalls. “Turn the switch off and go, ‘Robot doesn’t work now,’ and basically not function.”<br />
-Despite all the external pressures, Shields was able to protect the thing that mattered most to him: the music. “The actual record that you hear, everything was recorded in a really good, non-stressful atmosphere,” he says. “It was done in a positive, happy environment. It just meant all the stressful bits were downtime.”<br />
-An intoxicating, hypnotic listen, it’s propelled by opener “Only Shallow”, a rush of heavy guitar strums, stomping drums and dreamy vocals. “It’s basically a bunch of ’60s guitar equipment but then sampling it and playing it over itself a few times,” says Shields. Although the production techniques here were pioneering and complex, Shields’ approach to the songs was all about directness. The mesmerising sway of “Sometimes” sums it up perfectly. “The basic idea for that was brief and quite simple, complicated in some weird ways. I wanted it to be this vocal thing and I imagined this musical thing happening at the end, very straight and simple.”<br />
-<i>Loveless</i> is rock music as soundscapes that seem to shape-shift right in front of you, purposely designed so that each listen is different. “It was mixed in a certain way so your mind can easily focus on differences,” Shields says. “There’s nothing obvious to focus on. So, because of that, it depends what mood you’re in or how loud you’re hearing it.” It means that <i>Loveless</i>’ creator gets to experience it as anyone else would. “It happens to me as much as anybody else, even though I know exactly what’s happening.”
-        
-        
+Loveless (stylized in lowercase) is the second studio album by the Irish-English rock band My Bloody Valentine. It was released on 4 November 1991 in the United Kingdom by Creation Records and in the United States by Sire Records. The album was recorded between February 1989 and September 1991, with vocalist and guitarist Kevin Shields leading sessions and experimenting with guitar vibrato, non standard tunings, digital sampling, and meticulous production methods. The band recorded at nineteen different studios and hired several engineers during the album's prolonged recording, with its final production cost rumoured to have reached £250,000 (equivalent to £560,000 in 2024).
+Preceded by the EPs Glider (1990) and Tremolo (1991), Loveless reached number 24 on the UK Albums Chart and was widely praised by critics for its sonic innovations and Shields' "virtual reinvention of the guitar". However, after its release, Creation owner Alan McGee dropped the band from the label as he found Shields too difficult to work with, a factor alleged to have contributed to the label's eventual bankruptcy. My Bloody Valentine struggled to record a follow-up to the album and broke up in 1997, making Loveless their last full-length release until their eventual reunited effort m b v in 2013.
+Since its release, Loveless has been widely cited by critics as one of the greatest albums of all time, a landmark work of the shoegaze subgenre, and as a significant influence on various subsequent artists. In 2012, it was reissued as a two-CD set, including remastered tracks and a previously unreleased half-inch analogue tape version, and peaked on several international charts. In 2013, Loveless was certified silver by the British Phonographic Industry (BPI).
+
+
+    
     
 
 
@@ -51,16 +50,21 @@ An intoxicating, hypnotic listen, it’s propelled by opener “Only Shallow”,
 11. Soon
 
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/loveless/1556921230" >}}<br>
+{{< applemusic url="https://music.apple.com/gb/album/bloody-valentine-single/1509541650" >}}<br>
 
 
 ## Videos
-### [Full Album] M̲y b̲l̲ood̲y v̲a̲lenti̲ne - l̲o̲vel̲e̲ss
-{{< youtube id="jWJoMLJoZRQ" title="[Full Album] M̲y b̲l̲ood̲y v̲a̲lenti̲ne - l̲o̲vel̲e̲ss" >}}<br>
+### My Bloody Valentine - Only Shallow (Official Music Video)
+{{< youtube id="FyYMzEplnfU" title="My Bloody Valentine - Only Shallow (Official Music Video)" >}}<br>
 ### More Videos
 
-- [When You Sleep](https://www.youtube.com/watch?v=I-Ig71fhUc8)
-- [Sometimes](https://www.youtube.com/watch?v=fH0NQzXlzyQ)
+- [My Bloody Valentine - To Here Knows When (Official Music Video)](https://www.youtube.com/watch?v=xdHS1sbV5xw)
+- [My Bloody Valentine - Soon (Official Music Video)](https://www.youtube.com/watch?v=ft56il9bGMk)
+- [when you sleep](https://www.youtube.com/watch?v=hcOhXThqh_0)
+- [sometimes](https://www.youtube.com/watch?v=hSI_9P9rRt4)
+- [My Bloody Valentine - lo̲ve̲l̲es̲s (Full Album)](https://www.youtube.com/watch?v=bRtGBlOVLCk)
+- [my bloody valentine - when you sleep](https://www.youtube.com/watch?v=BJLcbj80Ka8)
+- [The story of Loveless by My Bloody Valentine](https://www.youtube.com/watch?v=PKJVG9u3ZLI)
 
 ## Release Images
 {{< imageGrid >}}

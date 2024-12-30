@@ -22,6 +22,8 @@ styles: ["Instrumental"]
 ---
 
 The In Sound from Way Out! is an instrumental compilation by the Beastie Boys, released in 1996. The title and cover art concept were borrowed from the Perrey and Kingsley album of the same name.
+
+
     
     
 
@@ -42,25 +44,14 @@ The In Sound from Way Out! is an instrumental compilation by the Beastie Boys, r
 13. Sabrosa
 14. Drinkin' Wine
 
-
-## Spotify
-{{< spotify type="album" id="0nA01XOVBUoi1zDVVYKz4i" width="100%" height="500" >}}<br>
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/the-in-sound-from-way-out/712013935" >}}<br>
 
 
 ## Videos
-### Beastie Boys - 2 Sabrosa
-{{< youtube id="k_UfHToc50E" title="Beastie Boys - 2 Sabrosa" >}}<br>
-### More Videos
+### BEASTIE BOYS - THE IN SOUND FROM WAY OUT / INTRUMENTAL MUSIC COMPOSED PERFORMED  , FULL ALBUM
+{{< youtube id="BMBafmZF9wM" title="BEASTIE BOYS - THE IN SOUND FROM WAY OUT / INTRUMENTAL MUSIC COMPOSED PERFORMED  , FULL ALBUM" >}}<br>
 
-- [Beastie Boys - 7 Eugene's Lament](https://www.youtube.com/watch?v=IITuTnKD8po)
-- [Son Of Neckbone](https://www.youtube.com/watch?v=3RvhVXb_1z8)
-- [Beastie Boys - 9 Shambala](https://www.youtube.com/watch?v=I5rUen5H_7Q)
-- [Groove Holmes](https://www.youtube.com/watch?v=kfwZH9qQJfg)
-- [Beastie Boys - In 3´s (The In Sound From Way Out)](https://www.youtube.com/watch?v=Uhx3oulxcj4)
-- [Beastie Boys - Lighten Up - The In Sound From Way Out!](https://www.youtube.com/watch?v=M_a_jZYofwE)
-- [beastie boys - Groove Holmes - The In Sound From Way Out!](https://www.youtube.com/watch?v=slb3pqRHmPs)
-- [beastie boys - Lighten Up - The In Sound From Way Out!](https://www.youtube.com/watch?v=7pONzCsX_kM)
-- [beastie boys - Transitions - The In Sound From Way Out!](https://www.youtube.com/watch?v=P_u-N4E-JkU)
 
 ## Release Images
 {{< imageGrid >}}

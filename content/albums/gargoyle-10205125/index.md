@@ -13,15 +13,13 @@ cover:
     alt: "Gargoyle by Mark Lanegan Band"
     caption: "Gargoyle by Mark Lanegan Band"
 additional_images:
-    - "https://i.discogs.com/u4KLlJ7XAldvEvyKI_r8ouhL2KBVr3BiwLGVHFbTSxo/rs:fit/g:sm/q:90/h:609/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMjA1/MTI1LTE0OTMzOTY4/NjAtNzkzNS5qcGVn.jpeg"
+    - "https://i.discogs.com/fgiAfBZfBCxQ5cDvAiWBYy9IUyx1l4B4kBP6B7Ac3Do/rs:fit/g:sm/q:90/h:600/w:590/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMjA1/MTI1LTE0OTMzOTY4/NjAtNzkzNS5qcGVn.jpeg"
     - "https://i.discogs.com/u6zLpd0yO0K-Clnb5ez3v0kboXLULRTmwFGKOGmOUVk/rs:fit/g:sm/q:90/h:587/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMjA1/MTI1LTE0OTMzOTY4/NjctOTI3Mi5qcGVn.jpeg"
-    - "https://i.discogs.com/kgKfe4vthE2YN3Za2rM_3znLWDveAm4BK23IXQNrAEM/rs:fit/g:sm/q:90/h:631/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMjA1/MTI1LTE0OTMzOTY4/NjktNzUzNy5qcGVn.jpeg"
+    - "https://i.discogs.com/i9nJDTDkh1ahFUXppMSA1zI-5VcvoVWW9vvxHxtCFuE/rs:fit/g:sm/q:90/h:600/w:570/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMjA1/MTI1LTE0OTMzOTY4/NjktNzUzNy5qcGVn.jpeg"
     - "https://i.discogs.com/4raYBamFzWf_nD2036XpAE5siJ-O-ETcRDMEtk85Juc/rs:fit/g:sm/q:90/h:585/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMjA1/MTI1LTE0OTMzOTY4/NTgtNTA2MC5qcGVn.jpeg"
-    - "https://i.discogs.com/rjqU5OfEmR5D_V-5cMQ_4r2SFBhccFn4fIsM1wFKLTI/rs:fit/g:sm/q:90/h:534/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMjA1/MTI1LTE0OTMzOTY5/MjAtNDIwOS5qcGVn.jpeg"
-    - "https://i.discogs.com/RZAp3DaQmwtYyunMx-A29-IUCk8_xDyHWAxVWWgZDRQ/rs:fit/g:sm/q:90/h:521/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMjA1/MTI1LTE0OTMzOTY5/MjEtNTM1Ni5qcGVn.jpeg"
     - "https://i.discogs.com/uDkP4A8CnY7__6XYo6VcnNUuYR1tSE93SHfwhQTs_rc/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMjA1/MTI1LTE0OTQ2OTYy/OTUtMzA2NC5qcGVn.jpeg"
     - "https://i.discogs.com/zHt24GnhYgEyQr6_4PiCBY-W-jw4_CEnkec8N3rAvwA/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMjA1/MTI1LTE0OTQ2OTYy/OTUtNDE0OS5qcGVn.jpeg"
-    - "https://i.discogs.com/vtdHgk6R-uAH-ukrmirJBJEGXIkDY6uEexKlfUnva1k/rs:fit/g:sm/q:90/h:1453/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMjA1/MTI1LTE0OTM1NDIy/ODYtNzcxOC5qcGVn.jpeg"
+    - "https://i.discogs.com/B6R8P3maPtXAxLiLodoWpStWDt92npdyVq24Cp-BA0c/rs:fit/g:sm/q:90/h:600/w:247/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMjA1/MTI1LTE0OTM1NDIy/ODYtNzcxOC5qcGVn.jpeg"
     - "https://i.discogs.com/Xfbbf5kFvpOoICnwpaLIER0xOn7ArGMY9EdS6dyzSjc/rs:fit/g:sm/q:90/h:555/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMjA1/MTI1LTE0OTQ2OTYy/OTQtODY3OC5qcGVn.jpeg"
     - "https://i.discogs.com/1st7Z1SCiVFvMQsqC7-C2G_tMT41XIFMxI7qCfBX6Z0/rs:fit/g:sm/q:90/h:384/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMjA1/MTI1LTE0OTQ2OTg0/MDMtOTAyMS5qcGVn.jpeg"
     - "https://i.discogs.com/a9mt68ilM36dZdm6kBH8q0MX2ltGy8AUynVigFONzMo/rs:fit/g:sm/q:90/h:385/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMjA1/MTI1LTE0OTQ2OTg0/MDMtMjAxOS5qcGVn.jpeg"
@@ -29,8 +27,9 @@ genres: ["Rock", "Blues"]
 styles: ["Alternative Rock", "Indie Rock", "Blues Rock"]
 ---
 
-Mark Lanegan’s poet-of-the-underworld persona has proved remarkably flexible over the past 20 years. His fourth album with Mark Lanegan Band falls in line with 2014’s <i>Phantom Radio</i>, mixing the grit of blues and murder ballads with gothy electronic atmospheres. As always, the center of these songs is Lanegan’s voice, a husky instrument as threatening as it is seductive, be it on the brooding ‘60s shuffle of “Emperor” or the soaring “Nocturne,” which plays devil to U2’s angels.
-    
+In architecture, and specifically Gothic architecture, a gargoyle () is a carved or formed grotesque: 6–8  with a spout designed to convey water from a roof and away from the side of a building, thereby preventing it from running down masonry walls and eroding the mortar between. Architects often used multiple gargoyles on a building to divide the flow of rainwater off the roof to minimize potential damage from rainstorms. A trough is cut in the back of the gargoyle and rainwater typically exits through the open mouth. Gargoyles are usually elongated fantastical animals because their length determines how far water is directed from the wall. When Gothic flying buttresses were used, aqueducts were sometimes cut into the buttress to divert water over the aisle walls.
+        
+        
     
 
 
@@ -63,6 +62,15 @@ Mark Lanegan’s poet-of-the-underworld persona has proved remarkably flexible o
 - [Mark Lanegan - Drunk to Destruction](https://www.youtube.com/watch?v=Xqqhtr5_9a4)
 - [Mark Lanegan Band - First Day Of Winter](https://www.youtube.com/watch?v=24Mh47Rby-U)
 - [Mark Lanegan Band - Old Swan  (Gargoyle 2017)](https://www.youtube.com/watch?v=yUezUNkbAc8)
+- [Mark Lanegan - Death's Head Tattoo](https://www.youtube.com/watch?v=WlRo0LLIHOU)
+- [Mark Lanegan Band - Nocturne  (Gargoyle 2017)](https://www.youtube.com/watch?v=xTOejKoNPtg)
+- [Mark Lanegan - Blue Blue Sea](https://www.youtube.com/watch?v=jNc6t2QAQto)
+- [Mark Lanegan - Sister](https://www.youtube.com/watch?v=EJWA0ZVa_aE)
+- [Mark Lanegan Band - Emperor](https://www.youtube.com/watch?v=7QAEdZ3Af1A)
+- [Mark Lanegan Band - Goodbye To Beauty](https://www.youtube.com/watch?v=O1mgvLWOKQk)
+- [Mark Lanegan - Drunk to Destruction](https://www.youtube.com/watch?v=Xqqhtr5_9a4)
+- [Mark Lanegan Band - First Day Of Winter](https://www.youtube.com/watch?v=24Mh47Rby-U)
+- [Mark Lanegan Band - Old Swan  (Gargoyle 2017)](https://www.youtube.com/watch?v=yUezUNkbAc8)
 
 ## Release Images
 {{< imageGrid >}}
@@ -70,6 +78,7 @@ Mark Lanegan’s poet-of-the-underworld persona has proved remarkably flexible o
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
+| Wikipedia URL | https://en.wikipedia.org/wiki/Gargoyle |
 | Format         | Vinyl LP Album |
 | Label          | Heavenly |
 | Catalog Number | HVNLP137 |

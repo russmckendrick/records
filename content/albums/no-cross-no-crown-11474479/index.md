@@ -18,16 +18,21 @@ additional_images:
     - "https://i.discogs.com/GM5r42pGYx0fT5Mqz2bOfhAhSy0STisDhhL2bzPJmiU/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNDc0/NDc5LTE1ODk1Mzg1/NDQtNTI2Ny5wbmc.jpeg"
     - "https://i.discogs.com/b5mJ9_LZfAN1FebiL11WmDNChfMbBwqq4YQP3eA-1no/rs:fit/g:sm/q:90/h:577/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNDc0/NDc5LTE1ODk1Mzg1/NDQtNDYzOS5wbmc.jpeg"
     - "https://i.discogs.com/2mCo3lIJnehrOSi0ZvnPsChOE3HT1ytuc5za_98VeD8/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNDc0/NDc5LTE1ODk1Mzg1/NDMtMTcxMC5wbmc.jpeg"
-    - "https://i.discogs.com/DsgRdi4BeHChW99mwkosvOhUxAjnSAZCzoRvt9rAWFI/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNDc0/NDc5LTE1ODk1Mzg1/NDQtODM5MS5wbmc.jpeg"
+    - "https://i.discogs.com/RgXKRUR-ZP4YRr9u1v3x32Hdc8vT1RKbDV3MtEJ0YT8/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNDc0/NDc5LTE1ODk1Mzg1/NDQtODM5MS5wbmc.jpeg"
     - "https://i.discogs.com/xYY_rushjONT75cjRs53NKbRA2DfPSE_CwaWobH7fos/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNDc0/NDc5LTE1ODk1Mzg1/NzItNjE1OC5wbmc.jpeg"
     - "https://i.discogs.com/nFr44V5MA6VrOljTWEzi3dCyG-OBQ3VnO80ViCgRmec/rs:fit/g:sm/q:90/h:589/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNDc0/NDc5LTE1ODk1Mzg1/NzQtMjE1OS5wbmc.jpeg"
     - "https://i.discogs.com/dWbNmoN5cEH3cU-_Cd1KMVfQmSt7FKMGGtLA4qSGVYU/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNDc0/NDc5LTE1ODk1Mzg1/NzUtMjczMC5wbmc.jpeg"
     - "https://i.discogs.com/hnD8RfcNTZx6BJUlSJSxycw3yMhDhUFHryk2zQmyi7Y/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNDc0/NDc5LTE1ODk1Mzg1/NzUtNTg3My5wbmc.jpeg"
-    - "https://i.discogs.com/ci7Nwk-aSU0RbLtsIgZnCZfHvJ0VZYXgLUPlnHsGAk8/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNDc0/NDc5LTE1ODk1Mzg1/NzQtNDc5Ni5wbmc.jpeg"
+    - "https://i.discogs.com/iDwcTnDkc5I8OR30e8BlIKHrpfQKVLY013lCmzrL838/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNDc0/NDc5LTE1ODk1Mzg1/NzQtNDc5Ni5wbmc.jpeg"
 genres: ["Rock"]
 styles: ["Stoner Rock", "Heavy Metal"]
 ---
 
+No Cross No Crown is the tenth studio album by American heavy metal band Corrosion of Conformity, released on January 12, 2018 by Nuclear Blast. This is the only album to feature the "classic" lineup of Woody Weatherman, Mike Dean, Reed Mullin and Pepper Keenan since America's Volume Dealer (2000). It is also the last album to feature Mullin, who died in early 2020, and the last to feature founding bassist Mike Dean, who exited the band in 2024.
+
+
+    
+    
 
 
 ## Tracklisting
@@ -66,6 +71,7 @@ styles: ["Stoner Rock", "Heavy Metal"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
+| Wikipedia URL | https://en.wikipedia.org/wiki/No_Cross_No_Crown_(album) |
 | Format         | Vinyl 2× LP Album |
 | Label          | Nuclear Blast Entertainment |
 | Catalog Number | NE 4243-1 |

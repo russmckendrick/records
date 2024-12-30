@@ -24,12 +24,12 @@ additional_images:
     - "https://i.discogs.com/bjrd_VAbpdM4awWRb1onlZT-OyJ4eGOmqeotgp2gVGc/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyMjE1/NjUzLTE3MzA5Mjcy/MjItNjI1Ny5qcGVn.jpeg"
     - "https://i.discogs.com/Os7gsSeLa2hxzZWoSOfeMoyqjGufJsdE53P9_q4ENcA/rs:fit/g:sm/q:90/h:550/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyMjE1/NjUzLTE3MzA5Mjcy/MjUtOTM2Ni5qcGVn.jpeg"
     - "https://i.discogs.com/QY-_TG-j9FCP23KwAhYm_LwgcukFMEF6YeK3qoRF0gk/rs:fit/g:sm/q:90/h:511/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyMjE1/NjUzLTE3MzA5Mjcy/MzctOTk2OS5qcGVn.jpeg"
-genres: ["Rock"]
-styles: ["Britpop", "Indie Rock"]
+genres: ["Electronic", "Rock"]
+styles: ["Indie Rock", "Alternative Rock"]
 ---
 
 Up to Our Hips is the third studio album by British rock band the Charlatans, released on 21 March 1994 through Beggars Banquet Records. They released their second studio album Between 10th and 11th in early 1992; by the year's end, they were working on material for its follow-up. Keyboardist Rob Collins was arrested for participating in an attempted armed robbery. After being bailed out, the band continued writing, splitting into pairs or working alone on songs.
-Steve Hillage was drafted in to produce their next album at Monnow Valley Studio in Monmouth. During the sessions, Collins went to trial before being subsequently imprisoned in September 1993. The band finished recording sometime after, with overdubs at The Mill in Cookham, Berkshire. Up to Our Hips has retroactively been referred to as Britpop; Collins' bout in prison acted as lyric inspiration for frontman Tim Burgess, alongside Their Satanic Majesties Request (1967) by the Rolling Stones.
+Steve Hillage was drafted in to produce their next album at Monnow Valley Studio in Monmouth. During the sessions, Collins went to trial before being subsequently imprisoned in September 1993. The band finished recording sometime after, with overdubs at The Mill in Cookham, Berkshire. Up to Our Hips is a funk rock album that has retroactively been referred to as Britpop; Collins' bout in prison acted as lyric inspiration for frontman Tim Burgess, alongside Their Satanic Majesties Request (1967) by the Rolling Stones.
 "Can't Get Out of Bed" was released as the album's lead single in January 1994; the band promoted it with an appearance on Top of the Pops, the same day that Collins was released from prison. It was followed by a tour of mainland Europe and the second single, "I Never Want an Easy Life If Me and He Were Ever to Get There", in March 1994. The band went on a tour of the United States, which ended early when Collins grew tired of touring. "Jesus Hairdo" was released as the album's third single in June 1994.
 Up to Our Hips received mixed reviews from music critics, some complaining about the album's sound while others found it to be an underrated release. It peaked at number eight in the UK and number ten in Scotland. "Can't Get Out of Bed" and "I Never Want an Easy Life If Me and He Were Ever to Get There" reached the top 40 in the UK, while "Jesus Hairdo" sat outside this range. "I Never Want an Easy Life If Me and He Were Ever to Get There" and "Jesus Hairdo" fared better in Scotland, with the former reaching the top 30 in that territory.
 
@@ -52,13 +52,13 @@ Up to Our Hips received mixed reviews from music critics, some complaining about
 11. Subterranean
 12. Full Of Culture
 13. Out
-14. Up To Our Hips [Recorded Live For The Steve Lamaq And Jo Wiley Show]
-15. Stir It Up [Altermate Instrumental Mix]
+14. Up To Our Hips (Recorded Live For The Steve Lamaq And Jo Wiley Show)
+15. Stir It Up (Altermate Instrumental Mix)
 16. Withdrawn
-17. Feel Flows [Alternate Mix]
+17. Feel Flows (Alternate Mix)
 18. You & Everybody
 19. Dont' Let It Stand Aka Can't Get Out Of Bed
-20. Another Rider Up In Flames [Recorded Live For The Steve Lamaq And Jo Wiley Show]
+20. Another Rider Up In Flames (Recorded Live For The Steve Lamaq And Jo Wiley Show)
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/up-to-our-hips/1027456677" >}}<br>

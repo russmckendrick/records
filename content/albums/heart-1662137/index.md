@@ -12,13 +12,17 @@ cover:
     alt: "Heart by Heart"
     caption: "Heart by Heart"
 additional_images:
-    - "https://i.discogs.com/QgXYwMZESb2L41UMT-1WU258sIMQq3iBv5k1Ko2_1E8/rs:fit/g:sm/q:90/h:602/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2NjIx/MzctMTQ3OTU5NTc2/MC01NTkzLmpwZWc.jpeg"
+    - "https://i.discogs.com/-BYfR7M7zVyzbcfW4CVOxTXhbe6I2MvEBCWEAxAmjNI/rs:fit/g:sm/q:90/h:600/w:597/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2NjIx/MzctMTQ3OTU5NTc2/MC01NTkzLmpwZWc.jpeg"
     - "https://i.discogs.com/Ci7F-4LXL2fcJIvaTmRrCwMuQiEXfZb27u_Dx8JP7AE/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2NjIx/MzctMTQ3OTU5NTQ3/Mi00NDg5LmpwZWc.jpeg"
     - "https://i.discogs.com/iKDy25mBd-5nt4j76Rkxwbj05uaxELDwEj_AB3ry69I/rs:fit/g:sm/q:90/h:592/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2NjIx/MzctMTQ3OTU5NTQ2/MS00Mjg2LmpwZWc.jpeg"
-    - "https://i.discogs.com/kAefAdlAImor53IERnGsXFU_-u0T4KMrZGKoXI6J0BA/rs:fit/g:sm/q:90/h:612/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2NjIx/MzctMTQ3OTU5NTM3/MS04Mzg4LmpwZWc.jpeg"
+    - "https://i.discogs.com/P2CsT1gVByhxmZOZgUpB7Z33LtheRXu7myT5y05cVZU/rs:fit/g:sm/q:90/h:600/w:587/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2NjIx/MzctMTQ3OTU5NTM3/MS04Mzg4LmpwZWc.jpeg"
 genres: ["Rock"]
 styles: []
 ---
+
+Heart is the eighth studio album by American rock band Heart, released on June 21, 1985, by Capitol Records. The album continued the band's transition into mainstream rock, a genre that yielded the band its greatest commercial success. Marking the band's Capitol Records debut, it became Heart's only album to top the US Billboard 200 to date. The album was eventually certified quintuple platinum by the Recording Industry Association of America (RIAA)—in contrast to Heart's previous two releases, Private Audition and Passionworks, which were uncertified.
+The album yielded the band's first number-one single, "These Dreams", along with four other singles: "What About Love", "Never", "Nothin' at All", and "If Looks Could Kill", with the first four singles reaching the top 10 of the Billboard Hot 100. At the 28th Annual Grammy Awards, the album was nominated for a Grammy Award for Best Rock Performance by a Duo or Group with Vocal.
+In a 2022 interview, Ann Wilson stated that the album was self-titled because the band "didn’t write a whole lot of the songs on there, so that aspect of closeness with the work was gone and it was much harder for us to come up with a title that was real."
 
 
     
@@ -38,18 +42,21 @@ styles: []
 10. Rock And Roll
 
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/greatest-hits-live/192690716" >}}<br>
+{{< applemusic url="https://music.apple.com/gb/album/heart-to-heart-single/1517997811" >}}<br>
 
 
 ## Videos
-### Barracuda
-{{< youtube id="p6v6wWmEYvY" title="Barracuda" >}}<br>
+### Heart - Even It Up
+{{< youtube id="XLhxF-Un39k" title="Heart - Even It Up" >}}<br>
 ### More Videos
 
-- [Rock and Roll (Live)](https://www.youtube.com/watch?v=U3ozO5pMu6c)
-- [Heart - Even It Up](https://www.youtube.com/watch?v=XLhxF-Un39k)
-- [Heart - Tell It Like It Is - Billboard Top 100 of 1981](https://www.youtube.com/watch?v=X9cDj_OVYLc)
 - [I'm Down / Long Tall Sally - Heart](https://www.youtube.com/watch?v=SCTHtO-EZK0)
+- [Heart - Tell It Like It Is - Billboard Top 100 of 1981](https://www.youtube.com/watch?v=X9cDj_OVYLc)
+- [Heart - Even It Up](https://www.youtube.com/watch?v=XLhxF-Un39k)
+- [I'm Down / Long Tall Sally - Heart](https://www.youtube.com/watch?v=SCTHtO-EZK0)
+- [Heart - Tell It Like It Is - Billboard Top 100 of 1981](https://www.youtube.com/watch?v=X9cDj_OVYLc)
+- [Rock and Roll (Live)](https://www.youtube.com/watch?v=U3ozO5pMu6c)
+- [Straight On](https://www.youtube.com/watch?v=wbDLnhcR7Ng)
 
 ## Release Images
 {{< imageGrid >}}
@@ -57,6 +64,7 @@ styles: []
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
+| Wikipedia URL | https://en.wikipedia.org/wiki/Heart_(Heart_album) |
 | Format         | Vinyl LP Album |
 | Label          | Epic |
 | Catalog Number | EPC 84829 |

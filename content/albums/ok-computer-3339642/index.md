@@ -16,9 +16,9 @@ additional_images:
     - "https://i.discogs.com/PPY-uK4OR568QDB6WMWdGo8oy6DxY1cyfmexnIOvhZI/rs:fit/g:sm/q:90/h:500/w:500/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzMzk2/NDItMTM5NjYzNjAw/Ni04NDc3LmpwZWc.jpeg"
     - "https://i.discogs.com/jZrDnG6pw1iTDm58c6VYU7OgMidAunSt1pH0Rz5ecCU/rs:fit/g:sm/q:90/h:500/w:471/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzMzk2/NDItMTM5NjYzNjAw/Ni0yMTE2LmpwZWc.jpeg"
     - "https://i.discogs.com/9TYbsTjZhqMhyeUJPxeEWqV8AmRhyEXvlEvkMsD8FVg/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzMzk2/NDItMTQzMDY1NDU2/OS0zMzc4LmpwZWc.jpeg"
-    - "https://i.discogs.com/v321rWs9sfWGSjm4OG7_w9gi7JX4H_wfeK-kHwhgK-k/rs:fit/g:sm/q:90/h:800/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzMzk2/NDItMTYxMzMwODU3/OS02MzcxLmpwZWc.jpeg"
-    - "https://i.discogs.com/0AdopBwK4XOQj5wqNt0Zy2KjDVyZstaGD36i4FlUIZw/rs:fit/g:sm/q:90/h:800/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzMzk2/NDItMTYxMzMwODYz/NC00Nzc2LmpwZWc.jpeg"
-    - "https://i.discogs.com/rL6PgUpvu-7qE8AdaCTQ9TG6dpziQcohdzAlmSCDOOM/rs:fit/g:sm/q:90/h:800/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzMzk2/NDItMTYxMzMwODY1/NC0yNjI5LmpwZWc.jpeg"
+    - "https://i.discogs.com/rO-KOJtBc3I3Ove-mYSdrDnKex502kJYglwXMwhiTuk/rs:fit/g:sm/q:90/h:600/w:450/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzMzk2/NDItMTYxMzMwODU3/OS02MzcxLmpwZWc.jpeg"
+    - "https://i.discogs.com/TONkDjxy6L-N-k1QBHGkX1xudfEjQtf1K4r1x9_8mls/rs:fit/g:sm/q:90/h:600/w:450/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzMzk2/NDItMTYxMzMwODYz/NC00Nzc2LmpwZWc.jpeg"
+    - "https://i.discogs.com/-g9K342_R6qqK6BOg-ULWyn4mTN09hWtJQp8P9YNNk8/rs:fit/g:sm/q:90/h:600/w:450/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzMzk2/NDItMTYxMzMwODY1/NC0yNjI5LmpwZWc.jpeg"
     - "https://i.discogs.com/syfFlnGFC_QqN_zUUN-g1eqY7zRWb44Rt2Rx4hTS0ic/rs:fit/g:sm/q:90/h:585/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzMzk2/NDItMTU3MzgzMTUy/NC02MzI2LmpwZWc.jpeg"
     - "https://i.discogs.com/y-FMjbKMgwpoBxmvwQ_ZYVthat0O5WJNVUL2D_rp9A4/rs:fit/g:sm/q:90/h:585/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzMzk2/NDItMTU3MzgzMTUy/NC01NTU0LmpwZWc.jpeg"
     - "https://i.discogs.com/QASjFct7FN-Z5Jahu1NxqUJHm6BUw2h_YS0j1xNq7KM/rs:fit/g:sm/q:90/h:587/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzMzk2/NDItMTU3MzgzMTUy/NC0zMDc2LmpwZWc.jpeg"
@@ -26,18 +26,19 @@ additional_images:
     - "https://i.discogs.com/CcOVJXul1LsLKvSH0RtJ94BsXd2J9otmrk_i5LTNr3c/rs:fit/g:sm/q:90/h:589/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzMzk2/NDItMTU3MzgzMTUy/NC0yMzIxLmpwZWc.jpeg"
     - "https://i.discogs.com/1iNu2F59KS6JYv_gEeceSW5fSdZWLy8SP-bgO8ycOTA/rs:fit/g:sm/q:90/h:592/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzMzk2/NDItMTU3MzgzMTUy/NC00ODAzLmpwZWc.jpeg"
     - "https://i.discogs.com/m4-9ogP_5-Mwc5IAhYssJkgETm63Dldni7OX-OU0yFY/rs:fit/g:sm/q:90/h:450/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzMzk2/NDItMTYzODg2ODM2/OC05OTI4LmpwZWc.jpeg"
-    - "https://i.discogs.com/s0XFR0XIhDjx-EGUrszEPfGXROLZ57-PMDs-EdR7yPI/rs:fit/g:sm/q:90/h:800/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzMzk2/NDItMTYzODg2ODQ5/NC05NTczLmpwZWc.jpeg"
-    - "https://i.discogs.com/gdUROZbzrr6y0QctKP-VgURpRZn0eta1-vx7dkArQw8/rs:fit/g:sm/q:90/h:800/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzMzk2/NDItMTYzODg2ODUw/MS05NTI5LmpwZWc.jpeg"
+    - "https://i.discogs.com/DmFviSa3a5TUjUNGPYDS0Cm5ksgvtGZYySFE2fyTJXQ/rs:fit/g:sm/q:90/h:600/w:450/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzMzk2/NDItMTYzODg2ODQ5/NC05NTczLmpwZWc.jpeg"
+    - "https://i.discogs.com/V_rOWZgHz2YD7P-z_3m4nvoGD8Rgl6iiVUAgz2TpIOM/rs:fit/g:sm/q:90/h:600/w:450/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzMzk2/NDItMTYzODg2ODUw/MS05NTI5LmpwZWc.jpeg"
 genres: ["Electronic", "Rock"]
 styles: ["Alternative Rock"]
 ---
 
-OK Computer is the third studio album by the English rock band Radiohead, released in the UK on 16 June 1997 by EMI. With their producer, Nigel Godrich, Radiohead recorded most of OK Computer  in their rehearsal space in Oxfordshire and the historic mansion of St Catherine's Court in Bath in 1996 and early 1997. They distanced themselves from the guitar-centred, lyrically introspective style of their previous album, The Bends. OK Computer's abstract lyrics, densely layered sound and eclectic influences laid the groundwork for Radiohead's later, more experimental work.
-The album's lyrics depict a world fraught with rampant consumerism, social alienation, emotional isolation and political malaise; in this capacity, OK Computer has been said to have prescient insight into the mood of 21st-century life. The band used unconventional production techniques, including natural reverberation through recording on a staircase, and no audio separation. Strings were recorded at Abbey Road Studios in London. Most of the album was recorded live.
-Despite lowered sales estimates by EMI, who deemed the record uncommercial and difficult to market, OK Computer reached number one on the UK Albums Chart and debuted at number 21 on the Billboard 200, Radiohead's highest album entry on the US charts at the time, and was soon certified five times platinum in the UK and double platinum in the US. "Paranoid Android", "Karma Police", "Lucky" and "No Surprises" were released as singles. The album expanded Radiohead's international popularity and has sold at least 7.8 million units worldwide.
-OK Computer received acclaim and has been cited as one of the greatest albums of all time. It was nominated for the Album of the Year and won Best Alternative Music Album at the 1998 Grammy Awards. It was also nominated for Best British Album at the 1998 Brit Awards. The album initiated a stylistic shift in British rock away from Britpop toward melancholic, atmospheric alternative rock that became more prevalent in the next decade. In 2014, it was included by the United States Library of Congress in the National Recording Registry as "culturally, historically, or aesthetically significant". A remastered version with additional tracks, OKNOTOK 1997 2017, was released in 2017, marking the album's twentieth anniversary. In 2019, in response to an internet leak, Radiohead released MiniDiscs [Hacked], comprising hours of additional material.
+<b>100 Best Albums</b> Few albums so audacious, innovative and anxious have ever captured the popular imagination like <i>OK Computer</i>, the 1997 Radiohead triumph that not only announced a new frontier of rock exploration, but also articulated budding pre-millennial interest in—and concern over—our technological toys. Here are a dozen songs of terror and oblivion, their singer so alienated by the society spinning around him that he pines to be abducted by aliens so that he may witness “the world as I’d love to see it.” There are car crashes and stolen thoughts, clouds of death and spectres of persecution, malevolent robots and a Macintosh LC II that deadpans the new rules for living. It remains a deeply unsettling song cycle that is also deeply magnetic, its reordering of rock ’n’ roll’s sounds with classical ambition making it one of the form’s most radical and necessary statements.
 
+Radiohead had not learned their lessons from “Creep”. After wearing themselves thin promoting their first album, they rode the road even harder for <i>The Bends</i>, playing nearly 200 shows in 1995 alone and prowling the United States in a bus emblazoned with an airbrushed stallion. Thom Yorke crowded spiral-bound notebooks with his unease and expressions of isolation, even as he and his pals moved from one crowded room to another. But Radiohead’s relentless devotion to promotion afforded them complete creative control from a label surprised by their success. They reassembled the dream team that had first worked on <i>The Bends</i>—young engineer turned trusted producer Nigel Godrich and artist Stanley Donwood—and decamped to a palatial estate in the British countryside to wrestle with their worries.
 
+Debates about Radiohead’s motivations and intentions have raged since <i>OK Computer</i>’s release: Were Yorke and the band lashing out at the work that was almost killing them, or were they concerned about what technology would do to our humanity? Both roots, however, lead to the same sense of desperate isolation that <i>OK Computer</i> captures so well. The narrator in “Subterranean Homesick Alien” can no longer smell their surroundings, while the survivor in “Karma Police” can no longer think their thoughts in safety. Love is a final act of desperation during “Exit Music (For a Film)”, friendship a cover for raptor-like predation during “Climbing Up the Walls”. The band animates these ideas perfectly, alternately stripping the arrangement until it feels like an icy chill, or adding 16 violins clawing at each other to invoke mental claustrophobia. <i>OK Computer</i> is every lump in your throat, turned into a succession of anthems.
+
+For all of its dread, <i>OK Computer</i> is ultimately an act of hope, the expression in a belief that our inexorable path of progress does not have to cost us our goodness. Above the hangman riff of “Lucky”, Yorke pines to be pulled back from this abyss’ edge, to be resurrected in love. “It’s gonna be a glorious day,” he sings, and you have to believe it at least <i>could</i> be true. And if there is a remedy to the dizzying pace of, well, everything, it’s simple enough: “Idiot, slow down,” he sings for the last words of closer “The Tourist”, his falsetto newly resolute. “Slow down.” In the decades since <i>OK Computer</i> made Radiohead rock’s new standard-bearers, its grievances—namely, our accelerating isolation—have only mounted. But the answers and the hope it holds linger still.
         
         
     
@@ -66,24 +67,12 @@ OK Computer received acclaim and has been cited as one of the greatest albums of
 
 
 ## Videos
-### Radiohead - Karma Police
-{{< youtube id="1uYWYWPc9HU" title="Radiohead - Karma Police" >}}<br>
+### Radiohead - Paranoid Android
+{{< youtube id="fHiGbolFFGw" title="Radiohead - Paranoid Android" >}}<br>
 ### More Videos
 
-- [Airbag](https://www.youtube.com/watch?v=jNY_wLukVW0)
+- [Radiohead - Karma Police](https://www.youtube.com/watch?v=1uYWYWPc9HU)
 - [Radiohead - No Surprises](https://www.youtube.com/watch?v=u5CVsCnxyXg)
-- [Paranoid Android](https://www.youtube.com/watch?v=Lt8AfIeJOxw)
-- [Radiohead - Lift](https://www.youtube.com/watch?v=QBGaO89cBMI)
-- [Subterranean Homesick Alien](https://www.youtube.com/watch?v=_fTWmUlTEqE)
-- [Exit Music (For A Film)](https://www.youtube.com/watch?v=Bf01riuiJWA)
-- [Let Down (Remastered)](https://www.youtube.com/watch?v=ZVgHPSyEIqk)
-- [Karma Police](https://www.youtube.com/watch?v=4IJI6soiQhI)
-- [Fitter Happier](https://www.youtube.com/watch?v=O4SzvsMFaek)
-- [Electioneering](https://www.youtube.com/watch?v=3DtgWrFTtQk)
-- [Climbing Up the Walls](https://www.youtube.com/watch?v=XX4EpkR-Sp4)
-- [No Surprises](https://www.youtube.com/watch?v=LBt60dfwEBY)
-- [Lucky](https://www.youtube.com/watch?v=yuZYQvvLXVY)
-- [The Tourist](https://www.youtube.com/watch?v=HkgzObf8uVU)
 
 ## Release Images
 {{< imageGrid >}}

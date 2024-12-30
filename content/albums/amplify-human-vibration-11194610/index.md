@@ -13,8 +13,8 @@ cover:
     caption: "Amplify Human Vibration by Nordic Giants"
 additional_images:
     - "https://i.discogs.com/_QEFwVB2DSEYkmTNBE9i_H-p0wHYmxJS3EHxsUJl3N4/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMTk0/NjEwLTE1MTE2Mjg4/NDQtOTk3OC5qcGVn.jpeg"
-    - "https://i.discogs.com/3hYOlh2EqpGLbKXDUl7R-rUT6jV7MzBmgZSbfLTvkIA/rs:fit/g:sm/q:90/h:606/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMTk0/NjEwLTE1MTE2Mjg4/NDctODA1My5qcGVn.jpeg"
-    - "https://i.discogs.com/DbfIZAIYeyJGjBDY1_GdZWMdn38uFz9cogwOeBkxslo/rs:fit/g:sm/q:90/h:742/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMTk0/NjEwLTE1MTE2Mjg4/NDgtNDQ5NS5qcGVn.jpeg"
+    - "https://i.discogs.com/td1b3xv-qPdsnJVuIMukGoArjuw5QMQ601EoGrS66Rw/rs:fit/g:sm/q:90/h:600/w:593/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMTk0/NjEwLTE1MTE2Mjg4/NDctODA1My5qcGVn.jpeg"
+    - "https://i.discogs.com/iCzkgh66k3SM_wfnYbss6SEXZ3GEzVs_0zlryzBVyH0/rs:fit/g:sm/q:90/h:600/w:485/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMTk0/NjEwLTE1MTE2Mjg4/NDgtNDQ5NS5qcGVn.jpeg"
 genres: ["Rock"]
 styles: ["Post Rock"]
 ---
@@ -37,7 +37,9 @@ styles: ["Post Rock"]
 ## Videos
 ### Nordic Giants - Amplify Human Vibration [Full Album]
 {{< youtube id="b_D76NQA4wU" title="Nordic Giants - Amplify Human Vibration [Full Album]" >}}<br>
+### More Videos
 
+- [Nordic Giants - Amplify Human Vibration [Full Album]](https://www.youtube.com/watch?v=b_D76NQA4wU)
 
 ## Release Images
 {{< imageGrid >}}

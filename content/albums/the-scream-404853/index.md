@@ -22,8 +22,9 @@ genres: ["Rock"]
 styles: ["Post-Punk"]
 ---
 
-The Scream is the debut studio album by British rock band Siouxsie and the Banshees, released on 13 November 1978 by Polydor Records. The album is considered a landmark recording: its innovative combination of angular guitar with a bass-led rhythm and machine-like drums played mostly on toms, made it a pioneering work of the post-punk genre.
-The Scream was met with widespread acclaim and was hailed by critics as an original musical development in rock music. It has been cited as a key influence on a number of succeeding post-punk, noise rock and alternative rock acts, including Joy Division, Killing Joke, the Cure, Big Black, Sonic Youth, the Jesus and Mary Chain, Faith No More and Massive Attack.
+The Scream is a composition created by Norwegian artist Edvard Munch in 1893. The Norwegian name of the piece is Skrik (Scream), and the German title under which it was first exhibited is  Der Schrei der Natur (The Scream of Nature). The agonized face in the painting has become one of the most iconic images in art, seen as symbolizing the anxiety of the human condition. Munch's work, including The Scream, had a formative influence on the Expressionist movement.
+Munch recalled that he had been out for a walk at sunset when suddenly the setting sun's light turned the clouds "a blood red". He sensed an "infinite scream passing through nature". Scholars have located the spot to a fjord overlooking Oslo and have suggested other explanations for the unnaturally orange sky, ranging from the effects of a volcanic eruption to a psychological reaction by Munch to his sister's commitment at a nearby lunatic asylum.
+Munch created two versions in paint and two in pastels, as well as a lithograph stone from which several prints survive. Both painted versions have been stolen, but since recovered. In 2012, one of the pastel versions commanded the highest nominal price paid for an artwork at a public auction at that time.
     
     
 
@@ -41,13 +42,34 @@ The Scream was met with widespread acclaim and was hailed by critics as an origi
 10. Switch (6:48)
 
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/the-scream-deluxe/1412077263" >}}<br>
+{{< applemusic url="https://music.apple.com/gb/album/the-scream/1412054157" >}}<br>
 
 
 ## Videos
-### Metal Postcard (Mittageisen)
-{{< youtube id="YL-HU1aDAlU" title="Metal Postcard (Mittageisen)" >}}<br>
+### Pure
+{{< youtube id="JtSyrSy5_10" title="Pure" >}}<br>
+### More Videos
 
+- [Jigsaw Feeling](https://www.youtube.com/watch?v=H424bM2shkI)
+- [Overground](https://www.youtube.com/watch?v=wntSTB1qUNM)
+- [Carcass](https://www.youtube.com/watch?v=EkMXT74uxk0)
+- [Helter Skelter](https://www.youtube.com/watch?v=Z3r_YQkjnQA)
+- [Mirage](https://www.youtube.com/watch?v=SUMpIzwqDvc)
+- [Metal Postcard (Mittageisen)](https://www.youtube.com/watch?v=GX7_9zmRUKo)
+- [Nicotine Stain](https://www.youtube.com/watch?v=odvzKeTewR0)
+- [Suburban Relapse](https://www.youtube.com/watch?v=FnS5Do3WCOY)
+- [Switch](https://www.youtube.com/watch?v=Xzx-cU8S0RM)
+- [Pure](https://www.youtube.com/watch?v=JtSyrSy5_10)
+- [Jigsaw Feeling](https://www.youtube.com/watch?v=H424bM2shkI)
+- [Overground](https://www.youtube.com/watch?v=wntSTB1qUNM)
+- [Carcass](https://www.youtube.com/watch?v=EkMXT74uxk0)
+- [Helter Skelter](https://www.youtube.com/watch?v=Z3r_YQkjnQA)
+- [Mirage](https://www.youtube.com/watch?v=SUMpIzwqDvc)
+- [Metal Postcard (Mittageisen)](https://www.youtube.com/watch?v=GX7_9zmRUKo)
+- [Nicotine Stain](https://www.youtube.com/watch?v=odvzKeTewR0)
+- [Suburban Relapse](https://www.youtube.com/watch?v=FnS5Do3WCOY)
+- [Switch](https://www.youtube.com/watch?v=Xzx-cU8S0RM)
+- [Siouxsie And The Banshees The Scream Full album](https://www.youtube.com/watch?v=JAf6TSwRzh4)
 
 ## Release Images
 {{< imageGrid >}}
@@ -55,7 +77,7 @@ The Scream was met with widespread acclaim and was hailed by critics as an origi
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Wikipedia URL | https://en.wikipedia.org/wiki/The_Scream_(album) |
+| Wikipedia URL | https://en.wikipedia.org/wiki/The_Scream |
 | Format         | Vinyl LP Album Stereo |
 | Label          | Polydor |
 | Catalog Number | POLD 5009 |

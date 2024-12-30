@@ -13,11 +13,17 @@ cover:
     caption: "Telekon by Gary Numan"
 additional_images:
     - "https://i.discogs.com/4FGC9VmAtsqhzsw2jQq1I9nLdtaBh3PJJsl8nWLnR6w/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc3ODgz/MjAtMTQ0ODc5NDAx/MS0yMzU0LmpwZWc.jpeg"
+    - "https://i.discogs.com/VMisstvQXeuZv3syTiZDB3AOXwMtUEnK0M1BlpI0SyE/rs:fit/g:sm/q:90/h:600/w:585/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc3ODgz/MjAtMTY4NDg2ODU4/NC0zNTkwLmpwZWc.jpeg"
+    - "https://i.discogs.com/GfAu38T2Z21Qa6MugYaO5Qb8xyARzvTuvxA6x92qwAQ/rs:fit/g:sm/q:90/h:600/w:585/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc3ODgz/MjAtMTY4NDg2ODU5/Mi0zOTk0LmpwZWc.jpeg"
+    - "https://i.discogs.com/sTwxMhuu00T-JRvsQa2zjW3Hkx1E4N59cKZhweD__nQ/rs:fit/g:sm/q:90/h:600/w:585/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc3ODgz/MjAtMTY4NDg2ODYw/My03NTY3LmpwZWc.jpeg"
+    - "https://i.discogs.com/4okpRatssRryEQlxpBwINxiQpq1y4PFdJDixL6vzJ_o/rs:fit/g:sm/q:90/h:600/w:585/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc3ODgz/MjAtMTY4NDg2ODYx/MC03MzI2LmpwZWc.jpeg"
 genres: ["Electronic"]
 styles: ["New Wave", "Synth-pop"]
 ---
 
-Telekon is the second solo studio album by English musician Gary Numan. It debuted at the top of the UK Albums Chart in September 1980, making it his third consecutive (and to date, final) No. 1 album. It was also the third and final studio release of what Numan retrospectively termed the "machine" section of his career, following 1979's Replicas and The Pleasure Principle.
+Telekon is the second solo studio album by the English new wave musician Gary Numan. It debuted at the top of the UK Albums Chart in September 1980, making it his third consecutive (and to date, final) No. 1 album. It was also the third and final studio release of what Numan retrospectively termed the "machine" section of his career, following Replicas and The Pleasure Principle (both 1979).
+
+
     
     
 
@@ -60,6 +66,8 @@ Telekon is the second solo studio album by English musician Gary Numan. It debut
 - [Remember I Was Vapour](https://www.youtube.com/watch?v=hYxZYbQ0HOE)
 - [Please Push No More](https://www.youtube.com/watch?v=d_nomfDoiGQ)
 - [The Joy Circuit](https://www.youtube.com/watch?v=_KQdSQRd-6g)
+- [Down in the Park (Piano Version)](https://www.youtube.com/watch?v=M9_peYF2Wu0)
+- [Remember I Was Vapour](https://www.youtube.com/watch?v=hYxZYbQ0HOE)
 
 ## Release Images
 {{< imageGrid >}}

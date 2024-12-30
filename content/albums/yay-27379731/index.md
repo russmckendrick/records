@@ -18,14 +18,17 @@ additional_images:
     - "https://i.discogs.com/oVwFvyap2x6b8Gfz5MDu-uDymDYQToCerZ3liHE7C9Q/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3Mzc5/NzMxLTE2ODczNjMx/NjctNDg4NS5qcGVn.jpeg"
     - "https://i.discogs.com/rApn7U_LrsKoCDc1A3QRkBVNUWn75kd5D1cW3voSFP0/rs:fit/g:sm/q:90/h:591/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3Mzc5/NzMxLTE2ODczNjMx/NjYtNTY0MC5qcGVn.jpeg"
     - "https://i.discogs.com/1oicBEGTJIOJSxMWFTgeR8AJMgalcQ5x8ZmysVRAtLQ/rs:fit/g:sm/q:90/h:591/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3Mzc5/NzMxLTE2ODczNjMx/NjgtNjU4MS5qcGVn.jpeg"
-    - "https://i.discogs.com/yU7_v40s3pP-OjJ3qQ4uQT3L_WbVnrZSknQ0gfRWyQE/rs:fit/g:sm/q:90/h:601/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3Mzc5/NzMxLTE2ODczNjMx/NzEtNjk0Ni5qcGVn.jpeg"
-    - "https://i.discogs.com/pxJTwfd_BWw2K2hFxGU105m5Eunq1WlaFCHwHqBaJPA/rs:fit/g:sm/q:90/h:601/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3Mzc5/NzMxLTE2ODczNjMx/NzAtNDc0Mi5qcGVn.jpeg"
-    - "https://i.discogs.com/dh12VybTJLNTM2DthwymApE8nB_oaX7IiHf9YrUamkU/rs:fit/g:sm/q:90/h:1065/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3Mzc5/NzMxLTE2ODczNjMy/NTQtODU2NC5qcGVn.jpeg"
+    - "https://i.discogs.com/NVl6CD7BjolzsuveR2Ae3eswVTzX1iWi_U-htsNL7J8/rs:fit/g:sm/q:90/h:600/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3Mzc5/NzMxLTE2ODczNjMx/NzEtNjk0Ni5qcGVn.jpeg"
+    - "https://i.discogs.com/aP7LQINK_kDX5lOvl5FrYW5Qi7Zxeh-0Qmwu7geht9c/rs:fit/g:sm/q:90/h:600/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3Mzc5/NzMxLTE2ODczNjMx/NzAtNDc0Mi5qcGVn.jpeg"
+    - "https://i.discogs.com/gBuT4LyFaIKSkmkbVzH8MFlwUsdqydKE5UeJVuY3Xo4/rs:fit/g:sm/q:90/h:600/w:337/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3Mzc5/NzMxLTE2ODczNjMy/NTQtODU2NC5qcGVn.jpeg"
     - "https://i.discogs.com/8YXuAoprnt6zGY0NKVS8_bdjl46S2rrsF2pYFubO8xg/rs:fit/g:sm/q:90/h:349/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3Mzc5/NzMxLTE2ODczNjMx/NzAtNzg4Mi5qcGVn.jpeg"
 genres: ["Rock"]
 styles: ["Acoustic", "Psychedelic Rock"]
 ---
 
+Yay! is a studio album by Norwegian rock band Motorpsycho, released on June 16, 2023, through  Det Nordenfjeldske Grammofonselskab and Stickman Records. The album is available in vinyl, CD, cassette and digital download formats. It contains the last contribution of drummer Tomas Järmyr, leaving only two band members.
+    
+    
 
 
 ## Tracklisting
@@ -63,6 +66,7 @@ styles: ["Acoustic", "Psychedelic Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
+| Wikipedia URL | https://en.wikipedia.org/wiki/Yay!_(Motorpsycho_album) |
 | Format         | Vinyl LP Album Limited Edition Stereo (Milky Clear/Red Smoke, 180g) |
 | Label          | Det Nordenfjeldske Grammofonselskab |
 | Catalog Number | NFGS0123LP |

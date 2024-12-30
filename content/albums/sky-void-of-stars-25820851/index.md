@@ -17,7 +17,7 @@ additional_images:
     - "https://i.discogs.com/RpE8_R9JOTZVPiagDfTUiJceCDnQwK7Yb3ZsiYCjd3I/rs:fit/g:sm/q:90/h:586/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1ODIw/ODUxLTE2NzQyOTU2/MzctMjY4My5qcGVn.jpeg"
     - "https://i.discogs.com/6lrbhfUHDWLims3RkwfBSSYJVzUb2KzfKw4cnZAEEn4/rs:fit/g:sm/q:90/h:295/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1ODIw/ODUxLTE2NzczNjUw/MTItNTUxMi5qcGVn.jpeg"
     - "https://i.discogs.com/-0UzQG0K-RPAlKDsDWt9sq8okFVekjiqWxBprbwI4NA/rs:fit/g:sm/q:90/h:286/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1ODIw/ODUxLTE2NzczNjUw/MTEtOTQ4My5qcGVn.jpeg"
-    - "https://i.discogs.com/5y88FZ_YiCbdogc3MIEZAF9dDwQGhjtvZalbKLPcLwA/rs:fit/g:sm/q:90/h:900/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1ODIw/ODUxLTE2NzczNjUw/MTEtOTM2NS5qcGVn.jpeg"
+    - "https://i.discogs.com/OSDq_UsFvLLGp2CxV8z8EEpWZJdZbhbluYe80oUArYs/rs:fit/g:sm/q:90/h:600/w:399/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1ODIw/ODUxLTE2NzczNjUw/MTEtOTM2NS5qcGVn.jpeg"
 genres: ["Rock"]
 styles: ["Progressive Metal"]
 ---
@@ -80,14 +80,16 @@ It’s probably no surprise that the pandemic got Renkse thinking along these li
 
 
 ## Videos
-### KATATONIA - Birds (Official Video) | Napalm Records
-{{< youtube id="_ILWPwc4KaY" title="KATATONIA - Birds (Official Video) | Napalm Records" >}}<br>
+### Colossal Shade
+{{< youtube id="LOl-gMGfNjI" title="Colossal Shade" >}}<br>
 ### More Videos
 
-- [KATATONIA - Sky Void of Stars (FULL ALBUM HQ) 2023!](https://www.youtube.com/watch?v=_juzo3SvrxM)
+- [KATATONIA - Birds (Official Video) | Napalm Records](https://www.youtube.com/watch?v=_ILWPwc4KaY)
 - [KATATONIA - Atrium (Official Video) | Napalm Records](https://www.youtube.com/watch?v=BB24-hVZ88k)
 - [KATATONIA - Austerity (Official Video) | Napalm Records](https://www.youtube.com/watch?v=hTj41rDTgBw)
 - [KATATONIA - Opaline (Official Video) | Napalm Records](https://www.youtube.com/watch?v=yYzVCJRJhow)
+- [Colossal Shade](https://www.youtube.com/watch?v=LOl-gMGfNjI)
+- [KATATONIA - Sky Void of Stars (FULL ALBUM HQ) 2023!](https://www.youtube.com/watch?v=_juzo3SvrxM)
 
 ## Release Images
 {{< imageGrid >}}
@@ -99,4 +101,5 @@ It’s probably no surprise that the pandemic got Renkse thinking along these li
 | Format         | Vinyl 2× 12" 45 RPM Album |
 | Label          | Napalm Records |
 | Catalog Number | NPR1208VINYL |
+| Notes | Black double vinyl in gatefold sleeve. Includes a foldout lyrics sheet poster. |
 | Discogs URL    | [Katatonia - Sky Void Of Stars](https://www.discogs.com/release/25820851-Katatonia-Sky-Void-Of-Stars) |

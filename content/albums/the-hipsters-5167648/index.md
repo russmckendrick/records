@@ -37,6 +37,9 @@ styles: ["Pop Rock"]
 {{< applemusic url="https://music.apple.com/gb/album/the-hipsters/1598913322" >}}<br>
 
 
+## Videos
+### Deacon Blue - The Hipsters
+{{< youtube id="qy88CFNIGJQ" title="Deacon Blue - The Hipsters" >}}<br>
 
 
 ## Release Images

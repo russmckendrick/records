@@ -17,6 +17,13 @@ genres: ["Rock"]
 styles: ["Psychedelic Rock", "Indie Rock"]
 ---
 
+Origin Vol. 1 (also referred to as Origin I) is an album by the Swedish band The Soundtrack of Our Lives.  It was released in Europe in October 2004, and in the US in March 2005. Actor and singer Jane Birkin appears on the track "Midnight Children".
+The song "Bigtime" was used as the official theme song for WrestleMania 21 and was later used in Gran Turismo 4 as part of the soundtrack. "Bigtime" was also used by Sky One in an advert for a new episode of Futurama. The song "Mother One Track Mind" was also used in Gran Turismo 4 as part of the soundtrack.
+Singles from the album are "Bigtime", "Heading For a Breakdown" and "Believe I've Found".
+
+
+    
+    
 
 
 ## Tracklisting
@@ -39,6 +46,8 @@ styles: ["Psychedelic Rock", "Indie Rock"]
 17. Love Song #3105
 18. A Room Without A View
 
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/origins-original-soundtrack-vol-1-ep/1735235397" >}}<br>
 
 
 ## Videos
@@ -47,6 +56,9 @@ styles: ["Psychedelic Rock", "Indie Rock"]
 ### More Videos
 
 - [The Soundtrack of Our Lives - Transcendental Suicide](https://www.youtube.com/watch?v=oga9lQJKDJE)
+- [The Soundtrack of Our Lives - Bigtime](https://www.youtube.com/watch?v=CtjtlcJk2IM)
+- [The Soundtrack of Our Lives - Bigtime](https://www.youtube.com/watch?v=CtjtlcJk2IM)
+- [The Soundtrack of Our Lives - Transcendental Suicide](https://www.youtube.com/watch?v=oga9lQJKDJE)
 
 ## Release Images
 {{< imageGrid >}}
@@ -54,6 +66,7 @@ styles: ["Psychedelic Rock", "Indie Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
+| Wikipedia URL | https://en.wikipedia.org/wiki/Origin_Vol._1 |
 | Format         | Vinyl 2× LP Limited Edition Numbered Reissue Remastered Stereo (Gold, Expanded) |
 | Label          | Music On Vinyl |
 | Catalog Number | MOVLP2646 |

@@ -12,7 +12,20 @@ cover:
     alt: "Live Again! by The League Of Gentlemen"
     caption: "Live Again! by The League Of Gentlemen"
 additional_images:
-    - "https://i.discogs.com/rkRYZc6vlapPrvWUUHwyBFbkNjNoinoETUDD5YhYKiM/rs:fit/g:sm/q:90/h:546/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNTI2/Njc0LTE1NTU4Nzgz/NjEtODQ3MC5qcGVn.jpeg"
+    - "https://i.discogs.com/kX8wqis260BJd2HmsYmyYnHqpgtrUjFOWt0In6vEx10/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNTI2/Njc0LTE2OTc1NDQ0/NDUtMzc5OC5qcGVn.jpeg"
+    - "https://i.discogs.com/FFx-FvHnCbuzjS0pJ5EDL5euIFj_8KcSEoW6WgOs9gA/rs:fit/g:sm/q:90/h:600/w:588/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNTI2/Njc0LTE2OTc1NDQ0/NDUtODM5Mi5qcGVn.jpeg"
+    - "https://i.discogs.com/fq-36cTqq4R_IyAMYEaYFITCyZAgHtGgmHiSSwrCHoY/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNTI2/Njc0LTE2OTc1NDQ0/NDUtNjU2MC5qcGVn.jpeg"
+    - "https://i.discogs.com/E46N3qVmwyPbZdTaaetOTMoqOuZXCuvB3GxX9_6XmSo/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNTI2/Njc0LTE2OTc1NDQ0/NDQtMjkwNS5qcGVn.jpeg"
+    - "https://i.discogs.com/FpyLaKqS6vD-JXjt4iOD_e3O_9SEy8BkHYxZriIY5Qo/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNTI2/Njc0LTE2OTc1NDQ0/NDUtMTEyNC5wbmc.jpeg"
+    - "https://i.discogs.com/wP5jep6KUT_2EJMY6KQ0cXOMkAT4DchcgqtzuR_6ASU/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNTI2/Njc0LTE2OTc1NDQ0/NDQtNTYxMS5qcGVn.jpeg"
+    - "https://i.discogs.com/ZhJTmbgqmcL2CcD8baGtMK4gQAP-ByxzqwYQ0w64pCY/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNTI2/Njc0LTE2OTc1NDQ0/NDQtMzgxNS5qcGVn.jpeg"
+    - "https://i.discogs.com/WdXHKc81nIct2WtuFpk7LZmhImLu7cZl0Ex9TDm3D8E/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNTI2/Njc0LTE2OTc1NDQ0/NDQtNDU5Ny5qcGVn.jpeg"
+    - "https://i.discogs.com/uQrCM8XTvf-5CbKuLPCZk3E-nBRc_b5c-fvZvy8ZLWY/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNTI2/Njc0LTE2OTc1NDQ0/NDUtOTkwNy5wbmc.jpeg"
+    - "https://i.discogs.com/xGV00nDVaPEHTBd8Nm9SWh3m-baGRyXY0y5CRfpiNvU/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNTI2/Njc0LTE2OTc1NDQ0/NDUtMjM5Ni5qcGVn.jpeg"
+    - "https://i.discogs.com/aaiqBHeGbY0O7e66FbUcyPM558t2ESbfUbToHvPxz68/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNTI2/Njc0LTE2OTc1NDQ0/NDQtNjkxMC5qcGVn.jpeg"
+    - "https://i.discogs.com/2KHf7L0-gtilmtlvzei_SRa-bNfezcloGzZTxh8Amek/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNTI2/Njc0LTE2OTc1NDQ0/NDQtMjg5MS5qcGVn.jpeg"
+    - "https://i.discogs.com/XnxaYSctmARcW8dLkQH4oJ3w343vigtsa4JjVMoOKI0/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNTI2/Njc0LTE2OTc1NDQ0/NDQtOTYwOC5qcGVn.jpeg"
+    - "https://i.discogs.com/zStj_oaMfXTLplbrQH6Pbeff3B-OwS2wFqHJ70s9vhs/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNTI2/Njc0LTE2OTc1NDQ0/NDQtNjQwOC5qcGVn.jpeg"
 genres: ["Stage & Screen"]
 styles: ["Comedy"]
 ---
@@ -60,8 +73,8 @@ styles: ["Comedy"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl LP Record Store Day Limited Edition (Gatefold, Pop-up sleeve ) |
+| Format         | Vinyl 2× LP Record Store Day Limited Edition (Black / White, Gatefold, Pop-up sleeve ) |
 | Label          | Demon Records |
 | Catalog Number | DEMREC410 |
-| Notes | Black & White mixed 'Papa Lazarou' vinyl.  Gatefold sleeve with cardboard pop-up interior.  Record Store Day 2019 |
-| Discogs URL    | [The League Of Gentlemen - Live Again!](https://www.discogs.com/release/13526674-The-League-Of-Gentlemen-Live-Again) |
+| Notes | Black & White mixed 'Papa Lazarou' vinyl. Gatefold sleeve with cardboard pop-up interior. Record Store Day 2019 Recorded London, 27 September 2018 |
+| Discogs URL    | [The League Of Gentlemen - Live Again!](https://www.discogs.com/release/13526674-The-League-Of-Gentlemen-3-Live-Again) |

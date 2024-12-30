@@ -14,8 +14,8 @@ cover:
 additional_images:
     - "https://i.discogs.com/nJxVHgUWFFh8mIei3qbF47Aq4ZH-jGJYYu0sWKhfL6s/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MjUy/NjY4LTE1NzIyOTQ0/NjItMjE1Ny5qcGVn.jpeg"
     - "https://i.discogs.com/S4_rzfpaOa-5hYV_DRqOmywlo2-StyXBFc0VLXuvla4/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MjUy/NjY4LTE1NzIyOTQ0/NjQtMjg0OS5qcGVn.jpeg"
-    - "https://i.discogs.com/duOultii8wTRvWHDwxSAjeLSzsTpHj5FUo2ltQAbwTA/rs:fit/g:sm/q:90/h:603/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MjUy/NjY4LTE1NzIyOTQ0/NjUtODM5NC5qcGVn.jpeg"
-    - "https://i.discogs.com/1GmF4cGPHIg8oFHyRWAxfOfE5t7tTKfjbFkpct9GTXQ/rs:fit/g:sm/q:90/h:603/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MjUy/NjY4LTE1NzIyOTQ0/NjctMjk1Ni5qcGVn.jpeg"
+    - "https://i.discogs.com/KvJxEK6ibv7vShi1QNH4LgosnEuVDNEh1rKDa4jA3Gk/rs:fit/g:sm/q:90/h:600/w:597/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MjUy/NjY4LTE1NzIyOTQ0/NjUtODM5NC5qcGVn.jpeg"
+    - "https://i.discogs.com/GIveR5EDFwv5mRfK63-Hm0Xk-QjPUxKGW8tuKFOYYPc/rs:fit/g:sm/q:90/h:600/w:597/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MjUy/NjY4LTE1NzIyOTQ0/NjctMjk1Ni5qcGVn.jpeg"
     - "https://i.discogs.com/fSk0C-0UbmsN-iCxTUtU1oxhm8HISokZskvc46xEgo4/rs:fit/g:sm/q:90/h:593/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MjUy/NjY4LTE1NzIyOTQ0/NzEtNTMyOC5qcGVn.jpeg"
     - "https://i.discogs.com/uSj66dLna2kSy2_6eNSNZUZSsvPzC57pKO7bY6XEcU0/rs:fit/g:sm/q:90/h:592/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MjUy/NjY4LTE1NzIyOTQ0/NzItNTc1OC5qcGVn.jpeg"
     - "https://i.discogs.com/2ghcZcKYKO8Qk2cRE9-VndyIgbGB0So0QRvptdUfw5I/rs:fit/g:sm/q:90/h:420/w:450/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MjUy/NjY4LTE1NzA3OTE1/NTctOTYwOS5qcGVn.jpeg"
@@ -47,10 +47,11 @@ Out of Season is a studio album by vocalist Beth Gibbons (of Portishead)  and ba
 
 
 ## Videos
-### Beth Gibbons & Rustin Man-Mysteries
-{{< youtube id="Epyt0IQ_uEA" title="Beth Gibbons & Rustin Man-Mysteries" >}}<br>
+### Beth Gibbons & Rustin Man - Sand River
+{{< youtube id="iNR_TiLxrtI" title="Beth Gibbons & Rustin Man - Sand River" >}}<br>
 ### More Videos
 
+- [Beth Gibbons & Rustin Man-Mysteries](https://www.youtube.com/watch?v=Epyt0IQ_uEA)
 - [Beth Gibbons & Rustin Man-Tom The Model](https://www.youtube.com/watch?v=I6lRw-e5cEQ)
 - [Beth Gibbons & Rustin Man-Show](https://www.youtube.com/watch?v=gfPoHQplGKU)
 - [Beth Gibbons & Rustin Man-Romance](https://www.youtube.com/watch?v=B_Tb0Xt9fgo)

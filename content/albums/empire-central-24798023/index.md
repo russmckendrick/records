@@ -25,7 +25,7 @@ additional_images:
     - "https://i.discogs.com/sflAoAEaPORb6vp1iPHf2FVvrBgjZmahKsepFsolNwk/rs:fit/g:sm/q:90/h:587/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0Nzk4/MDIzLTE2NjU3Nzk2/MzUtOTQ5Mi5qcGVn.jpeg"
     - "https://i.discogs.com/ygTXr94hiovVgf8qZw-eU3TkifNKJwU1Z6S5r7fhcUk/rs:fit/g:sm/q:90/h:589/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0Nzk4/MDIzLTE2NjU3Nzk2/MzUtODM3Ny5qcGVn.jpeg"
     - "https://i.discogs.com/FwlvTRUmas3veyjefHGZH0t16yY_zsF-lStt3WmscVI/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0Nzk4/MDIzLTE2NjU3Nzk2/MzQtMTkwMS5qcGVn.jpeg"
-    - "https://i.discogs.com/OX8vuW3P3dqwOjDrYMJXjy1Yqpee2nrLO6h8ZSreCvM/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0Nzk4/MDIzLTE2NjU3Nzk2/MzYtMjg5MS5qcGVn.jpeg"
+    - "https://i.discogs.com/cT2xf4mxwYnP3PvRBLieQ2WFMKjLQjkPP9N46-F0RhY/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0Nzk4/MDIzLTE2NjU3Nzk2/MzYtMjg5MS5qcGVn.jpeg"
 genres: ["Jazz"]
 styles: ["Contemporary Jazz", "Fusion"]
 ---
@@ -79,7 +79,8 @@ On their 16th album, virtuoso ensemble Snarky Puppy return to their roots. Found
 
 <b>“Trinity”</b>
 “‘Trinity’ is a truly joyful ending to the record. When we played it during the live sessions, we went into an unplanned four-minute reprise, since we were so taken with the feel of the tune. One of our guitarists, Mark Lettieri, wrote this, marrying a gospel feel with ZZ Top-style rock. Mark’s been in Texas since he was 18, and he named the tune after the Trinity River, which flows through Dallas and is such a life force for the city.”
-    
+        
+        
     
 
 
@@ -131,6 +132,7 @@ On their 16th album, virtuoso ensemble Snarky Puppy return to their roots. Found
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
+| Wikipedia URL | https://en.wikipedia.org/wiki/Empire_Central |
 | Format         | Vinyl 3× LP |
 | Label          | GroundUP Music (2) |
 | Catalog Number | none |

@@ -16,10 +16,10 @@ additional_images:
     - "https://i.discogs.com/ks88kUnze2Dh_8OlzFkYlcR7yAmlI39YTK3C3_uo5Tg/rs:fit/g:sm/q:90/h:575/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMDI4/OTk4LTE1MTQ5NTc3/MzAtNTI5OC5qcGVn.jpeg"
     - "https://i.discogs.com/iPfaYHYgUMIPcYAi1BF_dudflQHOolAX7MAkgPegZJ8/rs:fit/g:sm/q:90/h:561/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMDI4/OTk4LTE1MTQ5NTc3/ODctMzU2NS5qcGVn.jpeg"
     - "https://i.discogs.com/Hb8U024va1Fd8XDo_ngcilHFh-wkkDXtKbnn4wJr6_4/rs:fit/g:sm/q:90/h:577/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMDI4/OTk4LTE1MTQ5NTcy/MjUtNjk4Ni5qcGVn.jpeg"
-    - "https://i.discogs.com/qP3ctl_HAZdBNRyoEex37ynW35DlChLnZDkqk_nPh-4/rs:fit/g:sm/q:90/h:784/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMDI4/OTk4LTE1MTQ5NTcx/ODktNzMyOS5qcGVn.jpeg"
-    - "https://i.discogs.com/J0WqsDpdyDu5j94rUCAncm8H9XIWM2EA8CFFsJN6O_A/rs:fit/g:sm/q:90/h:760/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMDI4/OTk4LTE1MTQ5NTcy/MDktNTI3OC5qcGVn.jpeg"
-    - "https://i.discogs.com/DXe2fmmeYNsCtJcOTzhKwvsQMnmNs_kbzR1Ho0uhN34/rs:fit/g:sm/q:90/h:710/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMDI4/OTk4LTE1MTQ5NTc2/OTYtNzMxNi5qcGVn.jpeg"
-    - "https://i.discogs.com/DRFpdw2oyA7IR8KwmaW8Y1s1vJStm0FEkqPsaf1cQbU/rs:fit/g:sm/q:90/h:764/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMDI4/OTk4LTE1MTQ5NTc3/MTItOTgxNS5qcGVn.jpeg"
+    - "https://i.discogs.com/jKssUDReZyAz_0JWoZ_Xx5Ml829I5Hu---P7e27GGkQ/rs:fit/g:sm/q:90/h:600/w:459/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMDI4/OTk4LTE1MTQ5NTcx/ODktNzMyOS5qcGVn.jpeg"
+    - "https://i.discogs.com/s6_b2-3_czjEQ322dvc1MMEJRLvVEQXMm6YNhg7-xGs/rs:fit/g:sm/q:90/h:600/w:473/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMDI4/OTk4LTE1MTQ5NTcy/MDktNTI3OC5qcGVn.jpeg"
+    - "https://i.discogs.com/28yg0IBkCnKevhcJpOMr9SG96gpTMmeYtmQa2AxdLLc/rs:fit/g:sm/q:90/h:600/w:506/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMDI4/OTk4LTE1MTQ5NTc2/OTYtNzMxNi5qcGVn.jpeg"
+    - "https://i.discogs.com/l13ZashNyu0eM3sPeWMMpOmoW1HxllxEH3QZ2UMcM0Y/rs:fit/g:sm/q:90/h:600/w:470/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMDI4/OTk4LTE1MTQ5NTc3/MTItOTgxNS5qcGVn.jpeg"
     - "https://i.discogs.com/WCJBbgCLinE03-X297eDaHHsgGdodR4MNdgD2A4Q7Vc/rs:fit/g:sm/q:90/h:590/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMDI4/OTk4LTE1MTQ5NTc4/MDctNDc4MS5qcGVn.jpeg"
     - "https://i.discogs.com/2JJeGsnr-mKG4NjrPgqnkozS7Z8xCQORB3ADCQODzxw/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMDI4/OTk4LTE1MTQ5NTc4/MjItNDAwOS5qcGVn.jpeg"
     - "https://i.discogs.com/6LozoLglYV2LyRAs1l-CZtYyK1TlCtiE0YGgzWDkjqQ/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMDI4/OTk4LTE1MTQ5NTc4/MzgtMTM5Ni5qcGVn.jpeg"
@@ -68,10 +68,10 @@ styles: ["Lo-Fi", "Indie Rock"]
 {{< youtube id="ptPXxAds1Jc" title="Grandaddy - A.M. 180" >}}<br>
 ### More Videos
 
-- [Grandaddy Under the Western Freeway 20th Anniversary Bonus Tracks baby](https://www.youtube.com/watch?v=Slr4XFeuX-o)
 - [Go Progress Chrome](https://www.youtube.com/watch?v=evCTzTUw-hM)
-- [Grandaddy - Why took your advice + Lawn and so on](https://www.youtube.com/watch?v=8nAokLLLvr0)
 - [Best Of 90's - 1Album/1Song - Grandaddy Under The Western Freeway/AM180](https://www.youtube.com/watch?v=rUKM-1x0mVg)
+- [Grandaddy - Why took your advice + Lawn and so on](https://www.youtube.com/watch?v=8nAokLLLvr0)
+- [Grandaddy Under the Western Freeway 20th Anniversary Bonus Tracks baby](https://www.youtube.com/watch?v=Slr4XFeuX-o)
 
 ## Release Images
 {{< imageGrid >}}

@@ -17,7 +17,7 @@ additional_images:
     - "https://i.discogs.com/NU2Y5anePBtHpeykW2jkZanxpc4QVxMdz4hrPxpilcs/rs:fit/g:sm/q:90/h:594/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMzEw/MDEzLTE1NTM0NTQz/ODAtNzI1My5qcGVn.jpeg"
     - "https://i.discogs.com/9YjaMXfzzsC6B1i2QRr-_aw3K36jQJD-PlxO4-DpKZc/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMzEw/MDEzLTE1NTM0NTQz/ODMtMzk3Mi5qcGVn.jpeg"
     - "https://i.discogs.com/0dux4PF8Q0Jp0rFkhPbw46l9FeMF283hEMY0eMp-4Yc/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMzEw/MDEzLTE1NTM0NTQz/ODMtNjE1NC5qcGVn.jpeg"
-    - "https://i.discogs.com/TTcJq4fCxexv_WSWB7uvIcjP1j4Oe0KvVi1SgbesYcI/rs:fit/g:sm/q:90/h:601/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMzEw/MDEzLTE1NTM0NTQz/ODItMjk0OC5qcGVn.jpeg"
+    - "https://i.discogs.com/5qwwE8c5LeLSyp5Cvu49kGxway49CAyO9KxKwC5rNyI/rs:fit/g:sm/q:90/h:600/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMzEw/MDEzLTE1NTM0NTQz/ODItMjk0OC5qcGVn.jpeg"
     - "https://i.discogs.com/CoVcW3t3rijhlks6011j-GsNAdpbSzc_gXAdhwZlobY/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMzEw/MDEzLTE1NTM0NTQz/OTAtNDkzMi5qcGVn.jpeg"
     - "https://i.discogs.com/FIe0-u49ATG3hqFQFk4o8U4bB4AIJyLMht9qJ3QHeMg/rs:fit/g:sm/q:90/h:590/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMzEw/MDEzLTE1NTM0NTQz/ODMtMzM4NC5qcGVn.jpeg"
     - "https://i.discogs.com/RRlqh3c1MIBPUgum1-wnIk9GZXVqLMqecrB_h0yKHwM/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMzEw/MDEzLTE1NTM0NTQz/ODItODM4MS5qcGVn.jpeg"
@@ -26,9 +26,6 @@ genres: ["Folk, World, & Country"]
 styles: ["Country"]
 ---
 
-Sky Blue is a posthumous album by Texas singer and songwriter Townes Van Zandt, recorded in 1973 but not released until 2019. All tracks were recorded in early 1973 at the Atlanta, Georgia, home studio of Bill Hedgepeth, a journalist, musician, and longtime friend of Van Zandt. Its 2019 release was conceived by Townes' surviving family—his wife and literary executor Jeanene, along with his children, J.T., Will, and Katie Bell.
-    
-    
 
 
 ## Tracklisting
@@ -67,7 +64,6 @@ Sky Blue is a posthumous album by Texas singer and songwriter Townes Van Zandt, 
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Wikipedia URL | https://en.wikipedia.org/wiki/Sky_Blue_(Townes_Van_Zandt_album) |
 | Format         | Vinyl LP Album Limited Edition (White Vinyl) |
 | Label          | Fat Possum Records |
 | Catalog Number | FP1706-1 |

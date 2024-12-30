@@ -62,7 +62,7 @@ After unsuccessfully shopping the album to record companies, Chesnutt distribute
 36. 6 Seconds (4:28)
 
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/the-headphone-masterpiece/1529286229" >}}<br>
+{{< applemusic url="https://music.apple.com/gb/album/the-headphone-masterpiece/1726647122" >}}<br>
 
 
 ## Videos
@@ -70,7 +70,6 @@ After unsuccessfully shopping the album to record companies, Chesnutt distribute
 {{< youtube id="tD4VoPlC91A" title="Cody Chesnutt - Eric Burdon" >}}<br>
 ### More Videos
 
-- [No One Will](https://www.youtube.com/watch?v=P3GDIf2RGqM)
 - [Cody ChesnuTT - Bitch, I'm Broke](https://www.youtube.com/watch?v=KeeCMCQFTOE)
 - [Cody Chesnutt- Upstarts In A Blowout](https://www.youtube.com/watch?v=bwKo5qBtzoU)
 - [Cody ChesnuTT Serve this Royalty.  Part 1](https://www.youtube.com/watch?v=B9vNOlnLgPg)
@@ -79,6 +78,7 @@ After unsuccessfully shopping the album to record companies, Chesnutt distribute
 - [(07) Cody ChesnuTT - The Seed - Volume 1](https://www.youtube.com/watch?v=2gPYxvvBWKs)
 - [Cody ChesnuTT - The Most Beautiful Shame](https://www.youtube.com/watch?v=sq09nzSbA9s)
 - [Cody ChesnuTT - Look Good In Leather Lyrics](https://www.youtube.com/watch?v=PeF0U6SssgY)
+- [No One Will](https://www.youtube.com/watch?v=P3GDIf2RGqM)
 
 ## Release Images
 {{< imageGrid >}}

@@ -18,10 +18,14 @@ additional_images:
     - "https://i.discogs.com/YXN5Nnyulf36GHHlHP_GiPJpxwD0j4lZOi58YByTtks/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1ODAy/MjQtMTQyMjExNjY0/NS05Njg3LmpwZWc.jpeg"
     - "https://i.discogs.com/7XlzQB_IWfaMztUpjvDG36ze7V6CwZGwoMWY3Uhe4R0/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1ODAy/MjQtMTQyMjExNjY0/Ny0yMzc5LmpwZWc.jpeg"
     - "https://i.discogs.com/Hgu60BuG-OrYp4KgFioXrs49yEUX5r5qfArH2K1JRQQ/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1ODAy/MjQtMTQyMjExNjY0/Ny05OTE0LmpwZWc.jpeg"
+    - "https://i.discogs.com/vNdm2-lZ1icjMp9nOXeec203WFXv0nKDq2fKyyWYNI0/rs:fit/g:sm/q:90/h:482/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1ODAy/MjQtMTY5NTI3OTkx/OC0zNDgxLmpwZWc.jpeg"
 genres: ["Electronic", "Rock"]
 styles: ["Leftfield", "Dub", "Indie Rock"]
 ---
 
+Pigeon Hole is a Canadian hip hop group from Vancouver. They were previously known as "Creative Minds".  The duo consists of Colin "Dusty Melo" McCue and Lee "Marmalade" Napthine, who are also members of the band Sweatshop Union.
+    
+    
 
 
 ## Tracklisting
@@ -63,6 +67,7 @@ styles: ["Leftfield", "Dub", "Indie Rock"]
 - [new fast automatic daffodils - reprise video](https://www.youtube.com/watch?v=hO55OjrEg9o)
 - [New Fast Automatic Daffodils   I found Myself In another Room .video](https://www.youtube.com/watch?v=s2QHsYY6t2M)
 - [New Fast Automatic Daffodils - Big (1990)](https://www.youtube.com/watch?v=fQUhCHJk6Nk)
+- [New Fast Automatic Daffodils - Partial](https://www.youtube.com/watch?v=HlTOVZeHyL8)
 
 ## Release Images
 {{< imageGrid >}}
@@ -70,6 +75,7 @@ styles: ["Leftfield", "Dub", "Indie Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
+| Wikipedia URL | https://en.wikipedia.org/wiki/Pigeon_Hole_(band) |
 | Format         | Vinyl LP Album |
 | Label          | Play It Again Sam Records |
 | Catalog Number | BIAS 185 |

@@ -45,15 +45,12 @@ styles: ["Electro", "Synth-pop"]
 
 
 ## Videos
-### Kraftwerk- die Roboter
-{{< youtube id="bLY1lYb1Pps" title="Kraftwerk- die Roboter" >}}<br>
+### Das Model (2009 Remaster)
+{{< youtube id="o0iga1eNgvA" title="Das Model (2009 Remaster)" >}}<br>
 ### More Videos
 
-- [Spacelab (2009 Remaster)](https://www.youtube.com/watch?v=nZXYnVBK0fY)
-- [Metropolis (2009 Remaster)](https://www.youtube.com/watch?v=2FRG4V7ZK5A)
-- [Das Model (2009 Remaster)](https://www.youtube.com/watch?v=o0iga1eNgvA)
 - [Neonlicht (2009 Remaster)](https://www.youtube.com/watch?v=fqsMCEgHMrE)
-- [Die Mensch-Maschine (2009 Remaster)](https://www.youtube.com/watch?v=8VApZHVH6iw)
+- [Die Roboter (2009 Remaster)](https://www.youtube.com/watch?v=SaoBbCC66I4)
 
 ## Release Images
 {{< imageGrid >}}
@@ -61,7 +58,7 @@ styles: ["Electro", "Synth-pop"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl LP Album Reissue Remastered Stereo |
+| Format         | Vinyl LP Album Reissue Remastered Stereo (180 g) |
 | Label          | Kling Klang |
 | Catalog Number | 50999 9 66022 1 8 |
 | Notes | Comes with full-size (12") 16 page colour booklet.  Picture inner sleeve.   |

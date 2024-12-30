@@ -14,8 +14,8 @@ cover:
     caption: "Ants From Up There by Black Country, New Road"
 additional_images:
     - "https://i.discogs.com/hgdfOLIrDncrp6Okziecko_QqNcQiWAw4mu6B76bfxU/rs:fit/g:sm/q:90/h:592/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxOTMy/Mzg5LTE2NDQwNjI5/OTItNTMyNy5qcGVn.jpeg"
-    - "https://i.discogs.com/4IDQi93XT_Mn6YAWI8Pwfo9v17LQbaKcpITRaBkI2AQ/rs:fit/g:sm/q:90/h:604/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxOTMy/Mzg5LTE2NDk0Nzky/OTgtMTI3MC5qcGVn.jpeg"
-    - "https://i.discogs.com/ojnbWcyGODNNwDRqZVC2oUd5fvxIWB4giNb67Zsy1jM/rs:fit/g:sm/q:90/h:601/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxOTMy/Mzg5LTE2NDk0Nzky/OTgtNzY2OC5qcGVn.jpeg"
+    - "https://i.discogs.com/RWX-_Yr5mbw2PeB1FUx-y2nMUr4udP01cAWHLxXTpL8/rs:fit/g:sm/q:90/h:600/w:595/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxOTMy/Mzg5LTE2NDk0Nzky/OTgtMTI3MC5qcGVn.jpeg"
+    - "https://i.discogs.com/QYCEEIoBg0MKAlsjvQeqHdNmNg15_QPS2jpX80G0r4E/rs:fit/g:sm/q:90/h:600/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxOTMy/Mzg5LTE2NDk0Nzky/OTgtNzY2OC5qcGVn.jpeg"
     - "https://i.discogs.com/YP2IRxILgEglrFaUs5BdOnmjxZ_CoN_yKTR4wRlgrUk/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxOTMy/Mzg5LTE2NDQwNjI5/OTItMTYyOC5qcGVn.jpeg"
     - "https://i.discogs.com/6_clp3T8L19z8cHYoE2tFRutKV2RHp4R4mc5hcjf7So/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxOTMy/Mzg5LTE2NDQwNjI5/OTEtNjA4Ni5qcGVn.jpeg"
     - "https://i.discogs.com/XVEB-BQuwrV1O3ihHvTLy0rq4yN6TmuJmBXU8OHI5Vg/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxOTMy/Mzg5LTE2NDQwNjI5/OTItNTQ3MC5qcGVn.jpeg"
@@ -25,30 +25,30 @@ additional_images:
     - "https://i.discogs.com/b8P3iZFcPKLg8i5dGL-xz2H1c2rNbST2qfSts3MZXlU/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxOTMy/Mzg5LTE2NDQwNjI5/OTItNDcxMi5qcGVn.jpeg"
     - "https://i.discogs.com/t8qb41FzIarJbBpLUEWYGgd7pkNL8Putw85O4x4Y1nM/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxOTMy/Mzg5LTE2NzMxMDM1/MzMtNTg1MC5qcGVn.jpeg"
     - "https://i.discogs.com/js7fxLJ74N7OOw60dZ-8HvmzbIcCJhI3yrtUHGEjTaI/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxOTMy/Mzg5LTE2NDQwNjI5/OTItNDUzOC5qcGVn.jpeg"
-    - "https://i.discogs.com/gUYv5U7ONqMKmrIfr4CypcWLRQr3ih1SmSoPKY34J84/rs:fit/g:sm/q:90/h:856/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxOTMy/Mzg5LTE2NDQwNjI5/OTEtNjI3Mi5qcGVn.jpeg"
+    - "https://i.discogs.com/7MOKZmGCd2bUTBGfQhuC2mDzOAY9z1oFyw2isCKQ2io/rs:fit/g:sm/q:90/h:600/w:420/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxOTMy/Mzg5LTE2NDQwNjI5/OTEtNjI3Mi5qcGVn.jpeg"
     - "https://i.discogs.com/ar1TNu52OXT1LsVaDlB6NJU8j2CmqV3_fM6qx5R6wuM/rs:fit/g:sm/q:90/h:593/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxOTMy/Mzg5LTE2NDQwNjI5/ODgtOTUyMC5qcGVn.jpeg"
     - "https://i.discogs.com/i6uIktCLy9AeTcbDSsZjMzCFONtZexeS2GITf3SgdnE/rs:fit/g:sm/q:90/h:292/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxOTMy/Mzg5LTE2NDQwNjI5/ODctNzA4Mi5qcGVn.jpeg"
     - "https://i.discogs.com/QcnLxj4XCrBX66tcW3jqD1359wQ2Ivco6cd3s8TRP64/rs:fit/g:sm/q:90/h:351/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxOTMy/Mzg5LTE2NDQwNjI5/ODctOTU0OS5qcGVn.jpeg"
-    - "https://i.discogs.com/uFv3mu-UInOB8ISPcNFm6wt0k1iAbCQMXKh3SBIdbDY/rs:fit/g:sm/q:90/h:615/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxOTMy/Mzg5LTE2NDk0Nzg2/NjktMjM0NS5qcGVn.jpeg"
-    - "https://i.discogs.com/nMUNUeKALbfewIdU5xSVaVzR8i_k1ru-JqHQuSXAJ_o/rs:fit/g:sm/q:90/h:609/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxOTMy/Mzg5LTE2NDk0Nzg2/NjktMTU0NC5qcGVn.jpeg"
-    - "https://i.discogs.com/DE0DPjpRfreKibL5HWXKccsi1MvAZSfBJLYm3bn-A8o/rs:fit/g:sm/q:90/h:613/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxOTMy/Mzg5LTE2NDk0Nzg2/NjAtMjczNi5qcGVn.jpeg"
-    - "https://i.discogs.com/j8ezLr3COU2bNAlsnbmEhPhyMqYoehszU31WpebRIFo/rs:fit/g:sm/q:90/h:604/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxOTMy/Mzg5LTE2NDk0Nzg2/NjQtMTcxMy5qcGVn.jpeg"
-    - "https://i.discogs.com/_UqqwMawV2zrbf2jQtTE-pvCUJl2ZROuqd88rrvg6XQ/rs:fit/g:sm/q:90/h:616/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxOTMy/Mzg5LTE2NDk0Nzg2/NjktODUwMy5qcGVn.jpeg"
-    - "https://i.discogs.com/DmYfle1LF9J-78mgv4S6F8QfXZ4dl7umS5J4p3ogxPU/rs:fit/g:sm/q:90/h:609/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxOTMy/Mzg5LTE2NDk0Nzg2/NjQtMzg4NS5qcGVn.jpeg"
-    - "https://i.discogs.com/Js0e8iXllebKfRWpmhh_tRLaFt_sMQqVWPf5eXUE8Z0/rs:fit/g:sm/q:90/h:618/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxOTMy/Mzg5LTE2NDk0Nzg2/NjctNzQ3Mi5qcGVn.jpeg"
-    - "https://i.discogs.com/094nd_WzL5YIsyN43TtEqdtrrqMeKbpq55HaGJ4AOzM/rs:fit/g:sm/q:90/h:625/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxOTMy/Mzg5LTE2NDk0Nzg2/NjktOTU5OS5qcGVn.jpeg"
-    - "https://i.discogs.com/xZu3GxvhqroT_8YliUrTQj3ByZiiNISxxTCiyKMAffI/rs:fit/g:sm/q:90/h:607/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxOTMy/Mzg5LTE2NDk0Nzg2/NjgtOTYzNS5qcGVn.jpeg"
-    - "https://i.discogs.com/QWGy2w4Wut6L1aO4nCQwxMfDKy3nIU8aDx-7--cQitA/rs:fit/g:sm/q:90/h:618/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxOTMy/Mzg5LTE2NDk0Nzg2/NjktNDYyNy5qcGVn.jpeg"
-    - "https://i.discogs.com/rvqr65AQ_riP6cexiZD429OIdL9jPw_UHBNr7YYvlsE/rs:fit/g:sm/q:90/h:620/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxOTMy/Mzg5LTE2NDk0Nzg2/NjYtMjAwOC5qcGVn.jpeg"
-    - "https://i.discogs.com/9PGAWbj383fwpTOhlDiEjbXo_ft3Q8IQwZCb0qquLNw/rs:fit/g:sm/q:90/h:624/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxOTMy/Mzg5LTE2NDk0Nzg2/NzEtNjkyMy5qcGVn.jpeg"
-    - "https://i.discogs.com/FFs0JqeI_3VvwTXFt_2S8y_Wfe3sJfeynVFLLmcdKDE/rs:fit/g:sm/q:90/h:615/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxOTMy/Mzg5LTE2NDk0Nzg2/NjctNjQzMS5qcGVn.jpeg"
-    - "https://i.discogs.com/231j4w-N_4mAHN-sONYcJDOixkHGBCnFn_Yt5c8ld5k/rs:fit/g:sm/q:90/h:620/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxOTMy/Mzg5LTE2NDk0Nzg2/NzAtNTY5Ni5qcGVn.jpeg"
-    - "https://i.discogs.com/gE26fyTZ1amh2XZrk31nr3aZXEG7XDXxtnlz5fStMk0/rs:fit/g:sm/q:90/h:620/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxOTMy/Mzg5LTE2NDk0Nzg2/NjgtMTUyNy5qcGVn.jpeg"
-    - "https://i.discogs.com/Akk1MoDiOT9nqeYp9ZdMG5nqV-kdXjzReeH-WHtC0fU/rs:fit/g:sm/q:90/h:609/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxOTMy/Mzg5LTE2NDk0Nzg2/NjYtOTc0Ni5qcGVn.jpeg"
-    - "https://i.discogs.com/nEL6lc6k4VrM4hS_OUZbnLmRYc2UI5DVQFSfMK8loYs/rs:fit/g:sm/q:90/h:619/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxOTMy/Mzg5LTE2NDk0Nzg2/NjctNTgzMC5qcGVn.jpeg"
-    - "https://i.discogs.com/V1o4wGRLBWimv6kZ_oVqTAbZN6pHXfL9MF_CK8oaHVA/rs:fit/g:sm/q:90/h:609/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxOTMy/Mzg5LTE2NDk0Nzky/NDEtMjAxMC5qcGVn.jpeg"
-    - "https://i.discogs.com/PzBo9gl12t5R4kYfuKbv7xjvoDfzh-8JPpQocAPuTho/rs:fit/g:sm/q:90/h:608/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxOTMy/Mzg5LTE2NDk0Nzg2/NjgtMjA1MC5qcGVn.jpeg"
-    - "https://i.discogs.com/8n8cvo1IoAbT-JLYrwEXGndOyLOY3M4_lyfwCAQ-qi0/rs:fit/g:sm/q:90/h:614/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxOTMy/Mzg5LTE2NDk0Nzg2/NjktNTM0OS5qcGVn.jpeg"
+    - "https://i.discogs.com/MsK2A90VZhWCD-tg4fyH-78PzsmTEscGj29-2B7iDXQ/rs:fit/g:sm/q:90/h:600/w:584/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxOTMy/Mzg5LTE2NDk0Nzg2/NjktMjM0NS5qcGVn.jpeg"
+    - "https://i.discogs.com/-Vly7kzTeSrDh4IdZYNy5blNsoOLYL0to9ZFujN3AEc/rs:fit/g:sm/q:90/h:600/w:590/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxOTMy/Mzg5LTE2NDk0Nzg2/NjktMTU0NC5qcGVn.jpeg"
+    - "https://i.discogs.com/Sy7qn24Fw8WMh-mAhLjsWkdrReA-znvzhg0K6-0qSPE/rs:fit/g:sm/q:90/h:600/w:586/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxOTMy/Mzg5LTE2NDk0Nzg2/NjAtMjczNi5qcGVn.jpeg"
+    - "https://i.discogs.com/z12Akdpx8zDIiIUD9-GFHP-3OeHfqRldzJsGYup4WpU/rs:fit/g:sm/q:90/h:600/w:595/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxOTMy/Mzg5LTE2NDk0Nzg2/NjQtMTcxMy5qcGVn.jpeg"
+    - "https://i.discogs.com/RkAGFUvOOEgOsXxUcF2sUW-U1OSkzTGgWlnzr1KErFQ/rs:fit/g:sm/q:90/h:600/w:584/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxOTMy/Mzg5LTE2NDk0Nzg2/NjktODUwMy5qcGVn.jpeg"
+    - "https://i.discogs.com/9xuumdZsltTAClov3OweRVN3VSm3lDaRMpRbytEUf8M/rs:fit/g:sm/q:90/h:600/w:590/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxOTMy/Mzg5LTE2NDk0Nzg2/NjQtMzg4NS5qcGVn.jpeg"
+    - "https://i.discogs.com/uowPE8or52FKT6a5sZkCa77m09v6Jt8zc1J4bXAsNt0/rs:fit/g:sm/q:90/h:600/w:582/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxOTMy/Mzg5LTE2NDk0Nzg2/NjctNzQ3Mi5qcGVn.jpeg"
+    - "https://i.discogs.com/LiCnF0A_gXVW8UH3ArfRr8nsVmuxb9StldMrZb1B820/rs:fit/g:sm/q:90/h:600/w:575/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxOTMy/Mzg5LTE2NDk0Nzg2/NjktOTU5OS5qcGVn.jpeg"
+    - "https://i.discogs.com/c3yeaT4EpPuwW0Qh6iQeB_sNFu7t8hTmCjTivpTQ91U/rs:fit/g:sm/q:90/h:600/w:592/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxOTMy/Mzg5LTE2NDk0Nzg2/NjgtOTYzNS5qcGVn.jpeg"
+    - "https://i.discogs.com/dgX_pYW72Ss0h1c7QSlARHRiKKI8nb99jumWFKt02rg/rs:fit/g:sm/q:90/h:600/w:582/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxOTMy/Mzg5LTE2NDk0Nzg2/NjktNDYyNy5qcGVn.jpeg"
+    - "https://i.discogs.com/iKCb1R42xxj1fd4RewFewB8gbxAyVKgvCMhA0uZM7g4/rs:fit/g:sm/q:90/h:600/w:580/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxOTMy/Mzg5LTE2NDk0Nzg2/NjYtMjAwOC5qcGVn.jpeg"
+    - "https://i.discogs.com/m5vDoW4ah4Kw1UIZzzciosvCqPa9oYxUSXcva9dJhlA/rs:fit/g:sm/q:90/h:600/w:576/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxOTMy/Mzg5LTE2NDk0Nzg2/NzEtNjkyMy5qcGVn.jpeg"
+    - "https://i.discogs.com/O2SkTwwiLtECQ0As1EeydBfR-C81y3iT6aL93phwk8U/rs:fit/g:sm/q:90/h:600/w:584/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxOTMy/Mzg5LTE2NDk0Nzg2/NjctNjQzMS5qcGVn.jpeg"
+    - "https://i.discogs.com/h0OrtNv8lOEgiYsKXewihizp-wfmTFLIyfbckTjU9tk/rs:fit/g:sm/q:90/h:600/w:579/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxOTMy/Mzg5LTE2NDk0Nzg2/NzAtNTY5Ni5qcGVn.jpeg"
+    - "https://i.discogs.com/anFQXruB7yTr0kF6fK8t55L_xY8luD5Lbw9AiprpJ7Q/rs:fit/g:sm/q:90/h:600/w:579/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxOTMy/Mzg5LTE2NDk0Nzg2/NjgtMTUyNy5qcGVn.jpeg"
+    - "https://i.discogs.com/PZB7nj-Bhkf5yHExSxR5a1hNqNvjT2Q0hbR328huHdw/rs:fit/g:sm/q:90/h:600/w:590/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxOTMy/Mzg5LTE2NDk0Nzg2/NjYtOTc0Ni5qcGVn.jpeg"
+    - "https://i.discogs.com/l3_OjrBxk72YLAuD2CSmCUoJYuAovUjAsJf9lgXmejc/rs:fit/g:sm/q:90/h:600/w:581/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxOTMy/Mzg5LTE2NDk0Nzg2/NjctNTgzMC5qcGVn.jpeg"
+    - "https://i.discogs.com/tu0DNKEvRbAd5H4LK9_k5crekvN0zZUVJTKNtEypKyI/rs:fit/g:sm/q:90/h:600/w:590/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxOTMy/Mzg5LTE2NDk0Nzky/NDEtMjAxMC5qcGVn.jpeg"
+    - "https://i.discogs.com/JTmDe31cXLnsMb3YAUdKDnNz1-PLln94EiGA0_WROfU/rs:fit/g:sm/q:90/h:600/w:591/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxOTMy/Mzg5LTE2NDk0Nzg2/NjgtMjA1MC5qcGVn.jpeg"
+    - "https://i.discogs.com/QudSRj_YiOvf5PeH0rOkkukJ0_MFUEhH3fTF9o0UvLA/rs:fit/g:sm/q:90/h:600/w:585/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxOTMy/Mzg5LTE2NDk0Nzg2/NjktNTM0OS5qcGVn.jpeg"
     - "https://i.discogs.com/ch5oSlqveojQK6DxM3dXX4ujfxqf5kPCqtK48dfAOhU/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxOTMy/Mzg5LTE2NTM0MTkw/OTMtMzY3MS5qcGVn.jpeg"
     - "https://i.discogs.com/P3AK5BpYgx0_257ftFnMtLz_lQcg5t1Flt2C8bEeKT8/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxOTMy/Mzg5LTE2NTM0MTkw/OTMtMzQwMS5qcGVn.jpeg"
 genres: ["Rock", "Pop"]
@@ -103,6 +103,16 @@ TH: “It’s essentially a medley of the whole album. It’s got literal musica
 {{< youtube id="hg2FriyudSw" title="Black Country, New Road - 'Intro' (Official Audio)" >}}<br>
 ### More Videos
 
+- [Black Country, New Road - 'Chaos Space Marine' (Official Audio)](https://www.youtube.com/watch?v=Jqy6WPSfZSA)
+- [Black Country, New Road - 'Concorde' (Official Video)](https://www.youtube.com/watch?v=yjC4qXiBRu4)
+- [Black Country, New Road - 'Bread Song' (Official Audio)](https://www.youtube.com/watch?v=Hi8HjWTUqwI)
+- [Black Country, New Road - 'Good Will Hunting' (Official Audio)](https://www.youtube.com/watch?v=EX67uWOlbgs)
+- [Black Country, New Road - 'Haldern' (Official Audio)](https://www.youtube.com/watch?v=K9osutGvu64)
+- [Black Country, New Road - 'Mark’s Theme' (Official Audio)](https://www.youtube.com/watch?v=UlRdFR5owyI)
+- [Black Country, New Road - 'The Place Where He Inserted the Blade' (Official Audio)](https://www.youtube.com/watch?v=YPrs3DqraWM)
+- [Black Country, New Road - 'Snow Globes' (Official Audio)](https://www.youtube.com/watch?v=hTVwQ1Gjqas)
+- [Black Country, New Road - 'Basketball Shoes' (Official Audio)](https://www.youtube.com/watch?v=uOnjuIb1TWY)
+- [Black Country, New Road - 'Intro' (Official Audio)](https://www.youtube.com/watch?v=hg2FriyudSw)
 - [Black Country, New Road - 'Chaos Space Marine' (Official Audio)](https://www.youtube.com/watch?v=Jqy6WPSfZSA)
 - [Black Country, New Road - 'Concorde' (Official Video)](https://www.youtube.com/watch?v=yjC4qXiBRu4)
 - [Black Country, New Road - 'Bread Song' (Official Audio)](https://www.youtube.com/watch?v=Hi8HjWTUqwI)

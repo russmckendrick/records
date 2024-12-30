@@ -18,11 +18,16 @@ additional_images:
     - "https://i.discogs.com/BxKV17FwFoCRnzIAzVJvPnIGuBAmNpdeT4KQIYqE6YI/rs:fit/g:sm/q:90/h:575/w:575/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MDcz/NTQyLTE1ODkxODg2/MzctMzQ4My5qcGVn.jpeg"
     - "https://i.discogs.com/YuqRmo4Iaqi483ZRVyedp-CwyvWko-EyM6IlRSle7Mk/rs:fit/g:sm/q:90/h:539/w:539/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MDcz/NTQyLTE1ODkxODg2/MzYtNTczOC5qcGVn.jpeg"
     - "https://i.discogs.com/LyfYoIn4DrANEAO_gUsuvw8BWjX2f4NftPUjxjsfCmQ/rs:fit/g:sm/q:90/h:571/w:571/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MDcz/NTQyLTE1ODkxODg2/MzYtNjgzMi5qcGVn.jpeg"
-    - "https://i.discogs.com/Cj12aLyT2zRPf8nZl1Mf14OS2Q_wt9bwnIRDpaZMDYA/rs:fit/g:sm/q:90/h:643/w:482/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MDcz/NTQyLTE1ODkxODg2/MzYtOTA3OC5qcGVn.jpeg"
+    - "https://i.discogs.com/ThpGLV6dQwJArzypmb8uVYWdOfh_WOI6p2v6oL6cKL4/rs:fit/g:sm/q:90/h:600/w:449/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MDcz/NTQyLTE1ODkxODg2/MzYtOTA3OC5qcGVn.jpeg"
 genres: ["Rock"]
 styles: ["Psychedelic Rock"]
 ---
 
+Hip to the Jag is the debut solo studio album by Iranian-born musician Kavus Torabi released on Believers Roast on 22 May 2020.
+
+
+    
+    
 
 
 ## Tracklisting
@@ -47,6 +52,8 @@ styles: ["Psychedelic Rock"]
 ### More Videos
 
 - [Radio to Their World](https://www.youtube.com/watch?v=6GTexztI2gw)
+- [Kavus Torabi - Cemetery Of Light](https://www.youtube.com/watch?v=u_YbgWDWtbY)
+- [Radio to Their World](https://www.youtube.com/watch?v=6GTexztI2gw)
 
 ## Release Images
 {{< imageGrid >}}
@@ -54,6 +61,7 @@ styles: ["Psychedelic Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
+| Wikipedia URL | https://en.wikipedia.org/wiki/Hip_to_the_Jag |
 | Format         | Vinyl LP Album Limited Edition Stereo |
 | Label          | Believers Roast |
 | Catalog Number | BR23 |

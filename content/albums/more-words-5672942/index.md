@@ -16,7 +16,7 @@ additional_images:
     - "https://i.discogs.com/FfISbMLBrrX6B2TAnv3zbidIVBuQz-dUNjr9zoYkw1I/rs:fit/g:sm/q:90/h:340/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU2NzI5/NDItMTUxMjUxMTg0/Ni0zOTg5LmpwZWc.jpeg"
     - "https://i.discogs.com/uv4s5DSRffjRxjxcXgPmsR0Zdrsn3cn3b_Lga5lVunQ/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU2NzI5/NDItMTUxMjUxMTkw/NC04MTIwLmpwZWc.jpeg"
     - "https://i.discogs.com/MGgkpA60KxaTI-B_MKeMqDuqUL_mYh8SnJJeU3X-0LA/rs:fit/g:sm/q:90/h:576/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU2NzI5/NDItMTUxMjUxMTc2/Mi04OTA1LmpwZWc.jpeg"
-    - "https://i.discogs.com/7TZjypKCdrNFKdZQ3fbuM0f5fjEnMYvVs7RYFty3OlE/rs:fit/g:sm/q:90/h:616/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU2NzI5/NDItMTUxMjUxMTc2/Mi0zOTk0LmpwZWc.jpeg"
+    - "https://i.discogs.com/3Lv-gc7rsN954KsYIeCHAxmHUeZ-DtysXhiehSA6zOw/rs:fit/g:sm/q:90/h:600/w:584/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU2NzI5/NDItMTUxMjUxMTc2/Mi0zOTk0LmpwZWc.jpeg"
 genres: ["Folk, World, & Country"]
 styles: []
 ---
@@ -39,15 +39,20 @@ styles: []
 13. You Better Sit Down Kids
 14. Love Me As Though There Were No Tomorrow
 
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/gentle-on-my-mind/724424966" >}}<br>
 
 
 ## Videos
-### Gentle On My Mind , Glen Campbell , 1967 Vinyl
-{{< youtube id="VecunpIqlg0" title="Gentle On My Mind , Glen Campbell , 1967 Vinyl" >}}<br>
+### Dreams of the Everyday Housewife - Glen Campbell
+{{< youtube id="owoRK0rHUk8" title="Dreams of the Everyday Housewife - Glen Campbell" >}}<br>
 ### More Videos
 
 - [Dreams of the Everyday Housewife - Glen Campbell](https://www.youtube.com/watch?v=owoRK0rHUk8)
 - [Glen Campbell - Dreams Of The Everyday Housewife](https://www.youtube.com/watch?v=LonUQ5o-vLc)
+- [Long Black Limousine](https://www.youtube.com/watch?v=eKtFuNT41so)
+- [It's Over (Remastered 2001)](https://www.youtube.com/watch?v=Q_iFAVz9PbY)
+- [Gentle On My Mind (Remastered 2001)](https://www.youtube.com/watch?v=mfMnNqn-hKg)
 
 ## Release Images
 {{< imageGrid >}}

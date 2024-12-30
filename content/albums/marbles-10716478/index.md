@@ -23,16 +23,23 @@ additional_images:
     - "https://i.discogs.com/Q2pujkatSkmIF1y26mwZp9SDgnOfbU_j31MwHhTCEuU/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNzE2/NDc4LTE1MDI5Nzc4/NTctNDEwMi5qcGVn.jpeg"
     - "https://i.discogs.com/_tP44n98ly3iOxLmNjb4FwUa413gP7qRBnvGTK5XSZ0/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNzE2/NDc4LTE1NjAwMTk5/MzYtNDUxOC5qcGVn.jpeg"
     - "https://i.discogs.com/CtzZJLje6iH4PAliPi0rbbvRxs_TPwzS43o5sI7jzYA/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNzE2/NDc4LTE1NjAwMTk5/MzYtMzA5MC5qcGVn.jpeg"
-    - "https://i.discogs.com/n7vmtrJOJj7WuN_wHM7yJ4XW8zDvxCqMmHN84ks4Hpk/rs:fit/g:sm/q:90/h:601/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNzE2/NDc4LTE1NjAwMTk5/MzgtOTIwMS5qcGVn.jpeg"
-    - "https://i.discogs.com/H2YD5TNGsJrE8QTzHan5EBJa0neAfAveQLU0TtRWB-M/rs:fit/g:sm/q:90/h:603/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNzE2/NDc4LTE1NjAwMTk5/MzctMjAyNS5qcGVn.jpeg"
-    - "https://i.discogs.com/LAbelEg2fQrIaQFJGUhLmdW2_JDzpGcvXqrrjkbF1PM/rs:fit/g:sm/q:90/h:606/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNzE2/NDc4LTE1NjAwMTk5/MzctOTU0Ni5qcGVn.jpeg"
-    - "https://i.discogs.com/Nkg-esVxaS7-Fqgf24Pmp42si4REqQeqxlxK31novjc/rs:fit/g:sm/q:90/h:609/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNzE2/NDc4LTE1NjAwMTk5/MzgtNzA2Ny5qcGVn.jpeg"
+    - "https://i.discogs.com/9ZQBYoBSTKHRe3jGqpbxalFMl7NYFz7IBlpZPxp27lY/rs:fit/g:sm/q:90/h:600/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNzE2/NDc4LTE1NjAwMTk5/MzgtOTIwMS5qcGVn.jpeg"
+    - "https://i.discogs.com/oZiDubjbsvucKamYctYYN19TIB4A_mLl8ZQxIT_LFJs/rs:fit/g:sm/q:90/h:600/w:596/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNzE2/NDc4LTE1NjAwMTk5/MzctMjAyNS5qcGVn.jpeg"
+    - "https://i.discogs.com/VL4hX2A92V4fHAK18sYf3xiQInki-xgUE7jQIv6SqgQ/rs:fit/g:sm/q:90/h:600/w:593/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNzE2/NDc4LTE1NjAwMTk5/MzctOTU0Ni5qcGVn.jpeg"
+    - "https://i.discogs.com/C6Pm-tXVrD0YlRNRaj0aP32QZQTMrA6Er6R1XsDzDVw/rs:fit/g:sm/q:90/h:600/w:590/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNzE2/NDc4LTE1NjAwMTk5/MzgtNzA2Ny5qcGVn.jpeg"
     - "https://i.discogs.com/dvtQ_8Ux3U0xbGuDaWxOEPbVOwuxTb18xqVYWUPbOXw/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNzE2/NDc4LTE1MDI5Nzc4/NjgtNjMwMy5qcGVn.jpeg"
-    - "https://i.discogs.com/vSyXd32crR4v0NdYQ_H9ogH_egKp6lYQ1LPIUNkYseU/rs:fit/g:sm/q:90/h:738/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNzE2/NDc4LTE1MDQwNDcz/OTQtNjk3Mi5qcGVn.jpeg"
+    - "https://i.discogs.com/slVGjh4UykBVYXY0XKBL__S75SquKsYfsGxJYymVfLg/rs:fit/g:sm/q:90/h:600/w:487/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNzE2/NDc4LTE1MDQwNDcz/OTQtNjk3Mi5qcGVn.jpeg"
 genres: ["Rock"]
 styles: ["Prog Rock"]
 ---
 
+Marbles is the 13th studio album from rock band Marillion, released in 2004. Unlike their previous studio album, Anoraknophobia (2001), which was financed largely by a preorder campaign, the band funded the recording, and it was the publicity campaign that fans financed for the album. Those fans who pre-ordered the album received an exclusive 2-CD "Deluxe Campaign Edition" with a booklet containing the names of everyone who pre-ordered before a certain date. The public release date of the retail single-CD version of the album was 3 May 2004 while a plain 2-CD version was made available from the band's website. A limited (500 copy) edition was released on white multicoloured vinyl by Racket Records on 13 November 2006.
+In 2011, the 2-CD version became available as a  retail edition in a mediabook by the Madfish label, reissued in 2017 as a simpler digipak edition. Madfish also released the full album on vinyl for the first time, occupying three LPs. Another reissue of the CD appeared in 2021 on Kscope.
+The album did not chart in the UK, due to it being packaged with a couple of stickers, which is against chart rules.  So despite selling enough for a top 30 position, the album was declared ineligible for the album chart; however, its first single "You're Gone", reached #7 in the UK Singles Chart, thus becoming their first UK top ten hit since 1987's "Incommunicado". The follow-up single "Don't Hurt Yourself" peaked at #16. Classic Rock ranked Marbles #11 on their end-of-year list for 2004. The album is ranked at #53 on Prog Magazine's list of the Top 100 Prog Albums of All Time. 
+
+
+    
+    
 
 
 ## Tracklisting
@@ -57,10 +64,12 @@ styles: ["Prog Rock"]
 
 
 ## Videos
-### Marbles Iii
-{{< youtube id="_rfBi07AvKI" title="Marbles Iii" >}}<br>
+### The Invisible Man
+{{< youtube id="HE_QRAb9vFI" title="The Invisible Man" >}}<br>
 ### More Videos
 
+- [Marbles Iv](https://www.youtube.com/watch?v=Yju0KRVdHSo)
+- [Marbles Iii](https://www.youtube.com/watch?v=_rfBi07AvKI)
 - [Marbles I](https://www.youtube.com/watch?v=7GHSOH6x9eg)
 
 ## Release Images
@@ -69,6 +78,7 @@ styles: ["Prog Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
+| Wikipedia URL | https://en.wikipedia.org/wiki/Marbles_(album) |
 | Format         | Vinyl 3× LP Reissue, Box Set Album |
 | Label          | Madfish |
 | Catalog Number | SMALP1086 |

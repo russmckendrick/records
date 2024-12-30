@@ -18,16 +18,16 @@ additional_images:
     - "https://i.discogs.com/iEQ-CDDKC3diiedhzLJChS31otV2Wy9r6mTGmf0JLU0/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk5MTI2/NTctMTQ5MDIxMzAx/OS00ODc1LmpwZWc.jpeg"
     - "https://i.discogs.com/9Fv2Eu_CkjrvSuRvAFVAoMfxYj-Jjvg7mxfyB9_1DVk/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk5MTI2/NTctMTQ5MDIxMzAy/MS03MTM4LmpwZWc.jpeg"
     - "https://i.discogs.com/ell4DPRkJuKUasmxwZ1U7A4B1BxIaXBmgz2latxBzPg/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk5MTI2/NTctMTQ5MDIxMzAy/Mi03MzM1LmpwZWc.jpeg"
-    - "https://i.discogs.com/_RuYn1W-HF6VtTDVjZfkd_TWCB7cgKRFWv29Xu7Xu2A/rs:fit/g:sm/q:90/h:744/w:494/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk5MTI2/NTctMTQ5MDIxMzAy/My0yODQwLmpwZWc.jpeg"
-    - "https://i.discogs.com/DXV9R_9IALoQdDhD4nbSphcO0_32q7A1Km7m-QhgJu4/rs:fit/g:sm/q:90/h:760/w:497/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk5MTI2/NTctMTQ5MDIxMzAy/NS03NzI2LmpwZWc.jpeg"
-    - "https://i.discogs.com/dLLlJU53axuNwQk3sPgzUzJjVhtOPmjdlpaQaO2OxZE/rs:fit/g:sm/q:90/h:928/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk5MTI2/NTctMTQ5MDIxMzAy/OS0zNTYxLmpwZWc.jpeg"
-    - "https://i.discogs.com/27mQM5j6v4zkk19aSqtvqvtnWwrwB3NGkfkLYuB5_Rk/rs:fit/g:sm/q:90/h:933/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk5MTI2/NTctMTQ5MDIxMzAz/MC03NDEyLmpwZWc.jpeg"
-    - "https://i.discogs.com/0R5sCKLFRih48GxXcGhrMNXQSckxOFmB6mqnw5fxwIs/rs:fit/g:sm/q:90/h:925/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk5MTI2/NTctMTQ5MDIxMzAz/MS0xMTMxLmpwZWc.jpeg"
-    - "https://i.discogs.com/b-kgLGOs7E_Jgno51L-EhYJk5EA3G-hDB0C9IPoUCxM/rs:fit/g:sm/q:90/h:840/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk5MTI2/NTctMTQ5MDIxMzAz/Mi0xMTI2LmpwZWc.jpeg"
-    - "https://i.discogs.com/AunGLtR8sVodTvoFspwI8nRTEMqEmkC5JuP91kCWHQM/rs:fit/g:sm/q:90/h:832/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk5MTI2/NTctMTQ5MDIxMzAz/NC01NzQxLmpwZWc.jpeg"
-    - "https://i.discogs.com/WEx2MSx-tI7-dptLcDIlHElpghRHdex7pMI1_Sr7eoo/rs:fit/g:sm/q:90/h:932/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk5MTI2/NTctMTQ5MDIxMzAz/NS01Mjg0LmpwZWc.jpeg"
-    - "https://i.discogs.com/h5_xxoTBetPmwoZaXlbEipz35Msr8XC6C8MfPt5-xeI/rs:fit/g:sm/q:90/h:926/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk5MTI2/NTctMTQ5MDIxMzAz/Ni02MjI3LmpwZWc.jpeg"
-    - "https://i.discogs.com/2qzGDqTRm4QvAj51_mj-brXv3oLojbPm3_nUzdvi_aM/rs:fit/g:sm/q:90/h:931/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk5MTI2/NTctMTQ5MDIxMzAz/OC0zMjE2LmpwZWc.jpeg"
+    - "https://i.discogs.com/AI6rR4O51ym8WqCkMv3yhqgo3fFRqVFXLWJscVhyD3M/rs:fit/g:sm/q:90/h:600/w:398/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk5MTI2/NTctMTQ5MDIxMzAy/My0yODQwLmpwZWc.jpeg"
+    - "https://i.discogs.com/cXrHBI_LpJNalPZYpukCnzFb51TBxaQKPzx5TFlqArc/rs:fit/g:sm/q:90/h:600/w:392/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk5MTI2/NTctMTQ5MDIxMzAy/NS03NzI2LmpwZWc.jpeg"
+    - "https://i.discogs.com/iFQLj84t9SM4rT4dvZBPCJJSJAffOWOFbWywWJ3yG74/rs:fit/g:sm/q:90/h:600/w:387/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk5MTI2/NTctMTQ5MDIxMzAy/OS0zNTYxLmpwZWc.jpeg"
+    - "https://i.discogs.com/RZXT2iyjWXJGZ0iHQBqMGGHrKL44A00A82HiCvZ09Ow/rs:fit/g:sm/q:90/h:600/w:385/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk5MTI2/NTctMTQ5MDIxMzAz/MC03NDEyLmpwZWc.jpeg"
+    - "https://i.discogs.com/Op3_FUsHViMg7Yq0cE3A4qENy5c29jTuGDF45m3XkrU/rs:fit/g:sm/q:90/h:600/w:389/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk5MTI2/NTctMTQ5MDIxMzAz/MS0xMTMxLmpwZWc.jpeg"
+    - "https://i.discogs.com/ZLMSNjPRvmNSaES41LClk5PzNQ7TaiP5FVD9MqbsLZc/rs:fit/g:sm/q:90/h:600/w:428/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk5MTI2/NTctMTQ5MDIxMzAz/Mi0xMTI2LmpwZWc.jpeg"
+    - "https://i.discogs.com/GRG0tDU9eZDZyhe8pOOqrq6HyWqmmP4hv4K1wm7r06Y/rs:fit/g:sm/q:90/h:600/w:432/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk5MTI2/NTctMTQ5MDIxMzAz/NC01NzQxLmpwZWc.jpeg"
+    - "https://i.discogs.com/q9oh2ltsHG3KGvB1Q53uVRVjA09IF0gXwTsH-wBqxug/rs:fit/g:sm/q:90/h:600/w:386/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk5MTI2/NTctMTQ5MDIxMzAz/NS01Mjg0LmpwZWc.jpeg"
+    - "https://i.discogs.com/rkxh_7rlIE1_igJo1TSMNzlphT8hrJhVcN0JZ3tZmNw/rs:fit/g:sm/q:90/h:600/w:388/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk5MTI2/NTctMTQ5MDIxMzAz/Ni02MjI3LmpwZWc.jpeg"
+    - "https://i.discogs.com/1vf81E31NHOK16OY0GBVzCNdTO3nfbqKJwAGfdLEAEM/rs:fit/g:sm/q:90/h:600/w:386/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk5MTI2/NTctMTQ5MDIxMzAz/OC0zMjE2LmpwZWc.jpeg"
     - "https://i.discogs.com/xySlQPYcDV2QnP-gKO0QmpESH9IiWZO_buDzmRCofTs/rs:fit/g:sm/q:90/h:150/w:200/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk5MTI2/NTctMTQ5MDIxMzA0/MS02MzY1LmpwZWc.jpeg"
     - "https://i.discogs.com/A9tl6VGXpi_YwxI415E1aQvP_63o50uBXj2SV50GYhk/rs:fit/g:sm/q:90/h:593/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk5MTI2/NTctMTQ5MDIxMzA0/NC00NzQ0LmpwZWc.jpeg"
     - "https://i.discogs.com/F-5NSXFLpi6XwhRGhAeMVsH0JzUBnh9laDOeZkS_Nxc/rs:fit/g:sm/q:90/h:423/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk5MTI2/NTctMTQ4ODQxOTc4/OS0zNjgwLmpwZWc.jpeg"
@@ -54,7 +54,7 @@ styles: ["Indie Rock"]
 14. Finale
 
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/the-navigator/1181880598" >}}<br>
+{{< applemusic url="https://music.apple.com/gb/album/hurray-for-the-riff-raff/1169214981" >}}<br>
 
 
 ## Videos
@@ -66,6 +66,12 @@ styles: ["Indie Rock"]
 - [Hurray For The Riff Raff - The Navigator (Official Video)](https://www.youtube.com/watch?v=DqNAD0_zsuw)
 - [Hurray For the Riff Raff: “Rican Beach” (Official Music Video)](https://www.youtube.com/watch?v=TqfxkKR7y98)
 - [Hurray For The Riff Raff - Pa'lante (Official Video)](https://www.youtube.com/watch?v=LilVDjLaZSE)
+- [Entrance](https://www.youtube.com/watch?v=Z0T3sCrDSls)
+- [Hurray For The Riff Raff - Hungry Ghost (Official Music Video)](https://www.youtube.com/watch?v=6xRJ-MuN46E)
+- [Hurray For The Riff Raff - The Navigator (Official Video)](https://www.youtube.com/watch?v=DqNAD0_zsuw)
+- [Hurray For the Riff Raff: “Rican Beach” (Official Music Video)](https://www.youtube.com/watch?v=TqfxkKR7y98)
+- [Hurray For The Riff Raff - Pa'lante (Official Video)](https://www.youtube.com/watch?v=LilVDjLaZSE)
+- [Hurray For The Riff Raff - Hungry Ghost (Official Music Video)](https://www.youtube.com/watch?v=6xRJ-MuN46E)
 
 ## Release Images
 {{< imageGrid >}}

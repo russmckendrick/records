@@ -46,11 +46,12 @@ styles: ["Post Rock"]
 
 
 ## Videos
-### Crippled Black Phoenix - Sharks & Storms / Blizzard Of Horned Cats
-{{< youtube id="6Z-TufsJmDg" title="Crippled Black Phoenix - Sharks & Storms / Blizzard Of Horned Cats" >}}<br>
+### Crippled Black Phoenix - A Love of Shared Disasters [Full Album]
+{{< youtube id="zRFEJ32Rxh8" title="Crippled Black Phoenix - A Love of Shared Disasters [Full Album]" >}}<br>
 ### More Videos
 
-- [Crippled Black Phoenix - A Love of Shared Disasters [Full Album]](https://www.youtube.com/watch?v=zRFEJ32Rxh8)
+- [Crippled Black Phoenix - The Lament Of The Nithered Mercenary](https://www.youtube.com/watch?v=fAXf6jYgJBI)
+- [Crippled Black Phoenix - Sharks & Storms / Blizzard Of Horned Cats](https://www.youtube.com/watch?v=6Z-TufsJmDg)
 - [Crippled Black Phoenix - The Lament Of The Nithered Mercenary](https://www.youtube.com/watch?v=fAXf6jYgJBI)
 - [Crippled Black Phoenix - You Take The Devil Out Of Me](https://www.youtube.com/watch?v=W0S-MaHdA5E)
 - [Crippled Black Phoenix - Goodnight, Europe](https://www.youtube.com/watch?v=sId-R77QXko)

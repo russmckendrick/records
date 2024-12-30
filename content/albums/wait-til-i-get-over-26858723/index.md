@@ -25,6 +25,9 @@ genres: ["Funk / Soul"]
 styles: ["Soul", "Funk", "Bayou Funk"]
 ---
 
+Wait Til I Get Over is the first solo studio album by American musician Durand Jones, released on May 5, 2023, through Dead Oceans. It follows three albums by Jones as the singer of the group Durand Jones & The Indications, and is themed around his hometown in Louisiana. The album received acclaim from critics and charted in the top 40 in Scotland.
+    
+    
 
 
 ## Tracklisting
@@ -46,12 +49,12 @@ styles: ["Soul", "Funk", "Bayou Funk"]
 
 
 ## Videos
-### Durand Jones - Lord Have Mercy (Official Video)
-{{< youtube id="q1Eq7tpGTjc" title="Durand Jones - Lord Have Mercy (Official Video)" >}}<br>
+### Durand Jones - Wait Til I Get Over (Full Album) 2023
+{{< youtube id="zKfR2mdfHoI" title="Durand Jones - Wait Til I Get Over (Full Album) 2023" >}}<br>
 ### More Videos
 
-- [Durand Jones - Sadie (Official Lyric Video)](https://www.youtube.com/watch?v=JA7SYpE7U1s)
-- [Durand Jones - That Feeling (Official Video)](https://www.youtube.com/watch?v=sZpVPKfIVQ8)
+- [Gerri Marie](https://www.youtube.com/watch?v=trU0X7FPXuc)
+- [Wait Til I Get Over](https://www.youtube.com/watch?v=0xhaweCEEzE)
 
 ## Release Images
 {{< imageGrid >}}
@@ -59,6 +62,7 @@ styles: ["Soul", "Funk", "Bayou Funk"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
+| Wikipedia URL | https://en.wikipedia.org/wiki/Wait_Til_I_Get_Over |
 | Format         | Vinyl LP Album Limited Edition (Blue [Blue Jay]) |
 | Label          | Dead Oceans |
 | Catalog Number | DOC280 |

@@ -41,7 +41,7 @@ Immunity is the fourth studio album by English electronic musician and producer 
 8. Immunity
 
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/immunity/766062577" >}}<br>
+{{< applemusic url="https://music.apple.com/gb/album/immunity/1688995695" >}}<br>
 
 
 ## Videos
@@ -55,7 +55,7 @@ Immunity is the fourth studio album by English electronic musician and producer 
 - [Jon Hopkins - Form By Firelight [Immunity]](https://www.youtube.com/watch?v=8hj-ubtGqTw)
 - [Jon Hopkins - Sun Harmonics [Immunity]](https://www.youtube.com/watch?v=B0yES8tjCAg)
 - [Jon Hopkins - Immunity](https://www.youtube.com/watch?v=Y8eQR5DMous)
-- [Jon Hopkins - Open Eye Signal (Official Music Video)](https://www.youtube.com/watch?v=Q04ILDXe3QE)
+- [Jon Hopkins - "Open Eye Signal" (Official Music Video)](https://www.youtube.com/watch?v=Q04ILDXe3QE)
 - [Jon Hopkins - Open Eye Signal 125/Bpm - Vinyl](https://www.youtube.com/watch?v=7xRENp6n6os)
 - [Jon Hopkins - Immunity 81/Bpm - Vinyl](https://www.youtube.com/watch?v=APqBESvT66M)
 - [Jon Hopkins - Breathe This Air 135/Bpm - Vinyl](https://www.youtube.com/watch?v=2tUX142IMT8)

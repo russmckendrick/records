@@ -19,6 +19,9 @@ genres: ["Rock"]
 styles: ["Indie Rock", "Shoegaze"]
 ---
 
+Whirlpool is the debut studio album by English shoegaze band Chapterhouse. It was released on 29 April 1991 by Dedicated Records.
+    
+    
 
 
 ## Tracklisting
@@ -58,6 +61,7 @@ styles: ["Indie Rock", "Shoegaze"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
+| Wikipedia URL | https://en.wikipedia.org/wiki/Whirlpool_(Chapterhouse_album) |
 | Format         | Vinyl LP Album Limited Edition Numbered Reissue (Blue & Silver Marbled) |
 | Label          | Music On Vinyl |
 | Catalog Number | MOVLP2567 |

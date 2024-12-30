@@ -13,11 +13,11 @@ cover:
     caption: "The Underfall Yard by Big Big Train"
 additional_images:
     - "https://i.discogs.com/6LKmv3Xbm5wRY9Xii2bw2KnCWA1C0l_Xnhdlm_rLcyc/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4MzIx/MjU2LTE2MTg1Nzk4/OTItOTk5Mi5qcGVn.jpeg"
-    - "https://i.discogs.com/x2X0B7EgG9IDm46OCYHVDfb8vqZv6Wg5TBpjiZxLsXA/rs:fit/g:sm/q:90/h:607/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4MzIx/MjU2LTE2MTg1Nzk4/OTQtNjA1NS5qcGVn.jpeg"
-    - "https://i.discogs.com/vGLIxp1SpRzcFpPXR3X9KLAZXP1NmsgBGSe47DJZITU/rs:fit/g:sm/q:90/h:608/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4MzIx/MjU2LTE2MTg1Nzk4/OTAtNDI4MS5qcGVn.jpeg"
-    - "https://i.discogs.com/sJGlZMMdyRH88V7C8a7kqK0G7_5QWe7azj9MSkhoLPg/rs:fit/g:sm/q:90/h:609/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4MzIx/MjU2LTE2MTg1Nzk4/OTMtNDU0My5qcGVn.jpeg"
-    - "https://i.discogs.com/Loav-WjlKrFkBjkHZZdMQqVvyczhJab-suIlV7hC_tU/rs:fit/g:sm/q:90/h:608/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4MzIx/MjU2LTE2MTg1Nzk4/OTQtMjUyMi5qcGVn.jpeg"
-    - "https://i.discogs.com/tuVAYgUmaY2J_v4pDa67ImrQQ7PAvmCo3XL0ZBlR-eQ/rs:fit/g:sm/q:90/h:605/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4MzIx/MjU2LTE2MTg1Nzk4/OTQtNDU3Ni5qcGVn.jpeg"
+    - "https://i.discogs.com/ls4qAjqbBuIMvxM0jH82HWlY3UDJQaqhYih8XiFHXAc/rs:fit/g:sm/q:90/h:600/w:592/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4MzIx/MjU2LTE2MTg1Nzk4/OTQtNjA1NS5qcGVn.jpeg"
+    - "https://i.discogs.com/OY1xknU48NKJ1cqTmiNnbMH7DvUEJIWr_T40FZnlky8/rs:fit/g:sm/q:90/h:600/w:591/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4MzIx/MjU2LTE2MTg1Nzk4/OTAtNDI4MS5qcGVn.jpeg"
+    - "https://i.discogs.com/iIo_ORiRrEi4tKMfkdJ7AmEF0fvvWrHE8VKTyglAxLU/rs:fit/g:sm/q:90/h:600/w:590/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4MzIx/MjU2LTE2MTg1Nzk4/OTMtNDU0My5qcGVn.jpeg"
+    - "https://i.discogs.com/R0rdqeaUB5jv1YVWiL3iO7myqymtdQ7V2Khj6nfR-3E/rs:fit/g:sm/q:90/h:600/w:591/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4MzIx/MjU2LTE2MTg1Nzk4/OTQtMjUyMi5qcGVn.jpeg"
+    - "https://i.discogs.com/aLk29VY0A4J8rgq5b-1t8HN_N-5ycTxC4Q0jju0kYnM/rs:fit/g:sm/q:90/h:600/w:594/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4MzIx/MjU2LTE2MTg1Nzk4/OTQtNDU3Ni5qcGVn.jpeg"
     - "https://i.discogs.com/7mmP0-RLYIS4h2riYgoeOSLiXDyF5VjvdZR8SxBHsus/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4MzIx/MjU2LTE2MTg1Nzk4/OTItOTU1NC5qcGVn.jpeg"
     - "https://i.discogs.com/_Z7SdPO7r9NCrImZcBLHr053mYbqkGtYw1f1JoXN46I/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4MzIx/MjU2LTE2MTg1Nzk4/OTUtNTQ3Mi5qcGVn.jpeg"
     - "https://i.discogs.com/TwP9v50RsyUjJa-moActWBUL_wU3IqSrqnX02OfZaxY/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4MzIx/MjU2LTE2MTg1Nzk4/OTUtNzIzNC5qcGVn.jpeg"
@@ -28,19 +28,22 @@ genres: ["Rock"]
 styles: ["Prog Rock", "Symphonic Rock"]
 ---
 
+The Underfall Yard is the sixth studio album by the English progressive rock band Big Big Train, and their first to feature vocalist and multi-instrumentalist David Longdon. It was released on 15 December 2009, by English Electric Recordings.
+    
+    
 
 
 ## Tracklisting
-1. Evening Star (4:52)
-2. Master James Of St. George (6:11)
-3. Victorian Brickwork (12:53)
-4. Last Train (6:29)
-5. Winchester Diver (7:24)
-6. The Underfall Yard (23:10)
-7. Prelude To The Underfall Yard (2:23)
-8. The Underfall Yard (2020 Studio Version) (22:50)
-9. Songs From The Shoreline (18:57)
-10. Brew And Burgh (4:31)
+1. Evening Star
+2. Master James Of St. George
+3. Victorian Brickwork
+4. Last Train
+5. Winchester Diver
+6. The Underfall Yard
+7. Prelude To The Underfall Yard
+8. The Underfall Yard (2020 Studio Version)
+9. Songs From The Shoreline
+10. Brew And Burgh
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/the-underfall-yard/348683717" >}}<br>
@@ -63,6 +66,7 @@ styles: ["Prog Rock", "Symphonic Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
+| Wikipedia URL | https://en.wikipedia.org/wiki/The_Underfall_Yard |
 | Format         | Vinyl 3× LP Album Reissue Remastered Stereo (180 Gram, Remixed) |
 | Label          | Plane Groovy |
 | Catalog Number | PLG091 |

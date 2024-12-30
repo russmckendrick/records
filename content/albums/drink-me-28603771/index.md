@@ -12,15 +12,21 @@ cover:
     alt: "Drink Me by Salad"
     caption: "Drink Me by Salad"
 additional_images:
-    - "https://i.discogs.com/wqA0QD47iujP_A3DbfV_d7yNBMGNSjfygH435b0tcfo/rs:fit/g:sm/q:90/h:654/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4NjAz/NzcxLTE2OTczOTUz/NzQtMTI0Ny5qcGVn.jpeg"
-    - "https://i.discogs.com/9wd3dX7f_xrkuoxYPNImWhI4pNY9TxkxqfHyj02Uuhk/rs:fit/g:sm/q:90/h:647/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4NjAz/NzcxLTE2OTczOTUz/NzUtODA2MC5qcGVn.jpeg"
-    - "https://i.discogs.com/9UFj09n5wEuG9Gqpzm8TBDoDIlcAqMCAQrHG1rBF_VI/rs:fit/g:sm/q:90/h:633/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4NjAz/NzcxLTE2OTczOTUz/NzQtMjA4OS5qcGVn.jpeg"
-    - "https://i.discogs.com/eGylVzR60ZB4XQD-Acnw0l41mHK7V6CS678K8ZVRI9Q/rs:fit/g:sm/q:90/h:622/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4NjAz/NzcxLTE2OTczOTUz/NzQtMjI3OS5qcGVn.jpeg"
+    - "https://i.discogs.com/6BmXSb-IJh5SVVNWB89Q0RCFF4CubjRZOCyd0bjqIdE/rs:fit/g:sm/q:90/h:600/w:550/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4NjAz/NzcxLTE2OTczOTUz/NzQtMTI0Ny5qcGVn.jpeg"
+    - "https://i.discogs.com/JiYX1fPw7-BhyhsL8WP5SWoa2L91oUAdzCsHPBBa3X8/rs:fit/g:sm/q:90/h:600/w:556/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4NjAz/NzcxLTE2OTczOTUz/NzUtODA2MC5qcGVn.jpeg"
+    - "https://i.discogs.com/oUnUENQXj2aPux9o6LSJ7MEz_c16CzF-lYe3E7zumnY/rs:fit/g:sm/q:90/h:600/w:568/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4NjAz/NzcxLTE2OTczOTUz/NzQtMjA4OS5qcGVn.jpeg"
+    - "https://i.discogs.com/p2X2uhYzhHcJkwMAMCPxif9NfRK1O_CaW23k9tXLltI/rs:fit/g:sm/q:90/h:600/w:578/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4NjAz/NzcxLTE2OTczOTUz/NzQtMjI3OS5qcGVn.jpeg"
+    - "https://i.discogs.com/Cvu_CAWqVKa6R4Ku5AiuM4wEGD_fpx4Q-3gqrwu-_Wk/rs:fit/g:sm/q:90/h:600/w:574/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4NjAz/NzcxLTE2OTg1MjQ0/MjMtNTQ2Ny5qcGVn.jpeg"
+    - "https://i.discogs.com/dZuOxMYTDxquOR0hdN9GnoiR0TJUlLJPlQVJfKvR4pc/rs:fit/g:sm/q:90/h:591/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4NjAz/NzcxLTE2OTg1MjQ0/MjMtODQwMC5qcGVn.jpeg"
+    - "https://i.discogs.com/DAWYeEUukiyjo3r0-Mu1xAztXtublzHdfvX7IEMSqyg/rs:fit/g:sm/q:90/h:590/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4NjAz/NzcxLTE2OTg1MjQ0/MjMtNjI3My5qcGVn.jpeg"
+    - "https://i.discogs.com/Uda7TRUy3OQ_U8LQ3Bf7rZ-b9Qzh5CLq69j52Mw4XvE/rs:fit/g:sm/q:90/h:592/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4NjAz/NzcxLTE2OTg1MjQ0/MjMtODk2MS5qcGVn.jpeg"
 genres: ["Rock"]
 styles: ["Alternative Rock", "Indie Rock", "Britpop"]
 ---
 
 Drink Me is the first studio album by English Britpop band Salad, released in May 1995, a year after their compilation of singles and B-sides Singles Bar.
+
+
     
     
 
@@ -46,16 +52,17 @@ Drink Me is the first studio album by English Britpop band Salad, released in Ma
 
 
 ## Videos
-### Drink The Elixir
-{{< youtube id="T8tEwIMeQZY" title="Drink The Elixir" >}}<br>
+### SALAD   Drink the elixir   live french TV canal + Marijne
+{{< youtube id="9ZlgedIL0pA" title="SALAD   Drink the elixir   live french TV canal + Marijne" >}}<br>
 ### More Videos
 
-- [Salad - Motorbike To Heaven](https://www.youtube.com/watch?v=oHyye6ADYYA)
+- [Drink The Elixir](https://www.youtube.com/watch?v=T8tEwIMeQZY)
 - [Overhear Me](https://www.youtube.com/watch?v=Mu_PRR_zQn8)
-- [Salad - Drink The Elixir (Music Video)](https://www.youtube.com/watch?v=vV8QvsC68lk)
 - [Motorbike To Heaven](https://www.youtube.com/watch?v=ecU6UDHG_oM)
-- [Salad - Granite Statue (Music Video)](https://www.youtube.com/watch?v=6cSX1bBCRwI)
 - [Your Ma](https://www.youtube.com/watch?v=9o0E2X0yyCo)
+- [Salad - Motorbike To Heaven](https://www.youtube.com/watch?v=oHyye6ADYYA)
+- [Salad - Drink The Elixir (Music Video)](https://www.youtube.com/watch?v=vV8QvsC68lk)
+- [Salad - Granite Statue (Music Video)](https://www.youtube.com/watch?v=6cSX1bBCRwI)
 - [Salad - Your Ma (Music Video) New Audio](https://www.youtube.com/watch?v=TZ1t1mgMYVA)
 
 ## Release Images

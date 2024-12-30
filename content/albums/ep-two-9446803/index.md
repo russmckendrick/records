@@ -17,6 +17,12 @@ genres: ["Rock"]
 styles: ["Indie Rock"]
 ---
 
+Two (also referred to as epTwo) is the second EP release by British alternative rock band Hundred Reasons. Released on 6 August 2001, the EP was their first on Columbia Records after signing to the label.
+It features live favourite "Remmus" and two other songs - "Soapbox rally" and the original version of "Shine". "Shine" would later appear on their debut album Ideas Above Our Station. The CD also features the video for "Remmus".
+
+
+    
+    
 
 
 ## Tracklisting
@@ -32,7 +38,9 @@ styles: ["Indie Rock"]
 ## Videos
 ### Paul Draper - EP TWO (Full EP stream)
 {{< youtube id="bcdTlvuXUEA" title="Paul Draper - EP TWO (Full EP stream)" >}}<br>
+### More Videos
 
+- [Paul Draper - EP TWO (Full EP stream)](https://www.youtube.com/watch?v=bcdTlvuXUEA)
 
 ## Release Images
 {{< imageGrid >}}
@@ -40,6 +48,7 @@ styles: ["Indie Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
+| Wikipedia URL | https://en.wikipedia.org/wiki/Ep_Two |
 | Format         | Vinyl 12" 45 RPM EP Limited Edition Numbered (Clear) |
 | Label          | Kscope |
 | Catalog Number | KSCOPE935 |

@@ -23,6 +23,13 @@ genres: ["Rock", "Pop"]
 styles: ["Pop Rock"]
 ---
 
+0898 Beautiful South, also referred to as 0898, is the third studio album by English band the Beautiful South. After the success of their previous work over 1989–1991, the band hired prolific record producer Jon Kelly and recorded the album at AIR Studios in London. The album contains a more "muscular" yet sometimes more sombre sound than their previous albums, although still entirely retains lyricist Paul Heaton's witty and bitter lyrical style. The album "deals in fragile melodies and harmonies, soulful but low-key instrumentation, and lyrics full of subtle social commentary and humour." The album title refers to the 0898 premium rate dialling code associated with sex hotlines in the UK at the time.
+The album was released in March 1992 by the band's record label Go! Discs. Four singles were released from the album, two of them prior to its release; "Old Red Eyes Is Back", "We Are Each Other", "Bell Bottomed Tear" and "36D". It reached number 4 on the UK Album Chart, unlike their previous two albums which reached number 2; the record company blamed this on the cover which showed ladies' faces on the back of terrapins' shells. While the first two singles – "Old Red Eyes Is Back" and "We Are Each Other" – charted in the UK at No. 22 and No. 30 respectively, third single "Bell Bottomed Tear" was the only Top 20 hit from the album, reaching No. 16. "36D" was a relative disappointment after this success, only managing No. 46 in the singles charts. "We Are Each Other" was also a success on American alternative rock radio and peaked at No. 10 on the Billboard Modern Rock Tracks chart in 1992. It was the band's biggest hit in the United States.
+The album was a critical success, with reviewers praising its production, lyrics and distinct tone, although some critics recognise the album as being underrated. The album appeared on numerous lists of the best albums of 1992; Vox ranked it 18th, NME ranked it 44th and Robert Christgau placed it 53rd. The album was certified "Gold" by the British Phonographic Industry (BPI) for sales of over 200,000 copies.
+
+
+    
+    
 
 
 ## Tracklisting
@@ -44,15 +51,15 @@ styles: ["Pop Rock"]
 
 
 ## Videos
-### The Beautiful South - Old Red Eyes Is Back
-{{< youtube id="ggJYJ9frSl0" title="The Beautiful South - Old Red Eyes Is Back" >}}<br>
+### The Beautiful South - We Are Each Other
+{{< youtube id="oyB7inWkz_g" title="The Beautiful South - We Are Each Other" >}}<br>
 ### More Videos
 
+- [Beautiful South Bell Bottomed Tear](https://www.youtube.com/watch?v=viyU-YIkd8s)
+- [The Beautiful South - Old Red Eyes Is Back](https://www.youtube.com/watch?v=ggJYJ9frSl0)
+- [Beautiful South - When I'm 84](https://www.youtube.com/watch?v=H4P9uInSFks)
 - [The Beautiful South - Bell Bottomed Tear [Live]](https://www.youtube.com/watch?v=8EqtpCLUbvM)
 - [Here It Is Again](https://www.youtube.com/watch?v=cfIbFWrqGZ8)
-- [The Beautiful South - We Are Each Other](https://www.youtube.com/watch?v=oyB7inWkz_g)
-- [Beautiful South Bell Bottomed Tear](https://www.youtube.com/watch?v=viyU-YIkd8s)
-- [Beautiful South - When I'm 84](https://www.youtube.com/watch?v=H4P9uInSFks)
 
 ## Release Images
 {{< imageGrid >}}
@@ -60,6 +67,7 @@ styles: ["Pop Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
+| Wikipedia URL | https://en.wikipedia.org/wiki/0898_Beautiful_South |
 | Format         | Vinyl LP Album Reissue Stereo |
 | Label          | Go! Discs |
 | Catalog Number | 5743902 |

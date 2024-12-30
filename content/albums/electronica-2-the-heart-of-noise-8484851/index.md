@@ -12,21 +12,21 @@ cover:
     alt: "Electronica 2 - The Heart Of Noise by Jean-Michel Jarre"
     caption: "Electronica 2 - The Heart Of Noise by Jean-Michel Jarre"
 additional_images:
-    - "https://i.discogs.com/_Z9ehcn0IPF3IY_Qnnchr0wC3qGv-vysVhtHQA2Jc0A/rs:fit/g:sm/q:90/h:602/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg0ODQ4/NTEtMTQ2MzQzMzkw/MC0xNTUxLmpwZWc.jpeg"
-    - "https://i.discogs.com/nju0TZAgot72Pj1oMLc7DzBykSjWwg8QuyX6nRXaOlw/rs:fit/g:sm/q:90/h:603/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg0ODQ4/NTEtMTQ2MzQzMzkz/MC04MDQyLmpwZWc.jpeg"
-    - "https://i.discogs.com/tkv7xkSQR_vbiaQyPAX3rLAdYyjQoQD4IALzxV8pGMg/rs:fit/g:sm/q:90/h:604/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg0ODQ4/NTEtMTQ2MzQzMzkz/Ni0zNjE0LmpwZWc.jpeg"
-    - "https://i.discogs.com/QG_OIxtqlbqR4gvlZItGkxiyXxELg5L02gXIZFQ2UGI/rs:fit/g:sm/q:90/h:604/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg0ODQ4/NTEtMTQ2MzQzMzky/MS01MDAyLmpwZWc.jpeg"
+    - "https://i.discogs.com/14JpMPKLYl26jsCDTxeMvNRNmdF3_2-hmdo7D4aPdug/rs:fit/g:sm/q:90/h:600/w:597/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg0ODQ4/NTEtMTQ2MzQzMzkw/MC0xNTUxLmpwZWc.jpeg"
+    - "https://i.discogs.com/AbIDpM61UHgiTwMjqEepe2dcrgw43uuVGI34JfhNftE/rs:fit/g:sm/q:90/h:600/w:596/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg0ODQ4/NTEtMTQ2MzQzMzkz/MC04MDQyLmpwZWc.jpeg"
+    - "https://i.discogs.com/d2wXBwu0RbfLxXkEFm2ekncT3sU-dxjUNYgADuy7aO0/rs:fit/g:sm/q:90/h:600/w:595/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg0ODQ4/NTEtMTQ2MzQzMzkz/Ni0zNjE0LmpwZWc.jpeg"
+    - "https://i.discogs.com/6ksN781hsGOlpVei2nZTYyK4J9u93lTVHj9WMxfUuT0/rs:fit/g:sm/q:90/h:600/w:595/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg0ODQ4/NTEtMTQ2MzQzMzky/MS01MDAyLmpwZWc.jpeg"
     - "https://i.discogs.com/mKk6ERX879tGhCfV6jDMyLvuiCnFZezXpARoXP88l2s/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg0ODQ4/NTEtMTQ2MzQzMzk2/My0zMDU0LmpwZWc.jpeg"
     - "https://i.discogs.com/5lH_8WwzqP-PENaY6yBir1vQ52IQjsF8cy2rY9o_tXU/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg0ODQ4/NTEtMTQ2MzQzMzk2/OC04MTU3LmpwZWc.jpeg"
     - "https://i.discogs.com/Nb3H_JobOxiJnDCPpusdm9jAUM6CPluZ-bnGIgyJAGE/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg0ODQ4/NTEtMTQ2MzQzMzk3/Mi0yNjA0LmpwZWc.jpeg"
     - "https://i.discogs.com/ENkN96SiWfErbjvjDFY3iz54AaW4wzwEWxzSSMu-suM/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg0ODQ4/NTEtMTQ2MzQzMzk3/Ny0xOTQ5LmpwZWc.jpeg"
-    - "https://i.discogs.com/ly0F7nY-ZjiJJ5bn1mgmuviL8z2b3P8b3y_ydfpChKA/rs:fit/g:sm/q:90/h:605/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg0ODQ4/NTEtMTQ2MjcwODYw/MC02ODQ2LmpwZWc.jpeg"
+    - "https://i.discogs.com/OlKYcSaWLCG6ODXmqne3Apx-NwaZUaDQhCe--ixYF1A/rs:fit/g:sm/q:90/h:600/w:594/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg0ODQ4/NTEtMTQ2MjcwODYw/MC02ODQ2LmpwZWc.jpeg"
     - "https://i.discogs.com/hsf_8gOWljdCfNyDtChqmlpupnDU40xAx_4cP9c1DVA/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg0ODQ4/NTEtMTQ2MjcxMDc4/MS05NTcxLmpwZWc.jpeg"
     - "https://i.discogs.com/GFu-ZSoNthYpDGGLNI0TFqVsbkJmny3vUcqr267_vlY/rs:fit/g:sm/q:90/h:589/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg0ODQ4/NTEtMTQ2MjcxMDY5/OS0yMDI5LmpwZWc.jpeg"
-    - "https://i.discogs.com/LJ5rOT-7ENC7UW-821NrLuWSBTivFuNt1stnXEwt3_Y/rs:fit/g:sm/q:90/h:625/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg0ODQ4/NTEtMTQ2MzQzMzk0/NC0zMzcwLmpwZWc.jpeg"
-    - "https://i.discogs.com/nACt-iuy3zWlCzHsFZyVAvy5jpNehSQBVM_Oka-xUX0/rs:fit/g:sm/q:90/h:625/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg0ODQ4/NTEtMTQ2MzQzMzk0/OS0zMjQ3LmpwZWc.jpeg"
-    - "https://i.discogs.com/Gzo0OkiQcEovf7J17xmQbbCVeuZANGGOd2xVSydOyks/rs:fit/g:sm/q:90/h:624/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg0ODQ4/NTEtMTQ2MzQzMzk1/NC02NzczLmpwZWc.jpeg"
-    - "https://i.discogs.com/SlRwyxBiMTx58-bcBj4qA3WUMvZ32WG91MwnCEYIlXs/rs:fit/g:sm/q:90/h:624/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg0ODQ4/NTEtMTQ2MzQzMzk1/Ny03MzY1LmpwZWc.jpeg"
+    - "https://i.discogs.com/ENDHcLEaakscrgJ2Hs3WnD0qYA5d5t00oDB9p0kOpqM/rs:fit/g:sm/q:90/h:600/w:576/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg0ODQ4/NTEtMTQ2MzQzMzk0/NC0zMzcwLmpwZWc.jpeg"
+    - "https://i.discogs.com/uD_Z9s-HkV92FfhNdIXp8ELm5iBpWu2ggfPTslrNW9o/rs:fit/g:sm/q:90/h:600/w:576/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg0ODQ4/NTEtMTQ2MzQzMzk0/OS0zMjQ3LmpwZWc.jpeg"
+    - "https://i.discogs.com/MnmucuFkgAjEEIlhJG1hmm_YPmfrdsMJM5xku3cEK40/rs:fit/g:sm/q:90/h:600/w:576/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg0ODQ4/NTEtMTQ2MzQzMzk1/NC02NzczLmpwZWc.jpeg"
+    - "https://i.discogs.com/IZpfInUTw5zjoyIBBlvPSdb574gpNPtOoKRTko1JOlo/rs:fit/g:sm/q:90/h:600/w:576/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg0ODQ4/NTEtMTQ2MzQzMzk1/Ny03MzY1LmpwZWc.jpeg"
 genres: ["Electronic"]
 styles: ["Electro", "Synth-pop"]
 ---
@@ -57,11 +57,27 @@ styles: ["Electro", "Synth-pop"]
 
 
 ## Videos
-### Jean-Michel Jarre - The Heart of Noise (The Origin) (Official Music Video)
-{{< youtube id="RmLEsmmnsGw" title="Jean-Michel Jarre - The Heart of Noise (The Origin) (Official Music Video)" >}}<br>
+### 𝐉𝐄𝐀𝐍 𝐌𝐈𝐂𝐇𝐄𝐋 𝐉𝐀𝐑𝐑𝐄 - 𝐓𝐇𝐄 𝐇𝐄𝐀𝐑𝐓 𝐎𝐅 𝐍𝐎𝐈𝐒𝐄 (𝐄𝐋𝐄𝐂𝐓𝐑𝐎𝐍𝐈𝐂𝐀 𝟐 - 𝟐𝟎𝟏𝟔) 𝐅𝐔𝐋𝐋 𝐀𝐋𝐁𝐔𝐌
+{{< youtube id="xMIqsjtznek" title="𝐉𝐄𝐀𝐍 𝐌𝐈𝐂𝐇𝐄𝐋 𝐉𝐀𝐑𝐑𝐄 - 𝐓𝐇𝐄 𝐇𝐄𝐀𝐑𝐓 𝐎𝐅 𝐍𝐎𝐈𝐒𝐄 (𝐄𝐋𝐄𝐂𝐓𝐑𝐎𝐍𝐈𝐂𝐀 𝟐 - 𝟐𝟎𝟏𝟔) 𝐅𝐔𝐋𝐋 𝐀𝐋𝐁𝐔𝐌" >}}<br>
 ### More Videos
 
+- [The Heart of Noise, Pt. 2](https://www.youtube.com/watch?v=UWvY0-mwHM8)
 - [Jean-Michel Jarre - Electronica Vol 2: The Heart of Noise (Official Albumplayer)](https://www.youtube.com/watch?v=L2kjbfCEBiU)
+- [Electrees](https://www.youtube.com/watch?v=9FhqgY9pZTA)
+- [Swipe to the Right](https://www.youtube.com/watch?v=-2RHkcnue7Y)
+- [The Architect](https://www.youtube.com/watch?v=2Kh54MkQZNg)
+- [Jeff Mills & Jean Michel Jarre - The Architect](https://www.youtube.com/watch?v=C-ubvrIxsIg)
+- [(CLIP🎼 Stop motion) Jean-Michel Jarre Ft Jeff Mills "The Architect" - Jean Baptiste Cousin](https://www.youtube.com/watch?v=T29n6ovQdD0)
+- [Jean-Michel Jarre - The Heart of Noise (The Origin) (Official Music Video)](https://www.youtube.com/watch?v=RmLEsmmnsGw)
+- [Jean-Michel Jarre - Electronica Vol 2: The Heart of Noise (Official Albumplayer)](https://www.youtube.com/watch?v=L2kjbfCEBiU)
+- [𝐉𝐄𝐀𝐍 𝐌𝐈𝐂𝐇𝐄𝐋 𝐉𝐀𝐑𝐑𝐄 - 𝐓𝐇𝐄 𝐇𝐄𝐀𝐑𝐓 𝐎𝐅 𝐍𝐎𝐈𝐒𝐄 (𝐄𝐋𝐄𝐂𝐓𝐑𝐎𝐍𝐈𝐂𝐀 𝟐 - 𝟐𝟎𝟏𝟔) 𝐅𝐔𝐋𝐋 𝐀𝐋𝐁𝐔𝐌](https://www.youtube.com/watch?v=xMIqsjtznek)
+- [The Heart of Noise, Pt. 2](https://www.youtube.com/watch?v=UWvY0-mwHM8)
+- [Jean-Michel Jarre - Electronica Vol 2: The Heart of Noise (Official Albumplayer)](https://www.youtube.com/watch?v=L2kjbfCEBiU)
+- [Electrees](https://www.youtube.com/watch?v=9FhqgY9pZTA)
+- [Swipe to the Right](https://www.youtube.com/watch?v=-2RHkcnue7Y)
+- [The Architect](https://www.youtube.com/watch?v=2Kh54MkQZNg)
+- [Jeff Mills & Jean Michel Jarre - The Architect](https://www.youtube.com/watch?v=C-ubvrIxsIg)
+- [(CLIP🎼 Stop motion) Jean-Michel Jarre Ft Jeff Mills "The Architect" - Jean Baptiste Cousin](https://www.youtube.com/watch?v=T29n6ovQdD0)
 
 ## Release Images
 {{< imageGrid >}}

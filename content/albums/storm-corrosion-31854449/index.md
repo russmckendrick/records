@@ -13,6 +13,7 @@ cover:
     caption: "Storm Corrosion by Storm Corrosion"
 additional_images:
     - "https://i.discogs.com/W5nGAvBq_hfBO4GACRhVZe2WzU_JvLf32nQQxTPSRiA/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxODU0/NDQ5LTE3Mjc1MzU2/MjctNjAyMS5qcGVn.jpeg"
+    - "https://i.discogs.com/tuSuAammRi_UP5UAbYn3HZV3nQLqeQKdzhzT-gQ8cck/rs:fit/g:sm/q:90/h:600/w:524/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxODU0/NDQ5LTE3Mjc1NjA5/MTQtOTkyNS5qcGVn.jpeg"
     - "https://i.discogs.com/tUEDFIVPsn8NMkEKsAyJXmEFLd7CEqZRrhkFrv4SVYM/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxODU0/NDQ5LTE3Mjc1MzU2/MzMtNzc4MC5qcGVn.jpeg"
 genres: ["Rock"]
 styles: ["Experimental"]
@@ -33,7 +34,7 @@ Storm Corrosion is the self-titled only album from Storm Corrosion, the musical 
 7. Drag Ropes (live) (10:19)
 
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/storm-corrosion-special-edition/1756290726" >}}<br>
+{{< applemusic url="https://music.apple.com/gb/album/storm-corrosion-special-edition/1625668200" >}}<br>
 
 
 ## Videos

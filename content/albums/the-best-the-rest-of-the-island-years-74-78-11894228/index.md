@@ -12,11 +12,14 @@ cover:
     alt: "The Best & The Rest Of The Island Years 74-78 by Sparks"
     caption: "The Best & The Rest Of The Island Years 74-78 by Sparks"
 additional_images:
-    - "https://i.discogs.com/SnkEKjZ7hJ1_J8JkeiwoxrR91R0brMbnQw7KFi_hMuU/rs:fit/g:sm/q:90/h:495/w:500/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExODk0/MjI4LTE1MjQyODc1/OTYtNjY3MC5wbmc.jpeg"
-    - "https://i.discogs.com/GVpqT1LP8OpioZX7Pes3UHQrQUdx-Bzxc2E2GaA0Y9M/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExODk0/MjI4LTE1MjYwMzM1/NTktNDU5NS5qcGVn.jpeg"
-    - "https://i.discogs.com/NG2G0Oy4hmB0xA7u2QMc-4f21fRHQsdbJjCeqjTHk4c/rs:fit/g:sm/q:90/h:590/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExODk0/MjI4LTE2NTIwNzEz/MjktMTE3OS5qcGVn.jpeg"
-    - "https://i.discogs.com/3pNQarQmRnD08ZTqjzDB4QdkCo_e-567vZuTuUoYoUA/rs:fit/g:sm/q:90/h:593/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExODk0/MjI4LTE2NTIwNzEz/MzAtNzg3OC5qcGVn.jpeg"
-    - "https://i.discogs.com/qi_TqzU9t9AUryvVe2cKJpa1PQi04-vxBMVYaP4O77c/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExODk0/MjI4LTE2NTIwNzEz/MzAtNzM4Mi5qcGVn.jpeg"
+    - "https://i.discogs.com/JK3WDF6N0kFEy572K0NuuZKOiQd0bxz8VjsAY7xWPkA/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExODk0/MjI4LTE3MTQyMzM3/NzAtNTA0Ny5qcGVn.jpeg"
+    - "https://i.discogs.com/F4WVGJPaXCr9pfeRgsIWaItTeQpHx1MIelHoEfbhC48/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExODk0/MjI4LTE3MTQyMzM3/NzAtNjYzMy5qcGVn.jpeg"
+    - "https://i.discogs.com/9MjV0QDALymSDEmdu2oaUyyZB-jOKyHX6pNnDiWQVco/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExODk0/MjI4LTE3MTQyMzM3/NjktMjAzMC5qcGVn.jpeg"
+    - "https://i.discogs.com/ffPRaiig7ZwmBvMDT5v42nFeyZwXbDJG1_J4sZfqn9A/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExODk0/MjI4LTE3MTQyMzM3/NzAtOTk4Ny5qcGVn.jpeg"
+    - "https://i.discogs.com/wG2X3Z6YW04PiW3XziKah-mXkK_N3qSuOa-ubCn-tw8/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExODk0/MjI4LTE3MTQyMzM3/NzAtOTQ2OC5qcGVn.jpeg"
+    - "https://i.discogs.com/24r4ESRgWdZhm88KHteewF9w_s1P-mTlvAlGpB-XXxM/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExODk0/MjI4LTE3MTQyMzM3/NzAtMzQ2NS5qcGVn.jpeg"
+    - "https://i.discogs.com/-tJXYy4vGPv38Xb4tO5UO12rIeCuz_tF82PXtslxKOQ/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExODk0/MjI4LTE3MTQyMzM3/NzEtNTEzOS5qcGVn.jpeg"
+    - "https://i.discogs.com/uhMHXbYkJv_J2JIa-YXJSuDqnVWeqGUoD-u-HKadGss/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExODk0/MjI4LTE3MTQyMzM3/NzAtNjAwNy5qcGVn.jpeg"
 genres: ["Electronic", "Rock"]
 styles: ["Pop Rock", "Synth-pop", "Glam"]
 ---
@@ -54,7 +57,9 @@ styles: ["Pop Rock", "Synth-pop", "Glam"]
 ## Videos
 ### Record Store Day Preview 2018 / Sparks 2LP red vinyl
 {{< youtube id="YacRIGByJbo" title="Record Store Day Preview 2018 / Sparks 2LP red vinyl" >}}<br>
+### More Videos
 
+- [Record Store Day Preview 2018 / Sparks 2LP red vinyl](https://www.youtube.com/watch?v=YacRIGByJbo)
 
 ## Release Images
 {{< imageGrid >}}

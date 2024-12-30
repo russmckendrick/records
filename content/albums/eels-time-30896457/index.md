@@ -18,7 +18,7 @@ genres: ["Rock"]
 styles: ["Alternative Rock", "Indie Rock"]
 ---
 
-Eels Time! is the fifteenth studio album by American indie rock band Eels. It was released on June 7, 2024, through E Works/PIAS Recordings.
+Eels Time! is the 15th studio album by the American indie rock band Eels. It was released on June 7, 2024, through E Works/PIAS Recordings.
 
 
     
@@ -70,5 +70,5 @@ Eels Time! is the fifteenth studio album by American indie rock band Eels. It wa
 | Format         | Vinyl LP Album (Pink Translucent) |
 | Label          | E Works Records |
 | Catalog Number | EWORKS126 |
-| Notes | Made in Germany  Gatefold sleeve |
+| Notes | Made in Germany  Glossy gatefold sleeve. Full color printed cardboard inner sleeve with lyrics. |
 | Discogs URL    | [Eels - Eels Time!](https://www.discogs.com/release/30896457-Eels-Eels-Time) |

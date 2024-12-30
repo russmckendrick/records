@@ -13,15 +13,15 @@ cover:
     alt: "Piano & A Microphone 1983 by Prince"
     caption: "Piano & A Microphone 1983 by Prince"
 additional_images:
-    - "https://i.discogs.com/UZIwVqFZx3ZsC3zrARG6N6Lh8RGvTnAfzmSrg8LEE-k/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNTY0/MTU5LTE1Mzc3MDIx/MTAtNjI0NS5qcGVn.jpeg"
-    - "https://i.discogs.com/6X0NzvwTg4K8W90GVIzao3BNB8bdc23tVXA3RZUuxvA/rs:fit/g:sm/q:90/h:601/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNTY0/MTU5LTE1Mzc3MDIx/MDktMjEyOS5qcGVn.jpeg"
-    - "https://i.discogs.com/hG9ioC7WUkFitUoMh0MnF793Sy9dPNChV1ROXpf7sn4/rs:fit/g:sm/q:90/h:601/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNTY0/MTU5LTE1Mzc3MDIx/MTEtNDA0My5qcGVn.jpeg"
+    - "https://i.discogs.com/EyeFLDQhKTJvgW1TMHayAQZUP6cRpehqqADfcBMPsEw/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNTY0/MTU5LTE1Mzc3MDIx/MTAtNjI0NS5qcGVn.jpeg"
+    - "https://i.discogs.com/ovQxtDfESja9glYgnHon4KLRrJp55Ki80l_-c7i5mcs/rs:fit/g:sm/q:90/h:600/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNTY0/MTU5LTE1Mzc3MDIx/MDktMjEyOS5qcGVn.jpeg"
+    - "https://i.discogs.com/I3p4S0x2CNxj8kYBuVzV6n5QkpPIjTorC-FTTF3bNtk/rs:fit/g:sm/q:90/h:600/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNTY0/MTU5LTE1Mzc3MDIx/MTEtNDA0My5qcGVn.jpeg"
     - "https://i.discogs.com/ZmPrh9oI4ctMo5-8UEix2VtBXKDRf8pGyfLuD_g2ktA/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNTY0/MTU5LTE1Mzc3MDIx/MjItODA5OC5qcGVn.jpeg"
     - "https://i.discogs.com/D3dO-WoUAC5UzFzyl3DWxpexW0NkpeafR1NsIZHe8uw/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNTY0/MTU5LTE1Mzc3MDIx/MjItNDgzNi5qcGVn.jpeg"
-    - "https://i.discogs.com/FgQ3EzsBN6PXue_VNtABjCypCN0sVCwtPchdWP8kH3k/rs:fit/g:sm/q:90/h:611/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNTY0/MTU5LTE1Mzc3MDIx/MjEtNDI3Mi5qcGVn.jpeg"
-    - "https://i.discogs.com/Mk0X4v1nWGM8pREIRsjiVYlHulLkTMXBcMdqgo_5qeI/rs:fit/g:sm/q:90/h:604/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNTY0/MTU5LTE1Mzc3MDIx/MTgtMjk2OS5qcGVn.jpeg"
-    - "https://i.discogs.com/ujgCfkH3BURlfSL3PC2neLJVrBDW6TjNLXOCO3VDecs/rs:fit/g:sm/q:90/h:601/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNTY0/MTU5LTE1Mzc3MDIx/MTgtODIxOC5qcGVn.jpeg"
-    - "https://i.discogs.com/Fn2itJL8HlQZ-XJOSpI-vzSwbYOWhC6j7yj-sx1I-gE/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNTY0/MTU5LTE1Mzc3MDIx/MTEtODI5Mi5qcGVn.jpeg"
+    - "https://i.discogs.com/NGX8o28SP8UCHqgQ0Z56kJaD-1bA1p5GESDA35b_UYg/rs:fit/g:sm/q:90/h:600/w:588/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNTY0/MTU5LTE1Mzc3MDIx/MjEtNDI3Mi5qcGVn.jpeg"
+    - "https://i.discogs.com/hpohIoSmxywYQOIibAoY4bBRzcdXkfIv5TMnrEO2hLs/rs:fit/g:sm/q:90/h:600/w:595/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNTY0/MTU5LTE1Mzc3MDIx/MTgtMjk2OS5qcGVn.jpeg"
+    - "https://i.discogs.com/D_pl_6_9tfbkmL7uONdJb5buR57pVDgshohWyFGjbFg/rs:fit/g:sm/q:90/h:600/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNTY0/MTU5LTE1Mzc3MDIx/MTgtODIxOC5qcGVn.jpeg"
+    - "https://i.discogs.com/-TSEQ0rQicCwPy9NUf76xkzIe4ixRqA2ie-UePGP7C0/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNTY0/MTU5LTE1Mzc3MDIx/MTEtODI5Mi5qcGVn.jpeg"
     - "https://i.discogs.com/L5MGimyjH8olp4iMH5leYiGsjpWH13NUzuRNRWDJE-I/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNTY0/MTU5LTE1Mzc3MDIx/MTEtOTM1Ny5qcGVn.jpeg"
     - "https://i.discogs.com/ly1y6KXFkTohKew93tVBpHQ0mI9zTwjRuC3NvpTsIms/rs:fit/g:sm/q:90/h:305/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNTY0/MTU5LTE1Mzc3MDIx/MjEtMjkyNS5qcGVn.jpeg"
     - "https://i.discogs.com/gTBfrgedbRvPnCaefrr5t3wlVmWAGi10aCISiQQyzYY/rs:fit/g:sm/q:90/h:303/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNTY0/MTU5LTE1Mzc3MDIx/MTUtMjkyOS5qcGVn.jpeg"
@@ -50,19 +50,7 @@ You are forgiven if you feel a little uncomfortable listening to these recording
 {{< applemusic url="https://music.apple.com/gb/album/piano-a-microphone-1983/1393183394" >}}<br>
 
 
-## Videos
-### 17 Days (Piano & A Microphone 1983 Version)
-{{< youtube id="g1uZkgr2gHY" title="17 Days (Piano & A Microphone 1983 Version)" >}}<br>
-### More Videos
 
-- [A Case of You (Piano & A Microphone 1983 Version)](https://www.youtube.com/watch?v=SwkN-Eq_9qo)
-- [Mary Don't You Weep (Piano & A Microphone 1983 Version)](https://www.youtube.com/watch?v=DxbWRT7-Uno)
-- [Strange Relationship (Piano & A Microphone 1983 Version)](https://www.youtube.com/watch?v=tgXMqOlsoyg)
-- [Wednesday (Piano & A Microphone 1983 Version)](https://www.youtube.com/watch?v=nU8dxoxrnb8)
-- [Why the Butterflies](https://www.youtube.com/watch?v=rIbUjYzUpTI)
-- [Purple Rain (Piano & A Microphone 1983 Version)](https://www.youtube.com/watch?v=IVLfdZZY9NI)
-- [International Lover (Piano & A Microphone 1983 Version)](https://www.youtube.com/watch?v=l6SAhGuDh_0)
-- [Cold Coffee & Cocaine (Piano & A Microphone 1983 Version)](https://www.youtube.com/watch?v=jlyVa1ibBEc)
 
 ## Release Images
 {{< imageGrid >}}

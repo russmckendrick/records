@@ -4,7 +4,7 @@ artist_name: "Daryl Hall & John Oates"
 artist: "daryl-hall-john-oates"
 album_name: "Live At The Apollo"
 date: 2020-08-01T12:45:09.000000Z
-release_date: "1985-09-30"
+release_date: "1975-09-15"
 release_id: "1389988"
 slug: "live-at-the-apollo-1389988"
 hideSummary: true
@@ -14,12 +14,11 @@ cover:
     caption: "Live At The Apollo by Daryl Hall & John Oates"
 additional_images:
     - "https://i.discogs.com/_FgRRAfpkLkavKoZFz8kUlnoPnvKETjrHSHECwN6ric/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzODk5/ODgtMTMwMDYzOTk0/MC5qcGVn.jpeg"
-    - "https://i.discogs.com/njC5G-YjJ6986rffbZVUhyIECxnjK7NPP8VR4BtHlzQ/rs:fit/g:sm/q:90/h:582/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzODk5/ODgtMTMwMDYzOTk2/Mi5qcGVn.jpeg"
-    - "https://i.discogs.com/uAQT-AFVGXAAVVTnoAo1-7dzDGHPvqblqFeJbapP0pg/rs:fit/g:sm/q:90/h:582/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzODk5/ODgtMTMwMDYzOTk3/NS5qcGVn.jpeg"
-    - "https://i.discogs.com/On_ssQdQ_0ydExmG_NAKitqO98ha6MYUodHVMEeSqHk/rs:fit/g:sm/q:90/h:614/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzODk5/ODgtMTMwMDYzOTk5/OS5qcGVn.jpeg"
-    - "https://i.discogs.com/vQ3pZKNmnG8bb_rJ9SA-VZ2B8GlaLG4uZ2i42iE2S5A/rs:fit/g:sm/q:90/h:604/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzODk5/ODgtMTMwMDY0MDAy/NC5qcGVn.jpeg"
     - "https://i.discogs.com/jSrTBBOfnp6r-ZE1InFplo-7iYNntVdNQDcX8mTZZXg/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzODk5/ODgtMTIzNTc1Njg3/MC5qcGVn.jpeg"
     - "https://i.discogs.com/WTrm2gTx_W1Ll47_c99-ebSI9gW5M9-yIWCuInQHVP4/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzODk5/ODgtMTIzNTc1Njg5/OS5qcGVn.jpeg"
+    - "https://i.discogs.com/njC5G-YjJ6986rffbZVUhyIECxnjK7NPP8VR4BtHlzQ/rs:fit/g:sm/q:90/h:582/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzODk5/ODgtMTMwMDYzOTk2/Mi5qcGVn.jpeg"
+    - "https://i.discogs.com/FKHCWnrqAQlQXTE5GjuIdYJv_aBbLwVrTHWfAJ32yK4/rs:fit/g:sm/q:90/h:600/w:586/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzODk5/ODgtMTMwMDYzOTk5/OS5qcGVn.jpeg"
+    - "https://i.discogs.com/_IFjlKtsjBVgj7kg0SZ1N5Q7Bp6NjseFkzhn2T73HTY/rs:fit/g:sm/q:90/h:600/w:596/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzODk5/ODgtMTMwMDY0MDAy/NC5qcGVn.jpeg"
     - "https://i.discogs.com/SuYAzuxid2k_tzx32E_RL__yjQChFZUcdL_RGKj_3fU/rs:fit/g:sm/q:90/h:220/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzODk5/ODgtMTU5MTU0Mjg1/OC0xMTkzLmpwZWc.jpeg"
     - "https://i.discogs.com/XrUSAQvqjyNnnHtxSMpMiwdRwd45z24q7lGttUBwN08/rs:fit/g:sm/q:90/h:120/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzODk5/ODgtMTU5MTU0Mjg1/OC0zMzA3LmpwZWc.jpeg"
 genres: ["Rock", "Funk / Soul"]
@@ -45,7 +44,7 @@ On July 13, 1985, Daryl Hall, John Oates, Eddie Kendricks and David Ruffin appea
 9. Adult Education (6:05)
 
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/live-at-the-apollo/262058880" >}}<br>
+{{< applemusic url="https://music.apple.com/gb/album/daryl-hall-john-oates/217709553" >}}<br>
 
 
 ## Videos

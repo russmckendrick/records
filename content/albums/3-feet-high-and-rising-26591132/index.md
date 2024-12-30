@@ -13,7 +13,7 @@ cover:
     alt: "3 Feet High And Rising by De La Soul"
     caption: "3 Feet High And Rising by De La Soul"
 additional_images:
-    - "https://i.discogs.com/CsCyK-QCVM6jySnu2tiDeIVXtkj50Eu_qy3fIEBMGdY/rs:fit/g:sm/q:90/h:605/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NTkx/MTMyLTE2ODAyNTEx/NDMtNTg1Ni5qcGVn.jpeg"
+    - "https://i.discogs.com/PFm3Vn8UWdq3mAN7V8E_-Qyq9Z8DVBfQF5PitbbS_8k/rs:fit/g:sm/q:90/h:600/w:594/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NTkx/MTMyLTE2ODAyNTEx/NDMtNTg1Ni5qcGVn.jpeg"
     - "https://i.discogs.com/TaIOdpl9ASswMGfbOg0HwaGvvCodYlvW35hBjeGTTks/rs:fit/g:sm/q:90/h:416/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NTkx/MTMyLTE2ODAyNTEx/NTMtMTg2My5qcGVn.jpeg"
     - "https://i.discogs.com/NTgD1TG8eptyKPAvqw77DVfqGwTlVFCXcm1OKOgWogo/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NTkx/MTMyLTE2ODAyNjUw/NzMtNDM4My5qcGVn.jpeg"
     - "https://i.discogs.com/ECs0PzOMpY4n9Y_EGerDdDzSDia7dzpg5r3QBQ966LY/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NTkx/MTMyLTE2ODAyNjUw/NzMtMTE0Ni5qcGVn.jpeg"
@@ -70,17 +70,19 @@ Proudly eccentric and preaching their message of self-expression while dressed i
 23. D.A.I.S.Y. Age (4:46)
 
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/3-feet-high-and-rising/1657705063" >}}<br>
+{{< applemusic url="https://music.apple.com/gb/album/3-feet-high-and-rising/1673853423" >}}<br>
 
 
 ## Videos
-### De La Soul - Intro (Official Audio)
-{{< youtube id="yJj-gwsqEJw" title="De La Soul - Intro (Official Audio)" >}}<br>
+### De La Soul - Eye Know (Official Music Video) [HD] ft. Otis Redding
+{{< youtube id="q9jCsOCfUUg" title="De La Soul - Eye Know (Official Music Video) [HD] ft. Otis Redding" >}}<br>
 ### More Videos
 
+- [De La Soul - Me Myself and I (With Intro) (Official Music Video) [HD]](https://www.youtube.com/watch?v=zR9AlcgL6_0)
+- [De La Soul - Intro (Official Audio)](https://www.youtube.com/watch?v=yJj-gwsqEJw)
 - [De La Soul - The Magic Number (Official Lyric Video)](https://www.youtube.com/watch?v=pxkOWjZAPLs)
 - [De La Soul - Change In Speak (Official Audio)](https://www.youtube.com/watch?v=PXI8YSFjm3U)
-- [De La Soul - Cool Breeze on the Rocks (The Melted Version) (Official Audio)](https://www.youtube.com/watch?v=OwwaO_FxEco)
+- [De La Soul - Cool Breeze on the Rocks (1989)](https://www.youtube.com/watch?v=f7kDkEf2bwk)
 - [De La Soul - Can U Keep a Secret (Official Audio)](https://www.youtube.com/watch?v=Q6vzxBzjVKQ)
 - [De La Soul - Jenifa Taught Me (Derwin's Revenge) (Official Audio)](https://www.youtube.com/watch?v=3wYtCyAKbzE)
 - [De La Soul - Transmitting Live from Mars (Official Audio)](https://www.youtube.com/watch?v=7nFCOYP1Tow)
@@ -98,8 +100,7 @@ Proudly eccentric and preaching their message of self-expression while dressed i
 - [De La Soul - This is a Recording 4 Living in a Fulltime ERA (L.I.F.E.) (Official Audio)](https://www.youtube.com/watch?v=UxQXPk40DCw)
 - [De La Soul - I Can Do Anything (Delacratic) (Official Audio)](https://www.youtube.com/watch?v=MDznQE_zkn8)
 - [De La Soul - D.A.I.S.Y. Age (Official Audio)](https://www.youtube.com/watch?v=m7xAIN2cuBU)
-- [De La Soul - Eye Know (Official Music Video) [HD] ft. Otis Redding](https://www.youtube.com/watch?v=q9jCsOCfUUg)
-- [De La Soul - Me Myself and I (With Intro) (Official Music Video) [HD]](https://www.youtube.com/watch?v=zR9AlcgL6_0)
+- [De La Soul - Cool Breeze on the Rocks (The Melted Version) (Official Audio)](https://www.youtube.com/watch?v=OwwaO_FxEco)
 
 ## Release Images
 {{< imageGrid >}}

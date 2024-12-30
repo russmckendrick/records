@@ -12,13 +12,13 @@ cover:
     alt: "Return To Y'Hup The World Of Ivor Cutler by Citizen Bravo, Raymond MacDonald And Friends"
     caption: "Return To Y'Hup The World Of Ivor Cutler by Citizen Bravo, Raymond MacDonald And Friends"
 additional_images:
-    - "https://i.discogs.com/jagkSY-h6TDez3EnJ3Imljdo1V3p_yTr12jdsrZ1GLQ/rs:fit/g:sm/q:90/h:613/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NzAy/Nzc3LTE1Nzk5Njg4/NjQtOTMzNC5qcGVn.jpeg"
-    - "https://i.discogs.com/lur7E9uUhND7e77yrCAFpn2kV-d0LxSFD3kCKn3WIng/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NzAy/Nzc3LTE1Nzk5Njg4/NzYtNTM0Ny5qcGVn.jpeg"
-    - "https://i.discogs.com/et-51BKbdGhi-PlaQwl887R2lAIBD8rnyZCf62lQw34/rs:fit/g:sm/q:90/h:611/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NzAy/Nzc3LTE1Nzk5Njg4/ODMtNTQ2OS5qcGVn.jpeg"
-    - "https://i.discogs.com/rqYn7uzk4ECm-PnCpi1gZ4UExxWmTbMv4nUSXGiniok/rs:fit/g:sm/q:90/h:601/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NzAy/Nzc3LTE1Nzk5Njg4/ODQtNDIyNS5qcGVn.jpeg"
-    - "https://i.discogs.com/h7Fu4WmhP4gg7JgSpNX4mp9gXWDyVUng_af4I-0V7IQ/rs:fit/g:sm/q:90/h:606/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NzAy/Nzc3LTE1Nzk5Njg4/ODMtNjgxNy5qcGVn.jpeg"
-    - "https://i.discogs.com/WWFBSqCLvqFcWrgV-PsI-E1VKvegQY12OMoPJ5qZWcQ/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NzAy/Nzc3LTE1Nzk5Njg4/ODUtODgzMi5qcGVn.jpeg"
-    - "https://i.discogs.com/khpFpRJ4vu0imHAz30oV3zmLN6cyvicRC6aYRchNvFg/rs:fit/g:sm/q:90/h:863/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NzAy/Nzc3LTE1Nzk5Njg4/ODUtMjY3NC5qcGVn.jpeg"
+    - "https://i.discogs.com/tBg7FH4KZUbMJ9d3Xd7EhgbHypGzdPHxr94eFlJUaws/rs:fit/g:sm/q:90/h:600/w:586/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NzAy/Nzc3LTE1Nzk5Njg4/NjQtOTMzNC5qcGVn.jpeg"
+    - "https://i.discogs.com/4SmOHOpL3IXK_dfeWXWB9huvL7mKnlZRPHZo-Utykts/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NzAy/Nzc3LTE1Nzk5Njg4/NzYtNTM0Ny5qcGVn.jpeg"
+    - "https://i.discogs.com/xWYKWBJ-utmYuEzvhEp0g3IBa3WsdtJaH4Bj8yr818s/rs:fit/g:sm/q:90/h:600/w:589/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NzAy/Nzc3LTE1Nzk5Njg4/ODMtNTQ2OS5qcGVn.jpeg"
+    - "https://i.discogs.com/iymA-SpbMi4id6tk4xWsYjGwYsq9snxxVhyoyhOYefw/rs:fit/g:sm/q:90/h:600/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NzAy/Nzc3LTE1Nzk5Njg4/ODQtNDIyNS5qcGVn.jpeg"
+    - "https://i.discogs.com/2zSnDQhIfyaEwZqyJaixxnpdChJyfAyG1_UhRfROva0/rs:fit/g:sm/q:90/h:600/w:593/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NzAy/Nzc3LTE1Nzk5Njg4/ODMtNjgxNy5qcGVn.jpeg"
+    - "https://i.discogs.com/U5XT7ma_IWr8stCor-WDTFa8nXv95qshXQvHaV5CLWo/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NzAy/Nzc3LTE1Nzk5Njg4/ODUtODgzMi5qcGVn.jpeg"
+    - "https://i.discogs.com/pcjDkevTW7qyzo06TuTjEuD5zNiRdUj8NoB2pog4bfA/rs:fit/g:sm/q:90/h:600/w:416/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NzAy/Nzc3LTE1Nzk5Njg4/ODUtMjY3NC5qcGVn.jpeg"
 genres: ["Folk, World, & Country"]
 styles: []
 ---
@@ -53,11 +53,13 @@ styles: []
 25. Out Of Decency
 26. Beautiful Cosmos
 
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/return-to-yhup-the-world-of-ivor-cutler/1486201143" >}}<br>
 
 
 ## Videos
-### Ivor Cutler Here's A Health For Simon (performed by Citizen Bravo, Raymond MacDonald and Friends)
-{{< youtube id="aWMWR8eTLm0" title="Ivor Cutler Here's A Health For Simon (performed by Citizen Bravo, Raymond MacDonald and Friends)" >}}<br>
+### Ivor Cutler "Here's A Health For Simon" (performed by Citizen Bravo, Raymond MacDonald and Friends)
+{{< youtube id="aWMWR8eTLm0" title="Ivor Cutler "Here's A Health For Simon" (performed by Citizen Bravo, Raymond MacDonald and Friends)" >}}<br>
 ### More Videos
 
 - [Out of Decency](https://www.youtube.com/watch?v=AN_3nCGTbKo)

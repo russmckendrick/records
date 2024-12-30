@@ -16,12 +16,12 @@ additional_images:
     - "https://i.discogs.com/QChckeoCQZV16R9W7Gd8pAepndPYZ-6KkAH8fRIioY8/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MzQx/NDg3LTE1OTAwMDQ0/MzEtODcyNy5qcGVn.jpeg"
     - "https://i.discogs.com/suQqvGBxvwdkcmhT53CUT0ADsGIx_YRbm2rkHXcL3yI/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MzQx/NDg3LTE1OTEyNjMx/ODUtOTMyOS5qcGVn.jpeg"
     - "https://i.discogs.com/9-YJ9g1gKUn7HZ7Xc2Mtwy3lJ1x8bIqfpVLjwq6_Fao/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MzQx/NDg3LTE1OTEyNjMy/MDItNzAwMS5qcGVn.jpeg"
-    - "https://i.discogs.com/dd8F38QZJOh8Dy5Pp6ualPKhCrHeqRNvFl4QTf7QRUs/rs:fit/g:sm/q:90/h:605/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MzQx/NDg3LTE1OTEyNjMy/MTEtMTAyNC5qcGVn.jpeg"
+    - "https://i.discogs.com/V1RacUgrht6jkZZR0HC8e2JcsOWTSsaqwBXnJksr8sc/rs:fit/g:sm/q:90/h:600/w:594/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MzQx/NDg3LTE1OTEyNjMy/MTEtMTAyNC5qcGVn.jpeg"
 genres: ["Jazz", "Rock"]
 styles: ["Space Rock", "Psychedelic Rock", "Prog Rock"]
 ---
 
-Pungent Effulgent is the debut studio album by British psychedelic rock band Ozric Tentacles. Released in 1989 to wide acclaim, it followed the many cassette-only albums they released in the 1980s.
+Pungent Effulgent is the debut studio album by British rock band Ozric Tentacles. Released in 1989 to wide acclaim, it followed the many cassette-only albums they released in the 1980s.
     
     
 

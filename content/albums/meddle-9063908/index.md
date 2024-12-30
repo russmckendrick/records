@@ -4,7 +4,6 @@ artist_name: "Pink Floyd"
 artist: "pink-floyd"
 album_name: "Meddle"
 date: 2016-09-23T16:51:31.000000Z
-release_date: "1971-10-30"
 release_id: "9063908"
 slug: "meddle-9063908"
 hideSummary: true
@@ -14,23 +13,23 @@ cover:
     caption: "Meddle by Pink Floyd"
 additional_images:
     - "https://i.discogs.com/jT038nTOeosPd-2OCet_r_HC1kpZl0KEmS2aswPWywE/rs:fit/g:sm/q:90/h:594/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkwNjM5/MDgtMTQ3NDY1ODM3/Ni05MzkzLmpwZWc.jpeg"
-    - "https://i.discogs.com/QvV1q8O0OiT1ZrTQoQ2xwK1xi4zXQyZRiPl6xXo1bCQ/rs:fit/g:sm/q:90/h:593/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkwNjM5/MDgtMTQ3NDY1ODM3/NS02NTY2LmpwZWc.jpeg"
     - "https://i.discogs.com/9dnCkiyf1Sb9KneXTt8k-LV2O_hrn6OvEe7MPFKH7Ac/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkwNjM5/MDgtMTQ3NDY1ODM3/Ni00Mzg2LmpwZWc.jpeg"
     - "https://i.discogs.com/LtyywcGid_SSNy3K7GeKk_slCWSApX9ZvAR-m6b9DIk/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkwNjM5/MDgtMTQ3NDY1ODM3/Ni04NTY0LmpwZWc.jpeg"
-    - "https://i.discogs.com/WUXuXDZw_fpRm88g6AatX0IuRTOHPpAEqqKfCXr--Dw/rs:fit/g:sm/q:90/h:288/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkwNjM5/MDgtMTQ3NDY1ODM3/Ni01MDYxLmpwZWc.jpeg"
     - "https://i.discogs.com/0sHkHAn8ARfrzslOU4a_6BOS-25D3uy1EZx4Hx97VX0/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkwNjM5/MDgtMTQ3NDY1ODM3/Ni0xMDM2LmpwZWc.jpeg"
     - "https://i.discogs.com/_B6XvX5dIjs7sxlseiC8k5O0MtNJJ8UoO5o1HknkTE0/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkwNjM5/MDgtMTQ3NDY1MDIz/Mi01MDM2LmpwZWc.jpeg"
     - "https://i.discogs.com/WqP0oG9HfGk0wKXueaiLgClbTLm7iUSjacnFRwvHqSA/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkwNjM5/MDgtMTQ3NDY1MDIz/My0zMzUzLmpwZWc.jpeg"
-    - "https://i.discogs.com/MGmbwb08POX0cuFbp2tXbzyEmk1VDHOuSljTeCLxS4M/rs:fit/g:sm/q:90/h:1169/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkwNjM5/MDgtMTQ3NDY1MDIz/NC0xODczLmpwZWc.jpeg"
+    - "https://i.discogs.com/rGg4zlmxBqLNX7vIKk8hRspXW9ngWnfSsOItuMg_uEs/rs:fit/g:sm/q:90/h:600/w:307/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkwNjM5/MDgtMTQ3NDY1MDIz/NC0xODczLmpwZWc.jpeg"
+    - "https://i.discogs.com/QvV1q8O0OiT1ZrTQoQ2xwK1xi4zXQyZRiPl6xXo1bCQ/rs:fit/g:sm/q:90/h:593/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkwNjM5/MDgtMTQ3NDY1ODM3/NS02NTY2LmpwZWc.jpeg"
 genres: ["Rock"]
 styles: ["Psychedelic Rock", "Prog Rock"]
 ---
 
-Meddle is the sixth studio album by English rock band Pink Floyd,  released by Harvest Records. The album was produced between the band's touring commitments, from January to August 1971 at a series of locations around London, including EMI Studios (now Abbey Road Studios) and Morgan Studios.
-With no material to work with and no clear idea of the album's direction, the band devised a series of novel experiments which eventually inspired the album's signature track "Echoes".  Although the band's later albums would be unified by a central theme with lyrics written entirely by Roger Waters, Meddle was a group effort with lyrics primarily by Waters, and is considered a transitional album between the Syd Barrett-influenced group of the late 1960s and the Waters-led era.  One single, "One of These Days" b/w "Fearless", was released from the album.  
-The cover has been explained by its creator Storm Thorgerson to be an ear underwater; as with several previous albums designed by Hipgnosis, though, Thorgerson was unhappy with the final result. The album was well received by critics upon its release, and was commercially successful in the United Kingdom, but lacklustre publicity on the part of the band's American label Capitol Records led to poor sales there upon initial release.
-        
-        
+Meddle is the sixth studio album by the English rock band Pink Floyd, released by Harvest Records on 5 November 1971 in the United Kingdom. The album was produced between the band's touring commitments, from January to August 1971 at a series of locations around London, including EMI Studios (now Abbey Road Studios) and Morgan Studios.
+With no material to work with and no clear idea of the album's direction, the band devised a series of novel experiments which eventually inspired the album's signature track "Echoes". Although the band's later albums would be unified by a central theme chosen by Roger Waters, and thematically consistent lyrics written entirely by Waters, Meddle was a group effort with Waters contributing primarily to the lyrics and the bass. It is considered a transitional album between the Syd Barrett-influenced group of the 1960s and the Waters-led era of the 1970s.  Fans often refer to this album, especially "Echoes", as the first instance of the group achieving their musical potential.
+As with several previous albums, the cover was designed by Hipgnosis, and has been explained by its creator Storm Thorgerson – who was unhappy with the final result – to be an ear underwater. The album was well received by critics upon its release, and was commercially successful in the United Kingdom, but lacklustre publicity on the part of the band's American label Capitol Records led to poor sales in the US upon initial release.
+
+
+    
     
 
 
@@ -43,16 +42,18 @@ The cover has been explained by its creator Storm Thorgerson to be an ear underw
 6. Echoes
 
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/meddle/699632611" >}}<br>
+{{< applemusic url="https://music.apple.com/gb/album/pink-floyd/278703138" >}}<br>
 
 
 ## Videos
-### One Of These Days
-{{< youtube id="48PJGVf4xqk" title="One Of These Days" >}}<br>
+### Pink Floyd - One of these Days (Official Audio)
+{{< youtube id="raV_A8YcBu0" title="Pink Floyd - One of these Days (Official Audio)" >}}<br>
 ### More Videos
 
-- [Echoes](https://www.youtube.com/watch?v=53N99Nim6WE)
-- [Pink Floyd - Meddle (Full Album)](https://www.youtube.com/watch?v=90zyF3gPF8M)
+- [Pink Floyd - A Pillow Of Winds (Official Audio)](https://www.youtube.com/watch?v=Hgx267jVma0)
+- [Pink Floyd - Fearless (Official Audio)](https://www.youtube.com/watch?v=IkgaMFjo_lI)
+- [Pink Floyd - San Tropez (Official Audio)](https://www.youtube.com/watch?v=mjNYO-OI2Fo)
+- [Pink Floyd - Echoes (Official Audio)](https://www.youtube.com/watch?v=OcDiOUQBFd4)
 
 ## Release Images
 {{< imageGrid >}}

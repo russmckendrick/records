@@ -12,14 +12,19 @@ cover:
     alt: "Hell's Ditch by The Pogues"
     caption: "Hell's Ditch by The Pogues"
 additional_images:
-    - "https://i.discogs.com/Yx7GXpfgxnjcoow7XWTPK9y78geznsIdgsDyadMzIvw/rs:fit/g:sm/q:90/h:601/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MTg3/MDE4LTE2MDYxMzM5/MTUtOTQ4My5qcGVn.jpeg"
+    - "https://i.discogs.com/MPoJT0tO9hVDpGJOYt4aawCmwtOL4s9DDLwx7eleWQU/rs:fit/g:sm/q:90/h:600/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MTg3/MDE4LTE2MDYxMzM5/MTUtOTQ4My5qcGVn.jpeg"
     - "https://i.discogs.com/KB_G3_d812WDK2OQDVLWmlWetk3qmc0-uzQmECX8Hm8/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MTg3/MDE4LTE2MDYxMzM5/MDQtNTcwOC5qcGVn.jpeg"
-    - "https://i.discogs.com/3WAEOKHAW3KmVALb4brhUq9cfYtLLtDtZ8V4AOIYZ2k/rs:fit/g:sm/q:90/h:609/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MTg3/MDE4LTE2MDQ5NDY0/NDUtNDE3NC5qcGVn.jpeg"
+    - "https://i.discogs.com/h1aotgLrMDg83iU91POAw8i7SmpAF7oLmQbTnBdEpLg/rs:fit/g:sm/q:90/h:600/w:590/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MTg3/MDE4LTE2MDQ5NDY0/NDUtNDE3NC5qcGVn.jpeg"
     - "https://i.discogs.com/emcehxQm7r5B0ffrSSPW_Y50pnNYPda5TGOzrw-ecFk/rs:fit/g:sm/q:90/h:531/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MTg3/MDE4LTE2MDQ5NDY0/NDUtMTEwNi5qcGVn.jpeg"
 genres: ["Rock"]
 styles: ["Folk Rock"]
 ---
 
+Hell's Ditch is the fifth studio album by the Pogues, released on 1 October 1990, and the last to feature frontman Shane MacGowan as a member.
+
+
+    
+    
 
 
 ## Tracklisting
@@ -56,9 +61,9 @@ styles: ["Folk Rock"]
 - [Six to Go](https://www.youtube.com/watch?v=j7pLeAGsFCs)
 - [House of the Gods](https://www.youtube.com/watch?v=lwVnHE8NniU)
 - [The Pogues - Sayonara](https://www.youtube.com/watch?v=r3bw1pdW5fU)
-- [The Pogues - Summer In Siam](https://www.youtube.com/watch?v=66quTi26YLY)
 - [The Pogues ~ Hell's Ditch](https://www.youtube.com/watch?v=wn1yVnkYXnY)
 - [The Pogues- sayonara(Lyrics)](https://www.youtube.com/watch?v=5PsERlOwYsw)
+- [The Pogues - Summer In Siam](https://www.youtube.com/watch?v=66quTi26YLY)
 - [The Pogues - Summer In Siam](https://www.youtube.com/watch?v=uepk00K-vfE)
 
 ## Release Images
@@ -67,6 +72,7 @@ styles: ["Folk Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
+| Wikipedia URL | https://en.wikipedia.org/wiki/Hell%27s_Ditch |
 | Format         | Vinyl LP Album Limited Edition Reissue (Orange Translucent, 180g) |
 | Label          | Pogue Mahone Records |
 | Catalog Number | 825646255856 |

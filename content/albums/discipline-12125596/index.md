@@ -21,7 +21,10 @@ genres: ["Rock"]
 styles: ["Prog Rock"]
 ---
 
-Discipline is the eighth studio album by English progressive rock band King Crimson, released on 22 September 1981 by E.G. Records in the United Kingdom and by Warner Bros. Records in the United States.This album was King Crimson's first following a seven-year hiatus. Only band co-founder and guitarist Robert Fripp and drummer Bill Bruford remained from the previous incarnation. They were joined by two American musicians: guitarist, vocalist and lyricist Adrian Belew and bassist and backing vocalist Tony Levin. The album introduced a new sound for the band, influenced by new wave, post-punk and world music, while retaining an experimental character, helping lay the groundwork for what would eventually be known as post-progressive rock.
+Discipline is the eighth studio album by English progressive rock band King Crimson, released on 2 October 1981 by E.G. Records in the United Kingdom and by Warner Bros. Records in the United States.
+This album was King Crimson's first following a seven-year hiatus. Only band co-founder and guitarist Robert Fripp and drummer Bill Bruford remained from the previous incarnation. They were joined by two American musicians: vocalist, guitarist and frontman Adrian Belew, previously a member of Frank Zappa and David Bowie's backing bands and a touring member of Talking Heads, and bassist, Chapman Stick player, and backing vocalist Tony Levin, a session musician Fripp had met while both were working with Peter Gabriel. The album introduced a new sound for the band, influenced by new wave, post-punk, minimalism and Indonesian gamelan music, while retaining an experimental character, helping lay the groundwork for what would eventually become known as post-progressive rock.
+
+
     
     
 
@@ -41,9 +44,12 @@ Discipline is the eighth studio album by English progressive rock band King Crim
 
 
 ## Videos
-### King Crimson - Discipline
-{{< youtube id="en5YRCvppIA" title="King Crimson - Discipline" >}}<br>
+### King Crimson - Indiscipline
+{{< youtube id="tH3phKBbVLs" title="King Crimson - Indiscipline" >}}<br>
+### More Videos
 
+- [King Crimson - Thela Hun Ginjeet](https://www.youtube.com/watch?v=nOrYTBaT1z0)
+- [King Crimson - Elephant Talk](https://www.youtube.com/watch?v=YecBv-5JXmQ)
 
 ## Release Images
 {{< imageGrid >}}

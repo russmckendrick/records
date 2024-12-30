@@ -16,7 +16,7 @@ additional_images:
     - "https://i.discogs.com/qjAg7iCF994KkLxePAQAl2oSydAbglykWdVeOgHquZw/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MDEy/NDYtMTQ1MTE1Nzg3/Ny01MTEyLmpwZWc.jpeg"
     - "https://i.discogs.com/CHpC6DNFmymqumwRVRfh6YRbwuat_e2PGp5uRJ4OxXw/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MDEy/NDYtMTQwNzkxODY0/Ny05NDIxLmpwZWc.jpeg"
     - "https://i.discogs.com/d2m8fUBDGTpckFIgaScIo-LI38MzF_Q36XBbpfYYaZY/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MDEy/NDYtMTQ1MTE1NjUx/Ny04NDEwLmpwZWc.jpeg"
-    - "https://i.discogs.com/nTwkad1UZuWXq7PVpqiWkcHlSydWFekcqP3xgeZU-Cg/rs:fit/g:sm/q:90/h:603/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MDEy/NDYtMTQ1MTE1NjUx/OC0yNDUxLmpwZWc.jpeg"
+    - "https://i.discogs.com/9gcv2YBITzg6FWQWIaIkxIetOPHCe7rooKv17DV8nZU/rs:fit/g:sm/q:90/h:600/w:597/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MDEy/NDYtMTQ1MTE1NjUx/OC0yNDUxLmpwZWc.jpeg"
     - "https://i.discogs.com/Pd8rUG7uC1zQlE1A3y_NNBUVVCtCfajYuXqVdMYJPK0/rs:fit/g:sm/q:90/h:400/w:400/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MDEy/NDYtMTI5MTA1MTg0/NC5qcGVn.jpeg"
     - "https://i.discogs.com/bMztWh5cLCg10WvxEfjJr_2xkI22AF5dSXgB5lK8GH0/rs:fit/g:sm/q:90/h:400/w:401/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MDEy/NDYtMTI5MTA1MTg1/My5qcGVn.jpeg"
     - "https://i.discogs.com/ENBvjmKpO9PsPVfgaxlUr9_cpGbNoWOJNcpDmlNESjg/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MDEy/NDYtMTM3MzA5ODg0/Ny02ODgyLmpwZWc.jpeg"
@@ -56,9 +56,23 @@ For as otherworldly as the final moments and last gasp of Lead Belly’s “Wher
 
 
 ## Videos
-### Выпуск №70. Nirvana ‎– MTV Unplugged In New York(Vinyl, LP, Album, Reissue, Repress, 180 Gram)
-{{< youtube id="S7wAMvmTjJY" title="Выпуск №70. Nirvana ‎– MTV Unplugged In New York(Vinyl, LP, Album, Reissue, Repress, 180 Gram)" >}}<br>
+### Nirvana - About A Girl (Live On MTV Unplugged, 1993 / Unedited)
+{{< youtube id="_24pJQUj7zg" title="Nirvana - About A Girl (Live On MTV Unplugged, 1993 / Unedited)" >}}<br>
+### More Videos
 
+- [Nirvana - Come As You Are (Live On MTV Unplugged, 1993 / Unedited)](https://www.youtube.com/watch?v=z9LiPuVRyU8)
+- [Nirvana - Jesus Doesn't Want Me For A Sunbeam (Live On MTV Unplugged, 1993 / Unedited)](https://www.youtube.com/watch?v=bVjeYbRmkQ4)
+- [Nirvana - The Man Who Sold The World (Live On MTV Unplugged, 1993 / Unedited)](https://www.youtube.com/watch?v=OgeR2oqZGTs)
+- [Nirvana - Pennyroyal Tea (Live On MTV Unplugged, 1993 / Unedited)](https://www.youtube.com/watch?v=4dcIPGzxsl8)
+- [Nirvana - Dumb (Live On MTV Unplugged, 1993 / Unedited)](https://www.youtube.com/watch?v=GtBhclCigH0)
+- [Nirvana - Polly (Live On MTV Unplugged, 1993 / Unedited)](https://www.youtube.com/watch?v=3H0NHHKBemg)
+- [Nirvana - On A Plain (Live On MTV Unplugged, 1993 / Unedited)](https://www.youtube.com/watch?v=80B_yiN2FH8)
+- [Nirvana - Something In The Way (Live On MTV Unplugged Unedited, 1993)](https://www.youtube.com/watch?v=1YhR5UfaAzM)
+- [Nirvana - Plateau (Live On MTV Unplugged, 1993 / Unedited)](https://www.youtube.com/watch?v=Sj8UbmdV7bk)
+- [Nirvana - Oh Me (Live On MTV Unplugged, 1993 / Unedited)](https://www.youtube.com/watch?v=T5LtSKKr7oY)
+- [Nirvana - Lake Of Fire (Live On MTV Unplugged, 1993 / Unedited)](https://www.youtube.com/watch?v=d4LdUQzCPPM)
+- [Nirvana - All Apologies (Live On MTV Unplugged, 1993 / Unedited)](https://www.youtube.com/watch?v=-BsB8A3Todo)
+- [Nirvana - Where Did You Sleep Last Night (Live On MTV Unplugged Unedited)](https://www.youtube.com/watch?v=hEMm7gxBYSc)
 
 ## Release Images
 {{< imageGrid >}}

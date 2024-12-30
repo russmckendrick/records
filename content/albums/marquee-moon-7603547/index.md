@@ -14,11 +14,11 @@ cover:
     caption: "Marquee Moon by Television"
 additional_images:
     - "https://i.discogs.com/61_MnCSMC0eWcbVww-WSiGrWHlTAhSRulKKOIPTGKIY/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc2MDM1/NDctMTQ0NDk0Njcw/NS0yMjM1LmpwZWc.jpeg"
-    - "https://i.discogs.com/xJTKGgJX-8S4R8ypZckKLAblKZRmkZXAO-dLeYRD-jU/rs:fit/g:sm/q:90/h:608/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc2MDM1/NDctMTUyNTkxMzUw/Ni01ODUzLmpwZWc.jpeg"
+    - "https://i.discogs.com/5LsgFcgFVo4rUOHtd9BZinGmUD90TV7nEizslmojJAU/rs:fit/g:sm/q:90/h:600/w:591/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc2MDM1/NDctMTUyNTkxMzUw/Ni01ODUzLmpwZWc.jpeg"
     - "https://i.discogs.com/9ddZKRGudvH32KDNrNq3XzCs0qO0Ydq0UsQoFhaiMVs/rs:fit/g:sm/q:90/h:521/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc2MDM1/NDctMTUyNTkxMzUw/NC03NjA3LmpwZWc.jpeg"
     - "https://i.discogs.com/Lp5UWZCiBN5FVcMOFuujlBDWJqsdMFwHvp2bYvYw6tU/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc2MDM1/NDctMTUyNTkxMzUw/NS0xMTY5LmpwZWc.jpeg"
     - "https://i.discogs.com/1vDg83uDV_aqyMv6vQ12HjGF1UyM284eutwwCEQMfnE/rs:fit/g:sm/q:90/h:592/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc2MDM1/NDctMTUyNTkxMzUw/Ni03MjI0LmpwZWc.jpeg"
-    - "https://i.discogs.com/dD_TD3Z61q4wp5nCCtP8cCnufx16j7b1RBk0RfuSN-s/rs:fit/g:sm/q:90/h:602/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc2MDM1/NDctMTUyNTkxMzUw/Ni00OTc3LmpwZWc.jpeg"
+    - "https://i.discogs.com/vl1P3Hy4d5TiveJ6L_whtPVp0BVnR5H7VxCayoMNQWI/rs:fit/g:sm/q:90/h:600/w:597/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc2MDM1/NDctMTUyNTkxMzUw/Ni00OTc3LmpwZWc.jpeg"
 genres: ["Rock"]
 styles: ["New Wave", "Punk"]
 ---

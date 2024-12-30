@@ -14,11 +14,11 @@ cover:
 additional_images:
     - "https://i.discogs.com/aMIvCgCfsv5zbM1f4uRxNHEwhy09dy6L4JViuH_J4Nk/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUwNzg1/NDItMTQzNzMyMDE5/MS04Mjc5LmpwZWc.jpeg"
     - "https://i.discogs.com/WumEl9fSzkbqLG8C4uDHDEQCx2PbwmCN3FDZtUjrEs8/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUwNzg1/NDItMTQzNzMyMDE5/Mi04ODk4LmpwZWc.jpeg"
-    - "https://i.discogs.com/vdfESyNK4mJ_BXtPgreQmXjqJMhKThBG3w3VKszs9yw/rs:fit/g:sm/q:90/h:604/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUwNzg1/NDItMTQzNzMyMDE5/My05NDU4LmpwZWc.jpeg"
+    - "https://i.discogs.com/ApD21OYVvpRMqbl0wGzS-welfakWGOgn5PoQUiU8-Kg/rs:fit/g:sm/q:90/h:600/w:596/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUwNzg1/NDItMTQzNzMyMDE5/My05NDU4LmpwZWc.jpeg"
     - "https://i.discogs.com/Jrc32PDQDtLskuy6VLIwJAAbSICojwmgorS88GqsSCg/rs:fit/g:sm/q:90/h:593/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUwNzg1/NDItMTQzNzMyMDE5/MC00OTI0LmpwZWc.jpeg"
-    - "https://i.discogs.com/m6_eYCchF7d9AqU24rx3OzN_Vqja9xAvEKkg4vO-V20/rs:fit/g:sm/q:90/h:615/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUwNzg1/NDItMTQzNzMyMDE5/NS0yMTM5LmpwZWc.jpeg"
-    - "https://i.discogs.com/pCQsnF7R5b0GSwXk1o8mpBrJMI9cUWGpfHNnTEUmcXM/rs:fit/g:sm/q:90/h:606/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUwNzg1/NDItMTQzNzMyMDE5/NC00MjA2LmpwZWc.jpeg"
-    - "https://i.discogs.com/umI9Trc7XeRDfV0xDKutqOKcGTJ9Q9rKgTY10BKxLoQ/rs:fit/g:sm/q:90/h:601/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUwNzg1/NDItMTQzNzMyMDE5/NS01MjAxLmpwZWc.jpeg"
+    - "https://i.discogs.com/8aO2CMaTLLkLfQ1doAehkoKuaEoipXs6DLTet7Ed1h8/rs:fit/g:sm/q:90/h:600/w:584/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUwNzg1/NDItMTQzNzMyMDE5/NS0yMTM5LmpwZWc.jpeg"
+    - "https://i.discogs.com/fCIipDE4nJCpiwN-85azlTOZt4iWI6OwW5_kB38sSr0/rs:fit/g:sm/q:90/h:600/w:593/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUwNzg1/NDItMTQzNzMyMDE5/NC00MjA2LmpwZWc.jpeg"
+    - "https://i.discogs.com/DQt-3Ea0987fXev8kmb5h-GkuzFLXKSalUw29m4YLiI/rs:fit/g:sm/q:90/h:600/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUwNzg1/NDItMTQzNzMyMDE5/NS01MjAxLmpwZWc.jpeg"
 genres: ["Blues"]
 styles: ["Country Blues"]
 ---

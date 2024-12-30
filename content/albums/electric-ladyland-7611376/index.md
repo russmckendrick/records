@@ -4,7 +4,6 @@ artist_name: "The Jimi Hendrix Experience"
 artist: "the-jimi-hendrix-experience"
 album_name: "Electric Ladyland"
 date: 2016-04-23T09:44:30.000000Z
-release_date: "1968-09-16"
 release_id: "7611376"
 slug: "electric-ladyland-7611376"
 hideSummary: true
@@ -13,9 +12,9 @@ cover:
     alt: "Electric Ladyland by The Jimi Hendrix Experience"
     caption: "Electric Ladyland by The Jimi Hendrix Experience"
 additional_images:
-    - "https://i.discogs.com/c_hFy4S7foBg50U1vxo-5O2okjWTUqV6fh0j0jlzusg/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc2MTEz/NzYtMTUxNzU3MDcz/NS03MTY5LmpwZWc.jpeg"
+    - "https://i.discogs.com/GacN5nsj0gV4WsrraWoAh__d1KB4E34LIXrKJh6H9nU/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc2MTEz/NzYtMTUxNzU3MDcz/NS03MTY5LmpwZWc.jpeg"
     - "https://i.discogs.com/WCvSges4g0hW1RW6J5tkg7MJRZMLV9SU5Z-L7PYRyUk/rs:fit/g:sm/q:90/h:294/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc2MTEz/NzYtMTQ0ODE5NTUx/OS05OTIxLmpwZWc.jpeg"
-    - "https://i.discogs.com/wZ2QELfl9bH9piYLwpoQYjnuZYcoKB1Pt5FssHavL_U/rs:fit/g:sm/q:90/h:605/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc2MTEz/NzYtMTQ0ODE5NTUy/MS01ODk1LmpwZWc.jpeg"
+    - "https://i.discogs.com/3n3HJDqBep6aGF6fWZMbO2e6WGCzb9DpYGvRw3L9q_I/rs:fit/g:sm/q:90/h:600/w:595/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc2MTEz/NzYtMTQ0ODE5NTUy/MS01ODk1LmpwZWc.jpeg"
     - "https://i.discogs.com/tRO1mmluG4yBlDPXfQ3h1SDLxE7ykJPHrUfIja16XNA/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc2MTEz/NzYtMTQ0ODE5NTUx/MC05NTk5LmpwZWc.jpeg"
     - "https://i.discogs.com/oMv27kXJs-qm2nTRY4n6YXP-sJEpWyQI3gA-ssJzQSY/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc2MTEz/NzYtMTQ0ODE5NTUx/Mi0yNjAxLmpwZWc.jpeg"
     - "https://i.discogs.com/EyV_mLeMS9K6fexpXrSlsm-el_jhINCNrV5FLt_d7kw/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc2MTEz/NzYtMTQ0ODE5NTUw/Ny0xNzM4LmpwZWc.jpeg"
@@ -32,10 +31,11 @@ genres: ["Rock", "Blues"]
 styles: ["Electric Blues", "Psychedelic Rock"]
 ---
 
-Electric Ladyland is the third and final studio album by the Jimi Hendrix Experience and the final studio album released before Hendrix's death in 1970.  A double album, it was the only record from the Experience produced by Hendrix. The band's most commercially successful release and its only number one album, it was released by Reprise Records in the United States on October 16, 1968, and by Track Records in the UK nine days later. By mid-November, it had reached number one on the U.S. charts, spending two weeks there. In the UK it peaked at number six, where it spent 12 weeks on the chart.
-Electric Ladyland includes a cover of Bob Dylan's "All Along the Watchtower", which became the Experience's best-selling single, reaching number six in the UK and 20 in the United States. Although the album confounded critics in 1968, it has since been viewed as Hendrix's best work and one of the greatest rock records of all time. Electric Ladyland has been featured on many greatest-album lists, including Q's 2003 list of the 100 greatest albums and Rolling Stone's 2020 list of the 500 greatest albums of all time, on which it was ranked 53rd.
-        
-        
+Electric Ladyland is the third and final studio album by the Jimi Hendrix Experience, released in October 1968. A double album, it was the only record from the Experience with production solely credited to Hendrix. The band's most commercially successful release and its only number one album, it was released by Reprise Records in the United States on October 16, 1968, and by Track Records in the UK nine days later. By mid-November, it had reached number 1 on the Billboard Top LPs chart,  spending two weeks there. In the UK it peaked at number 6, where it spent 12 weeks on the British charts.
+Electric Ladyland includes a cover of Bob Dylan's "All Along the Watchtower", which became the Experience's best-selling single, reaching number six in the UK and number 20 in the United States. Although the album confounded critics upon its release, it has since been viewed as one of Hendrix's best works and one of the greatest albums of all time, being featured on various "greatest albums" lists, including Q's 2003 list of the 100 greatest albums and various editions of Rolling Stone's list of the "500 Greatest Albums of All Time", on which it was ranked 53rd in the 2020 iteration.
+
+
+    
     
 
 
@@ -58,10 +58,48 @@ Electric Ladyland includes a cover of Bob Dylan's "All Along the Watchtower", wh
 16. Voodoo Child (Slight Return)
 
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/electric-ladyland/357652252" >}}<br>
+{{< applemusic url="https://music.apple.com/gb/album/the-jimi-hendrix-experience-deluxe-reissue/680248050" >}}<br>
 
 
+## Videos
+### ... And the Gods Made Love
+{{< youtube id="Hz_XAldktzY" title="... And the Gods Made Love" >}}<br>
+### More Videos
 
+- [Have You Ever Been (To Electric Ladyland)](https://www.youtube.com/watch?v=nDeog4iLbi0)
+- [Crosstown Traffic](https://www.youtube.com/watch?v=0NWYXJ04KCM)
+- [Voodoo Chile](https://www.youtube.com/watch?v=DLGl8Oc484Q)
+- [Little Miss Strange](https://www.youtube.com/watch?v=2T3PfmYia88)
+- [Long Hot Summer Night](https://www.youtube.com/watch?v=PkH0OiKyKDE)
+- [Come On (Let the Good Times Roll)](https://www.youtube.com/watch?v=Ne_NSMZvvJI)
+- [Gypsy Eyes](https://www.youtube.com/watch?v=6cAnJlyoowQ)
+- [Burning of the Midnight Lamp](https://www.youtube.com/watch?v=SIGaLAdUaYY)
+- [Rainy Day, Dream Away](https://www.youtube.com/watch?v=ipxBQcci0X0)
+- [1983... (A Merman I Should Turn to Be)](https://www.youtube.com/watch?v=STqIt30wt2M)
+- [Moon, Turn the Tides... Gently Gently Away](https://www.youtube.com/watch?v=0x_YGU99zcc)
+- [Still Raining, Still Dreaming](https://www.youtube.com/watch?v=zvNDhBPP6o0)
+- [House Burning Down](https://www.youtube.com/watch?v=VC40Y6VosO0)
+- [The Jimi Hendrix Experience - All Along The Watchtower (Official Audio)](https://www.youtube.com/watch?v=TLV4_xaYynY)
+- [Have You Ever Been (To Electric Ladyland)](https://www.youtube.com/watch?v=78y1kz8mpfw)
+- [The Jimi Hendrix Experience - Electric Ladyland ALBUM REVIEW](https://www.youtube.com/watch?v=BSgPn1ijW7k)
+- [[Have You Ever Been To] Electric Ladyland (Record Plant, New York, NY, June 14, 1968)](https://www.youtube.com/watch?v=-SSu2x4h3-w)
+- [【ベトナム】ホーチミンの情景  ×  The Jimi Hendrix Experience - All Along The Watchtower](https://www.youtube.com/watch?v=ML1BqxEbTuE)
+- [The Jimi Hendrix Experience - Electric Ladyland 50th Anniversary Deluxe Edition teaser](https://www.youtube.com/watch?v=RkOdjMXMc40)
+- [Voodoo Chile - long version from Electric Ladyland, 1968](https://www.youtube.com/watch?v=4lQ1U9v6wJM)
+- [Electric Ladyland - Jimi Hendrix (Cover)](https://www.youtube.com/watch?v=L-d-3Lb8zYo)
+- [Jimi Hendrix - Electric Ladyland Redux (Full Album) With Lyrics  - Best Of Jimi Hendrix Playlist](https://www.youtube.com/watch?v=J99-yUPWzPs)
+- [The Jimi Hendrix Experience - Voodoo Child (Slight Return) (Live In Maui, 1970)](https://www.youtube.com/watch?v=qFfnlYbFEiE)
+- [Vinyl Stories: The Jimi Hendrix Experience - Electric Ladyland](https://www.youtube.com/watch?v=_DH_umv-T9I)
+- [Electric Ladyland 50th Anniversary Deluxe Edition: Live At The Hollywood Bowl 9/14/1968](https://www.youtube.com/watch?v=KNn8SBaSP9I)
+- [Jimi Hendrix Experience - Electric Ladyland｜Vinyl Monday](https://www.youtube.com/watch?v=ba1LIGc33CQ)
+- [Joe Satriani's first look at the Hendrix Electric Ladyland deluxe edition](https://www.youtube.com/watch?v=hWcHHvZtgZw)
+- [The Jimi Hendrix Experience - The Making of Electric Ladyland (Part 2)](https://www.youtube.com/watch?v=pJiyN3TcYTo)
+- [The Jimi Hendrix Experience - Have You Ever Been (To Electric Ladyland)](https://www.youtube.com/watch?v=qvv7hZ35uGE)
+- [The Jimi Hendrix Experience - Have You Ever Been (To Electric Ladyland) (Official Audio)](https://www.youtube.com/watch?v=-PMSZNo_k1M)
+- [Jimi Hendrix - Electric Lady Studios: A Jimi Hendrix Vision (Documentary Trailer)](https://www.youtube.com/watch?v=o0FIhSEV4NE)
+- [Rainy Day, Dream Away](https://www.youtube.com/watch?v=pI4QjndgNAU)
+- [1983... (A Merman I Should Turn to Be)](https://www.youtube.com/watch?v=wjL8NrkIC6M)
+- [The Jimi Hendrix Experience - Little Wing (Official Audio)](https://www.youtube.com/watch?v=35luFxHO5E0)
 
 ## Release Images
 {{< imageGrid >}}
@@ -70,7 +108,7 @@ Electric Ladyland includes a cover of Bob Dylan's "All Along the Watchtower", wh
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Electric_Ladyland |
-| Format         | Vinyl 2× LP Album Reissue Remastered (180 Gram, Gatefold) |
+| Format         | Vinyl 2× LP Album Reissue Remastered Repress (180 Gram, Gatefold) |
 | Label          | Experience Hendrix |
 | Catalog Number | 88875134511 |
 | Notes | Issued in a gatefold sleeve including an 8-page LP-sized booklet with liner notes and pictures  All compositions written and arranged by Jimi Hendrix and published by Experience Hendrix L.L.C. with the exceptions of B1 by Noel Redding, Joint Music, D3 by Bob Dylan, Dwarf Music, and B3 by Earl King/EMI Unart Catalog Inc.  Recorded at the Record Plant, New York Remastered at Sterling Sound, N.Y.  ℗ 2010 Experience Hendrix L.L.C. © 2010, 2015 Experience Hendrix L.L.C. Made in the EU  Track D4 is listed on back cover, inner spread and labels as "Voodoo Child (Slight Return)"  Reissue of the 2010 [url=https://www.discogs.com/release/2416823-The-Jimi-Hendrix-Experience-Electric-Ladyland]Music on Vinyl[/url] release, with exactly the same runout numbers. |

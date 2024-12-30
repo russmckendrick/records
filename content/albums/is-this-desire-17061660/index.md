@@ -13,14 +13,16 @@ cover:
     alt: "Is This Desire? by PJ Harvey"
     caption: "Is This Desire? by PJ Harvey"
 additional_images:
-    - "https://i.discogs.com/cCWuSsXZppOQO6Np8en7EjCv3GeSliTzEy8sjdnkbaQ/rs:fit/g:sm/q:90/h:601/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3MDYx/NjYwLTE2MTE0MDQ3/NjctODcwOC5qcGVn.jpeg"
+    - "https://i.discogs.com/6dk7zt0SPdAEAYTK_DQ8kVRbzWQzCEF-3nK735DPr54/rs:fit/g:sm/q:90/h:591/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3MDYx/NjYwLTE3MjQzODQ3/MTktNTI4OC5qcGVn.jpeg"
     - "https://i.discogs.com/GJm_q-qEOAuvZNpPsCN8cjoa54zFX6eX54tuJOrOAiA/rs:fit/g:sm/q:90/h:586/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3MDYx/NjYwLTE2MTE0MDQ3/NjctNzc4Mi5qcGVn.jpeg"
     - "https://i.discogs.com/u6xORRdmzdlT46BJQTqxkXLPue-67jxjq1E1ePD6WAI/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3MDYx/NjYwLTE2MTE0MDQ3/NjctOTAzMS5qcGVn.jpeg"
-    - "https://i.discogs.com/tAaFaCr6NuhtIhnFWuk65tOevZrjf_5e2QiHOeCR8tA/rs:fit/g:sm/q:90/h:602/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3MDYx/NjYwLTE2MTE0MDQ3/NjctODc1MS5qcGVn.jpeg"
+    - "https://i.discogs.com/IqDz1Li-5fWnEbaGKgHJEFlkQA1VC2C_HdYzzOnAFgU/rs:fit/g:sm/q:90/h:600/w:597/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3MDYx/NjYwLTE2MTE0MDQ3/NjctODc1MS5qcGVn.jpeg"
     - "https://i.discogs.com/qt3GwdP7lURHEQsCjdmTcqCNKess7NcM4IV83rDou08/rs:fit/g:sm/q:90/h:590/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3MDYx/NjYwLTE2MTE0MDQ3/NjctOTg4MC5qcGVn.jpeg"
     - "https://i.discogs.com/qoKrULhveS_DLJFlr_sw-siwO9S7FGJ_fWg6v_7y38s/rs:fit/g:sm/q:90/h:591/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3MDYx/NjYwLTE2MTE0MDQ3/NjctMjQwNy5qcGVn.jpeg"
+    - "https://i.discogs.com/3SId8stUtD3qxP3w__VHApZi_V_I3kZeRjEiW1vZdS4/rs:fit/g:sm/q:90/h:600/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3MDYx/NjYwLTE2MTE0MDQ3/NjctODcwOC5qcGVn.jpeg"
     - "https://i.discogs.com/zAvRcjNyILM2xyZaZcLEJHDKobY75JRsTYwM4cRNWE4/rs:fit/g:sm/q:90/h:587/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3MDYx/NjYwLTE2MTE0MDQ3/NjctMTQyNy5qcGVn.jpeg"
-    - "https://i.discogs.com/vylJdjdxPVhwHcRHcGxHhLEzJiue_36JBpT8beLI9fE/rs:fit/g:sm/q:90/h:610/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3MDYx/NjYwLTE2MTE0MDQ3/NjYtNDgwNC5qcGVn.jpeg"
+    - "https://i.discogs.com/_Cf0c6wSpAqQ-L9YKChFolz9-1e8gq9zwSINE7FsBnI/rs:fit/g:sm/q:90/h:600/w:589/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3MDYx/NjYwLTE2MTE0MDQ3/NjYtNDgwNC5qcGVn.jpeg"
+    - "https://i.discogs.com/slakBRzDU4jRrXrjGaAc8hwX143YvcTezaa97X3bHXI/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3MDYx/NjYwLTE2OTc5MzA0/NDItMjg4Ny5qcGVn.jpeg"
     - "https://i.discogs.com/ZYIj5ERJ_DPRVTDxrGrrw-VXgLwuZtI_0AYEd2NUlHY/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3MDYx/NjYwLTE2MTU1MDIz/MjMtMzIxNS5qcGVn.jpeg"
     - "https://i.discogs.com/l8bTpumyeOH-e25zcLwBkCzaGlL_FvYnbKczmjFgpkk/rs:fit/g:sm/q:90/h:267/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3MDYx/NjYwLTE2MTIzMDg0/MjQtOTM2Ni5qcGVn.jpeg"
     - "https://i.discogs.com/HqYwu961CjFxtpvJuqrGYjw4gBSwx2Wv7hzEiELaiGg/rs:fit/g:sm/q:90/h:289/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3MDYx/NjYwLTE2MTIzMDg0/MjQtNzQwMS5qcGVn.jpeg"
@@ -57,8 +59,8 @@ Following a clutch of visceral alt-rock releases, PJ Harvey closed out the '90s 
 {{< youtube id="GmOMuBYEejc" title="PJ Harvey - The Wind" >}}<br>
 ### More Videos
 
-- [PJ Harvey - A Perfect Day Elise](https://www.youtube.com/watch?v=D3tD9EPOEik)
 - [PJ Harvey - Angelene](https://www.youtube.com/watch?v=m8XzHhC9czw)
+- [PJ Harvey - A Perfect Day Elise](https://www.youtube.com/watch?v=D3tD9EPOEik)
 - [Is This Desire?](https://www.youtube.com/watch?v=6zJZ2ntvIOE)
 - [The River](https://www.youtube.com/watch?v=6g1nCs_9HCk)
 - [Catherine](https://www.youtube.com/watch?v=PbAKMz-Lv7E)

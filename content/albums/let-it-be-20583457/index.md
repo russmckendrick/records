@@ -4,7 +4,6 @@ artist_name: "The Beatles"
 artist: "the-beatles"
 album_name: "Let It Be"
 date: 2021-10-22T10:09:58.000000Z
-release_date: "1970-05-08"
 release_id: "20583457"
 slug: "let-it-be-20583457"
 hideSummary: true
@@ -14,7 +13,7 @@ cover:
     caption: "Let It Be by The Beatles"
 additional_images:
     - "https://i.discogs.com/UXeTgDj2ki6TFTnYYDnKZTFc8bIWre9A7hrBQ-kxkEk/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwNTgz/NDU3LTE2MzczMzY1/ODEtOTMwMS5qcGVn.jpeg"
-    - "https://i.discogs.com/eKdsZ8GoHzKzUps_cDzYkG53huGVJ8Wb3Wx-q4FUGGM/rs:fit/g:sm/q:90/h:1437/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwNTgz/NDU3LTE2MzczMzYw/NzgtMTc1OS5qcGVn.jpeg"
+    - "https://i.discogs.com/4g4Rl8BXQEdqUCSc4GrZvm_Edgg5zVn0WN_-Eo7pUfw/rs:fit/g:sm/q:90/h:600/w:250/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwNTgz/NDU3LTE2MzczMzYw/NzgtMTc1OS5qcGVn.jpeg"
     - "https://i.discogs.com/S9L_5nhYsqEygyUqLRQ2mi4R9JFqLGqpvZOv2Ml8iqY/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwNTgz/NDU3LTE2MzczMzYw/NzYtNjY2OC5qcGVn.jpeg"
     - "https://i.discogs.com/oK-wW7TciD5ZTalkppV4pj1IfhIh3IbRjaQilTPdyjI/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwNTgz/NDU3LTE2MzczMzYw/NzUtODc5My5qcGVn.jpeg"
     - "https://i.discogs.com/H-L25K_AwotDE5QRg3iT3yCX8TcebI_KHX5xu-Ldpco/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwNTgz/NDU3LTE2MzczMzYw/NzYtMzIyNi5qcGVn.jpeg"
@@ -36,20 +35,19 @@ additional_images:
     - "https://i.discogs.com/uZDmPVKRvYv0GuEL99RwCSpDMTU8yUXTZzsYWzR78XM/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwNTgz/NDU3LTE2MzczMzYw/NzYtNzUzMi5qcGVn.jpeg"
     - "https://i.discogs.com/XPotiH9HbsVqYmX_NmDcOqEjUwlGkYvRbLUy3Hh_-kM/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwNTgz/NDU3LTE2MzczMzYw/NzUtMjg4Ni5qcGVn.jpeg"
     - "https://i.discogs.com/I71tFENk-rt4qGF_q_sMN0Yg7q9zMD3pxfzi1J6d2CM/rs:fit/g:sm/q:90/h:313/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwNTgz/NDU3LTE2MzczMzYw/NzctMzM0NC5qcGVn.jpeg"
-    - "https://i.discogs.com/PXpQ_F3mXrELc_jZ_B6ind-b07Y3hkuWswqvHITTGMk/rs:fit/g:sm/q:90/h:609/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwNTgz/NDU3LTE2MzczMzYw/NzctMzA5OS5qcGVn.jpeg"
+    - "https://i.discogs.com/wCcTsk7dtHL8_5hF2XrlzZ5L4Nw0IVoH7iMX89UGWw0/rs:fit/g:sm/q:90/h:600/w:591/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwNTgz/NDU3LTE2MzczMzYw/NzctMzA5OS5qcGVn.jpeg"
     - "https://i.discogs.com/UnVK9GGFQscA4siMfS1hP3yXU3JWEYgS2Y-ZjqnE-sU/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwNTgz/NDU3LTE2MzczMzYw/NzUtNDQ1NS5qcGVn.jpeg"
 genres: ["Rock"]
 styles: ["Pop Rock"]
 ---
 
-Let It Be is the twelfth and final studio album by the English rock band the Beatles. It was released on 8 May 1970, almost a month after the group's public break-up, in tandem with the documentary of the same name. Concerned about recent friction within the band, Paul McCartney had conceived the project as an attempt to reinvigorate the group by returning to simpler rock 'n' roll configurations. The album topped charts in several countries, including both the UK and the US, but was a critical failure at the time, and Let It Be came to be regarded as one of the most controversial rock albums in history.The album's rehearsals began at Twickenham Film Studios in January 1969 as part of a planned television documentary showing the Beatles' return to live performance. The filmed rehearsals were marked by ill feeling, leading to George Harrison's temporary departure from the group. As a condition of his return, the members reconvened at their own Apple Studio, and recruited guest keyboardist Billy Preston. The project yielded a famous single public concert held on the studio's rooftop on 30 January, from which three of the album's tracks were drawn.
-In April 1969, the Beatles issued the lead single "Get Back" (backed with "Don't Let Me Down"), after which engineer Glyn Johns prepared and submitted mixes of the album – titled Get Back and subsequently rejected by the band. The project then lay in limbo as they moved onto the recording of Abbey Road, released that September. In January 1970, only four months after John Lennon's departure from the group, the remaining Beatles completed "Let It Be" and recorded "I Me Mine". The former was issued as the second single from the album in March 1970, and was produced by George Martin.
-When the documentary film was resurrected for a cinema release, as Let It Be, Lennon and Harrison asked American producer Phil Spector to assemble the accompanying album. Among Spector's choices was to include a 1968 take of "Across the Universe" and apply orchestral and choral overdubs to three tracks. His work offended McCartney, particularly in the case of the third and final single of the album "The Long and Winding Road". 
-In 2003, McCartney spearheaded Let It Be... Naked, an alternative mixed version of Let It Be that removes Spector's embellishments and alters the tracklist. In 2021, another remixed and expanded edition of Let It Be was released with session highlights and the original 1969 Get Back mix, coinciding with The Beatles: Get Back, an eight-hour documentary series covering the January 1969 sessions and rooftop concert.
+Let It Be is the twelfth and final studio album  by the English rock band the Beatles. It was released on 8 May 1970, nearly a month after the official announcement of the group's public break-up, in tandem with the documentary of the same name. Concerned about recent friction within the band, Paul McCartney had conceived the project as an attempt to reinvigorate the group by returning to simpler rock 'n' roll configurations. Its rehearsals started at Twickenham Film Studios on 2 January 1969 as part of a planned television documentary showcasing the Beatles' return to live performance.
+The filmed rehearsals were marked by ill feeling, leading to George Harrison's temporary departure from the group. As a condition of his return, the members reconvened at their own Apple Studio, and recruited guest keyboardist Billy Preston. Together, they performed a single public concert on the studio's rooftop on 30 January, from which three of the album's tracks were drawn. In April, the Beatles issued the lead single "Get Back", backed with "Don't Let Me Down", after which engineer Glyn Johns prepared and submitted mixes of the album, then titled Get Back, which the band rejected. As bootlegs of these mixes circulated widely among fans, the project lay in limbo, and the group moved on to the recording of Abbey Road, released that September.
+In January 1970, four months after John Lennon departed from the band, the remaining Beatles completed "Let It Be" and recorded "I Me Mine". The former was issued as the second single from the album with production by George Martin. When the documentary film was resurrected for a cinema release, as Let It Be, Lennon and Harrison asked American producer Phil Spector to assemble the accompanying album. Among Spector's choices was to include a 1968 take of "Across the Universe" and apply orchestral and choral overdubs to "Let It Be", "Across the Universe" and "The Long and Winding Road". His work offended McCartney, particularly in the case of "The Long and Winding Road", which was the third and final single of the album.
+Let It Be topped record charts in several countries, including both the UK and the US. However, it was a critical failure at the time, and came to be regarded as one of the most controversial rock albums in history, though retrospective reception has been more positive. In 2003, McCartney spearheaded Let It Be... Naked, an alternative version of Let It Be that removes Spector's embellishments and alters the tracklist. In 2021, another remixed and expanded edition of Let It Be was released with session highlights and the original 1969 Get Back mix, coinciding with The Beatles: Get Back, an eight-hour documentary series covering the January 1969 sessions and rooftop concert.
 
 
-        
-        
+    
     
 
 
@@ -118,7 +116,7 @@ In 2003, McCartney spearheaded Let It Be... Naked, an alternative mixed version 
 62. Let It Be (New Mix Of Original Single Version)
 
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/let-it-be-2021-mix/1582219768" >}}<br>
+{{< applemusic url="https://music.apple.com/gb/album/the-beatles-for-orchestra/452080981" >}}<br>
 
 
 
@@ -129,7 +127,7 @@ In 2003, McCartney spearheaded Let It Be... Naked, an alternative mixed version 
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Wikipedia URL | https://en.wikipedia.org/wiki/Let_It_Be_(Beatles_album) |
+| Wikipedia URL | https://en.wikipedia.org/wiki/Let_It_Be_(album) |
 | Format         | Box Set Deluxe Edition, Vinyl LP Album Reissue Stereo, Vinyl 2× LP Compilation Stereo Mono, Vinyl LP Remastered Stereo, Vinyl 12" 45 RPM EP Stereo |
 | Label          | Apple Records |
 | Catalog Number | 0602507138899 |

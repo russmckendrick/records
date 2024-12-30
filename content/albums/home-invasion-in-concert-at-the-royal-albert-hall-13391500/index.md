@@ -12,7 +12,7 @@ cover:
     alt: "Home Invasion (In Concert At The Royal Albert Hall) by Steven Wilson"
     caption: "Home Invasion (In Concert At The Royal Albert Hall) by Steven Wilson"
 additional_images:
-    - "https://i.discogs.com/-c5AhrGbEKc2I2P4CH0SQ21B62TMJIEObj2fILrix5w/rs:fit/g:sm/q:90/h:620/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMzkx/NTAwLTE1NTM3NjQ5/ODUtMzkwNi5qcGVn.jpeg"
+    - "https://i.discogs.com/xSAHBsLqoqC_vsKmSyvM35grQHPimv5DmJADzvuURAI/rs:fit/g:sm/q:90/h:600/w:580/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMzkx/NTAwLTE1NTM3NjQ5/ODUtMzkwNi5qcGVn.jpeg"
     - "https://i.discogs.com/w3iLr9VkyRF2MTnrOqCXaHHHJlHeEhrSFkcPz2Spsbw/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMzkx/NTAwLTE1NTM3NjQ5/OTktOTI2Mi5qcGVn.jpeg"
     - "https://i.discogs.com/mUb_QoZxj58CAVdTOVwwr9CYEpthewHsSxcsyvsiv5E/rs:fit/g:sm/q:90/h:450/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMzkx/NTAwLTE1NTQyMjc0/MTItOTk0MC5qcGVn.jpeg"
     - "https://i.discogs.com/sedCvba5tQcvWfchY6-1S2H3kywzZn5vNvA0DokaJOQ/rs:fit/g:sm/q:90/h:450/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMzkx/NTAwLTE1NTQyMjc0/MTgtNjQ4NC5qcGVn.jpeg"
@@ -24,7 +24,7 @@ additional_images:
     - "https://i.discogs.com/GdMPJ0jjzUxqgkUBfylZh0RLMaOIaMFeg57gldjpFhs/rs:fit/g:sm/q:90/h:450/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMzkx/NTAwLTE1NTQyMjc0/MTYtMzMyMy5qcGVn.jpeg"
     - "https://i.discogs.com/erqyoob6EIrwgFl4PKseye88qWbVQp7lyh3AHVdyT_0/rs:fit/g:sm/q:90/h:450/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMzkx/NTAwLTE1NTQyMjc0/MTYtNTYzNi5qcGVn.jpeg"
     - "https://i.discogs.com/mw97dfWsLmxh5HUeXZ0Dd1O-zpYefJjChH6j5_MGlVU/rs:fit/g:sm/q:90/h:450/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMzkx/NTAwLTE1NTQyMjc0/MTctNjMzMi5qcGVn.jpeg"
-    - "https://i.discogs.com/v3mdt5dXzWqDJe7SpQ6CpHdysH6PvE9TccVfmY8Q_pU/rs:fit/g:sm/q:90/h:1099/w:260/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMzkx/NTAwLTE1NjA3NjYx/NjAtNzkwNS5qcGVn.jpeg"
+    - "https://i.discogs.com/43wxsxaUcJ7GiKSMOtG2hrbhCFQbQZMeA-b_9Z8v3lY/rs:fit/g:sm/q:90/h:600/w:141/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMzkx/NTAwLTE1NjA3NjYx/NjAtNzkwNS5qcGVn.jpeg"
     - "https://i.discogs.com/Kk9raAe7-bNKPOvYUzKaPw9CtftxThMe1xrPOT8mDyY/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMzkx/NTAwLTE1NjA3NjYy/MzAtNDM0OS5qcGVn.jpeg"
     - "https://i.discogs.com/wTXAztQvphhteLK-toJRUSK1ha4B-AbVFG5aMVtEd88/rs:fit/g:sm/q:90/h:592/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMzkx/NTAwLTE1NjA3NjYy/MTYtNzg1Ni5qcGVn.jpeg"
     - "https://i.discogs.com/AVN4fM0GXblsJ44gIcIGh3D6IYU4Mid3jR-KLS1iwL4/rs:fit/g:sm/q:90/h:594/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMzkx/NTAwLTE1NjA3NjYy/ODEtMzY5Ny5qcGVn.jpeg"
@@ -52,7 +52,7 @@ additional_images:
     - "https://i.discogs.com/klYG-BZpfsJY6e7wp8g5k5C_Uxmw5JzmC3jkWR7W8sI/rs:fit/g:sm/q:90/h:296/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMzkx/NTAwLTE1NjA3NjY5/OTYtMjYxNi5qcGVn.jpeg"
     - "https://i.discogs.com/yPu_IlDNPRPiB7umhmtftNK8bjtuWHbWOEAf3AQWV28/rs:fit/g:sm/q:90/h:293/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMzkx/NTAwLTE1NjA3NjY5/ODgtODIxMS5qcGVn.jpeg"
     - "https://i.discogs.com/zrsdrhQ2zpq0heXlVq2btwdtFyNCOL-uI_HrbZ5PRS4/rs:fit/g:sm/q:90/h:295/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMzkx/NTAwLTE1NjA3NjY5/OTQtMjI5Ny5qcGVn.jpeg"
-    - "https://i.discogs.com/12gXBvOCIMzoYLiNDf4VHpcMOH7nmYiHbd-hng8LYwY/rs:fit/g:sm/q:90/h:751/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMzkx/NTAwLTE1NjA3NjY4/ODYtNTAxNS5qcGVn.jpeg"
+    - "https://i.discogs.com/2f-9rnu3yLPPetb0w7ESbfOJKjIcKBmx6NH622nzXa4/rs:fit/g:sm/q:90/h:600/w:479/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMzkx/NTAwLTE1NjA3NjY4/ODYtNTAxNS5qcGVn.jpeg"
 genres: ["Rock"]
 styles: ["Prog Rock", "Pop Rock"]
 ---
@@ -99,6 +99,9 @@ styles: ["Prog Rock", "Pop Rock"]
 
 - [Steven Wilson - Ancestral (from Home Invasion: In Concert at the Royal Albert Hall)](https://www.youtube.com/watch?v=qFwcahcDzP4)
 - [Routine- Ninet Tayeb & Steven Wilson In the Royal Albert Hall](https://www.youtube.com/watch?v=tMfGp79fJCQ)
+- [Steven Wilson - Pariah (from Home Invasion: In Concert at the Royal Albert Hall)](https://www.youtube.com/watch?v=GwfGi_Qomc8)
+- [Steven Wilson - Song of I (from Home Invasion: In Concert at the Royal Albert Hall)](https://www.youtube.com/watch?v=ZTaMnLwP8Y8)
+- [Steven Wilson - The Raven That Refused To Sing (from Home Invasion)](https://www.youtube.com/watch?v=Dzkm2lvdup4)
 
 ## Release Images
 {{< imageGrid >}}

@@ -13,10 +13,10 @@ cover:
     caption: "HD015 by Survive"
 additional_images:
     - "https://i.discogs.com/k-FXs3vizY-wftat_SQ4ChM2nMjxF3lil5RayAVMBbo/rs:fit/g:sm/q:90/h:370/w:370/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkyMzE0/NjUtMTQ3NzA2NjUy/OC03NDY5LmpwZWc.jpeg"
-    - "https://i.discogs.com/ZknHwApMnqhKx0IA9Za-GZeCRoVZolV4TNIdhVz8A_k/rs:fit/g:sm/q:90/h:607/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkyMzE0/NjUtMTQ4MDY5NTI3/OS0zNTM3LmpwZWc.jpeg"
-    - "https://i.discogs.com/UGZwW_i3oSZ5dshbUC6AKtCDvP3Hs5fJZc43lO4p--8/rs:fit/g:sm/q:90/h:636/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkyMzE0/NjUtMTQ4MDY5NTI4/Mi0zNTUwLmpwZWc.jpeg"
-    - "https://i.discogs.com/JmK4vdscvMEXRISJppqLUSXOlr84MYvwpsBsvwMYRPU/rs:fit/g:sm/q:90/h:607/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkyMzE0/NjUtMTQ4MDY5NTI4/MS0yNDc3LmpwZWc.jpeg"
-    - "https://i.discogs.com/yuxLYpBs27vLvxcyq2HzQX2JFnm7M5aSp1LhGYrUvIM/rs:fit/g:sm/q:90/h:612/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkyMzE0/NjUtMTQ3OTkyMjg2/Mi02ODM5LmpwZWc.jpeg"
+    - "https://i.discogs.com/DG5fC-HnDIyuvLPmzaMrqhgR0Ea1sUwO8_Icph07QNQ/rs:fit/g:sm/q:90/h:600/w:592/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkyMzE0/NjUtMTQ4MDY5NTI3/OS0zNTM3LmpwZWc.jpeg"
+    - "https://i.discogs.com/Cw6KWqLSJ-wVE0soNVigRVdLVdTYPNKBB02dzZ2qbZg/rs:fit/g:sm/q:90/h:600/w:565/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkyMzE0/NjUtMTQ4MDY5NTI4/Mi0zNTUwLmpwZWc.jpeg"
+    - "https://i.discogs.com/w20GwF2kB3Wk4aEwcC69sJMUBbr3f4h0kjgh5xbpHso/rs:fit/g:sm/q:90/h:600/w:592/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkyMzE0/NjUtMTQ4MDY5NTI4/MS0yNDc3LmpwZWc.jpeg"
+    - "https://i.discogs.com/QA5pZCCXxUDuq6vkvNB2Mk8BePpvSLBn9Dp-9u_YvTI/rs:fit/g:sm/q:90/h:600/w:588/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkyMzE0/NjUtMTQ3OTkyMjg2/Mi02ODM5LmpwZWc.jpeg"
     - "https://i.discogs.com/zbsP70A7rBj8iQSiVzwC4hH840s9QhJsMYE_re3JO6k/rs:fit/g:sm/q:90/h:365/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkyMzE0/NjUtMTQ4MDY5NTI4/MS00NzcyLmpwZWc.jpeg"
 genres: ["Electronic"]
 styles: ["Electro", "Minimal", "Experimental", "Synthwave"]
@@ -35,6 +35,8 @@ styles: ["Electro", "Minimal", "Experimental", "Synthwave"]
 8. Shunting Yard
 9. Dirge
 
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/survival-single/1716748749" >}}<br>
 
 
 ## Videos

@@ -24,10 +24,13 @@ additional_images:
     - "https://i.discogs.com/ZHKX_rqWDP_T8lVGl2A75DmWCLVj-VvhVcLMS3JROME/rs:fit/g:sm/q:90/h:592/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzOTA4/OTgyLTE2NTgwMzE4/NzUtMTI4My5qcGVn.jpeg"
     - "https://i.discogs.com/fUgBoauAlGdXYs0kv0p0eV9wqkSlQpYDxjuMGkI_fMk/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzOTA4/OTgyLTE2NTgwMzE4/ODAtMzU3OC5qcGVn.jpeg"
 genres: ["Rock"]
-styles: ["Art Rock", "Prog Rock", "Experimental"]
+styles: ["Art Rock", "Experimental", "Math Rock"]
 ---
 
-The most jarring part about listening to the London band black midi isn’t how much musical ground they cover—post-punk, progressive rock, breakneck jazz, cabaret—but the fact that they cover it all at once. A quasi-concept album that seems to have something to do with war (“Welcome to Hell”, “27 Questions”), or at least the violence men do more generally (“Sugar/Tzu”, “Dangerous Liaisons”), <i>Hellfire</i> isn’t an easy listen. But it’s funny (main character: Tristan Bongo), beautiful, at least in a garish, misanthropic way (the Neil Diamond bombast of “The Defence”), and so obviously playful in its intelligence that you just want to let it run over you. The first listen feels like being yelled at in a language you don’t understand. By the third, you’ll be yelling with them.
+Hellfire is the third studio album by English rock band Black Midi, released on 15 July 2022 on Rough Trade Records. The band recorded the majority of the album over a thirteen-day period with producer Marta Salogni, who had previously worked with the band in recording the song "John L" from their second studio album. 
+Released to critical acclaim, the album was preceded by the singles "Welcome to Hell", "Eat Men Eat", and "Sugar/Tzu", and entered the UK Albums Chart at No. 22, becoming the band's highest-charting album to date. During the writing and recording process, the band experimented with first-person narratives, and expanded upon their sound with the introduction of cabaret, country, flamenco, and show tune influences. After touring in promotion of the album throughout the rest of 2022 and 2023, Black Midi announced an indefinite hiatus in August 2024.
+
+
         
         
     
@@ -35,33 +38,33 @@ The most jarring part about listening to the London band black midi isn’t how 
 
 ## Tracklisting
 1. Hellfire
-2. Hellfire
-3. Sugar/Tzu
-4. Eat Men Eat
-5. Welcome To Hell
-6. Still
-7. Half Time
-8. The Race Is About To Begin
-9. Dangerous Liaisons
-10. The Defence
-11. 27 Questions
-12. Flexi-disc
-13. Chondromalacia Patella (Live at Electrical Audio)
+2. Sugar/Tzu
+3. Eat Men Eat
+4. Welcome To Hell
+5. Still
+6. Half Time
+7. The Race Is About To Begin
+8. Dangerous Liaisons
+9. The Defence
+10. 27 Questions
+11. Chondromalacia Patella (4:49)
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/hellfire/1613170781" >}}<br>
 
 
 ## Videos
-### black midi - Welcome To Hell
-{{< youtube id="Efmq_uXt1Rk" title="black midi - Welcome To Hell" >}}<br>
+### Hellfire
+{{< youtube id="QfAOFyhfZJU" title="Hellfire" >}}<br>
 ### More Videos
 
-- [Hellfire](https://www.youtube.com/watch?v=QfAOFyhfZJU)
-- [black midi - Eat Men Eat](https://www.youtube.com/watch?v=dflSgJG4g3M)
 - [Still](https://www.youtube.com/watch?v=q8K3uVcv8EM)
+- [black midi - Welcome To Hell](https://www.youtube.com/watch?v=Efmq_uXt1Rk)
+- [black midi - Eat Men Eat](https://www.youtube.com/watch?v=dflSgJG4g3M)
 - [black midi - Sugar/Tzu](https://www.youtube.com/watch?v=8D3TrpQ_nFo)
 - [The Race Is About To Begin](https://www.youtube.com/watch?v=k2nNWpK5SQA)
+- [Hellfire](https://www.youtube.com/watch?v=QfAOFyhfZJU)
+- [Still](https://www.youtube.com/watch?v=q8K3uVcv8EM)
 
 ## Release Images
 {{< imageGrid >}}
@@ -70,8 +73,8 @@ The most jarring part about listening to the London band black midi isn’t how 
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Hellfire_(Black_Midi_album) |
-| Format         | Vinyl LP Album (Red), Flexi-disc 7" 45 RPM Single Sided (Orange), All Media Limited Edition Special Edition |
+| Format         | Vinyl LP Album Limited Edition Special Edition (Transparent Red), Flexi-disc 7" Single Sided (Transparent Red) |
 | Label          | Rough Trade |
-| Catalog Number | RT0321LPE |
-| Notes | Pressed on transparent red vinyl. Many copies came pressed on opaque red vinyl.  Bundled with an orange flexi-disc [r=23998898] exclusive to Black Midi's Webstore and Bandcamp page. Housed in a gatefold sleeve and includes an extra hype sticker inside. Side A ends with a locked groove. Track B1 'Half Time' is only mentioned in the lyrics and credits section on the sleeve. |
+| Catalog Number | RT00321LPE |
+| Notes | Housed in a gatefold sleeve and includes a sticker  Side A ends on a locked groove  'Half Time' is only mentioned in credits/lyrics on gatefold.  Complete with 'square' uncut 7" transparent red flexi disc Chondromalacia Patella - originally released on Cavalcade   'Limited Edition' and 'Special Edition' on hype sticker |
 | Discogs URL    | [Black Midi - Hellfire](https://www.discogs.com/release/23908982-Black-Midi-Hellfire) |

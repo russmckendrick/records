@@ -29,25 +29,32 @@ Known for sepia-toned songs about barrow boys and chimney sweeps, doomed lovers 
 
 
 ## Tracklisting
-1. The Crane Wife 3 (4:18)
-2. The Island: Come And See - The Landlord's Daughter - You'll Not Feel The Drowning (12:26)
-3. Yankee Bayonet (I Will Be Home Then) (4:18)
-4. O Valencia! (3:47)
-5. The Perfect Crime #2 (5:33)
-6. When The War Came (5:06)
-7. Shankill Butchers (4:39)
-8. Summersong (3:31)
-9. The Crane Wife 1 & 2 (11:19)
-10. Sons & Daughters (5:13)
+1. The Crane Wife 3
+2. The Island: - Come And See - The Landlord's Daughter - You'll Not Feel The Drowning
+3. Yankee Bayonet (I Will Be Home Then)
+4. O Valencia!
+5. The Perfect Crime #2
+6. When The War Came
+7. Shankill Butchers
+8. Summersong
+9. The Crane Wife 1 & 2
+10. Sons & Daughters
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/the-crane-wife/259967897" >}}<br>
 
 
 ## Videos
-### The Decemberists - O Valencia
-{{< youtube id="IbsHwuyfnnw" title="The Decemberists - O Valencia" >}}<br>
+### The Crane Wife 3
+{{< youtube id="jnwRewQ--QM" title="The Crane Wife 3" >}}<br>
+### More Videos
 
+- [The Island: Come And See/The Landlord's Daughter/You'll Not Feel The Drowning](https://www.youtube.com/watch?v=o3rATtl6q7E)
+- [The Crane Wife 1 & 2](https://www.youtube.com/watch?v=gHslrm1jFAg)
+- [The Decemberists - O Valencia](https://www.youtube.com/watch?v=IbsHwuyfnnw)
+- [The Crane Wife 3](https://www.youtube.com/watch?v=jnwRewQ--QM)
+- [The Island: Come And See/The Landlord's Daughter/You'll Not Feel The Drowning](https://www.youtube.com/watch?v=o3rATtl6q7E)
+- [The Crane Wife 1 & 2](https://www.youtube.com/watch?v=gHslrm1jFAg)
 
 ## Release Images
 {{< imageGrid >}}
@@ -59,5 +66,5 @@ Known for sepia-toned songs about barrow boys and chimney sweeps, doomed lovers 
 | Format         | Vinyl 2× LP Album |
 | Label          | Capitol Records |
 | Catalog Number | C1 0946 3 53984 1 0 |
-| Notes | Recorded at Kung Fu Bakery in Portland, Oregon between April and June, 2006. Mixed at BJB. Mastered at SAE Mastering in Phoenix, AZ.  ℗© 2006 Capitol Records, Inc.  Variation: Gatefold sleeve with different catalogue, matrix numbers and colour of labels |
+| Notes | Similar to [r=888785] but with different labels and runouts. Similar also to [r=17074038], which has [l68029] as the 2nd Label and different labels with track durations.  Gatefold sleeve.  [On back cover]: Recorded at Kung Fu Bakery in Portland, Oregon between April and June, 2006. [...] Mixed [...] at BJB. Mastered [...] at SAE Mastering in Phoenix, AZ. [a360660] appears courtesy of Nonesuch Records. [url=https://www.discogs.com/artist/226217-Chris-Walla]Christopher Walla[/url] appears courtesy of Atlantic Records.  Dedicated to Henry Ellis Meloy, Scout Fahey McKeel Funk, and the memory of Harriett Meloy and Louise Query  Capitol Records is a Capitol Music label. ℗© 2006 Capitol Records, Inc. [...] Made in U.S.A.  Track durations do not appear on the release. |
 | Discogs URL    | [The Decemberists - The Crane Wife](https://www.discogs.com/release/7762976-The-Decemberists-The-Crane-Wife) |

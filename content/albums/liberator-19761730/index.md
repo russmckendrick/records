@@ -15,11 +15,11 @@ additional_images:
     - "https://i.discogs.com/s8_kMc7DPyfdBWy9ad6KHgIhldQxvXj98CXWSwsto0E/rs:fit/g:sm/q:90/h:592/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NzYx/NzMwLTE2MjgyODc4/MjktNjY1NS5qcGVn.jpeg"
     - "https://i.discogs.com/_FSsxULcxqrMulQ0rlI4NUmgsp8JhvWfdYavClI-okk/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NzYx/NzMwLTE2MjgyODc4/MjktNDI2NC5qcGVn.jpeg"
     - "https://i.discogs.com/l7D171thRtJMYjCgFW4fWgkdAMXzqOQBh1bLjxuksDs/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NzYx/NzMwLTE2MjgyODc4/MjktMTU3My5qcGVn.jpeg"
-    - "https://i.discogs.com/DDTa5FaxD0j3xQREluYogH7hLXRzuyRntKsNxI3ZTUA/rs:fit/g:sm/q:90/h:604/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NzYx/NzMwLTE2MjgyODc4/MjktNDgwMi5qcGVn.jpeg"
+    - "https://i.discogs.com/KJTeIt7kYtfX5GG5XEbYA6TeuUINXFRxsvldbORQ3xQ/rs:fit/g:sm/q:90/h:600/w:596/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NzYx/NzMwLTE2MjgyODc4/MjktNDgwMi5qcGVn.jpeg"
     - "https://i.discogs.com/ugcHhuMMBkkjV_HZcnNU1bwvvOQmerfAbreDsr9FJSw/rs:fit/g:sm/q:90/h:587/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NzYx/NzMwLTE2MjgyODc4/MjktOTU0NS5qcGVn.jpeg"
     - "https://i.discogs.com/2y6nQRin8_l-j2tRV9-GFsFiNG4BBklgrVKpxsCHvuA/rs:fit/g:sm/q:90/h:593/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NzYx/NzMwLTE2MjgyODc4/MjktNTg4Ny5qcGVn.jpeg"
     - "https://i.discogs.com/I_rnYUvJn6VhF2Y_VGBwW6jSHlV3WhVDYIj7nomNFM4/rs:fit/g:sm/q:90/h:499/w:500/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NzYx/NzMwLTE2MjgyODc4/MjktMzExMS5qcGVn.jpeg"
-    - "https://i.discogs.com/jQ4BJL0MEibs9njAwB8wCQSDicsLJuVI2P1PrBJZobA/rs:fit/g:sm/q:90/h:605/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NzYx/NzMwLTE2MjgyODc4/MjktODEwMy5qcGVn.jpeg"
+    - "https://i.discogs.com/OVu1Akm0TIUbf7sMFRqwwOTX2ngm4OAoNlm2VGoTBpY/rs:fit/g:sm/q:90/h:600/w:595/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NzYx/NzMwLTE2MjgyODc4/MjktODEwMy5qcGVn.jpeg"
 genres: ["Electronic"]
 styles: ["Synth-pop"]
 ---

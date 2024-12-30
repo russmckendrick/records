@@ -13,7 +13,7 @@ cover:
     alt: "Superunknown by Soundgarden"
     caption: "Superunknown by Soundgarden"
 additional_images:
-    - "https://i.discogs.com/nhbsZKpTsED0H77yEqtyoTnGnELCPoVXMJxrWh5Mabw/rs:fit/g:sm/q:90/h:604/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU3NTc4/NDAtMTQwMTkwNjMy/OS0yMTUyLmpwZWc.jpeg"
+    - "https://i.discogs.com/rHvVZgBa_6H0rcvSLU3HweC1Q1qbmMQaGTcSpuxoC3o/rs:fit/g:sm/q:90/h:600/w:596/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU3NTc4/NDAtMTQwMTkwNjMy/OS0yMTUyLmpwZWc.jpeg"
     - "https://i.discogs.com/oaYDTUcSIXE3iD30WahC68cCSZnEFQah6LxCHSTudN8/rs:fit/g:sm/q:90/h:296/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU3NTc4/NDAtMTQwMTkwNjM0/MC04ODE5LmpwZWc.jpeg"
     - "https://i.discogs.com/LZ_Qkoum8C3mwbz_xNLlSVZHjZse7nuHmiCvfTFccT0/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU3NTc4/NDAtMTQwMTkwNjM0/OS03MjA4LmpwZWc.jpeg"
     - "https://i.discogs.com/ogrAeDboXnzPdRwUQxBz6AuJDn81qe_2Xg_oirTii8I/rs:fit/g:sm/q:90/h:582/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU3NTc4/NDAtMTQwMTkwNjM2/MC00Nzc4LmpwZWc.jpeg"
@@ -29,14 +29,23 @@ additional_images:
     - "https://i.discogs.com/pZox-Y-6e40tKtm0YKMtRK236qBxYjoV1rdLL6o2zNc/rs:fit/g:sm/q:90/h:300/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU3NTc4/NDAtMTQwMTkwNjQ2/Ni04ODY5LmpwZWc.jpeg"
     - "https://i.discogs.com/MqqG3eegcjTQkzj_GLL1BU-6j0nWyhhpa6Ahfc5xd6E/rs:fit/g:sm/q:90/h:300/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU3NTc4/NDAtMTQwMTkwNjQ3/OC01MTEyLmpwZWc.jpeg"
     - "https://i.discogs.com/2K3-bLfEyaqnH8-APmNVcUZ1qC_s1y6is1IOEPNVBSc/rs:fit/g:sm/q:90/h:296/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU3NTc4/NDAtMTQwMTkwNjQ4/OC03OTk1LmpwZWc.jpeg"
-    - "https://i.discogs.com/XBhGQAS71sG3EI-RFFpZja9DRYr5pEb7bkb7_OoQ8Bg/rs:fit/g:sm/q:90/h:1259/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU3NTc4/NDAtMTQwMTkwNjUw/MS02NDc5LmpwZWc.jpeg"
-    - "https://i.discogs.com/DYaWT_zLuyiZ4gAVhFw3Q4lsfPN2RwrIBcGIznMM9AE/rs:fit/g:sm/q:90/h:1517/w:309/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU3NTc4/NDAtMTQwMTkwNjUx/MS0yMTQ0LmpwZWc.jpeg"
+    - "https://i.discogs.com/lReVa3C78ESmZRYJBNQ0wEA1M4PidStdnq63m-0bwfY/rs:fit/g:sm/q:90/h:600/w:285/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU3NTc4/NDAtMTQwMTkwNjUw/MS02NDc5LmpwZWc.jpeg"
+    - "https://i.discogs.com/ubShqQ0CsXIzWqxThfwjxZncx63BXjjt3L7D_C4zMl4/rs:fit/g:sm/q:90/h:600/w:122/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU3NTc4/NDAtMTQwMTkwNjUx/MS0yMTQ0LmpwZWc.jpeg"
 genres: ["Rock"]
 styles: ["Grunge", "Alternative Rock"]
 ---
 
-Superunknown is the fourth studio album by American rock band Soundgarden, released on March 8, 1994, through A&M Records. It is the band's second album with bassist Ben Shepherd, and features new producer Michael Beinhorn. Soundgarden began work on the album after touring in support of its previous album, Badmotorfinger (1991). Superunknown captured the heaviness of the band's earlier releases while displaying a more diverse range of influences.
-Superunknown was a critical and commercial success and became the band's breakthrough album. It debuted at number one on the Billboard 200, selling 310,000 copies in its opening week. The album also topped the Australian, Canadian, and New Zealand charts. Five singles were released from the album: "The Day I Tried to Live", "My Wave", "Fell on Black Days", "Spoonman", and "Black Hole Sun", the latter two of which won Grammy Awards and helped Soundgarden reach mainstream popularity. In 1995, the album was nominated for the Grammy Award for Best Rock Album. It has been certified six times platinum by the RIAA in the United States. Superunknown has been listed by several publications as one of the best albums of the 1990s and a quintessential grunge album. In April 2019, it was ranked No. 9 on Rolling Stone's "50 Greatest Grunge Albums" list.
+If 1991’s <i>Badmotorfinger</i> was the album on which Soundgarden distilled the aggressive aspects of their musical personality into one breathless record, <i>Superunknown</i> was the LP on which they expanded their horizons to explore more nuanced influences. Which isn’t to say the album is devoid of energy—witness the churning riff of “My Wave”, the raucous punk of “Kickstand” and the pummelling rhythms of “Spoonman”. But such moments are tempered by the more subtle approach of “Like Suicide”, the downbeat “Fell On Black Days” and the melancholy psychedelia of “Black Hole Sun”.
+
+The genesis of the album’s first single, “Spoonman”, can be traced back to the set of Cameron Crowe’s 1992 film <i>Singles</i>, in which Soundgarden lead singer Chris Cornell had a cameo as a member of fictional band Citizen Dick. Helping Crowe with set design was Pearl Jam bassist Jeff Ament (also a member of the made-up group), who designed a demo cassette for Citizen Dick complete with five imaginary song titles—one of which was “Spoonman”.
+
+Spotting the cover, Cornell decided to go home and write and record songs to accompany each title, committing “Spoonman” to tape with an acoustic guitar and banging pots and pans. Years later when Soundgarden started compiling songs for <i>Superunknown</i>, guitarist Kim Thayil said they should include that track. (Cornell is on record stating that though sonically the finished version is very different to his demo, the arrangement and lyrics are close.)
+
+Having experimented with more autobiographical lyrics on <i>Badmotorfinger</i>, Cornell continued down that route on <i>Superunknown</i>, with “4th of July” chronicling an acid trip, and “Fell On Black Days” his experiences with depression. The unlikely inspiration for “Like Suicide” came in the shape of a bird that flew into the window of his Seattle home, breaking its neck in the process. After putting the bird out of its misery, Cornell wrote the song in tribute to the creature.
+
+Recording sessions at Seattle’s Bad Animals Studio were reportedly fractious, with the band’s desire to record quickly at odds with producer Michael Beinhorn’s penchant for repeat takes and attention to detail. The final product, however, speaks for itself, masterfully capturing the quartet’s more refined songwriting without compromising their artistic expression (the seven-minute “Like Suicide”, the six-minute dirge of “Head Down”) and fondness for the esoteric (the psychedelic wig-out of “Half”).
+
+In the months leading up to the release of <i>Superunknown</i>, Seattle peers such as Pearl Jam (<i>Vs</i>), Nirvana (<i>In Utero</i>) and Alice In Chains (<i>Jar of Flies</i>) all debuted at No. 1 on the Billboard charts. <i>Superunknown</i> achieved the same feat and remains a landmark release—not only for the band, but for the alt-rock genre.
         
         
     
@@ -61,19 +70,13 @@ Superunknown was a critical and commercial success and became the band's breakth
 16. She Likes Surprises
 
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/superunknown-20th-anniversary/1440811129" >}}<br>
+{{< applemusic url="https://music.apple.com/gb/album/superunknown-deluxe-edition/1440855214" >}}<br>
 
 
 ## Videos
-### Soundgarden - My Wave (Official Music Video)
-{{< youtube id="HEbYxEXM2cE" title="Soundgarden - My Wave (Official Music Video)" >}}<br>
-### More Videos
+### [Full Album] S̲oundg̲arde̲n - S̲uper̲unk̲now̲n
+{{< youtube id="FPzWEIiM8us" title="[Full Album] S̲oundg̲arde̲n - S̲uper̲unk̲now̲n" >}}<br>
 
-- [Soundgarden - Fell On Black Days (Official Music Video)](https://www.youtube.com/watch?v=ySzrJ4GRF7s)
-- [Soundgarden - Superunknown (Official Video)](https://www.youtube.com/watch?v=AwdjreJKggg)
-- [Soundgarden - Black Hole Sun (Official Music Video)](https://www.youtube.com/watch?v=3mbBbFH9fAg)
-- [Soundgarden - Spoonman (Official Music Video)](https://www.youtube.com/watch?v=T0_zzCLLRvE)
-- [Soundgarden - The Day I Tried To Live (Official Music Video)](https://www.youtube.com/watch?v=dbckIuT_YDc)
 
 ## Release Images
 {{< imageGrid >}}

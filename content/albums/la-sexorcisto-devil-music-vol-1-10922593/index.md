@@ -13,11 +13,11 @@ cover:
     caption: "La Sexorcisto: Devil Music Vol. 1 by White Zombie"
 additional_images:
     - "https://i.discogs.com/I0090pZevNzAgZQx-5Y0qhaU335KeTmTlDN8jZ9X6QQ/rs:fit/g:sm/q:90/h:586/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwOTIy/NTkzLTE1MDY1ODQ1/MTQtNzI1MC5qcGVn.jpeg"
-    - "https://i.discogs.com/Y2ZyCOm_eM7h2c3tLZTKOXNLlFxiaqlYN2pSjRPSXS4/rs:fit/g:sm/q:90/h:604/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwOTIy/NTkzLTE2MDc4NjM0/NTgtNzg3OC5qcGVn.jpeg"
-    - "https://i.discogs.com/UGKvnv18f-jXd1I8J81_5ZdiG_WJ1IdMDSxqF1wIhGM/rs:fit/g:sm/q:90/h:601/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwOTIy/NTkzLTE2MDc4NjM0/MTgtMzM1MC5qcGVn.jpeg"
+    - "https://i.discogs.com/fYcO38ZAGvoO7dKSr6L4EgUzZIzJnjQp9MBHi5US5F0/rs:fit/g:sm/q:90/h:600/w:596/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwOTIy/NTkzLTE2MDc4NjM0/NTgtNzg3OC5qcGVn.jpeg"
+    - "https://i.discogs.com/71q99ATUjEn6jGpj0HnZsDIxng-C3GbEBE-OkNbPV9I/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwOTIy/NTkzLTE2MDc4NjM0/MTgtMzM1MC5qcGVn.jpeg"
     - "https://i.discogs.com/B_L1tP15Cf1s8VRXPz6_LD71eUj3il9U7BzGwFCIOpU/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwOTIy/NTkzLTE2MDc4NjM0/MTktMjMzOS5qcGVn.jpeg"
-    - "https://i.discogs.com/QKeT3dt_oe1fnr4hIPNeMrv51O-fCIlhElf82oTSBP0/rs:fit/g:sm/q:90/h:606/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwOTIy/NTkzLTE1MDY3MjM2/MzQtMzA2MS5qcGVn.jpeg"
-    - "https://i.discogs.com/YLF5V8dhCeGeBfiSsJrQ7Unt8zZH5aXUBjCq3P5ioto/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwOTIy/NTkzLTE1MDY3MjM2/MzUtODgyMC5qcGVn.jpeg"
+    - "https://i.discogs.com/TBYSrTRdKlAi8egyaiqqVb2pLrGXxNY5YPvCm7YlLFA/rs:fit/g:sm/q:90/h:600/w:593/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwOTIy/NTkzLTE1MDY3MjM2/MzQtMzA2MS5qcGVn.jpeg"
+    - "https://i.discogs.com/1LV4oIHqOXNSyePm_m44EV_7qyNf38CyyF4j7BTL4v0/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwOTIy/NTkzLTE1MDY3MjM2/MzUtODgyMC5qcGVn.jpeg"
     - "https://i.discogs.com/rxY-yHeG_iKf1EKtF_KvqwhGJyGX9N_w7k3ZR8BRERM/rs:fit/g:sm/q:90/h:382/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwOTIy/NTkzLTE1MDY3MjM2/NDMtMzAzNS5qcGVn.jpeg"
     - "https://i.discogs.com/iwnIgSohvZBBh1SSTi1iwzpjEkaQ-5uckqJhdjqo6cU/rs:fit/g:sm/q:90/h:317/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwOTIy/NTkzLTE1MDY3MjM2/NjAtNDA2Ni5qcGVn.jpeg"
 genres: ["Rock"]
@@ -43,18 +43,16 @@ styles: ["Heavy Metal", "Groove Metal"]
 14. Warp Asylum (6:42)
 
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/la-sexorcisto-devil-music-volume-1/1440905956" >}}<br>
+{{< applemusic url="https://music.apple.com/gb/album/la-sexorcisto-devil-music-vol-1/1440905956" >}}<br>
 
 
 ## Videos
-### White Zombie - Welcome To Planet M.F.
-{{< youtube id="H8gHMU-pDbU" title="White Zombie - Welcome To Planet M.F." >}}<br>
+### White Zombie - Thunder Kiss '65 (Official Video)
+{{< youtube id="yPNFVj-pISU" title="White Zombie - Thunder Kiss '65 (Official Video)" >}}<br>
 ### More Videos
 
-- [Beavis and Butt-Head - Do 'White Zombie - Thunder Kiss '65'](https://www.youtube.com/watch?v=NucbEh8vK7I)
-- [White Zombie – La Sexorcisto: Devil Music Vol. 1 (Promo Tape)](https://www.youtube.com/watch?v=MdVB5fXEFY0)
+- [White Zombie - Welcome To Planet M.F.](https://www.youtube.com/watch?v=H8gHMU-pDbU)
 - [Knuckle Duster (Radio 1-A)](https://www.youtube.com/watch?v=TdKMLrGpcgA)
-- [White Zombie - Thunder Kiss '65 (Official Video)](https://www.youtube.com/watch?v=yPNFVj-pISU)
 - [White Zombie ft. Iggy Pop - Black Sunshine (Official Video)](https://www.youtube.com/watch?v=sqPClltS5k8)
 - [Soul-Crusher](https://www.youtube.com/watch?v=8izPzFRDYPQ)
 - [Cosmic Monsters Inc.](https://www.youtube.com/watch?v=lgNf3Y3NGXw)

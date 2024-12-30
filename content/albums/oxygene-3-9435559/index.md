@@ -13,16 +13,16 @@ cover:
     caption: "Oxygene 3 by Jean-Michel Jarre"
 additional_images:
     - "https://i.discogs.com/PjSkp0D6XFoNIivad3ppD3yakG1PDiEShTQSeCWSakg/rs:fit/g:sm/q:90/h:588/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk0MzU1/NTktMTU1MzQyNzU0/OC02MzQ4LmpwZWc.jpeg"
-    - "https://i.discogs.com/kZS8llJA3KvYxq5gqVCULKRoE6oDSekzP7b3rtEJos8/rs:fit/g:sm/q:90/h:609/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk0MzU1/NTktMTU1MzQyNzU1/Mi05MzU2LmpwZWc.jpeg"
-    - "https://i.discogs.com/nkC3RG8YP8aisTbcUC_kmOpZn9J_Jc63AytlYOHiepI/rs:fit/g:sm/q:90/h:601/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk0MzU1/NTktMTU1MzQyNzU1/My03ODQ5LmpwZWc.jpeg"
-    - "https://i.discogs.com/F2XjH7UmBKQbQX4RYw8xW3dBJBGMuBJ5GljoDoTCjos/rs:fit/g:sm/q:90/h:607/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk0MzU1/NTktMTU1MzQyNzU1/Ni0yNTEyLmpwZWc.jpeg"
+    - "https://i.discogs.com/FrgAIg3wICWyC4vb-S6WzcxcZ4Dj6o_kONZrvrR-Yqk/rs:fit/g:sm/q:90/h:600/w:590/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk0MzU1/NTktMTU1MzQyNzU1/Mi05MzU2LmpwZWc.jpeg"
+    - "https://i.discogs.com/OSXeOis0mu2hBX0N1nzdWuKNnzZGeW4V8RuT0EQdr1w/rs:fit/g:sm/q:90/h:600/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk0MzU1/NTktMTU1MzQyNzU1/My03ODQ5LmpwZWc.jpeg"
+    - "https://i.discogs.com/xMwlXEuNEcDI6t5oj0cAuiaVBrcrGaefxye8o_NmbLc/rs:fit/g:sm/q:90/h:600/w:592/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk0MzU1/NTktMTU1MzQyNzU1/Ni0yNTEyLmpwZWc.jpeg"
     - "https://i.discogs.com/38AjvX_q2RrQ6qOfWFu0BRJQ0vH6wuEr198R_e-G0nA/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk0MzU1/NTktMTU1MzQyNzU1/OC03Mjg1LmpwZWc.jpeg"
-    - "https://i.discogs.com/bn7oxwlIaJ9Jl0Mf_JBPkTlRLErOtbZGHtWaoxLxj80/rs:fit/g:sm/q:90/h:601/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk0MzU1/NTktMTU1MzQyNzU2/Mi03NTM0LmpwZWc.jpeg"
+    - "https://i.discogs.com/LOE7BFEb_YrFplmaI-bCN3TOcHHaEmnXDMbZ0VTr_wE/rs:fit/g:sm/q:90/h:600/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk0MzU1/NTktMTU1MzQyNzU2/Mi03NTM0LmpwZWc.jpeg"
     - "https://i.discogs.com/ju3g7lFaDw7Gq5xT2S8OaCHsALqR6qCfiKapCxVxZ3A/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk0MzU1/NTktMTY2OTc4Mjc2/MC0yNTkyLmpwZWc.jpeg"
     - "https://i.discogs.com/-t1aDdqgm16thDHiu3Eg_hBUp3t8-0seooP1hJLOkaw/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk0MzU1/NTktMTU1MzQyNzU2/NS0xNDUzLmpwZWc.jpeg"
     - "https://i.discogs.com/HDlTNbqyEcPM_BTAW0cnMi-R1l3Nixyb30XzpPloqPA/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk0MzU1/NTktMTY2OTc4Mjc2/MS00NzAwLmpwZWc.jpeg"
     - "https://i.discogs.com/YJdcIskkI8wjvCOgVhBqpr167xGDGirH6q0XxR2o6gs/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk0MzU1/NTktMTU1MzQyNzU2/OC03ODAyLmpwZWc.jpeg"
-    - "https://i.discogs.com/Ph_bKiTdDM7b0nZCB2wdhBBjpmhcCQj1Qvg_FkKBsSc/rs:fit/g:sm/q:90/h:604/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk0MzU1/NTktMTU5NTYwMTE0/Mi0zNTg2LmpwZWc.jpeg"
+    - "https://i.discogs.com/Fs-V9c238RDwSU2yAgYim4IKzpyqvg-tIrZ6aB083qo/rs:fit/g:sm/q:90/h:600/w:595/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk0MzU1/NTktMTU5NTYwMTE0/Mi0zNTg2LmpwZWc.jpeg"
 genres: ["Electronic"]
 styles: ["Ambient", "Electro"]
 ---
@@ -45,7 +45,9 @@ styles: ["Ambient", "Electro"]
 ## Videos
 ### Jean-Michel Jarre - Oxygene 3 [Full Album Stream]
 {{< youtube id="j9HKhcM0kzo" title="Jean-Michel Jarre - Oxygene 3 [Full Album Stream]" >}}<br>
+### More Videos
 
+- [Jean-Michel Jarre - Oxygene 3 [Full Album Stream]](https://www.youtube.com/watch?v=j9HKhcM0kzo)
 
 ## Release Images
 {{< imageGrid >}}

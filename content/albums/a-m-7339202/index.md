@@ -14,26 +14,24 @@ cover:
 additional_images:
     - "https://i.discogs.com/awbdyN0IICQcLP56uCN6D64X9ASlgTdujX_VoQ15sQk/rs:fit/g:sm/q:90/h:510/w:503/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTczMzky/MDItMTQzOTI2NzAy/OS03MDc3LmpwZWc.jpeg"
     - "https://i.discogs.com/JM7UX1-yI20jd4xrNwDKAp6Ln5pXXptocLaRogyn9vY/rs:fit/g:sm/q:90/h:337/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTczMzky/MDItMTQ0MTY3MDQ3/MS0zNjkxLmpwZWc.jpeg"
-    - "https://i.discogs.com/gXJZhvDei19LSb-oQf3jgDrPzeLel_oZ0vfgajteMJk/rs:fit/g:sm/q:90/h:607/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTczMzky/MDItMTY1NzY4OTUx/MS05MTQxLmpwZWc.jpeg"
-    - "https://i.discogs.com/XiqH8aH3W63LkT4NPVmAEr9OlAejq-eRvBFMXQkzZIA/rs:fit/g:sm/q:90/h:604/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTczMzky/MDItMTY1NzY4OTUx/MC04NzEwLmpwZWc.jpeg"
-    - "https://i.discogs.com/Sn7c2OruPK0tGWPsjSLoKozu0cnYHULeMZY9FvT3brg/rs:fit/g:sm/q:90/h:605/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTczMzky/MDItMTY1NzY4OTUx/MC05NTg5LmpwZWc.jpeg"
+    - "https://i.discogs.com/kna8xCo_2YTXPW03jhpaTA_R6SP3CWTguhkyy4mupnE/rs:fit/g:sm/q:90/h:600/w:592/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTczMzky/MDItMTY1NzY4OTUx/MS05MTQxLmpwZWc.jpeg"
+    - "https://i.discogs.com/gl6-_fv2hyGJPqLFeQjyhEAYQtlT7mVDDv3vtt1Sj6Q/rs:fit/g:sm/q:90/h:600/w:595/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTczMzky/MDItMTY1NzY4OTUx/MC04NzEwLmpwZWc.jpeg"
+    - "https://i.discogs.com/zCKcG1jGCjpCiZCmBvcypaIa28kP_VlmqFKuLejGhso/rs:fit/g:sm/q:90/h:600/w:594/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTczMzky/MDItMTY1NzY4OTUx/MC05NTg5LmpwZWc.jpeg"
     - "https://i.discogs.com/S8nwQMDJ2zIPoL5NueEN4wwD-K1ERhF176Mk9dkZiZM/rs:fit/g:sm/q:90/h:593/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTczMzky/MDItMTY1NzY4OTUx/Mi03MjQ4LmpwZWc.jpeg"
-    - "https://i.discogs.com/Xmz2P_st_q9UMxoas3UufmEQMhx8UbcPMrMAv8YFowU/rs:fit/g:sm/q:90/h:606/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTczMzky/MDItMTY1NzY4OTUx/Mi02NDcxLmpwZWc.jpeg"
-    - "https://i.discogs.com/aJsbSwl2cXnLEXm5g1BQDr6EYo-VuEYmpAgDmesKMLQ/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTczMzky/MDItMTY1NzY4OTUx/Mi05NTAyLmpwZWc.jpeg"
-    - "https://i.discogs.com/y9AnuFuWEMCaLBEKnmJVgnVipvEf1NTVwdOp0UVRabE/rs:fit/g:sm/q:90/h:608/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTczMzky/MDItMTY1NzY4OTUx/MS00NDYxLmpwZWc.jpeg"
+    - "https://i.discogs.com/GVB1CNhO1iQ-7BnJLzWIwVU_Y1UCxAUai2zPjn9QCDg/rs:fit/g:sm/q:90/h:600/w:593/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTczMzky/MDItMTY1NzY4OTUx/Mi02NDcxLmpwZWc.jpeg"
+    - "https://i.discogs.com/ZtmupIicWtCBzYxYyQkfDz_C-rro9dz_KFFBFH6aJGk/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTczMzky/MDItMTY1NzY4OTUx/Mi05NTAyLmpwZWc.jpeg"
+    - "https://i.discogs.com/-O3T2p15RJfvR6JKPU7vMnBqlMX_V5oSpLGy9o17Rpc/rs:fit/g:sm/q:90/h:600/w:591/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTczMzky/MDItMTY1NzY4OTUx/MS00NDYxLmpwZWc.jpeg"
     - "https://i.discogs.com/-BvRCJ09QkS-hPhcykFm2s4fe5R-sdaZQsA9_LNSCdQ/rs:fit/g:sm/q:90/h:401/w:428/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTczMzky/MDItMTQzOTI2NzU5/Ni03NTA5LmpwZWc.jpeg"
     - "https://i.discogs.com/E41Zdim_L263XoiW0xfCoHmsFsvu5ueI8pgEGU1X3zI/rs:fit/g:sm/q:90/h:343/w:340/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTczMzky/MDItMTQzOTI2Nzc1/OC03ODUzLmpwZWc.jpeg"
-    - "https://i.discogs.com/hMYeSgSqo4ocYCGqsr_KxqE6u463K-sHMQRMlZWpNUY/rs:fit/g:sm/q:90/h:678/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTczMzky/MDItMTQ0MTY3MDQ5/NC02MDAxLmpwZWc.jpeg"
+    - "https://i.discogs.com/dLcm25ZEfX7rfKmzTADiqUvshAxOM6PkeAoL-HGQQ3s/rs:fit/g:sm/q:90/h:600/w:530/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTczMzky/MDItMTQ0MTY3MDQ5/NC02MDAxLmpwZWc.jpeg"
     - "https://i.discogs.com/JQ01BxnvZI29oCgs34oSgxvuvwLbmHsh2HuxN3JedCM/rs:fit/g:sm/q:90/h:432/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTczMzky/MDItMTYxNTE1NDQ3/Ny00Mzc1LmpwZWc.jpeg"
     - "https://i.discogs.com/G1FgkYHzmM0iYXz7C2A-ilXcLRvrZCjGtn2fdEg0Noo/rs:fit/g:sm/q:90/h:425/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTczMzky/MDItMTYxNTE1NDQ5/MS00MDYyLmpwZWc.jpeg"
 genres: ["Rock"]
 styles: ["Country Rock", "Indie Rock"]
 ---
 
-A.M. is the debut studio album by the American alternative rock band Wilco, released on March 28, 1995, by Sire Records and Reprise Records. The album was released only months after the breakup of Uncle Tupelo, an alternative country band that was the predecessor of Wilco. Prior to its release, there was debate about whether the album would be better than the debut album of Son Volt, the new band of former Uncle Tupelo lead singer Jay Farrar.
+A.M. is the debut studio album by the American rock band Wilco, released on March 28, 1995, by Sire Records and Reprise Records. The album was released only months after the breakup of Uncle Tupelo, an alternative country band that was the predecessor of Wilco. Prior to its release, there was debate about whether the album would be better than the debut album of Son Volt, the new band of former Uncle Tupelo lead singer Jay Farrar.
 Although A.M. was released before Son Volt's Trace, critical reviews were modest and initial sales were low. The album was later regarded as a "failure" by band members, as Trace was a greater success. It was the band's last album to be recorded in a purely alternative country style, as following the record the band began to expand their sound across multiple genres. It is also the only Wilco album to feature Brian Henneman of The Bottle Rockets as a lead guitarist.
-
-
     
     
 
@@ -54,7 +52,7 @@ Although A.M. was released before Son Volt's Trace, critical reviews were modest
 13. Too Far Apart (3:44)
 
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/willpower-deluxe/1442258237" >}}<br>
+{{< applemusic url="https://music.apple.com/gb/album/a-m/926194354" >}}<br>
 
 
 ## Videos

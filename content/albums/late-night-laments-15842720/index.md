@@ -12,7 +12,7 @@ cover:
     alt: "Late Night Laments by Tim Bowness"
     caption: "Late Night Laments by Tim Bowness"
 additional_images:
-    - "https://i.discogs.com/53cw1Rl7Dq3Wl00BIdN_ZCXjOGa7J5xHxTw2Yjd79qc/rs:fit/g:sm/q:90/h:618/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1ODQy/NzIwLTE1OTg5ODIy/OTgtMzk2OS5qcGVn.jpeg"
+    - "https://i.discogs.com/33Av4DfVDfRld5Fb32vbFdnYQevWutLrBzAOd5wH8kk/rs:fit/g:sm/q:90/h:600/w:581/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1ODQy/NzIwLTE1OTg5ODIy/OTgtMzk2OS5qcGVn.jpeg"
     - "https://i.discogs.com/zNedHQ87bcgBLkr6NbPMRQfTc6vJGCCep3l-QhFYOrg/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1ODQy/NzIwLTE1OTg5ODE5/MTEtMzczOC5qcGVn.jpeg"
     - "https://i.discogs.com/RCVt6riwUe3AZfv1jIyxrcwFnTjSSjrTm6GVmRrjWrg/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1ODQy/NzIwLTE1OTg5ODE5/MjQtNzQ1OC5qcGVn.jpeg"
 genres: ["Electronic", "Rock", "Pop"]
@@ -52,15 +52,22 @@ styles: ["Ambient"]
 {{< youtube id="-_OAaUeqVJ0" title="We Caught the Light" >}}<br>
 ### More Videos
 
-- [TIM BOWNESS - Northern Rain (OFFICIAL VIDEO)](https://www.youtube.com/watch?v=ns8_oScLjeE)
 - [One Last Call](https://www.youtube.com/watch?v=Vwj_oMuD84w)
-- [The Last Getaway](https://www.youtube.com/watch?v=dFTZ5NrQyIE)
 - [The Hitman Who Missed](https://www.youtube.com/watch?v=1u8AUkq03cw)
-- [Tim Bowness - Late Night Laments](https://www.youtube.com/watch?v=QrP7apxFBLA)
 - [Never a Place](https://www.youtube.com/watch?v=IG3d0uTNzqI)
 - [Darkline](https://www.youtube.com/watch?v=FEzmReMZou8)
 - [War Games by the Sea (Bonus track)](https://www.youtube.com/watch?v=mGw1IYx75gs)
 - [Cheerleader for the Damned (Bonus track)](https://www.youtube.com/watch?v=jzdSlKi43-o)
+- [We Caught the Light](https://www.youtube.com/watch?v=-_OAaUeqVJ0)
+- [One Last Call](https://www.youtube.com/watch?v=Vwj_oMuD84w)
+- [The Hitman Who Missed](https://www.youtube.com/watch?v=1u8AUkq03cw)
+- [Never a Place](https://www.youtube.com/watch?v=IG3d0uTNzqI)
+- [Darkline](https://www.youtube.com/watch?v=FEzmReMZou8)
+- [War Games by the Sea (Bonus track)](https://www.youtube.com/watch?v=mGw1IYx75gs)
+- [Cheerleader for the Damned (Bonus track)](https://www.youtube.com/watch?v=jzdSlKi43-o)
+- [TIM BOWNESS - Northern Rain (OFFICIAL VIDEO)](https://www.youtube.com/watch?v=ns8_oScLjeE)
+- [The Last Getaway](https://www.youtube.com/watch?v=dFTZ5NrQyIE)
+- [Tim Bowness - Late Night Laments](https://www.youtube.com/watch?v=QrP7apxFBLA)
 
 ## Release Images
 {{< imageGrid >}}

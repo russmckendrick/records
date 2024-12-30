@@ -142,7 +142,7 @@ styles: ["Alternative Rock", "Industrial", "Pop Rock"]
 22. Untitled No. 1 (5:01)
 23. Ian Fish, U.K. Heir (6:27)
 24. Buddha Of Suburbia (4:19)
-25. 1.Outside
+25. 1. Outside
 26. Leon Takes Us Outside (1:26)
 27. Outside (4:03)
 28. The Hearts Filthy Lesson (4:58)
@@ -219,17 +219,17 @@ styles: ["Alternative Rock", "Industrial", "Pop Rock"]
 99. Toy (Your Turn To Drive)
 100. Re:Call 5
 101. Real Cool World (Sounds From The Cool World Soundtrack Version)
-102. Jump They Say (7” Version)
-103. Lucy Can’t Dance
+102. Jump They Say (7" Version)
+103. Lucy Can't Dance
 104. Black Tie White Noise (Radio Edit)
-105. Don’t Let Me Down & Down (Indonesian Vocal Version)
+105. Don't Let Me Down & Down (Indonesian Vocal Version)
 106. Buddha Of Suburbia (Single Version)
 107. The Hearts Filthy Lesson (Radio Edit)
 108. Nothing To Be Desired
 109. Strangers When We Meet (Edit)
 110. Get Real
 111. The Man Who Sold The World (Live Eno Mix)
-112. I’m Afraid Of Americans (Showgirls Soundtrack Version)
+112. I'm Afraid Of Americans (Showgirls Soundtrack Version)
 113. Hallo Spaceboy (Remix)
 114. I Am With Name (Alternative Version)
 115. A Small Plot Of Land (Long Basquiat Soundtrack Version)
@@ -238,18 +238,18 @@ styles: ["Alternative Rock", "Industrial", "Pop Rock"]
 118. Dead Man Walking (Edit)
 119. Seven Years In Tibet (Edit)
 120. Planet Of Dreams
-121. I’m Afraid Of Americans (V1 Edit)
-122. I Can’t Read (The Ice Storm Long Version)
+121. I'm Afraid Of Americans (V1 Edit)
+122. I Can't Read (The Ice Storm Long Version)
 123. A Foggy Day In London Town
 124. Fun (BowieNet Mix)
 125. The Pretty Things Are Going To Hell (Stigmata Soundtrack Version)
-126. Thursday’s Child (Radio Edit)
+126. Thursday's Child (Radio Edit)
 127. We All Go Through
 128. No One Calls
 129. We Shall Go To Town
 130. 1917
 131. The Pretty Things Are Going To Hell (Edit)
-132. Thursday’s Child (Omikron: The Nomad Soul Version)
+132. Thursday's Child (Omikron: The Nomad Soul Version)
 133. New Angels Of Promise (Omikron: The Nomad Soul Version)
 134. The Dreamers (Omikron: The Nomad Soul Version)
 135. Seven (Demo)

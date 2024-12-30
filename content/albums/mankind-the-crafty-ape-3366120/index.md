@@ -24,7 +24,7 @@ additional_images:
     - "https://i.discogs.com/BwRzMTeyz1D8wBqnG5u-iUv_i7rQ0pzuunAMlVZp6Rk/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzNjYx/MjAtMTYyNzMxODA0/NC0yOTM5LmpwZWc.jpeg"
     - "https://i.discogs.com/MqFp8SsqgEt1n4vQP_lUKVQ85in6ccPO_XTM-kuM53I/rs:fit/g:sm/q:90/h:600/w:596/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzNjYx/MjAtMTUwNjE3NzU3/Ny0zMDk4LmpwZWc.jpeg"
     - "https://i.discogs.com/lPcVyhVkooi3tOqH3JXAG0RDQd2t7YIOOHb63k82VFg/rs:fit/g:sm/q:90/h:600/w:596/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzNjYx/MjAtMTUwNjE3NzU3/Ny0xMjk1LmpwZWc.jpeg"
-    - "https://i.discogs.com/IjjuDwsIJTW1vezPaHCG-UOanfWUDSEMMjjEtFUpUzw/rs:fit/g:sm/q:90/h:848/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzNjYx/MjAtMTY1OTE5NDI0/MS03NDI4LmpwZWc.jpeg"
+    - "https://i.discogs.com/_kE9sNkOwjL4pcOfQw81hST39sQWOR1dyj0i6c_CIqE/rs:fit/g:sm/q:90/h:600/w:424/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzNjYx/MjAtMTY1OTE5NDI0/MS03NDI4LmpwZWc.jpeg"
 genres: ["Rock"]
 styles: ["Post Rock", "Prog Rock"]
 ---
@@ -51,8 +51,9 @@ styles: ["Post Rock", "Prog Rock"]
 17. We'll Never Get Out Of This World Alive
 18. Faced With Complete Failure, Utter Defiance Is The Only Response
 
-## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/mankind-the-crafty-ape/1600467205" >}}<br>
+
+## Spotify
+{{< spotify type="album" id="1IyNGhDF2FtTiLzQj9FNjT" width="100%" height="500" >}}<br>
 
 
 ## Videos
@@ -60,6 +61,12 @@ styles: ["Post Rock", "Prog Rock"]
 {{< youtube id="SLiR_MT6toQ" title="Crippled Black Phoenix - The Heart Of Every Country (album version)" >}}<br>
 ### More Videos
 
+- [Crippled Black Phoenix - The Brain / Poznan](https://www.youtube.com/watch?v=MSg917RuF_k)
+- [Crippled Black Phoenix - Faced With Complete Failure, Utter Defiance Is the Only Response](https://www.youtube.com/watch?v=x_-bDI5VBCE)
+- [Crippled Black Phoenix - Laying Traps (official video)](https://www.youtube.com/watch?v=-hww41CRS0E)
+- [Crippled Black Phoenix - A Letter Concerning Dogheads](https://www.youtube.com/watch?v=MQfypm8ZDgo)
+- [Crippled Black Phoenix - Born In A Hurricane](https://www.youtube.com/watch?v=cihKxslHy2o)
+- [Crippled Black Phoenix - The Heart Of Every Country (album version)](https://www.youtube.com/watch?v=SLiR_MT6toQ)
 - [Crippled Black Phoenix - The Brain / Poznan](https://www.youtube.com/watch?v=MSg917RuF_k)
 - [Crippled Black Phoenix - Faced With Complete Failure, Utter Defiance Is the Only Response](https://www.youtube.com/watch?v=x_-bDI5VBCE)
 - [Crippled Black Phoenix - Laying Traps (official video)](https://www.youtube.com/watch?v=-hww41CRS0E)

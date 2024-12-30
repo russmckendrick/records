@@ -20,6 +20,11 @@ genres: ["Rock"]
 styles: ["Pop Rock"]
 ---
 
+Pure Air is a compilation album by Agua de Annique, a band formed by the former The Gathering vocalist Anneke van Giersbergen. It was released in 2009. It contains tracks from their first album Air, and also songs featuring other artists.
+
+
+    
+    
 
 
 ## Tracklisting
@@ -38,7 +43,7 @@ styles: ["Pop Rock"]
 13. The Power Of Love (4:44)
 
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/pure-air/1068872943" >}}<br>
+{{< applemusic url="https://music.apple.com/gb/album/pure-air/1769677781" >}}<br>
 
 
 
@@ -49,6 +54,7 @@ styles: ["Pop Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
+| Wikipedia URL | https://en.wikipedia.org/wiki/Pure_Air |
 | Format         | Vinyl LP Album Limited Edition Numbered (Red) |
 | Label          | Music On Vinyl |
 | Catalog Number | MOVLP1875 |

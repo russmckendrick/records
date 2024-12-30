@@ -25,12 +25,22 @@ additional_images:
     - "https://i.discogs.com/kireKSHLaeNQGZkorN68oiTbPP0ZMT-atGXVrSAxVjU/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNTkx/MzAzLTE1MTkzMDk4/NDEtOTcxMC5qcGVn.jpeg"
     - "https://i.discogs.com/5xAWHJspJ-r_MHbCAozCPVhTiJP7UJ1ymAh6OhBrMSM/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNTkx/MzAzLTE1MTkzMDk4/NDMtMzA3Ni5qcGVn.jpeg"
     - "https://i.discogs.com/5CzI1Vf2Y1RnESTmrCLSybeZNu94tOIUlr7LBWCEIOc/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNTkx/MzAzLTE1MTkzMDk4/NDItNDg5MC5qcGVn.jpeg"
-    - "https://i.discogs.com/2fh8y06HcwYTUAVlLw2MX9H__v17vN4cd_akiJOUO_4/rs:fit/g:sm/q:90/h:800/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNTkx/MzAzLTE1MTkwNDcx/MDAtOTQ5OC5qcGVn.jpeg"
+    - "https://i.discogs.com/6qaYkkcMk7pQVWReacAFL6dKIAuxBSnptqFM57EpPMU/rs:fit/g:sm/q:90/h:600/w:450/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNTkx/MzAzLTE1MTkwNDcx/MDAtOTQ5OC5qcGVn.jpeg"
     - "https://i.discogs.com/ig6nsCYWAQTJIxlGd4jTjRbnk6IKkH1ZLRq5-7Nd9PI/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNTkx/MzAzLTE1MTkzMTA4/NzgtOTE2Mi5qcGVn.jpeg"
+    - "https://i.discogs.com/4sdf-9QibR6mHJICbVvOJ7WltJ5VDkB284zBVBDBYvY/rs:fit/g:sm/q:90/h:311/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNTkx/MzAzLTE3MDA0MzE0/MTItODU5Mi5qcGVn.jpeg"
+    - "https://i.discogs.com/XP5bhwlLct3qlbwY1r54DdX82FXND6c5mgDL6d1aw6g/rs:fit/g:sm/q:90/h:300/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNTkx/MzAzLTE3MDA0MzE0/MTItOTQyMy5qcGVn.jpeg"
 genres: ["Rock"]
 styles: ["Prog Rock", "Symphonic Rock"]
 ---
 
+Deadwing is the eighth studio album by British progressive rock band Porcupine Tree, released in Japan on 24 March 2005, in Europe on 28 March, and in the US on 26 April. It quickly became the band's best selling album, although it was later surpassed by Fear of a Blank Planet. The album is based on a screenplay written by Steven Wilson and Mike Bennion, and is a ghost story. Wilson has stated that the songs "Deadwing", "Lazarus", "Arriving Somewhere but Not Here", "Open Car", and "Mellotron Scratch" were originally intended for the film soundtrack, but when the project failed to find funding they were instead recorded for the next Porcupine Tree album. The album versions of "Lazarus" and "Open Car" essentially remain Wilson solo tracks onto which Gavin Harrison overdubbed drums.
+The album produced two singles: "Shallow" and  "Lazarus". "Shallow" also appeared in the movie Four Brothers. It can be heard as background music in a bar. The album also produced music videos for "Lazarus", "The Start of Something Beautiful", and "Glass Arm Shattering".
+The album includes collaborations with King Crimson's Adrian Belew, who plays guitar solos on the title track and "Halo", and Opeth's Mikael Åkerfeldt, who adds vocal harmonies on "Deadwing", "Lazarus", and "Arriving Somewhere but Not Here".  He also plays the second guitar solo on "Arriving Somewhere but Not Here".
+In 2017, Kscope Records purchased the album as well as the previous album In Absentia; both were remastered and rereleased in 2018 through the label, with the new versions having less compression and an overall improvement in sound quality.
+
+
+    
+    
 
 
 ## Tracklisting
@@ -47,7 +57,7 @@ styles: ["Prog Rock", "Symphonic Rock"]
 11. Half-Light (6:20)
 
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/deadwing/1581676721" >}}<br>
+{{< applemusic url="https://music.apple.com/gb/album/deadwing/1770060647" >}}<br>
 
 
 ## Videos
@@ -55,7 +65,6 @@ styles: ["Prog Rock", "Symphonic Rock"]
 {{< youtube id="gZDE8UGVQyU" title="Deadwing" >}}<br>
 ### More Videos
 
-- [Unboxing Porcupine Tree - Deadwing 2023 Deluxe Edition](https://www.youtube.com/watch?v=NeBqm0B2z3s)
 - [Shallow](https://www.youtube.com/watch?v=1lym_8nmyJI)
 - [Lazarus](https://www.youtube.com/watch?v=WeyIOc_A3G4)
 - [Halo](https://www.youtube.com/watch?v=RFowJjldSww)
@@ -64,6 +73,7 @@ styles: ["Prog Rock", "Symphonic Rock"]
 - [Open Car](https://www.youtube.com/watch?v=xuORaGlbBoQ)
 - [The Start of Something Beautiful](https://www.youtube.com/watch?v=x_O8HZpkaH0)
 - [Glass Arm Shattering](https://www.youtube.com/watch?v=HwgLkvHM6js)
+- [Unboxing Porcupine Tree - Deadwing 2023 Deluxe Edition](https://www.youtube.com/watch?v=NeBqm0B2z3s)
 
 ## Release Images
 {{< imageGrid >}}
@@ -71,6 +81,7 @@ styles: ["Prog Rock", "Symphonic Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
+| Wikipedia URL | https://en.wikipedia.org/wiki/Deadwing |
 | Format         | Vinyl 2× LP Album Limited Edition Reissue Remastered (Clear) |
 | Label          | Kscope |
 | Catalog Number | KSCOPE982 |

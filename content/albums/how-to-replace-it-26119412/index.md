@@ -12,8 +12,8 @@ cover:
     alt: "How To Replace It by dEUS"
     caption: "How To Replace It by dEUS"
 additional_images:
-    - "https://i.discogs.com/wTUojtPSZ_5IcJNCevNR_U0BUM8b0GNZQzRsySfWdDg/rs:fit/g:sm/q:90/h:616/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2MTE5/NDEyLTE2NzY1NDY4/MDQtMTY3OC5wbmc.jpeg"
-    - "https://i.discogs.com/D3oxvCV1Hf1SOUUzM007JxGNW_FHtMZgg7kMfZA-gBg/rs:fit/g:sm/q:90/h:615/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2MTE5/NDEyLTE2NzY1NDY4/MDQtMzIyNy5wbmc.jpeg"
+    - "https://i.discogs.com/jH3ljTOBJWDm0tz1o7bFVTotLwwfhGX-NaZwQmIgQzg/rs:fit/g:sm/q:90/h:600/w:583/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2MTE5/NDEyLTE2NzY1NDY4/MDQtMTY3OC5wbmc.jpeg"
+    - "https://i.discogs.com/HfStNGernrPHzURZ_57fM53eJDZKdFVeg_cyHrLkyX4/rs:fit/g:sm/q:90/h:600/w:585/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2MTE5/NDEyLTE2NzY1NDY4/MDQtMzIyNy5wbmc.jpeg"
     - "https://i.discogs.com/3Iy_OZVuAMJlZ_0ogzfr7i0UnrhZtMGeT1MW2toP9go/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2MTE5/NDEyLTE2NzY2NTg2/NDgtMTU3NS5qcGVn.jpeg"
     - "https://i.discogs.com/Ta2M46U85jb1fBukmTlIDXzN4XMfCK69L6CuKAerzj4/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2MTE5/NDEyLTE2NzY2NTg2/NTQtMjQxMC5qcGVn.jpeg"
     - "https://i.discogs.com/m6wTMYPICOvEeFDapoL-RxcXhrllIc_YUdFyyW6-PSw/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2MTE5/NDEyLTE2NzY2NTg2/NjQtNDA3Mi5qcGVn.jpeg"
@@ -51,13 +51,16 @@ styles: ["Alternative Rock", "Indie Rock"]
 
 
 ## Videos
-### dEUS - Must Have Been New (Official Visualizer)
-{{< youtube id="SUCUO5k0MLg" title="dEUS - Must Have Been New (Official Visualizer)" >}}<br>
+### dEUS - How To Replace It (Official Video)
+{{< youtube id="nyyfPpm0tog" title="dEUS - How To Replace It (Official Video)" >}}<br>
 ### More Videos
 
 - [Man Of The House](https://www.youtube.com/watch?v=yC1gfZsIoRE)
+- [dEUS - Must Have Been New (Official Visualizer)](https://www.youtube.com/watch?v=SUCUO5k0MLg)
 - [How To Replace It](https://www.youtube.com/watch?v=wzcg5SMJraM)
 - [dEUS - 1989 (Official Visualizer)](https://www.youtube.com/watch?v=Gx206aFD6Wg)
+- [dEUS - How To Replace It (Official Video)](https://www.youtube.com/watch?v=nyyfPpm0tog)
+- [Man Of The House](https://www.youtube.com/watch?v=yC1gfZsIoRE)
 
 ## Release Images
 {{< imageGrid >}}

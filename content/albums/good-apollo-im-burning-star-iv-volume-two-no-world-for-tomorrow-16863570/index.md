@@ -12,16 +12,16 @@ cover:
     alt: "Good Apollo, I’m Burning Star IV Volume Two: No World For Tomorrow by Coheed And Cambria"
     caption: "Good Apollo, I’m Burning Star IV Volume Two: No World For Tomorrow by Coheed And Cambria"
 additional_images:
-    - "https://i.discogs.com/20I44Q8J4ILY7SNBAjH9G-5Z7VX7Ihanpf5eaJh4bLI/rs:fit/g:sm/q:90/h:606/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2ODYz/NTcwLTE2MTAyODU0/ODItNDczNi5qcGVn.jpeg"
-    - "https://i.discogs.com/IQHk7oCTJX-yz984yoTV9AjoXrDIHJmfiaKiYq3w-Bs/rs:fit/g:sm/q:90/h:612/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2ODYz/NTcwLTE2MTAyODU0/OTMtMTM0Mi5qcGVn.jpeg"
-    - "https://i.discogs.com/fUXg1hkz9_Cch8QB7B65biLVWAOPWn98BDBRkQe8qlc/rs:fit/g:sm/q:90/h:619/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2ODYz/NTcwLTE2MTAyODU1/MDktNDczMy5qcGVn.jpeg"
-    - "https://i.discogs.com/s5GH0OSK-MS0u5XvzLJpU9-p7hd3Jfpbx1jJszp9f5s/rs:fit/g:sm/q:90/h:616/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2ODYz/NTcwLTE2MTAyODU1/MTgtMzgwMi5qcGVn.jpeg"
-    - "https://i.discogs.com/m_PYVuGLhmxCYWcN2n1W62yzen4t6wlIx2ukm8MfHto/rs:fit/g:sm/q:90/h:614/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2ODYz/NTcwLTE2MTAyODU1/MjctOTY1MC5qcGVn.jpeg"
-    - "https://i.discogs.com/ba5lYrBoFxmPTWqPFadckiAbSzIUaub4qmDNoWWkaLg/rs:fit/g:sm/q:90/h:618/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2ODYz/NTcwLTE2MTAyODU1/MzgtOTI5OC5qcGVn.jpeg"
-    - "https://i.discogs.com/wYu90KIJlbBMouOzhF2jdcstpy7YFPVSCQoXWlXCviA/rs:fit/g:sm/q:90/h:613/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2ODYz/NTcwLTE2MTAyODU1/ODAtNjUzMC5qcGVn.jpeg"
-    - "https://i.discogs.com/qlHFIncVqSHA2pGDXtw52e28C3pyFCQSbzc1kL-z3qs/rs:fit/g:sm/q:90/h:606/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2ODYz/NTcwLTE2MTAyODU1/ODktMTgxNC5qcGVn.jpeg"
-    - "https://i.discogs.com/7K30bkNHehZe9U5Q99-LwWN4kjsCtebuFozT-ovFxI8/rs:fit/g:sm/q:90/h:604/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2ODYz/NTcwLTE2MTAyODU1/OTctOTA3NC5qcGVn.jpeg"
-    - "https://i.discogs.com/7B-TNDeL9WzFbK1LX7GZMfDCO8QU64aLGKMFZEuqz0Q/rs:fit/g:sm/q:90/h:613/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2ODYz/NTcwLTE2MTAyODU2/MDYtNjQ0MC5qcGVn.jpeg"
+    - "https://i.discogs.com/O0LvvEZgiiFIJ0glrp0nwkivNBl5FXIzB9QA1J88pvc/rs:fit/g:sm/q:90/h:600/w:593/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2ODYz/NTcwLTE2MTAyODU0/ODItNDczNi5qcGVn.jpeg"
+    - "https://i.discogs.com/SeCFmTnrBOcS5PXwyPbhAzCDpbdA6yvupCJcYhEyFEk/rs:fit/g:sm/q:90/h:600/w:587/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2ODYz/NTcwLTE2MTAyODU0/OTMtMTM0Mi5qcGVn.jpeg"
+    - "https://i.discogs.com/myCiDvjAhL55nfK_O1QjDSfrkwaeid4pRu5qzxlsgY4/rs:fit/g:sm/q:90/h:600/w:581/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2ODYz/NTcwLTE2MTAyODU1/MDktNDczMy5qcGVn.jpeg"
+    - "https://i.discogs.com/F-Qvq_veMRMrn0KpGZB1LaoreUhkCjDjOit_JEfsg-k/rs:fit/g:sm/q:90/h:600/w:583/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2ODYz/NTcwLTE2MTAyODU1/MTgtMzgwMi5qcGVn.jpeg"
+    - "https://i.discogs.com/cB1SDgOC2bzojdpVRzSKqwZoUg14hvHQ1uxOdvTxJ5o/rs:fit/g:sm/q:90/h:600/w:585/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2ODYz/NTcwLTE2MTAyODU1/MjctOTY1MC5qcGVn.jpeg"
+    - "https://i.discogs.com/KeTbYMivIJ7D1UsVHjW-W7pOwNsD8-YDRSd4geAuxQM/rs:fit/g:sm/q:90/h:600/w:581/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2ODYz/NTcwLTE2MTAyODU1/MzgtOTI5OC5qcGVn.jpeg"
+    - "https://i.discogs.com/VBaWAOvVYZymJLoKrQTWxO7Syk73nEZr-HX_bySZVLE/rs:fit/g:sm/q:90/h:600/w:586/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2ODYz/NTcwLTE2MTAyODU1/ODAtNjUzMC5qcGVn.jpeg"
+    - "https://i.discogs.com/OJXW0jgTh72fUqXPMYLK17IUTBWhRSXkh2l21X1r2eM/rs:fit/g:sm/q:90/h:600/w:593/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2ODYz/NTcwLTE2MTAyODU1/ODktMTgxNC5qcGVn.jpeg"
+    - "https://i.discogs.com/De3pqagKnzGHcof4UBf4cV0FvZhmLKQeRIx0MhGZnOE/rs:fit/g:sm/q:90/h:600/w:595/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2ODYz/NTcwLTE2MTAyODU1/OTctOTA3NC5qcGVn.jpeg"
+    - "https://i.discogs.com/emByNePsaQctv9gCclUqVLa-T6rFIzePbAuzlkMbNNg/rs:fit/g:sm/q:90/h:600/w:586/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2ODYz/NTcwLTE2MTAyODU2/MDYtNjQ0MC5qcGVn.jpeg"
     - "https://i.discogs.com/vEL7rqazIqT4KzOHBMHWMwV2Gu8iSZwlAbFgKPpdq1g/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2ODYz/NTcwLTE2MTAyODU2/MTctMjMyMS5qcGVn.jpeg"
     - "https://i.discogs.com/O4hqtMu9wklX6u_pwQJqtkB1E-ulS6WrYJepu8nhqjs/rs:fit/g:sm/q:90/h:592/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2ODYz/NTcwLTE2MTAyODU2/MjUtOTI1MS5qcGVn.jpeg"
 genres: ["Rock"]
@@ -45,6 +45,8 @@ styles: ["Prog Rock", "Emo", "Post-Hardcore"]
 12. IV The Road And The Damned
 13. V On The Brink
 
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/good-apollo-im-burning-star-iv-vol-1-from-fear-through/307654866" >}}<br>
 
 
 ## Videos

@@ -12,22 +12,33 @@ cover:
     alt: "Sorceress by Opeth"
     caption: "Sorceress by Opeth"
 additional_images:
-    - "https://i.discogs.com/6usFiJ9HUO8pNXt4_3JLvS2R7V7YPo5GBQRydZnFSMo/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkwNzMy/NjYtMTQ3NTg0NzEw/MS0yNDU2LmpwZWc.jpeg"
-    - "https://i.discogs.com/EtSMIoZS4PbhgiE8mJwMS51tx8vFKP1_09KrdkZ-ReA/rs:fit/g:sm/q:90/h:567/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkwNzMy/NjYtMTQ3NTg0NzA5/OC03ODEzLmpwZWc.jpeg"
-    - "https://i.discogs.com/MUgk2lwx266WCAbh8JGviDhhW6dUl9qr31zKCqQTtCs/rs:fit/g:sm/q:90/h:582/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkwNzMy/NjYtMTQ3NTg0NzA5/OC0zMjg0LmpwZWc.jpeg"
-    - "https://i.discogs.com/B_8PyI6T02-L-ZPomEXX5ek2oQnqYkuJMm1uSrNvZjA/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkwNzMy/NjYtMTQ3NTg0NzEw/Mi0yMzAxLmpwZWc.jpeg"
+    - "https://i.discogs.com/HsVKsJsKRpH6pNlhj2UJrTFYHpbxs3M7is3O4juRKQg/rs:fit/g:sm/q:90/h:600/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkwNzMy/NjYtMTcxNDIxOTk4/Mi00MTQ1LmpwZWc.jpeg"
+    - "https://i.discogs.com/Y9fxM2nOmOETmSYlA91GGCaNp7FOl2J8cZaPpqJe6Ss/rs:fit/g:sm/q:90/h:567/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkwNzMy/NjYtMTQ3NTcwMDk2/MS0xMDg2LmpwZWc.jpeg"
+    - "https://i.discogs.com/n95ag2SgjJk_-JvSuVQSUrUeQpef7Kt18lb1iDYKttg/rs:fit/g:sm/q:90/h:582/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkwNzMy/NjYtMTQ3NTcwMDk2/Ny00ODM3LmpwZWc.jpeg"
+    - "https://i.discogs.com/MSMtGZiqUgJHwcDC05PyWsAPzO2axSDznm-g7Ne-HGs/rs:fit/g:sm/q:90/h:600/w:597/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkwNzMy/NjYtMTcxNDIxOTk4/Mi00MTk4LmpwZWc.jpeg"
     - "https://i.discogs.com/UtIOPakR1sSyCt247h7Ei8ALio8OD50gpoujPzzXTUI/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkwNzMy/NjYtMTQ3NTcwMDk0/NS00NTk5LmpwZWc.jpeg"
-    - "https://i.discogs.com/00avmGFGxheyQKhe68HhBrA4o6t-D-2U6EY-DMqOUX0/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkwNzMy/NjYtMTQ3NTcwMDk1/Ni01MjM5LmpwZWc.jpeg"
-    - "https://i.discogs.com/F-oKUZouPJhzJCcf4ZAYr5TruIjBJDpbcyq-kROjuqk/rs:fit/g:sm/q:90/h:603/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkwNzMy/NjYtMTQ3NTcwMDk1/MS02ODczLmpwZWc.jpeg"
-    - "https://i.discogs.com/cDYzdNkwVrgx4U82fouXw0Nw69SiiCLXf1Xe0OLOXb4/rs:fit/g:sm/q:90/h:586/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkwNzMy/NjYtMTQ3NTg0NzEw/MC01OTE5LmpwZWc.jpeg"
-    - "https://i.discogs.com/orc9mlsHMvYD3jZWHJuGePntLzHg9cqLH4QyYUAuKYE/rs:fit/g:sm/q:90/h:591/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkwNzMy/NjYtMTQ3NTg0NzEw/Mi01ODMxLmpwZWc.jpeg"
-    - "https://i.discogs.com/sjfqVfsQcKgZj0XH3W73pE1B7f4DRn13797M4TrX0fE/rs:fit/g:sm/q:90/h:611/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkwNzMy/NjYtMTQ3NTg0NzA5/OS0xNjczLmpwZWc.jpeg"
-    - "https://i.discogs.com/xo1GUMsrnWhylsBO2xS-xLaZb4Oj5yxbzY5bD1SvHEs/rs:fit/g:sm/q:90/h:598/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkwNzMy/NjYtMTQ3NTg0NzEw/MC01NTI2LmpwZWc.jpeg"
+    - "https://i.discogs.com/xckeFCkHw2f5cT6KfaK6HykBOR-qGaz-fT-ULPGTL3o/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkwNzMy/NjYtMTQ3NTcwMDk1/Ni01MjM5LmpwZWc.jpeg"
+    - "https://i.discogs.com/eyTW-B0l_dhWwLHpWDPxuAHJmw9McFnFTRiueW5tsrQ/rs:fit/g:sm/q:90/h:600/w:594/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkwNzMy/NjYtMTcxNDIxOTk4/MS01MjcwLmpwZWc.jpeg"
+    - "https://i.discogs.com/FKQnuoLglveES4zY-cTdDJO8A9A_3a-EVgI6DJeBU3w/rs:fit/g:sm/q:90/h:600/w:596/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkwNzMy/NjYtMTQ3NTcwMDk1/MS02ODczLmpwZWc.jpeg"
+    - "https://i.discogs.com/rPs-cyPbZnGfK_IIpF8HCYOxidlbwQqKEnChPLoeBxE/rs:fit/g:sm/q:90/h:586/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkwNzMy/NjYtMTQ3NTcwMDk3/Ni01MTIyLmpwZWc.jpeg"
+    - "https://i.discogs.com/eoTp_N6gB6AZrX8SgjjvtEMhVrxw1nivT5pBPagRMbs/rs:fit/g:sm/q:90/h:591/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkwNzMy/NjYtMTQ3NTcwMDk3/MS05NTIzLmpwZWc.jpeg"
+    - "https://i.discogs.com/9UD7p-Gi6XalTZ7W29OPEtyQAqn4bl417qL2vrYKHD0/rs:fit/g:sm/q:90/h:600/w:588/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkwNzMy/NjYtMTQ3NTcwMDk4/Ny01MjQ0LmpwZWc.jpeg"
+    - "https://i.discogs.com/JBwgALrW32uBVGXzg6dmUkXy36BrbFQAmnifNQ7zp0c/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkwNzMy/NjYtMTQ3NTcwMDk4/Mi01MTEyLmpwZWc.jpeg"
+    - "https://i.discogs.com/2F3mPpq-a0XgO-bt6Z96elfIwMvajdBe2LJrOVVipiQ/rs:fit/g:sm/q:90/h:450/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkwNzMy/NjYtMTQ3NDI5MjI2/Mi0yNTMzLmpwZWc.jpeg"
+    - "https://i.discogs.com/jIWBWsSFZtSIA-utyMpAFZZx4VtdHkkXaGdYQM7er0c/rs:fit/g:sm/q:90/h:450/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkwNzMy/NjYtMTQ3NDI5MjI3/NS0xMjg0LmpwZWc.jpeg"
+    - "https://i.discogs.com/CW_Rcw5z59yMmqXUOe7bLyHzLaaqEdgeoAJsA0LDtdY/rs:fit/g:sm/q:90/h:450/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkwNzMy/NjYtMTQ3NDI5MjI3/MS01ODAxLmpwZWc.jpeg"
+    - "https://i.discogs.com/LWNvSGuiTqCQAxEk_R-Kqhne4rToPj0RhOI0LcIfYhU/rs:fit/g:sm/q:90/h:450/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkwNzMy/NjYtMTQ3NDI5MjI3/MS05OTI4LmpwZWc.jpeg"
+    - "https://i.discogs.com/avwl3XTLIwy7WLn-_WBw2sBQnZWkUUeGQVLDHYx-RaQ/rs:fit/g:sm/q:90/h:450/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkwNzMy/NjYtMTQ3NDI5MjI2/Ni01NjI0LmpwZWc.jpeg"
     - "https://i.discogs.com/4MZqI13sfkzVEAlKfSrbfTnJg2fSqnAt9XV2ZDTOCzA/rs:fit/g:sm/q:90/h:580/w:400/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkwNzMy/NjYtMTQ3NjYzNzE0/OC04NzM2LmpwZWc.jpeg"
 genres: ["Rock"]
 styles: ["Prog Rock"]
 ---
 
+Sorceress is the twelfth studio album by Swedish progressive metal band Opeth. The album was released on 30 September 2016 via record label Nuclear Blast and the band's own imprint Moderbolaget.
+
+
+    
+    
 
 
 ## Tracklisting
@@ -46,17 +57,18 @@ styles: ["Prog Rock"]
 13. Spring MCMLXXIV
 
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/sorceress/1138402841" >}}<br>
+{{< applemusic url="https://music.apple.com/gb/album/sorceress/1776757811" >}}<br>
 
 
 ## Videos
-### OPETH - Era (OFFICIAL VIDEO)
-{{< youtube id="98wXIjkO4i0" title="OPETH - Era (OFFICIAL VIDEO)" >}}<br>
+### Op͟e͟t͟h - So͟r͟c͟e͟r͟e͟s͟s (Full Album 2016)
+{{< youtube id="7q_8B1UbEJc" title="Op͟e͟t͟h - So͟r͟c͟e͟r͟e͟s͟s (Full Album 2016)" >}}<br>
 ### More Videos
 
 - [OPETH - Sorceress (OFFICIAL LYRIC VIDEO)](https://www.youtube.com/watch?v=LhqijfqecvA)
 - [OPETH - The Wilde Flowers (OFFICIAL LYRIC VIDEO)](https://www.youtube.com/watch?v=O9vA6dJJX-8)
 - [OPETH - Will O The Wisp (OFFICIAL LYRIC VIDEO)](https://www.youtube.com/watch?v=Kfpnwk-DXrA)
+- [OPETH - Era (OFFICIAL VIDEO)](https://www.youtube.com/watch?v=98wXIjkO4i0)
 
 ## Release Images
 {{< imageGrid >}}
@@ -64,6 +76,7 @@ styles: ["Prog Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
+| Wikipedia URL | https://en.wikipedia.org/wiki/Sorceress_(Opeth_album) |
 | Format         | Vinyl 2× LP Album |
 | Label          | Nuclear Blast Entertainment |
 | Catalog Number | NE 3822-1 |

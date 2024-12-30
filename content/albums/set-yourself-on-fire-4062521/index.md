@@ -16,9 +16,9 @@ additional_images:
     - "https://i.discogs.com/ayWXRvRQ0_jvKWH2ket3j7HquE__-tMIimqrl2qwKyM/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQwNjI1/MjEtMTY3NzE3NjU3/My05OTYwLmpwZWc.jpeg"
     - "https://i.discogs.com/t1JIBb9CzTmV8M7ydi3Svrjl0vJ46oTGMyN2fC5Dheo/rs:fit/g:sm/q:90/h:587/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQwNjI1/MjEtMTY3NzE3NjU3/NC0zNzk5LmpwZWc.jpeg"
     - "https://i.discogs.com/_P93-PQQh_-TXTYBNw2Tvc_vCCz1uSTjFOJeNL9foLI/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQwNjI1/MjEtMTY3NzE3NjU3/My01MzI5LmpwZWc.jpeg"
-    - "https://i.discogs.com/JnXG2ZPHUh3hwONQgsHYY8pTgCIQyWqLSSYZgX3aMSk/rs:fit/g:sm/q:90/h:604/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQwNjI1/MjEtMTY3NzE3NjU3/My02MjkxLmpwZWc.jpeg"
-    - "https://i.discogs.com/gQNEKehl1FrqAwhf699uRnE4bQnyc2tggmIvDd9C4Vc/rs:fit/g:sm/q:90/h:601/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQwNjI1/MjEtMTY3NzE3NjU3/My02MDMxLmpwZWc.jpeg"
-    - "https://i.discogs.com/0rjzrt_ph1eT0QGlKTSHaAcLDSRzFFCKpqmb0GMAP4k/rs:fit/g:sm/q:90/h:601/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQwNjI1/MjEtMTQyODg5NjY0/Ny00OTgyLmpwZWc.jpeg"
+    - "https://i.discogs.com/IQ8AMlEGe3TwlQ8BUfsFhyANqKVojtZ4FM-ssZFiwNc/rs:fit/g:sm/q:90/h:600/w:595/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQwNjI1/MjEtMTY3NzE3NjU3/My02MjkxLmpwZWc.jpeg"
+    - "https://i.discogs.com/EpxToZsP8JwF4K7yipLXINbT0hCfu_FEWvKzCSH3Mm0/rs:fit/g:sm/q:90/h:600/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQwNjI1/MjEtMTY3NzE3NjU3/My02MDMxLmpwZWc.jpeg"
+    - "https://i.discogs.com/DHjj7fJ7W40oZnJsLMaaF4-X4A_cIIOo79yHba7tfVI/rs:fit/g:sm/q:90/h:600/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQwNjI1/MjEtMTQyODg5NjY0/Ny00OTgyLmpwZWc.jpeg"
 genres: ["Rock"]
 styles: ["Alternative Rock", "Indie Rock"]
 ---
@@ -52,14 +52,15 @@ The novelist Ibi Kaslik is quoted on the jacket of the album. The album features
 
 
 ## Videos
-### Stars - Ageless Beauty
-{{< youtube id="JKg17Gc8WCI" title="Stars - Ageless Beauty" >}}<br>
+### Stars- One More Night
+{{< youtube id="UN3ftt-Gr24" title="Stars- One More Night" >}}<br>
 ### More Videos
 
 - [Stars - Your Ex-Lover Is Dead](https://www.youtube.com/watch?v=r5Or6-HOveg)
+- [Stars - Set Yourself On Fire (Live in Sydney) | Moshcam](https://www.youtube.com/watch?v=FBH3hgq0bwg)
+- [Stars - Ageless Beauty](https://www.youtube.com/watch?v=JKg17Gc8WCI)
 - [Stars - Reunion](https://www.youtube.com/watch?v=KnZt39OKfcc)
 - [Stars- One More Night](https://www.youtube.com/watch?v=UN3ftt-Gr24)
-- [Stars - Set Yourself On Fire (Live in Sydney) | Moshcam](https://www.youtube.com/watch?v=FBH3hgq0bwg)
 
 ## Release Images
 {{< imageGrid >}}

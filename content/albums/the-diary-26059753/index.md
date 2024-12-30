@@ -12,15 +12,17 @@ cover:
     alt: "The Diary by The Gentle Storm"
     caption: "The Diary by The Gentle Storm"
 additional_images:
-    - "https://i.discogs.com/45IyW1viebsfbwiQNYdFDl7uC-fxabRwRbAraRpjjVk/rs:fit/g:sm/q:90/h:630/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2MDU5/NzUzLTE2NzYxMjc3/MTEtODU2OS5qcGVn.jpeg"
-    - "https://i.discogs.com/6QyvXNssQguo6IoADgKzWV1xZYu_HjP2DKhfv0ADEtA/rs:fit/g:sm/q:90/h:613/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2MDU5/NzUzLTE2NzYxMjc3/MTEtNTAzMy5qcGVn.jpeg"
-    - "https://i.discogs.com/_GUzn4BTmdptzHqKMVwXfv8aklrsrQc4XRizHoPO7W8/rs:fit/g:sm/q:90/h:804/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2MDU5/NzUzLTE2NzYxMjc3/MTAtNTI2Ni5qcGVn.jpeg"
+    - "https://i.discogs.com/ZHgFAepdKlyf9FpDKNLdzg9z5DZkhKmuPaRMXra1CHc/rs:fit/g:sm/q:90/h:600/w:570/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2MDU5/NzUzLTE2NzYxMjc3/MTEtODU2OS5qcGVn.jpeg"
+    - "https://i.discogs.com/y2B95ysY2idmnVwiES_wsWEbIAN5KyFkPw8A-H48DvQ/rs:fit/g:sm/q:90/h:600/w:586/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2MDU5/NzUzLTE2NzYxMjc3/MTEtNTAzMy5qcGVn.jpeg"
+    - "https://i.discogs.com/3Yp7MHVIH0pyxUyFsd_L1df5Lg1Ekg8x5RlrvFkWRBE/rs:fit/g:sm/q:90/h:600/w:447/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2MDU5/NzUzLTE2NzYxMjc3/MTAtNTI2Ni5qcGVn.jpeg"
 genres: ["Rock", "Folk, World, & Country"]
 styles: ["Folk", "Prog Rock"]
 ---
 
 The Diary is the debut studio album by the Dutch band The Gentle Storm, consisting of composer and guitarist Arjen Anthony Lucassen and singer and lyricist Anneke van Giersbergen. It was released on March 23, 2015 in Europe, and the following day in the US.
 A concept album about a love story set in the 17th century, The Diary consists of two discs, each with the same track list: the "Gentle" side of the album consists of acoustic, softer, folk-oriented versions of the songs, while the "Storm" side of the album is made of heavy metal versions of the songs with progressive and symphonic elements.
+
+
     
     
 
@@ -60,8 +62,8 @@ A concept album about a love story set in the 17th century, The Diary consists o
 {{< youtube id="nY0Y1AwOyw0" title="THE GENTLE STORM - Shores Of India (OFFICIAL VIDEO)" >}}<br>
 ### More Videos
 
-- [THE GENTLE STORM -  Endless Sea  (Lyric Video - Storm Version)](https://www.youtube.com/watch?v=iPE3j6Gg_r4)
 - [The Gentle Storm - The Storm](https://www.youtube.com/watch?v=ZaqGcJBFXPk)
+- [THE GENTLE STORM -  Endless Sea  (Lyric Video - Storm Version)](https://www.youtube.com/watch?v=iPE3j6Gg_r4)
 - [THE GENTLE STORM - Heart Of Amsterdam (OFFICIAL VIDEO)](https://www.youtube.com/watch?v=2q2Wx5H6wkg)
 - [THE GENTLE STORM - Endless Sea (LYRIC VIDEO) (Gentle Version)](https://www.youtube.com/watch?v=ml-v1bgMJDQ)
 

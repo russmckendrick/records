@@ -13,19 +13,22 @@ cover:
     caption: "Brainbloodvolume by Ned's Atomic Dustbin"
 additional_images:
     - "https://i.discogs.com/uvBdzFYmGEiXj897NZKt5rokrK8aVPS9oqkh2EikuIs/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxMzg1/MjMxLTE3MjI2NzQz/NDUtNDgzMy5qcGVn.jpeg"
-    - "https://i.discogs.com/mrzwFez9dhXoTQintMkEa4VBTokVJ8HTv01PSUC846w/rs:fit/g:sm/q:90/h:800/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxMzg1/MjMxLTE3MjI2NzQz/NTYtODg3MS5qcGVn.jpeg"
+    - "https://i.discogs.com/xILCW3L5wPyOMt9yWZlXFrVw4kwfymdXmTsyXmaD08g/rs:fit/g:sm/q:90/h:600/w:450/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxMzg1/MjMxLTE3MjI2NzQz/NTYtODg3MS5qcGVn.jpeg"
     - "https://i.discogs.com/317QxeuxxN2ya10ElIBUffOpQ_E0qkw57oP1SOSNZYU/rs:fit/g:sm/q:90/h:581/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxMzg1/MjMxLTE3MjI2NzQz/NzgtMzU4MC5qcGVn.jpeg"
     - "https://i.discogs.com/3alZcF2ldKyibb0ydcMhT4IerPkeUGvWnpjoWF6AyiM/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxMzg1/MjMxLTE3MjI2NzQz/ODgtODI5Ny5qcGVn.jpeg"
-    - "https://i.discogs.com/iTJU_ZZNLJJS-5a_LQXKetIiANUdwBTLIV4xJSznYuQ/rs:fit/g:sm/q:90/h:602/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxMzg1/MjMxLTE3MjI2NzQ0/MTItODIxOS5qcGVn.jpeg"
-    - "https://i.discogs.com/Q-Ipjm6BKo7HkP5XRRd4r9Q8vPF6YzPxxtak5TmvYUY/rs:fit/g:sm/q:90/h:611/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxMzg1/MjMxLTE3MjI2NzQz/OTktODUyMi5qcGVn.jpeg"
+    - "https://i.discogs.com/lqSJ3ddxfcFRU_83CUuNqVPKkjJcUQYuH7mjmb0Gr-4/rs:fit/g:sm/q:90/h:600/w:597/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxMzg1/MjMxLTE3MjI2NzQ0/MTItODIxOS5qcGVn.jpeg"
+    - "https://i.discogs.com/L41M2wTj097BlPdUiX-0ux5RAfsrzZaeCyweRSDH1cQ/rs:fit/g:sm/q:90/h:600/w:588/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxMzg1/MjMxLTE3MjI2NzQz/OTktODUyMi5qcGVn.jpeg"
     - "https://i.discogs.com/E2QcxK2zU8pLjjAxVlbBvK1jXwlF6LBi32355Ti4V7A/rs:fit/g:sm/q:90/h:592/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxMzg1/MjMxLTE3MjI2NzQ0/MTgtODgxMS5qcGVn.jpeg"
-    - "https://i.discogs.com/lq588pr5fz32TOF8IvcejGhuD2lZcWtFT9xdcAOJFjw/rs:fit/g:sm/q:90/h:606/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxMzg1/MjMxLTE3MjI2NzQ0/MDUtNTk5NS5qcGVn.jpeg"
+    - "https://i.discogs.com/acy8sn58V0SFGsTjCXUGGfWIbhKBbbzgAuXm4MixGCs/rs:fit/g:sm/q:90/h:600/w:593/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxMzg1/MjMxLTE3MjI2NzQ0/MDUtNTk5NS5qcGVn.jpeg"
     - "https://i.discogs.com/jiXUWTwSOzfD-U3EvteQ6kb551GpyYFYG0hjG03nc2U/rs:fit/g:sm/q:90/h:593/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxMzg1/MjMxLTE3MjI2NzQ0/MjMtNDc4MS5qcGVn.jpeg"
-    - "https://i.discogs.com/Wqro7LiBlHwbb-Si3FfqFoEFNhhvpuae4dMDcESvnqU/rs:fit/g:sm/q:90/h:618/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxMzg1/MjMxLTE3MjI2NzQ0/MzAtMzY5Ni5qcGVn.jpeg"
+    - "https://i.discogs.com/jnV-ikFLOsysEFZ3Bn1K8oYfOgA-yc-Sk2fPDbgz-4Q/rs:fit/g:sm/q:90/h:600/w:582/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxMzg1/MjMxLTE3MjI2NzQ0/MzAtMzY5Ni5qcGVn.jpeg"
 genres: ["Rock"]
 styles: ["Alternative Rock", "Indie Rock"]
 ---
 
+Brainbloodvolume is the third and final album from English rock band Ned's Atomic Dustbin with their original line-up. It was released in the United States on 21 March 1995 but did not appear in the United Kingdom until July of that year.
+    
+    
 
 
 ## Tracklisting
@@ -46,10 +49,12 @@ styles: ["Alternative Rock", "Indie Rock"]
 
 
 ## Videos
-### Ned's Atomic Dustbin-Stuck
-{{< youtube id="QXCg4BcXsWw" title="Ned's Atomic Dustbin-Stuck" >}}<br>
+### Ned's Atomic Dustbin - All I Ask Of Myself Is That I Hold Together (Video)
+{{< youtube id="KhsKggeyv9Y" title="Ned's Atomic Dustbin - All I Ask Of Myself Is That I Hold Together (Video)" >}}<br>
 ### More Videos
 
+- [Ned's Atomic Dustbin - All I Ask of Myself Is That I Hold Together on Beavis and Butt-Head](https://www.youtube.com/watch?v=D2rLJBjEG0k)
+- [Ned's Atomic Dustbin-Stuck](https://www.youtube.com/watch?v=QXCg4BcXsWw)
 - [Ned's Atomic Dustbin-All I Ask Of Myself Is That I Hold Together](https://www.youtube.com/watch?v=nMCWxG4dXDo)
 - [Ned's Atomic Dustbin-Floote](https://www.youtube.com/watch?v=CJg99Ntr5IU)
 - [Ned's Atomic Dustbin-Premonition](https://www.youtube.com/watch?v=Hk7E0UVu9UM)
@@ -62,8 +67,9 @@ styles: ["Alternative Rock", "Indie Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
+| Wikipedia URL | https://en.wikipedia.org/wiki/Brainbloodvolume |
 | Format         | Vinyl LP Album Limited Edition Numbered Reissue (Silver & Black Marbled) |
 | Label          | Music On Vinyl |
 | Catalog Number | MOVLP 3330C |
-| Notes | Limited edition of 1000 individually numbered copies on silver & black marbled vinyl  Includes insert  140 gram vinyl |
+| Notes | Limited edition of 1000 individually numbered copies on silver & black marbled vinyl  Includes insert  180 gram vinyl |
 | Discogs URL    | [Ned's Atomic Dustbin - Brainbloodvolume](https://www.discogs.com/release/31385231-Neds-Atomic-Dustbin-Brainbloodvolume) |

@@ -13,10 +13,10 @@ cover:
     caption: "Behind The Counter With by Max Richter"
 additional_images:
     - "https://i.discogs.com/U7_A_WS_ZMoH_uSO0DCi7PYTcycNeKQ3r0VkwbKUMLI/rs:fit/g:sm/q:90/h:592/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNDA0/NDA5LTE2NTkyNTI2/NDAtOTMzNi5qcGVn.jpeg"
-    - "https://i.discogs.com/mSe6Sqm2fUk0nncSocSWC7Zw9Sm1oXLPW6UTjEsAlhU/rs:fit/g:sm/q:90/h:833/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNDA0/NDA5LTE2NTkyNTI2/MzktODk1OC5qcGVn.jpeg"
+    - "https://i.discogs.com/kHrmlvHz9khhQ0BvMTC0YfKcyqpuAXiRJ9f5krlrSlQ/rs:fit/g:sm/q:90/h:600/w:432/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNDA0/NDA5LTE2NTkyNTI2/MzktODk1OC5qcGVn.jpeg"
     - "https://i.discogs.com/xbkIsRMAu1J6bYlwiE_uDVy6oSlELsJbD9BZAOcrJbI/rs:fit/g:sm/q:90/h:17/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNDA0/NDA5LTE2NTkyNTI2/MjgtMTEzMi5qcGVn.jpeg"
     - "https://i.discogs.com/PJwf1-YoSc74hoxGozozSycIZS6PnYnAY_dGvHEcMAs/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNDA0/NDA5LTE2NTkyNTI2/MDAtMjQ3MS5qcGVn.jpeg"
-    - "https://i.discogs.com/FUJjVDaNrhI64kdjdprwsVxsUl_m-5kbLYTzgqnK1aM/rs:fit/g:sm/q:90/h:611/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNDA0/NDA5LTE2NTkyNTI2/MDEtNjM2OS5qcGVn.jpeg"
+    - "https://i.discogs.com/qjGj5emQ486_nSeIaYTX7C0QC2kiA-6MxAjpwNFxrDA/rs:fit/g:sm/q:90/h:600/w:588/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNDA0/NDA5LTE2NTkyNTI2/MDEtNjM2OS5qcGVn.jpeg"
     - "https://i.discogs.com/PizQkpKvV-MIPkCqrpj0RrFj9TpgAiYeAimms5oLC00/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNDA0/NDA5LTE2NTkyNTI2/MDEtODM0MS5qcGVn.jpeg"
     - "https://i.discogs.com/ejBxC_KGgeb2yVEcIfYdCJq_E_7oXJ2lfT3F-qVNpIo/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNDA0/NDA5LTE2NTkyNTI2/MTYtMTY0MS5qcGVn.jpeg"
     - "https://i.discogs.com/RMXziwHWvdjMZaARRWYJrIvJsyuWUHrN291ZXyzfTnY/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNDA0/NDA5LTE2NTkyNTI2/MDEtNTU5Ni5qcGVn.jpeg"

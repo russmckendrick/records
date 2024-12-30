@@ -35,6 +35,8 @@ styles: []
 9. Diamond Ballgag 
 10. Robots In Disguise 
 
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/to-cure-a-blizzard-upon-a-plastic-sea/1722675238" >}}<br>
 
 
 ## Videos

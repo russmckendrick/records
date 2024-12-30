@@ -17,15 +17,15 @@ additional_images:
     - "https://i.discogs.com/lsihO60dkW2mtN1xVbljVx1uV4k1ay4gq7Fj7FjMK8I/rs:fit/g:sm/q:90/h:592/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMzgx/NzA2LTE1MTY0Njk4/ODktODEwMy5qcGVn.jpeg"
     - "https://i.discogs.com/9KB1pOHoxbLIWcJEZGDhRVuF3U1JZGNrUP7QVKILDyo/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMzgx/NzA2LTE1MTY0Njk4/OTAtNzM1NC5qcGVn.jpeg"
     - "https://i.discogs.com/yLCOh7x1HkqJaybBjC8Vx7CJ8ktPQuaFFlykibXATpU/rs:fit/g:sm/q:90/h:286/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMzgx/NzA2LTE1MTY0Njk4/OTAtNjQ1OS5qcGVn.jpeg"
-    - "https://i.discogs.com/oZmoqNBRpxaJ2vS79PpE4y_bbaJG9S0GTZLaqkGE9Uw/rs:fit/g:sm/q:90/h:605/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMzgx/NzA2LTE1MTY0Njk5/MTYtNTY3Ny5qcGVn.jpeg"
-    - "https://i.discogs.com/SK09BX8tzTamS6-NwGO7z7d9re4q2eY9G5IsdgEn8xc/rs:fit/g:sm/q:90/h:611/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMzgx/NzA2LTE1MTY0Njk4/ODctNzYxMC5qcGVn.jpeg"
-    - "https://i.discogs.com/X3Lx12UWjkbHq2W8ogBjbOtSbsyB6l_YoRFVG0z98lk/rs:fit/g:sm/q:90/h:601/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMzgx/NzA2LTE1MTY0Njk4/OTItNTMxNS5qcGVn.jpeg"
-    - "https://i.discogs.com/Z2WylN8xjxZ761NgrKqV2Q0g3dmDrPTnOqVlHUWlhaA/rs:fit/g:sm/q:90/h:608/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMzgx/NzA2LTE1MTY0Njk4/ODctNjkyNC5qcGVn.jpeg"
+    - "https://i.discogs.com/LpBUf34w3ayeigWhyM3KmoRzouMPpO2Y3tAjV6Sz008/rs:fit/g:sm/q:90/h:600/w:594/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMzgx/NzA2LTE1MTY0Njk5/MTYtNTY3Ny5qcGVn.jpeg"
+    - "https://i.discogs.com/0BS5waS8_1ew7VaLMFi4YlTBEF_q9Dd6THd6RTZzKYs/rs:fit/g:sm/q:90/h:600/w:588/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMzgx/NzA2LTE1MTY0Njk4/ODctNzYxMC5qcGVn.jpeg"
+    - "https://i.discogs.com/uciqs6Qp0B3l2Ot_grQzaU0SaX8RBzY02sgQ939Ygmw/rs:fit/g:sm/q:90/h:600/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMzgx/NzA2LTE1MTY0Njk4/OTItNTMxNS5qcGVn.jpeg"
+    - "https://i.discogs.com/v6ZX2uWL_NF2rWWAuFdMV5oJeNq57y-BruwpwDn9XJ8/rs:fit/g:sm/q:90/h:600/w:592/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMzgx/NzA2LTE1MTY0Njk4/ODctNjkyNC5qcGVn.jpeg"
 genres: ["Rock", "Folk, World, & Country"]
 styles: []
 ---
 
-Like many of Neil Young's protest albums before it, <i>The Visitor</i> is another pull-no-punches affair, packing some of his most potent political statements to date. "I’m Canadian, by the way/And I love the USA,” he sings on “Already Great,” likening his adopted home to “the promised land… the helping hand” over sludgy piano and guitar. Then, with caustic wit, he plays an anti-environmentalist pipeline foreman on “Fly by Night Deal." But Young saves his most pointed jab for the languid, bluesy stomper “When Bad Got Good,” leading the band in a chant: “He lies/You lie/Lock him up!”
+Like many of Neil Young's protest albums before it, <i>The Visitor</i> is another pull-no-punches affair, packing some of his most potent political statements to date. "I’m Canadian, by the way/And I love the USA”, he sings on “Already Great”, likening his adopted home to “the promised land… the helping hand” over sludgy piano and guitar. Then, with caustic wit, he plays an anti-environmentalist pipeline foreman on “Fly by Night Deal". But Young saves his most pointed jab for the languid, bluesy stomper “When Bad Got Good”, leading the band in a chant: “He lies/You lie/Lock him up!”
         
         
     
@@ -47,7 +47,12 @@ Like many of Neil Young's protest albums before it, <i>The Visitor</i> is anothe
 {{< applemusic url="https://music.apple.com/gb/album/the-visitor/1299337620" >}}<br>
 
 
+## Videos
+### Neil Young + Promise of The Real - Already Great (Official Music Video)
+{{< youtube id="tfyNPxM-M-w" title="Neil Young + Promise of The Real - Already Great (Official Music Video)" >}}<br>
+### More Videos
 
+- [Neil Young With Promise Of The Real - Carnival](https://www.youtube.com/watch?v=5XdOgn-hT8Q)
 
 ## Release Images
 {{< imageGrid >}}

@@ -18,12 +18,12 @@ additional_images:
     - "https://i.discogs.com/2oSw8PByeTJ0VYpzKHfIUhrCh57otc1DjA1dun_UbkI/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk4NzUz/NjUtMTQ5MTg4Njc4/MS0xNzc5LmpwZWc.jpeg"
     - "https://i.discogs.com/2NQEEdPctfjjWSZXGuTEi7tn32JPGt3gYbPMAGv6va4/rs:fit/g:sm/q:90/h:584/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk4NzUz/NjUtMTQ5MTg4Njc4/Mi04OTQ4LmpwZWc.jpeg"
     - "https://i.discogs.com/oJ1tfY5VjeEDRVirDYdFmmqwl2Mt3iXEMHLmJ0_Nng8/rs:fit/g:sm/q:90/h:592/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk4NzUz/NjUtMTQ5MTg4Njc4/Mi04MTAzLmpwZWc.jpeg"
-    - "https://i.discogs.com/rHNYHhg8V9aMrQZ7ZELo0lFKzmIURy9PPhHoAgmVrMk/rs:fit/g:sm/q:90/h:682/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk4NzUz/NjUtMTQ5MTg4Njc4/NS04MTIyLmpwZWc.jpeg"
-    - "https://i.discogs.com/kwNtAD16wRnU6_ibpbI4GUAgNV6N6DvtyUzK63l1KNU/rs:fit/g:sm/q:90/h:738/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk4NzUz/NjUtMTQ5MTg4Njc4/Mi03NjYzLmpwZWc.jpeg"
-    - "https://i.discogs.com/tSYCHknAyOzqEZU_MsU6RIlX-SWbxVcE7CfMk5o3SSs/rs:fit/g:sm/q:90/h:605/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk4NzUz/NjUtMTQ5MTg4Njc4/My03MjM1LmpwZWc.jpeg"
+    - "https://i.discogs.com/UsRW7GIbHBvQlrQxMH-5SEyhArqy8pUP_NP_bgn0w5w/rs:fit/g:sm/q:90/h:600/w:527/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk4NzUz/NjUtMTQ5MTg4Njc4/NS04MTIyLmpwZWc.jpeg"
+    - "https://i.discogs.com/ccLKOGjoAwtb2DBcLQmvcCCBZ5B8PCbNkXEZClpn2XA/rs:fit/g:sm/q:90/h:600/w:487/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk4NzUz/NjUtMTQ5MTg4Njc4/Mi03NjYzLmpwZWc.jpeg"
+    - "https://i.discogs.com/oKhqZHQ8wqyHAhWIJQQP5MbZT66Fu4F1Ap4IP4GyWME/rs:fit/g:sm/q:90/h:600/w:594/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk4NzUz/NjUtMTQ5MTg4Njc4/My03MjM1LmpwZWc.jpeg"
     - "https://i.discogs.com/ewId3BTear7PJa62NEIAkVZwIKqkrltMX4g6Teo7Ae8/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk4NzUz/NjUtMTQ5MTg4Njc4/NC0zNTQ4LmpwZWc.jpeg"
-    - "https://i.discogs.com/eTsnMEe2LxyoSGBE04wtXqPXPmDr4NcK0W42Etm1KTE/rs:fit/g:sm/q:90/h:658/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk4NzUz/NjUtMTQ5MTg4Njc4/My02NDU3LmpwZWc.jpeg"
-    - "https://i.discogs.com/obuYI2DsayKiYLalVR4Rn3WyTtNqQqpmdAwAZvDbC9Q/rs:fit/g:sm/q:90/h:706/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk4NzUz/NjUtMTQ5MTg4Njc4/NC0xMjMwLmpwZWc.jpeg"
+    - "https://i.discogs.com/Wf5byz2S7KMOtZ7SaU7FvY1HyhBlzQQKh8m3bc6Uqww/rs:fit/g:sm/q:90/h:600/w:546/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk4NzUz/NjUtMTQ5MTg4Njc4/My02NDU3LmpwZWc.jpeg"
+    - "https://i.discogs.com/dMUQmIHIoal9SLgSvr-D74OrqjXBKpQwMdu0gF4xRY4/rs:fit/g:sm/q:90/h:600/w:509/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk4NzUz/NjUtMTQ5MTg4Njc4/NC0xMjMwLmpwZWc.jpeg"
     - "https://i.discogs.com/9L6KU1i8vicueoJCLR6NA36XY3Nxg3TKx_ap_l0KrC4/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk4NzUz/NjUtMTQ5MTg4Njc4/My01NzkwLmpwZWc.jpeg"
     - "https://i.discogs.com/_STUwdQMjhVJuCpFaf8cRuKWfQL-swIExzK-SKYUUIo/rs:fit/g:sm/q:90/h:296/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk4NzUz/NjUtMTQ5MTg4Njc4/NS05OTY5LmpwZWc.jpeg"
     - "https://i.discogs.com/FnlGnucjOjwKYJu7xHh_uuEvW9SA_3UUs0drk2liBok/rs:fit/g:sm/q:90/h:425/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk4NzUz/NjUtMTQ5MTg4Njc4/NC03NjIxLmpwZWc.jpeg"
@@ -70,6 +70,9 @@ styles: ["Prog Rock"]
 {{< youtube id="AlmmvkV5olE" title="THE MUTE GODS - Tardigrades Will Inherit The Earth (OFFICIAL VIDEO)" >}}<br>
 ### More Videos
 
+- [THE MUTE GODS - We Can't Carry On (Lyric Video)](https://www.youtube.com/watch?v=SyjNard5ers)
+- [The Mute Gods ‎- Early Warning (2017) (Progressive Rock, Art Rock)](https://www.youtube.com/watch?v=mp_bqHtKBAM)
+- [THE MUTE GODS - Tardigrades Will Inherit The Earth (OFFICIAL VIDEO)](https://www.youtube.com/watch?v=AlmmvkV5olE)
 - [THE MUTE GODS - We Can't Carry On (Lyric Video)](https://www.youtube.com/watch?v=SyjNard5ers)
 - [The Mute Gods ‎- Early Warning (2017) (Progressive Rock, Art Rock)](https://www.youtube.com/watch?v=mp_bqHtKBAM)
 

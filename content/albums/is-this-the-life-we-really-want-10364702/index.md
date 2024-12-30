@@ -32,7 +32,7 @@ genres: ["Rock"]
 styles: ["Prog Rock"]
 ---
 
-From the record title to the snarled lyrics, Roger Waters is clearly not content. His sumptuous, languorous post-rock mixes through gruff interjections about the state of the world. Waters channels Pink Floyd’s greasy funk in “Smell the Roses” and even their sense of epic grandeur in “The Last Refugee,” given an immaculate buff by producer Nigel Godrich. He’s at his malevolent best playing the exasperated old coot, either taking on God’s mistakes in the stately “Déjà Vu” or cursing up a storm in “Broken Bones.”
+From the record title to the snarled lyrics, Roger Waters is clearly not content. His sumptuous, languorous post-rock mixes through gruff interjections about the state of the world. Waters channels Pink Floyd’s greasy funk in “Smell the Roses” and even their sense of epic grandeur in “The Last Refugee”, given an immaculate buff by producer Nigel Godrich. He’s at his malevolent best playing the exasperated old coot, either taking on God’s mistakes in the stately “Déjà Vu” or cursing up a storm in “Broken Bones”.
     
     
 
@@ -56,13 +56,20 @@ From the record title to the snarled lyrics, Roger Waters is clearly not content
 
 
 ## Videos
-### Roger Waters - The Last Refugee
-{{< youtube id="_XdLNqWYgGI" title="Roger Waters - The Last Refugee" >}}<br>
+### Roger Waters - Smell the Roses (Audio)
+{{< youtube id="PEh7Ip4yvH8" title="Roger Waters - Smell the Roses (Audio)" >}}<br>
 ### More Videos
 
-- [Roger Waters - Wait for Her (Video)](https://www.youtube.com/watch?v=iSl1kmQMG2E)
+- [When We Were Young](https://www.youtube.com/watch?v=wqZ0HKbCNfE)
+- [Roger Waters - Déjà Vu (Audio)](https://www.youtube.com/watch?v=gf7kMaurLZk)
+- [Roger Waters - The Last Refugee](https://www.youtube.com/watch?v=_XdLNqWYgGI)
+- [Picture That](https://www.youtube.com/watch?v=YIiRMgF29eo)
+- [Broken Bones](https://www.youtube.com/watch?v=4svv0lvizXQ)
+- [Is This the Life We Really Want?](https://www.youtube.com/watch?v=Htjj7NJiNBA)
 - [Bird In A Gale](https://www.youtube.com/watch?v=BQxx9R8l6ZY)
 - [The Most Beautiful Girl](https://www.youtube.com/watch?v=GtPON4OH_tE)
+- [Roger Waters - Wait for Her (Video)](https://www.youtube.com/watch?v=iSl1kmQMG2E)
+- [Oceans Apart](https://www.youtube.com/watch?v=1o7j98l6FZc)
 - [Part of Me Died](https://www.youtube.com/watch?v=ucnwTy9VNcU)
 
 ## Release Images

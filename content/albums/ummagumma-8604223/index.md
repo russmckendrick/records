@@ -21,16 +21,14 @@ additional_images:
     - "https://i.discogs.com/aBtmgnvuU8ek8EHHrl6AX8y4-kX-nRpTGinizL6jPoE/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg2MDQy/MjMtMTYzNzE3MDAy/MC01MDY4LmpwZWc.jpeg"
     - "https://i.discogs.com/VbRE7lUEXVBpeyChoGQv9qEOrmVEtut-GdXst4MCPqo/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg2MDQy/MjMtMTYzNzE3MDAy/Ni04MTY2LmpwZWc.jpeg"
     - "https://i.discogs.com/Mj69ukVdUwe619gqDRZdHx7pcTSMK37EX649wIUrhvA/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg2MDQy/MjMtMTYzNzE3MDAy/OC03OTQzLmpwZWc.jpeg"
-    - "https://i.discogs.com/iJmDDuh4BnYLEHSiPIuLiMJwEzlrIYm7ov6m9Ru9fuY/rs:fit/g:sm/q:90/h:1192/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg2MDQy/MjMtMTYzNzE3MDA1/NC0zNjA4LmpwZWc.jpeg"
+    - "https://i.discogs.com/8yf98lOys8cicSjTSLV-cmx8konjQJQQk_7XgL4epSk/rs:fit/g:sm/q:90/h:600/w:302/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg2MDQy/MjMtMTYzNzE3MDA1/NC0zNjA4LmpwZWc.jpeg"
     - "https://i.discogs.com/MkE-yqsinZju89lUxwQ2Jxb6NnjUx-jqW4VPe7J47Wo/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg2MDQy/MjMtMTYzNzE2OTk5/My0xNTMwLmpwZWc.jpeg"
 genres: ["Rock"]
-styles: ["Psychedelic Rock", "Experimental"]
+styles: ["Psychedelic Rock", "Experimental", "Prog Rock"]
 ---
 
-Ummagumma is the fourth album by English rock band Pink Floyd. It is a double album and was released on 7 November 1969 by Harvest Records. The first disc consists of live recordings from concerts at Mothers Club in Birmingham and the College of Commerce in Manchester that contained part of their normal set list of the time, while the second contains solo compositions by each member of the band recorded at EMI Studios (now Abbey Road Studios). The artwork was designed by regular Floyd collaborators Hipgnosis and features a number of pictures of the band combined to give a Droste effect. It was the last album cover to feature the band.
-Although the album was well received at the time of release, and was a top five hit in the UK album charts, it has since been looked upon unfavourably by the band, who have expressed negative opinions about it in interviews. Nevertheless, the album has been reissued on CD several times, along with the rest of their catalogue.
-
-
+Ummagumma is the fourth album by English rock band Pink Floyd. It is a double album and was released on 7 November 1969 by Harvest Records. The first disc consists of live recordings from concerts at Mothers Club in Birmingham and the College of Commerce in Manchester that contained part of their normal set list of the time, while the second contains solo compositions by each member of the band recorded at EMI Studios (now Abbey Road Studios). The artwork was designed by regular Pink Floyd collaborators Hipgnosis and features a number of pictures of the band combined to give a Droste effect. It was the last album cover to feature the band.
+Although Ummagumma was well received at the time of release, and was a top-five hit in the UK album charts, it has since been looked upon unfavourably by critics and by the band, who have expressed lukewarm opinions about it in interviews. The album has been reissued on CD several times, along with the rest of their catalogue.
         
         
     
@@ -53,6 +51,9 @@ Although the album was well received at the time of release, and was a top five 
 {{< applemusic url="https://music.apple.com/gb/album/ummagumma/699827490" >}}<br>
 
 
+## Videos
+### P̲i̲nk̲ ̲F̲lo̲y̲d ̲-̲ ̲U̲mma̲g̲u̲mma̲ (Full Album)
+{{< youtube id="xOerkHz6UYE" title="P̲i̲nk̲ ̲F̲lo̲y̲d ̲-̲ ̲U̲mma̲g̲u̲mma̲ (Full Album)" >}}<br>
 
 
 ## Release Images

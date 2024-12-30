@@ -4,7 +4,6 @@ artist_name: "Pink Floyd"
 artist: "pink-floyd"
 album_name: "Meddle"
 date: 2016-01-08T19:11:34.000000Z
-release_date: "1971-10-30"
 release_id: "4137493"
 slug: "meddle-4137493"
 hideSummary: true
@@ -23,37 +22,33 @@ additional_images:
     - "https://i.discogs.com/Ue4s-JXIhQol_SNs65mfM0pXS2BGYXcGI4zW0IR4sCc/rs:fit/g:sm/q:90/h:594/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQxMzc0/OTMtMTM1NjU1NjY0/OC00MjA5LmpwZWc.jpeg"
     - "https://i.discogs.com/NGxDewbgCPZaXi5B-_jAals7smSgxSmD9F_ZYOLHWCc/rs:fit/g:sm/q:90/h:360/w:595/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQxMzc0/OTMtMTM5MTk1MjIw/Ni01MjM5LmpwZWc.jpeg"
     - "https://i.discogs.com/PUvHQhLd7VJQKdaqaInBs36EzYC89tZvwcM8h24NQlo/rs:fit/g:sm/q:90/h:500/w:595/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQxMzc0/OTMtMTM5MTk1MjIy/NS04MTA0LmpwZWc.jpeg"
+    - "https://i.discogs.com/T1STeC7rKGLfdd2KJSJFAlxH5C2v2R0xdSBbYzs5jxw/rs:fit/g:sm/q:90/h:600/w:295/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQxMzc0/OTMtMTY5NTEzMjgx/OC02MjMwLmpwZWc.jpeg"
 genres: ["Rock"]
 styles: ["Psychedelic Rock", "Prog Rock"]
 ---
 
-Meddle is the sixth studio album by English rock band Pink Floyd,  released by Harvest Records. The album was produced between the band's touring commitments, from January to August 1971 at a series of locations around London, including EMI Studios (now Abbey Road Studios) and Morgan Studios.
-With no material to work with and no clear idea of the album's direction, the band devised a series of novel experiments which eventually inspired the album's signature track "Echoes".  Although the band's later albums would be unified by a central theme with lyrics written entirely by Roger Waters, Meddle was a group effort with lyrics primarily by Waters, and is considered a transitional album between the Syd Barrett-influenced group of the late 1960s and the Waters-led era.  One single, "One of These Days" b/w "Fearless", was released from the album.  
-The cover has been explained by its creator Storm Thorgerson to be an ear underwater; as with several previous albums designed by Hipgnosis, though, Thorgerson was unhappy with the final result. The album was well received by critics upon its release, and was commercially successful in the United Kingdom, but lacklustre publicity on the part of the band's American label Capitol Records led to poor sales there upon initial release.
-        
-        
+Meddle is the sixth studio album by the English rock band Pink Floyd, released by Harvest Records on 5 November 1971 in the United Kingdom. The album was produced between the band's touring commitments, from January to August 1971 at a series of locations around London, including EMI Studios (now Abbey Road Studios) and Morgan Studios.
+With no material to work with and no clear idea of the album's direction, the band devised a series of novel experiments which eventually inspired the album's signature track "Echoes". Although the band's later albums would be unified by a central theme chosen by Roger Waters, and thematically consistent lyrics written entirely by Waters, Meddle was a group effort with Waters contributing primarily to the lyrics and the bass. It is considered a transitional album between the Syd Barrett-influenced group of the 1960s and the Waters-led era of the 1970s.  Fans often refer to this album, especially "Echoes", as the first instance of the group achieving their musical potential.
+As with several previous albums, the cover was designed by Hipgnosis, and has been explained by its creator Storm Thorgerson – who was unhappy with the final result – to be an ear underwater. The album was well received by critics upon its release, and was commercially successful in the United Kingdom, but lacklustre publicity on the part of the band's American label Capitol Records led to poor sales in the US upon initial release.
+
+
+    
     
 
 
 ## Tracklisting
-1. One Of These Days (5:50)
-2. A Pillow Of Winds (5:10)
-3. Fearless (6:03)
-4. San Tropez (3:42)
-5. Seamus (2:09)
-6. Echoes (23:31)
+1. One Of These Days
+2. A Pillow Of Winds
+3. Fearless Including "You'll Never Walk Alone"
+4. San Tropez
+5. Seamus
+6. Echoes
 
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/meddle/699632611" >}}<br>
+{{< applemusic url="https://music.apple.com/gb/album/pink-floyd/278703138" >}}<br>
 
 
-## Videos
-### One Of These Days
-{{< youtube id="48PJGVf4xqk" title="One Of These Days" >}}<br>
-### More Videos
 
-- [Echoes](https://www.youtube.com/watch?v=53N99Nim6WE)
-- [Pink Floyd - Meddle (Full Album)](https://www.youtube.com/watch?v=90zyF3gPF8M)
 
 ## Release Images
 {{< imageGrid >}}
@@ -62,8 +57,8 @@ The cover has been explained by its creator Storm Thorgerson to be an ear underw
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Meddle |
-| Format         | Vinyl LP Album (The Gramophone Co. Rim Text) |
+| Format         | Vinyl LP Album Stereo (A-1U/B-1U Runouts) |
 | Label          | Harvest |
 | Catalog Number | SHVL 795 |
-| Notes | Green Harvest labels Fully textured sleeve, gatefold  Center labels:  The Gramophone Co, Ltd  Boxed EMI (above Harvest logo) Williamson Music Ltd. Chappell  World Copyrights Ltd.  Made in Gt. Britain  ℗ 1971   Sleeve: Recorded at Air Studios, EMI Studios Abbey Road and at Morgan Studios London 1971. ℗ 1971  E.M.I Records (The Gramophone Company Ltd)  Hayes - Middlesex - England   Harvest - Trade mark of The Gramophone Co. Ltd. - A Company of The [url=https://www.discogs.com/label/293204]EMI[/url] Group Made and printed in Great Britain  7110 TPS Printed and made by Garrod & Lofthouse Limited. Patent No. 1224339 |
+| Notes | This is the original UK release with A1U/B1U runouts, fully textured (outside & inside) gatefold sleeve & 'The Gramophone Co.' rimtext on green/yellow Harvest labels. EMI/Harvest polylined paper inner sleeve, advertising other Harvest releases.  First cat.# on cover & labels, 2nd (EMI int. cat.#) on cover back in parentheses.  Labels:  • The Gramophone Co, Ltd. (rimtext) • Boxed EMI logo (above Harvest logo) • Made in Gt. Britain (at 6 o'clock) • ℗ 1971   Sleeve: • Recorded at Air Studios, EMI Studios Abbey Road and at Morgan Studios London 1971 • ℗ 1971. • E.M.I Records (The Gramophone Company Ltd) • Hayes • Middlesex • England  • Harvest - Trade Mark of The Gramophone Co. Ltd. • A Company of The [url=https://www.discogs.com/label/293204]EMI[/url] Group • Made and Printed in Great Britain • File under POPULAR : Pop Groups • 7110 • TPS • Printed and made by Garrod & Lofthouse Ltd. • SHVL 795 • Patent No. 1224339  All songs published by World Copyrights Ltd. except "You'll Never Walk Alone": Williamson Music Ltd. Chappell.    |
 | Discogs URL    | [Pink Floyd - Meddle](https://www.discogs.com/release/4137493-Pink-Floyd-Meddle) |

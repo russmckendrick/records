@@ -54,4 +54,4 @@ styles: ["Indie Pop"]
 | Label          | E.L.K. Records |
 | Catalog Number | ELKREC5LP |
 | Notes | Non-Limited Edition Black Vinyl |
-| Discogs URL    | [Gulp - All Good Wishes](https://www.discogs.com/release/12359789-Gulp-All-Good-Wishes) |
+| Discogs URL    | [Gulp - All Good Wishes](https://www.discogs.com/release/12359789-Gulp-2-All-Good-Wishes) |

@@ -15,11 +15,11 @@ cover:
 additional_images:
     - "https://i.discogs.com/_c6_4tYgPrOS7yER-Zm3UvFq0y3sV9QkDkiKx1Xy7Ow/rs:fit/g:sm/q:90/h:594/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MTc5/NzExLTE1ODc4MDI1/OTYtMTA3MS5qcGVn.jpeg"
     - "https://i.discogs.com/AUgpJXxj49CIDw4yEOnW-jfE5XpI8eNwyDqkNtt7gkg/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MTc5/NzExLTE1ODc4MDI1/OTktMTE1NS5qcGVn.jpeg"
-    - "https://i.discogs.com/acj2Pw0tjr1vwdXI19HuCB7aQEdqyCk22vHW0fNH2vc/rs:fit/g:sm/q:90/h:591/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MTc5/NzExLTE1ODc4MDI1/OTktNDMxMS5qcGVn.jpeg"
     - "https://i.discogs.com/BuJEkc8vEozSAxhM4kMvdkEEjTLtMKVDTcMviYUGThQ/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MTc5/NzExLTE1ODc4MDI1/OTktNjI1Mi5qcGVn.jpeg"
+    - "https://i.discogs.com/acj2Pw0tjr1vwdXI19HuCB7aQEdqyCk22vHW0fNH2vc/rs:fit/g:sm/q:90/h:591/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MTc5/NzExLTE1ODc4MDI1/OTktNDMxMS5qcGVn.jpeg"
     - "https://i.discogs.com/ZL3XqiYGHpwdZaVC7DfCpvL4zutpkZfhPNYfPohb1_c/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MTc5/NzExLTE1ODc4MDI1/OTktNDAwMy5qcGVn.jpeg"
     - "https://i.discogs.com/S7CWKPmRv5OYKlfDPzer3bA1ScXRDV3dV7yRUPmTm04/rs:fit/g:sm/q:90/h:593/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MTc5/NzExLTE1ODc4MDI1/OTktODkyNy5qcGVn.jpeg"
-    - "https://i.discogs.com/uwTdDIMa2_kBRjdJRx3BymGTFCOwS9myMq1rQ6iV0Mk/rs:fit/g:sm/q:90/h:602/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MTc5/NzExLTE1ODc4MDI1/OTktNDU5Ny5qcGVn.jpeg"
+    - "https://i.discogs.com/FKNjjap1wLMl974uKbIaYeXIH3ICX6V5O63HfdjClTc/rs:fit/g:sm/q:90/h:600/w:597/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MTc5/NzExLTE1ODc4MDI1/OTktNDU5Ny5qcGVn.jpeg"
     - "https://i.discogs.com/xfMBOQP5_QKwT7DTId52ZvSXaMZ0Zpq-jTf9oQ_-Yfk/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MTc5/NzExLTE1ODc4MDI1/OTktODYxNC5qcGVn.jpeg"
     - "https://i.discogs.com/tKX6c2Hz71BfOlw-iYH4CHz7iZqNRN3Yk9Z7x5iinWc/rs:fit/g:sm/q:90/h:591/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MTc5/NzExLTE1ODc4MDI1/OTktMzk4OS5qcGVn.jpeg"
     - "https://i.discogs.com/Pnci09iTabRPqziPZ__oaLBaYZuCnOmc8RGpobfPVmA/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MTc5/NzExLTE1ODc4MDI1/OTktMzA2Ny5qcGVn.jpeg"
@@ -96,5 +96,5 @@ styles: ["Prog Rock", "Progressive Metal"]
 | Format         | Vinyl LP (Clear), Vinyl LP Single Sided Etched (Clear), All Media Album |
 | Label          | Peaceville |
 | Catalog Number | VILELP860 |
-| Notes | Gatefold. Limited edition of 1500 copies. Closing Of The Sky is a bonus track for this release. |
+| Notes | Gatefold with lyrics and printed inner sleeves with photos and credits. Limited edition of 1500 copies.  Closing Of The Sky is a bonus track for this release.  Runouts are etched.  Made in the EU. |
 | Discogs URL    | [Katatonia - City Burials](https://www.discogs.com/release/15179711-Katatonia-City-Burials) |

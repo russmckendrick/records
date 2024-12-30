@@ -13,7 +13,7 @@ cover:
     caption: "Bright Magic by Public Service Broadcasting"
 additional_images:
     - "https://i.discogs.com/hrJ4dusvSAn772FG7TQCqFw3u5c9hlQIqU7Z_pdeDpc/rs:fit/g:sm/q:90/h:585/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMzM4/MTE3LTE2MzI0MDI1/MzctNDQ3Mi5qcGVn.jpeg"
-    - "https://i.discogs.com/z52JIje4qvMy5vzDJbNrPo-6LhgnLwh7B9l1DJAdbHU/rs:fit/g:sm/q:90/h:623/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMzM4/MTE3LTE2MzI0MDI1/NDMtNTE5MS5qcGVn.jpeg"
+    - "https://i.discogs.com/ysQL3531EvBTd_D_i2K6kUJAgRK08Yhh2X7NH7TvRZc/rs:fit/g:sm/q:90/h:600/w:577/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMzM4/MTE3LTE2MzI0MDI1/NDMtNTE5MS5qcGVn.jpeg"
     - "https://i.discogs.com/1A_IrTFZ8NSeNoxszU92Jabmzugd9bFh1juYDfVy8Cg/rs:fit/g:sm/q:90/h:303/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMzM4/MTE3LTE2MzI0MDI1/NDgtMzI5My5qcGVn.jpeg"
     - "https://i.discogs.com/DFcuXevOBci1P1MGCILlaBknWs325mDNiuOC83uRqzg/rs:fit/g:sm/q:90/h:571/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMzM4/MTE3LTE2MzI0MDI2/MzQtNjg3Mi5qcGVn.jpeg"
     - "https://i.discogs.com/3RhDs9g3bfOZkj5WM44uhV7T7yDUhgoV7jXt0WmwvZI/rs:fit/g:sm/q:90/h:450/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMzM4/MTE3LTE2MzI3NTE3/MzItODAzNS5qcGVn.jpeg"

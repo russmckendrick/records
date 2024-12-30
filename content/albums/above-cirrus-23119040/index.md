@@ -12,9 +12,9 @@ cover:
     alt: "Above Cirrus by Pure Reason Revolution"
     caption: "Above Cirrus by Pure Reason Revolution"
 additional_images:
-    - "https://i.discogs.com/V_cdpazVU6r9Th2-l49FKMNyfjP0HlX6N91qwzTrEq4/rs:fit/g:sm/q:90/h:607/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMTE5/MDQwLTE2NTE3NDU4/MzYtNjU0Ni5qcGVn.jpeg"
+    - "https://i.discogs.com/dNiHWALIrWfilyMPHCrjYCfqPUqszd2U-gId8Q2T7kE/rs:fit/g:sm/q:90/h:600/w:592/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMTE5/MDQwLTE2NTE3NDU4/MzYtNjU0Ni5qcGVn.jpeg"
     - "https://i.discogs.com/VK5p0UNWMuGgPmYRv1sRCGCeeNZRCzplDcbIn4R87ng/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMTE5/MDQwLTE2NTE4NDEw/OTAtNTc3MS5qcGVn.jpeg"
-    - "https://i.discogs.com/ga60VVA6mMsMXT5LY03ItZBdX2UXdDz-wKtAW4xHyF0/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMTE5/MDQwLTE2NTE4NDEx/MDUtODI4OC5qcGVn.jpeg"
+    - "https://i.discogs.com/gLgtDsa44LJ3DzlC7gh3nuEuQqQvt7Se9F2dQMLiOSU/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMTE5/MDQwLTE2NTE4NDEx/MDUtODI4OC5qcGVn.jpeg"
     - "https://i.discogs.com/IMa3VziBEgVNNfsv8AecMpNSr70rtHGeZpaaZgqT4NM/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMTE5/MDQwLTE2NTE4NDEx/NDUtMzA4MC5qcGVn.jpeg"
     - "https://i.discogs.com/CgECsEoZwsO7vlHHYOkcFm8gOoZPtSzU0R96fx5Q3RU/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMTE5/MDQwLTE2NTE4NDEx/NTYtNDgxMS5qcGVn.jpeg"
     - "https://i.discogs.com/vJGSlzbxxnAcXMTbyQBgj3dHOav7W2AVnrPFgbeLZLo/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMTE5/MDQwLTE2NTE4NDEx/ODktNjA4MS5qcGVn.jpeg"

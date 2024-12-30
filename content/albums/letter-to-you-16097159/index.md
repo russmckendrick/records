@@ -30,10 +30,10 @@ additional_images:
     - "https://i.discogs.com/lUXdj7VjAf2DLj67_2idCWc10YkgfA8MUDUvlHVm9jE/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MDk3/MTU5LTE2MDM0NDkx/OTEtNDAxNi5qcGVn.jpeg"
     - "https://i.discogs.com/TJfeWR4iInocRxsObxM-mG1a4FZB0Vzf310b6yOffGE/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MDk3/MTU5LTE2MDM0NDkx/OTItMTk5NS5qcGVn.jpeg"
     - "https://i.discogs.com/biCg174uQLQs3ZNECH3jbr50LSvpZzKwsnU6MCOh8RQ/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MDk3/MTU5LTE2MDM0NDkx/OTItNDU5MS5qcGVn.jpeg"
-    - "https://i.discogs.com/zulQdu0OeE-on2cSVLwEpc14SqoQNbVcLjTnW_b5G1c/rs:fit/g:sm/q:90/h:800/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MDk3/MTU5LTE2MDMzNzc5/NjUtMzkwNy5qcGVn.jpeg"
-    - "https://i.discogs.com/5hMoTogI1Is5Cnpcs_ZXfYsesCIkxa6od_-aYSR7qyo/rs:fit/g:sm/q:90/h:966/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MDk3/MTU5LTE2MDM1NjM2/NDktMzA2My5qcGVn.jpeg"
+    - "https://i.discogs.com/Kt1K9UGW7QEys_wwY2ao8BXP6wqFq9In-dx3rCI6frA/rs:fit/g:sm/q:90/h:600/w:450/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MDk3/MTU5LTE2MDMzNzc5/NjUtMzkwNy5qcGVn.jpeg"
+    - "https://i.discogs.com/BCPKVpuA36EFJ8cIroXT3_aov5JM1DfM-AtvdnYGeWI/rs:fit/g:sm/q:90/h:600/w:372/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MDk3/MTU5LTE2MDM1NjM2/NDktMzA2My5qcGVn.jpeg"
     - "https://i.discogs.com/XbYdjflZNdlscYj8ZOFVF2lyqmacJfmD4xGeH0l7jCU/rs:fit/g:sm/q:90/h:516/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MDk3/MTU5LTE2MDM5NjEy/MjEtNjA4MS5qcGVn.jpeg"
-    - "https://i.discogs.com/zBByoueJregI2No3vpafhMHyD9EzVqLe22YsE87JMJs/rs:fit/g:sm/q:90/h:1506/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MDk3/MTU5LTE2MDM2NDE1/OTUtMjA0Ny5qcGVn.jpeg"
+    - "https://i.discogs.com/2nHVqqDWeIuRD4SQsJwRtzACl6G72FB3TPFpORFxe1U/rs:fit/g:sm/q:90/h:600/w:238/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MDk3/MTU5LTE2MDM2NDE1/OTUtMjA0Ny5qcGVn.jpeg"
     - "https://i.discogs.com/CyK6DgHJumqY3S3PUALgaxZ4zuhxqFrxETYgABRF9Q8/rs:fit/g:sm/q:90/h:323/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MDk3/MTU5LTE2MDM2NDE1/NTgtMTU3My5qcGVn.jpeg"
 genres: ["Rock"]
 styles: ["Arena Rock", "Classic Rock"]
@@ -76,22 +76,7 @@ That combination of wistfulness and joy—propelled by the full force of an E St
 {{< applemusic url="https://music.apple.com/gb/album/letter-to-you/1529959055" >}}<br>
 
 
-## Videos
-### Bruce Springsteen - One Minute You're Here (Official Audio)
-{{< youtube id="s-RT3nxr3T4" title="Bruce Springsteen - One Minute You're Here (Official Audio)" >}}<br>
-### More Videos
 
-- [Bruce Springsteen - Letter To You (Official Video)](https://www.youtube.com/watch?v=AQyLEz0qy-g)
-- [Bruce Springsteen - Burnin' Train (Official Audio)](https://www.youtube.com/watch?v=tTwpR6SCyRw)
-- [Bruce Springsteen - Janey Needs A Shooter (Official Audio)](https://www.youtube.com/watch?v=A_BRCRkAkAE)
-- [Bruce Springsteen - Last Man Standing (Official Audio)](https://www.youtube.com/watch?v=YE6l-_g814I)
-- [Bruce Springsteen - The Power Of Prayer (Official Audio)](https://www.youtube.com/watch?v=Jb-m9SJKboE)
-- [Bruce Springsteen - House Of A Thousand Guitars (Official Audio)](https://www.youtube.com/watch?v=KzvnEvbL-qs)
-- [Bruce Springsteen - Rainmaker (Official Audio)](https://www.youtube.com/watch?v=E_0pQTEhj8A)
-- [Bruce Springsteen - If I Was The Priest (Official Audio)](https://www.youtube.com/watch?v=izbq7IUYja0)
-- [Bruce Springsteen - Ghosts (Lyric Video)](https://www.youtube.com/watch?v=Lo5QNcFioZ4)
-- [Bruce Springsteen - Song For Orphans (Official Audio)](https://www.youtube.com/watch?v=ib96-ytmLDg)
-- [Bruce Springsteen - I'll See You In My Dreams (Official Audio)](https://www.youtube.com/watch?v=r9Wi5ff4pNw)
 
 ## Release Images
 {{< imageGrid >}}

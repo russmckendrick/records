@@ -22,7 +22,9 @@ genres: ["Electronic", "Rock"]
 styles: ["Psychedelic Rock", "Experimental", "Indie Rock", "Ambient"]
 ---
 
-The Holy Pictures is a 2008 studio album by David Holmes. The album departs from the eclectic soundtrack-to-an-imaginary-film style of his previous studio albums, in favour of a more personal approach. It was nominated for the 2008 Choice Music Prize, awarded to the best Irish album of the year. The tracks "I Heard Wonders" and "Holy Pictures" were released as singles.
+The Holy Pictures is the fifth studio album by David Holmes released in September 8, 2008. The album departs from the eclectic soundtrack-to-an-imaginary-film style of his previous studio albums, in favour of a more personal approach. It was nominated for the 2008 Choice Music Prize, awarded to the best Irish album of the year. The tracks "I Heard Wonders" and "Holy Pictures" were released as singles.
+
+
     
     
 
@@ -40,7 +42,7 @@ The Holy Pictures is a 2008 studio album by David Holmes. The album departs from
 10. The Ballad Of Sarah & Jack (4:28)
 
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/the-holy-pictures/1452866493" >}}<br>
+{{< applemusic url="https://music.apple.com/gb/album/the-holy-pictures-itunes-exclusive/1731904144" >}}<br>
 
 
 ## Videos

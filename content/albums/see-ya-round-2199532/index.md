@@ -22,6 +22,13 @@ genres: ["Rock", "Pop"]
 styles: ["Pop Rock"]
 ---
 
+See Ya 'Round is the tenth and final studio album by New Zealand's premier new wave band, Split Enz, and was released in 1984, following the departure of founding member Tim Finn, whose solo career had officially taken off the year before. Remaining songwriter Neil Finn, claiming to be a little daunted by the prospect of leading his older brother's band, subsequently announced that this would be the final Split Enz studio recording. Since he only had an EP's worth of material ready, the record was filled out by lightweight, experimental contributions from each of the other band members. In interviews, Neil has revealed that the original EP was to have been the first five tracks on the album ("Breakin' My Back" through "Years Go By").
+Neil Finn's demos from this era included an early version of the future Crowded House hit, "Something So Strong" (at this point a ballad), as well as prototypes for "I Walk Away" (known as "Love and Success" and "Your Inspiration"), and "Can't Carry On". Tim Finn had also recorded a collection of demos at Sing Sing Studios for the next Enz album, but his departure ensured that they would remain unreleased.
+The album's lead single, "I Walk Away," had a low-budget video clip which features the band protruding their faces through theatrical costume cut-outs, much like on the artwork of the album. The song was also released on a 12" single, featuring an of-its-era extended remix. Neither single nor album were released in the US, because after most copies of 1983's Conflicting Emotions ended up in bargain bins, the American label A&M would not risk another potential Split Enz failure and dropped them from the roster. "I Walk Away" was later re-recorded (with a different verse) and re-released on the U.S. issue of the first Crowded House album, as it was new to U.S. audiences. Originally intended as a goodbye to the Enz, key parts of the song were rewritten for the Crowded House album, supposedly to reflect Neil's uncertainty of venturing away from the security of the Enz.
+See Ya 'Round was initially released only in Australia and New Zealand, charting at #29 and #5, respectively. A later release in Canada featured a grey border on the cover instead of an orange one.
+After an appearance on Countdown and the release of "One Mouth Is Fed" as a follow-up single, the band decided to end with a proper goodbye and beckoned Tim Finn back for one final "Enz With a Bang" tour. It is on this tour that Neil met future Crowded House bassist and collaborator, Nick Seymour. A live album was released a year later featuring songs from the three Melbourne shows of this tour and the 1982 Time and Tide tour.
+    
+    
 
 
 ## Tracklisting
@@ -40,13 +47,11 @@ styles: ["Pop Rock"]
 
 
 ## Videos
-### Split Enz - One Mouth Is Fed
-{{< youtube id="K2NJXKifgqU" title="Split Enz - One Mouth Is Fed" >}}<br>
+### Split Enz - I Walk Away (Official Video)
+{{< youtube id="t2SZYbzRajU" title="Split Enz - I Walk Away (Official Video)" >}}<br>
 ### More Videos
 
-- [Split Enz - I Walk Away](https://www.youtube.com/watch?v=itr1FaWWDcI)
-- [Split Enz Years Go By Live '84](https://www.youtube.com/watch?v=QfCWjNrzxg4)
-- [Split Enz Kia Kaha: 1984](https://www.youtube.com/watch?v=BUmC6bYu6Yk)
+- [Split Enz - I Walk Away (Official Video)](https://www.youtube.com/watch?v=t2SZYbzRajU)
 
 ## Release Images
 {{< imageGrid >}}
@@ -54,6 +59,7 @@ styles: ["Pop Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
+| Wikipedia URL | https://en.wikipedia.org/wiki/See_Ya_%27Round |
 | Format         | Vinyl LP Album |
 | Label          | Mushroom |
 | Catalog Number | RML 52050 |

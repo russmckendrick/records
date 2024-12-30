@@ -13,7 +13,7 @@ cover:
     alt: "The Tipping Point by Tears For Fears"
     caption: "The Tipping Point by Tears For Fears"
 additional_images:
-    - "https://i.discogs.com/YWOIiTBN75jmjEtjpxl9phfQG-cd7bAQfI_ke29ryXM/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMjY2/NjI4LTE2NDU1NjUy/MTktODAzNC5qcGVn.jpeg"
+    - "https://i.discogs.com/3qf43gY4hYh44pMXpVSBn5rYWsvz6i-7vft25uD57j0/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMjY2/NjI4LTE2NDU1NjUy/MTktODAzNC5qcGVn.jpeg"
     - "https://i.discogs.com/5Pp1xXothn1Jimf2UgaTHzCjXb6xuXER7Rseo6EnHys/rs:fit/g:sm/q:90/h:305/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMjY2/NjI4LTE2NDU2MzQw/MDMtNTk3OC5qcGVn.jpeg"
     - "https://i.discogs.com/_BtOQfzL3tKvMeCYmGFPNwZRoLhRqS5CmEOHzNitGUQ/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMjY2/NjI4LTE2NDU1NjUx/NzEtNTA5NC5qcGVn.jpeg"
     - "https://i.discogs.com/Be08A6ORpxnNIXRmZML32bnaOw_Z9CDhdxdpykliRDw/rs:fit/g:sm/q:90/h:587/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMjY2/NjI4LTE2NDU2MzM5/NzctODczOS5qcGVn.jpeg"
@@ -54,7 +54,18 @@ Roland Orzabal and Curt Smith have been through a lot together in their 40-plus 
 {{< applemusic url="https://music.apple.com/gb/album/the-tipping-point/1586912660" >}}<br>
 
 
+## Videos
+### Tears For Fears - The Tipping Point (Official Music Video)
+{{< youtube id="yUp-ujO979U" title="Tears For Fears - The Tipping Point (Official Music Video)" >}}<br>
+### More Videos
 
+- [Tears For Fears - Break The Man (Official Music Video)](https://www.youtube.com/watch?v=zAwFd1wz_-Y)
+- [Tears For Fears The Tipping Point BBC Breakfast 2022](https://www.youtube.com/watch?v=iSeFQ5K1FSw)
+- [Tears for Fears - The Tipping Point (The 12" Extended Versions)](https://www.youtube.com/watch?v=R94XmkUCySk)
+- [Tears For Fears "Break The Man"](https://www.youtube.com/watch?v=rVHqaESW8Ug)
+- [Tears For Fears - The Tipping Point - Behind The Song](https://www.youtube.com/watch?v=JMtfACD2u6s)
+- [Tears For Fears - Tipping Point (Radio 2 in the Park 2023)](https://www.youtube.com/watch?v=rkf0nGSvJ48)
+- [Tears for Fears — The Tipping Point | LIVE Performance | SiriusXM](https://www.youtube.com/watch?v=iRRLxxoc36k)
 
 ## Release Images
 {{< imageGrid >}}

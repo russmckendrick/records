@@ -25,7 +25,8 @@ additional_images:
     - "https://i.discogs.com/JACKaQZI0I0oqlfNieaKm-2xxBA_PpbZwMPtd1n-9tY/rs:fit/g:sm/q:90/h:566/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NTUx/MzQ3LTE2MDE0MDY3/MTAtNjcwNi5qcGVn.jpeg"
     - "https://i.discogs.com/lb4ThP2yp32_-BVYw-3A1Bu2XKWMDsTgFVSfhL6PbCQ/rs:fit/g:sm/q:90/h:566/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NTUx/MzQ3LTE2MDE0MDY3/MTAtMzUwOC5qcGVn.jpeg"
     - "https://i.discogs.com/Mkjnx8fyfWsfIACA0CqHh52rv0_JJS8MyyTgW52djx8/rs:fit/g:sm/q:90/h:588/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NTUx/MzQ3LTE2MjAwNTI5/NjUtNzAxMC5qcGVn.jpeg"
-    - "https://i.discogs.com/1wCpBmNHA6bd2In-wR5-JSp4pRZBZspkWxXZG1H1q80/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NTUx/MzQ3LTE2MjAwNTI5/NjYtMjIzNC5qcGVn.jpeg"
+    - "https://i.discogs.com/6L7gIhjdIBSkSTK4cYPVl6wla-87JyRTTJGd1f-GqWM/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NTUx/MzQ3LTE2MjAwNTI5/NjYtMjIzNC5qcGVn.jpeg"
+    - "https://i.discogs.com/v5D1SufPIr7PqSI8Fmj2R_Ohr9FBtN2ZIV-TWqA9W6Q/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NTUx/MzQ3LTE3MzE2MDI5/NDgtMjU0MS5qcGVn.jpeg"
 genres: ["Rock"]
 styles: ["Power Pop", "Psychedelic Rock", "Prog Rock", "Indie Rock", "Pop Rock"]
 ---
@@ -47,13 +48,13 @@ styles: ["Power Pop", "Psychedelic Rock", "Prog Rock", "Indie Rock", "Pop Rock"]
 
 
 ## Videos
-### The Lickerish Quartet - Fadoodle Lyric Video [Mono Mix]
-{{< youtube id="ImYKSTJsf-Q" title="The Lickerish Quartet - Fadoodle Lyric Video [Mono Mix]" >}}<br>
+### The Lickerish Quartet - "Fadoodle" Lyric Video [Mono Mix]
+{{< youtube id="ImYKSTJsf-Q" title="The Lickerish Quartet - "Fadoodle" Lyric Video [Mono Mix]" >}}<br>
 ### More Videos
 
-- [The Lickerish Quartet - Bluebirds Blues [Tuneling Video]](https://www.youtube.com/watch?v=301_ImeJu5A)
+- [The Lickerish Quartet - "Bluebirds Blues" [Tuneling Video]](https://www.youtube.com/watch?v=301_ImeJu5A)
 - [There Is a Magic Number](https://www.youtube.com/watch?v=idfAFwmsmDg)
-- [The Lickerish Quartet - Lighthouse Spaceship Lyric Video](https://www.youtube.com/watch?v=aZM8CQxnOPQ)
+- [The Lickerish Quartet - "Lighthouse Spaceship" Lyric Video](https://www.youtube.com/watch?v=aZM8CQxnOPQ)
 
 ## Release Images
 {{< imageGrid >}}

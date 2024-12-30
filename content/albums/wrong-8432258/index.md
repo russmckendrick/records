@@ -19,6 +19,9 @@ genres: ["Rock"]
 styles: ["Math Rock"]
 ---
 
+In rhetoric and ethics, "two wrongs don't make a right" and "two wrongs make a right" are phrases that denote philosophical norms. "Two wrongs make a right" has been considered as a fallacy of relevance, in which an allegation of wrongdoing is countered with a similar allegation. Its antithesis, "two wrongs don't make a right", is a proverb used to rebuke or renounce wrongful conduct as a response to another's transgression. "Two wrongs make a right" is considered "one of the most common fallacies in Western philosophy".
+    
+    
 
 
 ## Tracklisting
@@ -35,8 +38,6 @@ styles: ["Math Rock"]
 11. Desperate Elvis (2:51)
 12. Dohmlette (5:36)
 
-## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/on-the-wrong-side-of-history-ep/1618095681" >}}<br>
 
 
 ## Videos
@@ -50,6 +51,7 @@ styles: ["Math Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
+| Wikipedia URL | https://en.wikipedia.org/wiki/Two_wrongs_don%27t_make_a_right |
 | Format         | Vinyl LP Album Stereo (Blue Splatter) |
 | Label          | Mega Face Records |
 | Catalog Number | MFR06 |

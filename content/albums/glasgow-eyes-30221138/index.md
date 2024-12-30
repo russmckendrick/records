@@ -13,8 +13,8 @@ cover:
     alt: "Glasgow Eyes by The Jesus And Mary Chain"
     caption: "Glasgow Eyes by The Jesus And Mary Chain"
 additional_images:
-    - "https://i.discogs.com/zX0U_nvfF1r__ryFDBHxgH1xbeJesebsU87hndlJYz4/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMjIx/MTM4LTE3MTE1NDIw/NjMtNDE3NC5qcGVn.jpeg"
-    - "https://i.discogs.com/XVwLzFgXKRR1EXIKeRqetTdCk4AIExJuhROpvfImcx8/rs:fit/g:sm/q:90/h:602/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMjIx/MTM4LTE3MTE1NDIw/NzAtNDczOC5qcGVn.jpeg"
+    - "https://i.discogs.com/esPc51jGm8RUsyMT8LVgyNcmpQgPey5ZmhuKKU16d3c/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMjIx/MTM4LTE3MTE1NDIw/NjMtNDE3NC5qcGVn.jpeg"
+    - "https://i.discogs.com/n9y7EL124W0EgFNadHPfU3DZZrc-WC4t_MA9m0WC8RE/rs:fit/g:sm/q:90/h:600/w:597/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMjIx/MTM4LTE3MTE1NDIw/NzAtNDczOC5qcGVn.jpeg"
     - "https://i.discogs.com/WCFKmYtDQQ_GJ--1lebg3-WjGxLya1hzFWfkEBW1GoM/rs:fit/g:sm/q:90/h:450/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMjIx/MTM4LTE3MTE1NTM5/NTAtNDY4MS5qcGVn.jpeg"
 genres: ["Rock"]
 styles: ["Alternative Rock"]
@@ -63,6 +63,7 @@ Except for when they are—like on the positively rollicking “The Eagles and t
 - [The Jesus And Mary Chain - Pure Poor](https://www.youtube.com/watch?v=tfEAggM6eGw)
 - [The Jesus And Mary Chain - The Eagles and The Beatles](https://www.youtube.com/watch?v=_SlZcjljx1s)
 - [The Jesus And Mary Chain - Silver Strings](https://www.youtube.com/watch?v=XP3SKOMfMYU)
+- [The Jesus and Mary Chain - Chemical Animal (Official Video)](https://www.youtube.com/watch?v=XH8UbfGB2uA)
 - [The Jesus And Mary Chain - Second of June](https://www.youtube.com/watch?v=HuhT8E1JAq8)
 - [The Jesus And Mary Chain - Girl71 (Official Video)](https://www.youtube.com/watch?v=fD0HwKM-Wwo)
 - [The Jesus And Mary Chain - Hey Lou Reid](https://www.youtube.com/watch?v=eVZSltKGDjQ)

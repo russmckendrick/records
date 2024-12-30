@@ -37,6 +37,14 @@ genres: ["Rock"]
 styles: ["Stoner Rock"]
 ---
 
+Monolithic Baby! is the sixth studio album by American rock band Monster Magnet, released in 2004. It is a follow-up to 2000's God Says No. It would also be the first album featuring bassist Jim Baglino. Bob Pantella was hired to fill the band's drum position after the album's recording; the drums on the album were performed by Michael Wildwood.
+The album features three cover songs – "There's No Way Out of Here" written by Ken Baker and originally recorded by Baker's English country rock band Unicorn, "The Right Stuff" by Robert Calvert and Velvet Underground's "Venus in Furs", the latter being available on the US edition of the album only.
+The song "Master of Light" was written for the movie Torque (2004) where the band appears performing it in the nightclub, but the version heard in the movie is a remix with a greater presence of electronic touches.
+Monolithic Baby! charted in seven countries and peaked at #7 in Sweden and #13 in Germany.
+
+
+    
+    
 
 
 ## Tracklisting
@@ -58,8 +66,8 @@ styles: ["Stoner Rock"]
 
 
 ## Videos
-### Monster Magnet ‎– Slut Machine
-{{< youtube id="BrztzfOW7z4" title="Monster Magnet ‎– Slut Machine" >}}<br>
+### Monster Magnet - Monolithic
+{{< youtube id="o1jB6C8HfSI" title="Monster Magnet - Monolithic" >}}<br>
 ### More Videos
 
 - [Monster Magnet - Monolithic.  (HQ)](https://www.youtube.com/watch?v=2fAL9sjce6Q)
@@ -74,9 +82,13 @@ styles: ["Stoner Rock"]
 - [Monster Magnet - Ultimate everything](https://www.youtube.com/watch?v=ugkEdtoxgco)
 - [Monster Magnet - CNN War Theme - Monolithic Baby!](https://www.youtube.com/watch?v=7DcP3qJCZ48)
 - [Monster Magnet - Monolithic official video (HQ)](https://www.youtube.com/watch?v=47tPU2ch5UU)
-- [Monster Magnet   The Right Stuff](https://www.youtube.com/watch?v=NAU7KF2PWFk)
-- [Monster Magnet - Monolithic Baby! Interview](https://www.youtube.com/watch?v=lVkVq-2jdUU)
 - [Monster Magnet - Monolithic (HQ Live, London Astoria, England)](https://www.youtube.com/watch?v=DEgAHuAHQJ0)
+- [Monster Magnet - Monolithic baby! (Full Album)](https://www.youtube.com/watch?v=IMeCZnNRfBc)
+- [Monster Magnet Monolithic Baby! (Full Album)](https://www.youtube.com/watch?v=4Avmj09YA2k)
+- [08. Monster Magnet - Monolithic Baby (Werchter 2004)](https://www.youtube.com/watch?v=gaSBfHMStWo)
+- [Monster Magnet -  Monolithic (live @ With Full Force 2004)](https://www.youtube.com/watch?v=cnBbLEw8bl4)
+- [Slut Machine - Monster Magnet](https://www.youtube.com/watch?v=ekdbw4OlJNg)
+- [Monster Magnet - Supercruel](https://www.youtube.com/watch?v=SBc9yU1qhVc)
 
 ## Release Images
 {{< imageGrid >}}
@@ -84,6 +96,7 @@ styles: ["Stoner Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
+| Wikipedia URL | https://en.wikipedia.org/wiki/Monolithic_Baby! |
 | Format         | Vinyl 2× LP 45 RPM Album Reissue |
 | Label          | Napalm Records |
 | Catalog Number | NPR1066VINYL |

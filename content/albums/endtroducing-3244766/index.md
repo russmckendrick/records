@@ -4,6 +4,7 @@ artist_name: "DJ Shadow"
 artist: "dj-shadow"
 album_name: "Endtroducing..."
 date: 2016-06-20T17:51:24.000000Z
+release_date: "1996-01-01"
 release_id: "3244766"
 slug: "endtroducing-3244766"
 hideSummary: true
@@ -18,22 +19,27 @@ additional_images:
     - "https://i.discogs.com/eMxSAKrR5GSxgdbEPpJ5CzIoC2Lif7e-Ou8Y1rL6B7g/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyNDQ3/NjYtMTQ1MzYzNzQ5/Ni0xNjA5LmpwZWc.jpeg"
     - "https://i.discogs.com/hFAfgI5IktrNxmCah-CfERuvpKsRyTgRe0jm-kI32HQ/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyNDQ3/NjYtMTU4OTA0NjIw/OS03NDE4LmpwZWc.jpeg"
     - "https://i.discogs.com/TRoBV-Oy1ZQYxJmzquqLWgCVJuZ_0dsr8A2W535eBME/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyNDQ3/NjYtMTU4OTA0NjIx/MC02NDY5LmpwZWc.jpeg"
-    - "https://i.discogs.com/PZb9LnSPcDSbLui0puLNU4e8gBtcc4I2BNopZyWZ2dY/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyNDQ3/NjYtMTU4OTA0NjIx/MC03MDg5LmpwZWc.jpeg"
+    - "https://i.discogs.com/us4ipPtXyTwOa60n-40gYKlWCEST6NERGTafh5tCyds/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyNDQ3/NjYtMTU4OTA0NjIx/MC03MDg5LmpwZWc.jpeg"
     - "https://i.discogs.com/X67ldTjW9PP1iB9lD1yibhUOyFdGg49xvP01Z2OC0lY/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyNDQ3/NjYtMTU4OTA0NjIw/OS03MzAzLmpwZWc.jpeg"
-    - "https://i.discogs.com/lkYd2n7ffteR6ne0YTR0R8qpXFQRyKwDJZWADDBTzkw/rs:fit/g:sm/q:90/h:607/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyNDQ3/NjYtMTU4OTA0NjIx/MC0yODczLmpwZWc.jpeg"
+    - "https://i.discogs.com/HvoCzZKSIRnJVx1N6bj8bE0Njp-p7u2vi3gNJ-weheM/rs:fit/g:sm/q:90/h:600/w:592/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyNDQ3/NjYtMTU4OTA0NjIx/MC0yODczLmpwZWc.jpeg"
     - "https://i.discogs.com/eXDTBRY0szJVjPWnIGM4KT62C5IRhP7nOXmxrX30aIg/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyNDQ3/NjYtMTU4OTA0NjIx/MC03NDM5LmpwZWc.jpeg"
     - "https://i.discogs.com/_yw0cuHpvtBN_iSjiB0MtlmwD7V09VQYGsaMC_9--0g/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyNDQ3/NjYtMTU4OTA0NjIx/MC02OTY5LmpwZWc.jpeg"
     - "https://i.discogs.com/MNMCSbHdi43KpBsUHdbTZKiNsJyDm5iW79PBaj92Y6g/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyNDQ3/NjYtMTU4OTA0NjIx/MC02MTIxLmpwZWc.jpeg"
 genres: ["Electronic", "Hip Hop"]
-styles: ["Instrumental", "Cut-up/DJ", "Downtempo"]
+styles: ["Instrumental", "Cut-up/DJ", "Downtempo", "Trip Hop"]
 ---
 
-Endtroducing..... is the debut studio album by American music producer DJ Shadow, released on September 16, 1996, by Mo' Wax. It is an instrumental hip hop work composed almost entirely of samples from vinyl records. DJ Shadow produced Endtroducing over two years, using an Akai MPC60 sampler and little other equipment. He edited and layered samples to create new tracks of varying moods and tempos.
-In the United Kingdom, where DJ Shadow had already established himself as a rising act, Endtroducing received praise from music journalists at the time of its release, and reached the top 20 of the UK Albums Chart. It was certified gold by the British Phonographic Industry. Mo' Wax issued four singles from the album, including the chart hits "Midnight in a Perfect World" and "Stem". It took considerably longer for Endtroducing to find success in the United States. After promoting the album and returning to his hometown of Davis, California, DJ Shadow devoted his time to creating new music. During this period, interest in Endtroducing began to build among the American music press, and it peaked at number 37 on the US Billboard Heatseekers Albums chart.
-Endtroducing was ranked highly on various lists of the best albums of 1996, and has been acclaimed by critics as one of the greatest albums of the 1990s. It is considered a landmark recording in instrumental hip hop, with DJ Shadow's sampling techniques and arrangements leaving a lasting influence. In 2020, Rolling Stone magazine ranked Endtroducing 329th on its list of the 500 greatest albums of all time.
+When Josh Davis started out in the early 1990s, hip-hop didn’t have a place for him. First off, he wasn’t working with an MC. Then there was the presentation thing. “To be a club DJ at that time, you had to have a certain panache that just didn’t... it wasn’t in me,” he tells Apple Music in 2021. Hip-hop was social music, the soundtrack for barbecues and block parties. And the DJ, by extension, was the conjurer of a collective energy. Davis had spent the years leading up to his 1996 debut, <i>Endtroducing…</i>, in the basement of a Sacramento record shop, finding new life in what he later called a pile of broken dreams; his quest wasn’t social, it was existential. And when he <i>did</i> try and play parties, he bombed anyway. “Nobody’s really dancing to Ultramagnetic MCs,” he says. “They’re head-nod records. And those are the records I gravitated toward.”
 
+<i>Endtroducing…</i>’s liner notes put it like so: “This album reflects of a lifetime of vinyl culture.” But it also presages the hyperlinked world that came after, where narratives are built from fragments and histories rewritten by putting disparate elements in conversation across time, place and culture. At its core are the same drum breaks that have given hip-hop its spine since the 1970s. But the mood is mellow and reflective, as much a comment on the art form as a contribution to it. “In my own kind of delusion, I thought, ‘Well, maybe I have a voice to offer,’” he remembers. “‘Maybe I can contribute and amplify some of the things about the music and the culture that I feel like had gone by the wayside.’”
 
-    
+That Davis was first embraced by an English crowd makes sense. His self-presentation eschewed the regional posturing of American rap, and his sample programming picked up on the broken beats of UK garage and drum ’n’ bass (as evidenced by “Napalm Brain/Scatter Brain” and “Stem/Long Stem”). But his attitude also synced with a generation of techno and dance producers transforming extroverted music into something you could take home with you on headphones—in Davis’ case, <i>Dark Side of the Moon</i> for people raised on Gang Starr. And when <i>Endtroducing…</i>’s motifs recur—such as when the organ of “Stem/Long Stem” reappears on “Organ Donor”—it’s both as the connective tissue of a DJ set, and images at the margins of a dream: It’s an album that comes with its own sense of déjà vu.
+
+Throughout the 1990s, rap’s revolutions continued to cycle: From Dr. Dre’s <i>The Chronic</i> to Wu-Tang’s first album to the glossy, pop-friendly sound that dominated the end of the decade. But like Burial’s <i>Untrue</i>, Jamie xx’s <i>In Colour</i> or any number of sample-based instrumental albums that came out in the decades after <i>Endtroducing…</i>, DJ Shadow’s debut captures a quiet voice outside the bustle of its genre, more a eulogy than play-by-play. Davis’ metaphor for the record-store basement as a pile of broken dreams isn’t just waxing poetic; it’s a gesture of remembrance for the people who gave their life to their art—knowing they’d end up in the basement one day, too.
+
+“I want, again, in 2021 or 2022, to be able to sit down and be able to access that ancestor voice that speaks to all artists, you know what I mean?” he says. “That you can feel when it's not accessible, and you can feel when you don't have the passcode and you can’t get through.” Listen to <i>Endtroducing…</i> and you’ll hear it.
+        
+        
     
 
 
@@ -58,17 +64,15 @@ Endtroducing was ranked highly on various lists of the best albums of 1996, and 
 
 
 ## Videos
-### DJ Shadow - Midnight In A Perfect World
-{{< youtube id="InFbBlpDTfQ" title="DJ Shadow - Midnight In A Perfect World" >}}<br>
+### D̲J̲ S̲h̲a̲d̲o̲w̲ | E̲n̲d̲t̲r̲o̲d̲u̲c̲i̲n̲g̲.̲.̲.̲.̲.̲
+{{< youtube id="EEV2EqVe9vU" title="D̲J̲ S̲h̲a̲d̲o̲w̲ | E̲n̲d̲t̲r̲o̲d̲u̲c̲i̲n̲g̲.̲.̲.̲.̲.̲" >}}<br>
 ### More Videos
 
-- [Best Foot Forward](https://www.youtube.com/watch?v=FGQjrBuW-Xg)
-- [Building Steam With A Grain Of Salt](https://www.youtube.com/watch?v=dt-EhEsdbEQ)
-- [The Number Song](https://www.youtube.com/watch?v=l1d9l7UB22Y)
-- [Stem / Long Stem (Medley)](https://www.youtube.com/watch?v=OXsaglqlASk)
-- [Mutual Slump](https://www.youtube.com/watch?v=A-HVgnOI3HY)
-- [Organ Donor](https://www.youtube.com/watch?v=uV8OE-TB0nQ)
-- [What Does Your Soul Look Like (Pt. 1 / Blue Sky Revisit)](https://www.youtube.com/watch?v=09d2G-cXqqE)
+- [DJ Shadow - Number Song](https://www.youtube.com/watch?v=JB3KDt78tUw)
+- [DJ Shadow - Midnight In A Perfect World](https://www.youtube.com/watch?v=InFbBlpDTfQ)
+- [Building Steam With A Grain Of Salt](https://www.youtube.com/watch?v=HORLJvUMs08)
+- [D̲J̲ S̲h̲a̲d̲o̲w̲ | E̲n̲d̲t̲r̲o̲d̲u̲c̲i̲n̲g̲.̲.̲.̲.̲.̲](https://www.youtube.com/watch?v=EEV2EqVe9vU)
+- [DJ Shadow - stem / long stem](https://www.youtube.com/watch?v=Ihr0y7ayGV0)
 
 ## Release Images
 {{< imageGrid >}}

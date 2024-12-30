@@ -25,6 +25,8 @@ styles: ["Indie Rock"]
 3. Grey Cell Green
 4. Terminally Groovie
 
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/shoot-the-neds/290408882" >}}<br>
 
 
 ## Videos
@@ -32,7 +34,9 @@ styles: ["Indie Rock"]
 {{< youtube id="GFxVMfBfQDY" title="Ned's Atomic Dustbin - Grey Cell Green" >}}<br>
 ### More Videos
 
-- [Ned's Atomic Dustbin - Terminally Groovy Lyrics](https://www.youtube.com/watch?v=pSgNYq7N2X0)
+- [Aim](https://www.youtube.com/watch?v=PKjV6SsjLaE)
+- [Ned's Atomic Dustbin - Grey Cell Green](https://www.youtube.com/watch?v=GFxVMfBfQDY)
+- [Aim](https://www.youtube.com/watch?v=PKjV6SsjLaE)
 
 ## Release Images
 {{< imageGrid >}}

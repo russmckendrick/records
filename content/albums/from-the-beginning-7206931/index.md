@@ -44,7 +44,7 @@ From the Beginning is the first compilation album by the English rock band Small
 14. What'cha Gonna Do About It
 
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/from-the-beginning-deluxe-edition/1443798933" >}}<br>
+{{< applemusic url="https://music.apple.com/gb/album/from-the-beginning/1469546526" >}}<br>
 
 
 ## Videos
@@ -52,8 +52,8 @@ From the Beginning is the first compilation album by the English rock band Small
 {{< youtube id="K4Gay7gZmRA" title="Small Faces ~ Baby Don't You Do It (Vinyl)" >}}<br>
 ### More Videos
 
-- [You've Really Got A Hold On Me](https://www.youtube.com/watch?v=YYNkkJjhsqA)
 - [My Way Of Giving](https://www.youtube.com/watch?v=SQ3T49mag48)
+- [You've Really Got A Hold On Me](https://www.youtube.com/watch?v=YYNkkJjhsqA)
 - [My Mind's Eye](https://www.youtube.com/watch?v=D8cg7zzR_xM)
 - [Runaway](https://www.youtube.com/watch?v=7hQLBOHjvo8)
 - [All Or Nothing (Alternate Mix (Electronically Processed Stereo))](https://www.youtube.com/watch?v=coE00hcnaC0)

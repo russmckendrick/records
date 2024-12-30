@@ -22,14 +22,14 @@ additional_images:
     - "https://i.discogs.com/JPPLSBhWDZHUIkbnvfQdrWUPv1fEevp7_2ZjqQEJbyk/rs:fit/g:sm/q:90/h:576/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4MDg5/NDA0LTE2MjI3NjA5/NTAtNjE4MC5qcGVn.jpeg"
     - "https://i.discogs.com/Xn29uas0PC7GM6WKmuHOXuZLZOn9uAsT6oPU306KjdQ/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4MDg5/NDA0LTE2MjI3NjA5/NTEtNzQyOS5qcGVn.jpeg"
     - "https://i.discogs.com/LAlBb0dZ-HpgJXepWrKXRIjBo_QD9JlSWoD9fclLs_c/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4MDg5/NDA0LTE2MjI3NjEw/MjItMTg3OC5qcGVn.jpeg"
-    - "https://i.discogs.com/3ZQw27OfhQAlCkYAJRTC3BXPk8O33dN94rlTrevfxIk/rs:fit/g:sm/q:90/h:601/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4MDg5/NDA0LTE2MjI3NjEw/MjUtNTc1NC5qcGVn.jpeg"
+    - "https://i.discogs.com/hjXyQDwuKgn6YwEd5Vjd3sKBF4efZmGkfZ3dwvVIGGE/rs:fit/g:sm/q:90/h:600/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4MDg5/NDA0LTE2MjI3NjEw/MjUtNTc1NC5qcGVn.jpeg"
     - "https://i.discogs.com/mPPfUHOb0V43B9Uo1DC7sMNy0d4m2-6eG0pgLX9dnbM/rs:fit/g:sm/q:90/h:594/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4MDg5/NDA0LTE2MjI3NjEw/MTctMzkxMi5qcGVn.jpeg"
     - "https://i.discogs.com/jaltgXSMyCC0JWYML-YhPbMpsZnqOSpD5jU-SNIq2No/rs:fit/g:sm/q:90/h:591/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4MDg5/NDA0LTE2MjI3NjEw/MjAtOTQ2NS5qcGVn.jpeg"
 genres: ["Electronic", "Funk / Soul", "Pop", "Classical"]
 styles: ["Classical", "Leftfield", "Breakbeat", "Downtempo", "Ambient"]
 ---
 
-Reprise is the 19th studio album by American musician Moby, released on May 28, 2021 by Deutsche Grammophon. It features orchestral and acoustic arrangements of songs from his career, performed by the Budapest Art Orchestra, a string quartet, along with multiple guest artists.
+Reprise is the 19th studio album by American musician Moby, released on May 28, 2021, by Deutsche Grammophon. It features orchestral and acoustic arrangements of songs from his career, performed by the Budapest Art Orchestra, a string quartet, along with multiple guest artists.
 
 
         
@@ -57,24 +57,7 @@ Reprise is the 19th studio album by American musician Moby, released on May 28, 
 {{< applemusic url="https://music.apple.com/gb/album/reprise/1557914502" >}}<br>
 
 
-## Videos
-### Moby - 'Natural Blues' (Reprise Version) ft. Gregory Porter & Amythyst Kiah (Official Music Video)
-{{< youtube id="3qphnmJN3FM" title="Moby - 'Natural Blues' (Reprise Version) ft. Gregory Porter & Amythyst Kiah (Official Music Video)" >}}<br>
-### More Videos
 
-- [Moby - 'Extreme Ways (Reprise Version)' (Official Music Video)](https://www.youtube.com/watch?v=bMgVjXpoKgQ)
-- [Moby - 'Porcelain' (Reprise Version ) [feat. Jim James] (Official Audio)](https://www.youtube.com/watch?v=i_NwqDjsdeQ)
-- [Moby - 'Heroes (Reprise Version)' feat. Mindy Jones (Official Audio)](https://www.youtube.com/watch?v=FUJmnJhLpUQ)
-- [Moby - 'Everloving (Reprise Version)' (Official Audio)](https://www.youtube.com/watch?v=72oDquo0tuc)
-- [Moby - 'Lift Me Up (Reprise Version)' (Official Audio)](https://www.youtube.com/watch?v=YDrRx5MgRpg)
-- [Moby - 'God Moving Over The Face Of The Waters ft. Víkingur Ólafsson (Reprise Version)'](https://www.youtube.com/watch?v=SPaaC3IBMm0)
-- [Moby - 'The Last Day (Reprise Version)' (Official Audio)](https://www.youtube.com/watch?v=jku9ythSbAM)
-- [Moby - 'We Are All Made Of Stars (Reprise Version)' (Official Audio)](https://www.youtube.com/watch?v=onqW5VwdVoE)
-- [Moby - 'Why Does My Heart Feel So Bad? (Reprise Version)' (Official Audio)](https://www.youtube.com/watch?v=2vvyo2sH2gQ)
-- [Moby - 'Extreme Ways (Reprise Version)' (Official Audio)](https://www.youtube.com/watch?v=5C-QnB4z7DI)
-- [Moby - 'Go (Reprise Version)' (Official Audio)](https://www.youtube.com/watch?v=qNGVoGMt5d8)
-- [Moby - 'Almost Home (Reprise Version)' (Official Audio)](https://www.youtube.com/watch?v=ZuKGONwTj6M)
-- [Moby - 'Why Does My Heart Feel So Bad? (Reprise Version)' (Official Video) #WhyDoesMyHeartFeelSoBad](https://www.youtube.com/watch?v=5tcKf4Kh9oE)
 
 ## Release Images
 {{< imageGrid >}}

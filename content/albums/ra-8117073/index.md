@@ -4,6 +4,7 @@ artist_name: "Utopia"
 artist: "utopia"
 album_name: "Ra"
 date: 2022-03-06T04:57:42.000000Z
+release_date: "2019-04-12"
 release_id: "8117073"
 slug: "ra-8117073"
 hideSummary: true
@@ -24,10 +25,9 @@ genres: ["Rock"]
 styles: ["Pop Rock", "Prog Rock"]
 ---
 
-Ra is the second studio album and third release by Utopia on Bearsville Records, released in 1977. Rundgren planned on releasing the LP in 1976 on his own label "Ethereal Records" as the new 4 piece line up was not signed to Bearsville. Replete with an elaborate $250,000 stage show featuring a 22-foot-tall (6.7 m) pyramid and golden sphinx which took 18 months of prep, Ra was Rundgren's most ambitious live undertaking.
-The cornerstone of the album and show is "Singring and the Glass Guitar," which comprises solos by each band member battling the elements: water (drums), wind (bass), fire (keyboards), and earth (guitar).
-The album was modestly successful, peaking the Billboard Top 200 at #79.
-    
+Previously hiding his identity behind a balaclava, north-west London rapper M Huncho switched to a bespoke mask for the release of his first full-length mixtape. His intention is to present a less intimidating image, and it’s a move befitting the inviting immediacy of his music—he’s coined the term “trapwave” for his blend of skittering trap beats, airy R&B flavours and relaxed, melodic flow. Here, within this gauzy sound, he plants vivid tales of rap and road life, where aspiration and celebration butt up against meditations on stress and guilt—particularly on the compellingly honest “Broken Bottles”. It’s all delivered with smart wordplay that references everything from Coldplay to <i>Where’s Wally?</i>, confirming the Londoner as one of UK rap’s sharpest rising talents.
+        
+        
     
 
 
@@ -42,14 +42,15 @@ The album was modestly successful, peaking the Billboard Top 200 at #79.
 8. Singring And The Glass Guitar (An Electrified Fairytale) (18:24)
 
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/ra/129642450" >}}<br>
+{{< applemusic url="https://music.apple.com/gb/album/utopia/1459737757" >}}<br>
 
 
 ## Videos
-### Communion With The Sun
-{{< youtube id="2bSaJ1KqqMA" title="Communion With The Sun" >}}<br>
+### Utopia – Magic Dragon Theatre...yerdenizplak.com İstanbul Kadıköy
+{{< youtube id="dOVDB-ktszg" title="Utopia – Magic Dragon Theatre...yerdenizplak.com İstanbul Kadıköy" >}}<br>
 ### More Videos
 
+- [Communion With The Sun](https://www.youtube.com/watch?v=2bSaJ1KqqMA)
 - [TODD RUNDGREN / UTOPIA - RA 8 TRACK TAPE (ALTERNATE MIXES)](https://www.youtube.com/watch?v=zcpSYWL_Bn0)
 - [Overture: Mountaintop and Sunrise / Communion with the Sun](https://www.youtube.com/watch?v=bSr22WYcZtY)
 - [Singring and the Glass Guitar (An Electrified)](https://www.youtube.com/watch?v=gWbdfrY210M)
@@ -63,8 +64,8 @@ The album was modestly successful, peaking the Billboard Top 200 at #79.
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Ra_(Utopia_album) |
-| Format         | Vinyl LP Album |
+| Format         | Vinyl LP Album Stereo |
 | Label          | Bearsville |
 | Catalog Number | K 55514 |
-| Notes | Recorded at Bearsville Sound Studio, Bearsville, N.Y. and at Utopia Sound, Lake Hill, N.Y. "Communion With The Sun"  and "Jealousy recorded at Turtle Creek Barn  |
-| Discogs URL    | [Utopia - Ra](https://www.discogs.com/release/8117073-Utopia-Ra) |
+| Notes | Recorded at Bearsville Sound Studio, Bearsville, N.Y. and at Utopia Sound, Lake Hill, N.Y. "Communion With The Sun"  and "Jealousy recorded at Turtle Creek Barn  This version has publishers mentioned with (1) and (2 - 5) on side A label Made in UK  |
+| Discogs URL    | [Utopia - Ra](https://www.discogs.com/release/8117073-Utopia-5-Ra) |

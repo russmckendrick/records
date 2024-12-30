@@ -33,26 +33,31 @@ additional_images:
     - "https://i.discogs.com/nyE2cdGom-aeMXPYNOFzeEsr5GBThIJew5O6y27X7BA/rs:fit/g:sm/q:90/h:585/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNzY5/ODk5LTE1MDQ5ODU4/MjItMjgzNi5qcGVn.jpeg"
     - "https://i.discogs.com/ggmx3ts75dMDwbGvjCxK-_pTxQiVhGXBQQ8xq34vi10/rs:fit/g:sm/q:90/h:594/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNzY5/ODk5LTE1MDQ5ODU4/MjgtNzc1OC5qcGVn.jpeg"
     - "https://i.discogs.com/H-w7t0ttendrx6zOYtb8vn6TZ5Kc8rm7gJ4AmX2ss4s/rs:fit/g:sm/q:90/h:327/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNzY5/ODk5LTE1MDQ5ODU4/MjgtNzAwMy5qcGVn.jpeg"
-    - "https://i.discogs.com/WZQHGALo8Hwd8MXKKkkqgIVWUK_dQD1uDqjkDSzyD8U/rs:fit/g:sm/q:90/h:605/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNzY5/ODk5LTE1MDQ5ODU4/MjktMTkyNi5qcGVn.jpeg"
+    - "https://i.discogs.com/7em9GKW2w9SHIH1GjCrRvytLIxaacii0jxsA45TRZNU/rs:fit/g:sm/q:90/h:600/w:594/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNzY5/ODk5LTE1MDQ5ODU4/MjktMTkyNi5qcGVn.jpeg"
     - "https://i.discogs.com/whhavSOncByJR45Wa3ASKvElWpX71TG4-rUqwj-t-qo/rs:fit/g:sm/q:90/h:580/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNzY5/ODk5LTE1MDQ5ODU4/MzEtMzc3My5qcGVn.jpeg"
     - "https://i.discogs.com/iWe8cyUWO50_Fj3gT2m2M-BE3VrmNyC_E_630rGptQY/rs:fit/g:sm/q:90/h:585/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNzY5/ODk5LTE1MDQ5ODU4/MzAtNzI3OC5qcGVn.jpeg"
-    - "https://i.discogs.com/3LG3Kvmb8PdFZoRROMwiIvrZ7t9ab_nmkUYxIVl5lAc/rs:fit/g:sm/q:90/h:603/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNzY5/ODk5LTE1MDQ5ODU4/MzAtNDIwNi5qcGVn.jpeg"
+    - "https://i.discogs.com/njM5v_jOAYlAqWOO5Dq1pcuqSrT1yXP7I_2WvjAO03E/rs:fit/g:sm/q:90/h:600/w:596/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNzY5/ODk5LTE1MDQ5ODU4/MzAtNDIwNi5qcGVn.jpeg"
     - "https://i.discogs.com/N3Y4uzAiMOyAGSK3PQGCtCcp2lObY58eZtl-I_dJ_XI/rs:fit/g:sm/q:90/h:590/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNzY5/ODk5LTE1MDQ5ODU4/MzAtNTA1OC5qcGVn.jpeg"
     - "https://i.discogs.com/BL264q_y-pSSd_lm5_821_DvdKkQFIGbxUtcnFvCjWU/rs:fit/g:sm/q:90/h:594/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNzY5/ODk5LTE1MDQ5ODU4/NDAtOTc0MS5qcGVn.jpeg"
     - "https://i.discogs.com/6FBGVChuux7l3b4YTndZ9gZiPpMtPX-ysi_xVC6nfSw/rs:fit/g:sm/q:90/h:582/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNzY5/ODk5LTE1MDQ5ODU4/NDAtOTA3OC5qcGVn.jpeg"
-    - "https://i.discogs.com/5KhS5uekYO-qhfETCtaN4uTS9xl6eMpMZ92Eo6LhEMY/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNzY5/ODk5LTE1MDQ5ODU4/MzUtNzAzNC5qcGVn.jpeg"
+    - "https://i.discogs.com/mQUm-1RyXpRisczzHlYR5Ofxe4ibkC4yNAn2jFs10C8/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNzY5/ODk5LTE1MDQ5ODU4/MzUtNzAzNC5qcGVn.jpeg"
     - "https://i.discogs.com/kNQp7DtYqxkxGiZayKfAYoP4iZCstwlaH3f7Q96pEOI/rs:fit/g:sm/q:90/h:584/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNzY5/ODk5LTE1MDQ5ODU4/MzYtNTAyOC5qcGVn.jpeg"
-    - "https://i.discogs.com/Om_vVj616F9qE3_UZH0WXxTLiHSWcQqxzwrhjUbCIP0/rs:fit/g:sm/q:90/h:601/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNzY5/ODk5LTE1MDQ5ODU4/MzYtOTg3OC5qcGVn.jpeg"
-    - "https://i.discogs.com/-wdrLosRnjpOcPy7wmUSLZpezKts2kWsamMo2bEJ-cQ/rs:fit/g:sm/q:90/h:604/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNzY5/ODk5LTE1MDQ5ODU4/MzgtMTA1Mi5qcGVn.jpeg"
+    - "https://i.discogs.com/xgqbu3H0Qqeu05m7yyxtNSTYRl4XmbrpO8Ps8lnDr3Y/rs:fit/g:sm/q:90/h:600/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNzY5/ODk5LTE1MDQ5ODU4/MzYtOTg3OC5qcGVn.jpeg"
+    - "https://i.discogs.com/1g27Gb4A72JjXDlSy_Dz-ASzKHRuyYXGUYiJ3nQbsiw/rs:fit/g:sm/q:90/h:600/w:595/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNzY5/ODk5LTE1MDQ5ODU4/MzgtMTA1Mi5qcGVn.jpeg"
     - "https://i.discogs.com/JwdS8FvIm-B2OeDAfV3dtl4jtBkjEB3YLEZXArtjNgU/rs:fit/g:sm/q:90/h:593/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNzY5/ODk5LTE1MDQ5ODU4/MzktNTA2NS5qcGVn.jpeg"
-    - "https://i.discogs.com/gk4dA2mGx9QhakB_5xPsHdQ63leXTwOdFn23uCvlQLI/rs:fit/g:sm/q:90/h:613/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNzY5/ODk5LTE1MDQ5ODU4/NDAtOTUxNy5qcGVn.jpeg"
+    - "https://i.discogs.com/nnOasP8c0CpsamVA9oN5ziXnARDWzcLwDeqizsorv4c/rs:fit/g:sm/q:90/h:600/w:586/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNzY5/ODk5LTE1MDQ5ODU4/NDAtOTUxNy5qcGVn.jpeg"
     - "https://i.discogs.com/7TqmziZcEtVzmye0jTWTDr1JPX0acXoS2dcc9MXw-I0/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNzY5/ODk5LTE1MDQ5ODU4/MzktNDE0OC5qcGVn.jpeg"
     - "https://i.discogs.com/MM_bmGnJvEALCepxnAjmBDg1-7Fd8PqAqpjPEvy4MWM/rs:fit/g:sm/q:90/h:591/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNzY5/ODk5LTE1MDQ5ODU4/NDItNzI2NS5qcGVn.jpeg"
-    - "https://i.discogs.com/VlUPZvnhDTOr2shOl4E1g9fkyf7ryc5mQOOJM4OuK3A/rs:fit/g:sm/q:90/h:960/w:539/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNzY5/ODk5LTE1MDQxNzUy/NjAtMTA2OS5qcGVn.jpeg"
+    - "https://i.discogs.com/vAEmS3lBbrxrgPR1G3NuFbOG_r2R8WSThWDKZrLZFbg/rs:fit/g:sm/q:90/h:600/w:336/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNzY5/ODk5LTE1MDQxNzUy/NjAtMTA2OS5qcGVn.jpeg"
 genres: ["Rock"]
 styles: ["Post Rock"]
 ---
 
+Every Country's Sun is the ninth studio album by Scottish post-rock band Mogwai. It was released on 1 September 2017 by Rock Action Records in the United Kingdom and Europe, Temporary Residence Limited in the United States, and Spunk Records in Australia.
+
+
+    
+    
 
 
 ## Tracklisting
@@ -92,7 +97,9 @@ styles: ["Post Rock"]
 ## Videos
 ### Every Country's Sun
 {{< youtube id="9ubqJl36KFU" title="Every Country's Sun" >}}<br>
+### More Videos
 
+- [Mogwai - Every Country's Sun](https://www.youtube.com/watch?v=VEvhlzQff2s)
 
 ## Release Images
 {{< imageGrid >}}
@@ -100,6 +107,7 @@ styles: ["Post Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
+| Wikipedia URL | https://en.wikipedia.org/wiki/Every_Country%27s_Sun |
 | Format         | Vinyl 2× LP Album (White), Vinyl 12" 33 ⅓ RPM, CD Album, Box Set Album Deluxe Edition |
 | Label          | Rock Action Records |
 | Catalog Number | ROCKACT108 |

@@ -12,22 +12,62 @@ cover:
     alt: "Holidays In Eden (Deluxe Edition) by Marillion"
     caption: "Holidays In Eden (Deluxe Edition) by Marillion"
 additional_images:
-    - "https://i.discogs.com/_CxijhzU1tVk8MPEsOzYraXpm6y8ez50xIlV0lEJuOw/rs:fit/g:sm/q:90/h:621/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NTIx/MjMxLTE2NjMyNDY0/MjgtNzY5OC5qcGVn.jpeg"
-    - "https://i.discogs.com/kjEUhlD52jHDXR2goE18eXmbZvIRlFv5jLwAkg0Rr3Y/rs:fit/g:sm/q:90/h:629/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NTIx/MjMxLTE2NjMyNDY0/MjgtNDQ3Ni5qcGVn.jpeg"
-    - "https://i.discogs.com/kunpO_BBlMGtt8HQ_CL6e6drjF86xwsfc5OamfDvifY/rs:fit/g:sm/q:90/h:560/w:548/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NTIx/MjMxLTE2NjUxMzM5/MTgtNDYwNi5qcGVn.jpeg"
-    - "https://i.discogs.com/QmZje7F22znRxt17uVQRgKvkch50Hl4hzZVh2OR0v5o/rs:fit/g:sm/q:90/h:553/w:542/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NTIx/MjMxLTE2NjUxMzM5/MTktMjE3MC5qcGVn.jpeg"
-    - "https://i.discogs.com/Sr3pUdCyeOxinsH0zjbev2cfZUpIK0AOb4lKw1Fxny4/rs:fit/g:sm/q:90/h:553/w:557/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NTIx/MjMxLTE2NjUxMzM5/NjItNzA2Ny5qcGVn.jpeg"
-    - "https://i.discogs.com/OttFwLRpf0dp6kV4UPxNw53ZSW0IuVW7tqhBqD1qpiI/rs:fit/g:sm/q:90/h:581/w:561/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NTIx/MjMxLTE2NjUxMzM5/NjMtNDUzOC5qcGVn.jpeg"
-    - "https://i.discogs.com/m2T1__CXhj19Mdtc5vfaKiH6pndM377Rv_GMr4t62NA/rs:fit/g:sm/q:90/h:573/w:586/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NTIx/MjMxLTE2NjUxMzQw/MTMtNDk0MS5qcGVn.jpeg"
-    - "https://i.discogs.com/5MX7S_M3WSmJqAUxQ_J9_LAWdetMqpsL3C_Ricbow5Q/rs:fit/g:sm/q:90/h:579/w:562/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NTIx/MjMxLTE2NjUxMzQw/MTQtMjk3NC5qcGVn.jpeg"
-    - "https://i.discogs.com/gFZ5dm3jtj752kMBo4T_3WueV6qYzwF5krhADHS9ZBY/rs:fit/g:sm/q:90/h:581/w:570/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NTIx/MjMxLTE2NjUxMzQw/NTQtMzY3My5qcGVn.jpeg"
-    - "https://i.discogs.com/INMVKyBzlkrcVNMUaliRdr7QXEbsb3fs75fcnnC8kpU/rs:fit/g:sm/q:90/h:583/w:580/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NTIx/MjMxLTE2NjUxMzQw/NTUtODM5Ny5qcGVn.jpeg"
-    - "https://i.discogs.com/DpGPgF_H1ywBxUs8iyUoUQp1UgVjULBtcApemMmieXk/rs:fit/g:sm/q:90/h:622/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NTIx/MjMxLTE2NjMyNDY0/MjktNzc3NS5qcGVn.jpeg"
-    - "https://i.discogs.com/F1HPe8BKW9gm1VJSbQmuIQuHnOAET-EsxbFETZZRNhU/rs:fit/g:sm/q:90/h:630/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NTIx/MjMxLTE2NjMyNDY0/MjgtMTQ1Mi5qcGVn.jpeg"
-    - "https://i.discogs.com/vCWfJ-6pD7tslrWuwzxGobuPiMJ6O-rXwCV1Y9bj_vI/rs:fit/g:sm/q:90/h:645/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NTIx/MjMxLTE2NjMyNDY0/MjgtOTk0Mi5qcGVn.jpeg"
-    - "https://i.discogs.com/maCF7M_83PKzbY-Ofn6cWcnRbBTVD_dYz5r4gx7bt4Q/rs:fit/g:sm/q:90/h:592/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NTIx/MjMxLTE2NjMyNDY0/MjgtODE5OC5qcGVn.jpeg"
-    - "https://i.discogs.com/4w8PfXOtSzfn3uitSBAx1gR9VPgUinGYiFU1p2KKj7E/rs:fit/g:sm/q:90/h:631/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NTIx/MjMxLTE2NjMyNDY0/MjgtMTY5Ni5qcGVn.jpeg"
-    - "https://i.discogs.com/tg7Mz69mOyEIhfgTpeQVL0AyF-QLYmKPRIQrBhpwyh0/rs:fit/g:sm/q:90/h:766/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NTIx/MjMxLTE2NjMzMjE0/MTQtNTQwMy5qcGVn.jpeg"
+    - "https://i.discogs.com/-oqnGUEnEe8Blw-lXFtywITJvewKvvpPObe0AluEmWQ/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NTIx/MjMxLTE3MjgyMjMx/NDMtODQ1OC5qcGVn.jpeg"
+    - "https://i.discogs.com/gDExQAOWPCMdsNwYJizsJ94myEfcpRacP_cEZXGacg0/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NTIx/MjMxLTE3MjgyMjMx/NDQtMzIwMS5qcGVn.jpeg"
+    - "https://i.discogs.com/vGYNYxpzJpQbEbYRa2u6uKf6j1JXSMO2WP4h9--lM68/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NTIx/MjMxLTE3MjgyMjMx/NDMtMjQxOS5qcGVn.jpeg"
+    - "https://i.discogs.com/hRLqD90NJy8wdEETVbJDI9eI2ipXil5KwRGLyJHnTQ0/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NTIx/MjMxLTE3MjgyMjMx/NDMtNDk4MS5qcGVn.jpeg"
+    - "https://i.discogs.com/a5xv82AOmkHNS8svwfYFPsU5Q89iTBgf2JCQZqoph8c/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NTIx/MjMxLTE3MjgyMjMx/NDMtMjA5OC5qcGVn.jpeg"
+    - "https://i.discogs.com/eLA8GPRkOd67fy1eByo9aw2fdyKx938BNSmWJiyXVrY/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NTIx/MjMxLTE3MjgyMjMx/NDMtMTkxNS5qcGVn.jpeg"
+    - "https://i.discogs.com/an8NhBmhqHNjPD3MvXzPF5iVCxDjmkpPZTMR3Z6aACE/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NTIx/MjMxLTE3MjgyMjMx/NDMtNTI5Mi5qcGVn.jpeg"
+    - "https://i.discogs.com/h-YIIl_u0evjE-orwdyaMxTyTl7hZXgesNW_hnn1c5s/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NTIx/MjMxLTE3MjgyMjMx/NDMtNjUzMi5qcGVn.jpeg"
+    - "https://i.discogs.com/4_yqnu_4om2dOs1dNbmniJkwE6lzN4Pmq1aPxezlEJI/rs:fit/g:sm/q:90/h:590/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NTIx/MjMxLTE3MjgyMjMx/NDMtOTA5Mi5qcGVn.jpeg"
+    - "https://i.discogs.com/ErMxpMA-kxSOdFqhInyAMnl2E6_0KyfanU-vUjeHi1I/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NTIx/MjMxLTE3MjgyMjMx/NDQtNzM0Ny5qcGVn.jpeg"
+    - "https://i.discogs.com/KGMMgGe26DtJ4uQo8eaZfRLPRzflb77tss_D01uwsWA/rs:fit/g:sm/q:90/h:469/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NTIx/MjMxLTE3MjgyMjMx/NDMtMjk0OS5qcGVn.jpeg"
+    - "https://i.discogs.com/xDbT_C8KLwc-gAICl2LSO0Ig2gHdHjJdH-nMtM_9Brw/rs:fit/g:sm/q:90/h:512/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NTIx/MjMxLTE3MjgyMjMx/NDItNzY0NC5qcGVn.jpeg"
+    - "https://i.discogs.com/_Xc__cx5cYOhIcgEJVRccrp9VvysDTjpKrClaOMTm00/rs:fit/g:sm/q:90/h:592/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NTIx/MjMxLTE3MjgyMjMy/OTEtNDY4MS5qcGVn.jpeg"
+    - "https://i.discogs.com/GB3eQvvYhvOmoSOsrytDQ8Nvdm0_tJyBEHivnGF05_I/rs:fit/g:sm/q:90/h:594/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NTIx/MjMxLTE3MjgyMjMy/OTEtMjI0My5qcGVn.jpeg"
+    - "https://i.discogs.com/3djgBq6enPzRgq-IHYolivh8nyJxCAk6_tHVjPZAW10/rs:fit/g:sm/q:90/h:591/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NTIx/MjMxLTE3MjgyMjMy/OTEtMzQ4NS5qcGVn.jpeg"
+    - "https://i.discogs.com/96caJBIq8i7BFP6eT8_NWegSFeAkQ_hp9CpnfY3umIw/rs:fit/g:sm/q:90/h:589/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NTIx/MjMxLTE3MjgyMjMy/OTEtNTczNi5qcGVn.jpeg"
+    - "https://i.discogs.com/F8n83meX1SeXSmuoBY1-IV-joRt10UvatmRuZGzeRm0/rs:fit/g:sm/q:90/h:591/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NTIx/MjMxLTE3MjgyMjMy/OTEtMzE5MC5qcGVn.jpeg"
+    - "https://i.discogs.com/jlphmHShx6wpiCCa0vWyu9yQCohzQqcIJgFLg8PWYQw/rs:fit/g:sm/q:90/h:591/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NTIx/MjMxLTE3MjgyMjMy/OTEtOTk2OC5qcGVn.jpeg"
+    - "https://i.discogs.com/jQf8lOoScXYv9Vgs__c0FfsFJL2VaToAHraF_T-m7L4/rs:fit/g:sm/q:90/h:588/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NTIx/MjMxLTE3MjgyMjMy/OTEtMTgyNy5qcGVn.jpeg"
+    - "https://i.discogs.com/qIyBlFA3Bl6ldVj4Vv7DZAOahI8p36cas4KAqBc6XQg/rs:fit/g:sm/q:90/h:592/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NTIx/MjMxLTE3MjgyMjMy/OTEtNjI3Ny5qcGVn.jpeg"
+    - "https://i.discogs.com/d6QwSmUklfezSQDH4c46vquuPSA-HxiBwQJcKpIdjXA/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NTIx/MjMxLTE3MjgyMjMz/MzgtNDg0OC5qcGVn.jpeg"
+    - "https://i.discogs.com/H2UoUtAJocZ5C044UNGv6T8g7f7GGQAan7l0QusQ7z4/rs:fit/g:sm/q:90/h:600/w:591/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NTIx/MjMxLTE3MjgyMjMz/NDEtNzI5MC5qcGVn.jpeg"
+    - "https://i.discogs.com/vxO-65zdcAPxeN65Zszj-aOJHhxT6eRlEdFGPYMKIvw/rs:fit/g:sm/q:90/h:600/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NTIx/MjMxLTE3MjgyMjMz/NDMtNjEzOS5qcGVn.jpeg"
+    - "https://i.discogs.com/bPU4g4L-RbZNSWfOU2yrYzUFqygvwe0JbdKu7Pyeiws/rs:fit/g:sm/q:90/h:600/w:595/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NTIx/MjMxLTE3MjgyMjMz/NDEtNzgxMC5qcGVn.jpeg"
+    - "https://i.discogs.com/Pe3lEHbbumscY56L0mUkUZnYnfIyH0hCJQHEw-Wm6cw/rs:fit/g:sm/q:90/h:600/w:593/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NTIx/MjMxLTE3MjgyMjMz/NDItOTI3NS5qcGVn.jpeg"
+    - "https://i.discogs.com/RFeeFuRPICiObsp4LfyEkZN3VzWtQytrza17aoyZOI0/rs:fit/g:sm/q:90/h:600/w:596/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NTIx/MjMxLTE3MjgyMjMz/NDEtNjIxNS5qcGVn.jpeg"
+    - "https://i.discogs.com/7cfGmmel2zxRjm9fDbKRM6v9c3S55kpc0IzRkYU-2nI/rs:fit/g:sm/q:90/h:600/w:596/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NTIx/MjMxLTE3MjgyMjMz/NDItNzQ1My5qcGVn.jpeg"
+    - "https://i.discogs.com/_yzSRQfQqOnQF9R-_4Dk0B9MkH2PovE9Rb1hkjrq-NI/rs:fit/g:sm/q:90/h:600/w:592/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NTIx/MjMxLTE3MjgyMjMz/NDMtMTY2OS5qcGVn.jpeg"
+    - "https://i.discogs.com/elb7X3oyRrrW0xcpOE6Pg0LKArUiLPnsia0bVsSiYmg/rs:fit/g:sm/q:90/h:600/w:596/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NTIx/MjMxLTE3MjgyMjMz/NDMtMzE1NC5qcGVn.jpeg"
+    - "https://i.discogs.com/stoJ6i5p39sVR6j3_-X_fuFYi7elwJ0qjxxNJTsADkY/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NTIx/MjMxLTE3MjgyMjMz/NDEtMjUwNy5qcGVn.jpeg"
+    - "https://i.discogs.com/3bJbaGQ7xTj_LnynwZY7fWQPd4dWR5u-ZpYHN9Oydhg/rs:fit/g:sm/q:90/h:600/w:593/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NTIx/MjMxLTE3MjgyMjMz/NDAtMzY5MC5qcGVn.jpeg"
+    - "https://i.discogs.com/BsajYr6mI63mHy5C_8fJwU9moWzmC_u9zZ_bZ0JhaY0/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NTIx/MjMxLTE3MjgyMjMz/NDEtMzA5MS5qcGVn.jpeg"
+    - "https://i.discogs.com/64VAzUOjRQsCxEnkK1q7s5toCHMPV7PCBbBWCXOSvN8/rs:fit/g:sm/q:90/h:600/w:594/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NTIx/MjMxLTE3MjgyMjMz/NDEtNjY0Ny5qcGVn.jpeg"
+    - "https://i.discogs.com/gYLzfYan0NfrWx13Jd-qUc89xFbz7MYHbL-KKlkxzKs/rs:fit/g:sm/q:90/h:600/w:596/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NTIx/MjMxLTE3MjgyMjMz/NDItMTM5My5qcGVn.jpeg"
+    - "https://i.discogs.com/MJUQqLgeeSdKZXTxXh7-IY9wD14OdSiq3TtEt1AGEM0/rs:fit/g:sm/q:90/h:600/w:596/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NTIx/MjMxLTE3MjgyMjMz/NDItMTcyOC5qcGVn.jpeg"
+    - "https://i.discogs.com/I640ItJqu2bHMHpun48a2WO7hNT7TL2usldkApitjZA/rs:fit/g:sm/q:90/h:299/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NTIx/MjMxLTE3MjgyMjMz/NDMtNzA5OS5qcGVn.jpeg"
+    - "https://i.discogs.com/sczLY6rkz_96a-DxAHs-3mJhqlIBm5UCAkfU7P065Oo/rs:fit/g:sm/q:90/h:600/w:596/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NTIx/MjMxLTE3MjgyMjMz/NDMtMTI5OC5qcGVn.jpeg"
+    - "https://i.discogs.com/6snGXbFqNtNZoV8yib39WHBY2oK3CecVkcJwVhExVa4/rs:fit/g:sm/q:90/h:600/w:596/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NTIx/MjMxLTE3MjgyMjMz/NDEtMzIwOS5qcGVn.jpeg"
+    - "https://i.discogs.com/g62Nd6eMJ3jzBsy5dih-OYvzq6MQ4ohk29W1YFjQpHc/rs:fit/g:sm/q:90/h:600/w:597/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NTIx/MjMxLTE3MjgyMjMz/NDEtMzM0MC5qcGVn.jpeg"
+    - "https://i.discogs.com/J6KgCZkoXrLSB-t1b2Pg7pqiqZJfMDNu5xwRv7Qp08E/rs:fit/g:sm/q:90/h:600/w:595/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NTIx/MjMxLTE3MjgyMjMz/NDAtNzAxOC5qcGVn.jpeg"
+    - "https://i.discogs.com/qAqp16TyIeKnjuYsCWjtt4VVL0RWuKPrvgljsqrVIH0/rs:fit/g:sm/q:90/h:600/w:595/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NTIx/MjMxLTE3MjgyMjMz/MzctMzM2Ni5qcGVn.jpeg"
+    - "https://i.discogs.com/EflNLAnLyN8EQwcoDdvpYQPccNupYOw0uekmRL3l2bU/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NTIx/MjMxLTE3MjgyMjMz/MzktNDg5Ni5qcGVn.jpeg"
+    - "https://i.discogs.com/tqCfPtO124TBoYpC-oJcLmO88iZ96t9m751dSjcwgdU/rs:fit/g:sm/q:90/h:600/w:594/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NTIx/MjMxLTE3MjgyMjMz/NDMtMzA2MS5qcGVn.jpeg"
+    - "https://i.discogs.com/61KK72amlOOdfRpdCqCYjc3DLc4KqA2CAweVR6UP_Oo/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NTIx/MjMxLTE3MjgyMjMz/NDMtMzUxOC5qcGVn.jpeg"
+    - "https://i.discogs.com/hQMjl4IQCVjIjm1Au79SdjC9sOVpLQpSiLw-aUe2CIU/rs:fit/g:sm/q:90/h:600/w:591/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NTIx/MjMxLTE3MjgyMjMz/NDItMTc2NS5qcGVn.jpeg"
+    - "https://i.discogs.com/YZgw7u-0CIFW9W5jjrjqKHp_CdVKYLZiaBQ_tietL1w/rs:fit/g:sm/q:90/h:594/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NTIx/MjMxLTE3MjgyMjMz/NDMtMTY2NS5qcGVn.jpeg"
+    - "https://i.discogs.com/ywqpd5Ajw5rUcXOYcn4tIv19ZMY613rUzcti9SdHJ8k/rs:fit/g:sm/q:90/h:600/w:595/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NTIx/MjMxLTE3MjgyMjMz/NDItMjE3Ni5qcGVn.jpeg"
+    - "https://i.discogs.com/u8v_aXlSCQ5iGfYfA3RKo_jK0Psm9widKkzKcTV2k_8/rs:fit/g:sm/q:90/h:600/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NTIx/MjMxLTE3MjgyMjMz/NDMtNjg0Ny5qcGVn.jpeg"
+    - "https://i.discogs.com/qdVQELt4s8FYtX_zjgQowuhDPCvkYs4X3tu865qFVvs/rs:fit/g:sm/q:90/h:600/w:592/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NTIx/MjMxLTE3MjgyMjMz/NDEtODY3MS5qcGVn.jpeg"
+    - "https://i.discogs.com/ACxrcA6Q7dx_bzCe9I9HM8Dm_DaQea0ZyXT2SPJ2EgM/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NTIx/MjMxLTE3MjgyMjMz/NDAtODU5MC5qcGVn.jpeg"
+    - "https://i.discogs.com/S6Ye12pvJwSRWmno5PpDPfinSZAVhY1aPEIJf1Ok7ew/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NTIx/MjMxLTE3MjgyMjMz/NDItNjIyOS5qcGVn.jpeg"
+    - "https://i.discogs.com/mY8G4V8HMbiHcEuMLCf8P5Ed73XfP3LNGR_1D5VcPRA/rs:fit/g:sm/q:90/h:600/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NTIx/MjMxLTE3MjgyMjMz/NzktNDI3My5qcGVn.jpeg"
+    - "https://i.discogs.com/Dd7PtDIBEvaGxm6WYPIx6C6RJhEcr1j-C0UySB8h5hk/rs:fit/g:sm/q:90/h:210/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NTIx/MjMxLTE3MjgyMjMz/NzgtNzM4OC5qcGVn.jpeg"
+    - "https://i.discogs.com/VdgwplRQl127QvQ0t1qz5fdPlFs0YscQaHRS43tWSvU/rs:fit/g:sm/q:90/h:441/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NTIx/MjMxLTE3MjgyMjMz/NzktNDA5MS5qcGVn.jpeg"
+    - "https://i.discogs.com/nnmH1kSLLHaEU4EKVHusOQu9fnwPkqE5614uJhBqggA/rs:fit/g:sm/q:90/h:524/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NTIx/MjMxLTE3MjgyMjMz/NzktNDcyMC5qcGVn.jpeg"
+    - "https://i.discogs.com/2vOtf3eJC6ZXLO2I5x-8XXywygSZIFQwZ3297d3wRL0/rs:fit/g:sm/q:90/h:600/w:469/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NTIx/MjMxLTE2NjMzMjE0/MTQtNTQwMy5qcGVn.jpeg"
     - "https://i.discogs.com/QQR4KqIPx2i8kAxwckVbT7y0ard_-ieONcmk7rve99k/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NTIx/MjMxLTE2Nzc0MDAy/OTMtMTUyOS5qcGVn.jpeg"
 genres: ["Rock"]
 styles: ["Prog Rock"]
@@ -79,7 +119,12 @@ styles: ["Prog Rock"]
 {{< applemusic url="https://music.apple.com/gb/album/holidays-in-eden-deluxe-edition/1645122919" >}}<br>
 
 
+## Videos
+### Marillion - Holidays in Eden
+{{< youtube id="3CWbDW9oHYo" title="Marillion - Holidays in Eden" >}}<br>
+### More Videos
 
+- [Splintering Heart (1998 Remaster)](https://www.youtube.com/watch?v=k-3RIDEjMeI)
 
 ## Release Images
 {{< imageGrid >}}
@@ -90,5 +135,5 @@ styles: ["Prog Rock"]
 | Format         | Vinyl LP Album Reissue Stereo (Remixed), Vinyl 3× LP Album, Box Set Compilation Deluxe Edition Limited Edition (180 Gram) |
 | Label          | Parlophone |
 | Catalog Number | 0190296609190 |
-| Notes | When preordered on the band's website the release includes an A4 artwork print which is signed by the band.  4 LP deluxe edition with a 2022 Re-Mix of Holidays in Eden on 1 LP and 3 LP's with the concert from the Hammersmith Odeon on 30th September 1991.  ℗ 2022 this compilation Parlophone Records Ltd.  © 2022 Parlophone Records Ltd. This label copy information is the subject of copyrights protection. All rights reserved.  © 2022 Parlophone Records Ltd. A Warner Music Group Company. Made in Germany |
+| Notes | When preordered on the band's website the release includes an A4 artwork print which is signed by the band.  4 LP deluxe edition with a 2022 Re-Mix of Holidays in Eden on 1 LP and 3 LP's with the concert from the Hammersmith Odeon on 30th September 1991.  Issued as heavy cardboard box with lid with white on blue hype sticker on bottom right corner of front of box, on shrink wrap:  " MARILLION Limited Edition 4LP Box Set Includes: Original 1981 Album Remixed Previously Unreleased Triple Live Album Recorded In Hammersmith On The 1991 Holidays In Eden Tour. 32 Page Booklet Containing Rare Photos, New Artwork, Memorabilia And New Essay 180 Gram Vinyl 0190296609190 "  ℗ 2022 this compilation Parlophone Records Ltd.  © 2022 Parlophone Records Ltd. This label copy information is the subject of copyrights protection. All rights reserved.  © 2022 Parlophone Records Ltd. A Warner Music Group Company. Made in Germany |
 | Discogs URL    | [Marillion - Holidays In Eden (Deluxe Edition)](https://www.discogs.com/release/24521231-Marillion-Holidays-In-Eden-Deluxe-Edition) |

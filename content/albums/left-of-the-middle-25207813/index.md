@@ -13,15 +13,15 @@ cover:
     alt: "Left Of The Middle by Natalie Imbruglia"
     caption: "Left Of The Middle by Natalie Imbruglia"
 additional_images:
-    - "https://i.discogs.com/PuoYFqAgH7Upqn7oJrLWDczdciFC_vVM2-DQsNfEIQY/rs:fit/g:sm/q:90/h:607/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1MjA3/ODEzLTE2Njg4NjAy/NDMtNTEwOS5qcGVn.jpeg"
-    - "https://i.discogs.com/Co4rb-68ni9MFmv2C7Pbe7lX61YmLll8FcMA4Kdjamw/rs:fit/g:sm/q:90/h:601/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1MjA3/ODEzLTE2Njg4NjA0/NzMtMzg0NC5qcGVn.jpeg"
-    - "https://i.discogs.com/H6A2BNzBn94MCdnh9_Lzl6VfR2dN9geP-DUo14elXPo/rs:fit/g:sm/q:90/h:602/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1MjA3/ODEzLTE2Njg4NjA0/MzItMjIxMS5qcGVn.jpeg"
+    - "https://i.discogs.com/DeUry4cBoDM4QdTYz3K65v4TGMyh80VEaShQK5hoDqE/rs:fit/g:sm/q:90/h:600/w:592/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1MjA3/ODEzLTE2Njg4NjAy/NDMtNTEwOS5qcGVn.jpeg"
+    - "https://i.discogs.com/q2R9NTyq5UZ4A9oye5AcuWtPps3I1H5VZoZ6paPWmDY/rs:fit/g:sm/q:90/h:600/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1MjA3/ODEzLTE2Njg4NjA0/NzMtMzg0NC5qcGVn.jpeg"
+    - "https://i.discogs.com/qeYLI0St2BNjvjp-36loayselnBGf_Fdd05XQ_B-IYs/rs:fit/g:sm/q:90/h:600/w:597/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1MjA3/ODEzLTE2Njg4NjA0/MzItMjIxMS5qcGVn.jpeg"
     - "https://i.discogs.com/lpOc31sUuNsLcPd1unvZAHdUqNzBvdmeqMHTP42UX-w/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1MjA3/ODEzLTE2Njg4NjA0/NTctNTM1NC5qcGVn.jpeg"
     - "https://i.discogs.com/MLwWfHxn90QOm6X-2PdpcGFtctozJ5xnY_z6PmCJUA0/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1MjA3/ODEzLTE2Njg4NjA0/MDEtNjczMy5qcGVn.jpeg"
-    - "https://i.discogs.com/pujG0dOL7ZwnzVp8WKkrPp1jGGliHtRE4QeW95n721Q/rs:fit/g:sm/q:90/h:603/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1MjA3/ODEzLTE2Njg4NjAy/NjktNTQwOC5qcGVn.jpeg"
-    - "https://i.discogs.com/h89UZ1TP5gMfujTBlFRBKiBu57xx0i3G8LaZRveZvxU/rs:fit/g:sm/q:90/h:601/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1MjA3/ODEzLTE2Njg4NjAz/MDgtODM4NS5qcGVn.jpeg"
+    - "https://i.discogs.com/xVLdjcKV9z4iaxG7v5hivEGrpnyo_B5Gp1f9tAQuhbQ/rs:fit/g:sm/q:90/h:600/w:596/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1MjA3/ODEzLTE2Njg4NjAy/NjktNTQwOC5qcGVn.jpeg"
+    - "https://i.discogs.com/BZFIcbWtlsZn4a0I6xAhOXnZlO-KWHrzowww8ruVc1E/rs:fit/g:sm/q:90/h:600/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1MjA3/ODEzLTE2Njg4NjAz/MDgtODM4NS5qcGVn.jpeg"
     - "https://i.discogs.com/v8j4oLAokeODmL5v2BIKGCxXrqvcpbwFDO7rE2sjkNU/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1MjA3/ODEzLTE2Njg4NjAz/NDgtNzk3Ny5qcGVn.jpeg"
-    - "https://i.discogs.com/DGeM6efLLHfhnS20x-L7UL4LfXx1sSB4Va_2ZEi7SRw/rs:fit/g:sm/q:90/h:602/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1MjA3/ODEzLTE2Njg4NjAz/ODEtMzgwMy5qcGVn.jpeg"
+    - "https://i.discogs.com/E9krrOIF3OEj1mXDojC8cJec6Ewh6tKGI8moe8wlsoo/rs:fit/g:sm/q:90/h:600/w:597/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1MjA3/ODEzLTE2Njg4NjAz/ODEtMzgwMy5qcGVn.jpeg"
 genres: ["Rock", "Pop"]
 styles: ["Soft Rock", "Pop Rock", "Vocal"]
 ---
@@ -55,32 +55,22 @@ A deep bench of co-writers ensures that continuing sense of variety: “Big Mist
 
 
 ## Videos
-### Natalie Imbruglia - Torn (Official Video) [HD Remastered]
-{{< youtube id="xSZBIs0gs0E" title="Natalie Imbruglia - Torn (Official Video) [HD Remastered]" >}}<br>
+### Natalie Imbruglia - Torn (Official Video)
+{{< youtube id="VV1XWJN3nJo" title="Natalie Imbruglia - Torn (Official Video)" >}}<br>
 ### More Videos
 
-- [Natalie Imbruglia - Torn (Video 4K Remastered)](https://www.youtube.com/watch?v=sOY5314LyEY)
-- [Natalie Imbruglia - Leave Me Alone](https://www.youtube.com/watch?v=xqDlLpPV2PA)
-- [Natalie Imbruglia Wishing I Was There Music Video, 1997](https://www.youtube.com/watch?v=mSkNhZQo8h0)
-- [Natalie Imbruglia - Big Mistake (Video 4K Remastered)](https://www.youtube.com/watch?v=ejZmfnRTdME)
+- [Natalie Imbruglia - Big Mistake (Video (SFX Version))](https://www.youtube.com/watch?v=8Jg4VSp7GG0)
 - [Wishing I Was There](https://www.youtube.com/watch?v=3_KiTA7o1Kw)
 - [Natalie Imbruglia - Smoke](https://www.youtube.com/watch?v=JzbjYNUak4I)
-- [Natalie Imbruglia - Torn (Official Video)](https://www.youtube.com/watch?v=VV1XWJN3nJo)
-- [Natalie Imbruglia - Wishing I Was There (Video UK Version) [4K Remastered]](https://www.youtube.com/watch?v=byBOtfWdfZY)
-- [Natalie Imbruglia   Left of the Middle](https://www.youtube.com/watch?v=oE9FGK-J9jA)
+- [Left Of The Middle](https://www.youtube.com/watch?v=_7WwzAfTAyw)
+- [Natalie Imbruglia - Torn (Official Video) [HD Remastered]](https://www.youtube.com/watch?v=xSZBIs0gs0E)
 - [One More Addiction](https://www.youtube.com/watch?v=-hOVpna9DDg)
-- [Natalie Imbruglia - Wishing I Was There (Video (US Version)) [4K Remastered]](https://www.youtube.com/watch?v=Fu4_5e1skTM)
-- [Natalie Imbruglia - Big Mistake (Video (SFX Version))](https://www.youtube.com/watch?v=8Jg4VSp7GG0)
-- [Natalie Imbruglia - Smoke (Video 4K Remastered)](https://www.youtube.com/watch?v=suycNlHj_fs)
 - [Leave Me Alone](https://www.youtube.com/watch?v=5rABvZefMEo)
 - [Pigeons And Crumbs](https://www.youtube.com/watch?v=zYAXhUv746g)
 - [Don't You Think?](https://www.youtube.com/watch?v=6lvviu71AaM)
 - [Impressed](https://www.youtube.com/watch?v=Fp0D91YRtj8)
 - [Intuition](https://www.youtube.com/watch?v=4Clo8te75No)
 - [City](https://www.youtube.com/watch?v=Od9nYiK2rhY)
-- [Left Of The Middle](https://www.youtube.com/watch?v=_7WwzAfTAyw)
-- [Natalie Imbruglia don't you think](https://www.youtube.com/watch?v=JTqHnW29iVI)
-- [Impressed](https://www.youtube.com/watch?v=fs3f3xCU4O4)
 
 ## Release Images
 {{< imageGrid >}}

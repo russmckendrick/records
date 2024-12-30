@@ -55,6 +55,9 @@ styles: ["Post Rock"]
 
 - [Nordic Giants - A Séance of Dark Delusions (documentary clip)](https://www.youtube.com/watch?v=LDroAjaym04)
 - [Nordic Giants - Rapture (from A Séance of Dark Delusions)](https://www.youtube.com/watch?v=K79YFZLXobM)
+- [¥ Nordic Giants 'A Séance Of Dark Delusions' May 2015 UK Tour Trailer #2 ¥](https://www.youtube.com/watch?v=yeI5UM572xI)
+- [Nordic Giants - A Séance of Dark Delusions (documentary clip)](https://www.youtube.com/watch?v=LDroAjaym04)
+- [Nordic Giants - Rapture (from A Séance of Dark Delusions)](https://www.youtube.com/watch?v=K79YFZLXobM)
 
 ## Release Images
 {{< imageGrid >}}
@@ -66,4 +69,4 @@ styles: ["Post Rock"]
 | Label          | Kscope |
 | Catalog Number | KSCOPE879 |
 | Notes | ℗ 2015 Snapper IPR Ltd. © 2015 Snapper IPR Ltd. KScope is a Snapper Music label. Made in Germany.  Gatefold 1LP + 4 page booklet + download code.   |
-| Discogs URL    | [Nordic Giants - A Séance Of Dark Delusions](https://www.discogs.com/release/6982951-Nordic-Giants-A-S%C3%A9ance-Of-Dark-Delusions) |
+| Discogs URL    | [Nordic Giants - A Séance Of Dark Delusions](https://www.discogs.com/release/6982951-Nordic-Giants-A-Séance-Of-Dark-Delusions) |

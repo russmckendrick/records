@@ -13,13 +13,13 @@ cover:
     caption: "Pretenders by The Pretenders"
 additional_images:
     - "https://i.discogs.com/4t3c8-F9a7tjs7lkN2hj0ya3LQayh-5k_JAYLnZYGfA/rs:fit/g:sm/q:90/h:591/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwOTgx/OTUzLTE2MzY5MzMz/ODAtODMyNy5qcGVn.jpeg"
-    - "https://i.discogs.com/3BUDOBzWalDhx4vBxRIBSPKXbGdrApM5ubw5a0M7hk0/rs:fit/g:sm/q:90/h:603/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwOTgx/OTUzLTE2MzY5MzMz/NzktMzc4MS5qcGVn.jpeg"
-    - "https://i.discogs.com/j_KkgCijPOgIqzqs6a0TPBPp_9z76CLN8AyYxjeYWzM/rs:fit/g:sm/q:90/h:601/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwOTgx/OTUzLTE2Mzc5NDAy/MDItODQyNC5qcGVn.jpeg"
-    - "https://i.discogs.com/3PWhQlvNze1uOi_M4VztLptCjmhOC4R8LSyl8m6oxJw/rs:fit/g:sm/q:90/h:617/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwOTgx/OTUzLTE2Mzc5NDAx/NDktNTU5My5qcGVn.jpeg"
+    - "https://i.discogs.com/G92ONSswfbHjQIdPqE4bH3_ksIHuIuP4pgZt4DnFEJw/rs:fit/g:sm/q:90/h:600/w:596/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwOTgx/OTUzLTE2MzY5MzMz/NzktMzc4MS5qcGVn.jpeg"
+    - "https://i.discogs.com/DnqXdfFIPCuykcQSkviInGeh_RW_uGI11MJPMeBK4WU/rs:fit/g:sm/q:90/h:600/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwOTgx/OTUzLTE2Mzc5NDAy/MDItODQyNC5qcGVn.jpeg"
+    - "https://i.discogs.com/F6WD7BLGG0Aytpvel4ZKhzvPvmj4xyLYIKCZXL-6QMc/rs:fit/g:sm/q:90/h:600/w:583/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwOTgx/OTUzLTE2Mzc5NDAx/NDktNTU5My5qcGVn.jpeg"
     - "https://i.discogs.com/cUONxeCaFR3Pl_ddF2wYFVfmOggbjUzoTb17A9aLqag/rs:fit/g:sm/q:90/h:585/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwOTgx/OTUzLTE2MzY5MzMz/ODItODg4OC5qcGVn.jpeg"
     - "https://i.discogs.com/XV_Hpt_wXl-5UkYk8qmIv5gx19Y3S6Dz4aHpqjXX5BE/rs:fit/g:sm/q:90/h:580/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwOTgx/OTUzLTE2MzY5MzMz/OTEtMTU0My5qcGVn.jpeg"
     - "https://i.discogs.com/Gcdq6rBSTABf7H-cn3Pi3Mk59VJFITOR0awugYbxG1M/rs:fit/g:sm/q:90/h:586/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwOTgx/OTUzLTE2MzY5MzMz/ODAtMzQ5Ny5qcGVn.jpeg"
-    - "https://i.discogs.com/p1yYubNMeqjFyiR096hVfT-p88FrfnVXZzqzfb9oi90/rs:fit/g:sm/q:90/h:610/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwOTgx/OTUzLTE2MzY5MzMz/NjUtMTAxNi5qcGVn.jpeg"
+    - "https://i.discogs.com/5_oxVQMeUFbuZsYObTpBZ2JCQ4DCr78zBVTtbKeG9rQ/rs:fit/g:sm/q:90/h:600/w:590/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwOTgx/OTUzLTE2MzY5MzMz/NjUtMTAxNi5qcGVn.jpeg"
 genres: ["Rock"]
 styles: ["Alternative Rock", "New Wave", "Post-Punk"]
 ---
@@ -47,13 +47,26 @@ Nick Lowe produced the Pretenders' first single, "Stop Your Sobbing", but decide
 12. Mystery Achievement (5:51)
 
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/pretenders-ii/118128528" >}}<br>
+{{< applemusic url="https://music.apple.com/gb/album/pretenders/118127946" >}}<br>
 
 
 ## Videos
-### Pretenders - Brass In Pocket (Official Music Video)
-{{< youtube id="0H6re3PCP3E" title="Pretenders - Brass In Pocket (Official Music Video)" >}}<br>
+### Pretenders - Pretenders  Full  album
+{{< youtube id="HmwpEmD6-QU" title="Pretenders - Pretenders  Full  album" >}}<br>
+### More Videos
 
+- [A1  Precious    - Pretenders - Pretenders Album - 1980 US Vinyl Record HQ Audio Rip](https://www.youtube.com/watch?v=TbT0oUsatv0)
+- [A2  The Phone Call    - Pretenders - Pretenders Album - 1980 US Vinyl Record HQ Audio Rip](https://www.youtube.com/watch?v=i141H0kcgeo)
+- [A3  Up The Neck   - Pretenders - Pretenders Album - 1980 US Vinyl Record HQ Audio Rip](https://www.youtube.com/watch?v=Gn5H_JnHZ8k)
+- [A4  Tattooed Love Boys    - Pretenders - Pretenders Album - 1980 US Vinyl Record HQ Audio Rip](https://www.youtube.com/watch?v=GW6y2WzkrcY)
+- [A5  Space Invader   - Pretenders - Pretenders Album - 1980 US Vinyl Record HQ Audio Rip](https://www.youtube.com/watch?v=xL2PANA4hNw)
+- [A6  The Wait   - Pretenders - Pretenders Album - 1980 US Vinyl Record HQ Audio Rip](https://www.youtube.com/watch?v=FjP_wvuP_8o)
+- [A7  Stop Your Sobbing   - Pretenders - Pretenders Album - 1980 US Vinyl Record HQ Audio Rip](https://www.youtube.com/watch?v=sq1COIv8VH0)
+- [B1  Kid    - Pretenders - Pretenders Album - 1980 US Vinyl Record HQ Audio Rip](https://www.youtube.com/watch?v=D5XUra-J3k8)
+- [B2  Private Life   - Pretenders - Pretenders Album - 1980 US Vinyl Record HQ Audio Rip](https://www.youtube.com/watch?v=SrzB-l0xDN4)
+- [B3  Brass In Pocket   - Pretenders - Pretenders Album - 1980 US Vinyl Record HQ Audio Rip](https://www.youtube.com/watch?v=J8BjpKWvyKQ)
+- [B4  Lovers Of Today - Pretenders - Pretenders Album - 1980 US Vinyl Record HQ Audio Rip](https://www.youtube.com/watch?v=GP-cu6Lf0XI)
+- [B5  Mystery Achievement   - Pretenders - Pretenders Album - 1980 US Vinyl Record HQ Audio Rip](https://www.youtube.com/watch?v=_dFEosSk-zM)
 
 ## Release Images
 {{< imageGrid >}}

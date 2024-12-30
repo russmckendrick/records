@@ -12,7 +12,7 @@ cover:
     alt: "The Atlantic Years - In Mono by Ray Charles"
     caption: "The Atlantic Years - In Mono by Ray Charles"
 additional_images:
-    - "https://i.discogs.com/lsnpzDrdHGTmz-hdfOPcsue_Qsb80WWuN5RtVUDDEzg/rs:fit/g:sm/q:90/h:626/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkwOTI1/NDQtMTQ3NDY0NjE5/OS0xNDI5LmpwZWc.jpeg"
+    - "https://i.discogs.com/-H8U64gypSc9yXfSmlk5883yRBbdpI4dELEF1L5Ksos/rs:fit/g:sm/q:90/h:600/w:575/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkwOTI1/NDQtMTQ3NDY0NjE5/OS0xNDI5LmpwZWc.jpeg"
 genres: ["Funk / Soul"]
 styles: ["Rhythm & Blues"]
 ---
@@ -110,18 +110,7 @@ styles: ["Rhythm & Blues"]
 {{< applemusic url="https://music.apple.com/gb/album/the-atlantic-years-in-mono-remastered/1154934405" >}}<br>
 
 
-## Videos
-### Ray Charles - What'd I Say (Official Audio)
-{{< youtube id="6uTDa3771HM" title="Ray Charles - What'd I Say (Official Audio)" >}}<br>
-### More Videos
 
-- [The Genius After Hours (2016 Mono Remaster)](https://www.youtube.com/watch?v=sXv2EQ-Yb30)
-- [Am I Blue (2016 Mono Remaster)](https://www.youtube.com/watch?v=IzRUy47y1DU)
-- [Rockhouse, Pt. 1 & 2 (2016 Mono Remaster)](https://www.youtube.com/watch?v=wiaq32IOYRU)
-- [I Got a Woman (2016 Mono Remaster)](https://www.youtube.com/watch?v=mvBpsTE-p8w)
-- [Two Years of Torture (2016 Mono Remaster)](https://www.youtube.com/watch?v=NVn8KbLqXDI)
-- [Drown in My Own Tears (2016 Mono Remaster)](https://www.youtube.com/watch?v=xSXaXj9pLoY)
-- [Tell Me How Do You Feel (2016 Mono Remaster)](https://www.youtube.com/watch?v=1t6ieA4W-h4)
 
 ## Release Images
 {{< imageGrid >}}

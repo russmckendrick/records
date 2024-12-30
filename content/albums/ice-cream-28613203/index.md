@@ -12,11 +12,11 @@ cover:
     alt: "Ice Cream by Salad"
     caption: "Ice Cream by Salad"
 additional_images:
-    - "https://i.discogs.com/I6JXZSTenpNVVYF1fxJd7r9ckT5QcX7xERcWfjKmImk/rs:fit/g:sm/q:90/h:605/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4NjEz/MjAzLTE2OTc0ODI2/MzktNzA2MC5qcGVn.jpeg"
+    - "https://i.discogs.com/nHdQrE7f4FpRfdyhsoFA6rEDeuj0FP9G5XSl5s5vcSg/rs:fit/g:sm/q:90/h:600/w:594/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4NjEz/MjAzLTE2OTc0ODI2/MzktNzA2MC5qcGVn.jpeg"
     - "https://i.discogs.com/N6wEb456lraxbk1s_bdXwhw9XDvpRS_3DQ2-jQIdNt8/rs:fit/g:sm/q:90/h:592/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4NjEz/MjAzLTE2OTc0ODI2/MzktNjUzNi5qcGVn.jpeg"
     - "https://i.discogs.com/l-El8QB5V4AYQmnJmnKIzGSv3Q7JVAwBFLQa_snKbnQ/rs:fit/g:sm/q:90/h:590/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4NjEz/MjAzLTE2OTc0ODI2/MzgtODQ2NS5qcGVn.jpeg"
     - "https://i.discogs.com/htjjFxDMj6X6j6OKXBgdqk4aD4eVqcaTPzJyWRxh8CU/rs:fit/g:sm/q:90/h:594/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4NjEz/MjAzLTE2OTc0ODI2/MzktMTgyMy5qcGVn.jpeg"
-    - "https://i.discogs.com/Ew5Opfa2iXMvpYJ-C8n0VruuULwHCunkiDkPfqiULJo/rs:fit/g:sm/q:90/h:620/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4NjEz/MjAzLTE2OTc0ODI2/MzgtOTQxNC5qcGVn.jpeg"
+    - "https://i.discogs.com/nb49Btnqoxhp9cN2FM4PK8mw5LGtL40uZWdOsL6NAxQ/rs:fit/g:sm/q:90/h:600/w:580/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4NjEz/MjAzLTE2OTc0ODI2/MzgtOTQxNC5qcGVn.jpeg"
     - "https://i.discogs.com/lUVdm72NxVFPoB7xgZ4RC0k0MqFpjunofyU1crosrkY/rs:fit/g:sm/q:90/h:590/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4NjEz/MjAzLTE2OTc0ODI2/MzktMTgzNi5qcGVn.jpeg"
     - "https://i.discogs.com/TpEP4qQXxVB_p0CcfuOeKd5hMyZXC-gJO4FziROyunk/rs:fit/g:sm/q:90/h:585/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4NjEz/MjAzLTE2OTc0ODI2/MzktNTczMS5qcGVn.jpeg"
 genres: ["Rock"]

@@ -22,7 +22,9 @@ genres: ["Hip Hop"]
 styles: ["Conscious"]
 ---
 
-Quality Control is the second studio album by American hip hop group Jurassic 5. It was released on June 6, 2000, by Interscope Records.
+Quality Control is the second studio album by American alternative hip hop group Jurassic 5. It was released on June 6, 2000, by Interscope Records.
+
+
     
     
 
@@ -45,29 +47,16 @@ Quality Control is the second studio album by American hip hop group Jurassic 5.
 15. Swing Set
 
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/quality-control/1673109195" >}}<br>
+{{< applemusic url="https://music.apple.com/gb/album/quality-control/1673136297" >}}<br>
 
 
 ## Videos
-### How We Get Along
-{{< youtube id="1R7YBTqnIjM" title="How We Get Along" >}}<br>
+### Jurassic 5 - Quality Control
+{{< youtube id="PgpDN-bARwc" title="Jurassic 5 - Quality Control" >}}<br>
 ### More Videos
 
-- [Jurassic 5 ‎- The Influence](https://www.youtube.com/watch?v=tqu73IZwRTg)
-- [The Influence](https://www.youtube.com/watch?v=loFGGrdJpfs)
-- [Jurassic 5 - Quality Control](https://www.youtube.com/watch?v=PgpDN-bARwc)
-- [Great Expectations](https://www.youtube.com/watch?v=_6KrnVVB8ss)
 - [Jurassic 5 - What's Golden (Official Video)](https://www.youtube.com/watch?v=XsZKrctSDaw)
-- [Contact](https://www.youtube.com/watch?v=adgX9njT0Dw)
-- [Lausd](https://www.youtube.com/watch?v=JjyUI40Umg8)
-- [W.O.E. Is Me (World Of Entertainment)](https://www.youtube.com/watch?v=2wJGBo7IDN8)
-- [Monkey Bars](https://www.youtube.com/watch?v=4uCVY6NHaJw)
-- [Jurass Finish First](https://www.youtube.com/watch?v=0zdwTXzVGgg)
-- [Contribution](https://www.youtube.com/watch?v=6peNN0FiN44)
-- [Twelve](https://www.youtube.com/watch?v=MMxeq_Rilh8)
-- [The Game](https://www.youtube.com/watch?v=n1Q958eWCxA)
-- [Concrete & Clay](https://www.youtube.com/watch?v=rMkphaK6dsk)
-- [Swing Set](https://www.youtube.com/watch?v=LA0jouPMb9s)
+- [Jurassic 5 ‎- The Influence](https://www.youtube.com/watch?v=tqu73IZwRTg)
 
 ## Release Images
 {{< imageGrid >}}

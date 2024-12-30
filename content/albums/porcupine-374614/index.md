@@ -18,14 +18,16 @@ additional_images:
     - "https://i.discogs.com/FzqjseaHAFbCUCgMIGK-iPSszF7rDBEGiIRDLWimblo/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3NDYx/NC0xMzc0OTU4MzE1/LTc0MTkuanBlZw.jpeg"
     - "https://i.discogs.com/18M0XjPoONsSxgA4HRLB1PMWMBqXIElcv--QIEkQBZg/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3NDYx/NC0xMzc0OTU4MzUx/LTM1NzQuanBlZw.jpeg"
     - "https://i.discogs.com/TBDrbYJfQjLqkwHKd3lZ0azTQ8YKd66KBflWVrHfuOU/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3NDYx/NC0xMzc0OTU4Mzgx/LTgyOTkuanBlZw.jpeg"
-    - "https://i.discogs.com/tnL80c2DqMhvNPs-imYhIamoaZ6uz6-SgwYnlpPmJVQ/rs:fit/g:sm/q:90/h:847/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3NDYx/NC0xNjAyODQ0Njc3/LTk2MjguanBlZw.jpeg"
-    - "https://i.discogs.com/gKppvJajK7QohgORSOpIAcah-vh7AlGIgTlBlam3Ryw/rs:fit/g:sm/q:90/h:800/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3NDYx/NC0xNjIxOTc1NTU0/LTExNjAuanBlZw.jpeg"
+    - "https://i.discogs.com/FagHu2TFqkSq8xSWWHg9l8OegjAvmLCEiig_EjirS1E/rs:fit/g:sm/q:90/h:600/w:424/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3NDYx/NC0xNjAyODQ0Njc3/LTk2MjguanBlZw.jpeg"
+    - "https://i.discogs.com/bGHNIUZoo2vWE057BpeVXPygXVfXvVrSQ26TNdClB0c/rs:fit/g:sm/q:90/h:600/w:450/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3NDYx/NC0xNjIxOTc1NTU0/LTExNjAuanBlZw.jpeg"
 genres: ["Rock"]
 styles: ["New Wave", "Indie Rock"]
 ---
 
 Porcupine is the third studio album by the English post-punk band Echo & the Bunnymen. First released on 4 February 1983, it became the band's highest-charting release when it reached number two on the UK Albums Chart despite initially receiving poor reviews. It also reached number 137 on the American Billboard 200, number 85 on the Canadian RPM 100 Albums and number 24 on the Swedish chart. In 1984, the album was certified gold by the British Phonographic Industry. The album includes the singles "The Back of Love" and "The Cutter."
 Porcupine was recorded at Trident Studios in London, Rockfield Studios in South Wales and Amazon Studios in Liverpool. It was produced by Ian Broudie (credited as "Kingbird"), who had co-produced the band's first album, 1980's Crocodiles, and their second single, "Rescue." After being rejected by the band's label, the album was rerecorded with Shankar providing strings. It was originally released as an LP in 1983 before being reissued on CD in 1988. The album was reissued as a remastered and expanded CD in 2003, along with the other four of the band's first five studio albums. A VHS video called Porcupine – An Atlas Adventure was also released, containing six promotional videos of tracks from the album.
+
+
     
     
 
@@ -43,14 +45,24 @@ Porcupine was recorded at Trident Studios in London, Rockfield Studios in South 
 10. In Bluer Skies (5:55)
 
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/porcupine-expanded-version/31740123" >}}<br>
+{{< applemusic url="https://music.apple.com/gb/album/porcupine/1611166017" >}}<br>
 
 
 ## Videos
-### Echo And The Bunnymen - The Cutter HD
-{{< youtube id="nMplIrSlg8E" title="Echo And The Bunnymen - The Cutter HD" >}}<br>
+### The Cutter
+{{< youtube id="3fKwo8qlkJE" title="The Cutter" >}}<br>
 ### More Videos
 
+- [Back of Love](https://www.youtube.com/watch?v=W5O-F0s8CzU)
+- [My White Devil](https://www.youtube.com/watch?v=eSfGEaxSdEQ)
+- [Clay](https://www.youtube.com/watch?v=fRKwNcYbbkQ)
+- [Porcupine](https://www.youtube.com/watch?v=bUdyUqhivug)
+- [Heads Will Roll](https://www.youtube.com/watch?v=wo87VUG-F54)
+- [Ripeness](https://www.youtube.com/watch?v=yOnOUSxaJ-0)
+- [Higher Hell](https://www.youtube.com/watch?v=CMh55H3K8fY)
+- [Gods Will Be Gods](https://www.youtube.com/watch?v=HJKhtrbVsl4)
+- [In Bluer Skies](https://www.youtube.com/watch?v=xtzzHeeLR3E)
+- [The Cutter](https://www.youtube.com/watch?v=3fKwo8qlkJE)
 - [Back of Love](https://www.youtube.com/watch?v=W5O-F0s8CzU)
 - [My White Devil](https://www.youtube.com/watch?v=eSfGEaxSdEQ)
 - [Clay](https://www.youtube.com/watch?v=fRKwNcYbbkQ)

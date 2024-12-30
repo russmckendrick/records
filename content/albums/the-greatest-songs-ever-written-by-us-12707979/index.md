@@ -1,16 +1,16 @@
 ---
-title: "NOFX - The Greatest Songs Ever Written... By Us"
+title: "NOFX - The Greatest Songs Ever Written (By Us)"
 artist_name: "NOFX"
 artist: "nofx"
-album_name: "The Greatest Songs Ever Written... By Us"
+album_name: "The Greatest Songs Ever Written (By Us)"
 date: 2018-11-26T19:24:14.000000Z
 release_id: "12707979"
 slug: "the-greatest-songs-ever-written-by-us-12707979"
 hideSummary: true
 cover:
     image: "the-greatest-songs-ever-written-by-us-12707979.jpg"
-    alt: "The Greatest Songs Ever Written... By Us by NOFX"
-    caption: "The Greatest Songs Ever Written... By Us by NOFX"
+    alt: "The Greatest Songs Ever Written (By Us) by NOFX"
+    caption: "The Greatest Songs Ever Written (By Us) by NOFX"
 additional_images:
     - "https://i.discogs.com/jIU3gs9dJ-LcgOnxcRq4QuSEgtsQ4s1B2YmI8PxrXXs/rs:fit/g:sm/q:90/h:533/w:542/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNzA3/OTc5LTE1NDA2OTYz/NjQtNjM4Mi5qcGVn.jpeg"
     - "https://i.discogs.com/K_lPaJ0VS9H1DF0scnoE8F_ZK1voWVrklra1NGpyQWo/rs:fit/g:sm/q:90/h:547/w:547/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNzA3/OTc5LTE1NDA2OTYz/NzQtMzM2Mi5qcGVn.jpeg"
@@ -24,36 +24,41 @@ genres: ["Rock"]
 styles: ["Punk"]
 ---
 
+The Greatest Songs Ever Written (By Us) is a greatest hits compilation album released on November 9, 2004 by NOFX consisting of previously released songs that have been cleaned up and restored using a more recent technology. Some songs were even re-mixed for the compilation.
+
+
+    
+    
 
 
 ## Tracklisting
-1. Dinosaurs Will Die (2:51)
-2. Linoleum (2:06)
-3. Bob (2:02)
-4. The Seperation Of Church And Skate (2:50)
-5. Murder The Government (0:45)
-6. Bleeding Heart Disease (3:34)
-7. Bottles To The Ground (2:24)
-8. 180 Degrees (2:11)
-9. Party Enema (1:20)
-10. What's The Matter With Kid's Today? (1:14)
-11. Reeko (2:59)
-12. Stickin' In My Eye (2:23)
-13. All Outta Angst (1:52)
-14. Leave It Alone (2:04)
-15. Green Corn (1:45)
-16. The Longest Line (2:05)
-17. Thank God It's Monday (1:39)
-18. The Idiots Are Taking Over (3:22)
-19. Don't Call Me White (2:33)
-20. Day To Daze (1:59)
-21. Soul Doubt (2:46)
-22. Philthy Phil Philanthropist (3:10)
-23. Shut Up Already (2:45)
-24. It's My Job To Keep Punk Rock Elite (1:24)
-25. Franco Un-American (2:27)
-26. Kill All The White Man (2:49)
-27. Wore Out The Soles Of My Party Boots (2:05)
+1. Dinosaurs Will Die
+2. Linoleum
+3. Bob
+4. The Seperation Of Church And Skate
+5. Murder The Government
+6. Bleeding Heart Disease
+7. Bottles To The Ground
+8. 180 Degrees
+9. Party Enema
+10. What's The Matter With Kid's Today?
+11. Reeko
+12. Stickin' In My Eye
+13. All Outta Angst
+14. Leave It Alone
+15. Green Corn
+16. The Longest Line
+17. Thank God It's Monday
+18. The Idiots Are Taking Over
+19. Don't Call Me White
+20. Day To Daze
+21. Soul Doubt
+22. Philthy Phil Philanthropist
+23. Shut Up Already
+24. It's My Job To Keep Punk Rock Elite
+25. Franco Un-American
+26. Kill All The White Man
+27. Wore Out The Soles Of My Party Boots
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/the-greatest-songs-ever-written-by-us/1485042726" >}}<br>
@@ -82,8 +87,9 @@ styles: ["Punk"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl 2× LP Compilation (Green Translucent) |
-| Label          | Epitaph Europe |
+| Wikipedia URL | https://en.wikipedia.org/wiki/The_Greatest_Songs_Ever_Written_(By_Us) |
+| Format         | Vinyl 2× LP Compilation Reissue (Green Translucent) |
+| Label          | Epitaph |
 | Catalog Number | 6727-1 |
-| Notes | Gatefold Jacket D6 is previously unreleased. Indie exclusive, limited to 300 copies. |
-| Discogs URL    | [NOFX - The Greatest Songs Ever Written... By Us](https://www.discogs.com/release/12707979-NOFX-The-Greatest-Songs-Ever-Written-By-Us) |
+| Notes | Gatefold Jacket D6 is previously unreleased. Indie exclusive, limited to 300 copies.  The title as it appears on the front cover is "The Greatest Songs Ever Written." The title as it appears on the labels is "The Greatest Songs Ever Written By Us." |
+| Discogs URL    | [NOFX - The Greatest Songs Ever Written (By Us)](https://www.discogs.com/release/12707979-NOFX-The-Greatest-Songs-Ever-Written-By-Us) |

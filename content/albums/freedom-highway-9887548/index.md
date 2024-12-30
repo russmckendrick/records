@@ -18,7 +18,7 @@ additional_images:
     - "https://i.discogs.com/WuPRj1B2-UsufBGvGHud1pL-2r2N7iF-J50iCHT3eRw/rs:fit/g:sm/q:90/h:593/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk4ODc1/NDgtMTQ4OTA5Mzgy/Mi00NTgzLmpwZWc.jpeg"
     - "https://i.discogs.com/Xv7ZAQqdL6zAXj_0WDooOID4dC4rEug0jJv9hijgEQw/rs:fit/g:sm/q:90/h:591/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk4ODc1/NDgtMTQ4OTA5Mzgy/My03MTY1LmpwZWc.jpeg"
     - "https://i.discogs.com/FoskHSKhlpRPQA-2mOoP67E8bPM0d42BBv3pLWAXG70/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk4ODc1/NDgtMTQ4OTA5Mzgy/Mi0xMDM2LmpwZWc.jpeg"
-    - "https://i.discogs.com/HBSLb9C6PHJqtHyz6SSLyFiPFa3wycjfe4MtRcVjozQ/rs:fit/g:sm/q:90/h:659/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk4ODc1/NDgtMTQ4OTA5Mzgy/NC04NzY0LmpwZWc.jpeg"
+    - "https://i.discogs.com/0uhRArs5v8sVwVxpXvf2cXL9dAQ9AZZfwfeyQBZSRUA/rs:fit/g:sm/q:90/h:600/w:545/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk4ODc1/NDgtMTQ4OTA5Mzgy/NC04NzY0LmpwZWc.jpeg"
 genres: ["Jazz", "Blues", "Folk, World, & Country"]
 styles: ["Bluegrass", "Gospel", "Folk", "Celtic"]
 ---
@@ -55,12 +55,20 @@ Freedom Highway is the second solo studio album of Folk/Americana musician and C
 - [Rhiannon Giddens - Baby Boy (Official Audio)](https://www.youtube.com/watch?v=pTUqArW-mFI)
 - [Rhiannon Giddens - We Could Fly (Official Audio)](https://www.youtube.com/watch?v=5KhzRgqcBBc)
 - [Rhiannon Giddens - Hey Bébé](https://www.youtube.com/watch?v=fxjYBfjwnXc)
+- [Rhiannon Giddens - We Could Fly (Official Audio)](https://www.youtube.com/watch?v=5KhzRgqcBBc)
+- [Rhiannon Giddens - Hey Bébé](https://www.youtube.com/watch?v=fxjYBfjwnXc)
 - [Rhiannon Giddens - Come Love Come (Official Audio)](https://www.youtube.com/watch?v=EZ4Hb7YUbvU)
 - [Rhiannon Giddens - Julie (Official Audio)](https://www.youtube.com/watch?v=zu5ZYXi6EiE)
 - [Rhiannon Giddens - The Love We Almost Had (Official Audio)](https://www.youtube.com/watch?v=-YP4lhYzIx0)
+- [Rhiannon Giddens - Come Love Come (Official Audio)](https://www.youtube.com/watch?v=EZ4Hb7YUbvU)
+- [Rhiannon Giddens - The Love We Almost Had (Official Audio)](https://www.youtube.com/watch?v=-YP4lhYzIx0)
+- [Rhiannon Giddens - Baby Boy (Official Audio)](https://www.youtube.com/watch?v=pTUqArW-mFI)
 - [Rhiannon Giddens - Birmingham Sunday (Official Audio)](https://www.youtube.com/watch?v=4_T5KlTpvoM)
 - [Rhiannon Giddens - Following the North Star (Official Audio)](https://www.youtube.com/watch?v=RLct6qYysVE)
+- [Rhiannon Giddens - Baby Boy (Official Audio)](https://www.youtube.com/watch?v=pTUqArW-mFI)
 - [Rhiannon Giddens - Better Get It Right the First Time (Official Audio)](https://www.youtube.com/watch?v=0VftPiNjaas)
+- [Rhiannon Giddens - Freedom Highway (feat. Bhi Bhiman) (Official Audio)](https://www.youtube.com/watch?v=5eFtU57vme4)
+- [Rhiannon Giddens - Following the North Star (Official Audio)](https://www.youtube.com/watch?v=RLct6qYysVE)
 - [Rhiannon Giddens - Freedom Highway (feat. Bhi Bhiman) (Official Audio)](https://www.youtube.com/watch?v=5eFtU57vme4)
 
 ## Release Images

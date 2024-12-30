@@ -42,30 +42,20 @@ styles: ["Pop Rock", "Soft Rock", "Soundtrack", "Vocal"]
 11. Songs Of Life
 12. Jerusalem
 13. Kol Nidre
-14. America (Reprise)
+14. My Name Is Yussel (Theme)
+15. America (Reprise)
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/the-jazz-singer-original-songs-from-the-motion-picture/1440888546" >}}<br>
 
 
 ## Videos
-### America (From The Jazz Singer Soundtrack)
-{{< youtube id="SvseQ90FMHk" title="America (From The Jazz Singer Soundtrack)" >}}<br>
+### Jerusalem (From "The Jazz Singer" Soundtrack)
+{{< youtube id="1ivnzchGzII" title="Jerusalem (From "The Jazz Singer" Soundtrack)" >}}<br>
 ### More Videos
 
-- [Adon Olom (From The Jazz Singer Soundtrack)](https://www.youtube.com/watch?v=Tv3SXDtUdfU)
-- [You Baby (From The Jazz Singer Soundtrack)](https://www.youtube.com/watch?v=o3Mb4T8vVO4)
-- [Love On The Rocks (From The Jazz Singer Soundtrack)](https://www.youtube.com/watch?v=22tVYznBKyE)
-- [Amazed And Confused (From The Jazz Singer Soundtrack)](https://www.youtube.com/watch?v=VlyOpuwml30)
-- [On The Robert E. Lee (From The Jazz Singer Soundtrack)](https://www.youtube.com/watch?v=-wef9IzAIag)
-- [Summerlove (From The Jazz Singer Soundtrack)](https://www.youtube.com/watch?v=l4VHZapvpgI)
-- [Hello Again (From The Jazz Singer Soundtrack)](https://www.youtube.com/watch?v=DsbX1PZq5TA)
-- [Acapulco (From The Jazz Singer Soundtrack)](https://www.youtube.com/watch?v=E6FCghO92Mo)
-- [Hey Louise (From The Jazz Singer Soundtrack)](https://www.youtube.com/watch?v=e53gzWewtaM)
-- [Songs Of Life (From The Jazz Singer Soundtrack)](https://www.youtube.com/watch?v=zRD0Mgxt1oM)
-- [Jerusalem (From The Jazz Singer Soundtrack)](https://www.youtube.com/watch?v=1ivnzchGzII)
-- [Kol Nidre (From The Jazz Singer Soundtrack)](https://www.youtube.com/watch?v=H4QAReDEgVw)
-- [America (Reprise / From The Jazz Singer Soundtrack)](https://www.youtube.com/watch?v=4ZoU4FtiyTs)
+- [Adon Olom (From "The Jazz Singer" Soundtrack)](https://www.youtube.com/watch?v=Tv3SXDtUdfU)
+- [Acapulco (From "The Jazz Singer" Soundtrack)](https://www.youtube.com/watch?v=E6FCghO92Mo)
 
 ## Release Images
 {{< imageGrid >}}
@@ -73,8 +63,8 @@ styles: ["Pop Rock", "Soft Rock", "Soundtrack", "Vocal"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl LP Album (Gatefold) |
+| Format         | Vinyl LP Album Stereo (Gatefold) |
 | Label          | Capitol Records |
 | Catalog Number | EA-ST 12120 |
-| Notes | The catalogue number is EA-ST 12120 on the sleeve, EAST 12120 on the label.  Gloss sleeve embossed |
+| Notes | Issued in glossy embossed gatefold sleeve with no barcode.  Black custom labels with Neil Diamond logo on side A, Capitol logo on side B. Track A2 with "Trad. arr." instead of "Trad. adapt." credit. Includes printed inner sleeve with die-cut corners.  The catalogue number is EA-ST 12120 on the sleeve, EAST 12120 on the labels.  No subtitle on labels. Tracks B6b and B7 not listed on back cover.  Recording Studios: Arch Angel Studios-Los Angeles, Record Plant Mobile 3, Cherokee Recording Studios, Sunset Sound, Dawnbreaker. Mastering: The Mastering Lab.  Publishing: A1 to A3, A5, B1, B2, B5 to B7: Chappell Music Ltd. Tracks A4, A6, A7, B3, B4: Chappell Music Ltd./Britico/MCPS  ℗1980 Original Sound Recordings made by Neil Diamond ©1980 Neil Diamond  Runouts are stamped, except mastering etched. |
 | Discogs URL    | [Neil Diamond - The Jazz Singer (Original Songs From The Motion Picture)](https://www.discogs.com/release/1605561-Neil-Diamond-The-Jazz-Singer-Original-Songs-From-The-Motion-Picture) |

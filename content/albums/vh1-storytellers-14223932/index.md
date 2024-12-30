@@ -14,20 +14,20 @@ cover:
 additional_images:
     - "https://i.discogs.com/Hrdonp6NHoxNSwC-ntXPpWA0NpTvsnKN7hYcVF-M2Wo/rs:fit/g:sm/q:90/h:585/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MjIz/OTMyLTE2NDcxODkz/NjktNzc5MC5qcGVn.jpeg"
     - "https://i.discogs.com/Q23iLNtpAANgHTdECpPUe7lV8YvPO3ZwggiKBlAKdHY/rs:fit/g:sm/q:90/h:285/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MjIz/OTMyLTE2NDcxODkz/ODYtMzc3NC5qcGVn.jpeg"
-    - "https://i.discogs.com/ngGYNUB1Oc-Kn3VfTDrqNFCKPDwJjXHLa1QPfLvTUAs/rs:fit/g:sm/q:90/h:602/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MjIz/OTMyLTE2NDcxODkz/ODAtOTU3MC5qcGVn.jpeg"
+    - "https://i.discogs.com/wiEtxIyNOhYT0grjP8CkjDxpBTANPsbn-OydsxWww1c/rs:fit/g:sm/q:90/h:600/w:597/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MjIz/OTMyLTE2NDcxODkz/ODAtOTU3MC5qcGVn.jpeg"
     - "https://i.discogs.com/ia4KIYPH5A7mLc3nKFzmqw2eT9AIJsV2zwB-biPMbU4/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MjIz/OTMyLTE2NDcxODk0/NDYtNTc1OC5qcGVn.jpeg"
-    - "https://i.discogs.com/nAFqKhBmSjqO8MpNyPlkmOjGbcqDxg4_9cm9-Y4Afq0/rs:fit/g:sm/q:90/h:610/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MjIz/OTMyLTE2NDcxODk0/NTEtOTQzOS5qcGVn.jpeg"
+    - "https://i.discogs.com/2Wh7zqByVNJMVmSdNkmX7Y9oyo6d1hmELkFvSGO9g-4/rs:fit/g:sm/q:90/h:600/w:589/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MjIz/OTMyLTE2NDcxODk0/NTEtOTQzOS5qcGVn.jpeg"
     - "https://i.discogs.com/fEFd4Fmh31uABwgtjHTbT9MPZbgrMCXgUk-wfcd4jtk/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MjIz/OTMyLTE2NDcxODk0/NjEtNjE1NC5qcGVn.jpeg"
-    - "https://i.discogs.com/Z7MSUbw3OPZ3uKEcZmpRCpqUEWeLAuZw086Wa2cHIAE/rs:fit/g:sm/q:90/h:607/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MjIz/OTMyLTE2NDcxODk0/NTQtNzIzMi5qcGVn.jpeg"
+    - "https://i.discogs.com/MW8ZfSLc3DFSYqLThl8Mkx1YIsyMOTz727fGvcItG2I/rs:fit/g:sm/q:90/h:600/w:592/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MjIz/OTMyLTE2NDcxODk0/NTQtNzIzMi5qcGVn.jpeg"
     - "https://i.discogs.com/BcgR9MyDv3SVuwW_Uw5q-hcJHstvNKnouajISSX3Z2c/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MjIz/OTMyLTE2NDcxODk0/MTgtMTI3OC5qcGVn.jpeg"
-    - "https://i.discogs.com/_rWt98wPMUS0ETEmCJpOr_aYnzD_eiuzBxob3q7uLq0/rs:fit/g:sm/q:90/h:604/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MjIz/OTMyLTE2NDcxODkz/OTktNjI2My5qcGVn.jpeg"
+    - "https://i.discogs.com/GPxdtLsMtRIx1Amsfm_P9lVvjYi8CirsBpNxlZZiZ3U/rs:fit/g:sm/q:90/h:600/w:595/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MjIz/OTMyLTE2NDcxODkz/OTktNjI2My5qcGVn.jpeg"
     - "https://i.discogs.com/Vk7RDyirAhx39JhVMtCU4PJBKo8DiyO0QAhkuRSasbI/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MjIz/OTMyLTE2NDcxODk0/MzAtNDc2OS5qcGVn.jpeg"
     - "https://i.discogs.com/ywa_M2qwfHIVl6zUTTTsa8VX37pLJaHhyaBhmbkCFYo/rs:fit/g:sm/q:90/h:594/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MjIz/OTMyLTE2NDcxODk0/MzgtNjUxMy5qcGVn.jpeg"
 genres: ["Rock", "Pop"]
 styles: ["Art Rock"]
 ---
 
-VH1 Storytellers is a live album by David Bowie. It was released on 6 July 2009 and features a 23 August 1999 performance on Storytellers, a VH1 program.
+VH1 Storytellers is a live album by the English singer-songwriter David Bowie. It was released on 6 July 2009 and features a 23 August 1999 performance on Storytellers, a VH1 program.
     
     
 
@@ -51,7 +51,13 @@ VH1 Storytellers is a live album by David Bowie. It was released on 6 July 2009 
 {{< applemusic url="https://music.apple.com/gb/album/vh1-storytellers-david-bowie-live/731935064" >}}<br>
 
 
+## Videos
+### David Bowie: VH1 Storytellers (1999) [1080p AI Upscale]
+{{< youtube id="WmmLHsROeOE" title="David Bowie: VH1 Storytellers (1999) [1080p AI Upscale]" >}}<br>
+### More Videos
 
+- [David Bowie - Word on a Wing](https://www.youtube.com/watch?v=hYEiSxRsNRc)
+- [David Bowie - Survive (VH1 Storytellers)](https://www.youtube.com/watch?v=QgFwK-DyGJg)
 
 ## Release Images
 {{< imageGrid >}}

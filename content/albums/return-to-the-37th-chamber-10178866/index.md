@@ -16,8 +16,8 @@ additional_images:
     - "https://i.discogs.com/mvL-B8_p2lg6GJ9Cv7OFgnp3KoQ6KnhnsQf5CH9BLYs/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMTc4/ODY2LTE2NjA0Njgx/NDUtNzU2MS5qcGVn.jpeg"
     - "https://i.discogs.com/MXD5kcl0aHee1gRnrrlnjT6WltOtmxTh6lCsPbm43U8/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMTc4/ODY2LTE2NjA0Njgx/NDctMzgzOC5qcGVn.jpeg"
     - "https://i.discogs.com/j7ulA998_wnmhGJb3EWICx0pgjMUE8jGD_c7pw87YPc/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMTc4/ODY2LTE2NjA0Njgx/NDctNDgwNy5qcGVn.jpeg"
-    - "https://i.discogs.com/xC_Zrf4-xUZAr1tmPZ4LQiViXMX4w5pEPdYf0N23pgY/rs:fit/g:sm/q:90/h:601/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMTc4/ODY2LTE2MjgzNzE5/MTUtNTI1Mi5qcGVn.jpeg"
-    - "https://i.discogs.com/b1cIERyuE7rPX5Uq6pMVtlb3-er1avPncoPVK6za0OQ/rs:fit/g:sm/q:90/h:1181/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMTc4/ODY2LTE2MjgzNzE5/MTUtMzk5Ni5qcGVn.jpeg"
+    - "https://i.discogs.com/e4kaoRJpB6nuiCvYS_7P3pKbgh1sATjBfq9IFXXuNCY/rs:fit/g:sm/q:90/h:600/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMTc4/ODY2LTE2MjgzNzE5/MTUtNTI1Mi5qcGVn.jpeg"
+    - "https://i.discogs.com/YCOhSlPdxGG2ECNa1464Ifq5nCjvk_rqN_32xkoWQFw/rs:fit/g:sm/q:90/h:600/w:304/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMTc4/ODY2LTE2MjgzNzE5/MTUtMzk5Ni5qcGVn.jpeg"
 genres: ["Funk / Soul"]
 styles: ["Funk", "Soul"]
 ---
@@ -55,6 +55,8 @@ styles: ["Funk", "Soul"]
 - [El Michels Affair -  Return To The 37th Chamber -  07 Shadow Boxing](https://www.youtube.com/watch?v=lvktFx3k4Ts)
 - [El Michels Affair - Wu-Tang Clan Aint Nuthing Ta F Wit](https://www.youtube.com/watch?v=LNATIh11nPE)
 - [El Michels Affair feat. Lee Fields - Snakes](https://www.youtube.com/watch?v=FTb9vPss-UI)
+- [El Michels Affair - Enter The 37th Chamber (2009) (Full Album)](https://www.youtube.com/watch?v=gVYfIfZDKeg)
+- [El Michels Affair feat. Lee Fields & The Shacks - Tearz](https://www.youtube.com/watch?v=hj2pRgWvIaA)
 
 ## Release Images
 {{< imageGrid >}}

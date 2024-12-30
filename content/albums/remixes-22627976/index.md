@@ -13,7 +13,7 @@ cover:
     caption: "Remixes by Kraftwerk"
 additional_images:
     - "https://i.discogs.com/L6y4xDlql1CAiG_n69f66r_4OrhVvCHdgnuz5WBnDv4/rs:fit/g:sm/q:90/h:594/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNjI3/OTc2LTE2NTM5MzIx/MDktNDg0My5qcGVn.jpeg"
-    - "https://i.discogs.com/LgUnqZkxeD8Tnt5IGNe1Z3QspHDG8gXA25mhBcTV8M8/rs:fit/g:sm/q:90/h:603/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNjI3/OTc2LTE2NDgxNDIw/OTMtNDU4NC5qcGVn.jpeg"
+    - "https://i.discogs.com/EX051DkCsvL8fBBQNQQHIYFy56BJnsXKn1HlamrBRdc/rs:fit/g:sm/q:90/h:600/w:596/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNjI3/OTc2LTE2NDgxNDIw/OTMtNDU4NC5qcGVn.jpeg"
     - "https://i.discogs.com/1dun8Q6bHOrV48bNuiJWCBaUox3xgw-rsiD3ZFSu2Po/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNjI3/OTc2LTE2NTAxNTQ1/NDctMjkzNS5qcGVn.jpeg"
     - "https://i.discogs.com/HuZw5g4nK1SYNXSursEJdMbXuRI4lChJ1WO0aeh6FiA/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNjI3/OTc2LTE2NTAxNTQ1/NDctMTQ0Mi5qcGVn.jpeg"
     - "https://i.discogs.com/PWDd5clXcE0rtD5T3P-psNAFdr6_BEFyzQKORfJo8U4/rs:fit/g:sm/q:90/h:450/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNjI3/OTc2LTE2NDgxODcw/MDUtMjAyMy5qcGVn.jpeg"
@@ -60,15 +60,15 @@ styles: ["Electro", "Synth-pop", "Techno", "Tech House", "Drum n Bass"]
 19. La Forme (King Of The Mountains Mix By Hot Chip) (6:33)
 
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/remixes/1545401738" >}}<br>
+{{< applemusic url="https://music.apple.com/gb/album/for-the-kraftwerk-the-remixes-ep/1103311486" >}}<br>
 
 
 ## Videos
-### KRAFTWERK - ROBOTRONIK (KLING KLANG MIX) (℗1978 / ©1991 / ©2022)
-{{< youtube id="6lk0x2ZA1nU" title="KRAFTWERK - ROBOTRONIK (KLING KLANG MIX) (℗1978 / ©1991 / ©2022)" >}}<br>
+### Kraftwerk Remixes - CD1 (Kling Klang Product 2022. - Ralf Hütter)
+{{< youtube id="pDeR-ZtfTpw" title="Kraftwerk Remixes - CD1 (Kling Klang Product 2022. - Ralf Hütter)" >}}<br>
 ### More Videos
 
-- [Radioactivity (William Orbit Hardcore Remix - Kling Klang Edit)](https://www.youtube.com/watch?v=O8DHr4R_H1o)
+- [Kraftwerk Remixes - CD2 (Kling Klang Product 2022. - Ralf Hütter)](https://www.youtube.com/watch?v=4P_KvcjCgiw)
 
 ## Release Images
 {{< imageGrid >}}

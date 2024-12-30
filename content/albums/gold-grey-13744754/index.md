@@ -23,12 +23,12 @@ additional_images:
     - "https://i.discogs.com/8SpAdwhZQbp07cEz1Ecw1PpgRplz-9CTCfjMccpnNdo/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNzQ0/NzU0LTE1NjA2MTIy/NDQtNzIzOC5qcGVn.jpeg"
     - "https://i.discogs.com/uZJqUnzzvllcgpUdCn0PMferXU8SiOfLb3Dvrb0P-e4/rs:fit/g:sm/q:90/h:588/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNzQ0/NzU0LTE1NjA2MTIy/NDYtNTMyOS5qcGVn.jpeg"
     - "https://i.discogs.com/-0r5cZlEVCrwG-xd-WeUnmRgwcjpf27viB0n6gIraIc/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNzQ0/NzU0LTE1NjA2MTIy/NDctOTAzMy5qcGVn.jpeg"
-    - "https://i.discogs.com/mJZzTtRLjFfMsQxl7dsL34i1NRVjgs3EaJKLHZYurjg/rs:fit/g:sm/q:90/h:603/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNzQ0/NzU0LTE1NjA2MTIy/NDgtNTI1MS5qcGVn.jpeg"
-    - "https://i.discogs.com/0qEUtG2_x4c39lIp__WOTdm-C0bLsfT2q4aUhlCSHKU/rs:fit/g:sm/q:90/h:601/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNzQ0/NzU0LTE1NjA2MTIy/NTAtMTYwOC5qcGVn.jpeg"
+    - "https://i.discogs.com/N6zRXc4KZtpnCsO_sSF0bUWlN5gwI9zUwe7tM61AXTI/rs:fit/g:sm/q:90/h:600/w:596/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNzQ0/NzU0LTE1NjA2MTIy/NDgtNTI1MS5qcGVn.jpeg"
+    - "https://i.discogs.com/9IRNb5r7fy1iRy8ynwe4Px3x0QL6IFYhyTVIcNp5bew/rs:fit/g:sm/q:90/h:600/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNzQ0/NzU0LTE1NjA2MTIy/NTAtMTYwOC5qcGVn.jpeg"
     - "https://i.discogs.com/YCCdgFie1trPrMtA7fjJrVFlnbubj_mD-1b1Lwqt8Os/rs:fit/g:sm/q:90/h:587/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNzQ0/NzU0LTE1NjA2MTIy/NTAtMzI1Ni5qcGVn.jpeg"
     - "https://i.discogs.com/wswMqut7EnNlTh-o8HERrKoQEZsL0zUqYt8yw61T7yk/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNzQ0/NzU0LTE1NjA2MTIy/NTQtOTAzOC5qcGVn.jpeg"
-    - "https://i.discogs.com/rTCYzkZGK-TSlI62TQisgu3OFazFGlUyEvNy7CTrrBg/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNzQ0/NzU0LTE1NjA2MTIy/NTMtMjk4NS5qcGVn.jpeg"
-    - "https://i.discogs.com/-v1Wmj-VcILu8abP1DSlxFh_4xH4J0V2cnVlmqQ19Hc/rs:fit/g:sm/q:90/h:610/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNzQ0/NzU0LTE1NjA2MTIy/NjgtMjc4OC5qcGVn.jpeg"
+    - "https://i.discogs.com/bMNdHKraXS8UM13ATt-lIgOOp_u8kFyrLsfJDNlwpEM/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNzQ0/NzU0LTE3MTk2OTM0/NjAtOTQ1Ni5qcGVn.jpeg"
+    - "https://i.discogs.com/PAk3rwTxoBpDe8NJKg6GnMcksZhNUlt0_RpB1rO_BvQ/rs:fit/g:sm/q:90/h:600/w:589/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNzQ0/NzU0LTE1NjA2MTIy/NjgtMjc4OC5qcGVn.jpeg"
     - "https://i.discogs.com/-kC9mWZiTMfEOCsMYvBnM-4LqsxIaSAhkDcZcT1UZWQ/rs:fit/g:sm/q:90/h:301/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNzQ0/NzU0LTE1NjA2MTIy/NzItMjgxMC5qcGVn.jpeg"
     - "https://i.discogs.com/EK36L3Kmd_1WH6RyjiInP0cEWwlvulQOX9EJ04-r-DU/rs:fit/g:sm/q:90/h:299/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNzQ0/NzU0LTE1NjA2MTIy/NzMtODk4Ny5qcGVn.jpeg"
     - "https://i.discogs.com/DpvwftLUAsV75C_CtkgriAb-pkMotBBv5kspLYFu1f8/rs:fit/g:sm/q:90/h:299/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNzQ0/NzU0LTE1NjA2MTIy/NjktMTI0My5qcGVn.jpeg"
@@ -36,7 +36,7 @@ additional_images:
     - "https://i.discogs.com/CqQUhEM_q-7tNYfUdbH6o8oMNn6AXqloKPxO0kBJC-g/rs:fit/g:sm/q:90/h:299/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNzQ0/NzU0LTE1NjA2MTIy/NzAtMzA0OS5qcGVn.jpeg"
     - "https://i.discogs.com/8_GywtzpSLPgLDqXhHoulUwwjyATkrWPRNnlSQ4b_mA/rs:fit/g:sm/q:90/h:298/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNzQ0/NzU0LTE1NjA2MTIy/NzAtNjgxOC5qcGVn.jpeg"
     - "https://i.discogs.com/L80FpoCB5RQdSnKavcl6cB1xXbeGLp_U89XAik2Jor0/rs:fit/g:sm/q:90/h:299/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNzQ0/NzU0LTE1NjA2MTIy/NzItMTQxMy5qcGVn.jpeg"
-    - "https://i.discogs.com/jn1bhWVE_z7S7RkqxRjGVJan83lUJn-i4FWnoYNMW9o/rs:fit/g:sm/q:90/h:608/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNzQ0/NzU0LTE1NjA2MTIy/NzEtNjg2OS5qcGVn.jpeg"
+    - "https://i.discogs.com/kfFiq77sp436Im5-QUs8Phif9OmD-6M_ZA4VfBUUypY/rs:fit/g:sm/q:90/h:600/w:591/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNzQ0/NzU0LTE1NjA2MTIy/NzEtNjg2OS5qcGVn.jpeg"
     - "https://i.discogs.com/eF-InPUtbigdX6XZf1jCE2YdroY-Sx-d10hUXi6jPU8/rs:fit/g:sm/q:90/h:513/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNzQ0/NzU0LTE1NjA2MTIy/NzktNzIwNS5qcGVn.jpeg"
     - "https://i.discogs.com/MrRXSD8xdRA5KhDMGTX0CBoYTxxqByrNOW11SNbSfk0/rs:fit/g:sm/q:90/h:299/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNzQ0/NzU0LTE1NjA2MTIy/NzgtOTQ3NC5qcGVn.jpeg"
     - "https://i.discogs.com/_ysb51KWFZbYOaolF3SN_v3csEle9CMSO7mPa6Rqz1s/rs:fit/g:sm/q:90/h:341/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNzQ0/NzU0LTE1NjA2MTIy/ODEtNDU1MS5qcGVn.jpeg"
@@ -72,10 +72,16 @@ styles: ["Stoner Rock", "Heavy Metal", "Prog Rock"]
 
 
 ## Videos
-### BARONESS - Throw Me An Anchor [AUDIO]
-{{< youtube id="KcWFiTJ23Vo" title="BARONESS - Throw Me An Anchor [AUDIO]" >}}<br>
+### BARONESS - Front Toward Enemy [AUDIO]
+{{< youtube id="PQ5qs3ALrU4" title="BARONESS - Front Toward Enemy [AUDIO]" >}}<br>
 ### More Videos
 
+- [BARONESS - Throw Me An Anchor [AUDIO]](https://www.youtube.com/watch?v=KcWFiTJ23Vo)
+- [BARONESS - Seasons [OFFICIAL]](https://www.youtube.com/watch?v=k3n8RBaUMpc)
+- [BARONESS - Borderlines [OFFICIAL]](https://www.youtube.com/watch?v=tQX_oVVORFU)
+- [BARONESS - Tourniquet [Official Music Video]](https://www.youtube.com/watch?v=RQeAvbTVWiU)
+- [BARONESS - Front Toward Enemy [AUDIO]](https://www.youtube.com/watch?v=PQ5qs3ALrU4)
+- [BARONESS - Throw Me An Anchor [AUDIO]](https://www.youtube.com/watch?v=KcWFiTJ23Vo)
 - [BARONESS - Seasons [OFFICIAL]](https://www.youtube.com/watch?v=k3n8RBaUMpc)
 - [BARONESS - Borderlines [OFFICIAL]](https://www.youtube.com/watch?v=tQX_oVVORFU)
 - [BARONESS - Tourniquet [Official Music Video]](https://www.youtube.com/watch?v=RQeAvbTVWiU)

@@ -16,20 +16,21 @@ additional_images:
     - "https://i.discogs.com/2TisZmiFs0n6aTFssIowxFphvVJPgkDG9m0Vvikokv4/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1NzU2/MjAxLTE2NzM2Mzcx/MjctNTU2OC5qcGVn.jpeg"
     - "https://i.discogs.com/D8DLAxaRT-BFvvkvR_qhfX-yVl2mA0tH5mlXFcTuzOI/rs:fit/g:sm/q:90/h:315/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1NzU2/MjAxLTE2NzM2Mzcx/MzAtNzA2My5qcGVn.jpeg"
     - "https://i.discogs.com/qw6gcTOkr67iRnun3oEAlHKNzxTW28cFBgTWwbZ1vnU/rs:fit/g:sm/q:90/h:589/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1NzU2/MjAxLTE2NzM2Mzcx/MjktMTkxNy5qcGVn.jpeg"
-    - "https://i.discogs.com/I6rKCciLA_a9JTeQFe1Ci-MaJyPWQFj9l4MliJlS9Zk/rs:fit/g:sm/q:90/h:609/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1NzU2/MjAxLTE2NzQwMDY1/MjItMzAzNS5qcGVn.jpeg"
+    - "https://i.discogs.com/dKLptkaZGsiPb-5jknRyhnan9bqdgN4iBE7E2mmd6IA/rs:fit/g:sm/q:90/h:600/w:590/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1NzU2/MjAxLTE2NzQwMDY1/MjItMzAzNS5qcGVn.jpeg"
     - "https://i.discogs.com/PxwzptLCr9rSZSOAE-7d48u7H6NaaYoZ6VEfnldT5kk/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1NzU2/MjAxLTE2NzQwMDY1/MjAtNzEzNi5qcGVn.jpeg"
     - "https://i.discogs.com/kDWj8EMEiFjlR_XdfVNv4vY6qB9FbN0R0m_KyeYU3GE/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1NzU2/MjAxLTE2NzM2Mzcx/MzAtMjA4MC5qcGVn.jpeg"
     - "https://i.discogs.com/HYGZNfguVF3vLUog2Mn_Ufu8D11aQ2df7P47pAhINe8/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1NzU2/MjAxLTE2NzM2Mzcx/MjktMTMyNy5qcGVn.jpeg"
     - "https://i.discogs.com/7uXo02AlG6YNRHLRsJimyr8WucnRaHtFEX8qxClGpO8/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1NzU2/MjAxLTE2NzM2Mzcx/MjktNzE1NC5qcGVn.jpeg"
     - "https://i.discogs.com/AF6lOL82iwxQ03dXqLSExOykrajpusOz5VKIIyXCIVk/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1NzU2/MjAxLTE2NzM2Mzcx/MjgtNDEwNy5qcGVn.jpeg"
-    - "https://i.discogs.com/jx30stVaa2g36zj4YbBzcHNuyA5SRZNHuY8tJTZATpE/rs:fit/g:sm/q:90/h:604/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1NzU2/MjAxLTE2NzM2Mzcy/MDctOTMxNC5qcGVn.jpeg"
+    - "https://i.discogs.com/k_8Eofn_tWwJsAPFmHMtsHGPgJEb2cpKSoDjVXaRSqA/rs:fit/g:sm/q:90/h:600/w:595/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1NzU2/MjAxLTE2NzM2Mzcy/MDctOTMxNC5qcGVn.jpeg"
     - "https://i.discogs.com/eZKULqgNkfVOxjbud2PEDFqltyDEaFMYH2Zdwe3El94/rs:fit/g:sm/q:90/h:314/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1NzU2/MjAxLTE2NzM2Mzcx/MzEtNTg3Ny5qcGVn.jpeg"
     - "https://i.discogs.com/5RvYEfDStF6jOjrZo9dY7owTBc66OG3DhYotpkTSGvc/rs:fit/g:sm/q:90/h:307/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1NzU2/MjAxLTE2NzM2Mzcx/MzEtNTI4My5qcGVn.jpeg"
     - "https://i.discogs.com/ZtKi3E8I6Z0J_PYGZn1Obt66LA_e0kHvTPlnEcNbUr4/rs:fit/g:sm/q:90/h:309/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1NzU2/MjAxLTE2NzM2Mzcx/MzEtNDc4MS5qcGVn.jpeg"
-    - "https://i.discogs.com/2GL0Zd3hTNVYd77BQBsWVTxvEizPUi6Bcn9RnjP7BFA/rs:fit/g:sm/q:90/h:602/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1NzU2/MjAxLTE2NzM2Mzcx/MjktNDI0OC5qcGVn.jpeg"
+    - "https://i.discogs.com/CzjrgEfQ6PkwDxhPIiL6_NIScOrV3naJw28urYLriNg/rs:fit/g:sm/q:90/h:600/w:597/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1NzU2/MjAxLTE2NzM2Mzcx/MjktNDI0OC5qcGVn.jpeg"
+    - "https://i.discogs.com/OfPq1dy0k1g4GcfBOUM4wgD92igImQq3HO5lwvWEaCo/rs:fit/g:sm/q:90/h:401/w:420/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1NzU2/MjAxLTE2OTUzOTk4/ODItNzM1Ni5qcGVn.jpeg"
     - "https://i.discogs.com/-3DgY5lKgCcGXiWr6D-Isx0Sj6QjggjUA1RLn-DIozo/rs:fit/g:sm/q:90/h:402/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1NzU2/MjAxLTE2NzM2Mzcx/MzEtMzc5NC5qcGVn.jpeg"
     - "https://i.discogs.com/Nt03VQ7BPU2QNtiZqlMLhnKu0rol7UysnNJzu4lhneU/rs:fit/g:sm/q:90/h:398/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1NzU2/MjAxLTE2NzM2Mzc5/NTEtMjc4OC5qcGVn.jpeg"
-    - "https://i.discogs.com/sdMoiJJJy_cpo1DrSGNoV6I2Sloz_5Ukze0EJuqEHi4/rs:fit/g:sm/q:90/h:720/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1NzU2/MjAxLTE2NzQwMDcw/ODUtNjcxNC5qcGVn.jpeg"
+    - "https://i.discogs.com/XJ5CoEc0QTjrhGE1u8a74ShS8Rr-28doGHV28Y-HJdY/rs:fit/g:sm/q:90/h:600/w:500/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1NzU2/MjAxLTE2NzQwMDcw/ODUtNjcxNC5qcGVn.jpeg"
 genres: ["Rock", "Pop"]
 styles: ["Indie Rock", "Indie Pop"]
 ---
@@ -62,21 +63,21 @@ What tends to give modern Belle and Sebastian albums so much texture and varianc
 
 
 ## Videos
-### Belle and Sebastian- Juliet Naked (Official Audio)
-{{< youtube id="SJzsPJNs8fg" title="Belle and Sebastian- Juliet Naked (Official Audio)" >}}<br>
+### Belle and Sebastian- "Juliet Naked" (Official Audio)
+{{< youtube id="SJzsPJNs8fg" title="Belle and Sebastian- "Juliet Naked" (Official Audio)" >}}<br>
 ### More Videos
 
-- [Belle and Sebastian- I Don't Know What You See in Me (Official Music Video)](https://www.youtube.com/watch?v=dgao0WD5g48)
-- [Belle and Sebastian- Give A Little Time (Official Audio)](https://www.youtube.com/watch?v=YaAoBKgasV8)
-- [Belle and Sebastian- When We Were Very Young (Official Audio)](https://www.youtube.com/watch?v=thV-lSwQJS8)
-- [Belle and Sebastian- Will I Tell You A Secret (Official Audio)](https://www.youtube.com/watch?v=L8YuF2lk2MU)
-- [Belle and Sebastian- So In The Moment (Official Audio)](https://www.youtube.com/watch?v=gzB1f4GBI3k)
-- [Belle and Sebastian- The Evening Star (Official Audio)](https://www.youtube.com/watch?v=jjUOpbSK8ys)
-- [Belle and Sebastian- When You’re Not With Me (Official Audio)](https://www.youtube.com/watch?v=qzhRidZTMy0)
+- [Belle and Sebastian- "Give A Little Time" (Official Audio)](https://www.youtube.com/watch?v=YaAoBKgasV8)
+- [Belle and Sebastian- "When We Were Very Young" (Official Audio)](https://www.youtube.com/watch?v=thV-lSwQJS8)
+- [Belle and Sebastian- "Will I Tell You A Secret" (Official Audio)](https://www.youtube.com/watch?v=L8YuF2lk2MU)
+- [Belle and Sebastian- "So In The Moment" (Official Audio)](https://www.youtube.com/watch?v=gzB1f4GBI3k)
+- [Belle and Sebastian- "The Evening Star" (Official Audio)](https://www.youtube.com/watch?v=jjUOpbSK8ys)
+- [Belle and Sebastian- "When You’re Not With Me" (Official Audio)](https://www.youtube.com/watch?v=qzhRidZTMy0)
 - [I Don't Know What You See In Me](https://www.youtube.com/watch?v=v2vxHl57syY)
-- [Belle and Sebastian- Do You Follow (Official Audio)](https://www.youtube.com/watch?v=eI3GFFR7bPE)
-- [Belle and Sebastian- When The Cynics Stare Back From The Wall (Official Audio)](https://www.youtube.com/watch?v=kMzfU26LXuM)
-- [Belle and Sebastian- Late Developers (Official Audio)](https://www.youtube.com/watch?v=Nsl09w8jTro)
+- [Belle and Sebastian- "Do You Follow" (Official Audio)](https://www.youtube.com/watch?v=eI3GFFR7bPE)
+- [Belle and Sebastian- "When The Cynics Stare Back From The Wall" (Official Audio)](https://www.youtube.com/watch?v=kMzfU26LXuM)
+- [Belle and Sebastian- "Late Developers" (Official Audio)](https://www.youtube.com/watch?v=Nsl09w8jTro)
+- [Belle and Sebastian- "I Don't Know What You See in Me" (Official Music Video)](https://www.youtube.com/watch?v=dgao0WD5g48)
 
 ## Release Images
 {{< imageGrid >}}
@@ -88,5 +89,5 @@ What tends to give modern Belle and Sebastian albums so much texture and varianc
 | Format         | Vinyl LP Album Limited Edition (Orange) |
 | Label          | Matador |
 | Catalog Number | OLE1896LPE |
-| Notes | Gatefold sleeve with printed inner sleeve and lyric booklet  Sticker on shrink wrap reads 'Ltd Edition Orange Vinyl'  Catalog number on labels and back cover: OLE1896LP. Barcode 1 91401 18960 6 and catalogue number OLE1896LPE stickered on shrink wrap over original barcode 1 914011 896134 >. |
+| Notes | Gatefold sleeve with printed inner sleeve and lyric booklet  Sticker on shrink wrap reads 'Ltd Edition Orange Vinyl'  200 copies were retailed by Assai Records with an approved hand numbered Japanese style Obi under Assai Obi Editions.  Catalog number on labels and back cover: OLE1896LP. Barcode 1 91401 18960 6 and catalogue number OLE1896LPE stickered on shrink wrap over original barcode 1 914011 896134 >. |
 | Discogs URL    | [Belle & Sebastian - Late Developers](https://www.discogs.com/release/25756201-Belle-And-Sebastian-Late-Developers) |

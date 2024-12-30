@@ -15,23 +15,26 @@ cover:
 additional_images:
     - "https://i.discogs.com/QcY1Q54B-r0j2vXW0dIePNmoHeCPAxZMswFvLSXKtWc/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2Mjcz/MzA1LTE2MDYzODQ3/MzMtOTgwMC5qcGVn.jpeg"
     - "https://i.discogs.com/np0xo7CAkvuC-R3m1xqrHbGc9nz5UuldraYSmG7fBls/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2Mjcz/MzA1LTE2MDc1NTU4/NjMtNDA1NS5qcGVn.jpeg"
+    - "https://i.discogs.com/ULL6zB6kFIbYD8IZO2Lc0BC62ma6t_3Unr_Xg2fXfHU/rs:fit/g:sm/q:90/h:600/w:580/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2Mjcz/MzA1LTE2MDc1NTg1/OTYtNjgyOC5qcGVn.jpeg"
+    - "https://i.discogs.com/BEFQDoH7DTWqE2L6z09LJPd4UJuIt1WNs9Aw6Fhn5Ws/rs:fit/g:sm/q:90/h:600/w:591/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2Mjcz/MzA1LTE2MDc1NTg1/OTctNDA0My5qcGVn.jpeg"
     - "https://i.discogs.com/pkmej0JBYSxvWw1iW99BjGfmVWK5yJdW34xuMdOTTtg/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2Mjcz/MzA1LTE2MDc1NTU4/NjQtMTg5Ni5qcGVn.jpeg"
     - "https://i.discogs.com/Bz2LXCXvpsTptfwumNYLGOfu3-5DVkxVscRPp5tkZ4U/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2Mjcz/MzA1LTE2MDc1NTU4/NjQtNjU5OC5qcGVn.jpeg"
+    - "https://i.discogs.com/eu5WDNUonYfXS7SeBzd2-AacZImyH0rkxjgXp6pLaFw/rs:fit/g:sm/q:90/h:600/w:376/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2Mjcz/MzA1LTE2MDY0MTYw/MzQtNDYzMi5qcGVn.jpeg"
+    - "https://i.discogs.com/fmTN60DPKGXDwm1dVhNZmyiFObe6xFjrgcDZVUPUKIw/rs:fit/g:sm/q:90/h:600/w:429/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2Mjcz/MzA1LTE2NDUyNzc3/MTMtNzQwMS5qcGVn.jpeg"
+    - "https://i.discogs.com/zcvwrMRCy-l1myD31mtgv6mIsUPfE0LQoLbhRrJqMYA/rs:fit/g:sm/q:90/h:600/w:426/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2Mjcz/MzA1LTE2NDUyNzc3/MTMtODYwOS5qcGVn.jpeg"
     - "https://i.discogs.com/_-txqu-dswdDDOZm2k-PWwUQevnKvy4iG-qwoEkOHAQ/rs:fit/g:sm/q:90/h:593/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2Mjcz/MzA1LTE2MDY0OTEy/OTUtMjgyMC5qcGVn.jpeg"
     - "https://i.discogs.com/hWLLWHgZjE5BCOZuOb6dfQr6d6sbp9xZLIx19l8c_zY/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2Mjcz/MzA1LTE2MDY0OTEy/OTUtOTgyOC5qcGVn.jpeg"
-    - "https://i.discogs.com/XxlSKdi64i0qTyO-ZhEOZfcmMr4RsREI73_mEgT_k8g/rs:fit/g:sm/q:90/h:620/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2Mjcz/MzA1LTE2MDc1NTg1/OTYtNjgyOC5qcGVn.jpeg"
-    - "https://i.discogs.com/j04UkoDINpDhKM3BeDhVn4wnCCKYVJE8PGvFIzkEJr8/rs:fit/g:sm/q:90/h:608/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2Mjcz/MzA1LTE2MDc1NTg1/OTctNDA0My5qcGVn.jpeg"
-    - "https://i.discogs.com/VNQc8HedEQsrr7DkLHMdivybwPVCM_bFQZSTXM1yF0U/rs:fit/g:sm/q:90/h:955/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2Mjcz/MzA1LTE2MDY0MTYw/MzQtNDYzMi5qcGVn.jpeg"
-    - "https://i.discogs.com/Zf1xg823xXfyfn-wcr8xSJPmP_0E3_S3gSDY_eUuE7A/rs:fit/g:sm/q:90/h:837/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2Mjcz/MzA1LTE2NDUyNzc3/MTMtNzQwMS5qcGVn.jpeg"
-    - "https://i.discogs.com/47qB3w88Z6Ym4bcnahQWM9esUnHsgSfkUZ1Kq9aNbkM/rs:fit/g:sm/q:90/h:843/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2Mjcz/MzA1LTE2NDUyNzc3/MTMtODYwOS5qcGVn.jpeg"
 genres: ["Rock"]
 styles: ["New Wave", "Pop Rock"]
 ---
 
-Boy is the debut studio album by Irish rock band U2. It was produced by Steve Lillywhite and was released on 20 October 1980 by Island Records. Boy contains songs from the band's 40-song repertoire at the time, including two tracks that were re-recorded from their original versions on the group's debut release, the EP Three.
-Boy was recorded from July to September 1980 at Dublin's Windmill Lane Studios, which became U2's chosen recording location during the 1980s. It was their first time working with Lillywhite, who employed non-standard production techniques, such as recording drummer Larry Mullen Jr. playing in a stairwell, and recording smashed bottles and cutlery skimmed against a spinning bicycle wheel. The band found Lillywhite to be very encouraging and creative, and he subsequently became a frequent producer of their recorded work. Thematically, the album's lyrics reflect on adolescence, innocence, and the passage into adulthood, themes represented on its cover artwork through the photo of a young boy's face.Boy received generally positive reviews and included one of U2's first singles to receive airplay on US radio, "I Will Follow". The release was followed by the band's first tour of continental Europe and the US, the Boy Tour. The album peaked on the UK chart at number 52 in August 1981 and in the US at number 63. In 2003, Boy was ranked 417th on Rolling Stone's list of "The 500 Greatest Albums of All Time". In 2008, a remastered edition of the record was released.
+One of the greatest debut albums of the 1980s—which is saying <i>a lot</i>, given how bountiful that decade turned out to be—U2’s <i>Boy</i> is a burst of pent-up energy and ambition. Released at a moment in which punk, post-punk, and New Wave were swirling and collapsing into one another, <i>Boy</i> throws all of that noise all together in a mix of jagged guitars, jubilant rhythms and good old-fashioned angry-young-man <i>ennui</i>. It’s not U2’s most hit-packed record, nor its most fully formed, but <i>Boy</i> may simply be the most <i>U2</i>-ish album U2 ever made: The sound of four musicians confused about where they’re going next, but supremely confident they’ll get there—a mindset that would come to define the band in the decades ahead.
 
+Back in 1980, the members of U2—vocalist Bono, guitarist the Edge, bassist Adam Clayton and drummer Larry Mullen Jr.—were brash upstarts with a reputation for fiery gigs, but little in the way of in-studio experience. The group had made an inauspicious debut with 1979’s <i>Three</i>, a quickly recorded EP, and followed it up with a handful of singles, most notably “11 O’Clock Tick Tock”, a gnarly post-punk rave-up so indebted to The Cure, it likely raised Robert Smith’s eyebrows (as well as his hairdo).
 
+<i>Boy</i> would be the group’s most grown-up effort yet. Produced by Steve Lillywhite—who’d caught the group during a late-1970s live show in Ireland, and who’d work with the group repeatedly in the coming decades—the album captures 20-year-old Bono’s anguished post-adolescent worldview. “Out of Control”, with its stomping drums and dreamy guitars, is a frenzied lament for the end of childhood, while “An Cat Dubh” is an appropriately throbbing tale of young lust. On later U2 albums, you can hear Bono laboring—sometimes painfully so—to make sure his words are pointed, and that his message rings clear. The lyrics on <i>Boy</i>, however, capture a frenzied state of mind, as though Bono was collecting his thoughts at the exact moment he stepped up to the mic.
+
+Nowhere is that urgency felt more strongly than on “I Will Follow”, the album’s opening track, and its most indelible. Built on the Edge’s scraping guitars and Mullen and Clayton’s vicious groove, ”I Will Follow” is part stirring rock-pop anthem, part mission statement—a delirious promise of loyalty that would become U2’s first undeniable hit song. “I was on the outside,” Bono sings as the song gets underway. Thanks to <i>Boy</i>, he wouldn’t be out there for long much longer—and neither would U2.
         
         
     
@@ -49,13 +52,22 @@ Boy was recorded from July to September 1980 at Dublin's Windmill Lane Studios, 
 9. Another Time, Another Place
 10. The Electric Co.
 11. Shadows And Tall Trees
-12. Untitled
+12. Saturday Night (snipped)
 
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/boy-deluxe-edition/1440793935" >}}<br>
+{{< applemusic url="https://music.apple.com/gb/album/boy/1443189101" >}}<br>
 
 
+## Videos
+### U̲2  - Boy (The full album 1980)
+{{< youtube id="5uMqPsmbMHI" title="U̲2  - Boy (The full album 1980)" >}}<br>
+### More Videos
 
+- [U2 - I Will Follow](https://www.youtube.com/watch?v=-sLzV00gNUo)
+- [U2 - Wide Awake in America (1985) - Full Album](https://www.youtube.com/watch?v=7cOtsrQABso)
+- [Twilight (Remastered 2008)](https://www.youtube.com/watch?v=ZGWF9xBonDk)
+- [An Cat Dubh (Remastered 2008)](https://www.youtube.com/watch?v=jI9GV3rAOQ4)
+- [U2 - I Will Follow (Video)](https://www.youtube.com/watch?v=-sLzV00gNUo)
 
 ## Release Images
 {{< imageGrid >}}
@@ -67,5 +79,5 @@ Boy was recorded from July to September 1980 at Dublin's Windmill Lane Studios, 
 | Format         | Vinyl LP Album Record Store Day Limited Edition Reissue Remastered (White, 40th Anniversary Edition) |
 | Label          | Island Records |
 | Catalog Number | 0749627 |
-| Notes | 40th Anniversary Edition. Record Store Day release for Black Friday 2020. Limited to 10,000 copies. Double-sided poster and lyrics / credit insert included.   Made In Germany. |
+| Notes | 40th Anniversary Edition. Record Store Day release for Black Friday 2020. Limited to 10,000 copies. Double-sided poster and lyrics / credit insert included.   From u2songs.com: "This reissued Boy saw the return of a 12th track to the end of the album, a 35-second instrumental which had only appeared on early pressings of the original vinyl and had never been released on CD. Although not indicated as such on the reissue’s track listing, this instrumental is a snippet of the song “Saturday Night,” an early version of “Fire” from the October album."  Made In Germany. |
 | Discogs URL    | [U2 - Boy](https://www.discogs.com/release/16273305-U2-Boy) |

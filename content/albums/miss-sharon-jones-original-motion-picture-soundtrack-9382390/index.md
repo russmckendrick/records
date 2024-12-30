@@ -23,7 +23,7 @@ genres: ["Funk / Soul", "Stage & Screen"]
 styles: ["Funk", "Soul", "Soundtrack"]
 ---
 
-Barbara Kopple’s documentary <i>Miss Sharon Jones!</i> doubles as an empowering primer to the Brooklyn soul legend. Jones and her unbeatable band sizzle through such signature cuts as the darkly funky “I Learned the Hard Way” and the horn-kicked “100 Days, 100 Nights,” both steeped in romantic remorse. The soundtrack closes with the stunning exclusive track “I’m Still Here,” capturing Jones at her most autobiographical. The movie, which follows Jones’ 2013 struggle with cancer, became even more bittersweet after her death three years later.
+Barbara Kopple’s documentary <i>Miss Sharon Jones!</i> doubles as an empowering primer to the Brooklyn soul legend. Jones and her unbeatable band sizzle through such signature cuts as the darkly funky “I Learned the Hard Way” and the horn-kicked “100 Days, 100 Nights”, both steeped in romantic remorse. The soundtrack closes with the stunning exclusive track “I’m Still Here”, capturing Jones at her most autobiographical. The film, which follows Jones’ 2013 struggle with cancer, became even more bittersweet after her death three years later.
     
     
 
@@ -54,22 +54,40 @@ Barbara Kopple’s documentary <i>Miss Sharon Jones!</i> doubles as an empowerin
 
 
 ## Videos
-### Sharon Jones & the Dap-Kings I'm Still Here
-{{< youtube id="XQOYAjd8icg" title="Sharon Jones & the Dap-Kings I'm Still Here" >}}<br>
+### Sharon Jones & the Dap-Kings "I'm Still Here"
+{{< youtube id="XQOYAjd8icg" title="Sharon Jones & the Dap-Kings "I'm Still Here"" >}}<br>
 ### More Videos
 
 - [Tell Me](https://www.youtube.com/watch?v=PJDlVXuonI4)
-- [Sharon Jones & The Dap-Kings - Retreat! (Official Music Video)](https://www.youtube.com/watch?v=PrOYkHjdpdM)
+- [Sharon Jones & The Dap-Kings - "Retreat!" (Official Music Video)](https://www.youtube.com/watch?v=PrOYkHjdpdM)
 - [New Shoes](https://www.youtube.com/watch?v=TScb8PRPc-8)
 - [Longer and Stronger Sharon Jones](https://www.youtube.com/watch?v=KWKsATGHWao)
 - [Sharon Jones &amp; the Dap-Kings - If You Call](https://www.youtube.com/watch?v=J3kYZgeYhC4)
-- [Sharon Jones & The Dap-Kings 100 Days, 100 Nights](https://www.youtube.com/watch?v=8ouI5KcyHfE)
-- [Sharon Jones & the Dap-Kings - People Don't Get What They Deserve](https://www.youtube.com/watch?v=VmLl21gZjfM)
+- [Sharon Jones & The Dap-Kings "100 Days, 100 Nights"](https://www.youtube.com/watch?v=8ouI5KcyHfE)
+- [Sharon Jones & the Dap-Kings - "People Don't Get What They Deserve"](https://www.youtube.com/watch?v=VmLl21gZjfM)
 - [Humble Me](https://www.youtube.com/watch?v=pOWmDAz4Ep0)
 - [I'll Still Be True](https://www.youtube.com/watch?v=ubhGej6RTxc)
-- [Sharon Jones & the Dap-Kings When I Come Home](https://www.youtube.com/watch?v=96EL_f1Nugc)
+- [Sharon Jones & the Dap-Kings "When I Come Home"](https://www.youtube.com/watch?v=96EL_f1Nugc)
 - [Sharon Jones and the Dap Kings - Let Them Knock](https://www.youtube.com/watch?v=Pf6gyRI1zqg)
-- [Sharon Jones & the Dap-Kings Stranger To My Happiness](https://www.youtube.com/watch?v=IlPE1rEdAdI)
+- [Sharon Jones & the Dap-Kings "Stranger To My Happiness"](https://www.youtube.com/watch?v=IlPE1rEdAdI)
+- [Keep on Looking](https://www.youtube.com/watch?v=iPk3Wg5h978)
+- [Mama Don't Like My Man](https://www.youtube.com/watch?v=a5wuTGxavQI)
+- [Sharon Jones & The Dap-Kings - I learned the hard way](https://www.youtube.com/watch?v=N2enjrlMXkY)
+- [Slow Down, Love](https://www.youtube.com/watch?v=S3Fvc6D0GUs)
+- [Sharon Jones & The Dap-Kings - Genuine Pts 1 & 2](https://www.youtube.com/watch?v=kyLHay-wHic)
+- [Sharon Jones & the Dap-Kings "I'm Still Here"](https://www.youtube.com/watch?v=XQOYAjd8icg)
+- [Tell Me](https://www.youtube.com/watch?v=PJDlVXuonI4)
+- [Sharon Jones & The Dap-Kings - "Retreat!" (Official Music Video)](https://www.youtube.com/watch?v=PrOYkHjdpdM)
+- [New Shoes](https://www.youtube.com/watch?v=TScb8PRPc-8)
+- [Longer and Stronger Sharon Jones](https://www.youtube.com/watch?v=KWKsATGHWao)
+- [Sharon Jones &amp; the Dap-Kings - If You Call](https://www.youtube.com/watch?v=J3kYZgeYhC4)
+- [Sharon Jones & The Dap-Kings "100 Days, 100 Nights"](https://www.youtube.com/watch?v=8ouI5KcyHfE)
+- [Sharon Jones & the Dap-Kings - "People Don't Get What They Deserve"](https://www.youtube.com/watch?v=VmLl21gZjfM)
+- [Humble Me](https://www.youtube.com/watch?v=pOWmDAz4Ep0)
+- [I'll Still Be True](https://www.youtube.com/watch?v=ubhGej6RTxc)
+- [Sharon Jones & the Dap-Kings "When I Come Home"](https://www.youtube.com/watch?v=96EL_f1Nugc)
+- [Sharon Jones and the Dap Kings - Let Them Knock](https://www.youtube.com/watch?v=Pf6gyRI1zqg)
+- [Sharon Jones & the Dap-Kings "Stranger To My Happiness"](https://www.youtube.com/watch?v=IlPE1rEdAdI)
 - [Keep on Looking](https://www.youtube.com/watch?v=iPk3Wg5h978)
 - [Mama Don't Like My Man](https://www.youtube.com/watch?v=a5wuTGxavQI)
 - [Sharon Jones & The Dap-Kings - I learned the hard way](https://www.youtube.com/watch?v=N2enjrlMXkY)

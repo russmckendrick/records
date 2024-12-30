@@ -50,7 +50,7 @@ styles: ["Ska"]
 12. Get Up, Stand Up
 
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/protest-songs-1924-2012/1575774360" >}}<br>
+{{< applemusic url="https://music.apple.com/gb/album/protest-songs-1924-2012-bonus-track-version/1575774360" >}}<br>
 
 
 ## Videos

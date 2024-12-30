@@ -28,6 +28,12 @@ genres: ["Rock"]
 styles: ["Indie Rock"]
 ---
 
+Post Historic Monsters is the fourth album by Carter the Unstoppable Sex Machine. It reached No. 5 on the UK Charts becoming the band's second highest album after 1992 - The Love Album which reached No. 1. The album featured two singles "Lean On Me I Won't Fall Over", which reached No. 16 on the UK charts, and "Lenny And Terence," which reached number 40. The band recorded the album with co-producer and engineer Simon Painter and worked in a much more spontaneous approach than before, to an extent that even saw the band crafting songs from accidental pieces.
+The album shows the band working in new styles in attempt to "prove themselves" after the critical disdain that the band had started to pick up in late 1992. There are numerous other musical styles explored on the album besides the band's usual drum machine-based punk rock, and some of Jim Bob's lyrics had started to become more personal, sitting alongside tracks which are more traditionally politically or socially based. The album was a critical success, with critics complimenting the new approaches that the band had undertaken. In their lists of the top 50 albums of the year, NME named it 22nd whilst Select named it 46th. The band played the entire album live for the first time in Kentish Town in November 2009.
+
+
+    
+    
 
 
 ## Tracklisting
@@ -68,6 +74,16 @@ styles: ["Indie Rock"]
 - [Her Song](https://www.youtube.com/watch?v=UxB5VKSmf0I)
 - [Commercial Fucking Suicide - Carter USM](https://www.youtube.com/watch?v=vWj8teXRXs8)
 - [Stuff the Jubilee (1977)](https://www.youtube.com/watch?v=ckYD4byWnmQ)
+- [CARTER USM-Evil](https://www.youtube.com/watch?v=bzXkiDog0bo)
+- [CARTER USM-Mid Day Crisis](https://www.youtube.com/watch?v=5QRIdbIUZPc)
+- [Carter-Suicide Isn't Painless](https://www.youtube.com/watch?v=jpKtxEE4KPQ)
+- [Carter The Unstoppable Sex Machine - Post Historic Monsters (1993) full album](https://www.youtube.com/watch?v=9FSk38EfaGE)
+- [Carter U.S.M. - Glam Rock Cops (Official Music Video)](https://www.youtube.com/watch?v=vOQsW05JG5k)
+- [Hit](https://www.youtube.com/watch?v=fje9NmMihpM)
+- [Always the Bridesmaid Never the Bride](https://www.youtube.com/watch?v=eyvLhAZsrLY)
+- [Her Song](https://www.youtube.com/watch?v=UxB5VKSmf0I)
+- [Commercial Fucking Suicide - Carter USM](https://www.youtube.com/watch?v=vWj8teXRXs8)
+- [Stuff the Jubilee (1977)](https://www.youtube.com/watch?v=ckYD4byWnmQ)
 
 ## Release Images
 {{< imageGrid >}}
@@ -75,6 +91,7 @@ styles: ["Indie Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
+| Wikipedia URL | https://en.wikipedia.org/wiki/Post_Historic_Monsters |
 | Format         | Vinyl 2× LP Album Compilation Limited Edition (Clear Vinyl, Red Vinyl) |
 | Label          | Chrysalis Catalogue |
 | Catalog Number | CRV1661 |

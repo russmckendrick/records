@@ -16,7 +16,7 @@ additional_images:
     - "https://i.discogs.com/gCJ6oaZwn7V6UOB_ImZ7OaQCRJOBCdmPPOtgdjtfpZo/rs:fit/g:sm/q:90/h:299/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNTc1/MzM4LTE1MTg3ODYx/NzMtMzUyNS5qcGVn.jpeg"
     - "https://i.discogs.com/uM7yZPKODj31wHFHTJ7qNUVen1QsE8PTzlFAgEToorI/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNTc1/MzM4LTE1MTg3ODYx/NzQtMTQwNy5qcGVn.jpeg"
     - "https://i.discogs.com/IJAHvYypF-vzWxbs5VGzL25WLTVW54oay4esEtlB9zE/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNTc1/MzM4LTE1MTg3ODYz/MzAtMzk0Mi5qcGVn.jpeg"
-    - "https://i.discogs.com/QCqUPJ90YIDP2RTJFCfL6uP_mLw_D06bfT9AsXHQdEk/rs:fit/g:sm/q:90/h:602/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNTc1/MzM4LTE1MTg3ODYz/MzItNTQwNS5qcGVn.jpeg"
+    - "https://i.discogs.com/8ub34eM5mjw8NoOaVd7MVBhqnthU-oBMJxgEY7v5U2A/rs:fit/g:sm/q:90/h:600/w:597/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNTc1/MzM4LTE1MTg3ODYz/MzItNTQwNS5qcGVn.jpeg"
     - "https://i.discogs.com/okbXvqwBggh2m5n3D9Vs2_aZCfi1YvnS7-9DeYtbt14/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNTc1/MzM4LTE1MTg3ODYz/MzEtNDM5Ni5qcGVn.jpeg"
     - "https://i.discogs.com/jVLJoVIhVIJisx3SUg4GzD8HCBdXpU-R_Jcp1n1ERSU/rs:fit/g:sm/q:90/h:586/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNTc1/MzM4LTE1MTg3ODYz/MzItNzkzMS5qcGVn.jpeg"
 genres: ["Rock", "Blues"]
@@ -24,6 +24,8 @@ styles: ["Blues Rock"]
 ---
 
 A Deeper Cut is the third studio album by British rock band the Temperance Movement.
+
+
     
     
 

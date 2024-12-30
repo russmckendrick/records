@@ -4,6 +4,7 @@ artist_name: "Metallica"
 artist: "metallica"
 album_name: "Master Of Puppets"
 date: 2016-10-25T14:09:35.000000Z
+release_date: "1986-03-03"
 release_id: "7260112"
 slug: "master-of-puppets-7260112"
 hideSummary: true
@@ -14,9 +15,9 @@ cover:
 additional_images:
     - "https://i.discogs.com/2qkVug9ypdqLEAYXFNaJ8IV0OB55clZ_lIjTBHvXwiE/rs:fit/g:sm/q:90/h:587/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcyNjAx/MTItMTUyMjU5NzE4/NS04NjcxLmpwZWc.jpeg"
     - "https://i.discogs.com/tKGaYto188f9H0nroKIs440yEcTkvEhN6oehixB1-MQ/rs:fit/g:sm/q:90/h:585/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcyNjAx/MTItMTUyMjU5NjYy/Ni0zMjA4LmpwZWc.jpeg"
-    - "https://i.discogs.com/w8kZgOqh8sUW6bkzCC54VenvUqv2ouspqsljAZqH6H0/rs:fit/g:sm/q:90/h:604/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcyNjAx/MTItMTUyMjU5NzE0/Ni01NDg1LmpwZWc.jpeg"
+    - "https://i.discogs.com/Gl_v6vn0CGydOog97a8MQpik1DFJVVJHmstSCyr3b5w/rs:fit/g:sm/q:90/h:600/w:595/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcyNjAx/MTItMTUyMjU5NzE0/Ni01NDg1LmpwZWc.jpeg"
     - "https://i.discogs.com/ab2wiBMfQ0rAF6o0ykRnUGB54Z_PIX--usfgkfVxW3o/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcyNjAx/MTItMTUyMjU5NzE1/NC0zNDI2LmpwZWc.jpeg"
-    - "https://i.discogs.com/Ko-uRh6sGFYsZUA8iGgXR3KYsuYpzoJfuJXGJfSV5lU/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcyNjAx/MTItMTUyMjU5NjQ5/MS03MDAyLmpwZWc.jpeg"
+    - "https://i.discogs.com/U06Q0n0ewV8fYVxnvHmFo7fNbPmZ40B6MqteYph36ag/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcyNjAx/MTItMTUyMjU5NjQ5/MS03MDAyLmpwZWc.jpeg"
     - "https://i.discogs.com/P2qotiLPzyYyXvdK_vSjYj1p6mW5iOR1gJ8vRHsovzw/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcyNjAx/MTItMTUyMjU5NjQ4/MC00NjMzLmpwZWc.jpeg"
     - "https://i.discogs.com/xwUjnbTUUcfv2Gt8E1YPgZTk0yjQMYI5eTgw8tREXD0/rs:fit/g:sm/q:90/h:91/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcyNjAx/MTItMTY3MzM2Njgz/Ny0yOTg4LmpwZWc.jpeg"
     - "https://i.discogs.com/FPsLMMnk0l31DjP8ityNNXKlALCWVGzybdTJMklAqqE/rs:fit/g:sm/q:90/h:224/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcyNjAx/MTItMTY3MzM2NzAw/NC0xMzU3LmpwZWc.jpeg"
@@ -24,12 +25,11 @@ genres: ["Rock"]
 styles: ["Thrash", "Heavy Metal"]
 ---
 
-Master of Puppets is the third studio album by American heavy metal band Metallica, released on March 3, 1986, by Elektra Records. Recorded in Denmark at Sweet Silence Studios with producer Flemming Rasmussen, it was the band's last album to feature bassist Cliff Burton, who died in a bus accident in Sweden during the album's promotional tour.
-The album's artwork, designed by Metallica and Peter Mensch and painted by Don Brautigam, depicts a cemetery field of white crosses tethered to strings, manipulated by a pair of hands in a clouded, blood-red sky, with a fiery orange glow on the horizon. Instead of releasing a single or video in advance of the album's release, Metallica embarked on a five-month American tour in support of Ozzy Osbourne. The European leg was canceled after Burton's death in September 1986, and the band returned home to audition a new bassist.
-Master of Puppets peaked at number 29 on the Billboard 200 and received widespread acclaim from critics, who praised its music and political lyrics. It is widely considered to be one of the greatest and most influential metal albums of all time, and is credited with consolidating the American thrash metal scene. It was certified six times platinum by the RIAA in 2003 for shipping six million copies in the United States, and was later certified six times platinum by Music Canada and platinum by the BPI. In 2015, Master of Puppets became the first metal recording to be selected by the Library of Congress for preservation in the National Recording Registry for being "culturally, historically, or aesthetically significant."
+<b>100 Best Albums: No. 69</b> During a 1986 tour stop in Houston, Metallica visited a local record store to promote <i>Master of Puppets</i>. There were two ways of getting to the store from the hotel: a van and a limousine. Riding in the limo would’ve been an affront to the band’s ethic. But riding in the van—without air conditioning, at the height of the Houston summer—would’ve been an exercise in pride. With <i>Ride the Lightning</i>, the band found themselves caught between the worlds of underground purity and mainstream recognition. <i>Master of Puppets</i> was even more popular, and the music even more intense: in speed, in aggression, in its suspicion and hostility toward forces of control. It’s an old question in rock music: How can you scream along to songs about the perils of conformity without becoming a product of it? The band took the limo, but they blasted the Misfits on the way, as though to keep at bay what everyone already knew: Their days in vans were numbered.
 
-
-    
+In MTV footage from around the album’s release, Lars Ulrich tells an interviewer that Metallica are still four idiots trying to stay in tune and on time. The modesty isn’t entirely false: For all its precision, <i>Master of Puppets</i> still feels like the product of the basement or garage. And where the boys’ nights out of Van Halen and Mötley Crüe promise relief (through girls, through drugs, through sheer lack of inhibition), Metallica play with the restless intensity of someone who can’t catch a break from their spiral of negative thoughts, whether about war (“Disposable Heroes”), addiction (“Master of Puppets”), religious evangelism (”Leper Messiah”) or the failure of mental healthcare to treat those who need it most (“Welcome Home (Sanitarium)”). They may sound epic, but their concerns are almost violently earthly. That the album’s sole moment of reflection is named after a constellation makes sense (“Orion”): On <i>Master of Puppets</i>, hell is here and relief is a long way off.
+        
+        
     
 
 
@@ -48,14 +48,17 @@ Master of Puppets peaked at number 29 on the Billboard 200 and received widespre
 
 
 ## Videos
-### METALLICA - Master Of Puppets (Vinilo, LP, Album, Reissue, Remastered, 180 Gram)
-{{< youtube id="QPmVvAGPoIo" title="METALLICA - Master Of Puppets (Vinilo, LP, Album, Reissue, Remastered, 180 Gram)" >}}<br>
+### Battery (Remastered)
+{{< youtube id="a_ITtP033RI" title="Battery (Remastered)" >}}<br>
 ### More Videos
 
-- [METALLICA (original vs. remaster) Master of Puppets メタリカ メタル・マスター](https://www.youtube.com/watch?v=2ZkgvRbcAiw)
-- [METALLICA Master Of Puppets (new rip in desc)](https://www.youtube.com/watch?v=zslV7ZSJH6M)
-- [Master of Puppets REMASTERED (official album reissue 2017/2018!) Will it sound BETTER as promised?](https://www.youtube.com/watch?v=k7pXAv3cL9A)
-- [Metallica - Master of Puppets Remastered HQ](https://www.youtube.com/watch?v=QAOBbPnI5-g)
+- [Master of Puppets (Remastered)](https://www.youtube.com/watch?v=E0ozmU9cJDg)
+- [The Thing That Should Not Be (Remastered)](https://www.youtube.com/watch?v=DoHk21aGHas)
+- [Welcome Home (Sanitarium) (Remastered)](https://www.youtube.com/watch?v=ZiIc0HuJ78Q)
+- [Disposable Heroes (Remastered)](https://www.youtube.com/watch?v=dzssbzIsmqU)
+- [Leper Messiah (Remastered)](https://www.youtube.com/watch?v=JYALpvUGNk8)
+- [Orion (Remastered)](https://www.youtube.com/watch?v=-OxslxSG48Q)
+- [Damage, Inc. (Remastered)](https://www.youtube.com/watch?v=DdekZoYoamE)
 
 ## Release Images
 {{< imageGrid >}}

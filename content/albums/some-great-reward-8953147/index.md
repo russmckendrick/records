@@ -4,6 +4,7 @@ artist_name: "Depeche Mode"
 artist: "depeche-mode"
 album_name: "Some Great Reward"
 date: 2017-02-15T18:28:47.000000Z
+release_date: "1984-09-24"
 release_id: "8953147"
 slug: "some-great-reward-8953147"
 hideSummary: true
@@ -16,22 +17,23 @@ additional_images:
     - "https://i.discogs.com/d31PrprhX2s8ZlKatBLiFJDhlyFs9uL9SjuZ0nnBfzw/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg5NTMx/NDctMTY1ODY0NzQ3/MC0zNDA5LmpwZWc.jpeg"
     - "https://i.discogs.com/OxJOTJa6qwIGjMFe0e3OXqgFoLzmSb-EEPPNK69LKZY/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg5NTMx/NDctMTY1ODY0NzQ3/MS02MTMxLmpwZWc.jpeg"
     - "https://i.discogs.com/UKTnVMYQiC7S_tXf7WPfi9qB1r3tX31V9Tf_tTeKuYM/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg5NTMx/NDctMTY1ODY0NzQ3/MC0yMDk3LmpwZWc.jpeg"
-    - "https://i.discogs.com/vuBUlkEAusD2Mwt9h3QU1CaNF5HsAu2qo7eiEszqZ-Q/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg5NTMx/NDctMTY1ODY0NzQ3/MC05NTE3LmpwZWc.jpeg"
-    - "https://i.discogs.com/Ql_j2piayUqEA0DgTphG9fTpNPa_cuzY2fQnZuRh9UE/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg5NTMx/NDctMTY1ODY0NzQ3/MC05NDg2LmpwZWc.jpeg"
     - "https://i.discogs.com/KpOpCrW8IF4zNk6fcdcuFOwoa1c5uYucCJo1FRhL2d8/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg5NTMx/NDctMTY1ODY0NzQ3/MS01MTYxLmpwZWc.jpeg"
     - "https://i.discogs.com/XoW9B6xOd6bypjcMtKMJ8w5zeUZyX-jfRzrH3B-oyiw/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg5NTMx/NDctMTY1ODY0NzQ3/MS04NzMyLmpwZWc.jpeg"
     - "https://i.discogs.com/V52f9AjVKSJG2cFncbw_7wQ3n04BVFk1EWBKsI62kEY/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg5NTMx/NDctMTU3MDIzMzg1/MS04MDAxLmpwZWc.jpeg"
+    - "https://i.discogs.com/fDzwbkBbfiXgBRF65JGSK1zM3sIDTf0LhlgTEyaIsrs/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg5NTMx/NDctMTQ3NzIzNDcy/Mi00MzIxLmpwZWc.jpeg"
+    - "https://i.discogs.com/G6a2wS9rbRwE_AxhUoL8ycaV0bSuWfFT894agd8lGUY/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg5NTMx/NDctMTQ3NzIzNDcy/Ni05MzUxLmpwZWc.jpeg"
 genres: ["Electronic"]
 styles: ["Synth-pop"]
 ---
 
-Some Great Reward is the fourth studio album by English electronic music band Depeche Mode, released on 24 September 1984 by Mute Records. The album peaked at number five in the United Kingdom and number 51 in the United States, and was supported by the Some Great Reward Tour. This also saw the band using samplers, much like they did in their previous album Construction Time Again, which they would continue to use in their following albums Black Celebration and Music for the Masses.
+Some Great Reward is the fourth studio album by the English electronic music band Depeche Mode, released on 24 September 1984 by Mute Records. The album peaked at number five in the United Kingdom and number 51 in the United States, and was supported by the Some Great Reward Tour. This also saw the band using samplers, much like they did in their previous studio album Construction Time Again (1983), which they would continue to use in their following studio albums Black Celebration (1986), Music for the Masses (1987) and Violator (1990).
 Additionally it also saw the band addressing more personal themes such as sexual politics ("Master and Servant"), adulterous relationships ("Lie to Me"), and arbitrary divine justice ("Blasphemous Rumours").
 "Blasphemous Rumours" was released as a double A-side with "Somebody".
 This was the first album where they achieved chart success in the US with the single "People Are People" which reached No. 13 on the charts in mid-1985 on the Billboard Hot 100, and was a Top 20 hit in Canada. It was also the first album that peaked at a higher position on a chart that was not from the band's home country as it peaked at No. 1 in Germany.
 
 
-    
+        
+        
     
 
 
@@ -47,13 +49,16 @@ This was the first album where they achieved chart success in the US with the si
 9. Blasphemous Rumours (6:21)
 
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/some-great-reward-deluxe-edition/665413158" >}}<br>
+{{< applemusic url="https://music.apple.com/gb/album/some-great-reward/665403327" >}}<br>
 
 
 ## Videos
 ### Depeche Mode - Some Great Reward [FULL ALBUM]
 {{< youtube id="8gCF4xdVQV8" title="Depeche Mode - Some Great Reward [FULL ALBUM]" >}}<br>
+### More Videos
 
+- [Depeche Mode - Some Great Reward (full album)](https://www.youtube.com/watch?v=pELObWd223Y)
+- [dave doesn't remember some great reward](https://www.youtube.com/watch?v=2wRK07nfs9c)
 
 ## Release Images
 {{< imageGrid >}}

@@ -12,19 +12,19 @@ cover:
     alt: "Get A Grip by Aerosmith"
     caption: "Get A Grip by Aerosmith"
 additional_images:
-    - "https://i.discogs.com/s8unlU8-j8YxBpiZz56dFLNaRKzGkn7pOEdS-xM53tw/rs:fit/g:sm/q:90/h:604/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk2ODUy/MDMtMTUyNDY3Nzcz/Mi0xNDMxLmpwZWc.jpeg"
+    - "https://i.discogs.com/bLwaXGJzdl67EwGf16UekOCABgejnp6DRylq-AhLTrc/rs:fit/g:sm/q:90/h:600/w:595/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk2ODUy/MDMtMTUyNDY3Nzcz/Mi0xNDMxLmpwZWc.jpeg"
     - "https://i.discogs.com/fuVeay6D0CNPV9U119Pzqvyf47M34YKTBc722l9xzQ0/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk2ODUy/MDMtMTUyNDY3Nzcz/MS03NzY0LmpwZWc.jpeg"
     - "https://i.discogs.com/UhMr2y9JDzru3mTAvB5Ih88dOhBhQtyrcl7JzF2TV_c/rs:fit/g:sm/q:90/h:587/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk2ODUy/MDMtMTUyNDY3Nzc3/Mi04MTEyLmpwZWc.jpeg"
-    - "https://i.discogs.com/fOsaktlkz0RzXz-lNMJYCWs70DEdbbnDCMDyYriTv1E/rs:fit/g:sm/q:90/h:609/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk2ODUy/MDMtMTUyNDY3Nzc3/Mi01NjA2LmpwZWc.jpeg"
-    - "https://i.discogs.com/dvwh_cJu6rmrEbaliN7HKfRMGDvOryDRcuqC86bDzYY/rs:fit/g:sm/q:90/h:607/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk2ODUy/MDMtMTUyNDY3Nzc3/NS0xODIwLmpwZWc.jpeg"
+    - "https://i.discogs.com/Lh2t-58PNmN6FT0FkUfqAeDKGTOVicdEH7KPQ8VRScg/rs:fit/g:sm/q:90/h:600/w:590/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk2ODUy/MDMtMTUyNDY3Nzc3/Mi01NjA2LmpwZWc.jpeg"
+    - "https://i.discogs.com/RTVSk0el7qtPdnDa5WqOF6zQ-PSNXGfkHGzDUrOTDF8/rs:fit/g:sm/q:90/h:600/w:592/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk2ODUy/MDMtMTUyNDY3Nzc3/NS0xODIwLmpwZWc.jpeg"
     - "https://i.discogs.com/u2W7jTzPpmpwhgrghtVjJgDFv-bkR90EFvzRBnO7c8g/rs:fit/g:sm/q:90/h:589/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk2ODUy/MDMtMTUyNDY3Nzc3/NC0zMTM2LmpwZWc.jpeg"
     - "https://i.discogs.com/r8VqJqcksiUy8c9EjWHU-tAuMfMBbciiXJo-xXfePwI/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk2ODUy/MDMtMTQ5MDg4OTQ0/OC02NDYzLmpwZWc.jpeg"
-    - "https://i.discogs.com/U5Ofl_ibVdyDuYUs0XiFH2xwS1POr1fSnFz8CdNooas/rs:fit/g:sm/q:90/h:601/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk2ODUy/MDMtMTQ5MDg4OTQ0/OS0xOTk4LmpwZWc.jpeg"
-    - "https://i.discogs.com/Y3amiBXOXQP_8ENmad1dLZWE_3t2OcWjHamh0QmC5m0/rs:fit/g:sm/q:90/h:601/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk2ODUy/MDMtMTQ5MDg4OTQ1/MC0yNzY1LmpwZWc.jpeg"
-    - "https://i.discogs.com/p_zL3urbBTPVjXK9568soCz2P1Yk9fWBHJW-fq11fTc/rs:fit/g:sm/q:90/h:601/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk2ODUy/MDMtMTQ5MDg4OTQ0/OS03OTkxLmpwZWc.jpeg"
+    - "https://i.discogs.com/a8if2b7usthEq3_z-UbYxk0a7rXvAg1uINZBjj_DGS4/rs:fit/g:sm/q:90/h:600/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk2ODUy/MDMtMTQ5MDg4OTQ0/OS0xOTk4LmpwZWc.jpeg"
+    - "https://i.discogs.com/yCyH86dVTVPVMuXJNX3iaObqTzH_70fWVUhRxZeR8MY/rs:fit/g:sm/q:90/h:600/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk2ODUy/MDMtMTQ5MDg4OTQ1/MC0yNzY1LmpwZWc.jpeg"
+    - "https://i.discogs.com/TIokba4bayJpZ4Tss9DgkruI3s3Xye-IVIlvN-Lhds8/rs:fit/g:sm/q:90/h:600/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk2ODUy/MDMtMTQ5MDg4OTQ0/OS03OTkxLmpwZWc.jpeg"
     - "https://i.discogs.com/t7FL85D32oaZ4CsCwWoK3Eg94qrl01g8cpnM0VheCwQ/rs:fit/g:sm/q:90/h:454/w:450/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk2ODUy/MDMtMTUyNDY3Nzc5/Ny00MDE1LmpwZWc.jpeg"
     - "https://i.discogs.com/SHfKwqgOx-XIpTimYkjp7lsfcFGaEyErGKKPZZkEtlE/rs:fit/g:sm/q:90/h:450/w:450/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk2ODUy/MDMtMTUyNDY3Nzc5/NS04MjMzLmpwZWc.jpeg"
-    - "https://i.discogs.com/ICdBrC4Syh8vCLJUYiAlJDYbnXr8gieE3cBIYEMchzU/rs:fit/g:sm/q:90/h:703/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk2ODUy/MDMtMTUyNDY3Nzgw/My00ODIxLmpwZWc.jpeg"
+    - "https://i.discogs.com/ZgwWuGlW-MvNQ_W5n4pJPnyWOo9T75qxX0nQAXCnOc4/rs:fit/g:sm/q:90/h:600/w:511/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk2ODUy/MDMtMTUyNDY3Nzgw/My00ODIxLmpwZWc.jpeg"
 genres: ["Rock"]
 styles: ["Hard Rock"]
 ---
@@ -32,6 +32,8 @@ styles: ["Hard Rock"]
 Get a Grip is the eleventh studio album by American rock band Aerosmith, released in April 1993 by Geffen Records. Get a Grip was the band's last studio album to be released by Geffen before they returned to Columbia Records.
 Get a Grip featured guests including Don Henley, who sang backup on "Amazing", and Lenny Kravitz, who offered backup vocals and collaboration to "Line Up". As on Permanent Vacation and Pump, this album featured numerous song collaborators from outside the band including: Desmond Child, Jim Vallance, Mark Hudson, Richie Supa, Taylor Rhodes, Jack Blades, and Tommy Shaw.
 Get a Grip became Aerosmith's best-selling studio album worldwide, achieving sales of over 20 million copies. The album became the band's first album to reach number one in the United States and tied with Pump for their second best-selling album in the U.S., selling over 7 million copies as of 1995 (Toys in the Attic leads with nine million). This also made it their third consecutive album with U.S. sales of at least five million. Two songs from the album won Grammy Awards for Best Rock Performance by a Duo or Group with Vocal, in 1993 and 1994. The album was voted Album of the Year by Metal Edge readers in the magazine's 1993 Readers' Choice Awards, while "Livin' on the Edge" was voted Best Video.
+
+
     
     
 
@@ -56,7 +58,24 @@ Get a Grip became Aerosmith's best-selling studio album worldwide, achieving sal
 {{< applemusic url="https://music.apple.com/gb/album/get-a-grip/1680799198" >}}<br>
 
 
+## Videos
+### TVC - Areosmith - Get A Grip - Music Album (1993)
+{{< youtube id="N9xS7465naA" title="TVC - Areosmith - Get A Grip - Music Album (1993)" >}}<br>
+### More Videos
 
+- [Aerosmith – Get A Grip](https://www.youtube.com/watch?v=6jX_gpzKPfw)
+- [Aerosmith – Intro](https://www.youtube.com/watch?v=-8_9WoovMtU)
+- [Aerosmith – Crazy](https://www.youtube.com/watch?v=xwxuLThIxc8)
+- [Aerosmith – Boogie Man](https://www.youtube.com/watch?v=qs2xACCzlmg)
+- [Aerosmith – Livin' On The Edge](https://www.youtube.com/watch?v=FuIBcqpstmY)
+- [Aerosmith – Walk On Down](https://www.youtube.com/watch?v=I9y_mQEQMZ8)
+- [Aerosmith – Shut Up And Dance](https://www.youtube.com/watch?v=nGFcAy6PhxQ)
+- [Aerosmith – Cryin'](https://www.youtube.com/watch?v=O-c2fEdaVtY)
+- [Aerosmith – Fever](https://www.youtube.com/watch?v=-zl1inVRzaU)
+- [Aerosmith feat Lenny Kravitz – Line Up](https://www.youtube.com/watch?v=BsheE52nVLo)
+- [Aerosmith – Flesh](https://www.youtube.com/watch?v=O0ibEOUV69c)
+- [Aerosmith - Gotta Love It](https://www.youtube.com/watch?v=lBK2K0NmSDM)
+- [Aerosmith – Eat The Rich](https://www.youtube.com/watch?v=FEKBM0A9xn0)
 
 ## Release Images
 {{< imageGrid >}}

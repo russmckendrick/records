@@ -4,6 +4,7 @@ artist_name: "Leftfield"
 artist: "leftfield"
 album_name: "Leftism"
 date: 2017-05-05T17:25:36.000000Z
+release_date: "1995"
 release_id: "10236835"
 slug: "leftism-10236835"
 hideSummary: true
@@ -32,7 +33,8 @@ Leftism is the debut studio album by English electronic music duo Leftfield, rel
 On its release, the album was well received from the British press with positive reviews from the NME and Q. The album was nominated for the Mercury Prize in 1995 but lost to Portishead's Dummy. Leftism sold well and was released months later in the United States. Critics have praised the album as one of the major album-length works of dance music, with Q referring to it as "the first truly complete album experience to be created by house musicians and the first quintessentially British one".
 
 
-    
+        
+        
     
 
 
@@ -51,25 +53,22 @@ On its release, the album was well received from the British press with positive
 12. 21st Century Poem (4:39)
 
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/leftism-22/1219444979" >}}<br>
+{{< applemusic url="https://music.apple.com/gb/album/leftism/207071761" >}}<br>
 
 
 ## Videos
-### Song of Life (Remastered)
-{{< youtube id="WCoAndSOF7I" title="Song of Life (Remastered)" >}}<br>
+### Release the Pressure (Remastered)
+{{< youtube id="H_1BDl88oxo" title="Release the Pressure (Remastered)" >}}<br>
 ### More Videos
 
-- [Afro Central](https://www.youtube.com/watch?v=N3UOtyGnK1s)
-- [Release the Pressure (Remastered)](https://www.youtube.com/watch?v=IbmXemypQbM)
 - [Afro Left (Remastered)](https://www.youtube.com/watch?v=jYjk4ySEN-Y)
-- [Cut for Life](https://www.youtube.com/watch?v=TGN5G0cGdTA)
-- [Leftfield - Melt (Remastered)](https://www.youtube.com/watch?v=jaWZl2JiYlw)
-- [Black Flute (Remastered)](https://www.youtube.com/watch?v=g0Iacn8WKhs)
+- [Melt (Remastered)](https://www.youtube.com/watch?v=R1PkZd_cfYw)
+- [Song of Life (Remastered)](https://www.youtube.com/watch?v=4_n-BQ1fZ_E)
 - [Original (Remastered)](https://www.youtube.com/watch?v=CUgeEeEoFko)
+- [Black Flute (Remastered)](https://www.youtube.com/watch?v=g0Iacn8WKhs)
+- [Space Shanty (Remastered)](https://www.youtube.com/watch?v=gstWU-GP51I)
 - [Inspection (Check One) (Remastered)](https://www.youtube.com/watch?v=84ZyRbb20-4)
-- [Space Shanty (Remastered)](https://www.youtube.com/watch?v=mis_CxAJ63U)
 - [Storm 3000 (Remastered)](https://www.youtube.com/watch?v=D2N99BwVmXw)
-- [Leftfield - Half Past Dub](https://www.youtube.com/watch?v=apwG4hhkd_U)
 - [Open Up (Remastered)](https://www.youtube.com/watch?v=uq3IAHVDCGM)
 - [21st Century Poem (Remastered)](https://www.youtube.com/watch?v=Ysve0XA8QjU)
 

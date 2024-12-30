@@ -4,6 +4,7 @@ artist_name: "Metallica"
 artist: "metallica"
 album_name: "Metallica"
 date: 2016-07-18T17:36:42.000000Z
+release_date: "1991-08-25"
 release_id: "6007719"
 slug: "metallica-6007719"
 hideSummary: true
@@ -26,13 +27,13 @@ genres: ["Rock"]
 styles: ["Heavy Metal"]
 ---
 
-Metallica (commonly known as The Black Album) is the fifth studio album by American heavy metal band Metallica. It was released on August 12, 1991, by Elektra Records. Recording sessions took place at One on One Studios in Los Angeles over an eight-month span that frequently found Metallica at odds with their new producer Bob Rock. The album marked a change in the band's music from the thrash metal style of their previous four albums to a slower, heavier, and more refined sound.
-Metallica promoted Metallica with a series of tours. They also released five singles to promote the album: "Enter Sandman", "The Unforgiven", "Nothing Else Matters", "Wherever I May Roam", and "Sad but True", all of which have been considered to be among the band's best-known songs. The song "Don't Tread on Me" was also issued to rock radio shortly after the album's release but did not receive a commercial single release.
-Metallica received widespread critical acclaim and became the band's best-selling album. It debuted at number one in ten countries and spent four consecutive weeks at the top of the Billboard 200, making it Metallica's first album to top the album charts. Metallica is one of the best-selling albums worldwide, and also one of the best-selling albums in the United States since Nielsen SoundScan tracking began. The album was certified 16× platinum by the Recording Industry Association of America (RIAA) in 2012, and has sold over sixteen million copies in the United States, being the first album in the SoundScan era to do so.
-Metallica played Metallica in its entirety during the 2012 European Black Album Tour. In 2020, the album was ranked number 235 on Rolling Stone's The 500 Greatest Albums of All Time list. In December 2019, Metallica became the fourth release in American history to enter the 550-week milestone on the Billboard 200. It also became the second longest-charting traditional title in history only behind The Dark Side of the Moon (1973) by Pink Floyd, and the second to spend 550 weeks on the album charts.
-
-
-    
+The first people Metallica thanked when they won a Grammy Award in 1991, for what became known as The Black Album, were the progressive rock band Jethro Tull. Not because of their inordinate influence on Metallica, or even because Metallica felt a kinship with them—but because Jethro Tull hadn’t put out their own album that year to stand as competition.<br />
+Tull had infamously won the award for Best Hard Rock/Metal Performance in 1989—a reflection of both the Academy’s disconnect with metal culture and how uneasily it sat in the mainstream. And while The Black Album’s win didn’t constitute acceptance, per se, it acknowledged what fans of the band had understood for going on 10 years: Metal was the vanguard of hard rock, and Metallica was the vanguard of metal.<br />
+Drummer and co-writer Lars Ulrich says they used to labour for hours over the perfect take, Frankenstein-ing together fragments of drum parts, punching in riffs, blending and overdubbing until every wrinkle was ironed flat. They wanted precision, and by precision they meant technical mastery—a superlative in a world where the goal is to play as hard, fast and complicatedly as possible without slipping.<br />
+And it isn’t that The Black Album isn’t complex. But whereas tracks like “One”, “Master of Puppets” and “Seek & Destroy”—songs that not only defined Metallica’s sound, but the sound of ’80s metal in general—foregrounded complexity as proof of the band’s stamina and ambition, the music here is streamlined and the performances natural. Ulrich says producer Bob Rock helped them understand their recordings not just as seamless stacks of riffs, but as shapes with ebb and flow, rise and fall.<br />
+In the songs’ simplicity is a clear confidence: “Enter Sandman” and “Sad but True” are two of the heaviest tracks the band recorded, but also two of the most straightforward. “The Unforgiven” evokes Celtic folk and the majestic spaghetti Western soundtracks of Ennio Morricone (whose “The Ecstasy of Gold” long served as their walk-on music), but it works just as well around the campfire. James Hetfield wasn’t sure whether “Nothing Else Matters” even belonged on a Metallica album—it was so personal, so disclosing. But they’d always trusted their gut, and in doing so helped revise Led Zeppelin ballads for the post-punk era: They thrash, but they do it with tenderness. 
+        
+        
     
 
 
@@ -51,7 +52,7 @@ Metallica played Metallica in its entirety during the 2012 European Black Album 
 12. The Struggle Within (3:51)
 
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/metallica-remastered/1571968136" >}}<br>
+{{< applemusic url="https://music.apple.com/gb/album/metallica/1440833237" >}}<br>
 
 
 
@@ -66,5 +67,5 @@ Metallica played Metallica in its entirety during the 2012 European Black Album 
 | Format         | Vinyl 2× LP Album Reissue Repress |
 | Label          | Blackened |
 | Catalog Number | BLCKND008-1 |
-| Notes | Booklet contains lyrics.  All lyrics © Creeping Death Music, ASCAP.  Recorded at One On One Recording, Los Angeles, October '90 - June '91.    © 1991 Blackened Recordings. Manufactured by Warner Music Group, 3400W Olive Ave. Burbank, CA 91505-4614.   Printed in U.S.A. All Rights Reserved. BLCKND008-1   |
+| Notes | Insert contains lyrics.  Recorded at One On One Recording, Los Angeles, October '90 - June '91.  "© 1991 Blackened Recordings. Made in the U.S.A. All Rights Reserved" on insert. "© ℗ 1991 Blackened Recordings. Manufactured by Warner Music Group, 3400W Olive Ave. Burbank, CA 91505-4614. Printed in U.S.A. All Rights Reserved." on back cover.  "© ℗ 1991 Blackened Recordings." on labels.  Matrix/runout etched, except "18250" & "18251" stamped. |
 | Discogs URL    | [Metallica - Metallica](https://www.discogs.com/release/6007719-Metallica-Metallica) |

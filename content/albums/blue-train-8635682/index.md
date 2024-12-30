@@ -4,7 +4,6 @@ artist_name: "John Coltrane"
 artist: "john-coltrane"
 album_name: "Blue Train "
 date: 2017-05-12T18:25:29.000000Z
-release_date: "1957-11-01"
 release_id: "8635682"
 slug: "blue-train-8635682"
 hideSummary: true
@@ -15,16 +14,17 @@ cover:
 additional_images:
     - "https://i.discogs.com/iGL_WMgaLC70Px4-KU8jNwtqopHFNe_4O4tQaEZpaeY/rs:fit/g:sm/q:90/h:416/w:416/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg2MzU2/ODItMTQ2NTc1Nzgw/MS02NTE2LmpwZWc.jpeg"
     - "https://i.discogs.com/c3n05n77hf3qtD1kKthbptUD88DbkuImMPPS_ojj8SA/rs:fit/g:sm/q:90/h:415/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg2MzU2/ODItMTQ2NTc1OTEx/MC01MDc0LmpwZWc.jpeg"
-    - "https://i.discogs.com/SGMzFvIYzCBohk8WEoUlXXKTvX6zvI1CDPCijanAz3w/rs:fit/g:sm/q:90/h:640/w:480/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg2MzU2/ODItMTU3OTUzNTAy/OC02MjE1LmpwZWc.jpeg"
-    - "https://i.discogs.com/OZIXlNTrIpg5SkIHGCE3OsYUADxxs89C3CqpITxybDc/rs:fit/g:sm/q:90/h:640/w:480/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg2MzU2/ODItMTU3OTUzNTAy/OC0zMjk5LmpwZWc.jpeg"
+    - "https://i.discogs.com/MyA2hHjcCIOMyNwYKvr4gvSBjffXMk4zJnQmoTjIL-U/rs:fit/g:sm/q:90/h:600/w:450/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg2MzU2/ODItMTU3OTUzNTAy/OC02MjE1LmpwZWc.jpeg"
+    - "https://i.discogs.com/kh6GM2H6aSOA5-wBFWweeMsY8c3EapZ3zXlHPOZcHPY/rs:fit/g:sm/q:90/h:600/w:450/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg2MzU2/ODItMTU3OTUzNTAy/OC0zMjk5LmpwZWc.jpeg"
 genres: ["Jazz"]
 styles: []
 ---
 
-Beginning with a phrase that’s among the most famous in modern jazz, <i>Blue Train</i>, which John Coltrane called his favorite recording of his own music, is an unqualified hard bop masterpiece. Recorded in September 1957, this is Coltrane’s first major album as a bandleader (and his only one as a leader for Blue Note), and he selected some of the best young jazzmen of the era to join him: fellow Miles Davis band alumni Paul Chambers (bass) and Philly Joe Jones (drums) along with Lee Morgan (trumpet), Curtis Fuller (trombone), and Kenny Drew (piano). Featuring four Coltrane compositions plus the Johnny Mercer ballad “I’m Old Fashioned,” the music is thrilling, passionate, and melodic from start to finish. There’s exceptional playing by both Morgan and Fuller: Marvel at how Fuller’s nimble solo on “Locomotion” leads into the flurry of notes that begins Morgan’s own solo, one of the highlights of the album. Coltrane’s solos are muscular and focused, and while the notes often come fast and furious, nothing is wasted here. He’s stretching the limits of the blues form without abandoning its basic structure (as he would later). It’s particularly fascinating to hear the roots of the ideas that Coltrane would explore more fully on his 1959 landmark recording <i>Giant Steps</i>. Powerful and searching yet accessible, this timeless album is a must for jazz aficionados and neophytes alike.<br /> 
-This album is an Apple Digital Master made from a high-definition audio source, designed to cut noise while maximizing clarity and efficiency, bringing you a sound virtually indistinguishable from the original 24-bit studio masters.
-        
-        
+Blue Train is a studio album by the jazz saxophonist and composer John Coltrane. It was released through Blue Note Records in January 1958. It is Coltrane's only session as leader for Blue Note. The recording took place at Rudy Van Gelder's studio on September 15, 1957.
+Coltrane wrote four of the record's five tracks. His playing exhibits early elements of the signature style for which he later became known. Blue Train attained a gold sales certification by the Recording Industry Association of America in 2001.
+
+
+    
     
 
 
@@ -36,15 +36,10 @@ This album is an Apple Digital Master made from a high-definition audio source, 
 5. Lazy Bird
 
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/blue-train/1468202477" >}}<br>
+{{< applemusic url="https://music.apple.com/gb/album/coltrane-deluxe-edition/1452788887" >}}<br>
 
 
-## Videos
-### John Coltrane - Moment's Notice
-{{< youtube id="gocGlRuW1bw" title="John Coltrane - Moment's Notice" >}}<br>
-### More Videos
 
-- [Blue Train (Mono Version)](https://www.youtube.com/watch?v=XF9ebuo4tP8)
 
 ## Release Images
 {{< imageGrid >}}

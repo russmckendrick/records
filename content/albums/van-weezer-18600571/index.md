@@ -14,9 +14,9 @@ cover:
     caption: "Van Weezer by Weezer"
 additional_images:
     - "https://i.discogs.com/6m1xhwA4D7r40PVNpSOPu0IFbzoedH3duzPRtbilwwU/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NjAw/NTcxLTE2MjA3OTU4/MzgtNjI3Mi5qcGVn.jpeg"
-    - "https://i.discogs.com/ggGnAbNe_tPf5SZa33l_Dj8TnLXMZJzYd4YYzAzIShk/rs:fit/g:sm/q:90/h:619/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NjAw/NTcxLTE2MjA3OTU4/NzgtMTIwNy5qcGVn.jpeg"
+    - "https://i.discogs.com/JwewtATLOtJi_4x4eVL9RB7z_sJxc9T7Kym8GYoDhYQ/rs:fit/g:sm/q:90/h:600/w:581/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NjAw/NTcxLTE2MjA3OTU4/NzgtMTIwNy5qcGVn.jpeg"
     - "https://i.discogs.com/ONNClh4anT_lFBA8o9DAYnoH2A81sA5H6uaxUOSprC4/rs:fit/g:sm/q:90/h:587/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NjAw/NTcxLTE2MjAyMjY2/MTEtMjQwNi5qcGVn.jpeg"
-    - "https://i.discogs.com/3wvMuG4-A7l9yZjjALzq2CljTeYoNSMuKfWkKgLIotY/rs:fit/g:sm/q:90/h:608/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NjAw/NTcxLTE2MjAyMjY2/MTYtMTg1My5qcGVn.jpeg"
+    - "https://i.discogs.com/SrsSNXlpfyCUB22I2g5ihV5Pjp2dV9H5fqPutl48pIM/rs:fit/g:sm/q:90/h:600/w:591/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NjAw/NTcxLTE2MjAyMjY2/MTYtMTg1My5qcGVn.jpeg"
     - "https://i.discogs.com/8tBa0JvjIWu0dMb8t3M7rWnf_n3ebRt75XwS6Egco6k/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NjAw/NTcxLTE2Mzk1ODg4/NTItNjEzMC5qcGVn.jpeg"
     - "https://i.discogs.com/NZMGqsgOEMTDH9rcrqlKZHlJEN-tc_A_IniK_r7iKjA/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NjAw/NTcxLTE2Mzk1ODg4/NTUtNDg0Ny5qcGVn.jpeg"
     - "https://i.discogs.com/HONfjuix2SHsC7AuDldyZBDAyieoEmn__RL9efYuIUA/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NjAw/NTcxLTE2Mzk1ODg4/NTItNzM4Ny5qcGVn.jpeg"
@@ -51,13 +51,7 @@ Clocking in at a snappy 30 minutes, the 10 tracks here are all killer, no filler
 {{< applemusic url="https://music.apple.com/gb/album/van-weezer/1479227321" >}}<br>
 
 
-## Videos
-### Weezer - Hero (Official Video)
-{{< youtube id="BdJS11C8LA0" title="Weezer - Hero (Official Video)" >}}<br>
-### More Videos
 
-- [Weezer - The End Of The Game (Official Video)](https://www.youtube.com/watch?v=Rl-hSj3gnks)
-- [Weezer - All the Good Ones (Official Video)](https://www.youtube.com/watch?v=9uf31SSKloM)
 
 ## Release Images
 {{< imageGrid >}}

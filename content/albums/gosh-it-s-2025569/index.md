@@ -24,6 +24,11 @@ genres: ["Reggae", "Pop"]
 styles: ["Ska"]
 ---
 
+Gosh It's ... Bad Manners is the third album by British 2 Tone and ska band Bad Manners from the year 1981 and their most popular and successful album, peaking at number 18 on the UK album chart. The band had originally formed in 1976 while the members were together at Woodberry Down Comprehensive School, North London. They commemorated the 1981 closure of the school on the back sleeve of the album.
+
+
+    
+    
 
 
 ## Tracklisting
@@ -45,12 +50,11 @@ styles: ["Ska"]
 
 
 ## Videos
-### Bad Manners - Can-Can (TOTP)
-{{< youtube id="sirHoeJ5Td8" title="Bad Manners - Can-Can (TOTP)" >}}<br>
+### Bad Manners.........Gosh It's.......... Bad Manners Part 4
+{{< youtube id="pAO7mr7Pi0s" title="Bad Manners.........Gosh It's.......... Bad Manners Part 4" >}}<br>
 ### More Videos
 
 - [Bad Manners.........Gosh It's.......... Bad Manners Part 4](https://www.youtube.com/watch?v=pAO7mr7Pi0s)
-- [Bad Manners - can can](https://www.youtube.com/watch?v=CJSwSBbdiCM)
 
 ## Release Images
 {{< imageGrid >}}
@@ -58,6 +62,7 @@ styles: ["Ska"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
+| Wikipedia URL | https://en.wikipedia.org/wiki/Gosh_It%27s_..._Bad_Manners |
 | Format         | Vinyl LP Album Stereo |
 | Label          | Magnet (2) |
 | Catalog Number | MAGL 5043 |

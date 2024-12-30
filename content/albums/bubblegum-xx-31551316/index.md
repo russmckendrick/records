@@ -49,7 +49,25 @@ styles: ["Alternative Rock", "Folk Rock"]
 {{< applemusic url="https://music.apple.com/gb/album/bubblegum-xx/1754982166" >}}<br>
 
 
+## Videos
+### When Your Number Isn't Up
+{{< youtube id="wgPLrTacBvE" title="When Your Number Isn't Up" >}}<br>
+### More Videos
 
+- [Mark Lanegan (featuring PJ Harvey) - Hit The City](https://www.youtube.com/watch?v=azH5eEXtllc)
+- [Wedding Dress](https://www.youtube.com/watch?v=ImSVrY_NMOk)
+- [Mark Lanegan - Methamphetamine Blues.](https://www.youtube.com/watch?v=QEpR1AL4El8)
+- [Mark Lanegan - One Hundred Days.](https://www.youtube.com/watch?v=EYhzz4JQ6g4)
+- [Mark Lanegan - Bombed](https://www.youtube.com/watch?v=12KET51iBNM)
+- [Strange Religion](https://www.youtube.com/watch?v=6g59J_dAWzs)
+- [Mark Lanegan Band - Sideways In Reverse](https://www.youtube.com/watch?v=wP-9VSkAcz0)
+- [Mark Lanegan - Come to Me.](https://www.youtube.com/watch?v=C1x5Q-9oN4I)
+- [Like Little Willie John](https://www.youtube.com/watch?v=B8NjeiGdxaQ)
+- [Can't Come Down](https://www.youtube.com/watch?v=KLiW2LDeSaw)
+- [Morning Glory Wine](https://www.youtube.com/watch?v=06KuzOHyMRo)
+- [Head](https://www.youtube.com/watch?v=Aw5PR2nxcQM)
+- [Driving Death Valley Blues](https://www.youtube.com/watch?v=0VumsjBMICw)
+- [Out of Nowhere](https://www.youtube.com/watch?v=UgaUbJ7gpHg)
 
 ## Release Images
 {{< imageGrid >}}

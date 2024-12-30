@@ -28,13 +28,16 @@ genres: ["Electronic", "Rock"]
 styles: ["Alternative Rock", "Leftfield"]
 ---
 
-Scorpio Rising is the third album by British electronica band Death in Vegas. It was released on 16 September 2002 in the United Kingdom via Concrete Records, and on 17 June 2003 in the United States via Sanctuary Records. The album takes its name from an experimental film by Kenneth Anger. Scorpio Rising features guest vocalists Liam Gallagher, Hope Sandoval, Nicola Kuperus, and Paul Weller, as well as string arrangements by L. Subramaniam. The album was recorded at Death in Vegas' own studio The Contino Rooms in early 2002, with the strings recorded at Trinity Wave Station in Chennai, India.The song "Hands Around My Throat" contains samples from the songs "Rock Around the Clock" by Telex (written by Max C. Freedman and Jimmy DeKnight) and "Whitewater" by Tortoise (written by Dan Bitney, Bundy Kien Brown, John Herndon, Doug McCombs, and John McEntire). "23 Lies" includes a sample from "Goin' Back" by The Byrds, written and composed by Carole King and Gerry Goffin. "Scorpio Rising" takes its main riff from "Pictures of Matchstick Men" by Status Quo, and is co-credited to songwriter Francis Rossi.
+Scorpio Rising is the third studio album by British electronica band Death in Vegas. It was released on 16 September 2002 in the United Kingdom via Concrete Records, and on 17 June 2003 in the United States via Sanctuary Records. The album takes its name from an experimental film by Kenneth Anger. Scorpio Rising features guest vocalists Liam Gallagher, Hope Sandoval, Nicola Kuperus, and Paul Weller, as well as string arrangements by L. Subramaniam. The album was recorded at Death in Vegas' very own studio The Contino Rooms in early 2002, with the strings recorded at Trinity Wave Station in Chennai, India.
+The song "Hands Around My Throat" contains samples from the songs "Rock Around the Clock" by Telex (written by Max C. Freedman and Jimmy DeKnight) and "Whitewater" by Tortoise (written by Dan Bitney, Bundy Kien Brown, John Herndon, Doug McCombs, and John McEntire). "23 Lies" includes a sample from "Goin' Back" by The Byrds, written and composed by Carole King and Gerry Goffin. "Scorpio Rising" takes its main riff from "Pictures of Matchstick Men" by Status Quo, and is co-credited to songwriter Francis Rossi.
 Several songs on the album have appeared in television advertisements and on film soundtracks:
 
 "Girls" is featured on the soundtrack to the 2003 film Lost in Translation and 2004 film D.E.B.S..
 "Hands Around My Throat" is featured on the Animatrix soundtrack; in a commercial TV-spot by Sony Ericsson for Sony Ericsson K700i; and in the episode "Once Bitten" of Big Little Lies.
 "Scorpio Rising" is used in a commercial by the Belgian mobile phone operator Base and at the end of the episode "Touch and Go" of ER.
 "Help Yourself" was used in a commercial by the former Czech mobile phone operator Eurotel (now Telefónica O2 Czech Republic); in Johan Kramer's 2003 film The Other Final; in the 2003 Girl Skateboards video Yeah Right!; and in the 2005 film 12 and Holding.
+
+
     
     
 
@@ -52,23 +55,28 @@ Several songs on the album have appeared in television advertisements and on fil
 10. Help Yourself
 
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/scorpio-rising/274003120" >}}<br>
+{{< applemusic url="https://music.apple.com/gb/album/scorpio-rising/1187871169" >}}<br>
 
 
 ## Videos
-### Death In Vegas - Scorpio Raising ft. Liam Gallagher
-{{< youtube id="5XVTHL6wpZQ" title="Death In Vegas - Scorpio Raising ft. Liam Gallagher" >}}<br>
+### Death In Vegas "Girls"
+{{< youtube id="v4-GIq4bEOE" title="Death In Vegas "Girls"" >}}<br>
 ### More Videos
 
-- [Leather](https://www.youtube.com/watch?v=YRhp8ygTPZM)
-- [Death In Vegas Girls](https://www.youtube.com/watch?v=v4-GIq4bEOE)
-- [Death in Vegas - Killing Smile](https://www.youtube.com/watch?v=K_GfO61f3yM)
 - [Death in Vegas - Hands Around My Throat](https://www.youtube.com/watch?v=r-S2aqnfzDs)
 - [Death in vegas-Scorpio Rising](https://www.youtube.com/watch?v=0T1uUmL8rog)
-- [Death In Vegas - Diving Horses](https://www.youtube.com/watch?v=7ZtjzD7I3Hc)
 - [Death In Vegas - Natja](https://www.youtube.com/watch?v=HMZMdCGP8GA)
-- [Death in Vegas - 23 Lies (Hope Sandoval)](https://www.youtube.com/watch?v=ONxlnW0T3X8)
 - [Death In Vegas feat. Hope Sandoval - Help Yourself (lyrics)](https://www.youtube.com/watch?v=H2ihddzxTFA)
+- [Leather](https://www.youtube.com/watch?v=YRhp8ygTPZM)
+- [Death In Vegas "Girls"](https://www.youtube.com/watch?v=v4-GIq4bEOE)
+- [Death in Vegas - Hands Around My Throat](https://www.youtube.com/watch?v=r-S2aqnfzDs)
+- [Death in vegas-Scorpio Rising](https://www.youtube.com/watch?v=0T1uUmL8rog)
+- [Death In Vegas - Natja](https://www.youtube.com/watch?v=HMZMdCGP8GA)
+- [Death In Vegas feat. Hope Sandoval - Help Yourself (lyrics)](https://www.youtube.com/watch?v=H2ihddzxTFA)
+- [Death In Vegas - Scorpio Raising ft. Liam Gallagher](https://www.youtube.com/watch?v=5XVTHL6wpZQ)
+- [Death in Vegas - Killing Smile](https://www.youtube.com/watch?v=K_GfO61f3yM)
+- [Death In Vegas - Diving Horses](https://www.youtube.com/watch?v=7ZtjzD7I3Hc)
+- [Death in Vegas - 23 Lies (Hope Sandoval)](https://www.youtube.com/watch?v=ONxlnW0T3X8)
 
 ## Release Images
 {{< imageGrid >}}

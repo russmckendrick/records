@@ -23,10 +23,9 @@ genres: ["Rock"]
 styles: ["Hard Rock", "Heavy Metal"]
 ---
 
-Appetite for Destruction is the debut studio album by American hard rock band Guns N' Roses, released by Geffen Records on July 21, 1987. It initially received little mainstream attention, and it was not until the following year that Appetite for Destruction became a commercial success, after the band had toured and received significant airplay with the singles "Welcome to the Jungle", "Paradise City", and "Sweet Child o' Mine". The album went on to peak at number one on the US Billboard 200, and it became the seventh best-selling album of all time in the United States, as well as the best-selling debut album. With over 30 million copies sold worldwide, it is also one of the best-selling albums globally. 
-Although critics were originally ambivalent toward the album, Appetite for Destruction has received retrospective acclaim and been viewed as one of the greatest albums of all time. In 2018, it was re-released as a remastered box set to similar acclaim.
-
-
+<b>100 Best Albums</b> Early on in the history of Guns N’ Roses, Axl Rose was driving around with his friend Michelle when Elton John’s “Your Song” came on the radio. Gee, Michelle said, I wish someone would write a song that beautiful about <I>me</I>. So, Axl went home and tried. The first draft didn’t sit right—it was too reductive, too romantic, too much like a <I>song</I>—so he started over: “Your daddy works in porno now that mommy’s not around/She used to love her heroin, but now she’s underground” (“My Michelle”). Yeah, it was bracing, Michelle said. But it was the truth.<br /> 
+It isn’t just that <I>Appetite</I> is mean—though it is. It’s that it never flinches at how it feels, no matter how ugly. The drug songs aren’t about getting high, they’re about blacking out (“Mr. Brownstone”, “Nightrain”). The sex songs don’t relish the physical act so much as the power that comes with it (“Anything Goes”). When they give you an anthem, it’s against a backdrop of filth and misery (“Paradise City”). And when they give you a ballad, it’s with the paranoid sense that nothing so pure could actually be real (the dark outro of “Sweet Child o’ Mine”). Conquering their conquests isn’t enough: They want to degrade them and trade high-fives about it later (“It’s So Easy”).<br />
+At the time, the band was considered an antidote to the slickness of pop-metal—something like The Rolling Stones to the early ’60s. But a better comparison is the Sex Pistols: rude, fearless, unencumbered by metaphor. Some bands make sloppiness sound liberating; Guns N’ Roses make it sound menacing, the howl of something unstable and sleepless. The album famously ends on a happy note: “Don’t ever leave me, say you’ll always be there/All I ever wanted was for you to know that I care” (“Rocket Queen”). But only a few bars earlier, it just as famously captured the sounds of Axl and a stripper having sex in the studio. <I>Appetite</I> bears its crumbs of hope, but it puts you through hell to get them.
         
         
     
@@ -49,13 +48,24 @@ Although critics were originally ambivalent toward the album, Appetite for Destr
 14. Rocket Queen (6:13)
 
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/appetite-for-destruction-super-deluxe/1377826053" >}}<br>
+{{< applemusic url="https://music.apple.com/gb/album/appetite-for-destruction/1377813284" >}}<br>
 
 
 ## Videos
-### Guns N Roses  Appetite for Destruction 1987  Full Album
-{{< youtube id="_0fJo8niR5M" title="Guns N Roses  Appetite for Destruction 1987  Full Album" >}}<br>
+### Guns N' Roses - Welcome To The Jungle
+{{< youtube id="o1tj2zJ2Wvg" title="Guns N' Roses - Welcome To The Jungle" >}}<br>
+### More Videos
 
+- [Nightrain](https://www.youtube.com/watch?v=aujKauhYsgA)
+- [Out Ta Get Me](https://www.youtube.com/watch?v=RbItpD0qAk4)
+- [Mr. Brownstone](https://www.youtube.com/watch?v=-CmMFRr9RMo)
+- [Guns N' Roses - Paradise City (Official Music Video)](https://www.youtube.com/watch?v=Rbm6GXllBiw)
+- [My Michelle](https://www.youtube.com/watch?v=6nhIdHpzHxM)
+- [Think About You](https://www.youtube.com/watch?v=0bjPk-wmfRQ)
+- [Guns N' Roses - Sweet Child O' Mine (Official Music Video)](https://www.youtube.com/watch?v=1w7OgIMMRc4)
+- [You're Crazy](https://www.youtube.com/watch?v=6PO9B83mHDI)
+- [Anything Goes](https://www.youtube.com/watch?v=qcCl-QVfBuI)
+- [Rocket Queen](https://www.youtube.com/watch?v=WO0OUoCDlBE)
 
 ## Release Images
 {{< imageGrid >}}

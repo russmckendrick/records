@@ -21,12 +21,13 @@ genres: ["Rock", "Folk, World, & Country"]
 styles: ["Pop Rock"]
 ---
 
-Graceland is the seventh solo studio album by the American singer-songwriter Paul Simon. It was produced by Simon, engineered by Roy Halee and released on August 25, 1986, by Warner Bros. Records.
-In the early 1980s, Simon's relationship with his former musical partner Art Garfunkel had deteriorated, his marriage to the actress Carrie Fisher had collapsed, and his previous record, Hearts and Bones (1983), had been a commercial failure. In 1984, after a period of depression, Simon became fascinated by a bootleg cassette of mbaqanga, South African street music. He and Halee visited Johannesburg, where they spent two weeks recording with South African musicians. Further recordings were held in the United States, with guest musicians including Linda Ronstadt, the Everly Brothers, Louisiana band Good Rockin' Dopsie and the Twisters, and Los Angeles band Los Lobos.
-Graceland features an eclectic mixture of genres, including pop, rock, a cappella, zydeco, isicathamiya and mbaqanga. Simon wrote songs inspired by the recordings made in Johannesburg, collaborating with African and American artists. He received criticism for breaking the cultural boycott of South Africa because of its policy of apartheid. Following its completion, Simon toured alongside South African musicians, performing their music and songs from Graceland.
-Graceland became Simon's most successful studio album and his highest-charting album in over a decade; it is estimated to have sold more than 16 million copies worldwide. It was lauded by critics, won the 1987 Grammy for Album of the Year, and is frequently cited as one of the best albums of all time. In 2006, it was added to the United States' National Recording Registry as "culturally, historically, or aesthetically important".
+By the mid-1980s, Paul Simon was full of uncertainty. His 1983 album <i>Hearts and Bones</i> had underperformed, and Simon, now in his forties, worried he was too old for the newly ascendent MTV. It was around this time that Heidi Berg, a songwriter that Simon worked with at New York’s Brill Building, played him a copy of <i>Gumboots Accordion Jive Hits Volume II</i>, a collection of instrumental South African accordion music. To Simon, the songs were hard-driving, hopeful and optimistic. “It all seemed familiar to me,” he later told biographer Robert Hilburn. “[The music] had a feeling that was something like 1950s rock ’n’ roll. But the guitar lines were different from American lines.”
 
+Simon tracked down the South African musicians from that tape, the Boyoyo Boys, and met the group in Johannesburg, South Africa. He also invited a team of local pros—including bassist Bakithi Kumalo, guitarist Chikapa “Ray” Phiri and drummer Isaac Mtshali—to improvise for days. Accordionist Forere Motloheloa said he had reservations: “I continued to ask myself, ‘Who is going to want to hear this township music in America?’”
 
+Simon returned to the US to craft those instrumentals into songs. He took one of Motloheloa’s rowdy accordion melodies and wrote “The Boy in the Bubble”, combining images of apartheid South Africa with snapshot images of frivolous American culture. He transformed the Boyoyo Boys’ wildly fun groove “Gumboots” into a blissful plea for love. And he combined his childhood love of doo-wop with the sounds of the South African vocal group Ladysmith Black Mambazo on the tracks “Diamonds on the Soles of Her Shoes” and “Homeless”. But one especially challenging track required Simon to hit the road. While listening back to a minor progression played by guitarist Phiri, the singer began thinking of Elvis Presley’s Memphis home. So Simon rented a car and drove to Graceland for the first time. On the way, the lyrics came to him: “The Mississippi Delta was shining like a national guitar/I am following the river down the highway through the cradle of the Civil War.” As Simon later recalled: “Eventually, I understood that the song is about why we are travelling to Graceland—to find out how to get healed—and that’s why I named the album <i>Graceland</i>.”
+
+Released in 1986, <i>Graceland</i> would become the most successful solo album of Simon’s career: a culture-conquering smash that arrived (and thrived) at the dawn of the CD era. The album was also highly controversial, with some detractors accusing Simon of endorsing the oppressive South African government with the project, and others accusing him of exploiting his guest musicians (Simon pushed back, saying he paid artists triple-scale and also offered writing credits). Despite the pushback, <i>Graceland</i> won rave reviews, four Grammys and sold more than 16 million copies. “There were people who said I shouldn't go,” Simon said at the time of the album's release. “South Africa is a supercharged subject surrounded with a tremendous emotional velocity. I knew I would be criticised if I went…I was following my musical instincts in wanting to work with people whose music I greatly admired.”
         
         
     
@@ -50,20 +51,14 @@ Graceland became Simon's most successful studio album and his highest-charting a
 
 
 ## Videos
-### Paul Simon - The Boy In The Bubble
-{{< youtube id="Uy5T6s25XK4" title="Paul Simon - The Boy In The Bubble" >}}<br>
+### Paul Simon - You Can Call Me Al (Official Video)
+{{< youtube id="uq-gYOrU8bA" title="Paul Simon - You Can Call Me Al (Official Video)" >}}<br>
 ### More Videos
 
-- [Paul Simon - Graceland (Official Audio)](https://www.youtube.com/watch?v=GP6a-7MP91g)
-- [Paul Simon - You Can Call Me Al (Official Video)](https://www.youtube.com/watch?v=uq-gYOrU8bA)
-- [Paul Simon - I Know What I Know (Official Audio)](https://www.youtube.com/watch?v=2hanjM_IenU)
 - [Paul Simon - Gumboots (Official Audio)](https://www.youtube.com/watch?v=L-AQTtXUxYU)
-- [Paul Simon - Diamonds On The Soles Of Her Shoes](https://www.youtube.com/watch?v=-I_T3XvzPaM)
-- [Paul Simon - Under African Skies (Official Audio)](https://www.youtube.com/watch?v=YcD8b5vJQzc)
-- [Paul Simon - Graceland: Homeless](https://www.youtube.com/watch?v=LxOyB_nFAOo)
-- [Paul Simon - Crazy Love, Vol. II (Official Audio)](https://www.youtube.com/watch?v=GbaDwh7xeJE)
-- [Paul Simon - That Was Your Mother (Official Audio)](https://www.youtube.com/watch?v=im9KnAg0r-w)
-- [All Around the World or the Myth of Fingerprints (Early Version) (Early Version - Offic...](https://www.youtube.com/watch?v=4KygdhHI_eE)
+- [Homeless](https://www.youtube.com/watch?v=Cb04PK_oTlM)
+- [Paul Simon - The Boy In The Bubble](https://www.youtube.com/watch?v=Uy5T6s25XK4)
+- [Paul Simon - Graceland (Official Audio)](https://www.youtube.com/watch?v=GP6a-7MP91g)
 
 ## Release Images
 {{< imageGrid >}}
@@ -72,8 +67,8 @@ Graceland became Simon's most successful studio album and his highest-charting a
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Graceland_(album) |
-| Format         | Vinyl LP Album Reissue |
+| Format         | Vinyl LP Album Reissue Remastered Stereo |
 | Label          | Legacy |
 | Catalog Number | 88691914721 |
-| Notes | Made in EU.  Comes with mp3 download and poster.  |
+| Notes | - Front Cover: Photo of Icon, courtesy of Langmuir Collection, Peabody Museum of Salem. - Back Cover: Liner notes (credited) + Track listing. - Originally Mastered by Greg Calbi at Sterling Sound, New York. - Comes with mp3 download and poster. - White inner sleeve with printed lyrics and notes.  |
 | Discogs URL    | [Paul Simon - Graceland](https://www.discogs.com/release/3673709-Paul-Simon-Graceland) |

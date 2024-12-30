@@ -16,7 +16,7 @@ additional_images:
     - "https://i.discogs.com/J9U8pcmVZUYkBQmS8m-uDdTIR--FfiomG5_fgg1G2aA/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg1NDg5/NTQtMTU0MjM2NDA1/OC03ODI5LmpwZWc.jpeg"
     - "https://i.discogs.com/Xy9MVV11k8wPLswtMDWjBCQP-TyxO87FuFVS5VKfrg8/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg1NDg5/NTQtMTU0MjM2NDA1/Ni05MTk0LmpwZWc.jpeg"
     - "https://i.discogs.com/5DmyfXncjmBxn_FM0IUO6Y_zCmYT5KlnjjIJpY6F4jI/rs:fit/g:sm/q:90/h:593/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg1NDg5/NTQtMTU0MjM2NDA1/Ny05MDYxLmpwZWc.jpeg"
-    - "https://i.discogs.com/f79t140hcvvtpQ70NEDalJ9QpfaoRF-x6xZESMj3piY/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg1NDg5/NTQtMTU0MjM2NDA1/Ny03NTYxLmpwZWc.jpeg"
+    - "https://i.discogs.com/IyCLT1Zbn_2w4QoeWHpz8qsQcUVnf6NSqt8WWvVmAzw/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg1NDg5/NTQtMTU0MjM2NDA1/Ny03NTYxLmpwZWc.jpeg"
     - "https://i.discogs.com/8qtRPYj_Zu40Feubp3xjECj1HTNMHgK1gSOHMb4441g/rs:fit/g:sm/q:90/h:235/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg1NDg5/NTQtMTU0MjM2NDA1/NS01OTkyLmpwZWc.jpeg"
     - "https://i.discogs.com/pIoqoJN9h_5byw8txj2BEAKftnmR2fRfAlIMjKygXfA/rs:fit/g:sm/q:90/h:586/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg1NDg5/NTQtMTU0MjM2NDA1/Ny0yNjI2LmpwZWc.jpeg"
     - "https://i.discogs.com/eAngUyhV3u3pkosjhkPAwX4fio9lDqWUFx1Y3H3YfWs/rs:fit/g:sm/q:90/h:584/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg1NDg5/NTQtMTU0MjM2NDA1/Ny00OTUyLmpwZWc.jpeg"
@@ -50,10 +50,7 @@ The Spotlight Kid is the sixth studio album by Captain Beefheart. Released in 19
 {{< youtube id="3i0wU9HsCE0" title="Captain Beefheart - Alice In Blunderland" >}}<br>
 ### More Videos
 
-- [Captain Beefheart - Glider (1972)](https://www.youtube.com/watch?v=jrRedf-yZ2Q)
 - [C̤a̤pt̤a̤i̤n̤ B̤e̤e̤f̤h̤e̤a̤r̤t̤ - The Spotli̤ght̤ Kid *** full album ***](https://www.youtube.com/watch?v=zOqHNEKl91c)
-- [Captain Beefheart - Click Clack](https://www.youtube.com/watch?v=uNyOr4h2ZLw)
-- [Captain Beefheart - I'm Gonna Booglarize You Baby](https://www.youtube.com/watch?v=xiJVac8bCH8)
 
 ## Release Images
 {{< imageGrid >}}

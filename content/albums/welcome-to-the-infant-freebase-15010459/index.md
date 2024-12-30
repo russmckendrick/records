@@ -12,9 +12,9 @@ cover:
     alt: "Welcome To The Infant Freebase by The Soundtrack Of Our Lives"
     caption: "Welcome To The Infant Freebase by The Soundtrack Of Our Lives"
 additional_images:
-    - "https://i.discogs.com/pGT3HY-gCYnA7TdZmqxRr3U18f5iToJiU8VWYSKrKYU/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MDEw/NDU5LTE2MDM2NDEw/OTctODAzMS5qcGVn.jpeg"
+    - "https://i.discogs.com/NtwC9zxXmGbqwo0L8fhWGbc-IlZYvbman3CYqKVuZIc/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MDEw/NDU5LTE3MjkzMzI4/NzctNzY1MS5qcGVn.jpeg"
+    - "https://i.discogs.com/JxujuB9aMInDGSLZnNrhjDzPpCnKGD8m02cJ9QB7R5A/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MDEw/NDU5LTE3MjkzMzI4/OTMtMTU2NS5qcGVn.jpeg"
     - "https://i.discogs.com/4s-m_qIQ0UlXgsg9xy_OkPbvQKVWr3LApdBgf1TS5oA/rs:fit/g:sm/q:90/h:297/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MDEw/NDU5LTE2MDM2NDEw/ODEtNTc5Ni5qcGVn.jpeg"
-    - "https://i.discogs.com/Bdy4BJRxSwTFMkGVRIo03IhrT0Jd1ySLHSQCXn8dmVc/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MDEw/NDU5LTE2MDM2NDEw/OTctNTgzNi5qcGVn.jpeg"
     - "https://i.discogs.com/3IByPhFaASDtSFKGwf_SCwQUhg66xRCQ9L-8ZucWcfo/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MDEw/NDU5LTE2MDM2NDEx/MDYtNjcyNS5qcGVn.jpeg"
     - "https://i.discogs.com/Hpx58DkDqqXZYVQXPkHds2Vm3r8TPp0jmejhoS7o9F8/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MDEw/NDU5LTE2MDM2NDEx/MDYtNjg2NS5qcGVn.jpeg"
     - "https://i.discogs.com/V38VdTccfm9iExStyl6h8KAukU6f2BxcoIIfTOGNLQU/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MDEw/NDU5LTE2MDM2NDEx/MDUtNTc5NC5qcGVn.jpeg"

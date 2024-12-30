@@ -12,16 +12,19 @@ cover:
     alt: "The Big Area by Then Jerico"
     caption: "The Big Area by Then Jerico"
 additional_images:
-    - "https://i.discogs.com/oM99MgDBNFxxJk-xUOdOcTuK2iTXVpKMLkG1De2mtVU/rs:fit/g:sm/q:90/h:605/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NTE0/MC0xNTUyMTI2NDM0/LTU0NDUuanBlZw.jpeg"
-    - "https://i.discogs.com/UMnNJgw67nIHvBMHPmosmhCxtQj2Ryh6TL27KhWscYk/rs:fit/g:sm/q:90/h:602/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NTE0/MC0xNTUyMTI2NDQy/LTQ5MjcuanBlZw.jpeg"
-    - "https://i.discogs.com/wy3rUMj8I3RQsUkD_RQTjDLW5u_Sma3P7JNNfgpRBB0/rs:fit/g:sm/q:90/h:603/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NTE0/MC0xNTUyMTI2NDUy/LTk4MjUuanBlZw.jpeg"
-    - "https://i.discogs.com/oKHJowy_-I4JGK678Fb84-ne71Yub1E6j0ON2IIjNTU/rs:fit/g:sm/q:90/h:601/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NTE0/MC0xNTUyMTI2NDYw/LTMyNjIuanBlZw.jpeg"
-    - "https://i.discogs.com/Ig99ELFPWAGuo2kJiCmrmFtFJ1ZgYv8v_dzeZs64HIk/rs:fit/g:sm/q:90/h:613/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NTE0/MC0xNTUyMTI2NDY5/LTY5NjMuanBlZw.jpeg"
-    - "https://i.discogs.com/1Bo4BsK4OaBDUjsEiDrH3hOfF6qhen9RRe6YLyFwgw8/rs:fit/g:sm/q:90/h:613/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NTE0/MC0xNTUyMTI2NDc2/LTIyNzcuanBlZw.jpeg"
+    - "https://i.discogs.com/8ddjKXwqQoYVnXRUtOD7QdknpXskMZ0fJVY_0oxmP3k/rs:fit/g:sm/q:90/h:600/w:594/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NTE0/MC0xNTUyMTI2NDM0/LTU0NDUuanBlZw.jpeg"
+    - "https://i.discogs.com/Uysga3Nqm1UI9Dbvm6dA2-fY3GOhBoOxO7htBnOJfb0/rs:fit/g:sm/q:90/h:600/w:597/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NTE0/MC0xNTUyMTI2NDQy/LTQ5MjcuanBlZw.jpeg"
+    - "https://i.discogs.com/9ovxgBrBtVV6e6O_ZpNDjzc3iHRNJvxuwIj3Xofxp04/rs:fit/g:sm/q:90/h:600/w:596/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NTE0/MC0xNTUyMTI2NDUy/LTk4MjUuanBlZw.jpeg"
+    - "https://i.discogs.com/sQNWPiwknL2N2XKHhRATK9OgM1N9GusCGjmOuLsEots/rs:fit/g:sm/q:90/h:600/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NTE0/MC0xNTUyMTI2NDYw/LTMyNjIuanBlZw.jpeg"
+    - "https://i.discogs.com/9rvkFtKZRKS2bkuBErEtDk8ejanIFYDLPa_Ip8-Ejq8/rs:fit/g:sm/q:90/h:600/w:586/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NTE0/MC0xNTUyMTI2NDY5/LTY5NjMuanBlZw.jpeg"
+    - "https://i.discogs.com/Ltfr9V9x1aEaqDTwl2IC8fiO1CH1lagxfjae1KSksE0/rs:fit/g:sm/q:90/h:600/w:587/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NTE0/MC0xNTUyMTI2NDc2/LTIyNzcuanBlZw.jpeg"
 genres: ["Rock"]
 styles: ["Alternative Rock", "Pop Rock"]
 ---
 
+The Big Area is the second album by English rock band Then Jerico, released in 1989. It includes three singles which reached the UK top 40: "Big Area" (No. 13; the band's biggest single to date), "What Does It Take" (featuring backing vocals by Belinda Carlisle; No. 33) and "Sugar Box" (No. 22). The album reached No. 4 in the UK Albums Chart.
+    
+    
 
 
 ## Tracklisting
@@ -39,7 +42,12 @@ styles: ["Alternative Rock", "Pop Rock"]
 {{< applemusic url="https://music.apple.com/gb/album/the-big-area/1320027819" >}}<br>
 
 
+## Videos
+### Then Jerico - Big Area
+{{< youtube id="wzIS86D1YJc" title="Then Jerico - Big Area" >}}<br>
+### More Videos
 
+- [Then Jerico - The Big Area - 1989 /LP Album](https://www.youtube.com/watch?v=j2tlBpk8XJk)
 
 ## Release Images
 {{< imageGrid >}}
@@ -47,6 +55,7 @@ styles: ["Alternative Rock", "Pop Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
+| Wikipedia URL | https://en.wikipedia.org/wiki/The_Big_Area |
 | Format         | Vinyl LP Album Stereo |
 | Label          | London Records |
 | Catalog Number | 828 122-1 |

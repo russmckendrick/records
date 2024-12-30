@@ -59,8 +59,6 @@ styles: ["Prog Rock"]
 ---
 
 This Strange Engine is the ninth studio album by the British neo-prog band Marillion, released in April 1997 by the Castle Communications imprint Raw Power. It was the first of the three recordings that Marillion made under contract with Castle, after being dropped by EMI Records in 1995 and before eventually going independent in 2000. The album was recorded at The Racket Club in Buckinghamshire, England, between August and November 1996 and was produced by the band themselves.
-
-
     
     
 

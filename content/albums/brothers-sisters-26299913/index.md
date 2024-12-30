@@ -55,6 +55,9 @@ styles: ["Indie Rock"]
 
 - [Steve Mason - I'm On My Way (Official Audio)](https://www.youtube.com/watch?v=-Z3hZDb8R7o)
 - [Steve Mason feat. Javed Bashir - No More (Official Video)](https://www.youtube.com/watch?v=PpUFg8odzPw)
+- [Steve Mason - Mars Man (Official Audio)](https://www.youtube.com/watch?v=z9pomvkgFCY)
+- [Steve Mason - I'm On My Way (Official Audio)](https://www.youtube.com/watch?v=-Z3hZDb8R7o)
+- [Steve Mason feat. Javed Bashir - No More (Official Video)](https://www.youtube.com/watch?v=PpUFg8odzPw)
 
 ## Release Images
 {{< imageGrid >}}
@@ -65,5 +68,5 @@ styles: ["Indie Rock"]
 | Format         | Vinyl 2× LP Deluxe Edition (Gold) |
 | Label          | Double Six (2) |
 | Catalog Number | DS145LPX |
-| Notes | Deluxe gold double vinyl Includes download code & 4-panel lyric insert  Gatefold jacket |
-| Discogs URL    | [Steve Mason - Brothers & Sisters](https://www.discogs.com/release/26299913-Steve-Mason-Brothers-Sisters) |
+| Notes | Deluxe gold double vinyl. Gatefold jacket. Includes download code & 4-panel lyric insert. |
+| Discogs URL    | [Steve Mason - Brothers & Sisters](https://www.discogs.com/release/26299913-Steve-Mason-2-Brothers-Sisters) |

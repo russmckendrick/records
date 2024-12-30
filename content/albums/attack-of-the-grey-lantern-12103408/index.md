@@ -15,12 +15,14 @@ additional_images:
     - "https://i.discogs.com/jeklT1_54cSE7rMDE4jbD1qI4fum84EL2vyt4tbNbyM/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMTAz/NDA4LTE1MjgzOTQ2/NDEtNDg2MC5qcGVn.jpeg"
     - "https://i.discogs.com/pyboX6TPRCKSMNKyADdF5snW7xebt8PoFjo1GFXRbtA/rs:fit/g:sm/q:90/h:291/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMTAz/NDA4LTE1MjgzOTE0/ODctOTU4NS5qcGVn.jpeg"
     - "https://i.discogs.com/_j5F64N6AV6YFbYYvha4AO71LOtGpTUKCrKYmY6wKkg/rs:fit/g:sm/q:90/h:584/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMTAz/NDA4LTE1MjgzOTQ2/NTQtNzMzOS5qcGVn.jpeg"
-    - "https://i.discogs.com/txKZVr93oxymfZW1wqRyqO8Ots3BJFaiFBReTfi6RUw/rs:fit/g:sm/q:90/h:605/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMTAz/NDA4LTE1MjgzOTQ2/NzItMTgyMy5qcGVn.jpeg"
+    - "https://i.discogs.com/VAc_zxBK-DggSjOXMeFA6EgG_0zHeoDyQsm6FSHTztQ/rs:fit/g:sm/q:90/h:600/w:594/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMTAz/NDA4LTE1MjgzOTQ2/NzItMTgyMy5qcGVn.jpeg"
 genres: ["Rock"]
 styles: ["Psychedelic Rock", "Britpop"]
 ---
 
-Attack of the Grey Lantern is the debut album by English alternative rock band Mansun released in February 1997 via Parlophone.  The album spent a total of 19 weeks on the UK Albums Chart, peaking at number one.
+Attack of the Grey Lantern is the debut album by English alternative rock band Mansun released on 17 February 1997 via Parlophone.  The album spent a total of 19 weeks on the UK Albums Chart, peaking at number one.
+
+
     
     
 
@@ -39,20 +41,10 @@ Attack of the Grey Lantern is the debut album by English alternative rock band M
 11. Dark Mavis (8:36)
 
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/attack-of-the-grey-lantern/1579780625" >}}<br>
+{{< applemusic url="https://music.apple.com/gb/album/attack-of-the-grey-lantern-collectors-edition/1770502521" >}}<br>
 
 
-## Videos
-### Mansun Wide Open Space
-{{< youtube id="ppmUdn6GUXQ" title="Mansun Wide Open Space" >}}<br>
-### More Videos
 
-- [Disgusting](https://www.youtube.com/watch?v=O00-ToMySOc)
-- [M̲a̲n̲s̲u̲n̲ - A̲t̲t̲a̲c̲k̲ O̲f̲ T̲h̲e̲ G̲r̲e̲y̲ L̲a̲n̲t̲e̲r̲n̲](https://www.youtube.com/watch?v=Y-30Irqd_FQ)
-- [Mansun - Stripper Vicar (official video)](https://www.youtube.com/watch?v=NQ_QkYHaX9k)
-- [Mansun - She Makes My Nose Bleed (Official Promo Video)](https://www.youtube.com/watch?v=beJx16Xirlk)
-- [Mansun - Taxloss](https://www.youtube.com/watch?v=vGtCMzdNV60)
-- [Mansun - Egg Shaped Fred (Official Promo Video)](https://www.youtube.com/watch?v=grDNthP7Fzw)
 
 ## Release Images
 {{< imageGrid >}}

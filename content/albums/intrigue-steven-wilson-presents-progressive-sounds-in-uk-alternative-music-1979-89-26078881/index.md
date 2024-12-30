@@ -14,7 +14,7 @@ cover:
 additional_images:
     - "https://i.discogs.com/mq-1_qsuoAgdsucm6aBfMwgeL7qAMZWs_JV4Y0lroSU/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2MDc4/ODgxLTE2NzY4Mzgy/NjMtNTcwNy5qcGVn.jpeg"
     - "https://i.discogs.com/ihFvhFK8ie7SQslomA3Ed_hOnAG_Oop9qK-Kg6b2Lp4/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2MDc4/ODgxLTE2NzY4Mzgy/NjQtNjc3Mi5qcGVn.jpeg"
-    - "https://i.discogs.com/E6MYm2Yhv9hsS8SANsPmpcKyEw-LklLHHYiMy3QOn0Q/rs:fit/g:sm/q:90/h:750/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2MDc4/ODgxLTE2NzY4Mzgy/NjAtNzM2Mi5qcGVn.jpeg"
+    - "https://i.discogs.com/Fg1g3exSl0K8ZHidTPC7w-plPnLhVVG0b2P2WM7pMcs/rs:fit/g:sm/q:90/h:600/w:480/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2MDc4/ODgxLTE2NzY4Mzgy/NjAtNzM2Mi5qcGVn.jpeg"
 genres: ["Electronic", "Jazz", "Rock", "Reggae", "Funk / Soul", "Pop", "Folk, World, & Country"]
 styles: ["Alternative Rock", "Ambient", "Art Rock", "Avantgarde", "Electro", "Ethereal", "Experimental", "Funk", "Goth Rock", "House", "Indie Pop", "Indie Rock", "Industrial", "Leftfield", "Lounge", "Modern Classical", "New Wave", "Noise", "Pop Rock", "Post-Punk", "Prog Rock", "Punk", "Rocksteady", "Ska", "Synth-pop", "Tribal"]
 ---
@@ -68,7 +68,7 @@ styles: ["Alternative Rock", "Ambient", "Art Rock", "Avantgarde", "Electro", "Et
 44. Dream Within A Dream
 45. Waking The Witch
 46. Ivy And Neet
-47. Beehead (7” Version)
+47. Beehead (7" Version)
 48. This Corrosion
 49. Ascension
 50. Gutter Busting
@@ -88,11 +88,15 @@ styles: ["Alternative Rock", "Ambient", "Art Rock", "Avantgarde", "Electro", "Et
 {{< youtube id="0TZbOz1Pz5o" title="Wire - I should have known better" >}}<br>
 ### More Videos
 
-- [Joy Division - The Eternal](https://www.youtube.com/watch?v=L5NpJa72-Bc)
 - [A Better Home in the Phantom Zone (1999 Remastered Version)](https://www.youtube.com/watch?v=1m6DAvVurVE)
-- [New Order - The Him [High Quality]](https://www.youtube.com/watch?v=lg7ZtIYvWjw)
 - [XTC - Complicated Game (remastered)](https://www.youtube.com/watch?v=L_QFMuieWiI)
+- [Joy Division - The Eternal](https://www.youtube.com/watch?v=L5NpJa72-Bc)
+- [New Order - The Him [High Quality]](https://www.youtube.com/watch?v=lg7ZtIYvWjw)
 - [Steven Wilson Presents: Intrigue-Progressive Sounds In Uk Alternative Music 1979-89 Reseña](https://www.youtube.com/watch?v=qV7uXAHPKEk)
+- [Steven Wilson presents Intrigue: Progressive Sounds In UK Alternative Music 1979-89 (Trailer)](https://www.youtube.com/watch?v=bNJPBA-hkNs)
+- [Steven Wilson "Intrigue: Progressive Sounds in UK alternative music 1979-89" ALBUM REVIEW](https://www.youtube.com/watch?v=WRlzxCa4elY)
+- [Steven Wilson Presents: Intrigue-Progressive Sounds In Uk Alternative Music 1979-89 Reseña](https://www.youtube.com/watch?v=qV7uXAHPKEk)
+- [Steven Wilson presents Intrigue - Rough Trade Event Reminder #shorts](https://www.youtube.com/watch?v=MVzZXSma_1I)
 
 ## Release Images
 {{< imageGrid >}}

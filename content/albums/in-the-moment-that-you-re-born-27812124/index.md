@@ -13,10 +13,13 @@ cover:
     caption: "In The Moment That You're Born by Brad"
 additional_images:
     - "https://i.discogs.com/o7QRGAl2rna0Lo-Y5eASwG2RU-jMmYQCUgRpeRPbak0/rs:fit/g:sm/q:90/h:582/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3ODEy/MTI0LTE2OTA2NDk0/ODEtNzQ3NC5qcGVn.jpeg"
+    - "https://i.discogs.com/kOiJvu-UN0Cbp8JlBphctFSbujbR7iSYZHFSQESTFLc/rs:fit/g:sm/q:90/h:590/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3ODEy/MTI0LTE3MzQzNDY5/MjMtMjg0MC5qcGVn.jpeg"
     - "https://i.discogs.com/__j07dTluzE-jj7MtQaWwtBypVIxcKW0kGaJECLiEoc/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3ODEy/MTI0LTE2OTA2NDk0/ODEtMTc2NC5qcGVn.jpeg"
     - "https://i.discogs.com/MGGaY4qCHKnvq0w9R2Qn8EXtpaWSo4NnnMeCDGp5Lic/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3ODEy/MTI0LTE2OTA2NDk0/ODEtMzE5MS5qcGVn.jpeg"
-    - "https://i.discogs.com/7l3qFPrv15gx_VZoaxhXymQZjlYEIh-OiL19Sq2w7Kk/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3ODEy/MTI0LTE2OTA2NDk0/ODEtODE5NC5qcGVn.jpeg"
     - "https://i.discogs.com/jtocfaU9gVICkLoBLkjKnuEkBSH9WgrLh1CiOCSovEA/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3ODEy/MTI0LTE2OTA2NDk0/ODEtODc5Ni5qcGVn.jpeg"
+    - "https://i.discogs.com/7l3qFPrv15gx_VZoaxhXymQZjlYEIh-OiL19Sq2w7Kk/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3ODEy/MTI0LTE2OTA2NDk0/ODEtODE5NC5qcGVn.jpeg"
+    - "https://i.discogs.com/VcVglPUiBdvFcy5E-qEUQKu4cZbkEZvq5ZTh_9zed4M/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3ODEy/MTI0LTE3MzQzNDY5/MjMtNDMzOC5qcGVn.jpeg"
+    - "https://i.discogs.com/rKHQ_tqp5po9vDus5WrW1CM-o6DDpVnHOM7aBIj03Fw/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3ODEy/MTI0LTE3MzQzNDY5/MjMtNDE0Mi5qcGVn.jpeg"
 genres: ["Rock"]
 styles: ["Alternative Rock", "Grunge"]
 ---

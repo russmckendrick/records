@@ -12,8 +12,8 @@ cover:
     alt: "Under Stars by Lonely Robot"
     caption: "Under Stars by Lonely Robot"
 additional_images:
-    - "https://i.discogs.com/GHmQ_Co2oY72YQ9axQjPmo9Mrry-XorIgQuNO2YXO24/rs:fit/g:sm/q:90/h:602/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNTMy/MzU0LTE1NTY5NzYx/MDYtODQ0OC5qcGVn.jpeg"
-    - "https://i.discogs.com/HwZ7-arwCNtCIK3kmcTxUIA3brukhNf6Ztba14PIP2o/rs:fit/g:sm/q:90/h:604/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNTMy/MzU0LTE1NTY5NzYx/MTQtMTkzNC5qcGVn.jpeg"
+    - "https://i.discogs.com/PNi6tq6VroSHiQEKdRNMaUeKyVvY4dUbCX0xnB-oj-4/rs:fit/g:sm/q:90/h:600/w:597/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNTMy/MzU0LTE1NTY5NzYx/MDYtODQ0OC5qcGVn.jpeg"
+    - "https://i.discogs.com/4F18BFPCyQqVsNwSxHurI_JDsINX3GJCiRZ5icGs59I/rs:fit/g:sm/q:90/h:600/w:595/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNTMy/MzU0LTE1NTY5NzYx/MTQtMTkzNC5qcGVn.jpeg"
     - "https://i.discogs.com/cRSS6BFyXz_TWg-JPY0hZ7fdKVl51om1aTV348420DY/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNTMy/MzU0LTE1NTY5NzYx/MDctNjc4OS5qcGVn.jpeg"
     - "https://i.discogs.com/qJjje6EC7dz0J-y0vdF1vrK6SolO-VeHtUDoaMhzoiw/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNTMy/MzU0LTE1NTY5NzYx/MTEtODYyMC5qcGVn.jpeg"
     - "https://i.discogs.com/OVvNdTGwMI6exDs5teXkJQY5h1AI3vwLOxXGfAAnXFc/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNTMy/MzU0LTE1NTY5NzYx/MDgtNjk1MC5qcGVn.jpeg"
@@ -22,7 +22,7 @@ additional_images:
     - "https://i.discogs.com/ujas1R-YnUC7_KyZLFSjNvH29lEV-bXhQmxUkiDkxhE/rs:fit/g:sm/q:90/h:592/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNTMy/MzU0LTE1NTY5NzYx/MTEtNzM1OS5qcGVn.jpeg"
     - "https://i.discogs.com/CMeLn0hRvhKD6OFg1b0zyTeUN-KKzL7EQSLZaw5Yc18/rs:fit/g:sm/q:90/h:593/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNTMy/MzU0LTE1NTY5NzYx/MTMtNzg4NS5qcGVn.jpeg"
     - "https://i.discogs.com/sE6nEnuZhBa3BeYWVtyDEWjKEjlMR66Ppro5v5xkOsQ/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNTMy/MzU0LTE1NTY5NzYx/MTMtNDk4NS5qcGVn.jpeg"
-    - "https://i.discogs.com/oCrA_gPhqRouq86uDIotp6xZSIr84dVVim-4V2jIw5M/rs:fit/g:sm/q:90/h:604/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNTMy/MzU0LTE1NTY5NzYx/MTQtMzczOS5qcGVn.jpeg"
+    - "https://i.discogs.com/QsSOdqlkz0jS6JRUSKUXasXgQionfeyhMs0SF5SZO8E/rs:fit/g:sm/q:90/h:600/w:595/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNTMy/MzU0LTE1NTY5NzYx/MTQtMzczOS5qcGVn.jpeg"
     - "https://i.discogs.com/xB03VJEvvBT4FWd_jVZHxROsBV4PuRr3zgyPVhoQR-M/rs:fit/g:sm/q:90/h:588/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNTMy/MzU0LTE1NTY5NzYx/MTQtNjI1MS5qcGVn.jpeg"
 genres: ["Rock"]
 styles: ["Prog Rock"]
@@ -55,13 +55,15 @@ styles: ["Prog Rock"]
 22. An Ending (2:39)
 
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/under-stars-bonus-tracks-edition/1454003781" >}}<br>
+{{< applemusic url="https://music.apple.com/gb/album/music-for-lonely-robots-and-fallen-stars-single/1704395851" >}}<br>
 
 
 ## Videos
 ### Lonely Robot - Under Stars. 2019. Crossover Prog. Full Album
 {{< youtube id="18eelBDtYSg" title="Lonely Robot - Under Stars. 2019. Crossover Prog. Full Album" >}}<br>
+### More Videos
 
+- [Lonely Robot - Under Stars. 2019. Crossover Prog. Full Album](https://www.youtube.com/watch?v=18eelBDtYSg)
 
 ## Release Images
 {{< imageGrid >}}

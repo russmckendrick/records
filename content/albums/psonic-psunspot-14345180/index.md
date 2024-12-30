@@ -12,12 +12,14 @@ cover:
     alt: "Psonic Psunspot by XTC"
     caption: "Psonic Psunspot by XTC"
 additional_images:
-    - "https://i.discogs.com/950oVAb8J8031fFfOG43zgvvZVX0oDeLxDzPWMGhQz8/rs:fit/g:sm/q:90/h:601/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MzQ1/MTgwLTE2NDcyMDA3/OTktODk1OS5qcGVn.jpeg"
+    - "https://i.discogs.com/SYj7893T3c0AIhpgfbzSCc0VBB_OPNolLFi5TNYLEiI/rs:fit/g:sm/q:90/h:600/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MzQ1/MTgwLTE2NDcyMDA3/OTktODk1OS5qcGVn.jpeg"
     - "https://i.discogs.com/6D7IHweN5OcWSO3hAjn95xOKKW-Ol6VMhM42thxjKG8/rs:fit/g:sm/q:90/h:577/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MzQ1/MTgwLTE2NDcyMDA2/OTctNzczOS5qcGVn.jpeg"
     - "https://i.discogs.com/MXTQtpNrbdx6pK3_bcoC-it--N3tonB_QNq72POqGQ0/rs:fit/g:sm/q:90/h:573/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MzQ1/MTgwLTE2NDcyMDA2/OTgtNzcxNS5qcGVn.jpeg"
     - "https://i.discogs.com/tslzmoa0l5KSl0bQTAN2znxkq3-FYQ2hy0jWQAsxTZc/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MzQ1/MTgwLTE2NDcyMDA4/MDEtOTEwMC5qcGVn.jpeg"
-    - "https://i.discogs.com/ggH0UoMjfWNpmh7l4tSaDRx28LJGz_VCDvhEBaAel6E/rs:fit/g:sm/q:90/h:604/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MzQ1/MTgwLTE2NDcxMzY3/MTEtNTUxOS5qcGVn.jpeg"
+    - "https://i.discogs.com/rx8Yw7qEBn8V9SJ7yUqkgB4NiVbZrtGCAA8EvcJS0x8/rs:fit/g:sm/q:90/h:600/w:595/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MzQ1/MTgwLTE2NDcxMzY3/MTEtNTUxOS5qcGVn.jpeg"
     - "https://i.discogs.com/C_e7xfCjCr5qQmCYa1bS6-qdwQ2c8zWANPqFc7vYul4/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MzQ1/MTgwLTE2NDcxMzY3/MTMtNjI0My5qcGVn.jpeg"
+    - "https://i.discogs.com/vFistjn1cdh_8S8HI1uT5O2caM_QCvTxaVwYEMhHGR0/rs:fit/g:sm/q:90/h:593/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MzQ1/MTgwLTE2Nzc4NTA4/NzctNTYxNy5qcGVn.jpeg"
+    - "https://i.discogs.com/I-rPuLnLvu566omH889ATF_14rvEuLeaVGy27DMl1P4/rs:fit/g:sm/q:90/h:576/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MzQ1/MTgwLTE2Nzc4NTA4/NzYtODU3MS5qcGVn.jpeg"
 genres: ["Rock"]
 styles: ["Psychedelic Rock"]
 ---
@@ -43,14 +45,19 @@ In 2002, the website Pitchfork listed the album at 66 on their "Top 100 Albums o
 
 
 ## Videos
-### The Dukes Of Stratosphear - Vanishing Girl
-{{< youtube id="0bbqezgfqD8" title="The Dukes Of Stratosphear - Vanishing Girl" >}}<br>
+### 25 O'Clock (2001 Mix)
+{{< youtube id="r8f8K6TNtXI" title="25 O'Clock (2001 Mix)" >}}<br>
 ### More Videos
 
-- [The Dukes Of Stratosphear - Collideascope](https://www.youtube.com/watch?v=mUOJIm0fVas)
+- [Pale And Precious (2001 Mix)](https://www.youtube.com/watch?v=YWbSdrUFe4Y)
+- [Vanishing Girl (2001 Mix)](https://www.youtube.com/watch?v=FDX-LLNoZEY)
+- [The Dukes of Stratosphear  - The Affiliated](https://www.youtube.com/watch?v=wKRGNREl7C0)
+- [What In The World? (2001 Mix)](https://www.youtube.com/watch?v=4HsGzFiDios)
+- [The Dukes Of Stratosphear - Vanishing Girl](https://www.youtube.com/watch?v=0bbqezgfqD8)
 - [Little Lighthouse (2001 Mix)](https://www.youtube.com/watch?v=davK8592Afw)
-- [The Dukes Of Stratosphear - Brainiac's daughter](https://www.youtube.com/watch?v=vUb4WzIvouQ)
 - [Dukes of Stratosphear (XTC) - You're My Drug](https://www.youtube.com/watch?v=HwzZflj9pjM)
+- [The Dukes Of Stratosphear - Collideascope](https://www.youtube.com/watch?v=mUOJIm0fVas)
+- [The Dukes Of Stratosphear - Brainiac's daughter](https://www.youtube.com/watch?v=vUb4WzIvouQ)
 
 ## Release Images
 {{< imageGrid >}}

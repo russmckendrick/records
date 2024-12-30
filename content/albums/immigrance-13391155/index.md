@@ -21,8 +21,8 @@ additional_images:
     - "https://i.discogs.com/8DcyXFGNz__tArZMyk2t2N4rnqXFaTygIwEBUdtf6Is/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMzkx/MTU1LTE1NTQ4ODUx/ODktNTA0MS5qcGVn.jpeg"
     - "https://i.discogs.com/M3bS8d7dGQigl1LGlft1r6y7TTLtEQvrwAFIqfIE3JI/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMzkx/MTU1LTE1NTQ4ODUx/OTAtODEzOC5qcGVn.jpeg"
     - "https://i.discogs.com/IEXXikGMOpFpyuMVlhWEduTjdtGJnl550jMLMILOmNM/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMzkx/MTU1LTE1NTQ4ODUx/ODktMzgyNi5qcGVn.jpeg"
-    - "https://i.discogs.com/XPgO-zjkFvqVyzKxvcXIjjcfeIgMW_rYHyiuh9fF0AY/rs:fit/g:sm/q:90/h:606/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMzkx/MTU1LTE1NTQ4ODUx/OTEtMjM5Mi5qcGVn.jpeg"
-    - "https://i.discogs.com/tIPibVOFuNyH8Qj4g7WoHP52_Le_BtZqvz4XQlsBVwo/rs:fit/g:sm/q:90/h:606/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMzkx/MTU1LTE1NTQ4ODUx/OTAtOTIzNC5qcGVn.jpeg"
+    - "https://i.discogs.com/iXqcYbZwfVNY1do4PGM0tf6NK8FWoF5fdh1rXpLu4PE/rs:fit/g:sm/q:90/h:600/w:593/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMzkx/MTU1LTE1NTQ4ODUx/OTEtMjM5Mi5qcGVn.jpeg"
+    - "https://i.discogs.com/OdAkQ7KijO-c-_vRFm2VNhDfuUkrdzuOmbrjvg_soeY/rs:fit/g:sm/q:90/h:600/w:594/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMzkx/MTU1LTE1NTQ4ODUx/OTAtOTIzNC5qcGVn.jpeg"
     - "https://i.discogs.com/nRh63G-yap0i0TjAFhi1caEKNirIhXygrj5MwUpddos/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMzkx/MTU1LTE1NTQ4ODUx/OTEtNTk4My5qcGVn.jpeg"
     - "https://i.discogs.com/UFb0QZMMr9t8KdqVpSKo9Pp84W9JlTZGdfaHdbbR8z4/rs:fit/g:sm/q:90/h:342/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMzkx/MTU1LTE1NTQ4ODUx/ODctMjkxMi5qcGVn.jpeg"
 genres: ["Jazz"]
@@ -30,7 +30,8 @@ styles: ["Fusion"]
 ---
 
 The latest album from Grammy-winning jazz ensemble Snarky Puppy takes inspiration from its members, sourced from all over the world. Produced by bassist-composer and founder Michael League, the richly instrumental and spiritual <i>Immigrance</i> celebrates multiculturalism and calls for a revaluing of human connection and harmony. This message resonates throughout the album’s sound palette with compositions like “Xavi”, inspired by Moroccan Chaabi groove, and the jazz-funk beat of “Bad Kids to the Back”.
-    
+        
+        
     
 
 
@@ -69,6 +70,7 @@ The latest album from Grammy-winning jazz ensemble Snarky Puppy takes inspiratio
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
+| Wikipedia URL | https://en.wikipedia.org/wiki/Immigrance |
 | Format         | Vinyl LP, Vinyl LP Single Sided Etched, All Media Album |
 | Label          | GroundUP Music (2) |
 | Catalog Number | GUM0319V |

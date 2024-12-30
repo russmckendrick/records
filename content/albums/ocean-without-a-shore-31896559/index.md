@@ -12,6 +12,9 @@ cover:
     alt: "Ocean Without A Shore by Weather Systems"
     caption: "Ocean Without A Shore by Weather Systems"
 additional_images:
+    - "https://i.discogs.com/kWIQh_5LuOcNrazeebfl8oNh_1hIHYkuBt5HZdm-1f4/rs:fit/g:sm/q:90/h:588/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxODk2/NTU5LTE3MzI5MTQ1/MTYtNTExMC5qcGVn.jpeg"
+    - "https://i.discogs.com/FFXMJHFsWQ3cj7ZWs42EGYtTR4QtbwK6XPkcYYqHT2Y/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxODk2/NTU5LTE3MjgzNzg5/NjMtOTk4Ni5qcGVn.jpeg"
+    - "https://i.discogs.com/TsolfREJwM-MSdkIgR_mICi3ezlvekopts1D_kEnoeE/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxODk2/NTU5LTE3MjgzNzg5/NjMtMTQyMS5qcGVn.jpeg"
     - "https://i.discogs.com/Tg1gWPUQDaCYv7vuFN8iFH1BuRCyo296gk1Bn_6qYGE/rs:fit/g:sm/q:90/h:600/w:593/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxODk2/NTU5LTE3Mjc5NTQx/NDgtOTQwNS5qcGVn.jpeg"
     - "https://i.discogs.com/vdZjEPLvvSB3dt_3sKRve4VTsa0X87vjvPpZK6ethE4/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxODk2/NTU5LTE3Mjc5NTQx/NDItNjc1My5qcGVn.jpeg"
     - "https://i.discogs.com/JK0--PNYncYcmy1Kz4ubkHuDRm7cJtJX_mXTPPaCm2o/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxODk2/NTU5LTE3Mjc5NTQx/NDctOTkwMi5qcGVn.jpeg"
@@ -55,8 +58,7 @@ styles: ["Prog Rock", "Art Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl 2× 12" 33 ⅓ RPM Album Limited Edition Stereo (Limited Edition 2LP On Blue Marble Vinyl) |
+| Format         | Vinyl 2× LP Album Limited Edition Stereo (Blue [Marble]) |
 | Label          | Music Theories Recordings |
 | Catalog Number | MTR77341 |
-| Notes | New Album by Anathema Mastermind Daniel Cavanaghs new Bandproject Weather Systems with Anathema Drummer Daniel Cardoso |
 | Discogs URL    | [Weather Systems - Ocean Without A Shore](https://www.discogs.com/release/31896559-Weather-Systems-Ocean-Without-A-Shore) |

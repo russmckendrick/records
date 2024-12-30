@@ -14,7 +14,7 @@ cover:
 additional_images:
     - "https://i.discogs.com/5XgCKJzPjCHhFGWTi8JZAA-_dN1iSBNj0FWTG0KWF-Q/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNjc3/OTU3LTE1Mzk4ODI4/NjctMTA0MC5qcGVn.jpeg"
     - "https://i.discogs.com/-eFmHeHIZX7RI4SsBHrl8WXlZx8jL7hZTYqLlyznz-E/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNjc3/OTU3LTE1Mzk4ODI4/NzEtNzg2Ny5qcGVn.jpeg"
-    - "https://i.discogs.com/RsXkJG2V6WDqeVX6vu2dvX2tEpl_LNtmlh7IcYntmXs/rs:fit/g:sm/q:90/h:1009/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNjc3/OTU3LTE1Mzk4ODI4/NzQtMTM3MS5qcGVn.jpeg"
+    - "https://i.discogs.com/YKlaI_y5uDfyBXLh_Va52uajj2K2wbEyqc0TtZjtnG4/rs:fit/g:sm/q:90/h:600/w:356/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNjc3/OTU3LTE1Mzk4ODI4/NzQtMTM3MS5qcGVn.jpeg"
     - "https://i.discogs.com/MvfBjUfWNc1NgHL6JWyuPDEpAuSk3LDQ9dAWrtceEu8/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNjc3/OTU3LTE1Mzk4ODI4/NzQtODQ4OC5qcGVn.jpeg"
 genres: ["Rock"]
 styles: ["Prog Rock"]

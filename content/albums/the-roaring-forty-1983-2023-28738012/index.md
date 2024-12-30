@@ -12,9 +12,14 @@ cover:
     alt: "The Roaring Forty | 1983-2023 by Billy Bragg"
     caption: "The Roaring Forty | 1983-2023 by Billy Bragg"
 additional_images:
-    - "https://i.discogs.com/ZBOiKbxtIKAi8oy89nCteUeIN_BCOiQHT6MjUoot6G4/rs:fit/g:sm/q:90/h:450/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4NzM4/MDEyLTE2OTg1ODcw/MjYtMTQxMy5qcGVn.jpeg"
-    - "https://i.discogs.com/A9FzXMKHpSmGrezUbV7V4Zh-N71-9S7JhPqeK_aubTs/rs:fit/g:sm/q:90/h:450/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4NzM4/MDEyLTE2OTg1ODcw/MjYtMjI0MC5qcGVn.jpeg"
-    - "https://i.discogs.com/_VukSk6xSX2G5h6gsf4Og6RddnyM1UNoJjWqhyQX04Q/rs:fit/g:sm/q:90/h:450/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4NzM4/MDEyLTE2OTg1ODcw/MjUtMjEzOS5qcGVn.jpeg"
+    - "https://i.discogs.com/jUJasay_K_seCj049GKbusUACpmLBqFKuNOmrJIRSZo/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4NzM4/MDEyLTE2OTk1NDYy/NTAtNzcyMi5qcGVn.jpeg"
+    - "https://i.discogs.com/KX2d1yPtHsABwjLBZ_5B_ELxR_dDRucuhivbYUejwXk/rs:fit/g:sm/q:90/h:600/w:591/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4NzM4/MDEyLTE2OTk1NDYy/NDctOTIzMi5qcGVn.jpeg"
+    - "https://i.discogs.com/c6kYLpnb_uHypXC2kbn6H2ldHcAoaWlfRb94TX13SOE/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4NzM4/MDEyLTE2OTk1NDYy/NDgtODgzNC5qcGVn.jpeg"
+    - "https://i.discogs.com/_Byy4O7cOoXRbMLMc3-yNoJH7mTg4NYqcgpiHPNpduo/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4NzM4/MDEyLTE2OTk1NDYy/NDctMzI1MS5qcGVn.jpeg"
+    - "https://i.discogs.com/L3AXJeGIdaeUT8tZMxQ77g6Ul5cHQbwdmgWqmDF_q6c/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4NzM4/MDEyLTE2OTk1NDYy/NDktMjc0MC5qcGVn.jpeg"
+    - "https://i.discogs.com/lUvzrRm3BxPJgQwFStX9yFdMvTRrasRd4vjRL5NOTWU/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4NzM4/MDEyLTE2OTk1NDYy/NDYtNzU3MC5qcGVn.jpeg"
+    - "https://i.discogs.com/95Ro4t_1OC73suj_goBX6tiRcFNP5Wz6KUBNTY4EM4w/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4NzM4/MDEyLTE2OTk1NDYy/NDktNTg0OC5qcGVn.jpeg"
+    - "https://i.discogs.com/m6pBKqGxapwgi8DWXYhchcaFC5FwNTZ3ZtqWJinlcbI/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4NzM4/MDEyLTE2OTk1NDYy/NDctNzQzNi5qcGVn.jpeg"
 genres: ["Rock"]
 styles: ["Folk Rock"]
 ---

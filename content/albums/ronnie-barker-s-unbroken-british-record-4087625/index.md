@@ -47,5 +47,5 @@ styles: ["Comedy", "Spoken Word", "Country", "Folk"]
 | Format         | Vinyl LP Album |
 | Label          | K-Tel |
 | Catalog Number | NE 1029 |
-| Notes | Produced & Co-ordinated by John Schroeder. A Smug Production. |
+| Notes | Produced & Co-ordinated by John Schroeder. A Smug Production.  Runouts are entirely hand etched except for the standalone numeral on each side which is stamped sideways. |
 | Discogs URL    | [Ronnie Barker - Ronnie Barker's Unbroken British Record](https://www.discogs.com/release/4087625-Ronnie-Barker-Ronnie-Barkers-Unbroken-British-Record) |

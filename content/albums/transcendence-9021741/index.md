@@ -12,8 +12,8 @@ cover:
     alt: "Transcendence by Devin Townsend Project"
     caption: "Transcendence by Devin Townsend Project"
 additional_images:
-    - "https://i.discogs.com/n9bOkg45-AZlet3yZUVeveux7evTF58YGMbTn-RZUBk/rs:fit/g:sm/q:90/h:612/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkwMjE3/NDEtMTQ3MzQyNTk0/NS04ODM4LmpwZWc.jpeg"
-    - "https://i.discogs.com/KXZV7LHVekUcQSwkH0vZ6N42wNxRXn4jmVlT6iirZmE/rs:fit/g:sm/q:90/h:612/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkwMjE3/NDEtMTQ3MzQyNTk0/OC00MDQ1LmpwZWc.jpeg"
+    - "https://i.discogs.com/l600PwcPH9ggLR02xz-ykKZml_snYCCDErtsoRiS140/rs:fit/g:sm/q:90/h:600/w:587/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkwMjE3/NDEtMTQ3MzQyNTk0/NS04ODM4LmpwZWc.jpeg"
+    - "https://i.discogs.com/xgrVE0n8z9LuyhE5k0MGUxo-E-58Y4luK2-ZMBn88kQ/rs:fit/g:sm/q:90/h:600/w:587/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkwMjE3/NDEtMTQ3MzQyNTk0/OC00MDQ1LmpwZWc.jpeg"
     - "https://i.discogs.com/jyDoDlBaByCf6_cZ5Ro1xVyaKqkq4e4TAsMv9kPMJHo/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkwMjE3/NDEtMTQ3MzQyNTk0/NS0yNzY0LmpwZWc.jpeg"
     - "https://i.discogs.com/lMJLf6sci4gcG1g7ZMDTfvyNqPUxLWjzZNwac1AEj5w/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkwMjE3/NDEtMTQ3MzQyNTk0/Ny0yMDIyLmpwZWc.jpeg"
     - "https://i.discogs.com/Y3crkWde0dDnx9f0BzCi_Jzurg_FlDaOYUJNOz5PDDk/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkwMjE3/NDEtMTQ3MzQyNTk0/OC00MDg3LmpwZWc.jpeg"
@@ -27,6 +27,8 @@ styles: ["Progressive Metal"]
 ---
 
 Transcendence is the seventeenth studio album by Canadian musician Devin Townsend. It is the seventh and final album in the Devin Townsend Project series. It was released on September 9, 2016, via HevyDevy Records.
+
+
     
     
 

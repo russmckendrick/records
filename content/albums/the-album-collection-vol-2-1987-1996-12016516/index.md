@@ -40,7 +40,7 @@ styles: []
 14. Human Touch
 15. Human Touch
 16. Soul Driver
-17. 57 Channels (And Notin' On)
+17. 57 Channels (And Nothin' On)
 18. Cross My Heart
 19. Gloria's Eyes
 20. With Every Wish

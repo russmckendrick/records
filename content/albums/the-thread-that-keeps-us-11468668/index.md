@@ -25,8 +25,8 @@ additional_images:
     - "https://i.discogs.com/G-lGxi8VSLpol7Gqerx1W_tuqxVpdT0xQT2UC-NJ3m4/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNDY4/NjY4LTE1MTcwNjEx/OTAtNzY0Ny5qcGVn.jpeg"
     - "https://i.discogs.com/WZCFDdiWYsskX_5NkZz2dpnxVZoC8PwQmESaPA2We8Y/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNDY4/NjY4LTE1MTcwNjEx/ODctMTkwMS5qcGVn.jpeg"
     - "https://i.discogs.com/D6sKo8oqCDvlXbyG2r3otaTp1qTzX1HId4OglklLWMA/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNDY4/NjY4LTE1MTcwNjEx/ODctNDY4Ny5qcGVn.jpeg"
-genres: ["Rock", "Folk, World, & Country"]
-styles: ["Indie Rock", "Alternative Rock", "Country Rock"]
+genres: ["Rock", "Latin", "Folk, World, & Country"]
+styles: ["Indie Rock", "Alternative Rock", "Country Rock", "Latin", "Tejano"]
 ---
 
 The Thread That Keeps Us is the ninth studio album by American indie rock band Calexico. It was released on January 26, 2018, under Anti-.
@@ -59,7 +59,7 @@ The Thread That Keeps Us is the ninth studio album by American indie rock band C
 22. Dream On Mount Tam
 
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/the-thread-that-keeps-us-deluxe-edition/1289246851" >}}<br>
+{{< applemusic url="https://music.apple.com/gb/album/the-thread-that-keeps-us/1724057184" >}}<br>
 
 
 ## Videos

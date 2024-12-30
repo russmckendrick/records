@@ -36,12 +36,13 @@ styles: ["Indie Rock", "Post Rock", "Shoegaze"]
 
 
 ## Videos
-### Midas Fall - Glue
-{{< youtube id="oZ_ArHLW43I" title="Midas Fall - Glue" >}}<br>
+### Midas Fall - Evaporate
+{{< youtube id="k0BnZ_rO-R4" title="Midas Fall - Evaporate" >}}<br>
 ### More Videos
 
-- [Midas Fall - Evaporate](https://www.youtube.com/watch?v=k0BnZ_rO-R4)
+- [Midas Fall - Glue](https://www.youtube.com/watch?v=oZ_ArHLW43I)
 - [Midas Fall - Evaporate (Live Session)](https://www.youtube.com/watch?v=U_KKsAY55qM)
+- [Midas Fall - Evaporate](https://www.youtube.com/watch?v=k0BnZ_rO-R4)
 
 ## Release Images
 {{< imageGrid >}}

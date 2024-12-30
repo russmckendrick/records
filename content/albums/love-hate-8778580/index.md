@@ -14,8 +14,8 @@ cover:
     caption: "Love & Hate by Michael Kiwanuka"
 additional_images:
     - "https://i.discogs.com/ctBNk3Tp42pBh-j28L5GPdyWEAF5kcXXYALJc2TMObI/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg3Nzg1/ODAtMTQ2ODU4NjM2/My02NTgxLmpwZWc.jpeg"
-    - "https://i.discogs.com/K1mWVKG0j-MSDQ5daVdMoED6XaYCqPFYkszg3dY1yGU/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg3Nzg1/ODAtMTU4NTQyMjYy/Mi0yNTgwLmpwZWc.jpeg"
     - "https://i.discogs.com/8IvaGURRZEJ4cD3bGKh1fiL0niIHMHvPnREWXaOoUNY/rs:fit/g:sm/q:90/h:290/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg3Nzg1/ODAtMTQ2ODU5OTQ3/My04MjY3LmpwZWc.jpeg"
+    - "https://i.discogs.com/K1mWVKG0j-MSDQ5daVdMoED6XaYCqPFYkszg3dY1yGU/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg3Nzg1/ODAtMTU4NTQyMjYy/Mi0yNTgwLmpwZWc.jpeg"
     - "https://i.discogs.com/Crz_P34Pmf0UQzb8PRymlDiuSMqtm1PqBNwvl-QpGZM/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg3Nzg1/ODAtMTQ2ODU5OTQ4/Ny02MTM0LmpwZWc.jpeg"
     - "https://i.discogs.com/t83Zah4DB933M9RQ0mn5xNoLyyu8KWu5hm3vp4MuKIM/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg3Nzg1/ODAtMTQ2ODU5OTQ4/Ny00NTYwLmpwZWc.jpeg"
     - "https://i.discogs.com/OMokZ94mhqFSIlb-B_kLYtqIKF_LAHu3vAofgLMdFME/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg3Nzg1/ODAtMTQ2ODU5OTQ4/Ny05MjEzLmpwZWc.jpeg"
@@ -24,7 +24,7 @@ genres: ["Rock", "Funk / Soul"]
 styles: ["Soul", "Rhythm & Blues", "Acoustic"]
 ---
 
-Michael Kiwanuka’s stunning second LP proves he’s an artist with something to say. <i>Love & Hate</i> is a timely and timeless set of slow-burning soul that recalls Marvin Gaye, Bill Withers, and Curtis Mayfield. Produced by Danger Mouse, it sounds of the past and present all at once—as it does in the string-embossed swing of “Black Man in a White World.”  
+Michael Kiwanuka’s stunning second LP proves he’s an artist with something to say. <i>Love & Hate</i> is a timely and timeless set of slow-burning soul that recalls Marvin Gaye, Bill Withers and Curtis Mayfield. Produced by Danger Mouse, it sounds of the past and present all at once—as it does in the string-embossed swing of “Black Man in a White World.”  
     
     
 

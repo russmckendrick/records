@@ -23,7 +23,7 @@ additional_images:
     - "https://i.discogs.com/uZVBpHaUs5o_qIR6Qea0ZrcsYhh0OKJgV8YtxBTH62c/rs:fit/g:sm/q:90/h:450/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NDQz/MjI3LTE2MTk0MjM4/MjItMjUxNS5qcGVn.jpeg"
     - "https://i.discogs.com/kjMS_aOelbow91EXEKDE-wnEOU4mG0iL3NSWH3PqnGE/rs:fit/g:sm/q:90/h:593/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NDQz/MjI3LTE2MTk0MjM4/MjgtNTk4OC5qcGVn.jpeg"
     - "https://i.discogs.com/Otqkz6BuWBmjJdBQ2ovA5wAfmvKZk413nssg3emSsOA/rs:fit/g:sm/q:90/h:565/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NDQz/MjI3LTE2MTk0MjM4/MzUtMzM4MS5qcGVn.jpeg"
-    - "https://i.discogs.com/uOe1sSGH1W-kwodMWRQY7z_xs2q0JFBTYIceka0CIYM/rs:fit/g:sm/q:90/h:789/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NDQz/MjI3LTE2MTk0MjM4/NDAtMTYwOC5qcGVn.jpeg"
+    - "https://i.discogs.com/sZA1AfX8wgdTIHHV6kUZ-wOl-iATXHUKhWw4hQxE_L8/rs:fit/g:sm/q:90/h:600/w:456/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NDQz/MjI3LTE2MTk0MjM4/NDAtMTYwOC5qcGVn.jpeg"
 genres: ["Rock", "Reggae"]
 styles: ["Nu Metal", "Ragga"]
 ---
@@ -55,13 +55,13 @@ Roots Rock Riot is the second album from Welsh rock band Skindred. It was releas
 
 
 ## Videos
-### Skindred - Killing me [Roots Rock Riot Album]
-{{< youtube id="dsaHEp1VfXE" title="Skindred - Killing me [Roots Rock Riot Album]" >}}<br>
+### Roots Rock Riot
+{{< youtube id="fWQuZIzdXPU" title="Roots Rock Riot" >}}<br>
 ### More Videos
 
+- [Skindred - Killing me [Roots Rock Riot Album]](https://www.youtube.com/watch?v=dsaHEp1VfXE)
 - [SKINDRED - Rat Race](https://www.youtube.com/watch?v=h-kmLkfFrtU)
 - [Rude Boy for Life](https://www.youtube.com/watch?v=u1borxceXS0)
-- [Roots Rock Riot](https://www.youtube.com/watch?v=fWQuZIzdXPU)
 
 ## Release Images
 {{< imageGrid >}}

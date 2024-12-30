@@ -46,7 +46,7 @@ styles: ["Art Rock"]
 11. Coloma Blues (5:14)
 
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/motorcade-amnesiacs-deluxe-edition/990339960" >}}<br>
+{{< applemusic url="https://music.apple.com/gb/album/motorcade-amnesiacs/990325822" >}}<br>
 
 
 ## Videos
@@ -54,6 +54,17 @@ styles: ["Art Rock"]
 {{< youtube id="lRlpH34urEI" title="Candle Book and Bell" >}}<br>
 ### More Videos
 
+- [Ffwd to the Freeze Frame](https://www.youtube.com/watch?v=J_PRPX_pIrk)
+- [Make It So](https://www.youtube.com/watch?v=AC6GmaN2OZA)
+- [Sweet Billy Pilgrim - Slingshot Grin (from Motorcade Amnesiacs)](https://www.youtube.com/watch?v=EdwLWYB18mo)
+- [Burn Before Reading](https://www.youtube.com/watch?v=94xmvK_b1A8)
+- [Sweet Billy Pilgrim - Just Above Midtown (from Motorcade Amnesiacs)](https://www.youtube.com/watch?v=Ze3kyWe1oRk)
+- [Chasing Horses](https://www.youtube.com/watch?v=-4RLRxKq-pI)
+- [Tyrekickers](https://www.youtube.com/watch?v=XnGaVygkXwY)
+- [We Just Did What Happened and Nobody Came](https://www.youtube.com/watch?v=0p1AyJAQDdA)
+- [Longstreth](https://www.youtube.com/watch?v=ghZ93J3CBco)
+- [Sweet Billy Pilgrim - Coloma Blues (from Motorcade Amnesiacs)](https://www.youtube.com/watch?v=aVIHC0E1Vpw)
+- [Candle Book and Bell](https://www.youtube.com/watch?v=lRlpH34urEI)
 - [Ffwd to the Freeze Frame](https://www.youtube.com/watch?v=J_PRPX_pIrk)
 - [Make It So](https://www.youtube.com/watch?v=AC6GmaN2OZA)
 - [Sweet Billy Pilgrim - Slingshot Grin (from Motorcade Amnesiacs)](https://www.youtube.com/watch?v=EdwLWYB18mo)

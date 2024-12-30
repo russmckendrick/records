@@ -16,12 +16,12 @@ additional_images:
     - "https://i.discogs.com/xJkdg3vw4a966Ee_bbVjSLLZhuujfQu5saa-35GN5SE/rs:fit/g:sm/q:90/h:556/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMDMx/MzczLTE1MTI0MDMx/MjItODk1Mi5qcGVn.jpeg"
     - "https://i.discogs.com/aazJcUuBqWkygtKzx44G2AhXMBWGGHsYjfs9NSQG3do/rs:fit/g:sm/q:90/h:277/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMDMx/MzczLTE1MTI0MDMx/MjgtMTgzNi5qcGVn.jpeg"
     - "https://i.discogs.com/-8mQnHCLAXRChdCF8J2CPBGkpE-CFpR-rJfIAWUHnjk/rs:fit/g:sm/q:90/h:589/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMDMx/MzczLTE1MTI0MDMx/MzMtNDc3NS5qcGVn.jpeg"
-    - "https://i.discogs.com/vk4sMRcS02xKS6dvGyHLXsY6rUDk-HGix8BFThgk3hw/rs:fit/g:sm/q:90/h:605/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMDMx/MzczLTE1MTI0MDMx/MzUtOTY0My5qcGVn.jpeg"
-    - "https://i.discogs.com/wAgwSYGsNcLCRGzSCFgvZya0_enog5wxEOHCUB7pb6Q/rs:fit/g:sm/q:90/h:602/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMDMx/MzczLTE1MTI0MDMx/NDItOTIyNi5qcGVn.jpeg"
+    - "https://i.discogs.com/2gDtKegTrLij8TfBvyExkgTqP5CNtn-3teRUlpgp9c4/rs:fit/g:sm/q:90/h:600/w:594/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMDMx/MzczLTE1MTI0MDMx/MzUtOTY0My5qcGVn.jpeg"
+    - "https://i.discogs.com/ifBriSOo7Wb9vvriisfA9-hRci9L9R3TOHwe8KBQ48s/rs:fit/g:sm/q:90/h:600/w:597/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMDMx/MzczLTE1MTI0MDMx/NDItOTIyNi5qcGVn.jpeg"
     - "https://i.discogs.com/4XnjO8PvcZiig3OgETOjpnwus8sN3vM8B2LraPxPIPo/rs:fit/g:sm/q:90/h:591/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMDMx/MzczLTE1MTI0MDMx/NTEtNjI3Ny5qcGVn.jpeg"
     - "https://i.discogs.com/fo5sKq8SWR6IAML4NH16O_sZydlTFBKlYRzVUW41ntY/rs:fit/g:sm/q:90/h:592/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMDMx/MzczLTE1MTI0MDMx/NTYtNTA1MC5qcGVn.jpeg"
     - "https://i.discogs.com/Kvhyj_lZP3qEXjTqCDG4sWZZzAqt9N2sfx7XkgfAcsM/rs:fit/g:sm/q:90/h:590/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMDMx/MzczLTE1MTI0MDMx/NjEtMTI0Ny5qcGVn.jpeg"
-    - "https://i.discogs.com/Si13UZBN9ErgSD8AhEsm-fQBSQeuPfwkF_nfIJi-8tg/rs:fit/g:sm/q:90/h:606/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMDMx/MzczLTE2MjEwMjE2/OTEtMzcwMS5qcGVn.jpeg"
+    - "https://i.discogs.com/J8TJcXmvpYGgMzQHwR-7rpOQ95nNlX5BpFDXKlX9Ikw/rs:fit/g:sm/q:90/h:600/w:593/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMDMx/MzczLTE2MjEwMjE2/OTEtMzcwMS5qcGVn.jpeg"
 genres: ["Rock"]
 styles: ["Progressive Metal"]
 ---
@@ -77,4 +77,4 @@ styles: ["Progressive Metal"]
 | Label          | Inside Out Music |
 | Catalog Number | IOMLP 491 |
 | Notes | Released through the webshop of VUUR. Pre-ordered copies are signed by Anneke. |
-| Discogs URL    | [Vuur - In This Moment We Are Free - Cities](https://www.discogs.com/release/11031373-Vuur-In-This-Moment-We-Are-Free-Cities) |
+| Discogs URL    | [Vuur - In This Moment We Are Free - Cities](https://www.discogs.com/release/11031373-Vuur-2-In-This-Moment-We-Are-Free-Cities) |

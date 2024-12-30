@@ -16,21 +16,19 @@ additional_images:
     - "https://i.discogs.com/8ScU40PRWiCk3bN-Jmx3c-O3NHBHNmbuZSl8dMj4lJk/rs:fit/g:sm/q:90/h:589/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1ODY2/ODYzLTE1OTk1NDY5/MDEtNzg4MS5qcGVn.jpeg"
     - "https://i.discogs.com/JQITOnOMpkdEFamIvusccoBlnqshBN6Lcmv8aNh2ejw/rs:fit/g:sm/q:90/h:417/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1ODY2/ODYzLTE2MTI1MjUw/MzUtMjA0MS5qcGVn.jpeg"
     - "https://i.discogs.com/CvucG9j7Ja7uV3J_tTxeMUuyKvYsGgLfXmL_tXSJI3w/rs:fit/g:sm/q:90/h:521/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1ODY2/ODYzLTE1OTk1MTQ4/NTUtNDc0NC5qcGVn.jpeg"
-    - "https://i.discogs.com/wkTpfN5949fP0ctM1K0c2-QLWwgqgaJagvrFQAYJUk4/rs:fit/g:sm/q:90/h:610/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1ODY2/ODYzLTE1OTk1MTQ4/NTMtODQ3MC5qcGVn.jpeg"
+    - "https://i.discogs.com/gFJw6m_NpSrSBGnamNwLojRPfGlzP0cGtvKJcZGoZII/rs:fit/g:sm/q:90/h:600/w:589/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1ODY2/ODYzLTE1OTk1MTQ4/NTMtODQ3MC5qcGVn.jpeg"
     - "https://i.discogs.com/33A9dJC0YyQToMILBR3ZjEmOp_B5eDTes-4RzUw5N3U/rs:fit/g:sm/q:90/h:592/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1ODY2/ODYzLTE1OTk1MTQ4/NTUtODE4NS5qcGVn.jpeg"
     - "https://i.discogs.com/GIETayumEEW4T4oK96kxEcqBUJdB-zdU8EnIp0BRvao/rs:fit/g:sm/q:90/h:589/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1ODY2/ODYzLTE2MTI1MjQ3/MzMtMjQwMS5qcGVn.jpeg"
     - "https://i.discogs.com/P8MuWC_mEH_yYDmFWz48LjkN2hIV7L4FMLmJi4dtklU/rs:fit/g:sm/q:90/h:591/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1ODY2/ODYzLTE2MTI1MjQ3/NDAtODc4MC5qcGVn.jpeg"
     - "https://i.discogs.com/SUBCmMOWRPyt7QbZ31BPpKmoCirJer2YsAJHls9AjKA/rs:fit/g:sm/q:90/h:371/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1ODY2/ODYzLTE2MTI1MjQ3/NTAtMzM2OC5qcGVn.jpeg"
-    - "https://i.discogs.com/x0EtYu7QX1tuH7Pw5Qr6tHn7QDrKDGC1a0G1uk83uiQ/rs:fit/g:sm/q:90/h:449/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1ODY2/ODYzLTE2MzE4NTYx/NjktNzEwMC5qcGVn.jpeg"
-    - "https://i.discogs.com/T2eyV0c5_lQqTU_JKzDp82u4QK9_I-opnKTdlPPdLPw/rs:fit/g:sm/q:90/h:602/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1ODY2/ODYzLTE2MTI1MjQ3/NjItNDkzNS5qcGVn.jpeg"
+    - "https://i.discogs.com/CaOWzsHs4Q4x4CuUEQOe6Az-J9L8Y5wPeOL0jC_A9ZI/rs:fit/g:sm/q:90/h:450/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1ODY2/ODYzLTE2MzE4NTYx/NjktNzEwMC5qcGVn.jpeg"
+    - "https://i.discogs.com/jrAoRzzliCyXFQWYp_4tRsjQF9gD2T-1l1BT53Ct7Mw/rs:fit/g:sm/q:90/h:600/w:597/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1ODY2/ODYzLTE2MTI1MjQ3/NjItNDkzNS5qcGVn.jpeg"
     - "https://i.discogs.com/YfGiJ-5GgsMPkoBaAHnmIflHonNX1G3MlsdsYe_e7HI/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1ODY2/ODYzLTE2MTI1MjQ3/NzItODUyNC5qcGVn.jpeg"
 genres: ["Rock"]
 styles: ["Prog Rock"]
 ---
 
-Versions of the Truth is the thirteenth studio album by British progressive rock band The Pineapple Thief, released on 4 September 2020 through Kscope. it is the third album to include Gavin Harrison on drums.
-
-
+Versions of the Truth is the thirteenth studio album by British progressive rock band The Pineapple Thief, released on 4 September 2020 through Kscope. It is the third album to include Gavin Harrison on drums.
     
     
 
@@ -56,10 +54,10 @@ Versions of the Truth is the thirteenth studio album by British progressive rock
 {{< youtube id="fVNjhKLF1Pg" title="The Pineapple Thief - Demons" >}}<br>
 ### More Videos
 
-- [The Pineapple Thief - Versions of the Truth (2020) Full Album](https://www.youtube.com/watch?v=UdNFADpNLXU)
 - [The Pineapple Thief - Break it All](https://www.youtube.com/watch?v=7nooe94rQ2Q)
 - [The Pineapple Thief - Versions of the Truth](https://www.youtube.com/watch?v=O32DMyXN-mI)
 - [The Pineapple Thief - Driving Like Maniacs](https://www.youtube.com/watch?v=eV_i6Y_6KVY)
+- [The Pineapple Thief - Versions of the Truth (2020) Full Album](https://www.youtube.com/watch?v=UdNFADpNLXU)
 
 ## Release Images
 {{< imageGrid >}}

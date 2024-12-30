@@ -4,7 +4,7 @@ artist_name: "The La's"
 artist: "the-la-s"
 album_name: "The La's"
 date: 2016-10-11T16:25:20.000000Z
-release_date: "2023-05-12"
+release_date: "1990-11"
 release_id: "8909667"
 slug: "the-la-s-8909667"
 hideSummary: true
@@ -26,11 +26,14 @@ genres: ["Rock"]
 styles: ["Indie Rock"]
 ---
 
-Alongside acts like Happy Mondays and the Smiths, Liverpool’s succinctly, yet perfectly named the La’s are amongst the definitive British rock acts of the late ‘80s. At a time when British rock was still reeling from the colossal impact of the punk revolution of the late ‘70s, the La’s emerged with a set of sharply composed, self- confident pop classics on their 1987 debut. The sweetly melodic, Velvet Underground-aping “There She Goes” is in many ways the band’s defining moment, but from the woozy faux-vaudeville of “Freedom Song” to the frantic mod outrage of “I Can’t Sleep”.
+The La's were an English rock band from Liverpool, originally active from 1983 until 1992. Fronted by singer, songwriter and guitarist Lee Mavers, the group are best known for their hit single "There She Goes". The band was formed by Mike Badger in 1983 and Mavers joined the next year, although for most of the group's history, the frequently changing line-up revolved around the core duo of Lee Mavers (vocals, guitar) and John Power (bass, backing vocals) along with numerous other guitarists and drummers including Paul Hemmings, John "Timmo" Timson, Peter "Cammy" Cammell, Iain Templeton, John "Boo" Byrne, Chris Sharrock,  and Neil Mavers.
+After the departure of Badger in late 1986, the band signed to Go! Discs in 1987 and started recording their debut album. Following the release of singles "Way Out" (1987), "There She Goes" (1988) and "Timeless Melody" (1990) and having aborted several recording sessions with different producers, the band released their debut album, The La's, in 1990 to critical acclaim and modest commercial success. John Power left The La's to form Cast and the group entered a prolonged hiatus in 1992. The group later reformed briefly in the mid-1990s, 2005 and 2011. However, no new recordings have been released.
 
-The La’s is jam packed with carefully crafted radio-ready pop leavened by literate songwriting and an impressively fierce punk bite. One of the few out-and-out masterpieces to emerge from England in the late ‘80s, and an important influence on the subsequent Britpop movement of the early ‘90s
 
-The La’s is a perfect wonder.
+        
+        
+    
+
 
 ## Tracklisting
 1. Son Of A Gun
@@ -47,7 +50,7 @@ The La’s is a perfect wonder.
 12. Looking Glass
 
 ## Apple Music
-{{< applemusic url="https://music.apple.com/us/album/the-las/1444167004" >}}<br>
+{{< applemusic url="https://music.apple.com/gb/album/the-las-remastered-bonus-track-version/1443735619" >}}<br>
 
 
 ## Videos
@@ -73,6 +76,7 @@ The La’s is a perfect wonder.
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
+| Wikipedia URL | https://en.wikipedia.org/wiki/The_La%27s |
 | Format         | Vinyl LP Album Reissue Remastered (Blue) |
 | Label          | Go! Discs |
 | Catalog Number | 478 974-6 |

@@ -14,13 +14,13 @@ cover:
 additional_images:
     - "https://i.discogs.com/H54HKZJ0y2yxYNEFncYH6U7-FpSw1nV9KGpFMmXLBzI/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NjM1/NTU5LTE2MjczMjkx/MTMtODA3MS5qcGVn.jpeg"
     - "https://i.discogs.com/8GsHqZj9RtOMc0FO7zq18INdMZE1l2IL67ITarDZkSU/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NjM1/NTU5LTE2Mjc1Njgy/MTgtNDY0NS5qcGVn.jpeg"
-    - "https://i.discogs.com/JMntPTmx-jrHOmgqY3MqlxIsnFKChwTYnQuzxq3FW-M/rs:fit/g:sm/q:90/h:605/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NjM1/NTU5LTE2Mjc2NDkw/NzQtMzE0NC5qcGVn.jpeg"
-    - "https://i.discogs.com/XM3ngP_0WLt4_e6Exq_4IWrkqbClNkyr77nN0_3YKEU/rs:fit/g:sm/q:90/h:602/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NjM1/NTU5LTE2Mjc2NDkw/NzYtODA4Ni5qcGVn.jpeg"
+    - "https://i.discogs.com/vLSISuT17olk-9p5F1Xk9jc04r3Gh_9Uj70gGbE9fsI/rs:fit/g:sm/q:90/h:600/w:594/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NjM1/NTU5LTE2Mjc2NDkw/NzQtMzE0NC5qcGVn.jpeg"
+    - "https://i.discogs.com/GEvdv0kKoG70bLWRBXquFAHLuauGD1D1QzlAQg_qGS4/rs:fit/g:sm/q:90/h:600/w:597/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NjM1/NTU5LTE2Mjc2NDkw/NzYtODA4Ni5qcGVn.jpeg"
     - "https://i.discogs.com/LG6EEeX5PtE6m5PAyTp8wviAxbA_WuUyb9zN8zs2VZU/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NjM1/NTU5LTE2Mjc2NDkw/NzYtMjE3NC5qcGVn.jpeg"
-    - "https://i.discogs.com/UHGR6EyUPVRhTo0VJecHlESTkGYMizTBgwHThJQUwzg/rs:fit/g:sm/q:90/h:608/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NjM1/NTU5LTE2Mjc2NDkw/NzctNzAyMi5qcGVn.jpeg"
-    - "https://i.discogs.com/WQUfHsyX9YaeOrIJvvQsfEw7Dt7XdG2xSubBfFwHNVI/rs:fit/g:sm/q:90/h:603/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NjM1/NTU5LTE2Mjc2NDkw/NzctOTk2NC5qcGVn.jpeg"
+    - "https://i.discogs.com/XU0SSlIwGI3Eo138jXQU7FT1i1LNvnZyxWKj7VJdNaQ/rs:fit/g:sm/q:90/h:600/w:591/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NjM1/NTU5LTE2Mjc2NDkw/NzctNzAyMi5qcGVn.jpeg"
+    - "https://i.discogs.com/8QWXM94gqruovtzdpCXkn8nphf4zAuVJiAbg2tVW1OQ/rs:fit/g:sm/q:90/h:600/w:596/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NjM1/NTU5LTE2Mjc2NDkw/NzctOTk2NC5qcGVn.jpeg"
     - "https://i.discogs.com/FGKo0q64eksNYqGuxTDUKldqc7tNmwTLzfHbwuC3qfA/rs:fit/g:sm/q:90/h:594/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NjM1/NTU5LTE2Mjc2NDkw/NzYtNjc2Mi5qcGVn.jpeg"
-    - "https://i.discogs.com/nqVV_F8gwafOF_6BDrXN_FDF4gg1B6QCFLzsCa6q0IY/rs:fit/g:sm/q:90/h:605/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NjM1/NTU5LTE2Mjc2NDkw/NzUtNzQyMy5qcGVn.jpeg"
+    - "https://i.discogs.com/tFxCMnrOpqhuZGnfTkbTSGLaAMVxQW49TRw-4lpuyMc/rs:fit/g:sm/q:90/h:600/w:594/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NjM1/NTU5LTE2Mjc2NDkw/NzUtNzQyMy5qcGVn.jpeg"
     - "https://i.discogs.com/GWQB8UWcYHHBXPIIE_2y-uvkYeEoD-EzFmTuPyy6_cc/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NjM1/NTU5LTE2Mjc2NDkw/NzQtNzQwMS5qcGVn.jpeg"
 genres: ["Funk / Soul"]
 styles: ["Soul"]
@@ -41,7 +41,7 @@ styles: ["Soul"]
 10. I Can See
 
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/private-space/1563802620" >}}<br>
+{{< applemusic url="https://music.apple.com/gb/album/durand-jones-the-indications/1730817055" >}}<br>
 
 
 ## Videos
@@ -49,13 +49,14 @@ styles: ["Soul"]
 {{< youtube id="d7vTtnevlO4" title="Durand Jones & The Indications - Witchoo (Official Video)" >}}<br>
 ### More Videos
 
+- [Durand Jones & The Indications - Love Will Work It Out (Official Video)](https://www.youtube.com/watch?v=2AnXiScwWj4)
+- [Durand Jones & The Indications - The Way That I Do (Official Video)](https://www.youtube.com/watch?v=OYq5CxVnOPU)
+- [Durand Jones & The Indications - Private Space (Full Album) 2021](https://www.youtube.com/watch?v=WfgMfCzjCRI)
+- [Private Space](https://www.youtube.com/watch?v=P73S0B5e7Ow)
 - [Sea of Love](https://www.youtube.com/watch?v=LlsyxKzXUm8)
 - [Private Space](https://www.youtube.com/watch?v=P73S0B5e7Ow)
-- [Durand Jones & The Indications - Love Will Work It Out (Official Video)](https://www.youtube.com/watch?v=2AnXiScwWj4)
 - [I Can See](https://www.youtube.com/watch?v=f7BscBQb11g)
-- [Durand Jones & The Indications - The Way That I Do (Official Video)](https://www.youtube.com/watch?v=OYq5CxVnOPU)
 - [More Than Ever](https://www.youtube.com/watch?v=1ANy6hrk8Zg)
-- [Durand Jones & The Indications - Private Space (Full Album) 2021](https://www.youtube.com/watch?v=WfgMfCzjCRI)
 - [Sexy Thang](https://www.youtube.com/watch?v=hs2RSEg9fyE)
 
 ## Release Images

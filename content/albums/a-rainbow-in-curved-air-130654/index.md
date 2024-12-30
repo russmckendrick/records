@@ -15,13 +15,17 @@ additional_images:
     - "https://i.discogs.com/AdNdCX9pPey0aOf9_rcybUQXASagkwUlcT6LlsU39po/rs:fit/g:sm/q:90/h:600/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMDY1/NC0xMjk0NjA2NTY5/LmpwZWc.jpeg"
     - "https://i.discogs.com/oZafMs9jg7sjbh0j-G18T3g28eElDu056divGkz5_d8/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMDY1/NC0xMjk0NjA2ODU1/LmpwZWc.jpeg"
     - "https://i.discogs.com/NHsli_jZdZIClPe0vmH9WKZSCEJjprLR-UB0Xrx9ddI/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMDY1/NC0xMjg4MzY1Mzg3/LmpwZWc.jpeg"
-    - "https://i.discogs.com/3IP5uizhhTQT38T02TJieoaipOcrByikuiS-YtS79SU/rs:fit/g:sm/q:90/h:611/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMDY1/NC0xNjQ1OTg4NDQw/LTk3OTcuanBlZw.jpeg"
-    - "https://i.discogs.com/pmG-lKY83vUWBbLcphymSxm1it4ejpjCq75xZCFycs4/rs:fit/g:sm/q:90/h:601/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMDY1/NC0xNjQ1OTg4MzI3/LTUyMzMuanBlZw.jpeg"
-    - "https://i.discogs.com/3mJeaT8qRgLVDfW3PfWqmfjUdgMZuwzuu9-eJnDjs5k/rs:fit/g:sm/q:90/h:601/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMDY1/NC0xNjQ1OTg4MzI5/LTYxMDIuanBlZw.jpeg"
+    - "https://i.discogs.com/RfeAe4OMzMKS693AcbMH4sLHp51YZkaAY1t2ewIpYeE/rs:fit/g:sm/q:90/h:600/w:588/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMDY1/NC0xNjQ1OTg4NDQw/LTk3OTcuanBlZw.jpeg"
+    - "https://i.discogs.com/PObwj2WOY12KT8v1aEt29D42ZRLEy0qrVAnNMVrz32E/rs:fit/g:sm/q:90/h:600/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMDY1/NC0xNjQ1OTg4MzI3/LTUyMzMuanBlZw.jpeg"
+    - "https://i.discogs.com/IrfpPTxI3W9PfzciFLNhr3HsS8JlVcu2vX8vYni1Lr8/rs:fit/g:sm/q:90/h:600/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMDY1/NC0xNjQ1OTg4MzI5/LTYxMDIuanBlZw.jpeg"
 genres: ["Electronic"]
 styles: ["Minimal", "Ambient"]
 ---
 
+A Rainbow in Curved Air is the third album by American composer Terry Riley, released in 1969 on CBS Records. The title track consists of Riley's overdubbed improvisations on several keyboard and percussion instruments, including electric organ, electric harpsichord, dumbec, and tambourine. The B-side "Poppy Nogood and the Phantom Band" is a saxophone-based drone piece featuring tape loops and edits, drawing on Riley's all-night improvisatory performances in the 1960s.
+Riley's record deal with CBS was part of "Music of Our Time," a short-lived album series on American experimental music helmed by CBS employee David Behrman, who also facilitated the release of Riley's 1968 album In C; these two were the most successful LPs in the series. The album subsequently influenced a number of rock and electronic productions.
+    
+    
 
 
 ## Tracklisting
@@ -29,7 +33,7 @@ styles: ["Minimal", "Ambient"]
 2. Poppy Nogood And The Phantom Band (21:40)
 
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/riley-a-rainbow-in-curved-air-poppy-nogood-and/259224014" >}}<br>
+{{< applemusic url="https://music.apple.com/gb/album/riley-a-rainbow-in-curved-air/1755233999" >}}<br>
 
 
 ## Videos
@@ -38,6 +42,9 @@ styles: ["Minimal", "Ambient"]
 ### More Videos
 
 - [Poppy Nogood and the Phantom Band (Instrumental)](https://www.youtube.com/watch?v=ooxgptB19mQ)
+- [Terry Riley: A Rainbow In Curved Air 432Hz 1969/ Poppy Nogood And The Phantom Band](https://www.youtube.com/watch?v=B8cHjxFoT0M)
+- [Terry Riley - A Rainbow in Curved Air](https://www.youtube.com/watch?v=5PNbEfLIEDs)
+- [Poppy Nogood and the Phantom Band](https://www.youtube.com/watch?v=TsvzYH_PtKU)
 
 ## Release Images
 {{< imageGrid >}}
@@ -45,6 +52,7 @@ styles: ["Minimal", "Ambient"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
+| Wikipedia URL | https://en.wikipedia.org/wiki/A_Rainbow_in_Curved_Air |
 | Format         | Vinyl LP Album Stereo |
 | Label          | CBS |
 | Catalog Number | S 64564 |

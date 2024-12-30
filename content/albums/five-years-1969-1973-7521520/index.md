@@ -14,7 +14,7 @@ cover:
     caption: "[Five Years 1969 - 1973] by David Bowie"
 additional_images:
     - "https://i.discogs.com/xX1kfGAswvg0FqQCY8LsL-4PsR7G-FD4B4wiRNsveWs/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc1MjE1/MjAtMTQ0MzQzNTE2/NS0yOTcxLmpwZWc.jpeg"
-    - "https://i.discogs.com/1UPWH3jaxnb0GCwmeOboOUJnwi2GHO5x7pb8eqFWJF4/rs:fit/g:sm/q:90/h:632/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc1MjE1/MjAtMTQ0MzQzNTE2/NS0zOTA2LmpwZWc.jpeg"
+    - "https://i.discogs.com/W0AKfSLFm-ANlD2WQaeuoxxzv0xhmbNlGa7i2bau0R4/rs:fit/g:sm/q:90/h:600/w:569/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc1MjE1/MjAtMTQ0MzQzNTE2/NS0zOTA2LmpwZWc.jpeg"
     - "https://i.discogs.com/Nma8rzMF8IcniWrMDc53e8LELUsMfLK9_GPNMElA85o/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc1MjE1/MjAtMTQ1NDUyNzc3/OS0yNDkxLmpwZWc.jpeg"
     - "https://i.discogs.com/T-GbVfLVp36ZqArljLmpLdxNy43SxTWXZdU-Qva1-M0/rs:fit/g:sm/q:90/h:299/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc1MjE1/MjAtMTQ1NDUyNzc2/Mi00NzM5LmpwZWc.jpeg"
     - "https://i.discogs.com/Oty_dVqKUuKsMxYrSu1Uq2FsTiYJbQymrUycG1SoMGw/rs:fit/g:sm/q:90/h:600/w:595/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc1MjE1/MjAtMTQ1NDUyNzc3/OC05NDc4LmpwZWc.jpeg"
@@ -87,7 +87,7 @@ additional_images:
     - "https://i.discogs.com/PUEYHOCShReZ0sjKCuS6ZS93LrwNyjOqifu_YmUZN2Q/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc1MjE1/MjAtMTQ1NDUzMDU0/Ni00NjUxLmpwZWc.jpeg"
     - "https://i.discogs.com/jkYdOw9T16BwZ_8GNA7AJUC_GPvL0EXWbivjLZpk7cg/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc1MjE1/MjAtMTQ1NDUzMDU0/MC00MTg0LmpwZWc.jpeg"
     - "https://i.discogs.com/wrT8GIhp7xtMSxrG6QoBAyO-6q5B5XadJf3B1CxoM-4/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc1MjE1/MjAtMTQ1NDUzMDU1/MS0zMTIxLmpwZWc.jpeg"
-    - "https://i.discogs.com/39vtBPyVdGrozGouG_Gq_4tS7RCfKLOGxQPPvvN0lLI/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc1MjE1/MjAtMTY0MTU2Nzk2/My00NjQ1LmpwZWc.jpeg"
+    - "https://i.discogs.com/qujVnVjo46TpSboMBEMo0JVkLjq2veNgsiIM99VMZbM/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc1MjE1/MjAtMTY0MTU2Nzk2/My00NjQ1LmpwZWc.jpeg"
 genres: ["Rock", "Pop"]
 styles: ["Glam"]
 ---

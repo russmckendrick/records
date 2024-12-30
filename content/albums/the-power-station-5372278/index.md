@@ -14,7 +14,7 @@ cover:
 additional_images:
     - "https://i.discogs.com/UhcyCHRlfwUrbTPM3sF4NzalQla9QpU3NFO55e-g9dI/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUzNzIy/NzgtMTQ5NjAwMTAy/NC05MzYzLmpwZWc.jpeg"
     - "https://i.discogs.com/SJV9MUeCQY5_R2RyLVkjyChH4KXfrtc3H-rczFK6l_8/rs:fit/g:sm/q:90/h:593/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUzNzIy/NzgtMTQ5NjAwMTA0/MC0xNzM3LmpwZWc.jpeg"
-    - "https://i.discogs.com/HzS-J1siN93i1RINHnminJ0ZzLDm5A3wDjoL4Z7lFhA/rs:fit/g:sm/q:90/h:603/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUzNzIy/NzgtMTQ5NjAwMTA4/OS04NjI5LmpwZWc.jpeg"
+    - "https://i.discogs.com/9PNs855BCcmGS_lIyaznCIIJ8DFZtyDTKE5OA-QMRDQ/rs:fit/g:sm/q:90/h:600/w:596/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUzNzIy/NzgtMTQ5NjAwMTA4/OS04NjI5LmpwZWc.jpeg"
     - "https://i.discogs.com/PJiUYmE-O-gdGipBS_pSfFE4t8cDqOKZp2DpVoU73mQ/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUzNzIy/NzgtMTQ5NjAwMTEw/NC0yNDAyLmpwZWc.jpeg"
 genres: ["Rock", "Pop"]
 styles: ["Pop Rock"]
@@ -37,13 +37,19 @@ styles: ["Pop Rock"]
 
 
 ## Videos
-### The Power Station - Some Like It Hot
-{{< youtube id="Hw1t7OCESUw" title="The Power Station - Some Like It Hot" >}}<br>
+### Some Like It Hot (2005 Remaster)
+{{< youtube id="rRifNARpNL4" title="Some Like It Hot (2005 Remaster)" >}}<br>
 ### More Videos
 
-- [Harvest for the World (2005 Remaster)](https://www.youtube.com/watch?v=08OhoybGUmw)
+- [Murderess (2005 Remaster)](https://www.youtube.com/watch?v=UAFS6u7xThw)
+- [Lonely Tonight (2005 Remaster)](https://www.youtube.com/watch?v=_k1LvKyk8Jg)
 - [Communication (2005 Remaster)](https://www.youtube.com/watch?v=bZtyEIP5_uE)
-- [The Power Station - Get It On (Bang A Gong)](https://www.youtube.com/watch?v=O2vHbXI2p4k)
+- [Get It On (Bang a Gong) (2005 Remaster)](https://www.youtube.com/watch?v=lp0RYMN3yow)
+- [Go to Zero (2005 Remaster)](https://www.youtube.com/watch?v=63BwZe8MV5Y)
+- [Harvest for the World (2005 Remaster)](https://www.youtube.com/watch?v=08OhoybGUmw)
+- [Still in Your Heart (2005 Remaster)](https://www.youtube.com/watch?v=KdID52pR7EY)
+- [The Power Station - Some Like It Hot](https://www.youtube.com/watch?v=Hw1t7OCESUw)
+- [The Power Station - Get It On (Bang A Gong) (Official Music Video)](https://www.youtube.com/watch?v=O2vHbXI2p4k)
 
 ## Release Images
 {{< imageGrid >}}

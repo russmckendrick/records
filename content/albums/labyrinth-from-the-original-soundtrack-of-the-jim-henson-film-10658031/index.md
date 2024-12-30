@@ -15,11 +15,11 @@ cover:
 additional_images:
     - "https://i.discogs.com/tJmAv57Y8M4xF4dSRjGiNaPHPRrc_sB9S7q_euuSIGo/rs:fit/g:sm/q:90/h:355/w:355/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNjU4/MDMxLTE1MDIyMDky/NDItNzM2Mi5qcGVn.jpeg"
     - "https://i.discogs.com/lRF3vambU1fMyEuCv--YM4eJhQKArQcUU_a0xVr1Ld8/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNjU4/MDMxLTE1MDE5Mjg4/OTctNzYxNy5qcGVn.jpeg"
-    - "https://i.discogs.com/1I00T0xmnjQpSYfWHm7w0kR8Kf7f2kVrdM-xtD72JBg/rs:fit/g:sm/q:90/h:910/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNjU4/MDMxLTE1MDE4NDc5/NTEtNjMxNC5qcGVn.jpeg"
+    - "https://i.discogs.com/4fQ3TjrtVqC1-2-tJegHC6sNGR65Z6Bxm-REosTxZdA/rs:fit/g:sm/q:90/h:600/w:395/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNjU4/MDMxLTE1MDE4NDc5/NTEtNjMxNC5qcGVn.jpeg"
     - "https://i.discogs.com/eu0CtgznxfBeK2w44ASktK8EPDJ730YZG3Dnm7rlaUU/rs:fit/g:sm/q:90/h:479/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNjU4/MDMxLTE1MDMwMDMz/NDEtNDA0Ni5qcGVn.jpeg"
     - "https://i.discogs.com/ecFCEtLQ3QxpFjT4gbT5gHcIaOV-GocO8ti11mD97dQ/rs:fit/g:sm/q:90/h:589/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNjU4/MDMxLTE1MDE5NDA1/ODgtMTA3OS5qcGVn.jpeg"
     - "https://i.discogs.com/3JgFy2qzaFdZc_2DaOKXdWne0lYC511v7B_sRWyWTug/rs:fit/g:sm/q:90/h:587/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNjU4/MDMxLTE1MDE5NDA1/ODMtMzYxNS5qcGVn.jpeg"
-    - "https://i.discogs.com/u-t5tXAnSEVxF_2jT4nF3WLV3Krxi_OBVHQNsFmKEyk/rs:fit/g:sm/q:90/h:609/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNjU4/MDMxLTE1MDE5NDA1/ODQtOTg5MC5qcGVn.jpeg"
+    - "https://i.discogs.com/Xa25h4wfignF8H99zUDgXVvSfgMZ-H1_6exHADnBRaM/rs:fit/g:sm/q:90/h:600/w:590/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNjU4/MDMxLTE1MDE5NDA1/ODQtOTg5MC5qcGVn.jpeg"
     - "https://i.discogs.com/ZoV7V0DUGvbIMUUGNoJMK1SGeNX2JKkW17Y_on2_FGs/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNjU4/MDMxLTE1MDE5NDA1/ODMtMjkzOS5qcGVn.jpeg"
 genres: ["Electronic", "Rock", "Stage & Screen"]
 styles: ["Soundtrack", "Score", "Pop Rock", "Synth-pop"]
@@ -48,6 +48,9 @@ It’s strange that the 1986 fantasy film <i>Labyrinth</i> failed at the box off
 {{< applemusic url="https://music.apple.com/gb/album/labyrinth-from-the-original-soundtrack-of-the/1440880284" >}}<br>
 
 
+## Videos
+### David Bowie, Trevor Jones - Labyrinth OST (1986)
+{{< youtube id="saD_KOW4IvE" title="David Bowie, Trevor Jones - Labyrinth OST (1986)" >}}<br>
 
 
 ## Release Images

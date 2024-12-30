@@ -17,15 +17,16 @@ additional_images:
     - "https://i.discogs.com/vxxbuGvEvtDMkNcxF0BrYsyQPRvfHagOh1mdNi6wdIw/rs:fit/g:sm/q:90/h:470/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2MTI2/NjEyLTE2NzY1ODk1/MzctNDM0MC5qcGVn.jpeg"
     - "https://i.discogs.com/8oUMeVWN8Hn9OyNCsawjefe26jTwU8us0SmbTFEVYfU/rs:fit/g:sm/q:90/h:475/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2MTI2/NjEyLTE2NzY1ODk1/MzYtMzY2MC5qcGVn.jpeg"
     - "https://i.discogs.com/kVfJk_uTWQw_QujWUGrHBGWgounYrXncpGO9yyRG_Zw/rs:fit/g:sm/q:90/h:590/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2MTI2/NjEyLTE2NzY1ODk1/MzItNTcyNi5qcGVn.jpeg"
-    - "https://i.discogs.com/KlYGnFP9oSZ8SPBWtSVRJrYIYAZv80QkxwsXCvrF-TU/rs:fit/g:sm/q:90/h:450/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2MTI2/NjEyLTE2NzY1ODk1/MzQtNzU4Ni5qcGVn.jpeg"
-    - "https://i.discogs.com/y5nHYgoakv_FoFrfg-Er4uGdsf6WvwZKE5v50AOTft0/rs:fit/g:sm/q:90/h:450/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2MTI2/NjEyLTE2NzY1ODk1/MzYtNjkyMC5qcGVn.jpeg"
+    - "https://i.discogs.com/sF6DpVjOooTC7tRus3H-O3iOBhzcvzSIr_kbliUkTpg/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2MTI2/NjEyLTE2OTI1NjM5/MzQtNzUzNS5qcGVn.jpeg"
+    - "https://i.discogs.com/OR4snjJF5RdZasGoNaTujrOVHgxSq3Y0aTzU3cYP-h8/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2MTI2/NjEyLTE2OTI1NjM5/MzQtODY0Mi5qcGVn.jpeg"
+    - "https://i.discogs.com/-AWlcxRS095dJSA0aCjx0lS5cEc9Df7Q_ii7Q5seRYs/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2MTI2/NjEyLTE2OTI1NjM5/MzUtMzA3Mi5qcGVn.jpeg"
+    - "https://i.discogs.com/T3fLHTQYnhfNVlg18Ui2JLAX5mAekP9CKYhPHF99BnQ/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2MTI2/NjEyLTE2OTI1NjM5/MzUtMTYxOC5qcGVn.jpeg"
 genres: ["Electronic", "Rock", "Pop"]
 styles: ["Indie Pop", "Indie Rock"]
 ---
 
-The Five Ghosts is the fifth studio album by Stars, which was released worldwide on June 21, 2010, via Vagrant.  In Canada, the album was released via Soft Revolution, the band's own label.The album was named as a longlisted nominee for the 2011 Polaris Music Prize.
-
-
+The Five Ghosts is the fifth studio album by Stars, which was released worldwide on June 21, 2010, via Vagrant.  In Canada, the album was released via Soft Revolution, the band's own label.
+The album was named as a longlisted nominee for the 2011 Polaris Music Prize.
     
     
 
@@ -54,6 +55,9 @@ The Five Ghosts is the fifth studio album by Stars, which was released worldwide
 
 - [STARS - Fixed [Official Music Video]](https://www.youtube.com/watch?v=17jdZdVmEuk)
 - [Stars - Dead Hearts [Official Video]](https://www.youtube.com/watch?v=OQT2HVfxJu4)
+- [The Five Ghosts - Making Of, Part Six](https://www.youtube.com/watch?v=8a4cycwDvRM)
+- [The Five Ghosts - Making Of, Part Three](https://www.youtube.com/watch?v=Dsf9WsD6j4Q)
+- [Torq Cambell tells NAKED why The Five Ghosts is his favourite Stars album](https://www.youtube.com/watch?v=TERbyLZDCqU)
 
 ## Release Images
 {{< imageGrid >}}
@@ -62,8 +66,8 @@ The Five Ghosts is the fifth studio album by Stars, which was released worldwide
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/The_Five_Ghosts |
-| Format         | Vinyl LP Album Bioplastic Limited Edition Numbered Reissue Repress Stereo (Transparent Black Vinyl) |
+| Format         | Vinyl LP Album Limited Edition Numbered Reissue Repress Stereo (PET, Transparent Black) |
 | Label          | Naked Record Club |
 | Catalog Number | NAKED 005 |
-| Notes | Rerelease by Naked Record Club on Eco-Friendly vinyl. Hand-numbered edition out of 700. 1-500 are NAKED Record Club hand-numbered copies whilst 501-700 were pressed especially for the bands European & North American Tours. |
+| Notes | ℗ 2023 Naked under exclusive licence from Get Paid Inc. © 2023 Naked Record Club www.nakedrecordclub.com Manufactured in the Netherlands  The uncredited pressing company is derived from nakedrecordclub.com release page, which says : Premier disque vinyle de Naked à être pressé par Green Vinyl Records (GVR) aux Pays-Bas.  Rerelease by Naked Record Club on Eco-Friendly vinyl. Hand-numbered edition out of 700. 1-500 are NAKED Record Club hand-numbered copies whilst 501-700 were pressed especially for the bands European & North American Tours. |
 | Discogs URL    | [Stars - The Five Ghosts](https://www.discogs.com/release/26126612-Stars-The-Five-Ghosts) |

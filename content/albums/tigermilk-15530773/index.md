@@ -40,13 +40,7 @@ styles: ["Indie Rock"]
 {{< applemusic url="https://music.apple.com/gb/album/tigermilk/1669026397" >}}<br>
 
 
-## Videos
-### The State That I Am In - Belle & Sebastian
-{{< youtube id="soMbZ7eLKlM" title="The State That I Am In - Belle & Sebastian" >}}<br>
-### More Videos
 
-- [Belle & Sebastian :: Electronic Renaissance](https://www.youtube.com/watch?v=GKTDiWslOPo)
-- [Belle and Sebastian - I Don't Love Anyone](https://www.youtube.com/watch?v=yYw3AoLG3Fo)
 
 ## Release Images
 {{< imageGrid >}}

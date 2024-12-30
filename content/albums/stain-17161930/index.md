@@ -14,17 +14,21 @@ cover:
     caption: "Stain by Living Colour"
 additional_images:
     - "https://i.discogs.com/D9tOJ4UQyiEOwfiR07irsYmJ5U5zwMhRTBV_SdhIXrU/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3MTYx/OTMwLTE2MTE5Mjk1/NjMtMjU4Mi5qcGVn.jpeg"
-    - "https://i.discogs.com/fN6D96O3hc9JMHoHohJZIMkmVKeovjvB-9fggGArfTE/rs:fit/g:sm/q:90/h:610/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3MTYx/OTMwLTE2Mjg3NTEy/MzktMzMyMS5qcGVn.jpeg"
-    - "https://i.discogs.com/G0LSMO1QeO3KZewxY_nA1ALSyvFPWTocrA2F-RctmyE/rs:fit/g:sm/q:90/h:602/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3MTYx/OTMwLTE2Mjg3NTEy/MzktMTU5My5qcGVn.jpeg"
+    - "https://i.discogs.com/zEbIY7Q5kglnUh58MbC8_VNupRCwhat2ikWrWSLXQQU/rs:fit/g:sm/q:90/h:600/w:590/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3MTYx/OTMwLTE2Mjg3NTEy/MzktMzMyMS5qcGVn.jpeg"
+    - "https://i.discogs.com/zCr8gO8Ev14d3VREsofcS-dYguNwxyYtwkH4qBBb9rc/rs:fit/g:sm/q:90/h:600/w:597/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3MTYx/OTMwLTE2Mjg3NTEy/MzktMTU5My5qcGVn.jpeg"
     - "https://i.discogs.com/xaF8_i5ppLryGbs6mTTgnzgrIMRZ_Tem00idrI3hQrs/rs:fit/g:sm/q:90/h:580/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3MTYx/OTMwLTE2Mjg3NTEy/NDAtNjE3Mi5qcGVn.jpeg"
-    - "https://i.discogs.com/4H_JmD4oSokeBz40Mz14qPIdeo0BYCwWBUbeXvTN9NA/rs:fit/g:sm/q:90/h:602/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3MTYx/OTMwLTE2Mjg3NTEy/NDAtNTE0Ni5qcGVn.jpeg"
+    - "https://i.discogs.com/nDCPBsF9YX0ppHKWlOcKWi4xnA8_elr9958JuvdeLnQ/rs:fit/g:sm/q:90/h:600/w:597/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3MTYx/OTMwLTE2Mjg3NTEy/NDAtNTE0Ni5qcGVn.jpeg"
     - "https://i.discogs.com/Y1uAi3cUNa1pQwik2hSoLRogsRAWf_3Ay_1QL437M3M/rs:fit/g:sm/q:90/h:575/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3MTYx/OTMwLTE2Mjg3NTEy/NDEtNTUyNC5qcGVn.jpeg"
 genres: ["Rock"]
 styles: ["Funk Metal"]
 ---
 
-Stain is the third studio album by American rock band Living Colour. It was released on March 2, 1993, by Epic Records. It is the first album to feature bassist Doug Wimbish. Stain features a generally heavier sound with more pessimistic themes, the songs representing a range of genres. It peaked at #26 on the Billboard 200. Citing "musical differences" the band split up in January 1995.The cover art shows a woman wearing a brank.
+Stain is the third studio album by American rock band Living Colour. It was released on March 2, 1993, by Epic Records. It is the first album to feature bassist Doug Wimbish. Stain features a generally heavier sound with more pessimistic themes, the songs representing a range of genres. It peaked at #26 on the Billboard 200.
+The song "Leave It Alone" was nominated for Best Hard Rock Performance at the 36th Annual Grammy Awards in 1994, but lost to "Plush" by Stone Temple Pilots.
 From the mid-1990s through the early 2010s, the album was out of print due to rights issues after a lawsuit from Jon Stainbrook of the band The Stain forced Sony to cease production of the album. In November 2013, the album was reissued by Music On CD and is also available as an MP3 download. In June 2018, the album was reissued on limited edition green vinyl.
+The album has retrospectively been considered a "dark horse" in the alternative rock, hard rock, and heavy metal genres.
+
+
         
         
     
@@ -50,9 +54,11 @@ From the mid-1990s through the early 2010s, the album was out of print due to ri
 
 
 ## Videos
-### Living Colour - Bi
-{{< youtube id="EMprpu0et9M" title="Living Colour - Bi" >}}<br>
+### Living Colour - Leave It Alone
+{{< youtube id="i6p3Es4TJJA" title="Living Colour - Leave It Alone" >}}<br>
+### More Videos
 
+- [Living Colour - Bi](https://www.youtube.com/watch?v=EMprpu0et9M)
 
 ## Release Images
 {{< imageGrid >}}

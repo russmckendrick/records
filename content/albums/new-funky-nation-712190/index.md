@@ -19,6 +19,12 @@ genres: ["Hip Hop"]
 styles: ["Gangsta"]
 ---
 
+New Funky Nation is the debut studio album by the Samoan-American hip hop band Boo-Yaa T.R.I.B.E. It was released in 1990 via 4th & B'way Records/Island Records. The recording sessions took place at Image Recording Studios and Paramount Studios, from 1989 to 1990. The album was produced by the Dust Brothers, John O'Brien, Joe Nicolo of the Butcher Bros., Tony G., Suga Pop, and Boo-Yaa T.R.I.B.E. It peaked at No. 33 in New Zealand, No. 74 in the UK and No. 117 in the United States.
+The album spawned three singles: "R.A.I.D.", "Psyko Funk" and "Walk the Line".
+
+
+    
+    
 
 
 ## Tracklisting
@@ -41,10 +47,12 @@ styles: ["Gangsta"]
 
 
 ## Videos
-### Six Bad Brothas
-{{< youtube id="9AATTZxO2PQ" title="Six Bad Brothas" >}}<br>
+### Boo-Yaa T.R.I.B.E. - Psyko Funk
+{{< youtube id="gqTvJ-kO1z8" title="Boo-Yaa T.R.I.B.E. - Psyko Funk" >}}<br>
 ### More Videos
 
+- [Boo-Yaa TRIBE - R.A.I.D.](https://www.youtube.com/watch?v=EsPV6Qomxzo)
+- [Six Bad Brothas](https://www.youtube.com/watch?v=9AATTZxO2PQ)
 - [Rated R](https://www.youtube.com/watch?v=UPI5Z9JCA7M)
 - [Don't Mess](https://www.youtube.com/watch?v=NTZaHs0Jukc)
 - [New Funky Nation](https://www.youtube.com/watch?v=wtj3sgm8M_I)
@@ -55,8 +63,6 @@ styles: ["Gangsta"]
 - [Psyko Funk](https://www.youtube.com/watch?v=Bi3lEFyrsZg)
 - [Riot Pump](https://www.youtube.com/watch?v=9FWZOVD0sDo)
 - [Pickin' Up Metal](https://www.youtube.com/watch?v=fR7-TIL4nvQ)
-- [Boo-Yaa T.R.I.B.E. - Psyko Funk](https://www.youtube.com/watch?v=gqTvJ-kO1z8)
-- [Boo-Yaa TRIBE - R.A.I.D.](https://www.youtube.com/watch?v=EsPV6Qomxzo)
 
 ## Release Images
 {{< imageGrid >}}
@@ -64,6 +70,7 @@ styles: ["Gangsta"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
+| Wikipedia URL | https://en.wikipedia.org/wiki/New_Funky_Nation |
 | Format         | Vinyl LP Album Stereo |
 | Label          | 4th & Broadway |
 | Catalog Number | BRLP 544 |

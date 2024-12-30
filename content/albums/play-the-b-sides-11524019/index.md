@@ -24,8 +24,11 @@ styles: ["Breakbeat", "Downtempo", "Leftfield"]
 ---
 
 Play: The B Sides is a compilation album by American electronica musician Moby. It was released on October 24, 2000. The album's songs are outtakes from his 1999 album Play which were subsequently released as B-sides across various singles from the album.
-Moby explains: "The B Sides is a collection of songs that weren't quite appropriate for Play, but that I still love enough to release as B-sides. Some of these songs might not be instantly accessible, but I (immodestly) think they are all quite special." In the liner notes, Moby admits that the songs would not have been given a wide release if not for the overwhelming success of Play.The song "Flower" was featured on the soundtrack for the 2000 film Gone in 60 Seconds  and is also used for the Bring Sally Up exercise challenge, with participants doing squats, push-ups or burpees up or down along with the lyrics of the song.
-The song "Memory Gospel" was used on the soundtracks for the films Get Carter (2000) 40 Days and 40 Nights and Southland Tales as well as the documentary Earthlings.
+Moby explains: "The B Sides is a collection of songs that weren't quite appropriate for Play, but that I still love enough to release as B-sides. Some of these songs might not be instantly accessible, but I (immodestly) think they are all quite special." In the liner notes, Moby admits that the songs would not have been given a wide release if not for the overwhelming success of Play.
+The song "Flower" was featured on the soundtrack for the 2000 film Gone in 60 Seconds  and is also used for the Bring Sally Up exercise challenge, with participants doing squats, push-ups or burpees up or down along with the lyrics of the song.
+“Flower” is also a walk-up song used by Major League Baseball player Bryce Harper. The song "Memory Gospel" was used on the soundtracks for the films Get Carter, 40 Days and 40 Nights and Southland Tales as well as the documentary Earthlings.
+
+
     
     
 
@@ -44,13 +47,17 @@ The song "Memory Gospel" was used on the soundtracks for the films Get Carter (2
 11. The Sun Never Stops Setting (4:20)
 
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/play-the-b-sides/1193809704" >}}<br>
+{{< applemusic url="https://music.apple.com/gb/album/play-the-b-sides/1445707052" >}}<br>
 
 
 ## Videos
-### Moby ▶ Play–The B Sides…(2000) Full Album
-{{< youtube id="jkCM0mVKQic" title="Moby ▶ Play–The B Sides…(2000) Full Album" >}}<br>
+### MOBY - SUNDAY (PLAY THE B SIDES)
+{{< youtube id="7Brcsjvuc00" title="MOBY - SUNDAY (PLAY THE B SIDES)" >}}<br>
+### More Videos
 
+- [Moby - Princess](https://www.youtube.com/watch?v=hhCDcKq4EZI)
+- [Moby - Flying Foxes (Official Audio)](https://www.youtube.com/watch?v=JLjsLWevjkw)
+- [Moby - The Sun Never Stops Setting (Official Audio)](https://www.youtube.com/watch?v=xj7YUmYofmo)
 
 ## Release Images
 {{< imageGrid >}}

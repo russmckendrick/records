@@ -23,6 +23,11 @@ genres: ["Rock", "Pop"]
 styles: ["Britpop"]
 ---
 
+His 'n' Hers is the fourth studio album by English rock band Pulp, released on 18 April 1994 by Island Records. It proved to be the band's breakthrough album, reaching number nine on the UK Albums Chart, and was nominated for the 1994 Mercury Music Prize. In 1998, Q magazine readers voted it the seventieth greatest album of all time, while it was placed at number 110 in the book Virgin All-Time Top 1000 Albums.
+
+
+    
+    
 
 
 ## Tracklisting
@@ -38,25 +43,16 @@ styles: ["Britpop"]
 10. David's Last Summer
 
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/his-n-hers-deluxe-edition/1444184951" >}}<br>
+{{< applemusic url="https://music.apple.com/gb/album/his-n-hers/1444124458" >}}<br>
 
 
 ## Videos
-### Pulp - Babies (Official Video)
-{{< youtube id="38by00DGid0" title="Pulp - Babies (Official Video)" >}}<br>
+### Pulp - Babies
+{{< youtube id="38by00DGid0" title="Pulp - Babies" >}}<br>
 ### More Videos
 
-- [Pulp  - His 'n Hers](https://www.youtube.com/watch?v=djxqJv65CC4)
 - [Pulp - Lipgloss](https://www.youtube.com/watch?v=1MDpGCTdJxw)
-- [Pulp - Do You Remember The First Time (Promo)](https://www.youtube.com/watch?v=sPGepgWupTw)
-- [Pulp Acrylic Afternoons](https://www.youtube.com/watch?v=S__GVGr9LuI)
-- [Pulp - Pink Glove](https://www.youtube.com/watch?v=N2GvX8oWB-o)
-- [pulp - she's a lady](https://www.youtube.com/watch?v=TovAH2NaYso)
-- [Pulp ‎‎– Joyriders](https://www.youtube.com/watch?v=ko-Uhyt6Y3M)
-- [Pulp - Have You Seen Her Lately?](https://www.youtube.com/watch?v=J5FDj2Bdci8)
-- [Pulp - Happy Endings](https://www.youtube.com/watch?v=swyg3oaN0ho)
-- [Pulp - David's Last Summer](https://www.youtube.com/watch?v=1ir1Ib3Tbdw)
-- [Pulp - Someone Like The Moon](https://www.youtube.com/watch?v=3bzX8OG2nZc)
+- [Pulp - Do You Remember the First Time?](https://www.youtube.com/watch?v=sPGepgWupTw)
 
 ## Release Images
 {{< imageGrid >}}
@@ -64,6 +60,7 @@ styles: ["Britpop"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
+| Wikipedia URL | https://en.wikipedia.org/wiki/His_%27n%27_Hers |
 | Format         | Vinyl LP Album Reissue |
 | Label          | Island Records |
 | Catalog Number | 4785292 |

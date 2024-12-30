@@ -4,7 +4,7 @@ artist_name: "King Crimson"
 artist: "king-crimson"
 album_name: "Islands"
 date: 2017-08-11T18:29:19.000000Z
-release_date: "1971-12-03"
+release_date: "1969-10-10"
 release_id: "6093915"
 slug: "islands-6093915"
 hideSummary: true
@@ -30,8 +30,17 @@ genres: ["Rock"]
 styles: ["Prog Rock"]
 ---
 
-The title track of <i>Islands</i> is a melancholic trance that outlines a mood of unattainable tranquility. Sung by new bassist Boz Burrell, it’s a strikingly patient and uncluttered ballad, and one of Crimson’s most delicate moments. Elsewhere, the band seeks to provoke the senses, not least with the spiky, lurching groove of “Ladies of the Road,” which sounds like The Beatles attempting <i>Bitches Brew</i>. Robert Fripp’s sonic ingenuity continues to blossom on “Sailor’s Tale,” in which his sustained guitar notes melt into a small symphony of glassy groans.
-    
+Often credited with anointing prog rock as a genre, King Crimson’s debut album remains an almost overwhelming statement of ambition and invention. Released just a year after the band’s 1968 formation in London, <i>In the Court of the Crimson King</i> closes out that most psychedelic decade by amplifying the heady intensity of everything that came before it—and throwing open the doors for everything that would come after.
+
+There could be no more fitting introduction than “21st Century Schizoid Man”, one of the wildest tracks of the ’60s. Everything vital about early King Crimson is on full display: Robert Fripp’s nightmarishly cool guitar contours; Michael Giles’ intricate drumming; bassist/singer Greg Lake’s instant vocal swagger; lyricist Peter Sinfield’s poetic portent; and multi-instrumentalist Ian McDonald’s surprise integration of jazz and classical tactics. Pack all of that into nearly eight minutes of buzzing tones, stubborn momentum and roller-coaster dynamic shifts, and you’ve got a rock band that’s ready to play in the same hothouse arena as free jazz—right down to McDonald’s tightly wound alto sax.
+
+Given that song’s bracing impact, it’s all the more fascinating to hear it immediately followed by the peaceable psych-folk ramble “I Talk to the Wind”. McDonald swaps out his piercing sax for breezy flute, and Lake’s vocal approach switches from eye-rolling menace to sleepy serenity, while the track’s medieval quality continues into the Mellotron-ripened “Epitaph”. As mellow as those two songs are by comparison to “Schizoid Man”, they still very much honour the album’s penchant for elaborate, suite-like structures.
+
+That’s just as pronounced on the 12-minute “Moonchild”, a ballad of eerie elegance that draws upon some of Sinfield’s most mind-bending imagery before almost disappearing into the ether during its ghostly noodling and offbeat percussive tics. As the Mellotron swoops back in for the closing title track, King Crimson have no trouble at all justifying the theatrical grandeur of the album’s long-winded name.
+
+While King Crimson were quickly wracked with infighting and line-up changes following <i>In the Court of the Crimson King</i>, the album lives on in a multiplicity of ways. Its songs have been sampled and interpolated in the realms of electronic music, rap and indie rock, and the album’s far-flung arrangements and conceptual flourishes spurred on such genre-refining prog acts as Genesis, Yes, Rush and Emerson, Lake & Palmer. But few of them would cover so much ground in a single exhilarating outing.
+        
+        
     
 
 
@@ -44,13 +53,17 @@ The title track of <i>Islands</i> is a melancholic trance that outlines a mood o
 6. Islands (9:14)
 
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/islands-expanded-edition/978453417" >}}<br>
+{{< applemusic url="https://music.apple.com/gb/album/in-the-court-of-the-crimson-king-expanded-edition/918534711" >}}<br>
 
 
 ## Videos
-### King Crimson - Islands
-{{< youtube id="jY7dbRyoHfE" title="King Crimson - Islands" >}}<br>
+### Islands
+{{< youtube id="FPNjQ4JWr9U" title="Islands" >}}<br>
+### More Videos
 
+- [King Crimson - Islands](https://www.youtube.com/watch?v=jY7dbRyoHfE)
+- [Formentera Lady](https://www.youtube.com/watch?v=JZrNSROq810)
+- [King Crimson - Sailors Tale (OFFICIAL)](https://www.youtube.com/watch?v=tWZPJTNPXQU)
 
 ## Release Images
 {{< imageGrid >}}
@@ -58,6 +71,7 @@ The title track of <i>Islands</i> is a melancholic trance that outlines a mood o
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
+| Wikipedia URL | https://en.wikipedia.org/wiki/Lists_of_islands |
 | Format         | Vinyl LP Album Reissue Remastered Stereo (200 Gram) |
 | Label          | Discipline Global Mobile |
 | Catalog Number | KCLP4 |

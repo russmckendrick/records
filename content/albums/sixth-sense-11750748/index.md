@@ -36,10 +36,29 @@ styles: ["Contemporary Jazz"]
 14. Sedna
 
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/sixth-sense/1359604900" >}}<br>
+{{< applemusic url="https://music.apple.com/gb/album/sixth-sense/1636587734" >}}<br>
 
 
+## Videos
+### Splashgirl - Sixth Sense
+{{< youtube id="odGhzQpGngo" title="Splashgirl - Sixth Sense" >}}<br>
+### More Videos
 
+- [Splashgirl - Sixth Sense (Full Album)](https://www.youtube.com/watch?v=m0PKZtLA3nE)
+- [Splashgirl - Carrier](https://www.youtube.com/watch?v=MKS3xqg5N1w)
+- [Splashgirl - Sedna](https://www.youtube.com/watch?v=1rYnsKkyq8o)
+- [Splashgirl - Broken](https://www.youtube.com/watch?v=27Mni-NDelI)
+- [Splashgirl - Monsoon](https://www.youtube.com/watch?v=bkfmmn7tGXM)
+- [Splashgirl - Half Self](https://www.youtube.com/watch?v=_PAOoyAeZqw)
+- [Splashgirl - Taal Caldera](https://www.youtube.com/watch?v=ozZ2IJQpxkg)
+- [Splashgirl - Sixth Sense](https://www.youtube.com/watch?v=odGhzQpGngo)
+- [Splashgirl - Sixth Sense (Full Album)](https://www.youtube.com/watch?v=m0PKZtLA3nE)
+- [Splashgirl - Carrier](https://www.youtube.com/watch?v=MKS3xqg5N1w)
+- [Splashgirl - Sedna](https://www.youtube.com/watch?v=1rYnsKkyq8o)
+- [Splashgirl - Broken](https://www.youtube.com/watch?v=27Mni-NDelI)
+- [Splashgirl - Monsoon](https://www.youtube.com/watch?v=bkfmmn7tGXM)
+- [Splashgirl - Half Self](https://www.youtube.com/watch?v=_PAOoyAeZqw)
+- [Splashgirl - Taal Caldera](https://www.youtube.com/watch?v=ozZ2IJQpxkg)
 
 ## Release Images
 {{< imageGrid >}}

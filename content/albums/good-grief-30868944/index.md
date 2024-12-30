@@ -20,6 +20,12 @@ genres: ["Rock"]
 styles: ["Alternative Rock"]
 ---
 
+Good Grief is a 2023 American comedy-drama film written and directed by Dan Levy in his directorial film debut. The film stars Levy, Ruth Negga, Himesh Patel, Celia Imrie, David Bradley, Arnaud Valois, and Luke Evans. Its plot follows a man mourning the loss of his husband as his two best friends help him on his journey of grief and acceptance.
+Good Grief received a limited theatrical release in the United States on December 29, 2023, before its streaming debut by Netflix on January 5, 2024.
+
+
+    
+    
 
 
 ## Tracklisting
@@ -45,6 +51,7 @@ styles: ["Alternative Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
+| Wikipedia URL | https://en.wikipedia.org/wiki/Good_Grief_(film) |
 | Format         | Vinyl LP Album (Silver Vinyl, Signed Print) |
 | Label          | 355 Recordings |
 | Catalog Number | 355REC001LPX |

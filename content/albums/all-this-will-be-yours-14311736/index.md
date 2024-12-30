@@ -12,11 +12,11 @@ cover:
     alt: "All This Will Be Yours by Bruce Soord"
     caption: "All This Will Be Yours by Bruce Soord"
 additional_images:
-    - "https://i.discogs.com/ggKPq32rTR5SwVM2UwEGOQyAINxl99U3eN1JrExCZaE/rs:fit/g:sm/q:90/h:500/w:500/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MzEx/NzM2LTE1NzIwMDAy/OTEtODQwNS5qcGVn.jpeg"
+    - "https://i.discogs.com/I_IvwZsjm3DV-eMhrmuEg4oh0kjxceqUqhgDp2NW9rQ/rs:fit/g:sm/q:90/h:600/w:585/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MzEx/NzM2LTE2OTg2Mjk2/NDItMjg1NC5qcGVn.jpeg"
     - "https://i.discogs.com/dpjr8SfNprVmUAh9AN3TKrsesNw5gXsY5ERwteXo1i0/rs:fit/g:sm/q:90/h:589/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MzEx/NzM2LTE1NzM0MjEw/NTMtNjI2NC5qcGVn.jpeg"
     - "https://i.discogs.com/kFAkWaxA1nU3cZ3gHFqfZnqPfeXsiu4TrZgAgevUEag/rs:fit/g:sm/q:90/h:589/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MzEx/NzM2LTE1NzM0MjEw/NjAtNzQxNy5qcGVn.jpeg"
     - "https://i.discogs.com/lc7VDBgzZSK510-faZGji3Cu8BSSesFGQ-GNe2TcVk0/rs:fit/g:sm/q:90/h:580/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MzEx/NzM2LTE1NzM0MjEw/NzYtNzAzMS5qcGVn.jpeg"
-    - "https://i.discogs.com/gn4tQUNrv5kjNchITOHSnANKoaW4gOIvjMkx8bmTr3I/rs:fit/g:sm/q:90/h:609/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MzEx/NzM2LTE1NzM0MjEw/NjctNzUxNy5qcGVn.jpeg"
+    - "https://i.discogs.com/vWWyvNwQAcLdwoYvaJ00SJScJEQwJFAtgMkk--ZsAkA/rs:fit/g:sm/q:90/h:600/w:590/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MzEx/NzM2LTE1NzM0MjEw/NjctNzUxNy5qcGVn.jpeg"
 genres: ["Rock"]
 styles: ["Prog Rock"]
 ---
@@ -43,6 +43,8 @@ styles: ["Prog Rock"]
 {{< youtube id="bQoF0vvCHUk" title="Bruce Soord - All This Will Be Yours (from All This Will Be Yours)" >}}<br>
 ### More Videos
 
+- [Bruce Soord - The Solitary Path of a Convicted Man (from All This Will Be Yours)](https://www.youtube.com/watch?v=3yTqsLnYreQ)
+- [Bruce Soord - All This Will Be Yours (from All This Will Be Yours)](https://www.youtube.com/watch?v=bQoF0vvCHUk)
 - [Bruce Soord - The Solitary Path of a Convicted Man (from All This Will Be Yours)](https://www.youtube.com/watch?v=3yTqsLnYreQ)
 
 ## Release Images

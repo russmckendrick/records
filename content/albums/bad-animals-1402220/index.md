@@ -12,19 +12,20 @@ cover:
     alt: "Bad Animals by Heart"
     caption: "Bad Animals by Heart"
 additional_images:
-    - "https://i.discogs.com/TPNisYY_XdkhqMO4rWqxQX6c4Kv1Rg2pPbvgkYA44tQ/rs:fit/g:sm/q:90/h:601/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MDIy/MjAtMTUxMTI2NTYx/OC05NjE5LmpwZWc.jpeg"
-    - "https://i.discogs.com/2_t-b7YreVypRYlRZg-xFQQOcz0URYIz7BToicFoLuM/rs:fit/g:sm/q:90/h:601/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MDIy/MjAtMTUxMTI2NTU3/NS01NzkxLmpwZWc.jpeg"
+    - "https://i.discogs.com/D4zBZuyN5G43sH34kGwfwuRBgD8_cKiau6wjt1YHnF0/rs:fit/g:sm/q:90/h:600/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MDIy/MjAtMTUxMTI2NTYx/OC05NjE5LmpwZWc.jpeg"
+    - "https://i.discogs.com/wwaFhtc23uGHblanUchrnxNB4CVhFHcPoEC9Bspx2_s/rs:fit/g:sm/q:90/h:600/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MDIy/MjAtMTUxMTI2NTU3/NS01NzkxLmpwZWc.jpeg"
     - "https://i.discogs.com/0nRPKRJEdXcH0e6XRr9YecMrWmMjE8Vag1nqAlVxDVw/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MDIy/MjAtMTUxMTI2NTQ4/OS0xNDgyLmpwZWc.jpeg"
-    - "https://i.discogs.com/dZ95dTs-hnhrMcrz_K0yZwHRCSFNx54OhMIPC7gLBlU/rs:fit/g:sm/q:90/h:605/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MDIy/MjAtMTUxMTI2NTU2/NC0zNTQ0LmpwZWc.jpeg"
+    - "https://i.discogs.com/86eUfgsdgiyVT8ykOUm3qUQ7l2riox5btL_9qdxRb5g/rs:fit/g:sm/q:90/h:600/w:595/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MDIy/MjAtMTUxMTI2NTU2/NC0zNTQ0LmpwZWc.jpeg"
     - "https://i.discogs.com/tXovGGiPpsWulRz-6ndqWH5cj1S4gEEoWz7fwm8jqv8/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MDIy/MjAtMTUxMTI2NTM4/MS03OTgyLmpwZWc.jpeg"
     - "https://i.discogs.com/bALwgNMymUu-tXnkUS_sHKS7q9yS_rdT1Z-btwxiKpg/rs:fit/g:sm/q:90/h:594/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MDIy/MjAtMTUxMTI2NTM4/OC01NDUwLmpwZWc.jpeg"
 genres: ["Rock"]
 styles: ["AOR", "Hard Rock"]
 ---
 
-Bad Animals is the ninth studio album by American rock band Heart, released on June 6, 1987, by Capitol Records. The album continues the mainstream hard rock style from the band's 1985 self-titled release, all while enjoying similar success. It peaked at number two on the US Billboard 200 in August 1987, and was certified triple platinum by the Recording Industry Association of America (RIAA) on June 4, 1992. Internationally, Bad Animals charted within the top five in Canada, Finland, Norway, Sweden, and Switzerland.
-The album spawned the US number-one single "Alone", while "Who Will You Run To" reached number seven, "There's the Girl" reached number 12, and "I Want You So Bad" reached number 49. Bad Animals received a nomination for Best Rock Performance by a Duo or Group with Vocal at the 30th Annual Grammy Awards in 1988.The album features a few cover songs: "Alone" was originally recorded by the duo i-Ten on their 1983 album Taking a Cold Look, while "Wait for an Answer" was originally recorded by Dalbello on her 1984 album Whomanfoursays.
-The album's name refers to a situation the band encountered at a hotel in Charlotte, North Carolina. Ann Wilson's dog was at the hotel with her, and hotel security informed the band that a North Carolina law made it a crime to bring an animal into a hotel room. The band's tour manager solved the problem by going outside with the dog for three hours.
+Bad Animals is the ninth studio album by American rock band Heart, released on May 15, 1987, by Capitol Records. The album continues the mainstream hard rock style from the band's 1985 self-titled release, all while enjoying similar success. It peaked at number two on the US Billboard 200 in August 1987 and was certified triple platinum by the Recording Industry Association of America (RIAA) on June 4, 1992. Internationally, Bad Animals charted within the top five in Canada, Finland, Norway, Sweden, and Switzerland, and the top 10 in the United Kingdom.
+The album spawned the US number-one single "Alone", while "Who Will You Run To" reached number seven, "There's the Girl" reached number 12, and "I Want You So Bad" reached number 49. Bad Animals received a nomination for Best Rock Performance by a Duo or Group with Vocal at the 30th Annual Grammy Awards in 1988.
+The album features a few cover songs: "Alone" was originally recorded by the duo i-Ten on their 1983 album Taking a Cold Look, while "Wait for an Answer" was originally recorded by Dalbello on her 1984 album Whomanfoursays.
+The album's title refers to the band members themselves: they would call themselves the bad animals due to the way they looked in hotel lobbies, disheveled with sunglasses, exhausted from touring.
 
 
     
@@ -48,15 +49,14 @@ The album's name refers to a situation the band encountered at a hotel in Charlo
 
 
 ## Videos
-### You Ain't So Tough
-{{< youtube id="T68DuwluaOE" title="You Ain't So Tough" >}}<br>
+### Heart - Bad Animals (Cassette, 1987)
+{{< youtube id="8-ofSIiHzYs" title="Heart - Bad Animals (Cassette, 1987)" >}}<br>
 ### More Videos
 
+- [Heart - Bad Animals Cassette 1987! #rock #music #heart #badanimals #cassette #shorts #retro](https://www.youtube.com/watch?v=3GpR_yYtYWw)
 - [LP / Heart – Bad Animals / 1987](https://www.youtube.com/watch?v=hQUXiPmzPO0)
 - [Alone | Heart | Bad Animals | 1987 Capitol LP](https://www.youtube.com/watch?v=3sqzLkVGdMc)
-- [Heart - There's The Girl](https://www.youtube.com/watch?v=h1vO6QoACPk)
-- [Heart - Who Will You Run To?](https://www.youtube.com/watch?v=fM44F-M78Vs)
-- [Heart - Alone](https://www.youtube.com/watch?v=1Cw1ng75KP0)
+- [H͟e͟art͟ ͟B͟ad͟ ͟A͟n͟i͟m͟als͟ full album 1987](https://www.youtube.com/watch?v=-doxB3oSH0k)
 
 ## Release Images
 {{< imageGrid >}}
@@ -65,7 +65,7 @@ The album's name refers to a situation the band encountered at a hotel in Charlo
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Bad_Animals |
-| Format         | Vinyl LP Album |
+| Format         | Vinyl LP Album Stereo |
 | Label          | Capitol Records |
 | Catalog Number | ESTU 2032 |
 | Notes | Issued with a custom printed inner sleeve containing lyrics, credits and images. "Sleeve printed in England. Manufactured in England." , on rear's left bottom. |

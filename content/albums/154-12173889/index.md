@@ -12,18 +12,21 @@ cover:
     alt: "154 by Wire"
     caption: "154 by Wire"
 additional_images:
-    - "https://i.discogs.com/OETxbSIwY3DfAK12lPuxvkFgTpxtMKrfP_dNDriEpwA/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMTcz/ODg5LTE1MzAxOTky/OTktNTIyOC5qcGVn.jpeg"
-    - "https://i.discogs.com/hJU4pqqNyzuxR_jnwSrdtPEy28PGSGniqMPU3v6He5c/rs:fit/g:sm/q:90/h:594/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMTcz/ODg5LTE1MzAxOTky/OTktNjUyNi5qcGVn.jpeg"
-    - "https://i.discogs.com/vN2JTRZst-NnzpFCIpHLAaK4XJHooCPsCKWwuoWDWfk/rs:fit/g:sm/q:90/h:601/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMTcz/ODg5LTE1MzAxOTky/OTAtMzI4NC5qcGVn.jpeg"
-    - "https://i.discogs.com/VysjqegJuN07FapEyfnLdlfDVIMfd1GHnBbsOfm3f1Q/rs:fit/g:sm/q:90/h:601/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMTcz/ODg5LTE1MzAxOTky/OTMtNTczNC5qcGVn.jpeg"
-    - "https://i.discogs.com/t48qk4RsAlJqcTE_QzRnKWmQzEvh57IqulcFPW0-INs/rs:fit/g:sm/q:90/h:593/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMTcz/ODg5LTE1MzAxOTky/OTEtNDAwMS5qcGVn.jpeg"
-    - "https://i.discogs.com/ShIWFnSwsPhYvSG073oZC_WZrmwEW5l5AkRivTE-NCQ/rs:fit/g:sm/q:90/h:586/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMTcz/ODg5LTE1MzAxOTky/OTEtNzA3NS5qcGVn.jpeg"
+    - "https://i.discogs.com/k5a350AF9MlFVJt7VdlXmy6zsu1yOCILOoLX3tWCYFc/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMTcz/ODg5LTE3MTYyNjky/MzktMTAxNS5qcGVn.jpeg"
+    - "https://i.discogs.com/h684a4CiFew8UHPQb_5QlUz8oUwhYGL8LKPMqRQhJxE/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMTcz/ODg5LTE3MTYyNjky/NDEtNTU4Ny5qcGVn.jpeg"
+    - "https://i.discogs.com/NKgtWNdbH0XGq06GrueBe5etrsOz2kqXb09KmyrkbnI/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMTcz/ODg5LTE3MTYyNjky/MzYtODgyNy5qcGVn.jpeg"
+    - "https://i.discogs.com/a7HM4LYgih5bhgbISpqQGSwhetrgkxdEkLg3RYVZNF8/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMTcz/ODg5LTE3MTYyNjky/MzUtMjU5NC5qcGVn.jpeg"
+    - "https://i.discogs.com/P4TaMTyGcaUj7Gc5tuqOwQAJF4B6_Hk1wXMlOTBQyNo/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMTcz/ODg5LTE3MTYyNjky/NDQtNDEyMy5qcGVn.jpeg"
+    - "https://i.discogs.com/eKsQrLr-iDGRfnxhTrUCk-q35ahFFWQStRvBlY1QgOE/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMTcz/ODg5LTE3MTYyNjky/NDUtNTM1My5qcGVn.jpeg"
+    - "https://i.discogs.com/-uqa9rv9hGO8-wuzoI_sRzi2kszqBBlbeVEUpeAJPNg/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMTcz/ODg5LTE3MTYyNjky/NDQtMjMwMS5qcGVn.jpeg"
 genres: ["Electronic", "Rock"]
 styles: ["New Wave", "Punk", "Experimental"]
 ---
 
 154 is the third album by the English post-punk band Wire, released in 1979 
-on EMI imprint Harvest Records in the UK and Europe and Warner Bros. Records in America.
+on EMI imprint Harvest Records in the UK and Europe and Warner Bros. Records in America. Branching out even further from the minimalist punk rock style of their earlier work, 154 is considered a progression of the sounds displayed on Wire's previous album Chairs Missing, with the group experimenting with slower tempos, fuller song structures and a more prominent use of guitar effects, synthesizers and electronics.
+The album is so named because the band had played 154 gigs in their career at the time of the album's release. The unusual title of the track "Map Ref 41°N 93°W" was based on a guess of the centre of the American Midwest by bassist and singer Graham Lewis; the location of these coordinates is coincidentally close to Centerville, Iowa.
+Following the album's release, a falling out with the band's record label, EMI, as well as creative differences led to their breaking up in 1980, making 154 the band's last album up until their eventual reunion in 1985 and subsequent release of The Ideal Copy in 1987.
     
     
 
@@ -44,7 +47,7 @@ on EMI imprint Harvest Records in the UK and Europe and Warner Bros. Records in 
 13. 40 Versions (3:26)
 
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/154-2006-remastered-version/1339606590" >}}<br>
+{{< applemusic url="https://music.apple.com/gb/album/154/1330595261" >}}<br>
 
 
 ## Videos
@@ -61,12 +64,14 @@ on EMI imprint Harvest Records in the UK and Europe and Warner Bros. Records in 
 - [A Mutual Friend (2006 Remastered Version)](https://www.youtube.com/watch?v=Ya6yJKUPZSQ)
 - [Blessed State (2006 Remastered Version)](https://www.youtube.com/watch?v=LeCI9kww3Dk)
 - [Once Is Enough (2006 Remastered Version)](https://www.youtube.com/watch?v=OQr6TVdPWxo)
+- [Map Ref 41 Degrees N 93 Degrees W (2006 Remastered Version)](https://www.youtube.com/watch?v=UKYbylOZB1o)
 - [Indirect Enquiries (2006 Remastered Version)](https://www.youtube.com/watch?v=_1E7brhqdtE)
 - [40 Versions (2006 Remastered Version)](https://www.youtube.com/watch?v=HVR9obMPABw)
 - [WIRE song 1 1979](https://www.youtube.com/watch?v=ZlJu7FZRHxc)
 - [Wire - Get Down (Parts I & II)](https://www.youtube.com/watch?v=UaK7_m-pZsU)
 - [WIRE let's panic later 1979](https://www.youtube.com/watch?v=u6Ep_puwWis)
 - [Wire - Small Electric Piece](https://www.youtube.com/watch?v=bSEVrZ1DmlI)
+- [Wire - Single KO (HQ)](https://www.youtube.com/watch?v=2JfLIxCtU-s)
 
 ## Release Images
 {{< imageGrid >}}

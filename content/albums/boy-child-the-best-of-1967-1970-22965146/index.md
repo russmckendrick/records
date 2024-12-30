@@ -14,7 +14,7 @@ cover:
 additional_images:
     - "https://i.discogs.com/l6ITdW2IzJnrynsS1paYmIhUDYyARwXsxdvMnSFo_6Y/rs:fit/g:sm/q:90/h:556/w:590/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyOTY1/MTQ2LTE2NTA2MDM2/MjItNjQ5MS5qcGVn.jpeg"
 genres: ["Rock"]
-styles: ["Pop Rock"]
+styles: ["Pop Rock", "Baroque Pop"]
 ---
 
 
@@ -45,9 +45,27 @@ styles: ["Pop Rock"]
 23. The Rope And The Colt
 24. Epilogue: The War Is Over 
 
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/the-best-of-1980-1990/1440894594" >}}<br>
 
 
+## Videos
+### Montague Terrace (In Blue)
+{{< youtube id="okWihNm-4wg" title="Montague Terrace (In Blue)" >}}<br>
+### More Videos
 
+- [The Plague](https://www.youtube.com/watch?v=t62oPUfOcu8)
+- [Copenhagen](https://www.youtube.com/watch?v=Q145Zd5mBiA)
+- [Prologue](https://www.youtube.com/watch?v=P8tdhcJj1cI)
+- [It's Raining Today](https://www.youtube.com/watch?v=7SIkNZRg_fM)
+- [On Your Own Again](https://www.youtube.com/watch?v=DZJquQY2poY)
+- [We Came Through](https://www.youtube.com/watch?v=BnzmioTGCcw)
+- [Angels Of Ashes](https://www.youtube.com/watch?v=CuVa2jFZW-o)
+- [Time Operator](https://www.youtube.com/watch?v=CiSh6QXloTs)
+- [Plastic Palace People](https://www.youtube.com/watch?v=f3CEo_IgxtY)
+- [Epilogue: The War Is Over](https://www.youtube.com/watch?v=Ek-5ebSz0JU)
+- [Such A Small Love](https://www.youtube.com/watch?v=VLbTW7UMhhU)
+- [The Old Man's Back Again (Dedicated To The Neo-Stalinist Regime)](https://www.youtube.com/watch?v=ewRvMdkvjWU)
 
 ## Release Images
 {{< imageGrid >}}

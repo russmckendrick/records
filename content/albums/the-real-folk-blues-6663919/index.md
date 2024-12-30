@@ -12,8 +12,10 @@ cover:
     alt: "The Real Folk Blues by Howlin' Wolf"
     caption: "The Real Folk Blues by Howlin' Wolf"
 additional_images:
-    - "https://i.discogs.com/sJe5sfry8044uAYQUPtIFNUkMKoLsyBn5Dbc_p4WuWo/rs:fit/g:sm/q:90/h:433/w:432/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY2NjM5/MTktMTQzMTAxOTcz/MC01NDM0LmpwZWc.jpeg"
-    - "https://i.discogs.com/gMVVqkVQIHyu0WCSPp9rcvKU9Fd0Ja02dyUkimcidvs/rs:fit/g:sm/q:90/h:434/w:432/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY2NjM5/MTktMTQzMTAxOTc0/My03ODg5LmpwZWc.jpeg"
+    - "https://i.discogs.com/jV1NHBK7U27Zz-YJNywRWf0xfAfhJBGekCZzBoEI3H0/rs:fit/g:sm/q:90/h:600/w:594/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY2NjM5/MTktMTczMzE1Mzk1/My00MTUwLmpwZWc.jpeg"
+    - "https://i.discogs.com/Fa6McL4_pF18YV8jukvKGGnyv0wGuNKuqzE94M5L9cU/rs:fit/g:sm/q:90/h:592/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY2NjM5/MTktMTczMzE1Mzk1/My0yNzk1LmpwZWc.jpeg"
+    - "https://i.discogs.com/rYFuuGr84FoF7C2SIjMx5gDu3rCCpSezZMBQ5WZCJ0M/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY2NjM5/MTktMTczMzE1Mzk1/Mi01NTU2LmpwZWc.jpeg"
+    - "https://i.discogs.com/In6_rITTP4G65UOm5ukTIcQ9fWXWdE7sdR3sOnRFyDU/rs:fit/g:sm/q:90/h:600/w:585/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY2NjM5/MTktMTczMzE1Mzk1/Mi0yMTcwLmpwZWc.jpeg"
 genres: ["Blues"]
 styles: ["Chicago Blues"]
 ---
@@ -55,6 +57,7 @@ The Real Folk Blues is a compilation album by blues musician Howlin' Wolf, which
 - [Tail Dragger](https://www.youtube.com/watch?v=m4ucJ8ShLHg)
 - [Sitting On Top Of The World](https://www.youtube.com/watch?v=K1LAl1xLC0g)
 - [Howlin' Wolf - The Natchez Burnin](https://www.youtube.com/watch?v=gbwQ8OoMrYc)
+- [Howlin' Wolf - Tell Me What I've Done [HD]](https://www.youtube.com/watch?v=pm-v_7K66rw)
 
 ## Release Images
 {{< imageGrid >}}

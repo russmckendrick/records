@@ -4,7 +4,7 @@ artist_name: "The War On Drugs"
 artist: "the-war-on-drugs"
 album_name: "Lost In The Dream"
 date: 2015-08-09T09:04:57.000000Z
-release_date: "2014-03-18"
+release_date: "2014-03-17"
 release_id: "5990802"
 slug: "lost-in-the-dream-5990802"
 hideSummary: true
@@ -14,16 +14,16 @@ cover:
     caption: "Lost In The Dream by The War On Drugs"
 additional_images:
     - "https://i.discogs.com/VXAbRNzInjXjS-frEgSutQ4aVi8SPb9TUmBkzf9_45g/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU5OTA4/MDItMTYyODYzNzY3/Ny05NTcwLmpwZWc.jpeg"
-    - "https://i.discogs.com/yJdBxuwSsX1QD_V8TNY_uBCDR_Kxfw2Zt_2hrpcnsb8/rs:fit/g:sm/q:90/h:612/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU5OTA4/MDItMTYyODYzNzQ0/NC02MjU1LmpwZWc.jpeg"
+    - "https://i.discogs.com/FL8OiLqffjck53q1Usrzp7PPE_qcyxCiuGKf-ukKqCc/rs:fit/g:sm/q:90/h:600/w:587/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU5OTA4/MDItMTYyODYzNzQ0/NC02MjU1LmpwZWc.jpeg"
     - "https://i.discogs.com/EC1G1nJgAXmzTtQPqoMt5O2kkr4AETY5_WcQqdi3_us/rs:fit/g:sm/q:90/h:292/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU5OTA4/MDItMTYyODYzNzQ0/Ny04MzQwLmpwZWc.jpeg"
-    - "https://i.discogs.com/Iw5ZSbLsVRmzNWcsplmcxAJcqB-Gl84Oo9QUzTp6qn4/rs:fit/g:sm/q:90/h:603/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU5OTA4/MDItMTYyODYzNzg2/MS02NzA1LmpwZWc.jpeg"
+    - "https://i.discogs.com/XDC34-e6py1xjGP3y3neuc6A4GP8Q7NuyrnUPeh0dnE/rs:fit/g:sm/q:90/h:600/w:596/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU5OTA4/MDItMTYyODYzNzg2/MS02NzA1LmpwZWc.jpeg"
     - "https://i.discogs.com/U5x0eAkBqSB5IMgBH1lLCuSLVbynI18QbdmjNW_n4pI/rs:fit/g:sm/q:90/h:583/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU5OTA4/MDItMTYyODYzNzg2/MS02NDYwLmpwZWc.jpeg"
-    - "https://i.discogs.com/pzqhPv4OLGhlBibwXBULUo6iliMy5N2aXav4UoI2YIg/rs:fit/g:sm/q:90/h:609/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU5OTA4/MDItMTYyODYzNzA2/NS03NTA5LmpwZWc.jpeg"
-    - "https://i.discogs.com/VOz0s3R4oAS1rAxjBdrq7M3VgxHXVZSrc2dEJIfaGVc/rs:fit/g:sm/q:90/h:1655/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU5OTA4/MDItMTYyODYzNzA2/MC0zNTg3LmpwZWc.jpeg"
+    - "https://i.discogs.com/mpBjHnSyUKZbPAOwpfwR2BFVp0c9JCbQxtLIu5KHliQ/rs:fit/g:sm/q:90/h:600/w:590/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU5OTA4/MDItMTYyODYzNzA2/NS03NTA5LmpwZWc.jpeg"
+    - "https://i.discogs.com/5hUkqMEib0YNYW6b61X3eujsV1bFLClk6UMi6x-_uTE/rs:fit/g:sm/q:90/h:600/w:217/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU5OTA4/MDItMTYyODYzNzA2/MC0zNTg3LmpwZWc.jpeg"
     - "https://i.discogs.com/Kqos_E39xjS0zGdfhXkxMsJhGC78j7ZIFC-pOJ9Cat4/rs:fit/g:sm/q:90/h:433/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU5OTA4/MDItMTYyODYzODA1/MC04Njg2LmpwZWc.jpeg"
     - "https://i.discogs.com/zm3fky1yAz13Ey1RjVGky5npQw3q8Wk1MSe4dMgS6oU/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU5OTA4/MDItMTYyODYzNzA1/NS0xNDAzLmpwZWc.jpeg"
     - "https://i.discogs.com/KrjrR_6elaA36yIDhkNCF1pn8KbXAO9lxziCM0qp9mg/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU5OTA4/MDItMTYyODYzNzA2/My00OTkxLmpwZWc.jpeg"
-    - "https://i.discogs.com/PyFedd9Zpb3i1AAy4XwVfmFaJRekJgfHOuIeDhsENNA/rs:fit/g:sm/q:90/h:613/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU5OTA4/MDItMTYyODYzNzA2/MS02MTM1LmpwZWc.jpeg"
+    - "https://i.discogs.com/H5PeIK-z_yKObU4vlxVjrr1SQxsLcSQ7OPXQJHYMkGE/rs:fit/g:sm/q:90/h:600/w:586/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU5OTA4/MDItMTYyODYzNzA2/MS02MTM1LmpwZWc.jpeg"
     - "https://i.discogs.com/DSsEyeWACTsmdJq-celSGCpjfyg9Y6-32VwRqwZteRc/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU5OTA4/MDItMTYyODYzNzA2/My00MDQ1LmpwZWc.jpeg"
     - "https://i.discogs.com/bnfFAISyxkDx0iCS7VtxYS60HHch476egcmI8WXC3K8/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU5OTA4/MDItMTYyODYzNzA2/My0xNDgwLmpwZWc.jpeg"
 genres: ["Rock"]
@@ -53,14 +53,15 @@ With 2011’s <i>Slave Ambient</i>, The War on Drugs offered a collection of emo
 
 
 ## Videos
-### The War On Drugs - Red Eyes (Official Audio)
-{{< youtube id="bsoqmFL1vlU" title="The War On Drugs - Red Eyes (Official Audio)" >}}<br>
+### Lost in the dream | Full album
+{{< youtube id="Lq_vlKanDKY" title="Lost in the dream | Full album" >}}<br>
 ### More Videos
 
-- [Lost in the dream | Full album](https://www.youtube.com/watch?v=Lq_vlKanDKY)
-- [Lost In The Dream](https://www.youtube.com/watch?v=K3HqnHUohOo)
-- [The War on Drugs - Under The Pressure (Official Video)](https://www.youtube.com/watch?v=vkLOg252KRE)
+- [The War on Drugs - Lost In The Dream (Lyrics)](https://www.youtube.com/watch?v=w0DXBwuw9BY)
 - [An Ocean In Between The Waves](https://www.youtube.com/watch?v=BijxWQluXE0)
+- [The War on Drugs - Under The Pressure (Official Video)](https://www.youtube.com/watch?v=vkLOg252KRE)
+- [The War on Drugs - Full Performance (Live on KEXP)](https://www.youtube.com/watch?v=jbzV2Y06G-E)
+- [The War on Drugs - *Lost in the Dream World Tour* Full Concert - HD](https://www.youtube.com/watch?v=QKRenQ2tEmo)
 
 ## Release Images
 {{< imageGrid >}}

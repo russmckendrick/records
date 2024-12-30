@@ -12,8 +12,8 @@ cover:
     alt: "Nurse by Therapy?"
     caption: "Nurse by Therapy?"
 additional_images:
-    - "https://i.discogs.com/sgjjK0ErUJCA5aGrhpw4zU1pUpM0SVilJODIznnAb6E/rs:fit/g:sm/q:90/h:605/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQxNTg0/NS0xNDc2NTk3OTY3/LTU1OTcuanBlZw.jpeg"
-    - "https://i.discogs.com/mQLdatPc6WeOIlZ1QhX6a7pXjBtH4bdtrn8bg3UIgvY/rs:fit/g:sm/q:90/h:603/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQxNTg0/NS0xNDc2NTk3OTgz/LTI2ODAuanBlZw.jpeg"
+    - "https://i.discogs.com/n6LOlZLJplKUplzWigz3OSvgvnBou_RT0cRXXCn27LM/rs:fit/g:sm/q:90/h:600/w:594/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQxNTg0/NS0xNDc2NTk3OTY3/LTU1OTcuanBlZw.jpeg"
+    - "https://i.discogs.com/pLFwXBulAprWU3sCP8puh_vUvRwBdfKazehloT0z4Ik/rs:fit/g:sm/q:90/h:600/w:596/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQxNTg0/NS0xNDc2NTk3OTgz/LTI2ODAuanBlZw.jpeg"
     - "https://i.discogs.com/SMbrtSPENhQ2o2ZsYsZtyma9hFdUkeumuUfddJzQkQk/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQxNTg0/NS0xNDc2NTk3OTY0/LTQ0MzkuanBlZw.jpeg"
     - "https://i.discogs.com/FGiuJn9AV8LSKVKWgyFJhkJBYs6N7f1RDJ6uiWyuatk/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQxNTg0/NS0xNDc2NTk3OTc2/LTM2NDIuanBlZw.jpeg"
     - "https://i.discogs.com/JuXCh_J61Pf7unClSowTtXaoEdlMxNy_R4YvmJ5Hs4U/rs:fit/g:sm/q:90/h:591/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQxNTg0/NS0xNDc2NTk3OTc5/LTI5MTYuanBlZw.jpeg"
@@ -23,6 +23,8 @@ styles: ["Indie Rock"]
 ---
 
 Nurse is the first major label album released by the rock band Therapy? It was released in 1992 on A&M Records.
+
+
     
     
 
@@ -44,21 +46,26 @@ Nurse is the first major label album released by the rock band Therapy? It was r
 
 
 ## Videos
-### Therapy? - Nausea
-{{< youtube id="a9BmmGM9bSY" title="Therapy? - Nausea" >}}<br>
+### Perversonality
+{{< youtube id="ca9T34sYlK0" title="Perversonality" >}}<br>
 ### More Videos
 
-- [Therapy? - Teethgrinder](https://www.youtube.com/watch?v=-R4eCxKxr6Q)
-- [Accelerator](https://www.youtube.com/watch?v=oRavi-MzMf4)
-- [Therapy? : Disgracelands (1992)](https://www.youtube.com/watch?v=ObltOZKQvXM)
 - [Nausea](https://www.youtube.com/watch?v=lnG_TXXVf4g)
-- [Perversonality](https://www.youtube.com/watch?v=ca9T34sYlK0)
+- [Therapy? - Teethgrinder](https://www.youtube.com/watch?v=oH_yivWallk)
+- [Therapy? - Nausea](https://www.youtube.com/watch?v=a9BmmGM9bSY)
+- [Therapy? - Teethgrinder](https://www.youtube.com/watch?v=-R4eCxKxr6Q)
+- [Therapy? : Disgracelands (1992)](https://www.youtube.com/watch?v=ObltOZKQvXM)
+- [Accelerator](https://www.youtube.com/watch?v=oRavi-MzMf4)
 - [Neck Freak](https://www.youtube.com/watch?v=rSgjWbnHn7o)
 - [Perversonality  - Therapy?](https://www.youtube.com/watch?v=Qbs3ms5A5pM)
 - [Therapy? - Gone (with lyrics)](https://www.youtube.com/watch?v=j6rFl9nQ0xw)
 - [Zipless](https://www.youtube.com/watch?v=CVG8xmmHesA)
-- [Therapy?  - Deep Sleep](https://www.youtube.com/watch?v=3TIc3LbhxAA)
+- [Therapy?  - "Deep Sleep"](https://www.youtube.com/watch?v=3TIc3LbhxAA)
 - [Therapy - Hypermania](https://www.youtube.com/watch?v=Yj0AGitctVg)
+- [Perversonality](https://www.youtube.com/watch?v=ca9T34sYlK0)
+- [Nausea](https://www.youtube.com/watch?v=lnG_TXXVf4g)
+- [Therapy? - Teethgrinder](https://www.youtube.com/watch?v=oH_yivWallk)
+- [Therapy - Teethgrinder.....yerdenizplak.com İstanbul Kadıköy](https://www.youtube.com/watch?v=CDkqrXBy2tU)
 
 ## Release Images
 {{< imageGrid >}}

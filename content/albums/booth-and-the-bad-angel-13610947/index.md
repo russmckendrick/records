@@ -19,6 +19,8 @@ styles: ["Alternative Rock", "Indie Rock"]
 ---
 
 Booth and the Bad Angel is a studio album by Booth and the Bad Angel, a collaborative project between Angelo Badalamenti and Tim Booth. It was released in 1996. It peaked at number 35 on the UK Albums Chart.
+
+
     
     
 

@@ -12,22 +12,24 @@ cover:
     alt: "The Real Thing by Faith No More"
     caption: "The Real Thing by Faith No More"
 additional_images:
-    - "https://i.discogs.com/_4hYnGDOqLqsRJlxsgW6SGw-QWe2HwqvqZceIBTfung/rs:fit/g:sm/q:90/h:601/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MDM0/NTMyLTE2MDI5NDg4/NzQtNjY2MC5qcGVn.jpeg"
+    - "https://i.discogs.com/nYD8NF7PAePcaTtdwzRjpmOvvxtV-G5SJt0yxLkeOeU/rs:fit/g:sm/q:90/h:600/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MDM0/NTMyLTE2MDI5NDg4/NzQtNjY2MC5qcGVn.jpeg"
     - "https://i.discogs.com/RWk4yUbRMMwhb37KEFrMsBO8RMXmxn8NQBhyU_-tjrs/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MDM0/NTMyLTE2MDI5NDg4/NjktNTkxNC5qcGVn.jpeg"
     - "https://i.discogs.com/SSiq9t8M33nQpaaBT8k9haRWDJnvRmY1Rj_HlWR_AFM/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MDM0/NTMyLTE2MDI5NDg4/NzItNTEyOS5qcGVn.jpeg"
     - "https://i.discogs.com/7GUMIh8UT-iYWTJQCJy9YixXrf7L051uBfLscFZ9lfs/rs:fit/g:sm/q:90/h:591/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MDM0/NTMyLTE2MDI5NDg4/NzMtNjE4My5qcGVn.jpeg"
     - "https://i.discogs.com/wEOqqSbnt9AF3VR8K-vmjvz3IUks0TS_Dw-Xt0RVN8I/rs:fit/g:sm/q:90/h:594/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MDM0/NTMyLTE2MDI5NDg4/NzItMTA1NS5qcGVn.jpeg"
     - "https://i.discogs.com/mKaPj9b891G6VzXTu6kpuXGVcq6rhss_grSQPYbQwMM/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MDM0/NTMyLTE2MDI5NTQw/NDAtNDM1NS5qcGVn.jpeg"
     - "https://i.discogs.com/oVg-PoboYVHKHCS5Iprod75o7Gd5mKt9aVDJ62R2WpQ/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MDM0/NTMyLTE2MDI5NTA0/MjUtMjQ3OS5qcGVn.jpeg"
-    - "https://i.discogs.com/M7qLGrWh5cK-9lpytRvyT3t28KkryMtGTbOyX0GGpEE/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MDM0/NTMyLTE2MDI5NDg4/NjUtMTE0My5qcGVn.jpeg"
+    - "https://i.discogs.com/DZgbixAb163bIJV1yKtSWxwOV5CS50Eui10SHWg-uw8/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MDM0/NTMyLTE2MDI5NDg4/NjUtMTE0My5qcGVn.jpeg"
     - "https://i.discogs.com/UnFIX7kd8DTnHfy69Z27vbzMDKADbu5SS1TKHujlxa0/rs:fit/g:sm/q:90/h:342/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MDM0/NTMyLTE2MDI5NTQx/MzQtMjg5MS5qcGVn.jpeg"
     - "https://i.discogs.com/AZzcTqr7gRvqy3JLd_7hbWqphAMSZx_SOio4h3Jcbts/rs:fit/g:sm/q:90/h:178/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MDM0/NTMyLTE2MDI5NTQx/ODMtNjQyNy5qcGVn.jpeg"
     - "https://i.discogs.com/5vJwzQ_pkjIfEb7vh1Q76pRpU1_pVrHy5A6GmZ-iwAA/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MDM0/NTMyLTE2MDc3MTQ3/NjYtNDg1Ny5qcGVn.jpeg"
 genres: ["Rock"]
-styles: ["Alternative Rock"]
+styles: ["Alternative Metal", "Funk Metal", "Alternative Rock"]
 ---
 
-The Real Thing is the third studio album by American rock band Faith No More, released on June 20, 1989 by Slash and Reprise Records. It was the first album by the band not to feature vocalist Chuck Mosley, instead, the album featured Mike Patton from the experimental/funk band Mr. Bungle. On this album, Faith No More continued to advance their sound range, combining funk metal, rap metal and alternative rock.
+The Real Thing is the third studio album by American rock band Faith No More, released on June 20, 1989, by Slash and Reprise Records. It is the first album to feature singer Mike Patton, following the dismissal of previous vocalist Chuck Mosley. On this album, Faith No More continued to advance their sound range, combining alternative metal, funk metal, and rap metal.
+
+
     
     
 
@@ -48,28 +50,14 @@ The Real Thing is the third studio album by American rock band Faith No More, re
 
 
 ## Videos
-### Faith No More - From Out Of Nowhere (Official Music Video)
-{{< youtube id="j4tsGWdarHc" title="Faith No More - From Out Of Nowhere (Official Music Video)" >}}<br>
+### Faith No More - Epic (Official Music Video)
+{{< youtube id="ZG_k5CSYKhg" title="Faith No More - Epic (Official Music Video)" >}}<br>
 ### More Videos
 
-- [Faith No More - Epic (Official Music Video)](https://www.youtube.com/watch?v=ZG_k5CSYKhg)
-- [Epic](https://www.youtube.com/watch?v=EO6JN3LLTz8)
-- [Zombie Eaters](https://www.youtube.com/watch?v=33dAH1vC4K0)
-- [The Real Thing](https://www.youtube.com/watch?v=HYFDKk4K1tY)
-- [Underwater Love](https://www.youtube.com/watch?v=jQ1N9khfSYc)
-- [The Morning After](https://www.youtube.com/watch?v=LWMjJxpgbgM)
-- [Woodpecker from Mars](https://www.youtube.com/watch?v=FMGA21QxzsM)
-- [War Pigs](https://www.youtube.com/watch?v=pQD-u6FfXp0)
-- [Edge of the World](https://www.youtube.com/watch?v=pDRUHMOXZts)
-- [Sweet Emotion](https://www.youtube.com/watch?v=To7EeBQtBRQ)
-- [Cowboy Song (B-Side)](https://www.youtube.com/watch?v=P1tSCCwnOrY)
-- [The Grade (B-Side)](https://www.youtube.com/watch?v=5DfYJq6R2Bs)
-- [From out of Nowhere (Extended Remix)](https://www.youtube.com/watch?v=7_-Mg20ISiU)
-- [War Pigs (Live in Berlin 11.9.1989)](https://www.youtube.com/watch?v=305qpNQfhq8)
-- [Surprise! You're Dead! (Live in Sheffield) (B-Side)](https://www.youtube.com/watch?v=Io1zkvfbQrs)
-- [Chinese Arithmetic (Live in Sheffield) (B-Side)](https://www.youtube.com/watch?v=0jB7-5-Z_qc)
-- [Underwater Love (Live in Brixton)](https://www.youtube.com/watch?v=BaIcny57hN0)
-- [As the Worm Turns (Live in Brixton)](https://www.youtube.com/watch?v=fOkSvCe-aEE)
+- [Faith No More - Falling to Pieces (Official Music Video)](https://www.youtube.com/watch?v=32bdevGClD4)
+- [Faith No More - From Out Of Nowhere (Official Music Video)](https://www.youtube.com/watch?v=j4tsGWdarHc)
+- [Faith No More - Surprise You're Dead [Official Music Video]](https://www.youtube.com/watch?v=eG4AawcYdSE)
+- [Faith No More - The Real Thing (Full Album)](https://www.youtube.com/watch?v=TebRt1gFVhs)
 
 ## Release Images
 {{< imageGrid >}}

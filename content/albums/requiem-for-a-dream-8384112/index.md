@@ -28,11 +28,9 @@ genres: ["Electronic", "Stage & Screen"]
 styles: ["Abstract", "Score", "Modern Classical", "Ambient"]
 ---
 
-Requiem for a Dream is a 2000 American psychological drama film directed by Darren Aronofsky and starring Ellen Burstyn, Jared Leto, Jennifer Connelly, Christopher McDonald, and Marlon Wayans. It is based on the 1978 novel of the same name by Hubert Selby Jr., with whom Aronofsky wrote the screenplay. The film depicts four characters affected by drug addiction and how it alters their physical and emotional states. Their addictions cause them to become imprisoned in a world of delusion and desperation. As the film progresses, each character deteriorates, and their reality is overtaken by delusion, resulting in catastrophe.
-Selby's novel was optioned by Aronofsky and producer Eric Watson. Selby had always intended to adapt the novel into a film, as he had written a script years prior to Aronofsky approaching him. Aronofsky was enthusiastic about the story and developed the script with Selby, despite initial struggles to obtain funding for the film's production. He and the cast speak of the film being about addictions in general, and not just drugs, and how one’s attempts to fulfill their dreams can fuel an addiction with a theme of loneliness and avoidance of reality in different ways. Principal photography took place in Brooklyn, New York, from April to June 1999. During the post-production process, the music was composed by Clint Mansell while Jay Rabinowitz worked for editing.
-The film premiered at the 2000 Cannes Film Festival, selected as an out-of-competition entry, followed by the United States theatrical release on October 6, 2000, by Artisan Entertainment. It received a positive response from critics despite not doing well at the box office. The film's visual style, direction, screenplay, editing, musical score, cast, emotional depth, and themes were all praised, with Burstyn receiving an Academy Award nomination for Best Actress.
-
-
+Requiem for a Dream is a 2000 American psychological drama film directed by Darren Aronofsky and starring Ellen Burstyn, Jared Leto, Jennifer Connelly, Christopher McDonald, and Marlon Wayans. It is based on the 1978 novel of the same name by Hubert Selby Jr., with whom Aronofsky wrote the screenplay. The film depicts four characters affected by drug addiction and how it alters their physical and emotional states. Their addictions cause them to become imprisoned in a world of delusion and desperation. As the film progresses, each character deteriorates, and their delusions are shattered by the harsh reality of their situations, resulting in catastrophe.
+Selby's novel was optioned by Aronofsky and producer Eric Watson. Selby had always intended to adapt the novel into a film, and he had written a script years prior to Aronofsky approaching him. Aronofsky was enthusiastic about the story and developed the script with Selby, despite initial struggles to obtain funding for the film's production. He and the cast speak of the film being about addictions in general, and not just drugs, and how one’s attempts to fulfill their dreams can fuel an addiction with a theme of loneliness and avoidance of reality in different ways. Principal photography took place in Brooklyn, New York, from April to June 1999. During the post-production process, the music was composed by Clint Mansell while Jay Rabinowitz worked for editing.
+The film premiered at the 2000 Cannes Film Festival, selected as an out-of-competition entry, followed by the United States theatrical release on October 6, 2000, by Artisan Entertainment. The film grossed $7 million against a $4 million budget and received a positive response from critics. The film's visual style, direction, screenplay, editing, musical score, cast, emotional depth, and themes were all praised, with Burstyn receiving Academy Award and Golden Globe Award nominations for Best Actress.
     
     
 
@@ -79,13 +77,15 @@ The film premiered at the 2000 Cannes Film Festival, selected as an out-of-compe
 39. 30 Days To Revolutionize Your Life!!! 1-900-976-JUICE (6:55)
 
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/requiem-for-a-dream-feat-kronos-quartet-original/315410011" >}}<br>
+{{< applemusic url="https://music.apple.com/gb/album/requiem-for-a-dream-single/1383377592" >}}<br>
 
 
 ## Videos
 ### R.e.q.ui.e.m for a D.r.e.a.m (2000) Soundtrack (Full Vinyl Rip)
 {{< youtube id="B9S1nojrxCg" title="R.e.q.ui.e.m for a D.r.e.a.m (2000) Soundtrack (Full Vinyl Rip)" >}}<br>
+### More Videos
 
+- [R.e.q.ui.e.m for a D.r.e.a.m (2000) Soundtrack (Full Vinyl Rip)](https://www.youtube.com/watch?v=B9S1nojrxCg)
 
 ## Release Images
 {{< imageGrid >}}

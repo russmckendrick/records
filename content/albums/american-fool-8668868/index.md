@@ -17,8 +17,9 @@ genres: ["Rock"]
 styles: ["Southern Rock"]
 ---
 
-American Fool is the fifth studio album by John Mellencamp, released under the stage name John Cougar in 1982. The album was his commercial breakthrough, holding the No. 1 position on the Billboard album chart for nine weeks.
-A remastered version of American Fool was released on Mercury/Island/UMe on March 29, 2005; it includes one bonus track, the previously unreleased title track.
+American Fool is the fifth studio album by American singer-songwriter John Cougar, released on April 12, 1982. The album was his commercial breakthrough, holding the No. 1 position on the Billboard 200 album chart for nine consecutive weeks. A remastered version of American Fool was released on Mercury/Island/UMe on March 29, 2005; it includes one bonus track, the previously unreleased title track.
+
+
     
     
 
@@ -34,9 +35,8 @@ A remastered version of American Fool was released on Mercury/Island/UMe on Marc
 8. Close Enough (3:37)
 9. Weakest Moments (4:07)
 
-
-## Spotify
-{{< spotify type="album" id="4gouGcdQn9OvjX42xnWrF0" width="100%" height="500" >}}<br>
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/words-music-john-mellencamps-greatest-hits/1418215963" >}}<br>
 
 
 ## Videos
@@ -47,12 +47,11 @@ A remastered version of American Fool was released on Mercury/Island/UMe on Marc
 - [Jack & Diane](https://www.youtube.com/watch?v=qcca2DzOlOc)
 - [Hand To Hold On To](https://www.youtube.com/watch?v=QTPq27vhB9g)
 - [Danger List](https://www.youtube.com/watch?v=DodNVBf0f4I)
-- [Can You Take It](https://www.youtube.com/watch?v=sdkEEJI9Kss)
 - [Thundering Hearts](https://www.youtube.com/watch?v=I2xJAJq505o)
 - [China Girl](https://www.youtube.com/watch?v=BeD7thCRa3M)
-- [Close Enough](https://www.youtube.com/watch?v=QfosOulnkWw)
 - [Weakest Moments](https://www.youtube.com/watch?v=k1U1KNfX1gQ)
 - [American Fool (Bonus Track)](https://www.youtube.com/watch?v=-IIXpzlaMlw)
+- [John Mellencamp  American Fool Full Vinyl Album](https://www.youtube.com/watch?v=YPAc4b5lfVU)
 
 ## Release Images
 {{< imageGrid >}}

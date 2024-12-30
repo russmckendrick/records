@@ -12,17 +12,16 @@ cover:
     alt: "Bad Reputation by Joan Jett"
     caption: "Bad Reputation by Joan Jett"
 additional_images:
+    - "https://i.discogs.com/ePYLdDxvUqR-dFEXJHqtKszrIvenjhs5ecMjOtk27_Y/rs:fit/g:sm/q:90/h:230/w:229/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyODQw/MTA1LTE2OTkxMjM1/OTktOTI1OS5qcGVn.jpeg"
     - "https://i.discogs.com/Vxld1DkDt1RpYrdCDZbbX2WuaJkxhrUXbDrx3yK3H-8/rs:fit/g:sm/q:90/h:593/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyODQw/MTA1LTE1NDMwMDA0/OTctNjM3OC5qcGVn.jpeg"
     - "https://i.discogs.com/VSxZNFQYHf2dmLMYOIgRbTYfzYV_veVckAQnipfR05c/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyODQw/MTA1LTE1NDMwMDA1/MDAtNDQyOS5qcGVn.jpeg"
-    - "https://i.discogs.com/7IylRNf37CYJoQ5cQ_8NFsapz1qG2TN20Orb6GOBw8k/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyODQw/MTA1LTE1NDMwMDA0/OTEtNTkzMC5qcGVn.jpeg"
-    - "https://i.discogs.com/QTwrp67qu65Yc5v3babLsHtCSMTbjT2csmKEgQCsRuQ/rs:fit/g:sm/q:90/h:625/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyODQw/MTA1LTE1NDMwMDA1/MTAtNDAwNi5qcGVn.jpeg"
+    - "https://i.discogs.com/23pdTmnMpLFXjbdWu5ImDosuW4mN6j3GEi4WLPRSwTc/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyODQw/MTA1LTE1NDMwMDA0/OTEtNTkzMC5qcGVn.jpeg"
+    - "https://i.discogs.com/sUhZrovJSquOXRxjIj4a7fPSMRnqLTN2gQ-Sjef0XZs/rs:fit/g:sm/q:90/h:600/w:575/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyODQw/MTA1LTE1NDMwMDA1/MTAtNDAwNi5qcGVn.jpeg"
 genres: ["Rock"]
 styles: ["Classic Rock", "Punk"]
 ---
 
-"Bad Reputation" is a rock song co-written and recorded by Joan Jett from her debut album of the same name. Though it was initially only released as a single in Germany, it remains one of her signature songs.
-
-
+"Bad Reputation" is a rock song co-written and recorded by Joan Jett from her debut album of the same name. It remains one of her signature songs.
     
     
 
@@ -43,7 +42,7 @@ styles: ["Classic Rock", "Punk"]
 13. Androgynous
 
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/bad-reputation-expanded-edition/1434145250" >}}<br>
+{{< applemusic url="https://music.apple.com/gb/album/bad-reputation/1614110676" >}}<br>
 
 
 ## Videos

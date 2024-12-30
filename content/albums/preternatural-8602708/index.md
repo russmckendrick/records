@@ -25,6 +25,10 @@ genres: ["Rock", "Pop", "Folk, World, & Country"]
 styles: ["Art Rock", "Prog Rock", "Experimental"]
 ---
 
+The preternatural (or praeternatural) is that which appears outside, beside or beyond (Latin: præter) the natural. It is "suspended between the mundane and the miraculous".
+In theology, the term is often used to distinguish marvels or deceptive trickery, often attributed to witchcraft or demons, from purely divine power of genuinely supernatural origin that transcends the laws of nature. Preternatural is also used to describe gifts such as immortality, possessed by Adam and Eve before the fall of man into original sin, and the power of flight that angels are thought to have. In the early modern period, the term was used by scientists to refer to abnormalities and strange phenomena of various kinds that seemed to depart from the norms of nature.
+    
+    
 
 
 ## Tracklisting
@@ -58,6 +62,7 @@ styles: ["Art Rock", "Prog Rock", "Experimental"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
+| Wikipedia URL | https://en.wikipedia.org/wiki/Preternatural |
 | Format         | Vinyl LP Album |
 | Label          | C.R.A.F.T Pop Records |
 | Catalog Number | CRAFTPOP1 |

@@ -4,6 +4,7 @@ artist_name: "The Police"
 artist: "the-police"
 album_name: "Zenyatta Mondatta"
 date: 2016-04-08T19:08:40.000000Z
+release_date: "1980-10-03"
 release_id: "371546"
 slug: "zenyatta-mondatta-371546"
 hideSummary: true
@@ -22,9 +23,15 @@ genres: ["Rock"]
 styles: ["New Wave"]
 ---
 
-Zenyatta Mondatta (stylised as Zenyattà Mondatta on the album cover artwork) is the third studio album by English rock band the Police, released on 3 October 1980 by A&M Records. It was co-produced by the band and Nigel Gray.
-Zenyatta Mondatta reached number one on the UK Albums Chart and number five on the US Billboard 200. It produced the hit singles "Don't Stand So Close to Me" and "De Do Do Do, De Da Da Da". The album won the band two Grammy Awards: Best Rock Performance by a Duo or Group with Vocal for "Don't Stand So Close to Me" and Best Rock Instrumental Performance for "Behind My Camel".
-    
+In hindsight, it’s clear that 1980’s <i>Zenyatta Mondatta</i> was a sonic inflection point for The Police, an album that was a bridge between their days as a taut punk- and reggae-influenced band and their later, more adventurous tendencies. This was evident from the very first song on the album, “Don’t Stand So Close to Me”.
+
+The tune starts with an ominous droning keyboard, incorporates dramatic dynamics and boasts a guitar synthesiser in the bridge played by Andy Summers. “Don’t Stand So Close to Me”, which later won a Grammy and reached No. 1 in the UK, also featured one of vocalist-bassist Sting’s most striking protagonists to date: a teacher full of guilt and shame for being in love with a student, much like the lead character in Vladimir Nabokov’s novel <i>Lolita</i>.
+
+As with other Police albums, however, <i>Zenyatta Mondatta</i> was sonically eclectic, wrapping in a mix of instrumentals (“The Other Way of Stopping”) with quirky New Wave pop (“Canary in a Coalmine”, a clever song about someone living an anxious life) and reggae-influenced rock (“De Do Do Do, De Da Da Da”) with a dash of jazzy panache courtesy of drummer Stewart Copeland (“When the World Is Running Down, You Make the Best of What’s Still Around”). The band’s weirdness was also present and accounted for; the instrumental “Behind My Camel” is as ominous as a horror movie interstitial, while “Shadows in the Rain” is murky dub.
+
+Nigel Gray, who had recorded and engineered the band’s first two albums, 1978’s <i>Outlandos d’Amour</i> and 1979’s <i>Reggatta de Blanc</i>, once again co-produced. That he knew the band so well was a boon: He pushed The Police to tease out their strengths—a dialled-in rhythm section, spring-loaded guitar riffs, Sting’s dynamic pop yelp—and refine these unique tendencies into a more cohesive, sophisticated album. <i>Zenyatta Mondatta</i> once again reached No. 1 in the UK and became the band’s first US Top 10 album, foreshadowing even greater things to come as the 1980s got rolling.
+        
+        
     
 
 
@@ -45,7 +52,16 @@ Zenyatta Mondatta reached number one on the UK Albums Chart and number five on t
 {{< applemusic url="https://music.apple.com/gb/album/zenyatta-mondatta-remastered/1440637146" >}}<br>
 
 
+## Videos
+### The Police - De Do Do Do, De Da Da Da (Official Music Video)
+{{< youtube id="7v2GDbEmjGE" title="The Police - De Do Do Do, De Da Da Da (Official Music Video)" >}}<br>
+### More Videos
 
+- [The Police - Don't Stand So Close To Me (Official Music Video)](https://www.youtube.com/watch?v=KNIZofPB8ZM)
+- [Driven To Tears](https://www.youtube.com/watch?v=cPkChi1ckq0)
+- [The Police - De Do Do Do, De Da Da Da (Official Music Video)](https://www.youtube.com/watch?v=7v2GDbEmjGE)
+- [The Police - Don't Stand So Close To Me (Official Music Video)](https://www.youtube.com/watch?v=KNIZofPB8ZM)
+- [Driven To Tears](https://www.youtube.com/watch?v=cPkChi1ckq0)
 
 ## Release Images
 {{< imageGrid >}}

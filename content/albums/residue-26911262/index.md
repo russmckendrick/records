@@ -52,4 +52,4 @@ styles: ["Prog Rock", "Psychedelic Rock"]
 | Label          | Rockosmos |
 | Catalog Number | ROK221 |
 | Notes | Funded via a Bandcamp Vinyl Pressing campaign. |
-| Discogs URL    | [Amplifier - Residue](https://www.discogs.com/release/26911262-Amplifier-Residue) |
+| Discogs URL    | [Amplifier - Residue](https://www.discogs.com/release/26911262-Amplifier-3-Residue) |

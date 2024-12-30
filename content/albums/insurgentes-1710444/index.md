@@ -13,7 +13,7 @@ cover:
     caption: "Insurgentes by Steven Wilson"
 additional_images:
     - "https://i.discogs.com/Sr9lk5wEPIr6vsbkBDPST8QyoBI-5s5XnKDJRWiTMwU/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3MTA0/NDQtMTM1Mjk4OTgx/NC0yMDE0LmpwZWc.jpeg"
-    - "https://i.discogs.com/xtZBjpOq7OMY0h2KbRS7O5VNldAqiasYUsD1jDeibq8/rs:fit/g:sm/q:90/h:618/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3MTA0/NDQtMTYyMTE0MTUx/OS03NDc4LmpwZWc.jpeg"
+    - "https://i.discogs.com/8ecx5w3U-amVkt4W1yGHRffX2_Rs0IAycwiITe5ZB4o/rs:fit/g:sm/q:90/h:600/w:582/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3MTA0/NDQtMTYyMTE0MTUx/OS03NDc4LmpwZWc.jpeg"
     - "https://i.discogs.com/NETKPzaF2oeL_7NyPzMXwI8AVWkaVhsjJNWtIZL9K54/rs:fit/g:sm/q:90/h:429/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3MTA0/NDQtMTIzODQ1MDcz/My5qcGVn.jpeg"
     - "https://i.discogs.com/3mXk9_5UROsNLpZQx2efsGTzDWWvSGaRIVc1qZA5cH4/rs:fit/g:sm/q:90/h:313/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3MTA0/NDQtMTIzODQ1MDc1/OC5qcGVn.jpeg"
     - "https://i.discogs.com/_GiKBvwn-i82naNLlsOjFA-QOFMuYfBcce9ZbVJjwUI/rs:fit/g:sm/q:90/h:159/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3MTA0/NDQtMTIzODQ1MDc3/My5qcGVn.jpeg"
@@ -55,11 +55,11 @@ The album is named after the Avenida de los Insurgentes, the longest avenue in M
 
 
 ## Videos
-### Steven Wilson Harmony Korine HD
-{{< youtube id="BClzBQmZZBc" title="Steven Wilson Harmony Korine HD" >}}<br>
+### Steven Wilson - Insurgentes [Full Album +Bonus Tracks]
+{{< youtube id="O0KsSa_JlH8" title="Steven Wilson - Insurgentes [Full Album +Bonus Tracks]" >}}<br>
 ### More Videos
 
-- [Steven Wilson - Insurgentes [Full Album +Bonus Tracks]](https://www.youtube.com/watch?v=O0KsSa_JlH8)
+- [Steven Wilson "Harmony Korine" HD](https://www.youtube.com/watch?v=BClzBQmZZBc)
 - [Steven Wilson - Abandoner (from Insurgentes)](https://www.youtube.com/watch?v=JCXMofHD76s)
 - [Steven Wilson Insurgentes](https://www.youtube.com/watch?v=h8WglDgOsgA)
 - [Steven Wilson - Insurgentes (Mexico)](https://www.youtube.com/watch?v=10cWul_wNsc)
@@ -68,6 +68,7 @@ The album is named after the Avenida de los Insurgentes, the longest avenue in M
 - [Steven Wilson Talking About Melancholic Music and Old Pictures of Dead Babies](https://www.youtube.com/watch?v=-GlC7uJ53ZM)
 - [Steven Wilson About Cover Art](https://www.youtube.com/watch?v=R8mECpZDCQU)
 - [Steven Wilson on music today, taken from the Insurgentes film](https://www.youtube.com/watch?v=61HUlcvDIC4)
+- [Steven Wilson - Insurgentes [Full Album +Bonus Tracks]](https://www.youtube.com/watch?v=O0KsSa_JlH8)
 
 ## Release Images
 {{< imageGrid >}}

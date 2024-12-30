@@ -4,7 +4,6 @@ artist_name: "B.B. King"
 artist: "b-b-king"
 album_name: "Riding With The King"
 date: 2020-06-26T11:27:48.000000Z
-release_date: "2000-06-06"
 release_id: "15531509"
 slug: "riding-with-the-king-15531509"
 hideSummary: true
@@ -30,8 +29,9 @@ styles: ["Blues Rock"]
 
 Riding with the King is a collaborative album by B.B. King and Eric Clapton that was released in 2000. It was their first collaborative album and won the 2001 Grammy Award for Best Traditional Blues Album. The album reached number one on Billboard's Top Blues Albums and was certified 2× Platinum in the United States. Riding with the King was also released on a DVD-Audio in higher resolution and with a 5.1 surround sound mix in 2000.
 The album was generally well received by reviewers, although some felt that it could have been better, and that the sound on the CD was too polished for a blues album.
-        
-        
+
+
+    
     
 
 
@@ -52,7 +52,7 @@ The album was generally well received by reviewers, although some felt that it c
 14. Let Me Love You Baby (5:07)
 
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/riding-with-the-king/81873725" >}}<br>
+{{< applemusic url="https://music.apple.com/gb/album/riding-with-the-king/1684357304" >}}<br>
 
 
 
@@ -63,7 +63,7 @@ The album was generally well received by reviewers, although some felt that it c
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Wikipedia URL | https://en.wikipedia.org/wiki/Riding_with_the_King_(B.B._King_and_Eric_Clapton_album) |
+| Wikipedia URL | https://en.wikipedia.org/wiki/Riding_with_the_King_(B._B._King_and_Eric_Clapton_album) |
 | Format         | Vinyl 2× LP Album Limited Edition Reissue Remastered (Blue, 180 Gram, Gatefold) |
 | Label          | Reprise Records |
 | Catalog Number | 093624893417 |

@@ -12,8 +12,8 @@ cover:
     alt: "( ) by Sigur Rós"
     caption: "( ) by Sigur Rós"
 additional_images:
-    - "https://i.discogs.com/BylKlHvqsK5sin5RYQmJ29zQ4xAU8ftIRlnJVuCXnhA/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1NDcy/Mjg0LTE2NzExMjAy/NDctMjM2Ni5qcGVn.jpeg"
-    - "https://i.discogs.com/IcPjR7k_8HaeHX_oD-inG5saHgd_ftjeHGB-s3a1PGA/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1NDcy/Mjg0LTE2NzExMjAy/NDgtMzkxNy5qcGVn.jpeg"
+    - "https://i.discogs.com/r9ZDeHjMaaDY9Mi58dsDTRMaf2XgXBpbuz0M18leokE/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1NDcy/Mjg0LTE3MjEzMzg5/MTEtNzY4NS5qcGVn.jpeg"
+    - "https://i.discogs.com/Sd7XBtYRaaQpfDnu_2kaDrp3tck_-e-Yuckk0Q4tPaE/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1NDcy/Mjg0LTE3MjEzMzg3/NDktODY5MS5qcGVn.jpeg"
     - "https://i.discogs.com/zkz6058QRczgqPtdLbYHvj-TdtenOEmvzy3MremK5UE/rs:fit/g:sm/q:90/h:571/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1NDcy/Mjg0LTE2NzE3NDIy/NjYtODUwNC5qcGVn.jpeg"
     - "https://i.discogs.com/xBBRgNBzGSGoTaa9cTkLRZMaFJDWucgDbDB0r0Jin2g/rs:fit/g:sm/q:90/h:565/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1NDcy/Mjg0LTE2NzE3NDIy/NjYtNjQxOC5qcGVn.jpeg"
     - "https://i.discogs.com/ZgoGiWvNBdzFe0_urevZNgSS5BYYaXzsM1io9Z7OFIM/rs:fit/g:sm/q:90/h:568/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1NDcy/Mjg0LTE2NzE3NDIy/NjYtODU2Ni5qcGVn.jpeg"
@@ -43,7 +43,7 @@ styles: ["Abstract", "Post Rock", "Ambient"]
 8. Untitled #8 (11:52)
 
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/takk/697318976" >}}<br>
+{{< applemusic url="https://music.apple.com/gb/album/sigur-r%C3%B3s-presents-liminal-sleep/1475167321" >}}<br>
 
 
 ## Videos
@@ -69,4 +69,4 @@ styles: ["Abstract", "Post Rock", "Ambient"]
 | Label          | Krúnk |
 | Catalog Number | KRUNK79CLP |
 | Notes | Double heavyweight clear black "haze" vinyl with a outer die-cut sleeve.  ℗ 2002 The copyright in this sound recording is owned by Sigur Rós under exclusive license to Krunk. © 2022 Krunk |
-| Discogs URL    | [Sigur Rós - ( )](https://www.discogs.com/release/25472284-Sigur-R%C3%B3s--) |
+| Discogs URL    | [Sigur Rós - ( )](https://www.discogs.com/release/25472284-Sigur-Rós--) |

@@ -12,8 +12,8 @@ cover:
     alt: "Presents The Lasters by Fred Deakin"
     caption: "Presents The Lasters by Fred Deakin"
 additional_images:
-    - "https://i.discogs.com/vO1VO3VFEfXMbdZD6eCwavxvjvVTbCX0EsNLVGcoRq0/rs:fit/g:sm/q:90/h:628/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MjUz/NDk0LTE1NzA4MDc2/NDctMjY1OC5qcGVn.jpeg"
-    - "https://i.discogs.com/XURNwK1pZevVbUvlh1ZlgRc0KBLppgaMgUENneEbncU/rs:fit/g:sm/q:90/h:623/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MjUz/NDk0LTE1NzEzMDMx/MjktMjM5Ni5qcGVn.jpeg"
+    - "https://i.discogs.com/m_WKjM7IUt0eoH7m7_h_REsDRLpvylks9cfVGjZf2c0/rs:fit/g:sm/q:90/h:600/w:572/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MjUz/NDk0LTE1NzA4MDc2/NDctMjY1OC5qcGVn.jpeg"
+    - "https://i.discogs.com/SoLRlPJAmSUddmn1_ga0pOJDBSjtZpm5uMZPvVAxSnY/rs:fit/g:sm/q:90/h:600/w:577/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MjUz/NDk0LTE1NzEzMDMx/MjktMjM5Ni5qcGVn.jpeg"
 genres: ["Electronic"]
 styles: ["Downtempo"]
 ---
@@ -50,6 +50,13 @@ styles: ["Downtempo"]
 {{< youtube id="OE4YLy-4SgI" title="FIRST LOOK - The Lasters Limited Edition Vinyl - Fred Deakin of Lemon Jelly" >}}<br>
 ### More Videos
 
+- [Fred Deakin - The End Of The World (Official Audio)](https://www.youtube.com/watch?v=tTRS9LS7IQY)
+- [You Never Knew](https://www.youtube.com/watch?v=mCGShoLV2eg)
+- [Time To Go](https://www.youtube.com/watch?v=caC1YKzZRkA)
+- [I Remember](https://www.youtube.com/watch?v=4YUNecmI7RQ)
+- [Bringing It Back To You](https://www.youtube.com/watch?v=4yhZzBTaA8A)
+- [Get The Message Through](https://www.youtube.com/watch?v=KWjwONTzryk)
+- [FIRST LOOK - The Lasters Limited Edition Vinyl - Fred Deakin of Lemon Jelly](https://www.youtube.com/watch?v=OE4YLy-4SgI)
 - [Fred Deakin - The End Of The World (Official Audio)](https://www.youtube.com/watch?v=tTRS9LS7IQY)
 - [You Never Knew](https://www.youtube.com/watch?v=mCGShoLV2eg)
 - [Time To Go](https://www.youtube.com/watch?v=caC1YKzZRkA)

@@ -12,18 +12,18 @@ cover:
     alt: "Doctor Who And The Pescatons / Doctor Who Sound Effects No.19 by Doctor Who"
     caption: "Doctor Who And The Pescatons / Doctor Who Sound Effects No.19 by Doctor Who"
 additional_images:
-    - "https://i.discogs.com/_JR4_khoP8x7KpIzYkC0OS77SKbToRqLH5xcdOBybdE/rs:fit/g:sm/q:90/h:623/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMTcz/NjY0LTE1MzcyMTc4/NjMtNjA5My5qcGVn.jpeg"
+    - "https://i.discogs.com/7NS__O2a1Espe0CB4i8lgQ3nm4QKJmsk0dzzfdooIw4/rs:fit/g:sm/q:90/h:600/w:577/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMTcz/NjY0LTE1MzcyMTc4/NjMtNjA5My5qcGVn.jpeg"
     - "https://i.discogs.com/x-6lZ8PEjUnxB2CBkKW3Ab2NaYH8fkr--dceU990o3g/rs:fit/g:sm/q:90/h:450/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMTcz/NjY0LTE1MDEzNDYy/NzMtNDk0My5qcGVn.jpeg"
     - "https://i.discogs.com/JEHlwZCTaA4FfxsJ-JejsWE4H8ZDK5ayqk314jeZ2Xw/rs:fit/g:sm/q:90/h:450/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMTcz/NjY0LTE1MDEzNDYy/OTUtOTg2NS5qcGVn.jpeg"
-    - "https://i.discogs.com/4y_4M7nstrhw5H8Npvakdsqz-PwDOZIJKh96QDRfVW0/rs:fit/g:sm/q:90/h:627/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMTcz/NjY0LTE1MzcyMTc4/NjctMzI1Mi5qcGVn.jpeg"
-    - "https://i.discogs.com/5kqq4Xj7SB1m8Mh1IEjBk_eMt14CW5cW9h5aOVUUsXM/rs:fit/g:sm/q:90/h:610/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMTcz/NjY0LTE1MzcyMTc5/MDYtNzI4OC5qcGVn.jpeg"
+    - "https://i.discogs.com/p_vLk6TbCq241lgftwIykZWmvDxVUgaa4c1dTjy133s/rs:fit/g:sm/q:90/h:600/w:573/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMTcz/NjY0LTE1MzcyMTc4/NjctMzI1Mi5qcGVn.jpeg"
+    - "https://i.discogs.com/Aci66dXJXdE2V6mR3OMinQSltLFqf3ipWmId4N0vjJg/rs:fit/g:sm/q:90/h:600/w:589/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMTcz/NjY0LTE1MzcyMTc5/MDYtNzI4OC5qcGVn.jpeg"
     - "https://i.discogs.com/U869p4SNumaPj-JTCsObP57Jukp6RYG6N92Gn48ciQA/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMTcz/NjY0LTE1MzcyMTc5/MDctOTQ3OS5qcGVn.jpeg"
     - "https://i.discogs.com/NLKCa3dsrb3cXNwWvtCtQUiHJXmTPzVCnCZ5zhRjKek/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMTcz/NjY0LTE1MzcyMTc5/MDktNTk0OS5qcGVn.jpeg"
-    - "https://i.discogs.com/o3kAWHdiMhLU6D0ZtdFMxdNNSEmdnenECA_SJk6rZQ4/rs:fit/g:sm/q:90/h:606/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMTcz/NjY0LTE1MzcyMTc5/MTMtMTA2OC5qcGVn.jpeg"
+    - "https://i.discogs.com/gRiQxnZkYICAffR797bCguMI4XL0nkbh567FkHW-lo4/rs:fit/g:sm/q:90/h:600/w:593/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMTcz/NjY0LTE1MzcyMTc5/MTMtMTA2OC5qcGVn.jpeg"
     - "https://i.discogs.com/Z9sUAOMgqADAOSJj326i62TfQn3fde20KPArK0Yd_ok/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMTcz/NjY0LTE1MzcyMTc5/MTUtNTM1NC5qcGVn.jpeg"
     - "https://i.discogs.com/dqGuS_ZEe94YmXQ44HGmShKQgb4b7jQoK0TLSO1-j7I/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMTcz/NjY0LTE1MzcyMTc5/MTgtMjYwOC5qcGVn.jpeg"
-    - "https://i.discogs.com/3k7ie78imwOQe9y93RKkzPW_-0615RcrEYTg6z5SQzY/rs:fit/g:sm/q:90/h:638/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMTcz/NjY0LTE1MzcyMTc5/MjItNzY1MS5qcGVn.jpeg"
-    - "https://i.discogs.com/sJLwY9ofxZ-ZCIUjmdOiXGy_mzq_reBakaX6OdUUPCs/rs:fit/g:sm/q:90/h:845/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMTcz/NjY0LTE1MzcyMTc5/MjUtNDgwMC5qcGVn.jpeg"
+    - "https://i.discogs.com/N_uK9t5ostD49NsAh6UP4V9z4VhI-ql-PW6EOBatdbg/rs:fit/g:sm/q:90/h:600/w:563/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMTcz/NjY0LTE1MzcyMTc5/MjItNzY1MS5qcGVn.jpeg"
+    - "https://i.discogs.com/SmCfuEW_wCJHe284OaCcn-XSCBL01YLPP4Pzd0gCRc4/rs:fit/g:sm/q:90/h:600/w:425/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMTcz/NjY0LTE1MzcyMTc5/MjUtNDgwMC5qcGVn.jpeg"
 genres: ["Electronic", "Non-Music", "Children's", "Stage & Screen"]
 styles: ["Soundtrack", "Story", "Special Effects", "Spoken Word"]
 ---
@@ -68,7 +68,12 @@ styles: ["Soundtrack", "Story", "Special Effects", "Spoken Word"]
 
 
 
+## Videos
+### Doctor Who and The Pescatons
+{{< youtube id="K02U_MHNYGU" title="Doctor Who and The Pescatons" >}}<br>
+### More Videos
 
+- [BBC Radiophonic Workshop - Doctor Who No. 19 Sound Effects                BBC-22316](https://www.youtube.com/watch?v=MJ6zhnPE2pw)
 
 ## Release Images
 {{< imageGrid >}}

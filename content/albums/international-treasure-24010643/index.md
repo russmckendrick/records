@@ -16,9 +16,9 @@ additional_images:
     - "https://i.discogs.com/HoBIOsLiH9kMqzPBkc9F8PhSEIKPr__s10zJZwq0hgo/rs:fit/g:sm/q:90/h:592/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MDEw/NjQzLTE2NTk0MzY3/MTQtNjc0MS5qcGVn.jpeg"
     - "https://i.discogs.com/iPOTYhuksXPIBg6OzD3HLrQ0vXG9aAeegZ8o6EgZNAA/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MDEw/NjQzLTE2NTk0MzY3/MTItODA5NC5qcGVn.jpeg"
     - "https://i.discogs.com/WM-z5TqaqeaFKIwASXUB9s9JlRtMaX9K-IbhRK8d_xE/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MDEw/NjQzLTE2NTk0MzY3/MTItNzE3OC5qcGVn.jpeg"
-    - "https://i.discogs.com/TGUnhdOqCXXvMNJ8GassGc630lzo8kc4Ii1ZOCK7EAo/rs:fit/g:sm/q:90/h:618/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MDEw/NjQzLTE2NTk0MzY3/MTMtNzAxOC5qcGVn.jpeg"
-    - "https://i.discogs.com/nTcTLIcVSfCOZI38a4xm1kWTb25Ex8amLRr_ULv43bo/rs:fit/g:sm/q:90/h:602/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MDEw/NjQzLTE2NTk0MzY3/MTQtNTEwNi5qcGVn.jpeg"
-    - "https://i.discogs.com/XUig0CzTo028C8Iv9m33oRthVhHsFpacXqFnTwHBseY/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MDEw/NjQzLTE2NTk0MzY3/MTEtNDM5NC5qcGVn.jpeg"
+    - "https://i.discogs.com/sOnfY4Aj6c-kn1gyHpKRC8322UZpQ6G_8GU1p8ExudQ/rs:fit/g:sm/q:90/h:600/w:581/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MDEw/NjQzLTE2NTk0MzY3/MTMtNzAxOC5qcGVn.jpeg"
+    - "https://i.discogs.com/D8tNqY_zWmg-izCCcus8fYZx-jmTLufZIAN-VelYoaY/rs:fit/g:sm/q:90/h:600/w:597/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MDEw/NjQzLTE2NTk0MzY3/MTQtNTEwNi5qcGVn.jpeg"
+    - "https://i.discogs.com/sUGxTuzGspEwORqNxD7J41cCl66PdEEKr3lT2bcgUvk/rs:fit/g:sm/q:90/h:600/w:576/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MDEw/NjQzLTE2OTMwODU4/NjAtNzQwNS5qcGVn.jpeg"
 genres: ["Electronic", "Rock"]
 styles: ["Experimental", "Krautrock", "Psychedelic Rock"]
 ---

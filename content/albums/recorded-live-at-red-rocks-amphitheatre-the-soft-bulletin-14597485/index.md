@@ -35,7 +35,16 @@ styles: ["Alternative Rock", "Experimental", "Indie Rock"]
 
 
 
+## Videos
+### The Observer (Live at Red Rocks)
+{{< youtube id="rJei6ocuqZI" title="The Observer (Live at Red Rocks)" >}}<br>
+### More Videos
 
+- [Suddenly Everything Has Changed (Live at Red Rocks)](https://www.youtube.com/watch?v=kFqBO95nYTU)
+- [Buggin' (Live at Red Rocks)](https://www.youtube.com/watch?v=IEcskTKBwIc)
+- [Sleeping On The Roof (Live at Red Rocks)](https://www.youtube.com/watch?v=jdfCVOWJCTs)
+- [The Spiderbite Song (Live at Red Rocks)](https://www.youtube.com/watch?v=s5jftUfY_U8)
+- [The Flaming Lips - Race for the Prize (feat. The Colorado Symphony & André de Ridder)](https://www.youtube.com/watch?v=Ty0mYiJVzR4)
 
 ## Release Images
 {{< imageGrid >}}

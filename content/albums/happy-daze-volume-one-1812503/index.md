@@ -15,7 +15,7 @@ additional_images:
     - "https://i.discogs.com/nxlucDnr2o7XKb0eEiXt3S9vG-VXSCseVc9TM581sfs/rs:fit/g:sm/q:90/h:492/w:504/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4MTI1/MDMtMTI2Nzg4NjA2/NC5qcGVn.jpeg"
     - "https://i.discogs.com/D8j3AoWT_IrC9qy6MuvzSD5m7jjKUqJS4XqEmun0zB8/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4MTI1/MDMtMTYwNTc4Njc4/MC00MjcxLmpwZWc.jpeg"
     - "https://i.discogs.com/c0aiaE_7aIxrbr_MvfGwAyvzbCuRvUBmRZWTr-uGEJQ/rs:fit/g:sm/q:90/h:556/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4MTI1/MDMtMTYwNTc4Njc2/MS0xMDIwLmpwZWc.jpeg"
-    - "https://i.discogs.com/I4wO0ex3M-MD3lkQ2-vYUh526hPw4X4rBNuHopQwZs4/rs:fit/g:sm/q:90/h:611/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4MTI1/MDMtMTYwNTc4Njc2/OS0yMDIyLmpwZWc.jpeg"
+    - "https://i.discogs.com/-262t0UO81XkYYSJVB_ozUP7JCbb6ZSm2yJ3zJkl8dg/rs:fit/g:sm/q:90/h:600/w:588/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4MTI1/MDMtMTYwNTc4Njc2/OS0yMDIyLmpwZWc.jpeg"
 genres: ["Rock"]
 styles: ["Alternative Rock", "New Wave", "Indie Rock"]
 ---

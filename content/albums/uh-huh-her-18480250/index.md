@@ -12,19 +12,21 @@ cover:
     alt: "Uh Huh Her by PJ Harvey"
     caption: "Uh Huh Her by PJ Harvey"
 additional_images:
-    - "https://i.discogs.com/YB98nE6IEo38lBk7d0jpnXmE-VGCv-GVq7Y1uFSxeY4/rs:fit/g:sm/q:90/h:574/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NDgw/MjUwLTE2NjE0NDg1/MDktOTI5OS5qcGVn.jpeg"
-    - "https://i.discogs.com/McgMhs1mEPkUp47YiyrtNUInXFZoSqrVbcQb4F3XuzA/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NDgw/MjUwLTE2MTk1MTY0/NjItMTYxNi5qcGVn.jpeg"
-    - "https://i.discogs.com/Q2ob0rJ7orMO5ZDzf0xyP1RZGO9T_XlHnvOOA-FUQHg/rs:fit/g:sm/q:90/h:605/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NDgw/MjUwLTE2MTk1MTY0/NjItNTY1OS5qcGVn.jpeg"
+    - "https://i.discogs.com/1taGcCbxtSa3dxUF0woHrvdcdAJNM62MdavX7RkPRh8/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NDgw/MjUwLTE3MjQzODU5/MDctMzk3Mi5qcGVn.jpeg"
+    - "https://i.discogs.com/az2DAs5m-EJROdcCaD0rQ7fEtlk0BeKMgl05SymeCe8/rs:fit/g:sm/q:90/h:591/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NDgw/MjUwLTE3MzAyMDY5/MjAtODg0MC5qcGVn.jpeg"
+    - "https://i.discogs.com/nk0RTvFJKAVbIdWUnCxCkljOQq7u0Ejc_P6MlMm6kXE/rs:fit/g:sm/q:90/h:600/w:594/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NDgw/MjUwLTE2MTk1MTY0/NjItNTY1OS5qcGVn.jpeg"
     - "https://i.discogs.com/qIE4fS8dUqrt_XHt6p3cAMHUFizJj-3j6TCkW9JGFdc/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NDgw/MjUwLTE2MTk1MTY0/NjItNDU1OS5qcGVn.jpeg"
-    - "https://i.discogs.com/1fj6Y2MKXhZbHdsVFUkVrYW_N7O6PKsEu2Vet9hYd84/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NDgw/MjUwLTE2MTk1MTY0/NjItNDA0NC5qcGVn.jpeg"
-    - "https://i.discogs.com/b46TsK3W5iWlVy2ErofOE8ArqBei5mA7YpZDl4-nZmU/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NDgw/MjUwLTE2MTk1MTY0/NjMtMzUyNi5qcGVn.jpeg"
+    - "https://i.discogs.com/rEKQRIG-p9oqq_0Ubko2pI_2va-_7Qf_n9_Tb10mEvM/rs:fit/g:sm/q:90/h:589/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NDgw/MjUwLTE3MzAyMDY5/MjEtOTA2NC5qcGVn.jpeg"
+    - "https://i.discogs.com/KlTUZv6O6WOzklFjLRDcg-d6Os9tZb9c_1N1tOqmt-o/rs:fit/g:sm/q:90/h:585/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NDgw/MjUwLTE3MzAyMDY5/MjMtNTIzMi5qcGVn.jpeg"
     - "https://i.discogs.com/iIQeagZS8gju3yG3F-ARhQH4JRY2RNzClfV9rwptHfY/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NDgw/MjUwLTE2MTk1MTY5/ODEtNDA4NC5qcGVn.jpeg"
+    - "https://i.discogs.com/YB98nE6IEo38lBk7d0jpnXmE-VGCv-GVq7Y1uFSxeY4/rs:fit/g:sm/q:90/h:574/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NDgw/MjUwLTE2NjE0NDg1/MDktOTI5OS5qcGVn.jpeg"
     - "https://i.discogs.com/dWbLbsik8bvmQMUrzzhdN5NVfgYE-xaR_nYS9xFZZ4k/rs:fit/g:sm/q:90/h:593/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NDgw/MjUwLTE2MTk4Nzc1/NzktMjUwOS5qcGVn.jpeg"
+    - "https://i.discogs.com/YjyLu4AC4Z8wAF0ZiXFcq1MJp4yIRpr2FNKayZdwaDg/rs:fit/g:sm/q:90/h:110/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NDgw/MjUwLTE3MzAyMDY5/MTUtMzY4Mi5qcGVn.jpeg"
 genres: ["Rock"]
 styles: ["Alternative Rock"]
 ---
 
-Uh Huh Her is the sixth studio album by English alternative rock musician PJ Harvey. The album was written, recorded and produced over a two-year period by the singer-songwriter herself. She also played every instrument on the album (the first such project since 4-Track Demos in 1993) with the exception of the final drum tracks, added by long-time collaborator Rob Ellis. It was released on 31 May 2004 in the United Kingdom, and 8 June 2004 in the United States.
+Uh Huh Her is the sixth studio album by the English alternative rock musician PJ Harvey. The album was written, recorded and produced over a two-year period by the singer-songwriter herself. She also played every instrument on the album (the first such project since 4-Track Demos in 1993) with the exception of the final drum tracks, added by long-time collaborator Rob Ellis. It was released on 31 May 2004 in the United Kingdom, and 8 June 2004 in the United States.
 During the accompanying  tour that lasted eight months, she performed the album's unreleased title-track. Uh Huh Her debuted and peaked at number 12 in the UK Albums Chart and has been certified Silver by the BPI. It became Harvey's highest charting album to date in the U.S., peaking at number 29 in the Billboard 200, and had sold more than 135,000 copies there as of 2005, according to AskBillboard. Although it charted higher than Stories from the City, Stories from the Sea in many territories, Uh Huh Her failed to achieve its predecessor's chart longevity and crossover interest.
 The album received largely positive reviews upon its release, although there was some criticism of its production. It currently holds a 79 out of 100 metascore at Metacritic based upon 28 reviews, indicating "generally favorable reviews". Uh Huh Her also earned PJ Harvey nominations to awards such as the Grammy Awards and the Brit Awards.
 
@@ -53,15 +55,15 @@ The album received largely positive reviews upon its release, although there was
 
 
 ## Videos
-### PJ Harvey - You Come Through
-{{< youtube id="ner3eq4poYA" title="PJ Harvey - You Come Through" >}}<br>
+### PJ Harvey - Shame
+{{< youtube id="AFLOG2wxg3Q" title="PJ Harvey - Shame" >}}<br>
 ### More Videos
 
-- [PJ Harvey - Shame](https://www.youtube.com/watch?v=AFLOG2wxg3Q)
+- [PJ Harvey - You Come Through](https://www.youtube.com/watch?v=ner3eq4poYA)
 - [PJ Harvey - Who The Fuck?](https://www.youtube.com/watch?v=ZxcCN6BgO_k)
-- [PJ Harvey - The Letter](https://www.youtube.com/watch?v=XwJk2wXsIZI)
 - [The Life And Death Of Mr. Badmouth](https://www.youtube.com/watch?v=GnM9ZKuZM60)
 - [Cat On The Wall](https://www.youtube.com/watch?v=TXnJdptcL9A)
+- [The Desperate Kingdom Of Love](https://www.youtube.com/watch?v=sKt1BOdvUKY)
 
 ## Release Images
 {{< imageGrid >}}
@@ -73,5 +75,5 @@ The album received largely positive reviews upon its release, although there was
 | Format         | Vinyl LP Album Reissue (180g) |
 | Label          | Island Records |
 | Catalog Number | 0725318 |
-| Notes | On jacket back: 0725318 • LC00407 • BIEM/SDRM ℗2004 Universal Music Operations Ltd. ©2004 Universal Music Operations Ltd. The copyright in this recording and artwork is owned by Universal Music Operations Ltd. A Universal Music Company. Universal International Music B.V., 's-Gravelandseweg 80, 1217 EW Hilversum, Netherlands. Made in Germany. www.pjharvey.net  Label rimext: An Island Records Release. ℗2004 Universal Music Operations Ltd. ©2004 Universal Music Operations Ltd. The copyright in this recording and artwork is owned by Universal Music Operations Ltd. A Universal Music Company. Made in Germany. LC00407 BIEM/SDRM  Issued with printed inner sleeve.  Download card included with some copies.  Published by Hot Head Music Limited (ASCAP), Administered By Kobalt Songs Music Publishing (ASCAP)  Hype sticker with cat. # affixed to shrink on some copies: Reissue Of The Original 2004 Album Uh Huh Her Featuring The Singles The Letter, You Come Through And Shame  Pressed On 180GSM Vinyl Includes Download Card  In runouts, Optimal symbols are mirrored. |
+| Notes | Cat# 0725318 on back cover, spine and inner sleeve (on top right). 0725318-A and 0725318-B on labels.  On jacket back: 0725318 • LC00407 • BIEM/SDRM ℗2004 Universal Music Operations Ltd. ©2004 Universal Music Operations Ltd. The copyright in this recording and artwork is owned by Universal Music Operations Ltd. A Universal Music Company. Universal International Music B.V., 's-Gravelandseweg 80, 1217 EW Hilversum, Netherlands. Made in Germany. www.pjharvey.net  Label rim text: An Island Records Release. ℗2004 Universal Music Operations Ltd. ©2004 Universal Music Operations Ltd. The copyright in this recording and artwork is owned by Universal Music Operations Ltd. A Universal Music Company. Made in Germany. LC00407 BIEM/SDRM  Issued with printed inner sleeve.  Download card included with some copies.  Published by Hot Head Music Limited (ASCAP), Administered By Kobalt Songs Music Publishing (ASCAP)  Hype sticker with cat. # affixed to shrink on some copies: Reissue Of The Original 2004 Album Uh Huh Her Featuring The Singles The Letter, You Come Through And Shame  Pressed On 180GSM Vinyl Includes Download Card  Runouts are hand etched and Optimal symbols are mirrored. |
 | Discogs URL    | [PJ Harvey - Uh Huh Her](https://www.discogs.com/release/18480250-P-J-Harvey-Uh-Huh-Her) |

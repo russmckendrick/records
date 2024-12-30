@@ -26,7 +26,9 @@ genres: ["Electronic"]
 styles: ["New Wave", "Synth-pop"]
 ---
 
-Telekon is the second solo studio album by English musician Gary Numan. It debuted at the top of the UK Albums Chart in September 1980, making it his third consecutive (and to date, final) No. 1 album. It was also the third and final studio release of what Numan retrospectively termed the "machine" section of his career, following 1979's Replicas and The Pleasure Principle.
+Telekon is the second solo studio album by the English new wave musician Gary Numan. It debuted at the top of the UK Albums Chart in September 1980, making it his third consecutive (and to date, final) No. 1 album. It was also the third and final studio release of what Numan retrospectively termed the "machine" section of his career, following Replicas and The Pleasure Principle (both 1979).
+
+
     
     
 
@@ -64,6 +66,8 @@ Telekon is the second solo studio album by English musician Gary Numan. It debut
 - [Remember I Was Vapour](https://www.youtube.com/watch?v=hYxZYbQ0HOE)
 - [Please Push No More](https://www.youtube.com/watch?v=d_nomfDoiGQ)
 - [The Joy Circuit](https://www.youtube.com/watch?v=_KQdSQRd-6g)
+- [Down in the Park (Piano Version)](https://www.youtube.com/watch?v=M9_peYF2Wu0)
+- [Remember I Was Vapour](https://www.youtube.com/watch?v=hYxZYbQ0HOE)
 
 ## Release Images
 {{< imageGrid >}}
@@ -75,5 +79,5 @@ Telekon is the second solo studio album by English musician Gary Numan. It debut
 | Format         | Vinyl LP Album Stereo (WEA Pressing), Vinyl 7" 45 RPM Single Limited Edition |
 | Label          | Beggars Banquet |
 | Catalog Number | BEGA 19 |
-| Notes | Some early pressings have a glossy inner sleeve with 9 inch cut-out and rounded corners.  Later pressings have a square inner sleeve in matt finish with no cut-out.  Both versions included an A4 sized official merchandise insert.  A version exists of [r47028] here without the free single.  (P) 1980 Beggars Banquet |
+| Notes | Some early pressings have a glossy inner sleeve with 9 inch cut-out and rounded corners. Later pressings have a square inner sleeve in matt finish with no cut-out. Both versions included an A4 sized official merchandise insert. A version exists of [r47028] here without the free single. There are six UK LP versions of this classic album specifically released in 1980, all with the BEGA 19 Catalogue No. and which were mastered at [l266791] or where the LP's lacquer was cut at. (@ November 2024)  '[r=47028]': Inner Sleeve (glossy, square corners, no thumb cutout)  '[r=1709654]': Inner Sleeve (glossy, 9 inch cut-out, rounded corners) + free 7" single, ‘WEA’ pressing **THIS RELEASE!** '[r=9093929]': Inner Sleeve (matt, square corners, no thumb cutout) + free 7" single '[r=12447983]': 'White Label' release. '[r=16038831]': Inner Sleeve (matt, square corners, no thumb cutout) ‘West Drayton’ pressing '[r=19363369]’: Inner Sleeve (glossy, 9 inch cut-out, rounded corners) ‘Precision’ pressing   (P) 1980 Beggars Banquet |
 | Discogs URL    | [Gary Numan - Telekon](https://www.discogs.com/release/1709654-Gary-Numan-Telekon) |

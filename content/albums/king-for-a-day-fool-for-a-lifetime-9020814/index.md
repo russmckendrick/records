@@ -14,7 +14,7 @@ cover:
 additional_images:
     - "https://i.discogs.com/qkAftWIHZNAN1JOYMjgsWM0MlyUXaBfYlnLfQBk1uwE/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkwMjA4/MTQtMTQ3NDU1NjU1/NC04ODA4LmpwZWc.jpeg"
     - "https://i.discogs.com/Wo7EcaVt-Fy6oNpGcsDYRXjkUOzErE0Qu_PxICeVTm8/rs:fit/g:sm/q:90/h:594/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkwMjA4/MTQtMTQ3NDU1OTI5/My01NzA0LmpwZWc.jpeg"
-    - "https://i.discogs.com/QWJ1zUY3PcIOeExEMI9bCHijtlMg2Qe_b7CdZxm6sus/rs:fit/g:sm/q:90/h:608/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkwMjA4/MTQtMTQ3NDU1OTMw/Mi05MTAxLmpwZWc.jpeg"
+    - "https://i.discogs.com/ysybeo6DR3JbpVj7BnVC3RozuAe3cCwYbbkrxWrE62o/rs:fit/g:sm/q:90/h:600/w:591/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkwMjA4/MTQtMTQ3NDU1OTMw/Mi05MTAxLmpwZWc.jpeg"
     - "https://i.discogs.com/60_LUkAd5R0L1V0ilkmB7MfSRT_MEI0-spu8F4uoZDQ/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkwMjA4/MTQtMTQ3NDgwODg0/MC01MDk1LmpwZWc.jpeg"
     - "https://i.discogs.com/scm93wHU2xnjQ_LalXSP7xSeU8X0tf5V6AadUY8o6Go/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkwMjA4/MTQtMTQ3NDgwODg0/NC01NjAyLmpwZWc.jpeg"
     - "https://i.discogs.com/ONk7XMYiZNehX3Q-aWsm6oGyTfBgsme-t0lD6KmDtwI/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkwMjA4/MTQtMTQ3NDgwODgz/MC0zNTkyLmpwZWc.jpeg"
@@ -24,12 +24,19 @@ additional_images:
     - "https://i.discogs.com/GEH8TtSxLhIMk0iCtyFRgm-BH7QmWqZ8X9cOcKYLeG4/rs:fit/g:sm/q:90/h:295/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkwMjA4/MTQtMTQ3NDgwODgx/NS0zMTQ0LmpwZWc.jpeg"
     - "https://i.discogs.com/3tzpQ_AJQVpP8cYxyl30WZPgjrRc3rxQbIQQyXaegyo/rs:fit/g:sm/q:90/h:10/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkwMjA4/MTQtMTQ3NDU1OTI0/OC0xNjE5LmpwZWc.jpeg"
     - "https://i.discogs.com/ZmXdVaaIPywMPYsnSjW1GXYUYd9tRM2W7cgjQnhf_xM/rs:fit/g:sm/q:90/h:298/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkwMjA4/MTQtMTQ3NDU1OTI4/Ny05NjU2LmpwZWc.jpeg"
-    - "https://i.discogs.com/7e59LZj5cWNyyMGeb-iB-QmQkr7ry_zwIb618xKlyV0/rs:fit/g:sm/q:90/h:963/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkwMjA4/MTQtMTQ3NDU1NjUw/OC01MTA2LmpwZWc.jpeg"
-    - "https://i.discogs.com/oJFA4gKrLuSN-NpjkSZr-gFNSIcL9OK9yBfR1T5cZPs/rs:fit/g:sm/q:90/h:604/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkwMjA4/MTQtMTQ3NDgwODgz/NS03Mzk5LmpwZWc.jpeg"
+    - "https://i.discogs.com/_ElvvMrZ_Ahtt8og25Xk7oyRlpyqoIUj0UuHFPV8Ed0/rs:fit/g:sm/q:90/h:600/w:373/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkwMjA4/MTQtMTQ3NDU1NjUw/OC01MTA2LmpwZWc.jpeg"
+    - "https://i.discogs.com/xZzLyrWxOgWMBTbosXKT8Pu6vwCJijVC7jNJ2sOh2Uw/rs:fit/g:sm/q:90/h:600/w:596/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkwMjA4/MTQtMTQ3NDgwODgz/NS03Mzk5LmpwZWc.jpeg"
 genres: ["Rock"]
 styles: ["Alternative Rock", "Hard Rock"]
 ---
 
+King for a Day... Fool for a Lifetime is the fifth studio album by American rock band Faith No More, released on March 13, 1995, by Slash and Reprise Records. It was their first album recorded without longtime guitarist Jim Martin. The album showcased a variety of musical genres, with Rolling Stone calling the result a "genre shuffle". King for a Day... Fool for a Lifetime spawned three singles: "Digging the Grave", "Ricochet" and "Evidence".
+Following Martin's departure, Trey Spruance was brought on to perform on the album, having also been in Mr. Bungle with singer Mike Patton. Production of the album was further marred by the band suffering a car accident, and the absence of keyboard player Roddy Bottum, who was affected by the deaths of both his father and Kurt Cobain; Courtney Love, Cobain's wife and a former Faith No More vocalist, remains his close friend. Spruance was replaced on the supporting tour by the band's former roadie Dean Menta. However, Spruance played live with Faith No More for the first time in November 2011, playing the entire album during a show in Chile.
+Critical reception to the album has been mixed, with its varied genres being cited as a detraction by several reviewers. However, retrospective critique has been more positive and the record has subsequently appeared on several publications' "best of" lists. The album earned the band two Bay Area Music award nominations.
+
+
+    
+    
 
 
 ## Tracklisting
@@ -62,23 +69,14 @@ styles: ["Alternative Rock", "Hard Rock"]
 
 
 ## Videos
-### Faith No More - King For A Day
-{{< youtube id="tq-9kk8k4gk" title="Faith No More - King For A Day" >}}<br>
+### Faith No More - Ricochet (Official Music Video)
+{{< youtube id="BzoDVzO1F9I" title="Faith No More - Ricochet (Official Music Video)" >}}<br>
 ### More Videos
 
-- [Faith No More - Ricochet (Official Music Video)](https://www.youtube.com/watch?v=BzoDVzO1F9I)
 - [Faith No More - Evidence (Official Music Video)](https://www.youtube.com/watch?v=7lvMNLhJrb0)
-- [F̲a̲ith N̲o M̲ore - K̲ing f̲or a̲ D̲ay (Full Album)](https://www.youtube.com/watch?v=MYULU2zPMHU)
-- [Faith No More - Digging The Grave](https://www.youtube.com/watch?v=mhyzG5nTUH0)
-- [Faith No More - Digging The Grave (Official Music Video)](https://www.youtube.com/watch?v=CANh13XKFVk)
-- [King for a Day, Fool for a Lifetime (2016 Remaster)](https://www.youtube.com/watch?v=Rb1cld8WtSE)
 - [Get Out](https://www.youtube.com/watch?v=FOkh5hxPY6s)
-- [The Gentle Art of Making Enemies](https://www.youtube.com/watch?v=l_HtpFAlPWY)
 - [Star A.D.](https://www.youtube.com/watch?v=xALb75mMnJ0)
-- [Cuckoo for Caca](https://www.youtube.com/watch?v=pPJSHpRhge8)
 - [Caralho Voador](https://www.youtube.com/watch?v=tsm9VlnRJdM)
-- [Ugly in the Morning](https://www.youtube.com/watch?v=TvfXwv6m1KQ)
-- [Take This Bottle](https://www.youtube.com/watch?v=9ImBIsrczFg)
 - [King for a Day](https://www.youtube.com/watch?v=vCktbM5Uqk4)
 - [What a Day](https://www.youtube.com/watch?v=5ZTcxtQWVNU)
 - [The Last to Know](https://www.youtube.com/watch?v=KER-6L5jq40)
@@ -90,7 +88,8 @@ styles: ["Alternative Rock", "Hard Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl 2× LP Album Reissue (Gatefold Sleeve, 180 gram) |
+| Wikipedia URL | https://en.wikipedia.org/wiki/King_for_a_Day..._Fool_for_a_Lifetime |
+| Format         | Vinyl 2× LP Album Reissue Remastered (Gatefold Sleeve, 180 gram) |
 | Label          | Slash |
 | Catalog Number | 0190295973292 |
 | Notes | A sticker on the front cover states: "Double 180gm Gatefold Vinyl Bonus LP features rare tracks & previously unreleased versions New liner notes by Roddy Bottum Includes download code for mp3 version of the album "  Mp3 download catalogued here: [r=12129387] The US version of the release does not include a download card and features a different sleeve sticker. |

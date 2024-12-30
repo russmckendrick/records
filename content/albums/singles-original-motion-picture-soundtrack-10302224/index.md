@@ -21,7 +21,7 @@ additional_images:
     - "https://i.discogs.com/z1a5_409X0ojZt0igFQDnKxYBgJzLAAEoAkQ1W8lAh0/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMzAy/MjI0LTE0OTUyNzQz/NTctODY4MS5qcGVn.jpeg"
     - "https://i.discogs.com/sOa-JFV_a5IrrN5CmNJk7rCA6wU71ebRIwohMdmPpK0/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMzAy/MjI0LTE0OTUyNzM3/NzAtNTQ1OC5qcGVn.jpeg"
     - "https://i.discogs.com/kWu8JYhc-CMusIU44lnWJApsIOV0wkSowGdpqvlzgwk/rs:fit/g:sm/q:90/h:587/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMzAy/MjI0LTE0OTUyNzQw/NDYtNzAzNi5qcGVn.jpeg"
-    - "https://i.discogs.com/ivA-EBDKLqnNAYDj8UUzDrm1_JmS-Y3srwlr4XHm09E/rs:fit/g:sm/q:90/h:610/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMzAy/MjI0LTE0OTUyNzQz/MzctODY4Ny5qcGVn.jpeg"
+    - "https://i.discogs.com/1fltI7--IY9JQSe0VLm-pAI6YvcDVwi-0SbcVcSW1Dw/rs:fit/g:sm/q:90/h:600/w:589/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMzAy/MjI0LTE0OTUyNzQz/MzctODY4Ny5qcGVn.jpeg"
     - "https://i.discogs.com/wA7VGL5VFa0j8pAGaOW-kOm3KamUrZ9RnlETBbCSnVU/rs:fit/g:sm/q:90/h:589/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMzAy/MjI0LTE0OTUyNzQw/NDctNjA4NS5qcGVn.jpeg"
     - "https://i.discogs.com/Gm9QsTh1mfTE8cPpg4xhSvjv-72Q9FsUbrmm61ji-X0/rs:fit/g:sm/q:90/h:397/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMzAy/MjI0LTE2MDEwNjYy/ODQtNTE0OS5qcGVn.jpeg"
     - "https://i.discogs.com/jCbg4iS_NvO72uoZnjhJMjaId-lCjXhXeZ4pgodoZjo/rs:fit/g:sm/q:90/h:581/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMzAy/MjI0LTE2MDEwNjYz/MTAtMTQxNC5qcGVn.jpeg"
@@ -74,21 +74,22 @@ styles: ["Alternative Rock", "Grunge", "Indie Rock", "Soundtrack"]
 {{< youtube id="Nco_kh8xJDs" title="Alice In Chains - Would? (Official HD Video)" >}}<br>
 ### More Videos
 
-- [Paul Westerberg - Dyslexic Heart](https://www.youtube.com/watch?v=MVhBEtTSEcE)
-- [Mudhoney – Overblown](https://www.youtube.com/watch?v=a991p2SXpr8)
-- [Singles: Original Motion Picture Soundtrack (Full Album)](https://www.youtube.com/watch?v=b88Rin1cplU)
 - [Dyslexic Heart](https://www.youtube.com/watch?v=MZVAppKV794)
-- [Lovemongers - Battle of Evermore](https://www.youtube.com/watch?v=q7DxFQ6FhzQ)
-- [Pearl Jam - Breath](https://www.youtube.com/watch?v=8GeZ7fd_90A)
 - [Chloe Dancer/Crown Of Thorns](https://www.youtube.com/watch?v=MJTRSQgIb88)
-- [Chris Cornell - Seasons](https://www.youtube.com/watch?v=TksqEIl1uxU)
 - [Birth Ritual](https://www.youtube.com/watch?v=YrreIn7PQbI)
-- [Smashing Pumpkins Drown (full, better quality)](https://www.youtube.com/watch?v=pGDzsds4Ll0)
 - [State Of Love And Trust (from the Warner Bros. film, Singles)](https://www.youtube.com/watch?v=CrCfBPF7g5Q)
-- [Pearl Jam State of Love and Trust (Singles Soundtrack)](https://www.youtube.com/watch?v=4hr26JwPOZA)
 - [Mudhoney - Overblown](https://www.youtube.com/watch?v=Bab_KwqGpEw)
 - [Screaming Trees - Nearly Lost You](https://www.youtube.com/watch?v=PE5f561Y1x4)
-- [Smashing Pumpkins Drown](https://www.youtube.com/watch?v=N66Ki1iMMjY)
+- [Smashing Pumpkins "Drown"](https://www.youtube.com/watch?v=N66Ki1iMMjY)
+- [Paul Westerberg - "Waiting for Somebody"](https://www.youtube.com/watch?v=b807jX8J_i8)
+- [Paul Westerberg - Dyslexic Heart](https://www.youtube.com/watch?v=MVhBEtTSEcE)
+- [Lovemongers - Battle of Evermore](https://www.youtube.com/watch?v=q7DxFQ6FhzQ)
+- [Singles: Original Motion Picture Soundtrack (Full Album)](https://www.youtube.com/watch?v=b88Rin1cplU)
+- [Pearl Jam - Breath](https://www.youtube.com/watch?v=8GeZ7fd_90A)
+- [Chris Cornell - "Seasons"](https://www.youtube.com/watch?v=TksqEIl1uxU)
+- [Smashing Pumpkins Drown (full, better quality)](https://www.youtube.com/watch?v=pGDzsds4Ll0)
+- [Pearl Jam State of Love and Trust (Singles Soundtrack)](https://www.youtube.com/watch?v=4hr26JwPOZA)
+- [Mudhoney – Overblown](https://www.youtube.com/watch?v=a991p2SXpr8)
 
 ## Release Images
 {{< imageGrid >}}

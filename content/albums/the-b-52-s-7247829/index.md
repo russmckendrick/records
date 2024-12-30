@@ -22,6 +22,12 @@ genres: ["Rock"]
 styles: ["New Wave"]
 ---
 
+The B-52's is the debut album by American new wave band the B-52's. The kitschy lyrics and mood, and the hook-laden harmonies helped establish a fanbase for the band, who went on to release several chart-topping singles. The album cover was designed by Tony Wright (credited as Sue Ab Surd).
+The B-52's peaked at number 59 on the Billboard 200, and "Rock Lobster" reached number 56 on the Billboard Hot 100. Shortly before his death, John Lennon said he enjoyed the album. In 2003, the television network VH1 named The B-52's the 99th greatest album of all time. In 2020, The B-52's was ranked number 198 on Rolling Stone magazine's list of the 500 greatest albums of all time.
+
+
+    
+    
 
 
 ## Tracklisting
@@ -36,7 +42,7 @@ styles: ["New Wave"]
 9. Downtown (2:57)
 
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/b-52s/1440816774" >}}<br>
+{{< applemusic url="https://music.apple.com/gb/album/dance-this-mess-around-the-best-of-the-b-52s/1443390436" >}}<br>
 
 
 ## Videos
@@ -44,8 +50,11 @@ styles: ["New Wave"]
 {{< youtube id="n4QSYx4wVQg" title="The B-52's - Rock Lobster (Official Music Video)" >}}<br>
 ### More Videos
 
-- [The B-52's - Planet Claire (1979)](https://www.youtube.com/watch?v=gdMRTmuOeqA)
-- [The B-52's - The B-52's (1979) - Full Album](https://www.youtube.com/watch?v=bZNdaL75118)
+- [Dance This Mess Around](https://www.youtube.com/watch?v=Qsb0HlSfUpg)
+- [Planet Claire](https://www.youtube.com/watch?v=uaXtqSmUlxA)
+- [Lava](https://www.youtube.com/watch?v=xeWoGr5110o)
+- [6060-842](https://www.youtube.com/watch?v=P2O1KwnBqvY)
+- [52 Girls](https://www.youtube.com/watch?v=X049zRjInTQ)
 
 ## Release Images
 {{< imageGrid >}}
@@ -53,6 +62,7 @@ styles: ["New Wave"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
+| Wikipedia URL | https://en.wikipedia.org/wiki/The_B-52%27s_(album) |
 | Format         | Vinyl LP Album Reissue (180 gram, Audiophile Pressing) |
 | Label          | Music On Vinyl |
 | Catalog Number | MOVLP1420 |

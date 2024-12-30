@@ -26,6 +26,8 @@ styles: ["Breakbeat", "House", "Big Beat"]
 
 Come with Us is the fourth studio album by English electronic music duo the Chemical Brothers, released in January 2002 by record labels Virgin and Freestyle Dust in the UK and Astralwerks and Ultra in the US. It features Richard Ashcroft (ex-the Verve) and Beth Orton as guest vocalists.
 The album debuted at number one on the UK Albums Chart. It was certified Gold by the BPI on 1 February 2002.
+
+
     
     
 
@@ -46,7 +48,19 @@ The album debuted at number one on the UK Albums Chart. It was certified Gold by
 {{< applemusic url="https://music.apple.com/gb/album/come-with-us/721206816" >}}<br>
 
 
+## Videos
+### The Chemical Brothers - Come With Us
+{{< youtube id="F30zbHuTrh0" title="The Chemical Brothers - Come With Us" >}}<br>
+### More Videos
 
+- [Galaxy Bounce](https://www.youtube.com/watch?v=AybGKskqF-I)
+- [The Chemical Brothers - Star Guitar](https://www.youtube.com/watch?v=QrfGGdLDwYo)
+- [The Chemical Brothers - Hoops](https://www.youtube.com/watch?v=YhmrSNGl0Sc)
+- [My Elastic Eye](https://www.youtube.com/watch?v=WagyA3N1FgE)
+- [The State We're In](https://www.youtube.com/watch?v=MUrmm7EARZY)
+- [The Chemical Brothers - Denmark](https://www.youtube.com/watch?v=HlH3yazN7Ow)
+- [Chemical Brothers - Pioneer Skies](https://www.youtube.com/watch?v=8iDzLlDOUio)
+- [The Chemical Brothers feat Richard Ashcroft - The Test](https://www.youtube.com/watch?v=C3LPe3-LNR4)
 
 ## Release Images
 {{< imageGrid >}}

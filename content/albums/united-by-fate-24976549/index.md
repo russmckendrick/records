@@ -13,20 +13,22 @@ cover:
     caption: "United By Fate by Rival Schools"
 additional_images:
     - "https://i.discogs.com/74tuv8DGferbzYdnW9UcEiPi8taJLVm-aMTsZ81O4UI/rs:fit/g:sm/q:90/h:586/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0OTc2/NTQ5LTE2NjcwMzM2/NzktODc5My5qcGVn.jpeg"
-    - "https://i.discogs.com/4N3QabP0qicXQfme_AMMdPv8md4Rascxk3fU4hG5yeA/rs:fit/g:sm/q:90/h:605/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0OTc2/NTQ5LTE2NjgzMzQ5/NzItODQxMC5qcGVn.jpeg"
-    - "https://i.discogs.com/zPG7p23vO7-szNY0s8utpNzHeDLJ24urEt8cAUIRRTI/rs:fit/g:sm/q:90/h:619/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0OTc2/NTQ5LTE2NjgzMzQ5/NzQtMTc0MS5qcGVn.jpeg"
-    - "https://i.discogs.com/WB9i44TOkAoNoN7xBPKHcCascGfejELZXXwxNZt_TD0/rs:fit/g:sm/q:90/h:607/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0OTc2/NTQ5LTE2NjgzMzQ5/NzMtODkwOS5qcGVn.jpeg"
-    - "https://i.discogs.com/vg6HwJ9w8BQR2Flhbyi3L5lpEP2P7Az6RrscmZLPZCI/rs:fit/g:sm/q:90/h:612/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0OTc2/NTQ5LTE2NjgzMzQ5/NzItNDc5My5qcGVn.jpeg"
-    - "https://i.discogs.com/Dudmd28QcnZmHm3vw6Odr4iZqoe55Q2TNpddLoic3kU/rs:fit/g:sm/q:90/h:612/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0OTc2/NTQ5LTE2NjgzMzQ5/NzItMzM0MC5qcGVn.jpeg"
+    - "https://i.discogs.com/Gh7mN8_5Z_YyYPNAXovM3CJM3dMrbZ3SRHJ5pk33OoA/rs:fit/g:sm/q:90/h:600/w:594/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0OTc2/NTQ5LTE2NjgzMzQ5/NzItODQxMC5qcGVn.jpeg"
+    - "https://i.discogs.com/mJVFruEsCU5w9Jl-LItEaXrVeaco3Fd-qiZqZo2NUPA/rs:fit/g:sm/q:90/h:600/w:581/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0OTc2/NTQ5LTE2NjgzMzQ5/NzQtMTc0MS5qcGVn.jpeg"
+    - "https://i.discogs.com/zllkgEi4HbFknWUI7EQKa_xeHYSBqjoPEUQyRSmdX70/rs:fit/g:sm/q:90/h:600/w:593/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0OTc2/NTQ5LTE2NjgzMzQ5/NzMtODkwOS5qcGVn.jpeg"
+    - "https://i.discogs.com/XNvdmRqGbHzZ3ne4h6-fdGn10qlCWtEB8NTavwRSFOg/rs:fit/g:sm/q:90/h:600/w:588/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0OTc2/NTQ5LTE2NjgzMzQ5/NzItNDc5My5qcGVn.jpeg"
+    - "https://i.discogs.com/RpfSpRq9lpLpPFyCcUae9VQGxiJJfqETtNe7UYo7MX8/rs:fit/g:sm/q:90/h:600/w:587/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0OTc2/NTQ5LTE2NjgzMzQ5/NzItMzM0MC5qcGVn.jpeg"
     - "https://i.discogs.com/FTuwmmSgNdctOq7cGuhN9-T8IxqpgEqduqmZWm_GJL8/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0OTc2/NTQ5LTE2NjgzMzQ5/NzEtOTQxNS5qcGVn.jpeg"
     - "https://i.discogs.com/YR73FrgPCKgYVXGmTkFXLrAPgWr3oUoEDq1f49UM4YM/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0OTc2/NTQ5LTE2NjgzMzQ5/NzEtNDY2Ny5qcGVn.jpeg"
-    - "https://i.discogs.com/W8QpjUA1_n9TeRWw4xfiHQAdGsfXF4KUsu8zeS37mEA/rs:fit/g:sm/q:90/h:660/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0OTc2/NTQ5LTE2NjgzMzQ5/NzItMjI2NC5qcGVn.jpeg"
+    - "https://i.discogs.com/UL2NNLsFbMMtkEGCaIDJRDnyN7-8fOEFFWTjtgTyEOs/rs:fit/g:sm/q:90/h:600/w:544/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0OTc2/NTQ5LTE2NjgzMzQ5/NzItMjI2NC5qcGVn.jpeg"
     - "https://i.discogs.com/xwcV3SXYhc25ot4b5byz_7boUG-R-nEYo-6wyMhtLi4/rs:fit/g:sm/q:90/h:591/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0OTc2/NTQ5LTE2NjgzMzQ5/NzItMzMwMi5qcGVn.jpeg"
 genres: ["Rock"]
 styles: ["Alternative Rock", "Hardcore"]
 ---
 
-United by Fate is the debut album by American rock band Rival Schools. The album was produced by Grammy Award-winning producer Luke Ebbin.
+United by Fate is the debut album by American rock band Rival Schools. The album was produced by Grammy Award–winning producer Luke Ebbin.
+
+
     
     
 

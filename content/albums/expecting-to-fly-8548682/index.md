@@ -23,8 +23,10 @@ genres: ["Rock", "Pop"]
 styles: ["Britpop", "Indie Rock"]
 ---
 
-Expecting to Fly is the debut studio album by the Bluetones. It was released on 12 February 1996, knocking Oasis's (What's the Story) Morning Glory? off the number-one spot in the UK Albums Chart for a week. The album is currently certified Platinum by the BPI. Its singles were "Bluetonic", "Slight Return" and "Cut Some Rug".
+Expecting to Fly is the debut studio album by the Bluetones. It was released on 12 February 1996, knocking Oasis's (What's the Story) Morning Glory? off the number-one spot in the UK Albums Chart for a week. The album is certified Platinum by the BPI. Its singles were "Bluetonic", "Slight Return" and "Cut Some Rug".
 A 2 CD Expanded Edition of the album was released on 9 March 2009.
+
+
     
     
 
@@ -51,10 +53,10 @@ A 2 CD Expanded Edition of the album was released on 9 March 2009.
 {{< youtube id="B-3UpL6MkZ0" title="The Bluetones - Slight Return" >}}<br>
 ### More Videos
 
-- [Talking to Clarry - The Bluetones](https://www.youtube.com/watch?v=5kVRAbSOTMs)
 - [The bluetones- Bluetonic](https://www.youtube.com/watch?v=7JVFHCcHv5Y)
-- [The Bluetones - Putting out Fires](https://www.youtube.com/watch?v=mC2zVwPdWos)
 - [Bluetones - Cut Some Rug - Full Video Song](https://www.youtube.com/watch?v=i80ClZCwVcg)
+- [Talking to Clarry - The Bluetones](https://www.youtube.com/watch?v=5kVRAbSOTMs)
+- [The Bluetones - Putting out Fires](https://www.youtube.com/watch?v=mC2zVwPdWos)
 - [Cut Some Rug - The Bluetones](https://www.youtube.com/watch?v=Cv3be8ScIdQ)
 
 ## Release Images

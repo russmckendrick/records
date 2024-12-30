@@ -14,8 +14,8 @@ cover:
 additional_images:
     - "https://i.discogs.com/yHFTczh8nDHfEQIZqxSM2s9kiDaWDbiSAEU3WZYJX5k/rs:fit/g:sm/q:90/h:594/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ0Mzg2/MTEtMTQ1OTUyODA3/OS0zNjUxLmpwZWc.jpeg"
     - "https://i.discogs.com/OK2eibDl8fT2HI-snDYtHkylTFcfAiOffaLe54Akow0/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ0Mzg2/MTEtMTQ1OTUyNzg1/OS0xODMxLmpwZWc.jpeg"
-    - "https://i.discogs.com/IwiPAbtylh6TiZmOegtihn_c-hoV6P0pmVQNGuBq0OI/rs:fit/g:sm/q:90/h:601/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ0Mzg2/MTEtMTQ1OTUyNzc0/Ny0zODY2LmpwZWc.jpeg"
-    - "https://i.discogs.com/gU3vAtjUhzGf_H1kwkBAnPe_ZEKl4dPGGLmc36GcRuc/rs:fit/g:sm/q:90/h:601/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ0Mzg2/MTEtMTQ1OTUyNzg1/NC05NzE5LmpwZWc.jpeg"
+    - "https://i.discogs.com/YSBA30zpHX1NlkWFs_rU7-00i5_n7g_dsdLCKh-5XdY/rs:fit/g:sm/q:90/h:600/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ0Mzg2/MTEtMTQ1OTUyNzc0/Ny0zODY2LmpwZWc.jpeg"
+    - "https://i.discogs.com/Qxd1xQ7r5p0to5GNQLMFX3K50mUDa7g0r_NdBO5jyKI/rs:fit/g:sm/q:90/h:600/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ0Mzg2/MTEtMTQ1OTUyNzg1/NC05NzE5LmpwZWc.jpeg"
 genres: ["Folk, World, & Country"]
 styles: ["Country"]
 ---

@@ -4,6 +4,7 @@ artist_name: "Kate Bush"
 artist: "kate-bush"
 album_name: "Lionheart"
 date: 2018-02-20T19:29:28.000000Z
+release_date: "1978-11-12"
 release_id: "426108"
 slug: "lionheart-426108"
 hideSummary: true
@@ -29,9 +30,15 @@ genres: ["Rock", "Pop"]
 styles: ["Art Rock", "Pop Rock", "Ballad"]
 ---
 
-Lionheart is the second studio album by English art rock singer Kate Bush. It was released in November 1978, just nine months after Bush's successful debut album The Kick Inside. Lionheart reached no. 6 on the UK Albums Chart (her only album not to make the top 5) and has been certified Platinum by the BPI.
-The first single taken from the album, "Hammer Horror", missed the UK Top 40. However, the follow-up single, "Wow", was released on the back of Bush's UK tour and became a UK Top 20 hit.
-    
+Kate Bush wasted no time returning to the studio to record <i>Lionheart</i>, the follow-up to her 1978 debut album, <i>The Kick Inside</i>. Reuniting with Andrew Powell, who produced her first record, she spent the summer of 1978 at France’s Super Bear Studios. As might be expected with the compressed timeline, <i>Lionheart</i> found Bush dipping into her existing stash of songs and giving them a fresh look.
+
+On the surface, that equalled a more adventurous album interested in prioritising atmosphere and intricate wordplay than pop hooks—as exemplified by winsome piano balladry like “In Search of Peter Pan” and “Oh England My Lionheart”, or the fully orchestrated grandeur of glammy standout “Hammer Horror”. Even the UK Top 20 single “Wow”, a sprawling space-rock song Bush wrote in the style of Pink Floyd, isn’t an obvious chart tune.
+
+To make this vision come to life, Bush was joined by several of the session players from her first record, along with other musicians—notably bassist Del Palmer, a member of Bush’s pre-solo career group the KT Bush Band, who would become a go-to studio collaborator. Francis Monkman, founder of the prog band Curved Air, also contributed harpsichord to several songs, including the theatrical rock number “Don’t Push Your Foot on the Heartbrake.”
+
+Bush did pen three new songs for <i>Lionheart</i>, led by the kick-off track “Symphony in Blue”, a low-key number distinguished by jazzy piano and understated guitar work, as well as the jaunty, theatrical cabaret number “Coffee Homeground”. These two songs in particular hinted at the ambitious soundscapes Bush would exhibit on subsequent albums. <i>Lionheart</i> reached the UK Top 10, but its impact on her career—more specifically the way she wanted to approach her career—reverberated for decades to come.
+        
+        
     
 
 
@@ -48,15 +55,38 @@ The first single taken from the album, "Hammer Horror", missed the UK Top 40. Ho
 10. Hammer Horror (4:37)
 
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/lionheart-remastered/1441564919" >}}<br>
+{{< applemusic url="https://music.apple.com/gb/album/lionheart/697237542" >}}<br>
 
 
 ## Videos
-### Kate Bush ‎ Liоnheаrt  Full Album HD
-{{< youtube id="XZm8ciAdPcc" title="Kate Bush ‎ Liоnheаrt  Full Album HD" >}}<br>
+### Symphony in Blue
+{{< youtube id="YmPVq8rspws" title="Symphony in Blue" >}}<br>
 ### More Videos
 
-- [Kate Bush - Wow - Official Music Video](https://www.youtube.com/watch?v=ZyuxXWxKSTg)
+- [In Search of Peter Pan](https://www.youtube.com/watch?v=xnwTNwjxQxI)
+- [Wow](https://www.youtube.com/watch?v=F9qQMIbFHHE)
+- [Don't Push Your Foot on the Heartbrake](https://www.youtube.com/watch?v=pu23otIE61s)
+- [Oh England My Lionheart](https://www.youtube.com/watch?v=3KKgC67wU50)
+- [Full House](https://www.youtube.com/watch?v=orRTYidzWcs)
+- [In the Warm Room](https://www.youtube.com/watch?v=zUZCoORXf7M)
+- [Kashka from Baghdad](https://www.youtube.com/watch?v=ZsUQIMGIVrM)
+- [Coffee Homeground](https://www.youtube.com/watch?v=VXORLnOmMBE)
+- [Hammer Horror](https://www.youtube.com/watch?v=fF2IONJLyk4)
+- [Kate Bush - Hammer Horror](https://www.youtube.com/watch?v=nyx4akq9_rA)
+- [Symphony in Blue](https://www.youtube.com/watch?v=YmPVq8rspws)
+- [In Search of Peter Pan](https://www.youtube.com/watch?v=xnwTNwjxQxI)
+- [Wow](https://www.youtube.com/watch?v=F9qQMIbFHHE)
+- [Don't Push Your Foot on the Heartbrake](https://www.youtube.com/watch?v=pu23otIE61s)
+- [Oh England My Lionheart](https://www.youtube.com/watch?v=3KKgC67wU50)
+- [Full House](https://www.youtube.com/watch?v=orRTYidzWcs)
+- [In the Warm Room](https://www.youtube.com/watch?v=zUZCoORXf7M)
+- [Kashka from Baghdad](https://www.youtube.com/watch?v=ZsUQIMGIVrM)
+- [Coffee Homeground](https://www.youtube.com/watch?v=VXORLnOmMBE)
+- [Hammer Horror](https://www.youtube.com/watch?v=fF2IONJLyk4)
+- [Kate Bush - Hammer Horror](https://www.youtube.com/watch?v=nyx4akq9_rA)
+- [Oh England My Lionheart (2018 Remaster)](https://www.youtube.com/watch?v=2fET9PwX-bI)
+- [Symphony in Blue (2018 Remaster)](https://www.youtube.com/watch?v=TmOEpA8jxUE)
+- [Kate Bush - Symphony In Blue (1979 Xmas Special)](https://www.youtube.com/watch?v=sySgoCy0_AM)
 
 ## Release Images
 {{< imageGrid >}}

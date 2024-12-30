@@ -69,7 +69,7 @@ Although her adaptations of Bach compositions for the Moog won Wendy Carlos thre
 - [TRON Scherzo (TRON Soundtrack)](https://www.youtube.com/watch?v=xTvU-R82ax8)
 - [Miracle and Magician](https://www.youtube.com/watch?v=vLgQrzyc4WA)
 - [Magic Landings](https://www.youtube.com/watch?v=l6NogoCCUMc)
-- [Theme from Tron (From TRON/Score)](https://www.youtube.com/watch?v=TPF7CXUgcus)
+- [Theme from Tron (From "TRON"/Score)](https://www.youtube.com/watch?v=TPF7CXUgcus)
 - [Love Theme](https://www.youtube.com/watch?v=nB_AVIC14ow)
 - [Tower Music [Let Us Pray] (TRON Soundtrack)](https://www.youtube.com/watch?v=AFTSOU6h_UI)
 - [The Light Sailer (TRON Soundtrack)](https://www.youtube.com/watch?v=MkDI0m5M06A)

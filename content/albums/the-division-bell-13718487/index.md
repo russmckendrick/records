@@ -14,7 +14,7 @@ cover:
     caption: "The Division Bell by Pink Floyd"
 additional_images:
     - "https://i.discogs.com/FQgrvjduM7wOubwxmuEs6yfoetIbHSAzRq-enKkySyI/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNzE4/NDg3LTE1NTk5Mjk0/NDQtNTAyNC5qcGVn.jpeg"
-    - "https://i.discogs.com/CAJLJXbmpiCpMd0qZV42xf9xv0AhgAi8UZF6BCNFy7Y/rs:fit/g:sm/q:90/h:615/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNzE4/NDg3LTE1NTk2NzI3/ODktNTY4OS5qcGVn.jpeg"
+    - "https://i.discogs.com/RrQy2ut9mfVcjDkAKTi4NM6hE2JxggJJe0tuNK0l9gY/rs:fit/g:sm/q:90/h:600/w:585/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNzE4/NDg3LTE1NTk2NzI3/ODktNTY4OS5qcGVn.jpeg"
     - "https://i.discogs.com/P4t6VXEOS2CNRR8JHxPVirIJKFOrXtZgTGfpsCeeu38/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNzE4/NDg3LTE1NTk5MzAy/MTMtNDc4NS5qcGVn.jpeg"
     - "https://i.discogs.com/BnWft-3PCtddnouykqmyVJozjxrv1UHGp5ooijk4WrU/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNzE4/NDg3LTE1NTk5MzAy/MTQtMzMwMi5qcGVn.jpeg"
     - "https://i.discogs.com/SgVUu8ZLywW92Ab0ewokLNhPds0I4nGnokDqgAqAQNA/rs:fit/g:sm/q:90/h:333/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNzE4/NDg3LTE1NTk5NDQ2/NjUtMTg3NS5qcGVn.jpeg"
@@ -38,10 +38,10 @@ genres: ["Rock"]
 styles: ["Arena Rock", "Prog Rock"]
 ---
 
-The Division Bell is the fourteenth studio album by the English progressive rock band Pink Floyd, released on 28 March 1994 by EMI Records in the United Kingdom and on 4 April by Columbia Records in the United States.
-The second Pink Floyd album recorded without founding member Roger Waters, The Division Bell was written mostly by guitarist and singer David Gilmour and keyboardist Richard Wright. It features Wright's first lead vocal on a Pink Floyd album since The Dark Side of the Moon (1973). Gilmour's fiancée, the novelist Polly Samson, co-wrote many of the lyrics, which deal with themes of communication. It was the last Pink Floyd studio album to be composed of entirely new material, and the last recorded with Wright, who died in 2008.
-Recording took place in locations including the band's Britannia Row Studios and Gilmour's houseboat, Astoria. The production team included longtime Pink Floyd collaborators such as producer Bob Ezrin, engineer Andy Jackson, saxophonist Dick Parry and bassist Guy Pratt.
-The Division Bell received mixed reviews, but reached number one in more than 10 countries, including the UK and the US. In the US, it was certified double platinum in 1994 and triple platinum in 1999. Pink Floyd promoted it with a tour of the US and Europe; the tour sold more than 5 million tickets and made around $100 million in gross income. A live album and video, Pulse, was released in 1995. Some of the unused material from the Division Bell sessions became part of Pink Floyd's next album, The Endless River (2014).
+The Division Bell is the fourteenth studio album by the English rock band Pink Floyd, released on 28 March 1994 by EMI Records in the United Kingdom and on 5 April by Columbia Records in the United States.
+The second Pink Floyd album recorded without the founding member Roger Waters, The Division Bell was written mostly by the guitarist and singer, David Gilmour, and the keyboardist, Richard Wright. It features Wright's first lead vocal on a Pink Floyd album since The Dark Side of the Moon (1973). Gilmour's fiancée, the novelist Polly Samson, co-wrote many of the lyrics, which deal with themes of communication. It was the last Pink Floyd studio album to be composed of entirely new material, and the last recorded with Wright, who died in 2008.
+Recording took place in locations including the band's Britannia Row Studios and Gilmour's houseboat, Astoria. The production team included longtime Pink Floyd collaborators such as the producer Bob Ezrin, the engineer Andy Jackson, the saxophonist Dick Parry and the bassist Guy Pratt.
+The Division Bell received mixed reviews, but reached number one in more than 10 countries, including the UK and the US. In the US, it was certified double platinum in 1994 and triple platinum in 1999. Pink Floyd promoted it with a tour of the US and Europe; the tour sold more than 5 million tickets and made around $100 million in gross income. A live album and video, Pulse, was released in 1995. Unused material from the Division Bell sessions became part of Pink Floyd's next album, The Endless River (2014).
 
 
         
@@ -66,7 +66,26 @@ The Division Bell received mixed reviews, but reached number one in more than 10
 {{< applemusic url="https://music.apple.com/gb/album/the-division-bell/704316542" >}}<br>
 
 
+## Videos
+### Pink Floyd - High Hopes (Official Music Video HD)
+{{< youtube id="7jMlFXouPk8" title="Pink Floyd - High Hopes (Official Music Video HD)" >}}<br>
+### More Videos
 
+- [Pink Floyd - Take It Back (Official Music Video HD)](https://www.youtube.com/watch?v=Y5rde4bRIZA)
+- [Pink Floyd - Keep Talking (Official Lyrics Video)](https://www.youtube.com/watch?v=wbOTkDn49qI)
+- [Cluster One](https://www.youtube.com/watch?v=hoEDw18mkbU)
+- [What Do You Want From Me](https://www.youtube.com/watch?v=KmlZ1WhlYsM)
+- [Poles Apart](https://www.youtube.com/watch?v=5ciWB7VykII)
+- [Pink Floyd - Marooned (Official Music Video HD)](https://www.youtube.com/watch?v=P7YMI39sObY)
+- [A Great Day For Freedom](https://www.youtube.com/watch?v=01F1leQgsEc)
+- [Wearing The Inside Out](https://www.youtube.com/watch?v=i8cV1ua0wYA)
+- [Take It Back](https://www.youtube.com/watch?v=pyk8tj95620)
+- [Coming Back To Life](https://www.youtube.com/watch?v=tC8631Kqzb0)
+- [Keep Talking](https://www.youtube.com/watch?v=XKjwvvmEn2M)
+- [Lost For Words](https://www.youtube.com/watch?v=FKROYzWRiQ0)
+- [High Hopes](https://www.youtube.com/watch?v=lku1fP-LszI)
+- [Pink Floyd - 1st UK press - Division Bell - side one - 192 Khz](https://www.youtube.com/watch?v=eorcJlowW4I)
+- [Pink Floyd - 1st UK press - Division Bell - side 2 - 192 Khz](https://www.youtube.com/watch?v=z_EenHiH-NI)
 
 ## Release Images
 {{< imageGrid >}}

@@ -19,7 +19,7 @@ additional_images:
     - "https://i.discogs.com/8sgn84f1Ml_3UrH4HmuL3vt9kXi_LE2TLaoE3qKfmaE/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMTAz/MTQyLTE3MTA1MTc5/ODEtODMzMS5qcGVn.jpeg"
     - "https://i.discogs.com/qR9T7eyZSkCjKMVf4u2zijVu8pl8hxeB7YqWED9jvLM/rs:fit/g:sm/q:90/h:591/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMTAz/MTQyLTE3MTA1MTc5/ODItMzMxNi5qcGVn.jpeg"
     - "https://i.discogs.com/zBBgFV7sWWA4CrPnFXMQSm0OS27n0blxnS8Rol9hemU/rs:fit/g:sm/q:90/h:587/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMTAz/MTQyLTE3MTA1MTc5/ODEtMjQwNi5qcGVn.jpeg"
-    - "https://i.discogs.com/mB46AWWDGwPty2Ohr68UNsrM4l18jaPivqIKqi3Leoo/rs:fit/g:sm/q:90/h:612/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMTAz/MTQyLTE3MTA1MTc5/ODItODI4NS5qcGVn.jpeg"
+    - "https://i.discogs.com/pF2frulQHYAtiJnFzc9AnCu5AJvi_AIzLM-CC_Ryu28/rs:fit/g:sm/q:90/h:600/w:587/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMTAz/MTQyLTE3MTA1MTc5/ODItODI4NS5qcGVn.jpeg"
     - "https://i.discogs.com/EO6R_9Jvhyxl1A4ggo6W3-oS5nwEL7bub0C7nKbkZlg/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMTAz/MTQyLTE3MTA1MTc5/ODEtMzYwNy5qcGVn.jpeg"
     - "https://i.discogs.com/9n3zxhRIfvX_3W5PlOiCfrHGQq4Bov3sz-zLD9hPJNk/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMTAz/MTQyLTE3MTA1Mjgw/NjItOTg5NC5qcGVn.jpeg"
     - "https://i.discogs.com/ea1aEJI41zkCst8Vi7OBNbRy0Pvfnil1wjXSHdQ42uk/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMTAz/MTQyLTE3MTA1Mjgw/NjItMjk2NS5qcGVn.jpeg"
@@ -59,7 +59,13 @@ In the context of The Black Crowes’ contentious past, it’s tempting to hear 
 ## Videos
 ### The Black Crowes - Happiness Bastards (Album Available Now)
 {{< youtube id="QfSnOZ_R_Sg" title="The Black Crowes - Happiness Bastards (Album Available Now)" >}}<br>
+### More Videos
 
+- [The Black Crowes - Wanting and Waiting (Official Video)](https://www.youtube.com/watch?v=rHBu97e--xA)
+- [The Black Crowes - Happiness Bastards (Full Album) 2024](https://www.youtube.com/watch?v=m10g2IBf9Lc)
+- [The Black Crowes - Album release party - Happiness Bastards - FULL SHOW](https://www.youtube.com/watch?v=Z1RR5nmaZ1A)
+- [The Black Crowes: Wanting and Waiting | The Tonight Show Starring Jimmy Fallon](https://www.youtube.com/watch?v=FJEK0XWSL2w)
+- [The Black Crowes - Happiness Bastards (Album Available Now)](https://www.youtube.com/watch?v=QfSnOZ_R_Sg)
 
 ## Release Images
 {{< imageGrid >}}
@@ -68,7 +74,7 @@ In the context of The Black Crowes’ contentious past, it’s tempting to hear 
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Happiness_Bastards |
-| Format         | Vinyl LP Album Limited Edition Stereo (Clear) |
+| Format         | Vinyl LP Album Stereo (Clear) |
 | Label          | Silver Arrow Records |
 | Catalog Number | SAR66 |
 | Notes | Clear LP. Limited edition for independent record stores. The inside of the gatefold sleeve is printed yellow and partially laminated.  On sticker: Made in CZ  The runout strings are laser etched.  |

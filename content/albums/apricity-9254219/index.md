@@ -45,6 +45,10 @@ styles: ["Psychedelic Rock", "Art Rock", "Indie Rock"]
 - [Syd Arthur - Apricity](https://www.youtube.com/watch?v=CSs8MrEq3PY)
 - [Syd Arthur - Sun Rays](https://www.youtube.com/watch?v=dP2rdPitZnc)
 - [Syd Arthur -  Portal](https://www.youtube.com/watch?v=cVTrJpQwL9E)
+- [Syd Arthur - No Peace](https://www.youtube.com/watch?v=lmDnL8byUAw)
+- [Syd Arthur - Apricity](https://www.youtube.com/watch?v=CSs8MrEq3PY)
+- [Syd Arthur - Sun Rays](https://www.youtube.com/watch?v=dP2rdPitZnc)
+- [Syd Arthur -  Portal](https://www.youtube.com/watch?v=cVTrJpQwL9E)
 
 ## Release Images
 {{< imageGrid >}}

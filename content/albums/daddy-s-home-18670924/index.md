@@ -16,10 +16,10 @@ additional_images:
     - "https://i.discogs.com/ekzTc6gIGtkb29ehK3AZSlK8hAS5nRlBUMJVB5zRqok/rs:fit/g:sm/q:90/h:563/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4Njcw/OTI0LTE2MjA2NjU2/MzQtMTEwNy5qcGVn.jpeg"
     - "https://i.discogs.com/sTo933KrduOTUmoxOqSlVGeJRvQbbmeS1ReV1G6ZuDE/rs:fit/g:sm/q:90/h:591/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4Njcw/OTI0LTE2MjA2NjU1/OTgtODg3MC5qcGVn.jpeg"
     - "https://i.discogs.com/JZ3siKX0BaEKQc2jztwmGZviyrs4ggU-dXhaoRGqs-E/rs:fit/g:sm/q:90/h:593/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4Njcw/OTI0LTE2MjA2NjU1/OTctNzQyMi5qcGVn.jpeg"
-    - "https://i.discogs.com/wESBTt6W9DEN7qB62bDn0JQg5j1gx0ZmZgz0c1bm4yY/rs:fit/g:sm/q:90/h:604/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4Njcw/OTI0LTE2MjA2NjU1/OTctNTQ2Ny5qcGVn.jpeg"
+    - "https://i.discogs.com/HyP6974_yB7lUt9T7-HjPy9_4D11Br1j_6vCPBbO8-A/rs:fit/g:sm/q:90/h:600/w:595/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4Njcw/OTI0LTE2MjA2NjU1/OTctNTQ2Ny5qcGVn.jpeg"
     - "https://i.discogs.com/z0EYI3Td19hAvRM0bM_WaHFnnws2oijREEsNS5z7jv4/rs:fit/g:sm/q:90/h:569/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4Njcw/OTI0LTE2MjA2NjU1/OTYtODYxMi5qcGVn.jpeg"
-    - "https://i.discogs.com/zmhSSAskZWxSDWixrzzraWrv3TnXxHzrfwZ_YSWOKRY/rs:fit/g:sm/q:90/h:630/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4Njcw/OTI0LTE2MjA2NjU1/OTctMjUyMi5qcGVn.jpeg"
-    - "https://i.discogs.com/ZqimJ6lIv0Fozgd9hE1X7S7aoStmRI1U5DSW-UxTg5Q/rs:fit/g:sm/q:90/h:1163/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4Njcw/OTI0LTE2MjA2NjU1/OTctOTEzOC5qcGVn.jpeg"
+    - "https://i.discogs.com/oab_r1a-jNsEwkCu6hz7aeenPyeedDM9JyKS9hrBHMI/rs:fit/g:sm/q:90/h:600/w:571/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4Njcw/OTI0LTE2MjA2NjU1/OTctMjUyMi5qcGVn.jpeg"
+    - "https://i.discogs.com/5B5Ge0GhyP59rPD_C621ndm6hcMOo3NqEORCyELVF8g/rs:fit/g:sm/q:90/h:600/w:309/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4Njcw/OTI0LTE2MjA2NjU1/OTctOTEzOC5qcGVn.jpeg"
 genres: ["Electronic", "Jazz", "Rock", "Funk / Soul", "Blues"]
 styles: ["Alternative Rock", "Indie Rock"]
 ---
@@ -38,7 +38,8 @@ Recorded with <i>MASSEDUCTION</i> producer Jack Antonoff, <i>Daddy’s Home</i> 
 “The song is a revenge fantasy. If you're nice, people think they can take advantage of you. And being nice is not the same thing as being a pushover. If we don't want to be culpable to something, we could say, 'Well, it's definitely just this thing in my past,' but at the end of the day, there's human culpability. Life is complicated, but I don't care why you are hurt. It's not an excuse to be cruel. Whatever your excuse is, you've played it out.”<br />
 <b>“…At the Holiday Party”</b>
 “Everybody's been this person at one time. I've certainly been this person, where you are masking your sadness with all kinds of things. Whether it's dressing up real fancy or talking about that next thing you're going to do, whatever it is. And we kind of reveal ourselves by the things we try to hide and to kind of say we've all been there. Drunk a little too early, at a party, there's a moment where you can see somebody's face break, and it's just for a split second, but you see it. That was the little window into what's going on with you, and what you're using to obfuscate is actually revealing you.”
-    
+        
+        
     
 
 
@@ -74,8 +75,9 @@ Recorded with <i>MASSEDUCTION</i> producer Jack Antonoff, <i>Daddy’s Home</i> 
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
+| Wikipedia URL | https://en.wikipedia.org/wiki/Daddy%27s_Home_(St._Vincent_album) |
 | Format         | Vinyl LP Album Limited Edition Stereo (Clear) |
 | Label          | Loma Vista |
 | Catalog Number | LVR01797 |
-| Notes | Indie Exclusive. Includes Poster  Made in the EU. |
+| Notes | Indie Exclusive. Includes Poster 200 copies were also retailed by Assai Records with an approved hand numbered Japanese style Obi under Assai Obi Editions. Made in the EU. |
 | Discogs URL    | [St. Vincent - Daddy's Home](https://www.discogs.com/release/18670924-St-Vincent-Daddys-Home) |

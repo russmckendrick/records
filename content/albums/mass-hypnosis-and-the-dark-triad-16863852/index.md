@@ -12,10 +12,10 @@ cover:
     alt: "Mass Hypnosis And The Dark Triad by Bill Fisher"
     caption: "Mass Hypnosis And The Dark Triad by Bill Fisher"
 additional_images:
-    - "https://i.discogs.com/ajey33RHiSQ3h-CRLhfQlYhSV1yKBaXtvNGM9afHV-g/rs:fit/g:sm/q:90/h:651/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2ODYz/ODUyLTE2MTAyODcx/OTQtNzA4Mi5qcGVn.jpeg"
-    - "https://i.discogs.com/MSZs4M_l8MMXvDSB4IO_bVf742drUGCBBfzRm_1yeys/rs:fit/g:sm/q:90/h:609/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2ODYz/ODUyLTE2MjM5MjMx/NzMtMTUxMi5qcGVn.jpeg"
+    - "https://i.discogs.com/6LPBXibKRVoqNb5KxKKCy6ZGFJUkOyXGRQV376RxvxQ/rs:fit/g:sm/q:90/h:600/w:552/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2ODYz/ODUyLTE2MTAyODcx/OTQtNzA4Mi5qcGVn.jpeg"
+    - "https://i.discogs.com/kPMuDQRDnmwM50txvOIDTqipnKoKHao-oRVKWrR1ylk/rs:fit/g:sm/q:90/h:600/w:590/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2ODYz/ODUyLTE2MjM5MjMx/NzMtMTUxMi5qcGVn.jpeg"
     - "https://i.discogs.com/7hPPmI5ln5EFC-GoaI0Iuw77Cto_2aCizxsWU67U4XI/rs:fit/g:sm/q:90/h:548/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2ODYz/ODUyLTE2MjM5MjMx/NzItMjMwMC5qcGVn.jpeg"
-    - "https://i.discogs.com/k67BFWcn6Sm1PgN8fLlQGdOYaMDP31rWIHCsz6I4_UA/rs:fit/g:sm/q:90/h:651/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2ODYz/ODUyLTE2MjM5MjMx/NzEtNjMwOS5qcGVn.jpeg"
+    - "https://i.discogs.com/3kf6KziO3hmwLAYDltEEcZ-4goSYUSe5X7Teg27H5qI/rs:fit/g:sm/q:90/h:600/w:552/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2ODYz/ODUyLTE2MjM5MjMx/NzEtNjMwOS5qcGVn.jpeg"
     - "https://i.discogs.com/Jcg06AuiljsbJ6HUkARWhHF6Pr5-6mheiAcn6lhmiS8/rs:fit/g:sm/q:90/h:573/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2ODYz/ODUyLTE2MjM5MjMx/NzEtMzgyMC5qcGVn.jpeg"
     - "https://i.discogs.com/P-7slcO4bmBRtPfjnKDOPDET_UQZfPi69B-ufsARVss/rs:fit/g:sm/q:90/h:583/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2ODYz/ODUyLTE2MjM5MjMx/NzMtMjY3MC5qcGVn.jpeg"
 genres: ["Rock"]

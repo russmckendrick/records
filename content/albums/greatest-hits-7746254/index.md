@@ -15,7 +15,7 @@ additional_images:
     - "https://i.discogs.com/WJ-Ni60cWzBx7q2YmUietoOeTkRQNHJ9PCvrVphAGu4/rs:fit/g:sm/q:90/h:594/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc3NDYy/NTQtMTQ0NzkzNTI3/NC01NzI4LmpwZWc.jpeg"
     - "https://i.discogs.com/Tg3lIENajsEMsEAvqSBJCj6BN8L0KW8GKokt0j-Do80/rs:fit/g:sm/q:90/h:590/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc3NDYy/NTQtMTQ0NzkzNTI2/OS00MDYxLmpwZWc.jpeg"
     - "https://i.discogs.com/wOxAWZPOMptTTT2kQ5Ni1rvrs49I03iYqKMrjClb56o/rs:fit/g:sm/q:90/h:592/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc3NDYy/NTQtMTUzODM5MTQ2/OC01NTg1LmpwZWc.jpeg"
-    - "https://i.discogs.com/3jMCG0YHh1hduZObDMBzKkvivCGN0EvBUFZYGyYucTM/rs:fit/g:sm/q:90/h:613/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc3NDYy/NTQtMTQ0NzkzNTI2/Mi04Mjc5LmpwZWc.jpeg"
+    - "https://i.discogs.com/YtIsisH3LQmOcBvE4YqHvEghzQmpOM3M13GV82vjMEI/rs:fit/g:sm/q:90/h:600/w:586/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc3NDYy/NTQtMTQ0NzkzNTI2/Mi04Mjc5LmpwZWc.jpeg"
     - "https://i.discogs.com/6jW3gDhL-ux-BEeQMAC3b5l9fjK9xXIUM5hLlEiyJU0/rs:fit/g:sm/q:90/h:570/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc3NDYy/NTQtMTQ0NzkzNTI2/My04MDk2LmpwZWc.jpeg"
 genres: ["Rock"]
 styles: ["Classic Rock"]
@@ -45,7 +45,7 @@ The Kinks Greatest Hits! (also spelled The Kinks' Greatest Hits!) is a compilati
 16. Wonder Boy (2:49)
 
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/the-ultimate-collection/1143692008" >}}<br>
+{{< applemusic url="https://music.apple.com/gb/album/kinks-deluxe-edition/1622186650" >}}<br>
 
 
 

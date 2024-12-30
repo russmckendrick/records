@@ -23,6 +23,10 @@ genres: ["Rock"]
 styles: ["Punk", "Ska"]
 ---
 
+...And Out Come the Wolves is the third studio album by American punk rock band Rancid. It was released on August 22, 1995, through Epitaph Records. Rancid's popularity and catchy songs made them the subject of a major label bidding war (hence the title, ...And Out Come the Wolves taken from a poem in Jim Carroll's The Basketball Diaries) that ended with the band staying on Epitaph. With a sound heavily influenced by ska, which called to mind Tim Armstrong and Matt Freeman's past in Operation Ivy, Rancid became one of the few bands of the mid-to-late 1990s punk rock boom to retain much of its original fan base. In terms of record sales and certifications, ...And Out Come the Wolves is a popular album in the United States. It produced three hit singles: "Roots Radicals", "Time Bomb" and "Ruby Soho", that earned Rancid its heaviest airplay on MTV and radio stations to date. All the singles charted on Modern Rock Tracks. ...And Out Come the Wolves was certified gold by the RIAA on January 22, 1996. It was certified platinum on September 23, 2004.
+Along with Bad Religion's Stranger than Fiction, Green Day's Dookie and The Offspring's Smash, ...And Out Come the Wolves helped revive mainstream interest in punk rock in the mid-1990s, signaled the initial rise of mainstream punk rock, and proved to be successful for the band. To coincide with its 20th anniversary, Rancid performed the album live in its entirety on their 2015–2016 Honor Is All We Know world tour.
+    
+    
 
 
 ## Tracklisting
@@ -47,32 +51,17 @@ styles: ["Punk", "Ska"]
 19. The Way I Feel (2:35)
 
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/and-out-come-the-wolves/1485040366" >}}<br>
+{{< applemusic url="https://music.apple.com/gb/album/and-out-come-the-wolves/1702711176" >}}<br>
 
 
 ## Videos
-### Rancid - Maxwell Murder (Full Album Stream)
-{{< youtube id="XcccqG6-dDg" title="Rancid - Maxwell Murder (Full Album Stream)" >}}<br>
+### Rancid - "Time Bomb"
+{{< youtube id="DhKHAopx7D0" title="Rancid - "Time Bomb"" >}}<br>
 ### More Videos
 
-- [Rancid - The 11th Hour (Full Album Stream)](https://www.youtube.com/watch?v=Ly5-hv5-iTU)
 - [Rancid - Roots Radicals [Official Video]](https://www.youtube.com/watch?v=wpzkGQhftMw)
-- [Rancid - Time Bomb](https://www.youtube.com/watch?v=DhKHAopx7D0)
-- [Rancid - Olympia, WA (Full Album Stream)](https://www.youtube.com/watch?v=j5HZ5Bd6DUY)
-- [Rancid - Lock, Step, & Gone (Full Album Stream)](https://www.youtube.com/watch?v=O-vzicKAUTY)
-- [Rancid - Junkie Man (Full Album Stream)](https://www.youtube.com/watch?v=gXXT2KvhwZs)
-- [Rancid - Listed M.I.A. (Full Album Stream)](https://www.youtube.com/watch?v=Azlr8By0lFw)
-- [Rancid - Ruby Soho (Full Album Stream)](https://www.youtube.com/watch?v=58JtsAkRfNs)
-- [Rancid - Daly City Train (Full Album Stream)](https://www.youtube.com/watch?v=C6VRRaK-Srw)
-- [Rancid - Journey To The End Of The East Bay (Full Album Stream)](https://www.youtube.com/watch?v=0DrLoalgK3g)
-- [Rancid - She's Automatic (Full Album Stream)](https://www.youtube.com/watch?v=J3hAkO5aD08)
-- [Rancid - Old Friend (Full Album Stream)](https://www.youtube.com/watch?v=PV1NwV7DrAc)
-- [Rancid - Disorder and Disarray (Full Album Stream)](https://www.youtube.com/watch?v=h6JRureYAAE)
-- [Rancid - The Wars End (Full Album Stream)](https://www.youtube.com/watch?v=OAtiHyzweFA)
-- [Rancid - You Don't Care Nothin (Full Album Stream)](https://www.youtube.com/watch?v=bDzzicN1mLU)
-- [Rancid - As Wicked (Full Album Stream)](https://www.youtube.com/watch?v=g6lFcG7IAt8)
-- [Rancid - Avenues and Alleyways (Full Album Stream)](https://www.youtube.com/watch?v=kInWnJ9et1s)
-- [Rancid - The Way I Feel (Full Album Stream)](https://www.youtube.com/watch?v=X7sILDfQXdk)
+- [Rancid - ...And Out Come The Wolves (Full Album)](https://www.youtube.com/watch?v=JaBXx5lOipw)
+- [Rancid - Ruby Soho [MUSIC VIDEO]](https://www.youtube.com/watch?v=GeFr4_CADp4)
 
 ## Release Images
 {{< imageGrid >}}
@@ -80,6 +69,7 @@ styles: ["Punk", "Ska"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
+| Wikipedia URL | https://en.wikipedia.org/wiki/...And_Out_Come_the_Wolves |
 | Format         | Vinyl LP Album Limited Edition Reissue Remastered (Gold, 180g) |
 | Label          | Epitaph |
 | Catalog Number | 7441-1 |

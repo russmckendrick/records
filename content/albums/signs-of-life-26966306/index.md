@@ -12,13 +12,13 @@ cover:
     alt: "Signs of Life by Neil Gaiman"
     caption: "Signs of Life by Neil Gaiman"
 additional_images:
-    - "https://i.discogs.com/BhQ7K3c18EIvSLqbKqt8Tf8nVssSWuk6eWNbNYLFkiA/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2OTY2/MzA2LTE2ODUyMzE1/MzEtNzE4Ny5qcGVn.jpeg"
+    - "https://i.discogs.com/nrQhAeLkpmWnzNN-XrLQrUXBZ0hyBbNpWTwMhKAvUhc/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2OTY2/MzA2LTE2ODUyMzE1/MzEtNzE4Ny5qcGVn.jpeg"
     - "https://i.discogs.com/_GDW5ULf2STFYGW43vlMF-SLrTphJ77OQjfeTo6bAp0/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2OTY2/MzA2LTE2ODUyMzE1/MjYtNTMwNS5qcGVn.jpeg"
     - "https://i.discogs.com/SlK8BOhwk21x5iCfDMLv1WXDZ2sDYiQCXX8E4I_XM1I/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2OTY2/MzA2LTE2ODUyMzE1/MTUtODE3NC5qcGVn.jpeg"
     - "https://i.discogs.com/uf0ytRD2WkIu6iShjlEM6A3haAkds5ENJrEijYrmpA0/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2OTY2/MzA2LTE2ODUyMzE1/MjgtNjc2Mi5qcGVn.jpeg"
     - "https://i.discogs.com/2nUcxscb_KjK9tV9RKNi3NUItgaD27E3xc2vP-ellT8/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2OTY2/MzA2LTE2ODUyMzE1/MjYtNTIxOC5qcGVn.jpeg"
-    - "https://i.discogs.com/lTC6UEDyAh_j5E2DN8EkDuSgOuvs8WPCNd3CGv8GV2A/rs:fit/g:sm/q:90/h:610/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2OTY2/MzA2LTE2ODUyMzE1/MzAtNTE3Ny5qcGVn.jpeg"
-    - "https://i.discogs.com/JcCB-HBALLLD8oYobD8LOnNk0jMSVR0-dgVejdkQT-g/rs:fit/g:sm/q:90/h:607/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2OTY2/MzA2LTE2ODUyMzE1/MzAtNDQ5OS5qcGVn.jpeg"
+    - "https://i.discogs.com/mhiRr0YQR_BhWLRIumfaQvKsYq2Tgkx1PvgUk6Xbmuw/rs:fit/g:sm/q:90/h:600/w:589/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2OTY2/MzA2LTE2ODUyMzE1/MzAtNTE3Ny5qcGVn.jpeg"
+    - "https://i.discogs.com/2dZqVKGKykR2W0b2rhnUoGtIW1lGbO4H_kmf93P1LKM/rs:fit/g:sm/q:90/h:600/w:592/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2OTY2/MzA2LTE2ODUyMzE1/MzAtNDQ5OS5qcGVn.jpeg"
     - "https://i.discogs.com/GWoq1FqYj_wS_hg_Yp6FpEL1KBo1hzYVu-fnbOx8ne8/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2OTY2/MzA2LTE2ODUyMzE1/MjktNDY0Ni5qcGVn.jpeg"
     - "https://i.discogs.com/xgiL-9XQ88KG_8yLp3drk7CyjYLiBRvjLzBBD04DlqU/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2OTY2/MzA2LTE2ODUyMzE1/MjgtNDM0OC5qcGVn.jpeg"
     - "https://i.discogs.com/EHp-ZSIR7CiKQac-tymiW5GMjT5V1LFQW2TX8SZurMA/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2OTY2/MzA2LTE2ODUyMzE1/MzQtMTc1Mi5qcGVn.jpeg"
@@ -53,7 +53,14 @@ styles: ["Spoken Word"]
 {{< applemusic url="https://music.apple.com/gb/album/signs-of-life/1646512003" >}}<br>
 
 
+## Videos
+### Signs of a Life
+{{< youtube id="4bMWiAdSMLk" title="Signs of a Life" >}}<br>
+### More Videos
 
+- [Credo](https://www.youtube.com/watch?v=tGbvCN9sjGU)
+- [In Transit](https://www.youtube.com/watch?v=aCAN43oG0oQ)
+- [Möbius Strip](https://www.youtube.com/watch?v=OlKbop2SLJU)
 
 ## Release Images
 {{< imageGrid >}}

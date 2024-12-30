@@ -15,16 +15,19 @@ additional_images:
     - "https://i.discogs.com/5DR-TSWMPL1Y2jR9Rty48amcVoZHUdbTxXxE7YfKcEw/rs:fit/g:sm/q:90/h:586/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMzMz/MzE3LTE1MzMzMDIy/NzUtMjgzNy5qcGVn.jpeg"
     - "https://i.discogs.com/hEBj-t1LNU7Yf7O9QdxC_8YuoMdMxE6yIY9cvnURTtk/rs:fit/g:sm/q:90/h:586/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMzMz/MzE3LTE1MzMzMDIy/NzYtMzE4MC5qcGVn.jpeg"
     - "https://i.discogs.com/B1bIS-L7X8W_J_AYIiD1i5pEryZMnGy-EylQigAq5_Y/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMzMz/MzE3LTE1MzMzMDIy/NzgtOTMzMC5qcGVn.jpeg"
-    - "https://i.discogs.com/5n_JmxiVSVPsiPLLbseBBAP26bOATO6hFUtVJy4cwdM/rs:fit/g:sm/q:90/h:604/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMzMz/MzE3LTE1MzMzMDIy/NzgtMzY4MC5qcGVn.jpeg"
+    - "https://i.discogs.com/MYRp7Wfe2qCaL3Jc-TYg62iYfR1lG3HcVjziiN8QKpA/rs:fit/g:sm/q:90/h:600/w:595/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMzMz/MzE3LTE1MzMzMDIy/NzgtMzY4MC5qcGVn.jpeg"
     - "https://i.discogs.com/GCE9ea2WyMSFmOa7Rco-NI1cipwHKtrXTlPPZq12ojw/rs:fit/g:sm/q:90/h:588/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMzMz/MzE3LTE1MzMzMDIy/NzctNTg0NC5qcGVn.jpeg"
-    - "https://i.discogs.com/4ZEOrKbMBhxjJ-b6UC9dMQ_q_zqjKl44-U8BgFgt7rs/rs:fit/g:sm/q:90/h:612/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMzMz/MzE3LTE1MzMzMDIy/ODAtMjY4Ni5qcGVn.jpeg"
+    - "https://i.discogs.com/JnAJ93HYInQpNn08LEw1hEYoU7Lnzp-gaxCy_XPS8ks/rs:fit/g:sm/q:90/h:600/w:588/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMzMz/MzE3LTE1MzMzMDIy/ODAtMjY4Ni5qcGVn.jpeg"
 genres: ["Rock"]
 styles: ["Prog Rock", "Symphonic Rock"]
 ---
 
-The Lamb Lies Down on Broadway is the sixth studio album by the English progressive rock band Genesis. It was released as a double album on 29 November 1974 by Charisma Records and is their last to feature original frontman Peter Gabriel. It peaked at No. 10 on the UK Albums Chart and No. 41 on the Billboard 200 in the US. It is currently their longest album to date.
-While the band worked on new material at Headley Grange for three months, they decided to produce a concept album with a story devised by Gabriel about Rael, a Puerto Rican youth from New York City who is suddenly taken on a journey of self-discovery and encounters bizarre incidents and characters along the way. The album was marked by increased tensions within the band as Gabriel, who insisted on writing all of the lyrics, temporarily left to work with filmmaker William Friedkin and needed time to be with his family. Most of the songs were developed by the rest of the band through jam sessions and were put down at Glaspant Manor in Wales using a mobile studio.
-The album received a mixed critical reaction at first, but it gained acclaim in subsequent years and has a cult following. The songs "Counting Out Time" and "The Carpet Crawlers" were released as singles in the UK in 1974 and 1975, respectively; both failed to chart. A single of "The Lamb Lies Down on Broadway" was released in the US. Genesis promoted the album with their 1974–75 tour across North America and Europe, playing the album in its entirety. The album reached Gold certification in the UK and the US. The album was remastered in 1994 and 2007, the latter as part of the Genesis 1970–1975 box set which contains a 5.1 surround sound mix and bonus material.
+The Lamb Lies Down on Broadway is the sixth studio album by the English progressive rock band Genesis. It was released as a double album on 22 November 1974 by Charisma Records and is their last to feature the lead vocalist Peter Gabriel. It reached No. 10 on the UK Albums Chart and No. 41 on the US Billboard 200.
+After deciding to produce a concept album with a story devised by Gabriel about Rael, a Puerto Rican youth from New York City who is taken on a journey of self-discovery, Genesis worked on new material at Headley Grange for three months. The album was marked by increased tensions within the band as Gabriel, who insisted on writing all of the lyrics, temporarily left to work with filmmaker William Friedkin and needed time to be with his family. Most of the songs were developed by the rest of the band through jam sessions and were put down at Glaspant Manor in Wales using a mobile studio.
+The Lamb Lies Down on Broadway echoed the format of Genesis's debut album From Genesis to Revelation: a concept album with Christian themes which interweaves concise pop tunes centered around Gabriel's vocals and brief instrumental interludes, with most of the intrumental pieces not being acknowledged in the track list. The music and lyrics also make references to Genesis's early works and early influences. 
+The album received mixed reviews at first, and was the first Genesis album which failed to outsell its predecessors, but gained acclaim in subsequent years and has a cult following. "Counting Out Time" and "The Carpet Crawlers" were released as singles in the UK in 1974 and 1975; both failed to chart. A single of "The Lamb Lies Down on Broadway" was released in the US. Genesis promoted the album with their 1974–75 tour across North America and Europe, playing the album in its entirety. The album reached Gold certification in the UK and the US. The album was remastered in 1994 and 2007, the latter as part of the Genesis 1970–1975 box set which contains a 5.1 surround sound mix and bonus material.
+
+
     
     
 
@@ -55,13 +58,37 @@ The album received a mixed critical reaction at first, but it gained acclaim in 
 23. It
 
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/the-lamb-lies-down-on-broadway-remastered-2008/1418306248" >}}<br>
+{{< applemusic url="https://music.apple.com/gb/album/a-re-invention-of-the-lamb-lies-down-on-broadway/1699101080" >}}<br>
 
 
 ## Videos
-### Genesis   The Lamb Lies Down On Broadway Full Remastered Album 1974
-{{< youtube id="IlGnv_Mxnko" title="Genesis   The Lamb Lies Down On Broadway Full Remastered Album 1974" >}}<br>
+### Genesis - The Lamb Lies Down On Broadway (Official Audio)
+{{< youtube id="hioAbdhfN_w" title="Genesis - The Lamb Lies Down On Broadway (Official Audio)" >}}<br>
+### More Videos
 
+- [Genesis - Fly On A Windshield (Official Audio)](https://www.youtube.com/watch?v=G3cnH_kvt58)
+- [Genesis - Broadway Melody Of 1974 (Official Audio)](https://www.youtube.com/watch?v=uBHYnovb14g)
+- [Genesis - Cuckoo Cocoon (Official Audio)](https://www.youtube.com/watch?v=GdNZWaG4eaI)
+- [Genesis - In The Cage (Official Audio)](https://www.youtube.com/watch?v=6X57rw5cw3M)
+- [Genesis - The Grand Parade Of Lifeless Packaging (Official Audio)](https://www.youtube.com/watch?v=bXTb2dNMurQ)
+- [Genesis - Back In NYC (Official Audio)](https://www.youtube.com/watch?v=AH24Ms4NyTY)
+- [Genesis - Hairless Heart (Official Audio)](https://www.youtube.com/watch?v=8SG6snW7mRk)
+- [Genesis - Counting Out Time (Official Audio)](https://www.youtube.com/watch?v=Z9CMOMgPb00)
+- [Genesis - Carpet Crawlers (Official Audio)](https://www.youtube.com/watch?v=BN1pIzq3PQI)
+- [Genesis - The Chamber Of 32 Doors (Official Audio)](https://www.youtube.com/watch?v=8yO91-fEa4k)
+- [Genesis - Lilywhite Lilith (Official Audio)](https://www.youtube.com/watch?v=3vUfDsYLcpo)
+- [Genesis - The Waiting Room (Official Audio)](https://www.youtube.com/watch?v=24wXJ6e4Ll0)
+- [Genesis - Anyway (Official Audio)](https://www.youtube.com/watch?v=BLz356JIBcM)
+- [Genesis - Here Comes The Supernatural Anaesthetist (Official Audio)](https://www.youtube.com/watch?v=GowZdTaKLL8)
+- [Genesis - The Lamia (Official Audio)](https://www.youtube.com/watch?v=mBuVlOVJUYI)
+- [Genesis - Silent Sorrow In Empty Boats (Official Audio)](https://www.youtube.com/watch?v=dOMGiwtovi4)
+- [Genesis - The Colony Of Slippermen (Official Audio)](https://www.youtube.com/watch?v=cMOX_HtBLDI)
+- [Genesis - Ravine (Official Audio)](https://www.youtube.com/watch?v=xbfuOZqqopo)
+- [Genesis - The Light Dies Down On Broadway (Official Audio)](https://www.youtube.com/watch?v=gUom79Jo3As)
+- [Genesis - Riding The Scree (Official Audio)](https://www.youtube.com/watch?v=3XL8RXG-QeE)
+- [Genesis - In The Rapids (Official Audio)](https://www.youtube.com/watch?v=koxbP5LIJTU)
+- [Genesis - It (Official Audio)](https://www.youtube.com/watch?v=RUHnazM8-Xg)
+- [Genesis - The Lamb Lies Down On Broadway (Official Audio)](https://www.youtube.com/watch?v=hioAbdhfN_w)
 
 ## Release Images
 {{< imageGrid >}}

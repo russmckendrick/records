@@ -16,11 +16,11 @@ additional_images:
     - "https://i.discogs.com/Azkw4f62ry3aQMnF8CPdPo3EA9ahGb3gxR_Oxk3_gHE/rs:fit/g:sm/q:90/h:594/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYyNDI5/NjMtMTYyMTkwMTcx/MS04NzUyLmpwZWc.jpeg"
     - "https://i.discogs.com/QXa1Rg7nY8GAL4l819efmh-rXGbZFs6N2Yi6WcFV-Wg/rs:fit/g:sm/q:90/h:594/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYyNDI5/NjMtMTYyMTkwMTcx/MS00OTkyLmpwZWc.jpeg"
     - "https://i.discogs.com/02kh3oU08hkKIdhPSu5Efk2P279wOpJnsi9JmcQLxWE/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYyNDI5/NjMtMTYyMTkwMTcx/Mi04NzA5LnBuZw.jpeg"
-    - "https://i.discogs.com/adPNHxuh5-vI_XjwK0k7d4cvHwDPKdHSn94rDc28bhE/rs:fit/g:sm/q:90/h:615/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYyNDI5/NjMtMTYyMTkwMTcx/My02MjYzLmpwZWc.jpeg"
+    - "https://i.discogs.com/Hakmq31SD5ckbZ7-moUrNV8p5dDoxZYEjHzYRyzDHf4/rs:fit/g:sm/q:90/h:600/w:584/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYyNDI5/NjMtMTYyMTkwMTcx/My02MjYzLmpwZWc.jpeg"
     - "https://i.discogs.com/tyo94rpwTTcW3lFHYzvHrpihBOv7JtOai_6ECQ480Fo/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYyNDI5/NjMtMTYyMTkwMTcx/NC0yNjQ2LmpwZWc.jpeg"
-    - "https://i.discogs.com/4aPkeRLndaQuXGfoaX0mvkqFkSwkLUKaXeUlg_nCUtk/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYyNDI5/NjMtMTYyMTkwMTcx/NC03MTMyLmpwZWc.jpeg"
-    - "https://i.discogs.com/VaikvQpe6X5zurXctasuEB4ujGW4Rx52d0MHGghZ2u4/rs:fit/g:sm/q:90/h:615/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYyNDI5/NjMtMTYyMTkwMTcx/NS0yMDAyLmpwZWc.jpeg"
-    - "https://i.discogs.com/_c8oyOQ5QSK2gQPeIYMzkX4HYhVS2EOPXQSl9MtI3U8/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYyNDI5/NjMtMTYyMTkwMTcx/NS00NjA3LmpwZWc.jpeg"
+    - "https://i.discogs.com/qE0937gHPszFb7qRYmMshQ82XKDG6zmM4emU5Pg8EUY/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYyNDI5/NjMtMTYyMTkwMTcx/NC03MTMyLmpwZWc.jpeg"
+    - "https://i.discogs.com/xBdJFLUEOh9_BZNQImE7j6S6oEbG7I91D3i8_LSjdnY/rs:fit/g:sm/q:90/h:600/w:584/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYyNDI5/NjMtMTYyMTkwMTcx/NS0yMDAyLmpwZWc.jpeg"
+    - "https://i.discogs.com/9QPEpnsHa64foAnnxZ-5Ijeu89Td_NXnUXtmlLO_u3s/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYyNDI5/NjMtMTYyMTkwMTcx/NS00NjA3LmpwZWc.jpeg"
 genres: ["Rock", "Folk, World, & Country", "Stage & Screen"]
 styles: ["Acoustic", "MPB", "Soundtrack"]
 ---

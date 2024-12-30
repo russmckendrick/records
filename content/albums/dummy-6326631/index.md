@@ -13,12 +13,16 @@ cover:
     alt: "Dummy by Portishead"
     caption: "Dummy by Portishead"
 additional_images:
-    - "https://i.discogs.com/xEZWs5h88STChFqw2Yjh1ADdM5RLTMP07BJyFLAJ5Uc/rs:fit/g:sm/q:90/h:607/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYzMjY2/MzEtMTQxODI1NjA2/NS01NDA4LmpwZWc.jpeg"
+    - "https://i.discogs.com/0OSOrIbtXaeGgwx_OQwyTDaki8KwNGaJ3rXdy41GhyI/rs:fit/g:sm/q:90/h:600/w:592/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYzMjY2/MzEtMTQxODI1NjA2/NS01NDA4LmpwZWc.jpeg"
 genres: ["Electronic"]
 styles: ["Trip Hop", "Downtempo"]
 ---
 
-Portishead’s Geoff Barrow hates the “trip-hop” tag that’s stuck fast to his band since this outstanding debut. You can see his point: a record as compellingly discomfiting as <i>Dummy</i> seems at odds with a movement that spawned multiple chill-out albums. Its noir, precisely layered sound—tranquilized hip-hop beats, haunted strings, and tortured guitar lines—is given soul by Beth Gibbons’s voice. Bruised, elegant, and confessional, she suggests a faded actress spilling her heart into a dressing room mirror on the exquisitely sad “Sour Times” and “Glory Box”.
+<b>100 Best Albums</b> Few debuts have arrived as distinct and fully formed as Portishead’s 1994 debut, <i>Dummy</i>. Running at just under 50 minutes, the album’s 11 tracks are compact yet imaginatively spacious, a downtempo template for the eerie and disquieting sound that would go on to become known as trip-hop. Released amid the macho Britpop posturing of Oasis and Blur, <i>Dummy</i> lurched like something out of the depths. Named after a 1970s British TV drama about a deaf woman who becomes a prostitute, the record is replete with turntable scratches, shuddering drums and scrapes of fragmented guitar, all of it anchored by vocalist Beth Gibbons’ crystalline falsetto that typically sings not of love or joy, but of “the blackness, the darkness, forever” in “Wandering Star”.
+
+When the members of Portishead first met in 1991, there were few hints as to the type of music they’d go on to make. Comprised of the 26-year-old West Country singer Gibbons, a ponytailed 19-year-old hip-hop fanatic named Geoff Barrow and 34-year-old jazz session guitarist Adrian Utley, the trio came together at the height of the British acid rave scene to make tracks squarely aimed at the anxiety spiral of a comedown.
+
+Based in Bristol, Portishead followed in the footsteps of Massive Attack, the local purveyors of mood music. But while Massive Attack’s music tended towards heart-soaring crescendos, Portishead’s songs lived in the tension before release. Standout tracks like “Sour Times”, “Wandering Star” and “Glory Box” lull the listener into a trance of cinematic string swells, crisp drum grooves and Gibbons’ velvet vocals. It’s subtle, enduring work that has since become so ubiquitous it has birthed imitations from artists like Morcheeba, Mono and Sneaker Pimps, and even led <i>Dummy</i> to be miscategorised as background, pacifying music. But don’t be fooled: This is a stylish album that luxuriates in discomfort—a finely wrought debut that’s as capable of soothing the listener with its warm melodies as it is of jarring them with its dark sonic palette. <i>Dummy</i> is a record for night-dwellers, everywhere and always.
         
         
     
@@ -41,19 +45,23 @@ Portishead’s Geoff Barrow hates the “trip-hop” tag that’s stuck fast to 
 
 
 ## Videos
-### Portishead - Numb (Official Video)
-{{< youtube id="Z7If6GODLFc" title="Portishead - Numb (Official Video)" >}}<br>
+### Mysterons
+{{< youtube id="slDNOtOQ8oA" title="Mysterons" >}}<br>
 ### More Videos
 
-- [Mysterons](https://www.youtube.com/watch?v=slDNOtOQ8oA)
 - [Sour Times](https://www.youtube.com/watch?v=VoSoZyiHZ6o)
 - [Strangers](https://www.youtube.com/watch?v=wCAURNnKqFo)
 - [It Could Be Sweet](https://www.youtube.com/watch?v=Aw8GucJ4f7E)
 - [Wandering Star](https://www.youtube.com/watch?v=8T0cRt8efsQ)
 - [It's A Fire](https://www.youtube.com/watch?v=selAvZE6lp4)
+- [Numb](https://www.youtube.com/watch?v=mfw7oAGxq8Q)
 - [Roads](https://www.youtube.com/watch?v=7nxWP9BhI7w)
 - [Pedestal](https://www.youtube.com/watch?v=6zexKiOafjk)
 - [Biscuit](https://www.youtube.com/watch?v=FRntBOQsNYc)
+- [Glory Box](https://www.youtube.com/watch?v=c417rIku6Iw)
+- [Portishead - Numb (Official Video)](https://www.youtube.com/watch?v=Z7If6GODLFc)
+- [Portishead - Glory Box - Remastered](https://www.youtube.com/watch?v=yAKX51r7erw)
+- [Portishead - Glory Box](https://www.youtube.com/watch?v=4qQyUi4zfDs)
 
 ## Release Images
 {{< imageGrid >}}

@@ -13,11 +13,18 @@ cover:
     alt: "Fantasy by M83"
     caption: "Fantasy by M83"
 additional_images:
-    - "https://i.discogs.com/cCU5rSdc18awdgxIEE2IGTjLYcr8MgNEdOri4AlKy0M/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NDQ5/NDI3LTE2NzkwNTc2/NTgtNzI5Ny5qcGVn.jpeg"
-    - "https://i.discogs.com/vosVsZAajcw3AJRi9hpGLO7x4Jg5qtHJYYcFQOIr6Uw/rs:fit/g:sm/q:90/h:285/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NDQ5/NDI3LTE2NzkwODY4/NDMtMzQwNS5qcGVn.jpeg"
-    - "https://i.discogs.com/RaGWGDPphsbTUSp3yeTeXMGbyH9gNrhIbJml56lGmWA/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NDQ5/NDI3LTE2NzkwODY4/NDEtNDUyMS5qcGVn.jpeg"
-    - "https://i.discogs.com/J-HwtPxH7UMKK2lJEL3_rA01YEvDCwav8rEXesyDBdE/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NDQ5/NDI3LTE2NzkwNTc2/NTgtMzM4MS5qcGVn.jpeg"
-    - "https://i.discogs.com/9WDRAq1sUfwp8iIiIBcnrivTFJ2GquAWkg_5eL_615Q/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NDQ5/NDI3LTE2NzkwNTc2/NTgtMjMxMy5qcGVn.jpeg"
+    - "https://i.discogs.com/GsRGXlBn24Jk2dmw6ssQK5jHsemxkwzex_SIqXkPEnw/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NDQ5/NDI3LTE3MDg3ODM1/ODQtMTg5NS5qcGVn.jpeg"
+    - "https://i.discogs.com/UObg8WZcf1R1qq2r-U_bcgOlSmcCKrkaBhra9hKQTGU/rs:fit/g:sm/q:90/h:306/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NDQ5/NDI3LTE3MDg3ODM1/ODQtNDQxNC5qcGVn.jpeg"
+    - "https://i.discogs.com/xYLvJxKsPHbU6CYHwodLhjD9TMj9yajPsU4mgqms4Ac/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NDQ5/NDI3LTE3MDg3ODM1/ODUtNjAwNS5qcGVn.jpeg"
+    - "https://i.discogs.com/YEHhyt8TSh9rJGxzYp3CiiIceLIUx8bwR-PkfVB0eFI/rs:fit/g:sm/q:90/h:600/w:589/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NDQ5/NDI3LTE3MDg3ODM1/ODQtMTM1MS5qcGVn.jpeg"
+    - "https://i.discogs.com/GxrIYle2n0cEfrZtyqpzXMIjh04JZNgQ0NbwiGxkfwc/rs:fit/g:sm/q:90/h:600/w:577/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NDQ5/NDI3LTE3MDg3ODM3/MzQtMzg0OS5qcGVn.jpeg"
+    - "https://i.discogs.com/bzpj-8XWrklJIyYSJk--qnPN082pQJU1XMDPD-LTjvw/rs:fit/g:sm/q:90/h:600/w:450/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NDQ5/NDI3LTE3MDg3ODM1/ODUtMTA4Ny5qcGVn.jpeg"
+    - "https://i.discogs.com/pzIaDabuiCSdvdqRqE3EHep-pLZOVX6d-dLcxIe-iCA/rs:fit/g:sm/q:90/h:600/w:454/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NDQ5/NDI3LTE3MDg3ODM1/ODQtNjQ2MS5qcGVn.jpeg"
+    - "https://i.discogs.com/qMVow6u2R3ydNL5hoDW0awmJl9S_TIWACH33ZH-Q5qo/rs:fit/g:sm/q:90/h:600/w:454/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NDQ5/NDI3LTE3MDg3ODM1/ODQtNzQ3MC5qcGVn.jpeg"
+    - "https://i.discogs.com/PmdoBi0TLiQSRWWT_-zos5fsrgBSaLDkSkwelz4ECuo/rs:fit/g:sm/q:90/h:600/w:457/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NDQ5/NDI3LTE3MDg3ODM1/ODQtODUyOS5qcGVn.jpeg"
+    - "https://i.discogs.com/PiEVy2OhMoSPKM-aAKrbh7TC7tNfPKLtU96_nueyiXI/rs:fit/g:sm/q:90/h:589/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NDQ5/NDI3LTE3MDg3ODM1/ODQtNTI5NC5qcGVn.jpeg"
+    - "https://i.discogs.com/ddFkcYzkYPppgozz_Ih3-nwPMaSPUeG10RGXZMLvTOU/rs:fit/g:sm/q:90/h:592/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NDQ5/NDI3LTE3MDg3ODM1/ODQtODk0MS5qcGVn.jpeg"
+    - "https://i.discogs.com/NIQtfSkdfMyl-RzVuULpehaN91iK4uG-a_xAYuz3UNk/rs:fit/g:sm/q:90/h:505/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NDQ5/NDI3LTE3MDg3ODM1/ODQtODU4MC5qcGVn.jpeg"
 genres: ["Electronic", "Rock"]
 styles: ["Synth-pop", "Ambient", "Indie Rock"]
 ---
@@ -48,8 +55,8 @@ In an interview about his 2023 album of melancholy synth-pop, <i>Fantasy</i>, An
 
 
 ## Videos
-### M83 - 'Oceans Niagara' (Official Music Video)
-{{< youtube id="ryFV9dORPPw" title="M83 - 'Oceans Niagara' (Official Music Video)" >}}<br>
+### M83 - 'Amnesia' (Official Audio)
+{{< youtube id="6zNqhzl2Qv0" title="M83 - 'Amnesia' (Official Audio)" >}}<br>
 ### More Videos
 
 - [M83 - 'Fantasy' (Official Audio)](https://www.youtube.com/watch?v=vmdwiWPrJNE)
@@ -58,7 +65,6 @@ In an interview about his 2023 album of melancholy synth-pop, <i>Fantasy</i>, An
 - [M83 - 'Dismemberment Bureau' (Official Audio)](https://www.youtube.com/watch?v=yMsU1k9tlWA)
 - [M83 - 'Laura' (Official Audio)](https://www.youtube.com/watch?v=lZG2c824nrE)
 - [M83 - 'Sunny Boy' (Official Audio)](https://www.youtube.com/watch?v=lzbO0_Bk0ac)
-- [M83 - 'Amnesia' (Official Audio)](https://www.youtube.com/watch?v=6zNqhzl2Qv0)
 - [M83 - 'Sunny Boy Part 2' (Official Audio)](https://www.youtube.com/watch?v=T62NBKtEhlU)
 - [M83 - 'Water Deep' (Official Audio)](https://www.youtube.com/watch?v=ZKBtPvP0BCc)
 - [M83 - 'Us And The Rest' (Official Audio)](https://www.youtube.com/watch?v=SBX5LsazDho)
@@ -74,5 +80,5 @@ In an interview about his 2023 album of melancholy synth-pop, <i>Fantasy</i>, An
 | Format         | Vinyl 2× LP Album Limited Edition (Blue Marble) |
 | Label          | Other Suns |
 | Catalog Number | OS1 LP |
-| Notes | tracks listed 1-13 on sleeve |
+| Notes | tracks listed 1-13 on sleeve  ℗ & © 2023 M83 Recording Inc. exclusively distributed by Virgin Records France excluding North America. All rights reserved. |
 | Discogs URL    | [M83 - Fantasy](https://www.discogs.com/release/26449427-M83-Fantasy) |

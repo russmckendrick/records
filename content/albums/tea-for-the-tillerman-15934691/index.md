@@ -43,17 +43,15 @@ styles: ["Pop Rock", "Folk Rock"]
 10. Father And Son
 11. Tea For The Tillerman
 
-
-## Spotify
-{{< spotify type="album" id="44VxbAytHpVi3Rq8hRhild" width="100%" height="500" >}}<br>
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/tea-for-the-tillerman/1513608539" >}}<br>
 
 
 ## Videos
-### But I Might Die Tonight
-{{< youtube id="N_lge3bASow" title="But I Might Die Tonight" >}}<br>
+### Yusuf / Cat Stevens - Where Do The Children Play?
+{{< youtube id="nBCJhNiKhFE" title="Yusuf / Cat Stevens - Where Do The Children Play?" >}}<br>
 ### More Videos
 
-- [Yusuf / Cat Stevens - Where Do The Children Play?](https://www.youtube.com/watch?v=nBCJhNiKhFE)
 - [Hard Headed Woman](https://www.youtube.com/watch?v=0sZrFf-sgKs)
 - [Wild World](https://www.youtube.com/watch?v=kLv2csYOMdM)
 - [Sad Lisa](https://www.youtube.com/watch?v=ByCit09B2Ag)
@@ -69,8 +67,8 @@ styles: ["Pop Rock", "Folk Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl LP Album |
+| Format         | Vinyl LP Album (Half-Speed) |
 | Label          | Island Records |
 | Catalog Number | 0888695 |
 | Notes | Re-recording of the 1970 album. with 4 sides insert with lyrics and credits  Tracks A1, B1, and B3 to B6 published by Cat Music, administered by BMG. Tracks A2 to A5, B2 published by Firecat Music, administered by BMG.  Recorded in JI Studios, Dubai, Studio La Fabrique, Saint-Remy de Provence, RMV Studio, Stockholm.  ℗ & © 2020 Cat-O-Log Records under exclusive license to UMC, A Universal Music Company. Made in Germany. |
-| Discogs URL    | [Yusuf Islam - Tea For The Tillerman²](https://www.discogs.com/release/15934691-Yusuf-Cat-Stevens-Tea-For-The-Tillerman%C2%B2) |
+| Discogs URL    | [Yusuf Islam - Tea For The Tillerman²](https://www.discogs.com/release/15934691-Yusuf-Cat-Stevens-Tea-For-The-Tillerman²) |

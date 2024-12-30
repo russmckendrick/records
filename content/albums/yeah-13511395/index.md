@@ -12,7 +12,7 @@ cover:
     alt: "Yeah by The Wannadies"
     caption: "Yeah by The Wannadies"
 additional_images:
-    - "https://i.discogs.com/pJEH-Jl_rmlDBcoiZGS6voXqYI0NgYWTLfqe8OTP69I/rs:fit/g:sm/q:90/h:602/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNTEx/Mzk1LTE1NTY4NzU5/MTEtMjE4NC5qcGVn.jpeg"
+    - "https://i.discogs.com/by6ByvtPD8LIlHa93DkGYPqlYhrmLXxlNHMGbqGRJIQ/rs:fit/g:sm/q:90/h:600/w:597/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNTEx/Mzk1LTE1NTY4NzU5/MTEtMjE4NC5qcGVn.jpeg"
     - "https://i.discogs.com/U3OM8heKkRmzRXmMzusvHvedHd_3bkFcv0nXTgCCaCU/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNTEx/Mzk1LTE1NTY4NzU5/MTYtNTMwMy5qcGVn.jpeg"
     - "https://i.discogs.com/_zaXx5zt0bG9Ul-uj5UI38Pri8VdW-0TbE9kb-_HcV8/rs:fit/g:sm/q:90/h:450/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNTEx/Mzk1LTE1NTY4NzU5/MjItMTg2Ni5qcGVn.jpeg"
     - "https://i.discogs.com/88VD-FXhoplSW0PDsGQj-dIO_9sGpzi5kQxq9Aa-ylM/rs:fit/g:sm/q:90/h:375/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNTEx/Mzk1LTE1NTY4NzU5/MjgtODY4OS5qcGVn.jpeg"

@@ -17,6 +17,9 @@ genres: ["Rock"]
 styles: ["Prog Rock"]
 ---
 
+It Leads to This is the fifteenth studio album by British progressive rock band The Pineapple Thief. It was released on 9 February 2024 through Kscope.
+    
+    
 
 
 ## Tracklisting
@@ -33,7 +36,26 @@ styles: ["Prog Rock"]
 {{< applemusic url="https://music.apple.com/gb/album/it-leads-to-this/1715478054" >}}<br>
 
 
+## Videos
+### Put It Right
+{{< youtube id="f3tBW7Pl6R0" title="Put It Right" >}}<br>
+### More Videos
 
+- [Rubicon](https://www.youtube.com/watch?v=s-O8zyAEEUQ)
+- [The Pineapple Thief - It Leads to This](https://www.youtube.com/watch?v=lbTx2GzAKkc)
+- [The Pineapple Thief  -  The Frost  - Official Video (taken from It Leads To This)](https://www.youtube.com/watch?v=D4QTrxBDAIM)
+- [All That's Left](https://www.youtube.com/watch?v=78GXGNIHE6M)
+- [Now It's Yours](https://www.youtube.com/watch?v=d8qMOc4dN6c)
+- [The Pineapple Thief - Every Trace Of Us (Lyric Video)](https://www.youtube.com/watch?v=xzZxavCIOng)
+- [To Forget](https://www.youtube.com/watch?v=irt9U0zA8eo)
+- [Put It Right](https://www.youtube.com/watch?v=f3tBW7Pl6R0)
+- [Rubicon](https://www.youtube.com/watch?v=s-O8zyAEEUQ)
+- [The Pineapple Thief - It Leads to This](https://www.youtube.com/watch?v=lbTx2GzAKkc)
+- [The Pineapple Thief  -  The Frost  - Official Video (taken from It Leads To This)](https://www.youtube.com/watch?v=D4QTrxBDAIM)
+- [All That's Left](https://www.youtube.com/watch?v=78GXGNIHE6M)
+- [Now It's Yours](https://www.youtube.com/watch?v=d8qMOc4dN6c)
+- [The Pineapple Thief - Every Trace Of Us (Lyric Video)](https://www.youtube.com/watch?v=xzZxavCIOng)
+- [To Forget](https://www.youtube.com/watch?v=irt9U0zA8eo)
 
 ## Release Images
 {{< imageGrid >}}
@@ -41,6 +63,7 @@ styles: ["Prog Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
+| Wikipedia URL | https://en.wikipedia.org/wiki/It_Leads_to_This |
 | Format         | Vinyl LP Album Limited Edition Stereo (Brick Red Vinyl) |
 | Label          | Kscope |
 | Catalog Number | KSCOPE1219 |

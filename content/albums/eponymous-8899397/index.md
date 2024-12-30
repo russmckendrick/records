@@ -22,10 +22,12 @@ genres: ["Rock"]
 styles: ["Alternative Rock", "Pop Rock"]
 ---
 
-Eponymous is the first greatest hits album by the American alternative rock band R.E.M., released in 1988. It was their last authorized  release on I.R.S. Records, to whom they had been contracted since 1982, having just signed with Warner Bros. Records.
+Eponymous is the first greatest hits album by the American alternative rock band R.E.M., released in 1988. It was their last authorized release on I.R.S. Records, to whom they had been contracted since 1982, having just signed with Warner Bros. Records.
 Eponymous includes several alternative versions of songs, including the soundtrack contribution "Romance", which had not previously appeared on an R.E.M. record. Spanning from the initial single release of "Radio Free Europe" to the previous year's breakthrough hit album Document, Eponymous provides a fair overview of R.E.M.'s early work.
-The album features the alternate title "File Under Grain", a reference to the cover photograph. A previous album, Document, had "File Under Fire" inscribed on it, and Reckoning featured the words "File Under Water". On the reverse of the LP cover is a photograph of singer Michael Stipe with the words "They Airbrushed My Face" above his head. The photo is the senior portrait taken of Stipe while at Collinsville High School in Collinsville, Illinois. It appears in the Class of 1978 high school year book.
+The album features the alternate title "File Under Grain", a reference to the cover photograph. A previous album, Document, had "File Under Fire" inscribed on it, and Reckoning featured the words "File Under Water". On the reverse of the LP cover is a photograph of singer Michael Stipe with the words "They Airbrushed My Face" above his head. The photo is the senior portrait taken of Stipe while at Collinsville High School in Collinsville, Illinois. It appears in the Class of 1978 high school year book. The "doodles" on the front cover are the work of Stipe. He asked Tom Laune, the engineer at Ardent Studios in Memphis, Tennessee, to photocopy them and make them larger.
 Released in October 1988, just a month before R.E.M.'s Warner Bros. debut Green appeared, Eponymous reached #44 in the US and #69 in the UK.
+
+
     
     
 

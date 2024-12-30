@@ -12,16 +12,22 @@ cover:
     alt: "Upstairs At Eric's by Yazoo"
     caption: "Upstairs At Eric's by Yazoo"
 additional_images:
-    - "https://i.discogs.com/GhkWChE7Hf4J8d7wJQ3EqfGx574OZejutjOEGL__yFM/rs:fit/g:sm/q:90/h:603/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk3MjMw/LTE1Mjg1NjEwMTYt/NTg4Mi5qcGVn.jpeg"
+    - "https://i.discogs.com/LCpbmM4I3VpdZDyLVtnkz5s99FHfRjr7TCrsOHTs1eM/rs:fit/g:sm/q:90/h:600/w:596/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk3MjMw/LTE1Mjg1NjEwMTYt/NTg4Mi5qcGVn.jpeg"
     - "https://i.discogs.com/OLQXeVs9KBqCnSCmY0rQlpjbrEAZ2r7IezLjPrILlOI/rs:fit/g:sm/q:90/h:594/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk3MjMw/LTEyNjg2NTMwNzIu/anBlZw.jpeg"
-    - "https://i.discogs.com/6-US-jAdLcAbE7UUAFm980kNk86twe7Ug2BDsq5B6og/rs:fit/g:sm/q:90/h:603/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk3MjMw/LTEyNjg2NTMwNzku/anBlZw.jpeg"
-    - "https://i.discogs.com/ejrYYNTGsA2DDfxQQLXA9niiENpM886ilAIPYLFXDyo/rs:fit/g:sm/q:90/h:604/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk3MjMw/LTEyNjg2NTMwODcu/anBlZw.jpeg"
+    - "https://i.discogs.com/nIJx9pKtJbf_1BETN1tVigcgsHCzlO62ELP-7bdLLrA/rs:fit/g:sm/q:90/h:600/w:597/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk3MjMw/LTEyNjg2NTMwNzku/anBlZw.jpeg"
+    - "https://i.discogs.com/J3Idh7sGcKJfECE36bYdeTtWNtwjGZqkis2YaxoKF_o/rs:fit/g:sm/q:90/h:600/w:596/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk3MjMw/LTEyNjg2NTMwODcu/anBlZw.jpeg"
     - "https://i.discogs.com/sg8hdFsC_krSD_brf8dTHij82J1cAKy4Kn-2HF-GcZM/rs:fit/g:sm/q:90/h:583/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk3MjMw/LTEyNjg2NTMwOTQu/anBlZw.jpeg"
     - "https://i.discogs.com/xG_2-5ck5oPZ4IY4n0ei8tfjCZPVfXNJPcfTPyPGmHU/rs:fit/g:sm/q:90/h:587/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk3MjMw/LTEyNjg2NTMxMDMu/anBlZw.jpeg"
 genres: ["Electronic", "Pop"]
 styles: ["Synth-pop"]
 ---
 
+Upstairs at Eric's is the debut studio album by English synth-pop duo Yazoo (known in North America as Yaz). It was released on 20 August 1982 by Mute Records. It was produced by the band and E.C. Radcliffe, with assistance from Mute label boss Daniel Miller on some of the tracks. Named after producer Radcliffe's Blackwing Studios where the album was recorded, Upstairs at Eric's was preceded by two UK top-three singles, the ballad "Only You" and the more uptempo "Don't Go". The album reached number two on the UK Albums Chart and has been certified platinum by the British Phonographic Industry (BPI), denoting shipments in excess of 300,000 copies in the United Kingdom.
+Against the group's wishes, "Situation", originally the B-side of "Only You" in the UK and Europe, was released as the band's debut single in the United States and Canada, where a remixed version of the song by DJ François Kevorkian reached number one on Billboard's Club Play Singles chart. "Situation" peaked at number 73 on the US Billboard Hot 100, while it reached the top 40 in Canada, peaking at number 31. The North American version of the album subsequently replaced the remixed version of "Situation" for the UK album track "Tuesday". Upstairs at Eric's reached number 92 on the Billboard 200 in the US and number 49 on RPM's albums chart in Canada.
+
+
+    
+    
 
 
 ## Tracklisting
@@ -38,37 +44,10 @@ styles: ["Synth-pop"]
 11. Bring Your Love Down (Didn't I) (4:40)
 
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/upstairs-at-erics/1193733398" >}}<br>
+{{< applemusic url="https://music.apple.com/gb/album/upstairs-at-erics/1436832956" >}}<br>
 
 
-## Videos
-### Yaz - Upstairs At Eric's (1982) Full Album
-{{< youtube id="6J5CIU9AiwA" title="Yaz - Upstairs At Eric's (1982) Full Album" >}}<br>
-### More Videos
 
-- [Yazoo - Upstairs At Eric's   Full Album](https://www.youtube.com/watch?v=I2KddN4qQNY)
-- [Yazoo - Don't Go (Official HD Video)](https://www.youtube.com/watch?v=_sQGwDeambg)
-- [Yaz - Situation (Official Audio)](https://www.youtube.com/watch?v=ysmVlaw36L0)
-- [In My Room](https://www.youtube.com/watch?v=iMkWq7gdfu8)
-- [Yazoo - Only You (Official Music Video)](https://www.youtube.com/watch?v=a4g5MeonGYM)
-- [In My Room](https://www.youtube.com/watch?v=xaVjNrXqF0U)
-- [Yazoo ▪️ Upstairs At Eric's [1982]](https://www.youtube.com/watch?v=AhRX8Fqs39A)
-- [Yazoo - Nobody's Diary (Official Video)](https://www.youtube.com/watch?v=1qq7jTPkjVg)
-- [Goodbye Seventies](https://www.youtube.com/watch?v=_V4zNeXendQ)
-- [YAZOO: UPSTAIRS AT ERIC'S - 40 years (1982) Synthpop (Vince Clarke / Alison Moyet) 80s](https://www.youtube.com/watch?v=nTPnyo0E4QQ)
-- [Yaz / Upstairs At Eric's / In My Room  (HD Audio)](https://www.youtube.com/watch?v=iF4PUOTu0y4)
-- [Winter Kills](https://www.youtube.com/watch?v=77t2V9-UyHg)
-- [YAZOO - Only you [Upstairs at Eric's Remake]](https://www.youtube.com/watch?v=4W35VtdCMyA)
-- [Bring Your Love Down (Didn't I)](https://www.youtube.com/watch?v=j0XfOld-AAc)
-- [Yazoo - Only You(1982)(HQ)(Audio)/only you - yazoo(Upstairs At Erics)](https://www.youtube.com/watch?v=9pbGNskws_Q)
-- [Yazoo - Upstairs At Eric's - 08 - Tuesday (1982) (HQ)](https://www.youtube.com/watch?v=6vnw_her0HE)
-- [Don't Go](https://www.youtube.com/watch?v=w0IQ2Efylu4)
-- [Too Pieces](https://www.youtube.com/watch?v=4iDM9Ng_r8k)
-- [Bad Connection](https://www.youtube.com/watch?v=u-MBDdf6h1c)
-- [I Before E Except After C](https://www.youtube.com/watch?v=Z9QRjS-cX3g)
-- [Midnight](https://www.youtube.com/watch?v=jKnsgE5eTHA)
-- [Only You](https://www.youtube.com/watch?v=NvSzjPee89w)
-- [Situation](https://www.youtube.com/watch?v=6wgdqEHD1Y0)
 
 ## Release Images
 {{< imageGrid >}}
@@ -76,6 +55,7 @@ styles: ["Synth-pop"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
+| Wikipedia URL | https://en.wikipedia.org/wiki/Upstairs_at_Eric%27s |
 | Format         | Vinyl LP Album (Musitech Plating) |
 | Label          | Mute |
 | Catalog Number | STUMM 7 |

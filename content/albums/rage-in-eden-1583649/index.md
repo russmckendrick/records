@@ -16,12 +16,14 @@ additional_images:
     - "https://i.discogs.com/Ocr8gvYe6ZrccFgIBBXYaRA5ce_D3OvM9daWO0MTxWw/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1ODM2/NDktMTU4Mzg2MTY2/NC0yNDA4LmpwZWc.jpeg"
     - "https://i.discogs.com/VXHfNWNJ-kMUoSKukwjmE1gxD2bkAqofvyTJefX9PS0/rs:fit/g:sm/q:90/h:590/w:590/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1ODM2/NDktMTI4MTAwMzYx/My5qcGVn.jpeg"
     - "https://i.discogs.com/Dj0lNCfrB4ljwYU5g5m-CUgzgZnnvOqjOpliCY41eEk/rs:fit/g:sm/q:90/h:590/w:590/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1ODM2/NDktMTI4MTAwMzYy/Ni5qcGVn.jpeg"
-    - "https://i.discogs.com/r4Dyu658dpt2RptSQ5cOxG7FWPNlzuG-5H1GrCVO_dU/rs:fit/g:sm/q:90/h:795/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1ODM2/NDktMTI0ODc5NjYw/OS5qcGVn.jpeg"
+    - "https://i.discogs.com/KT_i4eGXELJ30-O8ceYmnqFTDyLWUqwZT43WVrhSIXs/rs:fit/g:sm/q:90/h:600/w:452/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1ODM2/NDktMTI0ODc5NjYw/OS5qcGVn.jpeg"
 genres: ["Electronic"]
 styles: ["New Wave", "Synth-pop"]
 ---
 
-Rage in Eden is the fifth album by the British new wave band Ultravox. It was released in 1981 on Chrysalis. The album reached #4 in the UK album charts and was certified Gold by the BPI for sales in excess of 100,000 copies.
+Rage in Eden is the fifth studio album by British new wave band Ultravox, released on 11 September 1981 through Chrysalis Records. The album reached #4 in the UK album charts and was certified Gold by the BPI for sales in excess of 100,000 copies.
+
+
     
     
 
@@ -38,7 +40,7 @@ Rage in Eden is the fifth album by the British new wave band Ultravox. It was re
 9. Your Name (Has Slipped My Mind Again) (4:38)
 
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/rage-in-eden-definitive-edition/1633071500" >}}<br>
+{{< applemusic url="https://music.apple.com/gb/album/rage-in-eden-deluxe-edition/1631045728" >}}<br>
 
 
 ## Videos
@@ -46,11 +48,14 @@ Rage in Eden is the fifth album by the British new wave band Ultravox. It was re
 {{< youtube id="UaN5JqUSTQw" title="Ultravox - Rage In Eden - 1981" >}}<br>
 ### More Videos
 
-- [ULTRAVOX – Rage In Eden – 1981 – Vinyl – Full album](https://www.youtube.com/watch?v=GnrDUCRB80A)
 - [ULTRAVOX - We Stand Alone (1981)](https://www.youtube.com/watch?v=A0cCEGo5CqM)
-- [Ultravox - The Thin Wall (Official Music Video) [HD Remaster]](https://www.youtube.com/watch?v=yYGx00779f8)
 - [Ultravox - The Voice (1981) (HD)](https://www.youtube.com/watch?v=MXyxsp5zlCo)
 - [Ultravox - I Remember (Death in the Afternoon)](https://www.youtube.com/watch?v=wbZWIisWKBg)
+- [Ultravox - Rage In Eden - 1981](https://www.youtube.com/watch?v=UaN5JqUSTQw)
+- [ULTRAVOX - We Stand Alone (1981)](https://www.youtube.com/watch?v=A0cCEGo5CqM)
+- [Ultravox - The Voice (1981) (HD)](https://www.youtube.com/watch?v=MXyxsp5zlCo)
+- [Ultravox - I Remember (Death in the Afternoon)](https://www.youtube.com/watch?v=wbZWIisWKBg)
+- [ULTRAVOX – Rage In Eden – 1981 – Vinyl – Full album](https://www.youtube.com/watch?v=GnrDUCRB80A)
 
 ## Release Images
 {{< imageGrid >}}

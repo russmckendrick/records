@@ -23,13 +23,13 @@ additional_images:
     - "https://i.discogs.com/vj-opfjh0yAVghrA9CA7A-A8MXSS8k-NBXGAXtVG9k8/rs:fit/g:sm/q:90/h:591/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk1Nzk3/NzAtMTQ4OTY4OTM4/My03OTg3LnBuZw.jpeg"
     - "https://i.discogs.com/ZZTcGH_31X_ZdcburxwOZ8-Ohp5iZ0AiSscMmoR_xxc/rs:fit/g:sm/q:90/h:591/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk1Nzk3/NzAtMTQ4OTY4OTM4/Mi01Mzc5LnBuZw.jpeg"
     - "https://i.discogs.com/s5YhzRH0BnkRKDUbLqEIKicZL0wp7aieCFJPSYX6rTk/rs:fit/g:sm/q:90/h:591/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk1Nzk3/NzAtMTQ4OTY4OTM3/NC04NjA5LnBuZw.jpeg"
-    - "https://i.discogs.com/MaJTH1YZVpbT-j33YHGlrnbVAUCJ482I51smJWVROzQ/rs:fit/g:sm/q:90/h:607/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk1Nzk3/NzAtMTQ4OTY4OTIz/My04MDk3LnBuZw.jpeg"
-    - "https://i.discogs.com/3olgAPHFbZbRfwESG8AHRpelM5hXLNc258skIo8av5o/rs:fit/g:sm/q:90/h:607/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk1Nzk3/NzAtMTQ4OTY4OTI0/NC02MjU5LnBuZw.jpeg"
+    - "https://i.discogs.com/oCBA5N-RoqkV0SKGBRI8ISC1K_mbEoMOl9eIuZxPLPQ/rs:fit/g:sm/q:90/h:600/w:592/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk1Nzk3/NzAtMTQ4OTY4OTIz/My04MDk3LnBuZw.jpeg"
+    - "https://i.discogs.com/sNjCcyxqN_ee8IF6oCu3EOPw7bph-kqanROCjElzzKI/rs:fit/g:sm/q:90/h:600/w:592/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk1Nzk3/NzAtMTQ4OTY4OTI0/NC02MjU5LnBuZw.jpeg"
 genres: ["Hip Hop"]
 styles: ["Conscious"]
 ---
 
-On their final album, Q-Tip, Phife Dawg, Ali Shaheed Muhammad, and Jarobi rekindle a chemistry that endeared them to hip-hop fans worldwide. Filled with exploratory instrumental beds, creative samples, supple rhyming, and serious knock, it passes the headphone and car stereo test. “Kids…” is like a rap nerd’s fever dream, Andre 3000 and Q-Tip slaying bars. Phife—who passed away in March 2016—is the album’s scion, his roughneck style and biting humor shining through on “Black Spasmodic” and “Whateva Will Be.” “We the People” and “The Killing Season” (featuring Kanye West) show ATCQ’s ability to move minds as well as butts. <i>We got it from Here... Thank You 4 Your service</i> is not a wake or a comeback—it’s an extended visit with a long-missed friend, and a mic-dropping reminder of Tribe’s importance and influence.
+On their final album, Q-Tip, Phife Dawg, Ali Shaheed Muhammad and Jarobi rekindle a chemistry that endeared them to hip-hop fans worldwide. Filled with exploratory instrumental beds, creative samples, supple rhyming and serious knock, it passes the headphone and car stereo test. “Kids…” is like a rap nerd’s fever dream, Andre 3000 and Q-Tip slaying bars. Phife—who passed away in March 2016—is the album’s scion, his roughneck style and biting humour shining through on “Black Spasmodic” and “Whateva Will Be”. “We the People” and “The Killing Season” (featuring Kanye West) show ATCQ’s ability to move minds as well as butts. <i>We got it from Here... Thank You 4 Your service</i> is not a wake or a comeback—it’s an extended visit with a long-missed friend, and a mic-dropping reminder of Tribe’s importance and influence.
     
     
 
@@ -57,10 +57,25 @@ On their final album, Q-Tip, Phife Dawg, Ali Shaheed Muhammad, and Jarobi rekind
 
 
 ## Videos
-### Enough!!
-{{< youtube id="wMA1kP7gWS4" title="Enough!!" >}}<br>
+### FULL ALBUM We Got It From Here… Thank You 4 Your Service A Tribe Called Quest
+{{< youtube id="aewl9POdSUw" title="FULL ALBUM We Got It From Here… Thank You 4 Your Service A Tribe Called Quest" >}}<br>
 ### More Videos
 
+- [A Tribe Called Quest - The Space Program (Official Video)](https://www.youtube.com/watch?v=qTrqmNieVKI)
+- [A Tribe Called Quest - We The People.... (Official Video)](https://www.youtube.com/watch?v=vO2Su3erRIA)
+- [Whateva Will Be](https://www.youtube.com/watch?v=7HzJv7DwenE)
+- [Solid Wall of Sound](https://www.youtube.com/watch?v=L400S6Flz2I)
+- [A Tribe Called Quest - Dis Generation (Official Video)](https://www.youtube.com/watch?v=kQaSDJYwdh4)
+- [Kids...](https://www.youtube.com/watch?v=KArPmTJnYmQ)
+- [Melatonin](https://www.youtube.com/watch?v=OZmreJMSvEY)
+- [Enough!!](https://www.youtube.com/watch?v=wMA1kP7gWS4)
+- [Mobius](https://www.youtube.com/watch?v=xGZlSHszVu4)
+- [Black Spasmodic](https://www.youtube.com/watch?v=UNfBvHerzLs)
+- [The Killing Season](https://www.youtube.com/watch?v=zar75xmMkvU)
+- [Lost Somebody](https://www.youtube.com/watch?v=boQfbi-D8ag)
+- [Movin Backwards](https://www.youtube.com/watch?v=aB7AbkeauLs)
+- [Conrad Tokyo](https://www.youtube.com/watch?v=Eg2ps6KtGRI)
+- [Ego](https://www.youtube.com/watch?v=fA707YJqUUI)
 - [The Donald](https://www.youtube.com/watch?v=ReLIvQNlkLQ)
 
 ## Release Images

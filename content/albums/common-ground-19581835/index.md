@@ -15,18 +15,19 @@ additional_images:
     - "https://i.discogs.com/pIBRi7_qSc9YaIQakk_sRY2rZ6ntAJ3FU2yh_4JLDa0/rs:fit/g:sm/q:90/h:592/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NTgx/ODM1LTE2Mjc0ODE2/ODEtNzUzNi5qcGVn.jpeg"
     - "https://i.discogs.com/kDQdTOvwdlh2K3XA3UaQBQX6svQAuOfDdYzlVEsUPHI/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NTgx/ODM1LTE2Mjc0ODE2/ODItNDU0Mi5qcGVn.jpeg"
     - "https://i.discogs.com/zk11CWWhdvjRF5aRwiZOK-E3C9KJxp0qERw5Mn0Zh9g/rs:fit/g:sm/q:90/h:590/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NTgx/ODM1LTE2Mjc0ODE2/ODItNDQ2MC5qcGVn.jpeg"
-    - "https://i.discogs.com/26ui_NDGRUqUrnR83dk1NEiR8mIl84PsN2av5gLGQjI/rs:fit/g:sm/q:90/h:604/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NTgx/ODM1LTE2Mjc0ODE2/ODEtNjI2Ni5qcGVn.jpeg"
+    - "https://i.discogs.com/vB7rcgit4qbVDP420BuH1kFp-7XXOGJwiahh2HGBDI8/rs:fit/g:sm/q:90/h:600/w:595/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NTgx/ODM1LTE2Mjc0ODE2/ODEtNjI2Ni5qcGVn.jpeg"
     - "https://i.discogs.com/TEROQqVsePDxVcSkxKE0ymP0L4b3btXVBWgsu0p6sqo/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NTgx/ODM1LTE2Mjc0ODIx/NTMtMjY3Ni5qcGVn.jpeg"
     - "https://i.discogs.com/VobYaLNoEW-rzA9xIAPMy_59p85gk9xTP3D855Y5Z00/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NTgx/ODM1LTE2Mjc0ODIx/NTMtOTg2My5qcGVn.jpeg"
     - "https://i.discogs.com/dENYdg526JkVNrgDVc_nkefTFN4HXIsKzt8-vCWyaYE/rs:fit/g:sm/q:90/h:594/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NTgx/ODM1LTE2Mjc0ODE2/ODItMTYwMi5qcGVn.jpeg"
-    - "https://i.discogs.com/idn-AMoN7zV4MPDKMBzSBn17HOytT69iE14SG-kVenc/rs:fit/g:sm/q:90/h:601/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NTgx/ODM1LTE2Mjc0ODE2/ODItNzU2My5qcGVn.jpeg"
+    - "https://i.discogs.com/A6zDiY6dP2p6zPPgKv2Fjp7mtEp5PmGb6IXjKfrV_4Q/rs:fit/g:sm/q:90/h:600/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NTgx/ODM1LTE2Mjc0ODE2/ODItNzU2My5qcGVn.jpeg"
     - "https://i.discogs.com/NDa9G4sQksNU8BdCypMyz2uJwrMnxQW1rGFSkRqoCi0/rs:fit/g:sm/q:90/h:568/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NTgx/ODM1LTE2Mjc0ODE2/ODItODg1Ni5qcGVn.jpeg"
-    - "https://i.discogs.com/lJhck-wXxBQ6phJYWsj7bMZUbVFLhwdir9WKg3AAsMU/rs:fit/g:sm/q:90/h:610/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NTgx/ODM1LTE2Mjc0ODE2/ODItODAyNi5qcGVn.jpeg"
+    - "https://i.discogs.com/Inp_i-cEK0SA98lu2YhNOJayB5fXwyPHJw4fMqGsfYY/rs:fit/g:sm/q:90/h:600/w:589/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NTgx/ODM1LTE2Mjc0ODE2/ODItODAyNi5qcGVn.jpeg"
 genres: ["Rock"]
 styles: ["Prog Rock", "Symphonic Rock"]
 ---
 
-Common Ground is the thirteenth studio album by the English progressive rock band Big Big Train, released on 30 July 2021. With the departure of Dave Gregory, Rachel Hall, and Danny Manners in 2020, Common Ground is the first album release with the core four-piece lineup of Greg Spawton, David Longdon, Nick D'Virgilio, and Rikard Sjöblom. Joining the core line-up on the album are session musicians Carly Bryant, Dave Foster, and Aidan O'Rourke. Upon release it entered the UK music charts at number 31.It was elected by PopMatters as the ninth best progressive rock/metal album of 2021.
+Common Ground is the thirteenth studio album by the English progressive rock band Big Big Train, released on 30 July 2021. With the departure of Dave Gregory, Rachel Hall, and Danny Manners in 2020, Common Ground is the first album release with the core four-piece lineup of Greg Spawton, David Longdon, Nick D'Virgilio, and Rikard Sjöblom. Joining the core line-up on the album are session musicians Carly Bryant, Dave Foster, and Aidan O'Rourke. Upon release it entered the UK music charts at number 31.
+It was elected by PopMatters as the ninth best progressive rock/metal album of 2021.
 
 
     
@@ -54,12 +55,14 @@ Common Ground is the thirteenth studio album by the English progressive rock ban
 ### More Videos
 
 - [Atlantic Cable](https://www.youtube.com/watch?v=V_Fbr9GkiFk)
-- [Big Big Train: 'Common Ground | New Album Review](https://www.youtube.com/watch?v=pv1G_A9N4Dg)
 - [Black with Ink](https://www.youtube.com/watch?v=c9rO6-i3qUg)
 - [Endnotes](https://www.youtube.com/watch?v=Qp9zC1rE7LM)
 - [Headwaters](https://www.youtube.com/watch?v=kLTK26pqo-k)
 - [Dandelion Clock](https://www.youtube.com/watch?v=xvsqQSxag5c)
 - [BIG BIG TRAIN - The Strangest Times (2021) [Progressive Rock / Art Rock]](https://www.youtube.com/watch?v=swdU6qMjldE)
+- [Common Ground by Big Big Train](https://www.youtube.com/watch?v=wIQnhCcI4gA)
+- [Big Big Train: 'Common Ground | New Album Review](https://www.youtube.com/watch?v=pv1G_A9N4Dg)
+- [Atlantic Cable](https://www.youtube.com/watch?v=V_Fbr9GkiFk)
 
 ## Release Images
 {{< imageGrid >}}

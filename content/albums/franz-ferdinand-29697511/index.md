@@ -53,11 +53,10 @@ Franz Ferdinand won the 2004 Mercury Music Prize and was nominated for Best Alte
 
 
 ## Videos
-### F̲r̲anz F̲e̲r̲d̲i̲nand - F̲r̲anz F̲e̲r̲d̲i̲nand (Full Album)
-{{< youtube id="KMGHC8jK4vw" title="F̲r̲anz F̲e̲r̲d̲i̲nand - F̲r̲anz F̲e̲r̲d̲i̲nand (Full Album)" >}}<br>
+### Franz Ferdinand - Take Me Out (Official Video)
+{{< youtube id="GhCXAiNz9Jo" title="Franz Ferdinand - Take Me Out (Official Video)" >}}<br>
 ### More Videos
 
-- [Franz Ferdinand - Take Me Out (Official Video)](https://www.youtube.com/watch?v=GhCXAiNz9Jo)
 - [Franz Ferdinand - This Fire (Video)](https://www.youtube.com/watch?v=haW_ruZ_Be8)
 - [Franz Ferdinand - The Dark Of The Matinée (Video)](https://www.youtube.com/watch?v=cKyG1dRoDlA)
 

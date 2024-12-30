@@ -50,9 +50,14 @@ styles: ["Indie Rock"]
 ### More Videos
 
 - [Intro (Live)](https://www.youtube.com/watch?v=qUnXO-0CJpc)
+- [Intro (Live)](https://www.youtube.com/watch?v=qUnXO-0CJpc)
+- [Sheriff Fatman (Live)](https://www.youtube.com/watch?v=661sgGG4hXQ)
 - [Sheriff Fatman (Live)](https://www.youtube.com/watch?v=661sgGG4hXQ)
 - [Rent (Live)](https://www.youtube.com/watch?v=pqz_aV2PlgU)
+- [Rent (Live)](https://www.youtube.com/watch?v=pqz_aV2PlgU)
 - [Rubbish (Live)](https://www.youtube.com/watch?v=TrDzyaFPaoQ)
+- [Rubbish (Live)](https://www.youtube.com/watch?v=TrDzyaFPaoQ)
+- [CARTER U.S.M. - Rent (PET SHOP BOYS cover) (BBC Live At Maida Vale)](https://www.youtube.com/watch?v=K0yt2Jr0cYo)
 - [CARTER U.S.M. - Rent (PET SHOP BOYS cover) (BBC Live At Maida Vale)](https://www.youtube.com/watch?v=K0yt2Jr0cYo)
 
 ## Release Images

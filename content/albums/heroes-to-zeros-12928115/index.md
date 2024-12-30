@@ -26,6 +26,9 @@ styles: ["Leftfield", "Dub", "Synth-pop"]
 Heroes to Zeros is the third and final studio album by The Beta Band, released in 2004.  It was produced by The Beta Band and mixed by Nigel Godrich.
 The cover illustration was created by comic book writer and artist Kaare Andrews. The Beta Band logo for the album was created by comic book artist Dave McCaig, later to be reused on The Best of the Beta Band.
 The song "Liquid Bird" features a sample of "Painted Bird" by Siouxsie and the Banshees.
+Mason later said, "We shouldn't have produced it ourselves, and if you think we did a bad job of producing it, we made an even worse job mixing it. We presented it to the label, and they immediately handed the whole thing over to Nigel Godrich to mix."
+
+
     
     
 
@@ -55,15 +58,15 @@ The song "Liquid Bird" features a sample of "Painted Bird" by Siouxsie and the B
 
 - [The Beta Band - Assessment (Official Music Video)](https://www.youtube.com/watch?v=5XdUt3iIkZ4)
 - [The Beta Band - Simple](https://www.youtube.com/watch?v=Gz3kBDOL5Po)
-- [Beta Band - Lion Thief](https://www.youtube.com/watch?v=2iwRrUhBzVM)
 - [The Beta Band - Pure For](https://www.youtube.com/watch?v=qUugsICNqSQ)
-- [The Beta Band on 'Later...with Jools Holland'](https://www.youtube.com/watch?v=eRr4eVoRi3U)
 - [The Beta Band - Space](https://www.youtube.com/watch?v=alzwfb1C_8k)
 - [The Beta Band - Easy](https://www.youtube.com/watch?v=-ySuIK7wQzE)
 - [The Beta Band: Space Beatle](https://www.youtube.com/watch?v=mA4_NucHWc4)
 - [liquid bird - the beta band](https://www.youtube.com/watch?v=T58NXjt1tiE)
 - [The Beta Band: Pure For](https://www.youtube.com/watch?v=jSrAGwejnb0)
 - [The Beta Band - Troubles+lyrics HQ HD](https://www.youtube.com/watch?v=cSlCEhbbaes)
+- [Beta Band - Lion Thief](https://www.youtube.com/watch?v=2iwRrUhBzVM)
+- [The Beta Band on 'Later...with Jools Holland'](https://www.youtube.com/watch?v=eRr4eVoRi3U)
 
 ## Release Images
 {{< imageGrid >}}

@@ -64,8 +64,11 @@ styles: ["Alternative Rock", "Pop Rock", "Mod"]
 {{< youtube id="xds2QRD4078" title="Mermaids" >}}<br>
 ### More Videos
 
-- [The Changingman (Single Edit)](https://www.youtube.com/watch?v=njO6MuSlY9o)
 - [Peacock Suit](https://www.youtube.com/watch?v=vrnj-2X0V6M)
+- [Brand New Start](https://www.youtube.com/watch?v=oANs_m4G5ZA)
+- [Brushed](https://www.youtube.com/watch?v=C0yOnXpp-QE)
+- [Paul Weller Friday Street](https://www.youtube.com/watch?v=XdumsNbxHJI)
+- [The Changingman (Single Edit)](https://www.youtube.com/watch?v=njO6MuSlY9o)
 - [Brand New Start](https://www.youtube.com/watch?v=eAZGKO0VQKw)
 
 ## Release Images

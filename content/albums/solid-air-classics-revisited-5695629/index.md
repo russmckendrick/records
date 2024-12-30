@@ -14,10 +14,10 @@ cover:
 additional_images:
     - "https://i.discogs.com/ZFT2_z6_k09zLxTDtP03me-JtPHIok9TZ4IniSO0-VE/rs:fit/g:sm/q:90/h:573/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU2OTU2/MjktMTQ0OTY3NzQ1/NS04NjAxLmpwZWc.jpeg"
     - "https://i.discogs.com/MbyWrG5_vArq9BVXsWg78wBxnmpaMxdNzDK-KsED-nA/rs:fit/g:sm/q:90/h:573/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU2OTU2/MjktMTQ0OTY3NzQ5/NC0zMzY3LmpwZWc.jpeg"
-    - "https://i.discogs.com/jqnO_MGClQu4RBOAyRzs48OF0Q4XuMc5wk4eJ_Vp9do/rs:fit/g:sm/q:90/h:641/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU2OTU2/MjktMTQ0OTY3NzQ2/MS00NjgxLmpwZWc.jpeg"
-    - "https://i.discogs.com/5JbkXUwSQvEk3Z62GHRVUwiPQw3vnK6SaLE2hF0BBSc/rs:fit/g:sm/q:90/h:607/w:594/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU2OTU2/MjktMTQwMDE3NTQy/NS0yMzIwLmpwZWc.jpeg"
+    - "https://i.discogs.com/iuwKJifim-FuWPrExkN4OIduRdLfO9r8zRY3oMUuMs4/rs:fit/g:sm/q:90/h:600/w:560/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU2OTU2/MjktMTQ0OTY3NzQ2/MS00NjgxLmpwZWc.jpeg"
+    - "https://i.discogs.com/entLW-2gmIqYLqm69UykIN-bpNid94y6nb1LYjKmLCg/rs:fit/g:sm/q:90/h:600/w:587/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU2OTU2/MjktMTQwMDE3NTQy/NS0yMzIwLmpwZWc.jpeg"
     - "https://i.discogs.com/bDwRn_SsVnVAb-cdFVO6GnuL9tXGuTWffguxVYo4ziM/rs:fit/g:sm/q:90/h:500/w:498/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU2OTU2/MjktMTQwMDE3NTQz/Mi0zNTYzLmpwZWc.jpeg"
-    - "https://i.discogs.com/Nnd1u82T3Av-R_TSpFObETQmcyAC1TDYpakq9qQIjWo/rs:fit/g:sm/q:90/h:626/w:498/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU2OTU2/MjktMTQwMDE3NTQ0/NC01MDQ0LmpwZWc.jpeg"
+    - "https://i.discogs.com/tftrtNB6cHEjMy7ZanpT8YUh3jBVKgdK8F8pj8MIjsw/rs:fit/g:sm/q:90/h:600/w:477/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU2OTU2/MjktMTQwMDE3NTQ0/NC01MDQ0LmpwZWc.jpeg"
     - "https://i.discogs.com/K1XQW66ZYdAbEv8sjvCoqRdGFd8MR-TQgYK2-IbhHFI/rs:fit/g:sm/q:90/h:597/w:448/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU2OTU2/MjktMTQwMDE3NTQ1/Mi0zOTI1LmpwZWc.jpeg"
 genres: ["Rock", "Blues"]
 styles: ["Folk Rock"]

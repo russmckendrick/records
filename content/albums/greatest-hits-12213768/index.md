@@ -32,9 +32,11 @@ genres: ["Rock"]
 styles: []
 ---
 
-Greatest Hits is the first compilation album by American singer-songwriter Bruce Springsteen, released February 27, 1995, on Columbia Records. It is a collection of some of Springsteen's hit singles and popular album tracks through the years along with four new songs at the end, mostly recorded with the E Street Band in 1995. The latter constituted Springsteen's first (albeit very partial) release with his backing band since the late 1980s. Some of the songs are shorter versions of the original album releases.
+Greatest Hits is the first compilation album by the American singer-songwriter Bruce Springsteen, released February 27, 1995, on Columbia Records. It is a collection of some of Springsteen's hit singles and popular album tracks through the years along with four new songs at the end, mostly recorded with the E Street Band in 1995. The latter constituted Springsteen's first (albeit very partial) release with his backing band since the late 1980s. Some of the songs are shorter versions of the original album releases.
 The incorporation of the "new" tracks was portrayed in the 1996 documentary Blood Brothers. "Murder Incorporated" and "This Hard Land" were, in fact, unused 1982 songs from the Born in the U.S.A. sessions, with the latter being re-recorded here more than a decade later, and both subsequently became Springsteen concert staples. "Blood Brothers", on the other hand, was played only as the final closing song of both the 1999–2000 Reunion Tour and 2002–2003 Rising Tour, both times with an extra verse added. "Secret Garden" achieved notoriety via the soundtrack of the 1996 film Jerry Maguire. Alternate versions of several of these new tracks were released on the 1996 Blood Brothers EP.
-The compilation was commercially successful, hitting the peaks of the U.S. album chart and UK Album Chart and selling six million copies in the U.S.
+The compilation was commercially successful, hitting number one on the Billboard 200 and UK Albums Chart, and sold six million copies in the U.S.
+
+
     
     
 
@@ -63,29 +65,7 @@ The compilation was commercially successful, hitting the peaks of the U.S. album
 {{< applemusic url="https://music.apple.com/gb/album/greatest-hits/1435854353" >}}<br>
 
 
-## Videos
-### Bruce Springsteen - Born to Run (Official Video)
-{{< youtube id="IxuThNgl3YA" title="Bruce Springsteen - Born to Run (Official Video)" >}}<br>
-### More Videos
 
-- [Thunder Road](https://www.youtube.com/watch?v=-xSOWnfNMs0)
-- [Badlands](https://www.youtube.com/watch?v=SDlSCeQXbPo)
-- [The River](https://www.youtube.com/watch?v=y7BUXRsTbvI)
-- [Bruce Springsteen - Hungry Heart (Berlin '95 Version)](https://www.youtube.com/watch?v=0My2AqPFpFg)
-- [Bruce Springsteen - Atlantic City](https://www.youtube.com/watch?v=M3eu1gW-bQ8)
-- [Bruce Springsteen - Dancing In the Dark (Official Video)](https://www.youtube.com/watch?v=129kuDCQtHs)
-- [Bruce Springsteen - Born in the U.S.A. (Official Video)](https://www.youtube.com/watch?v=EPhWR4d3FJQ)
-- [Bruce Springsteen - My Hometown (Official Video)](https://www.youtube.com/watch?v=77gKSp8WoRg)
-- [Bruce Springsteen - Glory Days (Official Video)](https://www.youtube.com/watch?v=6vQpW9XRiyM)
-- [Bruce Springsteen - Brilliant Disguise (Official Video)](https://www.youtube.com/watch?v=idnJnjV_8rg)
-- [Bruce Springsteen - Human Touch (Official Video)](https://www.youtube.com/watch?v=85cNRQo1m3A)
-- [Bruce Springsteen - Better Days](https://www.youtube.com/watch?v=VmwJQ62Cs_o)
-- [Bruce Springsteen - Streets of Philadelphia (Official Video)](https://www.youtube.com/watch?v=4z2DtNW79sQ)
-- [Secret Garden](https://www.youtube.com/watch?v=WY1spB1J0vw)
-- [Bruce Springsteen - Murder Incorporated](https://www.youtube.com/watch?v=Jj7hvKQ6Uhc)
-- [Blood Brothers](https://www.youtube.com/watch?v=YAuIPCem2uk)
-- [This Hard Land](https://www.youtube.com/watch?v=fGcgH2sogYM)
-- [Bruce Springsteen - This Hard Land (Live)](https://www.youtube.com/watch?v=Ssg4_KMrS0o)
 
 ## Release Images
 {{< imageGrid >}}

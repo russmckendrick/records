@@ -12,15 +12,52 @@ cover:
     alt: "The Five Ghosts by Stars"
     caption: "The Five Ghosts by Stars"
 additional_images:
-    - "https://i.discogs.com/oNHUVJFfHElLXjJ1VjC31gkKl4apmkMdKPmBuXqT_9s/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMzIy/NDAtMTM0Nzg0NDc0/OC02OTczLmpwZWc.jpeg"
-    - "https://i.discogs.com/4NWh-FERzAdhOaPcDKRKXUTAhtyikhA-vrfYTbpDQ70/rs:fit/g:sm/q:90/h:480/w:516/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMzIy/NDAtMTI3NzUxMzc2/OC5qcGVn.jpeg"
+    - "https://i.discogs.com/WHlcu_COnTAZXj-Wbo8NLhFGpfmrlsuZyn7SxZCfXjg/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMzIy/NDAtMTcxMzAxNDc3/MC0yOTUxLmpwZWc.jpeg"
+    - "https://i.discogs.com/v78LwfWpnwvgpyMnKSRZCghnnnqOVbTgIvGjAJX9jHo/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMzIy/NDAtMTcxMzAxNDc2/Ni03MDAwLmpwZWc.jpeg"
+    - "https://i.discogs.com/SI4asXFNDF3iTrdwn2x4O6Cq9tpwL1Kd-jxzmKy4mNM/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMzIy/NDAtMTcxMzAxNDc3/MC00MzE1LmpwZWc.jpeg"
+    - "https://i.discogs.com/_nywGI98GLD8yuHbSoPcy7qbM8pXsrGTK4OjY8MmvyY/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMzIy/NDAtMTcxMzAxNDc2/OC0zNjU2LmpwZWc.jpeg"
+    - "https://i.discogs.com/rsQeTMlxnV8KvCjtZmrZxd4cu_ZjZuoP7MtGutstQZU/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMzIy/NDAtMTcxMzAxNDc2/OC02OTU2LmpwZWc.jpeg"
+    - "https://i.discogs.com/cS2zMeYEpQ6cyPxdL6HwMZnLD8a5R0UJ6Tun38iAXqk/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMzIy/NDAtMTcxMzAxNDc2/NC05ODg2LmpwZWc.jpeg"
+    - "https://i.discogs.com/v3C5ntpO7t8eHErGyWVsNq5lTLPB4R1o6rZ9qvMpou4/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMzIy/NDAtMTcxMzAxNDc2/NC03MTkwLmpwZWc.jpeg"
+    - "https://i.discogs.com/xefXEL63ZLA5PW9dvHUT_CVxnTVjWDW9gxvDb4IRP8k/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMzIy/NDAtMTcxMzAxNDc2/Ni02NjI1LmpwZWc.jpeg"
+    - "https://i.discogs.com/WqmdRYAACHv6UNEajhcYat86pSrTbj-xCKgRZ1s-moU/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMzIy/NDAtMTcxMzAxNDc2/Ni00MDU5LmpwZWc.jpeg"
+    - "https://i.discogs.com/LKaiH3owa5bhelGfyRXp3ar03a8RZtKgNnkjN3GBX5Y/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMzIy/NDAtMTcxMzAxNDc2/Ny0yNTgyLmpwZWc.jpeg"
+    - "https://i.discogs.com/BwtDBAO7eDuxG_lV2JcQrWireCjP_u9J3BuMIpw9dlc/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMzIy/NDAtMTcxMzAxNDc2/OS05MTQxLmpwZWc.jpeg"
+    - "https://i.discogs.com/y4Fdqu3iBW-ZvjFf5MvKrvjeB_tqKhVGlMFWUQMHc8g/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMzIy/NDAtMTcxMzAxNDc3/NC05OTQxLmpwZWc.jpeg"
+    - "https://i.discogs.com/5Tkwd1T8ofHmX34A_DFmZcI4IfzlZvgFIo-r-kO-SwY/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMzIy/NDAtMTcxMzAxNDc2/OC03OTIxLmpwZWc.jpeg"
+    - "https://i.discogs.com/ITaTVm3ZmfNDIHVjJDUi9a9TDQgXLKeGPRTTvNFpSs4/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMzIy/NDAtMTcxMzAxNDc3/MS0zNTA5LmpwZWc.jpeg"
+    - "https://i.discogs.com/B4BvvL5ToJvwkMqMfjAjiD6X7mCFv-Phw_KGMu4bEPM/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMzIy/NDAtMTcxMzAxNDc3/Ny0yMTcxLmpwZWc.jpeg"
+    - "https://i.discogs.com/BQ9bIC57O-pvhzihYPA84L-2zsYMw3_QVVHRLUj-FZk/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMzIy/NDAtMTcxMzAxNDc3/My00MzQyLmpwZWc.jpeg"
+    - "https://i.discogs.com/xxmtDqUcCYlavx0dlw_UmWflt1WQlDq3PPQ0Rv8a5i4/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMzIy/NDAtMTcxMzAxNDc3/MS02NTczLmpwZWc.jpeg"
+    - "https://i.discogs.com/CFDCzuXsCRt_i83eciN4qziWsZiDYuguOa12TP-IYMg/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMzIy/NDAtMTcxMzAxNDc3/NC0yNzI1LmpwZWc.jpeg"
+    - "https://i.discogs.com/1ln5z5UI2MO_epy2wA2OVkuVizuKDbu5tADxzHp7214/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMzIy/NDAtMTcxMzAxNDc3/My05MzUwLmpwZWc.jpeg"
+    - "https://i.discogs.com/5SF809niRvVbI7s81AF2WMuITrbeWfmdYoFhNycM2M0/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMzIy/NDAtMTcxMzAxNDc3/Mi0xNzg3LmpwZWc.jpeg"
+    - "https://i.discogs.com/Ckxvj79fLIbWtgVDIRMV2JW_APvfgHIywVvl1ST2QhM/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMzIy/NDAtMTcxMzAxNDc2/OS04NzIzLmpwZWc.jpeg"
+    - "https://i.discogs.com/G4gpPWmnY34QWRKzOTMGD3e6ULkO8mNSfz-NTYLdCXc/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMzIy/NDAtMTcxMzAxNDc3/MC0zNTc0LmpwZWc.jpeg"
+    - "https://i.discogs.com/3ezZP5yVa6g97pGSfycQPP21l5WXVAMUtTdjwRSz0Sg/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMzIy/NDAtMTcxMzAxNDc3/Mi0zOTk0LmpwZWc.jpeg"
+    - "https://i.discogs.com/P4RdPdiuiWgmmhW7VyYTdqeD9DfbPJnraeKdQwzRre8/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMzIy/NDAtMTcxMzAxNDc3/My0xNDczLmpwZWc.jpeg"
+    - "https://i.discogs.com/aSjm4XtPlJksRdSI2QOVVXDTUWgQPD_laI7e2tFrMG0/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMzIy/NDAtMTcxMzAxNDc3/My0yOTM2LmpwZWc.jpeg"
+    - "https://i.discogs.com/-E1d0eWq7PIsZjpetB788ZXvZItoGhvBcGXGw8rGS6k/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMzIy/NDAtMTcxMzAxNDc4/Mi05OTcwLmpwZWc.jpeg"
+    - "https://i.discogs.com/SMfKAHs6TYmz1Ce9bfwCDbnYnPjLgGldbuvftpcSFZ0/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMzIy/NDAtMTcxMzAxNDc3/Mi0xOTU3LmpwZWc.jpeg"
+    - "https://i.discogs.com/u_B_es847bP9RVDSxtUENsEu6KEeo6Zsbfh_PdPgoOo/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMzIy/NDAtMTcxMzAxNDc3/My0zMTIwLmpwZWc.jpeg"
+    - "https://i.discogs.com/Y-oyLZz8QUPR3Tz4LnN51rxLTPlBJ01djaQRrTQYIjY/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMzIy/NDAtMTcxMzAxNDc3/Mi00NjE2LmpwZWc.jpeg"
+    - "https://i.discogs.com/U6O6giSt_zXnTNgbEjUXCRnZezQqvhWzz72fD8RKNuo/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMzIy/NDAtMTcxMzAxNDc3/My0zNjkyLmpwZWc.jpeg"
+    - "https://i.discogs.com/SdAdcudCtxjECcyJqbXpvc8mJbi5AFFzwAZ0M2RJHJs/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMzIy/NDAtMTcxMzAxNDc3/Mi02MzEwLmpwZWc.jpeg"
+    - "https://i.discogs.com/Wd2gnRabDdeUhhmJbNemaz6xzR57RgI1-xA36UPskDc/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMzIy/NDAtMTcxMzAxNDc3/My01OTk1LmpwZWc.jpeg"
+    - "https://i.discogs.com/BAiEkOqK0QYYm9SHDmeCKCE_Mpth5-l6TWvndyFteyg/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMzIy/NDAtMTcxMzAxNDc3/Mi01MDc3LmpwZWc.jpeg"
+    - "https://i.discogs.com/NxfG-zaVX7ADP1aAWLpv36nJVkzTjILWzqIMBqYstuI/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMzIy/NDAtMTcxMzAxNDc3/NC0xNzQ1LmpwZWc.jpeg"
+    - "https://i.discogs.com/ediBKNTRq2b9HumOidgveU4Ju00MLTlV87hZFupkOeI/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMzIy/NDAtMTcxMzAxNDc3/Mi0yNjY5LmpwZWc.jpeg"
+    - "https://i.discogs.com/jBeOcUaGgUrgT6EZ4ilKYmKdD-dyW76gp-HyOXhBIWM/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMzIy/NDAtMTcxMzAxNDc3/My04NzM1LmpwZWc.jpeg"
+    - "https://i.discogs.com/HKew0YycSbaA5TTR_1Z5ZrOxQM4FGItDFu8MGVh52p8/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMzIy/NDAtMTcxMzAxNDc3/Mi04ODkwLmpwZWc.jpeg"
+    - "https://i.discogs.com/rZgtYnsKdQ-t2fzSpcaSfL2F7D6EMpTDZgVZoVqsUek/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMzIy/NDAtMTcxMzAxNDc3/My0yMDMxLmpwZWc.jpeg"
+    - "https://i.discogs.com/ayUx4RoIXYOTyarhOWDNzSUZ7-nb8Fkc-ij1FJ41TRM/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMzIy/NDAtMTcxMzAxNDc3/MS02MzgyLmpwZWc.jpeg"
+    - "https://i.discogs.com/AsVvKnldDhWrmuVgdbR2X2L6MEe59t8whvNueaHCxF8/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMzIy/NDAtMTcxMzAxNDc2/Ny0xMjc5LmpwZWc.jpeg"
 genres: ["Rock"]
 styles: ["Alternative Rock", "Pop Rock", "Indie Rock"]
 ---
 
-The Five Ghosts is the fifth studio album by Stars, which was released worldwide on June 21, 2010, via Vagrant.  In Canada, the album was released via Soft Revolution, the band's own label.The album was named as a longlisted nominee for the 2011 Polaris Music Prize.
-
-
+The Five Ghosts is the fifth studio album by Stars, which was released worldwide on June 21, 2010, via Vagrant.  In Canada, the album was released via Soft Revolution, the band's own label.
+The album was named as a longlisted nominee for the 2011 Polaris Music Prize.
     
     
 
@@ -44,12 +81,14 @@ The Five Ghosts is the fifth studio album by Stars, which was released worldwide
 
 
 ## Videos
-### Torq Cambell tells NAKED why The Five Ghosts is his favourite Stars album
-{{< youtube id="TERbyLZDCqU" title="Torq Cambell tells NAKED why The Five Ghosts is his favourite Stars album" >}}<br>
+### STARS - Fixed [Official Music Video]
+{{< youtube id="17jdZdVmEuk" title="STARS - Fixed [Official Music Video]" >}}<br>
 ### More Videos
 
-- [STARS - Fixed [Official Music Video]](https://www.youtube.com/watch?v=17jdZdVmEuk)
 - [Stars - Dead Hearts [Official Video]](https://www.youtube.com/watch?v=OQT2HVfxJu4)
+- [The Five Ghosts - Making Of, Part Six](https://www.youtube.com/watch?v=8a4cycwDvRM)
+- [The Five Ghosts - Making Of, Part Three](https://www.youtube.com/watch?v=Dsf9WsD6j4Q)
+- [Torq Cambell tells NAKED why The Five Ghosts is his favourite Stars album](https://www.youtube.com/watch?v=TERbyLZDCqU)
 
 ## Release Images
 {{< imageGrid >}}

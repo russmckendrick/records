@@ -12,25 +12,29 @@ cover:
     alt: "Nil Recurring by Porcupine Tree"
     caption: "Nil Recurring by Porcupine Tree"
 additional_images:
-    - "https://i.discogs.com/dghumx8J0qOU9FARqusepDRmIZ2JlDjGza1e5qVnVr8/rs:fit/g:sm/q:90/h:594/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkwMjEz/MDAtMTY1NjY3MzEz/MC0yNTkwLmpwZWc.jpeg"
+    - "https://i.discogs.com/uXrV-YLmTbBRoCOJh7aT66zpebL5os1MP0r5sOadHn4/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkwMjEz/MDAtMTcwNTg3NDky/Ny0zNzY4LmpwZWc.jpeg"
     - "https://i.discogs.com/SZVaWytX_pAId2j3z4R_Pawb7FKd-e8tHQiQgBQEdss/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkwMjEz/MDAtMTY1NjY3MzEz/MC0yODc3LmpwZWc.jpeg"
     - "https://i.discogs.com/alnmg7VuUz0cN8570aZCGluH9PqYHRAArpTiX38WZdQ/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkwMjEz/MDAtMTY1NjY3MzEz/MC05NzQ1LmpwZWc.jpeg"
-    - "https://i.discogs.com/vqOVj7_soowaLqhTuq1JLe-N9_Rf2uvQOhnzYs2uqCM/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkwMjEz/MDAtMTY1NjY3MzEy/OS02NTExLmpwZWc.jpeg"
-    - "https://i.discogs.com/O9bsNHls3Ed7ouf7bhqL9BMiQ8D9V0hW8LwOxKrHGWc/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkwMjEz/MDAtMTY1NjY3MzEy/Ny04OTAyLmpwZWc.jpeg"
+    - "https://i.discogs.com/xXkywKRpg7N6JHtsLp5yh290A_K5EdeUwlN83zRCn4w/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkwMjEz/MDAtMTY1NjY3MzEy/OS02NTExLmpwZWc.jpeg"
+    - "https://i.discogs.com/U-GsM8eGIoXfhueyCSSv0TdXxs5M40mhk3pHrWoQUPw/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkwMjEz/MDAtMTY1NjY3MzEy/Ny04OTAyLmpwZWc.jpeg"
     - "https://i.discogs.com/HuA-ZEh4bLYuqvibVFTzOJIBS9f2B8sNVdLmnNlpPLM/rs:fit/g:sm/q:90/h:590/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkwMjEz/MDAtMTY1NjY3MzEz/MC05OTQ1LmpwZWc.jpeg"
     - "https://i.discogs.com/dUfzLUZ3SUN24od031ZE_zVQKmbkSJd18fnuutM6KCg/rs:fit/g:sm/q:90/h:590/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkwMjEz/MDAtMTY1NjY3MzEy/OS01ODczLmpwZWc.jpeg"
     - "https://i.discogs.com/XsIuZehyEXGeSh1EWspr6RzdcFNWAz0aFGTV2NnpZq0/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkwMjEz/MDAtMTY1NjY3MzEz/MC00Nzc2LmpwZWc.jpeg"
-    - "https://i.discogs.com/eSCBylGtnqD_IzvVmjKDyIm9fzyTxAeZZGTCFSCCDZU/rs:fit/g:sm/q:90/h:747/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkwMjEz/MDAtMTQ3NDMzMDMx/NC04MzEwLmpwZWc.jpeg"
+    - "https://i.discogs.com/I4uTO1OpZZw5X44v2_yXjPR1s_XrXqLldkpR1snZEfo/rs:fit/g:sm/q:90/h:600/w:481/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkwMjEz/MDAtMTQ3NDMzMDMx/NC04MzEwLmpwZWc.jpeg"
 genres: ["Rock"]
 styles: ["Prog Rock"]
 ---
 
+Nil Recurring (also Transmission 5.1) is an EP by British progressive rock band Porcupine Tree, released on 17 September 2007 through the band's online store. The standard version of the mini-album is composed of four tracks written during the Fear of a Blank Planet recording sessions and was completed over the summer of 2007. The EP's title, which stems from the opening instrumental track on the EP, was actually derived from an unreleased demo written during the Fear of a Blank Planet recording sessions, called "Always Recurring". Although the band never formally released the song, lyrical and melodic elements of the track were reused in the closing piece of the EP, "What Happens Now?".
+Nil Recurring entered the UK Top 30 Independent Label Albums at #8.
+    
+    
 
 
 ## Tracklisting
 1. Nil Recurring (6:15)
 2. Normal (7:08)
-3. Cheating the Polygraph (7:10)
+3. Cheating The Polygraph (7:10)
 4. What Happens Now? (8:24)
 
 ## Apple Music
@@ -45,8 +49,9 @@ styles: ["Prog Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl 12" Mini-Album Remastered (Clear, 180g) |
+| Wikipedia URL | https://en.wikipedia.org/wiki/Nil_Recurring |
+| Format         | Vinyl 12" Mini-Album Reissue Remastered (Clear, 180g) |
 | Label          | Kscope |
 | Catalog Number | KSCOPE936 |
-| Notes | Pressed By information is not listed. Information is derived from runouts.   [Liner Notes - Back Cover] Published by Hands Off It's Mine Publishing, administered by Universal Music Publishing Group ℗ 2007 Porcupine Tree [...] © 2016 Porcupine Tree Made in Germany  [Liner Notes - Inner Sleves] Nil Recurring and Cheating The Polygraph recorded between Oct-Dec 2006  Normal and What Happens Now? recorded July 2007   |
+| Notes | Pressed By information is not listed. Information is derived from runouts.   [Liner Notes - Back Cover] Published by Hands Off It's Mine Publishing, administered by Universal Music Publishing Group ℗ 2007 Porcupine Tree [...] © 2016 Porcupine Tree Made in Germany  [Liner Notes - Inner Sleeves] Nil Recurring and Cheating The Polygraph recorded between Oct-Dec 2006  Normal and What Happens Now? recorded July 2007   |
 | Discogs URL    | [Porcupine Tree - Nil Recurring](https://www.discogs.com/release/9021300-Porcupine-Tree-Nil-Recurring) |

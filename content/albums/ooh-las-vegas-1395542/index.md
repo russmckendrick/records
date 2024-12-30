@@ -14,7 +14,7 @@ cover:
 additional_images:
     - "https://i.discogs.com/QHpRur-4Z2wCJQGV3gciPhgzNnOCkM_qYOndgmoZ-oM/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzOTU1/NDItMTIxNjAzNzIx/OS5qcGVn.jpeg"
     - "https://i.discogs.com/hlJox8pDzB5U7R-mcr5tfrzaBF3KFzZcACK_fh-Vll0/rs:fit/g:sm/q:90/h:592/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzOTU1/NDItMTQxODM4NDYw/OC01Njk1LmpwZWc.jpeg"
-    - "https://i.discogs.com/gh81FIk3ua4IYbrNO0kyiLA-ATkh-KtBjaiFTAz8wsw/rs:fit/g:sm/q:90/h:601/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzOTU1/NDItMTQxODM4NDYw/OC04NjM2LmpwZWc.jpeg"
+    - "https://i.discogs.com/8WrfZNctdsHMoWFHcWtSDwzPjxQTwzR6-_kYiZOooEs/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzOTU1/NDItMTQxODM4NDYw/OC04NjM2LmpwZWc.jpeg"
     - "https://i.discogs.com/u6KevCR87rNDj5ButlMC3058LO3SitpcOe27uwnxrwk/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzOTU1/NDItMTQxODM4NDYw/OC0zNDE3LmpwZWc.jpeg"
     - "https://i.discogs.com/Ofe82gYu_3IDbes5lv2vIEvLugPP45Uq9JxFKQRu1d0/rs:fit/g:sm/q:90/h:594/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzOTU1/NDItMTQxODM4NDYw/OC05MDc3LmpwZWc.jpeg"
     - "https://i.discogs.com/BBFQwyZy_p62vu9aF7yKpv4TaLTBHR_ZNONYPa1Q-cg/rs:fit/g:sm/q:90/h:593/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzOTU1/NDItMTQxODM4NDYw/OS0yMjE5LmpwZWc.jpeg"
@@ -22,13 +22,15 @@ additional_images:
     - "https://i.discogs.com/d2ve6xDA-6SjasdkVrT3QSpFqLQPp7m5-4YAeaxIZc4/rs:fit/g:sm/q:90/h:579/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzOTU1/NDItMTQxODM4NDYx/MC0zNTc2LmpwZWc.jpeg"
     - "https://i.discogs.com/LFQsDLeRqTliGxdESF0l0dQtIAejXyzLGdXFCFsVIdM/rs:fit/g:sm/q:90/h:579/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzOTU1/NDItMTQxODM4NDYw/OS01OTM3LmpwZWc.jpeg"
     - "https://i.discogs.com/yS7TTSOKYeKbO3pdq9ykZon8z87bM6j_WH1LFEdUC-4/rs:fit/g:sm/q:90/h:582/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzOTU1/NDItMTQxODM4NDYw/OS01OTMzLmpwZWc.jpeg"
-    - "https://i.discogs.com/GniDYltWTJZIULpdhCnk8ji-6rtyGq6tRUYypdv0hiY/rs:fit/g:sm/q:90/h:617/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzOTU1/NDItMTQxODM4NDYw/OS05NDc0LmpwZWc.jpeg"
+    - "https://i.discogs.com/vbf1t0PUUPCAs444u1uW567g3UI862AIaWXICNqET8o/rs:fit/g:sm/q:90/h:600/w:583/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzOTU1/NDItMTQxODM4NDYw/OS05NDc0LmpwZWc.jpeg"
 genres: ["Jazz", "Rock", "Pop"]
 styles: ["Alternative Rock", "Indie Rock", "Pop Rock"]
 ---
 
 Ooh Las Vegas is a compilation album by the Scottish rock band Deacon Blue. It contains B-sides, unreleased tracks, and songs written for William McIlvanney's television play Dreaming.
 The Japanese release also included the four tracks from the Four Bacharach & David Songs EP.
+
+
     
     
 
@@ -67,14 +69,15 @@ The Japanese release also included the four tracks from the Four Bacharach & Dav
 {{< youtube id="YuMRvCvBJm0" title="Deacon Blue - Disneyworld" >}}<br>
 ### More Videos
 
-- [Las Vegas](https://www.youtube.com/watch?v=MfKXbvxw21c)
-- [DEACON BLUE - LET YOUR HEARTS BE TROUBLED](https://www.youtube.com/watch?v=rOMEr-a_nl8)
-- [Back Here In Beanoland](https://www.youtube.com/watch?v=nWn6ipzktis)
-- [Deacon Blue - Las Vegas](https://www.youtube.com/watch?v=crf3fsAi_WU)
-- [My America](https://www.youtube.com/watch?v=2Kkb9iOh5OY)
 - [Deacon Blue - S.H.A.R.O.N.](https://www.youtube.com/watch?v=BspKQrrj8GQ)
-- [Disneyworld](https://www.youtube.com/watch?v=hXIRGY5OP3I)
 - [Deacon Blue - Is It Cold Beneath the Hill [?]](https://www.youtube.com/watch?v=I2G3dosGk4I)
+- [Deacon Blue - Disneyworld](https://www.youtube.com/watch?v=YuMRvCvBJm0)
+- [Deacon Blue - S.H.A.R.O.N.](https://www.youtube.com/watch?v=BspKQrrj8GQ)
+- [Deacon Blue - Is It Cold Beneath the Hill [?]](https://www.youtube.com/watch?v=I2G3dosGk4I)
+- [Las Vegas](https://www.youtube.com/watch?v=MfKXbvxw21c)
+- [Back Here In Beanoland](https://www.youtube.com/watch?v=nWn6ipzktis)
+- [My America](https://www.youtube.com/watch?v=2Kkb9iOh5OY)
+- [Disneyworld](https://www.youtube.com/watch?v=hXIRGY5OP3I)
 
 ## Release Images
 {{< imageGrid >}}

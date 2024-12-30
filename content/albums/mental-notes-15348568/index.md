@@ -13,13 +13,18 @@ cover:
     caption: "Mental Notes by Split Enz"
 additional_images:
     - "https://i.discogs.com/r0C6_8vXhL1NPf0AlN6Vd42wMXjFGs8kWwAJl2mwf7k/rs:fit/g:sm/q:90/h:577/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MzQ4/NTY4LTE2NjA1OTMy/MTUtODE4OS5qcGVn.jpeg"
-    - "https://i.discogs.com/sn3Cv5VnsVNb0DSSXUEz2szQW00SxkxhzN6QVqeTWiM/rs:fit/g:sm/q:90/h:729/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MzQ4/NTY4LTE2NjA1OTMy/NjQtOTIwMS5qcGVn.jpeg"
     - "https://i.discogs.com/62TEVj6SP9NZG0pGWV-fpofOMGGi7LosD6xKwOy_Xm4/rs:fit/g:sm/q:90/h:448/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MzQ4/NTY4LTE1OTEwNDM5/MDQtMzI5Ni5qcGVn.jpeg"
     - "https://i.discogs.com/vHcStN5eQGHWBXTqhxL3lAc-7uwGeGAvyUnhVJ1-DI4/rs:fit/g:sm/q:90/h:589/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MzQ4/NTY4LTE2NjA1OTMy/MTUtMzQxMC5qcGVn.jpeg"
+    - "https://i.discogs.com/GaAHowz-CT66cJRwAJcEnBDDZz7wjxW5ekCbI98o5WM/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MzQ4/NTY4LTE2OTU3MTYz/MjYtMzUwOC5qcGVn.jpeg"
+    - "https://i.discogs.com/HfQY_T6qGl_amJawYonoZwtgduP-7132xvVPe0g3qrY/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MzQ4/NTY4LTE2OTU3MTYz/MjYtODE5Ny5qcGVn.jpeg"
+    - "https://i.discogs.com/uo_SEcTMscovADp-34gzbLJdVk42zvZs1k4GdEJE2F0/rs:fit/g:sm/q:90/h:600/w:493/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MzQ4/NTY4LTE2NjA1OTMy/NjQtOTIwMS5qcGVn.jpeg"
     - "https://i.discogs.com/HyC1SxtoUMIlkxh8D2oDgS6ZNAR3rkWVEbh6WFgz6Yc/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MzQ4/NTY4LTE1OTEwNDM5/MDMtMTM2Mi5qcGVn.jpeg"
     - "https://i.discogs.com/lFvVZIT-JNGV3oYp5zrXhQ2uAC_sWAQ_7LuAwLZ9J0w/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MzQ4/NTY4LTE1OTEwNDM5/MDMtNDkwMS5qcGVn.jpeg"
     - "https://i.discogs.com/CDLIAo_r53OPo_BWJpR3q3x-UdwAdIXcsj20uDhM_ZU/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MzQ4/NTY4LTE1OTEwNDM5/MDItMjEwMy5qcGVn.jpeg"
     - "https://i.discogs.com/qa_esR9X5hsqhVKIujqDbsdnRyJklYZN-yx1WymRL78/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MzQ4/NTY4LTE1OTEwNDM5/MDMtNzk3Ni5qcGVn.jpeg"
+    - "https://i.discogs.com/zHOo6bqIgZ2p-GZmX0XE1qj1-v6MaUOlDMQeoCuNhkQ/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MzQ4/NTY4LTE2OTU3MTYz/MjYtMzUwMy5qcGVn.jpeg"
+    - "https://i.discogs.com/Y-HwFyD9qgdWj4EW-LhVl9Z55kNxzEscC9SXt0UrmwA/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MzQ4/NTY4LTE2OTU3MTYz/MjYtMTAzNy5qcGVn.jpeg"
+    - "https://i.discogs.com/PRxhQrNi3TKB5Mp7VjgNtineTaagEL8aCW0NILskCuU/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MzQ4/NTY4LTE2OTU3MTYz/MjUtMzYwOC5qcGVn.jpeg"
 genres: ["Rock"]
 styles: ["Prog Rock", "Art Rock"]
 ---
@@ -46,17 +51,12 @@ Mental Notes is the debut studio album by New Zealand band Split Enz. The album 
 
 
 ## Videos
-### Split Enz - Stranger Than Fiction
-{{< youtube id="7T4bHxbR0vk" title="Split Enz - Stranger Than Fiction" >}}<br>
+### Split Enz - Late Last Night (Official Video)
+{{< youtube id="51ib_El-yh4" title="Split Enz - Late Last Night (Official Video)" >}}<br>
 ### More Videos
 
-- [Split Enz - Time For A Change 1975 (Mental Notes Version)](https://www.youtube.com/watch?v=IwM7xDNasbE)
-- [Split Enz - Mental Notes](https://www.youtube.com/watch?v=d80t_wzZq88)
-- [Split Enz Amy [Darling]](https://www.youtube.com/watch?v=2CWQ6EDZGYc)
-- [Split Enz - Under The Wheel](https://www.youtube.com/watch?v=khPvE9JMg5A)
-- [Split Enz - Maybe](https://www.youtube.com/watch?v=psadmPirqpo)
-- [Split Enz - Spellbound](https://www.youtube.com/watch?v=m4E-jGjPgAM)
-- [Split Enz - So Long For Now](https://www.youtube.com/watch?v=rmGxjnml4yQ)
+- [Split Enz - Lovey Dovey (Official Video)](https://www.youtube.com/watch?v=66s967Qx0dM)
+- [Split Enz - Sweet Dreams (Official Video)](https://www.youtube.com/watch?v=we9XmUzmMlc)
 
 ## Release Images
 {{< imageGrid >}}

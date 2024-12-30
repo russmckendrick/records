@@ -14,19 +14,17 @@ cover:
 additional_images:
     - "https://i.discogs.com/hthQWPMJHdCRHAdDfipu9GnrAMX0rAreGd417S1b02Q/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4NjQz/NDc5LTE2OTkwNzE4/ODgtMzk3MS5qcGVn.jpeg"
     - "https://i.discogs.com/V7owGvSTHEnWwwvqHcBd3pJ5-Rgp-BT3wpG2MziZurU/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4NjQz/NDc5LTE2OTkwNjY5/MjItNzk5MS5qcGVn.jpeg"
-    - "https://i.discogs.com/a8ejps-nw2ovhmbSV35_vcF9qe6wzyzzq-U5VYdzO-s/rs:fit/g:sm/q:90/h:605/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4NjQz/NDc5LTE2OTkxMzM3/NjMtNTQyNy5qcGVn.jpeg"
-    - "https://i.discogs.com/wHpR2x5OG9uMmT6DNcLLK-X8NtO7EsVJ8ej31stv_Qw/rs:fit/g:sm/q:90/h:609/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4NjQz/NDc5LTE2OTkxMzM4/NDUtNzI0MS5qcGVn.jpeg"
-    - "https://i.discogs.com/vXJlI9CFwHAt6Wfcilo2N0prgXBLjrCxFqSU8iJYcz0/rs:fit/g:sm/q:90/h:605/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4NjQz/NDc5LTE2OTkxMzM4/OTctOTk2OS5qcGVn.jpeg"
-    - "https://i.discogs.com/rxgY6cBYVei5L0TFW19wzjFzUHllOJ0KOMDtYRyD-UQ/rs:fit/g:sm/q:90/h:601/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4NjQz/NDc5LTE2OTkxMzM5/NTgtMjk1My5qcGVn.jpeg"
-    - "https://i.discogs.com/8pi-zM-sqeCa2Vc3inpekHd5yXo5ZnuqkAmNDFCCWzs/rs:fit/g:sm/q:90/h:603/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4NjQz/NDc5LTE2OTc3NDY1/NjMtODcyMy5qcGVn.jpeg"
+    - "https://i.discogs.com/PUJT2hVUlLRuHuBZRXtHPtOL95dkBjgxd3IGZstt7Ik/rs:fit/g:sm/q:90/h:600/w:594/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4NjQz/NDc5LTE2OTkxMzM3/NjMtNTQyNy5qcGVn.jpeg"
+    - "https://i.discogs.com/kjp3SrYXGC2dPns-17IMhfU229tgAI5xw6i7pL1rqjk/rs:fit/g:sm/q:90/h:600/w:590/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4NjQz/NDc5LTE2OTkxMzM4/NDUtNzI0MS5qcGVn.jpeg"
+    - "https://i.discogs.com/xTRE3X1aOBkfF5Es8ErRlEH6aWcbSXc1T9EjHfKZWtk/rs:fit/g:sm/q:90/h:600/w:594/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4NjQz/NDc5LTE2OTkxMzM4/OTctOTk2OS5qcGVn.jpeg"
+    - "https://i.discogs.com/rPpEwTKCtDbwbkpdycKjivH3m1QQUfjPCllKbxdqTk4/rs:fit/g:sm/q:90/h:600/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4NjQz/NDc5LTE2OTkxMzM5/NTgtMjk1My5qcGVn.jpeg"
+    - "https://i.discogs.com/AkJ1CgX7mdndrmgwHxgsJu7prvkHeYW9WIpIZqmhxgw/rs:fit/g:sm/q:90/h:600/w:597/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4NjQz/NDc5LTE2OTc3NDY1/NjMtODcyMy5qcGVn.jpeg"
     - "https://i.discogs.com/migDwAZVvkGe88D6wS6p3xKXvEiYPe1kUisF4JQ4mhI/rs:fit/g:sm/q:90/h:450/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4NjQz/NDc5LTE2OTc3NDY1/NjUtNjkzOS5qcGVn.jpeg"
 genres: ["Electronic", "Hip Hop", "Rock"]
 styles: ["Alternative Rock", "Abstract"]
 ---
 
 Peeping Tom is the only studio album by American band Peeping Tom. It was released by Ipecac Recordings on May 30, 2006. It peaked at number 103 on the Billboard 200 chart.
-
-
     
     
 
@@ -45,7 +43,7 @@ Peeping Tom is the only studio album by American band Peeping Tom. It was releas
 11. We're Not Alone (Remix) (5:10)
 
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/peeping-tom-feat-rockit-gaming-single/1612445899" >}}<br>
+{{< applemusic url="https://music.apple.com/gb/album/peeping-tom-single/1732545588" >}}<br>
 
 
 ## Videos
@@ -63,6 +61,10 @@ Peeping Tom is the only studio album by American band Peeping Tom. It was releas
 - [How U Feelin? (feat. Doseone)](https://www.youtube.com/watch?v=LtpVcDb94Ts)
 - [Sucker (feat. Norah Jones)](https://www.youtube.com/watch?v=pHJ7xXlsnkk)
 - [We're Not Alone - Remix (feat. Dub Trio)](https://www.youtube.com/watch?v=6CJjWVQJVeY)
+- [Mojo](https://www.youtube.com/watch?v=iiVwuTxvZHQ)
+- [Peeping Tom "Pre-School Love Affair"](https://www.youtube.com/watch?v=p0afn-HM9cY)
+- [Peeping Tom - 02 - Mojo (Feat. Rahzel & Dan The Automator)](https://www.youtube.com/watch?v=WB17RP2vmLY)
+- [Vinyl Unboxing: PEEPING TOM - Peeping Tom (Ipecac Records 2023) [Newbury Comics Exclusive]](https://www.youtube.com/watch?v=_BsZa9IHmcQ)
 
 ## Release Images
 {{< imageGrid >}}
@@ -74,5 +76,5 @@ Peeping Tom is the only studio album by American band Peeping Tom. It was releas
 | Format         | Vinyl LP Album Reissue (Tan) |
 | Label          | Ipecac Recordings |
 | Catalog Number | IPC258LP2 |
-| Notes | 2023 Reissue Indie Exclusive Tan Vinyl Die-Cut sleeve Includes Hype Sticker On Fronf  |
-| Discogs URL    | [Peeping Tom - Peeping Tom](https://www.discogs.com/release/28643479-Peeping-Tom-Peeping-Tom) |
+| Notes | 2023 Reissue Indie Exclusive Tan Vinyl Die-Cut sleeve Includes Hype Sticker On Front  Back sleeve uses CD image which is incorrect for LP, Kill the DJ is track B1, not A6 as suggested by back cover.  |
+| Discogs URL    | [Peeping Tom - Peeping Tom](https://www.discogs.com/release/28643479-Peeping-Tom-3-Peeping-Tom) |

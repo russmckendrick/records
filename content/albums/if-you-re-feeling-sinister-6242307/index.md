@@ -25,9 +25,10 @@ genres: ["Rock"]
 styles: ["Indie Rock"]
 ---
 
-With intimate storytelling, intricate orchestration, and catchy melodies, <i>If You’re Feeling Sinister</i> established the Scottish collective among the most eloquent indie bands of the ‘90s. Using a breezy mix of influences (mid-century French pop, Brit folk, and ‘80s indie pop, to name a few) songwriter Stuart Murdoch creates characters who cast the mould for Wes Anderson’s twee, bookish heroes—they’re pensive and precocious, maudlin and mischievous. But ultimately it’s the shimmering melodies of songs like “Dylan in the Movies” and “The Fox in the Snow” that make the album an unforgettable triumph.
+With intimate storytelling, intricate orchestration, and catchy melodies, <i>If You’re Feeling Sinister</i> established the Scottish collective among the most eloquent indie bands of the ‘90s. Using a breezy mix of influences (mid-century French pop, Brit folk and ‘80s indie pop, to name a few) songwriter Stuart Murdoch creates characters who cast the mould for Wes Anderson’s twee, bookish heroes—they’re pensive and precocious, maudlin and mischievous. But ultimately it’s the shimmering melodies of songs like “Dylan in the Movies” and “The Fox in the Snow” that make the album an unforgettable triumph.
 
-    
+        
+        
     
 
 
@@ -52,9 +53,12 @@ With intimate storytelling, intricate orchestration, and catchy melodies, <i>If 
 {{< youtube id="O_r2K3vvbQ0" title="Get Me Away from Here, I’m Dying" >}}<br>
 ### More Videos
 
-- [Belle and Sebastian - If You're Feeling Sinister](https://www.youtube.com/watch?v=e-jnftESRJE)
 - [If You're Feeling Sinister](https://www.youtube.com/watch?v=hS6IeXyVhV8)
 - [The Stars Of Track And Field](https://www.youtube.com/watch?v=yCYphHhF4Mo)
+- [Belle and Sebastian - If You're Feeling Sinister](https://www.youtube.com/watch?v=e-jnftESRJE)
+- [Belle and Sebastian - If You're Feeling Sinister - Pitchfork Classic](https://www.youtube.com/watch?v=4de-RHHLCBA)
+- [The Stars of Track & Field](https://www.youtube.com/watch?v=LDrCuEAHNZc)
+- [Belle and Sebastian - Get Me Away from Here, I'm Dying](https://www.youtube.com/watch?v=wcKsxHURj24)
 
 ## Release Images
 {{< imageGrid >}}
@@ -62,6 +66,7 @@ With intimate storytelling, intricate orchestration, and catchy melodies, <i>If 
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
+| Wikipedia URL | https://en.wikipedia.org/wiki/If_You%27re_Feeling_Sinister |
 | Format         | Vinyl LP Album Reissue Stereo |
 | Label          | Jeepster Recordings |
 | Catalog Number | JPRLP001 |

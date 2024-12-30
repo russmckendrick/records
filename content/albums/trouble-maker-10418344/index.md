@@ -14,15 +14,18 @@ cover:
     caption: "Trouble Maker by Rancid"
 additional_images:
     - "https://i.discogs.com/K8N3BhTp1BC9upFWOEkrYax4k3wFm2DeNklfOf1oY9M/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNDE4/MzQ0LTE1MDI2MzY2/MzUtNjk0NS5qcGVn.jpeg"
-    - "https://i.discogs.com/CjmD8CTTxtVe-stcRajmyYM4n83BDlG0Y2f6p-nQXx4/rs:fit/g:sm/q:90/h:601/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNDE4/MzQ0LTE1MDI2MzY2/MzQtNjUyNS5qcGVn.jpeg"
+    - "https://i.discogs.com/EaNnDgE_-5Gd0hgUa3wbO7M-MwzTzFWxwE-ifPGjiL4/rs:fit/g:sm/q:90/h:600/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNDE4/MzQ0LTE1MDI2MzY2/MzQtNjUyNS5qcGVn.jpeg"
+    - "https://i.discogs.com/TWoPgf5UAa8ipJUN-54qYoLeDPuxw3G9POdhmAQSUdo/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNDE4/MzQ0LTE2ODg5Mjc4/NTMtMjAzNC5qcGVn.jpeg"
+    - "https://i.discogs.com/tffUC3Hb619O3QVwCKSF4quGoE6jbP5cLdTXpEjZTCg/rs:fit/g:sm/q:90/h:594/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNDE4/MzQ0LTE2ODg5Mjc4/NTAtNTU2OC5qcGVn.jpeg"
     - "https://i.discogs.com/Az4_qQQnskOq38U_1wLx1jucytO8BH_YzpLgj_ARLQk/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNDE4/MzQ0LTE1MDI2MzY4/MDYtNzg2Ni5qcGVn.jpeg"
-    - "https://i.discogs.com/te7Y9oSmb67XjqP-JLLHL5vO1TFO6aY5SrQRkCsrCOg/rs:fit/g:sm/q:90/h:919/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNDE4/MzQ0LTE2NDAxODk0/MzUtOTUwMC5qcGVn.jpeg"
+    - "https://i.discogs.com/ssy2O0TbqrXQrzBBzsWgnIiUJAqGuQ2aqJSnj5evGaU/rs:fit/g:sm/q:90/h:600/w:391/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNDE4/MzQ0LTE2NDAxODk0/MzUtOTUwMC5qcGVn.jpeg"
 genres: ["Rock"]
 styles: ["Punk", "Ska"]
 ---
 
-Rancid’s ninth studio album arrives 24 years after their debut, but time hasn’t diminished their energy; this rollicking set finds the Berkeley punks as raw, committed, and passionate as they’ve ever been. The years have given them plenty of memories, and nostalgia rises off <i>Trouble Maker</i> like steam from a mosh pit, whether they’re saluting punk’s departed icons (“Say Goodbye to Our Heroes”), remembering good times with good company (“Buddy”), or venerating Berkeley’s activist history (“Telegraph Avenue”).
-    
+Rancid’s ninth studio album arrives 24 years after their debut, but time hasn’t diminished their energy; this rollicking set finds the Berkeley punks as raw, committed and passionate as they’ve ever been. The years have given them plenty of memories, and nostalgia rises off <i>Trouble Maker</i> like steam from a mosh pit, whether they’re saluting punk’s departed icons (“Say Goodbye to Our Heroes”), remembering good times with good company (“Buddy”) or venerating Berkeley’s activist history (“Telegraph Avenue”).
+        
+        
     
 
 
@@ -49,15 +52,7 @@ Rancid’s ninth studio album arrives 24 years after their debut, but time hasn�
 {{< applemusic url="https://music.apple.com/gb/album/trouble-maker-deluxe-edition/1485069298" >}}<br>
 
 
-## Videos
-### Where I'm Going - Rancid
-{{< youtube id="pYnKxE1ezUc" title="Where I'm Going - Rancid" >}}<br>
-### More Videos
 
-- [Say Goodbye To Our Heroes - Rancid](https://www.youtube.com/watch?v=8PAYhHL3lGs)
-- [This Is Not The End - Rancid](https://www.youtube.com/watch?v=v4KK5RKucq8)
-- [An Intimate Close Up of a Street Punk Trouble Maker - Rancid](https://www.youtube.com/watch?v=hKeH-vtQIdo)
-- [Telegraph Avenue - Rancid](https://www.youtube.com/watch?v=2hcr2RdhWJ0)
 
 ## Release Images
 {{< imageGrid >}}
@@ -65,8 +60,9 @@ Rancid’s ninth studio album arrives 24 years after their debut, but time hasn�
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
+| Wikipedia URL | https://en.wikipedia.org/wiki/Trouble_Maker_(duo) |
 | Format         | Vinyl LP Album |
 | Label          | Hellcat Records |
 | Catalog Number | 7465-1 |
-| Notes | It contains a double sided insert. |
+| Notes | It contains a double sided insert.  Runout stamped |
 | Discogs URL    | [Rancid - Trouble Maker](https://www.discogs.com/release/10418344-Rancid-Trouble-Maker) |

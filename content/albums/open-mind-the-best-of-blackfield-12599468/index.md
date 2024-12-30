@@ -12,9 +12,9 @@ cover:
     alt: "Open Mind (The Best Of Blackfield) by Blackfield"
     caption: "Open Mind (The Best Of Blackfield) by Blackfield"
 additional_images:
-    - "https://i.discogs.com/9-6GKw0Jz1-auLnUXDERKzMm63D8_PDVRMPbZIHNZrk/rs:fit/g:sm/q:90/h:605/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNTk5/NDY4LTE1OTA0NDc4/MTUtNTA3MC5qcGVn.jpeg"
-    - "https://i.discogs.com/loF-OfVdUPJsCP28XJLHNAWnxZnUHQk_Sn4bSqQdkhQ/rs:fit/g:sm/q:90/h:626/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNTk5/NDY4LTE1Mzg1NzA4/NzgtNDcxMS5qcGVn.jpeg"
-    - "https://i.discogs.com/lN3wPy6DN3clUs8MmTNzHEUGR70KspGuBiyDApJyDcM/rs:fit/g:sm/q:90/h:636/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNTk5/NDY4LTE1Mzg1NzA4/NjktOTg4MC5qcGVn.jpeg"
+    - "https://i.discogs.com/6SyXes7GqZv5y8G1BBu4pdZY89Q0C5N8zhvIYy3hKkk/rs:fit/g:sm/q:90/h:600/w:594/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNTk5/NDY4LTE1OTA0NDc4/MTUtNTA3MC5qcGVn.jpeg"
+    - "https://i.discogs.com/N2ZjVBHUxdUZWrmMW6VQjsq9_DP6Gt921Omo7y98k1w/rs:fit/g:sm/q:90/h:600/w:574/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNTk5/NDY4LTE1Mzg1NzA4/NzgtNDcxMS5qcGVn.jpeg"
+    - "https://i.discogs.com/YCQpSPR1iLbxANObhbVXoywkLH9zD0OKz7OHdxF_NZo/rs:fit/g:sm/q:90/h:600/w:565/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNTk5/NDY4LTE1Mzg1NzA4/NjktOTg4MC5qcGVn.jpeg"
     - "https://i.discogs.com/wmeiZKSnsgnAF8UZPRMbu63f3NTYxC7DLPTEgH6tGSk/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNTk5/NDY4LTE1Mzg1NzA4/NzMtNjQ2NS5qcGVn.jpeg"
     - "https://i.discogs.com/rLXEBTQCGKTojutZj9WDhJtEWn4eYCgrmeQ5sVG1w68/rs:fit/g:sm/q:90/h:592/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNTk5/NDY4LTE1Mzg1NzA4/ODktNDIwNi5qcGVn.jpeg"
     - "https://i.discogs.com/ItyGoC9zcj-_WfeB0zhM2ATuDaKC6O04SRbLMY_StfQ/rs:fit/g:sm/q:90/h:416/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNTk5/NDY4LTE1Mzg1NzA5/MDItOTkwMy5qcGVn.jpeg"

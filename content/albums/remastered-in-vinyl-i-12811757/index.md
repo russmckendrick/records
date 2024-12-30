@@ -12,14 +12,36 @@ cover:
     alt: "Remastered In Vinyl I by Kate Bush"
     caption: "Remastered In Vinyl I by Kate Bush"
 additional_images:
-    - "https://i.discogs.com/6ssxcVaPF_pRzlNa_Y_dp-Iw5EJlyPm7VI4sKNi-PEg/rs:fit/g:sm/q:90/h:606/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyODEx/NzU3LTE1NDUxNTM0/NjUtMzA5OC5qcGVn.jpeg"
-    - "https://i.discogs.com/PIkQtNIhj4nhwYYvH07HzLF5l8Yonz6_1mLq4tyQl_Q/rs:fit/g:sm/q:90/h:614/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyODEx/NzU3LTE1NDUxNTM0/NjYtNjIzMi5qcGVn.jpeg"
-    - "https://i.discogs.com/6cIAq2J0uKp6uhQ5B_HIzeNs7PBtFXCb3PEvPnSSmZ0/rs:fit/g:sm/q:90/h:3803/w:373/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyODEx/NzU3LTE1NDI3MjI0/MzItNDAxMy5qcGVn.jpeg"
+    - "https://i.discogs.com/AxJOC3TqEg7mTUj2d57FE9bq9av_291skKvPFrFW3E8/rs:fit/g:sm/q:90/h:600/w:595/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyODEx/NzU3LTE3MDk5MDE2/NTAtMjQwMC5qcGVn.jpeg"
+    - "https://i.discogs.com/QcVRUsNEkA-komH1-Qswdu1SvQ0TG_rTxJBq_PwL8rw/rs:fit/g:sm/q:90/h:600/w:591/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyODEx/NzU3LTE3MDk5MDE2/NTAtMzgyOC5qcGVn.jpeg"
+    - "https://i.discogs.com/TcqzJqzKCa7lfPZxZ4n6zz6A67sgy6ypt3zHjs_9bL0/rs:fit/g:sm/q:90/h:594/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyODEx/NzU3LTE3MDk5MDE2/NTAtMjA2MS5qcGVn.jpeg"
+    - "https://i.discogs.com/oRlPM1mP8ObwOtFDfC5Cai9HG4fDolt1uXTEfwMm5r8/rs:fit/g:sm/q:90/h:591/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyODEx/NzU3LTE3MDk5MDE2/NTAtNjc2My5qcGVn.jpeg"
+    - "https://i.discogs.com/zRWgUGZzbcxzyLaLFQ_W0zprO9MwYdApGJhcvoSezyM/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyODEx/NzU3LTE3MDk5MDE2/NTAtNjI2My5qcGVn.jpeg"
+    - "https://i.discogs.com/DGXfu-lyjVfHe5-1lT3CvOsZYh82EKSVnB2dqcMFXnU/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyODEx/NzU3LTE3MDk5MDE2/NDgtMTgzMS5qcGVn.jpeg"
+    - "https://i.discogs.com/foVfl-ZreFpu4JySBBYjh80Id2nw2i7ussmdaEfwiEk/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyODEx/NzU3LTE3MDk5MDE2/NTAtMjA2Ny5qcGVn.jpeg"
+    - "https://i.discogs.com/SwVEoewaSsgwfxqczTxsMiJrbwoGv3bajDWxYi889-w/rs:fit/g:sm/q:90/h:600/w:518/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyODEx/NzU3LTE3MDk5MDE2/NDctNTQ1MS5qcGVn.jpeg"
+    - "https://i.discogs.com/lcp0juAmLiNNXUOvSc9wMmBbsFZoXo1DnK67G1VL3uk/rs:fit/g:sm/q:90/h:578/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyODEx/NzU3LTE3MDk5MDE2/NDktNDc5MS5qcGVn.jpeg"
+    - "https://i.discogs.com/RJ5bqx17M4304GZNMNr8b4xaOyY4JGU9r5B-YOHBy14/rs:fit/g:sm/q:90/h:591/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyODEx/NzU3LTE3MDk5MDE2/NDgtNTU3Mi5qcGVn.jpeg"
+    - "https://i.discogs.com/W616pG2PEoipLN4jm3zTVUJf2rOQuiHB9f9cabsZZmE/rs:fit/g:sm/q:90/h:590/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyODEx/NzU3LTE3MDk5MDE2/NDgtNDE2My5qcGVn.jpeg"
+    - "https://i.discogs.com/3xcBTJ37ap8GPZ3Cj2vBdCyf6janRBBdUzzwg57UzXU/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyODEx/NzU3LTE3MDk5MDE2/NDktODQyMy5qcGVn.jpeg"
+    - "https://i.discogs.com/Seg07kUPdl-zo3WYA_alYGxEvE2DzLmupHX6ONrkLwc/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyODEx/NzU3LTE3MDk5MDE2/NDktOTY3MC5qcGVn.jpeg"
+    - "https://i.discogs.com/2ihYSyw-fZOpytjmnjtrmrXhjTApBr2r0FKSO1fmco4/rs:fit/g:sm/q:90/h:592/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyODEx/NzU3LTE3MDk5MDE2/NTAtMTg3Ny5qcGVn.jpeg"
+    - "https://i.discogs.com/M_V-UIiNK9LQEORo9NnqgGCyUnb9lBQciPfUgIQ20Zs/rs:fit/g:sm/q:90/h:584/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyODEx/NzU3LTE3MDk5MDE2/NDgtNzU0OS5qcGVn.jpeg"
+    - "https://i.discogs.com/gchqn5f_K2_eMIk0wi-EzbPLyBwBQaIMfxM2clQF03E/rs:fit/g:sm/q:90/h:580/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyODEx/NzU3LTE3MDk5MDE2/NTEtNjMzNC5qcGVn.jpeg"
+    - "https://i.discogs.com/P8TFU79Nt3vjMVIrzg2gotn2LfU-G-M1oPV2loZABBU/rs:fit/g:sm/q:90/h:592/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyODEx/NzU3LTE3MDk5MDE2/NDgtNDQ4MC5qcGVn.jpeg"
+    - "https://i.discogs.com/Qhz73tG8ib6W2T-RhIPlF04a57-U1yPMf0oJNsOJoFA/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyODEx/NzU3LTE3MDk5MDE2/NDktMTE3MS5qcGVn.jpeg"
+    - "https://i.discogs.com/zpnm4nv4gNdqYPF_sqLVTqIOWbLlaUDn7_dpilWmekM/rs:fit/g:sm/q:90/h:600/w:596/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyODEx/NzU3LTE3MDk5MDE2/NTAtMjMwOS5qcGVn.jpeg"
+    - "https://i.discogs.com/tcj4FWZHE8yAe8etr4tBFZBoZbqhZoRJ8K4YgCT6c8c/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyODEx/NzU3LTE3MDk5MDE2/NDgtMzU5NS5qcGVn.jpeg"
+    - "https://i.discogs.com/Lsp4RhnCT3xm5Wc4VNTvsWQKn4JTzaenqHN9DfmDPPQ/rs:fit/g:sm/q:90/h:589/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyODEx/NzU3LTE3MDk5MDE2/NDgtMTU4NC5qcGVn.jpeg"
+    - "https://i.discogs.com/Wttfh8lih2YWTVNG9qhIq0iv-grgk2vGFtv9vuvl_z8/rs:fit/g:sm/q:90/h:600/w:597/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyODEx/NzU3LTE3MDk5MDE2/NTAtNjQyOS5qcGVn.jpeg"
+    - "https://i.discogs.com/l7pg5UW4w4w_1JoTG93dQTM4dCsl6n3Ae9asnW5ghpo/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyODEx/NzU3LTE3MDk5MDE2/NTAtNzc5OC5qcGVn.jpeg"
+    - "https://i.discogs.com/zqa_zWI_NnqHkuiQ4jR8U1gIiowmP1ADdyTNlQDi7QE/rs:fit/g:sm/q:90/h:587/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyODEx/NzU3LTE3MDk5MDE2/NDgtNzY2NC5qcGVn.jpeg"
+    - "https://i.discogs.com/E8gnO_OLVK1SEP629VbDEawudp7KOp4eBp_EX3gJB-g/rs:fit/g:sm/q:90/h:592/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyODEx/NzU3LTE3MDk5MDE2/NDktNjY3MS5qcGVn.jpeg"
+    - "https://i.discogs.com/GDntxBAKTulFxTa-RrzxTr_jRL4mP6qpASQgLuA7I4Q/rs:fit/g:sm/q:90/h:600/w:574/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyODEx/NzU3LTE3MDk5MDE3/MTAtNzQ4Mi5qcGVn.jpeg"
+    - "https://i.discogs.com/KSBS9OYxqVdVS9-B1HAOOR56tO2-GaAdFkYbSsDErNA/rs:fit/g:sm/q:90/h:442/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyODEx/NzU3LTE3MDk5MDE3/MTAtODA5MS5qcGVn.jpeg"
+    - "https://i.discogs.com/odwoJu33pladc-l1nU8YfQzXiMkUAifL1vBEEaUtTr8/rs:fit/g:sm/q:90/h:600/w:58/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyODEx/NzU3LTE1NDI3MjI0/MzItNDAxMy5qcGVn.jpeg"
+    - "https://i.discogs.com/_9B_0KJ1tmo6A_Ap5YgLvGQgLRrKOXV3fHhTwkDHyVk/rs:fit/g:sm/q:90/h:49/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyODEx/NzU3LTE3MDk5MDE3/MDgtMzIzMy5qcGVn.jpeg"
     - "https://i.discogs.com/7v6c7L1XfqkHIeLHDJAgiHbAO7z1vCs5d4HMsteYb6U/rs:fit/g:sm/q:90/h:376/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyODEx/NzU3LTE1NDI2MTky/NTAtNjMwNS5qcGVn.jpeg"
-    - "https://i.discogs.com/LGNc39132PifT4dT5pBYjz_uZrLyDIGCs2iVBh6lNZA/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyODEx/NzU3LTE1NDg5MjQy/MTItNDgyOC5qcGVn.jpeg"
-    - "https://i.discogs.com/l9_7UbAJNHRVpOh5Aiz0OIRygrH_q0Q0IHG2JWzIZi8/rs:fit/g:sm/q:90/h:591/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyODEx/NzU3LTE1NDg5MjQy/MjMtMjE4Ni5qcGVn.jpeg"
-    - "https://i.discogs.com/Dt2L37TdjKGM9lUqv68uJmrvMjasYUmlyC6w4CLIwOY/rs:fit/g:sm/q:90/h:593/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyODEx/NzU3LTE1NDg5MjQy/MzEtNjg4NS5qcGVn.jpeg"
-    - "https://i.discogs.com/EvOf266X4kQzPxgChbV7wYbuxdJw_-UbieT2_BCglNo/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyODEx/NzU3LTE1NDg5MjQy/MzgtODE2NS5qcGVn.jpeg"
 genres: ["Electronic", "Rock", "Pop"]
 styles: ["Pop Rock", "Art Rock", "Prog Rock"]
 ---
@@ -76,11 +98,10 @@ styles: ["Pop Rock", "Art Rock", "Prog Rock"]
 47. Houdini
 48. Get Out Of My House
 
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/i-wanna-be-kate-the-songs-of-kate-bush/1528024140" >}}<br>
 
 
-## Videos
-### Kate Bush / 2018 remasters unboxing video
-{{< youtube id="o8DI9aOpJp4" title="Kate Bush / 2018 remasters unboxing video" >}}<br>
 
 
 ## Release Images

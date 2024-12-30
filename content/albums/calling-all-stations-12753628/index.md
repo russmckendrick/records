@@ -22,6 +22,12 @@ genres: ["Rock"]
 styles: ["Soft Rock", "Pop Rock", "Synth-pop"]
 ---
 
+...Calling All Stations... (stylised in all capitals) is the fifteenth and final studio album by English rock band Genesis. It was released 1 September 1997 by Virgin Records and is their only album featuring Scottish singer Ray Wilson as frontman following the departure of long-term drummer/singer Phil Collins in 1996, making it their only album since Trespass to not involve Collins. The remaining members—founding keyboardist Tony Banks and guitarist/bassist Mike Rutherford—decided to continue the band and write new music for an album, during which they auditioned singers and chose Wilson.
+Calling All Stations was released to mostly negative reviews from music critics who chastised its lack of direction but praised Wilson's performance. It sold poorly in comparison to their earlier albums, reaching No. 2 in the UK and performed well in Europe but it peaked at No. 54 in the US. This marked their first studio album not to reach number one in the UK since 1978. "Congo", the first of three singles from the album, went to No. 29 in the UK. The Calling All Stations Tour saw Genesis tour Europe throughout 1998 but an American leg was booked and cancelled twice due to low ticket sales. The group disbanded at the tour's conclusion, but later reunited with Collins for the Turn It On Again and The Last Domino? Tours.
+
+
+    
+    
 
 
 ## Tracklisting
@@ -60,6 +66,7 @@ styles: ["Soft Rock", "Pop Rock", "Synth-pop"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
+| Wikipedia URL | https://en.wikipedia.org/wiki/Calling_All_Stations |
 | Format         | Vinyl LP, Vinyl LP Single Sided Etched, All Media Album Reissue |
 | Label          | Rhino Records (2) |
 | Catalog Number | R1 374588 |

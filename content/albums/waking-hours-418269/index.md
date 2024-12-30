@@ -23,6 +23,8 @@ styles: ["Folk Rock", "Soft Rock", "Pop Rock"]
 ---
 
 Waking Hours is the second studio album by Scottish alternative rock band Del Amitri, released in July 1989 by A&M Records. It reached number 6 in the UK Albums Chart and featured one of the band's most famous songs, "Nothing Ever Happens", which reached number 11 in the UK Singles Chart. The album's opening track, "Kiss This Thing Goodbye", entered the top 40 of the US Billboard Hot 100 when released as a single for the second time.
+
+
     
     
 
@@ -44,11 +46,11 @@ Waking Hours is the second studio album by Scottish alternative rock band Del Am
 
 
 ## Videos
-### Del Amitri - Kiss This Thing Goodbye
-{{< youtube id="Ify_f6XoqMU" title="Del Amitri - Kiss This Thing Goodbye" >}}<br>
+### Del Amitri - Nothing ever happens (James Whale show)
+{{< youtube id="ModyRm-6uNo" title="Del Amitri - Nothing ever happens (James Whale show)" >}}<br>
 ### More Videos
 
-- [Del Amitri - Nothing ever happens (James Whale show)](https://www.youtube.com/watch?v=ModyRm-6uNo)
+- [Del Amitri - Kiss This Thing Goodbye](https://www.youtube.com/watch?v=Ify_f6XoqMU)
 
 ## Release Images
 {{< imageGrid >}}

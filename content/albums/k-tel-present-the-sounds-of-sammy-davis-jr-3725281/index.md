@@ -43,16 +43,34 @@ styles: []
 19. Have A Talk With Myself
 20. I've Gotta Be Me
 
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/the-rat-pack-live-at-the-sands/1440860308" >}}<br>
 
 
 ## Videos
-### Sammy Davis What Kind of Fool Am I
-{{< youtube id="7Jg7wFHWXT4" title="Sammy Davis What Kind of Fool Am I" >}}<br>
+### The Candy Man
+{{< youtube id="qz1syhcU39U" title="The Candy Man" >}}<br>
 ### More Videos
 
-- [Sammy Davis Jr - The Candy Man (Live in Germany 1985)](https://www.youtube.com/watch?v=rsp35yn411A)
-- [Sammy Davis Jr. Spinning Wheel](https://www.youtube.com/watch?v=DidwR29BJX0)
-- [Sammy Davis Jr. sings Spinning Wheel](https://www.youtube.com/watch?v=MWRxgyiHk1Q)
+- [Mr. Bojangles](https://www.youtube.com/watch?v=roNCodl4Wng)
+- [The Birth Of The Blues](https://www.youtube.com/watch?v=Rs3gNsvy05c)
+- [The Shelter of Your Arms](https://www.youtube.com/watch?v=8MRheN13qI4)
+- [You've Made Me So Very Happy](https://www.youtube.com/watch?v=C1iqXM239Wk)
+- [Sammy Davis Jr  Now - Time To Ride /MGM 1972](https://www.youtube.com/watch?v=MkJidUehBXo)
+- [I've Gotta Be Me - Sammy Davis Jr.](https://www.youtube.com/watch?v=OXYndNL4Mu8)
+- [Spinning Wheel](https://www.youtube.com/watch?v=HIwVz853_Ak)
+- [What Kind of Fool Am I](https://www.youtube.com/watch?v=yUILRZGAfsA)
+- [We'll Make It This Time](https://www.youtube.com/watch?v=SsShsqAIVqQ)
+- [As Long as She Needs Me](https://www.youtube.com/watch?v=NVekssQ3UtA)
+- [You're Nobody Till Somebody Loves You](https://www.youtube.com/watch?v=_atQxREmff0)
+- [Sammy Davis Jr. - Exodus (This Land Is Mine)](https://www.youtube.com/watch?v=ewsW8eOizEI)
+- [I'm Over 25 But You Can Trust Me](https://www.youtube.com/watch?v=AKzXtUsLcuI)
+- [1974 Sammy Davis, Jr. - Singin’ In The Rain](https://www.youtube.com/watch?v=zUKDPm75iCQ)
+- [I Want To Be Happy](https://www.youtube.com/watch?v=j9bMRsNU3aM)
+- [Talk to the Animals](https://www.youtube.com/watch?v=DmicMhKrhL8)
+- [Put Your Hand In The Hand - Sammy Davis Jr.](https://www.youtube.com/watch?v=y8SPppR0gdY)
+- [Willoughby Grove](https://www.youtube.com/watch?v=5Uu5mvZQ-QI)
+- [Have A Little Talk With Myself](https://www.youtube.com/watch?v=2vVKORBU2GY)
 
 ## Release Images
 {{< imageGrid >}}

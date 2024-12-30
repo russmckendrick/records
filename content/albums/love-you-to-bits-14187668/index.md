@@ -24,11 +24,10 @@ genres: ["Electronic", "Rock", "Pop"]
 styles: ["Electro", "Disco", "Ambient"]
 ---
 
-Love You to Bits is the seventh studio album by No-Man.Released as the first album for 11 years after Schoolyard Ghosts (2008), the album consists of two five-part song cycles and has been described as, "Chronicling the aftermath of a relationship from different perspectives". Within the songs, each part is called a "bit" or a "piece". Musically, the album represents a return to the more electronic, beat-driven sound of the band's earliest albums, while also incorporating conceptual and organic elements that echo approaches heard on the band's later releases.
+Love You to Bits is the seventh studio album by No-Man.
+Released as the first album for 11 years after Schoolyard Ghosts (2008), the album consists of two five-part song cycles and has been described as, "Chronicling the aftermath of a relationship from different perspectives". Within the songs, each part is called a "bit" or a "piece". Musically, the album represents a return to the more electronic, beat-driven sound of the band's earliest albums, while also incorporating conceptual and organic elements that echo approaches heard on the band's later releases.
 "Love You to Bits" (Bit 1) was released as a single in early November 2019, along with a 13-minute non-album instrumental B-side entitled "Love You to Shreds (Shreds 1–3)".
 Produced, written and performed by No-Man and mixed by Bruno Ellingham, former Miles Davis keyboard player Adam Holzman, drummer Ash Soan, The Dave Desmond Brass Quintet, No-Man live bassist Pete Morgan and Slovak Jazz guitarist David Kollar guest.
-
-
     
     
 
@@ -46,13 +45,13 @@ Produced, written and performed by No-Man and mixed by Bruno Ellingham, former M
 {{< youtube id="eWRjB06579s" title="Love You To Bits (Bit 1)" >}}<br>
 ### More Videos
 
-- [No-Man - Love You to Bits (complete)](https://www.youtube.com/watch?v=HO0cKeyf7i8)
-- [Love You To Shreds (Shreds 1-3)](https://www.youtube.com/watch?v=9epzkVDQUQc)
 - [Love You To Bits (Bit 5)](https://www.youtube.com/watch?v=UJYmPkJ3G84)
 - [Love You To Pieces (Piece 2)](https://www.youtube.com/watch?v=agTp7aqCcaQ)
 - [Love You To Pieces (Piece 3)](https://www.youtube.com/watch?v=om31vZrdvLI)
 - [Love You To Pieces (Piece 4)](https://www.youtube.com/watch?v=NEBgViwr_bQ)
 - [Love You To Pieces (Piece 5)](https://www.youtube.com/watch?v=UB0W7ax8Hws)
+- [No-Man - Love You to Bits (complete)](https://www.youtube.com/watch?v=HO0cKeyf7i8)
+- [Love You To Shreds (Shreds 1-3)](https://www.youtube.com/watch?v=9epzkVDQUQc)
 
 ## Release Images
 {{< imageGrid >}}
@@ -64,5 +63,5 @@ Produced, written and performed by No-Man and mixed by Bruno Ellingham, former M
 | Format         | Vinyl LP Album Limited Edition (Blue) |
 | Label          | Caroline International |
 | Catalog Number | CAROL020LP |
-| Notes | Burning Shed exclusive 180g blue vinyl edition. Limited to 1000 copies. Comes with an art print signed by Tim Bowness and Steven Wilson.  [Liner notes] Mixed by Bruno Ellingham at Riverside Studios, Batheaston, August 2019 Mastered by Matt Colton at Metropolis  ℗&© 2019 no-man, under exclusive license to Caroline Internatinal |
+| Notes | Burning Shed exclusive 180g blue vinyl edition. Limited to 1000 copies. Comes with an art print signed by Tim Bowness and Steven Wilson.  [Liner notes] Mixed by Bruno Ellingham at Riverside Studios, Batheaston, August 2019 Mastered by Matt Colton at Metropolis  ℗&© 2019 no-man, under exclusive license to Caroline International |
 | Discogs URL    | [No-Man - Love You To Bits](https://www.discogs.com/release/14187668-No-Man-Love-You-To-Bits) |

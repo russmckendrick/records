@@ -37,6 +37,8 @@ styles: ["Alternative Rock", "Space Rock", "Prog Rock"]
 14. Departure Lounge (6:35)
 15. Number One Son (6:04)
 
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/the-astronaut-dismantles-hal/1189717939" >}}<br>
 
 
 
@@ -51,4 +53,4 @@ styles: ["Alternative Rock", "Space Rock", "Prog Rock"]
 | Label          | Not On Label (Amplifier (3) Self-released) |
 | Catalog Number | none |
 | Notes | Limited to 500 hand-numbered copies. Comes with a full size 6-page booklet and some are signed by the band. |
-| Discogs URL    | [Amplifier - The Astronaut Dismantles HAL/Eternity](https://www.discogs.com/release/3274640-Amplifier-The-Astronaut-Dismantles-HALEternity) |
+| Discogs URL    | [Amplifier - The Astronaut Dismantles HAL/Eternity](https://www.discogs.com/release/3274640-Amplifier-3-The-Astronaut-Dismantles-HALEternity) |

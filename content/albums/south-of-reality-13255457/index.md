@@ -19,11 +19,16 @@ additional_images:
     - "https://i.discogs.com/Cr2_Tck11gXUqS9_zdmv6loCic9mXm-ECegKmVWw_DA/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMjU1/NDU3LTE1NTE1MzQy/NjYtNDgwNC5qcGVn.jpeg"
     - "https://i.discogs.com/a5Bxj8d_5I-xQ_7vMwWnjWmONs8dkFWYeXb8pp6HgZk/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMjU1/NDU3LTE1NTE1MzQy/NjctMzU3MC5qcGVn.jpeg"
     - "https://i.discogs.com/vU-TbEg1zHL_VJvsk7p17SIuKgvLdGi0RzE1dvIrH8A/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMjU1/NDU3LTE1NTE1MzQy/NjctOTYyNC5qcGVn.jpeg"
-    - "https://i.discogs.com/fHXmWSj7aPAfO0_HkthC6Y4nmnOwAgndVi9HwLRmghw/rs:fit/g:sm/q:90/h:604/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMjU1/NDU3LTE1NTE1MzQy/NzMtNTMzNC5qcGVn.jpeg"
+    - "https://i.discogs.com/CKWzfyzSbemSMd9pxxwzKTrxIjyie8Hml90vHEdx-ag/rs:fit/g:sm/q:90/h:600/w:595/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMjU1/NDU3LTE1NTE1MzQy/NzMtNTMzNC5qcGVn.jpeg"
 genres: ["Rock"]
 styles: ["Indie Rock", "Psychedelic Rock", "Art Rock"]
 ---
 
+South of Reality is the second studio album by The Claypool Lennon Delirium consisting of American multi-instrumentalists Sean Lennon and Primus' Les Claypool, released on February 22, 2019.
+
+
+    
+    
 
 
 ## Tracklisting
@@ -42,13 +47,20 @@ styles: ["Indie Rock", "Psychedelic Rock", "Art Rock"]
 
 
 ## Videos
-### The Claypool Lennon Delirium - Blood And Rockets: Movement I, Saga Of Jack Parsons - Mo...
-{{< youtube id="XcOHiGonWwU" title="The Claypool Lennon Delirium - Blood And Rockets: Movement I, Saga Of Jack Parsons - Mo..." >}}<br>
+### The Claypool Lennon Delirium - Little Fishes (Official Video)
+{{< youtube id="cZOHWyfgZdY" title="The Claypool Lennon Delirium - Little Fishes (Official Video)" >}}<br>
 ### More Videos
 
-- [The Claypool Lennon Delirium - Little Fishes (Official Video)](https://www.youtube.com/watch?v=cZOHWyfgZdY)
+- [The Claypool Lennon Delirium - Blood And Rockets: Movement I, Saga Of Jack Parsons - Mo...](https://www.youtube.com/watch?v=XcOHiGonWwU)
+- [The Claypool Lennon Delirium - Easily Charmed By Fools (Official Audio)](https://www.youtube.com/watch?v=9dXAzlrRxhY)
+- [The Claypool Lennon Delirium - Amethyst Realm (Official Audio)](https://www.youtube.com/watch?v=cHyzNmQa9Q0)
+- [The Claypool Lennon Delirium - Blood And Rockets: Movement I, Saga Of Jack Parsons - Mo...](https://www.youtube.com/watch?v=XcOHiGonWwU)
 - [The Claypool Lennon Delirium - Amethyst Realm (Audio)](https://www.youtube.com/watch?v=cHyzNmQa9Q0)
 - [The Claypool Lennon Delirium - Easily Charmed By Fools (Official Audio)](https://www.youtube.com/watch?v=9dXAzlrRxhY)
+- [The Claypool Lennon Delirium - Little Fishes (Official Video)](https://www.youtube.com/watch?v=cZOHWyfgZdY)
+- [The Claypool Lennon Delirium - Blood And Rockets: Movement I, Saga Of Jack Parsons - Mo...](https://www.youtube.com/watch?v=XcOHiGonWwU)
+- [The Claypool Lennon Delirium - Easily Charmed By Fools (Official Audio)](https://www.youtube.com/watch?v=9dXAzlrRxhY)
+- [The Claypool Lennon Delirium - Amethyst Realm (Official Audio)](https://www.youtube.com/watch?v=cHyzNmQa9Q0)
 
 ## Release Images
 {{< imageGrid >}}
@@ -56,7 +68,9 @@ styles: ["Indie Rock", "Psychedelic Rock", "Art Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
+| Wikipedia URL | https://en.wikipedia.org/wiki/South_of_Reality |
 | Format         | Vinyl 2× LP Album (Pink) |
 | Label          | Prawn Song |
 | Catalog Number | ATO 0445LP |
+| Notes | Gatefold sleeve with printed credits and lyrics on the inner pages. |
 | Discogs URL    | [The Claypool Lennon Delirium - South Of Reality](https://www.discogs.com/release/13255457-The-Claypool-Lennon-Delirium-South-Of-Reality) |

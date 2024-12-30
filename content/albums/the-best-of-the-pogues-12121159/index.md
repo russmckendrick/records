@@ -18,9 +18,15 @@ additional_images:
     - "https://i.discogs.com/HsS6XXMIXqdYxZ7ODOag-eDjLyW-pIq1LOYiu08E-lU/rs:fit/g:sm/q:90/h:575/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMTIx/MTU5LTE1NTI2OTM4/NTQtNjEzNC5qcGVn.jpeg"
     - "https://i.discogs.com/UcVhbCaocIG98qnscsz_8zCmKlFUAuMlvfO2hLCpd3s/rs:fit/g:sm/q:90/h:555/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMTIx/MTU5LTE1NTI2OTM4/NTQtOTUzNC5qcGVn.jpeg"
 genres: ["Rock", "Folk, World, & Country"]
-styles: ["Folk", "Folk Rock"]
+styles: ["Folk", "Folk Rock", "Punk"]
 ---
 
+The Best of the Pogues is a greatest hits album by the Pogues, released in September 1991.
+The album was dedicated to the memory of Deborah Korner – the partner of Pogues drummer Andrew Ranken – who died a few months before the album's release.
+
+
+    
+    
 
 
 ## Tracklisting
@@ -44,12 +50,14 @@ styles: ["Folk", "Folk Rock"]
 
 
 ## Videos
-### the pogues-sally maclennane [best quality]
-{{< youtube id="fvV5mryQF1I" title="the pogues-sally maclennane [best quality]" >}}<br>
+### The Pogues -  Fairytale Of New York (Official Video)
+{{< youtube id="j9jbdgZidu8" title="The Pogues -  Fairytale Of New York (Official Video)" >}}<br>
 ### More Videos
 
-- [The Pogues Streams Of Whiskey](https://www.youtube.com/watch?v=TaHMG_SvUkw)
+- [the pogues-sally maclennane [best quality]](https://www.youtube.com/watch?v=fvV5mryQF1I)
 - [The Pogues - If I Should Fall from Grace with God - Hockey Mom](https://www.youtube.com/watch?v=dTbth9pQTyw)
+- [The Pogues -  Fairytale Of New York (Official Video)](https://www.youtube.com/watch?v=j9jbdgZidu8)
+- [The Pogues Streams Of Whiskey](https://www.youtube.com/watch?v=TaHMG_SvUkw)
 - [The Pogues - Fiesta](https://www.youtube.com/watch?v=6pYI9t-I6qo)
 - [pogues - dirty old town](https://www.youtube.com/watch?v=kVUZuVZWHkk)
 - [The Pogues - Shane MacGowan - Body of an American](https://www.youtube.com/watch?v=BgYml2eokLA)
@@ -60,8 +68,9 @@ styles: ["Folk", "Folk Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl LP Compilation Reissue |
+| Wikipedia URL | https://en.wikipedia.org/wiki/The_Best_of_The_Pogues |
+| Format         | Vinyl LP Compilation Reissue Stereo |
 | Label          | Pogue Mahone Records |
 | Catalog Number | 0190295672560 |
-| Notes | This compilation ℗ 2018 Warner Music UK Ltd. © 2018 Warner Music UK Ltd. A Warner Music Group Company. Manufactured In The E.U. |
+| Notes | This compilation ℗ 2018 Warner Music UK Ltd. © 2018 Warner Music UK Ltd. A Warner Music Group Company. Manufactured In The E.U.  Runouts are etched. |
 | Discogs URL    | [The Pogues - The Best Of The Pogues](https://www.discogs.com/release/12121159-The-Pogues-The-Best-Of-The-Pogues) |

@@ -20,16 +20,26 @@ genres: ["Non-Music", "Stage & Screen"]
 styles: ["Comedy", "Soundtrack"]
 ---
 
-Fawlty Towers is a British television sitcom written by John Cleese and Connie Booth, originally broadcast on BBC Two in 1975 and 1979. Two series of six episodes each were made. The show was ranked first on a list of the 100 Greatest British Television Programmes drawn up by the British Film Institute in 2000 and, in 2019, it was named the greatest ever British TV sitcom by a panel of comedy experts compiled by the Radio Times.The series is set in Fawlty Towers, a fictional hotel in the seaside town of Torquay on the English Riviera. The plots centre on the tense, rude and put-upon owner Basil Fawlty (Cleese), his bossy wife Sybil (Prunella Scales), the sensible chambermaid Polly (Booth) who often is the peacemaker and voice of reason, and the hapless and English-challenged Spanish waiter Manuel (Andrew Sachs). They show their attempts to run the hotel amidst farcical situations and an array of demanding and eccentric guests and tradespeople.
-The idea of the show came from Cleese after he stayed at the Gleneagles Hotel in Torquay, Devon, in 1970 (along with the rest of the Monty Python troupe), where he encountered the eccentric hotel owner Donald Sinclair. Stuffy and snobbish, Sinclair treated guests as though they were a hindrance to his running of the hotel (a waitress who worked for him stated "it was as if he didn't want the guests to be there"). Sinclair was the inspiration for Cleese's character Basil Fawlty.
-In 1976 and 1980, Fawlty Towers won the British Academy Television Award for Best Scripted Comedy. In 1980, Cleese received the British Academy Television Award for Best Entertainment Performance, and, in a 2001 poll conducted by Channel 4, Basil Fawlty was ranked second on their list of the 100 Greatest TV Characters. The popularity of Fawlty Towers has endured, and it is often re-broadcast. The BBC profile for the series states that "the British sitcom by which all other British sitcoms must be judged, Fawlty Towers withstands multiple viewings, is eminently quotable ('don't mention the war') and stands up to this day as a jewel in the BBC's comedy crown."A sequel series starring Cleese and his daughter Camilla is in development as of February 2023. Cleese subsequently confirmed to GB News that the sequel series, unlike the original series, would not be broadcast on the BBC.
+Fawlty Towers is a British television sitcom written by John Cleese and Connie Booth, originally broadcast on BBC Two in 1975 and 1979. Two series of six episodes each were made. The series is set in Fawlty Towers, a dysfunctional fictional hotel in the English seaside town of Torquay in Devon. The plots centre on the tense, rude and put-upon owner Basil Fawlty (Cleese), his bossy wife Sybil (Prunella Scales), the sensible chambermaid Polly (Booth), and the hapless and English-challenged Spanish waiter Manuel (Andrew Sachs). They show their attempts to run the hotel amidst farcical situations and an array of demanding and eccentric guests and tradespeople.
+The idea of Fawlty Towers came from Cleese after he stayed at the Gleneagles Hotel in Torquay, Devon, in 1970 (along with the rest of the Monty Python troupe), where he encountered the eccentric hotel owner Donald Sinclair. Stuffy and snobbish, Sinclair treated guests as though they were a hindrance to his running of the hotel (a waitress who worked for him stated "it was as if he didn't want the guests to be there"). Sinclair was the inspiration for Cleese's character Basil Fawlty.
+While some critics derided Fawlty Towers upon release, the series soon received acclaim. In 1976 and 1980, it won the British Academy Television Award for Best Scripted Comedy. In 1980, Cleese received the British Academy Television Award for Best Entertainment Performance. The popularity of Fawlty Towers has endured, and it is often re-broadcast. The show was ranked first on a list of the 100 Greatest British Television Programmes drawn up by the British Film Institute in 2000, and in a 2001 poll conducted by Channel 4, Basil Fawlty was ranked second on their list of the 100 Greatest TV Characters. In 2019, it was named the greatest ever British TV sitcom by a panel of comedy experts compiled by the Radio Times. The BBC profile for the series states that "the British sitcom by which all other British sitcoms must be judged, Fawlty Towers withstands multiple viewings, is eminently quotable ('don't mention the war') and stands up to this day as a jewel in the BBC's comedy crown." In 2023, Cleese suggested that a sequel series was being developed.
     
     
 
 
 ## Tracklisting
 1. Mrs Richards
-2. Hotel Inspectors
+2. Scene 1 - Reception, Morning
+3. Scene 2 - Mrs. Richard's Room
+4. Scene 3 - Reception, That Afternoon
+5. Scene 4 - Kitchen And Reception Area, Later
+6. Scene 5 - Reception, The Next Morning
+7. Hotel Inspectors
+8. Scene 1 - Reception, Morning
+9. Scene 2 - Dining Room At Lunchtime
+10. Scene 3 - The Office In Reception
+11. Scene 4 - Dining Room A Few Minutes Later
+12. Scene 5 - Reception Area That Afternoon
 
 
 

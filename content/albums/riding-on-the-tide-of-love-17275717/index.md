@@ -22,6 +22,11 @@ genres: ["Rock"]
 styles: ["Pop Rock"]
 ---
 
+Riding on the Tide of Love is the tenth studio album by Scottish band Deacon Blue released on 5 February 2021. The lead single from the album, the title track "Riding on the Tide of Love", was released on 27 November 2020.
+
+
+    
+    
 
 
 ## Tracklisting
@@ -50,7 +55,6 @@ styles: ["Pop Rock"]
 - [Deacon Blue - Send A Note Out (Official Audio)](https://www.youtube.com/watch?v=FN848fRtE_A)
 - [Deacon Blue - Nothing's Changed (Official Audio)](https://www.youtube.com/watch?v=kkyuGrqIGAQ)
 - [Deacon Blue - She Loved The Snow (Official Audio)](https://www.youtube.com/watch?v=kk4iy86H-o0)
-- [Deacon Blue Riding On The Tide Of Love live [BBC Scotland Hogmanay 2020]](https://www.youtube.com/watch?v=C4irNbEBy88)
 - [Deacon Blue - I Will and I Won't (At Home Sessions)](https://www.youtube.com/watch?v=yiSF3N8ks8M)
 - [Deacon Blue - Only Tender Love (At Home Sessions)](https://www.youtube.com/watch?v=xPRpQFGtbqw)
 - [Deacon Blue - Chocolate Girl (At Home Sessions)](https://www.youtube.com/watch?v=T_WfwMhVrHU)
@@ -62,6 +66,7 @@ styles: ["Pop Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
+| Wikipedia URL | https://en.wikipedia.org/wiki/Riding_on_the_Tide_of_Love |
 | Format         | Vinyl LP Mini-Album Stereo |
 | Label          | Ear Music |
 | Catalog Number | 0215401EMU |

@@ -13,14 +13,14 @@ cover:
     caption: "Star Wars by John Williams"
 additional_images:
     - "https://i.discogs.com/QU5SjeR1xKItuKChca2CEwaIjew2TDgd3L-Ttv80Lk4/rs:fit/g:sm/q:90/h:567/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg1NzQ1/MzMtMTQ4MDg5Njc4/MS01MjY3LmpwZWc.jpeg"
-    - "https://i.discogs.com/xQgqtDVpR1n8mwyF2zd72evMV5HavKu9KTQGB88ZfMQ/rs:fit/g:sm/q:90/h:633/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg1NzQ1/MzMtMTQ4MDg5Njc4/MS03MzYzLmpwZWc.jpeg"
-    - "https://i.discogs.com/gaVR8LrH14Zvbi636TBdAHpZmVp1LIIS9wez3qEJ2uo/rs:fit/g:sm/q:90/h:602/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg1NzQ1/MzMtMTQ4MDg5Njc3/OS04MjMzLmpwZWc.jpeg"
-    - "https://i.discogs.com/7S1Wt4iO3q5-BE0XfcuePzVqJoLWn_zABMY4zmiRdy0/rs:fit/g:sm/q:90/h:601/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg1NzQ1/MzMtMTQ4MDg5Njc3/OS05NTgzLmpwZWc.jpeg"
-    - "https://i.discogs.com/L--so8H3bGIRoPualPaZiPM0RcpBqKFcYhQYNfS8Sa0/rs:fit/g:sm/q:90/h:602/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg1NzQ1/MzMtMTQ4MDg5Njc3/OS02OTUwLmpwZWc.jpeg"
-    - "https://i.discogs.com/2a8S2DofA2J3Wmh7AlUdxUbvd0WwUrnoUSxHVerX2us/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg1NzQ1/MzMtMTQ4MDg5Njc3/OS04NTA5LmpwZWc.jpeg"
+    - "https://i.discogs.com/5sUxDzBGBLvxrCCR9b9XNpBm9gXsZ0IldbGDKZ_E9MI/rs:fit/g:sm/q:90/h:600/w:568/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg1NzQ1/MzMtMTQ4MDg5Njc4/MS03MzYzLmpwZWc.jpeg"
+    - "https://i.discogs.com/B1rmYWdo6V51uKrHYrYGXZkZxKLPAkkXnxIXPrZ3cBY/rs:fit/g:sm/q:90/h:600/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg1NzQ1/MzMtMTQ4MDg5Njc3/OS04MjMzLmpwZWc.jpeg"
+    - "https://i.discogs.com/JjmNnjZdv_gjc4s5XqEtA4PKGH6k9lFP5S_e6K1f6J0/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg1NzQ1/MzMtMTQ4MDg5Njc3/OS05NTgzLmpwZWc.jpeg"
+    - "https://i.discogs.com/dSm7OH0PH8CVWdaMy8p7Gw3SZPR1QaD1NsGxI1n4LpY/rs:fit/g:sm/q:90/h:600/w:597/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg1NzQ1/MzMtMTQ4MDg5Njc3/OS02OTUwLmpwZWc.jpeg"
+    - "https://i.discogs.com/47ZhuqDP8r5NOUZbh1e0tP2SLOjcTf8S7UOAvPss6QI/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg1NzQ1/MzMtMTQ4MDg5Njc3/OS04NTA5LmpwZWc.jpeg"
     - "https://i.discogs.com/13EV_Me0Ym_3oFbQ_oveoKvxGzQOVYhyhyKaUf9KwoM/rs:fit/g:sm/q:90/h:594/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg1NzQ1/MzMtMTQ4MDg5Njc4/MC01NzE5LmpwZWc.jpeg"
     - "https://i.discogs.com/8witvId2EGoZ9tqOgkHAcydttTmMdEDYl89D405PmoI/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg1NzQ1/MzMtMTQ4MDg5Njc4/MC00NzM5LmpwZWc.jpeg"
-    - "https://i.discogs.com/ePyp7VrO-RIkt0nWOy1AptIcfdl4UnBDriztnxFU3KA/rs:fit/g:sm/q:90/h:750/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg1NzQ1/MzMtMTQ4MDg5Njc4/MC01MDU0LmpwZWc.jpeg"
+    - "https://i.discogs.com/-sBIIqVOx2u1lpIg7-B99z8DsbmyJSrCRDSBB8kaF80/rs:fit/g:sm/q:90/h:600/w:480/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg1NzQ1/MzMtMTQ4MDg5Njc4/MC01MDU0LmpwZWc.jpeg"
     - "https://i.discogs.com/-iDOfhVupQa0S8lJ9wgjjb4vApJtnmBzpGyvzALwAQo/rs:fit/g:sm/q:90/h:592/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg1NzQ1/MzMtMTQ4MDg5Njc3/OS05NTU4LmpwZWc.jpeg"
     - "https://i.discogs.com/wcVr7M69gvcZZenCJyr23DSAw0O2AbMRtJUCOXsUCoc/rs:fit/g:sm/q:90/h:588/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg1NzQ1/MzMtMTQ4MDg5Njc3/OS04Mjg4LmpwZWc.jpeg"
     - "https://i.discogs.com/GjxcHWZKORVPu18jja2h2Ajkd4yhKCAqDMGAVAGQ5Bc/rs:fit/g:sm/q:90/h:589/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg1NzQ1/MzMtMTQ4MDg5Njc3/OS0yODQ3LmpwZWc.jpeg"
@@ -30,8 +30,10 @@ genres: ["Classical", "Stage & Screen"]
 styles: ["Soundtrack", "Score", "Neo-Romantic"]
 ---
 
-Star Wars (Original Motion Picture Soundtrack) is the soundtrack album to the 1977 film Star Wars, composed and conducted by John Williams and performed by the London Symphony Orchestra. Williams' score for Star Wars was recorded over eight sessions at Anvil Studios in Denham, England on March 5, 8–12, 15 and 16, 1977. The score was orchestrated by Williams, Herbert W. Spencer, Alexander Courage, Angela Morley, Arthur Morton and Albert Woodbury. Spencer orchestrated the scores for The Empire Strikes Back and Return of the Jedi. The score was recorded by engineer Eric Tomlinson and edited by Kenneth Wannberg, and the scoring sessions were produced by Star Wars director George Lucas and supervised by Lionel Newman, head of 20th Century Fox's music department.
-The soundtrack album was released by 20th Century Records as a double-LP record in the United States in June 1977. The album's main title peaked at No. 10 on the Billboard Hot 100, with a disco version of the film's theme by Meco becoming a number one single hit in the United States in October 1977. The soundtrack album itself became the best-selling symphonic album of all time; it was certified Gold and Platinum by the Recording Industry Association of America, and won numerous accolades including an Academy Award, a Golden Globe Award, a BAFTA Award, and Grammy Awards in the categories of Best Original Score Written for a Motion Picture or a Television Special and Best Instrumental Composition (for the "Main Title"). It was also nominated for the Grammy Award for Album of the Year. In 2004, it was preserved by the Library of Congress into the National Recording Registry, calling it "culturally, historically, or aesthetically significant". In 2005, the American Film Institute named the original Star Wars soundtrack as the most memorable score of all time for an American film.The Star Wars soundtrack saw subsequent reissues since its initial release. In 2016, the album was re-released by Sony Classical Records on vinyl, CD, and digital formats alongside Williams' other Star Wars soundtracks. The vinyl release is pressed on 180g vinyl, and features the original 20th Century Records logo. Unlike all of Sony Classical's previous releases, however, the vinyl version is a remastered version of the original 1977 release, not the Special Edition. Walt Disney Records remastered and reissued the soundtrack on vinyl LP on December 1, 2017, and on CD and digital formats on May 4, 2018.
+Solo: A Star Wars Story (Original Motion Picture Soundtrack) is the soundtrack album to the 2018 film of the same name directed by Ron Howard, which is the second instalment in the Star Wars anthology series. The score is composed by John Powell, with Han Solo's theme conducted and composed by John Williams, whom he had collaborated with for several Star Wars films. Williams composed several demos not included in the soundtrack but later released in the deluxe edition. Besides composing the original themes, Powell also incorporated Williams' music from previous Star Wars films.
+Walt Disney Records released the soundtrack album on May 25, 2018, and debuted at third position on soundtracks chart from UK's Official Charts Company. It further received positive response and Powell won the Film Music Composition of the Year award by the International Film Music Critics Association. It was followed by a deluxe edition release on November 20, 2020, that featured Williams' additional cues and unedited demos from the score, and a 2-LP vinyl album was published by Mondo in January 2021.
+
+
     
     
 
@@ -55,13 +57,17 @@ The soundtrack album was released by 20th Century Records as a double-LP record 
 16. The Throne Room And End Title (5:28)
 
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/star-wars-a-new-hope-original-motion-picture-score/1375814280" >}}<br>
+{{< applemusic url="https://music.apple.com/gb/album/john-williams-star-wars-suite-and-other-film-music/1452597883" >}}<br>
 
 
 ## Videos
-### Star Wars A New Hope Full Soundtrack
-{{< youtube id="sDMPTZ7y1lE" title="Star Wars A New Hope Full Soundtrack" >}}<br>
+### Star Wars - A New Hope (1977) Soundtrack - J.O.H.N  W.L.L.I.A.M.S (Full Vinyl Rip)
+{{< youtube id="5HyEXrrihYE" title="Star Wars - A New Hope (1977) Soundtrack - J.O.H.N  W.L.L.I.A.M.S (Full Vinyl Rip)" >}}<br>
+### More Videos
 
+- [John Williams - Main Title from Star Wars | London Symphony Orchestra](https://www.youtube.com/watch?v=YtyrRpGAg34)
+- [Star Wars Main Theme - John Williams (London Symphony Orchestra)](https://www.youtube.com/watch?v=vKmganWCdW0)
+- [Princess Leia's Theme](https://www.youtube.com/watch?v=eyHOUMWw5_M)
 
 ## Release Images
 {{< imageGrid >}}
@@ -69,7 +75,7 @@ The soundtrack album was released by 20th Century Records as a double-LP record 
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Wikipedia URL | https://en.wikipedia.org/wiki/Star_Wars_(soundtrack) |
+| Wikipedia URL | https://en.wikipedia.org/wiki/Solo:_A_Star_Wars_Story_(soundtrack) |
 | Format         | Vinyl 2× LP Album Limited Edition Reissue (Gold) |
 | Label          | 20th Century Records |
 | Catalog Number | FMW 37/8 |

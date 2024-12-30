@@ -13,12 +13,14 @@ cover:
     caption: "Swing The Statue! by Victoria Williams"
 additional_images:
     - "https://i.discogs.com/zuwx2sQuzvf1eBouBoK6Rcp4ygifTEtjP1Jg7sTJUu0/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwNzk5/NDMtMTMxMDA0NTI3/MC5qcGVn.jpeg"
-    - "https://i.discogs.com/4u4xoTb_waXSlPZSi-Mwqrtd4VZIDO6PhVYW3ICleMM/rs:fit/g:sm/q:90/h:619/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwNzk5/NDMtMTU5MjAyNTUw/Ni04ODg3LnBuZw.jpeg"
+    - "https://i.discogs.com/q-ettMMNNQiLYVOn3H_EXmgD2JYC7AyvXgmYd8OgbXk/rs:fit/g:sm/q:90/h:600/w:580/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwNzk5/NDMtMTU5MjAyNTUw/Ni04ODg3LnBuZw.jpeg"
 genres: ["Rock", "Folk, World, & Country"]
 styles: ["Folk Rock", "Country Rock"]
 ---
 
 Swing the Statue! is the second album by American singer/songwriter Victoria Williams, released in 1990 by Rough Trade Records.
+
+
     
     
 

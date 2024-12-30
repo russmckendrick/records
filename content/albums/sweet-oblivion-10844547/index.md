@@ -12,9 +12,9 @@ cover:
     alt: "Sweet Oblivion by Screaming Trees"
     caption: "Sweet Oblivion by Screaming Trees"
 additional_images:
-    - "https://i.discogs.com/tdazjpdOXyoMPeOTpaGMWEUOQdKhwGehEjYAZhF4Cmo/rs:fit/g:sm/q:90/h:603/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwODQ0/NTQ3LTE1MDc0NTI4/MDYtNTIwNS5qcGVn.jpeg"
+    - "https://i.discogs.com/19XyglqXjqJ70Ar5irNh7izt9SDLvGUDGBQm0AAnFa0/rs:fit/g:sm/q:90/h:600/w:596/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwODQ0/NTQ3LTE1MDc0NTI4/MDYtNTIwNS5qcGVn.jpeg"
     - "https://i.discogs.com/vtOwqySCYXQk8pBDbBmFwzvtpxzVTpKJ0vGB06NffE8/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwODQ0/NTQ3LTE1MDc0NTI4/MjYtOTkxOC5qcGVn.jpeg"
-    - "https://i.discogs.com/-6d4NQL45vC6CEgJz9kNvSSWylv93WKaGomZ0U2LPkA/rs:fit/g:sm/q:90/h:609/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwODQ0/NTQ3LTE1MDc0NTI4/MzctMzY5OS5qcGVn.jpeg"
+    - "https://i.discogs.com/rs-g59CuKn9eTo2Cx2QIt7_-GAsb23wMzzeKFV5AMTk/rs:fit/g:sm/q:90/h:600/w:590/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwODQ0/NTQ3LTE1MDc0NTI4/MzctMzY5OS5qcGVn.jpeg"
     - "https://i.discogs.com/71A4NZvq57yJoHO2iF-bj5oxrVWqKtEopq0Qanpm5Mw/rs:fit/g:sm/q:90/h:591/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwODQ0/NTQ3LTE1MDc0NTI4/MjYtNDc1OC5qcGVn.jpeg"
     - "https://i.discogs.com/1IaqhM5rO36WDvQ33R_bDjt9YObtS4N2isvV9NRn5bg/rs:fit/g:sm/q:90/h:593/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwODQ0/NTQ3LTE1MDc0NTI4/NTMtMjE5OC5qcGVn.jpeg"
     - "https://i.discogs.com/VPTN692OtOOzT4ij41rGK6ufzDLw1nAwRkP4oJP9Qfw/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwODQ0/NTQ3LTE1MDc0NTI4/NDQtMTAzNi5qcGVn.jpeg"
@@ -23,7 +23,7 @@ genres: ["Rock"]
 styles: ["Alternative Rock", "Grunge"]
 ---
 
-Sweet Oblivion is the sixth studio album by Screaming Trees, released on September 8, 1992. It quickly became the band's best-selling record, and was the closest they ever came to achieving mainstream success. Sweet Oblivion sold in excess of  300,000 copies on the strength of “Nearly Lost You”. The band's biggest hit, “Nearly Lost You” benefited from an appearance on Singles: Original Motion Picture Soundtrack, a Top Ten, platinum-selling hit album which featured many other popular Seattle-based music acts from the period.
+Sweet Oblivion is the sixth studio album by Screaming Trees, released on September 8, 1992. It quickly became the band's best-selling record, and was the closest they ever came to achieving mainstream success. Sweet Oblivion sold in excess of  300,000 copies on the strength of the band's biggest hit, "Nearly Lost You". The song benefited from an appearance on Singles: Original Motion Picture Soundtrack, a Top Ten, platinum-selling hit album which featured many other popular Seattle-based music acts from the period.
 Around the time of the recording of the album, the band’s original drummer Mark Pickerel left to pursue other musical interests, and was replaced with Barrett Martin.
 Nearly four years passed in between Sweet Oblivion and the band's follow-up album, Dust, a move that hurt much of the band's commercial momentum.
     
@@ -52,10 +52,14 @@ Nearly four years passed in between Sweet Oblivion and the band's follow-up albu
 {{< youtube id="PE5f561Y1x4" title="Screaming Trees - Nearly Lost You" >}}<br>
 ### More Videos
 
-- [𝓢𝓬𝓻𝓮a̲𝖒ing T̲r̲e̲e̲s - 𝗦𝘄𝗲𝗲t̲ 🅾b̲l̲v̲i̲o̲n̲ (Full Album)](https://www.youtube.com/watch?v=LdAGDZqeTTk)
 - [Screaming Trees - Shadow of the Season](https://www.youtube.com/watch?v=vujMy_r5NsY)
 - [Screaming Trees - Dollar Bill](https://www.youtube.com/watch?v=1lfd7zeHRRs)
 - [Screaming Trees - Butterfly](https://www.youtube.com/watch?v=KjZ_Zz13wC0)
+- [𝓢𝓬𝓻𝓮a̲𝖒ing T̲r̲e̲e̲s - 𝗦𝘄𝗲𝗲t̲ 🅾b̲l̲v̲i̲o̲n̲ (Full Album)](https://www.youtube.com/watch?v=LdAGDZqeTTk)
+- [Screaming Trees - Dollar Bill](https://www.youtube.com/watch?v=1lfd7zeHRRs)
+- [Screaming Trees - Butterfly](https://www.youtube.com/watch?v=KjZ_Zz13wC0)
+- [Screaming Trees - Nearly Lost You](https://www.youtube.com/watch?v=PE5f561Y1x4)
+- [Screaming Trees - Shadow Of The Season](https://www.youtube.com/watch?v=vujMy_r5NsY)
 
 ## Release Images
 {{< imageGrid >}}

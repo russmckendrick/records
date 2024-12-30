@@ -51,7 +51,6 @@ The album followed a working hiatus by the band following the disappointing comm
 ### More Videos
 
 - [Run On Empty](https://www.youtube.com/watch?v=3buLGt6tXuM)
-- [Jesus Jones Already (Coler & Richardson version)](https://www.youtube.com/watch?v=95PjhHjJHWs)
 - [Wishing It Away](https://www.youtube.com/watch?v=J6p9kJppv98)
 - [They're Out There](https://www.youtube.com/watch?v=-vxJr1O7PSw)
 - [For A Moment](https://www.youtube.com/watch?v=rddH7lSsKrk)

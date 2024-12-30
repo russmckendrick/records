@@ -14,10 +14,10 @@ cover:
 additional_images:
     - "https://i.discogs.com/tluLXUt0zX1IOtDbBSkx3ogb2AipsK-UaScFxoNZkY4/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYyNTMx/MS0xNTI4MDEzMTY0/LTUwMDAuanBlZw.jpeg"
     - "https://i.discogs.com/8c6yGumOR2IYi4IkistDww6NTn3a-K_fojJhR1ODsEA/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYyNTMx/MS0xNTI4MDEzMTYz/LTQzNDEuanBlZw.jpeg"
+    - "https://i.discogs.com/hG9EugZrjXNB-oI7fFNn0sO4MEqntwlHFeG-6aDSpak/rs:fit/g:sm/q:90/h:600/w:594/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYyNTMx/MS0xNTI4MDEzMTYy/LTYzMzUuanBlZw.jpeg"
+    - "https://i.discogs.com/RKvfbXrItlrc9QxgUOf0yMxYoFB7H3bHtz0P6pyag08/rs:fit/g:sm/q:90/h:600/w:594/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYyNTMx/MS0xNTI4MDEzMTYz/LTMzNzcuanBlZw.jpeg"
     - "https://i.discogs.com/X5c-7UuwS_00CRkevtyyx0xd3DV40B1VA7s3Q6kVuFo/rs:fit/g:sm/q:90/h:584/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYyNTMx/MS0xNTI4MDEzMTYy/LTc4ODUuanBlZw.jpeg"
     - "https://i.discogs.com/fsVgpOyMFDmb-o5ao6bpvEfaJft9SwEYDnyDPGNVHFs/rs:fit/g:sm/q:90/h:584/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYyNTMx/MS0xNTI4MDEzMTYy/LTc2NDQuanBlZw.jpeg"
-    - "https://i.discogs.com/0-nNU4D_gmh_d4K7Vvg-LtSUIGljEde7wj0gXryN30I/rs:fit/g:sm/q:90/h:605/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYyNTMx/MS0xNTI4MDEzMTYy/LTYzMzUuanBlZw.jpeg"
-    - "https://i.discogs.com/ReerBv4o4c13N1gFf2rAlG4B9HhXIDb6YgmR6ruNpkA/rs:fit/g:sm/q:90/h:605/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYyNTMx/MS0xNTI4MDEzMTYz/LTMzNzcuanBlZw.jpeg"
     - "https://i.discogs.com/dzeBnItRc2HUULXFjsOE9YSlxqpIXHKwC4QNaIjWqhY/rs:fit/g:sm/q:90/h:509/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYyNTMx/MS0xNjcyODIxMjc2/LTM1ODMuanBlZw.jpeg"
     - "https://i.discogs.com/Evbrw3NnP4Jv_JVdZczVsY5ET3NlmWKvDxbQdsiH3kY/rs:fit/g:sm/q:90/h:365/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYyNTMx/MS0xNjcyODIxMjc2/LTI2MTUuanBlZw.jpeg"
 genres: ["Rock"]
@@ -42,7 +42,7 @@ We Care a Lot is the debut studio album by American rock band Faith No More, ori
 10. New Beginnings
 
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/we-care-a-lot-deluxe-band-edition-remastered/1116657592" >}}<br>
+{{< applemusic url="https://music.apple.com/gb/album/the-faith-no-more-collection/734506512" >}}<br>
 
 
 ## Videos
@@ -54,13 +54,12 @@ We Care a Lot is the debut studio album by American rock band Faith No More, ori
 - [The Jungle](https://www.youtube.com/watch?v=JJ5qKiOc-Bg)
 - [Mark Bowen by Faith No More](https://www.youtube.com/watch?v=By5p2rqbm5A)
 - [Jim by Faith No More](https://www.youtube.com/watch?v=oOBZthysdGY)
-- [Why Do You Bother by Faith No More](https://www.youtube.com/watch?v=m5n9nwTPqhk)
 - [Greed](https://www.youtube.com/watch?v=R4mPRUZ3oS8)
 - [Pills for Breakfast](https://www.youtube.com/watch?v=g6n3u8t7EEc)
 - [As the Worm Turns](https://www.youtube.com/watch?v=nEMpXWVibFs)
 - [Arabian Disco by Faith No More](https://www.youtube.com/watch?v=RfSPBZ2D-hQ)
 - [New Beginnings](https://www.youtube.com/watch?v=QuGYPgijH7Y)
-- [Faith No More - The Jungle Live 1986](https://www.youtube.com/watch?v=huicM5dOhFo)
+- [Faith No More - "The Jungle" Live 1986](https://www.youtube.com/watch?v=huicM5dOhFo)
 
 ## Release Images
 {{< imageGrid >}}

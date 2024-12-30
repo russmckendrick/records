@@ -13,17 +13,19 @@ cover:
     caption: "Space Ritual by Hawkwind"
 additional_images:
     - "https://i.discogs.com/4sOKKXxvMUJNC2K31jqfDF5EqIlRJJpMakHkCED42n4/rs:fit/g:sm/q:90/h:593/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4NDEy/MDg5LTE2OTU4MDg3/MzMtMzUyNC5qcGVn.jpeg"
-    - "https://i.discogs.com/Mm8QmOLtJm7on7LvEamJMEhfq0-NxmlQkUcNkQMwWD0/rs:fit/g:sm/q:90/h:606/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4NDEy/MDg5LTE2OTU4MDg3/MzItODQ3OS5qcGVn.jpeg"
+    - "https://i.discogs.com/3v9PKa7ngvDvfEKnYOaVCPvVyRLWEuXumuL2xRaPRdw/rs:fit/g:sm/q:90/h:600/w:593/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4NDEy/MDg5LTE2OTU4MDg3/MzItODQ3OS5qcGVn.jpeg"
     - "https://i.discogs.com/mxpmbAVqERhLL1lOXCV4Chh404qNQpDOdzMToPL2PPQ/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4NDEy/MDg5LTE2OTU4MDg3/MzYtODAzMS5qcGVn.jpeg"
     - "https://i.discogs.com/qxlbL7FcAxpBPgZbOJ-LyV5g7a285t_EIOfgbOVb1LY/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4NDEy/MDg5LTE2OTU4MDg3/MzYtMjM0NC5qcGVn.jpeg"
     - "https://i.discogs.com/jPJsABk4SOKaD0aD9vsdwhm9Rq3PrpcpPQr0LG9ePP0/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4NDEy/MDg5LTE2OTU4MDg3/MzctMjcxMS5qcGVn.jpeg"
-    - "https://i.discogs.com/B6MtVUfOzRgVRfdvOF_rTyr4f22YHSzAD92DtYwtjDk/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4NDEy/MDg5LTE2OTU4MDg3/MzctNzE1OS5qcGVn.jpeg"
+    - "https://i.discogs.com/MTmjcFpI3bDV0KxqFVlev_j-_q5BcEcCqXSSq7s1rf0/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4NDEy/MDg5LTE2OTU4MDg3/MzctNzE1OS5qcGVn.jpeg"
     - "https://i.discogs.com/e4IrS2ORGIpokxUPpZLTRK7ygP0sqkZclv86PLrVbP4/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4NDEy/MDg5LTE2OTU4MDg3/MzYtMTk2NC5qcGVn.jpeg"
 genres: ["Electronic", "Rock"]
 styles: ["Space Rock", "Psychedelic Rock", "Prog Rock"]
 ---
 
-The Space Ritual Alive in Liverpool and London (commonly known as Space Ritual) is a 1973 live double album recorded in 1972 by UK rock band Hawkwind. It is their fourth album, reached number 9 in the UK Albums Chart and briefly dented the Billboard Hot 200, peaking at number 179.
+Space Ritual (officially known as The Space Ritual Alive in Liverpool and London) is a 1973 live double album recorded in 1972 by UK rock band Hawkwind. It is their fourth album since their debut, Hawkwind, in 1970. It reached number 9 in the UK Albums Chart and briefly dented the Billboard Hot 200, peaking at number 179.
+
+
     
     
 
@@ -52,14 +54,13 @@ The Space Ritual Alive in Liverpool and London (commonly known as Space Ritual) 
 
 
 ## Videos
-### H̲awkwi̲nd - S̲pace R̲itual (Full Album) 1973
-{{< youtube id="iNQpQzYS1qI" title="H̲awkwi̲nd - S̲pace R̲itual (Full Album) 1973" >}}<br>
+### Earth Calling (Live) (2007 Remaster)
+{{< youtube id="8wHM6sRbImY" title="Earth Calling (Live) (2007 Remaster)" >}}<br>
 ### More Videos
 
-- [Earth Calling (Live) (2007 Remaster)](https://www.youtube.com/watch?v=8wHM6sRbImY)
 - [Born to Go (Live) (2007 Remaster)](https://www.youtube.com/watch?v=pNfRIePduqQ)
-- [Hawkwind - Master of the Universe ( Space Ritual - Heavy version)](https://www.youtube.com/watch?v=tOUxDN8cvto)
 - [Space Is Deep (Live) (2007 Remaster)](https://www.youtube.com/watch?v=4MUR7FIVNQ8)
+- [Hawkwind - Born to Go - taken from Space Ritual 1973 (animation)](https://www.youtube.com/watch?v=QAlw83pm0NY)
 
 ## Release Images
 {{< imageGrid >}}
@@ -68,8 +69,8 @@ The Space Ritual Alive in Liverpool and London (commonly known as Space Ritual) 
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Space_Ritual |
-| Format         | Vinyl 2× LP Album Limited Edition Numbered Reissue (Sky Blue With Yellow And Red Splatter) |
+| Format         | Vinyl 2× LP Album Limited Edition Numbered Reissue Remastered Stereo (Sky Blue With Yellow And Red Splatter) |
 | Label          | Atomhenge |
 | Catalog Number | QATOMLP21052 |
-| Notes | Limited to 500 hand-numbered copies sold exclusively at Rough Trade shops and online Includes a foldout poster insert |
+| Notes | Limited to 500 hand-numbered copies sold exclusively at Rough Trade shops and online Includes a foldout poster insert    [Labels] The original album remastered ℗ 2023 Parlophone Records Ltd.  © 2023 Cherry Red Records Ltd. Made in the EU  Runouts are stamped except side identifiers (A B C D) and final "⌶" character that are etched |
 | Discogs URL    | [Hawkwind - Space Ritual](https://www.discogs.com/release/28412089-Hawkwind-Space-Ritual) |

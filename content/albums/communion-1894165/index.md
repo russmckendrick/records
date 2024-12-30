@@ -72,7 +72,7 @@ The album is the band's longest to date at twenty-four tracks. After the decisio
 - [Ra 88](https://www.youtube.com/watch?v=tdaelLb86Sg)
 - [The Ego Delusion](https://www.youtube.com/watch?v=jB8luF2Oae0)
 - [The Soundtrack Of Our Lives - Second Life Replay](https://www.youtube.com/watch?v=0sOddg3lW88)
-- [THE SOUNDTRACK OF OUR LIVES Flipside (official video)](https://www.youtube.com/watch?v=I4pdG_hHnok)
+- [THE SOUNDTRACK OF OUR LIVES "Flipside" (official video)](https://www.youtube.com/watch?v=I4pdG_hHnok)
 - [The Soundtrack Of Our Lives - Lost Prophets In Vain](https://www.youtube.com/watch?v=ysC6d7H6JLs)
 
 ## Release Images

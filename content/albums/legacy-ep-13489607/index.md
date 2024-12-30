@@ -32,11 +32,11 @@ styles: ["Alternative Rock", "Indie Rock", "Britpop"]
 
 
 ## Videos
-### mansun - legacy
-{{< youtube id="vYUOCMYtzns" title="mansun - legacy" >}}<br>
+### Legacy
+{{< youtube id="smdWdonD62A" title="Legacy" >}}<br>
 ### More Videos
 
-- [Mansun - Wide Open Space (Perfecto Remix)](https://www.youtube.com/watch?v=4NLzA4o8UAI)
+- [Mansun - Legacy (Official Promo Video)](https://www.youtube.com/watch?v=QsZHy4tGvEw)
 
 ## Release Images
 {{< imageGrid >}}

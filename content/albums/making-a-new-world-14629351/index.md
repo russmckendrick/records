@@ -22,8 +22,6 @@ Making a New World is the seventh studio album by English rock band Field Music.
 The starting point for the museum project was an image called "The End of the War",  a visualisation of the vibrations from when gunfire ceased at the exact moment that the war ended. After conducting research, the Brewis brothers decided against writing songs broadly about World War I. They instead focused on individual stories inspired by technological, political, sociological, and cultural advancements over the course of the next century that directly or indirectly stemmed from the war.
 A variety of topics are addressed in the songs on Making a New World, including war reparations, social housing reforms, women's suffrage, the Dada movement, the Tiananmen Square protests, sanitary napkins, gender realignment operations, and the development of technologies such as ultrasound, synthesisers, and air-to-ground radio communication. The primary recordings for the album came from two real-time band run-throughs by Field Music, recorded in a single day shortly after the original museum performances. The band's guitarist Kevin Dosdale designed visuals used for the former's tour dates and the museum shows.
 Making a New World features a diverse mix of styles, genres, and instruments, as well as multiple shifts in mood and tone, sophisticated vocal harmony, and brief instrumental vignettes. The album received generally positive reviews from music critics and was praised for the ambition and originality, with Field Music being complimented for making such lofty subject matter enjoyable. Some critics were more negative, saying it was the wrong platform for the concept, or that too many ideas were contained to form a cohesive album.
-
-
         
         
     
@@ -59,16 +57,38 @@ Making a New World features a diverse mix of styles, genres, and instruments, as
 {{< youtube id="-2tpEGNFuvU" title="A Change of Heir" >}}<br>
 ### More Videos
 
-- [Field Music - Only In A Man's World](https://www.youtube.com/watch?v=ft__PS9rFAU)
 - [Between Nations](https://www.youtube.com/watch?v=uAG_WNGqKis)
 - [Coffee or Wine](https://www.youtube.com/watch?v=pKbn2ipegpo)
 - [An Independent State](https://www.youtube.com/watch?v=633JiD0MLws)
 - [From a Dream, into My Arms](https://www.youtube.com/watch?v=3ZkEK7qpsgI)
+- [From a Dream, into My Arms](https://www.youtube.com/watch?v=3ZkEK7qpsgI)
+- [Best Kept Garden](https://www.youtube.com/watch?v=FoSiRJxnlW8)
 - [Best Kept Garden](https://www.youtube.com/watch?v=FoSiRJxnlW8)
 - [Silence](https://www.youtube.com/watch?v=R06AHVW2Opg)
+- [Silence](https://www.youtube.com/watch?v=R06AHVW2Opg)
+- [A Common Language, Pt. 1](https://www.youtube.com/watch?v=qwfpExdpgxg)
 - [A Common Language, Pt. 1](https://www.youtube.com/watch?v=qwfpExdpgxg)
 - [A Shot to the Arm](https://www.youtube.com/watch?v=n1TUR34qlJM)
+- [A Shot to the Arm](https://www.youtube.com/watch?v=n1TUR34qlJM)
 - [Nikon, Pt. 1](https://www.youtube.com/watch?v=c6qnO2oe52g)
+- [Nikon, Pt. 1](https://www.youtube.com/watch?v=c6qnO2oe52g)
+- [A Change of Heir](https://www.youtube.com/watch?v=-2tpEGNFuvU)
+- [Between Nations](https://www.youtube.com/watch?v=uAG_WNGqKis)
+- [Coffee or Wine](https://www.youtube.com/watch?v=pKbn2ipegpo)
+- [An Independent State](https://www.youtube.com/watch?v=633JiD0MLws)
+- [From a Dream, into My Arms](https://www.youtube.com/watch?v=3ZkEK7qpsgI)
+- [From a Dream, into My Arms](https://www.youtube.com/watch?v=3ZkEK7qpsgI)
+- [Best Kept Garden](https://www.youtube.com/watch?v=FoSiRJxnlW8)
+- [Best Kept Garden](https://www.youtube.com/watch?v=FoSiRJxnlW8)
+- [Silence](https://www.youtube.com/watch?v=R06AHVW2Opg)
+- [Silence](https://www.youtube.com/watch?v=R06AHVW2Opg)
+- [A Common Language, Pt. 1](https://www.youtube.com/watch?v=qwfpExdpgxg)
+- [A Common Language, Pt. 1](https://www.youtube.com/watch?v=qwfpExdpgxg)
+- [A Shot to the Arm](https://www.youtube.com/watch?v=n1TUR34qlJM)
+- [A Shot to the Arm](https://www.youtube.com/watch?v=n1TUR34qlJM)
+- [Nikon, Pt. 1](https://www.youtube.com/watch?v=c6qnO2oe52g)
+- [Nikon, Pt. 1](https://www.youtube.com/watch?v=c6qnO2oe52g)
+- [Field Music - Only In A Man's World](https://www.youtube.com/watch?v=ft__PS9rFAU)
 
 ## Release Images
 {{< imageGrid >}}

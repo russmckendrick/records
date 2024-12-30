@@ -22,8 +22,13 @@ genres: ["Rock", "Pop", "Folk, World, & Country"]
 styles: []
 ---
 
-Dustbowl ballads and hazily anthemic hymns to heartache have always been part of Haley Bonar’s DNA. But there’s the feeling of stars aligning on the Minnesotan’s sixth record. From the cowboy-booted stomp of “Hometown” and riff-borne punchlines of “Called You Queen” (“Excuse me sir, do you have a light? I know that I can be dark”), to the strange, punky storm that is “Kismet Kill”, this is a compact, complex revelation.
-    
+"The Impossible Dream (The Quest)" is a popular song composed by Mitch Leigh, with lyrics written by Joe Darion. It is the best known tune from the 1965 Broadway musical Man of La Mancha and is also featured in the 1972 film of the same name starring Peter O'Toole.
+According to composer Mitch Lee in Soul Music - The Impossible Dream, BBC Radio 4, 2011, the original lyricist was WH Auden. "But there were disagreements with Wasserman, the book's writer, on how to adapt it. So he left."
+The complete song is first sung by Don Quixote as he stands vigil over his armor, in response to Aldonza (Dulcinea)'s question about what he means by "following the quest". It is reprised partially three more times – the last by prisoners in a dungeon as Miguel de Cervantes and his manservant mount the drawbridge-like prison staircase to face trial by the Spanish Inquisition.
+A version recorded by Jack Jones peaked at No. 35 on the U.S. Billboard Hot 100 chart and reached No. 1 on the Easy Listening chart.
+Leigh received the Contemporary Classics Award from the Songwriter's Hall of Fame for the song.
+        
+        
     
 
 
@@ -51,6 +56,12 @@ Dustbowl ballads and hazily anthemic hymns to heartache have always been part of
 - [Haley Bonar - Stupid Face](https://www.youtube.com/watch?v=zxMa4isS0Jw)
 - [Haley Bonar - I Can Change](https://www.youtube.com/watch?v=4nMyJOqUvq4)
 - [Haley Bonar - Called You Queen](https://www.youtube.com/watch?v=cBUraU3HWzA)
+- [Haley Bonar - Kismet Kill](https://www.youtube.com/watch?v=VS2VcTFqckM)
+- [Haley Bonar - Stupid Face](https://www.youtube.com/watch?v=zxMa4isS0Jw)
+- [Haley Bonar - I Can Change](https://www.youtube.com/watch?v=4nMyJOqUvq4)
+- [Haley Bonar - Called You Queen](https://www.youtube.com/watch?v=cBUraU3HWzA)
+- [Haley Bonar - Stupid Face](https://www.youtube.com/watch?v=zxMa4isS0Jw)
+- [Haley Bonar - Kismet Kill](https://www.youtube.com/watch?v=VS2VcTFqckM)
 
 ## Release Images
 {{< imageGrid >}}
@@ -58,6 +69,7 @@ Dustbowl ballads and hazily anthemic hymns to heartache have always been part of
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
+| Wikipedia URL | https://en.wikipedia.org/wiki/The_Impossible_Dream_(The_Quest) |
 | Format         | Vinyl LP Album Limited Edition (Teal / 150g) |
 | Label          | Memphis Industries |
 | Catalog Number | MI0403LP |

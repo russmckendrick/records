@@ -12,12 +12,12 @@ cover:
     alt: "MassEducation by St. Vincent"
     caption: "MassEducation by St. Vincent"
 additional_images:
-    - "https://i.discogs.com/9ZtI_Qkf42-bMQFGvuF2eAMa0TRmdglTlNz3ZYj6zCA/rs:fit/g:sm/q:90/h:602/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNjUx/NjgxLTE1Mzk0NDQ4/NzItNTkxOC5qcGVn.jpeg"
+    - "https://i.discogs.com/U5SoQustrGve8ybAmuBEiC62xGxt87KLWgTGLVnQ_Ao/rs:fit/g:sm/q:90/h:600/w:597/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNjUx/NjgxLTE1Mzk0NDQ4/NzItNTkxOC5qcGVn.jpeg"
     - "https://i.discogs.com/GD-0sAzEb9jPSOaLuc4Wmp8yvJNj2YF_bo_QP-dnZPU/rs:fit/g:sm/q:90/h:590/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNjUx/NjgxLTE1Mzk0NDQ4/NzYtNTY5My5qcGVn.jpeg"
-    - "https://i.discogs.com/EReTwgWwzKS8nyQ3vJrCekpiWr1I9_K7cLCQR1qR2LY/rs:fit/g:sm/q:90/h:603/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNjUx/NjgxLTE1Mzk0NDQ4/NzUtMjI2MC5qcGVn.jpeg"
-    - "https://i.discogs.com/ZjAfJ04pgQiDzjyXrip7GiAojLEjeDniDiHOx2CB48c/rs:fit/g:sm/q:90/h:604/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNjUx/NjgxLTE1Mzk0NDQ4/NzYtNjk2Ni5qcGVn.jpeg"
+    - "https://i.discogs.com/qx3gr-6R2GZsxNzJsjsTV8KAeJZJ-i_GalONa7i9exU/rs:fit/g:sm/q:90/h:600/w:596/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNjUx/NjgxLTE1Mzk0NDQ4/NzUtMjI2MC5qcGVn.jpeg"
+    - "https://i.discogs.com/bmjdt6p6UQnRsTGSmUIp44tOuRIKnhdo5u4pFsS2Agc/rs:fit/g:sm/q:90/h:600/w:595/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNjUx/NjgxLTE1Mzk0NDQ4/NzYtNjk2Ni5qcGVn.jpeg"
     - "https://i.discogs.com/UBOQ_Jv1wGGg4zAnvxOU_t4G2ek93bPPEA8ASMIX5uk/rs:fit/g:sm/q:90/h:402/w:399/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNjUx/NjgxLTE1NDA2NTAy/MDMtNzQ2MC5qcGVn.jpeg"
-    - "https://i.discogs.com/938FHyYynMTJg29mLRIcVwFkuK2XrjE2nSkaMv9zkuw/rs:fit/g:sm/q:90/h:783/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNjUx/NjgxLTE1NDA2NTAy/MTMtMzUwNy5qcGVn.jpeg"
+    - "https://i.discogs.com/6oXAEhJeL_bwHibJ67_tGcnyV8FkZFlzvSwQZy1Y_bc/rs:fit/g:sm/q:90/h:600/w:459/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNjUx/NjgxLTE1NDA2NTAy/MTMtMzUwNy5qcGVn.jpeg"
 genres: ["Rock"]
 styles: ["Acoustic"]
 ---

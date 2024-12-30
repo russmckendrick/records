@@ -13,7 +13,7 @@ cover:
     caption: "Public Confidential by The Beat"
 additional_images:
     - "https://i.discogs.com/sNKYhRZ6B-G9nLG-AycOC8NmlnKgZsaawNzm2qsXb_E/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMTIx/OTM0LTE1NTM3ODA1/NjAtMzgzMy5qcGVn.jpeg"
-    - "https://i.discogs.com/KIQsBzKdGRcgRwK7m4gww9NKJIjMEqbAnjyjeF_iR1k/rs:fit/g:sm/q:90/h:610/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMTIx/OTM0LTE1NDk2NDU4/ODMtOTE3Ny5qcGVn.jpeg"
+    - "https://i.discogs.com/ZYp9vUDigUEQc8Z810ajzPLaGtOwIoQhSAD-jh_Ui7k/rs:fit/g:sm/q:90/h:600/w:589/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMTIx/OTM0LTE1NDk2NDU4/ODMtOTE3Ny5qcGVn.jpeg"
     - "https://i.discogs.com/7Lk9LkRk-8cECRGFOWyF_3sAzdOZpFdfnQTUwbs404U/rs:fit/g:sm/q:90/h:584/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMTIx/OTM0LTE2ODAyOTUz/MjctOTIzNS5qcGVn.jpeg"
     - "https://i.discogs.com/GONZMYPClR3xrnzg4GM8jMPRP-DnG-zBAwQO-kjSsbY/rs:fit/g:sm/q:90/h:582/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMTIx/OTM0LTE1NDk2NDU5/MDEtNjM2Mi5qcGVn.jpeg"
     - "https://i.discogs.com/KqyaIgVDUKBR95GH5spE_XuXjkSsiDp3Hv9_3T4I1Mg/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMTIx/OTM0LTE1NDk2NDU5/MTUtNzA2MC5qcGVn.jpeg"
@@ -52,8 +52,8 @@ styles: ["Ska"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl LP Album (White Black) |
+| Format         | Vinyl LP Album (White/Black) |
 | Label          | DMF Records (3) |
 | Catalog Number | DMF 129LP |
-| Notes | Split Black/ White vinyl release. |
+| Notes | Split Black/White vinyl release. |
 | Discogs URL    | [The Beat - Public Confidential](https://www.discogs.com/release/13121934-The-Beat-6-Feat-Ranking-Roger-Public-Confidential) |

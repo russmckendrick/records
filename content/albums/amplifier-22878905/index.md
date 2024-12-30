@@ -13,15 +13,15 @@ cover:
     caption: "Amplifier by Amplifier"
 additional_images:
     - "https://i.discogs.com/D6ZUBxl-NZay2GpJorbIV-YJpOnF8F_fW_QGpNViEFY/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyODc4/OTA1LTE2NTAwNDg3/MjctNjkzMS5qcGVn.jpeg"
-    - "https://i.discogs.com/b-1TIFVyk_HM94gLOCuRhmc9R65pq4uiQrou5rlHvaA/rs:fit/g:sm/q:90/h:609/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyODc4/OTA1LTE2NTAwNDg3/MjktNjAwNC5qcGVn.jpeg"
-    - "https://i.discogs.com/JV9rzR6xg1gjeZ2HyRM7yisL__xCVbLGVbhLm3Ry1cI/rs:fit/g:sm/q:90/h:605/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyODc4/OTA1LTE2NTAwNDg3/MzEtNDY5My5qcGVn.jpeg"
-    - "https://i.discogs.com/c4EFOEta7ExmUUzM6zz-mON8Suu7HH14p-VfmAOtu7g/rs:fit/g:sm/q:90/h:619/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyODc4/OTA1LTE2NTAwNDg3/MzEtNDI4Ni5qcGVn.jpeg"
+    - "https://i.discogs.com/SfGm-K0wJ3AUAWXzG3tKY5erA8wts1Lm0y-B4WcFPgs/rs:fit/g:sm/q:90/h:600/w:591/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyODc4/OTA1LTE2NTAwNDg3/MjktNjAwNC5qcGVn.jpeg"
+    - "https://i.discogs.com/OCBf-b774GNOHRAG9JYgy-6di0qo0puOyVh4xX2VO_M/rs:fit/g:sm/q:90/h:600/w:594/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyODc4/OTA1LTE2NTAwNDg3/MzEtNDY5My5qcGVn.jpeg"
+    - "https://i.discogs.com/872m2VsFMo8-TBkMGT5rRiHg7LoMeSJUtH3du76NxI8/rs:fit/g:sm/q:90/h:600/w:581/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyODc4/OTA1LTE2NTAwNDg3/MzEtNDI4Ni5qcGVn.jpeg"
     - "https://i.discogs.com/oJB2yL_Rt-3Op2t6r1ILn4zH5Kper2kop6SGtxzrO7o/rs:fit/g:sm/q:90/h:583/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyODc4/OTA1LTE2NTAwNDg3/MzItMjU1Mi5qcGVn.jpeg"
     - "https://i.discogs.com/3p7IKrtvWoTloOH-FidoDhcYx5jr_V4qMZ1izU7NbeA/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyODc4/OTA1LTE2NTAwNDg3/MzItNzExMi5qcGVn.jpeg"
-    - "https://i.discogs.com/AZZRbukvgWvR6aU9lS9G3099LoKGGQWtdeFQLXsuSoo/rs:fit/g:sm/q:90/h:609/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyODc4/OTA1LTE2NTAwNDg3/MzMtNzU1NC5qcGVn.jpeg"
-    - "https://i.discogs.com/Vm31WZV9C_JZNoXLgDrhv_algHxbC6oG0eubFKEt19Q/rs:fit/g:sm/q:90/h:605/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyODc4/OTA1LTE2NTAwNDg3/MzMtNTI1MS5qcGVn.jpeg"
-    - "https://i.discogs.com/EYK7ojNPHRvp1Tse2zNsLaWnjhQNERy2tBVkMTGC8Zk/rs:fit/g:sm/q:90/h:602/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyODc4/OTA1LTE2NTAwNDg3/MzQtOTY5MC5qcGVn.jpeg"
-    - "https://i.discogs.com/-Fq_BPqiSP1z50UsjFWTG4rmSET50juFGpn6Rnuf87E/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyODc4/OTA1LTE2NTAwNDg3/MzQtNzUzMi5qcGVn.jpeg"
+    - "https://i.discogs.com/MdK9jBELOBy7Q0-ChpnByyyjGgSqjDn9kRpsfU4XW8Y/rs:fit/g:sm/q:90/h:600/w:590/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyODc4/OTA1LTE2NTAwNDg3/MzMtNzU1NC5qcGVn.jpeg"
+    - "https://i.discogs.com/Kajk_lZKp754k6xDrRG6pdyfzLZlr9LVecQC-hVb34k/rs:fit/g:sm/q:90/h:600/w:594/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyODc4/OTA1LTE2NTAwNDg3/MzMtNTI1MS5qcGVn.jpeg"
+    - "https://i.discogs.com/JDZViH1vWOZ2fTzPnlNn9FbMK8iMP6FbWg9ImuUpsTY/rs:fit/g:sm/q:90/h:600/w:597/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyODc4/OTA1LTE2NTAwNDg3/MzQtOTY5MC5qcGVn.jpeg"
+    - "https://i.discogs.com/z0e55rkGCnmqoGbw-humIJW_PFpfX-fHAE8Hw74VchU/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyODc4/OTA1LTE2NTAwNDg3/MzQtNzUzMi5qcGVn.jpeg"
 genres: ["Rock"]
 styles: ["Alternative Rock", "Prog Rock", "Space Rock"]
 ---
@@ -40,8 +40,8 @@ The critical reception of the album was generally positive, with comments such a
 2. Airborne (8:29)
 3. Panzer (7:03)
 4. Old Movies (5:50)
-5. Neon (4:17)
-6. Post Acid Youth (6:06)
+5. Post Acid Youth (6:06)
+6. Neon (4:17)
 7. On/Off (6:34)
 8. The Consultancy (4:59)
 9. One Great Summer (5:57)
@@ -49,7 +49,7 @@ The critical reception of the album was generally positive, with comments such a
 11. Glory Electricity (7:36)
 
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/amplifier/1201106185" >}}<br>
+{{< applemusic url="https://music.apple.com/gb/album/amplifier-ep/1584527992" >}}<br>
 
 
 ## Videos
@@ -67,4 +67,4 @@ The critical reception of the album was generally positive, with comments such a
 | Format         | Vinyl LP (Black/Grey Marbled), Vinyl LP (Red/Yellow Marbled), All Media Album Limited Edition Reissue Remastered |
 | Label          | Rockosmos |
 | Catalog Number | none |
-| Discogs URL    | [Amplifier - Amplifier](https://www.discogs.com/release/22878905-Amplifier-Amplifier) |
+| Discogs URL    | [Amplifier - Amplifier](https://www.discogs.com/release/22878905-Amplifier-3-Amplifier) |

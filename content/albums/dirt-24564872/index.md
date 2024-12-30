@@ -4,7 +4,7 @@ artist_name: "Alice In Chains"
 artist: "alice-in-chains"
 album_name: "Dirt"
 date: 2022-09-25T07:16:40.000000Z
-release_date: "1992-09-29"
+release_date: "1995-11-07"
 release_id: "24564872"
 slug: "dirt-24564872"
 hideSummary: true
@@ -13,24 +13,24 @@ cover:
     alt: "Dirt by Alice In Chains"
     caption: "Dirt by Alice In Chains"
 additional_images:
-    - "https://i.discogs.com/yLhxTmC4bVzdrTDYqMNwIuUHuQS54NLUmqkuW7h6aIg/rs:fit/g:sm/q:90/h:605/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NTY0/ODcyLTE2NjQwMTY2/NTgtMzYyNy5qcGVn.jpeg"
+    - "https://i.discogs.com/mAVLiwf4iJsE9xbxBoWu34ZPXkiZh9m62XbORXGUkiY/rs:fit/g:sm/q:90/h:600/w:594/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NTY0/ODcyLTE2NjQwMTY2/NTgtMzYyNy5qcGVn.jpeg"
     - "https://i.discogs.com/lAgZRJCkPKG7QbU7G3r0aIm0mQ0F_Y_iHhl9d85YDts/rs:fit/g:sm/q:90/h:581/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NTY0/ODcyLTE2NjM2MjQ2/OTMtOTAwMS5qcGVn.jpeg"
-    - "https://i.discogs.com/RWLIphvNJg6Wes9Jn7c1htifWO9mkdXvz_IctedX0-E/rs:fit/g:sm/q:90/h:630/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NTY0/ODcyLTE2NjM2MjQ2/ODQtNTM3MC5qcGVn.jpeg"
+    - "https://i.discogs.com/51ftomRh6yTMEvkKvpIPWfWE9DuuULoEr1rHB_xUFPw/rs:fit/g:sm/q:90/h:600/w:570/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NTY0/ODcyLTE2NjM2MjQ2/ODQtNTM3MC5qcGVn.jpeg"
     - "https://i.discogs.com/55855UPk9dpbbbG91AAjZzCSzDPnlga0pX4DDJu1hpc/rs:fit/g:sm/q:90/h:574/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NTY0/ODcyLTE2NjM2MjQ4/MDgtODA1Mi5qcGVn.jpeg"
-    - "https://i.discogs.com/NzQKI7Isf6rOn3pf51tPTM5s8p_HKIjvNfTj0nMbH8U/rs:fit/g:sm/q:90/h:612/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NTY0/ODcyLTE2NjM2MjU4/NDUtMTA0Ny5qcGVn.jpeg"
+    - "https://i.discogs.com/_ryyS25s5z_VmI8f2ZtqhHi_4vJDVITgNCBYnGrJqXs/rs:fit/g:sm/q:90/h:600/w:588/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NTY0/ODcyLTE2NjM2MjU4/NDUtMTA0Ny5qcGVn.jpeg"
     - "https://i.discogs.com/3v_23VHchVrY4IU8M_Lx3QzgWpSpmjrjXKA7iCLQYw0/rs:fit/g:sm/q:90/h:573/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NTY0/ODcyLTE2NjM2MjU4/NDQtNTM2NC5qcGVn.jpeg"
-    - "https://i.discogs.com/2p2vafD8kz2va7PUYn5_wldN64icwlUfc7dytuRlSQM/rs:fit/g:sm/q:90/h:612/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NTY0/ODcyLTE2NjM2MjU4/NzMtMjc4NS5qcGVn.jpeg"
-    - "https://i.discogs.com/ASieqy1qm0yZs8DRT1_ShyWdj36CGu7F_bk5PQ520fU/rs:fit/g:sm/q:90/h:622/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NTY0/ODcyLTE2NjM2MjU4/NzMtNzc5MS5qcGVn.jpeg"
-    - "https://i.discogs.com/dezmWtnwc52hPCuhEGUpNMCBcMMV2sVCZrPZbFsGjj8/rs:fit/g:sm/q:90/h:744/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NTY0/ODcyLTE2NjQwMTY2/NTgtNTk3MC5qcGVn.jpeg"
+    - "https://i.discogs.com/p24YySzPfozJr423e9J81Y2FDLwr7aBr6exU3RcUPeY/rs:fit/g:sm/q:90/h:600/w:588/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NTY0/ODcyLTE2NjM2MjU4/NzMtMjc4NS5qcGVn.jpeg"
+    - "https://i.discogs.com/TN2viU51xYjLOPRpQcAzLlhvMnSNDZFp32d4bLK9aps/rs:fit/g:sm/q:90/h:600/w:577/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NTY0/ODcyLTE2NjM2MjU4/NzMtNzc5MS5qcGVn.jpeg"
+    - "https://i.discogs.com/NZzdJ9V-viKDnR8TJfsGOVTse04-j_kA3pMjzTjQkS4/rs:fit/g:sm/q:90/h:600/w:483/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NTY0/ODcyLTE2NjQwMTY2/NTgtNTk3MC5qcGVn.jpeg"
 genres: ["Rock"]
 styles: ["Alternative Metal", "Grunge", "Hard Rock"]
 ---
 
-Dirt is the second studio album by the American rock band Alice in Chains, released on September 29, 1992, through Columbia Records. Peaking at No. 6 on the Billboard 200 chart, the album received critical acclaim. It has since been certified 5x Platinum by the RIAA, making Dirt the band's highest selling album to date.  It was the band's last album recorded with all four original members, as bassist Mike Starr was fired in January 1993 during the tour to support the album. The album spawned five singles: "Would?", "Them Bones", "Angry Chair", "Rooster", and "Down in a Hole", all with accompanying music videos. Dirt was nominated for a Grammy Award for Best Hard Rock Performance. The music video for "Would?" was nominated for an MTV Video Music Award for Best Video from a Film, as the song was featured on the soundtrack to Cameron Crowe's 1992 film Singles.
-The album features dark subject matter, focusing primarily on depression, pain, anger, anti-social behavior, relationships, drug addiction (primarily heroin), war, death, and other emotionally charged topics. The track "Iron Gland" features Tom Araya from Slayer on vocals. Most of the music from the album was written by guitarist Jerry Cantrell, but for the first time vocalist Layne Staley wrote two songs by himself ("Hate to Feel" and "Angry Chair"), both also featuring Staley on guitar. 
-Retrospectively, the album has continued to receive acclaim, with Rolling Stone placing the album at No. 26 on its list of the “100 Greatest Metal Albums of All Time”. Dirt was included in the 2005 book 1001 Albums You Must Hear Before You Die. It was voted "Kerrang! Critic's Choice Album of the Year". Guitar World named Dirt as the best guitar album of 1992. Loudwire named it as one of the best metal albums of the 1990s, and Rolling Stone ranked it at No. 6 on its list of "50 Greatest Grunge Albums" in 2019.
+The bulk of <i>Alice in Chains</i>’ lyrics poetically reference heroin addiction to a degree that even Alice in Chains had not explored before. But the great and saddening irony of their self-titled third album is that while lead vocalist Layne Staley wrote most of its lyrics (with exceptions of singles “Grind”, “Heaven Beside You” and closer “Over Now”), he performed almost none of them to fruition.
 
+Guitarist Jerry Cantrell later recalled that Staley’s addiction was then so severe, he often simply wouldn’t show up to the sessions—and if he did, he struggled to vocalise and would usually fall asleep. It led Cantrell to assume most singing duties, layering his own voice alongside what could be made of Staley’s takes (both sides of this compromise are most starkly audible on the vocally exposed “Shame in You”). As a result, the band’s defining penchant for dreary harmonies almost never recedes to a lead vocal line, as it had on previous albums. It was easy enough; Cantrell had written most of the music with his own solo project in mind, not expecting to reconnect with Staley after the group disbanded for six months in 1994 when their collective habits saw them infamously cancel a tour with Metallica. By the time the band reconvened for <i>Alice in Chains</i> in 1995, they were more or less rehabilitated except for Staley, who was in worse condition than before. It formed a creative prism that caught only the darkest light of the five stages of grief as recording went on, going some way to explaining why tracks like “God Am” and, fittingly, “Sludge Factory”, grunged their way into the more hopeless morasses of sludge metal.
 
+“Head Creeps”—the only track to solely credit Staley—alternately accepts his current predicament (“No more time/Just one more time”) and rejects its visibility to onlookers: “Tired of infantile claims/Like puppets on a string/So untangle you from me.” That the record opens with Cantrell’s angry denialism of “In your darkest hole, you’d be well-advised/Not to plan my funeral ’fore the body dies” from “Grind”—and came wrapped in haunting neon black artwork of disfigured animals and mutant folkloric figures seemingly awaiting trial—was a subconscious terror. <i>Alice in Chains</i> is the story of an addict on the edge told by caring disbelievers below that, tragically, played out its third act in real life. In 1996, Staley’s live-in partner Demri Parrott overdosed on heroin and died—prompting Staley to largely lock himself away from society until his own life was similarly claimed in 2002.
         
         
     
@@ -52,20 +52,20 @@ Retrospectively, the album has continued to receive acclaim, with Rolling Stone 
 13. Would? (3:27)
 
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/dirt-remastered/157316517" >}}<br>
+{{< applemusic url="https://music.apple.com/gb/album/alice-in-chains/158711724" >}}<br>
 
 
 ## Videos
-### Alice In Chains - Rooster (Official HD Video)
-{{< youtube id="uAE6Il6OTcs" title="Alice In Chains - Rooster (Official HD Video)" >}}<br>
+### Alice In Chains - Them Bones (Official HD Video)
+{{< youtube id="zTuD8k3JvxQ" title="Alice In Chains - Them Bones (Official HD Video)" >}}<br>
 ### More Videos
 
-- [Alice In Chains - Them Bones (Official HD Video)](https://www.youtube.com/watch?v=zTuD8k3JvxQ)
-- [Alice In Chains - Angry Chair (Official HD Video)](https://www.youtube.com/watch?v=IpEXM1Yziws)
-- [Alice In Chains - Would? (Official HD Video)](https://www.youtube.com/watch?v=Nco_kh8xJDs)
 - [Dam That River](https://www.youtube.com/watch?v=UVFd4tpphvE)
 - [Rain When I Die](https://www.youtube.com/watch?v=v8uJoLJJP70)
+- [Alice In Chains - Rooster (Official HD Video)](https://www.youtube.com/watch?v=uAE6Il6OTcs)
+- [Alice In Chains - Angry Chair (Official HD Video)](https://www.youtube.com/watch?v=IpEXM1Yziws)
 - [Alice In Chains - Down in a Hole (Official Video)](https://www.youtube.com/watch?v=f8hT3oDDf6c)
+- [Alice In Chains - Would? (Official HD Video)](https://www.youtube.com/watch?v=Nco_kh8xJDs)
 - [Junkhead](https://www.youtube.com/watch?v=bjOG0meK-vk)
 - [Dirt](https://www.youtube.com/watch?v=kfmatjm2NdU)
 - [God Smack](https://www.youtube.com/watch?v=Q0L_YzqdzjQ)

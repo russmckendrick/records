@@ -24,6 +24,8 @@ styles: ["Alternative Rock"]
 ---
 
 Someone Here Is Missing is the eighth studio album by The Pineapple Thief, featuring cover art by Storm Thorgerson.
+
+
     
     
 
@@ -58,5 +60,5 @@ Someone Here Is Missing is the eighth studio album by The Pineapple Thief, featu
 | Format         | Vinyl LP Album Remastered Repress |
 | Label          | Kscope |
 | Catalog Number | KSCOPE1028 |
-| Notes |  Recorded in Yeovil (UK) between November 2008 and December 2009 by Bruce Soord. Mixed by Steve Kitch and Mark Bowyer @ Soord Studios, Yeovil. Remastered in 2018 by Steve Kitch.  |
+| Notes | Recorded in Yeovil (UK) between November 2008 and December 2009 by [...]. Mixed by [...] and [...] @ [...], Yeovil. Remastered in 2018 by [...]. |
 | Discogs URL    | [The Pineapple Thief - Someone Here Is Missing](https://www.discogs.com/release/13312163-The-Pineapple-Thief-Someone-Here-Is-Missing) |

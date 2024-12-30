@@ -18,12 +18,14 @@ additional_images:
     - "https://i.discogs.com/XkO8xQKPrCWTyuYZhd5kKkLe7BpgCRhtrJ33jReSX6Y/rs:fit/g:sm/q:90/h:586/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMjgx/NTg0LTE1NTI4Mzc5/MjctMTI4Mi5qcGVn.jpeg"
     - "https://i.discogs.com/uC9wA4gHCU1qCq7ESJP9VB8s0JVSyZ2Ni6wrOMBktoI/rs:fit/g:sm/q:90/h:592/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMjgx/NTg0LTE1NTI4Mzc5/MjctOTAyOS5qcGVn.jpeg"
     - "https://i.discogs.com/kwdWeyWOLXw_rkFH8k2oxGU0NBXwnkI8rMZdTd8ujGc/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMjgx/NTg0LTE1NTI4Mzc5/MjgtODQyNi5qcGVn.jpeg"
-    - "https://i.discogs.com/0FtcG7HC8HBcD8qNrkUdufIN_VRjjyOuXvtytpxveZ0/rs:fit/g:sm/q:90/h:1200/w:503/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMjgx/NTg0LTE1Nzk3MTQx/MzItOTE4Ni5qcGVn.jpeg"
+    - "https://i.discogs.com/mbsuuS5xR2Pmg76_BXA1BKHBrVktybyIUKWEPFRXdSU/rs:fit/g:sm/q:90/h:600/w:251/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMjgx/NTg0LTE1Nzk3MTQx/MzItOTE4Ni5qcGVn.jpeg"
 genres: ["Electronic"]
 styles: ["Electro", "Synth-pop"]
 ---
 
-I, Assassin is the fourth solo studio album by English new wave musician Gary Numan, released on 10 September 1982 by Beggars Banquet. It peaked at No. 8 on the UK Album Chart. Three singles were released from the album: "Music for Chameleons", "We Take Mystery (To Bed)" and "White Boys and Heroes", all of which reached the UK Top 20 ("We Take Mystery" peaked at No. 9, and is Numan's last Top 10 single to date).
+I, Assassin is the fourth solo studio album by the English new wave musician Gary Numan, released on 10 September 1982 by Beggars Banquet. It peaked at No. 8 on the UK Album Chart. Three singles were released from the album: "Music for Chameleons", "We Take Mystery (To Bed)" and "White Boys and Heroes", all of which reached the UK Top 20 ("We Take Mystery" peaked at No. 9, and is Numan's last Top 10 single to date).
+
+
     
     
 
@@ -43,23 +45,22 @@ I, Assassin is the fourth solo studio album by English new wave musician Gary Nu
 
 
 ## Videos
-### White Boys and Heroes
-{{< youtube id="_R-8V9Ody8s" title="White Boys and Heroes" >}}<br>
+### We Take Mystery (To Bed)
+{{< youtube id="sM7odiEO1k8" title="We Take Mystery (To Bed)" >}}<br>
 ### More Videos
 
-- [War Games](https://www.youtube.com/watch?v=-wm7x18Xiqs)
-- [War Songs](https://www.youtube.com/watch?v=muLUYXAuLcQ)
-- [Glitter and Ash](https://www.youtube.com/watch?v=Ieqb9gqQ1jY)
-- [A Dream of Siam](https://www.youtube.com/watch?v=i0Xpc62vASU)
-- [This House Is Cold](https://www.youtube.com/watch?v=9ZpdwtYphMc)
 - [Music for Chameleons](https://www.youtube.com/watch?v=qseh-XKWvig)
-- [Gary Numan / I, Assassin / Noise Noise  (Audio)](https://www.youtube.com/watch?v=7fADQl-x-dQ)
+- [War Songs](https://www.youtube.com/watch?v=muLUYXAuLcQ)
+- [A Dream of Siam](https://www.youtube.com/watch?v=i0Xpc62vASU)
 - [This Is My House](https://www.youtube.com/watch?v=PhEeiju5XYw)
-- [Gary Numan / I, Assassin / We Take Mystery (Early Version)  (Audio)](https://www.youtube.com/watch?v=_JL6fXPNA-Y)
 - [I, Assassin](https://www.youtube.com/watch?v=Swva7YEvDsk)
-- [Bridge? What Bridge?](https://www.youtube.com/watch?v=8X5yt6h3Bks)
 - [The 1930's Rust](https://www.youtube.com/watch?v=H-MZD3Kuwkg)
-- [We Take Mystery (To Bed)](https://www.youtube.com/watch?v=sM7odiEO1k8)
+- [War Games](https://www.youtube.com/watch?v=-wm7x18Xiqs)
+- [Glitter and Ash](https://www.youtube.com/watch?v=Ieqb9gqQ1jY)
+- [This House Is Cold](https://www.youtube.com/watch?v=9ZpdwtYphMc)
+- [Gary Numan / I, Assassin / Noise Noise  (Audio)](https://www.youtube.com/watch?v=7fADQl-x-dQ)
+- [Gary Numan / I, Assassin / We Take Mystery (Early Version)  (Audio)](https://www.youtube.com/watch?v=_JL6fXPNA-Y)
+- [Bridge? What Bridge?](https://www.youtube.com/watch?v=8X5yt6h3Bks)
 
 ## Release Images
 {{< imageGrid >}}
@@ -71,5 +72,5 @@ I, Assassin is the fourth solo studio album by English new wave musician Gary Nu
 | Format         | Vinyl LP Album Reissue Remastered Stereo (Green) |
 | Label          | Beggars Banquet |
 | Catalog Number | BBQLP 40 |
-| Notes | Pressed on Dark Green Vinyl. Released through the Beggars Banquet "The Arkive" project Restored from the original analogue tapes. |
+| Notes | Pressed on dark green vinyl. Released through the Beggars Banquet "The Arkive" project Restored from the original analogue tapes. |
 | Discogs URL    | [Gary Numan - I, Assassin](https://www.discogs.com/release/13281584-Gary-Numan-I-Assassin) |

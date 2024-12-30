@@ -4,7 +4,7 @@ artist_name: "Ozzy Osbourne"
 artist: "ozzy-osbourne"
 album_name: "Blizzard Of Ozz"
 date: 2021-03-27T09:19:14.000000Z
-release_date: "1980-09-12"
+release_date: "2003-02-11"
 release_id: "18000301"
 slug: "blizzard-of-ozz-18000301"
 hideSummary: true
@@ -13,8 +13,8 @@ cover:
     alt: "Blizzard Of Ozz by Ozzy Osbourne"
     caption: "Blizzard Of Ozz by Ozzy Osbourne"
 additional_images:
-    - "https://i.discogs.com/fzUTBp-HFjv71JWJevC1xoWcTsLcGFI8mZp_7xlUWF4/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4MDAw/MzAxLTE2MTY3NTQy/MzAtMzQxNy5qcGVn.jpeg"
-    - "https://i.discogs.com/rc74pSQmZon5lhnjgByiQRht7qIP5sgOzv2_I8NME5Y/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4MDAw/MzAxLTE2MTY3NTQy/MzAtODgwMS5qcGVn.jpeg"
+    - "https://i.discogs.com/7P3P_UV461KAZQZX_VaBvJnr4d9qrPmauhLcDlxPSLQ/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4MDAw/MzAxLTE2MTY3NTQy/MzAtMzQxNy5qcGVn.jpeg"
+    - "https://i.discogs.com/yhJtrReWShMstZJDET7G8qFZW7UuAyk4aGBddL8-1w8/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4MDAw/MzAxLTE2MTY3NTQy/MzAtODgwMS5qcGVn.jpeg"
     - "https://i.discogs.com/KIpPsmby7fbbh0T2HqphouHFnZXky9zn9X5KAB3NFiQ/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4MDAw/MzAxLTE2MTg3NjU2/MzgtNzgxMS5qcGVn.jpeg"
     - "https://i.discogs.com/S95f9EHyHGBLKljNKC9JQSaID6RR_K6a1lA7o9w0cS0/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4MDAw/MzAxLTE2MTg3NjU2/MzgtMjg2NS5qcGVn.jpeg"
     - "https://i.discogs.com/OUw_Fhrtcdicp4Nbbj-__K_V4nmIdb7mpsLeymdFpUI/rs:fit/g:sm/q:90/h:594/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4MDAw/MzAxLTE2NjI2Mzc4/MDQtMTkzMS5qcGVn.jpeg"
@@ -26,7 +26,7 @@ genres: ["Rock"]
 styles: ["Heavy Metal"]
 ---
 
-Ozzy Osbourne’s first solo effort in 1980 was a startling break from his old band. Ditching Black Sabbath’s hairy stoner grooves, the singer forged a bold new approach to heavy metal, one reliant upon the classical training of his guitarist, Randy Rhoads, whose runs and compositional genius were the perfect complement to Ozzy’s meditations on paranoia, death, and sin. “Crazy Train,” “I Don’t Know,” “Mr. Crowley”—these aren’t songs so much as skillfully choreographed dances between seething dread and melodic elegance.
+This hefty anthology charts the sinister evolution of heavy metal’s dark prince between 1980 and 2003. Osbourne comes storming out of the gates with early-career classics that speak to his innovations as a solo artist. Guitarist Randy Rhoads’ straight-razor precision on “Crazy Train” laid the foundation for the neoclassical metal movement, while the atmospheric spine-chiller “Mr. Crowley” kick-started a new wave of graphic occult metal. The icon’s legacy as a power balladeer is also represented with the disarmingly vulnerable “Mama, I’m Coming Home”.
         
         
     
@@ -44,7 +44,7 @@ Ozzy Osbourne’s first solo effort in 1980 was a startling break from his old b
 9. Steal Away (The Night) (3:27)
 
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/blizzard-of-ozz-40th-anniversary-expanded-edition/1531535089" >}}<br>
+{{< applemusic url="https://music.apple.com/gb/album/the-essential-ozzy-osbourne/1490649767" >}}<br>
 
 
 ## Videos
@@ -52,8 +52,8 @@ Ozzy Osbourne’s first solo effort in 1980 was a startling break from his old b
 {{< youtube id="o0RE230PlX4" title="Mr. Crowley" >}}<br>
 ### More Videos
 
+- [OZZY OSBOURNE - "Crazy Train" (Official Video)](https://www.youtube.com/watch?v=FVovq9TGBw0)
 - [I Don't Know](https://www.youtube.com/watch?v=JNm6bucMPmY)
-- [OZZY OSBOURNE - Crazy Train (Official Video)](https://www.youtube.com/watch?v=FVovq9TGBw0)
 - [Goodbye to Romance](https://www.youtube.com/watch?v=pnhTPeKijdQ)
 - [Dee](https://www.youtube.com/watch?v=J9BQRMBjUOY)
 - [Suicide Solution](https://www.youtube.com/watch?v=yVSmiDJB-PI)
@@ -68,8 +68,8 @@ Ozzy Osbourne’s first solo effort in 1980 was a startling break from his old b
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Blizzard_of_Ozz |
-| Format         | Vinyl LP Album Reissue (Silver With Red Swirls) |
+| Format         | Vinyl LP Album Reissue Stereo (Silver With Red Swirls) |
 | Label          | Epic |
 | Catalog Number | 19439812511 |
-| Notes | Made in the EU.  Includes printed inner sleeve containing lyrics, publishing information, and words/music by information.  |
+| Notes | Includes printed inner sleeve containing lyrics, publishing information, and words/music by information. Track A4 is an instrumental.  Rear sleeve & labels: ℗ 1981 © 1980, 2021 Epic Records, a division of Sony Music Entertainment UK Limited.  Rear sleeve: Recorded March 22 - April 19, 1980 Mixed May 5 - 20, 1980 Mastered by [...] at Sterling Sound, New York Made in the EU.  Inner sleeve: A1, A2, B1, B3 - © 1980 Blizzard Music Ltd. / Kord Music. Used by permission. A3 - TRO-© Copyright 1981 & 1984 Essex Music International, Inc., New York / Kord Music. Used by permission. A4 - TRO-© Copyright 1981 & 1985 Essex Music International, Inc., New York. Used by permission. A5 - TRO-© Copyright 1981 Essex Music International, Inc., New York / Kord Music. Used by permission. B2, B4 - TRO-© Copyright 1981 & 1986 Essex Music International, Inc., New York / Kord Music. Used by permission. © 1980, 2021 Epic Records, a division of Sony Music Entertainment UK Limited.  Runout information: "19075877321-A/B RE1 RKS" is etched, "184143E1/2/A2 STERLING" is stamped. |
 | Discogs URL    | [Ozzy Osbourne - Blizzard Of Ozz](https://www.discogs.com/release/18000301-Ozzy-Osbourne-Blizzard-Of-Ozz) |

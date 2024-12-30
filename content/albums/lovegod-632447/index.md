@@ -22,6 +22,12 @@ genres: ["Rock"]
 styles: ["Indie Rock"]
 ---
 
+Lovegod is the second studio album by the Soup Dragons, released in 1990. Four songs from the album were released as singles—"Backwards Dog", "Crotch Deep Trash", "Mother Universe" and "I'm Free". The last, a cover of a Rolling Stones cut from their 1965 album Out of Our Heads, made the top 5 in the UK charts. First pressings did not include "I'm Free", but it was subsequently placed first on the re-release, which also dates to 1990.
+The album peaked at No. 7 on the UK Albums Chart. It peaked at No. 88 on the Billboard 200. The video for "I'm Free" made it to the top spot on MTV's most requested list.
+
+
+    
+    
 
 
 ## Tracklisting
@@ -38,7 +44,7 @@ styles: ["Indie Rock"]
 11. Beauty Freak (3:05)
 
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/lovegod-deluxe-remastered/1444082369" >}}<br>
+{{< applemusic url="https://music.apple.com/gb/album/here-come-the-123s-deluxe-edition/1452851587" >}}<br>
 
 
 ## Videos
@@ -46,17 +52,21 @@ styles: ["Indie Rock"]
 {{< youtube id="-4wDQoLFF9U" title="Backwards Dog (Remastered)" >}}<br>
 ### More Videos
 
+- [Drive The Pain (Remastered)](https://www.youtube.com/watch?v=8ZRvi69hRB8)
+- [Backwards Dog (Remastered)](https://www.youtube.com/watch?v=-4wDQoLFF9U)
+- [Supercherry (Remastered)](https://www.youtube.com/watch?v=MjjsiSarij4)
+- [The Soup Dragons Sweetmeat](https://www.youtube.com/watch?v=vAyiOebGUS4)
+- [Softly (Remastered)](https://www.youtube.com/watch?v=eOxRrBbrPXs)
+- [Dream-E-Forever (Remastered)](https://www.youtube.com/watch?v=IPhZ5L7-kvo)
+- [Crotch Deep Trash (Remastered)](https://www.youtube.com/watch?v=pa3gLC2UiJI)
 - [The Soup Dragons Sweetmeat](https://www.youtube.com/watch?v=vAyiOebGUS4)
 - [The Soup Dragons - I'm Free](https://www.youtube.com/watch?v=hSWbpVjwQGM)
-- [Supercherry (Remastered)](https://www.youtube.com/watch?v=MjjsiSarij4)
 - [The Soup Dragons - Lovegod](https://www.youtube.com/watch?v=R6Xu9O4pzyw)
-- [Drive The Pain (Remastered)](https://www.youtube.com/watch?v=8ZRvi69hRB8)
-- [Softly (Remastered)](https://www.youtube.com/watch?v=eOxRrBbrPXs)
 - [The Soup Dragons - Love you to Death](https://www.youtube.com/watch?v=IMB-tkFSUSc)
-- [Dream-E-Forever (Remastered)](https://www.youtube.com/watch?v=IPhZ5L7-kvo)
 - [Soup Dragons  Mother Universe](https://www.youtube.com/watch?v=dhStRkvlGCc)
-- [Crotch Deep Trash (Remastered)](https://www.youtube.com/watch?v=pa3gLC2UiJI)
-- [Soup Dragons - I'm Free](https://www.youtube.com/watch?v=ZVGf3ePIO04)
+- [Backwards Dog (Remastered)](https://www.youtube.com/watch?v=-4wDQoLFF9U)
+- [Drive The Pain (Remastered)](https://www.youtube.com/watch?v=8ZRvi69hRB8)
+- [Soup Dragons - "I'm Free"](https://www.youtube.com/watch?v=ZVGf3ePIO04)
 
 ## Release Images
 {{< imageGrid >}}
@@ -64,6 +74,7 @@ styles: ["Indie Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
+| Wikipedia URL | https://en.wikipedia.org/wiki/Lovegod |
 | Format         | Vinyl LP Album Reissue |
 | Label          | Big Life |
 | Catalog Number | SOUP LP2R |

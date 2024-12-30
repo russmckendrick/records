@@ -12,9 +12,9 @@ cover:
     alt: "Alpha Test 4 by Henge"
     caption: "Alpha Test 4 by Henge"
 additional_images:
-    - "https://i.discogs.com/1kPPUJFvtSTXmrkXzUmZC4ekq1DeKfB6bRN5N8pOzVU/rs:fit/g:sm/q:90/h:614/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2ODQy/NzMwLTE2ODIxNjQ1/MDMtMjM3Mi5qcGVn.jpeg"
-    - "https://i.discogs.com/FUvmK76keog4DHArmRDel015iqhDMwLxKAdjeXWOOIY/rs:fit/g:sm/q:90/h:602/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2ODQy/NzMwLTE2ODIxNjQ1/MDQtMjM2OS5qcGVn.jpeg"
-    - "https://i.discogs.com/EWJ0JYIt2rDTFf2x9piDP88nPlFDm1cNhHw8vfqdaKI/rs:fit/g:sm/q:90/h:615/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2ODQy/NzMwLTE2ODIxNjQ1/MDQtMjY1OC5qcGVn.jpeg"
+    - "https://i.discogs.com/v4jZE3cxbC1FRIKRdvY_0tvph5qasU-Wpdw8wGaudgA/rs:fit/g:sm/q:90/h:600/w:585/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2ODQy/NzMwLTE2ODIxNjQ1/MDMtMjM3Mi5qcGVn.jpeg"
+    - "https://i.discogs.com/hEIStdUrguXYbhFb8Ovkotuzk68KobJiLlh3XHxmeHI/rs:fit/g:sm/q:90/h:600/w:597/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2ODQy/NzMwLTE2ODIxNjQ1/MDQtMjM2OS5qcGVn.jpeg"
+    - "https://i.discogs.com/fZB7ZR698dATwGwoaevu0JVU1NPKpU9IrmMux-mMwJE/rs:fit/g:sm/q:90/h:600/w:584/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2ODQy/NzMwLTE2ODIxNjQ1/MDQtMjY1OC5qcGVn.jpeg"
     - "https://i.discogs.com/RlryH3TsG0trqHST9KNkdwL3pDoBbZCHiEYzV9L-8Zw/rs:fit/g:sm/q:90/h:583/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2ODQy/NzMwLTE2ODIxNjQ1/MDQtMTYyMi5qcGVn.jpeg"
 genres: ["Electronic", "Rock"]
 styles: ["Acid", "Prog Rock", "Techno", "Psychedelic Rock"]
@@ -62,4 +62,4 @@ styles: ["Acid", "Prog Rock", "Techno", "Psychedelic Rock"]
 | Format         | Vinyl LP Album |
 | Label          | Not On Label (Henge (3) Self-released) |
 | Catalog Number | Henge03LP |
-| Discogs URL    | [Henge - Alpha Test 4](https://www.discogs.com/release/26842730-Henge-Alpha-Test-4) |
+| Discogs URL    | [Henge - Alpha Test 4](https://www.discogs.com/release/26842730-Henge-3-Alpha-Test-4) |

@@ -12,12 +12,18 @@ cover:
     alt: "Let It Bee by Voice Of The Beehive"
     caption: "Let It Bee by Voice Of The Beehive"
 additional_images:
-    - "https://i.discogs.com/Jw_33hBNPxrkpJGbtx8cnMFqiR84DwlCANfjGpCv66Q/rs:fit/g:sm/q:90/h:194/w:259/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MTQ0/MTcwLTE1NzU0OTAx/MjMtOTI1OC5wbmc.jpeg"
+    - "https://i.discogs.com/ZzsLJOcXUgsK_C-U-I9gO3wdsWZJ8ziq4XbYrctuw6w/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MTQ0/MTcwLTE3MjA5NjEx/OTctOTMxMi5qcGVn.jpeg"
+    - "https://i.discogs.com/O4hTd9gxzJTBdtPyQflR1gfKrwygKOG3gRD3aMSZS8Q/rs:fit/g:sm/q:90/h:581/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MTQ0/MTcwLTE3MjA5NjEy/MDctMTE0Mi5qcGVn.jpeg"
+    - "https://i.discogs.com/abeqoGWWPPWOUB-rogDJ9VvydBPKsMuwBAhC968St6k/rs:fit/g:sm/q:90/h:576/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MTQ0/MTcwLTE3MjA5NjEy/MTUtNjQxOS5qcGVn.jpeg"
+    - "https://i.discogs.com/JZYAPQAC-qtYMyqED6kWEtCFg07tfxYX9k4wz_0EqmU/rs:fit/g:sm/q:90/h:588/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MTQ0/MTcwLTE3MjA5NjEy/MjAtNzUwMy5qcGVn.jpeg"
+    - "https://i.discogs.com/uSiXppilyo5wm55qWbj1KBawhT-QTRlV9RH6-CbsF4Y/rs:fit/g:sm/q:90/h:600/w:578/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MTQ0/MTcwLTE3MjA5NjEy/MjYtNTY0OS5qcGVn.jpeg"
+    - "https://i.discogs.com/Q5N0DaD5my4seHkqnWALUa2pjClA-z5JT_GD8UZgSNI/rs:fit/g:sm/q:90/h:600/w:566/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MTQ0/MTcwLTE3MjA5NjEy/MzAtNDQ5MC5qcGVn.jpeg"
 genres: ["Rock"]
 styles: ["Pop Rock", "Indie Rock"]
 ---
 
-Let It Bee is the debut album by alternative rock band Voice of the Beehive. Released in 1988 on London Records, the album earned positive reviews from music critics and was a success on U.S. college radio stations. In the UK, the album reached #13 on the albums chart in its debut week ending 2 July 1988. The album peaked at #53 in Australia on the ARIA albums chart, and #40 in New Zealand.The group had their first top 40 hit single in the UK with "Don't Call Me Baby" from the album, which reached #15.  Let It Bee contained two bonus tracks on the U.S. edition (they were not listed on the CD cover, but were listed within the text on the disc).
+Let It Bee is the debut album by alternative rock band Voice of the Beehive. Released in 1988 on London Records, the album earned positive reviews from music critics and was a success on U.S. college radio stations. In the UK, the album reached No. 13 on the albums chart in its debut week ending 2 July 1988. The album peaked at No. 53 in Australia on the ARIA albums chart, and No. 40 in New Zealand.
+The group had their first top 40 hit single in the UK with "Don't Call Me Baby" from the album, which reached No. 15.  Let It Bee contained two bonus tracks on the U.S. edition (they were not listed on the CD cover, but were listed within the text on the disc).
     
     
 
@@ -36,7 +42,7 @@ Let It Bee is the debut album by alternative rock band Voice of the Beehive. Rel
 11. Just A City (4:15)
 
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/let-it-bee/1320002748" >}}<br>
+{{< applemusic url="https://music.apple.com/gb/album/the-best-of-voice-of-the-beehive/1320964157" >}}<br>
 
 
 ## Videos
@@ -44,15 +50,15 @@ Let It Bee is the debut album by alternative rock band Voice of the Beehive. Rel
 {{< youtube id="KuGz-ZpqTWg" title="Beat of Love - Voice of the Beehive" >}}<br>
 ### More Videos
 
+- [Sorrow Floats - Voice of the Beehive](https://www.youtube.com/watch?v=6gG5AdGWnVU)
+- [Oh Love - Voice of the Beehive](https://www.youtube.com/watch?v=UEkn5nRs1l4)
+- [Trust Me - Voice of the Beehive](https://www.youtube.com/watch?v=lIbsSyGNtn8)
+- [Theres a Barbarian in the Back of My Car - Voice of the Beehive](https://www.youtube.com/watch?v=5ppXJwH0jIs)
 - [Voice of the Beehive - Don't Call Me Baby (version 1)](https://www.youtube.com/watch?v=quD5B-la-ug)
 - [Voice Of The Beehive - Beat Of Love](https://www.youtube.com/watch?v=HK6IBM3BWlU)
-- [Sorrow Floats - Voice of the Beehive](https://www.youtube.com/watch?v=6gG5AdGWnVU)
 - [Voice Of The Beehive - I Say Nothing](https://www.youtube.com/watch?v=Vw8SpzqaI0I)
-- [Oh Love - Voice of the Beehive](https://www.youtube.com/watch?v=UEkn5nRs1l4)
 - [Voice Of The Beehive - Man In The Moon](https://www.youtube.com/watch?v=tktgY5gIQZE)
-- [Trust Me - Voice of the Beehive](https://www.youtube.com/watch?v=lIbsSyGNtn8)
 - [Voice Of The Beehive - Oh Love](https://www.youtube.com/watch?v=9pHt7MAMyfs)
-- [Theres a Barbarian in the Back of My Car - Voice of the Beehive](https://www.youtube.com/watch?v=5ppXJwH0jIs)
 - [Voice Of The Beehive - Just a City](https://www.youtube.com/watch?v=5zliMFMcT2o)
 - [Voice Of The Beehive - Trust Me](https://www.youtube.com/watch?v=zQxGU_oHofU)
 - [Voice Of The Beehive - Sorrow Floats](https://www.youtube.com/watch?v=H3nWNxFoz-w)
@@ -68,4 +74,5 @@ Let It Bee is the debut album by alternative rock band Voice of the Beehive. Rel
 | Format         | Vinyl LP Album |
 | Label          | London Records |
 | Catalog Number | LONLP 57 |
+| Notes | Issued with a custom printed inner sleeve containing lyrics and credits. Some copies with hype sticker on front cover, reads,  Including  Don't Call Me Baby  I Say Nothing  I Walk The Earth  Beat Of Love  LONLP 57 |
 | Discogs URL    | [Voice Of The Beehive - Let It Bee](https://www.discogs.com/release/14144170-Voice-Of-The-Beehive-Let-It-Bee) |

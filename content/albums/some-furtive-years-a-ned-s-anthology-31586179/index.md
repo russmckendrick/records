@@ -48,7 +48,42 @@ styles: ["Alternative Rock", "Pop Rock", "Indie Rock"]
 {{< applemusic url="https://music.apple.com/gb/album/some-furtive-years-a-neds-anthology/303852462" >}}<br>
 
 
+## Videos
+### Ned's Atomic Dustbin - Grey Cell Green
+{{< youtube id="HqGzBqPnNBk" title="Ned's Atomic Dustbin - Grey Cell Green" >}}<br>
+### More Videos
 
+- [Ned's Atomic Dustbin - Kill Your Television (Video)](https://www.youtube.com/watch?v=FaTcIzLk880)
+- [Ned's Atomic Dustbin - Until You Find Out](https://www.youtube.com/watch?v=Jw4vlsVh7Eo)
+- [Ned's Atomic Dustbin - Happy](https://www.youtube.com/watch?v=dXorifYSut8)
+- [Ned's Atomic Dustbin - Trust](https://www.youtube.com/watch?v=yPCQ_D7GTgU)
+- [Ned's Atomic Dustbin - Not Sleeping Around (Video)](https://www.youtube.com/watch?v=_wDHQRWKg4M)
+- [Ned's Atomic Dustbin - Intact](https://www.youtube.com/watch?v=98Wn0YH4icE)
+- [Ned's Atomic Dustbin - All I Ask Of Myself Is That I Hold Together (Video)](https://www.youtube.com/watch?v=KhsKggeyv9Y)
+- [Ned's Atomic Dustbin - Stuck (Video)](https://www.youtube.com/watch?v=vvHdnBSBSls)
+- [Cut Up](https://www.youtube.com/watch?v=ooe0DHb6zko)
+- [Selfish](https://www.youtube.com/watch?v=NJdmmhO5JS4)
+- [Ned's Atomic Dustbin - Scrawl](https://www.youtube.com/watch?v=n8ANSfsLzIE)
+- [Leg End In His Own Boots](https://www.youtube.com/watch?v=aNAHkeLYzMw)
+- [Who Goes First?](https://www.youtube.com/watch?v=O6LoHg_HIrE)
+- [Traffic](https://www.youtube.com/watch?v=eT6GOIL7Nc0)
+- [Song Eleven Could Take Forever](https://www.youtube.com/watch?v=zEGhPeDOhHk)
+- [Ned's Atomic Dustbin - Grey Cell Green](https://www.youtube.com/watch?v=HqGzBqPnNBk)
+- [Ned's Atomic Dustbin - Kill Your Television (Video)](https://www.youtube.com/watch?v=FaTcIzLk880)
+- [Ned's Atomic Dustbin - Until You Find Out](https://www.youtube.com/watch?v=Jw4vlsVh7Eo)
+- [Ned's Atomic Dustbin - Happy](https://www.youtube.com/watch?v=dXorifYSut8)
+- [Ned's Atomic Dustbin - Trust](https://www.youtube.com/watch?v=yPCQ_D7GTgU)
+- [Ned's Atomic Dustbin - Not Sleeping Around (Video)](https://www.youtube.com/watch?v=_wDHQRWKg4M)
+- [Ned's Atomic Dustbin - Intact](https://www.youtube.com/watch?v=98Wn0YH4icE)
+- [Ned's Atomic Dustbin - All I Ask Of Myself Is That I Hold Together (Video)](https://www.youtube.com/watch?v=KhsKggeyv9Y)
+- [Ned's Atomic Dustbin - Stuck (Video)](https://www.youtube.com/watch?v=vvHdnBSBSls)
+- [Cut Up](https://www.youtube.com/watch?v=ooe0DHb6zko)
+- [Selfish](https://www.youtube.com/watch?v=NJdmmhO5JS4)
+- [Ned's Atomic Dustbin - Scrawl](https://www.youtube.com/watch?v=n8ANSfsLzIE)
+- [Leg End In His Own Boots](https://www.youtube.com/watch?v=aNAHkeLYzMw)
+- [Who Goes First?](https://www.youtube.com/watch?v=O6LoHg_HIrE)
+- [Traffic](https://www.youtube.com/watch?v=eT6GOIL7Nc0)
+- [Song Eleven Could Take Forever](https://www.youtube.com/watch?v=zEGhPeDOhHk)
 
 ## Release Images
 {{< imageGrid >}}

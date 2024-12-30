@@ -4,6 +4,7 @@ artist_name: "Tom Waits"
 artist: "tom-waits"
 album_name: "Closing Time"
 date: 2015-08-09T08:52:25.000000Z
+release_date: "1973-03-06"
 release_id: "3440356"
 slug: "closing-time-3440356"
 hideSummary: true
@@ -22,9 +23,15 @@ genres: ["Jazz", "Rock", "Blues", "Folk, World, & Country"]
 styles: ["Blues Rock", "Folk Rock", "Cool Jazz"]
 ---
 
-Closing Time is the debut album by American singer-songwriter Tom Waits, released on March 6, 1973 on Asylum Records. Produced and arranged by former Lovin' Spoonful member Jerry Yester, Closing Time was the first of seven of Waits' major releases by Asylum.
-The album is noted for being predominantly folk influenced although Waits intended Closing Time to be "a jazz, piano-led album." Upon release, the album was mildly successful in the United States, although it did not chart and received little attention from music press in the United Kingdom and elsewhere internationally. Critical reaction to Closing Time was positive. The album's only single, "Ol' '55", attracted attention due to a cover version by Waits's more popular label mates, the Eagles. Other songs from the album were covered by Tim Buckley and Bette Midler. The album was certified Gold in the UK and has gained a contemporary cult following among rock fans. Since its release, the album has been reissued on LP in 1976, on CD in 1992 and 1999, and 180 gram LP in 2010.
-    
+The 1973 debut from Tom Waits introduced one of rock music’s greatest storytellers, a 23-year-old Californian who dripped with the nostalgia and whisky-aged melancholy of a man three times his age. Though never a commercial hit, the songs on <i>Closing Time</i> spent the 1970s as a jumping-off point for covers by the Eagles (“Ol’ ’55”) and Tim Buckley (“Martha”). Still, none of those versions can top Waits’ deeply sentimental performances, performed with a sandpaper rasp that sounded like a smoking engine—especially when compared to commercial contemporaries like Jim Croce and Jackson Browne.
+ 
+Weaned on Ray Charles, Bob Dylan, Jack Kerouac and <i>The Twilight Zone</i>, Waits was discovered lurking around Los Angeles-area open-mic nights by David Geffen, who signed Waits to Asylum Records, the nascent label that was already home to such acts as the Eagles, Joni Mitchell and Judee Sill. Waits quickly got to work on <i>Closing Time</i>, a street-light symphony that makes Frank Sinatra’s <i>In the Wee Small Hours</i> seem like a party record. Wandering between the piano bar and a folk café, Waits spins tales of loneliness and late nights awash in beer, cigarettes, lazy old tomcats and Greyhounds headed out of town.
+ 
+The opening track, “Ol’ ’55”, was written after Waits heard a story about a guy who rushed a date home before curfew time by driving the Pasadena freeway in reverse. In another artist’s hands, that tale would have been little more than a funny anecdote, but Waits uses it to paint a vivid portrait of young love and yearning. Elsewhere on <i>Closing Time</i>, the indelible “I Hope That I Don’t Fall in Love With You” speaks to the kind of bleary-eyed, spotted-from-across-the-bar love that occurs almost entirely in the narrator’s mind, while “Martha” is a pure weeper about a lost love returning after decades: “Operator, number please, it’s been so many years/Will she remember my old voice while I fight the tears?” (Bette Midler would eventually perform “Martha” on <i>Saturday Night Live</i>.) And while the album includes everything from rollicking soul (“Ice Cream Man”) to steel-guitar ballads (“Rosie”) to country waltzes (“Old Shoes (& Picture Postcards)”), the 12 tracks on <i>Closing Time</i> are undeniably “Tom Waits songs”, each imbued with his unmistakable voice and atmosphere.
+ 
+Like all of Waits’ 1970s material, <i>Closing Time</i> was more of a cult object than a commercial breakthrough. But as the decades passed, the album established itself as a one-man standards collection, its evocative songs covered by a remarkably disparate group of artists, including Jon Bon Jovi, Meat Loaf, Screamin’ Jay Hawkins, 10,000 Maniacs, Hootie & the Blowfish, Sarah McLachlan, Bat for Lashes—and countless more. As Waits once remarked about “I Hope That I Don’t Fall in Love With You”: “You take all the bar songs in the world and put ’em together, they’d stretch all the way to Kansas City, I guess—millions of them. This is just another one.” He was right to some extent. But the march of time—and the increasing affection for <i>Closing Time</i>—would also prove him very wrong.
+        
+        
     
 
 
@@ -46,22 +53,7 @@ The album is noted for being predominantly folk influenced although Waits intend
 {{< applemusic url="https://music.apple.com/gb/album/closing-time-remastered/1485071375" >}}<br>
 
 
-## Videos
-### Tom Waits - Ol' 55
-{{< youtube id="BeeK37wrBDQ" title="Tom Waits - Ol' 55" >}}<br>
-### More Videos
 
-- [Tom Waits - I Hope That I Don't Fall In Love With You](https://www.youtube.com/watch?v=UhZyLn0oVCs)
-- [Tom Waits - Virginia Avenue](https://www.youtube.com/watch?v=cyCc4miQnos)
-- [Tom Waits - Old Shoes (& Picture Postcards)](https://www.youtube.com/watch?v=6MegTgHW6sg)
-- [Tom Waits - Midnight Lullaby](https://www.youtube.com/watch?v=MVe3rJAL6qk)
-- [Tom Waits - Martha](https://www.youtube.com/watch?v=VXQwDb7AUmo)
-- [Tom Waits - Rosie](https://www.youtube.com/watch?v=FdFO3OyPYHI)
-- [Tom Waits - Lonely](https://www.youtube.com/watch?v=bLspP7zsr-E)
-- [Tom Waits - Ice Cream Man](https://www.youtube.com/watch?v=YCoRoqGz5so)
-- [Tom Waits - Little Trip To Heaven (On The Wings Of Your Love)](https://www.youtube.com/watch?v=vqLobM-Qa8o)
-- [Tom Waits - Grapefruit Moon](https://www.youtube.com/watch?v=7bpZjkjo3Tw)
-- [Tom Waits - Closing Time](https://www.youtube.com/watch?v=mKFCp9P0cFc)
 
 ## Release Images
 {{< imageGrid >}}
@@ -70,8 +62,8 @@ The album is noted for being predominantly folk influenced although Waits intend
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Closing_Time_(album) |
-| Format         | Vinyl LP Album Reissue Remastered (180g) |
+| Format         | Vinyl LP Album Reissue Remastered Stereo (White Label, 180 Gram) |
 | Label          | Asylum Records |
 | Catalog Number | 8122-79807-1 |
-| Notes | On back cover: This production committed to Asylum by Herb Cohen  On sticker: LPs cut from the original analog masters  Packages replicated to the finest detail  Manufactured with more care than ever  Contradicting what is printed on the hype sticker there is no lyrics inner sleeve on this reissue package.  |
+| Notes | Please note there are 3 pressing variations that use the original "White Label" layout. This version and also these 2 releases. [r=16911276] [r=2667222]   On back cover: This production committed to Asylum by Herb Cohen  On sticker: LP's cut from the original analog masters  Packages replicated to the finest detail  Manufactured with more care than ever  Contradicting what is printed on the hype sticker there is no lyrics inner sleeve on this reissue package.  |
 | Discogs URL    | [Tom Waits - Closing Time](https://www.discogs.com/release/3440356-Tom-Waits-Closing-Time) |

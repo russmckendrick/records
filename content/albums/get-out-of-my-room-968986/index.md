@@ -20,8 +20,10 @@ genres: ["Rock", "Non-Music"]
 styles: ["Acoustic", "Comedy"]
 ---
 
-Get Out of My Room is an album and short-form video featuring comedians Cheech & Chong, released in 1985. The opening track "Born In East L.A." and "I'm Not Home Right Now" were the only singles released for the album.
-Following the album's release, Cheech left the duo in 1986 in order to focus on his mainstream acting career and while they have since reconvened, Get Out of My Room remains their last album to date.
+Get Out of My Room is an album and short-form video featuring comedians Cheech & Chong, released in 1985. The opening track "Born in East L.A." and "I'm Not Home Right Now" were released as singles from the album.
+Following the album's release, Cheech left the duo in 1986 in order to focus on his mainstream acting career. Get Out of My Room remains their last album to date.
+
+
     
     
 
@@ -42,19 +44,61 @@ Following the album's release, Cheech left the duo in 1986 in order to focus on 
 13. Radio News (3:34)
 14. Get Out Of My Room (4:04)
 
-
-## Spotify
-{{< spotify type="album" id="6uUpFFTnVIHJGYJAWsv5qt" width="100%" height="500" >}}<br>
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/cheech-chong-single/1560824506" >}}<br>
 
 
 ## Videos
-### Cheech and Chong - Love is Strange
-{{< youtube id="_TK2pzRRfQ8" title="Cheech and Chong - Love is Strange" >}}<br>
+### Get Out Of My Room Cheech and Chong
+{{< youtube id="8Gx5INc9s0A" title="Get Out Of My Room Cheech and Chong" >}}<br>
 ### More Videos
 
+- [Cheech & Chong Get Out of My Room - Trailer](https://www.youtube.com/watch?v=JMn2W9co5Tc)
+- [Cheech & Chong - Get Out Of My Room Trailer (deutsch)](https://www.youtube.com/watch?v=aiF6WcpCzvY)
+- [Cheech and Chong - Love is Strange](https://www.youtube.com/watch?v=_TK2pzRRfQ8)
+- [Cheech & Chong's Hardest Stumbling block](https://www.youtube.com/watch?v=EaUxXQYi9ao)
+- [Up in Smoke (car scene)](https://www.youtube.com/watch?v=HuYeQi4wB_k)
+- [Cheech & Chong - "Coke" scene](https://www.youtube.com/watch?v=HxTRCkLQxXc)
+- [Chong Explains Headbands (Cheech & Chong)](https://www.youtube.com/watch?v=YX8a2j9MtwA)
+- [Cheech And Chong - Welfare Office](https://www.youtube.com/watch?v=CVrlXcgnaYk)
+- [Cheech & Chong's Nice Dreams (1981) - In the Nuthouse Scene (8/10) | Movieclips](https://www.youtube.com/watch?v=stDBKCIFG-g)
+- [Cheech and Chong - Mexican Americans / Beaners](https://www.youtube.com/watch?v=fNR7WJ3SW60)
+- [Cheech & Chong's Nice Dreams (1981) - Under the Table Scene (4/10) | Movieclips](https://www.youtube.com/watch?v=LieBhrpf_jQ)
+- [Cheech & Chong Police Station - LardAss](https://www.youtube.com/watch?v=jQKzZh-ldCw)
+- [Cheech & Chong "Up in Smoke" -Best Scenes-](https://www.youtube.com/watch?v=DzWz3En07og)
+- [Born In East L.A. (Cheech And Chong) [HD]](https://www.youtube.com/watch?v=sFUFw1GH6ic)
+- [Cheech And Chong -  Chong Smokes A Roach](https://www.youtube.com/watch?v=9kzaPK8R4Pw)
+- [C&C - I'm Not Home Right Now](https://www.youtube.com/watch?v=YlO_X692EI8)
+- [Get Out of My Room 1985 Trailer | Cheech Marin | Tommy Chong](https://www.youtube.com/watch?v=vVctf9bxofs)
+- [Beavis and Butthead - "Get out of my room" Cheech and Chong video](https://www.youtube.com/watch?v=T12qcrsj8SY)
+- [cheech ang chong - get out of my room](https://www.youtube.com/watch?v=8cg9C5qBKnw)
+- [Cheech & Chong   Get Out Of My Room](https://www.youtube.com/watch?v=bU2lvXO5QiE)
+- [Get Out Of My Room Trailer 1985](https://www.youtube.com/watch?v=4eCn4yp1W3A)
+- [John Paragon in Cheech and Chong's "Get Out of My Room"](https://www.youtube.com/watch?v=LprIyVxMANA)
 - [Get Out Of My Room Cheech and Chong](https://www.youtube.com/watch?v=8Gx5INc9s0A)
 - [Cheech & Chong Get Out of My Room - Trailer](https://www.youtube.com/watch?v=JMn2W9co5Tc)
 - [Cheech & Chong - Get Out Of My Room Trailer (deutsch)](https://www.youtube.com/watch?v=aiF6WcpCzvY)
+- [Cheech and Chong - Love is Strange](https://www.youtube.com/watch?v=_TK2pzRRfQ8)
+- [Cheech & Chong's Hardest Stumbling block](https://www.youtube.com/watch?v=EaUxXQYi9ao)
+- [Up in Smoke (car scene)](https://www.youtube.com/watch?v=HuYeQi4wB_k)
+- [Cheech & Chong - "Coke" scene](https://www.youtube.com/watch?v=HxTRCkLQxXc)
+- [Chong Explains Headbands (Cheech & Chong)](https://www.youtube.com/watch?v=YX8a2j9MtwA)
+- [Cheech And Chong - Welfare Office](https://www.youtube.com/watch?v=CVrlXcgnaYk)
+- [Cheech & Chong's Nice Dreams (1981) - In the Nuthouse Scene (8/10) | Movieclips](https://www.youtube.com/watch?v=stDBKCIFG-g)
+- [Cheech and Chong - Mexican Americans / Beaners](https://www.youtube.com/watch?v=fNR7WJ3SW60)
+- [Cheech & Chong's Nice Dreams (1981) - Under the Table Scene (4/10) | Movieclips](https://www.youtube.com/watch?v=LieBhrpf_jQ)
+- [Cheech & Chong Police Station - LardAss](https://www.youtube.com/watch?v=jQKzZh-ldCw)
+- [Cheech & Chong "Up in Smoke" -Best Scenes-](https://www.youtube.com/watch?v=DzWz3En07og)
+- [Born In East L.A. (Cheech And Chong) [HD]](https://www.youtube.com/watch?v=sFUFw1GH6ic)
+- [Cheech And Chong -  Chong Smokes A Roach](https://www.youtube.com/watch?v=9kzaPK8R4Pw)
+- [C&C - I'm Not Home Right Now](https://www.youtube.com/watch?v=YlO_X692EI8)
+- [Get Out of My Room 1985 Trailer | Cheech Marin | Tommy Chong](https://www.youtube.com/watch?v=vVctf9bxofs)
+- [Beavis and Butthead - "Get out of my room" Cheech and Chong video](https://www.youtube.com/watch?v=T12qcrsj8SY)
+- [cheech ang chong - get out of my room](https://www.youtube.com/watch?v=8cg9C5qBKnw)
+- [Cheech & Chong   Get Out Of My Room](https://www.youtube.com/watch?v=bU2lvXO5QiE)
+- [Get Out Of My Room Trailer 1985](https://www.youtube.com/watch?v=4eCn4yp1W3A)
+- [John Paragon in Cheech and Chong's "Get Out of My Room"](https://www.youtube.com/watch?v=LprIyVxMANA)
+- [Cheech and Chong - Love is Strange](https://www.youtube.com/watch?v=_TK2pzRRfQ8)
 
 ## Release Images
 {{< imageGrid >}}

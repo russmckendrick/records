@@ -12,12 +12,12 @@ cover:
     alt: "Exsolve by Jo Quail"
     caption: "Exsolve by Jo Quail"
 additional_images:
-    - "https://i.discogs.com/Ea_f2rKj1OMYcrWXqUjUoh1hoEldUwO4aIqga6RS1qw/rs:fit/g:sm/q:90/h:607/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MTk2/Mzg5LTE1NzU5MTE1/MjEtMTk2Ny5qcGVn.jpeg"
+    - "https://i.discogs.com/gfXb_ka2uIh-1RiJYs3dS9AW6lum5FED0ut_qaSgIm0/rs:fit/g:sm/q:90/h:600/w:592/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MTk2/Mzg5LTE1NzU5MTE1/MjEtMTk2Ny5qcGVn.jpeg"
     - "https://i.discogs.com/ljV70xkUMQn67rqWzES3b5S0cFqYnpVFwMHYyn7LOXg/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MTk2/Mzg5LTE1Njk2Nzc5/ODAtMzg0Ny5qcGVn.jpeg"
-    - "https://i.discogs.com/MbZqFrX3wNC_1K4yy-ZTRAlyr_38UrqhxozCqeTmkIc/rs:fit/g:sm/q:90/h:602/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MTk2/Mzg5LTE1NzU5OTMx/MjgtMTQ5MC5qcGVn.jpeg"
+    - "https://i.discogs.com/pvUz1GxWjwCkQDXnGnS4IP1GGsKCcQQwG3qaRSkeUFY/rs:fit/g:sm/q:90/h:600/w:597/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MTk2/Mzg5LTE1NzU5OTMx/MjgtMTQ5MC5qcGVn.jpeg"
     - "https://i.discogs.com/R55jB-uTMvjPTrHgyYsMrwfnGXCtAWcSZWUMj5dfPWI/rs:fit/g:sm/q:90/h:573/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MTk2/Mzg5LTE1NzU5OTMx/MjktMTY4NS5qcGVn.jpeg"
     - "https://i.discogs.com/K8rqvTOD6ZCPoAZEzVfJztjUyD77fe3acUkQlbH4aJ4/rs:fit/g:sm/q:90/h:592/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MTk2/Mzg5LTE1NzU5MTE1/MjQtOTEwNS5qcGVn.jpeg"
-    - "https://i.discogs.com/I7lJ8rvhXVBGjIpe89JJC81CHW_mqTjETJwSGQTlMjc/rs:fit/g:sm/q:90/h:602/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MTk2/Mzg5LTE1NzU5OTMx/MzAtMTU4NC5qcGVn.jpeg"
+    - "https://i.discogs.com/-Eza-k_WOF7rV9kA845R6pxrucIDUq31vltdUBr3G1k/rs:fit/g:sm/q:90/h:600/w:597/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MTk2/Mzg5LTE1NzU5OTMx/MzAtMTU4NC5qcGVn.jpeg"
 genres: ["Electronic", "Rock", "Classical"]
 styles: ["Contemporary", "Dark Ambient", "Modern Classical", "Neo-Classical", "Post-Metal", "Post Rock"]
 ---

@@ -57,14 +57,18 @@ downset. is the debut studio album by American rapcore band downset. The band's 
 {{< youtube id="NzyqdlrU4qs" title="Downset - Downset" >}}<br>
 ### More Videos
 
-- [Downset - Eyes Shut Tight](https://www.youtube.com/watch?v=NxpapKbDrD4)
-- [Downset](https://www.youtube.com/watch?v=qRdWO0Iw5cI)
 - [Downset Anger](https://www.youtube.com/watch?v=H6IQxhkVIEw)
+- [downset. - downset.](https://www.youtube.com/watch?v=Pr1Txqtj-sQ)
+- [downset. by downset.](https://www.youtube.com/watch?v=JNwiVG1uPqc)
+- [Downset — Downset [Remastered Music Video]](https://www.youtube.com/watch?v=FvvgcVKFD88)
+- [Downset "Anger" Live at the Whisky a go go March 31, 2000](https://www.youtube.com/watch?v=-lTRPR6TLow)
+- [Downset - Eyes Shut Tight](https://www.youtube.com/watch?v=NxpapKbDrD4)
 - [downset. - anger](https://www.youtube.com/watch?v=Lqh_AzlEjKU)
+- [Downset](https://www.youtube.com/watch?v=qRdWO0Iw5cI)
 - [Downset. - Anger](https://www.youtube.com/watch?v=G8ZoFbNGpBc)
-- [downset. - ritual](https://www.youtube.com/watch?v=RMF3ZIizj8k)
-- [Downset - Downset (HQ)](https://www.youtube.com/watch?v=8oOkUizclp8)
 - [downset. - take 'em out](https://www.youtube.com/watch?v=u_RUlt7bjQE)
+- [Downset Anger](https://www.youtube.com/watch?v=H6IQxhkVIEw)
+- [downset. - ritual](https://www.youtube.com/watch?v=RMF3ZIizj8k)
 - [Breed The Killer](https://www.youtube.com/watch?v=KJdRbiJvOxY)
 
 ## Release Images

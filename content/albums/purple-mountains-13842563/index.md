@@ -4,7 +4,6 @@ artist_name: "Purple Mountains"
 artist: "purple-mountains"
 album_name: "Purple Mountains"
 date: 2019-07-12T15:33:26.000000Z
-release_date: "2019-07-12"
 release_id: "13842563"
 slug: "purple-mountains-13842563"
 hideSummary: true
@@ -14,20 +13,19 @@ cover:
     caption: "Purple Mountains by Purple Mountains"
 additional_images:
     - "https://i.discogs.com/3rkWfqvQ9SaU4UR03SmUmD7Od8OPAB2nXDF-M-quK1k/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzODQy/NTYzLTE2NTkyMjk0/MzktMTkzMS5qcGVn.jpeg"
-    - "https://i.discogs.com/rd_63vDUeyOrwrDRgaNpdwJYYNCpo6a_m-5Z8naBkxw/rs:fit/g:sm/q:90/h:607/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzODQy/NTYzLTE2NTkyMjk0/MzktNTM0MS5qcGVn.jpeg"
+    - "https://i.discogs.com/yGvnL6QKJUzElb23PjU4GT3j_rIWWj8J81kMLnV7EY0/rs:fit/g:sm/q:90/h:600/w:592/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzODQy/NTYzLTE2NTkyMjk0/MzktNTM0MS5qcGVn.jpeg"
     - "https://i.discogs.com/VK6-KWpjltumUrjyhwNs5L14w-E7_C_cOu_CiPRv2LY/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzODQy/NTYzLTE2NTkyMjk0/MzktNjA2MC5qcGVn.jpeg"
     - "https://i.discogs.com/XBP8bj_9SlijF98AkFXauR5PEn1Dq57N31miOHQkiFI/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzODQy/NTYzLTE2NTkyMjk0/MzktOTgzMi5qcGVn.jpeg"
-    - "https://i.discogs.com/zCn26gmZHJBy9wNcKiIolci2Pz6z19b0CNB5kZBv_yQ/rs:fit/g:sm/q:90/h:603/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzODQy/NTYzLTE2NTkyMjk0/MzktODA4Ni5qcGVn.jpeg"
+    - "https://i.discogs.com/LLZF_B_j7SdqwmHXt0tz0qqHuUUFmWOueJxPTbsqTnw/rs:fit/g:sm/q:90/h:600/w:596/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzODQy/NTYzLTE2NTkyMjk0/MzktODA4Ni5qcGVn.jpeg"
     - "https://i.discogs.com/26No5lJrS1VYVNNWBquxyq8wjzfO7RnS9IWwO5daKYo/rs:fit/g:sm/q:90/h:593/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzODQy/NTYzLTE2NTkyMjk0/MzktOTI0Mi5qcGVn.jpeg"
 genres: ["Rock", "Pop", "Folk, World, & Country"]
 styles: ["Alternative Rock", "Folk"]
 ---
 
-When David Berman disbanded Silver Jews in 2009, the world stood to lose one of the best writers in indie rock, a guy who catalogued the magic and misery of everyday life with wit, heart and the ragged glory of the occupationally down-and-out. After a 10-year break professedly spent reading books and arguing with people on Reddit, Berman enlisted members of the Brooklyn band Woods to back him on <i>Purple Mountains</i>.<br />
-Berman’s pain had never been laid quite so bare, nor had it ever sounded quite so urgent. “I spent a decade playing chicken with oblivion,” he sings on the swaggering “That’s Just the Way I Feel”. “Day to day, I’m neck and neck with giving in.” And “Margaritas at the Mall” turns an ordinary happy hour into a jeremiad about the cold comforts of capitalism in a godless world. That the music—country-tinged indie rock—was as polished and competent as it was only highlighted Berman’s intensity: less a rock singer than a street preacher, someone who needed to avail himself of his visions stat.<br />
-But even at his most desperate, he remained achingly funny, turning statements of existential loneliness into the kind of bumper sticker Zen that made him seem like an ordinary guy no matter how highfalutin he could get. “Well, if no one’s fond of fuckin’ me, maybe no one’s fuckin’ fond of me,” he sings on the album-closing “Maybe I’m the Only One for Me”, sounding not all that far off from the George Strait one-twos he reportedly loved.<br />
-Above all, though, his writing is beautiful, attuned to detail in ways that make ordinary scenarios shimmer with quiet magic. Just listen to “Snow Is Falling in Manhattan”, which turns a quiet night in a big city into an allegory of finding solace in the weather of what comes to us.<br />
-Shortly after the release of <i>Purple Mountains</i>, Berman died, at the age of 52, a tragic end to what felt like a triumphant return. “The dead know what they're doing when they leave this world behind,” he sings on “Nights That Won’t Happen”. “When the here and the hereafter momentarily align.”
+Purple Mountains was an American indie rock project formed by musician and poet David Berman. The project debuted in May 2019, over a decade after the dissolution of Berman's previous group Silver Jews. An eponymous album was released in July 2019. The album was recorded primarily in Chicago and produced by Jarvis Taveniere and Jeremy Earl of the band Woods.
+The project's name is derived from "Purple mountains majesty", a common mondegreen of the lyric "Purple mountain majesties" from "America the Beautiful". Nashville Scene's Sean L. Maloney described it as "striking, heavy and maybe a little foreboding, yet it implies a majesty that is completely missing from the often-self-deprecating Silver Jews". Berman, the only member, died on August 7, 2019.
+
+
     
     
 
@@ -45,23 +43,16 @@ Shortly after the release of <i>Purple Mountains</i>, Berman died, at the age of
 10. Maybe I'm The Only One For Me
 
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/purple-mountains/1456510195" >}}<br>
+{{< applemusic url="https://music.apple.com/gb/album/purple-mountains-single/1642458507" >}}<br>
 
 
 ## Videos
-### That’s Just the Way That I Feel
-{{< youtube id="6CtxkCmcsiw" title="That’s Just the Way That I Feel" >}}<br>
+### Purple Mountains "All My Happiness is Gone" (Official Music Video)
+{{< youtube id="XvUBbROsXBw" title="Purple Mountains "All My Happiness is Gone" (Official Music Video)" >}}<br>
 ### More Videos
 
-- [Purple Mountains All My Happiness is Gone (Official Music Video)](https://www.youtube.com/watch?v=XvUBbROsXBw)
-- [Purple Mountains Darkness and Cold (Official Music Video)](https://www.youtube.com/watch?v=JZKMa-ByLBQ)
-- [Snow is Falling in Manhattan](https://www.youtube.com/watch?v=50227UHWULg)
-- [Margaritas at the Mall](https://www.youtube.com/watch?v=BamaU09AdGA)
-- [She’s Making Friends, I’m Turning Stranger](https://www.youtube.com/watch?v=EhQjp-P4y34)
-- [I Loved Being My Mother’s Son](https://www.youtube.com/watch?v=7tLbSIwPqu0)
-- [Nights That Won’t Happen](https://www.youtube.com/watch?v=XxJzN0asbqg)
-- [Storyline Fever](https://www.youtube.com/watch?v=YEpq9RFBaew)
-- [Maybe I’m the Only One For Me](https://www.youtube.com/watch?v=A2y5msfAClU)
+- [Purple Mountains - "Nights That Won't Happen" (Music Video)](https://www.youtube.com/watch?v=xMqODXQf3_s)
+- [Purple Mountains "Darkness and Cold" (Official Music Video)](https://www.youtube.com/watch?v=JZKMa-ByLBQ)
 
 ## Release Images
 {{< imageGrid >}}
@@ -69,6 +60,7 @@ Shortly after the release of <i>Purple Mountains</i>, Berman died, at the age of
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
+| Wikipedia URL | https://en.wikipedia.org/wiki/Purple_Mountains |
 | Format         | Vinyl LP Album |
 | Label          | Drag City |
 | Catalog Number | DC680 |

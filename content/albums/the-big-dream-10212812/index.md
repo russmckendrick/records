@@ -12,16 +12,20 @@ cover:
     alt: "The Big Dream by Lonely Robot"
     caption: "The Big Dream by Lonely Robot"
 additional_images:
-    - "https://i.discogs.com/wrO97mDLW8pa3-LyHfGwJtn6iEUJ7A_gMltIMAYyySg/rs:fit/g:sm/q:90/h:604/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMjEy/ODEyLTE0OTM2NTUz/MjItOTIyMy5qcGVn.jpeg"
+    - "https://i.discogs.com/rGzw6Z1LrCE_bwiMT2_7IjCAuLHCVwpuhvRhrbBA61o/rs:fit/g:sm/q:90/h:600/w:595/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMjEy/ODEyLTE0OTM2NTUz/MjItOTIyMy5qcGVn.jpeg"
     - "https://i.discogs.com/YJRk1fNrud5azd0TH8LrYWOXHtGU-aipjnfcov1tHw4/rs:fit/g:sm/q:90/h:591/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMjEy/ODEyLTE1ODMzMTc5/NzQtMTY4OS5qcGVn.jpeg"
-    - "https://i.discogs.com/S-YJNNK-22mJ0PJB2pfpmEAWf_21izocqx1eGlPVhls/rs:fit/g:sm/q:90/h:618/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMjEy/ODEyLTE1ODMzMTc5/NzQtMjkxOS5qcGVn.jpeg"
+    - "https://i.discogs.com/hdYS6VtiXeKPOeQIA30FT0aBFESbGXxKEyzrqrIB5Nc/rs:fit/g:sm/q:90/h:600/w:581/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMjEy/ODEyLTE1ODMzMTc5/NzQtMjkxOS5qcGVn.jpeg"
     - "https://i.discogs.com/uTmYtfrwrs1qsE0mleSRrzyB6QGdNNw5rzwFsejCyoI/rs:fit/g:sm/q:90/h:594/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMjEy/ODEyLTE1ODMzMTc5/NzQtMTQxOC5qcGVn.jpeg"
     - "https://i.discogs.com/fEgTItif7XaLqd0oMSMwROxFR8MsGJDuJZ_kRymTZG0/rs:fit/g:sm/q:90/h:590/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMjEy/ODEyLTE1ODMzMTc5/NzMtMjg3NS5qcGVn.jpeg"
-    - "https://i.discogs.com/6UlnUVPgD8qDjejJhp8KzZvR7krO2n0x1cu4EjVJ3cY/rs:fit/g:sm/q:90/h:605/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMjEy/ODEyLTE1ODMzMTgy/MjEtNjExMC5qcGVn.jpeg"
+    - "https://i.discogs.com/mI2lF0R5PJVyxOUJX-YX9BHpniDl87ysFALlsEyYldU/rs:fit/g:sm/q:90/h:600/w:594/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMjEy/ODEyLTE1ODMzMTgy/MjEtNjExMC5qcGVn.jpeg"
 genres: ["Rock"]
 styles: ["Prog Rock"]
 ---
 
+The Big Dream is the third studio album by the American film director and musician David Lynch, released on July 10, 2013. It was released on Sacred Bones Records in the United States and Sunday Best in Europe. Consisting of 12 "modern blues" songs, The Big Dream was recorded and produced by Lynch with his frequent musical collaborator Dean Hurley at Lynch's own Asymmetrical Studio in Los Angeles, California during 2012.
+Two singles were released from The Big Dream; "I'm Waiting Here", a collaboration with the Swedish singer-songwriter Lykke Li, was released as the album's lead single and the double A-side single "Are You Sure"/"Star Dream Girl" followed as the album's second single. Both singles were part of an enigmatic promotional campaign conceived by Lynch for The Big Dream, which included cryptic video uploads on various social media websites, including YouTube and Vine. Upon its release The Big Dream received warm reviews and was a moderate commercial success, placing in a number of international record charts.
+    
+    
 
 
 ## Tracklisting
@@ -60,6 +64,10 @@ styles: ["Prog Rock"]
 - [LONELY ROBOT - The Big Dream (Track By Track Pt.1)](https://www.youtube.com/watch?v=vEAKKGWNj48)
 - [LONELY ROBOT - The Big Dream (Q&A Pt.3)](https://www.youtube.com/watch?v=1IZTy0l1CRw)
 - [LONELY ROBOT - The Big Dream (Q&A Pt.1)](https://www.youtube.com/watch?v=cKm3C80_AO8)
+- [The Big Dream](https://www.youtube.com/watch?v=xz4KqSTClIA)
+- [LONELY ROBOT - The Big Dream (Track By Track Pt.1)](https://www.youtube.com/watch?v=vEAKKGWNj48)
+- [LONELY ROBOT - The Big Dream (Q&A Pt.3)](https://www.youtube.com/watch?v=1IZTy0l1CRw)
+- [LONELY ROBOT - The Big Dream (Q&A Pt.1)](https://www.youtube.com/watch?v=cKm3C80_AO8)
 
 ## Release Images
 {{< imageGrid >}}
@@ -67,6 +75,7 @@ styles: ["Prog Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
+| Wikipedia URL | https://en.wikipedia.org/wiki/The_Big_Dream |
 | Format         | Vinyl 2× LP Album Stereo (180 Gram), CD Album Stereo |
 | Label          | Inside Out Music |
 | Catalog Number | IOMLP 476 |

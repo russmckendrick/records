@@ -4,6 +4,7 @@ artist_name: "Temple Of The Dog"
 artist: "temple-of-the-dog"
 album_name: "Temple Of The Dog"
 date: 2015-10-02T09:37:22.000000Z
+release_date: "1991-04-16"
 release_id: "5098793"
 slug: "temple-of-the-dog-5098793"
 hideSummary: true
@@ -16,7 +17,7 @@ additional_images:
     - "https://i.discogs.com/LgJXJeBvkO_8EQX1j7WK3L0aQ6KJ04DmWy_H-AreDGQ/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUwOTg3/OTMtMTQzMjY1MDk5/NS0zNDYwLmpwZWc.jpeg"
     - "https://i.discogs.com/1rl9U9_RqSrpnffucbVTmvwwf8A3-vs9aR28C4cwm4Y/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUwOTg3/OTMtMTQzMjY1MDk5/OC01NTA5LmpwZWc.jpeg"
     - "https://i.discogs.com/MsIZ5ujMiLrmTrpYGJKJeYEqWvFvczGQnBz7tQhW_bs/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUwOTg3/OTMtMTQzMjY1MDk5/My00MjIwLmpwZWc.jpeg"
-    - "https://i.discogs.com/76jyl_CjgXNWIYIWSg5q4ePqU7Riz-T5Q-YxYteFvRg/rs:fit/g:sm/q:90/h:601/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUwOTg3/OTMtMTQzMjY1MTAy/NC0xMzA0LmpwZWc.jpeg"
+    - "https://i.discogs.com/u6SblEPvxCX4mz5_lmAjUjeMC3IqUhYesFV3wcvZ5uw/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUwOTg3/OTMtMTQzMjY1MTAy/NC0xMzA0LmpwZWc.jpeg"
     - "https://i.discogs.com/sa2doFie6N_hV8b9DvEVyaO_lWo7yJRRaw95xZNb-Xc/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUwOTg3/OTMtMTQzMjY1MTAy/NC03MzM5LmpwZWc.jpeg"
     - "https://i.discogs.com/DMAKTzWNdZDQv9Y2gv7dIXEAdiwB04brnk2d43BEJuY/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUwOTg3/OTMtMTQzMjY1MTAy/NC04OTExLmpwZWc.jpeg"
     - "https://i.discogs.com/GSOA5kVz3parAJ-sLF_gAG2yS9AY5UbEuR508smT9T4/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUwOTg3/OTMtMTQzMjY1MTAy/NS05Nzg4LmpwZWc.jpeg"
@@ -26,8 +27,11 @@ genres: ["Rock"]
 styles: ["Grunge", "Alternative Rock"]
 ---
 
-Temple of the Dog is the only album by the American rock band Temple of the Dog, released on April 16, 1991, through A&M Records. It is a tribute to Andrew Wood, the former lead singer of Malfunkshun and Mother Love Bone, who died on March 19, 1990, of a heroin overdose. The album has been certified platinum by the RIAA in the United States.
-    
+Temple of the Dog is the only studio album by the American rock band Temple of the Dog, released on April 16, 1991, through A&M Records. It is a tribute to Andrew Wood, the former lead singer of Malfunkshun and Mother Love Bone, who died on March 19, 1990, of a heroin overdose. The album has been certified platinum by the RIAA in the United States.
+
+
+        
+        
     
 
 
@@ -44,13 +48,16 @@ Temple of the Dog is the only album by the American rock band Temple of the Dog,
 10. All Night Thing (3:52)
 
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/temple-of-the-dog/1440657497" >}}<br>
+{{< applemusic url="https://music.apple.com/gb/album/temple-of-the-dog-deluxe-edition/1440864963" >}}<br>
 
 
 ## Videos
 ### Temple Of The Dog - Hunger Strike
 {{< youtube id="VUb450Alpps" title="Temple Of The Dog - Hunger Strike" >}}<br>
+### More Videos
 
+- [Call Me A Dog](https://www.youtube.com/watch?v=i7dvT047kjo)
+- [Temple Of The Dog - Say Hello 2 Heaven (Alternate Mix / Pseudo Video)](https://www.youtube.com/watch?v=dwXBfbCfbro)
 
 ## Release Images
 {{< imageGrid >}}

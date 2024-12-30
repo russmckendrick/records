@@ -14,6 +14,8 @@ cover:
 additional_images:
     - "https://i.discogs.com/_HIMhTBag0tPptv6lRG5dwm2TbCMSXdj_i9lhGD4TeU/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwNTEx/Njc4LTE3MTQxNDY2/NDItMjkxOC5qcGVn.jpeg"
     - "https://i.discogs.com/fXp4YQTUzQTMq8e5vaxie7Ak0UXS60zKHO3JYpp_Ve4/rs:fit/g:sm/q:90/h:593/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwNTEx/Njc4LTE3MTQxNDY4/MzAtNTY4Ny5qcGVn.jpeg"
+    - "https://i.discogs.com/ooU2gdjExFsm_g1tEs6Kk5D45Pmppvyvst-ykGx0wW4/rs:fit/g:sm/q:90/h:593/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwNTEx/Njc4LTE3MTQzNzM5/NzMtMjM0MC5qcGVn.jpeg"
+    - "https://i.discogs.com/a6nolYpgBmBy7KQbUHe3iHgT-PE2VEUTJMPpk-WtnLc/rs:fit/g:sm/q:90/h:600/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwNTEx/Njc4LTE3MTQzNzM5/ODMtNTQ5Mi5qcGVn.jpeg"
 genres: ["Electronic", "Pop"]
 styles: ["Synth-pop"]
 ---
@@ -42,19 +44,13 @@ Nonetheless is the fifteenth studio album by English synth-pop duo Pet Shop Boys
 
 
 ## Videos
-### Pet Shop Boys - Loneliness (Official Video)
-{{< youtube id="dUVfoybVqIg" title="Pet Shop Boys - Loneliness (Official Video)" >}}<br>
+### Pet Shop Boys - All the young dudes (Official Audio)
+{{< youtube id="PlMddhZaLGQ" title="Pet Shop Boys - All the young dudes (Official Audio)" >}}<br>
 ### More Videos
 
-- [Feel](https://www.youtube.com/watch?v=_IbyihxolSU)
-- [Why am I dancing?](https://www.youtube.com/watch?v=_oIkLmDe1Pg)
-- [New London boy](https://www.youtube.com/watch?v=fOrQvMYTaTs)
-- [Pet Shop Boys - Dancing star (Official Video)](https://www.youtube.com/watch?v=QyzsPTwGHa8)
-- [A new bohemia](https://www.youtube.com/watch?v=LcqNUut___g)
-- [The schlager hit parade](https://www.youtube.com/watch?v=XEWCDevPSAg)
-- [The secret of happiness](https://www.youtube.com/watch?v=n3DicCwi6i8)
-- [Bullet for Narcissus](https://www.youtube.com/watch?v=mKwOCw5Loiw)
-- [Love is the law](https://www.youtube.com/watch?v=mG_0wIN5jj8)
+- [Adrenaline](https://www.youtube.com/watch?v=akisAW0QMPo)
+- [The dark end of the street](https://www.youtube.com/watch?v=GuDLrLiKZrI)
+- [Miserere](https://www.youtube.com/watch?v=HuCWbgkERN4)
 
 ## Release Images
 {{< imageGrid >}}

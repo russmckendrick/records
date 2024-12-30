@@ -24,6 +24,9 @@ genres: ["Rock"]
 styles: ["Heavy Metal", "Psychedelic Rock"]
 ---
 
+Viscerals is the third studio album by British heavy metal band Pigs Pigs Pigs Pigs Pigs Pigs Pigs. The album was released on 3 April 2020 through Rocket Recordings. Three singles, "Reducer", "Rubbernecker", and "Hell's Teeth" were released with the album, the former two released ahead of the album's release.
+    
+    
 
 
 ## Tracklisting
@@ -51,6 +54,13 @@ styles: ["Heavy Metal", "Psychedelic Rock"]
 - [World Crust](https://www.youtube.com/watch?v=l5HQ4KXqIlY)
 - [Halloween Bolson](https://www.youtube.com/watch?v=9ZPV-lfdRaY)
 - [Hell's Teeth](https://www.youtube.com/watch?v=E4akQS5NEoI)
+- [Pigs Pigs Pigs Pigs Pigs Pigs Pigs – Reducer](https://www.youtube.com/watch?v=dsn9leb4ZSc)
+- [Pigs Pigs Pigs Pigs Pigs Pigs Pigs – Rubbernecker](https://www.youtube.com/watch?v=WV2w2395jZo)
+- [PIGS PIGS PIGS PIGS PIGS PIGS PIGS - New Body](https://www.youtube.com/watch?v=UMD4gRJm7Kc)
+- [Blood and Butter](https://www.youtube.com/watch?v=ux6DQ8TW8wg)
+- [World Crust](https://www.youtube.com/watch?v=l5HQ4KXqIlY)
+- [Halloween Bolson](https://www.youtube.com/watch?v=9ZPV-lfdRaY)
+- [Hell's Teeth](https://www.youtube.com/watch?v=E4akQS5NEoI)
 
 ## Release Images
 {{< imageGrid >}}
@@ -58,6 +68,7 @@ styles: ["Heavy Metal", "Psychedelic Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
+| Wikipedia URL | https://en.wikipedia.org/wiki/Viscerals |
 | Format         | Vinyl LP Album Limited Edition (Blood And Guts) |
 | Label          | Rocket Recordings |
 | Catalog Number | LAUNCH184 |

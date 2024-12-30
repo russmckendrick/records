@@ -20,7 +20,7 @@ additional_images:
     - "https://i.discogs.com/dVkuypfeRw5ZcghKYxjN8zXXUQpQboLufDWlcZIIySU/rs:fit/g:sm/q:90/h:586/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwNDY0/MDUxLTE3MTQwNTI4/NDQtOTcxNS5qcGVn.jpeg"
     - "https://i.discogs.com/K8huUUjTB8ca-COtZqPpbM5BnVS5hnKSs1OVQh5ZLPs/rs:fit/g:sm/q:90/h:593/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwNDY0/MDUxLTE3MTQwNTI4/NDQtNDEzMS5qcGVn.jpeg"
     - "https://i.discogs.com/SgAvotAx2iqnLD0WzDIDCcTrMfgAlK_cD9wRAbdkjpI/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwNDY0/MDUxLTE3MTQwNTI4/NDUtMjI0MC5qcGVn.jpeg"
-genres: ["Rock", "Pop", "Classical"]
+genres: ["Rock", "Pop"]
 styles: ["Indie Pop"]
 ---
 
@@ -44,7 +44,12 @@ styles: ["Indie Pop"]
 {{< applemusic url="https://music.apple.com/gb/album/death-songbook-with-brett-anderson-charles-hazlewood/1725353225" >}}<br>
 
 
+## Videos
+### Paraorchestra with Brett Anderson & Charles Hazlewood - The Killing Moon
+{{< youtube id="fBKOdrfDCaY" title="Paraorchestra with Brett Anderson & Charles Hazlewood - The Killing Moon" >}}<br>
+### More Videos
 
+- [Paraorchestra with Brett Anderson & Charles Hazlewood - The Killing Moon](https://www.youtube.com/watch?v=fBKOdrfDCaY)
 
 ## Release Images
 {{< imageGrid >}}

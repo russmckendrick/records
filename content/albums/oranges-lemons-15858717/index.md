@@ -14,7 +14,7 @@ cover:
     caption: "Oranges & Lemons by XTC"
 additional_images:
     - "https://i.discogs.com/BzETrB4TIzd29PwwWjzubnQWMffJlGAQ_U7QIXr8yhA/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1ODU4/NzE3LTE1OTk1MDk5/NjYtMTQxMC5qcGVn.jpeg"
-    - "https://i.discogs.com/qZJPtCjaE7EqOYvTb_-OeO3Ylm2qS2QqMlhDBbRMXSA/rs:fit/g:sm/q:90/h:602/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1ODU4/NzE3LTE2MDEwNjcw/NDgtNDMzNi5qcGVn.jpeg"
+    - "https://i.discogs.com/NzTBUNfP6JfaznHbu93Rnh7qmK06IaIvU8DxY3dA9l4/rs:fit/g:sm/q:90/h:600/w:597/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1ODU4/NzE3LTE2MDEwNjcw/NDgtNDMzNi5qcGVn.jpeg"
     - "https://i.discogs.com/iZB4YnFu85jFuny9kBsoieDmMdI-9dYHPoAlmiK6zP0/rs:fit/g:sm/q:90/h:580/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1ODU4/NzE3LTE2MDEwNjcw/NDctNjM5Ny5qcGVn.jpeg"
     - "https://i.discogs.com/yCRpPXZiZ8x3-rA1_Aou1cK2HuvMGDTt7fiTPQmjscg/rs:fit/g:sm/q:90/h:587/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1ODU4/NzE3LTE2MDEwNjcw/NDktNDQyNC5qcGVn.jpeg"
     - "https://i.discogs.com/c9-GTOr9pDi5mZXj6TvZrBlxqSYJPerGWbNy3qvNBag/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1ODU4/NzE3LTE1OTkwOTg2/MDItMzc2NS5qcGVn.jpeg"
@@ -25,12 +25,12 @@ additional_images:
     - "https://i.discogs.com/d9bV_mdLXNdl7C_ucctmhLWzOeZIU_8ApvY6PKFHrZI/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1ODU4/NzE3LTE1OTkwOTg2/MDQtMzg1Ny5qcGVn.jpeg"
     - "https://i.discogs.com/rpredyuNiCIGnDOrJvNapGqba935nWjzWT4MwYPPf14/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1ODU4/NzE3LTE1OTkwOTg2/MDQtMjIzMC5qcGVn.jpeg"
     - "https://i.discogs.com/R9dvq1bDsyp2LbGokVTGb7EXGoJciwcsRuIDVX6-BiA/rs:fit/g:sm/q:90/h:465/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1ODU4/NzE3LTE1OTkxNTc0/MzItODQyOC5qcGVn.jpeg"
-    - "https://i.discogs.com/agESnk-NRg5HAgB_BYeeWqia3R1DYsbIygmeCpyzhRc/rs:fit/g:sm/q:90/h:855/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1ODU4/NzE3LTE1OTk1MTAx/ODEtMTgxNC5qcGVn.jpeg"
+    - "https://i.discogs.com/AY5mTD4Itq7XYpfuhjiPiozYLeZKus1RqM1FhL3_MNI/rs:fit/g:sm/q:90/h:600/w:420/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1ODU4/NzE3LTE1OTk1MTAx/ODEtMTgxNC5qcGVn.jpeg"
 genres: ["Rock"]
 styles: ["New Wave", "Pop Rock"]
 ---
 
-As its cover art and album title suggest, <i>Oranges & Lemons</i> represents the psychedelic vision of XTC, as much as such a concept could exist in 1989. The group had already issued several retro-psychedelic records as their alter-egos ‘The Dukes of Stratosphear’, emphasizing their ties to ‘60s pop, so it was hardly a stylistic shock when XTC extended these leanings to their proper group. In retrospect, it’s less a shift than a re-juggling of the band’s priorities. In the past, much of XTC’s appeal had been their jarring rhythms and slashing guitars. Over the years, the band experimented with increasingly complex arrangements that shaded their songs in dramatic light. Though the group expressed displeasure with Todd Rundgren’s production of 1986’s <i>Skylarking</i>, it was that careful effort that set the stage for this intricately sculpted collection. While “The Mayor of Simpleton” distills XTC’s essence to its most mind-humming basics, the baroque, carnival-esque excitement of “King for a Day,” “The Loving,” “Merely a Man” and “Chalkhills and Children” make for smart, adventurous listening.
+As its cover art and album title suggest, <I>Oranges & Lemons</I> represents the psychedelic vision of XTC, as much as such a concept could exist in 1989. The group had already issued several retro-psychedelic records as their alter-egos ‘The Dukes of Stratosphear’, emphasizing their ties to ‘60s pop, so it was hardly a stylistic shock when XTC extended these leanings to their proper group. In retrospect, it’s less a shift than a re-juggling of the band’s priorities. In the past, much of XTC’s appeal had been their jarring rhythms and slashing guitars. Over the years, the band experimented with increasingly complex arrangements that shaded their songs in dramatic light. Though the group expressed displeasure with Todd Rundgren’s production of 1986’s <I>Skylarking</I>, it was that careful effort that set the stage for this intricately sculpted collection. While “The Mayor of Simpleton” distills XTC’s essence to its most mind-humming basics, the baroque, carnival-esque excitement of “King for a Day,” “The Loving,” “Merely a Man” and “Chalkhills and Children” make for smart, adventurous listening.
     
     
 
@@ -57,14 +57,18 @@ As its cover art and album title suggest, <i>Oranges & Lemons</i> represents the
 
 
 ## Videos
-### XTC - Mayor of Simpleton
-{{< youtube id="5Da9sc6YDBo" title="XTC - Mayor of Simpleton" >}}<br>
+### Garden Of Earthly Delights (2001 Remaster)
+{{< youtube id="LOdkG4sqGfo" title="Garden Of Earthly Delights (2001 Remaster)" >}}<br>
 ### More Videos
 
+- [XTC- Chalkhills And Children-[Steve Wilson 2015 Stereo Mix]](https://www.youtube.com/watch?v=pwqTSIzg0wQ)
+- [Scarecrow People (2001 Remaster)](https://www.youtube.com/watch?v=lzmCKu0fG2I)
+- [XTC - One of the Millions - Oranges & Lemons [1989]](https://www.youtube.com/watch?v=NAduyR-iAUU)
+- [XTC - Mayor of Simpleton](https://www.youtube.com/watch?v=5Da9sc6YDBo)
+- [XTC - King For A Day](https://www.youtube.com/watch?v=depsFULhqV8)
 - [XTC - Poor Skeleton Steps Out](https://www.youtube.com/watch?v=fj4I4sWtyEI)
 - [Garden Of Earthly Delights (2001 Remaster)](https://www.youtube.com/watch?v=LOdkG4sqGfo)
 - [XTC- Chalkhills And Children-[Steve Wilson 2015 Stereo Mix]](https://www.youtube.com/watch?v=pwqTSIzg0wQ)
-- [XTC - King For A Day](https://www.youtube.com/watch?v=depsFULhqV8)
 - [Scarecrow People (2001 Remaster)](https://www.youtube.com/watch?v=lzmCKu0fG2I)
 - [XTC - One of the Millions - Oranges & Lemons [1989]](https://www.youtube.com/watch?v=NAduyR-iAUU)
 

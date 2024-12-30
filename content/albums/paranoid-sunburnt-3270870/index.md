@@ -34,7 +34,7 @@ styles: ["Alternative Rock", "Funk Metal"]
 11. Rise Up
 
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/paranoid-sunburnt/1537828183" >}}<br>
+{{< applemusic url="https://music.apple.com/gb/album/paranoid-sunburnt/1726649156" >}}<br>
 
 
 ## Videos
@@ -46,11 +46,11 @@ styles: ["Alternative Rock", "Funk Metal"]
 - [Skunk Anansie - Little Baby Swastikka](https://www.youtube.com/watch?v=aBINfmb7tWE)
 - [Skunk Anansie - And Here I Stand](https://www.youtube.com/watch?v=ASUvc3MCXSE)
 - [Skunk Anansie - All in the name of pity](https://www.youtube.com/watch?v=AWEpDROevaA)
-- [Skunk Anansie - Selling Jesus](https://www.youtube.com/watch?v=pRH807Zg8MQ)
 - [Skunk Anansie - Charity](https://www.youtube.com/watch?v=qQ7ZeSU8ZXM)
 - [Skunk Anansie - It takes blood and guts to be this cool but i m still just a cliche](https://www.youtube.com/watch?v=Mnv19g5NQW8)
 - [Skunk Anansie - Weak](https://www.youtube.com/watch?v=nPglNjxVHiM)
 - [Skunk Anansie ‎– I Can Dream](https://www.youtube.com/watch?v=6bD4IanUhYs)
+- [Skunk Anansie - Selling Jesus](https://www.youtube.com/watch?v=pRH807Zg8MQ)
 
 ## Release Images
 {{< imageGrid >}}

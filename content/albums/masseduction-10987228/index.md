@@ -16,17 +16,17 @@ additional_images:
     - "https://i.discogs.com/CFXvyNCN31DsyEbut8hBzU8DYcyQpTxnhedBttb1HdU/rs:fit/g:sm/q:90/h:574/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwOTg3/MjI4LTE1MDc5MzYz/MzEtNTYyMS5qcGVn.jpeg"
     - "https://i.discogs.com/qYJ45CtGO7YV_0M1E0pNgqz_ji_meqEUyJaZo7bK9mo/rs:fit/g:sm/q:90/h:587/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwOTg3/MjI4LTE1MjgyMjg4/NDAtNzA2Ny5qcGVn.jpeg"
     - "https://i.discogs.com/T2aIpBgMdIdxInavKMZkibVnEjWUA8nIZ6XpxxLTQ0Q/rs:fit/g:sm/q:90/h:592/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwOTg3/MjI4LTE1MDgyNTM1/NDctNzgxNS5qcGVn.jpeg"
-    - "https://i.discogs.com/Nr-mEkjRTTwd-_mwp4dFE7um2bEZGcb319s8mTmgiG4/rs:fit/g:sm/q:90/h:601/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwOTg3/MjI4LTE1MDgyNTM1/NDYtNTAzMS5qcGVn.jpeg"
+    - "https://i.discogs.com/gi5i_n49EWY3GCtJFzKPPWHYARmrMJCV8N3HZnLClk4/rs:fit/g:sm/q:90/h:600/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwOTg3/MjI4LTE1MDgyNTM1/NDYtNTAzMS5qcGVn.jpeg"
     - "https://i.discogs.com/Im4wNuKm1eSktKIrjEkVTSIAvMfYSWiOZfrIo580g84/rs:fit/g:sm/q:90/h:337/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwOTg3/MjI4LTE1MDc3MzI0/NTQtNzE5Mi5qcGVn.jpeg"
     - "https://i.discogs.com/sLgJNkfEwIssrhJ_qcgSvCCbS2uJ64rJob4X74oqjjs/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwOTg3/MjI4LTE1MjgyMjg4/NjEtNDc2Mi5qcGVn.jpeg"
-    - "https://i.discogs.com/HZ1AfCV9qju8DWW_95MqebGN85zevPVzHaaT826TLDw/rs:fit/g:sm/q:90/h:608/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwOTg3/MjI4LTE1MjgyMjg4/NjAtMTM0Mi5qcGVn.jpeg"
-    - "https://i.discogs.com/keRdpJu58nB2GjB9qla4yZELI0pZsxBut9SXZmMJpPI/rs:fit/g:sm/q:90/h:795/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwOTg3/MjI4LTE1MjgyMjg4/NjUtOTc1NC5qcGVn.jpeg"
-    - "https://i.discogs.com/U-CL0QPTfl3hL9LyNuwf4EuaWR134oL58Oqa97b5Gcc/rs:fit/g:sm/q:90/h:803/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwOTg3/MjI4LTE1MjgyMjg4/NjctODM4OS5qcGVn.jpeg"
+    - "https://i.discogs.com/hhdnXMmkMfI4WxVclONl8BrrfTKBqz3V2pifZm6K_ww/rs:fit/g:sm/q:90/h:600/w:591/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwOTg3/MjI4LTE1MjgyMjg4/NjAtMTM0Mi5qcGVn.jpeg"
+    - "https://i.discogs.com/HfzubU4xS1caEjJaKzuofWTqI80p6GtitiEo4ch9rRQ/rs:fit/g:sm/q:90/h:600/w:452/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwOTg3/MjI4LTE1MjgyMjg4/NjUtOTc1NC5qcGVn.jpeg"
+    - "https://i.discogs.com/BrHq440daPDMQ7QVkuyU6yOilShlm37s6j28oX8Af30/rs:fit/g:sm/q:90/h:600/w:447/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwOTg3/MjI4LTE1MjgyMjg4/NjctODM4OS5qcGVn.jpeg"
 genres: ["Rock"]
 styles: ["Indie Rock"]
 ---
 
-Pushing past the GRAMMY®-winning art rock of 2014’s <i>St. Vincent</i>, <i>Masseduction</i> finds Annie Clark teaming up with Jack Antonoff (as well as Kendrick Lamar collaborator Sounwave) for a pop masterpiece that radiates and revels in paradox—vibrant yet melancholy, cunning yet honest, friendly yet confrontational, deeply personal yet strangely inscrutable. She moves from synthetic highs to towering power-ballad comedowns (“Pills”), from the East Coast (the unforgettable “New York”) to “Los Ageless,” where, amid a bramble of strings and woozy electronics, she admits, “I try to write you a love song/But it comes out a lament.”
+Pushing past the GRAMMY®-winning art rock of 2014’s <i>St. Vincent</i>, <i>Masseduction</i> finds Annie Clark teaming up with Jack Antonoff (as well as Kendrick Lamar collaborator Sounwave) for a pop masterpiece that radiates and revels in paradox—vibrant yet melancholy, cunning yet honest, friendly yet confrontational, deeply personal yet strangely inscrutable. She moves from synthetic highs to towering power-ballad comedowns (“Pills”), from the East Coast (the unforgettable “New York”) to “Los Ageless”, where, amid a bramble of strings and woozy electronics, she admits, “I try to write you a love song/But it comes out a lament”.
         
         
     
@@ -52,14 +52,14 @@ Pushing past the GRAMMY®-winning art rock of 2014’s <i>St. Vincent</i>, <i>Ma
 
 
 ## Videos
-### St. Vincent - Hang On Me (Official Audio)
-{{< youtube id="F9WjhPy02gU" title="St. Vincent - Hang On Me (Official Audio)" >}}<br>
+### St. Vincent - New York (Official Video)
+{{< youtube id="4TPqUvy1vYU" title="St. Vincent - New York (Official Video)" >}}<br>
 ### More Videos
 
+- [St. Vincent - "Los Ageless" (Official Video)](https://www.youtube.com/watch?v=h9TlaYxoOO8)
+- [St. Vincent - Hang On Me (Official Audio)](https://www.youtube.com/watch?v=F9WjhPy02gU)
 - [St. Vincent - Masseduction](https://www.youtube.com/watch?v=jPha0h8TA5U)
-- [St. Vincent - New York (Official Video)](https://www.youtube.com/watch?v=4TPqUvy1vYU)
-- [St. Vincent - Power Corrupts (Japanese Bonus Track)](https://www.youtube.com/watch?v=GYLCrGOY_eQ)
-- [St. Vincent - Los Ageless (Official Video)](https://www.youtube.com/watch?v=h9TlaYxoOO8)
+- [St. Vincent - "Power Corrupts" (Japanese Bonus Track)](https://www.youtube.com/watch?v=GYLCrGOY_eQ)
 
 ## Release Images
 {{< imageGrid >}}

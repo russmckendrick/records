@@ -17,9 +17,9 @@ additional_images:
     - "https://i.discogs.com/fkfb5HTXf-7dYtvWEbcgB5BP1MqzB2VszCY3ptU3Tfo/rs:fit/g:sm/q:90/h:593/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNzg4/MTY3LTE2NTYwNDg5/NTctMTY1NS5qcGVn.jpeg"
     - "https://i.discogs.com/IWoEeK0f8FCIG1deT2DVUfsqmU64nklcWOcbcOMNOjI/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNzg4/MTY3LTE2NTYwNDg5/NTUtODA3OS5qcGVn.jpeg"
     - "https://i.discogs.com/nOTL49Tdwj3-888F7p4TzPcQcbUu8wJA8YlJGyyJy-I/rs:fit/g:sm/q:90/h:594/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNzg4/MTY3LTE2NTYwNDg5/NTgtODI1OC5qcGVn.jpeg"
-    - "https://i.discogs.com/_sTkniHxEKAzj62FAsqHFSXaXrtZg5C71e9rkuei_Rc/rs:fit/g:sm/q:90/h:606/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNzg4/MTY3LTE2NTYwNDg5/NTUtNDIxNS5qcGVn.jpeg"
+    - "https://i.discogs.com/3KC8i8_HY-odirHu971nvxSCc9B30ZT3HzxkARtNWIY/rs:fit/g:sm/q:90/h:600/w:593/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNzg4/MTY3LTE2NTYwNDg5/NTUtNDIxNS5qcGVn.jpeg"
     - "https://i.discogs.com/KpL-JHu7edwVFInH6GYD71N2goJgo_EjGRvSTrLlUuw/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNzg4/MTY3LTE2NTYwNDg5/NTctNDc1NS5qcGVn.jpeg"
-    - "https://i.discogs.com/655XaaOUSXueLZXprhiOWU4C4pLvTJiHoMsnSEiHEoo/rs:fit/g:sm/q:90/h:606/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNzg4/MTY3LTE2NTYwNDg5/NTgtODc0MS5qcGVn.jpeg"
+    - "https://i.discogs.com/ciFVummG1lAH7tdCQhPP-bTEbkWmf4tCf7DKUVoYZH0/rs:fit/g:sm/q:90/h:600/w:593/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNzg4/MTY3LTE2NTYwNDg5/NTgtODc0MS5qcGVn.jpeg"
     - "https://i.discogs.com/gktpwsYrVbz7FWUEbE5xE3tbEouzY4KGn2OHPYR6gEw/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNzg4/MTY3LTE2NTYwNDg5/NTYtNDE3Ni5qcGVn.jpeg"
 genres: ["Electronic", "Rock", "Pop"]
 styles: ["Prog Rock", "Synth-pop", "Alternative Rock", "Pop Rock"]
@@ -107,6 +107,6 @@ Lifeson: “This is difficult to talk about because I wrote the song around the 
 | Wikipedia URL | https://en.wikipedia.org/wiki/Envy_of_None |
 | Format         | Vinyl LP Album Limited Edition (White) |
 | Label          | Kscope |
-| Catalog Number | 1164 |
+| Catalog Number | KSCOPE1164 |
 | Notes | Catalogue number appears on a sticker only Comes with an inner sleeve and an advertising sheet. '1+' and '3+' in runouts appear backwards (mirror image). Runouts are etched. |
 | Discogs URL    | [Envy Of None - Envy Of None](https://www.discogs.com/release/22788167-Envy-Of-None-Envy-Of-None) |

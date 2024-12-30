@@ -22,11 +22,15 @@ genres: ["Rock"]
 styles: ["Post Rock"]
 ---
 
+The World Inside is a science fiction novel by American writer Robert Silverberg, published in 1971. The novel originally appeared as a series of shorter works in 1970 and 1971, all but one published in Galaxy, including the Hugo nominated novella "The World Outside". The World Inside was nominated for a Hugo Award in 1972, although Silverberg declined the nomination.
+On March 2, 2010, Orb Books published this title as a trade paperback edition.
+    
+    
 
 
 ## Tracklisting
 1. Machinations (8:09)
-2. The World Inside (09:08)
+2. The World Inside (9:08)
 3. Presynaptic (4:15)
 4. Postsynaptic (10:41)
 5. Apocryphal (10:00)
@@ -43,6 +47,7 @@ styles: ["Post Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
+| Wikipedia URL | https://en.wikipedia.org/wiki/The_World_Inside |
 | Format         | Vinyl LP Album Limited Edition (Red Transparent With Black Splatter) |
 | Label          | Not On Label (Tacoma Narrows Bridge Disaster Self-released) |
 | Catalog Number | none |

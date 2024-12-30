@@ -13,7 +13,7 @@ cover:
     caption: "The Secret Of Letting Go by Lamb"
 additional_images:
     - "https://i.discogs.com/kAKUKH-_SiA00fGroWPOwj-fCViBAqh7IunkryM1nrQ/rs:fit/g:sm/q:90/h:589/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNTU4/MDg2LTE2Mzc4MDE3/MDAtODQ5NS5qcGVn.jpeg"
-    - "https://i.discogs.com/7Q1PNoiHxjkleSKVIaN7qepRgBuHgaN_2ykUsIXwGNI/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNTU4/MDg2LTE2Mzc4MDE3/MDAtNzEyMC5qcGVn.jpeg"
+    - "https://i.discogs.com/Huph5hGoGROyOZZ5vLf0dJ9yseNpVosk52H8wAX3EfI/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNTU4/MDg2LTE2Mzc4MDE3/MDAtNzEyMC5qcGVn.jpeg"
     - "https://i.discogs.com/vE9ze8fwQlAreAJlMqldeKgU9W65lelJn0tpPJKTwfQ/rs:fit/g:sm/q:90/h:450/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNTU4/MDg2LTE2Mzc3NzMz/NjYtNDIzOC5qcGVn.jpeg"
     - "https://i.discogs.com/SPAp3Pvt8q-RPd514-y_88KGPwQ7yB_b7MxWLlo7RQU/rs:fit/g:sm/q:90/h:588/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNTU4/MDg2LTE2Mzc3NzMz/NjYtNjA0NS5qcGVn.jpeg"
     - "https://i.discogs.com/SRv_XjMC74hg8KYppIvZ00uR8DAiHlH0xUGXCZAXnq0/rs:fit/g:sm/q:90/h:593/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNTU4/MDg2LTE2Mzc3NzMz/NjUtNTAwMi5qcGVn.jpeg"
@@ -64,8 +64,8 @@ styles: ["Leftfield", "Downtempo"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl LP Album Limited Edition (180g Gatefold) |
+| Format         | Vinyl LP Album Limited Edition (180g) |
 | Label          | Cooking Vinyl |
 | Catalog Number | COOKLP728 |
-| Notes | Ltd edition sticker on front cover 180g heavyweight vinyl in gatefold sleeve Label has cat number as COOKCD728 on both sides |
+| Notes | Sticker on front shrink: "Ltd edition 180g heavyweight vinyl in gatefold sleeve Features the singles 'Armageddon Waits' and 'Moonshine' Includes download card of the album"  Label has cat number as COOKCD728 on both sides |
 | Discogs URL    | [Lamb - The Secret Of Letting Go](https://www.discogs.com/release/13558086-Lamb-The-Secret-Of-Letting-Go) |

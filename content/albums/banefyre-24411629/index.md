@@ -12,7 +12,7 @@ cover:
     alt: "Banefyre by Crippled Black Phoenix"
     caption: "Banefyre by Crippled Black Phoenix"
 additional_images:
-    - "https://i.discogs.com/LUERA1xPYS6zqAA2It_9LT6g8c_OUmCpzXbpJ-r808E/rs:fit/g:sm/q:90/h:605/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NDEx/NjI5LTE2NjIyOTY5/ODMtNjcyOC5wbmc.jpeg"
+    - "https://i.discogs.com/SpAhm36e9YbVPtKmswTAtOl2sUHhA8ceaZDgXk13xlA/rs:fit/g:sm/q:90/h:600/w:594/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NDEx/NjI5LTE2NjIyOTY5/ODMtNjcyOC5wbmc.jpeg"
     - "https://i.discogs.com/e7fvo6zlihzGFM7QyHTbmgcmavLmIo5qHcmBN2u7vGw/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NDEx/NjI5LTE2NjIyOTY5/OTMtNTc5Ny5wbmc.jpeg"
     - "https://i.discogs.com/ckll6sKz8pJenO68avZbNIbDmWdin-niVDW97dhHE50/rs:fit/g:sm/q:90/h:479/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NDEx/NjI5LTE2NjIyOTY5/OTgtMjk1NS5wbmc.jpeg"
 genres: ["Rock"]
@@ -42,12 +42,12 @@ styles: ["Prog Rock"]
 
 
 ## Videos
-### CRIPPLED BLACK PHOENIX - Everything is Beautiful But Us (official video) 2022
-{{< youtube id="07XHKXhfah0" title="CRIPPLED BLACK PHOENIX - Everything is Beautiful But Us (official video) 2022" >}}<br>
+### CRIPPLED BLACK PHOENIX - "Everything is Beautiful But Us" (official video) 2022
+{{< youtube id="07XHKXhfah0" title="CRIPPLED BLACK PHOENIX - "Everything is Beautiful But Us" (official video) 2022" >}}<br>
 ### More Videos
 
-- [CRIPPLED BLACK PHOENIX - Blackout77 (official video) 2022](https://www.youtube.com/watch?v=_yl7QIvD6n4)
-- [CRIPPLED BLACK PHOENIX - Bonefire (official audio) 2022](https://www.youtube.com/watch?v=FLvkB67NVTc)
+- [CRIPPLED BLACK PHOENIX - "Blackout77" (official video) 2022](https://www.youtube.com/watch?v=_yl7QIvD6n4)
+- [CRIPPLED BLACK PHOENIX - "Bonefire" (official audio) 2022](https://www.youtube.com/watch?v=FLvkB67NVTc)
 
 ## Release Images
 {{< imageGrid >}}

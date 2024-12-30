@@ -20,7 +20,7 @@ genres: ["Rock"]
 styles: ["Soft Rock", "Pop Rock", "Classic Rock"]
 ---
 
-Greatest Hits is a 1975 compilation album by British singer-songwriter Cat Stevens. It reached #2 in the UK Albums Chart and peaked at #6 on the Billboard 200. Though made up mostly of tracks from his five previous studio albums, Cat Stevens' Greatest Hits did contain one new song, "Two Fine People", which was also released as a single in 1975, and the previous non-album single, "Another Saturday Night". Those singles charted at No. 33 and No. 6, respectively, on the Billboard Hot 100 singles chart.
+Greatest Hits is a 1975 compilation album by British singer-songwriter Cat Stevens. It reached No. 2 in the UK Albums Chart and peaked at No. 6 on the Billboard 200. Though made up mostly of tracks from his five previous studio albums, Cat Stevens' Greatest Hits did contain one new song, "Two Fine People", which was also released as a single in 1975, and the previous non-album single, "Another Saturday Night". Those singles charted at No. 33 and No. 6, respectively, on the Billboard Hot 100 singles chart.
 
 
     
@@ -42,39 +42,24 @@ Greatest Hits is a 1975 compilation album by British singer-songwriter Cat Steve
 12. Another Saturday Night (2:28)
 
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/the-very-best-of-cat-stevens/1440922727" >}}<br>
+{{< applemusic url="https://music.apple.com/gb/album/greatest-hits/1444172593" >}}<br>
 
 
 ## Videos
-### Cat Stevens - Can't Keep It In
-{{< youtube id="0W_SGoBFJxs" title="Cat Stevens - Can't Keep It In" >}}<br>
+### Cat Stevens- Sitting
+{{< youtube id="djpnsqdNabM" title="Cat Stevens- Sitting" >}}<br>
 ### More Videos
 
-- [Wild World - Cat Stevens – Greatest Hits](https://www.youtube.com/watch?v=AMbpoitXTb8)
+- [Cat Stevens - Can't Keep It In](https://www.youtube.com/watch?v=0W_SGoBFJxs)
 - [CAT STEVENS - Wild World 1971](https://www.youtube.com/watch?v=Jta56wBl7SM)
-- [Cat Stevens- Sitting](https://www.youtube.com/watch?v=djpnsqdNabM)
-- [Oh Very Young - Cat Stevens – Greatest Hits](https://www.youtube.com/watch?v=N7SSmDZ4CCM)
-- [Cat Stevens - Moonshadow](https://www.youtube.com/watch?v=kGNxKnLmOH4)
-- [Can't Keep It In - Cat Stevens – Greatest Hits](https://www.youtube.com/watch?v=MI63YxxSGwY)
+- [Cat Stevens Greatest Hits Album - Best Songs Of Cat Stevens](https://www.youtube.com/watch?v=JkaCkZmPRFk)
 - [Yusuf / Cat Stevens - Oh Very Young (live, Majikat - Earth Tour 1976)](https://www.youtube.com/watch?v=A--zzYtFUUs)
-- [Moonshadow - Cat Stevens – Greatest Hits](https://www.youtube.com/watch?v=BwOZSUz0FZA)
-- [Two Fine People - Cat Stevens – Greatest Hits](https://www.youtube.com/watch?v=3XPCqsZAjKw)
 - [Cat Stevens - Another Saturday Night (LYRICS + FULL SONG)](https://www.youtube.com/watch?v=VQGzmSox2Xc)
-- [Peace Train - Cat Stevens – Greatest Hits](https://www.youtube.com/watch?v=xuTz5iJtXRM)
 - [Cat Stevens Greatest Hits Full Album - Folk Rock And Country Collection 70's/80's/90's](https://www.youtube.com/watch?v=jg_OPer0FbE)
-- [Ready - Cat Stevens – Greatest Hits](https://www.youtube.com/watch?v=PMM7F5oALys)
-- [The Very Best Of CAT STEVENS 2018 - CAT STEVENS Greatest Hits Full Album (HD)](https://www.youtube.com/watch?v=EKlMWg5wrwk)
-- [Father & Son - Cat Stevens – Greatest Hits](https://www.youtube.com/watch?v=KFzvQfF4OnI)
-- [Cat Stevens Greatest Hits Full Album - Folk Rock And Country Collection 70's 80's 90's](https://www.youtube.com/watch?v=kCFGHHwPlHQ)
-- [Sitting - Cat Stevens – Greatest Hits](https://www.youtube.com/watch?v=pE2HxWGZAIY)
-- [Morning Has Broken - Cat Stevens – Greatest Hits](https://www.youtube.com/watch?v=11sN36AfN0s)
-- [Cat Stevens Greatest Hits Album 2021 - Best Songs Of Cat Stevens 2021](https://www.youtube.com/watch?v=jUHF_kv_8ys)
 - [Cat Stevens Greatest Hits Full Album - Folk Rock And Country Collection 70's/80's/90's](https://www.youtube.com/watch?v=ss39YgoXa2g)
 - [Cat Stevens Greatest Hits Full Album - Folk Rock And Country Collection 70's/80's/90's](https://www.youtube.com/watch?v=x8Q2gb-5iH0)
 - [Cat Stevens Greatest Hits Full Album - Folk Rock And Country Collection 70's/80's/90's](https://www.youtube.com/watch?v=jGqNG5Q52Mw)
 - [Cat Stevens - Cat Stevens Greatest Hits || Best Songs Cat Stevens ( Full Album Live)](https://www.youtube.com/watch?v=2rNBBU_62hw)
-- [Cat Stevens Greatest Hits Album - Best Songs Of Cat Stevens](https://www.youtube.com/watch?v=JkaCkZmPRFk)
-- [C.a.t S.t.e.v.e.n.s Greatest Hits, Full Album - Rock Music Playlist 2022](https://www.youtube.com/watch?v=vmZbyEgDhas)
 - [CAT STEVENS - GREATEST HITS / FULL ORIGINAL ALBUM 1975](https://www.youtube.com/watch?v=YbN9NT7-SkI)
 
 ## Release Images

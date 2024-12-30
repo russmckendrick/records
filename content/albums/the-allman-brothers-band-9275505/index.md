@@ -16,15 +16,16 @@ additional_images:
     - "https://i.discogs.com/GHNRya4K5c7jd7iXwiCnPLfYEauSf-RpLHtb0vXRE5M/rs:fit/g:sm/q:90/h:300/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkyNzU1/MDUtMTY0ODY3Mjgx/Ni04MjcwLmpwZWc.jpeg"
     - "https://i.discogs.com/ttgJYW1cSJQ7sENwVbCv-aMFnJQS2hr3Md463z2Q2zo/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkyNzU1/MDUtMTY0ODY3Mjgz/Mi0xNTI5LmpwZWc.jpeg"
     - "https://i.discogs.com/nU8FeVnMDgh9UpA6uiwJPRYm8KqjezAdfKkbm1z8nV8/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkyNzU1/MDUtMTUxNTc3NzU4/OS01NjEyLmpwZWc.jpeg"
-    - "https://i.discogs.com/i7sTBZjoiri4hNmoZLyaDsrPVacIpSUvWhrfG2rlSTk/rs:fit/g:sm/q:90/h:605/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkyNzU1/MDUtMTUxNTc3NzY4/OC03MzAyLmpwZWc.jpeg"
+    - "https://i.discogs.com/QM26vR3vtKHBjuGZnf_Z9TG3upQBIybDNUHMdZ0EQCY/rs:fit/g:sm/q:90/h:600/w:594/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkyNzU1/MDUtMTUxNTc3NzY4/OC03MzAyLmpwZWc.jpeg"
     - "https://i.discogs.com/UASv5TzXAjTZ-x_M21IRIcSZ3gdTVPLu8sVso0MIV5E/rs:fit/g:sm/q:90/h:594/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkyNzU1/MDUtMTUxNTc3NzY5/Mi01NTY2LmpwZWc.jpeg"
-    - "https://i.discogs.com/HwQPAoK4SgZOnoD812eGxSWQmqkRfL_hM31ez-jKcaU/rs:fit/g:sm/q:90/h:603/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkyNzU1/MDUtMTUxNTc3NzY4/OS00NzQ4LmpwZWc.jpeg"
+    - "https://i.discogs.com/u4mOwi8e8FXOXRxBMjsCqFmVNFz5z2uusjXdCG4NJe0/rs:fit/g:sm/q:90/h:600/w:596/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkyNzU1/MDUtMTUxNTc3NzY4/OS00NzQ4LmpwZWc.jpeg"
 genres: ["Rock"]
 styles: ["Blues Rock", "Southern Rock"]
 ---
 
-"Ramblin Man" is a song by American rock band The Allman Brothers Band, released in August 1973 as the lead single from the group's fourth studio album, Brothers and Sisters (1973). Written and sung by guitarist Dickey Betts, the song was inspired by a 1951 song of the same name by Hank Williams. It is considerably more inspired by country music than other Allman Brothers Band compositions, which made the group reluctant to record it. Guitarist Les Dudek provides guitar harmonies, and it was one of bassist Berry Oakley's last contributions to the band.
-The song became the Allman Brothers Band's first and only top 10 single, peaking at number two on the Billboard Hot 100 chart and number 12 on the Easy Listening chart.
+The Allman Brothers Band was an American rock band formed in Jacksonville, Florida, in 1969 by brothers Duane Allman (slide guitar and lead guitar) and Gregg Allman (vocals, keyboards, songwriting), as well as Dickey Betts (lead guitar, vocals, songwriting), Berry Oakley (bass guitar), Butch Trucks (drums), and Jai Johanny "Jaimoe" Johanson (drums). The band incorporated elements of Southern rock, blues, jazz, and country music, and their live shows featured jam band-style improvisation and instrumentals.
+The group's first two studio releases stalled commercially, but their 1971 live release, At Fillmore East, represented an artistic and commercial breakthrough. The album features extended renderings of their songs "In Memory of Elizabeth Reed" and "Whipping Post", and is often considered the best live album ever made. Group leader Duane Allman was killed in a motorcycle accident later that year, and the band dedicated Eat a Peach (1972) in his memory, a dual studio/live album that cemented the band's popularity. Following the motorcycle death of bassist Berry Oakley later that year, the group recruited keyboardist Chuck Leavell and bassist Lamar Williams for 1973's Brothers and Sisters, which, combined with the hit single "Ramblin' Man", placed the group at the forefront of 1970s rock music. Internal turmoil overtook them soon after; the group dissolved in 1976, reformed briefly at the end of the decade with additional personnel changes, and dissolved again in 1982.
+The band reformed once more in 1989, releasing a string of new albums and touring heavily. A series of personnel changes in the late 1990s was capped by the departure of Betts. The group found stability during the 2000s with bassist Oteil Burbridge and guitarists Warren Haynes (in his second stint with the band) and Derek Trucks (the nephew of their drummer) and became renowned for their month-long string of shows at New York City's Beacon Theatre each spring. The band retired for good in 2014. The band has been awarded seven gold and four platinum albums, and was inducted into the Rock and Roll Hall of Fame in 1995. Rolling Stone ranked them 52nd on their list of the 100 Greatest Artists of All Time in 2004.
     
     
 
@@ -52,16 +53,9 @@ The song became the Allman Brothers Band's first and only top 10 single, peaking
 
 
 ## Videos
-### Don't Want You No More
-{{< youtube id="IQGPC2IEOdQ" title="Don't Want You No More" >}}<br>
-### More Videos
+### The Allman Brothers Band (US, 1969) [Full LP, 1st Pressing] {Psychedelic Blues Rock} ★★MASTERPIECE★★
+{{< youtube id="UoK2fvY-UE4" title="The Allman Brothers Band (US, 1969) [Full LP, 1st Pressing] {Psychedelic Blues Rock} ★★MASTERPIECE★★" >}}<br>
 
-- [It's Not My Cross To Bear](https://www.youtube.com/watch?v=-dy1xeuStsc)
-- [Black Hearted Woman](https://www.youtube.com/watch?v=KxZ_ZbiCHpc)
-- [Trouble No More](https://www.youtube.com/watch?v=EqHSKn7ikwc)
-- [Every Hungry Woman](https://www.youtube.com/watch?v=5XK2DDoAWTc)
-- [Dreams](https://www.youtube.com/watch?v=ESDqkzZOQCo)
-- [Whipping Post](https://www.youtube.com/watch?v=VZSNs6H-HDI)
 
 ## Release Images
 {{< imageGrid >}}
@@ -69,7 +63,7 @@ The song became the Allman Brothers Band's first and only top 10 single, peaking
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Wikipedia URL | https://en.wikipedia.org/wiki/Ramblin%27_Man_(The_Allman_Brothers_Band_song) |
+| Wikipedia URL | https://en.wikipedia.org/wiki/The_Allman_Brothers_Band_discography |
 | Format         | Vinyl 2× LP Album Reissue Remastered (Gatefold, 180g) |
 | Label          | Mercury |
 | Catalog Number | 00602547813190 |

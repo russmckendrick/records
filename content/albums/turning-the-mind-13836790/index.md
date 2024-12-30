@@ -19,6 +19,8 @@ styles: ["Electro", "Leftfield", "Synth-pop", "Tech House"]
 ---
 
 Turning the Mind is the second album from Northampton-based band Maps, released in 2009.
+
+
     
     
 
@@ -46,8 +48,8 @@ Turning the Mind is the second album from Northampton-based band Maps, released 
 {{< youtube id="VRvjPQRp6Co" title="Maps - Turning The Mind" >}}<br>
 ### More Videos
 
-- [Turning the Mind](https://www.youtube.com/watch?v=wX4ALgTvqaw)
 - [Chemeleon](https://www.youtube.com/watch?v=fxH0ShE9fNY)
+- [Turning the Mind](https://www.youtube.com/watch?v=wX4ALgTvqaw)
 - [Maps - From Here's to Bliss (Bonus Track)](https://www.youtube.com/watch?v=2c6q2F-zEM0)
 - [From Here's to Bliss](https://www.youtube.com/watch?v=EK7rKGkYesM)
 

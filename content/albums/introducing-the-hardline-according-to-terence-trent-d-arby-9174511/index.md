@@ -4,7 +4,6 @@ artist_name: "Terence Trent D'Arby"
 artist: "terence-trent-d-arby"
 album_name: "Introducing The Hardline According To Terence Trent D'Arby"
 date: 2020-08-01T12:44:10.000000Z
-release_date: "1987-07-09"
 release_id: "9174511"
 slug: "introducing-the-hardline-according-to-terence-trent-d-arby-9174511"
 hideSummary: true
@@ -14,14 +13,19 @@ cover:
     caption: "Introducing The Hardline According To Terence Trent D'Arby by Terence Trent D'Arby"
 additional_images:
     - "https://i.discogs.com/_v6Z2wR7AQX-WT46cIC8kfY7pgC7R6PcueIGy_1touQ/rs:fit/g:sm/q:90/h:593/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkxNzQ1/MTEtMTQ3NjI1NTAw/OC0yMTkxLmpwZWc.jpeg"
-    - "https://i.discogs.com/3ICESYLolBx3pch38mZzHES-PdsmnWlwctsu8efhQhI/rs:fit/g:sm/q:90/h:602/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkxNzQ1/MTEtMTQ3NjI1NTAw/NS04OTUzLmpwZWc.jpeg"
+    - "https://i.discogs.com/a9ZPdMx-oiVRHMcM9P7sfdOMcKfTnHdsVM1WtbUxkG0/rs:fit/g:sm/q:90/h:600/w:597/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkxNzQ1/MTEtMTQ3NjI1NTAw/NS04OTUzLmpwZWc.jpeg"
     - "https://i.discogs.com/G_dq96LFEV0qS6mBRopAp3DUKN4LJSE8ggupr5-9iis/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkxNzQ1/MTEtMTQ3NjI1NTAx/Mi03MTIyLmpwZWc.jpeg"
     - "https://i.discogs.com/LY8bRssh98dersKvt4N7rBHzxRv0Yl4rXJE-ypAwvIU/rs:fit/g:sm/q:90/h:593/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkxNzQ1/MTEtMTQ3NjI1NTAx/OS0xNzM0LmpwZWc.jpeg"
-genres: ["Funk / Soul", "Blues"]
-styles: ["Electric Blues", "Rhythm & Blues", "Soul", "Funk"]
+genres: ["Funk / Soul", "Pop"]
+styles: ["Electric Blues", "Soul", "Funk", "Contemporary R&B"]
 ---
 
-Terence Trent D’Arby’s 1987 debut urged R&B into the modern age, harking back to the classic soul of Sam Cooke and Otis Redding while paving the way for neo-soul. D’Arby emotes through the register-traversing plea “If You Let Me Stay,” the seductively whistling “Wishing Well,” and the gospel-hued “As Yet Untitled” in a rich, deeply rooted rasp. He also dabbles in Caribbean and Middle Eastern rhythms and horn-driven funk, and just plain owns Smokey Robinson’s “Who’s Loving You.” It still feels absolutely contemporary.
+Introducing the Hardline According to Terence Trent D'Arby is the debut studio album by Terence Trent D'Arby. It was first released in the United Kingdom on July 13, 1987 on Columbia Records, and debuted at number one there, spending a total of nine weeks (non-consecutively) at the top of the UK Albums Chart. It also hit number one in Switzerland and number two in New Zealand and The Netherlands. It was eventually certified 5× Platinum (for sales of 1.5 million copies). Worldwide, the album sold a million copies within the first three days of going on sale. 
+The album was also a hit in the US, although its success was slower. It was released there in October 1987, eventually peaking at number four on May 7, 1988, – the same week that the single "Wishing Well" hit number one on the US Billboard Hot 100. It did peak higher on the Billboard R&B Albums chart at number one around the same time.
+Other singles from the album included "If You Let Me Stay", which was a top-ten hit in the UK, and "Sign Your Name", which reached number four on the Billboard Hot 100 and number two in the UK. A fourth single, "Dance Little Sister", reached the UK top 20 as well. As was common for big-selling artists at that time, the singles were released in a plethora of limited editions in multiple formats. These were bolstered by a multitude of non-album studio and live tracks.
+The album is titled on streaming music sites as Introducing the Hardline According to Sananda Maitreya, reflecting D'Arby's name change to Sananda Maitreya.
+
+
     
     
 
@@ -40,29 +44,17 @@ Terence Trent D’Arby’s 1987 debut urged R&B into the modern age, harking ba
 11. Who’s Loving You
 
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/introducing-the-hardline-according-to-terence-trent-darby/250551726" >}}<br>
+{{< applemusic url="https://music.apple.com/gb/album/introducing-the-hardline-according-to-terence-trent-darby/1506087028" >}}<br>
 
 
 ## Videos
-### Terence Trent D'Arby - LP Introducing the Hardline According  - Sign Your Name
-{{< youtube id="7ALdICJVsvM" title="Terence Trent D'Arby - LP Introducing the Hardline According  - Sign Your Name" >}}<br>
+### Terence Trent D'arby - Wishing well
+{{< youtube id="n2Nd_lS9Kcs" title="Terence Trent D'arby - Wishing well" >}}<br>
 ### More Videos
 
 - [If You All Get To Heaven: Terence Trent D'Arby *HQ*](https://www.youtube.com/watch?v=funBT_8jBMw)
-- [Sananda Maitreya - If You All Get To Heaven (Remastered - Official Audio)](https://www.youtube.com/watch?v=-O4kvMFbl0c)
-- [Sananda Maitreya - If You Let Me Stay](https://www.youtube.com/watch?v=hMhEzd9Bsb4)
-- [Sananda Maitreya - If You Let Me Stay (Remastered - Official Audio)](https://www.youtube.com/watch?v=jvVGkLIgA3k)
-- [Sananda Maitreya - Wishing Well (Video)](https://www.youtube.com/watch?v=ynIHsHYaig0)
-- [Sananda Maitreya - Wishing Well (Remastered - Official Audio)](https://www.youtube.com/watch?v=1p6aS18SHqQ)
-- [Sananda Maitreya - Dance Little Sister (Official Video)](https://www.youtube.com/watch?v=OlmKCj03fHw)
-- [I'll Never Turn My Back On You (Father's Words) (Remastered - Official Audio)](https://www.youtube.com/watch?v=XNiJPwD_wzs)
-- [Sananda Maitreya - Dance Little Sister (Remastered - Official Audio)](https://www.youtube.com/watch?v=SdUE-QH-vWE)
-- [Sananda Maitreya - Seven More Days (Remastered - Official Audio)](https://www.youtube.com/watch?v=nt-8MNoH-KQ)
-- [Sananda Maitreya - Let's Go Forward (Remastered - Official Audio)](https://www.youtube.com/watch?v=TLSRNsOrids)
-- [Sananda Maitreya - Rain (Remastered - Official Audio)](https://www.youtube.com/watch?v=V-KkA9jn2iI)
-- [Sananda Maitreya - Sign Your Name (Remastered - Official Audio)](https://www.youtube.com/watch?v=iLVLfL3QVQQ)
-- [Sananda Maitreya - As Yet Untitled (Remastered - Official Audio)](https://www.youtube.com/watch?v=KaorrPeR3_A)
-- [Sananda Maitreya - Who's Loving You (Remastered - Official Audio)](https://www.youtube.com/watch?v=yy28FjJxICA)
+- [Terence Trent D'arby - Introducing the Hardline According to Terence Trent D'Arby: 1001 AlbumsYMHBYD](https://www.youtube.com/watch?v=54oZ5vEU2h0)
+- [1987 "VINILE" N.334  -Terence Trent D'Arby - Seven More Days](https://www.youtube.com/watch?v=_DQFd5JJz_s)
 
 ## Release Images
 {{< imageGrid >}}
@@ -70,6 +62,7 @@ Terence Trent D’Arby’s 1987 debut urged R&B into the modern age, harking ba
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
+| Wikipedia URL | https://en.wikipedia.org/wiki/Introducing_the_Hardline_According_to_Terence_Trent_D%27Arby |
 | Format         | Vinyl LP Album |
 | Label          | CBS |
 | Catalog Number | CBS 450911 1 |

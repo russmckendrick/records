@@ -14,7 +14,7 @@ cover:
 additional_images:
     - "https://i.discogs.com/AGOOAf7kphBYTsj05Ldwc4qUulwssh1i0DKwYVy9xhc/rs:fit/g:sm/q:90/h:499/w:500/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMDky/MjY3LTE1NDc5ODQ1/NTYtNDg1NC5qcGVn.jpeg"
     - "https://i.discogs.com/COhKq_346RaagWAw_VR3_ZxHU-8FyFlxoNOs9TrDL4g/rs:fit/g:sm/q:90/h:501/w:500/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMDky/MjY3LTE1NDc5ODQ1/NTktMTE3MC5qcGVn.jpeg"
-    - "https://i.discogs.com/RhWe60hEdBrXoPMxBhCwv2Lusv2Ek-glcRrBh46I8Qk/rs:fit/g:sm/q:90/h:632/w:500/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMDky/MjY3LTE1NDc5ODQ1/NjQtOTc3OS5qcGVn.jpeg"
+    - "https://i.discogs.com/yE1kviau8LyvAbs329RFVtEAmRQ5mOeoOhVpaOMM47s/rs:fit/g:sm/q:90/h:600/w:474/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMDky/MjY3LTE1NDc5ODQ1/NjQtOTc3OS5qcGVn.jpeg"
     - "https://i.discogs.com/Zng4ieNdiFU8YNtvBoOdc0uCuuif_0hzMVyj5wC2P2c/rs:fit/g:sm/q:90/h:504/w:500/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMDky/MjY3LTE1NDc5ODQ1/NzYtNjYzNi5qcGVn.jpeg"
     - "https://i.discogs.com/Nh_fMSb-kVduB2Q4lAjdrFp9v6cl-Jzuj6qwQemnnqA/rs:fit/g:sm/q:90/h:497/w:500/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMDky/MjY3LTE1NDc5ODQ1/ODQtNTkyOC5qcGVn.jpeg"
 genres: ["Rock"]
@@ -22,6 +22,8 @@ styles: ["Indie Rock", "Shoegaze", "Alternative Rock"]
 ---
 
 Future Ruins is the sixth studio album by English alternative rock band Swervedriver. It was released on 25 January 2019 through Dangerbird Records.
+
+
     
     
 

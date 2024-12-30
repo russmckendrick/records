@@ -14,13 +14,13 @@ cover:
 additional_images:
     - "https://i.discogs.com/1mTzpFC6C8U01Y1E90KzYtjYsC7vSozF9LXgewzkFbQ/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNDkx/MTk3LTE1MzYzODUx/NTQtMTAwMy5qcGVn.jpeg"
     - "https://i.discogs.com/NcP-9qgo8J2Dh2y_nGWs6CGUJSHshsybdVhS2Y3EF5c/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNDkx/MTk3LTE1ODUwMTM5/NzQtNTk1Ni5qcGVn.jpeg"
-    - "https://i.discogs.com/noEnDE0NB7I1D2VY-Ys1EQodCTHxGjLjPAemgBtlAq0/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNDkx/MTk3LTE1ODUwMTM5/ODEtMzAyMS5qcGVn.jpeg"
-    - "https://i.discogs.com/Bt70ooNI36VRV_ahE0bQtVC5rOrEwzOokI9skdY2APQ/rs:fit/g:sm/q:90/h:610/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNDkx/MTk3LTE1ODUwMTM5/ODEtNjY4NC5qcGVn.jpeg"
-    - "https://i.discogs.com/qUE3YwLc5bSqd0R4FEzkND6AXEIqyJplGiLDGUUH3jo/rs:fit/g:sm/q:90/h:603/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNDkx/MTk3LTE1ODUwMTM5/ODItOTA4NC5qcGVn.jpeg"
-    - "https://i.discogs.com/TKdzJp6g5c_aW-1lkQZHBP7k8zIr0T0bh2V7p-LQj84/rs:fit/g:sm/q:90/h:606/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNDkx/MTk3LTE1ODUwMTM5/ODItOTg2MS5qcGVn.jpeg"
+    - "https://i.discogs.com/xDwLvbgknonLdfHQEAJiO2PtSGpEyhmHI1gWUd5dUwQ/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNDkx/MTk3LTE1ODUwMTM5/ODEtMzAyMS5qcGVn.jpeg"
+    - "https://i.discogs.com/hUtBKw3ZfkYqnhYnyxWm8ps4FsxtzEQC0dXE10Zawts/rs:fit/g:sm/q:90/h:600/w:589/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNDkx/MTk3LTE1ODUwMTM5/ODEtNjY4NC5qcGVn.jpeg"
+    - "https://i.discogs.com/D7Xh8_9rTlQQilUSIf-ROOPjWPR8Iwzo6n0dHO8N-68/rs:fit/g:sm/q:90/h:600/w:596/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNDkx/MTk3LTE1ODUwMTM5/ODItOTA4NC5qcGVn.jpeg"
+    - "https://i.discogs.com/PJFKM57gPym1QIf1xgSV-DppUCPAmgVhnLPr0E1hEX8/rs:fit/g:sm/q:90/h:600/w:593/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNDkx/MTk3LTE1ODUwMTM5/ODItOTg2MS5qcGVn.jpeg"
     - "https://i.discogs.com/c3uT1cbOiUhltOnKbugBiXd7TSN9CSWs-TjhCttssY0/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNDkx/MTk3LTE1ODUwMTM5/ODEtNzc5NS5qcGVn.jpeg"
     - "https://i.discogs.com/7mE1eLoffhpvtm1ELGZRtYCBZQ13xdvXJWC75mMXnPc/rs:fit/g:sm/q:90/h:592/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNDkx/MTk3LTE1ODUwMTM5/NzEtNzM3My5qcGVn.jpeg"
-    - "https://i.discogs.com/CFW_s6ySEffEr1VjSAqz3vyEhz2HSIeuF5IvKN9-9Lc/rs:fit/g:sm/q:90/h:614/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNDkx/MTk3LTE1ODUwMTM5/NzItNzU4NC5qcGVn.jpeg"
+    - "https://i.discogs.com/Iltqibjaufuo8vyIm4qaLh9DpvsX54SbaBw5Tf0hhZk/rs:fit/g:sm/q:90/h:600/w:585/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNDkx/MTk3LTE1ODUwMTM5/NzItNzU4NC5qcGVn.jpeg"
 genres: ["Funk / Soul"]
 styles: ["Soul"]
 ---
@@ -47,10 +47,11 @@ styles: ["Soul"]
 
 
 ## Videos
-### St. Paul & The Broken Bones - Apollo
-{{< youtube id="mHEPoG11EtE" title="St. Paul & The Broken Bones - Apollo" >}}<br>
+### St. Paul & The Broken Bones - NASA (Audio)
+{{< youtube id="k5EtjM9uNPU" title="St. Paul & The Broken Bones - NASA (Audio)" >}}<br>
 ### More Videos
 
+- [St. Paul & The Broken Bones - Apollo](https://www.youtube.com/watch?v=mHEPoG11EtE)
 - [St. Paul & The Broken Bones - NASA (Audio)](https://www.youtube.com/watch?v=k5EtjM9uNPU)
 
 ## Release Images

@@ -24,7 +24,7 @@ additional_images:
     - "https://i.discogs.com/qHLjPri2gOX53ajUNQ_xK0goqlAAbFP6YRRMiUqURHA/rs:fit/g:sm/q:90/h:448/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNzIw/MDMtMTM1MzM0NzM0/NS02NjI0LmpwZWc.jpeg"
     - "https://i.discogs.com/jXCNTIqOtD9kR2TWMS1l6f43qFFp5MoQ9NwpxUjvsCA/rs:fit/g:sm/q:90/h:335/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNzIw/MDMtMTM1MzM0NzM1/NC05NTkzLmpwZWc.jpeg"
     - "https://i.discogs.com/tlt_PoLEoXoXQR1f5S9j0j9_HfdCMdaOl2-N-wFJEzA/rs:fit/g:sm/q:90/h:448/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNzIw/MDMtMTM1MzM0NzM2/NS04NTEwLmpwZWc.jpeg"
-    - "https://i.discogs.com/mR5L0TRGG2y36klLTnyqRAzbd93SfgM9K1ZitM7Tb5s/rs:fit/g:sm/q:90/h:681/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNzIw/MDMtMTU2NDY4MzY1/NS00MzE0LmpwZWc.jpeg"
+    - "https://i.discogs.com/rF7L5mwG7EgrgTj-V-OfUGsV0lKAcgv5i_EUIB3prBE/rs:fit/g:sm/q:90/h:600/w:528/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNzIw/MDMtMTU2NDY4MzY1/NS00MzE0LmpwZWc.jpeg"
     - "https://i.discogs.com/M5nAjKveCCx_pEVFN2bHTB4Wa6_5sJuhsuq7ZWPmK_U/rs:fit/g:sm/q:90/h:600/w:365/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNzIw/MDMtMTM1MzM0NzM3/Ni0yNDM5LmpwZWc.jpeg"
     - "https://i.discogs.com/v0SBrRJGJq445JmX1bpy-9rcv3auO8luLfdpeA9CdrQ/rs:fit/g:sm/q:90/h:600/w:543/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNzIw/MDMtMTM1MzM0NzM5/NS00NTE1LmpwZWc.jpeg"
     - "https://i.discogs.com/ElDYhJedyQ_PX6y922bhKCHgQ3HoPyVYzXvhMKdALjM/rs:fit/g:sm/q:90/h:488/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNzIw/MDMtMTM1MzM0NzQx/NS0zMTkxLmpwZWc.jpeg"
@@ -62,21 +62,22 @@ Robert Plant didn't actually have a romance with bluegrass diva Alison Krauss, b
 
 
 ## Videos
-### Killing The Blues by Robert Plant & Alison Krauss from Raising Sand
-{{< youtube id="gwg2sdRdahM" title="Killing The Blues by Robert Plant & Alison Krauss from Raising Sand" >}}<br>
+### Rich Woman
+{{< youtube id="Z8s7tAaWhVo" title="Rich Woman" >}}<br>
 ### More Videos
 
-- [Sister Rosetta Goes Before Us](https://www.youtube.com/watch?v=zOFSHo92SmY)
-- [Polly Come Home](https://www.youtube.com/watch?v=nF70owndla8)
-- [Robert Plant & Alison Krauss - Gone Gone Gone (Done Moved On)](https://www.youtube.com/watch?v=3DT7pzJPybM)
-- [Robert Plant & Alison Krauss - Through The Morning Through The Night](https://www.youtube.com/watch?v=AZjVCsSI0OM)
-- [Robert Plant & Alison Krauss - Please Read The Letter](https://www.youtube.com/watch?v=rjs0p5FWpzc)
-- [Trampled Rose](https://www.youtube.com/watch?v=9Ewg_bP20LI)
+- [Killing The Blues](https://www.youtube.com/watch?v=w5VjpVPsuQs)
+- [Sister Rosetta Goes Before Us](https://www.youtube.com/watch?v=K46FncfsBzI)
+- [Polly Come Home](https://www.youtube.com/watch?v=vAnHN5h6OvA)
+- [Robert Plant, Alison Krauss - Gone Gone Gone (Official Music Video)](https://www.youtube.com/watch?v=9YVRxAX6fwg)
+- [Through the Morning, Through the Night](https://www.youtube.com/watch?v=gNw64OwyVhU)
+- [Robert Plant & Alison Krauss | Please Read the Letter (Official Video)](https://www.youtube.com/watch?v=SoDuhwnG30Y)
+- [Trampled Rose](https://www.youtube.com/watch?v=VA-fqeV79R8)
 - [Fortune Teller](https://www.youtube.com/watch?v=7FFZkSpjPIo)
 - [Stick with Me Baby](https://www.youtube.com/watch?v=0F-acIBDclE)
 - [Nothin'](https://www.youtube.com/watch?v=zrLmkbjgorU)
-- [Let Your Loss Be Your Lesson](https://www.youtube.com/watch?v=j1ztTFbyHmA)
-- [Robert Plant & Alison Krauss - Your Long Journey](https://www.youtube.com/watch?v=eG_rArV84iY)
+- [Let Your Loss Be Your Lesson](https://www.youtube.com/watch?v=R_tWH2MAJwA)
+- [Your Long Journey](https://www.youtube.com/watch?v=DRI-uEaQgGQ)
 
 ## Release Images
 {{< imageGrid >}}
@@ -88,5 +89,5 @@ Robert Plant didn't actually have a romance with bluegrass diva Alison Krauss, b
 | Format         | Vinyl 2× LP Album (Gatefold) |
 | Label          | Rounder Records |
 | Catalog Number | 11661-9075-1 |
-| Notes | 1st vinyl edition ℗ & © 2007 Rounder Records Corp.  Published By: A1: © 1955 Sony/ATV Songs LLC/Venice Music (BMI) A2: Graph Music (ASCAP) A3: © Eden Bridge Music (ASCAP) administered by Bug Music  A4: © 1969 Irving Music, Inc. (BMI) B1: © 1964 Sony/ATV Songs LLC/Acuff Rose Music (BMI) B2: © 1969 Irving Music, Inc. (BMI) B3: © BMG Songs (ASCAP)/BMG Music Publishing International Ltd. (PRS)/Sons Of Einion Limited (PRS)/Succubus Music Ltd. (PRS). All rights for the U.S. on behalf of BMG Songs. Administered by BMG Songs. C1: Jalma Music (ASCAP) C2: © 1962 renewed 1990 Unart Music Corporation. Rights assigned to EMI Catalogue Partnership. All rights controlled and administered by EMI Unart Catalog Inc. (BMI) C3: © 1960 Universal-Cedarwood Publ. (BMI) D1: © 1970 1999 (renewed) JTVZ Music (ASCAP)/Katie Belle Music (ASCAP)/Will Van Zandt Publishing (ASCAP) administered by Bug D2: © 2000 Trice Publishing Co. (BMI) D3: Hillgreen Music (BMI)  Both vinyls are housed in 140 gage square plastic polythene bags |
+| Notes | 1st vinyl edition ℗ & © 2007 Rounder Records Corp.  Published By: A1: © 1955 Sony/ATV Songs LLC/Venice Music (BMI) A2: Graph Music (ASCAP) A3: © Eden Bridge Music (ASCAP) administered by Bug Music  A4: © 1969 Irving Music, Inc. (BMI) B1: © 1964 Sony/ATV Songs LLC/Acuff Rose Music (BMI) B2: © 1969 Irving Music, Inc. (BMI) B3: © BMG Songs (ASCAP)/BMG Music Publishing International Ltd. (PRS)/Sons Of Einion Limited (PRS)/Succubus Music Ltd. (PRS). All rights for the U.S. on behalf of BMG Songs. Administered by BMG Songs. C1: Jalma Music (ASCAP) C2: © 1962 renewed 1990 Unart Music Corporation. Rights assigned to EMI Catalogue Partnership. All rights controlled and administered by EMI Unart Catalog Inc. (BMI) C3: © 1960 Universal-Cedarwood Publ. (BMI) D1: © 1970 1999 (renewed) JTVZ Music (ASCAP)/Katie Belle Music (ASCAP)/Will Van Zandt Publishing (ASCAP) administered by Bug D2: © 2000 Trice Publishing Co. (BMI) D3: Hillgreen Music (BMI)  Both records are housed in 140 gage square plastic polythene bags |
 | Discogs URL    | [Robert Plant - Raising Sand](https://www.discogs.com/release/1272003-Robert-Plant-Alison-Krauss-Raising-Sand) |

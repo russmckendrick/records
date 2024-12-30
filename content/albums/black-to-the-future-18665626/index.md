@@ -72,20 +72,21 @@ styles: ["Afrobeat", "Fusion"]
 
 
 ## Videos
-### Field Negus
-{{< youtube id="ELXDbxKjx48" title="Field Negus" >}}<br>
+### Sons Of Kemet - To Never Forget The Source (Visualizer)
+{{< youtube id="pZUbNXhnSm4" title="Sons Of Kemet - To Never Forget The Source (Visualizer)" >}}<br>
 ### More Videos
 
-- [Pick Up Your Burning Cross](https://www.youtube.com/watch?v=IpK1a1RqfFA)
-- [Think Of Home](https://www.youtube.com/watch?v=A5_-BEVYZ9Y)
-- [Sons Of Kemet - Hustle ft. Kojey Radical](https://www.youtube.com/watch?v=EDepEUnJwpY)
-- [For The Culture](https://www.youtube.com/watch?v=8T5SGoQnMg4)
+- [Sons Of Kemet - Envision Yourself Levitating (Audio)](https://www.youtube.com/watch?v=tnRyUJhGPiM)
+- [Sons Of Kemet - Think Of Home (Audio)](https://www.youtube.com/watch?v=We057kA3Ufk)
+- [Sons Of Kemet, Joshua Idehen - Black (Audio)](https://www.youtube.com/watch?v=lKPcYyEB9is)
+- [Sons Of Kemet - For The Culture (Audio) ft. D Double E](https://www.youtube.com/watch?v=jCTdusj5BwU)
+- [Sons Of Kemet - Let The Circle Be Unbroken (Audio)](https://www.youtube.com/watch?v=Vs8LkbdxERo)
 - [Sons Of Kemet - To Never Forget The Source (Visualizer)](https://www.youtube.com/watch?v=pZUbNXhnSm4)
-- [In Remembrance Of Those Fallen](https://www.youtube.com/watch?v=Emeclwix8Ig)
-- [Let The Circle Be Unbroken](https://www.youtube.com/watch?v=-hjxrchhT5c)
-- [Envision Yourself Levitating](https://www.youtube.com/watch?v=1B8rN291JwA)
-- [Throughout The Madness, Stay Strong](https://www.youtube.com/watch?v=fH4baTgOALo)
-- [Black](https://www.youtube.com/watch?v=d6CADUV0QB0)
+- [Sons Of Kemet - Envision Yourself Levitating (Audio)](https://www.youtube.com/watch?v=tnRyUJhGPiM)
+- [Sons Of Kemet - Think Of Home (Audio)](https://www.youtube.com/watch?v=We057kA3Ufk)
+- [Sons Of Kemet, Joshua Idehen - Black (Audio)](https://www.youtube.com/watch?v=lKPcYyEB9is)
+- [Sons Of Kemet - For The Culture (Audio) ft. D Double E](https://www.youtube.com/watch?v=jCTdusj5BwU)
+- [Sons Of Kemet - Let The Circle Be Unbroken (Audio)](https://www.youtube.com/watch?v=Vs8LkbdxERo)
 
 ## Release Images
 {{< imageGrid >}}

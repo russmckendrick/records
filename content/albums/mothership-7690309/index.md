@@ -4,7 +4,7 @@ artist_name: "Led Zeppelin"
 artist: "led-zeppelin"
 album_name: "Mothership"
 date: 2016-01-03T13:46:17.000000Z
-release_date: "2007-11-09"
+release_date: "1969-01-12"
 release_id: "7690309"
 slug: "mothership-7690309"
 hideSummary: true
@@ -15,12 +15,15 @@ cover:
 additional_images:
     - "https://i.discogs.com/lpRM-nuPbLCEFwghLPod4gMB71NJydSZk-TEi9pSIHA/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc2OTAz/MDktMTUyODc1ODI5/Ni05MjE0LmpwZWc.jpeg"
     - "https://i.discogs.com/L5N65I5ePwZaytgREq3MVseZIxWPno_DOhOi5PaPiNg/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc2OTAz/MDktMTUyODc1ODY3/MS0yMTgzLmpwZWc.jpeg"
-    - "https://i.discogs.com/dYdgBqb0a5WDX02IF4foWw8KOx9pmVehQWLhVsQz0jg/rs:fit/g:sm/q:90/h:228/w:461/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc2OTAz/MDktMTQ0NjgxNDU0/MS0yMDE3LmpwZWc.jpeg"
 genres: ["Rock"]
 styles: ["Hard Rock", "Classic Rock"]
 ---
 
-Mothership is a compilation album by English rock band Led Zeppelin, released by Atlantic Records and Rhino Entertainment on 12 November 2007 in the United Kingdom, and 13 November 2007 in the United States. It was released on the same day that Led Zeppelin's entire catalogue became available in digital stores, including the iTunes Store. The cover was designed by artist Shepard Fairey.The songs included were chosen by the surviving members of Led Zeppelin, Robert Plant, Jimmy Page and John Paul Jones, and represent the band's eight studio albums. In addition to a two-disc set, the album is also available in both "deluxe" and "collector's" editions with a DVD featuring varied live content from the previously released Led Zeppelin DVD (2003). A 4-LP vinyl package was also released on 26 August 2008. On 6 November 2015, the album was reissued using the audio from the band's 2014–15 remaster campaign.On 8 November 2007, a temporary XM Satellite Radio station, XM LED was made to promote the album.
+When The Yardbirds broke up in 1968, guitarist Jimmy Page and manager Peter Grant quickly hired three musicians to play the band’s remaining concert dates. Page brought on John Paul Jones, who’d earned a sterling reputation as a session bassist and arranger, and filled out his new band with two ringers: A lithe hippie howler named Robert Plant, and his friend John Bonham—a drummer who was wild as Keith Moon, but who maintained the timing of a jazz veteran. Though the four musicians were essentially soloists, there was instant chemistry, and the quartet soon changed its name from the New Yardbirds to Led Zeppelin, and began recording the group’s eponymous debut album in a couple weeks. After Grant secured the band a legendarily lucrative contract with American label Atlantic—one that guaranteed creative freedom—the feverish and futuristic <i>Led Zeppelin</i> was released in early 1969. The album hit the Top 10 in the US, and set a standard for rock-bombast that future bands would either aspire toward...or despise.
+
+The word “fusion” isn’t often used to describe hard rock, but <i>Led Zeppelin</i>’s integration of Chicago blues, British folk and San Francisco psychedelia—without credit to the originators—was unprecedented. Plant’s wails against low-down, no-good women are rooted in the blues, but Page—the band’s sonic Svengali—understood the musical past not as traditions to be preserved, but as cool sounds and tunings and themes to reimagine. Combined with his gifts for mic placement and mixing, he dramatically expanded hard rock’s studio vocabulary.
+
+It starts during the first seconds of opening track “Good Times Bad Times”, as Bonham and Page swing and pound like roughneck ballet dancers. It was the funkiest British blues-rock interpretation on record, in part because Page gave Bonham and Jones’ polyrhythms so much room to breathe. And it only sprawls out from there: The lacerating “Communication Breakdown” is perfect Who-style garage rock, while Page dragging a violin bow across his E-string on “Dazed and Confused” more or less invented the sludgy B-movie dread of Black Sabbath. The album’s stunning centrepiece, “Babe I’m Gonna Leave You”, strips Joan Baez’s live recording of Anne Bredon’s original down to the studs, then rebuilds it as a dynamic rock opera; just when it seems like the storm is over, Bonham’s drum-fills trigger another titanic swell from murmuring acoustic unease to all-out electrified panic. “Babe I’m Gonna Leave You” is the promise and peril of Led Zeppelin, in concentrate: All traditions remixed, all women scorned.
         
         
     
@@ -53,9 +56,12 @@ Mothership is a compilation album by English rock band Led Zeppelin, released by
 24. All Of My Love (5:53)
 
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/mothership-remastered/1052497413" >}}<br>
+{{< applemusic url="https://music.apple.com/gb/album/led-zeppelin-remastered/580708520" >}}<br>
 
 
+## Videos
+### Led Zeppelin - Mothership (Full Album) (2007 Remaster) | Led Zeppelin - Greatest Hits
+{{< youtube id="FDMq9ie0ih0" title="Led Zeppelin - Mothership (Full Album) (2007 Remaster) | Led Zeppelin - Greatest Hits" >}}<br>
 
 
 ## Release Images

@@ -20,11 +20,17 @@ additional_images:
     - "https://i.discogs.com/ZhdNlseuGQZE9cSHAqMBDSlvh20Ev6tFKr-KBz5SzsM/rs:fit/g:sm/q:90/h:295/w:450/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNTk0/OTgxLTE1MDY0NTc3/MDktMzU5Ny5qcGVn.jpeg"
     - "https://i.discogs.com/ILwQctC449IfBACtAYqU7dT0NJDc7IBFp7AAew3_2OQ/rs:fit/g:sm/q:90/h:168/w:500/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNTk0/OTgxLTE1MDY0NTc2/ODctMjgyMC5qcGVn.jpeg"
     - "https://i.discogs.com/7cai4tRZsn4UiDdgY_431WOd8-3aNfOyMgZPm-XJpKE/rs:fit/g:sm/q:90/h:162/w:375/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNTk0/OTgxLTE1MDY0NTc2/OTctODgzNy5qcGVn.jpeg"
-    - "https://i.discogs.com/OEtJ7PPqsBtXdxLAxJ4MkXim4pxsggw0mYVkh4MaJYA/rs:fit/g:sm/q:90/h:1837/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNTk0/OTgxLTE1MTM1MTQ0/MzUtODk1Mi5qcGVn.jpeg"
+    - "https://i.discogs.com/qDQagXkr9QqvNzVVvZZfCDRDqjBxXNjO62gXOMKhm4M/rs:fit/g:sm/q:90/h:600/w:195/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNTk0/OTgxLTE1MTM1MTQ0/MzUtODk1Mi5qcGVn.jpeg"
 genres: ["Rock"]
 styles: ["Heavy Metal", "Hard Rock", "Funk Metal"]
 ---
 
+Extreme II: Pornograffitti (also known as simply Pornograffitti) is the second studio album by the heavy metal band Extreme, released on August 7, 1990, through A&M Records. The album title is a portmanteau of pornography and graffiti.
+Extreme II sold very well, peaking at No. 10 on the Billboard 200, and was certified double platinum in the U.S. by the RIAA. It is the band's best selling album. Two singles from Pornograffiti, "More Than Words" and "Hole Hearted", reached No. 1 and 4 respectively on the Billboard Hot 100. Two other tracks, "Decadence Dance" and "Get the Funk Out", became popular on MTV's Headbangers Ball.
+
+
+    
+    
 
 
 ## Tracklisting
@@ -47,12 +53,33 @@ styles: ["Heavy Metal", "Hard Rock", "Funk Metal"]
 
 
 ## Videos
-### Extreme - More Than Words (Official Music Video)
-{{< youtube id="UrIiLvg58SY" title="Extreme - More Than Words (Official Music Video)" >}}<br>
+### Extreme - Decadence Dance
+{{< youtube id="OoKJpcROgJk" title="Extreme - Decadence Dance" >}}<br>
 ### More Videos
 
 - [Extreme - Get The Funk Out](https://www.youtube.com/watch?v=IqP76XWHQI0)
-- [Extreme - Decadence Dance](https://www.youtube.com/watch?v=OoKJpcROgJk)
+- [Extreme - More Than Words (Official Music Video)](https://www.youtube.com/watch?v=UrIiLvg58SY)
+- [Suzi (Wants Her All Day What?)](https://www.youtube.com/watch?v=nEM2IMHs5g0)
+- [Extreme - Hole Hearted](https://www.youtube.com/watch?v=I-h4A7bF8wQ)
+- [Li'l Jack Horny](https://www.youtube.com/watch?v=OQMsxMmXZa0)
+- [Get The Funk Out (12" Remix)](https://www.youtube.com/watch?v=_AJi9XEjQ2Q)
+- [Sex N' Love](https://www.youtube.com/watch?v=7cJUFgXNdlw)
+- [When I'm President](https://www.youtube.com/watch?v=WKOFwyXlxX4)
+- [Money (In God We Trust)](https://www.youtube.com/watch?v=ockMrZut_pg)
+- [It ('s A Monster)](https://www.youtube.com/watch?v=vi8oxzKApVk)
+- [Pornograffitti](https://www.youtube.com/watch?v=mle29Pq0fHA)
+- [When I First Kissed You](https://www.youtube.com/watch?v=XPrjItkIgw8)
+- [He-Man Woman Hater](https://www.youtube.com/watch?v=I97TUocufUM)
+- [Song For Love](https://www.youtube.com/watch?v=NHWnFL87PDA)
+- [More Than Words (Remix)](https://www.youtube.com/watch?v=Z6WusprzzJ0)
+- [Nice Place To Visit](https://www.youtube.com/watch?v=2KfdXcil9Ic)
+- [More Than Words (Radio Edit)](https://www.youtube.com/watch?v=kDpshj-Lcic)
+- [Decadence Dance (Edit)](https://www.youtube.com/watch?v=NyrxYwxe9EE)
+- [Money (In God We Trust)](https://www.youtube.com/watch?v=Z0Gn2K6hgZg)
+- [More Than Words (Edit)](https://www.youtube.com/watch?v=NeU4GwYBlLI)
+- [Get The Funk Out (What The Funk? Mix)](https://www.youtube.com/watch?v=6cBWVNzv5rc)
+- [More Than Words (A Capella With Congas)](https://www.youtube.com/watch?v=GVU6yUdNUUg)
+- [CD / Extreme – Extreme II : Pornograffitti (A Funked Up Fairytale) / 1990](https://www.youtube.com/watch?v=qksXXhaYSAg)
 
 ## Release Images
 {{< imageGrid >}}
@@ -60,8 +87,9 @@ styles: ["Heavy Metal", "Hard Rock", "Funk Metal"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
+| Wikipedia URL | https://en.wikipedia.org/wiki/Extreme_II:_Pornograffitti |
 | Format         | Vinyl LP Album Limited Edition Numbered (Orange, 180g) |
 | Label          | Music On Vinyl |
 | Catalog Number | MOVLP793 |
 | Notes | 180 gram audiophile vinyl pressing on orange vinyl. Limited to 1,500 copies. Individually numbered sleeve.  Recorded and mixed at Scream Studios, Studio City, CA Additional recording at Courtlen Studios, Hanson, MA Mastered at Sterling Sound, NYC  Original release ℗ 1990 A&M Records Inc. This release ℗ & © 2013 Universal Music B.V. Made in the EU  Repress of the [url=https://www.discogs.com/release/4902118]original Music on Vinyl reissue[/url] from 2013 |
-| Discogs URL    | [Extreme - Extreme II : Pornograffitti](https://www.discogs.com/release/10594981-Extreme-Extreme-II-Pornograffitti) |
+| Discogs URL    | [Extreme - Extreme II : Pornograffitti](https://www.discogs.com/release/10594981-Extreme-2-Extreme-II-Pornograffitti) |

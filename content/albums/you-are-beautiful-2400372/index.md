@@ -38,13 +38,19 @@ styles: ["Rhythm & Blues", "Soul"]
 
 
 ## Videos
-### Stylistics - Funky Weekend (Avco.AV-69010-698.U.S.A.1975)
-{{< youtube id="Jx70sfKwyZk" title="Stylistics - Funky Weekend (Avco.AV-69010-698.U.S.A.1975)" >}}<br>
+### The Stylistics - Funky Weekend
+{{< youtube id="ZtX5thUy4Ts" title="The Stylistics - Funky Weekend" >}}<br>
 ### More Videos
 
-- [Funky Weekend - The Stylistics](https://www.youtube.com/watch?v=kqMWcaIXi2Y)
-- [The Stylistics       You Are Beautiful](https://www.youtube.com/watch?v=yYuWLInzYCA)
-- [Stylistics -You Are Beautiful/ A3 That Don't Shake Me 3:15/Avco 1975](https://www.youtube.com/watch?v=za04lLFqchw)
+- [The Stylistics - Jenny](https://www.youtube.com/watch?v=45CSbzYZxgY)
+- [The Stylistics - That Don't Shake Me](https://www.youtube.com/watch?v=f-Hrk08rfPM)
+- [The Stylistics - To Save My Rock 'N' Roll Soul](https://www.youtube.com/watch?v=ujSjMTWh5wc)
+- [The Stylistics - Na-Na Is the Saddest Word](https://www.youtube.com/watch?v=jBNgsH9HPUY)
+- [The Stylistics - You Are Beautiful](https://www.youtube.com/watch?v=HU9kONvySCc)
+- [The Stylistics - Michael or Me](https://www.youtube.com/watch?v=UIUhGosItnM)
+- [The Stylistics - The Day the Clown Came to Town](https://www.youtube.com/watch?v=YPqiBStkdhQ)
+- [The Stylistics - If You Are There](https://www.youtube.com/watch?v=d-DeMnAu-0s)
+- [The Stylistics - We Just Can't Help It](https://www.youtube.com/watch?v=Om4uNd7vo70)
 
 ## Release Images
 {{< imageGrid >}}

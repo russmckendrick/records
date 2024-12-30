@@ -4,6 +4,7 @@ artist_name: "Metallica"
 artist: "metallica"
 album_name: "Metallica"
 date: 2024-03-05T11:25:14.000000Z
+release_date: "1991-08-25"
 release_id: "29958901"
 slug: "metallica-29958901"
 hideSummary: true
@@ -12,30 +13,33 @@ cover:
     alt: "Metallica by Metallica"
     caption: "Metallica by Metallica"
 additional_images:
-    - "https://i.discogs.com/2U93sI6tuk_gZ_vU98SoEWNmv9NByURC6ZPq-qoQ_zs/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5OTU4/OTAxLTE3MDkyODM4/NzctNzU0My5qcGVn.jpeg"
-    - "https://i.discogs.com/cgiBoSzAUWRM7Sl6yE7eUobzlEAyIjhUrJtNgJvBx74/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5OTU4/OTAxLTE3MDkyODQw/NjEtMzA0OS5qcGVn.jpeg"
-    - "https://i.discogs.com/p_deBAixskyA4AkJqTj4OwgTT_d1s26Sphe9znnuivs/rs:fit/g:sm/q:90/h:724/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5OTU4/OTAxLTE3MDkzODgy/NDItMjY1Mi5qcGVn.jpeg"
-    - "https://i.discogs.com/WeW6dxSWUI717Jpd6zjUlc46WMs_VMoqOWswiMfox00/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5OTU4/OTAxLTE3MDkzODc3/ODItODk5Mi5qcGVn.jpeg"
-    - "https://i.discogs.com/M-tuZjQ9dWqFwp0wfscDaf8nvPbkpdb5FVY3iGr2J-g/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5OTU4/OTAxLTE3MDkzODc3/OTQtOTI3MS5qcGVn.jpeg"
+    - "https://i.discogs.com/01UB201cpyMUCMBfY4W9glWP_BjshP08I0ljgW0S9xM/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5OTU4/OTAxLTE3MDk5MjQ5/MDktMzU4OC5qcGVn.jpeg"
+    - "https://i.discogs.com/FJBoRNzCAW18Xa3FHoB1F5ga5VeX1pgWKJwkwVihdQU/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5OTU4/OTAxLTE3MDk5MjQ5/MTItMzk5NC5qcGVn.jpeg"
+    - "https://i.discogs.com/ngSLyaDc1ajxlw1-YUN_r3Y3LwIAecTHtj7PrjKjKig/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5OTU4/OTAxLTE3MDk5MjQ5/MjktODY2NS5qcGVn.jpeg"
+    - "https://i.discogs.com/OYiFCwyDaNvlREqWVI7_hgj5o0pRt6ABqFTOh5tUm_w/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5OTU4/OTAxLTE3MDk5MjQ5/MzAtNDQyMC5qcGVn.jpeg"
+    - "https://i.discogs.com/VgxrLDPxh0C9z8pQDZdmVXdZCTu9oYL-A8iRZ1u4dII/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5OTU4/OTAxLTE3MDk5MjUx/MzUtNDI5NC5qcGVn.jpeg"
+    - "https://i.discogs.com/9_Vs13Ke6onQU1oXBAdITzJQvHjfHJvDY0P8bcfHG8c/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5OTU4/OTAxLTE3MDk5MjQ5/MzUtNzc0MS5qcGVn.jpeg"
+    - "https://i.discogs.com/65yPtiHZ6WE2t-99NxJP-oxwMRjuk3DT6euCaX-DzaM/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5OTU4/OTAxLTE3MDk5MjQ5/NTktMzAxNi5qcGVn.jpeg"
+    - "https://i.discogs.com/MaiwAVVJeYOVfTAqwqaiJyzyIeOoZPYAX041a_DLImI/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5OTU4/OTAxLTE3MDk5MjQ5/NjEtNTU0Ny5qcGVn.jpeg"
     - "https://i.discogs.com/l7IAwmOdFceGcnyJ8RpdnJJ_k81dXUk280G4GYAkjiM/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5OTU4/OTAxLTE3MDkzODc4/MDUtNTYyNi5qcGVn.jpeg"
     - "https://i.discogs.com/2JS-d0qcPth_igLhfVdV1uTUFHQakPnSqLQw3HZjaac/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5OTU4/OTAxLTE3MDkzODc4/MTAtMTAyNS5qcGVn.jpeg"
     - "https://i.discogs.com/Zdmnb3xUDKJARvTX81Au0YYVR2B7s6Z-Hd_yaJrJ2ig/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5OTU4/OTAxLTE3MDkzODc4/MTQtNzQ5OS5qcGVn.jpeg"
     - "https://i.discogs.com/FWuAM52kTTqrJp2b5fnqON5gIKb1kEJ2pQW29V8S3Gw/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5OTU4/OTAxLTE3MDkzODc4/MTgtMjU1My5qcGVn.jpeg"
-    - "https://i.discogs.com/MOtASFGYCeGpEvR0qERggegDwkK70AIzmf9jiNR3yfM/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5OTU4/OTAxLTE3MDkzODc4/MjMtODYzMy5qcGVn.jpeg"
-    - "https://i.discogs.com/FeHjb0jl4LgQvSVhEO1wHq8alIkF_9jcRX-kionPLmI/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5OTU4/OTAxLTE3MDkzODc4/MjctNjY2OC5qcGVn.jpeg"
-    - "https://i.discogs.com/4Z_I_GZXsuxMib2W-7xzTWvm2A0lv0memEHtDE5lkx4/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5OTU4/OTAxLTE3MDkzODc4/MzEtNjA3Ni5qcGVn.jpeg"
-    - "https://i.discogs.com/JHescy94mYJDhCqVEXK04wbCi3p-73XebJ3fNq-_BHw/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5OTU4/OTAxLTE3MDkzODc4/MzUtODUwNy5qcGVn.jpeg"
+    - "https://i.discogs.com/Q26pWDY8UzqrtS5pmUOZP1HLmXqja9LPEFhcMtr24Xg/rs:fit/g:sm/q:90/h:600/w:498/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5OTU4/OTAxLTE3MDk5MjQ5/NzYtNDgxNi5qcGVn.jpeg"
+    - "https://i.discogs.com/qqddoC5g9KFybDysr6yfBDPjCObiBk7OdIi8ISfQUZE/rs:fit/g:sm/q:90/h:311/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5OTU4/OTAxLTE3MDk5MjQ5/NzEtNzU2Ny5qcGVn.jpeg"
+    - "https://i.discogs.com/TL51DGL_osaRU6HDbvidoflRgFHNZz3shbKnnssSivs/rs:fit/g:sm/q:90/h:345/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5OTU4/OTAxLTE3MDk5MjQ5/NzItODAyNS5qcGVn.jpeg"
+    - "https://i.discogs.com/ElfehL19q2W6NrePQsUCWGukEnc7_9h60xReuqXC9rk/rs:fit/g:sm/q:90/h:345/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5OTU4/OTAxLTE3MDk5MjQ5/NzItNjMzNi5qcGVn.jpeg"
 genres: ["Rock"]
 styles: ["Heavy Metal"]
 ---
 
-Metallica (commonly known as The Black Album) is the fifth studio album by American heavy metal band Metallica. It was released on August 12, 1991, by Elektra Records. Recording sessions took place at One on One Recording Studios in Los Angeles over an eight-month span that frequently found Metallica at odds with their new producer Bob Rock. The album marked a change in the band's music from the thrash metal style of their previous four albums to a slower, heavier, and more refined sound.
-Metallica promoted Metallica with a series of tours. They also released five singles to promote the album: "Enter Sandman", "The Unforgiven", "Nothing Else Matters", "Wherever I May Roam", and "Sad but True", all of which have been considered to be among the band's best-known songs. The song "Don't Tread on Me" was also issued to rock radio shortly after the album's release but did not receive a commercial single release.
-Metallica received widespread critical acclaim and became the band's best-selling album. It debuted at number one in ten countries and spent four consecutive weeks at the top of the Billboard 200, making it Metallica's first album to top the album charts. With over 30 million copies sold worldwide, Metallica is one of the best-selling albums worldwide, and also one of the best-selling albums in the United States since Nielsen SoundScan tracking began. The album was certified 16× platinum by the Recording Industry Association of America (RIAA) in 2012, and has sold over sixteen million copies in the United States, being the first album in the SoundScan era to do so.
-Metallica played Metallica in its entirety during the 2012 European Black Album Tour. In 2020, the album was ranked number 235 on Rolling Stone's "The 500 Greatest Albums of All Time" list. In December 2019, Metallica became the fourth release in American history to enter the 550-week milestone on the Billboard 200. It also became the second longest-charting traditional title in history only behind The Dark Side of the Moon (1973) by Pink Floyd, and the second to spend 550 weeks on the album charts.
-
-
-    
+The first people Metallica thanked when they won a Grammy Award in 1991, for what became known as The Black Album, were the progressive rock band Jethro Tull. Not because of their inordinate influence on Metallica, or even because Metallica felt a kinship with them—but because Jethro Tull hadn’t put out their own album that year to stand as competition.<br />
+Tull had infamously won the award for Best Hard Rock/Metal Performance in 1989—a reflection of both the Academy’s disconnect with metal culture and how uneasily it sat in the mainstream. And while The Black Album’s win didn’t constitute acceptance, per se, it acknowledged what fans of the band had understood for going on 10 years: Metal was the vanguard of hard rock, and Metallica was the vanguard of metal.<br />
+Drummer and co-writer Lars Ulrich says they used to labour for hours over the perfect take, Frankenstein-ing together fragments of drum parts, punching in riffs, blending and overdubbing until every wrinkle was ironed flat. They wanted precision, and by precision they meant technical mastery—a superlative in a world where the goal is to play as hard, fast and complicatedly as possible without slipping.<br />
+And it isn’t that The Black Album isn’t complex. But whereas tracks like “One”, “Master of Puppets” and “Seek & Destroy”—songs that not only defined Metallica’s sound, but the sound of ’80s metal in general—foregrounded complexity as proof of the band’s stamina and ambition, the music here is streamlined and the performances natural. Ulrich says producer Bob Rock helped them understand their recordings not just as seamless stacks of riffs, but as shapes with ebb and flow, rise and fall.<br />
+In the songs’ simplicity is a clear confidence: “Enter Sandman” and “Sad but True” are two of the heaviest tracks the band recorded, but also two of the most straightforward. “The Unforgiven” evokes Celtic folk and the majestic spaghetti Western soundtracks of Ennio Morricone (whose “The Ecstasy of Gold” long served as their walk-on music), but it works just as well around the campfire. James Hetfield wasn’t sure whether “Nothing Else Matters” even belonged on a Metallica album—it was so personal, so disclosing. But they’d always trusted their gut, and in doing so helped revise Led Zeppelin ballads for the post-punk era: They thrash, but they do it with tenderness. 
+        
+        
     
 
 
@@ -54,12 +58,9 @@ Metallica played Metallica in its entirety during the 2012 European Black Album 
 12. The Struggle Within (3:51)
 
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/metallica-remastered/1571968136" >}}<br>
+{{< applemusic url="https://music.apple.com/gb/album/metallica/1440833237" >}}<br>
 
 
-## Videos
-### Metallica: Enter Sandman (Official Music Video)
-{{< youtube id="CD-E-LDc384" title="Metallica: Enter Sandman (Official Music Video)" >}}<br>
 
 
 ## Release Images
@@ -72,5 +73,5 @@ Metallica played Metallica in its entirety during the 2012 European Black Album 
 | Format         | Vinyl 2× LP Album Limited Edition Reissue Remastered (180g, Clear with Black Marble (Some Blacker Marbled)) |
 | Label          | Blackened |
 | Catalog Number | BLCKND008R-1U |
-| Notes | Pressed on LIMITED EDITION 2LP Some Blacker  Marbled Vinyl"  Made In Germany sticker on shrink  |
+| Notes | Pressed on LIMITED EDITION 2LP Some Blacker  Marbled Vinyl"  Made In Germany sticker on shrink & it's also printed on the back cover |
 | Discogs URL    | [Metallica - Metallica](https://www.discogs.com/release/29958901-Metallica-Metallica) |

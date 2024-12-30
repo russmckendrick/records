@@ -16,9 +16,9 @@ additional_images:
     - "https://i.discogs.com/Hsq0FHefysx0HFQ3KwMoRZfO6BWx5nSReof4q44IHok/rs:fit/g:sm/q:90/h:594/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExODI0/ODg2LTE1MjMwMjQ3/NjAtNzMzNS5qcGVn.jpeg"
     - "https://i.discogs.com/lUu-mzAWVNKGXShqK5OEGonvl5NjV_W8egL_uNEovmM/rs:fit/g:sm/q:90/h:291/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExODI0/ODg2LTE1MjMwMjQ3/NjAtMzI4NC5qcGVn.jpeg"
     - "https://i.discogs.com/YU7_y1vXOf9a0mLrJK-A8Q-UDeuut3oyNPlFreeUCeM/rs:fit/g:sm/q:90/h:580/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExODI0/ODg2LTE1MjMwMjQ3/NjAtODY4MC5qcGVn.jpeg"
-    - "https://i.discogs.com/fQq4kSW4TJ-v1cRvPWjaE-qmPMEqR2007hRED7k9tCM/rs:fit/g:sm/q:90/h:610/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExODI0/ODg2LTE1MjMwMjQ3/NTQtMjgzMS5qcGVn.jpeg"
+    - "https://i.discogs.com/R04ee3qrO2hCExNJnZHBYhCnTZo417e3tMAF9ffhf2o/rs:fit/g:sm/q:90/h:600/w:589/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExODI0/ODg2LTE1MjMwMjQ3/NTQtMjgzMS5qcGVn.jpeg"
     - "https://i.discogs.com/_67jGRsiG63Y_mgRVck2y8lbQ9s3skUCStqwXgFVThU/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExODI0/ODg2LTE1MjMwMjQ3/NTktNjgxNi5qcGVn.jpeg"
-    - "https://i.discogs.com/CCNJ8fElCv5_HKWuunZItkFsmPo9BtHqObuEij0OmjA/rs:fit/g:sm/q:90/h:734/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExODI0/ODg2LTE1MjMwMjQ3/NjAtMjc1OC5qcGVn.jpeg"
+    - "https://i.discogs.com/DudW8OLwcdomVKHOsV71SOB-IbIHjyP5YqeAoUx7OMg/rs:fit/g:sm/q:90/h:600/w:489/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExODI0/ODg2LTE1MjMwMjQ3/NjAtMjc1OC5qcGVn.jpeg"
 genres: ["Electronic", "Hip Hop", "Rock", "Stage & Screen"]
 styles: ["Alternative Rock", "Trip Hop", "Gangsta", "Punk", "Soundtrack"]
 ---
@@ -57,6 +57,7 @@ styles: ["Alternative Rock", "Trip Hop", "Gangsta", "Punk", "Soundtrack"]
 - [Thief (O.S.T.)](https://www.youtube.com/watch?v=-MjlENtpyxc)
 - [Aurora (O.S.T.)](https://www.youtube.com/watch?v=AeSCsB2uOmI)
 - [Big Gun (O.S.T.)](https://www.youtube.com/watch?v=nmVgLArRbAk)
+- [GRAEME REVELL - Tank Girl (Complete Score)](https://www.youtube.com/watch?v=M_i-5OHSiV0)
 
 ## Release Images
 {{< imageGrid >}}

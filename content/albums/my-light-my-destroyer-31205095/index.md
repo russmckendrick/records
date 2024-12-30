@@ -12,11 +12,11 @@ cover:
     alt: "My Light, My Destroyer by Cassandra Jenkins"
     caption: "My Light, My Destroyer by Cassandra Jenkins"
 additional_images:
-    - "https://i.discogs.com/Vr43RgdOxTDqDXHX1_wgAapo6VpCNDTRwLmVJn_Pg0U/rs:fit/g:sm/q:90/h:607/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxMjA1/MDk1LTE3MjA4MTYx/OTItNDg0MS5qcGVn.jpeg"
+    - "https://i.discogs.com/q8cinQz4rJMQZ-EBGP7jlyMGGJtf0Yg-rnBFDgBjXBM/rs:fit/g:sm/q:90/h:600/w:593/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxMjA1/MDk1LTE3MjA4MTYx/OTItNDg0MS5qcGVn.jpeg"
     - "https://i.discogs.com/4PGzJ83TrWVM5Va8f_MS0Yq7nC1BC90pBmqGfkJDJeI/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxMjA1/MDk1LTE3MjA4MTYx/OTItODg3OS5qcGVn.jpeg"
-    - "https://i.discogs.com/SIopdhzg90vCBuGQqbxj_J6banPQk-ILPyGIjX62ZHI/rs:fit/g:sm/q:90/h:612/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxMjA1/MDk1LTE3MjA4MTYx/OTAtNjc3NS5qcGVn.jpeg"
+    - "https://i.discogs.com/LpqFfiuu0MK5pHlimxyL-aY94nWLU_RFF5kPLO_kAtg/rs:fit/g:sm/q:90/h:600/w:587/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxMjA1/MDk1LTE3MjA4MTYx/OTAtNjc3NS5qcGVn.jpeg"
     - "https://i.discogs.com/RYDsTFwafF1tR-ncCroesfk1VpO7HBHhXTLjZm-DxV4/rs:fit/g:sm/q:90/h:421/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxMjA1/MDk1LTE3MjA4MTYx/OTItOTExMi5qcGVn.jpeg"
-    - "https://i.discogs.com/mQQ_T2IrqgUPZlvXt1QHweeYjspFKB0Uz6e276dgCvc/rs:fit/g:sm/q:90/h:864/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxMjA1/MDk1LTE3MjA4NjIz/MDAtMzE5Ny5qcGVn.jpeg"
+    - "https://i.discogs.com/gTAtGEoB6RX58m72-V9ZTGZPmG9kgsNeKgGoXgCM3zw/rs:fit/g:sm/q:90/h:600/w:416/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxMjA1/MDk1LTE3MjA4NjIz/MDAtMzE5Ny5qcGVn.jpeg"
 genres: ["Electronic", "Rock", "Pop"]
 styles: ["Indie Pop", "Dream Pop", "Indie Rock", "New Age"]
 ---
@@ -58,4 +58,4 @@ My Light, My Destroyer is the third studio album by American pop musician Cassan
 | Label          | Dead Oceans |
 | Catalog Number | DOC346LP-C1 |
 | Notes | Initial copies included a SIGNED 'Liner Notes' booklet |
-| Discogs URL    | [Cassandra Jenkins - My Light, My Destroyer](https://www.discogs.com/release/31205095-Cassandra-Jenkins-My-Light-My-Destroyer) |
+| Discogs URL    | [Cassandra Jenkins - My Light, My Destroyer](https://www.discogs.com/release/31205095-Cassandra-Jenkins-2-My-Light-My-Destroyer) |

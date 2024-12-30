@@ -20,11 +20,16 @@ additional_images:
     - "https://i.discogs.com/H_cKU2y96M9ncJiLyoPcL2xCTZUPQ_LCTn46WIx8Kyw/rs:fit/g:sm/q:90/h:560/w:557/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1ODMz/NTkzLTE1OTg2NDA0/MTktOTkzNi5qcGVn.jpeg"
     - "https://i.discogs.com/R4XZkVqJD_4OXFD3TKAU_7WEiTZroLJH00Yk4ZvWoFY/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1ODMz/NTkzLTE1OTg2NDA0/MjAtMzkwMS5qcGVn.jpeg"
     - "https://i.discogs.com/bHC2G8l8GC7Usg-YsJeEYYpiRo_-KwRln2QAdEtffp4/rs:fit/g:sm/q:90/h:565/w:562/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1ODMz/NTkzLTE1OTg2NDA0/MjAtNDY5My5qcGVn.jpeg"
-    - "https://i.discogs.com/NW3tJkYtTls35XCvoo_U03kxxFBUsJbc_dE2rwDuI48/rs:fit/g:sm/q:90/h:603/w:591/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1ODMz/NTkzLTE1OTg2NDA0/MjEtODQwMi5qcGVn.jpeg"
+    - "https://i.discogs.com/xRzXnN6-PXSvek7pQVYdQt_wLDJrKPrVJePgZRa0Qe0/rs:fit/g:sm/q:90/h:600/w:588/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1ODMz/NTkzLTE1OTg2NDA0/MjEtODQwMi5qcGVn.jpeg"
 genres: ["Rock"]
 styles: ["Alternative Rock"]
 ---
 
+All Is Dream is the fifth studio album by American rock band Mercury Rev. It was released in the United Kingdom on August 27, 2001, in France on August 28, 2001, and in the United States on September 11, 2001. The album's front cover features half of the 1991 painting Breakthrough Dreaming by artist and mystic Jennifer Hathaway.
+
+
+    
+    
 
 
 ## Tracklisting
@@ -60,24 +65,19 @@ styles: ["Alternative Rock"]
 
 
 ## Videos
-### Mercury Rev - Tides of the Moon
-{{< youtube id="esRQQ0hV-ls" title="Mercury Rev - Tides of the Moon" >}}<br>
+### The Dark Is Rising
+{{< youtube id="HmE0kkqkutE" title="The Dark Is Rising" >}}<br>
 ### More Videos
 
-- [Hercules](https://www.youtube.com/watch?v=J3wXbJpx3fM)
-- [The Dark is Rising](https://www.youtube.com/watch?v=zxJH1FBd1uI)
-- [Tides of the Moon](https://www.youtube.com/watch?v=odDfHK9M1XA)
-- [Nite and Fog](https://www.youtube.com/watch?v=laJuXE6H7uA)
-- [The dark is rising (Mercury rev)](https://www.youtube.com/watch?v=A102xE-Wnfk)
-- [The Saw Song (Live in Detroit 11/23/01)](https://www.youtube.com/watch?v=hgvJrerCItA)
-- [Nocturne In C# Minor, Opus 27, No.1](https://www.youtube.com/watch?v=-zdrJ9uWp0g)
-- [Hercules (Demo)](https://www.youtube.com/watch?v=8M-IkC4e2jQ)
-- [Hercules](https://www.youtube.com/watch?v=Ssmmi_CUhjw)
-- [Goddess On A Highway (Live Session)](https://www.youtube.com/watch?v=r-aja6l2WJQ)
-- [Planet Caravan](https://www.youtube.com/watch?v=ZTnjdQzyQXM)
-- [Gymnopedies 3 (John Peel Session)](https://www.youtube.com/watch?v=8S843-Ub284)
-- [The Funny Bird (Live Session)](https://www.youtube.com/watch?v=yudJJqkeKzI)
-- [Lincoln's Eyes (Live Session)](https://www.youtube.com/watch?v=aqTlyCWn8Ao)
+- [Tides Of The Moon](https://www.youtube.com/watch?v=6hnYMjTKZVA)
+- [Chains](https://www.youtube.com/watch?v=J8urkUCH79s)
+- [Lincoln's Eyes](https://www.youtube.com/watch?v=4cXTFM-1ol8)
+- [Nite And Fog](https://www.youtube.com/watch?v=W9I6vukZdG4)
+- [Little Rhymes](https://www.youtube.com/watch?v=A331aSeC9Ww)
+- [A Drop In Time](https://www.youtube.com/watch?v=Mj_QIKMfbjw)
+- [You're My Queen](https://www.youtube.com/watch?v=kf3jOmMvBBU)
+- [Spiders And Flies](https://www.youtube.com/watch?v=KPSxvBGAX_I)
+- [Hercules](https://www.youtube.com/watch?v=I7-UD3J8Sg4)
 
 ## Release Images
 {{< imageGrid >}}
@@ -85,7 +85,8 @@ styles: ["Alternative Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl 2× LP Album Limited Edition Reissue (Red & Black Marbled Vinyl) |
+| Wikipedia URL | https://en.wikipedia.org/wiki/All_Is_Dream |
+| Format         | Vinyl 2× LP Album Limited Edition Reissue (Red & Black Marbled) |
 | Label          | Cherry Red |
 | Catalog Number | BREDD816 |
 | Discogs URL    | [Mercury Rev - All Is Dream](https://www.discogs.com/release/15833593-Mercury-Rev-All-Is-Dream) |

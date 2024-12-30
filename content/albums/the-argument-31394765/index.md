@@ -14,6 +14,7 @@ cover:
     caption: "The Argument  by Fugazi"
 additional_images:
     - "https://i.discogs.com/GQGzcMPH924Fn-6Jh4dPpRcWaCamHm1WLB_t3oJ6fPA/rs:fit/g:sm/q:90/h:600/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxMzk0/NzY1LTE3MjI3MzU5/NjctNDU3OS5wbmc.jpeg"
+    - "https://i.discogs.com/JLepce1G7fAY2M-03z9lZry4rP2E1Kf-u8mejdhvhD0/rs:fit/g:sm/q:90/h:405/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxMzk0/NzY1LTE3MjgyMjMz/MzQtODY2OS5qcGVn.jpeg"
 genres: ["Rock"]
 styles: ["Punk", "Post-Punk"]
 ---
@@ -45,7 +46,23 @@ Still, no line captures the innate ferocity of <i>The Argument</i>—and of Fuga
 {{< applemusic url="https://music.apple.com/gb/album/the-argument/57918888" >}}<br>
 
 
+## Videos
+### Argument
+{{< youtube id="gJ5tgQFbBrk" title="Argument" >}}<br>
+### More Videos
 
+- [Cashout](https://www.youtube.com/watch?v=nSJFEkSWbro)
+- [Epic Problem](https://www.youtube.com/watch?v=Pi8VfxoIMyE)
+- [Full Disclosure](https://www.youtube.com/watch?v=V9WCjEsPP0U)
+- [The Kill](https://www.youtube.com/watch?v=gvQFgcvlMts)
+- [Intro](https://www.youtube.com/watch?v=6SLhpXuNy0s)
+- [Ex-Spectator](https://www.youtube.com/watch?v=uxhu_mkNPJ0)
+- [Life And Limb](https://www.youtube.com/watch?v=2ShE3hNAEXc)
+- [Strangelight](https://www.youtube.com/watch?v=bUikRPT9zWg)
+- [Fugazi - Argument (live in Boston 19-04-02)](https://www.youtube.com/watch?v=zjGR6PjqJyk)
+- [Fugazi "The Argument" (2001) Full Album | Vinyl Rip](https://www.youtube.com/watch?v=MAQAiLN5-d0)
+- [Fugazi - The Argument [2001, FULL ALBUM]](https://www.youtube.com/watch?v=WYZs-3hV3uU)
+- [Fugazi – The Argument](https://www.youtube.com/watch?v=bZs8USIjnBg)
 
 ## Release Images
 {{< imageGrid >}}

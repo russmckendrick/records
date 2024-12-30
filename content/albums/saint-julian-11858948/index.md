@@ -35,21 +35,22 @@ Saint Julian is the third solo album by Julian Cope. It has a very strong pop so
 10. A Crack In The Clouds (7:59)
 
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/saint-julian-expanded-edition/1442418528" >}}<br>
+{{< applemusic url="https://music.apple.com/gb/album/saint-julian/1444114691" >}}<br>
 
 
 ## Videos
-### Trampolene
-{{< youtube id="nSiA4Hm7gPc" title="Trampolene" >}}<br>
+### Julian Cope - World shut your mouth
+{{< youtube id="2UJbz-pp6GQ" title="Julian Cope - World shut your mouth" >}}<br>
 ### More Videos
 
 - ['Saint Julian' Julian Cope](https://www.youtube.com/watch?v=-_Si1CapfiY)
-- [Julian Cope - World shut your mouth](https://www.youtube.com/watch?v=2UJbz-pp6GQ)
-- [Julian Cope - Trampolene](https://www.youtube.com/watch?v=dawFWa0hfL4)
 - [Julian Cope -  A Crack In The Clouds](https://www.youtube.com/watch?v=jQHxcafCFu8)
 - [Julian Cope - Saint Julian](https://www.youtube.com/watch?v=LWESpsMNv_E)
 - [Shot Down](https://www.youtube.com/watch?v=_Y33pdrH42w)
 - [Julian Cope_ Spacehopper (Annexe)](https://www.youtube.com/watch?v=oZDZd7HJCAw)
+- [Trampolene](https://www.youtube.com/watch?v=nSiA4Hm7gPc)
+- ['Saint Julian' Julian Cope](https://www.youtube.com/watch?v=-_Si1CapfiY)
+- [Julian Cope - Trampolene](https://www.youtube.com/watch?v=dawFWa0hfL4)
 
 ## Release Images
 {{< imageGrid >}}

@@ -18,8 +18,9 @@ genres: ["Funk / Soul"]
 styles: ["Rhythm & Blues", "Soul"]
 ---
 
-While St. Paul & The Broken Bones' second album keeps one foot in the dynamic, '60s soul-indebted sound that made their debut such a revelation, it moves in some new directions too. There are more overtly funky grooves this time around, like the ones on the Curtis Mayfield-flavored "Flow with It (You Got Me Feeling Like)" and the postmodern good-foot grabber "Midnight on the Earth." But there's also a distinct inching toward indie pop, as on the rocker "La Bruit" and the outsized, orchestrated "Brain Matter."
-    
+While St. Paul & The Broken Bones' second album keeps one foot in the dynamic, '60s soul-indebted sound that made their debut such a revelation, it moves in some new directions too. There are more overtly funky grooves this time around, like the ones on the Curtis Mayfield-flavoured "Flow with It (You Got Me Feeling Like)" and the postmodern good-foot grabber "Midnight on the Earth". But there's also a distinct inching toward indie pop, as on the rocker "La Bruit" and the outsized, orchestrated "Brain Matter".
+        
+        
     
 
 
@@ -47,10 +48,10 @@ While St. Paul & The Broken Bones' second album keeps one foot in the dynamic, '
 {{< youtube id="_XqQsKxiKT0" title="St Paul & The Broken Bones  -  Sanctify" >}}<br>
 ### More Videos
 
-- [St. Paul & The Broken Bones: Flow With It](https://www.youtube.com/watch?v=F8YowjS7Ebs)
 - [La bruit](https://www.youtube.com/watch?v=wUKkL91ChQw)
 - [St  Paul & The Broken Bones - Sea of Noise - Trailer](https://www.youtube.com/watch?v=OkuXq-WOHJw)
 - [St. Paul & The Broken Bones - 'Sea of Noise' |Official Album Release Party|](https://www.youtube.com/watch?v=KgyogotaYys)
+- [St. Paul & The Broken Bones: "Flow With It"](https://www.youtube.com/watch?v=F8YowjS7Ebs)
 
 ## Release Images
 {{< imageGrid >}}
@@ -58,6 +59,7 @@ While St. Paul & The Broken Bones' second album keeps one foot in the dynamic, '
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
+| Wikipedia URL | https://en.wikipedia.org/wiki/Sea_of_Noise |
 | Format         | Vinyl LP Album |
 | Label          | RECORDS Label, LLC |
 | Catalog Number | REC006 |

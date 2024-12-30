@@ -47,21 +47,27 @@ Sheet One is the second studio album by Canadian electronic music producer Richi
 
 
 ## Videos
-### Plastikman ~ Sheet One ~ full album
-{{< youtube id="UIvM1Zgj0AI" title="Plastikman ~ Sheet One ~ full album" >}}<br>
+### Richie Hawtin - Plastikman - 'Sheet One' 30th Anniversary Edition - Full Album
+{{< youtube id="5L0VP7nAZls" title="Richie Hawtin - Plastikman - 'Sheet One' 30th Anniversary Edition - Full Album" >}}<br>
 ### More Videos
 
-- [Drp (Remastered)](https://www.youtube.com/watch?v=4OakIdT6Yos)
-- [Gak (Remastered)](https://www.youtube.com/watch?v=Wky-RF1V16g)
+- [Richie Hawtin - Plastikman - 'Sheet One' - 30th Anniversary Edition](https://www.youtube.com/watch?v=unVV9pV0F0E)
+- [Plastikman - ‘Sheet One’ - 30th Anniversary Edition - Out Now](https://www.youtube.com/watch?v=fB6bDB8YChY)
+- [December 10, 2023 - Plastikman - ‘Sheet One’ Listening Party on Bandcamp](https://www.youtube.com/watch?v=DoHBXHY5BVg)
+- [𝐏𝐥𝐚𝐬𝐭𝐢𝐤𝐦𝐚𝐧 - 𝐏𝐥𝐚𝐬𝐭𝐢𝐜𝐢𝐧𝐞 (𝟏𝟗𝟗𝟑)](https://www.youtube.com/watch?v=Wh3efN_3E0w)
+- [𝐏𝐥𝐚𝐬𝐭𝐢𝐤𝐦𝐚𝐧 - 𝐃𝐫𝐩 (𝟏𝟗𝟗𝟑)](https://www.youtube.com/watch?v=P99Wv3ve7jM)
+- [Plastikman - Sheet One - Spastik](https://www.youtube.com/watch?v=lgoJ_4RrVgE)
+- [Plasticine-Plastikman (Sheet One)](https://www.youtube.com/watch?v=y9I3rFrypfw)
+- [Plastikman - Sheet One - Plasticine](https://www.youtube.com/watch?v=ErLZGVgH7YE)
+- [Plastik Man – Sheet One  - Koma](https://www.youtube.com/watch?v=Jv7L6_yCGgc)
 - [Plasticity (Remastered)](https://www.youtube.com/watch?v=Td7818D3Yx4)
-- [Okx (2023 Remastered)](https://www.youtube.com/watch?v=uTvysSEC0wA)
-- [Helikopter (Remastered)](https://www.youtube.com/watch?v=GfMXL93_3fA)
-- [Plastikman - Spastik (Original Mix)](https://www.youtube.com/watch?v=FZ2A_cbtcfk)
-- [Plasticine (Remastered)](https://www.youtube.com/watch?v=PW3d3SnyqgU)
-- [Koma (Remastered)](https://www.youtube.com/watch?v=dtECJpUp1-k)
-- [Vokx (Remastered)](https://www.youtube.com/watch?v=KJ_kICnBC20)
-- [Smak (Remastered)](https://www.youtube.com/watch?v=pLG2Sxwg_6c)
-- [Ovokx (Remastered)](https://www.youtube.com/watch?v=XOlXVjXLbHE)
+- [Plastikman - Sheet One](https://www.youtube.com/watch?v=ZBzLXq84QIE)
+- [𝐏𝐥𝐚𝐬𝐭𝐢𝐤𝐦𝐚𝐧 - 𝐃𝐫𝐩 (𝟏𝟗𝟗𝟑)](https://www.youtube.com/watch?v=P99Wv3ve7jM)
+- [𝐏𝐥𝐚𝐬𝐭𝐢𝐤𝐦𝐚𝐧 - 𝐏𝐥𝐚𝐬𝐭𝐢𝐜𝐢𝐧𝐞 (𝟏𝟗𝟗𝟑)](https://www.youtube.com/watch?v=Wh3efN_3E0w)
+- [Richie Hawtin - Plastikman - 'Sheet One' 30th Anniversary Edition - Full Album](https://www.youtube.com/watch?v=5L0VP7nAZls)
+- [Richie Hawtin - Plastikman - 'Sheet One' - 30th Anniversary Edition](https://www.youtube.com/watch?v=unVV9pV0F0E)
+- [Plastikman - ‘Sheet One’ - 30th Anniversary Edition - Out Now](https://www.youtube.com/watch?v=fB6bDB8YChY)
+- [December 10, 2023 - Plastikman - ‘Sheet One’ Listening Party on Bandcamp](https://www.youtube.com/watch?v=DoHBXHY5BVg)
 
 ## Release Images
 {{< imageGrid >}}
@@ -70,8 +76,8 @@ Sheet One is the second studio album by Canadian electronic music producer Richi
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Sheet_One |
-| Format         | Vinyl 2× LP Album Reissue (30th Anniversary Edition) |
+| Format         | Vinyl 2× LP Album Bioplastic Reissue (30th Anniversary Edition) |
 | Label          | NovaMute |
 | Catalog Number | NOMU22LP |
-| Notes | 30th anniversary edition. Pressed using the original masters on 100% BioVinyl.  |
+| Notes | 30th Anniversary edition Pressed using the original masters 100% BioVinyl with reduced petroleum content and significant CO2 emission savings mastered by manmade berlin |
 | Discogs URL    | [Plastikman - Sheet One](https://www.discogs.com/release/29050348-Plastikman-Sheet-One) |

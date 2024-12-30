@@ -43,14 +43,14 @@ Aaron Livingston’s credits as a collaborator—with The Roots, RJD2, Mavis Sta
 
 
 ## Videos
-### Son Little - suffer
-{{< youtube id="xLo0a_mKmx4" title="Son Little - suffer" >}}<br>
+### Son Little - "suffer"
+{{< youtube id="xLo0a_mKmx4" title="Son Little - "suffer"" >}}<br>
 ### More Videos
 
-- [Son Little - mahalia (Full Album Stream)](https://www.youtube.com/watch?v=Mpcl0_4cPns)
-- [Son Little - bbbaby (Full Album Stream)](https://www.youtube.com/watch?v=tzKUCpIsMnQ)
-- [Son Little - about her. again.](https://www.youtube.com/watch?v=RKyR-kOMLNY)
-- [Son Little - neve give up](https://www.youtube.com/watch?v=jaZcnBog0Zs)
+- [Son Little - "mahalia" (Full Album Stream)](https://www.youtube.com/watch?v=Mpcl0_4cPns)
+- [Son Little - "bbbaby" (Full Album Stream)](https://www.youtube.com/watch?v=tzKUCpIsMnQ)
+- [Son Little - "about her. again."](https://www.youtube.com/watch?v=RKyR-kOMLNY)
+- [Son Little - "neve give up"](https://www.youtube.com/watch?v=jaZcnBog0Zs)
 
 ## Release Images
 {{< imageGrid >}}

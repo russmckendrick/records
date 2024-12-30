@@ -17,9 +17,9 @@ additional_images:
     - "https://i.discogs.com/9OJB9lif_trordBiGb5ZDnpaqr62YZeM3aZW9-3PZx0/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwNTk2/MTctMTYwOTI1MDIz/MC04MzAzLmpwZWc.jpeg"
     - "https://i.discogs.com/UEFJmtBlSz8g94-wwZbmD8ws9RbFetZPHE8wttHJRFc/rs:fit/g:sm/q:90/h:587/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwNTk2/MTctMTYwOTI1MDIz/MC01MDU5LmpwZWc.jpeg"
     - "https://i.discogs.com/NI1wcgZ4XXYyluR0U4-ZQHf1kT6Imi7KhcGSs6vNDp0/rs:fit/g:sm/q:90/h:592/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwNTk2/MTctMTYwOTI1MDIy/OC0yMTUxLmpwZWc.jpeg"
-    - "https://i.discogs.com/ZR9S5Jdn3RTSAY4yeAxIVs_7ccU5v0kRk9EMF0_VllU/rs:fit/g:sm/q:90/h:601/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwNTk2/MTctMTYwOTI1MDIz/MS0xNDgyLmpwZWc.jpeg"
+    - "https://i.discogs.com/G5UH9ErFqWwBTl_4CVuzuYC_m6aM_i752QKoEaNtqLo/rs:fit/g:sm/q:90/h:600/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwNTk2/MTctMTYwOTI1MDIz/MS0xNDgyLmpwZWc.jpeg"
     - "https://i.discogs.com/SoH4ukdinyr_QSjVTr-rl-pyl4le08OdiSS3a1z7sJU/rs:fit/g:sm/q:90/h:330/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwNTk2/MTctMTYwOTI1MDIz/My04OTk4LmpwZWc.jpeg"
-    - "https://i.discogs.com/iy7JN61x__XdwluSpXPpY6njGVFu6rHKYsha19dZuhI/rs:fit/g:sm/q:90/h:602/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwNTk2/MTctMTYwOTI1MDIz/MC04NTE1LmpwZWc.jpeg"
+    - "https://i.discogs.com/TQAN9MjBb63_Cvn1Flfr6_VT6g7q58jV17X3SKALpjk/rs:fit/g:sm/q:90/h:600/w:597/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwNTk2/MTctMTYwOTI1MDIz/MC04NTE1LmpwZWc.jpeg"
 genres: ["Electronic"]
 styles: ["Electro", "Synth-pop"]
 ---
@@ -36,13 +36,20 @@ styles: ["Electro", "Synth-pop"]
 7. Electric Cafe (4:17)
 
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/computer-world-remastered/699901844" >}}<br>
+{{< applemusic url="https://music.apple.com/gb/album/techno-pop-remastered/699768286" >}}<br>
 
 
 ## Videos
-### Kraftwerk - Électric Café (Edición Española) (1986) [HQ]
-{{< youtube id="QFuIUGqMb7U" title="Kraftwerk - Électric Café (Edición Española) (1986) [HQ]" >}}<br>
+### Boing Boom Tschak (2009 Remaster)
+{{< youtube id="Q_6c6FUVlzA" title="Boing Boom Tschak (2009 Remaster)" >}}<br>
+### More Videos
 
+- [Techno Pop (2009 Remaster)](https://www.youtube.com/watch?v=R3AKaZS8r1g)
+- [Musique Non Stop (2009 Remaster)](https://www.youtube.com/watch?v=fit8fTqQV68)
+- [The Telephone Call (2009 Remaster)](https://www.youtube.com/watch?v=ys_rJtuMfuA)
+- [House Phone (2009 Remaster)](https://www.youtube.com/watch?v=_ShnUyE4i_w)
+- [Sex Object (2009 Remaster)](https://www.youtube.com/watch?v=GkgldB8ITfI)
+- [Electric Café (2009 Remaster)](https://www.youtube.com/watch?v=i-3o_QH4Cz4)
 
 ## Release Images
 {{< imageGrid >}}
@@ -50,7 +57,7 @@ styles: ["Electro", "Synth-pop"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl LP Album Reissue Remastered (English Version) |
+| Format         | Vinyl LP Album Reissue Remastered (English Version, 180 g) |
 | Label          | Kling Klang |
 | Catalog Number | 50999 9 66050 1 1 |
 | Notes | Previously known as Electric Cafe. Remastered and re-released under its original working title "Techno Pop".  Released with 16 page 12"x12" booklet and illustrated inner sleeve.  Sleeve: Printed in Germany Labels: Made in the EU |

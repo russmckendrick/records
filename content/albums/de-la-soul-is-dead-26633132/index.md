@@ -19,8 +19,7 @@ additional_images:
     - "https://i.discogs.com/AS_4gswz-fR1aq1xR3C8oO5HJjbn9fL2s5ftu6wDWZw/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NjMz/MTMyLTE2ODExNTgy/NjMtMjk3OS5qcGVn.jpeg"
     - "https://i.discogs.com/b5PIubiHS3qySpHa20g2cxrrztLcxM-Ad3XnoHy_mis/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NjMz/MTMyLTE2ODExNTgy/NjMtMTYzNC5qcGVn.jpeg"
     - "https://i.discogs.com/kmK0ClRhSvE-TTHEyxOBK61yjLnc_K6DOrxUneYbrEY/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NjMz/MTMyLTE2ODExNTgy/NjMtMTU5MS5qcGVn.jpeg"
-    - "https://i.discogs.com/6rsTJX1O8Ql8VkH72hf34ipeddyJHtJGECz6P3ubbQ4/rs:fit/g:sm/q:90/h:607/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NjMz/MTMyLTE2ODA2NDMz/NTItMTc2OS5qcGVn.jpeg"
-    - "https://i.discogs.com/p4kP0L6MwnUZe7tAD5lRocqUw_JYvv1q46MiJrDdpTc/rs:fit/g:sm/q:90/h:503/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NjMz/MTMyLTE2ODA2NDMz/OTItNjAxMS5qcGVn.jpeg"
+    - "https://i.discogs.com/sRyYU2FOE7tKXk-dSlIGHlwr7NV3te-FXaJydxYVQDo/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NjMz/MTMyLTE3MzUzMDk2/NjEtOTQ4MS5qcGVn.jpeg"
 genres: ["Hip Hop"]
 styles: ["Jazzy Hip-Hop"]
 ---
@@ -69,16 +68,17 @@ With co-producer Prince Paul still in tow, they retained an idiosyncratic sample
 
 
 ## Videos
-### De La Soul - Intro (Official Audio)
-{{< youtube id="fL_uR33mcX0" title="De La Soul - Intro (Official Audio)" >}}<br>
+### De La Soul - Ring Ring Ring (Ha Ha Hey) (Official Music Video) [HD]
+{{< youtube id="hm6Kkje7bBM" title="De La Soul - Ring Ring Ring (Ha Ha Hey) (Official Music Video) [HD]" >}}<br>
 ### More Videos
 
+- [A Roller Skating Jam Named "Saturdays" (Official Music Video) [HD]](https://www.youtube.com/watch?v=9S5lTgyfT2c)
+- [De La Soul - Intro (Official Audio)](https://www.youtube.com/watch?v=fL_uR33mcX0)
 - [De La Soul - Oodles of O's (Official Audio)](https://www.youtube.com/watch?v=nAjVaRdBDY0)
 - [De La Soul - Talkin' Bout Hey Love (Official Audio)](https://www.youtube.com/watch?v=iD7ukTFW1fE)
 - [De La Soul - Pease Porridge (Official Audio)](https://www.youtube.com/watch?v=tY05TpaSTiU)
 - [De La Soul - Skit 1 (Official Audio)](https://www.youtube.com/watch?v=sz2BMGcaO5A)
 - [De La Soul - Johnny's Dead AKA Vincent Mason (Live from the BK Lounge) (Official Audio)](https://www.youtube.com/watch?v=ljMEvoanOZA)
-- [A Roller Skating Jam Named Saturdays (Official Music Video) [HD]](https://www.youtube.com/watch?v=9S5lTgyfT2c)
 - [De La Soul - WRMS' Dedication to the Bitty (Official Audio)](https://www.youtube.com/watch?v=1Z0WPcbls5s)
 - [De La Soul - Bitties in the BK Lounge (Official Audio)](https://www.youtube.com/watch?v=7ESbtYg055M)
 - [Skit 2](https://www.youtube.com/watch?v=82sGVhzjgmE)
@@ -86,7 +86,6 @@ With co-producer Prince Paul still in tow, they retained an idiosyncratic sample
 - [De La Soul - Let, Let Me In (Official Audio)](https://www.youtube.com/watch?v=wrBdkM0F9CI)
 - [De La Soul - Afro Connections at a Hi 5 (In the Eyes of the Hoodlum) (Official Audio)](https://www.youtube.com/watch?v=CVLTPnjLq7s)
 - [De La Soul - Rap De Rap Show (Official Audio)](https://www.youtube.com/watch?v=kBawStUwiPM)
-- [De La Soul - Millie Pulled a Pistol on Santa (Official Audio)](https://www.youtube.com/watch?v=1mB0IBiLQMQ)
 - [De La Soul - Who Do U Worship? (Official Audio)](https://www.youtube.com/watch?v=7ge7fcgk-S4)
 - [Skit 3](https://www.youtube.com/watch?v=5o7_i8dQgnM)
 - [De La Soul - Kicked Out the House (Official Audio)](https://www.youtube.com/watch?v=JN5TEZ5zgEc)
@@ -97,9 +96,7 @@ With co-producer Prince Paul still in tow, they retained an idiosyncratic sample
 - [De La Soul - Skit 4 (Official Audio)](https://www.youtube.com/watch?v=cimI8sNRlpk)
 - [De La Soul - Shwingalokate (Official Audio)](https://www.youtube.com/watch?v=T8WCAH1IkEE)
 - [De La Soul - Fanatic of the B Word (Official Audio) ft. Dres](https://www.youtube.com/watch?v=g6phI8IlAqw)
-- [De La Soul - Keepin' the Faith (Official Audio)](https://www.youtube.com/watch?v=RWLDjfhk3y8)
 - [De La Soul - Skit 5 (Official Audio)](https://www.youtube.com/watch?v=escc5AkCXpI)
-- [De La Soul - Ring Ring Ring (Ha Ha Hey) (Official Music Video) [HD]](https://www.youtube.com/watch?v=hm6Kkje7bBM)
 
 ## Release Images
 {{< imageGrid >}}
@@ -111,5 +108,5 @@ With co-producer Prince Paul still in tow, they retained an idiosyncratic sample
 | Format         | Vinyl 2× LP Album Reissue |
 | Label          | Chrysalis Records |
 | Catalog Number | RMM-052-1 |
-| Notes | All boring tracks recorded at Calliope Productions Mixed at Battery Studios and Island Media Made In Czech Republic on back of sleeve. |
+| Notes | ℗ & © 2023 A.O.I., LLC under exclusive license to Chrysalis Records Limited   All boring tracks recorded at Calliope Productions Mixed at Battery Studios and Island Media Made In Czech Republic on back of sleeve. |
 | Discogs URL    | [De La Soul - De La Soul Is Dead](https://www.discogs.com/release/26633132-De-La-Soul-De-La-Soul-Is-Dead) |

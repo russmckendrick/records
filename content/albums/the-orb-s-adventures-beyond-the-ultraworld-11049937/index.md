@@ -15,22 +15,26 @@ cover:
 additional_images:
     - "https://i.discogs.com/g1p4otqxiPlZpCXL_dghnm9hUElsO7vB83lsgo11exo/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMDQ5/OTM3LTE1MDkyMDU5/ODItMTU5Mi5qcGVn.jpeg"
     - "https://i.discogs.com/7ENyro4NzlG7SvLUVPFNQ2z_8pHyrCACbQzp43RPfeY/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMDQ5/OTM3LTE2MjU5NjA4/NzgtNDc0OS5qcGVn.jpeg"
-    - "https://i.discogs.com/FT9YXqQqSofqctlZaHPXmIcV2iM_NAYZZy8jg05gZ4A/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMDQ5/OTM3LTE2MjU5NjA5/MDAtMTc0OC5qcGVn.jpeg"
-    - "https://i.discogs.com/fmG3FcTEZHxHZZu2duW_9s8U-Ij2IzFg82Ft5OhJpHY/rs:fit/g:sm/q:90/h:612/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMDQ5/OTM3LTE2MjU5NjA5/MzMtNzkwNi5qcGVn.jpeg"
-    - "https://i.discogs.com/_OqlRLRDoSw5CpwH5gENo3pYCV29VUTT14fQEICxh0E/rs:fit/g:sm/q:90/h:607/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMDQ5/OTM3LTE2MjU5NjA5/NDMtODEzMS5qcGVn.jpeg"
-    - "https://i.discogs.com/roqEJO5IPMUUwQfzhvCTRm19O2xnDLn_5n2Ay0C2uO4/rs:fit/g:sm/q:90/h:610/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMDQ5/OTM3LTE2MjU5NjA5/NzQtODEyMy5qcGVn.jpeg"
-    - "https://i.discogs.com/X264FwtteClkRz4BX4_3FgmdmnC1Fs14Jf4IU_lf0L8/rs:fit/g:sm/q:90/h:605/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMDQ5/OTM3LTE2MjU5NjA5/ODUtMTgzMS5qcGVn.jpeg"
+    - "https://i.discogs.com/2bgECo8ZdegxQDivCBbQb2u5CuO_zuJlv762l17dt5I/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMDQ5/OTM3LTE2MjU5NjA5/MDAtMTc0OC5qcGVn.jpeg"
+    - "https://i.discogs.com/0x1h5EL2ndLyamLhrfOsrgzvONOXV8QB-zOQl8sUg50/rs:fit/g:sm/q:90/h:600/w:587/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMDQ5/OTM3LTE2MjU5NjA5/MzMtNzkwNi5qcGVn.jpeg"
+    - "https://i.discogs.com/ncbZxutQKv64ZN6VOBLpUDNsgodmRUJyvZlvxbEQOyY/rs:fit/g:sm/q:90/h:600/w:592/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMDQ5/OTM3LTE2MjU5NjA5/NDMtODEzMS5qcGVn.jpeg"
+    - "https://i.discogs.com/ONePeXdFhFUNksw_0qv442kdJRAcRELAkO5JwClJDo0/rs:fit/g:sm/q:90/h:600/w:589/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMDQ5/OTM3LTE2MjU5NjA5/NzQtODEyMy5qcGVn.jpeg"
+    - "https://i.discogs.com/0x06Gl8QiMSgFHP6QdBGCQ6iPC1TUQ8ynpnk8P65oBw/rs:fit/g:sm/q:90/h:600/w:594/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMDQ5/OTM3LTE2MjU5NjA5/ODUtMTgzMS5qcGVn.jpeg"
     - "https://i.discogs.com/PFXUZfv9Fvkn4l7OC6lt65lcbtT-V5MG31nRkKT_mMQ/rs:fit/g:sm/q:90/h:589/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMDQ5/OTM3LTE2MjU5NjA5/MTEtMTYzMC5qcGVn.jpeg"
     - "https://i.discogs.com/laV4l7urMBeS8uFzf5dHcfIDYIh73kU6TeiemPyNoXo/rs:fit/g:sm/q:90/h:593/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMDQ5/OTM3LTE2MjU5NjA5/MjQtODY1Mi5qcGVn.jpeg"
     - "https://i.discogs.com/IUdtJDynCPmSC6nTTEdDUxn7sJdM3tdHNLzKQFQVd-A/rs:fit/g:sm/q:90/h:585/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMDQ5/OTM3LTE2MjU5NjA5/NTUtMTI5NS5qcGVn.jpeg"
-    - "https://i.discogs.com/MX4DnV8S-IRW5Eo7RVndrMJXoPPhyKr0j-x1z8pK-3I/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMDQ5/OTM3LTE2MjU5NjA5/NjQtNTg0OC5qcGVn.jpeg"
+    - "https://i.discogs.com/wA34rU-UbKCtVOvX802TJxjKjvJIFKH-vgrDLe35PQ8/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMDQ5/OTM3LTE2MjU5NjA5/NjQtNTg0OC5qcGVn.jpeg"
     - "https://i.discogs.com/CXFYRLcZVTB1YyAJ-4eBqM6KDuRP2IUpYUN_wnee7G4/rs:fit/g:sm/q:90/h:594/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMDQ5/OTM3LTE2MjU5NjA5/OTYtNTQwOC5qcGVn.jpeg"
 genres: ["Electronic"]
 styles: ["Ambient", "Dub", "Ambient House"]
 ---
 
-<i>The Orb's Adventures Beyond the Ultraworld</i> is less an album than a magical place—like Narnia or Wonderland, but easier to get to (and get lost in). House grooves and hip-hop breaks provide the gently funky underpinning for undulating waves of sound: hazy synths, dub bass, field recordings and brain-teasing snippets of movie dialogue. The Steve Reich-sampling "Little Fluffy Clouds" is a rave-defining anthem, and the epic closer will have you dreaming in colours you never knew existed.
-    
+The Orb's Adventures Beyond the Ultraworld is the debut studio album by English electronic music group the Orb, released as a double album on 2 April 1991 by Big Life. It is a segued,  progressive and psychedelic trip which draws from various genres (including ambient, house, dub reggae, and hip hop) and incorporates a huge number of samples and sound effects. Much of the album was recorded after founding member Jimmy Cauty left the group, leaving Alex Paterson as the central member, with additional contributions by Kris Weston, Andy Falconer and several others.
+The album was preceded by the charting (No. 78) 1989 single "A Huge Ever Growing Pulsating Brain That Rules from the Centre of the Ultraworld," which closes the album, (No. 87) 1990 single "Little Fluffy Clouds," which opens the album, and (No. 61) 1991 single "Perpetual Dawn," which opens the second half of the album. The Orb's Adventures Beyond the Ultraworld was well received in Europe and reached number 29 on the UK Albums Chart. It has since been credited with popularizing the UK's nascent ambient house movement.
+
+
+        
+        
     
 
 
@@ -57,19 +61,14 @@ styles: ["Ambient", "Dub", "Ambient House"]
 
 
 ## Videos
-### Little Fluffy Clouds
-{{< youtube id="KNfjpmvbQG0" title="Little Fluffy Clouds" >}}<br>
+### the orb´s adventures beyond the ultraworld (-full double album- CD1+CD2)
+{{< youtube id="AaXT3raG5gY" title="the orb´s adventures beyond the ultraworld (-full double album- CD1+CD2)" >}}<br>
 ### More Videos
 
 - [Earth (Gaia)](https://www.youtube.com/watch?v=Ejnyt8wNMpc)
-- [Super Nova At The End Of The Universe](https://www.youtube.com/watch?v=jRr0W7leiyw)
-- [Back Side Of The Moon](https://www.youtube.com/watch?v=KanekI2PKRo)
-- [Spanish Castles In Space](https://www.youtube.com/watch?v=zSy2d3UhgBM)
-- [Perpetual Dawn](https://www.youtube.com/watch?v=iSNPBJKoxlQ)
-- [Into The Fourth Dimension](https://www.youtube.com/watch?v=ouKGF7zin2Q)
-- [Outlands](https://www.youtube.com/watch?v=RcsZdNO5fdw)
-- [Star 6 & 7 8 9](https://www.youtube.com/watch?v=-w21fIWxaFE)
-- [A Huge Ever Growing Pulsating Brain That Rules From The Centre Of The Ultraworld (Live Mix Mark 10)](https://www.youtube.com/watch?v=MlsY8MQ2CWE)
+- [Little Fluffy Clouds](https://www.youtube.com/watch?v=KNfjpmvbQG0)
+- [The Orb - Supernova At The End Of The Universe (Chilled beats)](https://www.youtube.com/watch?v=RVtacEhq2uk)
+- [The orb - Back side of the moon](https://www.youtube.com/watch?v=vTDdoIctIkI)
 
 ## Release Images
 {{< imageGrid >}}
@@ -77,6 +76,7 @@ styles: ["Ambient", "Dub", "Ambient House"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
+| Wikipedia URL | https://en.wikipedia.org/wiki/The_Orb%27s_Adventures_Beyond_the_Ultraworld |
 | Format         | Vinyl 2× LP Album Reissue Remastered (180g) |
 | Label          | Island Records |
 | Catalog Number | 0602557753264 |

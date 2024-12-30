@@ -20,10 +20,10 @@ genres: ["Rock"]
 styles: ["Pop Rock", "Prog Rock"]
 ---
 
-Second Thoughts is the second studio album by New Zealand art rock band Split Enz. It was recorded in London with Roxy Music's guitarist Phil Manzanera producing the album.
-Four of the songs on the album were reworked versions of songs from their 1975 debut album, Mental Notes. Two other songs on the album had been first recorded during the Mental Notes sessions, but left off and re-recorded for Second Thoughts. There were two new songs, both written by Phil Judd, and a re-recording of an early Judd/Finn composition ("129"), which for the Second Thoughts version, was renamed "Matinee Idyll".
-The album was called Mental Notes when released outside Australasia and also featured a reworked version of the Mental Notes cover (for comparison see original and remake). Wally Wilkinson's image was replaced with that of Robert Gillies, and some band members are shown with newer haircuts: Phil Judd was now bald, and Tim Finn had his sides shaved.
-Tim Finn, Robert Gillies and Eddie Rayner have said that the band felt the songs needed to be redone. But both Phil Judd and Noel Crombie have said that the re-recording of the Mental Notes tracks was a waste of time. On his MySpace forum, Phil has said that Tim Finn was obsessed with making the songs sound better, while he had new songs that he wanted to record.
+Second Thoughts is a British comedy television programme that ran from 3 May 1991 to 14 October 1994. It was broadcast on the ITV network and made by the ITV company LWT. It was followed by a sequel, Faith in the Future. Second Thoughts followed the lives of two middle-aged divorcees, Bill MacGregor and Faith Greyshott, from very different backgrounds trying to develop a relationship, despite the pressures pulling it apart (namely Faith's two teenage children and Bill's devious ex-wife Liza, who works alongside him).
+Second Thoughts was based upon the real-life relationship of the writers, husband and wife Jan Etherington and Gavin Petrie. It originally aired as a radio series on BBC Radio 4 broadcast between 1 November 1988 and 23 July 1992. The radio series consisted of four series and a Christmas special broadcast in 1992 with a total of 31 episodes. The radio scripts were used for the television series on ITV. The fifth series was the only series not to be based on the original radio scripts.
+During the recording of an episode of series four, Lynda Bellingham was surprised by the This Is Your Life host Michael Aspel on set as she was to be the star of an episode of This is Your Life. Her co-star James Bolam was in on the surprise, and Lynda appeared truly shocked when Michael Aspel appeared on the set to present her with the big red book and to tell her "this is your life!" to the thundering applause of the studio audience.
+Second Thoughts ended on 14 October 1994, but has since been repeated on Forces TV. The original radio series was often replayed on BBC7, and continues to be repeated on BBC7's rebranded replacement, BBC Radio 4 Extra.
     
     
 
@@ -42,17 +42,12 @@ Tim Finn, Robert Gillies and Eddie Rayner have said that the band felt the songs
 
 
 ## Videos
-### Split Enz - Stranger Than Fiction
-{{< youtube id="7T4bHxbR0vk" title="Split Enz - Stranger Than Fiction" >}}<br>
+### Split Enz - Late Last Night (Official Video)
+{{< youtube id="51ib_El-yh4" title="Split Enz - Late Last Night (Official Video)" >}}<br>
 ### More Videos
 
-- [Split Enz - Time For A Change 1975 (Mental Notes Version)](https://www.youtube.com/watch?v=IwM7xDNasbE)
-- [Split Enz - Mental Notes](https://www.youtube.com/watch?v=d80t_wzZq88)
-- [Split Enz Amy [Darling]](https://www.youtube.com/watch?v=2CWQ6EDZGYc)
-- [Split Enz - Under The Wheel](https://www.youtube.com/watch?v=khPvE9JMg5A)
-- [Split Enz - Maybe](https://www.youtube.com/watch?v=psadmPirqpo)
-- [Split Enz - Spellbound](https://www.youtube.com/watch?v=m4E-jGjPgAM)
-- [Split Enz - So Long For Now](https://www.youtube.com/watch?v=rmGxjnml4yQ)
+- [Split Enz - Lovey Dovey (Official Video)](https://www.youtube.com/watch?v=66s967Qx0dM)
+- [Split Enz - Sweet Dreams (Official Video)](https://www.youtube.com/watch?v=we9XmUzmMlc)
 
 ## Release Images
 {{< imageGrid >}}
@@ -60,7 +55,7 @@ Tim Finn, Robert Gillies and Eddie Rayner have said that the band felt the songs
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Wikipedia URL | https://en.wikipedia.org/wiki/Second_Thoughts_(album) |
+| Wikipedia URL | https://en.wikipedia.org/wiki/Second_Thoughts_(TV_series) |
 | Format         | Vinyl LP Album |
 | Label          | Mushroom |
 | Catalog Number | L 35981 |

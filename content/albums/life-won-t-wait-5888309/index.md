@@ -17,6 +17,11 @@ genres: ["Rock"]
 styles: ["Punk", "Ska"]
 ---
 
+Life Won't Wait is the fourth studio album by the American punk rock band Rancid. It was released on June 30, 1998, through Epitaph Records. It was released as the follow-up to ...And Out Come the Wolves (1995).
+
+
+    
+    
 
 
 ## Tracklisting
@@ -48,13 +53,13 @@ styles: ["Punk", "Ska"]
 
 
 ## Videos
-### Rancid - Who Would've Thought [MUSIC VIDEO]
-{{< youtube id="oJqFEk67eLE" title="Rancid - Who Would've Thought [MUSIC VIDEO]" >}}<br>
+### Rancid - Hooligans [MUSIC VIDEO]
+{{< youtube id="dN1FYAisi94" title="Rancid - Hooligans [MUSIC VIDEO]" >}}<br>
 ### More Videos
 
+- [Rancid - Who Would've Thought [MUSIC VIDEO]](https://www.youtube.com/watch?v=oJqFEk67eLE)
 - [Rancid - Bloodclot [MUSIC VIDEO]](https://www.youtube.com/watch?v=1pnUvCRavfo)
-- [Rancid - Hooligans [MUSIC VIDEO]](https://www.youtube.com/watch?v=dN1FYAisi94)
-- [Rancid - Life Won't Wait (Full Album Stream)](https://www.youtube.com/watch?v=vlj-jh_HN7s)
+- [Rancid - Life Won't Wait](https://www.youtube.com/watch?v=M5hVE4CgKh4)
 
 ## Release Images
 {{< imageGrid >}}
@@ -62,7 +67,8 @@ styles: ["Punk", "Ska"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl 2× LP Album Reissue (Orange ) |
+| Wikipedia URL | https://en.wikipedia.org/wiki/Life_Won%27t_Wait |
+| Format         | Vinyl 2× LP Album Record Store Day Reissue (Orange ) |
 | Label          | Epitaph |
 | Catalog Number | 86497-1 |
 | Discogs URL    | [Rancid - Life Won't Wait](https://www.discogs.com/release/5888309-Rancid-Life-Wont-Wait) |

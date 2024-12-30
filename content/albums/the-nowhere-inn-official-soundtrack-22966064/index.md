@@ -13,7 +13,7 @@ cover:
     caption: "The Nowhere Inn (Official Soundtrack) by St. Vincent"
 additional_images:
     - "https://i.discogs.com/DK3Qv-x7VM4bpAjK9Le9Mjt_SglXVSXcQMu1RhcTFBo/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyOTY2/MDY0LTE2NTA2Nzkx/OTktNDAwNi5qcGVn.jpeg"
-    - "https://i.discogs.com/OlnBmlXXvbVSZ87EfC2XvxoUyWukuWXIAA5gttV4RqU/rs:fit/g:sm/q:90/h:610/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyOTY2/MDY0LTE2NTA2Nzkx/OTgtODg5NC5qcGVn.jpeg"
+    - "https://i.discogs.com/5v57WHXv_uGqV_5KVBCDG0FuVO4il4WohKi5F_k6hfk/rs:fit/g:sm/q:90/h:600/w:589/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyOTY2/MDY0LTE2NTA2Nzkx/OTgtODg5NC5qcGVn.jpeg"
     - "https://i.discogs.com/vCIVeQkmhamrhqtbq5B1zEGvH2tM6qDJBuKydUTOQ-w/rs:fit/g:sm/q:90/h:587/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyOTY2/MDY0LTE2NTA3Mjk5/NTQtMTgyMi5qcGVn.jpeg"
     - "https://i.discogs.com/Z1cUNL2Cd_iALe2rP60_KD9Zv2KjtFWDchIcXiNlxIs/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyOTY2/MDY0LTE2NTIzOTUw/NDMtNzA1Ny5qcGVn.jpeg"
     - "https://i.discogs.com/cQwyJGcoQW5CMHVTxAwaQ_gVbJg5cuDfCr_9IBCI3zE/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyOTY2/MDY0LTE2NTIzOTUw/NDItMzcwMi5qcGVn.jpeg"
@@ -35,7 +35,7 @@ styles: ["Alternative Rock", "Soundtrack"]
 6. Opening Limo Scene  (1:34)
 7. Hallway Scene (0:42)
 8. Rooftop (1:10)
-9. Come to Jesus  (0:54)
+9. Come To Jesus  (0:54)
 10. Downtempo Montage  (1:21)
 11. Sex Scene  (0:57)
 12. Board Room  (0:46)
@@ -47,6 +47,8 @@ styles: ["Alternative Rock", "Soundtrack"]
 18. Bacchanal  (2:29)
 19. Ending (2:18)
 
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/the-nowhere-inn/1585694351" >}}<br>
 
 
 ## Videos
@@ -80,6 +82,6 @@ styles: ["Alternative Rock", "Soundtrack"]
 | ---------------| ---------------------------------------------------- |
 | Format         | Vinyl LP Album Record Store Day Limited Edition (Orange) |
 | Label          | Loma Vista |
-| Catalog Number | LVRO2343 |
+| Catalog Number | LVR02343 |
 | Notes | Record Store Day 2022 Exclusive Release Limited to 4000 copies |
 | Discogs URL    | [St. Vincent - The Nowhere Inn (Official Soundtrack)](https://www.discogs.com/release/22966064-St-Vincent-The-Nowhere-Inn-Official-Soundtrack) |

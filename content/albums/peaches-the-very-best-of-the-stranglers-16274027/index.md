@@ -24,6 +24,11 @@ genres: ["Rock"]
 styles: ["Alternative Rock", "New Wave", "Pop Rock", "Punk"]
 ---
 
+Peaches: The Very Best of The Stranglers is a compilation album by The Stranglers, released in 2002 by EMI. It reached No. 21 in the UK Albums Chart in June 2002.
+The album cover was designed by design4music who would design a similar cover for the compilation The Best Bands...Ever! several months later.
+On 27 November 2020, the compilation was released on vinyl for the first time as a double-LP set through Parlophone.
+    
+    
 
 
 ## Tracklisting
@@ -53,20 +58,20 @@ styles: ["Alternative Rock", "New Wave", "Pop Rock", "Punk"]
 
 
 ## Videos
-### [Get A] Grip (On Yourself) (Grip '89 Remix)
-{{< youtube id="ckbONnCzZlU" title="[Get A] Grip (On Yourself) (Grip '89 Remix)" >}}<br>
+### Peaches
+{{< youtube id="FQVKFvb_nK0" title="Peaches" >}}<br>
 ### More Videos
 
+- [[Get A] Grip (On Yourself) (Grip '89 Remix)](https://www.youtube.com/watch?v=ckbONnCzZlU)
 - [Always The Sun (Sunny Side Up Mix)](https://www.youtube.com/watch?v=eWyuoNkdBDQ)
-- [The Stranglers - No More Heroes](https://www.youtube.com/watch?v=2B4bsqYxwo0)
-- [The Stranglers - European Female (TOTP 1983)](https://www.youtube.com/watch?v=HrwJhMhpUHk)
-- [The Stranglers - Golden Brown (Restored Music Video)](https://www.youtube.com/watch?v=z-GUjA67mdc)
-- [The Stranglers - Skin Deep (Official Video)](https://www.youtube.com/watch?v=aw9mEFn38to)
-- [The Stranglers - Peaches](https://www.youtube.com/watch?v=Q04y16woPAI)
-- [The Stranglers - All Day and All of the Night](https://www.youtube.com/watch?v=y6k3tNNRS_I)
 - [The Stranglers - Strange Little Girl (TOTP 1982)](https://www.youtube.com/watch?v=k3CAuhVxVW8)
 - [The Stranglers La Folie TV recording 1982](https://www.youtube.com/watch?v=YAiL10FWN30)
-- [The Stranglers - Always The Sun (Video)](https://www.youtube.com/watch?v=8dEySTzQ6oc)
+- [Stranglers - Always the Sun 1986](https://www.youtube.com/watch?v=FKukR0lbRgI)
+- [Peaches](https://www.youtube.com/watch?v=FQVKFvb_nK0)
+- [[Get A] Grip (On Yourself) (Grip '89 Remix)](https://www.youtube.com/watch?v=ckbONnCzZlU)
+- [Always The Sun (Sunny Side Up Mix)](https://www.youtube.com/watch?v=eWyuoNkdBDQ)
+- [The Stranglers - Strange Little Girl (TOTP 1982)](https://www.youtube.com/watch?v=k3CAuhVxVW8)
+- [The Stranglers La Folie TV recording 1982](https://www.youtube.com/watch?v=YAiL10FWN30)
 - [Stranglers - Always the Sun 1986](https://www.youtube.com/watch?v=FKukR0lbRgI)
 
 ## Release Images
@@ -75,8 +80,9 @@ styles: ["Alternative Rock", "New Wave", "Pop Rock", "Punk"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
+| Wikipedia URL | https://en.wikipedia.org/wiki/Peaches:_The_Very_Best_of_The_Stranglers |
 | Format         | Vinyl 2× LP Record Store Day Compilation Limited Edition Reissue (Gatefold) |
 | Label          | Parlophone |
 | Catalog Number | 0190295187149 |
-| Notes | Sticker on front: the very best of the stranglers - 2 LP set on vinyl for the first time Limited 1,500 copies  Event: RSD 2020 Black friday Release type: RSD First Release |
+| Notes | Hype Sticker on front: THE VERY BEST OF  the stranglers 2 LP SET ON VINYL FOR THE FIRST TIME 0190295187149  In the US: Limited 1,500 copies  RSD 2020 Black friday RSD First Release  In the UK this was a standard Friday release [Not RSD, NOT a Limited Edition] |
 | Discogs URL    | [The Stranglers - Peaches: The Very Best Of The Stranglers](https://www.discogs.com/release/16274027-The-Stranglers-Peaches-The-Very-Best-Of-The-Stranglers) |

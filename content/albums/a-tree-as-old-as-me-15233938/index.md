@@ -27,9 +27,6 @@ styles: ["Post Rock"]
 4. Through A Lens Darkly
 
 
-## Spotify
-{{< spotify type="album" id="0hZZ417pOuUFd45IHNlk2t" width="100%" height="500" >}}<br>
-
 
 
 

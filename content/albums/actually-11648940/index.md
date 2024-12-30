@@ -4,6 +4,7 @@ artist_name: "Pet Shop Boys"
 artist: "pet-shop-boys"
 album_name: "Actually"
 date: 2018-03-03T10:30:55.000000Z
+release_date: "1987-09-07"
 release_id: "11648940"
 slug: "actually-11648940"
 hideSummary: true
@@ -12,19 +13,27 @@ cover:
     alt: "Actually by Pet Shop Boys"
     caption: "Actually by Pet Shop Boys"
 additional_images:
-    - "https://i.discogs.com/IHGd7Xpa_PmTFECZ679aPW2j4x4X-k28GNb3nVv1ths/rs:fit/g:sm/q:90/h:594/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNjQ4/OTQwLTE1MjM0NDkz/ODEtOTE0Ny5qcGVn.jpeg"
-    - "https://i.discogs.com/Y35nHpZOGBe4rk3TeoeEgdg7X2xOZW26S4S_ct40Wlg/rs:fit/g:sm/q:90/h:594/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNjQ4/OTQwLTE1MjM0NDkz/ODgtNDcwMy5qcGVn.jpeg"
+    - "https://i.discogs.com/_PGI2gsNi3-4oGyGTRhPRVQ-IjEVVkeHI3asFfjz-hs/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNjQ4/OTQwLTE2ODkzNjEw/NDItNzUxMS5qcGVn.jpeg"
+    - "https://i.discogs.com/Ik47MQt8E7SBS2p9ylFWQ1mL4G91i3mepP4t512YsVM/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNjQ4/OTQwLTE2ODkzNjEw/NzktNDg1My5qcGVn.jpeg"
     - "https://i.discogs.com/Eu6AlDr5gcNhEgpil0v7zh9oPj0z3YMB1mLOpX4v-6U/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNjQ4/OTQwLTE1MjM0NDkz/OTctMTYxMi5qcGVn.jpeg"
     - "https://i.discogs.com/y8-0oA80bAshGkl-fzzKIwTGJ0dOOKP3Owumu_lSYlE/rs:fit/g:sm/q:90/h:594/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNjQ4/OTQwLTE1MjM0NDk0/MDYtNzc2Ni5qcGVn.jpeg"
-    - "https://i.discogs.com/dKUvbUx92CyYRqRzrBmD6wnOtvdZNx10ZPxvDtrFEqI/rs:fit/g:sm/q:90/h:594/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNjQ4/OTQwLTE1MjM0NDk0/MDItMjc1MC5qcGVn.jpeg"
     - "https://i.discogs.com/nDVOWosVpx8XlTS3NW1fXv98RXmOHx3qTK62YvP02SA/rs:fit/g:sm/q:90/h:592/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNjQ4/OTQwLTE1MjM0NDk0/MTAtNjI0MS5qcGVn.jpeg"
+    - "https://i.discogs.com/pP4MKcBs5miyc9u3b63rf0EoIxlcufed_Ej7uV3DDoI/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNjQ4/OTQwLTE2ODkzNjI4/MzEtOTcyMS5qcGVn.jpeg"
+    - "https://i.discogs.com/wmZqs3M6qa1jtcfVL93PIPp64Wh6q1lZf5imWou_7R0/rs:fit/g:sm/q:90/h:590/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNjQ4/OTQwLTE2ODkzNjEx/MjItMzg5Ni5qcGVn.jpeg"
     - "https://i.discogs.com/49w-rU6rFYH6SZzglpm_pYsGuh6Fhk9jZHRiGKVCDDQ/rs:fit/g:sm/q:90/h:321/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNjQ4/OTQwLTE1MjM0NDk0/MDUtOTE5Ny5qcGVn.jpeg"
 genres: ["Electronic", "Pop"]
 styles: ["Synth-pop"]
 ---
 
-Actually (stylised as Pet Shop Boys, actually.) is the second studio album by English synth-pop duo Pet Shop Boys, released on 7 September 1987 by Parlophone in the United Kingdom and by EMI Manhattan in North America. According to Neil Tennant and music historian Wayne Studer, Actually loosely critiques Thatcherism, the political zeitgeist of the 1980s, and was recorded in anticipation of Margaret Thatcher's re-election.
-    
+Neil Tennant and Chris Lowe have said that when the Pet Shop Boys’ second album, <i>Actually</i>, was released, they mainly understood it to be about Thatcherism. Written during the mid 1980s and released in 1987—the year Thatcher began her third term as prime minister—<i>Actually</i> is a prickly record that captures a maudlin national consciousness. But the Pet Shop Boys dress up that dour mood in precisely sequenced, discotheque-indebted synth-pop. 
+
+While the band’s debut album, <i>Please</i>, had its moments of bleakness, there was a romantic optimism that ran through it. On <i>Actually</i>, the overarching atmosphere is far more scathing. The robotic “Shopping” draws comparisons between vapid consumerism and the British government’s willingness to sell off nationalised industries and social housing (“I heard it in the House of Commons,” Tennant sings. “Everything’s for sale.”) The repetitive chug of “Rent”, meanwhile, turns salacious sexual transaction into something resigned and monotonous. And “King’s Cross”,with its sumptuous and slightly baroque production, encapsulates the despondency of the era; as Tennant sings with a sigh: “Wake up in the morning and there’s still no guarantee.” 
+
+At the heart of <i>Actually</i> are three songs about the HIV/AIDS crisis and the rise of anti-LGBTQ+ rhetoric. While “Hit Music” appears to be a satirical look at banal commercialised pop songs, hidden in the lyrics is Tennant’s mourning at the loss of hedonistic queer nightlife (“Live and die, it’s all that we know.”) The pomp of “It’s a Sin”, arguably one of the Pet Shop Boys’ most recognisable hits, masks the pain of repressed sexuality and dogmatic bigotry (“When I look back upon my life/It’s always with a sense of shame.”) Finally, “It Couldn’t Happen Here”, with its initial sense of soft naivety, morphs into a gutting elegy for the lives lost because of HIV/AIDS, one that aches with regret (“I may be wrong, I thought we said/‘It couldn’t happen here’”). 
+
+Levity comes in the form of “What Have I Done to Deserve This?”, in which Tennant and Lowe revive a career-declining Dusty Springfield, and “Heart”, an absolute floor-filling romp of song that was, according to the band, written with Madonna in mind. It’s all proof of the Pet Shop Boys’ ability to serve you socio-economic commentary and straight-up pop perfection at the same time.
+        
+        
     
 
 
@@ -45,16 +54,9 @@ Actually (stylised as Pet Shop Boys, actually.) is the second studio album by En
 
 
 ## Videos
-### Pet Shop Boys - It's A Sin (Official Video) [HD REMASTERED]
-{{< youtube id="dRHetRTOD1Q" title="Pet Shop Boys - It's A Sin (Official Video) [HD REMASTERED]" >}}<br>
-### More Videos
+### Pet Shop Boys ‎– Actually
+{{< youtube id="mEG8OhXVFLA" title="Pet Shop Boys ‎– Actually" >}}<br>
 
-- [P E T _ S H O P _ B O Y S  ( A C T U A L L Y ) 1987  (Full Album)](https://www.youtube.com/watch?v=ZedvECF7xCY)
-- [Pet Shop Boys - What Have I Done To Deserve This (Official Video) [HD REMASTERED]](https://www.youtube.com/watch?v=Wn9E5i7l-Eg)
-- [Pet Shop Boys ‎– Actually](https://www.youtube.com/watch?v=mEG8OhXVFLA)
-- [Pet Shop Boys - Rent](https://www.youtube.com/watch?v=8v-jX3d_jto)
-- [Pet Shop Boys - Actually (Full Album)](https://www.youtube.com/watch?v=IUqrJVc9VRk)
-- [Pet Shop Boys - Heart](https://www.youtube.com/watch?v=wTkfK2g4pKI)
 
 ## Release Images
 {{< imageGrid >}}

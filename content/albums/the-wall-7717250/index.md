@@ -54,7 +54,11 @@ genres: ["Rock"]
 styles: ["Prog Rock"]
 ---
 
-Roger Waters: The Wall is a live album by Roger Waters, a former member of Pink Floyd. It is a live recording of Pink Floyd's 1979 rock opera The Wall.
+Roger Waters: The Wall is a British concert film by Roger Waters. Directed by Waters and Sean Evans, it captures performances of Waters' live tour. It premiered in the Special Presentations section of the 2014 Toronto International Film Festival, with Waters and Evans in attendance. The concert design and execution draws heavily from the original concert of the same name that followed the release of the Pink Floyd album The Wall (1979).
+In addition to the 90 minutes of music, the film also contains interspersed documentary and interview footage taken from a road trip in Europe, with Waters driving an old Bentley. Waters is also seen reading from John Berger's introduction to Fear, the English translation of Gabriel Chevallier's novel, La Peur.
+The audio is presented in 7.1.4-channel Dolby Atmos.
+
+
     
     
 
@@ -95,17 +99,18 @@ Roger Waters: The Wall is a live album by Roger Waters, a former member of Pink 
 
 
 ## Videos
-### ROGER WATERS - The Happiest Days of Our Lives/Another Brick in The Wall part 2-ASSAGO 4 aprile 2011
-{{< youtube id="qTNCXPY7e5Y" title="ROGER WATERS - The Happiest Days of Our Lives/Another Brick in The Wall part 2-ASSAGO 4 aprile 2011" >}}<br>
+### Roger Waters - The Wall (Full Theatrical Trailer)
+{{< youtube id="jZgJqX8Dxzg" title="Roger Waters - The Wall (Full Theatrical Trailer)" >}}<br>
 ### More Videos
 
-- [ROGER WATERS - In The Flesh - The Wall ASSAGO 4 aprile 2011](https://www.youtube.com/watch?v=_Zlzj9gZuHY)
-- [ROGER WATERS - Another brick in the wall pt.1 -The Wall ASSAGO 4 aprile 2011](https://www.youtube.com/watch?v=Ue4oRSoQFZg)
+- [Roger Waters The Wall Official Trailer (2015) HD](https://www.youtube.com/watch?v=lH-NRg6w5bA)
+- [Roger Waters The Wall Official Trailer 1 (2015) - Documetary HD](https://www.youtube.com/watch?v=ZuPyeCX7Fgg)
+- [Roger Waters - Comfortably Numb (Live from Roger Waters The Wall) (Audio)](https://www.youtube.com/watch?v=cryTiFrtHqA)
 - [Roger Waters - In the Flesh? (Live) [From Roger Waters The Wall] (Digital Video)](https://www.youtube.com/watch?v=Jvl0MDXH96M)
-- [Empty Spaces (Live)](https://www.youtube.com/watch?v=4ZPxMPGOEQY)
-- [Roger Waters - Mother](https://www.youtube.com/watch?v=9lCFaSL9aSE)
-- [Roger Waters - Mother / Goodbye Blue Sky (The Wall Tour 2010)](https://www.youtube.com/watch?v=w_Wcl7getFI)
-- [Roger Waters - The Wall (Full Theatrical Trailer)](https://www.youtube.com/watch?v=jZgJqX8Dxzg)
+- [The Happiest Days Of Our Lives/Another Brick In The Wall, Part 2/Another Brick In The W...](https://www.youtube.com/watch?v=gV0_C4dN-kk)
+- [Another Brick in the Wall, Pt. 1 (Live)](https://www.youtube.com/watch?v=D1vi8rX95SI)
+- [Roger Waters The Wall Live 2010](https://www.youtube.com/watch?v=qAtusYxDlaw)
+- [Roger Waters The Wall - Trailer - Own it on Blu-ray 12/1](https://www.youtube.com/watch?v=smMsPb99Alc)
 
 ## Release Images
 {{< imageGrid >}}
@@ -113,7 +118,7 @@ Roger Waters: The Wall is a live album by Roger Waters, a former member of Pink 
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Wikipedia URL | https://en.wikipedia.org/wiki/Roger_Waters:_The_Wall_(album) |
+| Wikipedia URL | https://en.wikipedia.org/wiki/Roger_Waters:_The_Wall |
 | Format         | Vinyl 3× LP Album (Tri-Fold, 180 Gram) |
 | Label          | Columbia |
 | Catalog Number | 88875155411 |

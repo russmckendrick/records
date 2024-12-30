@@ -12,16 +12,16 @@ cover:
     alt: "Tubeway Army by Tubeway Army"
     caption: "Tubeway Army by Tubeway Army"
 additional_images:
-    - "https://i.discogs.com/oCUA9GJlXcR5EzEVahlpI9e_-hY9aiu8j2xHjh3ohEc/rs:fit/g:sm/q:90/h:618/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2MDQz/Mzg1LTE2NzYwMjUx/MDEtNDgwOS5qcGVn.jpeg"
+    - "https://i.discogs.com/QmYIoXP-NVF0I_Toq7z6im6jVaTehZo2jAnjjiWp1-8/rs:fit/g:sm/q:90/h:600/w:581/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2MDQz/Mzg1LTE2NzYwMjUx/MDEtNDgwOS5qcGVn.jpeg"
     - "https://i.discogs.com/Xnm3URyOnqLLdIleNa3CqR2UDzTLwZ1FcckFQGBxq7g/rs:fit/g:sm/q:90/h:585/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2MDQz/Mzg1LTE2NzU5NjAz/MzMtMjI1Ni5qcGVn.jpeg"
-    - "https://i.discogs.com/IVkm-4nC3Mb0-hCFP2mykZ--A4IFkhniwo5gfxhsWgA/rs:fit/g:sm/q:90/h:800/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2MDQz/Mzg1LTE2NzU5NTIx/NTAtNTM1My5qcGVn.jpeg"
-    - "https://i.discogs.com/HM6uARGG1vOAmuaAKWQZ8wvDmYsgumzdLZz93Z-WSBU/rs:fit/g:sm/q:90/h:800/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2MDQz/Mzg1LTE2NzU5NTIx/ODEtNzc4NS5qcGVn.jpeg"
-    - "https://i.discogs.com/VRZI3y2zwY6VLlLvmQbLmJbBUR2P-SSfede63kAb5xQ/rs:fit/g:sm/q:90/h:800/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2MDQz/Mzg1LTE2NzU5NTIy/MjItNjU3Mi5qcGVn.jpeg"
+    - "https://i.discogs.com/zHFosCKw6Ht7O_oeLrJ5NxTHFpR66_64oPbdpXoFIxk/rs:fit/g:sm/q:90/h:600/w:450/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2MDQz/Mzg1LTE2NzU5NTIx/NTAtNTM1My5qcGVn.jpeg"
+    - "https://i.discogs.com/mYeV3_qgCGtZe_OH6AKs91bUD83mzWzMI2hPbUtn04w/rs:fit/g:sm/q:90/h:600/w:450/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2MDQz/Mzg1LTE2NzU5NTIx/ODEtNzc4NS5qcGVn.jpeg"
+    - "https://i.discogs.com/tiVzgEvMeveGScDLX4JmKBhvnENSyvXDSB0hYbnKY3M/rs:fit/g:sm/q:90/h:600/w:450/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2MDQz/Mzg1LTE2NzU5NTIy/MjItNjU3Mi5qcGVn.jpeg"
 genres: ["Electronic", "Rock"]
 styles: ["Punk", "Synth-pop"]
 ---
 
-Tubeway Army is the debut album by Tubeway Army, released in 1978. Its initial limited-edition run of 5,000 (known unofficially as the Blue Album due to its coloured vinyl and cover) sold out but did not chart. When reissued in mid-1979, following the success of the follow-up Replicas (1979), the more commonly known cover art featuring a stylised portrait of Gary Numan was introduced. This release made No. 14 in the UK album charts.
+Tubeway Army is the debut studio album by the English new wave band Tubeway Army, released in 1978. Its initial limited-edition run of 5,000 (known unofficially as the Blue Album due to its coloured vinyl and cover) sold out but did not chart. When reissued in mid-1979, following the success of the follow-up Replicas (1979), the more commonly known cover art featuring a stylised portrait of Gary Numan was introduced. This release made No. 14 in the UK Albums Chart.
     
     
 

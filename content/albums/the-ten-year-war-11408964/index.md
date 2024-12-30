@@ -37,13 +37,18 @@ additional_images:
     - "https://i.discogs.com/4izavwxBHHNqSzVre1yVHSTI2sbpj_dPav4Mj2jGz_8/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNDA4/OTY0LTE1MTU5MjA1/NTktODcyNy5qcGVn.jpeg"
     - "https://i.discogs.com/qhzsFZchpMgH78tOXbw8_A_iglhVTBnxCf_j4skLajo/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNDA4/OTY0LTE1MTU5MjA1/NjUtMzg3Mi5qcGVn.jpeg"
     - "https://i.discogs.com/D_qFqjkFVV_CzzbtPvRwr-vOnALHOtlGbl-cSegwM1s/rs:fit/g:sm/q:90/h:270/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNDA4/OTY0LTE1MTU5MjA1/NzYtNzc0Mi5qcGVn.jpeg"
-    - "https://i.discogs.com/_JLBp18UIytx8Nzgkn-2eyHSqgeE_1o3Nv1rcGM1nPs/rs:fit/g:sm/q:90/h:800/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNDA4/OTY0LTE1MTU4NzU4/OTUtMjQzNy5qcGVn.jpeg"
+    - "https://i.discogs.com/BCgo9ZmepqyFlR-ex9ClEbedh92p5f5sh0fOIWJoIW4/rs:fit/g:sm/q:90/h:600/w:450/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNDA4/OTY0LTE1MTU4NzU4/OTUtMjQzNy5qcGVn.jpeg"
     - "https://i.discogs.com/_v0Ixamajes1Z0_dxLXLIzdlfDuTJDoMjnN3PAdCSC0/rs:fit/g:sm/q:90/h:450/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNDA4/OTY0LTE1MTU5MjA1/ODUtMTI4Ny5qcGVn.jpeg"
     - "https://i.discogs.com/TQT58pSrn_6Lx6t6kmuioNv2qSRB_kNGCKwGhYQshZw/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNDA4/OTY0LTE1MTU5MjA1/OTMtNjQzOS5qcGVn.jpeg"
 genres: ["Rock"]
 styles: ["Hard Rock"]
 ---
 
+The Ten Year War was a series of college football games, played from 1969 to 1978, in the Michigan–Ohio State football rivalry that pitted coach Woody Hayes of the Ohio State Buckeyes against coach Bo Schembechler of the Michigan Wolverines. In most contests, the Big Ten conference championship and a trip to the Rose Bowl were at stake, and in some cases, a possible national championship.
+
+
+    
+    
 
 
 ## Tracklisting
@@ -183,7 +188,7 @@ styles: ["Hard Rock"]
 134. Supertzar
 135. Am I Going Insane (Radio)
 136. The Writ
-137. 1976 - Technical Ecstacy [USB Stick]
+137. 1976 - Technical Ecstasy [USB Stick]
 138. Back Street Kids
 139. You Won't Change Me
 140. It's Allright
@@ -204,7 +209,7 @@ styles: ["Hard Rock"]
 155. Swinging The Chain
 
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/the-ten-year-war-2009-remaster/1299225968" >}}<br>
+{{< applemusic url="https://music.apple.com/gb/album/the-ten-year-war-2009-remaster/1716253558" >}}<br>
 
 
 
@@ -215,6 +220,7 @@ styles: ["Hard Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
+| Wikipedia URL | https://en.wikipedia.org/wiki/The_Ten_Year_War |
 | Format         | Vinyl LP Album Reissue Remastered (Purple-Black Swirl, 180 gr., Gatefold), Vinyl LP Album Reissue Remastered (Translucent Red With Blue Splatter, 180 gr., Gatefold), Vinyl LP Album Reissue Remastered (Purple With Black Splatter, 180 gr.), Vinyl LP Album Reissue Remastered (Yellow With Black Splatter, 180 gr., Gatefold), Vinyl LP Album Reissue Remastered (Orange With Purple Splatter, 180 gr., Gatefold), Vinyl LP Album Reissue Remastered (Translucent With Red Splatter, 180 gr.), Vinyl LP Album Reissue Remastered (Grey With Red Splatter, 180 gr.), Vinyl LP Album Reissue Remastered (Clear With Turquoise Splatter, 180 gr.), Vinyl 7" Single Reissue Remastered, Vinyl 7" Single Reissue Remastered Mono, Memory Stick FLAC Reissue Remastered, Box Set Compilation Deluxe Edition Limited Edition Numbered Reissue Repress |
 | Label          | BMG |
 | Catalog Number | BMGCATBOX73 |

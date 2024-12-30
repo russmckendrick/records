@@ -17,14 +17,22 @@ additional_images:
     - "https://i.discogs.com/VxSfROaGK2YCo9iV5gF0uh1ylW2EhH1wxpSWI09xaY8/rs:fit/g:sm/q:90/h:581/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUxNTk5/ODYtMTM4NjI1MDI0/NS0xNDU5LmpwZWc.jpeg"
     - "https://i.discogs.com/lBS3wJPpsyfgbnIVfZUVqXt5YEXL8d9_Ppx7odBAqzQ/rs:fit/g:sm/q:90/h:577/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUxNTk5/ODYtMTY2MzE2Njk1/NS0zMTA1LmpwZWc.jpeg"
     - "https://i.discogs.com/zRlIkZb3CoTHipw9HccjGVhz7rNUPJC3BIwI6QVIRDA/rs:fit/g:sm/q:90/h:593/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUxNTk5/ODYtMTY2MzE2Njk1/NC05MDM2LmpwZWc.jpeg"
-    - "https://i.discogs.com/PXRehM06awuCaAbab9vgJPenPyvgMfBGrqCiEMwIipA/rs:fit/g:sm/q:90/h:800/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUxNTk5/ODYtMTY2MzE2Njk1/Ny0xMzYzLmpwZWc.jpeg"
-    - "https://i.discogs.com/vZvkkH1F2zrS4_GFvNQxGmSKRMzjk_nzjl2bVhB-Ocw/rs:fit/g:sm/q:90/h:800/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUxNTk5/ODYtMTY2MzE2Njk1/Ni04NDE0LmpwZWc.jpeg"
-    - "https://i.discogs.com/BMmdpzhYOv1spLvifsfd4Drs6YqaYG8bdBKcapYxJEg/rs:fit/g:sm/q:90/h:690/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUxNTk5/ODYtMTY2MzE2Njk1/NS0yNjYwLmpwZWc.jpeg"
-    - "https://i.discogs.com/mdvf9ZKx1xo4a6WdDKWZ3YOK32VvtgkLhUPEgVLfbzw/rs:fit/g:sm/q:90/h:664/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUxNTk5/ODYtMTY2MzE2Njk1/My05ODI0LmpwZWc.jpeg"
+    - "https://i.discogs.com/Yp7Qb0l_oFVcC4OSL-7LJGzddMkDvT4UGJuISWEMSeA/rs:fit/g:sm/q:90/h:600/w:450/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUxNTk5/ODYtMTY2MzE2Njk1/Ny0xMzYzLmpwZWc.jpeg"
+    - "https://i.discogs.com/jvnhDQYWeaDJkOYxFOuLpTRETl9VPZQA5J91By-ZmmU/rs:fit/g:sm/q:90/h:600/w:450/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUxNTk5/ODYtMTY2MzE2Njk1/Ni04NDE0LmpwZWc.jpeg"
+    - "https://i.discogs.com/bxJ6oeLM7cG7LMvUSDPiyvOn-D1bBwdW5ofSv-a-xMA/rs:fit/g:sm/q:90/h:600/w:521/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUxNTk5/ODYtMTY2MzE2Njk1/NS0yNjYwLmpwZWc.jpeg"
+    - "https://i.discogs.com/86KNB78lR3SP-r-rnV3Rox-UjpuhnuY-RImf64HTccc/rs:fit/g:sm/q:90/h:600/w:542/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUxNTk5/ODYtMTY2MzE2Njk1/My05ODI0LmpwZWc.jpeg"
 genres: ["Electronic", "Rock"]
 styles: ["Space Rock", "Prog Rock", "Ambient"]
 ---
 
+Jurassic Shift is the fourth studio album by English band Ozric Tentacles. It was first released in 1993 on the band's own label  on Dovetail Records. In 1998 a re-release came from Snapper Music, with one additional track. The album was released yet again in 2004, this time paired with Erpland in Snapper Music's Recall 2CD series. 2008 saw a remastered two CD/DVD set with extra tracks and live performances, plus a 24-page booklet.
+In a review for AllMusic, Steven McDonald wrote:
+
+The Ozrics are a truly curious bunch in that they have this unerring tendency and uncanny ability to make great scads of progressive and space music that has true heart. There are very few times when one can connect fabulous technical skill with such a strongly emotional core, and never mind the mystical triggers.
+
+
+    
+    
 
 
 ## Tracklisting
@@ -54,18 +62,6 @@ styles: ["Space Rock", "Prog Rock", "Ambient"]
 - [Pteranodon (2020 Ed Wynne Remaster)](https://www.youtube.com/watch?v=5xo90EXeggA)
 - [Train Oasis (2020 Ed Wynne Remaster)](https://www.youtube.com/watch?v=e_7vCf87A1k)
 - [Vita Voom (2020 Ed Wynne Remaster)](https://www.youtube.com/watch?v=oEXkbwOxGOI)
-- [Sunhair (System 7 Stargate mix)](https://www.youtube.com/watch?v=v1H2i8Ax8ps)
-- [Pteranodon (Hallucinogen mix)](https://www.youtube.com/watch?v=lNV05jaWAb8)
-- [Ozric Tentacles - Sunhair](https://www.youtube.com/watch?v=Fi7VPXmbxME)
-- [Ozric Tentacles - Stretchy](https://www.youtube.com/watch?v=csM8IIaXFYM)
-- [Ozric Tentacles - Feng Shui](https://www.youtube.com/watch?v=rhvXJU0rpOg)
-- [Ozric Tentacles - Jurassic Shift Pt.1](https://www.youtube.com/watch?v=Uc_6ORsvdbY)
-- [Ozric Tentacles - Jurassic Shift Pt 2](https://www.youtube.com/watch?v=cxPcDQA0WPI)
-- [Ozric Tentacles - Pteranodon](https://www.youtube.com/watch?v=TMydRUWYkq0)
-- [Ozric Tentacles - Half Light In Thillai](https://www.youtube.com/watch?v=Q60TpTnK1Bs)
-- [Ozric Tentacles - Vita Voom.wmv](https://www.youtube.com/watch?v=ZRQBaiV853c)
-- [Ozric Tentacles - Train Oasis](https://www.youtube.com/watch?v=wgjEguBHbv4)
-- [Ozric Tentacles - Feng Shui (Live)](https://www.youtube.com/watch?v=M9CjobOAPoQ)
 
 ## Release Images
 {{< imageGrid >}}
@@ -73,8 +69,9 @@ styles: ["Space Rock", "Prog Rock", "Ambient"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl LP Album Reissue (Pink 180g Vinyl, Gatefold), Vinyl 12" |
+| Wikipedia URL | https://en.wikipedia.org/wiki/Jurassic_Shift |
+| Format         | Vinyl LP Album Reissue Stereo (180 Gram, Transparent Pink), Vinyl 12" Stereo (180 Gram), All Media (Gatefold) |
 | Label          | Madfish |
 | Catalog Number | SMALP955 |
-| Notes | Recorded in 1992-1993 at The Mill, Somerset.    ℗1993 Snapper Music  ©2013 Snapper Music     |
+| Notes | Recorded in 1992-1993 at The Mill, Somerset.  Made in Germany.  ℗ 1993 Snapper Music © 2013 Snapper Music.  Packaged in a gatefold jacket with black inner LP sleeves and hype sticker affixed to the shrink wrap on the front. |
 | Discogs URL    | [Ozric Tentacles - Jurassic Shift](https://www.discogs.com/release/5159986-Ozric-Tentacles-Jurassic-Shift) |

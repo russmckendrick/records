@@ -4,6 +4,7 @@ artist_name: "Yello"
 artist: "yello"
 album_name: "Yell40 Years"
 date: 2021-05-05T04:21:55.000000Z
+release_date: "2020-01-31"
 release_id: "18512575"
 slug: "yell40-years-18512575"
 hideSummary: true
@@ -15,7 +16,7 @@ additional_images:
     - "https://i.discogs.com/BpNe0YgqNfO_pNVN2rTg9Oe2qcqinYVJI6S28TiLu4g/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NTEy/NTc1LTE2MjI4MTY5/MjMtMzUzMy5qcGVn.jpeg"
     - "https://i.discogs.com/njmt-JfEjujzbD_XJGXdnjzQ-mCysWZzMHjOS8Y1NQI/rs:fit/g:sm/q:90/h:293/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NTEy/NTc1LTE2MjI4MTY5/MjUtMzM3MS5qcGVn.jpeg"
     - "https://i.discogs.com/VnjbVb24QtpEYOIdMcWIz97xeLN7DuUQH3P2RLs1VGw/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NTEy/NTc1LTE2MjI4MTY5/MjUtOTQ4MS5qcGVn.jpeg"
-    - "https://i.discogs.com/2XmNjJ7QDLVYd3EBg03UPfW3uXO93I6cNH9-1Qnbgr4/rs:fit/g:sm/q:90/h:607/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NTEy/NTc1LTE2MjI4MTY5/MjQtOTY4My5qcGVn.jpeg"
+    - "https://i.discogs.com/jys7rIDsGkjNOsv5pT43Dpl6OCx3BZlw9d2KRI2uBOY/rs:fit/g:sm/q:90/h:600/w:592/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NTEy/NTc1LTE2MjI4MTY5/MjQtOTY4My5qcGVn.jpeg"
     - "https://i.discogs.com/0XLU49T7F0ETJpwe0XtWl8CV1BiphrLamuMlXgmwoyM/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NTEy/NTc1LTE2MjI4MTY5/MjUtMjQzOS5qcGVn.jpeg"
     - "https://i.discogs.com/1Pu3dQuSw9-U-KLePvRRTYNumFtETJ4UFr7m8slHamY/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NTEy/NTc1LTE2MjI4MTY5/MjQtNjIzNi5qcGVn.jpeg"
     - "https://i.discogs.com/D_snz1v13IwM89eD20A29BnHwca4UG6f0lmCV_1JjiM/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NTEy/NTc1LTE2MjI4MTY5/MjUtMzIxMS5qcGVn.jpeg"
@@ -23,14 +24,17 @@ additional_images:
     - "https://i.discogs.com/COV6_XhKzRjVroTe9jks0QZyFU9HxTGeaDy13CEJIag/rs:fit/g:sm/q:90/h:593/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NTEy/NTc1LTE2MjI4MTY5/MjYtMTYzNC5qcGVn.jpeg"
     - "https://i.discogs.com/SqqiUA0ZN-j7Z7Gpcj13_3wTUk1YXvhJRTRp0FGW3r0/rs:fit/g:sm/q:90/h:594/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NTEy/NTc1LTE2MjI4MTY5/MjUtODk2NS5qcGVn.jpeg"
     - "https://i.discogs.com/MvvLq9ByRJsGJu1BIju7SCjo_upbY17wWu2fJrAG7EY/rs:fit/g:sm/q:90/h:594/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NTEy/NTc1LTE2MjI4MTY5/MjUtMTEzOC5qcGVn.jpeg"
-    - "https://i.discogs.com/6ZNR-ofaaAgQyYtRY_z3O7LYTHGHr18Fx6QV3Mpcj70/rs:fit/g:sm/q:90/h:603/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NTEy/NTc1LTE2MjI4MTY5/MjItODU0OS5qcGVn.jpeg"
+    - "https://i.discogs.com/ndMOCLk3wo4m8Z8B0xcn4_gscUC2nNeC0cfD0v9BARU/rs:fit/g:sm/q:90/h:600/w:596/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NTEy/NTc1LTE2MjI4MTY5/MjItODU0OS5qcGVn.jpeg"
     - "https://i.discogs.com/CEeUiw9t1Ko7keWZ_dNPBrXvQ927kiecVftckuzMNpA/rs:fit/g:sm/q:90/h:390/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NTEy/NTc1LTE2MjI4MTY5/MjEtMjAwMi5qcGVn.jpeg"
-    - "https://i.discogs.com/9eyp7mDdR95DJY-yzZ3pjiRrRZZqyUSd1tfvvelsseo/rs:fit/g:sm/q:90/h:663/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NTEy/NTc1LTE2MjI4MTY5/MjUtNjE2MC5qcGVn.jpeg"
+    - "https://i.discogs.com/4ocsGNfC9oORxz4VmzL7m1Po6FQw6ZNKsEA52FrkOG4/rs:fit/g:sm/q:90/h:600/w:542/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NTEy/NTc1LTE2MjI4MTY5/MjUtNjE2MC5qcGVn.jpeg"
     - "https://i.discogs.com/nYgs60XJ3SKQcsp8OuNAA6vY9Z07H95BDTuxEiPhtPM/rs:fit/g:sm/q:90/h:593/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NTEy/NTc1LTE2MjE1MzIz/MDYtMzc3Ni5qcGVn.jpeg"
 genres: ["Electronic", "Pop"]
 styles: ["Electro"]
 ---
 
+After a few years under the mighty wing of rapper Young Dolph, Key Glock is ready to fly solo. And with <i>Yellow Tape</i>, an album devoid of the features we’ve come to expect from young artists’ offerings, the Paper Route Empire protégé does exactly that. With semi-staccato Memphis flows bouncing over the murky timbres of Tennessean producer Bandplay’s slow and syrupy beats, the legacy of hometown heroes Three 6 Mafia and Project Pat looms over the project. Yet much like his previous mixtape offerings, Glock uses the dark and trippy Hypnotize Minds spirit more like a jumping-off point than pure tribute, filling his double cup to the brim on the retrospective opener “1997” and letting loose from there. Freed from sharing the spotlight, he emerges as a man in full, speaking directly to the hustlers on “Dough” and sneering at the haters on “Look at They Face”.
+    
+    
 
 
 ## Tracklisting
@@ -56,16 +60,17 @@ styles: ["Electro"]
 20. Meet My Angel (3:43)
 21. Way Down (3:19)
 
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/yellow-tape/1494539195" >}}<br>
 
 
 ## Videos
-### Yello - Waba Duba (Official Video)
-{{< youtube id="nN9DaTXV0b0" title="Yello - Waba Duba (Official Video)" >}}<br>
+### YELLO 'You Better Hide' (Extract of Touch Yello)
+{{< youtube id="LZFKmePcasA" title="YELLO 'You Better Hide' (Extract of Touch Yello)" >}}<br>
 ### More Videos
 
-- [Meet My Angel](https://www.youtube.com/watch?v=b13C_Rhxu8M)
 - [YELLO 'You Better Hide' (Extract of Touch Yello)](https://www.youtube.com/watch?v=LZFKmePcasA)
-- [Yello - Bostich (DJ Hell 2018 Remix) - OFFICIAL VIDEO](https://www.youtube.com/watch?v=WdXvnRI8gJE)
+- [Meet My Angel](https://www.youtube.com/watch?v=b13C_Rhxu8M)
 - [Takla Makan (Martin Roth Remix)](https://www.youtube.com/watch?v=LT5ftB3lMw8)
 
 ## Release Images

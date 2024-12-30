@@ -12,8 +12,8 @@ cover:
     alt: "Total Madness by Madness"
     caption: "Total Madness by Madness"
 additional_images:
-    - "https://i.discogs.com/6h5WV_rqwmacuwARbPAVctMaPV9pLoh4kO7FJTlDL-o/rs:fit/g:sm/q:90/h:610/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk4NDg3/OTMtMTQ4Nzc4NTY5/Ny02NDQ4LmpwZWc.jpeg"
-    - "https://i.discogs.com/tqsJB-bWcp-KYSX7FiOb-ZyV7z1SuqULGVCfE5-Rw14/rs:fit/g:sm/q:90/h:602/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk4NDg3/OTMtMTQ4Nzc4NTcx/Ny0yOTE4LmpwZWc.jpeg"
+    - "https://i.discogs.com/jeT6S-8P7xhr6YdWPS96N0grSVPix9QEtGwRlm1loZM/rs:fit/g:sm/q:90/h:600/w:590/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk4NDg3/OTMtMTQ4Nzc4NTY5/Ny02NDQ4LmpwZWc.jpeg"
+    - "https://i.discogs.com/H4SC3x3KsQC_CtJZZ2kSRJTuoM8hhcoavwH3gbmzsck/rs:fit/g:sm/q:90/h:600/w:597/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk4NDg3/OTMtMTQ4Nzc4NTcx/Ny0yOTE4LmpwZWc.jpeg"
     - "https://i.discogs.com/4qejz7_UsF62boN7R5DRs8k6B9m-UUtAM8kSBNEuTLI/rs:fit/g:sm/q:90/h:448/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk4NDg3/OTMtMTQ4NzM1OTE4/My0xMDYzLmpwZWc.jpeg"
     - "https://i.discogs.com/zOLWuIIrxBx6sypp36nXxhsyn5Iv7hnaRD1yl_qc_v0/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk4NDg3/OTMtMTQ4Nzc4NTcz/OC05MDkyLmpwZWc.jpeg"
     - "https://i.discogs.com/KNnkHWg3wwOK8MFD_YPctEYebtkMANacAUwWmR2ymvo/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk4NDg3/OTMtMTQ4NzM1OTE4/Ni04NDg3LmpwZWc.jpeg"
@@ -23,6 +23,13 @@ genres: ["Rock", "Reggae", "Pop"]
 styles: ["Ska", "Reggae-Pop"]
 ---
 
+Total Madness is a 2009 compilation CD/DVD album by Madness, released by Union Square Music. It is principally a singles collection, though it also includes two album tracks from their debut album, One Step Beyond.... On release in the UK it reached #11 in the Official Album Charts, making it Madness' second hit album of 2009, the second being The Liberty of Norton Folgate (#5).
+Due to licensing problems, none of the four singles that Madness released on Zarjazz Records in 1985-86 are included.
+The album effectively supersedes the now deleted Divine Madness collection. Total Madness should not be confused with the earlier US-only Total Madness — The Very Best of Madness.
+
+
+    
+    
 
 
 ## Tracklisting
@@ -51,7 +58,7 @@ styles: ["Ska", "Reggae-Pop"]
 23. Night Boat To Cairo
 
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/total-madness/1208858748" >}}<br>
+{{< applemusic url="https://music.apple.com/gb/album/total-madness/1780335516" >}}<br>
 
 
 
@@ -62,6 +69,7 @@ styles: ["Ska", "Reggae-Pop"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
+| Wikipedia URL | https://en.wikipedia.org/wiki/Total_Madness |
 | Format         | Vinyl 2× LP Compilation Limited Edition Numbered Reissue Repress (Red, 180 Gram) |
 | Label          | Music On Vinyl |
 | Catalog Number | MOVLP629 |

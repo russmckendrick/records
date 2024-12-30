@@ -4,7 +4,6 @@ artist_name: "Steely Dan"
 artist: "steely-dan"
 album_name: "Aja"
 date: 2019-11-16T11:54:09.000000Z
-release_date: "1977-01-01"
 release_id: "2884821"
 slug: "aja-2884821"
 hideSummary: true
@@ -19,17 +18,17 @@ additional_images:
     - "https://i.discogs.com/pTm20PPWqjggS-UpRDrv0DbuGKKHyj9ta8dGGGa54KI/rs:fit/g:sm/q:90/h:583/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4ODQ4/MjEtMTQ4Njg5ODcz/OC0zNDY1LmpwZWc.jpeg"
     - "https://i.discogs.com/juAcYMA3-TSI2hQ0UqCSUP_cUhuRrV5b0-V5LGKgqxM/rs:fit/g:sm/q:90/h:593/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4ODQ4/MjEtMTQ4Njg5ODcz/OC0xOTg3LmpwZWc.jpeg"
     - "https://i.discogs.com/IfLw-20Qv_ecSzDjqSZk1MMiArJrA_IxPPVqhMynkyI/rs:fit/g:sm/q:90/h:589/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4ODQ4/MjEtMTQ4Njg5ODcz/Ny02ODI4LmpwZWc.jpeg"
-    - "https://i.discogs.com/XoMmUS7Hl0LowjTy_LCpdgJLlBZ0GP_a0PIqY4DJz98/rs:fit/g:sm/q:90/h:603/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4ODQ4/MjEtMTQ4Njg5ODcz/OC0yMjA0LmpwZWc.jpeg"
-    - "https://i.discogs.com/MS4gD9wn-ngn1YrsT9ZG6T44Po3rFimarEdCR1ABYtU/rs:fit/g:sm/q:90/h:609/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4ODQ4/MjEtMTYxODA2MjEz/MS01MTg1LmpwZWc.jpeg"
+    - "https://i.discogs.com/BLzzK_jMoheQPPAOqmmq4qNefvjIhDZRmyzvAnFLWY0/rs:fit/g:sm/q:90/h:600/w:596/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4ODQ4/MjEtMTQ4Njg5ODcz/OC0yMjA0LmpwZWc.jpeg"
+    - "https://i.discogs.com/lpIfqljyPq6Bo9x-fUOOHWtnQ5UH8LObhOFqyhQjZ4o/rs:fit/g:sm/q:90/h:600/w:590/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4ODQ4/MjEtMTYxODA2MjEz/MS01MTg1LmpwZWc.jpeg"
 genres: ["Jazz", "Rock", "Pop"]
 styles: ["Pop Rock", "Fusion"]
 ---
 
-Aja (, pronounced like Asia) is the sixth studio album by the American jazz rock band Steely Dan. It was released on September 23, 1977, by ABC Records. Recording alongside nearly 40 musicians, band leaders Donald Fagen and Walter Becker pushed Steely Dan further into experimenting with different combinations of session players while pursuing longer, more sophisticated compositions and arrangements for the album.
-The album peaked at number three on the US charts and number five in the UK, ultimately becoming Steely Dan's most commercially successful LP. It spawned a number of hit singles, including "Peg", "Deacon Blues", and "Josie". 
-In July 1978, Aja won the Grammy Award for Best Engineered Recording – Non-Classical and received Grammy nominations for Album of the Year and Best Pop Performance by a Duo or Group with Vocals. It has since appeared frequently on professional rankings of the greatest albums, with critics and audiophiles applauding the album's high production standards. In 2010, the Library of Congress selected the album for preservation in the National Recording Registry for being "culturally, historically, or artistically significant."
-        
-        
+Aja (, pronounced "Asia") is the sixth studio album by the American rock band Steely Dan, released on September 23, 1977, by ABC Records. For the album, band leaders Donald Fagen and Walter Becker pushed Steely Dan further into experimenting with different combinations of session players, enlisting the services of nearly 40 musicians, while pursuing longer, more sophisticated compositions and arrangements.
+The album peaked at number three on the Billboard Top LPs & Tape chart, and number five on the UK Albums Chart, ultimately becoming Steely Dan's most commercially successful release. It spawned the hit singles "Peg", "Deacon Blues", and "Josie". At the 20th Annual Grammy Awards, Aja won Best Engineered Recording – Non-Classical, and was nominated for Album of the Year and Best Pop Performance by a Duo or Group with Vocals. It has appeared on many retrospective "greatest albums" lists, with critics and audiophiles applauding the album's high production quality. In 2010, the album was added to the National Recording Registry by Library of Congress for being "culturally, historically, or aesthetically significant".
+
+
+    
     
 
 
@@ -43,7 +42,7 @@ In July 1978, Aja won the Grammy Award for Best Engineered Recording – Non-Cla
 7. Josie (4:30)
 
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/aja-remastered/1440938356" >}}<br>
+{{< applemusic url="https://music.apple.com/gb/album/citizen-steely-dan-1972-1980/1446019239" >}}<br>
 
 
 ## Videos

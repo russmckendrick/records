@@ -13,13 +13,13 @@ cover:
     caption: "Northern Soul All Nighter by Various"
 additional_images:
     - "https://i.discogs.com/o_BBfqlFapr6PQFhESH7ES_ZVS7FEF2hPnvIhi8cB5g/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg0NDUy/MTAtMTQ2MTc1ODgy/MS02NzY1LmpwZWc.jpeg"
-    - "https://i.discogs.com/igBFNa81FrIchCPC1YUacI2gealmve0XsXT3a65rb1M/rs:fit/g:sm/q:90/h:614/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg0NDUy/MTAtMTYxNzQ2MTI4/OC0xNTY2LmpwZWc.jpeg"
-    - "https://i.discogs.com/ZRnYtFz31mGj5IxjADF2gVotztpkNuaV_G-ov_pUmNc/rs:fit/g:sm/q:90/h:629/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg0NDUy/MTAtMTQ2MTc2Nzkx/MS04MTk5LmpwZWc.jpeg"
-    - "https://i.discogs.com/LrlLAag59yfmFLQk718bVrqCb8Rk0dJmgLk2OsRBeRs/rs:fit/g:sm/q:90/h:638/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg0NDUy/MTAtMTQ2MTc2Nzkz/MC02MDkxLmpwZWc.jpeg"
-    - "https://i.discogs.com/lpjFqalKsglSMW3OY4JuQ5SqwZZduZ_c0I5QYk_ZCgo/rs:fit/g:sm/q:90/h:608/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg0NDUy/MTAtMTQ2MTc2OTk3/NS01NTA0LmpwZWc.jpeg"
+    - "https://i.discogs.com/6X27tcamSNAJPdkc20M900rjL3h46MHHpH_1gpA8oUk/rs:fit/g:sm/q:90/h:600/w:586/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg0NDUy/MTAtMTYxNzQ2MTI4/OC0xNTY2LmpwZWc.jpeg"
+    - "https://i.discogs.com/my3G07O80lRveOMekwbmIjfSaWa3EJ7ksJ3zJeynh9E/rs:fit/g:sm/q:90/h:600/w:572/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg0NDUy/MTAtMTQ2MTc2Nzkx/MS04MTk5LmpwZWc.jpeg"
+    - "https://i.discogs.com/6raT_LwTRTGXO5OIE6KoFh8uD__gmzHzBviQ2kQ_AMI/rs:fit/g:sm/q:90/h:600/w:563/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg0NDUy/MTAtMTQ2MTc2Nzkz/MC02MDkxLmpwZWc.jpeg"
+    - "https://i.discogs.com/HyLaOHZ6a-e33kZjI2KAukTsIlqLfSQMwVKJRfBhLp4/rs:fit/g:sm/q:90/h:600/w:591/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg0NDUy/MTAtMTQ2MTc2OTk3/NS01NTA0LmpwZWc.jpeg"
     - "https://i.discogs.com/dQl4HDmwvl6PPh5AeBQzhZrNn9PJE8c9rTCMrA9yBxQ/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg0NDUy/MTAtMTQ2MTc3MDAx/Ny02NDAyLmpwZWc.jpeg"
     - "https://i.discogs.com/j5ov-QQCjwemu91Rju21Na_HDmJM1cIkTH53_F3pDus/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg0NDUy/MTAtMTYxNzQ2MTI4/OC02MDE5LmpwZWc.jpeg"
-    - "https://i.discogs.com/t6ax-PnIBzwg3lSsoeOWtlKK9DMtcfs5_3iBG9uFgD0/rs:fit/g:sm/q:90/h:602/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg0NDUy/MTAtMTYxNzQ2MTI4/OC0zOTY1LmpwZWc.jpeg"
+    - "https://i.discogs.com/NoL01LybFj5gCiX4vwEEnlalJvgkqdlhJYQOKOCQ2Y8/rs:fit/g:sm/q:90/h:600/w:597/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg0NDUy/MTAtMTYxNzQ2MTI4/OC0zOTY1LmpwZWc.jpeg"
 genres: ["Funk / Soul", "Blues", "Pop"]
 styles: ["Soul", "Rhythm & Blues"]
 ---
@@ -65,19 +65,34 @@ styles: ["Soul", "Rhythm & Blues"]
 36. Show And Tell (3:27)
 
 
-## Spotify
-{{< spotify type="album" id="6tT9kikyZYdYwfV08PhLVE" width="100%" height="500" >}}<br>
-
 
 ## Videos
-### Major Lance -  Delilah  (1963)
-{{< youtube id="yBCnH7gY7sQ" title="Major Lance -  Delilah  (1963)" >}}<br>
+### Al Wilson - The snake
+{{< youtube id="ULx9k2QkL94" title="Al Wilson - The snake" >}}<br>
 ### More Videos
 
+- [Sam Cooke. "Sugar dumpling"](https://www.youtube.com/watch?v=tIQL17pjAXo)
+- [The Tams - Disillusioned](https://www.youtube.com/watch?v=Q_5-inO-IBY)
+- [The Best Northern Soul All Nighter Ever! (FULL)](https://www.youtube.com/watch?v=GiBXsm99Fm8)
+- [Timi Yuro  Whats a matter baby](https://www.youtube.com/watch?v=9qjTQRscacs)
+- [Wilson Pickett - Let Me Be Your Boy  (1962)](https://www.youtube.com/watch?v=nXM1_xC5U8k)
+- [The 5 Royales - Catch That Teardrop](https://www.youtube.com/watch?v=3LwKQWpaNWg)
+- [Delacardos   I Just Want To Know](https://www.youtube.com/watch?v=ssiarNXvk7o)
+- [Everybody's Got A Dance But Me](https://www.youtube.com/watch?v=9PaT1V_uspE)
+- [Getting Ready For The Heartbreak by Chuck Jackson 1962](https://www.youtube.com/watch?v=IiKeI7XTCz0)
+- [Major Lance -  Delilah  (1963)](https://www.youtube.com/watch?v=yBCnH7gY7sQ)
+- [Sam Cooke. "Sugar dumpling"](https://www.youtube.com/watch?v=tIQL17pjAXo)
 - [Dee Dee Sharp - Comin' Home Baby](https://www.youtube.com/watch?v=j2FlVZuuN_o)
 - [Al Wilson - The snake](https://www.youtube.com/watch?v=ULx9k2QkL94)
-- [Sam Cooke. Sugar dumpling](https://www.youtube.com/watch?v=tIQL17pjAXo)
+- [Sam Cooke. "Sugar dumpling"](https://www.youtube.com/watch?v=tIQL17pjAXo)
 - [The Tams - Disillusioned](https://www.youtube.com/watch?v=Q_5-inO-IBY)
+- [The Best Northern Soul All Nighter Ever! (FULL)](https://www.youtube.com/watch?v=GiBXsm99Fm8)
+- [Timi Yuro  Whats a matter baby](https://www.youtube.com/watch?v=9qjTQRscacs)
+- [Wilson Pickett - Let Me Be Your Boy  (1962)](https://www.youtube.com/watch?v=nXM1_xC5U8k)
+- [The 5 Royales - Catch That Teardrop](https://www.youtube.com/watch?v=3LwKQWpaNWg)
+- [Delacardos   I Just Want To Know](https://www.youtube.com/watch?v=ssiarNXvk7o)
+- [Everybody's Got A Dance But Me](https://www.youtube.com/watch?v=9PaT1V_uspE)
+- [Getting Ready For The Heartbreak by Chuck Jackson 1962](https://www.youtube.com/watch?v=IiKeI7XTCz0)
 
 ## Release Images
 {{< imageGrid >}}

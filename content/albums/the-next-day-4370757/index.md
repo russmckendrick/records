@@ -13,28 +13,30 @@ cover:
     caption: "The Next Day by David Bowie"
 additional_images:
     - "https://i.discogs.com/T1sIJcfIRzr6K4FjrovP_X4IBdoYABxC8msYD_zry7U/rs:fit/g:sm/q:90/h:593/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQzNzA3/NTctMTM4NjgzOTc1/NC0yMzQ0LmpwZWc.jpeg"
-    - "https://i.discogs.com/Dg3-vosr-zBdQZziXpfuK_OBttvWuPzhTXFKonTDp4o/rs:fit/g:sm/q:90/h:300/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQzNzA3/NTctMTM2NTI2NDYz/NC03NDE4LmpwZWc.jpeg"
+    - "https://i.discogs.com/CU7Aoz4TZ_eNVomdRjRetDUlZNFbzeM9txN6MVqsfz0/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQzNzA3/NTctMTcxMzI3MTUw/Ny05NjczLmpwZWc.jpeg"
+    - "https://i.discogs.com/HO-P7IiZj2hYqLO1VcvrgnWTCMpM4qi3vBzQAVMaKk0/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQzNzA3/NTctMTcxMzI3MTUw/My0xNjYzLmpwZWc.jpeg"
     - "https://i.discogs.com/oedS7agWjXyRnGtTzO0ylIu8shtuMK0Ygspdyf7YpkE/rs:fit/g:sm/q:90/h:592/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQzNzA3/NTctMTM4Njg0MDY2/NC01MDg0LmpwZWc.jpeg"
-    - "https://i.discogs.com/DF8WFyrzTZYFgyl5w-ghrnxtoBgK8yuYoMrIzWZlriU/rs:fit/g:sm/q:90/h:185/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQzNzA3/NTctMTM4NjgzOTc4/Ny0xOTI4LmpwZWc.jpeg"
-    - "https://i.discogs.com/p19Rg4qBZzOwP9-8YA2ATlfEusQAZj80vyEqr4MKy2I/rs:fit/g:sm/q:90/h:294/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQzNzA3/NTctMTM4Njg0MDY1/OC01MjExLmpwZWc.jpeg"
     - "https://i.discogs.com/k56GZafYZTYwiEn-79Rjv57wgbOQqHjYUSv7_DlaXLE/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQzNzA3/NTctMTM4Njg0MzAw/MC0xMDEzLmpwZWc.jpeg"
     - "https://i.discogs.com/JmVtBZmLsiCAKStbPYETaJmjIDzIGquE_jmFAWhy6MA/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQzNzA3/NTctMTM4Njg0MzAw/Mi02ODA4LmpwZWc.jpeg"
     - "https://i.discogs.com/1OrC1xLPMk9OaJh5ueUrJs4nbaPNi4WBVX1DHp9gkPA/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQzNzA3/NTctMTM4Njg0MzAw/NC05MTkxLmpwZWc.jpeg"
     - "https://i.discogs.com/TBSrgjVch6lCvJB3DVvy-EX7Ey8xhITCLhHWwHhsCac/rs:fit/g:sm/q:90/h:600/w:570/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQzNzA3/NTctMTM4Njg0MzAw/Ny05NTg1LmpwZWc.jpeg"
-    - "https://i.discogs.com/dqrdMADK6C-_iqQUlsuNvlsJ49sZQUon2OrJyJTEHco/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQzNzA3/NTctMTM2NTI2NDY0/MS0yNjkyLmpwZWc.jpeg"
-    - "https://i.discogs.com/V0XHWcwC1Fd8UJPrUhGghP5zi7wduxDvRGdWgLqFitI/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQzNzA3/NTctMTM2NTI2NDY0/OS0xMDI2LmpwZWc.jpeg"
-    - "https://i.discogs.com/81IRcLYBE_OZLbMgwZYUNfXPS2Trmg5a6e08YmfBAMg/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQzNzA3/NTctMTM2NTI2NDY1/Ni03ODUzLmpwZWc.jpeg"
-    - "https://i.discogs.com/17Rwx-wd-5rIa9eRNNjdoZiBSjDrM9V_Lj3ieIdpTYg/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQzNzA3/NTctMTM2NTI2NDY2/Ni0yMzc3LmpwZWc.jpeg"
+    - "https://i.discogs.com/Cx3YVak4KEt7ZZ-CcBhtw-BQMCY8UBgUSPaOb1wIjW0/rs:fit/g:sm/q:90/h:593/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQzNzA3/NTctMTcxMzI3MTUw/NC01MTIwLmpwZWc.jpeg"
+    - "https://i.discogs.com/nTB6h7YDVh265u7bAnWSoUa7j-Lk5fdrSsIfEEtHKXA/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQzNzA3/NTctMTcxMzI3MTUw/Ny00NjQ1LmpwZWc.jpeg"
+    - "https://i.discogs.com/lD5hU45Fw6E62JchTTztmrsumoYJntQAMpwgQCFNG2M/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQzNzA3/NTctMTcxMzI3MTUw/NC0zODk4LmpwZWc.jpeg"
+    - "https://i.discogs.com/MFEwIzJBM_JDmowle7-MTAhe8N1BK7EIErkr37lQju8/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQzNzA3/NTctMTcxMzI3MTUw/My0xMDIzLmpwZWc.jpeg"
     - "https://i.discogs.com/Rcl5VNkaDNIo1O4UvGf_uGsG8mDotixlFaoU4W0PHn8/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQzNzA3/NTctMTY0MDk1MDMy/Ny03NTkyLmpwZWc.jpeg"
     - "https://i.discogs.com/SWj1I4YRJ43gWsFvEV42xzF63QnfzMeqqgzUsgQaqOk/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQzNzA3/NTctMTM2NTA3MzUx/NS00NDExLmpwZWc.jpeg"
+    - "https://i.discogs.com/DF8WFyrzTZYFgyl5w-ghrnxtoBgK8yuYoMrIzWZlriU/rs:fit/g:sm/q:90/h:185/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQzNzA3/NTctMTM4NjgzOTc4/Ny0xOTI4LmpwZWc.jpeg"
 genres: ["Rock", "Pop"]
 styles: ["Art Rock", "Pop Rock", "Avantgarde"]
 ---
 
-The Next Day is the 25th studio album by the English musician David Bowie, released in March 2013. Having retreated from public view after undergoing surgery for a blocked artery in 2004, it was his first studio release in ten years. Co-produced by Bowie and Tony Visconti, the album was recorded in New York City between May 2011 and October 2012. It featured contributions from session musicians, some of whom he had worked with in the past, including Gerry Leonard, Earl Slick, Gail Ann Dorsey, Steve Elson, Sterling Campbell and Zachary Alford. Recording took place in secret; all personnel involved signed non-disclosure agreements.
+The Next Day is the twenty-fifth studio album by the English musician David Bowie. Released in March 2013, it was Bowie's first studio release in ten years, as he had retreated from public view after undergoing a procedure to treat a blocked heart artery in 2004. Co-produced by Bowie and Tony Visconti, the album was recorded in New York City between May 2011 and October 2012. It featured contributions from session musicians, some of whom he had worked with in the past, including Gerry Leonard, Earl Slick, Gail Ann Dorsey, Steve Elson, Sterling Campbell and Zachary Alford. Recording took place in secret; all personnel involved signed non-disclosure agreements.
 Primarily an art rock album, The Next Day references Bowie's earlier glam and funk releases. The generally bleak lyrics draw from his reading of English and Russian history and examine themes of tyranny and violence. The cover art is an adapted version of Bowie's 1977 album "Heroes" by designer Jonathan Barnbrook, who placed a white square with the album's title over Bowie's face and crossed out the "Heroes" title. The album was released through ISO Records in association with Columbia Records.
-The lead single "Where Are We Now?" and announcement of the album were posted online on 8 January 2013, Bowie's 66th birthday, surprising fans and media who had assumed he had retired from music. Preceded by a viral marketing campaign, The Next Day topped charts worldwide and debuted at number one and two on the UK Albums Chart and US Billboard 200, respectively. It was Bowie's first UK number-one album since 1993 and his highest-charting US album since 1976. Several singles with accompanying music videos were released throughout 2013. Outtakes and remixes appeared on The Next Day Extra, released in November.
-The Next Day was praised by critics as Bowie's best work in decades; it placed on several year-end lists. Many reviewers highlighted the vocal and musical performances, and made positive comparisons to his earlier works, though some felt the album lacked innovation and was overlong. Among the first surprise albums of the 2010s, The Next Day was included in the 2014 revised edition of the book 1001 Albums You Must Hear Before You Die.
+The lead single "Where Are We Now?" and announcement of the album were posted online on 8 January 2013, Bowie's 66th birthday, surprising fans and media who had assumed he had retired from music. Preceded by a viral marketing campaign, The Next Day topped charts worldwide and debuted at number one and two on the UK Albums Chart and US Billboard 200, respectively. It was Bowie's first UK number-one album since 1993 and his highest-charting US album to that date. Several singles with accompanying music videos were released throughout 2013. Outtakes and remixes appeared on The Next Day Extra, released in November.
+The Next Day was praised by critics as Bowie's best work in decades; it was ranked amongst the best albums of 2013 by several publications. Many reviewers highlighted the vocal and musical performances, and made positive comparisons to his earlier works, though some felt the album lacked innovation and was overlong. Among the first surprise albums of the 2010s, The Next Day was included in the 2014 revised edition of the book 1001 Albums You Must Hear Before You Die.
+
+
     
     
 
@@ -79,7 +81,12 @@ The Next Day was praised by critics as Bowie's best work in decades; it placed o
 {{< applemusic url="https://music.apple.com/gb/album/the-next-day/1676277418" >}}<br>
 
 
+## Videos
+### David Bowie - The Stars (Are Out Tonight) (Video)
+{{< youtube id="gH7dMBcg-gE" title="David Bowie - The Stars (Are Out Tonight) (Video)" >}}<br>
+### More Videos
 
+- [David Bowie - The Next Day (Explicit)](https://www.youtube.com/watch?v=7wL9NUZRZ4I)
 
 ## Release Images
 {{< imageGrid >}}

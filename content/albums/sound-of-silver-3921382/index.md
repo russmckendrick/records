@@ -25,7 +25,11 @@ genres: ["Electronic", "Rock"]
 styles: ["Leftfield", "Alternative Rock", "Electro", "Disco"]
 ---
 
-Sound of Silver is the second studio album by American rock band LCD Soundsystem. The album was released jointly through DFA and Capitol Records in the United States and EMI elsewhere, first on March 12, 2007, in the United Kingdom. Sound of Silver was produced by the DFA and recorded during 2006 at Long View Farm in North Brookfield, Massachusetts and DFA Studios in New York, New York.  Upon release, Sound of Silver received acclaim from music critics, and it was later nominated for the Grammy Award for Best Electronic/Dance Album at the 50th Annual Grammy Awards.  The group's later released EP, entitled A Bunch of Stuff, was composed entirely of songs from this album.
+Halfway through the recording of his second album as LCD Soundsystem, James Murphy was, in his words, “suicidal”. Toiling alone in the same rural Massachusetts studio where he’d recorded LCD’s 2005 debut, Murphy covered the studio walls with silver fabric and aluminum foil. But it wasn’t able to block out his self-doubt: LCD may have made the thirty-something Murphy the unlikely figurehead of the early-2000s NYC dance-punk movement, but before that, he’d spent a decade trying to build a music career—and failing.
+
+His solution came from an unlikely place: A commission from Nike to compose a single 45-minute piece of music for its <i>Original Run</i> series with iTunes. The fact that Murphy clearly wasn’t much of a runner didn’t play into the brand calculus. Nor did the fact that the resulting 45-minute, 33-second track—named “45:33”—was an overt nod to experimental icons like John Cage and Manuel Göttsching. Both were the kind of artists Murphy might have name-checked a few years earlier on his breakthrough debut single, “Losing My Edge”. But in creating a work that he felt could stand alongside these two underground heroes, Murphy seemed to cast off the meta-narrative of the uncool cool guy that had served as his calling card during LCD’s rise.
+
+Murphy’s Nike project would play a major role in LCD Soundsystem’s 2007 breakthrough, <i>Sound of Silver</i> (for starters, one of the album's highlights, “Someone Great”, began life as an instrumental segment of “45:33”). The album retains Murphy’s real-life-specific songwriting, and found him starting to move away from the wry self-referencing of the same New York scene the birthed LCD. “North American Scum” whisks its protagonist to Europe “where they go all night”. And the album's apex, “All My Friends”, finds Murphy admitting that he'd spent “the first five years trying to get with the plan”—and that he was now caught up in a professionalised party lifestyle—one in which the only things missing were actual friends.
         
         
     
@@ -51,8 +55,10 @@ Sound of Silver is the second studio album by American rock band LCD Soundsystem
 {{< youtube id="gJ2np7R-Uwg" title="LCD Soundsystem - North American Scum (Official Video)" >}}<br>
 ### More Videos
 
-- [Get Innocuous!](https://www.youtube.com/watch?v=0GpLkFv-CKU)
+- [LCD Soundsystem - Someone Great (Official Video)](https://www.youtube.com/watch?v=qwoLACv_srQ)
+- [LCD Soundsystem - All My Friends (Official Video)](https://www.youtube.com/watch?v=aygY5OqMuKE)
 - [LCD Soundsystem - Get Innocuous (HD)](https://www.youtube.com/watch?v=Ve9Y-dl40sQ)
+- [Get Innocuous!](https://www.youtube.com/watch?v=0GpLkFv-CKU)
 - [Time to Get Away](https://www.youtube.com/watch?v=K1SKj0jV-6M)
 - [North American Scum](https://www.youtube.com/watch?v=bu0_YRgZrEQ)
 - [Someone Great](https://www.youtube.com/watch?v=eISo-iFGGDg)

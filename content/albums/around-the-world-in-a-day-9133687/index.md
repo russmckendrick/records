@@ -13,7 +13,7 @@ cover:
     alt: "Around The World In A Day by Prince And The Revolution"
     caption: "Around The World In A Day by Prince And The Revolution"
 additional_images:
-    - "https://i.discogs.com/Ej8VwJ9e6MncgwxJvMBNSqCiDOc_FIJVoyNQjjLcj1Y/rs:fit/g:sm/q:90/h:601/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkxMzM2/ODctMTQ4NjUxMjg3/NS0xMDMzLmpwZWc.jpeg"
+    - "https://i.discogs.com/T74PhVSwzR7gRIcIkBgZlKzUnVU0txBBn3Oa2_M9wBc/rs:fit/g:sm/q:90/h:600/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkxMzM2/ODctMTQ4NjUxMjg3/NS0xMDMzLmpwZWc.jpeg"
     - "https://i.discogs.com/Jqv9S87NboltXpfiv9Yq5BjyYnZox_OxmqaClyV20Ms/rs:fit/g:sm/q:90/h:593/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkxMzM2/ODctMTQ4NjUxMjg3/MC0yMjExLmpwZWc.jpeg"
     - "https://i.discogs.com/RADQbe3Yh2iI-oyp_8cAN0zXhqf7lJjl7xmi8WDlqK0/rs:fit/g:sm/q:90/h:594/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkxMzM2/ODctMTQ3NTM1MTI5/OC00MzA0LmpwZWc.jpeg"
     - "https://i.discogs.com/bxrcNhyNlZ-gIsTQI3zJVkIgAXzyOUY0jernPEamhFw/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkxMzM2/ODctMTQ3NTM1MTI5/OC05MTQ1LmpwZWc.jpeg"
@@ -26,9 +26,11 @@ genres: ["Rock", "Funk / Soul", "Pop"]
 styles: ["Pop Rock", "Dance-pop", "Funk"]
 ---
 
-Around the World in a Day is the seventh studio album by American recording artist Prince, and the second release where his backing band The Revolution is billed. It was released on April 22, 1985, by Paisley Park Records and Warner Bros. Records. Departing somewhat from the commercial sound of his previous release, the massively successful Purple Rain (1984), the album instead saw Prince experimenting with psychedelic styles and more opulent textures. In compliance with Prince's wishes, the record company released the album with minimal publicity, withholding accompanying singles until almost a month after the album's release.Around the World in a Day was released to notably mixed reception among crossover audiences after the success of Purple Rain, though it nonetheless sold relatively well and became Prince and the Revolution's second number-one album on the Billboard 200. Two of its four singles reached the top 10 of the Billboard Hot 100: "Raspberry Beret" and "Pop Life". Following Prince's death, "Raspberry Beret" re-charted on the Billboard Hot 100 as a top 40 hit, reaching number 33. Around the World in a Day was certified double platinum by the Recording Industry Association of America (RIAA) on July 2, 1985.
+After the smash success of 1984’s <i>Purple Rain</i>—both the movie and the soundtrack—Prince was more than just music royalty; baby, he was a <i>star</i>. And just two weeks after wrapping his Purple Rain Tour in the spring of 1985, His Royal Badness dropped his seventh studio album, <i>Around the World in a Day</i>, which he’d begun working on before <i>Purple Rain</i>’s release (to put that in context, Michael Jackson—Prince’s challenger to the King of Pop throne at the time—would take five years between <i>Thriller</i> and <i>Bad</i>). But <i>Around the World in a Day</i> was hardly a <i>Purple Rain</i> sequel. Instead, it boldly defied commercial convention and expectation—to the point that Prince refused to release a single or video from the album before its release.
 
+A psychedelic adventure that takes you on a journey through your own mind, <i>Around the World</i> makes its <i>Purple</i>-less purpose clear from the opening title track: “Open your heart, open your mind/A train is leaving all day/A wonderful trip through our time/And laughter is all you pay,” sings Prince, amid the Middle Eastern strains of darbuka, oud and finger cymbals. Meanwhile, the Beatles-esque dreaminess of “Paisley Park”—the name of Prince’s new label, and soon, his massive Minneapolis complex—was worlds away from the First Avenue club of <i>Purple Rain</i>.
 
+But sex (“Tamborine”), politics (“America”) and religion (“The Ladder”, “Temptation”) were still in Prince’s mercurial mix. And despite all of the album’s concerted anti-commercialism, the Purple One’s answer to <i>Sgt. Pepper’s Lonely Hearts Club Band</i> would still manage to top the charts, thanks to a pair of singles—“Raspberry Beret” and “Pop Life”—that were heard around the world for days (and years) on end.
         
         
     
@@ -50,11 +52,18 @@ Around the World in a Day is the seventh studio album by American recording arti
 
 
 ## Videos
-### Prince & The Revolution - Paisley Park (Official Music Video)
-{{< youtube id="1mhL5ynXzB0" title="Prince & The Revolution - Paisley Park (Official Music Video)" >}}<br>
+### Around the World in a Day
+{{< youtube id="4PCKYe4g4X8" title="Around the World in a Day" >}}<br>
 ### More Videos
 
-- [Prince & The Revolution - Raspberry Beret (Official Music Video)](https://www.youtube.com/watch?v=l7vRSu_wsNc)
+- [Paisley Park](https://www.youtube.com/watch?v=d7dzR8VwtC4)
+- [Condition of the Heart](https://www.youtube.com/watch?v=pp0L9ZC74Jk)
+- [Raspberry Beret](https://www.youtube.com/watch?v=_Cyq3OYdGYo)
+- [Tamborine](https://www.youtube.com/watch?v=ebVZ7Lkc7NA)
+- [America](https://www.youtube.com/watch?v=PYOFDO7DKQA)
+- [Pop Life](https://www.youtube.com/watch?v=56Hvoqgdlfk)
+- [The Ladder](https://www.youtube.com/watch?v=XzO9jGPtrhc)
+- [Temptation](https://www.youtube.com/watch?v=K3DJWlxj0OY)
 
 ## Release Images
 {{< imageGrid >}}

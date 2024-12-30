@@ -15,7 +15,7 @@ additional_images:
     - "https://i.discogs.com/x0qWREP0hClqjPNhn0zwn5nadeAeub3LIJIjqXm4WrM/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNTA0/NjgzLTE0OTkxNTUw/MDEtODU2My5qcGVn.jpeg"
     - "https://i.discogs.com/UeX5WogzS0iFY9P3v8ZiqwRO0oPe0MP2CGgEpHQGrDY/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNTA0/NjgzLTE0OTkxNTUw/MDEtMTQxOS5qcGVn.jpeg"
     - "https://i.discogs.com/1aJzkgUnQkPyRZdOnzUIzn3SukqM4HUh3U6825czKnI/rs:fit/g:sm/q:90/h:582/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNTA0/NjgzLTE1NTM0MzI3/MDQtMjE2NS5qcGVn.jpeg"
-    - "https://i.discogs.com/0Y5LLS5haxM1NVPEr6rxOZ_p1pOPsGZVwFKn5Gzh94E/rs:fit/g:sm/q:90/h:605/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNTA0/NjgzLTE1NTM0MzI3/MDctMjA4OS5qcGVn.jpeg"
+    - "https://i.discogs.com/E_1PIw-A06J60HEBRaYJutqUft2x4x7xeYWe01jwE1k/rs:fit/g:sm/q:90/h:600/w:594/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNTA0/NjgzLTE1NTM0MzI3/MDctMjA4OS5qcGVn.jpeg"
     - "https://i.discogs.com/7rNqfdVHNrsFxHxMHyhM3FVIs7nqaAoVq6RYTXntwdc/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNTA0/NjgzLTE0OTkxNTUw/MDEtMTg3Ni5qcGVn.jpeg"
     - "https://i.discogs.com/AVbKvVQe122OfEhYO9A5E8LvTogvY2U1yo1MQPWG6d0/rs:fit/g:sm/q:90/h:420/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNTA0/NjgzLTE1MDE4NDA1/ODYtODQyOC5qcGVn.jpeg"
     - "https://i.discogs.com/IQ235gUN_k3hbgLhqrs3xMFv-rT14nfNHQqJFBS1s2U/rs:fit/g:sm/q:90/h:213/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNTA0/NjgzLTE1NTM0MzI3/NDQtNjYwMy5qcGVn.jpeg"
@@ -27,13 +27,13 @@ styles: ["Psychedelic Rock", "Prog Rock", "Folk Rock"]
 
 
 ## Tracklisting
-1. Mountain Heart (6:06)
-2. Black Slug (5:04)
-3. Movements In The Sky (3:34)
-4. Answers In Your Soul (3:57)
-5. Is Satan Real? (4:19)
-6. Watch It Grow (4:01)
-7. Evil In Your Eye (11:14)
+1. Mountain Heart
+2. Black Slug
+3. Movements In The Sky
+4. Answers In Your Soul
+5. Is Satan Real?
+6. Watch It Grow
+7. Evil In Your Eye
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/is-satan-real/1146826298" >}}<br>
@@ -57,8 +57,8 @@ styles: ["Psychedelic Rock", "Prog Rock", "Folk Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl LP Album Repress (Clear vinyl) |
+| Format         | Vinyl LP Album Limited Edition Reissue (Alternative Artwork, Clear) |
 | Label          | Bilocation Records |
 | Catalog Number | BILOCATION 44 |
-| Notes | Second pressing with different cover artwork. Limited to 500 copies on 180gr. CLEAR VINYL.  |
+| Notes | Second pressing with different cover artwork.  Limited to 500 copies on 180gr. clear vinyl. |
 | Discogs URL    | [Church Of The Cosmic Skull - Is Satan Real?](https://www.discogs.com/release/10504683-Church-Of-The-Cosmic-Skull-Is-Satan-Real) |

@@ -53,12 +53,15 @@ A far cry from their punky beginnings, Death in Vegas' <i>Transmission</i> embra
 
 
 ## Videos
-### DEATH IN VEGAS  -   YOU DISCO I FREAK
-{{< youtube id="B-nlvSKFLs8" title="DEATH IN VEGAS  -   YOU DISCO I FREAK" >}}<br>
+### DEATH IN VEGAS - CONSEQUENCES OF LOVE
+{{< youtube id="X4cdF4H0_dY" title="DEATH IN VEGAS - CONSEQUENCES OF LOVE" >}}<br>
 ### More Videos
 
-- [Death In Vegas - Metal Box](https://www.youtube.com/watch?v=HlFn0_2AmZU)
+- [DEATH IN VEGAS  -   YOU DISCO I FREAK](https://www.youtube.com/watch?v=B-nlvSKFLs8)
 - [DEATH IN VEGAS - CONSEQUENCES OF LOVE](https://www.youtube.com/watch?v=X4cdF4H0_dY)
+- [DEATH IN VEGAS  -   YOU DISCO I FREAK](https://www.youtube.com/watch?v=B-nlvSKFLs8)
+- [DEATH IN VEGAS  -   YOU DISCO I FREAK](https://www.youtube.com/watch?v=B-nlvSKFLs8)
+- [Death In Vegas - Metal Box](https://www.youtube.com/watch?v=HlFn0_2AmZU)
 - [Death In Vegas - Transmission - 2016](https://www.youtube.com/watch?v=haWYnLWl2zw)
 - [Death In Vegas - Arise - 2016](https://www.youtube.com/watch?v=rPmHbb96t28)
 - [Death in Vegas - Transwave](https://www.youtube.com/watch?v=g-4vdO6FuX4)

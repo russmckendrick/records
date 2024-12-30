@@ -12,12 +12,12 @@ cover:
     alt: "Halt And Catch Fire (Original Television Series Soundtrack Volume 2) by Paul Haslinger"
     caption: "Halt And Catch Fire (Original Television Series Soundtrack Volume 2) by Paul Haslinger"
 additional_images:
-    - "https://i.discogs.com/mG2myH6IR1SGfFBwE31Tf-O7HLT7QCfqCtE4Trlq1lI/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNDkz/OTM5LTE1NTYwNDgy/OTUtMjMxOC5qcGVn.jpeg"
-    - "https://i.discogs.com/qUkaKBIMq9my_rrRkWpMRTVIV16NA8y_R2NIqbx5rV4/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNDkz/OTM5LTE1NTYwNDgz/MDktNTg0My5qcGVn.jpeg"
-    - "https://i.discogs.com/aQ69jNbwep8ithPyN4GZSRvquQPhIJ5jcA-vmgjFV8I/rs:fit/g:sm/q:90/h:630/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNDkz/OTM5LTE1NTYwNDgz/MDctNDg1OS5qcGVn.jpeg"
+    - "https://i.discogs.com/VLvA1bjKZEl50cwkHvaHLlZeRfQ4UbZSnrFFjYq4qNc/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNDkz/OTM5LTE3MzIzNzA5/MzctNjM2OC5qcGVn.jpeg"
+    - "https://i.discogs.com/jwtscwRzEkfOKT13mkKWfkLgoJiF7PHsqCZCzZgQm3A/rs:fit/g:sm/q:90/h:600/w:597/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNDkz/OTM5LTE3MzIzNzA5/MzctODU1Mi5qcGVn.jpeg"
+    - "https://i.discogs.com/DE6VT35yvesvE5U5FPzqLv64OS-rfruJWSaH7K5SH2M/rs:fit/g:sm/q:90/h:600/w:570/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNDkz/OTM5LTE1NTYwNDgz/MDctNDg1OS5qcGVn.jpeg"
     - "https://i.discogs.com/7zy3yrVBva-nRTs19LiXX_GYMYQuBmvGtIekYPfWKKI/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNDkz/OTM5LTE1NTYwNDgy/OTUtMTk2NC5qcGVn.jpeg"
     - "https://i.discogs.com/nug0UH4PAS8zsZlb-EOC4OtJCRuuaVBrKTZrkYUra80/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNDkz/OTM5LTE1NTYwNDgz/MTAtOTg5NS5qcGVn.jpeg"
-    - "https://i.discogs.com/ddRvbp045pCJnPP215hnCKd-dXpggQtPFpHvWT6ovc0/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNDkz/OTM5LTE1NTYwNDgz/MDctMTI1MC5qcGVn.jpeg"
+    - "https://i.discogs.com/lLhvrs8Q8G9Sa-sDK8OUIfFEce-AC5y-4hVdujB9eoo/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNDkz/OTM5LTE1NTYwNDgz/MDctMTI1MC5qcGVn.jpeg"
     - "https://i.discogs.com/9mEgF08hzY-ScW3efe7kBLuwJE8RoMy7KEMqSNZ-4z4/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNDkz/OTM5LTE1NTYwNDgz/MDMtNzU4OS5qcGVn.jpeg"
     - "https://i.discogs.com/bgPc4rkVROI9uHAXpPK3Nf8vH8RBlVoninPeWqGrSSA/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNDkz/OTM5LTE1NTYwNDgz/MDAtNzQ3Ny5qcGVn.jpeg"
     - "https://i.discogs.com/_xYoehWGvt8Cvl5yP5yRhu6agkNvFMx0vsO0aLmWfvc/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNDkz/OTM5LTE1NTYwNDgz/MDYtMTk1MC5qcGVn.jpeg"
@@ -46,7 +46,7 @@ styles: ["Soundtrack", "Ambient", "Berlin-School"]
 14. I Have An Idea
 
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/halt-and-catch-fire-vol-2-original-television-series/1446955010" >}}<br>
+{{< applemusic url="https://music.apple.com/gb/album/halt-and-catch-fire-original-television-series-soundtrack/1141609067" >}}<br>
 
 
 ## Videos
@@ -55,16 +55,42 @@ styles: ["Soundtrack", "Ambient", "Berlin-School"]
 ### More Videos
 
 - [Cameron's Motorcycle Diaries](https://www.youtube.com/watch?v=IZmrDJsW1wM)
+- [Cameron's Motorcycle Diaries](https://www.youtube.com/watch?v=IZmrDJsW1wM)
+- [Venture Capital](https://www.youtube.com/watch?v=bGR9OpkXBjs)
 - [Venture Capital](https://www.youtube.com/watch?v=bGR9OpkXBjs)
 - [Impossible to Love](https://www.youtube.com/watch?v=Pon8Nobg0XI)
+- [Why I Finally Told Him](https://www.youtube.com/watch?v=4tpHz0bE4BE)
 - [Why I Finally Told Him](https://www.youtube.com/watch?v=4tpHz0bE4BE)
 - [The Connection](https://www.youtube.com/watch?v=gyGl8Cv_lJU)
 - [Into the River](https://www.youtube.com/watch?v=DzgWSDgFoxo)
 - [Life Interrupted](https://www.youtube.com/watch?v=Jpe9ed2ncIQ)
 - [Empty Rooms](https://www.youtube.com/watch?v=FggGkHUZ_y0)
 - [Off to Seattle](https://www.youtube.com/watch?v=F_8A2v_Wiw4)
+- [Into the River](https://www.youtube.com/watch?v=DzgWSDgFoxo)
 - [Phoenix](https://www.youtube.com/watch?v=mA-hxWFHZlE)
 - [Dreamers and Misfits](https://www.youtube.com/watch?v=OazSh-udpRQ)
+- [Dreamers and Misfits](https://www.youtube.com/watch?v=OazSh-udpRQ)
+- [It Worked for Awhile / Cam and Joe](https://www.youtube.com/watch?v=a8PzypIzDrA)
+- [It Worked for Awhile / Cam and Joe](https://www.youtube.com/watch?v=a8PzypIzDrA)
+- [I Have an Idea](https://www.youtube.com/watch?v=uRrGFikI8iU)
+- [Mosaic](https://www.youtube.com/watch?v=fi4_G2nB_-s)
+- [Cameron's Motorcycle Diaries](https://www.youtube.com/watch?v=IZmrDJsW1wM)
+- [Cameron's Motorcycle Diaries](https://www.youtube.com/watch?v=IZmrDJsW1wM)
+- [Venture Capital](https://www.youtube.com/watch?v=bGR9OpkXBjs)
+- [Venture Capital](https://www.youtube.com/watch?v=bGR9OpkXBjs)
+- [Impossible to Love](https://www.youtube.com/watch?v=Pon8Nobg0XI)
+- [Why I Finally Told Him](https://www.youtube.com/watch?v=4tpHz0bE4BE)
+- [Why I Finally Told Him](https://www.youtube.com/watch?v=4tpHz0bE4BE)
+- [The Connection](https://www.youtube.com/watch?v=gyGl8Cv_lJU)
+- [Into the River](https://www.youtube.com/watch?v=DzgWSDgFoxo)
+- [Life Interrupted](https://www.youtube.com/watch?v=Jpe9ed2ncIQ)
+- [Empty Rooms](https://www.youtube.com/watch?v=FggGkHUZ_y0)
+- [Off to Seattle](https://www.youtube.com/watch?v=F_8A2v_Wiw4)
+- [Into the River](https://www.youtube.com/watch?v=DzgWSDgFoxo)
+- [Phoenix](https://www.youtube.com/watch?v=mA-hxWFHZlE)
+- [Dreamers and Misfits](https://www.youtube.com/watch?v=OazSh-udpRQ)
+- [Dreamers and Misfits](https://www.youtube.com/watch?v=OazSh-udpRQ)
+- [It Worked for Awhile / Cam and Joe](https://www.youtube.com/watch?v=a8PzypIzDrA)
 - [It Worked for Awhile / Cam and Joe](https://www.youtube.com/watch?v=a8PzypIzDrA)
 - [I Have an Idea](https://www.youtube.com/watch?v=uRrGFikI8iU)
 

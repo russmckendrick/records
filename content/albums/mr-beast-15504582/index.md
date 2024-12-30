@@ -17,6 +17,7 @@ additional_images:
     - "https://i.discogs.com/9wgrNhtMlNsPO69aamWfKeU04t2jkvkywPE523KyQeE/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NTA0/NTgyLTE1OTI2NDk4/NTktMjg2MC5qcGVn.jpeg"
     - "https://i.discogs.com/kU0FCltLpXuC5EgsUQB7LL58rfyPUxbcFurODTNW8ik/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NTA0/NTgyLTE1OTI3NTAz/MzItMTgyOS5qcGVn.jpeg"
     - "https://i.discogs.com/gmgFlS810JcdNoUfiKfav5ervPGudMVGLpUsQQovaD8/rs:fit/g:sm/q:90/h:450/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NTA0/NTgyLTE1OTI3NTAz/MzItMTg3OC5qcGVn.jpeg"
+    - "https://i.discogs.com/NhQcHHW6VGPN4k7BvHTrf0T_IY-cQ-2zrjkpIWFJVas/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NTA0/NTgyLTE2ODgzMTU2/NTctNjAxMy5qcGVn.jpeg"
 genres: ["Electronic", "Rock"]
 styles: ["Art Rock", "Post Rock"]
 ---
@@ -40,12 +41,12 @@ styles: ["Art Rock", "Post Rock"]
 
 
 ## Videos
-### Mogwai Auto Rock @ Les Nuits De Fourvière 2014
-{{< youtube id="5uyznyJQFI0" title="Mogwai Auto Rock @ Les Nuits De Fourvière 2014" >}}<br>
+### Mogwai - Travel Is Dangerous (Official Video - 2006)
+{{< youtube id="BqXv_7j3Ryc" title="Mogwai - Travel Is Dangerous (Official Video - 2006)" >}}<br>
 ### More Videos
 
-- [Mogwai - Travel Is Dangerous (Official Video - 2006)](https://www.youtube.com/watch?v=BqXv_7j3Ryc)
-- [Mogwai - Friend of the Night](https://www.youtube.com/watch?v=yC_3alnTE9g)
+- [Mogwai - "Friend of the Night"](https://www.youtube.com/watch?v=yC_3alnTE9g)
+- [Mogwai Auto Rock @ Les Nuits De Fourvière 2014](https://www.youtube.com/watch?v=5uyznyJQFI0)
 
 ## Release Images
 {{< imageGrid >}}

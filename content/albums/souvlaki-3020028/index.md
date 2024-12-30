@@ -22,8 +22,10 @@ genres: ["Rock"]
 styles: ["Indie Rock", "Shoegaze", "Dream Pop"]
 ---
 
-Souvlaki is the second studio album by English rock band Slowdive. It was recorded in 1992, and released on 1 June 1993 by Creation Records.
+Souvlaki is the second studio album by the English rock band Slowdive. It was recorded in 1992, and released on 1 June 1993 by Creation Records.
 On its initial release, Souvlaki peaked at number 51 on the UK Albums Chart and was greeted with tepid reviews from critics. It has since received retrospective critical acclaim and has been hailed as a classic of the shoegaze genre.
+
+
     
     
 
@@ -53,7 +55,16 @@ On its initial release, Souvlaki peaked at number 51 on the UK Albums Chart and 
 - [40 Days](https://www.youtube.com/watch?v=e2p4Zb3u0jI)
 - [Sing](https://www.youtube.com/watch?v=Ek_ttFy6q0s)
 - [Here She Comes](https://www.youtube.com/watch?v=ijEBnd0D3WQ)
-- [Slowdive - When the Sun Hits (Audio)](https://www.youtube.com/watch?v=MKYY0IlTMw4)
+- [Slowdive - Souvlaki Space Station (Official Audio)](https://www.youtube.com/watch?v=WPApiFhKFsg)
+- [Altogether](https://www.youtube.com/watch?v=DDpoO3ZiNuM)
+- [Melon Yellow](https://www.youtube.com/watch?v=FXJlvlg0B0Q)
+- [Dagger](https://www.youtube.com/watch?v=GbngixAJoec)
+- [Slowdive - Alison (Video)](https://www.youtube.com/watch?v=jkM3M3zGcGE)
+- [Machine Gun](https://www.youtube.com/watch?v=HF1k1m6eYV0)
+- [40 Days](https://www.youtube.com/watch?v=e2p4Zb3u0jI)
+- [Sing](https://www.youtube.com/watch?v=Ek_ttFy6q0s)
+- [Here She Comes](https://www.youtube.com/watch?v=ijEBnd0D3WQ)
+- [Slowdive - Souvlaki Space Station (Official Audio)](https://www.youtube.com/watch?v=WPApiFhKFsg)
 - [Altogether](https://www.youtube.com/watch?v=DDpoO3ZiNuM)
 - [Melon Yellow](https://www.youtube.com/watch?v=FXJlvlg0B0Q)
 - [Dagger](https://www.youtube.com/watch?v=GbngixAJoec)
@@ -65,8 +76,8 @@ On its initial release, Souvlaki peaked at number 51 on the UK Albums Chart and 
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Souvlaki_(album) |
-| Format         | Vinyl LP Album Reissue (180 Gram) |
+| Format         | Vinyl LP Album Reissue (180g) |
 | Label          | Music On Vinyl |
 | Catalog Number | MOVLP202 |
-| Notes | Recorded at: Protocol Studios, London A1, A3, A4, A5 & B5 Courtyard Studio, Sutton Courtenay A2, B1 & B3 The White House Studio, Western Super Mare B2 & B4  Published by EMI Music Publishing Ltd. except A4 by EMI Music Publishing Ltd./ Opal Music  Originally released 1993  180 gram audiophile pressing.  Pressed By information is not listed. Information derived from runouts.  Ed Buller incorrectly credited as 'Ed Butler' on insert. |
+| Notes | Originally released ℗ & © 1993 Creation Records Limited This release ℗ & © 2011 Sony Music Entertainment: Manufactured and distributed by Music On Vinyl B.V. for Sony Music Entertainment. Made in the EU. [sleeve]  tracks a1, a3, a4, a5 & b5 recorded at Protocol Studios, London. tracks a2, b1 & b3 recorded at Courtyard Studio, Sutton Courtenay. tracks b2 & b4 recorded at The White House Studio, Weston Super Mare. All tracks published by EMI Music Publishing Ltd. except a4 EMI Music Publishing Ltd./Opal Music Originally released ℗ & © 1993 Creation Records. This release ℗ & © 2011 Sony Music Entertainment: Manufactured and distributed by Music On Vinyl B.V. for Sony Music Entertainment. Made in the EU. [insert]  Originally released ℗ & © 1993 Creation Records Limited This release ℗ & © 2011 Sony Music Entertainment Made in the EU Manufactured and distributed by Music On Vinyl B.V. for Sony Music Entertainment. [labels]  Music On Vinyl [logo] Classic Album 180 gram audiophile pressing www.musiconvinyl.com [sticker]  - 30cm square insert - esealable PVC protective sleeve with sticker on front - etched matrices - similar repress with "Made in the Netherlands" & Music On Vinyl B.V. address on rear sleeve: [r=26412479] |
 | Discogs URL    | [Slowdive - Souvlaki](https://www.discogs.com/release/3020028-Slowdive-Souvlaki) |

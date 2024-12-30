@@ -4,7 +4,6 @@ artist_name: "Beastie Boys"
 artist: "beastie-boys"
 album_name: "Paul's Boutique"
 date: 2020-02-14T18:07:05.000000Z
-release_date: "1989-07-25"
 release_id: "12872158"
 slug: "paul-s-boutique-12872158"
 hideSummary: true
@@ -13,19 +12,19 @@ cover:
     alt: "Paul's Boutique by Beastie Boys"
     caption: "Paul's Boutique by Beastie Boys"
 additional_images:
-    - "https://i.discogs.com/CI2iL3O9_LbUk4cE8g5PGp1UK5t6PXbc2Rh5f_1h8a4/rs:fit/g:sm/q:90/h:601/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyODcy/MTU4LTE1NDY3ODc4/ODctMTkwNi5qcGVn.jpeg"
+    - "https://i.discogs.com/CJL2VgCObL2Vifw_jTKwtgweXXA4Css6FRKD-PV56LI/rs:fit/g:sm/q:90/h:600/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyODcy/MTU4LTE1NDY3ODc4/ODctMTkwNi5qcGVn.jpeg"
     - "https://i.discogs.com/J4Mqu76Rojt04_jVka2RXs0sEDON60jBSnAlSJOHHCA/rs:fit/g:sm/q:90/h:294/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyODcy/MTU4LTE1NDY3ODc4/OTAtNDk3Ni5qcGVn.jpeg"
     - "https://i.discogs.com/bEZ3rlSR73KEwG0sQ0LK-Kf_z-dZquTJTJpt0LMcpPU/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyODcy/MTU4LTE1NDY3ODc4/ODctNTE5NC5qcGVn.jpeg"
     - "https://i.discogs.com/b-A2F7XhoJP1scd1-DK0zHDB-lMevG8Ig4CKSdZ_wZw/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyODcy/MTU4LTE1NDY3ODc4/OTItNDUxNS5qcGVn.jpeg"
     - "https://i.discogs.com/2lyz_KOCQLEXJL4JY85ZyVqEvwOzIEMM041rN2OHs80/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyODcy/MTU4LTE1NDY3ODc4/OTYtNzE0MS5qcGVn.jpeg"
     - "https://i.discogs.com/ix0_xVr95dXzvUNKjW8eoCkx5mgF0c963GDmO53r0bU/rs:fit/g:sm/q:90/h:587/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyODcy/MTU4LTE1NDY3ODc4/OTEtODIyNS5qcGVn.jpeg"
-    - "https://i.discogs.com/VJ-acrGRGdUke5NKVLeeE3IC8PcA0i11B8ImoKXxCtg/rs:fit/g:sm/q:90/h:603/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyODcy/MTU4LTE1NDY3ODc5/OTUtMzI5My5qcGVn.jpeg"
+    - "https://i.discogs.com/iHg2uj6NfcVUBnHmhjKcSzS53EhT0TBTfjd9dn4TlN0/rs:fit/g:sm/q:90/h:600/w:596/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyODcy/MTU4LTE1NDY3ODc5/OTUtMzI5My5qcGVn.jpeg"
 genres: ["Electronic", "Hip Hop"]
 styles: ["Cut-up/DJ", "Hip Hop"]
 ---
 
-If <i>Licensed to Ill</i> was the frat party, <i>Paul’s Boutique</i> was the tall tale: a sprawling, psychedelic joke so delightful in the telling that the punchline ceased to matter. The band was in LA now, doing LA things: swimming (the rental mansion had a bridge over the pool), hobnobbing and cruising around (Adam Yauch’s new car, an early 1970s Cadillac Fleetwood Brougham d’Elegance, was outfitted with a digital tape player to listen to rough mixes—unheard of at the time). And instead of the boxy, minimalistic grid of <i>Licensed to Ill</i>, you had LA’s winding roads, a Möbius strip of funk and soul samples (stitched together by producers the Dust Brothers) shaded by Seussian trees.<br />
-Certain tracks are classics—the Three Stooges-in-the-club routines of “Shake Your Rump” and “Hey Ladies”, the supernatural sludge of “Looking Down the Barrel of a Gun”. But the effect of <i>Paul’s Boutique</i> was more than the sum of its parts. This wasn’t just hip-hop as a sound, but a way of understanding culture: magpie, extroverted, deeply entertained by just about everything around it. The band’s creativity didn’t lie in expressing the innermost depths of their respective souls (a myth anyway, as it turns out), but in the ingenuity and sheer joy with which they assembled and reassembled the flotsam and jetsam of the world into something new—an approach that, among other things, anticipated the giddy, information-saturated possibilities of the internet a good decade before most people really knew what the internet was. Art is attention; with <i>Paul’s Boutique</i>, the Beastie Boys paid it. It flopped, of course, both critically and commercially. Then the world caught up.
+Paul's Boutique is the second studio album by the American hip hop group Beastie Boys, released on July 25, 1989, by Capitol Records. Produced by the Beastie Boys and the Dust Brothers, the album's composition makes extensive use of samples, drawn from a wide range of genres including funk, soul, rock, and jazz. It was recorded over two years at Matt Dike's apartment and the Record Plant in Los Angeles.
+Paul's Boutique did not match the sales of the group's 1986 debut Licensed to Ill, and was promoted minimally by Capitol. However, despite its initial commercial failure, it became recognized as the group's breakthrough achievement, with its innovative lyrical and sonic style earning them a position as critical favorites within the hip hop community. Sometimes described as the "Sgt. Pepper of hip-hop", Paul's Boutique has placed on several lists of the greatest albums of all time, and is viewed by many critics as a landmark album of golden age hip hop and a seminal work in sample-based production.
     
     
 
@@ -48,10 +47,15 @@ Certain tracks are classics—the Three Stooges-in-the-club routines of “Shake
 15. B-Boy Bouillabaisse (12:34)
 
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/pauls-boutique-20th-anniversary-remastered-edition/721276795" >}}<br>
+{{< applemusic url="https://music.apple.com/gb/album/pauls-boutique-single/1527639985" >}}<br>
 
 
+## Videos
+### Beast̲i̲e̲ ̲B̲o̲ys - Paul's Boutique (Full Album)
+{{< youtube id="iySa7HTWgSI" title="Beast̲i̲e̲ ̲B̲o̲ys - Paul's Boutique (Full Album)" >}}<br>
+### More Videos
 
+- [Beastie Boys - Paul's Boutique [FULL ALBUM]](https://www.youtube.com/watch?v=E6MwsNxnMUM)
 
 ## Release Images
 {{< imageGrid >}}
@@ -59,6 +63,7 @@ Certain tracks are classics—the Three Stooges-in-the-club routines of “Shake
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
+| Wikipedia URL | https://en.wikipedia.org/wiki/Paul%27s_Boutique |
 | Format         | Vinyl LP Album Reissue Remastered (180g, Gatefold) |
 | Label          | Capitol Records |
 | Catalog Number | 00602577057847 |

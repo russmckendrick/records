@@ -22,16 +22,18 @@ additional_images:
     - "https://i.discogs.com/H6PmZwGBODYFTtj0wTZo-jhlSX7gb4i9_3ujUAxn7nw/rs:fit/g:sm/q:90/h:591/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2ODE1/MzAxLTE2ODIzNjAx/OTktNzIwMC5qcGVn.jpeg"
     - "https://i.discogs.com/swjFGLraq0CA1ES9Ktt1VqCEfHr2R2qPbvVJFiSvBlc/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2ODE1/MzAxLTE2ODIzNjAx/OTgtMTQ2NC5qcGVn.jpeg"
     - "https://i.discogs.com/8QAHWOopfTTxQUAOdqRML6ttvIyE1kltc16MLNfQE4Y/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2ODE1/MzAxLTE2ODIzNjAx/OTktNTczOS5qcGVn.jpeg"
-    - "https://i.discogs.com/UoVmA3ia-rD9xE5GfOcNMQoVQcynxwp9MVw45DBeV2k/rs:fit/g:sm/q:90/h:621/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2ODE1/MzAxLTE2ODIzNjAx/OTgtNjk0OC5qcGVn.jpeg"
-    - "https://i.discogs.com/tDXQX5_hKRcUlh_tfkQQ3I7gHbM1aqqdismg-5-IMd4/rs:fit/g:sm/q:90/h:624/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2ODE1/MzAxLTE2ODIzNjAx/OTktNDQ4OS5qcGVn.jpeg"
-    - "https://i.discogs.com/KGEsQh3AI96KlErpyPdGC_VXxFJcEXl-9vLwCsYQoBc/rs:fit/g:sm/q:90/h:621/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2ODE1/MzAxLTE2ODIzNjAy/MDAtNzc0MS5qcGVn.jpeg"
-    - "https://i.discogs.com/PL15zbL6f2Iw_CrtlpBfgAx6Qh_N54BlC2iklJzP1F4/rs:fit/g:sm/q:90/h:615/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2ODE1/MzAxLTE2ODIzNjAy/MDAtNDAzNy5qcGVn.jpeg"
+    - "https://i.discogs.com/WVio5nikiYVkYLBMpSHUkvyKa9kGS21W9bH6XPVP41s/rs:fit/g:sm/q:90/h:600/w:579/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2ODE1/MzAxLTE2ODIzNjAx/OTgtNjk0OC5qcGVn.jpeg"
+    - "https://i.discogs.com/1hz4lHD54SY3TT-MD0Btwjmvje3erWJu7wsND3x_HO0/rs:fit/g:sm/q:90/h:600/w:576/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2ODE1/MzAxLTE2ODIzNjAx/OTktNDQ4OS5qcGVn.jpeg"
+    - "https://i.discogs.com/8w7SOwoQiDFbG6aCj_1n9jD-zV5Zj2OWUgfyQdEFKyQ/rs:fit/g:sm/q:90/h:600/w:579/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2ODE1/MzAxLTE2ODIzNjAy/MDAtNzc0MS5qcGVn.jpeg"
+    - "https://i.discogs.com/EbNnCjpS5qN_vH4Pmn54ZEc9B0yFvi9YeRDKgKhkNok/rs:fit/g:sm/q:90/h:600/w:584/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2ODE1/MzAxLTE2ODIzNjAy/MDAtNDAzNy5qcGVn.jpeg"
 genres: ["Electronic", "Rock"]
 styles: ["Alternative Rock", "Electro", "Synth-pop", "Indie Rock"]
 ---
 
 Any Minute Now is the third studio album by Belgian electronic music duo Soulwax. It was released on August 23, 2004 through the PIAS record label. It peaked at number 53 on the UK Albums Chart. All three singles from the album, "Any Minute Now", "E Talking" and "NY Excuse", reached the top 40 of the UK Singles Chart. Most of the tracks on Any Minute Now were remixed on Soulwax's follow-up record, 2005's Nite Versions.
 Like on most CDs from Soulwax and 2 Many DJs, an untitled hidden track can be heard by rewinding before the start of the first track. A version of this hidden track appeared on Nite Versions as "I Love Techno".
+
+
     
     
 
@@ -56,22 +58,23 @@ Like on most CDs from Soulwax and 2 Many DJs, an untitled hidden track can be he
 
 
 ## Videos
-### E Talking
-{{< youtube id="3dYrgHnZtmU" title="E Talking" >}}<br>
+### Soulwax - Any Minute Now [HD]
+{{< youtube id="wbp-_Bpt_vY" title="Soulwax - Any Minute Now [HD]" >}}<br>
 ### More Videos
 
 - [Soulwax   E Talking](https://www.youtube.com/watch?v=SdbaDBp1S_I)
+- [E Talking](https://www.youtube.com/watch?v=3dYrgHnZtmU)
 - [SOULWAX - NY Excuse](https://www.youtube.com/watch?v=EF3bu9fmheA)
 - [Soulwax - Any Minute Now](https://www.youtube.com/watch?v=aAhn3bh47m0)
 - [Soulwax - Please...don't be yourself](https://www.youtube.com/watch?v=uHZ-m6YrYy4)
 - [Soulwax- Compute](https://www.youtube.com/watch?v=kz4_oO_3ms8)
 - [Soulwax - Krack (Original Version)](https://www.youtube.com/watch?v=C_M2g5AVsTs)
-- [Soulwax - Slowdance (Stereo Difference) from Any Minute Now](https://www.youtube.com/watch?v=ztRTF-EhUjc)
+- [Soulwax - Slowdance (Stereo Difference) from "Any Minute Now"](https://www.youtube.com/watch?v=ztRTF-EhUjc)
 - [Soulwax - A ballad to forget](https://www.youtube.com/watch?v=FTSjAsiBiaY)
-- [Soulwax - Accidents & Compliments (Stereo Difference) from Any Minute Now](https://www.youtube.com/watch?v=1H7nj8LP7Mo)
+- [Soulwax - Accidents & Compliments (Stereo Difference) from "Any Minute Now"](https://www.youtube.com/watch?v=1H7nj8LP7Mo)
 - [Soulwax - Miserable Girl](https://www.youtube.com/watch?v=P6t3Spz0G4M)
-- [Soulwax - YYY/NNN (Stereo Difference) from Any Minute Now](https://www.youtube.com/watch?v=BkXlZK8QFpM)
-- [Soulwax - The Truth Is So Boring (Stereo Difference) from Any Minute Now](https://www.youtube.com/watch?v=bbmKdFxbtwg)
+- [Soulwax - YYY/NNN (Stereo Difference) from "Any Minute Now"](https://www.youtube.com/watch?v=BkXlZK8QFpM)
+- [Soulwax - The Truth Is So Boring (Stereo Difference) from "Any Minute Now"](https://www.youtube.com/watch?v=bbmKdFxbtwg)
 
 ## Release Images
 {{< imageGrid >}}
@@ -79,9 +82,9 @@ Like on most CDs from Soulwax and 2 Many DJs, an untitled hidden track can be he
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Wikipedia URL | https://en.wikipedia.org/wiki/Any_Minute_Now |
+| Wikipedia URL | https://en.wikipedia.org/wiki/Any_Minute_Now_(Soulwax_album) |
 | Format         | Vinyl 2× LP Album Reissue Stereo (Clear) |
 | Label          | [PIAS] Recordings |
 | Catalog Number | PIASB 060 DLP |
-| Notes | Sticker: CLEAR VINYL  Produced and engineered for 140dB.  Published by Strictly Confidential / We'll Sue You!, except track C3 published by Strictly Confidential / We'll Sue You! / Copyright Control  P & C 2004 Play It Again Sam [PIAS]  |
+| Notes | Sticker: CLEAR VINYL  Produced and engineered for 140dB.  Published by Strictly Confidential / We'll Sue You!, except track C3 published by Strictly Confidential / We'll Sue You! / Copyright Control  P & C 2004 Play It Again Sam [PIAS]  Runouts are etched  |
 | Discogs URL    | [Soulwax - Any Minute Now](https://www.discogs.com/release/26815301-Soulwax-Any-Minute-Now) |

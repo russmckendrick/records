@@ -18,7 +18,7 @@ genres: ["Rock", "Pop", "Folk, World, & Country"]
 styles: ["Folk Rock", "Prog Rock", "Psychedelic Rock"]
 ---
 
-Kill the Wolf is the fourth studio album from English comedian and musician Matt Berry. It was released in July 2013 under Acid Jazz Records.
+Kill the Wolf is the fourth studio album from English comedian and musician Matt Berry. It was released in July 2013 by Acid Jazz Records.
     
     
 
@@ -61,7 +61,6 @@ Kill the Wolf is the fourth studio album from English comedian and musician Matt
 {{< youtube id="gdx-EanE6Hk" title="Matt Berry - Gather Up (Kill the Wolf Album)" >}}<br>
 ### More Videos
 
-- [Matt Berry - Kill The Wolf Box Set (UNBOXING)](https://www.youtube.com/watch?v=n_nt6clp3ck)
 - [Matt Berry - Devil Inside Me](https://www.youtube.com/watch?v=2yE8htFL1m8)
 - [Matt Berry - Fallen Angel](https://www.youtube.com/watch?v=x3AxmZtIHkc)
 - [Matt Berry - 'Medicine' (Official Audio - Acid Jazz Records)](https://www.youtube.com/watch?v=C4VtLvVIHP8)
@@ -74,6 +73,7 @@ Kill the Wolf is the fourth studio album from English comedian and musician Matt
 - [Matt Berry - Village Dance (Kill the Wolf Album)](https://www.youtube.com/watch?v=MEok98HV7_8)
 - [Matt Berry - Farewell Summer Sun (Kill the Wolf Album)](https://www.youtube.com/watch?v=BUKw3KR01DA)
 - [Matt Berry Ukenwhistle](https://www.youtube.com/watch?v=gjd4bAPDh2E)
+- [Matt Berry - Kill The Wolf Box Set (UNBOXING)](https://www.youtube.com/watch?v=n_nt6clp3ck)
 
 ## Release Images
 {{< imageGrid >}}
@@ -82,8 +82,8 @@ Kill the Wolf is the fourth studio album from English comedian and musician Matt
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Kill_the_Wolf_(Matt_Berry_album) |
-| Format         | Vinyl LP Album Limited Edition Repress (2X LP, Gatefold, 10th Anniversary Edition, Red Blood Splatter) |
+| Format         | Vinyl 2× LP Album Limited Edition Repress (Gatefold, 10th Anniversary Edition, Red Blood Splatter) |
 | Label          | Acid Jazz |
-| Catalog Number | AJX2LP3271 |
+| Catalog Number | AJX2LP327T |
 | Notes | "Recorded mostly at the Berry Drum in South London by the River Thames during Autumn/Winter 2012" All tracks composed and performed by Matt Berry. These tracks were released in very limited only forms in 2013, this expanded version of Kill The Wolf sees their first ever vinyl only release. |
-| Discogs URL    | [Matt Berry - Kill The Wolf](https://www.discogs.com/release/27314406-Matt-Berry-Kill-The-Wolf) |
+| Discogs URL    | [Matt Berry - Kill The Wolf](https://www.discogs.com/release/27314406-Matt-Berry-3-Kill-The-Wolf) |

@@ -19,25 +19,27 @@ additional_images:
     - "https://i.discogs.com/6MpbFros_N5M3kwAaEudbbTDAM4G2sfKUsrA7vqrWMY/rs:fit/g:sm/q:90/h:592/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcxNjYx/OTktMTYxNjU5MDg2/My0xNzc3LmpwZWc.jpeg"
     - "https://i.discogs.com/mcbdPjrPbzMIlf-VXl7FhoJwUP1dv-ngQEDcaSxXQvk/rs:fit/g:sm/q:90/h:575/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcxNjYx/OTktMTYxNjU5MDgy/My00NzA1LmpwZWc.jpeg"
     - "https://i.discogs.com/UH0VeaxNMS1I0ySVt8dlFMFtMTnvXX4QMd91MiwJk0g/rs:fit/g:sm/q:90/h:546/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcxNjYx/OTktMTYxNjU5MDg2/MS03NDUwLmpwZWc.jpeg"
-    - "https://i.discogs.com/JFoO3-ET-hUD2BlHMUfa6FLdPWzoFafh-1lCgWKLzxM/rs:fit/g:sm/q:90/h:801/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcxNjYx/OTktMTYxNjU5MDg4/My05NjYwLmpwZWc.jpeg"
-    - "https://i.discogs.com/1crMPz2GWNlptdIDwAtANyG1YcIVCC9aIR3RQgxctw8/rs:fit/g:sm/q:90/h:785/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcxNjYx/OTktMTYxNjU5MDg4/MC00NDQ3LmpwZWc.jpeg"
-    - "https://i.discogs.com/8_0pTgTIs_-7zJwBbM0gQX4fbN2r-v5Yv3tbcJY92sQ/rs:fit/g:sm/q:90/h:766/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcxNjYx/OTktMTYxNjU5MDg4/Ni04NjI2LmpwZWc.jpeg"
+    - "https://i.discogs.com/JzM04n4L52jkMJGvnDc2NqWpidTEAq75SRF-zdoEILo/rs:fit/g:sm/q:90/h:600/w:449/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcxNjYx/OTktMTYxNjU5MDg4/My05NjYwLmpwZWc.jpeg"
+    - "https://i.discogs.com/KtZAwdNxPRzQeCOYT85iiAE_gzyAdy0V4vcxDycflGA/rs:fit/g:sm/q:90/h:600/w:458/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcxNjYx/OTktMTYxNjU5MDg4/MC00NDQ3LmpwZWc.jpeg"
+    - "https://i.discogs.com/6Eke6fL9pQY-MR2bnfbfSbaVjHyS-2wHQtE5irb9iXw/rs:fit/g:sm/q:90/h:600/w:469/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcxNjYx/OTktMTYxNjU5MDg4/Ni04NjI2LmpwZWc.jpeg"
     - "https://i.discogs.com/n4mO4erGRnRWgmwnvsj8_UrwlzbRGTuZYSPPsU0KBj8/rs:fit/g:sm/q:90/h:591/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcxNjYx/OTktMTYxNjU5MDg0/Ny0zMzI0LmpwZWc.jpeg"
     - "https://i.discogs.com/n92vgaUPdCY2ai1hYxB8eDObRMk6ttf_npBmVPKS6sw/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcxNjYx/OTktMTYxNjU5MDgy/Mi01NTY4LmpwZWc.jpeg"
     - "https://i.discogs.com/B6kpeDncyDh_drQbL27BSEYdqG-r0yf1qPFWo4OMoAc/rs:fit/g:sm/q:90/h:594/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcxNjYx/OTktMTYxNjU5MDg0/Ny03MjkwLmpwZWc.jpeg"
     - "https://i.discogs.com/gd90CIpkygxIpYiTISPDEeyyuq9eiL5y6baDzV1CRRQ/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcxNjYx/OTktMTYxNjU5MDgw/OS05NjE4LmpwZWc.jpeg"
-    - "https://i.discogs.com/Lk6gaWaNr28twJ4amKZWA6QrzAXvkZrIEg7ZpCvcFnU/rs:fit/g:sm/q:90/h:606/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcxNjYx/OTktMTYxNjU5MDgy/Ny0xMzQ4LmpwZWc.jpeg"
-    - "https://i.discogs.com/g3bQwhjLDIipYEJxYzSUCrV7J51VZgtM2t-RU3wtkXA/rs:fit/g:sm/q:90/h:601/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcxNjYx/OTktMTYxNjU5MDc5/OS00NDk1LmpwZWc.jpeg"
-    - "https://i.discogs.com/BMH2IyDLZ808wDPf2or0Hd7tPgOeEG90DrEeEyWPoIg/rs:fit/g:sm/q:90/h:607/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcxNjYx/OTktMTYxNjU5MDgz/MS01OTg1LmpwZWc.jpeg"
+    - "https://i.discogs.com/9ES9Dkbz_tuIS5zFyBJjwQG93ilevftkpL4oYupuzbI/rs:fit/g:sm/q:90/h:600/w:593/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcxNjYx/OTktMTYxNjU5MDgy/Ny0xMzQ4LmpwZWc.jpeg"
+    - "https://i.discogs.com/6OwiWWuTvX6CjXJXtss_ZsRnDjbuuUiyNgHpaBCeQWo/rs:fit/g:sm/q:90/h:600/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcxNjYx/OTktMTYxNjU5MDc5/OS00NDk1LmpwZWc.jpeg"
+    - "https://i.discogs.com/CsvXJZCOjJif7drakOBRLV3GWxBaK9R8rqpVrCHsmII/rs:fit/g:sm/q:90/h:600/w:592/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcxNjYx/OTktMTYxNjU5MDgz/MS01OTg1LmpwZWc.jpeg"
     - "https://i.discogs.com/HKLJ6_BQCqzGe3U1gUG8LD8mFV6dyvJ-VS0y6xbMLcM/rs:fit/g:sm/q:90/h:592/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcxNjYx/OTktMTYxNjU5MDg2/OC0xMTU5LmpwZWc.jpeg"
     - "https://i.discogs.com/yX0frOHDlbGvF9sEP_k0a0W8PRkZIxj1o2XfVOr1P1w/rs:fit/g:sm/q:90/h:583/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcxNjYx/OTktMTYxNjU5MDg4/My01OTA5LmpwZWc.jpeg"
-    - "https://i.discogs.com/_UAykpeX6eu7Byg-VmlSe_Gryx4GZX0cAMmWSZUpZks/rs:fit/g:sm/q:90/h:602/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcxNjYx/OTktMTYxNjU5MDcz/Mi05MTEwLmpwZWc.jpeg"
+    - "https://i.discogs.com/o3K-WTnu5ELILb2FlfXhLozRJLitOXfvlAN8JXPEBNk/rs:fit/g:sm/q:90/h:600/w:597/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcxNjYx/OTktMTYxNjU5MDcz/Mi05MTEwLmpwZWc.jpeg"
     - "https://i.discogs.com/J_cblos2BmYLX_gRJFJPm2Mnref_nQ79iWwUzGFRJ4g/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcxNjYx/OTktMTYxNjU5MDcy/Ny04Njc2LmpwZWc.jpeg"
 genres: ["Electronic", "Rock", "Stage & Screen"]
 styles: ["Psychedelic Rock", "Score", "Downtempo", "Ambient"]
 ---
 
-The Virgin Suicides is a score composed by French electronic music duo Air for the 1999 film of the same name by Sofia Coppola. It was released on 23 February 2000 by Virgin Records. The album was nominated for Best Soundtrack at the 2001 Brit Awards. The French edition of Rolling Stone magazine placed The Virgin Suicides at number 49 on their list of the 100 essential French rock albums. In 2014, NME placed the album at number 11 on their "61 of the Greatest Film Soundtracks Ever" list. In 2019, Pitchfork placed the album at number four on their "Top 50 Best Movie Scores of All Time" list.On 3 June 2010, Air performed the full score with the band Hot Rats (with members of Supergrass) at the Cité de la Musique in Paris.To celebrate the 15th anniversary of the film The Virgin Suicides, a deluxe edition of the album was released in June 2015 as a two-disc set and a super deluxe box set. The former contains two studio outtakes on disc one and a bonus disc of previously unreleased live recordings, while the latter includes the album on 180-gram red vinyl, an exclusive picture disc featuring previously unreleased live recordings, the "Playground Love" EP on 180-gram red vinyl, the two-disc deluxe edition of The Virgin Suicides on CD, a 16-page booklet featuring an unpublished Air interview, a film poster, a replica VIP laminate pass and a download card.
+The Virgin Suicides is a score composed by French electronic music duo Air for the 1999 film of the same name by Sofia Coppola. It was released on 23 February 2000 by Virgin Records. The album was nominated for Best Soundtrack at the 2001 Brit Awards. The French edition of Rolling Stone magazine placed The Virgin Suicides at number 49 on their list of the 100 essential French rock albums. In 2014, NME placed the album at number 11 on their "61 of the Greatest Film Soundtracks Ever" list. In 2019, Pitchfork placed the album at number four on their "Top 50 Best Movie Scores of All Time" list.
+On 3 June 2010, Air performed the full score with the band Hot Rats (with members of Supergrass) at the Cité de la Musique in Paris.
+To celebrate the 15th anniversary of the film The Virgin Suicides, a deluxe edition of the album was released in June 2015 as a two-disc set and a super deluxe box set. The former contains two studio outtakes on disc one and a bonus disc of previously unreleased live recordings, while the latter includes the album on 180-gram red vinyl, an exclusive picture disc featuring previously unreleased live recordings, the "Playground Love" EP on 180-gram red vinyl, the two-disc deluxe edition of The Virgin Suicides on CD, a 16-page booklet featuring an unpublished Air interview, a film poster, a replica VIP laminate pass and a download card.
     
     
 
@@ -102,25 +104,15 @@ The Virgin Suicides is a score composed by French electronic music duo Air for t
 57. Suicide Underground (Live L.A Jan 2000) (7:01)
 
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/the-virgin-suicides-original-motion-picture-score/1467236029" >}}<br>
+{{< applemusic url="https://music.apple.com/gb/album/the-virgin-suicides/1490089462" >}}<br>
 
 
 ## Videos
-### AIR  -  The Virgin Suicides  OST  -  ((( FULL ALBUM )))
-{{< youtube id="CmK7LxBnlg8" title="AIR  -  The Virgin Suicides  OST  -  ((( FULL ALBUM )))" >}}<br>
+### AIR - Playground Love (Official Video)
+{{< youtube id="NAgX1jO3No0" title="AIR - Playground Love (Official Video)" >}}<br>
 ### More Videos
 
-- [AIR - Playground Love (Official Video)](https://www.youtube.com/watch?v=NAgX1jO3No0)
-- [Air - Empty House (Official Audio)](https://www.youtube.com/watch?v=lCRo8RLZ8dA)
-- [Air - Suicide Underground (Official Audio)](https://www.youtube.com/watch?v=qquFdHCxArA)
-- [Air - Highschool Lover (Official Audio)](https://www.youtube.com/watch?v=lXFEVqi4iPE)
-- [Air - Dead Bodies (Official Audio)](https://www.youtube.com/watch?v=Ivkwud7MrX0)
-- [Ghost Song](https://www.youtube.com/watch?v=4_nVb9kYlBU)
-- [Cemetary Party](https://www.youtube.com/watch?v=U5kwoGYZjDo)
-- [The Word Hurricane](https://www.youtube.com/watch?v=ocTDASQ8sfA)
-- [Air - Playground Love from The Virgin Suicides OST (Vinyl)](https://www.youtube.com/watch?v=8WglwMp20Mg)
-- [Air - Afternoon Sister (Official Audio)](https://www.youtube.com/watch?v=fMz77CUQKPw)
-- [The Virgin Suicides - Thème](https://www.youtube.com/watch?v=8-elWUT2Avg)
+- [Air - Original Motion Picture Score for The virgin Suicides](https://www.youtube.com/watch?v=vs3gnZVA9OU)
 
 ## Release Images
 {{< imageGrid >}}

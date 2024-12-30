@@ -24,7 +24,7 @@ additional_images:
     - "https://i.discogs.com/z7xKhLJJnHzeUj6_mmfzluVJop42AEbJAXmZMMV5F_A/rs:fit/g:sm/q:90/h:210/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNjI5/NjMwLTE1MjA3NTcx/NzMtNzY3NS5qcGVn.jpeg"
     - "https://i.discogs.com/kzwYJq8KOY1pk9aWxB-WE3Usl5NMrTXhw7HAWu-8iYg/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNjI5/NjMwLTE1MjA3NTcx/ODctNTkyNC5qcGVn.jpeg"
 genres: ["Rock"]
-styles: []
+styles: ["Alternative Rock", "Indie Rock"]
 ---
 
 All Nerve is the fifth full-length studio album by American alternative rock band the Breeders, released on March 2, 2018, 10 years after their previous album Mountain Battles (2008). A Stereogum article in June 2016 reported that the band was recording new material at their Ohio studio and in October 2017 they released the first single from the album titled "Wait in the Car". 4AD announced on January 9, 2018, that the new album would be made available on March 2, 2018, and released the album's second single, All Nerve on the same day. The album also marks the band's first in 25 years with their Last Splash lineup. Courtney Barnett guests on one song on the album; "Howl at the Summit".
@@ -51,13 +51,19 @@ All Nerve is the fifth full-length studio album by American alternative rock ban
 
 
 ## Videos
-### The Breeders - Spacewoman (Official Video)
-{{< youtube id="oVk4xRdD5MA" title="The Breeders - Spacewoman (Official Video)" >}}<br>
+### The Breeders  - Nervous Mary (Official Audio)
+{{< youtube id="quqU4onSjh8" title="The Breeders  - Nervous Mary (Official Audio)" >}}<br>
 ### More Videos
 
 - ['All Nerve' by The Breeders (Album Trailer)](https://www.youtube.com/watch?v=a7wLJs4rAmQ)
-- [The Breeders  - Nervous Mary (Official Audio)](https://www.youtube.com/watch?v=quqU4onSjh8)
 - [The Breeders - Wait in the Car (Official Video)](https://www.youtube.com/watch?v=5i76b0OrdIQ)
+- [The Breeders - Spacewoman (Official Video)](https://www.youtube.com/watch?v=oVk4xRdD5MA)
+- [The Breeders - MetaGoth (Official Video)](https://www.youtube.com/watch?v=pJbaoLDJ8sk)
+- [The Breeders  - Nervous Mary (Official Audio)](https://www.youtube.com/watch?v=quqU4onSjh8)
+- ['All Nerve' by The Breeders (Album Trailer)](https://www.youtube.com/watch?v=a7wLJs4rAmQ)
+- [The Breeders - Wait in the Car (Official Video)](https://www.youtube.com/watch?v=5i76b0OrdIQ)
+- [The Breeders - Spacewoman (Official Video)](https://www.youtube.com/watch?v=oVk4xRdD5MA)
+- [The Breeders - MetaGoth (Official Video)](https://www.youtube.com/watch?v=pJbaoLDJ8sk)
 
 ## Release Images
 {{< imageGrid >}}

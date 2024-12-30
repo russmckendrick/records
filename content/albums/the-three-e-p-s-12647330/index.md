@@ -12,20 +12,27 @@ cover:
     alt: "The Three E.P.'s by The Beta Band"
     caption: "The Three E.P.'s by The Beta Band"
 additional_images:
-    - "https://i.discogs.com/fh8Oh1gTn5iKTtw0Ek7BgXog52WCY4AyarxgxkVfspw/rs:fit/g:sm/q:90/h:614/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNjQ3/MzMwLTE1Mzk0MjY3/ODgtMjM4OS5qcGVn.jpeg"
-    - "https://i.discogs.com/E_rKqIeVcdkCE2ZsZkIA067BThmgwwDHiTtebEeO3gU/rs:fit/g:sm/q:90/h:609/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNjQ3/MzMwLTE1MzkyODA1/NDctOTc0NS5qcGVn.jpeg"
+    - "https://i.discogs.com/XzhBUsN4bZD8R03DJ9AvUJjkTx10VRZqKtvnY9K48I0/rs:fit/g:sm/q:90/h:600/w:585/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNjQ3/MzMwLTE1Mzk0MjY3/ODgtMjM4OS5qcGVn.jpeg"
+    - "https://i.discogs.com/A6RgIh2uhwohOV460ae0EGXpVwX4VtAqsi5gcC97RQw/rs:fit/g:sm/q:90/h:600/w:590/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNjQ3/MzMwLTE1MzkyODA1/NDctOTc0NS5qcGVn.jpeg"
     - "https://i.discogs.com/K01qRdQDgIsQLYg4HQnfPYfsGGtQyMvDzkn9uNUGrGc/rs:fit/g:sm/q:90/h:555/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNjQ3/MzMwLTE1MzkyODA1/NDMtODIwNy5qcGVn.jpeg"
     - "https://i.discogs.com/DUtiKWA7lHJau2NpqlUOs3MkB27OKLRxYBeak6Buf-Y/rs:fit/g:sm/q:90/h:293/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNjQ3/MzMwLTE1Mzk0MjY3/OTEtNDUyMy5qcGVn.jpeg"
     - "https://i.discogs.com/Ck9k8OI5tUzwgxursFZbTuFiJ8TqVefBfCVm6gCxpC4/rs:fit/g:sm/q:90/h:450/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNjQ3/MzMwLTE1MzkyODA4/MjktNzcxNy5qcGVn.jpeg"
-    - "https://i.discogs.com/bMooJoajLXGj7MI8_nFEGla5pp3eYxDauylQOqAv94Q/rs:fit/g:sm/q:90/h:613/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNjQ3/MzMwLTE1MzkyODA1/MzQtNzcxNC5qcGVn.jpeg"
-    - "https://i.discogs.com/TtjvFshOtW5Nze0_ixcgg8fwqfalBNaoOzNs9vfnSTE/rs:fit/g:sm/q:90/h:800/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNjQ3/MzMwLTE1Mzk0Mjcw/NTctNDY5OC5qcGVn.jpeg"
-    - "https://i.discogs.com/5GIgvXfVP1mtNa8BCCs7eM-Gpt-OLNEArgl81V7iR5Y/rs:fit/g:sm/q:90/h:799/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNjQ3/MzMwLTE1Mzk0Mjcw/NjAtNjMyNi5qcGVn.jpeg"
-    - "https://i.discogs.com/jTn1zIzCxKEy9d97S7L1Ne0LD8IvEtC0IZT2GJQNS6c/rs:fit/g:sm/q:90/h:799/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNjQ3/MzMwLTE1Mzk0Mjcw/NjEtMTAyOC5qcGVn.jpeg"
-    - "https://i.discogs.com/RzKySt9DYAS-CHCWv7TmfX-EnzAPJG2xaFZAA9DRzho/rs:fit/g:sm/q:90/h:800/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNjQ3/MzMwLTE1Mzk0Mjcw/NjctNzYzOC5qcGVn.jpeg"
+    - "https://i.discogs.com/DGjIVWjLFCdbtLmgqwcH5Jc6DobG8LtFm7nN5_zlYZY/rs:fit/g:sm/q:90/h:600/w:586/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNjQ3/MzMwLTE1MzkyODA1/MzQtNzcxNC5qcGVn.jpeg"
+    - "https://i.discogs.com/5WAOdhtiEbDlqr5CrWPoLE5TV0qazp7sJcLdOAe7W8E/rs:fit/g:sm/q:90/h:600/w:449/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNjQ3/MzMwLTE1Mzk0Mjcw/NTctNDY5OC5qcGVn.jpeg"
+    - "https://i.discogs.com/jsS5t8WRZwSsYwPl-HDBlCGexmoXRW6Hno59xTJaK2M/rs:fit/g:sm/q:90/h:600/w:450/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNjQ3/MzMwLTE1Mzk0Mjcw/NjAtNjMyNi5qcGVn.jpeg"
+    - "https://i.discogs.com/PoY4dafUhZAD08zCv8SpxgIvh7buYyO8eIfeRCD2c8Q/rs:fit/g:sm/q:90/h:600/w:450/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNjQ3/MzMwLTE1Mzk0Mjcw/NjEtMTAyOC5qcGVn.jpeg"
+    - "https://i.discogs.com/Lh6bp06aTozIA7vkMFqO7RBwxp3WwIikuzav7CTsLIY/rs:fit/g:sm/q:90/h:600/w:449/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNjQ3/MzMwLTE1Mzk0Mjcw/NjctNzYzOC5qcGVn.jpeg"
 genres: ["Electronic", "Rock"]
 styles: ["Experimental", "Indie Rock", "Trip Hop", "Alternative Rock"]
 ---
 
+The Three E.P.'s is a compilation album of the first three releases by Scottish musical group The Beta Band, comprising the EPs Champion Versions, The Patty Patty Sound and Los Amigos del Beta Bandidos. The album was released on 28 September 1998 in the United Kingdom by Regal and on 26 January 1999 in the United States by Astralwerks. Its cover art includes the main image from each of the EPs.
+The Three E.P.'s was prominently featured in a scene from the 2000 film High Fidelity, in which record store owner Rob Gordon (John Cusack) tells his co-workers that he would sell five copies of the album, and plays "Dry the Rain" in his store for his customers. Astralwerks, the band's American label, reported that sales of The Three E.P.'s had quadrupled within a month of the film's March 2000 release.
+Front man Steve Mason later said, "At the time I just thought this is the way all music should be made. I hated the people who were just in bands; who the fuck wants to be in a band with a guitarist and a bassist and a lead singer? All this Britpop shit had been rammed down everyone's throats. Honesty and experimentation were our weapons of choice."
+
+
+    
+    
 
 
 ## Tracklisting
@@ -59,7 +66,7 @@ styles: ["Experimental", "Indie Rock", "Trip Hop", "Alternative Rock"]
 28. Needles In My Eyes
 
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/the-three-e-p-s-20th-anniversary-remaster/1410176605" >}}<br>
+{{< applemusic url="https://music.apple.com/gb/album/the-three-e-p-s/1339273695" >}}<br>
 
 
 ## Videos
@@ -82,6 +89,7 @@ styles: ["Experimental", "Indie Rock", "Trip Hop", "Alternative Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
+| Wikipedia URL | https://en.wikipedia.org/wiki/The_Three_E.P.%27s |
 | Format         | Vinyl LP (Orange), Vinyl LP (Yellow), CD, All Media Compilation Limited Edition Reissue Remastered |
 | Label          | Because Music |
 | Catalog Number | BE5543747 |

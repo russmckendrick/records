@@ -40,7 +40,12 @@ styles: []
 {{< applemusic url="https://music.apple.com/gb/album/woodstock-sunday-august-17-1969-live/1478440844" >}}<br>
 
 
+## Videos
+### Sly & The Family Stone - Woodstock 1969
+{{< youtube id="me-UKbXOFts" title="Sly & The Family Stone - Woodstock 1969" >}}<br>
+### More Videos
 
+- [Sly & The Family Stone - Woodstock 1969](https://www.youtube.com/watch?v=me-UKbXOFts)
 
 ## Release Images
 {{< imageGrid >}}

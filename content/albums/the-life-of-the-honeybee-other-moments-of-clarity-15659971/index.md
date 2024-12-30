@@ -28,7 +28,7 @@ styles: ["Prog Rock"]
 
 
 ## Tracklisting
-1. The Life of the Honeybee & Other Moments Of Clarity
+1. The Life Of The Honeybee & Other Moments Of Clarity
 2. One Small Soul
 3. Arran Shores
 4. Summerlong
@@ -45,6 +45,10 @@ styles: ["Prog Rock"]
 ### More Videos
 
 - [Abel Ganz : Arran Shores](https://www.youtube.com/watch?v=nnidk9i8vBQ)
+- [The Life of the Honey Bee and Other Moments of Clarity](https://www.youtube.com/watch?v=DaPbXzlmuAM)
+- [The Light Shines Out](https://www.youtube.com/watch?v=rkwaM6GxqMc)
+- [Summerlong](https://www.youtube.com/watch?v=mLtykq7GvDo)
+- [Sepia and White](https://www.youtube.com/watch?v=mDZKQWV7uAo)
 
 ## Release Images
 {{< imageGrid >}}
@@ -52,7 +56,8 @@ styles: ["Prog Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl LP Album Stereo (Orange) |
+| Format         | Vinyl LP Album Stereo (180 Gram, Orange) |
 | Label          | Abel Records (3) |
 | Catalog Number | ARAG001LP |
+| Notes | Packaged in a gold-embossed matte single jacket with 4-page color printed insert, polylined inner LP sleeve and color printed inner LP sleeve in a resealable clear plastic sleeve. Some copies came with the insert autographed. |
 | Discogs URL    | [Abel Ganz - The Life Of The Honeybee & Other Moments Of Clarity](https://www.discogs.com/release/15659971-Abel-Ganz-The-Life-Of-The-Honeybee-Other-Moments-Of-Clarity) |

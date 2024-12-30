@@ -35,6 +35,8 @@ styles: ["New Wave", "Pop Rock"]
 English Settlement is the fifth studio album and first double album by the English rock band XTC, released 12 February 1982 on Virgin Records. It marked a turn towards the more pastoral pop songs that would dominate later XTC releases, with an emphasis on acoustic guitar, 12-string electric guitar and fretless bass. In some countries, the album was released as a single LP with five tracks deleted. The title refers to the Uffington White Horse depicted on the cover, to the "settlement" of viewpoints, and to the Englishness that the band felt they "settled" into the record.
 XTC recorded the album at The Manor Studio in Oxfordshire with producer Hugh Padgham, the engineer of their previous two LPs. Compared to the band's previous releases, English Settlement showcased more complex and intricate arrangements, lengthier songs, lyrics that covered broader social issues, and a wider range of music styles. Principal songwriter Andy Partridge was fatigued by the grueling touring regimen imposed by their label and management, and believed that pursuing a sound less suited for live performance would relieve the pressure to tour. Three singles were issued from the album: "Senses Working Overtime" (number 10), "Ball and Chain" (number 58) and "No Thugs in Our House" (no chart showing).
 English Settlement was well-received critically and continues to be regarded by many critics as XTC's finest album. It reached number 5 on the UK Album Chart during an 11-week stay, making it the band's only top ten album in the UK. It also reached number 48 on the US Billboard 200 during a 20-week stay. An international tour was scheduled in support of the album, but it was canceled after several dates due to Partridge's worsening exhaustion. XTC's popularity in the UK faltered, and for the rest of their career, they remained a studio-only band. In 2002, English Settlement was ranked number 46 on Pitchfork's list of "The Top 100 Albums of the 1980s".
+
+
         
         
     
@@ -77,23 +79,24 @@ English Settlement was well-received critically and continues to be regarded by 
 
 
 ## Videos
-### XTC - Ball and Chain
-{{< youtube id="4a9wowg4AjI" title="XTC - Ball and Chain" >}}<br>
+### Runaways (2001 Remaster)
+{{< youtube id="tJocUSEXk8c" title="Runaways (2001 Remaster)" >}}<br>
 ### More Videos
 
-- [Melt The Guns (2001 Remaster)](https://www.youtube.com/watch?v=FPWEiqHVFGI)
-- [All Of A Sudden (It's Too Late)](https://www.youtube.com/watch?v=yCvGUu3DBJQ)
-- [XTC - No Thugs in Our House](https://www.youtube.com/watch?v=UfE-z0RN7n0)
-- [XTC - Runaways](https://www.youtube.com/watch?v=0gQo_lXw2zg)
-- [Xtc - It's Nearly Africa - 1982](https://www.youtube.com/watch?v=Ad1e0FaHuqU)
-- [Senses Working Overtime (Remastered)](https://www.youtube.com/watch?v=kjt7AdLYT2w)
-- [XTC - Jason and the Argonauts](https://www.youtube.com/watch?v=BDNupK1RkdY)
-- [English Roundabout (2001 Remaster)](https://www.youtube.com/watch?v=aSIyaZoG0sU)
-- [Runaways (2001 Remaster)](https://www.youtube.com/watch?v=tJocUSEXk8c)
-- [XTC - Yacht Dance - English Settlement [1982]](https://www.youtube.com/watch?v=0hHYU28TkvQ)
-- [XTC English Settlement Album Review](https://www.youtube.com/watch?v=dNx7NR51qdc)
+- [Ball And Chain (2001 Remaster)](https://www.youtube.com/watch?v=aiGgyr02X08)
+- [Senses Working Overtime (Remastered 2001)](https://www.youtube.com/watch?v=kjt7AdLYT2w)
+- [Jason And The Argonauts (2001 Remaster)](https://www.youtube.com/watch?v=G8yzT0LItfU)
 - [No Thugs In Our House (2001 Remaster)](https://www.youtube.com/watch?v=PnRzV4ehSxY)
-- [XTC - Knuckle Down](https://www.youtube.com/watch?v=g9zZ0hefFok)
+- [Yacht Dance (2001 Remaster)](https://www.youtube.com/watch?v=gPOYlIsy18Y)
+- [All Of A Sudden (It's Too Late)](https://www.youtube.com/watch?v=yCvGUu3DBJQ)
+- [Melt The Guns (2001 Remaster)](https://www.youtube.com/watch?v=FPWEiqHVFGI)
+- [Leisure (2001 Remaster)](https://www.youtube.com/watch?v=nwKjnLE8j0M)
+- [It's Nearly Africa (2001 Remaster)](https://www.youtube.com/watch?v=6PLGLATbfpY)
+- [Knuckle Down (2001 Remaster)](https://www.youtube.com/watch?v=5Y-fCyRSdho)
+- [Fly On The Wall (2001 Remaster)](https://www.youtube.com/watch?v=--6yDQhARM8)
+- [Down In The Cockpit (2001 Remaster)](https://www.youtube.com/watch?v=lPEVlbV7KoA)
+- [English Roundabout (2001 Remaster)](https://www.youtube.com/watch?v=aSIyaZoG0sU)
+- [Snowman (2001 Remaster)](https://www.youtube.com/watch?v=jzGFzWxBep8)
 
 ## Release Images
 {{< imageGrid >}}

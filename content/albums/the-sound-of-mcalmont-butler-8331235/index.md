@@ -41,7 +41,6 @@ styles: ["Indie Pop", "Indie Rock"]
 {{< youtube id="POIIGYt5RlE" title="McAlmont & Butler - Yes [Full Version]" >}}<br>
 ### More Videos
 
-- [McAlmont & Butler - Yes (Remix)](https://www.youtube.com/watch?v=IkxU9MPEwa8)
 - [McAlmont and Butler - Although](https://www.youtube.com/watch?v=SHo852__76U)
 - [Yes (Full Version)](https://www.youtube.com/watch?v=vltxC9ljJqA)
 - [You Do (Full Length)](https://www.youtube.com/watch?v=uorRUdpDcW8)
@@ -52,6 +51,7 @@ styles: ["Indie Pop", "Indie Rock"]
 - [Disappointment / Interval](https://www.youtube.com/watch?v=e76em75xKaU)
 - [You'll Lose A Good Thing](https://www.youtube.com/watch?v=fSKCLfeYbQM)
 - [How About You?](https://www.youtube.com/watch?v=eAX2DJU08wM)
+- [McAlmont & Butler - Yes (Remix)](https://www.youtube.com/watch?v=IkxU9MPEwa8)
 
 ## Release Images
 {{< imageGrid >}}

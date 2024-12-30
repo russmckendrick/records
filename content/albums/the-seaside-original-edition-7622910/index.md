@@ -12,7 +12,7 @@ cover:
     alt: "The Seaside (Original Edition) by Cardiacs"
     caption: "The Seaside (Original Edition) by Cardiacs"
 additional_images:
-    - "https://i.discogs.com/NicSC8AakT121M-xmuj5EBeQuxzOE5Ct9aoGrPSdhy8/rs:fit/g:sm/q:90/h:602/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc2MjI5/MTAtMTYxMjAxMjEx/NS02MzQyLmpwZWc.jpeg"
+    - "https://i.discogs.com/4t8XA-S5hQCeKrzxTO_Up59MlSFC52mEalH5vH1kDDo/rs:fit/g:sm/q:90/h:600/w:597/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc2MjI5/MTAtMTYxMjAxMjEx/NS02MzQyLmpwZWc.jpeg"
     - "https://i.discogs.com/XjhjVTSgJRYSompXFTD2lEsO7HIzzPuOBPwPl6L4n1w/rs:fit/g:sm/q:90/h:300/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc2MjI5/MTAtMTYxMjAxMTQ4/MS03MjkxLmpwZWc.jpeg"
     - "https://i.discogs.com/cVY6J-fsARsQhZWiQJ1AVxszzfOrotj-1qXJKHknFN8/rs:fit/g:sm/q:90/h:594/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc2MjI5/MTAtMTYxMjAxMjE0/OC0yNjU3LmpwZWc.jpeg"
     - "https://i.discogs.com/aITY1Yll7pyWS51c-bBVFztzBlqX1RgbLgzbbZ3rB2g/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc2MjI5/MTAtMTQ0OTI2NzY4/Ni04ODAyLmpwZWc.jpeg"
@@ -44,17 +44,18 @@ styles: ["Art Rock"]
 
 
 ## Videos
-### Cardiacs -  Jibber and Twitch rehearsal
-{{< youtube id="OxhuQWKwbqY" title="Cardiacs -  Jibber and Twitch rehearsal" >}}<br>
+### Cardiacs - Nurses Whispering Verses
+{{< youtube id="8WpSRzp6GcE" title="Cardiacs - Nurses Whispering Verses" >}}<br>
 ### More Videos
 
-- [Cardiacs - To Go Off And Things (1984)](https://www.youtube.com/watch?v=MXZLXBn6UAE)
-- [Cardiacs - Nurses Whispering Verses](https://www.youtube.com/watch?v=8WpSRzp6GcE)
+- [Cardiacs -  Jibber and Twitch rehearsal](https://www.youtube.com/watch?v=OxhuQWKwbqY)
 - [Cardiacs - As Cold As Can Be In An English Sea rehearsal.](https://www.youtube.com/watch?v=N5QYijFfOaQ)
 - [Cardiacs - An Ant rehearsal](https://www.youtube.com/watch?v=V0yTGM4D1io)
 - [Cardiacs - RES Music Video [w/ The Seaside 2015 Reissue Audio] [720]](https://www.youtube.com/watch?v=t-9eN5J7hcg)
 - [Cardiacs - A Little Man and His House Music Video [w/ The Seaside 2015 Reissue Audio] [720]](https://www.youtube.com/watch?v=LSbRmyVMRhU)
 - [Cardiacs - To Go Off and Things Music Video [w/ The Seaside 2015 Reissue Audio] [720]](https://www.youtube.com/watch?v=4vM9-0Fhea4)
+- [Cardiacs - To Go Off And Things (1984)](https://www.youtube.com/watch?v=MXZLXBn6UAE)
+- [Cardiacs - Nurses Whispering Verses](https://www.youtube.com/watch?v=8WpSRzp6GcE)
 
 ## Release Images
 {{< imageGrid >}}

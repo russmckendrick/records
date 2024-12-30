@@ -13,7 +13,7 @@ cover:
     caption: "A Collection Of Great Dance Songs by Pink Floyd"
 additional_images:
     - "https://i.discogs.com/BUsQNGFSvPrwlqOD7pS1DZI9LxsyGhWlomCt_CPnUi8/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMDY1/OTk4LTE1NzQ0NTAy/MDktMjA2OS5qcGVn.jpeg"
-    - "https://i.discogs.com/dKbAv7qlmWarmuphk08IaZEfTMf6s3GO0Iofp6iKexM/rs:fit/g:sm/q:90/h:1074/w:551/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMDY1/OTk4LTE1NzQ0NTAy/MjQtNDAwOC5qcGVn.jpeg"
+    - "https://i.discogs.com/r4n7AYZuWheV6Yt2EwoH7eTv3QAI3x6ki1b0XOMZODQ/rs:fit/g:sm/q:90/h:600/w:307/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMDY1/OTk4LTE1NzQ0NTAy/MjQtNDAwOC5qcGVn.jpeg"
     - "https://i.discogs.com/Ngwt230Prb1uvsZq3zNj-6WjghsdJ_YXrpbdr7pil0I/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMDY1/OTk4LTE1MDkyMTU1/NTAtODM0My5qcGVn.jpeg"
     - "https://i.discogs.com/BS--6dhk-G-nacV02IGNJn_Y8gXtG-jYJpqO43m-L_c/rs:fit/g:sm/q:90/h:469/w:475/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMDY1/OTk4LTE1Njc1MzM0/MjktODcxMS5qcGVn.jpeg"
     - "https://i.discogs.com/AsDQwoZ5soXa_r_3KHpzgV39oABeCMUPvtlLuFQDmkw/rs:fit/g:sm/q:90/h:463/w:478/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMDY1/OTk4LTE1Njc1MzM0/MzMtNjAyNy5qcGVn.jpeg"
@@ -23,7 +23,7 @@ genres: ["Rock"]
 styles: ["Prog Rock"]
 ---
 
-A Collection of Great Dance Songs is a compilation album by English rock band Pink Floyd. It was released on 23 November 1981 in the United Kingdom by Harvest Records and in the United States by Columbia Records.
+A Collection of Great Dance Songs is a compilation album by the English rock band Pink Floyd. It was released on 23 November 1981 in the United Kingdom by Harvest Records and in the United States by Columbia Records.
 
 
     
@@ -42,9 +42,6 @@ A Collection of Great Dance Songs is a compilation album by English rock band Pi
 {{< applemusic url="https://music.apple.com/gb/album/a-collection-of-great-dance-songs/734647165" >}}<br>
 
 
-## Videos
-### Pink Floyd - A Collection Of Great Dance Songs (Full Album)
-{{< youtube id="U12sgIY8Hvg" title="Pink Floyd - A Collection Of Great Dance Songs (Full Album)" >}}<br>
 
 
 ## Release Images

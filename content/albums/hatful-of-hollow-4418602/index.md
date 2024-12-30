@@ -4,7 +4,6 @@ artist_name: "The Smiths"
 artist: "the-smiths"
 album_name: "Hatful Of Hollow"
 date: 2016-10-03T14:27:49.000000Z
-release_date: "1984-11-12"
 release_id: "4418602"
 slug: "hatful-of-hollow-4418602"
 hideSummary: true
@@ -13,17 +12,25 @@ cover:
     alt: "Hatful Of Hollow by The Smiths"
     caption: "Hatful Of Hollow by The Smiths"
 additional_images:
-    - "https://i.discogs.com/PGe1v23tMhwVaXU7z-YnXjAbLPgq_WtMiRVHVaYgIQE/rs:fit/g:sm/q:90/h:300/w:300/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ0MTg2/MDItMTM2NDM1NDI3/MS04ODI5LmpwZWc.jpeg"
-    - "https://i.discogs.com/YVjsvkM-sneKXY_15EsyzXidOfhv3_scPYjDviRF_Z8/rs:fit/g:sm/q:90/h:590/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ0MTg2/MDItMTM2NzcxODE0/MC00NTA2LmpwZWc.jpeg"
-    - "https://i.discogs.com/zenev5z04qStXg4ZrUuXMgZ1K9OORbT8CES7z6CuQro/rs:fit/g:sm/q:90/h:600/w:596/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ0MTg2/MDItMTM2NzcxODE2/MC02Njg4LmpwZWc.jpeg"
+    - "https://i.discogs.com/XoME-U_Twrq8jZDfHf_lhlQRK9xw8rRplZ5J1UtKnSU/rs:fit/g:sm/q:90/h:583/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ0MTg2/MDItMTczNDc5MzAz/MC0zMDE0LmpwZWc.jpeg"
+    - "https://i.discogs.com/PR1msVQ-MROg02BCpKfqJsw13qmnqMM21B1Lx_53XjM/rs:fit/g:sm/q:90/h:586/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ0MTg2/MDItMTczNDc5MzAz/MC04OTAyLmpwZWc.jpeg"
+    - "https://i.discogs.com/Z1iKxQi46pTe1hrauhZjghBlCn-ChbBGEx2oQ28kbRI/rs:fit/g:sm/q:90/h:585/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ0MTg2/MDItMTczNDc5MzAz/MC03NDgyLmpwZWc.jpeg"
+    - "https://i.discogs.com/EBHL7bQtRVpjgtfkG6UF4u54nNbqolvuiKELs2WRa0Y/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ0MTg2/MDItMTczNDc5MzAz/MC0zNzY3LmpwZWc.jpeg"
+    - "https://i.discogs.com/jZbTWGAoOjwlBsVqOnY_ltiVuGH2g4LkpjMmXfrSI9g/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ0MTg2/MDItMTczNDc5MzAz/OS03NDk4LmpwZWc.jpeg"
+    - "https://i.discogs.com/Nx6gHZWFtogDEeHx4GB4j6EiR6MGLLQz_5YUj1IYcrc/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ0MTg2/MDItMTczNDc5MzAz/OS0zOTU2LmpwZWc.jpeg"
+    - "https://i.discogs.com/fP2RTT_6OFyo3t9BaiQcDSnz2D-MW8czekOFQyevD0A/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ0MTg2/MDItMTczNDc5MzAz/OS01MTM4LmpwZWc.jpeg"
+    - "https://i.discogs.com/PVIYQvf4szegkfNK6Dyi9wC99gH9oKTDoPmMlCntNIM/rs:fit/g:sm/q:90/h:600/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ0MTg2/MDItMTczNDc5MzAz/OS02OTgwLmpwZWc.jpeg"
+    - "https://i.discogs.com/2NuVbxUlh6REv9qzue72uJjhPhvtOxVtIBLudslE9Jk/rs:fit/g:sm/q:90/h:301/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ0MTg2/MDItMTczNDc5MzAy/MS02ODc1LmpwZWc.jpeg"
+    - "https://i.discogs.com/54HSgTRgKkUhz_Ze_Lkj1cdCRGh7NjZ3s9ImPKbwwuQ/rs:fit/g:sm/q:90/h:300/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ0MTg2/MDItMTczNDc5MzAy/MS0xMDA0LmpwZWc.jpeg"
 genres: ["Rock"]
 styles: ["Alternative Rock", "Indie Rock"]
 ---
 
-Hatful of Hollow is a compilation album by English rock band the Smiths, released on 12 November 1984 by Rough Trade Records. The album features BBC Radio 1 studio recordings and two contemporary singles with their B-sides. It was eventually released in the United States on 9 November 1993 by Sire Records, who had initially declined to release the album in the US. Sire instead released Louder Than Bombs in the US in 1987—which contains several of the same tracks as Hatful of Hollow—as well as many from the UK compilation The World Won't Listen.
+Hatful of Hollow is a compilation album by English rock band the Smiths, released on 2 November 1984 by Rough Trade Records. The album features tracks from BBC Radio 1 sessions, their first single "Hand in Glove" (a different mix of which had been included on their first album) and two new singles and their B-sides. It was eventually released in the United States on 9 November 1993 by Sire Records, who had initially declined to release the album in the US. Sire instead released Louder Than Bombs in the US in 1987—which is effectively a hybrid of Hatful of Hollow and a subsequent UK compilation album The World Won't Listen plus some tracks which do not appear on either.
 Hatful of Hollow reached No. 7 on the UK Albums Chart, remaining on the chart for 46 weeks. In 2000, Q magazine placed the album at No. 44 on its list of the "100 Greatest British Albums Ever".
-        
-        
+
+
+    
     
 
 
@@ -46,13 +53,15 @@ Hatful of Hollow reached No. 7 on the UK Albums Chart, remaining on the chart fo
 16. Please Please Please Let Me Get What I Want (1:50)
 
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/hatful-of-hollow/799969670" >}}<br>
+{{< applemusic url="https://music.apple.com/gb/album/the-smiths-project-box-set-hatful-of-hollow/1298339436" >}}<br>
 
 
 ## Videos
-### The Smiths - How Soon Is Now? (Official Music Video)
-{{< youtube id="hnpILIIo9ek" title="The Smiths - How Soon Is Now? (Official Music Video)" >}}<br>
+### 04. How Soon Is Now? - The Smiths - Hatful Of Hollow
+{{< youtube id="FQ4DUnghgT0" title="04. How Soon Is Now? - The Smiths - Hatful Of Hollow" >}}<br>
+### More Videos
 
+- [The Smiths - Heaven Knows I'm Miserable Now (Official Music Video)](https://www.youtube.com/watch?v=TjPhzgxe3L0)
 
 ## Release Images
 {{< imageGrid >}}

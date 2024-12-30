@@ -17,17 +17,19 @@ additional_images:
     - "https://i.discogs.com/H6wNQuuDZG3tQXgvdljaPRziZ84jgrSL0kpk3p3VGBk/rs:fit/g:sm/q:90/h:225/w:225/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc5ODYx/NzgtMTQ1Mjk2NTEw/MC04MDM4LmpwZWc.jpeg"
     - "https://i.discogs.com/kAl5BcAbwvGjrZvtfSmZ1vs7SWACtiP9na68hse28uM/rs:fit/g:sm/q:90/h:304/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc5ODYx/NzgtMTYzMjMzMjc2/OC0yMTIzLmpwZWc.jpeg"
     - "https://i.discogs.com/7al1Nf7IjCsPMXhvP2GuiYdD0fI5nZBAQsZcUf0CDzs/rs:fit/g:sm/q:90/h:587/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc5ODYx/NzgtMTYzMjMzMjc2/OC0zMTIxLmpwZWc.jpeg"
-    - "https://i.discogs.com/_Fzsh7ohunU6zyr5CVz5wLTYQWj2KRIQkf_yPiKDkUY/rs:fit/g:sm/q:90/h:602/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc5ODYx/NzgtMTYzMjMzMjc2/OC0zODA4LmpwZWc.jpeg"
+    - "https://i.discogs.com/md-lXuv5TOH7xPb5courP3lPP-nt9gSM6kWYo2V-ydU/rs:fit/g:sm/q:90/h:600/w:597/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc5ODYx/NzgtMTYzMjMzMjc2/OC0zODA4LmpwZWc.jpeg"
     - "https://i.discogs.com/9kVJUsvbd95ETa30A_xLFzuE0j-VS_p794ufPd8ztDY/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc5ODYx/NzgtMTYzMjMzMjc2/OC0xMTk0LmpwZWc.jpeg"
     - "https://i.discogs.com/usF9WJAovR-MIAs_OAucfSZDOr0dq2eclBua8o1NpdA/rs:fit/g:sm/q:90/h:591/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc5ODYx/NzgtMTYzMjMzMjc2/OC00NTg2LmpwZWc.jpeg"
-    - "https://i.discogs.com/ReLiQtZEQ65mStGPWPFVIUj0JS7qLyBRTdQ4ubforJg/rs:fit/g:sm/q:90/h:867/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc5ODYx/NzgtMTYzMjMzMjc2/OC03MTQwLmpwZWc.jpeg"
-    - "https://i.discogs.com/Qp-nkTZX5sSGFu3zp7i50NLgeFU7tNM3n9DkIAH8DYg/rs:fit/g:sm/q:90/h:874/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc5ODYx/NzgtMTYzMjMzMjc2/OC0xNjk2LmpwZWc.jpeg"
+    - "https://i.discogs.com/s_WXgdmHjAhXW-1iKNamE9M_kcftH97M2j7K4XXeHT4/rs:fit/g:sm/q:90/h:600/w:414/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc5ODYx/NzgtMTYzMjMzMjc2/OC03MTQwLmpwZWc.jpeg"
+    - "https://i.discogs.com/JrZ0DjnNL7Fk9LQh-OucoOMgJwCzj48U7qkh4f3LZmo/rs:fit/g:sm/q:90/h:600/w:411/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc5ODYx/NzgtMTYzMjMzMjc2/OC0xNjk2LmpwZWc.jpeg"
 genres: ["Rock", "Blues"]
 styles: ["Blues Rock"]
 ---
 
 White Bear is the second studio album by British rock band the Temperance Movement.
 The album was produced in 2015 and released on 15 January 2016.
+
+
     
     
 

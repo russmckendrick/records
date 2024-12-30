@@ -14,16 +14,16 @@ cover:
 additional_images:
     - "https://i.discogs.com/_QeMa57AdmnZieKLvIEfPDr_qWmYLXKR7jQgHgn9jVs/rs:fit/g:sm/q:90/h:591/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMjc3/NjczLTE1MTk4Mjc5/MDQtMjg3NS5qcGVn.jpeg"
     - "https://i.discogs.com/k3LVXyqaWbuK8Jm-zPg-Q2UVNcLeEZT_DFU9oSyC1mo/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMjc3/NjczLTE1OTQ3MzQw/OTUtMjk4OS5qcGVn.jpeg"
-    - "https://i.discogs.com/UyMNQCAavXZTbT79ARwAdMkXOqN1QTCUnfkXvv2mSlc/rs:fit/g:sm/q:90/h:606/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMjc3/NjczLTE1MTk4Mjc5/NTctMTA1MC5qcGVn.jpeg"
-    - "https://i.discogs.com/qYgocj8Cr-JTMMsGnKq7_CzN8CqUVC0E6G1K80pFRt0/rs:fit/g:sm/q:90/h:609/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMjc3/NjczLTE1MTk4Mjc5/NTQtMjE5Ny5qcGVn.jpeg"
+    - "https://i.discogs.com/MC_qc-1oqZx5T-RHqTqaaJhBkBeWAiME0uoOWeUcbCw/rs:fit/g:sm/q:90/h:600/w:594/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMjc3/NjczLTE1MTk4Mjc5/NTctMTA1MC5qcGVn.jpeg"
+    - "https://i.discogs.com/5DnApo87jJ6sKJqTCqJ9DYis9ZA3EVT-e4g2gnJ81g0/rs:fit/g:sm/q:90/h:600/w:590/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMjc3/NjczLTE1MTk4Mjc5/NTQtMjE5Ny5qcGVn.jpeg"
     - "https://i.discogs.com/okZqPBY3Gpx854YXvf7J4jCKP6zOsqQttOndG70pmRw/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMjc3/NjczLTE1MTk4Mjc5/NTgtNTk1NC5qcGVn.jpeg"
-    - "https://i.discogs.com/V6ClSnR82d1SOpN8BrLILG1qCH0Q9XxsjYhxomJ1IVo/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMjc3/NjczLTE1MTk4Mjc5/MzItNjA1MC5qcGVn.jpeg"
+    - "https://i.discogs.com/prnBkK0MIInlClJUPDAtpc2zezCJNArZ6Z0MVC_VPkE/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMjc3/NjczLTE1MTk4Mjc5/MzItNjA1MC5qcGVn.jpeg"
     - "https://i.discogs.com/_XkFCVCBuMOP0-m5QcQpAPPKAbfZOG4DJIJqK5IzeE4/rs:fit/g:sm/q:90/h:586/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMjc3/NjczLTE1MTk4Mjc5/NDUtNjI1Ny5qcGVn.jpeg"
     - "https://i.discogs.com/3Pr1moPyqGHvgqBqVikBO3Aq7J0s6p9O6KuiVUK0Le8/rs:fit/g:sm/q:90/h:593/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMjc3/NjczLTE1MTk4Mjc5/NDktMzMyNy5qcGVn.jpeg"
     - "https://i.discogs.com/rmelrnXxOV40YazJ2JryfyPfDMtXUkD6Ty_H4Pokbsc/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMjc3/NjczLTE1MTk4Mjc5/NzItMzUxNy5qcGVn.jpeg"
     - "https://i.discogs.com/tY_PMkbVrZ8em7WZQOEnbQsz6m5t9WAC55hMphiLv7c/rs:fit/g:sm/q:90/h:592/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMjc3/NjczLTE1MTk4Mjc5/NzctOTQzNy5qcGVn.jpeg"
     - "https://i.discogs.com/ff5UtMIJ4UXbHxKqNp5Xx3ltQVSLVIB_OjBiDYITwS8/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMjc3/NjczLTE1MTk4Mjc5/ODEtODgyOC5qcGVn.jpeg"
-    - "https://i.discogs.com/MudHAva-Al5cBJ_owIWY9oSkGLpDso5JD90R3fbX2-k/rs:fit/g:sm/q:90/h:786/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMjc3/NjczLTE1MTk4Mjc5/OTEtMTEwNi5qcGVn.jpeg"
+    - "https://i.discogs.com/wlWvSZi46X8Bhc6QTlKDxmusqMgcvN4ZUzNgSbQ3HCc/rs:fit/g:sm/q:90/h:600/w:458/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMjc3/NjczLTE1MTk4Mjc5/OTEtMTEwNi5qcGVn.jpeg"
 genres: ["Rock"]
 styles: ["Alternative Rock", "Soft Rock", "Indie Rock"]
 ---
@@ -54,11 +54,10 @@ The front cover features a composite image of all the band members' faces. Pleas
 
 
 ## Videos
-### James - Getting Away With It (All Messed Up)
-{{< youtube id="Io2Cl1u5gmU" title="James - Getting Away With It (All Messed Up)" >}}<br>
+### James - Getting Away With It (Live) (TOTP 2001)
+{{< youtube id="F4upGHpRyXY" title="James - Getting Away With It (Live) (TOTP 2001)" >}}<br>
 ### More Videos
 
-- [James - Getting Away With It (Live) (TOTP 2001)](https://www.youtube.com/watch?v=F4upGHpRyXY)
 - [James - Space (with lyrics)](https://www.youtube.com/watch?v=_wqdCKr5T5k)
 - [James - Falling Down (Later with Jools Holland 2001)](https://www.youtube.com/watch?v=4qnc93RdAqQ)
 - [James - Falling Down (Live VH1 Will Wanted 2001) [RARE!!]](https://www.youtube.com/watch?v=wAtjCVcc3pk)

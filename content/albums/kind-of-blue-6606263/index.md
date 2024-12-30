@@ -16,12 +16,12 @@ additional_images:
     - "https://i.discogs.com/27z4iMnSEr0WNErk2C1l-HCgHeU0gsZWDLXrF0u62f0/rs:fit/g:sm/q:90/h:432/w:432/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY2MDYy/NjMtMTQyMjk2NDg2/MC01NTEwLmpwZWc.jpeg"
     - "https://i.discogs.com/gf7UQnSfRJr0w4wutXCZqIgf4qqibTlzwbSvo9xwmFU/rs:fit/g:sm/q:90/h:431/w:432/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY2MDYy/NjMtMTQyMjk2NDg3/Mi0zNjM4LmpwZWc.jpeg"
     - "https://i.discogs.com/85aJkvcgX5jTaT3MDrHYi7lV_ya0-JaZq7BZ77M0K_Y/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY2MDYy/NjMtMTU2MDk3MTg4/OS02MTU3LmpwZWc.jpeg"
-    - "https://i.discogs.com/aZ7A9V6ZDx68reye5Wu9YgxfErxWYXyMW60l-Flzw1U/rs:fit/g:sm/q:90/h:604/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY2MDYy/NjMtMTU2MDk3MTg4/Ny00NzY3LmpwZWc.jpeg"
+    - "https://i.discogs.com/sorLxI0mVnJFlVsKW66t_Mg0NKfua3UI4utgaW6sitI/rs:fit/g:sm/q:90/h:600/w:595/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY2MDYy/NjMtMTU2MDk3MTg4/Ny00NzY3LmpwZWc.jpeg"
 genres: ["Jazz"]
 styles: ["Modal"]
 ---
 
-In the years between the dissolution of Miles Davis’ first great quintet and the formation of his second, the trumpet master ventured into something new in 1959—not knowing it would become one of jazz's biggest albums ever. Bassist Paul Chambers from the first quintet remained on board, as did John Coltrane, whom Davis had fired, then rehired after the tenor giant kicked his drug addiction and experienced a spiritual and creative rebirth.<br />
+<b>100 Best Albums</b> In the years between the dissolution of Miles Davis’ first great quintet and the formation of his second, the trumpet master ventured into something new in 1959—not knowing it would become one of jazz's biggest albums ever. Bassist Paul Chambers from the first quintet remained on board, as did John Coltrane, whom Davis had fired, then rehired after the tenor giant kicked his drug addiction and experienced a spiritual and creative rebirth.<br />
 But Davis also added a third horn, alto saxophonist Julian “Cannonball” Adderley, making for richer group voicings and a bluesy, bebop-oriented soloing style that balanced Davis’ spare melodic approach and Coltrane’s restless, exploratory “sheets of sound” (coined by critic Ira Gitler). Pianist Bill Evans played close-voiced chords derived from modes, or specific types of scales—an approach that gave rise to the term “modal jazz”.<br />
 The fast-moving progressions of bebop and much post-bop required improvisers to jump hurdles—something Davis knew all about as Dizzy Gillespie’s successor in the Charlie Parker Quintet. On <i>Kind of Blue</i>, there were longer durations between chords, opening up space in the music. The soloist had the option of taking a breath. But even as Miles brought the temperature down, he introduced new textures and tonal colours, drawing on the harmonic thinking of Gil Evans and George Russell, or even Debussy and Satie. In that sense the album was a continuation of <i>Birth of the Cool</i>, recorded 10 years earlier, and perhaps a harbinger of the ethereal <i>In a Silent Way</i> 10 years later.<br />
 Pianist Wynton Kelly subbed in for Evans on “Freddie Freeloader”, and drummer Jimmy Cobb kept the music at a low-simmering boil throughout. Two years later, on Davis’ <i>In Person at the Blackhawk</i> recordings, however, one can hear Cobb, Chambers and Kelly taking “So What” at a much brighter tempo, heightening the impact of that hypnotic two-chord song. On <i>“Four” & More</i> from 1964, with Tony Williams on drums, “So What” is faster still. What started out slow and meditative helped form the basis of the more aggressive and abstract playing of the second quintet.<br />
@@ -43,12 +43,9 @@ Two striking ballads, “Blue in Green” and “Flamenco Sketches”, bear the 
 
 
 ## Videos
-### Miles Davis - So What (Official Audio)
-{{< youtube id="ylXk1LBvIqU" title="Miles Davis - So What (Official Audio)" >}}<br>
-### More Videos
+### Miles Davis - Blue In Green (Official Audio)
+{{< youtube id="TLDflhhdPCg" title="Miles Davis - Blue In Green (Official Audio)" >}}<br>
 
-- [Miles Davis - Blue In Green (Official Audio)](https://www.youtube.com/watch?v=TLDflhhdPCg)
-- [Miles Davis - All Blues (Official Audio)](https://www.youtube.com/watch?v=-488UORrfJ0)
 
 ## Release Images
 {{< imageGrid >}}

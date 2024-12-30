@@ -12,7 +12,7 @@ cover:
     alt: "Cobras And Fire: The Mastermind Redux by Monster Magnet"
     caption: "Cobras And Fire: The Mastermind Redux by Monster Magnet"
 additional_images:
-    - "https://i.discogs.com/61dqbUliefepc4LYrIVnNI7EoKjMJVEBsa4zKRD4Vo4/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc2Mjg2/MzctMTQ0NTQ2OTg2/Mi00MDU5LmpwZWc.jpeg"
+    - "https://i.discogs.com/PQpC86F28ZG935eF9nIYHPCxKFMJPsld-vyubnojZFg/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc2Mjg2/MzctMTQ0NTQ2OTg2/Mi00MDU5LmpwZWc.jpeg"
 genres: ["Rock"]
 styles: ["Hard Rock", "Psychedelic Rock"]
 ---
@@ -40,15 +40,15 @@ styles: ["Hard Rock", "Psychedelic Rock"]
 {{< youtube id="j6FYl9wDrqM" title="Monster Magnet - Cobras And Fire (Hallucination Bomb)" >}}<br>
 ### More Videos
 
-- [MONSTER MAGNET - Watch Me Fade (Official Lyric Video) | Napalm Records](https://www.youtube.com/watch?v=TNIc7H-tkP4)
 - [She Digs That Hole](https://www.youtube.com/watch?v=EdRat1Fm8Iw)
 - [Gods, Punks And The Everlasting Twilight](https://www.youtube.com/watch?v=xpz5yIazAlI)
-- [Monster Magnet - Mastermind (Cobras and Fire Redux 2015)](https://www.youtube.com/watch?v=g3mI88C2Cnc)
 - [Mastermind '69](https://www.youtube.com/watch?v=f3Sp4tafOpg)
 - [Cobras And Fire (Hallucination Bomb)](https://www.youtube.com/watch?v=U-_kyy9Sb_s)
 - [Monster Magnet  -  Perish in Fire](https://www.youtube.com/watch?v=ZZOurnFyvD8)
 - [The Titan](https://www.youtube.com/watch?v=g8XUUkXJqH4)
 - [Ball Of Confusion](https://www.youtube.com/watch?v=_ns1NlBWmGE)
+- [MONSTER MAGNET - Watch Me Fade (Official Lyric Video) | Napalm Records](https://www.youtube.com/watch?v=TNIc7H-tkP4)
+- [Monster Magnet - Mastermind (Cobras and Fire Redux 2015)](https://www.youtube.com/watch?v=g3mI88C2Cnc)
 
 ## Release Images
 {{< imageGrid >}}

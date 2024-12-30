@@ -18,7 +18,7 @@ additional_images:
     - "https://i.discogs.com/No3xVPm_eRRdUiTrbgzuIrbFq8MyuVXA3SY4hrX0inM/rs:fit/g:sm/q:90/h:584/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkyMjIw/MjktMTQ4NzEwMTg5/NC0xNDc1LmpwZWc.jpeg"
     - "https://i.discogs.com/wgCUkP2YO5uVJucG3nUapHTfNUK6EbTjDeR-0ogXti4/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkyMjIw/MjktMTQ4NzEwMTkx/MS05NTk2LmpwZWc.jpeg"
     - "https://i.discogs.com/8hSWz0aiE-Ygj1NMUnRoNV2FO7Ku0h3UGz_PU7yAKYo/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkyMjIw/MjktMTQ4NzEwMTkx/Mi0yNjIyLmpwZWc.jpeg"
-    - "https://i.discogs.com/3WruokfyWKBzWFp1fGNs1hMEaZPAKp11kjuV411hOpA/rs:fit/g:sm/q:90/h:603/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkyMjIw/MjktMTQ4NzEwMTkw/MC03NzIwLmpwZWc.jpeg"
+    - "https://i.discogs.com/rUsRaiLa5gIr6TYGanxfXaKwLwtyAN4O0-9verOzz08/rs:fit/g:sm/q:90/h:600/w:596/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkyMjIw/MjktMTQ4NzEwMTkw/MC03NzIwLmpwZWc.jpeg"
     - "https://i.discogs.com/grPV2v2u7AZmVgY8d7pNHgRI9HuIzaMsRbXpqukbJTw/rs:fit/g:sm/q:90/h:587/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkyMjIw/MjktMTQ4NzEwMTg5/NS0xNDg2LmpwZWc.jpeg"
     - "https://i.discogs.com/ZcRqDYFU55lgyTvTKjpoGm1fxSJMNrQzkjABE6yF90A/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkyMjIw/MjktMTQ3NjkyNTg2/NC0xMTA3LmpwZWc.jpeg"
 genres: ["Rock"]
@@ -47,6 +47,8 @@ styles: ["Noise", "Alternative Rock", "Psychedelic Rock"]
 {{< youtube id="20G3LlU4z1A" title="Thought Forms - Woolf Music" >}}<br>
 ### More Videos
 
+- [Thought Forms - Forget My Name](https://www.youtube.com/watch?v=wIqml6lLNJw)
+- [Thought Forms - Woolf Music](https://www.youtube.com/watch?v=20G3LlU4z1A)
 - [Thought Forms - Forget My Name](https://www.youtube.com/watch?v=wIqml6lLNJw)
 
 ## Release Images

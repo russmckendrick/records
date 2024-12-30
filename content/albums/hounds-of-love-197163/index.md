@@ -4,6 +4,7 @@ artist_name: "Kate Bush"
 artist: "kate-bush"
 album_name: "Hounds Of Love"
 date: 2015-09-02T18:23:52.000000Z
+release_date: "1985-09-16"
 release_id: "197163"
 slug: "hounds-of-love-197163"
 hideSummary: true
@@ -16,8 +17,8 @@ additional_images:
     - "https://i.discogs.com/M1wybuB_9MQq3u5YiAIfiHg9pTmx9fv01xyDfDPHPAc/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NzE2/My0xNDc1NTkwOTQ0/LTU2NjUuanBlZw.jpeg"
     - "https://i.discogs.com/sU-F22mV7bxfpkz9aQTIEppk1iBqER9J7_Lfjq-uUfU/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NzE2/My0xNDc1NTkwNTQ2/LTY5OTYuanBlZw.jpeg"
     - "https://i.discogs.com/NlRc8Mlyn-HhLfDzNQNfQFI4z920l886ax3bsfKy8WQ/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NzE2/My0xNDc1NTkwNTA3/LTcyNjAuanBlZw.jpeg"
-    - "https://i.discogs.com/PWLkZQ1YQpMbklj5lV9I2-wNTk0Dsa5JgW38c6_RgOg/rs:fit/g:sm/q:90/h:605/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NzE2/My0xNDc1NTkwOTQ3/LTExNTIuanBlZw.jpeg"
-    - "https://i.discogs.com/y1VJ19R7lkIxDt5U8ZJa_npxJPUnFeLQmJWxCaTSbUk/rs:fit/g:sm/q:90/h:612/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NzE2/My0xNDc1NTkwOTQ2/LTY0ODQuanBlZw.jpeg"
+    - "https://i.discogs.com/3Uc7pSxmJ3uwVppELiDFu1zya1VxyOnb1seSUHYtihQ/rs:fit/g:sm/q:90/h:600/w:594/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NzE2/My0xNDc1NTkwOTQ3/LTExNTIuanBlZw.jpeg"
+    - "https://i.discogs.com/38xbQOoZ-qRgPz0dq_OGUmEZmrB7IImZjDgHUITfImo/rs:fit/g:sm/q:90/h:600/w:588/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NzE2/My0xNDc1NTkwOTQ2/LTY0ODQuanBlZw.jpeg"
     - "https://i.discogs.com/4wWBgx4IykhoOIa3h6Q9rJaiCbooDrOh3DnxPyUCETw/rs:fit/g:sm/q:90/h:182/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NzE2/My0xNTU4MTg4NDQ5/LTI3NjQuanBlZw.jpeg"
     - "https://i.discogs.com/lk0Lr9ZDB8wVMMj1TP6bpL81y_1L8JWRNhZD2bhtcVw/rs:fit/g:sm/q:90/h:171/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NzE2/My0xNTU4MTg4NDUz/LTQ5NTcuanBlZw.jpeg"
     - "https://i.discogs.com/zYrdB1327FhzorJMGjPYdaJWq1IVKmsSDY5X69F4hpI/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NzE2/My0xNTY1OTcwODky/LTY0NjguanBlZw.jpeg"
@@ -26,9 +27,11 @@ genres: ["Electronic", "Rock", "Pop"]
 styles: ["Art Rock", "Experimental", "Pop Rock"]
 ---
 
-Hounds of Love is the fifth studio album by English musician Kate Bush, released on 16 September 1985 by EMI Records. It was a commercial success and marked a return to the public eye for Bush after the relatively low sales of her previous album, 1982's The Dreaming. The album's lead single, "Running Up That Hill (A Deal with God)", became one of Bush's biggest hits, reaching number 3 in the UK upon release and later giving Bush her second number 1 UK single in June 2022. The album's first side produced three further singles, "Cloudbusting", "Hounds of Love", and "The Big Sky". The second side, subtitled The Ninth Wave, forms a conceptual suite about a woman drifting alone in the sea at night.
-Hounds of Love received critical acclaim both on its release and in retrospective reviews. It is considered by many fans and music critics to be Bush's best album, and has been regularly voted one of the greatest albums of all time. It was Bush's second album to top the UK Albums Chart and in the US, it reached the top 40 on the Billboard 200. It is her best-selling studio album, having been certified double platinum for 600,000 sales in the UK, and by 1998 it had sold 1.1 million copies worldwide. The album was nominated at the 1986 Brit Awards for Best British Album, at which Bush was also nominated for Best British Female and Best British Single for "Running Up That Hill". In 2022, the album re-entered various charts, including reaching number one on the Billboard Top Alternative Albums, due to the appearance of "Running Up That Hill" in the Netflix series Stranger Things.
-    
+If Kate Bush’s first two albums were steeped in the art-rock of the ’70s (florid piano melodies, thrumming Hammond organs, a <i>Spiders from Mars</i>-grade rhythm section), then 1985’s <i>Hounds of Love</i>, the British singer-songwriter’s fifth LP, didn’t just reflect its era—it helped define it. Few songs are more evocative of the sound of mid-’80s pop than “Running Up That Hill”, with its gated drums, quasi-dance beat, eerie vocal effects and instantly recognisable synthesiser melody. Likewise, few albums did more to take the ambition of progressive rock and port it into the digital era.<br />
+Split across two side-length suites—the five-song <i>Hounds of Love</i> and the seven-song <i>The Ninth Wave</i>—the album grapples with big themes: the gulf between men and women, the fierceness of a mother’s love, the nature of dreams. Bush’s voice is an instrument of breathtaking power, capable of both tenderness and force, yet Bush herself is everywhere and nowhere: Particularly in the second suite, her songwriting gives shape to a kind of fragmented consciousness, a shifting array of thoughts, voices and perspectives. Cryptic metaphors and allusions give the songs an unmistakably metaphysical aura, and the production follows suit. Bush recorded the album at home, in the 48-track studio she installed in a barn behind her house just outside of London, in a lengthy process of demoing, overdubbing and layering. Availing herself of a state-of-the-art Fairlight CMI sampling synthesiser, one of the first of its kind, she peppered the album with sound effects: church bells, breaking glass, bits of film dialogue and the snippets of Georgian folk music that give “Hello Earth” its otherworldly power.<br />
+Yet the LP never feels overstuffed. There’s an abiding elegance to sounds like the fretless bass of “Mother Stands for Comfort”, and whenever the album reaches a peak of intensity, she instinctively knows to pull back. “Waking the Witch” builds from a dreamlike reverie to an almost overwhelming surfeit of input—industrial-strength drum machine, atonal guitars, death-metal growls—only to give way to “Watching You Without Me”, a shimmering ballad located halfway between Japanese ambient music and The Beatles’ most psychedelic pop. In 1985, there was nothing else like it out there. And in some ways, nothing else has ever come close to its mix of pop hooks and avant-garde sound-sculpting. But <i>Hounds of Love</i> also opened an entire world to be explored, with generations of musicians—Björk, Fiona Apple, Tori Amos, Joanna Newsom, Julia Holter, to name just a few—following in Bush’s wake.
+        
+        
     
 
 
@@ -49,17 +52,39 @@ Hounds of Love received critical acclaim both on its release and in retrospectiv
 14. The Morning Fog (2:32)
 
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/hounds-of-love-2018-remaster/1675560565" >}}<br>
+{{< applemusic url="https://music.apple.com/gb/album/hounds-of-love/1675375084" >}}<br>
 
 
 ## Videos
-### Kate Bush - Hounds of Love - Official Music Video
-{{< youtube id="VerK4zwMRQw" title="Kate Bush - Hounds of Love - Official Music Video" >}}<br>
+### Running Up That Hill (A Deal With God) (2018 Remaster)
+{{< youtube id="HYwNM1t9ltI" title="Running Up That Hill (A Deal With God) (2018 Remaster)" >}}<br>
 ### More Videos
 
-- [Kate Bush - Cloudbusting - Official Music Video](https://www.youtube.com/watch?v=pllRW9wETzw)
-- [Waking The Witch](https://www.youtube.com/watch?v=k7FEneG7gsg)
 - [Kate Bush - Running Up That Hill - Official Music Video](https://www.youtube.com/watch?v=wp43OdtAAkM)
+- [Kate Bush - Hounds of Love](https://www.youtube.com/watch?v=GOlkRP6zNlY)
+- [Kate Bush - Hounds Of Love (2018 Remastered) (1985) (Full Album)](https://www.youtube.com/watch?v=Q9ky4ODa6Pc)
+- [Kate Bush The Big Sky](https://www.youtube.com/watch?v=QaDUFC8nigM)
+- [Mother Stands For Comfort](https://www.youtube.com/watch?v=L4moGj1b-0g)
+- [And Dream Of Sheep](https://www.youtube.com/watch?v=_8UUVcGskEw)
+- [Under Ice](https://www.youtube.com/watch?v=rSVGdE7sJaM)
+- [Waking The Witch](https://www.youtube.com/watch?v=ZlZmpe-svno)
+- [Watching You Without Me](https://www.youtube.com/watch?v=SI5_xqBVr-s)
+- [Jig Of Life](https://www.youtube.com/watch?v=ntIlVNDpLW8)
+- [Hello Earth](https://www.youtube.com/watch?v=U7QCtPZ3pTg)
+- [The Morning Fog](https://www.youtube.com/watch?v=CZQk2ZgZP3I)
+- [Running Up That Hill (A Deal With God) (2018 Remaster)](https://www.youtube.com/watch?v=HYwNM1t9ltI)
+- [Kate Bush - Running Up That Hill - Official Music Video](https://www.youtube.com/watch?v=wp43OdtAAkM)
+- [Kate Bush - Hounds of Love](https://www.youtube.com/watch?v=GOlkRP6zNlY)
+- [Kate Bush - Hounds Of Love (2018 Remastered) (1985) (Full Album)](https://www.youtube.com/watch?v=Q9ky4ODa6Pc)
+- [Kate Bush The Big Sky](https://www.youtube.com/watch?v=QaDUFC8nigM)
+- [Mother Stands For Comfort](https://www.youtube.com/watch?v=L4moGj1b-0g)
+- [And Dream Of Sheep](https://www.youtube.com/watch?v=_8UUVcGskEw)
+- [Under Ice](https://www.youtube.com/watch?v=rSVGdE7sJaM)
+- [Waking The Witch](https://www.youtube.com/watch?v=ZlZmpe-svno)
+- [Watching You Without Me](https://www.youtube.com/watch?v=SI5_xqBVr-s)
+- [Jig Of Life](https://www.youtube.com/watch?v=ntIlVNDpLW8)
+- [Hello Earth](https://www.youtube.com/watch?v=U7QCtPZ3pTg)
+- [The Morning Fog](https://www.youtube.com/watch?v=CZQk2ZgZP3I)
 
 ## Release Images
 {{< imageGrid >}}

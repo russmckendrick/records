@@ -19,7 +19,7 @@ additional_images:
     - "https://i.discogs.com/0TdsrX0PKXw3VMTLzWkb2yF-aLvElNMIUlDjfWGqT7w/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2MTYy/NDU5LTE2NzY4NTk4/MDQtNjg5NC5qcGVn.jpeg"
     - "https://i.discogs.com/6LmQwNCqWzH5L01ZKlqudppYJ6EAeaa5wKa5DTly0FY/rs:fit/g:sm/q:90/h:592/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2MTYy/NDU5LTE2NzY4NTk4/MDQtNDE0Ni5qcGVn.jpeg"
     - "https://i.discogs.com/CfGKJRURTOj07WfB5hGGYN61Qgpl2Sb6-fI8T1thf3E/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2MTYy/NDU5LTE2NzY4NTk4/MDQtNzE2OS5qcGVn.jpeg"
-    - "https://i.discogs.com/9VEA9yVaUgHc3-qgC5bfbRh3ZV1DrOJGtkjbQTbCxkQ/rs:fit/g:sm/q:90/h:608/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2MTYy/NDU5LTE2NzY4NTk4/MDYtMzkyOS5qcGVn.jpeg"
+    - "https://i.discogs.com/JSqODoAJx5Hb00lyQCdHprW6NPBUvAxQ38_6arp_pxo/rs:fit/g:sm/q:90/h:600/w:591/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2MTYy/NDU5LTE2NzY4NTk4/MDYtMzkyOS5qcGVn.jpeg"
     - "https://i.discogs.com/Pbj0VESFLGkUngQjAeHSO3_9DWvH7bAQzwLvt-73DBU/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2MTYy/NDU5LTE2NzY4NTk4/MDMtMjY3Ni5qcGVn.jpeg"
     - "https://i.discogs.com/oznY-5_GQjmTGJ6tltaHHIxTqcVpMsBJO-4E9T1k4pE/rs:fit/g:sm/q:90/h:226/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2MTYy/NDU5LTE2NzY4NTk4/MDEtMzA5NC5qcGVn.jpeg"
     - "https://i.discogs.com/3RWOTNnorHXHorwA06WzueIkxyjRONoQL6cOuj9bli4/rs:fit/g:sm/q:90/h:196/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2MTYy/NDU5LTE2NzY4NTk4/MDAtODE3Mi5qcGVn.jpeg"
@@ -87,4 +87,4 @@ styles: ["Alternative Rock", "Indie Rock"]
 | Label          | Mutually Detrimental |
 | Catalog Number | MD007LP |
 | Notes | Hype sticker states "Limited Edition Clear Vinyl".  The record itself is coke bottle green/clear.  Tracks are sequentially listed on release.  Embossed cover.  Includes digital download coupon. |
-| Discogs URL    | [Tennis - Swimmer](https://www.discogs.com/release/26162459-Tennis-Swimmer) |
+| Discogs URL    | [Tennis - Swimmer](https://www.discogs.com/release/26162459-Tennis-6-Swimmer) |

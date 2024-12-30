@@ -12,11 +12,11 @@ cover:
     alt: "Loss by Pijn"
     caption: "Loss by Pijn"
 additional_images:
-    - "https://i.discogs.com/__uDPr2jk44dza0h4vDHk6Qy2AwFv9LU3dl7EY_koRU/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNzEz/OTY2LTE1NDgzMjc5/NDQtMjk1Mi5qcGVn.jpeg"
-    - "https://i.discogs.com/BLoe3bb95dkYvTuDN2xxrq-V4IZZVs5NOnRzTWRggfU/rs:fit/g:sm/q:90/h:606/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNzEz/OTY2LTE1NDExMDc1/MTctNzQxMi5qcGVn.jpeg"
-    - "https://i.discogs.com/JXTPH6-lcSU6e1rEi4zHkJ-pZmPzkosi2YrCVgTwPqE/rs:fit/g:sm/q:90/h:606/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNzEz/OTY2LTE1NDExMDc1/MTYtNjI1My5qcGVn.jpeg"
+    - "https://i.discogs.com/mmihN2q7ZHf82ttr6Hn1wuDqKIJm5iv4GtMABRkmc24/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNzEz/OTY2LTE1NDgzMjc5/NDQtMjk1Mi5qcGVn.jpeg"
+    - "https://i.discogs.com/6OdQdEwiQskSAXDp92dnrY2YJvG5jdlZLgN0jDCrnj8/rs:fit/g:sm/q:90/h:600/w:593/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNzEz/OTY2LTE1NDExMDc1/MTctNzQxMi5qcGVn.jpeg"
+    - "https://i.discogs.com/_CuPE92D_fw3cHqsPkMZ27VkzdY9cX-bADtPAxhSKnE/rs:fit/g:sm/q:90/h:600/w:593/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNzEz/OTY2LTE1NDExMDc1/MTYtNjI1My5qcGVn.jpeg"
     - "https://i.discogs.com/pk_zPcvN6iskqHamNNWQKe87yLX-fro36pXa-DHWr3A/rs:fit/g:sm/q:90/h:338/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNzEz/OTY2LTE1NDExMDc1/MTEtMjI1My5qcGVn.jpeg"
-    - "https://i.discogs.com/SErAq8PtVyi4gDSy-SQ9okcIs5JYtNiVQJtRZbit_WM/rs:fit/g:sm/q:90/h:602/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNzEz/OTY2LTE1NDExMDc1/MTYtODcwNi5qcGVn.jpeg"
+    - "https://i.discogs.com/8MDYUdrsa62Zkwf7TRAS8WheMsEiOjknn29p4ywjSgg/rs:fit/g:sm/q:90/h:600/w:597/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNzEz/OTY2LTE1NDExMDc1/MTYtODcwNi5qcGVn.jpeg"
 genres: ["Rock"]
 styles: ["Post Rock", "Post-Metal"]
 ---

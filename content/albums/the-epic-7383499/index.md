@@ -4,7 +4,6 @@ artist_name: "Kamasi Washington"
 artist: "kamasi-washington"
 album_name: "The Epic"
 date: 2016-03-26T15:16:51.000000Z
-release_date: "2015-05-04"
 release_id: "7383499"
 slug: "the-epic-7383499"
 hideSummary: true
@@ -22,24 +21,25 @@ additional_images:
     - "https://i.discogs.com/edLQ-3-0uA_iyMNB2w8DQfPqmwNs1gGqBm0gewFGscg/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTczODM0/OTktMTQ1NzcxNDM4/OC01MzYwLmpwZWc.jpeg"
     - "https://i.discogs.com/0I7rVV_cnA5OUpIyVoXL7t7GHRbUdImHlco3AjX6aUA/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTczODM0/OTktMTQ1NzcxNDUx/Ni04MTMwLmpwZWc.jpeg"
     - "https://i.discogs.com/T7CzNXnNL_oQEHuBCsmvV3uNhw4Lm2iV2pjsQrs5VpU/rs:fit/g:sm/q:90/h:594/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTczODM0/OTktMTQ1NzcxNDQ3/NC00MDk4LmpwZWc.jpeg"
-    - "https://i.discogs.com/AMJJYgLrl6FiltCrkqfplRBMRFhYtT0H2R1rqs7jgp0/rs:fit/g:sm/q:90/h:616/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTczODM0/OTktMTQ1NzcxNDQ3/NS04Mzg0LmpwZWc.jpeg"
+    - "https://i.discogs.com/05pZ4yRRm6JAjKwe2f3wjPekcFnnsabpmXoKfynyYUA/rs:fit/g:sm/q:90/h:600/w:584/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTczODM0/OTktMTQ1NzcxNDQ3/NS04Mzg0LmpwZWc.jpeg"
     - "https://i.discogs.com/YinQ3sPua2DLVxyJNIamGtRyx2o_ihrll_qI6duTlCA/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTczODM0/OTktMTQ1NzcxNDQ1/Mi02OTExLmpwZWc.jpeg"
     - "https://i.discogs.com/CGk0C3dApdMdA3xrSQnJ3dawk0ydtiupxsWsqtKHkGY/rs:fit/g:sm/q:90/h:594/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTczODM0/OTktMTQ1NzcxNDQ5/Ny0xMjk0LmpwZWc.jpeg"
     - "https://i.discogs.com/fGjopVMipMTFP0GxHjBu3fIef5e0ndFq8-KtOFBXsHw/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTczODM0/OTktMTQ1NzcxNDU0/MS03ODIwLmpwZWc.jpeg"
     - "https://i.discogs.com/_BvATLEQY-Vd-e7mtRBa1xL13LUZNQmwb0J8dG_8VLQ/rs:fit/g:sm/q:90/h:592/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTczODM0/OTktMTQ1NzcxNDQ4/OC0zMjI4LmpwZWc.jpeg"
     - "https://i.discogs.com/oKiBdSMnanIyru3pvYChHYSedbaqppDRUlM28CIHM1w/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTczODM0/OTktMTQ1NzcxNDUw/Ni01ODcyLmpwZWc.jpeg"
-    - "https://i.discogs.com/nB0P65gO1eKb-fUpGK7NrTbWnz-8sGGZ1Hvmi89FE8g/rs:fit/g:sm/q:90/h:601/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTczODM0/OTktMTQ1NzcxNDUy/MS01NzgwLmpwZWc.jpeg"
+    - "https://i.discogs.com/46gMLyj79AuV9Gq80zR3VSZYGLruiFI5HDwicXXNf7g/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTczODM0/OTktMTQ1NzcxNDUy/MS01NzgwLmpwZWc.jpeg"
     - "https://i.discogs.com/yTHVUo4YN_LeVJvtyiCiCRiWn-coKPstsP-YakL7vmM/rs:fit/g:sm/q:90/h:593/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTczODM0/OTktMTQ1NzcxNDUy/OC0yMjAyLmpwZWc.jpeg"
     - "https://i.discogs.com/DeAsi-S261ssxzVZvn3FImUwkO1mPdAaFMM3QD3Ldxc/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTczODM0/OTktMTQ1NzcxNDUz/NC03ODA3LmpwZWc.jpeg"
     - "https://i.discogs.com/myQ4T4d6gpNQAvnoMZrxNfX6cq8CD1QiEcGTtR9kF-8/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTczODM0/OTktMTQ1NzcxNDU0/NC0zMDE5LmpwZWc.jpeg"
-    - "https://i.discogs.com/iXBrN8QcY-nFWv9-Wd91CJzGueeVlP9P2-d-R8veeb0/rs:fit/g:sm/q:90/h:601/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTczODM0/OTktMTQ1NzcxNDU1/My04NTI3LmpwZWc.jpeg"
+    - "https://i.discogs.com/kndB2Y9GsCyB9037MSOR7RIiG_sMZTIelbmGwL_VnGQ/rs:fit/g:sm/q:90/h:600/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTczODM0/OTktMTQ1NzcxNDU1/My04NTI3LmpwZWc.jpeg"
 genres: ["Jazz", "Funk / Soul"]
 styles: ["Fusion", "Contemporary Jazz", "Psychedelic", "Soul-Jazz"]
 ---
 
-The most ambitious jazz album to arrive in ages, Los Angeles saxophonist/composer Kamasi Washington's debut clocks in at 174 minutes—with never a dull moment. While his flawless 10-piece band already packs a wallop, thanks to their doubled basses and drums, Washington embellishes them with a string section and angelic choir. Like his luminous playing on Kendrick Lamar’s <i>To Pimp a Butterfly</i>, Washington solos with power and grace here. Versions of "Cherokee" and Terence Blanchard's "Malcolm's Theme" nod to jazz tradition, but it's originals like "Change of the Guard" that signal his truly epic aspirations.
-        
-        
+The Epic is the third studio album by American jazz saxophonist Kamasi Washington and his first to be released on a record label. It was released on May 5, 2015, by the Brainfeeder record label.
+
+
+    
     
 
 
@@ -47,26 +47,26 @@ The most ambitious jazz album to arrive in ages, Los Angeles saxophonist/compose
 1. Volume 1 - The Plan
 2. Change Of The Guard (12:16)
 3. Isabelle  (12:13)
-4. Final Thought (06:32)
+4. Final Thought (6:32)
 5. The Next Step (14:49)
 6. Askim (12:35)
 7. Volume 2 - The Glorious Tale
-8. The Rhythm Changes (07:44)
-9. Leroy And Lanisha (09:24)
-10. Re Run (08:20)
-11. Miss Understanding (08:46)
-12. Henrietta Our Hero (07:14)
-13. Seven Prayers (07:36)
-14. Cherokee (08:14)
+8. The Rhythm Changes (7:44)
+9. Leroy And Lanisha (9:24)
+10. Re Run (8:20)
+11. Miss Understanding (8:46)
+12. Henrietta Our Hero (7:14)
+13. Seven Prayers (7:36)
+14. Cherokee (8:14)
 15. Volume 3 - The Historic Repetition
 16. The Magnificent 7 (12:46)
 17. Re Run Home (14:06)
-18. Malcolm's Theme (08:41)
+18. Malcolm's Theme (8:41)
 19. Clair De Lune (11:08)
 20. The Message (11:09)
 
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/the-epic/975610456" >}}<br>
+{{< applemusic url="https://music.apple.com/gb/album/retrorespective-feat-kamasi-washington/1136327783" >}}<br>
 
 
 ## Videos

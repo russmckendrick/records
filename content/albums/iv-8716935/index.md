@@ -21,7 +21,7 @@ additional_images:
     - "https://i.discogs.com/aRnC7_92c4GSGAChlevXXnEWm7Zp37DKFZOCwfkFZH0/rs:fit/g:sm/q:90/h:586/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg3MTY5/MzUtMTQ2NzI1MDE3/OC0xMjE0LmpwZWc.jpeg"
     - "https://i.discogs.com/DJ-YoYEGgmB0N31ts2M2UFRgqGtlJbEM1XGznq4N0Ro/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg3MTY5/MzUtMTQ2NzI1MDE3/OS03NzAxLmpwZWc.jpeg"
     - "https://i.discogs.com/XUJbLUiRYeL_8byXwpgvRlbZcdfVB-FPXDBEccWF9Vc/rs:fit/g:sm/q:90/h:586/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg3MTY5/MzUtMTQ2NzI1MDE3/OS05MzQ5LmpwZWc.jpeg"
-    - "https://i.discogs.com/CWCAVb77RPDZmMkR6SjCa-86w8CwntOoYWmEZV6o8_s/rs:fit/g:sm/q:90/h:971/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg3MTY5/MzUtMTQ2NzI1MDE3/NC0xNTcwLmpwZWc.jpeg"
+    - "https://i.discogs.com/g55DbXdWuIwspRGfQJqpY0IkWChtMddD_MRhZVDiPCo/rs:fit/g:sm/q:90/h:600/w:370/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg3MTY5/MzUtMTQ2NzI1MDE3/NC0xNTcwLmpwZWc.jpeg"
     - "https://i.discogs.com/_-G_ld0USkB13sJ4qEBVzugC55EdTeH-eQrf2p9MwJY/rs:fit/g:sm/q:90/h:409/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg3MTY5/MzUtMTQ2NzI1MDE3/NS05MDI3LmpwZWc.jpeg"
     - "https://i.discogs.com/q4RluHCsA-tzkSGLjayV5lKoLjq07HsMuIKAeGf4YxA/rs:fit/g:sm/q:90/h:329/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg3MTY5/MzUtMTQ2NzI1MDE3/NS05NzQ1LmpwZWc.jpeg"
 genres: ["Jazz"]
@@ -30,6 +30,8 @@ styles: []
 
 IV is the fourth studio album from Canadian jazz instrumental hip hop band BadBadNotGood. It was released on July 8, 2016. It features collaborations with Future Islands frontman Sam Herring, saxophonist Colin Stetson, Haitian-Canadian musician Kaytranada, American hip hop artist Mick Jenkins, and Canadian singer-songwriter Charlotte Day Wilson.
 It is also the band's first album to feature longtime touring partner and collaborator Leland Whitty as a formal member of the band.
+
+
     
     
 
@@ -48,7 +50,7 @@ It is also the band's first album to feature longtime touring partner and collab
 11. Cashmere
 
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/iv/1608122086" >}}<br>
+{{< applemusic url="https://music.apple.com/gb/album/late-night-tales-badbadnotgood/1236718852" >}}<br>
 
 
 ## Videos
@@ -56,12 +58,17 @@ It is also the band's first album to feature longtime touring partner and collab
 {{< youtube id="lstVQxf0p3Y" title="BADBADNOTGOOD - 'IV' LP (Full Album Stream)" >}}<br>
 ### More Videos
 
-- [BADBADNOTGOOD - Speaking Gently (Official Stream)](https://www.youtube.com/watch?v=fafBo42s_Ss)
-- [BADBADNOTGOOD - Up (IV Bonus Track - Japan Edition)](https://www.youtube.com/watch?v=VwVX172N3OQ)
+- [BADBADNOTGOOD - "Speaking Gently" (Official Stream)](https://www.youtube.com/watch?v=fafBo42s_Ss)
+- [BADBADNOTGOOD - "In Your Eyes" (Feat. Charlotte Day Wilson) (Official Stream)](https://www.youtube.com/watch?v=-PCauQozne0)
+- [BADBADNOTGOOD "Lavender" (Feat. Kaytranada) (Official Stream)](https://www.youtube.com/watch?v=WpFGIFqVdG4)
+- [BADBADNOTGOOD - 'IV' LP (Full Album Stream)](https://www.youtube.com/watch?v=lstVQxf0p3Y)
+- [BADBADNOTGOOD - "Speaking Gently" (Official Stream)](https://www.youtube.com/watch?v=fafBo42s_Ss)
+- [BADBADNOTGOOD - "In Your Eyes" (Feat. Charlotte Day Wilson) (Official Stream)](https://www.youtube.com/watch?v=-PCauQozne0)
+- [BADBADNOTGOOD "Lavender" (Feat. Kaytranada) (Official Stream)](https://www.youtube.com/watch?v=WpFGIFqVdG4)
+- [BADBADNOTGOOD - "Speaking Gently" (Official Stream)](https://www.youtube.com/watch?v=fafBo42s_Ss)
 - [BADBADNOTGOOD - Time Moves Slow feat. Sam Herring](https://www.youtube.com/watch?v=UWIIPX_5rbM)
-- [BADBADNOTGOOD - In Your Eyes (Feat. Charlotte Day Wilson) (Official Stream)](https://www.youtube.com/watch?v=-PCauQozne0)
 - [BADBADNOTGOOD -  Hyssop of Love (featuring Mick Jenkins)](https://www.youtube.com/watch?v=t4cI5zNfNb0)
-- [BADBADNOTGOOD Lavender (Feat. Kaytranada) (Official Stream)](https://www.youtube.com/watch?v=WpFGIFqVdG4)
+- [BADBADNOTGOOD - Up (IV Bonus Track - Japan Edition)](https://www.youtube.com/watch?v=VwVX172N3OQ)
 
 ## Release Images
 {{< imageGrid >}}

@@ -17,15 +17,16 @@ additional_images:
     - "https://i.discogs.com/mDXlyuAefJdXoinj4NRbvMDIzkeku84oqaxTJqWNbiE/rs:fit/g:sm/q:90/h:592/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ2ODg3/MDgtMTQ5ODg1ODU1/Mi04MjU3LmpwZWc.jpeg"
     - "https://i.discogs.com/sUmMO7Evhv5f31jch5JwBb1AVO2KKT-G_8T7gO-YRD8/rs:fit/g:sm/q:90/h:592/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ2ODg3/MDgtMTQ5ODg1ODU1/My0zMTY5LmpwZWc.jpeg"
     - "https://i.discogs.com/LnCt-ZyXH1SWdgPkx-JzSZhJY26-5z91QQs6a4YhuhU/rs:fit/g:sm/q:90/h:585/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ2ODg3/MDgtMTQ5ODg1ODU1/NS04NDA1LmpwZWc.jpeg"
-    - "https://i.discogs.com/LWga0OIz8HmwT-HCy-9el9jOLG7b-GrMzP4wVEObjeo/rs:fit/g:sm/q:90/h:604/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ2ODg3/MDgtMTQ5ODg1ODU1/Ny01NDA5LmpwZWc.jpeg"
-    - "https://i.discogs.com/VV04rw-aSOrt13MJZjRAVQzyGplkjnAGS-JI_cqyjl8/rs:fit/g:sm/q:90/h:612/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ2ODg3/MDgtMTQ5ODg1ODU1/OC00MTAwLmpwZWc.jpeg"
-    - "https://i.discogs.com/2pyxY_Jq-VmT2Sk6rVLKqnd0N4aiOo3HtLKlc2WPZQw/rs:fit/g:sm/q:90/h:603/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ2ODg3/MDgtMTQ5ODg1ODU2/MC0xNTk1LmpwZWc.jpeg"
-    - "https://i.discogs.com/smYweQKJ7wcnZXYjaMpXYrN42Jp9U7f1X8oT2UfZsU0/rs:fit/g:sm/q:90/h:609/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ2ODg3/MDgtMTQ5ODg1ODU2/Mi01MDcyLmpwZWc.jpeg"
+    - "https://i.discogs.com/G9-2Yiu5Z3_KCkzzJaPxy2dYqkvBfE-O6KntLKP7vp0/rs:fit/g:sm/q:90/h:600/w:596/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ2ODg3/MDgtMTQ5ODg1ODU1/Ny01NDA5LmpwZWc.jpeg"
+    - "https://i.discogs.com/vJ5U9vPtR86F193FFvfwKrebi_O_gwGCu6meW-ZHpWc/rs:fit/g:sm/q:90/h:600/w:588/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ2ODg3/MDgtMTQ5ODg1ODU1/OC00MTAwLmpwZWc.jpeg"
+    - "https://i.discogs.com/7U8rN0urtfN_X2mSHuc1tOPnlSqlElRcid6W7Fkyy5Q/rs:fit/g:sm/q:90/h:600/w:597/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ2ODg3/MDgtMTQ5ODg1ODU2/MC0xNTk1LmpwZWc.jpeg"
+    - "https://i.discogs.com/g94oS74ImN7yR5x2NIHFTamGxhD1WJsqhff4Uz_6aJs/rs:fit/g:sm/q:90/h:600/w:591/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ2ODg3/MDgtMTQ5ODg1ODU2/Mi01MDcyLmpwZWc.jpeg"
 genres: ["Electronic", "Rock"]
 styles: ["Leftfield", "Indie Rock"]
 ---
 
-Dear Science is the third studio album by the band TV on the Radio. It was released on September 16, 2008, digitally through Touch and Go Records, with the physical release coming a week later through Interscope Records and DGC Records in North America and 4AD elsewhere.As of 2012, sales in the United States have exceeded 203,000 copies, according to Nielsen SoundScan. In 2009. It was awarded a gold certification from the Independent Music Companies Association, which indicated sales of at least 100,000 copies throughout Europe.
+Dear Science is the third studio album by the band TV on the Radio. It was released on September 16, 2008, digitally through Touch and Go Records, with the physical release coming a week later through Interscope Records and DGC Records in North America and 4AD elsewhere.
+As of 2012, sales in the United States have exceeded 203,000 copies, according to Nielsen SoundScan. In 2009, it was awarded a gold certification from the Independent Music Companies Association, which indicated sales of at least 100,000 copies throughout Europe.
     
     
 
@@ -44,21 +45,31 @@ Dear Science is the third studio album by the band TV on the Radio. It was relea
 11. Lover's Day (5:54)
 
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/dear-science-bonus-track-version/1437099502" >}}<br>
+{{< applemusic url="https://music.apple.com/gb/album/dear-science/1437099341" >}}<br>
 
 
 ## Videos
-### Halfway Home
-{{< youtube id="CBEht-RY8oc" title="Halfway Home" >}}<br>
+### Love Dog
+{{< youtube id="jigPcKz3pSQ" title="Love Dog" >}}<br>
 ### More Videos
 
-- [Love Dog](https://www.youtube.com/watch?v=jigPcKz3pSQ)
-- [DLZ](https://www.youtube.com/watch?v=0BAtp5yi5-4)
 - [Family Tree](https://www.youtube.com/watch?v=nCdYMs66Y38)
-- [Love Dog](https://www.youtube.com/watch?v=e3QoNBCNWRY)
 - [Heroic Dose](https://www.youtube.com/watch?v=KiiOhcJ24EY)
+- [DLZ](https://www.youtube.com/watch?v=0BAtp5yi5-4)
+- [Love Dog](https://www.youtube.com/watch?v=e3QoNBCNWRY)
 - [TV On The Radio - Golden Age](https://www.youtube.com/watch?v=2wTHxUl9WdQ)
 - [Family Tree](https://www.youtube.com/watch?v=1oKgKT8yONs)
+- [DLZ](https://www.youtube.com/watch?v=E6qCnRe3KDw)
+- [Halfway Home](https://www.youtube.com/watch?v=7qFI86BkC3Q)
+- [Family Tree](https://www.youtube.com/watch?v=TQOGnwNzgMo)
+- [TV On The Radio - Golden Age (Official Video)](https://www.youtube.com/watch?v=Fl4Oms4qcoE)
+- [Crying](https://www.youtube.com/watch?v=pNNpPdDWNEs)
+- [Stork & Owl](https://www.youtube.com/watch?v=NEkaQkt6vZc)
+- [Dancing Choose](https://www.youtube.com/watch?v=GXvoYbIDCVE)
+- [TV On The Radio - Golden Age](https://www.youtube.com/watch?v=2wTHxUl9WdQ)
+- [Love Dog](https://www.youtube.com/watch?v=jigPcKz3pSQ)
+- [Family Tree](https://www.youtube.com/watch?v=nCdYMs66Y38)
+- [Heroic Dose](https://www.youtube.com/watch?v=KiiOhcJ24EY)
 
 ## Release Images
 {{< imageGrid >}}

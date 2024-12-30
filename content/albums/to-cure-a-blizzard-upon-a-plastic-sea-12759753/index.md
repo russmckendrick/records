@@ -12,27 +12,27 @@ cover:
     alt: "To Cure A Blizzard Upon A Plastic Sea by Vennart"
     caption: "To Cure A Blizzard Upon A Plastic Sea by Vennart"
 additional_images:
-    - "https://i.discogs.com/PO3n8wgYD1zX52RMNwFvs-5hPMhLopKFozz5dvgE6AM/rs:fit/g:sm/q:90/h:618/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNzU5/NzUzLTE2MTE4NjM5/NTUtMjM2NC5qcGVn.jpeg"
-    - "https://i.discogs.com/S-782et-NnzcGItAFHBy19D4erx4Qj4fLHGXht_Ca2E/rs:fit/g:sm/q:90/h:619/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNzU5/NzUzLTE2MTE4NjM5/NTQtOTA2Ny5qcGVn.jpeg"
-    - "https://i.discogs.com/acuK_XDCo4pEA9CkTXTDYwbA_6Facb9q2qO4VV7T3x0/rs:fit/g:sm/q:90/h:608/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNzU5/NzUzLTE2MTE4NjM5/NDItMzE1Mi5qcGVn.jpeg"
+    - "https://i.discogs.com/rRqnM30eSVzwlR67fF3HEsd4iyb-N8dfjS6VCC6aZH4/rs:fit/g:sm/q:90/h:600/w:582/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNzU5/NzUzLTE2MTE4NjM5/NTUtMjM2NC5qcGVn.jpeg"
+    - "https://i.discogs.com/mtp2dmcg23jHzxZLIgDf8Ecxxdq0d2_t8hBSV8VosSE/rs:fit/g:sm/q:90/h:600/w:581/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNzU5/NzUzLTE2MTE4NjM5/NTQtOTA2Ny5qcGVn.jpeg"
+    - "https://i.discogs.com/yveoXQirylWzS2jJhpEYWkn25FoTB__No14cK4KCjhA/rs:fit/g:sm/q:90/h:600/w:591/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNzU5/NzUzLTE2MTE4NjM5/NDItMzE1Mi5qcGVn.jpeg"
     - "https://i.discogs.com/AAMX-5kkTp6-BTfCa0POu33nALgp3wC3IVdhPj1vBLc/rs:fit/g:sm/q:90/h:289/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNzU5/NzUzLTE2MTE4NjM5/NjctNTgzNC5qcGVn.jpeg"
-    - "https://i.discogs.com/anSbF3r4Orlu9Kj0qOva2HsL7c_tLd5nKKEecx18sao/rs:fit/g:sm/q:90/h:613/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNzU5/NzUzLTE2MTE4NjM5/NDYtNzQyNy5qcGVn.jpeg"
-    - "https://i.discogs.com/yPhGkHwWagDuOWvHlJ9qzSfbXXMDjGIDnM1cXdYkW44/rs:fit/g:sm/q:90/h:529/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNzU5/NzUzLTE2MTE4NjM5/NTktODQyMi5qcGVn.jpeg"
-    - "https://i.discogs.com/cQwQd5syPm8KfE1feEvhLZm4ixShRnyMmd28SOqoOzE/rs:fit/g:sm/q:90/h:533/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNzU5/NzUzLTE2MTE4NjM5/NjEtMzI4Ni5qcGVn.jpeg"
-    - "https://i.discogs.com/OsFW7EHbMhZ_JFWqsJQrqQy20pnJWUdbM2Iel-1naIo/rs:fit/g:sm/q:90/h:531/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNzU5/NzUzLTE2MTE4NjM5/NjEtMTg5Ni5qcGVn.jpeg"
-    - "https://i.discogs.com/iceMA6ujxQjpjxtAr5ECGa5WtJFYq02Y8ci4VHyH0Gk/rs:fit/g:sm/q:90/h:604/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNzU5/NzUzLTE2MTE4NjM5/NTktMTEwNC5qcGVn.jpeg"
+    - "https://i.discogs.com/-JKi9TCRcK_X2dES3EQVY6bcnaGWfpjpMoGRpdy_KzE/rs:fit/g:sm/q:90/h:600/w:586/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNzU5/NzUzLTE2MTE4NjM5/NDYtNzQyNy5qcGVn.jpeg"
+    - "https://i.discogs.com/Y4L62ynunRcoQKsslAa6D7uwqX8HwpMQlC6JJ0sfQyo/rs:fit/g:sm/q:90/h:600/w:595/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNzU5/NzUzLTE2OTc4MTAw/MDctMzUzMy5qcGVn.jpeg"
+    - "https://i.discogs.com/uas4SItA5FVSF745YJw5i6ZkVKHN24H8fX0qlFFi00Q/rs:fit/g:sm/q:90/h:600/w:596/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNzU5/NzUzLTE2OTc4MTAw/MDctNTMyMS5qcGVn.jpeg"
+    - "https://i.discogs.com/l-o1fcieUcaq7q0OteHZcwlduC8Cmpth4f9SXCNZKiU/rs:fit/g:sm/q:90/h:600/w:593/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNzU5/NzUzLTE2OTc4MTAw/MDctOTM4My5qcGVn.jpeg"
+    - "https://i.discogs.com/K8dTln2fAWmYC2D8uTgFiu_LEjSjQjg2yvmnYm6Bg2Y/rs:fit/g:sm/q:90/h:600/w:595/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNzU5/NzUzLTE2MTE4NjM5/NTktMTEwNC5qcGVn.jpeg"
     - "https://i.discogs.com/us7uVTkXvoyXk64g4Qyy4dLajG1KmT3WoAjvNXtG2nw/rs:fit/g:sm/q:90/h:299/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNzU5/NzUzLTE2MTE4NjM5/NjgtNjA2OC5qcGVn.jpeg"
-    - "https://i.discogs.com/IDUdCIbkvb32B_c5cfkwfczqVcdC0q6aMGdRP0LFBKc/rs:fit/g:sm/q:90/h:611/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNzU5/NzUzLTE2MTE4NjM5/NDktMjM0OS5qcGVn.jpeg"
+    - "https://i.discogs.com/tm5nggS-LHgcbere9bkWEmCDY5AD6wKmSpu2SsF9bKY/rs:fit/g:sm/q:90/h:600/w:588/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNzU5/NzUzLTE2MTE4NjM5/NDktMjM0OS5qcGVn.jpeg"
     - "https://i.discogs.com/50MPc39oatMwfAuNdwbsT3OEwCGQFojHxUTs8pmTato/rs:fit/g:sm/q:90/h:365/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNzU5/NzUzLTE2MTE4NjM5/NjgtNTcyMi5qcGVn.jpeg"
     - "https://i.discogs.com/vD7tqAC3UGWivtu6eKgQHosDywYTiNj7WkA97pWl42o/rs:fit/g:sm/q:90/h:389/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNzU5/NzUzLTE2MTE4NjM5/NjktODQxMi5qcGVn.jpeg"
     - "https://i.discogs.com/U_SUXIJ8mGt5KqhTQ4pU_M86Al6C-xNK50K0mAQm9vA/rs:fit/g:sm/q:90/h:505/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNzU5/NzUzLTE2MTE4NjM5/NTAtNzU2Mi5qcGVn.jpeg"
     - "https://i.discogs.com/yhyYghED6pslgfDTjVI2fIlY_15kFjvz9RBqgn6tcUo/rs:fit/g:sm/q:90/h:490/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNzU5/NzUzLTE2MTE4NjM5/NTItNTM4Ni5qcGVn.jpeg"
     - "https://i.discogs.com/QtCVnJqWh9vRIBKkxJ_6XGBB3z73us5T-67squOixIc/rs:fit/g:sm/q:90/h:508/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNzU5/NzUzLTE2MTE4NjM5/NTQtMTgyMy5qcGVn.jpeg"
     - "https://i.discogs.com/F7nTjAuZv8QsYiJT5IueYBSe9jH8kE28PYLHHa13P4I/rs:fit/g:sm/q:90/h:513/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNzU5/NzUzLTE2MTE4NjM5/NTItOTM4NS5qcGVn.jpeg"
-    - "https://i.discogs.com/Zh6NicxGOmR37JizbfOANYrNoxtz82fY6-JlbgihOsM/rs:fit/g:sm/q:90/h:608/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNzU5/NzUzLTE2MTE4NjM5/NDMtMTkyNC5qcGVn.jpeg"
-    - "https://i.discogs.com/9NJPVfntSafBXiuiD2ZIT1jly0nJU3DbLowD2623iew/rs:fit/g:sm/q:90/h:601/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNzU5/NzUzLTE2MTE4NjM5/MzYtNzU3My5qcGVn.jpeg"
-    - "https://i.discogs.com/v-X8KUEUjA9ZhmvhFsBUEhF8xTDHMPZK3izFeuAC908/rs:fit/g:sm/q:90/h:664/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNzU5/NzUzLTE2MTE4NjM5/NjMtNDk3Mi5qcGVn.jpeg"
-    - "https://i.discogs.com/CZuRHJPI5VgtBPQRnbRGGN4Mw2MUc1BtSPvEOgn94dU/rs:fit/g:sm/q:90/h:702/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNzU5/NzUzLTE2MTE4NjM5/NTktOTk5NC5qcGVn.jpeg"
+    - "https://i.discogs.com/TSMfv0HnV6I9fMR-Esza96LHzxjcCZk2WSp_JTo6hTA/rs:fit/g:sm/q:90/h:600/w:591/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNzU5/NzUzLTE2MTE4NjM5/NDMtMTkyNC5qcGVn.jpeg"
+    - "https://i.discogs.com/ssSujYQiEMRgII9Ug3nmO5UgrsZVdj2SR5zk0DgUUM0/rs:fit/g:sm/q:90/h:600/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNzU5/NzUzLTE2MTE4NjM5/MzYtNzU3My5qcGVn.jpeg"
+    - "https://i.discogs.com/8DGLKp4xP_2YeNBpyWZPbJKYh8kuIgxKKlbLaDVXz2c/rs:fit/g:sm/q:90/h:600/w:541/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNzU5/NzUzLTE2MTE4NjM5/NjMtNDk3Mi5qcGVn.jpeg"
+    - "https://i.discogs.com/aV6LXkvJ7ZEpcb_yyXwO0plVupEM3QNntX72zJdqMek/rs:fit/g:sm/q:90/h:600/w:512/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNzU5/NzUzLTE2MTE4NjM5/NTktOTk5NC5qcGVn.jpeg"
     - "https://i.discogs.com/SQDZfxD6cbX_wELD31jdSbPoWr19vNuGJ6QyE3s8rJE/rs:fit/g:sm/q:90/h:500/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNzU5/NzUzLTE2MTE4NjM5/NDUtNjI2Ny5qcGVn.jpeg"
     - "https://i.discogs.com/7l6Gyuv7Rxy3ZcCFOSW96d7-upwYRskoip3FUDUEEF0/rs:fit/g:sm/q:90/h:476/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNzU5/NzUzLTE2MTE4NjM5/NTEtODc1MS5qcGVn.jpeg"
     - "https://i.discogs.com/PXK4saOCZbgwV9-p2XYEGwoeYoCvAbiU93RJ3jG2GNw/rs:fit/g:sm/q:90/h:470/w:470/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNzU5/NzUzLTE1NDE0MTQ0/NTEtMjQ2Ni5qcGVn.jpeg"
@@ -80,6 +80,8 @@ styles: []
 35. CGI Metals - MF010DVD
 36. CGI Metals
 
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/to-cure-a-blizzard-upon-a-plastic-sea/1722675238" >}}<br>
 
 
 ## Videos

@@ -21,6 +21,13 @@ genres: ["Rock"]
 styles: ["Garage Rock", "Psychedelic Rock"]
 ---
 
+25 O'Clock is the debut record by English rock band the Dukes of Stratosphear and the eighth studio album by XTC, released on April Fools Day 1985 through Virgin Records. It was publicised as a long-lost collection of recordings by a late 1960s group, but actually consisted of new tracks recorded by Andy Partridge, Colin Moulding, and Dave Gregory of XTC with Gregory's brother Ian.
+The project was conceived by Partridge as a one-off excursion into 1960s-style psychedelic music. Three rules were set during its recording: songs must follow the conventions of 1967 and 1968 psychedelia, no more than two takes allowed, and use vintage equipment wherever possible. Virgin gave the group £5,000 and a two-week deadline for the sessions, in which the members adopted pseudonyms and dressed themselves in clothing of the era. Only six tracks were recorded due to time constraints.
+Upon its release in the UK, 25 O'Clock sold twice as many copies as XTC's then-latest album The Big Express (1984), even before the Dukes' identity was made public. One single was issued, "The Mole from the Ministry", which was an improvised-in-the-studio Beatles pastiche. 25 O'Clock was followed up in 1987 with the LP Psonic Psunspot, which contained the outtake "Have You Seen Jackie?". Another outtake, "Big Day", was reworked for XTC's 1986 album Skylarking.
+
+
+    
+    
 
 
 ## Tracklisting
@@ -34,13 +41,15 @@ styles: ["Garage Rock", "Psychedelic Rock"]
 
 
 ## Videos
-### Mole From The Ministry / The Dukes Of Stratosphear
-{{< youtube id="49q5FtQltzg" title="Mole From The Ministry / The Dukes Of Stratosphear" >}}<br>
+### The Dukes of Stratosphear - 25 O'Clock
+{{< youtube id="xGF7o_I4mAw" title="The Dukes of Stratosphear - 25 O'Clock" >}}<br>
 ### More Videos
 
-- [What in the World?? ... by The Dukes of Stratosphear REMASTERED](https://www.youtube.com/watch?v=fzaEsLgF3NQ)
-- [The Dukes Of Stratosphear, The 25 O'Clock 1985 (vinyl record)](https://www.youtube.com/watch?v=P1zLrEH0evI)
-- [The Dukes of Stratosphear - 25 O'Clock](https://www.youtube.com/watch?v=xGF7o_I4mAw)
+- [The Dukes Of Stratosphear - Bike Ride to the Moon - 2009 Remaster](https://www.youtube.com/watch?v=QDKZqZ8bsDs)
+- [My Love Explodes - The Dukes Of Stratosphear](https://www.youtube.com/watch?v=30XdxwZb0kc)
+- [The Dukes Of Stratosphear - What In The World? -](https://www.youtube.com/watch?v=MfDNP9El2qM)
+- [The Dukes Of Stratosphear - Your Gold Dress](https://www.youtube.com/watch?v=DnWoDmaiC0g)
+- [Mole From The Ministry / The Dukes Of Stratosphear](https://www.youtube.com/watch?v=49q5FtQltzg)
 
 ## Release Images
 {{< imageGrid >}}
@@ -48,6 +57,7 @@ styles: ["Garage Rock", "Psychedelic Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
+| Wikipedia URL | https://en.wikipedia.org/wiki/25_O%27Clock |
 | Format         | Vinyl 12" 33 ⅓ RPM Mini-Album Reissue Repress Stereo (Gatefold, 200gr) |
 | Label          | Ape House |
 | Catalog Number | APELP023 |

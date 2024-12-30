@@ -17,6 +17,11 @@ genres: ["Rock", "Pop"]
 styles: ["New Wave", "Pop Rock"]
 ---
 
+Enz of an Era was a compilation by New Zealand rock band Split Enz. Released to mark the band's 10th anniversary, and composed of tracks selected by members of the band, the album was released in New Zealand and Australia only. The album was followed up by two "Enz Of An Era" 10th anniversary concerts in early 1983.
+
+
+    
+    
 
 
 ## Tracklisting
@@ -35,11 +40,10 @@ styles: ["New Wave", "Pop Rock"]
 13. I Hope I Never (4:26)
 14. Give It A Whirl (2:49)
 
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/true-colours/1494504041" >}}<br>
 
 
-## Videos
-### 'Enz of an Era' Vignette
-{{< youtube id="NbNMQ_j1wgY" title="'Enz of an Era' Vignette" >}}<br>
 
 
 ## Release Images
@@ -48,6 +52,7 @@ styles: ["New Wave", "Pop Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
+| Wikipedia URL | https://en.wikipedia.org/wiki/Enz_of_an_Era |
 | Format         | Vinyl Mispress Compilation LP |
 | Label          | Mushroom |
 | Catalog Number | RML 52027 |

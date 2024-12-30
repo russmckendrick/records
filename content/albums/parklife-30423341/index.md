@@ -15,10 +15,12 @@ cover:
 additional_images:
     - "https://i.discogs.com/tEJMS9u3msbipSHryqaydGhYxkONLBEwHxXj7YsS9S4/rs:fit/g:sm/q:90/h:356/w:354/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwNDIz/MzQxLTE3MTM0NTA3/MTQtNTA4Ny5qcGVn.jpeg"
     - "https://i.discogs.com/IyXExGjLgDGe2w_2ltjFr7-1GY6CREutU4whl4hDvXo/rs:fit/g:sm/q:90/h:364/w:363/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwNDIz/MzQxLTE3MTM0NTA3/MTQtMTE2My5qcGVn.jpeg"
+    - "https://i.discogs.com/lFheRgwjrObHsHq4SRN2Wm2OZuf_yMptJrllJcKRuYs/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwNDIz/MzQxLTE3MTM3ODMy/MjQtMTM3OC5qcGVn.jpeg"
+    - "https://i.discogs.com/Xp2Gh41llhnIcotG5FW_ev2BI8A1gRGwcW-7CmIW8Rc/rs:fit/g:sm/q:90/h:600/w:588/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwNDIz/MzQxLTE3MTM3ODMy/MjUtNDAxOC5qcGVn.jpeg"
+    - "https://i.discogs.com/J2wUFtrLlDYF8pbx7r8jpjyFCoIt9ho6UH9bpteieMA/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwNDIz/MzQxLTE3MTM3ODMy/MjUtODA0NC5qcGVn.jpeg"
     - "https://i.discogs.com/lJzEcCg1gbRg3dxD-uhIRLccBhk7O-TNZeaqFE4B66U/rs:fit/g:sm/q:90/h:66/w:480/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwNDIz/MzQxLTE3MTM0NTA3/MTQtMzI0NS5qcGVn.jpeg"
-    - "https://i.discogs.com/c-6WgdSmp4b_5Afc7-YbK4fC7wVtBucvw6iVc_bbUsk/rs:fit/g:sm/q:90/h:1066/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwNDIz/MzQxLTE3MTM1NTg0/NDgtMTA0My5qcGVn.jpeg"
 genres: ["Rock"]
-styles: ["Indie Rock", "Britpop"]
+styles: ["Britpop"]
 ---
 
 In the summer of 1993, Blur were making <i>Parklife</i> at Maison Rouge Studios in West London, but the title track was proving to be a struggle. Damon Albarn wasn’t convincing anyone, least of all himself, as the lairy, people-watching narrator. So they gave the actor Phil Daniels a go. Set to Graham Coxon’s spring-loaded guitar and the sound of smashing crockery, Daniels’ rambunctious turn rudely awakened a song that would go on to win the 1995 BRIT Award for Best British Single. To get to the heart of Blur’s third album though, it’s useful to consider Daniels’ other, more implicit appearance. On “Clover Over Dover”, a harpsichord melody leads us to the edge of the White Cliffs of Dover. As Albarn sings, “And when you push me over/Don’t bury me, I’m not worth anything”, it invokes Daniels’ final scenes in his breakthrough film role—as Jimmy, the disillusioned and emotionally rattled mod in 1979 coming-of-age drama <i>Quadrophenia</i>. That’s the duality of <i>Parklife</i>. Once the album lifted Blur from indie underachievers to pop stars, the title track and the jelly-shot-bright Eurodance of lead single “Girls and Boys” became totems for Cool Britannia’s triumphalism and optimism—but this is also the record where Albarn’s melancholic soul really starts to emerge. 
@@ -54,13 +56,21 @@ The character sketches that decorated 1993’s <i>Modern Life Is Rubbish</i> are
 
 
 ## Videos
-### Blur - To The End (Official Music Video)
-{{< youtube id="0DjHKqb365A" title="Blur - To The End (Official Music Video)" >}}<br>
+### Blur - Girls And Boys (Official Music Video)
+{{< youtube id="WDswiT87oo8" title="Blur - Girls And Boys (Official Music Video)" >}}<br>
 ### More Videos
 
-- [Blur - Parklife (Official Music Video)](https://www.youtube.com/watch?v=YSuHrTfcikU)
-- [Blur - Girls And Boys (Official Music Video)](https://www.youtube.com/watch?v=WDswiT87oo8)
 - [Blur - End Of A Century (Official Music Video)](https://www.youtube.com/watch?v=rVNCpCy8gLc)
+- [Blur - Parklife (Official 4K Music Video)](https://www.youtube.com/watch?v=YSuHrTfcikU)
+- [Blur - Girls And Boys (Official Music Video)](https://www.youtube.com/watch?v=WDswiT87oo8)
+- [Blur - To The End (Official Music Video)](https://www.youtube.com/watch?v=0DjHKqb365A)
+- [Blur - This is a Low (Official Audio)](https://www.youtube.com/watch?v=iZIYAUPo80U)
+- [Blur - Badhead (Official Audio)](https://www.youtube.com/watch?v=YzSnJ8uePyU)
+- [Blur - Tracy Jacks (Official Audio)](https://www.youtube.com/watch?v=N2rF4HcW5yk)
+- [Blur - London Loves (Official Audio)](https://www.youtube.com/watch?v=7GbhjFplF3w)
+- [Blur - Trouble in the Message Centre (Official Audio)](https://www.youtube.com/watch?v=O5Nhul_AV0M)
+- [End of a Century (2012 Remaster)](https://www.youtube.com/watch?v=QFaKlPyhclc)
+- [Blur Recording Parklife in the Studio (1993–1994)](https://www.youtube.com/watch?v=1tBZP_MqVjM)
 
 ## Release Images
 {{< imageGrid >}}
@@ -68,9 +78,9 @@ The character sketches that decorated 1993’s <i>Modern Life Is Rubbish</i> are
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Wikipedia URL | https://en.wikipedia.org/wiki/Parklife_(song) |
-| Format         | Vinyl LP Album Record Store Day Limited Edition Picture Disc (30th Anniversary) |
-| Label          | Parlophone Records Ltd. |
+| Wikipedia URL | https://en.wikipedia.org/wiki/Parklife |
+| Format         | Vinyl LP Album Record Store Day Limited Edition Picture Disc Reissue Remastered (30th Anniversary Zoetrope Edition) |
+| Label          | Parlophone |
 | Catalog Number | 5054197880988 |
-| Notes | Record Store Day 2024 exclusive remastered reissue. Zoetrope 30th Anniversary pressing. Limited to 2000 copies. Made In Germany. |
+| Notes | Record Store Day 2024 exclusive remastered reissue. Zoetrope 30th Anniversary pressing. Limited to 5000 copies. Made In Germany. |
 | Discogs URL    | [Blur - Parklife](https://www.discogs.com/release/30423341-Blur-Parklife) |

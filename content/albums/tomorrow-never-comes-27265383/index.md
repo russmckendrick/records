@@ -13,24 +13,35 @@ cover:
     alt: "Tomorrow Never Comes by Rancid"
     caption: "Tomorrow Never Comes by Rancid"
 additional_images:
-    - "https://i.discogs.com/Xvp5dHvVAiU31OXVoJZuSIrpKnH19YrCC_rvXQtxLTc/rs:fit/g:sm/q:90/h:608/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3MjY1/MzgzLTE2ODU3MTU5/NzctNDc3Ni5qcGVn.jpeg"
-    - "https://i.discogs.com/nSMhMDFeRyTvyFdvAzc9n7bjy-7l4EBgJMs7JxlpexA/rs:fit/g:sm/q:90/h:621/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3MjY1/MzgzLTE2ODU3MTU5/ODctNTkzNC5qcGVn.jpeg"
-    - "https://i.discogs.com/62-Mg0_pzEe21J-3PQ4IGj93D-JY3bOEOKeb5wYaBBg/rs:fit/g:sm/q:90/h:626/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3MjY1/MzgzLTE2ODU3MTU5/OTYtMjI2Ny5qcGVn.jpeg"
+    - "https://i.discogs.com/GYmjVbDX7R2Ocs6AJiHMi6rj1OtvIE7jfkHhufGJ6OE/rs:fit/g:sm/q:90/h:594/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3MjY1/MzgzLTE2ODYxNDUz/NjMtMjUyOC5qcGVn.jpeg"
+    - "https://i.discogs.com/LfhtaGrfFC__mRrVsOuIcOhCBexG95vJfK9GKGjfP-s/rs:fit/g:sm/q:90/h:593/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3MjY1/MzgzLTE2ODYxNDUz/NjMtNDQ0Mi5qcGVn.jpeg"
+    - "https://i.discogs.com/ni4Cdu5Oa9olL5ffS5kjmVfSzElFzbgIFmgk31CMN8w/rs:fit/g:sm/q:90/h:600/w:597/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3MjY1/MzgzLTE2ODYxNDUz/NjMtMTczMC5qcGVn.jpeg"
+    - "https://i.discogs.com/Bn3mqfmafYK3AmLTLLufekok8YauySaICYb1tfb4ltY/rs:fit/g:sm/q:90/h:600/w:595/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3MjY1/MzgzLTE2ODYxNDU1/NzUtMTQyNC5qcGVn.jpeg"
+    - "https://i.discogs.com/_jqJ8uRapX7bKSxQ0LDuE4T7bAN1vxBrHXnd0EGQPcE/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3MjY1/MzgzLTE2ODYxNDUz/NjMtNTIzMi5qcGVn.jpeg"
+    - "https://i.discogs.com/ZyW48uabIEIhrbgiVYlQff6mpqRILXvClMrg1II1vMI/rs:fit/g:sm/q:90/h:600/w:579/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3MjY1/MzgzLTE2ODU3MTU5/ODctNTkzNC5qcGVn.jpeg"
+    - "https://i.discogs.com/9Lv8FDCvHAaIYbA_H75qB0V7reQKd3MqQ9WBZrF3970/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3MjY1/MzgzLTE2ODU5NjQ3/MTctOTA3MC5qcGVn.jpeg"
+    - "https://i.discogs.com/s5AXjWYwDBddEGjLQzyXbUWOeuFX_IECRWeye-sHjZY/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3MjY1/MzgzLTE2ODYwNzE1/NjEtNjMzNy5qcGVn.jpeg"
+    - "https://i.discogs.com/_z13GXC4aNtD0osNbX951FbH9_mKOjLmwyT1sZAf-Sc/rs:fit/g:sm/q:90/h:592/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3MjY1/MzgzLTE2ODYxNDUz/NjMtODAxNC5qcGVn.jpeg"
+    - "https://i.discogs.com/JKpkiWxqsl-kTpbrAWAsGl5VAfosQVUgX7yxXYpDOFI/rs:fit/g:sm/q:90/h:592/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3MjY1/MzgzLTE2ODYxNDUz/NjMtODUyNS5qcGVn.jpeg"
+    - "https://i.discogs.com/EU5q7q85oTUi1rwd_PXeJPPyyAsS_fU_c9rlHY8ZXUo/rs:fit/g:sm/q:90/h:600/w:592/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3MjY1/MzgzLTE2ODYxNDUz/NjMtMjExMS5qcGVn.jpeg"
+    - "https://i.discogs.com/OBgGyV6oE659dnmajQlR8edknIaoO4LsPCL4TdDLtTY/rs:fit/g:sm/q:90/h:600/w:574/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3MjY1/MzgzLTE2ODU3MTU5/OTYtMjI2Ny5qcGVn.jpeg"
+    - "https://i.discogs.com/f2B0pdEiCeF4DaXaWUuQBasjCyl4ummklsQMWhI2Ouw/rs:fit/g:sm/q:90/h:600/w:462/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3MjY1/MzgzLTE2ODYxNDUz/NjEtNzAzMi5qcGVn.jpeg"
 genres: ["Rock"]
 styles: ["Punk"]
 ---
 
 Having explored musical eclecticism as far as any traditional punk band can, East Bay legends Rancid make the short, meaty album you probably thought they made 30 years ago. There are pirates (“The Bloody & Violent History”), gang choruses (“Mud, Blood, & Gold”, “Prisoners Song”), spiky bass runs (“Eddie the Butcher”) and enough trains and knives to fill a tattooist’s flash book. The sound is simple and indestructible, and the moral remains that camaraderie and brotherhood transcends all (“Hear Us Out”). And though he’s been sober since his twenties, the 57-year-old Tim Armstrong still slurs his declarations with the resilience of someone beaten to the edge of consciousness but still ready to get up and throw a punch.
-    
+        
+        
     
 
 
 ## Tracklisting
-1. Tomorrow Never Comes
+1. The Bloody & Violent History
 2. Mud, Blood, & Gold
 3. Devil In Disguise
 4. New American
-5. The Bloody & Violent History
+5. Tomorrow Never Comes
 6. Don't Make Me Do It
 7. It's A Road To Righteousness
 8. Live Forever
@@ -47,6 +58,9 @@ Having explored musical eclecticism as far as any traditional punk band can, Eas
 {{< applemusic url="https://music.apple.com/gb/album/tomorrow-never-comes/1678535120" >}}<br>
 
 
+## Videos
+### Rancid - "Tomorrow Never Comes"
+{{< youtube id="gAMjyYE_etk" title="Rancid - "Tomorrow Never Comes"" >}}<br>
 
 
 ## Release Images
@@ -55,8 +69,9 @@ Having explored musical eclecticism as far as any traditional punk band can, Eas
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
+| Wikipedia URL | https://en.wikipedia.org/wiki/If_Tomorrow_Never_Comes |
 | Format         | Vinyl LP 45 RPM Album Limited Edition (Eco-Mix) |
 | Label          | Hellcat Records |
 | Catalog Number | 87773-1 |
-| Notes | Limited Edition Eco-Mix. A limited edition unique and random vinyl color.  Comes with printed inner sleeve and huge poster.  All runouts are stamped. |
+| Notes | Limited Edition Eco-Mix. A limited edition unique and random vinyl color.  Comes with printed inner sleeve and huge poster.  |
 | Discogs URL    | [Rancid - Tomorrow Never Comes](https://www.discogs.com/release/27265383-Rancid-Tomorrow-Never-Comes) |

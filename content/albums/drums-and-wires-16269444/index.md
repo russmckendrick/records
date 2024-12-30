@@ -22,14 +22,16 @@ additional_images:
     - "https://i.discogs.com/ok37SR7jY4dLYthR2MuOhot-K87So6hNqWRoc9iS0FM/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MjY5/NDQ0LTE2MDY3ODE2/NTYtMzIzMS5qcGVn.jpeg"
     - "https://i.discogs.com/KuCUDXpkStcfUCd_MwAVEnke4S5HidakNnFUN7PfGwM/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MjY5/NDQ0LTE2MDY3ODE2/NTYtNDc5OS5qcGVn.jpeg"
     - "https://i.discogs.com/9fmcPk28sQ5AfI3hakr_V6TLrQwEZg17Pxjj6P8h9LM/rs:fit/g:sm/q:90/h:593/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MjY5/NDQ0LTE2MTEyOTUw/NDAtODgwNC5qcGVn.jpeg"
-    - "https://i.discogs.com/5rErhfm63Chp3p230Myk-EnXSTih3g9ss9TB_xbmrKM/rs:fit/g:sm/q:90/h:607/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MjY5/NDQ0LTE2MTEyOTUw/NDAtMjc5Ny5qcGVn.jpeg"
+    - "https://i.discogs.com/Y73VW-Ao7RdE8BnTyz1Fs8_BVC1AVg5gp0_iWiVsXTA/rs:fit/g:sm/q:90/h:600/w:592/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MjY5/NDQ0LTE2MTEyOTUw/NDAtMjc5Ny5qcGVn.jpeg"
 genres: ["Rock"]
 styles: ["New Wave", "Pop Rock"]
 ---
 
-Drums and Wires is the third studio album by the English rock band XTC, released in 1979 on Virgin Records. It is a more pop-orientated affair than the band's previous, Go 2 (1978), and was named for its emphasis on guitars ("wires") and expansive-sounding drums. The album was their first issued in the United States and their first recorded with guitarist Dave Gregory, who had replaced keyboardist Barry Andrews earlier in 1979. It features a mix of pop, art rock, new wave and punk styles with much rhythmic interplay between XTC's two guitarists.
-Bassist Colin Moulding's dissatisfaction with XTC's "quirky" reputation inspired the group to take a more accessible approach, starting with the non-album single "Life Begins at the Hop". Drums and Wires was recorded in four weeks at the newly built Town House studio in London with producer Steve Lillywhite and engineer Hugh Padgham, who were beginning to develop their signature gated reverb production technique, as demonstrated on the album opener and lead single "Making Plans for Nigel". Lyrically, the album focuses on the trappings or titillations of the modern world, with several songs about submitting to external forces. Frontman and guitarist Andy Partridge designed the cover artwork, which depicts the band logo forming the outline of a face.
+Drums and Wires is the third studio album by the English rock band XTC, released 17 August 1979 on Virgin Records. It is a more pop-orientated affair than the band's previous, Go 2 (1978), and was named for its emphasis on guitars ("wires") and expansive-sounding drums. The album was their first issued in the United States and their first recorded with guitarist Dave Gregory, who had replaced keyboardist Barry Andrews earlier in 1979. It features a mix of pop, art rock, new wave and punk styles with much rhythmic interplay between XTC's two guitarists.
+Bassist Colin Moulding's dissatisfaction with XTC's "quirky" reputation inspired the group to take a more accessible approach, starting with the non-album single "Life Begins at the Hop". Drums and Wires was recorded in four weeks at the newly built Town House studio in London with producer Steve Lillywhite and engineer Hugh Padgham, who were beginning to develop their signature gated reverb production technique, as demonstrated on the album opener and lead single "Making Plans for Nigel". Lyrically, the album focuses on the trappings or titillations of the modern world, with several songs about submitting to external forces. Frontman and guitarist Andy Partridge conceptualised Jill Mumford's cover artwork, which depicts the band logo forming the outline of a face.
 Drums and Wires reached number 34 on the UK Albums Chart and number 176 on the US Billboard 200. "Making Plans for Nigel" reached number 17 on the UK Singles Chart and marked the band's commercial breakthrough. In 1980, Partridge recorded Take Away / The Lure of Salvage, an LP consisting mostly of dub remixes of Drums and Wires tracks. In later years, Drums and Wires became the best-known of XTC's albums. In 2004 it was ranked number 38 on Pitchfork's list of "The Top Albums of the 1970s", and in 2019, it was ranked number 31 in a similar list by Paste.
+
+
     
     
 
@@ -56,21 +58,9 @@ Drums and Wires reached number 34 on the UK Albums Chart and number 176 on the U
 
 
 ## Videos
-### Making Plans For Nigel
-{{< youtube id="yp-WJXOb2V4" title="Making Plans For Nigel" >}}<br>
-### More Videos
+### XTC - Drums and Wires [Full Album]
+{{< youtube id="N66oJVIjk2M" title="XTC - Drums and Wires [Full Album]" >}}<br>
 
-- [XTC - Chain of Command / Limelight (1979) full 7” Single](https://www.youtube.com/watch?v=9NPMAZDUmHs)
-- [When You're Near Me I Have Difficulty (2001 Digital Remaster)](https://www.youtube.com/watch?v=IKBjJl7NnJ8)
-- [XTC - Drums and Wires [Full Album]](https://www.youtube.com/watch?v=N66oJVIjk2M)
-- [XTC - Drums&Wires(1979)(Art-Pop)(Post-Punk)(New Wave)(Art Rock)MUST HEAR!](https://www.youtube.com/watch?v=SKRgIPbhrJk)
-- [XTC - Making Plans For Nigel 1979 (Official Video) ᴴᴰ](https://www.youtube.com/watch?v=AiIlcew-GVM)
-- [XTC - Complicated Game](https://www.youtube.com/watch?v=vFlq0mvTRB0)
-- [Helicopter (2001 Digital Remaster)](https://www.youtube.com/watch?v=Hu4NaIC_fko)
-- [Ten Feet Tall (2001 Digital Remaster)](https://www.youtube.com/watch?v=ACguqonrjI4)
-- [Reel By Reel (2001 Digital Remaster)](https://www.youtube.com/watch?v=JoOgmgyM49U)
-- [Outside World (2001 Digital Remaster)](https://www.youtube.com/watch?v=kAKCgduec5o)
-- [XTC - Drums and Wires (Full Album) [HD] Reupload](https://www.youtube.com/watch?v=ph-cxsWVrMw)
 
 ## Release Images
 {{< imageGrid >}}

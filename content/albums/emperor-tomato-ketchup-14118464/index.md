@@ -14,8 +14,8 @@ cover:
     caption: "Emperor Tomato Ketchup by Stereolab"
 additional_images:
     - "https://i.discogs.com/JOcevpt0-6L8DdB1FqiFGkM0t-A4hEkWT-ZZnfaV1QU/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MTE4/NDY0LTE1NjgyMTYw/ODAtNDY1OC5qcGVn.jpeg"
-    - "https://i.discogs.com/XrgjgzHT5djbyQTqS282VHxnGE89y-_FfRp4XiaFmSQ/rs:fit/g:sm/q:90/h:619/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MTE4/NDY0LTE1NjgyMTYw/ODYtNjQyMC5qcGVn.jpeg"
-    - "https://i.discogs.com/P1OA-a3znKkviUvHAeFj5mc2elfIo1NHmEik57IcR-A/rs:fit/g:sm/q:90/h:622/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MTE4/NDY0LTE1NjgyMTYw/OTAtNTE5OS5qcGVn.jpeg"
+    - "https://i.discogs.com/B7-pFwCOGDTWCygWzj0VJKrmxY5xTV1hdkKza1T4bJA/rs:fit/g:sm/q:90/h:600/w:581/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MTE4/NDY0LTE1NjgyMTYw/ODYtNjQyMC5qcGVn.jpeg"
+    - "https://i.discogs.com/4OGEwwqzBpf_7w91OSE5PYvpdnDHEijIaKOdT-vRbdo/rs:fit/g:sm/q:90/h:600/w:578/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MTE4/NDY0LTE1NjgyMTYw/OTAtNTE5OS5qcGVn.jpeg"
     - "https://i.discogs.com/fEPeJorkPizLooOuPrh0pvx6Pmx_pOQ43Uj1Y52MOb0/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MTE4/NDY0LTE1NzI3OTY3/NDAtNDQzMy5qcGVn.jpeg"
     - "https://i.discogs.com/FEMBD1QgIBgKVJCW0hRVZhmIkskopCL0I6LH1b7AjNY/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MTE4/NDY0LTE1NzI3OTY3/NDMtMjI4Mi5qcGVn.jpeg"
     - "https://i.discogs.com/sneN6canRdJlew4zwdLpj8xmThNpF-VUlAdaAJ5yKHQ/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MTE4/NDY0LTE1NzI3OTY3/NDQtODk4My5qcGVn.jpeg"
@@ -73,15 +73,21 @@ Nowhere had that possibility sounded more exciting than on <i>Emperor Tomato Ket
 
 
 ## Videos
-### Stereolab – The Noise of Carpet (Official Video)
-{{< youtube id="PGREbC-Q2Do" title="Stereolab – The Noise of Carpet (Official Video)" >}}<br>
+### Metronomic Underground
+{{< youtube id="GLYu0allKgs" title="Metronomic Underground" >}}<br>
 ### More Videos
 
-- [Percolator](https://www.youtube.com/watch?v=c3WMtylDWmg)
-- [Emperor Tomato Ketchup](https://www.youtube.com/watch?v=NrEUMRdB4Q8)
-- [Les Yper-Sound](https://www.youtube.com/watch?v=VS062AP7000)
-- [Metronomic Underground](https://www.youtube.com/watch?v=pxknMTAoC8U)
-- [Tomorrow Is Already Here](https://www.youtube.com/watch?v=MxXxT-o4SPY)
+- [Stereolab – Cybele's Reverie (Official Video)](https://www.youtube.com/watch?v=0JgxATTtROs)
+- [Percolator](https://www.youtube.com/watch?v=kbT9Y1nHJgU)
+- [Les Yper-Sound](https://www.youtube.com/watch?v=pDwAqRGVy5o)
+- [Spark Plug](https://www.youtube.com/watch?v=ktP29RMoMsg)
+- [Olv 26](https://www.youtube.com/watch?v=axZqWiwYxbM)
+- [Tomorrow Is Already Here](https://www.youtube.com/watch?v=NwtdmYzJLNA)
+- [Emperor Tomato Ketchup](https://www.youtube.com/watch?v=TQP1ZbnIFYo)
+- [Monstre Sacre](https://www.youtube.com/watch?v=41pda7oAflw)
+- [Motoroller Scalatron](https://www.youtube.com/watch?v=vlN4wshQ2qU)
+- [Slow Fast Hazel](https://www.youtube.com/watch?v=ss3CkxClkpk)
+- [Anonymous Collective](https://www.youtube.com/watch?v=eiqOdr4IMco)
 
 ## Release Images
 {{< imageGrid >}}

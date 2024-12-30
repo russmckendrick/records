@@ -14,15 +14,16 @@ cover:
 additional_images:
     - "https://i.discogs.com/Pgik9-L4me9CeZNMJ1BBzz7wtNDhSGw7s5YG84yukzg/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ0NzA2/MDItMTUzNTMwMDQ0/OC00MjcxLmpwZWc.jpeg"
     - "https://i.discogs.com/vw8W-EnYZ7jHR1mn10lLEPIv4TT4-KaK-HOivpulH9I/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ0NzA2/MDItMTUzNTMwMDQ0/OC00NTA0LmpwZWc.jpeg"
-    - "https://i.discogs.com/6vcqE7gYQ3MLrguWvciqAGFcDutllHrLphbjsy1LtMw/rs:fit/g:sm/q:90/h:602/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ0NzA2/MDItMTUxMjc0OTkx/Mi02ODE4LmpwZWc.jpeg"
-    - "https://i.discogs.com/sQDaWtsROWQwqNXfoazKJZvRRq0sEkK-NLeMhPsipes/rs:fit/g:sm/q:90/h:605/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ0NzA2/MDItMTUxMjc0OTkx/My0zNTk1LmpwZWc.jpeg"
-    - "https://i.discogs.com/PFEjFf0rFOhBCSjO2MrWEPHDqbyMkU4GCmu6jOMSkBc/rs:fit/g:sm/q:90/h:602/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ0NzA2/MDItMTU4NjA5OTgw/Mi0yNjE5LmpwZWc.jpeg"
+    - "https://i.discogs.com/gJBb-a77rp3njd2CDyMFKTpf1LrLcCUOsUAnDPfEuac/rs:fit/g:sm/q:90/h:600/w:597/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ0NzA2/MDItMTUxMjc0OTkx/Mi02ODE4LmpwZWc.jpeg"
+    - "https://i.discogs.com/wZg8dZWXPiAeYtlHTkdOxkNDcYZT2xfnsIA9ZZ-CIa4/rs:fit/g:sm/q:90/h:600/w:594/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ0NzA2/MDItMTUxMjc0OTkx/My0zNTk1LmpwZWc.jpeg"
+    - "https://i.discogs.com/usa35jFTyFQEw1RCy-aEbhyi1NI0f5Z5J2gQ5xDeMXs/rs:fit/g:sm/q:90/h:600/w:597/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ0NzA2/MDItMTU4NjA5OTgw/Mi0yNjE5LmpwZWc.jpeg"
     - "https://i.discogs.com/yHMvKZWfyzV_pA4hI7ZBD7y1wsDUmRUSLbnZoWIXCUY/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ0NzA2/MDItMTU4NjA5OTgw/My05MzgwLmpwZWc.jpeg"
 genres: ["Rock", "Folk, World, & Country"]
-styles: []
+styles: ["Country", "Country Rock", "Folk"]
 ---
 
-The Low Highway is the 15th studio album by singer-songwriter Steve Earle, released in 2013. The album features two songs co-written by Earle and Lucia Micarelli: "Love's Gonna Blow My Way", "After Mardi Gras". Two songs from the album, "After Mardi Gras" and "That All You Got?", are featured in the HBO TV Series Treme.The album debuted at No. 12 on Top Country Albums, and No. 39 on Billboard 200, selling 11,000 copies in the first week. It has sold 42,000 copies in the US as of February 2015.
+The Low Highway is the 15th studio album by singer-songwriter Steve Earle, released in 2013. The album features two songs co-written by Earle and Lucia Micarelli: "Love's Gonna Blow My Way", "After Mardi Gras". Two songs from the album, "After Mardi Gras" and "That All You Got?", are featured in the HBO TV Series Treme.
+The album debuted at No. 12 on Top Country Albums, and No. 39 on Billboard 200, selling 11,000 copies in the first week. It has sold 42,000 copies in the US as of February 2015.
     
     
 

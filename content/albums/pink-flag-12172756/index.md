@@ -12,17 +12,20 @@ cover:
     alt: "Pink Flag by Wire"
     caption: "Pink Flag by Wire"
 additional_images:
-    - "https://i.discogs.com/4eQZ5ykkNOf5GFjlFGUMmylUji04PivC1iY_q3gqRsI/rs:fit/g:sm/q:90/h:589/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMTcy/NzU2LTE1MzAxOTc4/MzAtMzA4NC5qcGVn.jpeg"
-    - "https://i.discogs.com/6TPnTWYyQQ0hJqjCCTRTllw_1NPyOeSsN6Y8hk27d_w/rs:fit/g:sm/q:90/h:591/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMTcy/NzU2LTE1MzAxOTc4/MzItMjc0Ni5qcGVn.jpeg"
-    - "https://i.discogs.com/Af4zZE9EpB1prdxo5qe8td3ha6y7--hRVb_vtkVBSE8/rs:fit/g:sm/q:90/h:601/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMTcy/NzU2LTE1MzAxOTc4/NzktNTAxNC5qcGVn.jpeg"
-    - "https://i.discogs.com/8dcFY472UwGkoNJ671jT_dloDeWcw1Og1shXxEhp1Ek/rs:fit/g:sm/q:90/h:601/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMTcy/NzU2LTE1MzAxOTc4/ODUtNTY5Ny5qcGVn.jpeg"
-    - "https://i.discogs.com/IcKQHcRyoR_1EmzyC2twaHZA4XasR91Osn9WRPmTwpo/rs:fit/g:sm/q:90/h:593/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMTcy/NzU2LTE1MzAxOTc4/MzctMTU0My5qcGVn.jpeg"
-    - "https://i.discogs.com/LAfu2u8zUPlARVhAEQ6cGN2tzimkoU3x6M84H-DFais/rs:fit/g:sm/q:90/h:588/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMTcy/NzU2LTE1MzAxOTc4/MzktNjQ3Ni5qcGVn.jpeg"
+    - "https://i.discogs.com/6o88Fu_T6Elfg_O83GFGdZla0sc21WoBMIULV6vLe5c/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMTcy/NzU2LTE3MTUzMTgy/ODMtOTEzMy5qcGVn.jpeg"
+    - "https://i.discogs.com/Vq8PJA4ftb4ifok-mvzLM-lEYrPzVa5XsyAl80GUM3M/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMTcy/NzU2LTE3MTUzMTgy/ODEtOTQwOS5qcGVn.jpeg"
+    - "https://i.discogs.com/FCEfho3ZnMKGsFgV6vb7EmPMFQWc5fsUCXHDUXCb4MM/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMTcy/NzU2LTE3MTUzMTgy/NzItMjA0Mi5qcGVn.jpeg"
+    - "https://i.discogs.com/Yy7HjCy2GqYy-hAZUUwcpxuFD3VNlxzBYaXpL4wtrZo/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMTcy/NzU2LTE3MTUzMTgy/NzAtNTY4Ni5qcGVn.jpeg"
+    - "https://i.discogs.com/vaSyXFPSbQV78fQVSnh7YPWL9SubT7z6HU6FrR1QKSc/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMTcy/NzU2LTE3MTUzMTgy/NzktOTMyMC5qcGVn.jpeg"
+    - "https://i.discogs.com/GTxnfxE_fdjw-8ZBELw7QQHvaFv-xfruj_XvDLou7jE/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMTcy/NzU2LTE3MTUzMTgy/ODItNzA5OS5qcGVn.jpeg"
+    - "https://i.discogs.com/eI73bThYpsoQe036EByuGULTwBRf7QdA2AeKUH1F5EQ/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMTcy/NzU2LTE3MTUzMTgy/ODItNzQzNy5qcGVn.jpeg"
 genres: ["Rock"]
 styles: ["Punk", "New Wave"]
 ---
 
-Pink Flag is the debut studio album by English rock band Wire. It was released in November 1977 by Harvest Records. The album gained Wire a cult following within independent and post-punk music upon its initial release, later growing to be highly influential on many other musicians.
+Pink Flag is the debut album by the British post-punk band Wire. It was released in November 1977 through Harvest Records. The album was critically acclaimed on release, and has since been highly influential; today it is regarded as a landmark in the development of post-punk music.
+
+
     
     
 
@@ -87,7 +90,7 @@ Pink Flag is the debut studio album by English rock band Wire. It was released i
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Pink_Flag |
-| Format         | Vinyl LP Album Reissue |
+| Format         | Vinyl LP Album Reissue Stereo |
 | Label          | Pinkflag |
 | Catalog Number | PF11LP |
 | Notes | Includes printed inner sleeve with lyrics.  Recorded at Advision Studios.  ℗ & © 2018 pinkflag   |

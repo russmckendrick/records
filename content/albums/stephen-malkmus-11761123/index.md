@@ -22,7 +22,9 @@ genres: ["Rock"]
 styles: ["Alternative Rock", "Indie Rock"]
 ---
 
-Stephen Joseph Malkmus (born May 30, 1966) is an American musician best known as the primary songwriter, lead singer and guitarist of the indie rock band Pavement. He currently performs with Stephen Malkmus and the Jicks and as a solo artist.
+Stephen Joseph Malkmus ( MALK-miss; born May 30, 1966) is an American musician best known as the primary songwriter, lead singer and guitarist of the indie rock band Pavement. He performs with Stephen Malkmus and the Jicks, Pavement, The Hard Quartet, and as a solo artist.
+
+
     
     
 
@@ -56,6 +58,8 @@ Stephen Joseph Malkmus (born May 30, 1966) is an American musician best known as
 - [Stephen Malkmus & The Jicks - Pink India](https://www.youtube.com/watch?v=eMcmDTX1JwQ)
 - [Stephen Malkmus & The Jicks - Vague Space](https://www.youtube.com/watch?v=TU0aOABWHSY)
 - [Stephen Malkmus - The hook](https://www.youtube.com/watch?v=T3THIz5VJL4)
+- [Stephen Malkmus - Deado](https://www.youtube.com/watch?v=bPYJm-GaKUQ)
+- [Stephen Malkmus - Church on White](https://www.youtube.com/watch?v=4P9oDf79V-0)
 
 ## Release Images
 {{< imageGrid >}}

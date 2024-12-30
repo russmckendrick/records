@@ -15,13 +15,15 @@ additional_images:
     - "https://i.discogs.com/fqj3Ei5FmnOyXDARS5zHreU8gAlqjTS0S7GUL1e8sHo/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MTIz/NjA3LTE1Njg5MDg2/MjUtMTA4My5qcGVn.jpeg"
     - "https://i.discogs.com/u3__0zbxACF2CLyfjdt6agQ_wAgdwMT0tlk80Qrpad0/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MTIz/NjA3LTE1Njg5MDg2/MjYtMzY4Ny5qcGVn.jpeg"
     - "https://i.discogs.com/XWx0F9cdN3N43MeSUENkEjUoEXpo_4NmfwsZCDjvZpg/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MTIz/NjA3LTE1ODAwMzI3/MzEtNjM0MC5qcGVn.jpeg"
-    - "https://i.discogs.com/k6jgKSoPzdkMsL265uABSvQVYXJNWFmb6Bl-JmwBoCQ/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MTIz/NjA3LTE1ODAwMzI3/MzItNTI4NC5qcGVn.jpeg"
+    - "https://i.discogs.com/Rh2g69snt-iTu_7g-mGsJqhg7ybxtXB9AAfh-pNHYPE/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MTIz/NjA3LTE1ODAwMzI3/MzItNTI4NC5qcGVn.jpeg"
 genres: ["Rock"]
 styles: ["Hard Rock"]
 ---
 
-Earth vs the Wildhearts is the debut studio album by British rock band The Wildhearts, released in 1993. The title is based on such B-movie titles as Earth vs. the Flying Saucers and Earth vs. the Spider.
+Earth vs the Wildhearts is the debut studio album by British rock band the Wildhearts, released in 1993. The title is based on such B-movie titles as Earth vs. the Flying Saucers and Earth vs. the Spider.
 The album has been reissued twice: first in 1994 with the addition of the formerly single-only track "Caffeine Bomb", and again in 2010 with several B-sides from the period.
+
+
     
     
 
@@ -43,13 +45,13 @@ The album has been reissued twice: first in 1994 with the addition of the former
 
 
 ## Videos
-### The Wildhearts - TV Tan
-{{< youtube id="o8y-M_0UffE" title="The Wildhearts - TV Tan" >}}<br>
+### Greetings from Shitsville
+{{< youtube id="XM-iQc3yYQs" title="Greetings from Shitsville" >}}<br>
 ### More Videos
 
-- [Greetings from Shitsville](https://www.youtube.com/watch?v=XM-iQc3yYQs)
 - [News of the World](https://www.youtube.com/watch?v=L191KWeauHQ)
 - [The Wildhearts - Loveshit](https://www.youtube.com/watch?v=nW_eNEuYNUI)
+- [The Wildhearts - TV Tan](https://www.youtube.com/watch?v=o8y-M_0UffE)
 
 ## Release Images
 {{< imageGrid >}}

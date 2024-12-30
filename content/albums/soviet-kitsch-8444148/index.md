@@ -18,7 +18,7 @@ additional_images:
     - "https://i.discogs.com/CWSvvYL6iR2uKKb5hKFewGZ4sFacYaGRtGZAyfRsWMU/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg0NDQx/NDgtMTQ2MTcyMDEz/Mi02MDYwLmpwZWc.jpeg"
     - "https://i.discogs.com/AajS-j3rUhhmTURfQHtnX7Hff99BbHoL6y3yx26ob64/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg0NDQx/NDgtMTQ2MTcyMDEz/MC03OTI2LmpwZWc.jpeg"
     - "https://i.discogs.com/lWkXI2-Sc2gH2_7ZI5jS-Q0avA29oa429qo6VnCodSU/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg0NDQx/NDgtMTQ2MTcyMDEz/MC00MjE5LmpwZWc.jpeg"
-    - "https://i.discogs.com/-J1fXuGWo8u1MhWhh0tgH2SGksgOJYcSOlC51NA27BE/rs:fit/g:sm/q:90/h:700/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg0NDQx/NDgtMTQ2MTcyMDEz/Mi0zMDIwLmpwZWc.jpeg"
+    - "https://i.discogs.com/pxL28SvYeJxOKRSrUrgUxrUOt7Mjod4UH82B0dcYxIU/rs:fit/g:sm/q:90/h:600/w:514/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg0NDQx/NDgtMTQ2MTcyMDEz/Mi0zMDIwLmpwZWc.jpeg"
     - "https://i.discogs.com/xKU7dsTRkptSwwr5UGzyzW_QaV5tmvm6E-kenjvx5CA/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg0NDQx/NDgtMTQ2MTcyMDE4/NC05ODMyLmpwZWc.jpeg"
     - "https://i.discogs.com/SqO41J35iEJGDSXTPwm6XeS_cikA7dBdxFVS-ULm_bc/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg0NDQx/NDgtMTQ2MTcyMDEz/MC02NTgyLmpwZWc.jpeg"
     - "https://i.discogs.com/bn-0jXeD4heSHTB1o1ZYEofJg22fmIKaHtU_D5eLGGk/rs:fit/g:sm/q:90/h:597/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg0NDQx/NDgtMTQ2MTcyMDEz/MC0zNjU2LmpwZWc.jpeg"
@@ -27,9 +27,7 @@ genres: ["Rock", "Pop", "Folk, World, & Country"]
 styles: ["Indie Pop", "Chanson", "Alternative Rock", "Punk", "Ballad", "Folk"]
 ---
 
-Soviet Kitsch is the major label debut and third album by American singer/songwriter Regina Spektor. It was originally released on Shoplifter Records in May 2003 but was reissued in August 2004 when Spektor signed with Sire Records. The title is drawn from Milan Kundera's expression for the vacuous aesthetics of Stalinist-style communism, a theme in his book The Unbearable Lightness of Being. One version of the album was released with a bonus DVD, which included a short promotional film titled The Survival Guide to Soviet Kitsch and the music video for the song "Us".
-
-
+Soviet Kitsch is the major label debut and third album by American singer/songwriter Regina Spektor. It was originally released on Shoplifter Records in May 2003 but was reissued in August 2004 when Spektor signed with Sire Records. The title is drawn from Milan Kundera's expression for the vacuous aesthetics of Stalinist-style communism, a theme in his book The Unbearable Lightness of Being. One version of the album was released with a bonus DVD, which included a short promotional film titled The Survival Guide to Soviet Kitsch and the music video for the song "Us."
     
     
 
@@ -56,11 +54,17 @@ Soviet Kitsch is the major label debut and third album by American singer/songwr
 
 
 ## Videos
-### Regina Spektor - Us [OFFICIAL Video]
-{{< youtube id="fczPlmz-Vug" title="Regina Spektor - Us [OFFICIAL Video]" >}}<br>
+### Regina Spektor - "Us" [OFFICIAL Video]
+{{< youtube id="fczPlmz-Vug" title="Regina Spektor - "Us" [OFFICIAL Video]" >}}<br>
 ### More Videos
 
-- [Regina Spektor Ode to Divorce Music Video](https://www.youtube.com/watch?v=PhLnPifHqQU)
+- [Regina Spektor "Ode to Divorce" Music Video](https://www.youtube.com/watch?v=PhLnPifHqQU)
+- [Regina Spektor - Poor Little Rich Boy](https://www.youtube.com/watch?v=9GS5CpYTcfM)
+- [Carbon Monoxide - Regina Spektor - Lyrics On Screen](https://www.youtube.com/watch?v=-in_oSu4Ojg)
+- [The Flowers-Regina Spektor](https://www.youtube.com/watch?v=cO5evGShbmU)
+- [Regina Spektor - Sailor Song](https://www.youtube.com/watch?v=Uro9hjHSsiw)
+- [Regina Spektor - "Us" [OFFICIAL Video]](https://www.youtube.com/watch?v=fczPlmz-Vug)
+- [Regina Spektor "Ode to Divorce" Music Video](https://www.youtube.com/watch?v=PhLnPifHqQU)
 - [Regina Spektor - Poor Little Rich Boy](https://www.youtube.com/watch?v=9GS5CpYTcfM)
 - [Carbon Monoxide - Regina Spektor - Lyrics On Screen](https://www.youtube.com/watch?v=-in_oSu4Ojg)
 - [The Flowers-Regina Spektor](https://www.youtube.com/watch?v=cO5evGShbmU)

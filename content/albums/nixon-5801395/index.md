@@ -22,8 +22,10 @@ genres: ["Rock"]
 styles: ["Folk Rock", "Country Rock"]
 ---
 
-Nixon is the fifth studio album by American rock band Lambchop. It was released on February 7, 2000 and was issued by Merge Records and City Slang.
+Nixon is the fifth studio album by American rock band Lambchop. It was released on February 7, 2000, and was issued by Merge Records and City Slang.
 Nixon became a breakthrough release for Lambchop in the United Kingdom, where it received critical acclaim and was named among the best albums of 2000 by numerous publications.
+
+
     
     
 
@@ -41,16 +43,23 @@ Nixon became a breakthrough release for Lambchop in the United Kingdom, where it
 10. The Butcher Boy (2:51)
 
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/nixon/1269033778" >}}<br>
+{{< applemusic url="https://music.apple.com/gb/album/nixon/1721056352" >}}<br>
 
 
 ## Videos
-### Grumpus - Lambchop
-{{< youtube id="ZVk5KalTrwU" title="Grumpus - Lambchop" >}}<br>
+### The Old Gold Shoe
+{{< youtube id="p7wc-ePLF5I" title="The Old Gold Shoe" >}}<br>
 ### More Videos
 
-- [You Masculine You - Lambchop](https://www.youtube.com/watch?v=80eF7A7xlR8)
-- [Lambchop - Up with People (Zero 7 Remix)](https://www.youtube.com/watch?v=q3-fEWh7nZI)
+- [Grumpus](https://www.youtube.com/watch?v=r-2CfhuehRc)
+- [You Masculine You](https://www.youtube.com/watch?v=JfW2ILrKcko)
+- [Lambchop - Up With People](https://www.youtube.com/watch?v=M4PxY_RPBeM)
+- [Nashville Parent](https://www.youtube.com/watch?v=uETqdop3NHw)
+- [What Else Could It Be](https://www.youtube.com/watch?v=-MjootNdfQg)
+- [The Distance from Her....](https://www.youtube.com/watch?v=c88_8Hn1x9c)
+- [The Book I Havent Read](https://www.youtube.com/watch?v=ZK3g-33UNao)
+- [Petrified Florist](https://www.youtube.com/watch?v=jNyZOoNuSRI)
+- [Butcher Boy](https://www.youtube.com/watch?v=wTxTgYEYpRw)
 
 ## Release Images
 {{< imageGrid >}}

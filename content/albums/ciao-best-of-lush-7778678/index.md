@@ -15,7 +15,7 @@ additional_images:
     - "https://i.discogs.com/WODLdKehFbELUVOXy4okotCQ_LZR0-66wVX9SnC4N5k/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc3Nzg2/NzgtMTQ0ODY2MjM4/My02MzUwLmpwZWc.jpeg"
     - "https://i.discogs.com/Z86cCrcJuEPn1EqYIeZEGaOuBJ5FQ9WBFUe5hblv7G8/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc3Nzg2/NzgtMTQ0ODY2MTYy/My04OTU3LmpwZWc.jpeg"
     - "https://i.discogs.com/aJLsd7zZz0aX73whQXc6VuvU7zG0d4fbfqLtZ7ogvlA/rs:fit/g:sm/q:90/h:290/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc3Nzg2/NzgtMTQ5MzM5NjI3/Ny0yMDgzLmpwZWc.jpeg"
-    - "https://i.discogs.com/-kPZ9Jy0uh_Ia4xz3bT__ToFSiEeIdIDmbpshm-B5I8/rs:fit/g:sm/q:90/h:603/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc3Nzg2/NzgtMTQ0ODY2MTYy/My01MzYxLmpwZWc.jpeg"
+    - "https://i.discogs.com/oTY8eSodCNP3PWNYaGZH5w74wGKCAk9aVjRSmjZc-BM/rs:fit/g:sm/q:90/h:600/w:596/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc3Nzg2/NzgtMTQ0ODY2MTYy/My01MzYxLmpwZWc.jpeg"
     - "https://i.discogs.com/VLISqqPswnp1kHHUyJkEDuIqSmjdLy8TGL7fhui722k/rs:fit/g:sm/q:90/h:591/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc3Nzg2/NzgtMTQ0ODY2MTYy/My02NzE3LmpwZWc.jpeg"
     - "https://i.discogs.com/AIv46cQAHsoGGKNTA35iP4yFGAV-Z0m5vesbsiVqutE/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc3Nzg2/NzgtMTQ0ODY2MTYy/My04NTk2LmpwZWc.jpeg"
     - "https://i.discogs.com/l-jFW8s8nMaYedmO_bHrWLuz8bI0B3nD4XuUWPAG75c/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc3Nzg2/NzgtMTQ0ODY2MTYy/NS0zNDM2LmpwZWc.jpeg"
@@ -24,6 +24,11 @@ genres: ["Rock"]
 styles: ["Indie Rock", "Shoegaze"]
 ---
 
+Ciao! Best of Lush is a compilation album by the band Lush, released in March 2001 by 4AD. The essay in the booklet was written by Dominic Wills and included quotes from members Miki Berenyi and Emma Anderson. The best-of CD appeared almost five years after the band's dissolution and drummer Chris Acland's suicide; the compilation was dedicated to his memory.
+
+
+    
+    
 
 
 ## Tracklisting
@@ -50,7 +55,12 @@ styles: ["Indie Rock", "Shoegaze"]
 {{< applemusic url="https://music.apple.com/gb/album/ciao-best-of-lush/310996586" >}}<br>
 
 
+## Videos
+### Light From A Dead Star
+{{< youtube id="Egj74Oq_lTU" title="Light From A Dead Star" >}}<br>
+### More Videos
 
+- [Love At First Sight](https://www.youtube.com/watch?v=CRx1KDmavEQ)
 
 ## Release Images
 {{< imageGrid >}}
@@ -58,6 +68,7 @@ styles: ["Indie Rock", "Shoegaze"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
+| Wikipedia URL | https://en.wikipedia.org/wiki/Ciao!_Best_of_Lush |
 | Format         | Vinyl 2× LP Compilation Limited Edition Reissue (Red) |
 | Label          | 4AD |
 | Catalog Number | CAD 2K22 |

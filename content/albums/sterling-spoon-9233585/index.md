@@ -13,10 +13,10 @@ cover:
     caption: "Sterling Spoon  by Jane's Addiction"
 additional_images:
     - "https://i.discogs.com/qxw2PIFG0tGHPdNLJyPgPjyQa07TcQkxL6UOVd7-6m4/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkyMzM1/ODUtMTQ3NzEwMDU0/MS0zMjUwLmpwZWc.jpeg"
-    - "https://i.discogs.com/yefWFpp-7mFFScg7NgclfNa5FjZvItuPRHYtTpg0_oU/rs:fit/g:sm/q:90/h:601/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkyMzM1/ODUtMTQ3NzEwMDU0/Mi0xMDM3LmpwZWc.jpeg"
+    - "https://i.discogs.com/SHjmOEsMhnMsw6wOtyk0kK2sOAoIp2vrwRfCOSqs-RU/rs:fit/g:sm/q:90/h:600/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkyMzM1/ODUtMTQ3NzEwMDU0/Mi0xMDM3LmpwZWc.jpeg"
     - "https://i.discogs.com/UNGmOejAbULpLfBMRAX65rxPctqmv83py5y2TiniS44/rs:fit/g:sm/q:90/h:591/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkyMzM1/ODUtMTQ3NzEwMTg2/MS0zNzM3LmpwZWc.jpeg"
     - "https://i.discogs.com/fdaIp0_Xi_lRFiVaRG-w47pf77hTc50bPWSl1rTDWi0/rs:fit/g:sm/q:90/h:592/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkyMzM1/ODUtMTQ3NzEwMTg2/MS00MTgxLmpwZWc.jpeg"
-    - "https://i.discogs.com/UyWYUVxnf8BSG2NZA30oWsvuK3cgi796PvltfGEfXQk/rs:fit/g:sm/q:90/h:605/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkyMzM1/ODUtMTQ3NzEwMTg2/MS04MDc1LmpwZWc.jpeg"
+    - "https://i.discogs.com/xWWusUbBnOS3pmJLUBWO4B7LuV4T2R88bM54HzbPxF8/rs:fit/g:sm/q:90/h:600/w:594/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkyMzM1/ODUtMTQ3NzEwMTg2/MS04MDc1LmpwZWc.jpeg"
     - "https://i.discogs.com/wOhhruvgpzMrIA0qAcml6UcAqKJXgOE9OxPRHC_TxYU/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkyMzM1/ODUtMTQ3NzEwMTg2/MS04NjI3LmpwZWc.jpeg"
     - "https://i.discogs.com/XOLd16q6Kmviky0hjE2H3oyEOSRPg3ouJi75IlPzC_Y/rs:fit/g:sm/q:90/h:435/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkyMzM1/ODUtMTQ3NzE1OTIw/Ny04NzkyLmpwZWc.jpeg"
     - "https://i.discogs.com/mves_g26pusV028w2YBZkrHBqDjZY_XlKdq3-odfXo0/rs:fit/g:sm/q:90/h:353/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkyMzM1/ODUtMTQ3NzE1OTIw/OS00NzgyLmpwZWc.jpeg"

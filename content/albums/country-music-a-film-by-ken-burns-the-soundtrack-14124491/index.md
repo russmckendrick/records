@@ -62,6 +62,8 @@ styles: ["Soundtrack", "Country", "Rock & Roll"]
 ### More Videos
 
 - [Best Classic Country Songs Of 50s 60s -  Top 100 Golden Oldies Country Songs Of 50s 60s](https://www.youtube.com/watch?v=_o_FqMZ8OKA)
+- [Best Classic Country Songs Of 50s 60s 70s - Top 100 Greatest Country Songs Of All Time](https://www.youtube.com/watch?v=XnFcRAuFFyI)
+- [Best Classic Country Songs Of 50s 60s -  Top 100 Golden Oldies Country Songs Of 50s 60s](https://www.youtube.com/watch?v=_o_FqMZ8OKA)
 
 ## Release Images
 {{< imageGrid >}}

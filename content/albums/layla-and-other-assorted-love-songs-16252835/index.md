@@ -30,15 +30,15 @@ additional_images:
     - "https://i.discogs.com/ZRXum2X3Sqx18m0D7aPBE4QD0VVziWLPeNZcWyl2uN0/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MjUy/ODM1LTE2MDkzMDUx/ODctMjk5MS5qcGVn.jpeg"
     - "https://i.discogs.com/6vGxs0s5789m4oN1BVDKkAHa0q5cBtLfo3BW074oS7Y/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MjUy/ODM1LTE2MDkzMDUx/OTAtODU3My5qcGVn.jpeg"
     - "https://i.discogs.com/GJsLOB_wFvwLp6JdkheUJW_1GiFvGp0_kcleyrrG58s/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MjUy/ODM1LTE2MDkzMDUx/OTItNTIyMC5qcGVn.jpeg"
-    - "https://i.discogs.com/nzDT48G1X3DbaOBREDl1914uYeUDlef2GNwRQO6cIGQ/rs:fit/g:sm/q:90/h:846/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MjUy/ODM1LTE2MDkzMDUx/OTItNDI5Ny5qcGVn.jpeg"
+    - "https://i.discogs.com/DK4quf9LeCyPTVxqfh4vyrVikKegfkNWGmaKi5VMIDc/rs:fit/g:sm/q:90/h:600/w:425/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MjUy/ODM1LTE2MDkzMDUx/OTItNDI5Ny5qcGVn.jpeg"
 genres: ["Rock", "Blues"]
 styles: []
 ---
 
-Layla and Other Assorted Love Songs is the only studio album by the English–American rock band Derek and the Dominos, released in November 1970 as a double album. It is best known for its title track, "Layla", which is often regarded as Eric Clapton's greatest musical achievement.
-The other band members were Bobby Whitlock (vocals, keyboard), Jim Gordon (drums, percussion), and Carl Radle (bass). Duane Allman played lead and slide guitar on 11 of the 14 songs.
-Initially regarded as a critical and commercial disappointment, it failed to chart in Britain and peaked at number 16 on the Billboard Top LPs chart in the United States. It returned to the US albums chart again in 1972, 1974 and 1977, and has since been certified Gold by the RIAA. The album finally debuted on the UK Albums Chart in 2011, peaking at number 68.
-In 2000, the album was inducted into the Grammy Hall of Fame. In 2003, television network VH1 named Layla and Other Assorted Love Songs the 89th-greatest album of all time. In the same year, Rolling Stone ranked it number 117 on its list of "The 500 Greatest Albums of All Time". It was ranked at number 226 on the 2020 reboot of the list. It was voted number 287 in the third edition of Colin Larkin's All Time Top 1000 Albums (2000). In 2012, the Super Deluxe Edition of Layla won a Grammy Award for Best Surround Sound Album.
+Layla and Other Assorted Love Songs is the only studio album by the English–American rock band Derek and the Dominos, released on 9 November 1970 as a double album by Polydor Records and Atco Records. It is best known for its title track, "Layla", which is often regarded as Eric Clapton's greatest musical achievement. The other band members were Bobby Whitlock (vocals, keyboard), Jim Gordon (drums, percussion), and Carl Radle (bass). Duane Allman played lead and slide guitar on 11 of the 14 songs.
+Initially regarded as a critical and commercial disappointment, it failed to chart in Britain and peaked at number 16 on the Billboard Top LPs chart in the United States. It returned to the US albums chart again in 1972, 1974 and 1977, and has since been certified Gold by the RIAA. The album finally debuted on the UK Albums Chart in 2011, peaking at number 68. In 2000, the album was inducted into the Grammy Hall of Fame. In 2003, television network VH1 named Layla and Other Assorted Love Songs the 89th-greatest album of all time. In the same year, Rolling Stone ranked it number 117 on its list of "The 500 Greatest Albums of All Time". It was ranked at number 226 on the 2020 reboot of the list. It was voted number 287 in the third edition of Colin Larkin's All Time Top 1000 Albums (2000). In 2012, the Super Deluxe Edition of Layla won a Grammy Award for Best Surround Sound Album.
+
+
         
         
     
@@ -99,6 +99,9 @@ In 2000, the album was inducted into the Grammy Hall of Fame. In 2003, televisio
 - [Derek and the Dominos - It's Too Late](https://www.youtube.com/watch?v=t1pYDgR6zhE)
 - [Layla (40th Anniversary Version / 2010 Remastered)](https://www.youtube.com/watch?v=XVGTGW0cCw8)
 - [Derek and the Dominos - Thorn Tree in the Garden](https://www.youtube.com/watch?v=DrofkmicrRM)
+- [Layla](https://www.youtube.com/watch?v=TngViNw2pOo)
+- [Derek And The Dominos - Layla Live 1984](https://www.youtube.com/watch?v=Sb1qpuQoMxo)
+- [Derek And The Dominos - Layla](https://www.youtube.com/watch?v=uSquiIVLhrQ)
 
 ## Release Images
 {{< imageGrid >}}

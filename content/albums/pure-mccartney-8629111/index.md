@@ -18,20 +18,20 @@ additional_images:
     - "https://i.discogs.com/KE5_KG_CN1SribX5dqliXUAygLxKeugjXxG_2JCixD0/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg2Mjkx/MTEtMTQ2NTQ4Njg0/MC0yOTg5LmpwZWc.jpeg"
     - "https://i.discogs.com/bnXCa-s1iyTpIV6NxS4rCtitnML7FNX28UrB-nTm6ug/rs:fit/g:sm/q:90/h:587/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg2Mjkx/MTEtMTQ2NjA4NDc1/OC0yODk2LmpwZWc.jpeg"
     - "https://i.discogs.com/G2xHzkGvOk-ONSnSlieibxV74qSe8mkcvVM0nNv9Qeg/rs:fit/g:sm/q:90/h:589/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg2Mjkx/MTEtMTQ2NjA4NDc1/NC04NTM4LmpwZWc.jpeg"
-    - "https://i.discogs.com/AyIO7ZTaw1P7yxbY_zUEg_3xxUOfhKKGgP98PVux2Ns/rs:fit/g:sm/q:90/h:607/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg2Mjkx/MTEtMTU3NDMxNjAz/Ni0yNjcwLmpwZWc.jpeg"
+    - "https://i.discogs.com/98nuDJcmqvK0TE-ygWkz6dWdoAn9qgPcJTc63kidrXs/rs:fit/g:sm/q:90/h:600/w:592/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg2Mjkx/MTEtMTU3NDMxNjAz/Ni0yNjcwLmpwZWc.jpeg"
     - "https://i.discogs.com/R1R4yvc_WVxc4CZd75tkwWk6hvwhgOy5Gz47roZnLpI/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg2Mjkx/MTEtMTU3NDMxNjIz/My02NjM1LmpwZWc.jpeg"
     - "https://i.discogs.com/CSe5o4rESFXOp81Nn2zmwbns9hiBJ31q35FrdNUwR9w/rs:fit/g:sm/q:90/h:589/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg2Mjkx/MTEtMTQ2NjA4NDc2/NS0yNzYyLmpwZWc.jpeg"
     - "https://i.discogs.com/pvesAo_xAyDXd4ggjYFT8OT9GPLscKcZ4JtBFRyWAhQ/rs:fit/g:sm/q:90/h:589/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg2Mjkx/MTEtMTQ2NjA4NDc1/NC0xMTk4LmpwZWc.jpeg"
-    - "https://i.discogs.com/mUcWhJ8kHq_S1w6IEMuoFSJLpYE7MY-QedZXeVOAfF8/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg2Mjkx/MTEtMTU3NDMxNjIz/Mi0xNDIxLmpwZWc.jpeg"
+    - "https://i.discogs.com/0z11kYaE5QnnxF7UGCP2_AmVr8na0m_wWXcBv1qPey0/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg2Mjkx/MTEtMTU3NDMxNjIz/Mi0xNDIxLmpwZWc.jpeg"
     - "https://i.discogs.com/t_imrFli0B8u_yKTNz3rKVlPjAo_X1wfMLIApgdZygQ/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg2Mjkx/MTEtMTU3NDMxNjIz/My00ODcyLmpwZWc.jpeg"
     - "https://i.discogs.com/_3_GQVGa7njLjwjg9tmlxuI0Ex28PSYrQ4woO6KUSz0/rs:fit/g:sm/q:90/h:586/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg2Mjkx/MTEtMTQ2NjA4NDc2/NS02NzAwLmpwZWc.jpeg"
     - "https://i.discogs.com/9SjuJZoFn9poO7pJiysvwal3zcc2NZTO5Q4TGZVFnRQ/rs:fit/g:sm/q:90/h:588/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg2Mjkx/MTEtMTQ2NjA4NDc1/OS00MzM3LmpwZWc.jpeg"
     - "https://i.discogs.com/DGlDiC_dWFz9OWnixVIu8jfLH79BnycWO4O_U-AgbPM/rs:fit/g:sm/q:90/h:583/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg2Mjkx/MTEtMTU3NDMxNjIz/Mi0xMzAyLmpwZWc.jpeg"
-    - "https://i.discogs.com/ZNKrJJummrrmdy2ATjf-3MQl6tCVr4jNuEC5VLge7ow/rs:fit/g:sm/q:90/h:619/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg2Mjkx/MTEtMTU3NDMxNjIz/Mi0xMjA5LmpwZWc.jpeg"
+    - "https://i.discogs.com/Nma7t5UsNPwM7xNIxT-_jmgkw9WY0D-unWOr2lAlfeU/rs:fit/g:sm/q:90/h:600/w:581/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg2Mjkx/MTEtMTU3NDMxNjIz/Mi0xMjA5LmpwZWc.jpeg"
     - "https://i.discogs.com/tsStg0AXrAijlLrv36oI7TLEnplkOqCko-t8GVblQIc/rs:fit/g:sm/q:90/h:591/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg2Mjkx/MTEtMTQ2NjA4NDc2/Ni04MjY0LmpwZWc.jpeg"
     - "https://i.discogs.com/7V2NmmGSI-J0m3354qn5k3qgejlfyPrgBu_1C8eqyPA/rs:fit/g:sm/q:90/h:588/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg2Mjkx/MTEtMTQ2NjA4NDc2/NC0yODk5LmpwZWc.jpeg"
-    - "https://i.discogs.com/9BDUAaL57qQUhDwnHcTbtwkJGD0sc49o8i4dynwIvQg/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg2Mjkx/MTEtMTU3NDMxNjIz/Mi05NDUyLmpwZWc.jpeg"
-    - "https://i.discogs.com/QCCrrnXdklq0h_Ru04LRtFLjyXSQfUE0JCzjkmLjSFw/rs:fit/g:sm/q:90/h:610/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg2Mjkx/MTEtMTU3NDMxNjIz/Mi0yMjMyLmpwZWc.jpeg"
+    - "https://i.discogs.com/5jgLY-NWY5xE6AuUY3YkVKUaiIy_ePNwUEKkhnLv09A/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg2Mjkx/MTEtMTU3NDMxNjIz/Mi05NDUyLmpwZWc.jpeg"
+    - "https://i.discogs.com/oOjEcTzgoX3IpsfGPADU56eKmg6_RHFMxtPGN7pqPK8/rs:fit/g:sm/q:90/h:600/w:589/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg2Mjkx/MTEtMTU3NDMxNjIz/Mi0yMjMyLmpwZWc.jpeg"
     - "https://i.discogs.com/ROeHvsLXpyiW2Knw2oK_P5X4RvyWS166WEFGWxOjSg4/rs:fit/g:sm/q:90/h:586/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg2Mjkx/MTEtMTQ2NjA4NDU1/MS04MjgxLmpwZWc.jpeg"
     - "https://i.discogs.com/l58g2RacUOdNB45PrLv4yK53cVNzVFu3esz0DJfPQxs/rs:fit/g:sm/q:90/h:591/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg2Mjkx/MTEtMTQ2NjA4NDU0/Ny05MDI4LmpwZWc.jpeg"
     - "https://i.discogs.com/tmZJuqlmMJoXt_GgWxwbzv9FTn4uWfcaw0zNNdZKibM/rs:fit/g:sm/q:90/h:591/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg2Mjkx/MTEtMTQ2NjA4NDUz/Ni05NzUzLmpwZWc.jpeg"
@@ -54,12 +54,15 @@ additional_images:
     - "https://i.discogs.com/iyGcpn5iuJ4QR2RgFKVsSWJdIT6VPJMXgNZXW1lI3EI/rs:fit/g:sm/q:90/h:593/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg2Mjkx/MTEtMTQ2NjA4NDU4/Mi0xODc3LmpwZWc.jpeg"
     - "https://i.discogs.com/URgrfHJrQMAoyBhSfixtlo2a9X2O8-QEjr-Odrmrnhs/rs:fit/g:sm/q:90/h:379/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg2Mjkx/MTEtMTU3NDUzMzQy/NC02NDg1LmpwZWc.jpeg"
     - "https://i.discogs.com/3FAxbLnH0YUcDPi4wIAfeL1d_tnI8cxntinHOwlNjmM/rs:fit/g:sm/q:90/h:373/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg2Mjkx/MTEtMTU3NDUzMzQy/NC01MDMyLmpwZWc.jpeg"
+    - "https://i.discogs.com/NK2Owof5uLax5JfP4rKANxNJZUzh5WJEayqRomRExwA/rs:fit/g:sm/q:90/h:260/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg2Mjkx/MTEtMTY5MjE5NTE3/NC00NzU5LmpwZWc.jpeg"
+    - "https://i.discogs.com/pp_cQuyCqdQtF8m_upJCDSoUKWGEBDQAi0OLWVGiwQA/rs:fit/g:sm/q:90/h:517/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg2Mjkx/MTEtMTY5MjE5NTE3/NC0yOTE4LmpwZWc.jpeg"
 genres: ["Rock"]
 styles: ["Pop Rock"]
 ---
 
 This collection, curated by Sir Paul, proves there are second and third acts in life. <i>Pure McCartney</i> highlights his solo works from his 1970 debut to 2015. There are plenty of curios mixed in with the hits—too many here to mention—presenting a comprehensive, well-balanced road map of the legend’s long and winding career.
-    
+        
+        
     
 
 
@@ -107,7 +110,7 @@ This collection, curated by Sir Paul, proves there are second and third acts in 
 41. Junk (1:57)
 
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/pure-mccartney-deluxe-edition/1440951787" >}}<br>
+{{< applemusic url="https://music.apple.com/gb/album/pure-mccartney/1440954858" >}}<br>
 
 
 
@@ -118,6 +121,7 @@ This collection, curated by Sir Paul, proves there are second and third acts in 
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
+| Wikipedia URL | https://en.wikipedia.org/wiki/Pure_McCartney_(Paul_McCartney_album) |
 | Format         | Vinyl 4× LP, Box Set Compilation Remastered (180g, Slip Case) |
 | Label          | Concord Music Group |
 | Catalog Number | HRM-38698-01 |

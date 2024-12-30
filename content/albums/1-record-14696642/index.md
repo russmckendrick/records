@@ -18,12 +18,12 @@ additional_images:
     - "https://i.discogs.com/RbX-7KcIZk31F4VvM-VTLDmDxFq5wuR2GKWrfcKFSes/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0Njk2/NjQyLTE1Nzk4Mjk2/ODktNTk5Mi5qcGVn.jpeg"
     - "https://i.discogs.com/sKAWDYaWkO-khBhOEUl9aW2VTdLtNNwah6mJAVC2GyM/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0Njk2/NjQyLTE1Nzk4Mjk2/OTAtNDU2MS5qcGVn.jpeg"
     - "https://i.discogs.com/ZgKHcflpl4mJnNQJmbLJO6lIVdVddbBpRlEFyXL9aUI/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0Njk2/NjQyLTE1ODQ3MDM3/ODMtNTExMS5qcGVn.jpeg"
-    - "https://i.discogs.com/G-EVDrbNvl7XqjyQWXOwlKruxvvQkxbMWprO-EG08JU/rs:fit/g:sm/q:90/h:960/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0Njk2/NjQyLTE2MTMwMTM2/MzUtNjc2MC5qcGVn.jpeg"
+    - "https://i.discogs.com/T6mBJyDDC-KEaYuiVYoj2ypNqXtKJuvDZy4r-ullaGE/rs:fit/g:sm/q:90/h:600/w:374/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0Njk2/NjQyLTE2MTMwMTM2/MzUtNjc2MC5qcGVn.jpeg"
 genres: ["Rock"]
 styles: ["Power Pop"]
 ---
 
-It’s no wonder why Big Star’s shimmering 1972 debut became a go-to for future power-pop/rock legends like Tom Petty, Cheap Trick, and The Replacements. Primary songwriters Chris Bell and ex-Box Tops singer Alex Chilton were a brilliant team that created sing-along anthems with gorgeous guitar and vocal hooks. The horn-stoked “Feel,” the psych-folk popper “The Ballad of El Goodo,” and the soul-deep “When My Baby’s Beside Me” are downright inescapable. The acoustic-driven heartbreakers sting the most, such as the yearning lament “Thirteen” and the valentine to regret “Give Me Another Chance.”  
+It’s no wonder why Big Star’s shimmering 1972 debut became a go-to for future power-pop/rock legends like Tom Petty, Cheap Trick and The Replacements. Primary songwriters Chris Bell and ex-Box Tops singer Alex Chilton were a brilliant team that created sing-along anthems with gorgeous guitar and vocal hooks. The horn-stoked “Feel”, the psych-folk popper “The Ballad of El Goodo” and the soul-deep “When My Baby’s Beside Me” are downright inescapable. The acoustic-driven heartbreakers sting the most, such as the yearning lament “Thirteen” and the valentine to regret “Give Me Another Chance".  
     
     
 
@@ -46,7 +46,22 @@ It’s no wonder why Big Star’s shimmering 1972 debut became a go-to for futur
 {{< applemusic url="https://music.apple.com/gb/album/1-record/1422691834" >}}<br>
 
 
+## Videos
+### Feel
+{{< youtube id="9c43fv9RUhw" title="Feel" >}}<br>
+### More Videos
 
+- [The Ballad Of El Goodo](https://www.youtube.com/watch?v=tIqLdR0-EXA)
+- [In The Street](https://www.youtube.com/watch?v=lsbhybNNm_A)
+- [Thirteen](https://www.youtube.com/watch?v=d2Oy3-qEE0U)
+- [Don't Lie To Me](https://www.youtube.com/watch?v=aG65bDOuMnk)
+- [The India Song](https://www.youtube.com/watch?v=bvFofTBn6wE)
+- [My Life Is Right](https://www.youtube.com/watch?v=L3cW9XJoTLw)
+- [Give Me Another Chance](https://www.youtube.com/watch?v=YAaxzfl-JXw)
+- [Try Again](https://www.youtube.com/watch?v=6-JllLIP5Ik)
+- [ST 100/6](https://www.youtube.com/watch?v=zHxBigDdWRA)
+- [Watch The Sunrise](https://www.youtube.com/watch?v=PsoJSKgVi38)
+- [When My Baby's Beside Me](https://www.youtube.com/watch?v=GcUhsDvInvE)
 
 ## Release Images
 {{< imageGrid >}}
@@ -54,8 +69,8 @@ It’s no wonder why Big Star’s shimmering 1972 debut became a go-to for futur
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl LP Album Reissue (180g) |
+| Format         | Vinyl LP Album Reissue Remastered (180g) |
 | Label          | Ardent Records (2) |
 | Catalog Number | CR00211 |
-| Notes | Red, black, and white hype sticker from Craft Recordings All-analog mastering Comes with a plain white poly-lined inner  ℗ 2019 & © 1972 Craft Recordings Made in USA.  Published By: A1 to A5, B1, B3 to B6 -- East/Memphis BMI A6, B2 -- Koala-Birdess ASCAP  Runout details: Variant 1 -- Stamped vs etched state not specified Variant 2 -- Stamped vs etched state not specified Variant 3 -- Stamped vs etched state not specified Variant 4 -- Stamped vs etched state not specified Variant 5 -- Both sides are etched. |
+| Notes | Red, black, and white hype sticker from Craft Recordings All-analog mastering Comes with a plain white poly-lined inner  ℗ 2019 & © 1972 Craft Recordings Made in USA.  Published By: A1 to A5, B1, B3 to B6 -- East/Memphis BMI A6, B2 -- Koala-Birdess ASCAP  Runout details: Variant 1 -- Stamped vs etched state not specified Variant 2 -- Stamped vs etched state not specified Variant 3 -- Stamped vs etched state not specified Variant 4 -- Stamped vs etched state not specified Variant 5 -- Both sides are etched Variant 6 -- Both sides are etched Variant 7 -- Both sides are etched Variant 8 -- Both sides are etched. |
 | Discogs URL    | [Big Star - #1 Record](https://www.discogs.com/release/14696642-Big-Star-1-Record) |

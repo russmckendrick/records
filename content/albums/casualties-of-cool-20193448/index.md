@@ -18,9 +18,9 @@ additional_images:
     - "https://i.discogs.com/rOK7PFSrxtyPp4YMQEncKPTODMKWpGM4nVUQZ676kzY/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMTkz/NDQ4LTE2ODMzMzY4/NzYtOTU0MC5qcGVn.jpeg"
     - "https://i.discogs.com/AhSnchdDCRqt50waw98Ed3O9kHPXBinwBhNwbmYXEKg/rs:fit/g:sm/q:90/h:207/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMTkz/NDQ4LTE2MzEzNjA1/MDMtNDExNy5qcGVn.jpeg"
     - "https://i.discogs.com/OXW0tsqvo2XnGW0ZN85HNJfBxzN9y4MxiGF6Bb3VmMc/rs:fit/g:sm/q:90/h:217/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMTkz/NDQ4LTE2MzEzNjA1/MTctNzg1Ni5qcGVn.jpeg"
-    - "https://i.discogs.com/FfOCK4CA7d8vKDOyOfFEY18CL5ba0O8U-oaOi7L32yc/rs:fit/g:sm/q:90/h:601/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMTkz/NDQ4LTE2MzEzNjA1/NjAtOTcxNS5qcGVn.jpeg"
-    - "https://i.discogs.com/NGyY4JoVL6i7V-sVMt70XyCpm5okgDQjVmoe6CNfxdE/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMTkz/NDQ4LTE2MzEzNjA1/MzgtNzc0NS5qcGVn.jpeg"
-    - "https://i.discogs.com/_2d3rnOLRKJcBOqyz1p5F1A1EqqMFGUsUJ3Vbe-bGHk/rs:fit/g:sm/q:90/h:650/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMTkz/NDQ4LTE2MzEzNjA1/NjItNDIyOS5qcGVn.jpeg"
+    - "https://i.discogs.com/aPdFOIoq-GlPoQlcgAJ0zSZmBQ1kCL40OWlzFe0OJRY/rs:fit/g:sm/q:90/h:600/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMTkz/NDQ4LTE2MzEzNjA1/NjAtOTcxNS5qcGVn.jpeg"
+    - "https://i.discogs.com/gG_oPbKkWrQxUTXjSMAkrFJLCgbsvjvczRGKD_aaXag/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMTkz/NDQ4LTE2MzEzNjA1/MzgtNzc0NS5qcGVn.jpeg"
+    - "https://i.discogs.com/RLRfcV1or4GGSYJ5VU_ezhS8zgoQpGLGEp_6GiEviRE/rs:fit/g:sm/q:90/h:600/w:553/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMTkz/NDQ4LTE2MzEzNjA1/NjItNDIyOS5qcGVn.jpeg"
     - "https://i.discogs.com/yRaLu7Rlotr_whWUxUzCEr8zm-c03SZ7-gT6mwQV0W4/rs:fit/g:sm/q:90/h:565/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMTkz/NDQ4LTE2MzEzNjA1/ODQtMjM5MS5qcGVn.jpeg"
     - "https://i.discogs.com/N0k__5aVtmw5H-FHoNm_KxiHGu7NI0c3dvjY6hNQ0H8/rs:fit/g:sm/q:90/h:450/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMTkz/NDQ4LTE2MzEzNjA1/NzgtMjEyOS5qcGVn.jpeg"
     - "https://i.discogs.com/-zzzHM0ZYfPD4kUzf6tPIAhU7nKvDOWLALiXpX6bkKA/rs:fit/g:sm/q:90/h:579/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMTkz/NDQ4LTE2MzEzNjA1/MTUtMTU5MS5qcGVn.jpeg"
@@ -28,13 +28,13 @@ additional_images:
     - "https://i.discogs.com/IvDwLp6YuFzg0jbElJEtT79yOg_KCiQLfFDIuceau0A/rs:fit/g:sm/q:90/h:315/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMTkz/NDQ4LTE2MzEzNjA1/MTItNDY5MC5qcGVn.jpeg"
     - "https://i.discogs.com/8KGYKwYnUIK4yD_65WzXoILXOv8vfNNmBTR9nd1Ct3Q/rs:fit/g:sm/q:90/h:323/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMTkz/NDQ4LTE2MzEzNjA1/MzUtODc2Ni5qcGVn.jpeg"
     - "https://i.discogs.com/D3GU32lHy5mNeOIheq8p8Pn356O9Wnt34-duVHWb2es/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMTkz/NDQ4LTE2MzEzNjA1/NDQtNzg3NC5qcGVn.jpeg"
-    - "https://i.discogs.com/5PiY2J02xckibd5uaIETXfYHrIZNVobqElUDDltAWIs/rs:fit/g:sm/q:90/h:562/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMTkz/NDQ4LTE2ODMzMzY4/NzYtODM0My5qcGVn.jpeg"
+    - "https://i.discogs.com/2ciGeycTs0HYzeEF1l8AW1IdKzrRZCagX3wAdXno1f0/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMTkz/NDQ4LTE2OTc4NDIw/NTItODQ2NC5qcGVn.jpeg"
 genres: ["Electronic", "Folk, World, & Country"]
 styles: ["Ambient", "Country", "Folk", "Abstract"]
 ---
 
-Casualties of Cool is the debut album of Canadian country rock duo Casualties of Cool, consisting of Canadian musicians Devin Townsend and Ché Aimee Dorval , released on May 14, 2014. It is a musical departure from any of Townsend's previous works, primarily because it is a concept album that features country-influenced songs with blues rock and ambient influences.
-A number of guests performed on the album, including Morgan Ågren of Kaipa on drums, Kat Epple of Emerald Web on woodwinds, and Jørgen Munkeby of Shining on saxophone. It was partially funded by the crowdfunding site PledgeMusic.
+Casualties of Cool is the debut album of Canadian country rock duo Casualties of Cool, consisting of Canadian musicians Devin Townsend and Ché Aimee Dorval, released on May 14, 2014. It is a musical departure from any of Townsend's previous works, primarily because it is a concept album that features country-influenced songs with blues rock and ambient influences.
+A number of guests performed on the album, including Morgen Ågren of Kaipa on drums, Kat Epple of Emerald Web on woodwinds, and Jørgen Munkeby of Shining on saxophone. It was partially funded by the crowdfunding site PledgeMusic.
     
     
 
@@ -72,7 +72,7 @@ A number of guests performed on the album, including Morgan Ågren of Kaipa on d
 30. Pure
 
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/casualties-of-cool-deluxe-version/865501059" >}}<br>
+{{< applemusic url="https://music.apple.com/gb/album/casualties-of-cool/865373053" >}}<br>
 
 
 ## Videos

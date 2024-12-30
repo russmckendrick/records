@@ -17,8 +17,8 @@ additional_images:
     - "https://i.discogs.com/MZFwne45GErSX9IUzjUraufN_VZkVYmLJ6tGz-uCUyQ/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMTAx/MjY1LTE1MzIxNzI5/NTEtNjg4My5qcGVn.jpeg"
     - "https://i.discogs.com/lWv4odJhmxoyps6LhG1vXq18uHRuTJuSu4BbskVLk70/rs:fit/g:sm/q:90/h:571/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMTAx/MjY1LTE1MzQ1NDQ5/MjYtMjQ1Mi5qcGVn.jpeg"
     - "https://i.discogs.com/rOe1eZ7shcawyBkOgSGgLdimi8YLCPk2-RNZDcaF5hA/rs:fit/g:sm/q:90/h:573/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMTAx/MjY1LTE1MzQ1NDQ5/MzQtNDM3Mi5qcGVn.jpeg"
-    - "https://i.discogs.com/EiwC0I2y_5d1lUNCVdInUs5wPHjYFxYf9BIH8Y8ZZ18/rs:fit/g:sm/q:90/h:602/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMTAx/MjY1LTE1MzQ1NDQ5/NDAtMjE5MS5qcGVn.jpeg"
-    - "https://i.discogs.com/PhIXIaAWEHeN9rtdDdeNN-HuSVnwDFB9sf7wREqj-Bs/rs:fit/g:sm/q:90/h:609/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMTAx/MjY1LTE1MzQ1NDQ5/NTQtNTIyMC5qcGVn.jpeg"
+    - "https://i.discogs.com/2IqIevsLl12YyaMCsshUdWPb8HupbQhHNZFrWVvB9oo/rs:fit/g:sm/q:90/h:600/w:597/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMTAx/MjY1LTE1MzQ1NDQ5/NDAtMjE5MS5qcGVn.jpeg"
+    - "https://i.discogs.com/JhDHhpm9oGAGvszwaSOR6RqI5ogQ6hun3k_m_kaDJ10/rs:fit/g:sm/q:90/h:600/w:590/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMTAx/MjY1LTE1MzQ1NDQ5/NTQtNTIyMC5qcGVn.jpeg"
 genres: ["Rock"]
 styles: ["Alternative Rock", "Indie Rock"]
 ---
@@ -83,9 +83,20 @@ BR: “We thought that it was good to end the album on a soft note. The song is 
 
 
 ## Videos
-### Violent Femmes - Full Album (1982)
-{{< youtube id="AkfzujwVFQs" title="Violent Femmes - Full Album (1982)" >}}<br>
+### Violent Femmes - Blister In The Sun (Lyric Video)
+{{< youtube id="G89chAA4l8s" title="Violent Femmes - Blister In The Sun (Lyric Video)" >}}<br>
+### More Videos
 
+- [Kiss Off](https://www.youtube.com/watch?v=hTUAaW3oGGo)
+- [Violent Femmes - Blister in the Sun](https://www.youtube.com/watch?v=JE-dqW4uBEE)
+- [Add It Up](https://www.youtube.com/watch?v=hLHi3wiSuWc)
+- [Please Do Not Go](https://www.youtube.com/watch?v=xHdVBoQc2mg)
+- [Prove My Love](https://www.youtube.com/watch?v=jdnsHfE8hZE)
+- [Promise](https://www.youtube.com/watch?v=n14c954A8hQ)
+- [Confessions](https://www.youtube.com/watch?v=0CIwqhpQoLg)
+- [Good Feeling](https://www.youtube.com/watch?v=FHyWj903TRY)
+- [Violent Femmes - Gone Daddy Gone](https://www.youtube.com/watch?v=oHMJE0rcb8M)
+- [VIOLENT FEMMES - violent femmes #fullalbum](https://www.youtube.com/watch?v=3-A3EFUHyo0)
 
 ## Release Images
 {{< imageGrid >}}

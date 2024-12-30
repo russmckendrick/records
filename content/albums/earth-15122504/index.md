@@ -15,8 +15,8 @@ additional_images:
     - "https://i.discogs.com/GXmJPiXpXoqU5EEwAf2su1nKdr-6_C0emnB4utFntIU/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MTIy/NTA0LTE1ODY5Njcx/NTEtNTI5MS5qcGVn.jpeg"
     - "https://i.discogs.com/DgNGYry_vf87eyoxaGSSdb5ZYea62Ya1UQIDNFBEaIM/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MTIy/NTA0LTE1ODY5Njcx/NjAtODI5My5qcGVn.jpeg"
     - "https://i.discogs.com/bXUzAGyT2Z7jKgv4hCo4wxCAjTHjeU-FIegDimNosT4/rs:fit/g:sm/q:90/h:552/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MTIy/NTA0LTE1ODY5Njcx/NjUtNjYzNC5qcGVn.jpeg"
-    - "https://i.discogs.com/9wuR9JbnNVC-MYGdWRAn7Vvailsom4HvXcLYttLvOBs/rs:fit/g:sm/q:90/h:640/w:480/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MTIy/NTA0LTE1OTM0NjQ4/OTktNTc0OC5qcGVn.jpeg"
-    - "https://i.discogs.com/4gUyvaNuZdxd0xWvNJq2i8rvqRJuL0TwCsbVnI4V290/rs:fit/g:sm/q:90/h:640/w:480/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MTIy/NTA0LTE1OTM0NjU3/MzAtNTg0NS5qcGVn.jpeg"
+    - "https://i.discogs.com/8SZ3XlBKSamc5ZntuCXdTQbTu0aOnD4Dk9WFXlagRec/rs:fit/g:sm/q:90/h:600/w:450/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MTIy/NTA0LTE1OTM0NjQ4/OTktNTc0OC5qcGVn.jpeg"
+    - "https://i.discogs.com/GqPyKIsYQdDcTNKkn12gvNZljCgqkXXpk9t2afs-UFg/rs:fit/g:sm/q:90/h:600/w:450/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MTIy/NTA0LTE1OTM0NjU3/MzAtNTg0NS5qcGVn.jpeg"
 genres: ["Electronic", "Rock"]
 styles: ["Indie Rock", "Folk", "House"]
 ---
@@ -34,6 +34,8 @@ styles: ["Indie Rock", "Folk", "House"]
 8. Olympik
 9. Cloak Of The Night
 
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/maker-of-heaven-and-earth/1198830727" >}}<br>
 
 
 ## Videos

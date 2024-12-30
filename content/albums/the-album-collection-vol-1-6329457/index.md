@@ -4,6 +4,7 @@ artist_name: "Bruce Springsteen"
 artist: "bruce-springsteen"
 album_name: "The Album Collection Vol. 1"
 date: 2016-01-19T19:37:33.000000Z
+release_date: "1978-06-02"
 release_id: "6329457"
 slug: "the-album-collection-vol-1-6329457"
 hideSummary: true
@@ -15,7 +16,7 @@ additional_images:
     - "https://i.discogs.com/cqv_ZgakJ_Kqo1RiwikVy6Z7aQHMbS9CRwsmgl1NAGY/rs:fit/g:sm/q:90/h:532/w:535/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYzMjk0/NTctMTQxNjY0NzE1/MC05NDgxLmpwZWc.jpeg"
     - "https://i.discogs.com/pumRiOhfuPgrn-iQMecPq9qdSYlRnUqhu8OXsrsRiFs/rs:fit/g:sm/q:90/h:515/w:516/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYzMjk0/NTctMTQxNjY0NzE1/My0xODY2LmpwZWc.jpeg"
     - "https://i.discogs.com/K6P83m8KxQlFScumPJ79AOS1rS5K8HBQw2JLqOxTF74/rs:fit/g:sm/q:90/h:586/w:582/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYzMjk0/NTctMTQxNjY0NzE1/My05MzU3LmpwZWc.jpeg"
-    - "https://i.discogs.com/n8ATLurQeILBpcWAkSTkRxxHiTLMdovVcqUyIOGXu_Y/rs:fit/g:sm/q:90/h:942/w:566/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYzMjk0/NTctMTQxNjY0NzE1/Ni00NzQyLmpwZWc.jpeg"
+    - "https://i.discogs.com/jn63QB86b3xFZjbJS_jLOKsE6c2KyX2CXVg-fy2I5qk/rs:fit/g:sm/q:90/h:600/w:360/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYzMjk0/NTctMTQxNjY0NzE1/Ni00NzQyLmpwZWc.jpeg"
     - "https://i.discogs.com/pPFj1rZ7DxEYKJ2MPXjywbbf4FthtPfXle-EppuIJt4/rs:fit/g:sm/q:90/h:337/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYzMjk0/NTctMTQxNjYwNjgw/MC0yNzI0LmpwZWc.jpeg"
     - "https://i.discogs.com/AMOITdvovO6nD3_mrC51tkrvVEJs8UZ-etTQAeLXVq4/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYzMjk0/NTctMTU5ODY4NjA5/MS05MjkyLmpwZWc.jpeg"
     - "https://i.discogs.com/pKOV8TR1J7DxBxey0GUHVyHE_bjfbXWBeLpXvoYjtZY/rs:fit/g:sm/q:90/h:591/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYzMjk0/NTctMTU5ODY4NjA4/NC02MDk5LmpwZWc.jpeg"
@@ -37,13 +38,13 @@ additional_images:
     - "https://i.discogs.com/8SIz__9g3roK97ylJwCzGlsij7P09Q5E1cTONbteGx4/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYzMjk0/NTctMTU5ODg1OTMy/NS05MDA1LmpwZWc.jpeg"
     - "https://i.discogs.com/V7mndMzERbk0ZuNWc0fVRoC8D80rgE1Rd5SKkWLrz70/rs:fit/g:sm/q:90/h:300/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYzMjk0/NTctMTU5ODg1OTMz/MS02MTcxLmpwZWc.jpeg"
     - "https://i.discogs.com/14f2LVCbwjmNYI-OuD4m2KHqDct1WFUTQ8HStcNHLYc/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYzMjk0/NTctMTU5ODkxNzI2/My02NTc1LmpwZWc.jpeg"
-    - "https://i.discogs.com/cq93bWIeZE6gNL_Rdxh_cbmaKkTLvfCMgVYvfEsfaoE/rs:fit/g:sm/q:90/h:606/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYzMjk0/NTctMTU5ODkxNzI2/My05NDgxLmpwZWc.jpeg"
+    - "https://i.discogs.com/yDXZOgiRcHoKBiVAHRvP9lU1nIUYjqrRPsoulL5Q1Uo/rs:fit/g:sm/q:90/h:600/w:593/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYzMjk0/NTctMTU5ODkxNzI2/My05NDgxLmpwZWc.jpeg"
     - "https://i.discogs.com/AritJsr8YAoB9t6QYNqQDobrB1Oa9J4wv_1JJfLa3mA/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYzMjk0/NTctMTU5ODkxNzI1/MC0xMzIxLmpwZWc.jpeg"
     - "https://i.discogs.com/Rr64xi6zDd1shexRc98yc0XAibAc8DWHOz46iapsDrw/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYzMjk0/NTctMTU5ODkxNzI1/MC02MDE4LmpwZWc.jpeg"
     - "https://i.discogs.com/bDO49Pe1sAWotUYehfM-2NffysHG1xLrci6l13bv-2g/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYzMjk0/NTctMTU5ODkxNzI2/MC05NTM1LmpwZWc.jpeg"
     - "https://i.discogs.com/GYtz-xJaSuLgcItx1sW1XVOlTceGwqyZUB-AAL911jE/rs:fit/g:sm/q:90/h:590/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYzMjk0/NTctMTU5ODkxNzI1/Ny02OTAyLmpwZWc.jpeg"
     - "https://i.discogs.com/oMjVti75mHEwkEebg_oDROaobhidbrZHDOF9j5Pnhl4/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYzMjk0/NTctMTU5ODkxNzI2/MC02NzcwLmpwZWc.jpeg"
-    - "https://i.discogs.com/h3NI3NnFQPDMMy2l9z9cm71-PFuAWlyKatfKVVatvps/rs:fit/g:sm/q:90/h:601/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYzMjk0/NTctMTU5ODkxNzI1/OC05MDEzLmpwZWc.jpeg"
+    - "https://i.discogs.com/26sg7DIQMjvpusSNlb4ylOrwi2qYrwhElm7HsmlzfBc/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYzMjk0/NTctMTU5ODkxNzI1/OC05MDEzLmpwZWc.jpeg"
     - "https://i.discogs.com/dskM4DXdzjw22sqA07WBf5utgItFS1h6Ys1SFgLjBkE/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYzMjk0/NTctMTU5ODkzODQ5/NS0yODI1LmpwZWc.jpeg"
     - "https://i.discogs.com/qB8CNrJaEz4OErKZQsSiXfuOMH2KDLIfN2lsVFVGvUg/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYzMjk0/NTctMTU5ODkzODQ4/My03MDkyLmpwZWc.jpeg"
     - "https://i.discogs.com/7c1F4QUlmd65WsP_gmEp2f95hNXE_MEZIydNuEjHqPA/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYzMjk0/NTctMTU5ODkzODUy/NC0yMTI4LmpwZWc.jpeg"
@@ -58,7 +59,7 @@ additional_images:
     - "https://i.discogs.com/-X4poWcxqwTv97axHDSrwyEmZJ1J2EWoZ3OQHQK8OMs/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYzMjk0/NTctMTU5ODkzODQ4/MC00NjQ0LmpwZWc.jpeg"
     - "https://i.discogs.com/-6CS2Zeq4-cm2jJlKvBR1-fdmh13psXhKuCCksjzQls/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYzMjk0/NTctMTU5ODkzODQ3/NS0zMzUyLmpwZWc.jpeg"
     - "https://i.discogs.com/MJVV8bGRpKyZDOd5FEshbLMOSR5P8899MixeCsJKYko/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYzMjk0/NTctMTU5ODkzODQ2/MC02NDg4LmpwZWc.jpeg"
-    - "https://i.discogs.com/OiQ2L5xLYLiQEmvNBxcRPsnetm-x6q1eJX1jfqw1Y4o/rs:fit/g:sm/q:90/h:608/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYzMjk0/NTctMTU5OTEyMjE0/NC05NjI3LmpwZWc.jpeg"
+    - "https://i.discogs.com/xpFFHF5ZxlJ4yCf1Znpdzu5iBFRSEojiBwImzY2HcLw/rs:fit/g:sm/q:90/h:600/w:592/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYzMjk0/NTctMTU5OTEyMjE0/NC05NjI3LmpwZWc.jpeg"
     - "https://i.discogs.com/iAjpgkjGjiEPliAt1Pxeu5ltEJk3ZTTVrZM-gZcry1c/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYzMjk0/NTctMTU5OTEyMjE0/MC05MTUxLmpwZWc.jpeg"
     - "https://i.discogs.com/9A3_B9F28Oz6XysR8Unmbu2W26_nTDLWIfNv8ofIX4E/rs:fit/g:sm/q:90/h:587/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYzMjk0/NTctMTU5OTEyMjE0/NC03NjU2LmpwZWc.jpeg"
     - "https://i.discogs.com/1iy2A1WF21mdq3DiBS_AGc2Y0NNQhK0jpEz4NLy-jR4/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYzMjk0/NTctMTU5OTEyMjE0/Ni00OTcyLmpwZWc.jpeg"
@@ -68,9 +69,15 @@ genres: ["Rock"]
 styles: ["Classic Rock"]
 ---
 
-The Album Collection Vol. 1 1973–1984 is a box set collection by Bruce Springsteen released on November 17, 2014. The 8 disc box set contains remastered versions of Springsteen's first seven studio albums and for the first time ever on CD, remasters of Greetings from Asbury Park, N.J., The Wild, the Innocent & the E Street Shuffle, The River, Nebraska and Born in the U.S.A. The box set features each album with recreations of their original packaging and also contain a 60-page book. All seven albums have also made their remastered debut on vinyl, and are available digitally at the iTunes Store.
-The albums were remastered by engineers Bob Ludwig and Toby Scott using brand new transfers from the original analogue masters using the Plangent Process playback system.
-    
+Released three years after the epic <i>Born to Run</i>, Bruce Springsteen’s fourth album is full of the literal darkness in the album title—but it also also crackles with power and intensity. <i>Darkness on the Edge of Town</i> wasn’t an easy album to make: It didn’t arrive until 1978, largely because Springsteen had signed a contract preventing him from working with any producer not approved by the singer’s management. Springsteen sued his manager; his manager sued him back; and, as a result, the Boss spent a year and a half fighting to defend everything he had worked for.
+
+That defiance can be found throughout <i>Darkness on the Edge of Town</i>, from the lyrics to the vocals to the instrumental performances. You can hear Springsteen’s anger—as well as the sheer relief of achieving his freedom. But you can also sense Springsteen’s very real fear that everyone had forgotten about him, and his awareness that this record was going to make or break his future. The material was powerful enough—but the emotional catharsis required to bring it together took <i>Darkness on the Edge of Town</i> to another level.
+
+So there’s the snarling saga of father/son dynamics in “Adam Raised a Cain”; the firecracker fuse of lust in “Something in the Night” and “Candy’s Room”; the dull mundanity of the 9-to-5 job in “Factory”. Springsteen’s writing was informed by a new interest in classical country music, as well as an increasing affinity with American cinema. The dignity of adult life, and the sharp jump-cuts of B movies, informed a record featuring Springsteen’s now-familiar cast of ne’er-do-wells. These are people who’ve evolved past their days of living hard and getting into trouble. Springsteen’s characters in <i>Darkness on the Edge of Town</i> are trying to get by—but they’re desperate and making bad decisions along the way. They’re running out of road.
+
+You can hear their desperation in “Racing in the Street” or on the sombre title track. But this is hardly a hopeless album. Springsteen also included beacons of light in the form of “Badlands”, “The Promised Land” and “Prove It All Night”—a trinity that would expand far beyond their roles as lifelines on this record, and come to symbolise the universal quest for hope and redemption.
+        
+        
     
 
 
@@ -159,16 +166,11 @@ The albums were remastered by engineers Bob Ludwig and Toby Scott using brand ne
 82. Dancing In The Dark (4:01)
 83. My Hometown (4:33)
 
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/darkness-on-the-edge-of-town/400713977" >}}<br>
 
 
-## Videos
-### Bruce Springsteen: The Album Collection (teaser) (Digital video- with street date)
-{{< youtube id="H7T_9Yt9f2U" title="Bruce Springsteen: The Album Collection (teaser) (Digital video- with street date)" >}}<br>
-### More Videos
 
-- [Bruce Springsteen: The Album Collection - The Thrill Hill Sessions (Digital video- with...](https://www.youtube.com/watch?v=3evNvtbgojk)
-- [Bruce Springsteen - The Album Collection First Look VOL.1](https://www.youtube.com/watch?v=rY1YyXQ8CqU)
-- [Unboxing Bruce Springsteen The Album Collection Vol. 1](https://www.youtube.com/watch?v=6qp0QVjTnJU)
 
 ## Release Images
 {{< imageGrid >}}

@@ -21,6 +21,9 @@ genres: ["Rock"]
 styles: ["Hard Rock", "Heavy Metal"]
 ---
 
+Memoirs of a Madman (French: Mémoires d'un fou) is an autobiographical text written by Gustave Flaubert in 1838.  The next year, Flaubert dedicated it to his friend, Alfred Le Poittevin. The manuscript changed hands twice before being finally published in La Revue Blanche from December 1900 to February 1901, some twenty years after Flaubert's death.
+    
+    
 
 
 ## Tracklisting
@@ -47,14 +50,16 @@ styles: ["Hard Rock", "Heavy Metal"]
 
 
 ## Videos
-### OZZY OSBOURNE - Dreamer
-{{< youtube id="LCCiwPEdEpg" title="OZZY OSBOURNE - Dreamer" >}}<br>
+### Ozzy Osbourne –Paranoid Live.....yerdenizplak.com İstanbul Kadıköy
+{{< youtube id="qxcruo00h4U" title="Ozzy Osbourne –Paranoid Live.....yerdenizplak.com İstanbul Kadıköy" >}}<br>
 ### More Videos
 
-- [OZZY OSBOURNE - No More Tears](https://www.youtube.com/watch?v=CprfjfN5PRs)
+- [Ozzy Osbourne –Paranoid Live.....yerdenizplak.com İstanbul Kadıköy](https://www.youtube.com/watch?v=qxcruo00h4U)
+- [OZZY OSBOURNE - "No More Tears"](https://www.youtube.com/watch?v=CprfjfN5PRs)
 - [Mr. Crowley](https://www.youtube.com/watch?v=4Rtq63cdTro)
 - [Road to Nowhere](https://www.youtube.com/watch?v=9I53DlflmlI)
 - [Paranoid (Live at The Roundhouse, London, England - 2010)](https://www.youtube.com/watch?v=uUsqxqRCuig)
+- [OZZY OSBOURNE - "Dreamer"](https://www.youtube.com/watch?v=LCCiwPEdEpg)
 
 ## Release Images
 {{< imageGrid >}}
@@ -62,6 +67,7 @@ styles: ["Hard Rock", "Heavy Metal"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
+| Wikipedia URL | https://en.wikipedia.org/wiki/Memoirs_of_a_Madman |
 | Format         | Vinyl 2× LP Compilation Remastered Stereo (Gatefold, 180 gram) |
 | Label          | Epic |
 | Catalog Number | 88875015611 |

@@ -47,21 +47,21 @@ styles: ["Alternative Rock", "Indie Rock"]
 13. Skindiving (5:42)
 
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/laid-deluxe-edition/1445872484" >}}<br>
+{{< applemusic url="https://music.apple.com/gb/album/the-best-of-james/1440910867" >}}<br>
 
 
 ## Videos
-### James - Out to get you
-{{< youtube id="rZ_ePY2CjRw" title="James - Out to get you" >}}<br>
+### James - Say Something (US Version)
+{{< youtube id="50dZQkrqxAk" title="James - Say Something (US Version)" >}}<br>
 ### More Videos
 
+- [James - Laid (Version 3) [Official Video]](https://www.youtube.com/watch?v=0trh9Y598fM)
+- [James - Out to get you](https://www.youtube.com/watch?v=rZ_ePY2CjRw)
 - [James - Sometimes](https://www.youtube.com/watch?v=ejU5YAHN3vQ)
 - [James - Sometimes](https://www.youtube.com/watch?v=LGfnw4YscBA)
 - [James - One Of The Three (Video Subtitulado)](https://www.youtube.com/watch?v=K2hqxNywzIA)
 - [James - Say Something](https://www.youtube.com/watch?v=icehffFWOck)
-- [James - Say Something (US Version)](https://www.youtube.com/watch?v=50dZQkrqxAk)
-- [James - Laid (Version 2)](https://www.youtube.com/watch?v=g_qZ5B-yioU)
-- [James - Laid (Version 3) [Official Video]](https://www.youtube.com/watch?v=0trh9Y598fM)
+- [James - Low Low Low](https://www.youtube.com/watch?v=0Q1XkhswlsQ)
 
 ## Release Images
 {{< imageGrid >}}

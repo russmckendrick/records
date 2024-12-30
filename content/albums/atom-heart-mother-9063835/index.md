@@ -20,14 +20,15 @@ additional_images:
     - "https://i.discogs.com/ZyL4_dNVdf8nLYk82-S3A0CEHF5H7nLOCW0L76zXQBc/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkwNjM4/MzUtMTQ3NDY1MDAz/My04NTY3LmpwZWc.jpeg"
     - "https://i.discogs.com/q3RGEEpymB9s-t2jRsF4vX1e8n53aBxhALpQoAMdZHE/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkwNjM4/MzUtMTQ3NDY1MDAz/NC0xNzk2LmpwZWc.jpeg"
     - "https://i.discogs.com/2bslarYIc7oJEju5z71rvT4uiYX1z9MtDWyY2uOuEmo/rs:fit/g:sm/q:90/h:287/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkwNjM4/MzUtMTQ3NDY1Njk0/OC0zNzEzLmpwZWc.jpeg"
-    - "https://i.discogs.com/gQi2m1ODYHRIBMI9ubVFtUPTzo_CE1Pi-1Jb98jSEk4/rs:fit/g:sm/q:90/h:1175/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkwNjM4/MzUtMTQ3NDY1MDAz/My03NjE2LmpwZWc.jpeg"
+    - "https://i.discogs.com/ua9Yp7UoaGCgGYElp4WWbYUIHSXpg4XfUZO3ohXu1aw/rs:fit/g:sm/q:90/h:600/w:306/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkwNjM4/MzUtMTQ3NDY1MDAz/My03NjE2LmpwZWc.jpeg"
     - "https://i.discogs.com/I1dEtHE-a1Fqn1C-sSp2TTi6shOoS2tex35PXbJ0TGA/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkwNjM4/MzUtMTYzNzI0MzI2/MS01NTMzLmpwZWc.jpeg"
 genres: ["Rock"]
 styles: ["Psychedelic Rock", "Prog Rock"]
 ---
 
-Atom Heart Mother is the fifth studio album by the English band Pink Floyd. It was released by Harvest on 2 October 1970 in the UK, and by Capitol on 10 October 1970 in the US. It was recorded at EMI Studios (now Abbey Road Studios) in London, and was the band's first album to reach number 1 in the UK, while it reached number 55 in the US, eventually going gold there.The cover was designed by Hipgnosis, and was the first one not to feature the band's name on the cover, or contain any photographs of the band anywhere. This was a trend that would continue on subsequent covers throughout the 1970s and beyond.
-Although it was commercially successful on release, the band – particularly Roger Waters and David Gilmour – have expressed negative opinions of the album. "A really awful and embarrassing record," said Waters.A remastered CD was released in 1994 in the UK and the US, and again in 2011. Ron Geesin, who had influenced and collaborated with Waters, contributed to the title track and received a then-rare outside songwriting credit.
+Atom Heart Mother is the fifth studio album by the English rock band Pink Floyd. It was released by Harvest on 2 October 1970 in the United Kingdom, and on 10 October 1970 in the United States. It was recorded at EMI Studios (now Abbey Road Studios) in London, and was the band's first album to reach number 1 in the UK, while it reached number 55 in the US, eventually going gold there.
+The cover was designed by Hipgnosis, and was the band's first not to feature their name, or have photographs of them on any part of it. This was a trend that would continue on subsequent covers throughout the 1970s. The cover shows a Holstein cow on a meadow landscape.
+Although it was commercially successful on release, the band – particularly Roger Waters and David Gilmour – have expressed negative opinions of the album. A remastered CD was released in 1994 in the UK and the US, and again in 2011. Ron Geesin, who had influenced and collaborated with Waters, co-composed the title track.
 
 
         
@@ -47,11 +48,11 @@ Although it was commercially successful on release, the band – particularly Ro
 
 
 ## Videos
-### VINILE «No. 6873 -1️⃣9️⃣7️⃣0️⃣ (Lati: 2) – Pink Floyd – Atom Heart Mother
-{{< youtube id="0khlKK6bcb8" title="VINILE «No. 6873 -1️⃣9️⃣7️⃣0️⃣ (Lati: 2) – Pink Floyd – Atom Heart Mother" >}}<br>
+### Pink Floyd - 1st UK press vinyl - Atom Heart Mother - side 1
+{{< youtube id="8TTYKGXp5cE" title="Pink Floyd - 1st UK press vinyl - Atom Heart Mother - side 1" >}}<br>
 ### More Videos
 
-- [Suite - 01 - Father's Shout - Atom Heart Mother- Pink Floyd](https://www.youtube.com/watch?v=tVYvlzX5m9s)
+- [Pink Floyd - 1st UK press vinyl - Atom Heart Mother - side 2](https://www.youtube.com/watch?v=qftxlkUl34o)
 
 ## Release Images
 {{< imageGrid >}}

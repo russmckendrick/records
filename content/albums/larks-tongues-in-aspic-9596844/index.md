@@ -22,6 +22,9 @@ genres: ["Rock"]
 styles: ["Prog Rock"]
 ---
 
+Larks' Tongues in Aspic is the fifth studio album by the English progressive rock group King Crimson, released on 23 March 1973 through Island Records in the UK and Atlantic Records in the United States and Canada. This album is the debut of King Crimson's third incarnation, featuring co-founder and guitarist Robert Fripp along with four new members: bass guitarist and vocalist John Wetton, violinist and keyboardist David Cross, percussionist Jamie Muir, and drummer Bill Bruford. It is a key album in the band's evolution, drawing on Eastern European modernist classical music and European free improvisation as central influences.
+    
+    
 
 
 ## Tracklisting
@@ -37,11 +40,15 @@ styles: ["Prog Rock"]
 
 
 ## Videos
-### King Crimson - Larks' Tongues In Aspic, Part Two
-{{< youtube id="jX0caf1HvNs" title="King Crimson - Larks' Tongues In Aspic, Part Two" >}}<br>
+### King Crimson - Book Of Saturday
+{{< youtube id="lPutToA0ZHs" title="King Crimson - Book Of Saturday" >}}<br>
 ### More Videos
 
+- [King Crimson - Exiles](https://www.youtube.com/watch?v=nMeFafKx7GI)
 - [King Crimson - The Talking Drum](https://www.youtube.com/watch?v=OX6WB0vlDUg)
+- [King Crimson - Larks' Tongues In Aspic, Part Two](https://www.youtube.com/watch?v=jX0caf1HvNs)
+- [King Crimson - Easy Money](https://www.youtube.com/watch?v=LxaM5ex1isc)
+- [King Crimson - Larks' Tongues In Aspic Part I (OFFICIAL)](https://www.youtube.com/watch?v=CVb2tnFN5AA)
 
 ## Release Images
 {{< imageGrid >}}
@@ -49,7 +56,8 @@ styles: ["Prog Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl LP Album Reissue Remastered Repress (200 Gram) |
+| Wikipedia URL | https://en.wikipedia.org/wiki/Larks%27_Tongues_in_Aspic |
+| Format         | Vinyl LP Album Reissue Remastered Repress Stereo (200 Gram) |
 | Label          | Discipline Global Mobile |
 | Catalog Number | KCLP 5 |
 | Notes | This pressing does NOT include a color postcard with download code, and also differs in the text on the sticker on the shrink wrap: KCLP5 • The original stereo mix of the 1973 classic • Newly cut from masters approved by Robert Fripp (NO line with wording about inclusion of download code) • 200-gram super-heavyweight vinyl  Barcode on sticker only. Includes a branded inner sleeve and a single-sided printed insert.  All songs published by EMI Music Publishing Ltd./UMG Music Ltd.  Recorded at Command Studios, London - Jan & Feb 1973.  Lyrics © 1973 Richard W. Palmer-James.  ℗ & © 2013 Robert Fripp.  A King Crimson Production Made in England. |

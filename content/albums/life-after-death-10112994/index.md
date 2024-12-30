@@ -4,7 +4,7 @@ artist_name: "Notorious B.I.G."
 artist: "notorious-b-i-g"
 album_name: "Life After Death"
 date: 2017-04-22T10:04:55.000000Z
-release_date: "1997-03-25"
+release_date: "2007-03-06"
 release_id: "10112994"
 slug: "life-after-death-10112994"
 hideSummary: true
@@ -17,18 +17,20 @@ additional_images:
     - "https://i.discogs.com/5wu1JB9FxyFZ0Gf5-C6p_9zUCkSgErjWnOpaONGl6zs/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMTEy/OTk0LTE0OTIxMTEy/NDctNTg5Ny5qcGVn.jpeg"
     - "https://i.discogs.com/iA6IyAoW8QKzM6JKbIDYEYwgiCq9SFsRZs31s-AucbQ/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMTEy/OTk0LTE1MDAyOTQ0/MTYtNDAzOS5qcGVn.jpeg"
     - "https://i.discogs.com/hS-sE-E70q2bUPP5SH9taTgIs89YvvBHqrpy1l5VPo8/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMTEy/OTk0LTE1MDAyOTQ0/MTctNzUzMy5qcGVn.jpeg"
-    - "https://i.discogs.com/IMrRUPdAxCDxfrKHzKLQgwjf6oVWBVWHL-ORZXAUQGc/rs:fit/g:sm/q:90/h:602/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMTEy/OTk0LTE1MDAyOTQ0/MTctMjc0OC5qcGVn.jpeg"
+    - "https://i.discogs.com/40ITMcY5XKi7HxwkfLQGVV54izKJkkxflCjER4DSkVo/rs:fit/g:sm/q:90/h:600/w:597/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMTEy/OTk0LTE1MDAyOTQ0/MTctMjc0OC5qcGVn.jpeg"
     - "https://i.discogs.com/JXazXHlM3mmgLrWnpMJNb_1DiTNsgxiJIOSKO4YkanY/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMTEy/OTk0LTE1MDAyOTQ0/MTgtODQ4My5qcGVn.jpeg"
     - "https://i.discogs.com/qgGH4BMP8YHLmRmWcrBEMxj7nmyR6C7dUcVZ4RW2wyQ/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMTEy/OTk0LTE1MDAyOTQ0/MTctNzIyOC5qcGVn.jpeg"
-    - "https://i.discogs.com/WpLfJOx5-gnIPTPbLAhAZ13JD4GUaMLjIAGYKdC9m7k/rs:fit/g:sm/q:90/h:601/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMTEy/OTk0LTE1MDAyOTQ0/MjEtMTczNi5qcGVn.jpeg"
-    - "https://i.discogs.com/Htv6LTe8d8W2i64lICF4dG_3CCjlA_ZZWzi9ETI0aLc/rs:fit/g:sm/q:90/h:603/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMTEy/OTk0LTE1MDAyOTQ0/MjAtOTA2Mi5qcGVn.jpeg"
+    - "https://i.discogs.com/BT_glw5QMnaQXBySThdlrs16ordfGozk7bF42nJ5eIg/rs:fit/g:sm/q:90/h:600/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMTEy/OTk0LTE1MDAyOTQ0/MjEtMTczNi5qcGVn.jpeg"
+    - "https://i.discogs.com/jczJyQ6gT4Sj4hOtDooUAWCb682m9U8kxutKcHeYAUE/rs:fit/g:sm/q:90/h:600/w:596/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMTEy/OTk0LTE1MDAyOTQ0/MjAtOTA2Mi5qcGVn.jpeg"
     - "https://i.discogs.com/WYWYkVsIXKuhc_warbMiDDn-xS7OxpSVIw8FzRprV1E/rs:fit/g:sm/q:90/h:589/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMTEy/OTk0LTE1MDAyOTQ0/MjEtNDI2OS5qcGVn.jpeg"
 genres: ["Hip Hop"]
 styles: ["Gangsta"]
 ---
 
-Life After Death is the second and final studio album by American rapper The Notorious B.I.G., released on March 25, 1997, on Bad Boy Records and Arista Records. A double album, it was released sixteen days after his murder. It features collaborations with guest artists such as 112, Jay-Z, Lil' Kim, Mase, Bone Thugs-n-Harmony, Too $hort, Angela Winbush, D.M.C. of Run-D.M.C., R. Kelly, The Lox, and Puff Daddy. Life After Death exhibits The Notorious B.I.G. further delving into the mafioso rap subgenre. The album is a sequel to his first album, Ready to Die, and picks up where the last song, "Suicidal Thoughts", ends.
-Life After Death sold 690,000 copies in its first week, soon reaching the No. 1 spot on the Billboard 200. It received widespread critical acclaim upon release and was nominated for Best Rap Album, Best Rap Solo Performance for its first single "Hypnotize", and Best Rap Performance by a Duo or Group for its second single "Mo Money Mo Problems" at the 40th Annual Grammy Awards. The album is widely considered to be one of the greatest hip hop albums of all time. In 2020, it was ranked at No. 179 on Rolling Stone magazine's list of the 500 Greatest Albums of All Time.
+Life After Death is the second studio album by American rapper the Notorious B.I.G., released on March 25, 1997, on Bad Boy Records and Arista Records. A double album, it was released sixteen days after his murder. It features collaborations with guest artists such as 112, Jay-Z, Lil' Kim, Mase, Bone Thugs-n-Harmony, Too $hort, Angela Winbush, D.M.C. of Run-D.M.C., R. Kelly, the Lox, and Puff Daddy. Life After Death exhibits the Notorious B.I.G. further delving into the mafioso rap subgenre. The album is a sequel to his first album, Ready to Die, and picks up where the last song, "Suicidal Thoughts", ends.
+Life After Death sold 690,000 copies in its first week, peaking at No. 1 on the Billboard 200. It received widespread critical acclaim upon release and was nominated for Best Rap Album, Best Rap Solo Performance for its first single "Hypnotize", and Best Rap Performance by a Duo or Group for its second single "Mo Money Mo Problems" at the 40th Annual Grammy Awards. The album is widely considered to be one of the greatest hip hop albums of all time. In 2020, it was ranked at No. 179 on Rolling Stone magazine's list of the 500 Greatest Albums of All Time.
+
+
         
         
     
@@ -61,25 +63,13 @@ Life After Death sold 690,000 copies in its first week, soon reaching the No. 1 
 24. You're Nobody (Til Somebody Kills You)
 
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/life-after-death-2014-remaster/906888433" >}}<br>
+{{< applemusic url="https://music.apple.com/gb/album/the-notorious-b-i-g-greatest-hits/216664955" >}}<br>
 
 
 ## Videos
-### The Notorious B.I.G. - Sky's The Limit (Official Music Video)
-{{< youtube id="d3vOeCkeCNA" title="The Notorious B.I.G. - Sky's The Limit (Official Music Video)" >}}<br>
-### More Videos
+### The Notorious BIG - Life after Death (Full Album)
+{{< youtube id="A5epZ9b7fio" title="The Notorious BIG - Life after Death (Full Album)" >}}<br>
 
-- [The Notorious B.I.G. - I Got A Story To Tell (Official Audio)](https://www.youtube.com/watch?v=6TnsIGsyUyw)
-- [The Notorious B.I.G. - Hypnotize](https://www.youtube.com/watch?v=glEiPXAYE-U)
-- [The Notorious B.I.G. - Life After Death (Full Album) [Official]](https://www.youtube.com/watch?v=rCyWFj0nLyk)
-- [The Notorious B.I.G. - Mo Money Mo Problems (Official Music Video)](https://www.youtube.com/watch?v=gUhRKVIjJtw)
-- [The Notorious B.I.G. - Life After Death (Official Audio)](https://www.youtube.com/watch?v=lTtKkPgvQok)
-- [The Notorious B.I.G. - Somebody's Gotta Die (Official Audio)](https://www.youtube.com/watch?v=22YBfS3hLrg)
-- [The Notorious B.I.G. - Kick in the Door (Official Audio)](https://www.youtube.com/watch?v=78SV9tguyVM)
-- [The Notorious B.I.G. - You're Nobody (Til Somebody Kills You) (Official Audio)](https://www.youtube.com/watch?v=ffhWSv2qwBc)
-- [The Notorious B.I.G. - Niggas Bleed (Official Audio)](https://www.youtube.com/watch?v=hObvr_Iyl7k)
-- [The Notorious B.I.G. - Long Kiss Goodnight (Official Audio)](https://www.youtube.com/watch?v=7bluk086A2U)
-- [The Notorious B.I.G. - I Love The Dough (feat. Jay-Z and Angela Winbush) (Official Audio)](https://www.youtube.com/watch?v=I4Lwjz2CAFI)
 
 ## Release Images
 {{< imageGrid >}}

@@ -14,10 +14,10 @@ cover:
 additional_images:
     - "https://i.discogs.com/2Lw6CsL52Ph5HXVPYDEv0Yl6ngKOzpQrxjv41XfTk1k/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMTI5/OTY1LTE1MjkzMzA3/NTgtNDA5Mi5qcGVn.jpeg"
     - "https://i.discogs.com/Hv5EkzsdEfTwZSdYOhR2Vbs8QBrEwjt8jvwqFxHefbk/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMTI5/OTY1LTE1MjkzMzA3/NjEtNzU0NC5qcGVn.jpeg"
-    - "https://i.discogs.com/Mb6-gf7BF6bvVppD6f_xlr8wInPWaAwa9hC7qYkHyHo/rs:fit/g:sm/q:90/h:800/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMTI5/OTY1LTE2NDMxNDAw/MzMtNTc0My5wbmc.jpeg"
-    - "https://i.discogs.com/aJ_YNERU8mer5ogh78b_DamkQjBISBgZcUpIsCVKr2M/rs:fit/g:sm/q:90/h:800/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMTI5/OTY1LTE2NDMxNDAw/MzUtMzY1Mi5wbmc.jpeg"
-    - "https://i.discogs.com/ZVFQ-vTkLfcFdOm0H9UNrOrdIclf1IKmmXDrLzer-aY/rs:fit/g:sm/q:90/h:800/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMTI5/OTY1LTE2NDMxNDAw/MzQtNTE5Mi5wbmc.jpeg"
-    - "https://i.discogs.com/CZh4QZUxA5p0loSENzdGyTUHxpt5tCPTMGxldeeCI6w/rs:fit/g:sm/q:90/h:800/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMTI5/OTY1LTE2NDMxNDAw/MzQtMTQyNS5wbmc.jpeg"
+    - "https://i.discogs.com/YSBRip-0-aFGr6EEGEEoDYwJ-Eo02l9z0j_ol-vsyLM/rs:fit/g:sm/q:90/h:600/w:450/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMTI5/OTY1LTE2NDMxNDAw/MzMtNTc0My5wbmc.jpeg"
+    - "https://i.discogs.com/SXAAEupYyHF-fFga86veWTgUw6-4TERMWBPO1YHRsyE/rs:fit/g:sm/q:90/h:600/w:450/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMTI5/OTY1LTE2NDMxNDAw/MzUtMzY1Mi5wbmc.jpeg"
+    - "https://i.discogs.com/hqiQ_DRZt3jV8O0uI-_1Qw_ACvLCfiRHtuMdU5aqrDw/rs:fit/g:sm/q:90/h:600/w:450/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMTI5/OTY1LTE2NDMxNDAw/MzQtNTE5Mi5wbmc.jpeg"
+    - "https://i.discogs.com/DweWq3byams9m_eezAurq-njq6Ca0ObNVQWn3sbR2mo/rs:fit/g:sm/q:90/h:600/w:450/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMTI5/OTY1LTE2NDMxNDAw/MzQtMTQyNS5wbmc.jpeg"
 genres: ["Electronic", "Rock", "Funk / Soul", "Pop", "Stage & Screen"]
 styles: ["Soundtrack"]
 ---
@@ -61,6 +61,7 @@ styles: ["Soundtrack"]
 ### More Videos
 
 - [Lock Stock and Two Smoking Barrels Soundtrack All Songs](https://www.youtube.com/watch?v=Bp5g5VbFFKo)
+- [Lock Stock and Two Smoking Barrels Soundtrack All Songs](https://www.youtube.com/watch?v=yjH-dabXh6A)
 
 ## Release Images
 {{< imageGrid >}}
@@ -71,5 +72,5 @@ styles: ["Soundtrack"]
 | Format         | Vinyl 2× LP Compilation Reissue |
 | Label          | Island Records |
 | Catalog Number | 0602557733556 |
-| Notes | Contains dialogues taken from the movie: tracks A2, A5, B4, C1, C3, C5, C7, D4. |
+| Notes | Contains dialogues taken from the movie: tracks A2, A5, B4, C1, C3, C5, C7, D4.  The Stone Roses are mistakenly called The Stones Roses on the hype sticker, on top of the back side of the sleeve and on the label of side 4. Only on the track listing below on the back of the sleeve it's spelled correctly. (See pictures) |
 | Discogs URL    | [Various - Lock, Stock & Two Smoking Barrels - Original Soundtrack](https://www.discogs.com/release/12129965-Various-Lock-Stock-Two-Smoking-Barrels-Original-Soundtrack) |

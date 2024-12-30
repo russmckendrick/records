@@ -14,7 +14,7 @@ cover:
 additional_images:
     - "https://i.discogs.com/fwqCdkhBZywnehRHyACcN9ITajjoNph2BYCu7fPcmns/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MjQ1/NDk4LTE2MjE2MzY4/ODYtNjE3NS5qcGVn.jpeg"
     - "https://i.discogs.com/qws4HRFfrLcxcia7b8eUyBOqvUkWrqJMC9rfQlcAGTM/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MjQ1/NDk4LTE2MjE2MzY4/ODYtNjM2Ni5qcGVn.jpeg"
-    - "https://i.discogs.com/jMYtNTN0y3SVUPB_4eY1BjiaRB2M-Dwi4pwMI_njR14/rs:fit/g:sm/q:90/h:887/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MjQ1/NDk4LTE1NzA2Mzc5/OTUtMzk0MS5qcGVn.jpeg"
+    - "https://i.discogs.com/VW2KXWrCdnmiz_td_jMyLS6LUr0mL1-Hqfhy8BmaqIw/rs:fit/g:sm/q:90/h:600/w:405/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MjQ1/NDk4LTE1NzA2Mzc5/OTUtMzk0MS5qcGVn.jpeg"
 genres: ["Electronic"]
 styles: ["New Wave", "Synth-pop"]
 ---
@@ -53,6 +53,27 @@ styles: ["New Wave", "Synth-pop"]
 {{< youtube id="K83As_YKLac" title="Cars (Demo Version 2)" >}}<br>
 ### More Videos
 
+- [Films (Demo Version)](https://www.youtube.com/watch?v=wYx3h9OU_3E)
+- [Complex (Demo Version)](https://www.youtube.com/watch?v=dyEQKqfvlYY)
+- [Random (Remastered 2009)](https://www.youtube.com/watch?v=3mS8UDnCV9c)
+- [M.E. (Demo Version)](https://www.youtube.com/watch?v=f5yTcaVp6aY)
+- [Conversation (Demo Version 2)](https://www.youtube.com/watch?v=Ioh3mW8QiLY)
+- [Tracks (Demo Version)](https://www.youtube.com/watch?v=HkActdf6YlA)
+- [Cars (Demo Version 1)](https://www.youtube.com/watch?v=Pb0vszG30w8)
+- [Metal (Demo Version)](https://www.youtube.com/watch?v=QGlHkBX8zrM)
+- [Airlane (Demo Version)](https://www.youtube.com/watch?v=tFVNCk3iSMI)
+- [Trois Gymnopédies No. 1 (Demo)](https://www.youtube.com/watch?v=JOqmZTLdiRE)
+- [Observer (Demo Version)](https://www.youtube.com/watch?v=DfTcsA6ODSc)
+- [Conversation (Demo Version 1)](https://www.youtube.com/watch?v=0WopKc6gn9c)
+- [Engineers (Demo Version)](https://www.youtube.com/watch?v=2TGVDG7Fwr0)
+- [Asylum (Remastered 2009)](https://www.youtube.com/watch?v=3mXwBYCquJE)
+- [Oceans (Remastered 2009)](https://www.youtube.com/watch?v=f-8xdxb4doI)
+- [Photograph (Remastered 2009)](https://www.youtube.com/watch?v=PHsMiqbVBGs)
+- [Airlane (BBC Peel Sessions)](https://www.youtube.com/watch?v=7cdMAMZ-WCQ)
+- [Cars (BBC Peel Sessions)](https://www.youtube.com/watch?v=QlbqoVZiLkA)
+- [Films (BBC Peel Sessions)](https://www.youtube.com/watch?v=m4T0s5OhxiQ)
+- [Conversation (BBC Peel Sessions)](https://www.youtube.com/watch?v=NOE_Q0IEO0Y)
+- [Cars (Demo Version 2)](https://www.youtube.com/watch?v=K83As_YKLac)
 - [Films (Demo Version)](https://www.youtube.com/watch?v=wYx3h9OU_3E)
 - [Complex (Demo Version)](https://www.youtube.com/watch?v=dyEQKqfvlYY)
 - [Random (Remastered 2009)](https://www.youtube.com/watch?v=3mS8UDnCV9c)

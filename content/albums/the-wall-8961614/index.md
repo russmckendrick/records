@@ -13,12 +13,12 @@ cover:
     alt: "The Wall by Pink Floyd"
     caption: "The Wall by Pink Floyd"
 additional_images:
-    - "https://i.discogs.com/IXmkFvu22lBj6_xjM1L2GXPV4own_WMXInBKS6Qftzo/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg5NjE2/MTQtMTUxNjE4Mjk4/Ny02Nzg2LnBuZw.jpeg"
+    - "https://i.discogs.com/PoakqSir9T00Crdjg3FS-K2e2f_uh2ojjhrDAriDvME/rs:fit/g:sm/q:90/h:594/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg5NjE2/MTQtMTU2NjcyNjQ4/NC04MjIzLmpwZWc.jpeg"
     - "https://i.discogs.com/yMZwXOojfKseNMBLSIT7z9gnYPminE9CoNUSEp5Rpas/rs:fit/g:sm/q:90/h:293/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg5NjE2/MTQtMTQ5NDQxNjgw/OS0zNTYwLmpwZWc.jpeg"
     - "https://i.discogs.com/JPXISpOh6Lcwh4OwNmthdqrmaNOKuBk9LguIb5p-WLc/rs:fit/g:sm/q:90/h:599/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg5NjE2/MTQtMTQ4MjU5OTMx/NS0zOTc1LmpwZWc.jpeg"
     - "https://i.discogs.com/1PwF-sissL7jSFn_ksgp5sReYN7liYnzE9XJcvxxKHQ/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg5NjE2/MTQtMTU2NTE5OTE1/NS0zMDY4LmpwZWc.jpeg"
     - "https://i.discogs.com/0noTfQqF2YP98rjYzEP-zaz6Zffcmoj06uKdvj8ovDA/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg5NjE2/MTQtMTU2NTE5OTE1/NS0zNDIyLmpwZWc.jpeg"
-    - "https://i.discogs.com/B9q3WF0QCWmvHefJdzZdkBvh-ruNIutN22TvNqL36ws/rs:fit/g:sm/q:90/h:601/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg5NjE2/MTQtMTU2NTE5OTE1/NS04MTgxLmpwZWc.jpeg"
+    - "https://i.discogs.com/nlonrdijdlOK2rXwmFgGSjeTX6OOzT2yzlgxsLOFNxM/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg5NjE2/MTQtMTU2NTE5OTE1/NS04MTgxLmpwZWc.jpeg"
     - "https://i.discogs.com/GHGMKiOHCfo6f4nJXDFbgtJk0UC9i9gERrzchma4GSo/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg5NjE2/MTQtMTU2NTE5OTE1/NS04Mjk0LmpwZWc.jpeg"
     - "https://i.discogs.com/KFGY20xT0Gj79rGxchVYTZ5-X6Rs7mjxKHviTVwG7HI/rs:fit/g:sm/q:90/h:599/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg5NjE2/MTQtMTQ4MjU5OTU2/Ni04OTk5LmpwZWc.jpeg"
     - "https://i.discogs.com/KmYDG1Ay_mfmmutC3tZSuMk6UZCGGjPwQs7AIyI-Yzs/rs:fit/g:sm/q:90/h:599/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg5NjE2/MTQtMTQ4MjU5OTU2/NS0yOTcxLmpwZWc.jpeg"
@@ -27,15 +27,21 @@ additional_images:
     - "https://i.discogs.com/-g3qVZpR8N2G6anFRX0STWZy_t8TwY5Bvlll6wmaT0U/rs:fit/g:sm/q:90/h:599/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg5NjE2/MTQtMTQ4MjU5OTMx/My03MTgzLmpwZWc.jpeg"
     - "https://i.discogs.com/G9pK1bnT83VbY-18G-Sk25wPe8geF2KFQFbYhQtGGSY/rs:fit/g:sm/q:90/h:599/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg5NjE2/MTQtMTQ4MjU5OTMx/NC02NDQ5LmpwZWc.jpeg"
     - "https://i.discogs.com/89fUn4i_C6NMWzv_4es2aaLGxezA590MS9tamn7TrTE/rs:fit/g:sm/q:90/h:528/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg5NjE2/MTQtMTU4NDEzNjE0/MS03OTI0LmpwZWc.jpeg"
-    - "https://i.discogs.com/oMsknJLBQeH4oZ5i-AKSJljhApVfjjedyhdpt81v5z0/rs:fit/g:sm/q:90/h:724/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg5NjE2/MTQtMTU4ODE5MTkz/My02MzEwLmpwZWc.jpeg"
     - "https://i.discogs.com/O5OEB2gdWLJMupH-1gnhet7aCH07b1GDT6qNIiPBBwQ/rs:fit/g:sm/q:90/h:480/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg5NjE2/MTQtMTY2OTQxNTU3/My0zNzUxLmpwZWc.jpeg"
     - "https://i.discogs.com/usMuN6Ta7xutswAvywdNGJr7cVShw30p1Rb77ntXL30/rs:fit/g:sm/q:90/h:150/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg5NjE2/MTQtMTYzNjQ5MDc2/Ny02OTg5LmpwZWc.jpeg"
+    - "https://i.discogs.com/swhSRfZ_6XzIcaGUmi00FIklxtkc-FIwGeYC1DveEnA/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg5NjE2/MTQtMTcyNDI1OTk5/MC0xNzYwLmpwZWc.jpeg"
+    - "https://i.discogs.com/WORZWZBBpZ10pOkpOiMNiaidaXyzKSxU-MPbZhSSjJg/rs:fit/g:sm/q:90/h:600/w:460/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg5NjE2/MTQtMTczNDE3NDMx/Ny0zNzk3LmpwZWc.jpeg"
+    - "https://i.discogs.com/jXqzxwhaztaaaFcmiUE7sh4H6ZdoCF8uIr7H-Ep_moU/rs:fit/g:sm/q:90/h:367/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg5NjE2/MTQtMTczNDE3NDMx/OC04NTI5LmpwZWc.jpeg"
+    - "https://i.discogs.com/-GuwAGHYCrEkFVFv1vEd2Fet9ytv22CYx9_lcetvRv4/rs:fit/g:sm/q:90/h:344/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg5NjE2/MTQtMTczNDE3NDMx/OC0zMzcxLmpwZWc.jpeg"
 genres: ["Rock"]
-styles: ["Prog Rock", "Classic Rock"]
+styles: ["Prog Rock", "Classic Rock", "Art Rock"]
 ---
 
-Pink Floyd – The Wall is a 1982 British musical drama film directed by Alan Parker, based on Pink Floyd's 1979 album The Wall. The screenplay was written by Pink Floyd vocalist and bassist Roger Waters. The Boomtown Rats vocalist Bob Geldof plays rock star Pink, who, driven to insanity by the pressures of stardom and traumatic events in his life, constructs a physical and emotional wall to protect himself. However, this coping mechanism eventually backfires, and Pink demands to be set free.
-Like its associated album, the film is highly metaphorical, and frequently utilizes both visual and auditory symbols throughout its runtime. It features little dialogue, instead being driven by the music from the album throughout. The songs used in the film have several differences from their album versions, and one of the songs included, "When the Tigers Broke Free", does not appear on the album. Despite its turbulent production, the film received generally positive reviews and has an established cult following amongst Pink Floyd fans, although its reception from the band themselves has been less favorable.
+You could say <i>The Wall</i> started taking shape the night Roger Waters leaned over the edge of the stage and spit in a fan’s face. This was July 1977: The band was finishing out their lengthy In the Flesh tour to stadium-size crowds, working at scales unfamiliar and uncomfortable to everyone involved. Risky investments had put them under major financial pressure; audiences seemed more interested in the party than the show; band rapport had gotten so strained that Waters started referring to the rest of the members as “the muffins”.<br />
+And so, alone in a crowd of about 80,000 people, standing under the 40-foot-long inflatable pig that had become a central prop of the band’s set, Waters spit. Later that night, he told the producer Bob Ezrin and a psychiatrist friend of Ezrin’s that he sometimes fantasised about building a wall between himself and the audience—an embodiment of how isolated he already felt, and a device by which he could protect what little of himself he thought he had left.<br />
+What emerged from that mental image was one of the last, and one of the greatest, gasps of the concept album—that naively romantic idea that music could somehow reach out of the confines of the recorded medium and tell a story that would resonate with the metaphoric heft of a novel. At 80 minutes, <i>The Wall</i> didn’t spare listeners any of Waters’ creative largesse. If anything, it laid bare his inner turmoil (and outer critique) with almost forensic precision: The album traces the long arc of a fictional rock star named Pink Floyd, who evolves from lonely boy to maniacal fascist. Pink starts pointing fingers at everyone from Mom (“Mother”) to the education system (“The Happiest Days of Our Lives”, “Another Brick in the Wall, Pt. 2”) to blacks, gays and Jews (“In the Flesh”) to modern life in general (“The Thin Ice”) before realising that maybe the problem was him all along (“Stop”, “The Trial”)—an arc even more resonant in light of our societal reckoning with the evil men do.<br />
+Yeah, it’s a lot, especially as a morality play put on by the rich and famous. But despite their popularity, Pink Floyd were never exactly a friendly band. If anything, <i>The Wall</i> holds up in part because of how profoundly ugly it is, the externalisation of feelings so cruel and noxious that people hate to admit even having them, let alone mining them for art. (In that respect, they had more in common with punk than the punks would probably admit.) What had once felt expansive (take the long song-suites of <i>Animals</i> or <i>The Dark Side of the Moon</i>) now felt claustrophobic and fragmented, a picture rendered in shrapnel. In nudging Waters towards his most theatrical impulses, producer Ezrin—famous in part for helping create Alice Cooper—gave the album a narrative through line as comforting and familiar as an old myth (the traumatic rise and tragic fall, the superhero rendered human once again), but gave the impression of wholeness where Waters’ collage-like vision didn’t necessarily imply one. At one point, Ezrin suggested that guitarist David Gilmour go to a club to hear the then-new sound of disco. Gilmour hated it, but got the point: Listen to the rigid pacing of “Another Brick in the Wall, Pt. 2” and “Run Like Hell”—this wasn’t music about freedom, but about being martially locked in place. By the time you get to “Comfortably Numb”, a life without feeling doesn’t sound half bad.<br />
+In addition to elevating them to implausibly greater levels of fame, <i>The Wall</i> marked the last time Waters and the rest of the band would work together in a meaningful way. During the album’s sessions, Waters effectively forced keyboardist Rick Wright out; shortly after 1983’s <i>The Final Cut</i>, Waters quit. In between, they managed to take <i>The Wall</i> on tour. Waters got his wish: During the first half of the show, roadies constructed a wall, brick by cardboard brick, approximately 40 feet in the middle and 130 feet across the top—an embodiment not just of Waters’ concept, but of the band’s general ability to strong-arm reality to suit their dreams. Ezrin, who had run afoul of Waters after unwittingly telling a journalist friend what the conceit of the show was going to be, was forced to buy his own ticket.
         
         
     
@@ -74,11 +80,11 @@ Like its associated album, the film is highly metaphorical, and frequently utili
 
 
 ## Videos
-### P̲ink Flo̲yd - T̲h̲e̲ W̲a̲l̲l̲ (Full Album)1979
-{{< youtube id="r48BLz42NuI" title="P̲ink Flo̲yd - T̲h̲e̲ W̲a̲l̲l̲ (Full Album)1979" >}}<br>
+### Is There Anybody Out There?
+{{< youtube id="CIxYe3G3Iz4" title="Is There Anybody Out There?" >}}<br>
 ### More Videos
 
-- [Pink    Floyd    --    The    Wall   [[  Official   Video   ]]  HQ](https://www.youtube.com/watch?v=fvPpAPIIZyo)
+- [Empty Spaces](https://www.youtube.com/watch?v=zL5AJHijgag)
 
 ## Release Images
 {{< imageGrid >}}

@@ -12,15 +12,15 @@ cover:
     alt: "Lazer Guided Melodies by Spiritualized"
     caption: "Lazer Guided Melodies by Spiritualized"
 additional_images:
-    - "https://i.discogs.com/w0tENdf1OPF0lgAhCKsXlGyl1AooFbxUyrqwbuZoRaU/rs:fit/g:sm/q:90/h:631/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4MzY2/NjI4LTE2MTg4NjIw/MTMtNzc0NS5qcGVn.jpeg"
+    - "https://i.discogs.com/3mP2WdH0U6WFI7Yv2FFi5OwMtVUeOM6ZzFT4zCWmvJA/rs:fit/g:sm/q:90/h:600/w:570/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4MzY2/NjI4LTE2MTg4NjIw/MTMtNzc0NS5qcGVn.jpeg"
     - "https://i.discogs.com/1dOMML0-698_0C7gcq1134vgG3OjAaCkEH_ufEZ_tXw/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4MzY2/NjI4LTE2MTkzMTI1/MjktMzIyNy5qcGVn.jpeg"
     - "https://i.discogs.com/ZscE3IoxRAhZCLM3xvTZhxsc2em9Kztx5Rh_8fkgBD0/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4MzY2/NjI4LTE2MTkzMTI1/MjktMjk1My5qcGVn.jpeg"
-    - "https://i.discogs.com/k07JtoIwzzdCmLU0tWtBspgEYzBU6TbsyDdYMLjMfCo/rs:fit/g:sm/q:90/h:653/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4MzY2/NjI4LTE2MTg4NjIw/MzUtMjI3NC5qcGVn.jpeg"
-    - "https://i.discogs.com/ALz4fnBbjGLxiJp_JaCo5rTlqzsziNqAeXZCDtOos_E/rs:fit/g:sm/q:90/h:674/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4MzY2/NjI4LTE2MTg4NjIw/OTUtNzM0Ny5qcGVn.jpeg"
-    - "https://i.discogs.com/TnZP2IhDr5Ry1q3s2BqwEQqQbsW7rxnZdiXLVtpzRxU/rs:fit/g:sm/q:90/h:616/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4MzY2/NjI4LTE2MTk0MzU3/OTMtMTEyNC5qcGVn.jpeg"
-    - "https://i.discogs.com/nSfQBheowKRZ6qS9MvrLFOOnE0MUOwzY86dOdIy2ru4/rs:fit/g:sm/q:90/h:602/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4MzY2/NjI4LTE2MTk0MzU3/OTMtNTI0My5qcGVn.jpeg"
+    - "https://i.discogs.com/d8zLdWO-h6vsKER5R-xxNmdRId1r4Z-E0hGzCTFy7OY/rs:fit/g:sm/q:90/h:600/w:551/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4MzY2/NjI4LTE2MTg4NjIw/MzUtMjI3NC5qcGVn.jpeg"
+    - "https://i.discogs.com/tULcbhM0JzsPjI3ESJa1J-vTl7F3kFxv2tygQHQSAvk/rs:fit/g:sm/q:90/h:600/w:533/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4MzY2/NjI4LTE2MTg4NjIw/OTUtNzM0Ny5qcGVn.jpeg"
+    - "https://i.discogs.com/0qmk4oJ2BTVKTqXB6X2VAt44zW1wdCzGb0zSQBOk0cQ/rs:fit/g:sm/q:90/h:600/w:584/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4MzY2/NjI4LTE2MTk0MzU3/OTMtMTEyNC5qcGVn.jpeg"
+    - "https://i.discogs.com/VQdn3Cpc-PuS_HYXpHRgvDzNfFnrn3yaKgKDuRaQmmo/rs:fit/g:sm/q:90/h:600/w:597/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4MzY2/NjI4LTE2MTk0MzU3/OTMtNTI0My5qcGVn.jpeg"
     - "https://i.discogs.com/wleaHpMVFFbwcD2pCsRcdVYMDFqObDrjRG0pqhz5iF4/rs:fit/g:sm/q:90/h:592/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4MzY2/NjI4LTE2MTk0MzU3/OTMtNDk5MS5qcGVn.jpeg"
-    - "https://i.discogs.com/gXJ2iYDKfLZxfMQcXHpaRa6sLwAUtAcBYCIcZVM3Pfs/rs:fit/g:sm/q:90/h:612/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4MzY2/NjI4LTE2MTk0MzU3/OTMtMzczNC5qcGVn.jpeg"
+    - "https://i.discogs.com/fw77XXlP4XoP48-trArpeHTjnzx750Me4-w-RR3-6zs/rs:fit/g:sm/q:90/h:600/w:587/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4MzY2/NjI4LTE2MTk0MzU3/OTMtMzczNC5qcGVn.jpeg"
     - "https://i.discogs.com/GOVhMziwdsLXGVOvMOEuZAbi1PZpqGc3vPUeSKeh-Zo/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4MzY2/NjI4LTE2MTkzMTI1/MjgtNDkyMS5qcGVn.jpeg"
     - "https://i.discogs.com/u2yPRKFvSGRtLw6Lo5udEWKkzjcyCcaQAi9tZ6gcgaI/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4MzY2/NjI4LTE2MTkzMTI1/MjktNjM5OC5qcGVn.jpeg"
     - "https://i.discogs.com/F96gJ5mKo8Oymrz6YcmMUdRpR2uKVskVYW0nR8zUOe4/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4MzY2/NjI4LTE2MTkzMTI1/MjUtNzAxOS5qcGVn.jpeg"
@@ -28,14 +28,17 @@ additional_images:
     - "https://i.discogs.com/IOKE0ubWH0tDEoePNozDnMKLyL_gXjApLp3mJ5pwjhE/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4MzY2/NjI4LTE2MTg5NDM2/MjktNzA4OS5qcGVn.jpeg"
     - "https://i.discogs.com/GMDjq0Q2_gzxjfzP0M-XTDzHO6yK4v47IrsX2HtMRYw/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4MzY2/NjI4LTE2MTkzMTI1/MjgtMTAxOC5qcGVn.jpeg"
     - "https://i.discogs.com/ezCOpwUYPlk5XtYThNYNxXGA43G-utpKi6cIwOuPVE8/rs:fit/g:sm/q:90/h:450/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4MzY2/NjI4LTE2MTk3Nzk2/ODgtOTE3Mi5wbmc.jpeg"
-    - "https://i.discogs.com/w1buKV7fvKfjMMhEiuwhg9Cal8np84yEabQhHHoUcx8/rs:fit/g:sm/q:90/h:606/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4MzY2/NjI4LTE2MjE0NTEz/MzMtMTY2NS5qcGVn.jpeg"
+    - "https://i.discogs.com/X9_4-03E8HxoqW4oOScGBESyK-RzGBFKUaNykLgVRH0/rs:fit/g:sm/q:90/h:600/w:593/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4MzY2/NjI4LTE2MjE0NTEz/MzMtMTY2NS5qcGVn.jpeg"
     - "https://i.discogs.com/Y-aM7PSC7DECfw9dcLJlMY71juJ5_0ROywzC4FASeVg/rs:fit/g:sm/q:90/h:309/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4MzY2/NjI4LTE2MjU2NjQ5/MjYtOTgyMi5qcGVn.jpeg"
 genres: ["Rock"]
 styles: ["Psychedelic Rock", "Alternative Rock"]
 ---
 
 Lazer Guided Melodies is the debut studio album by English space rock band Spiritualized. The album was recorded by the inaugural line up of the band, consisting of Jason Pierce (vocals, guitars), Mark Refoy (guitars), Will Carruthers (bass), Jonny Mattock (drums) and Kate Radley (keyboards) from 1990 to 1991, and mixed by Pierce in London in January 1992. The album was first released on Dedicated Records in March 1992, on cassette, Compact Disc and Vinyl (2 x LP, with initial copies containing an additional free 7").
-Initially released on two 45rpm vinyl LPs, the album's twelve songs are segued together into four colour-coded (red, green, blue, black), cross-faded suites. As such, the album was included in Pitchfork's 2010 list of "ten unusual CD-era gimmicks".By 1995, the album had sold 10,000 copies in the United States.
+Initially released on two 45rpm vinyl LPs, the album's twelve songs are segued together into four colour-coded (red, green, blue, black), cross-faded suites. As such, the album was included in Pitchfork's 2010 list of "ten unusual CD-era gimmicks".
+By 1995, the album had sold 10,000 copies in the United States.
+
+
     
     
 
@@ -63,9 +66,7 @@ Initially released on two 45rpm vinyl LPs, the album's twelve songs are segued t
 {{< youtube id="1jt6Do5O2mg" title="You Know It's True" >}}<br>
 ### More Videos
 
-- [Spiritualized - Run (Video)](https://www.youtube.com/watch?v=NtVuqjd5oSc)
 - [If I Were with Her Now](https://www.youtube.com/watch?v=zi016ZvkMFM)
-- [Spiritualized - Lazer Guided Melodies (Full Album Stream)](https://www.youtube.com/watch?v=gkPPxLm50V0)
 - [I Want You](https://www.youtube.com/watch?v=EcaKOuChJlk)
 - [Run](https://www.youtube.com/watch?v=VD8x88wzyI4)
 - [Smiles](https://www.youtube.com/watch?v=SGmITeLvXKM)
@@ -76,6 +77,8 @@ Initially released on two 45rpm vinyl LPs, the album's twelve songs are segued t
 - [Angel Sigh](https://www.youtube.com/watch?v=p836NG1DDGw)
 - [Sway](https://www.youtube.com/watch?v=2GbDePAXSdo)
 - [200 Bars](https://www.youtube.com/watch?v=R-th3jQW80A)
+- [Spiritualized - Run (Video)](https://www.youtube.com/watch?v=NtVuqjd5oSc)
+- [Spiritualized - Lazer Guided Melodies (Full Album Stream)](https://www.youtube.com/watch?v=gkPPxLm50V0)
 
 ## Release Images
 {{< imageGrid >}}

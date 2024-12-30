@@ -13,11 +13,16 @@ cover:
     caption: "Falling Satellites by Frost*"
 additional_images:
     - "https://i.discogs.com/MRWG5Q-G9n-C8nbeqnh4Sgjur1drjbLbszBZOtxBSu8/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg1OTY5/MDEtMTQ2NDc4OTMx/Ni01MDA1LmpwZWc.jpeg"
-    - "https://i.discogs.com/X2ktMXKAs9_5ZcjgDtmwTEqB4typitXEgISQd98C9Rg/rs:fit/g:sm/q:90/h:400/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg1OTY5/MDEtMTQ2NDc4OTI4/Mi01NDU0LmpwZWc.jpeg"
 genres: ["Electronic", "Rock", "Pop"]
 styles: ["Prog Rock"]
 ---
 
+Falling Satellites is the third studio album by British neo-prog group Frost*. It was their only studio album to feature drummer Craig Blundell until 2024s Life in The Wires.
+Jem Godfrey explained in an interview that the concept of the album is: 
+
+In this instance – life. This is my midlife crisis album! The whole album is a message to enjoy life while you have it. My dad died 4 weeks before I completed "Falling Satellites" and I suddenly realized how fleeting life actually is. He'd been procrastinating for years while writing a book he'd always wanted to write when he died. But now it will never be finished and it made me understand that every single second of being alive is precious. The whole album is about that – do that thing you've been meaning to do for ages NOW and get it done..
+    
+    
 
 
 ## Tracklisting
@@ -68,6 +73,7 @@ styles: ["Prog Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
+| Wikipedia URL | https://en.wikipedia.org/wiki/Falling_Satellites |
 | Format         | Vinyl 2× LP Album (180 g), CD Album |
 | Label          | Inside Out Music |
 | Catalog Number | IOMLP 450 |

@@ -20,7 +20,7 @@ additional_images:
     - "https://i.discogs.com/8HtYO5m3hkbohDyTtZSsBYC4JnhTbNHaS9olOdo5l4o/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNjMy/NTQ3LTE1MjEwMTg5/ODgtNzgxOC5qcGVn.jpeg"
     - "https://i.discogs.com/tLCodOLbqQD_Me8Dp3OjdoWMVIUIniAA9K1Ja5yaWfg/rs:fit/g:sm/q:90/h:590/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNjMy/NTQ3LTE1MjEwMTg5/ODgtOTMwNS5qcGVn.jpeg"
     - "https://i.discogs.com/Yrw3vQtrYgXqOU90Ah7PC7LakoO_i_hSTHMRhfJwHhQ/rs:fit/g:sm/q:90/h:414/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNjMy/NTQ3LTE1MjEwMTg5/OTEtMjY2MS5qcGVn.jpeg"
-    - "https://i.discogs.com/2zZTPgucGZ5zo1R3r5xostV48-5mijsQ-59EqKz1Cjs/rs:fit/g:sm/q:90/h:604/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNjMy/NTQ3LTE1MjEwMTg5/OTMtNDI4NC5qcGVn.jpeg"
+    - "https://i.discogs.com/Aj_nzb7hs1EmJZ6CSG4Df7uIJJSkfzoLmeEB44bNIGE/rs:fit/g:sm/q:90/h:600/w:595/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNjMy/NTQ3LTE1MjEwMTg5/OTMtNDI4NC5qcGVn.jpeg"
     - "https://i.discogs.com/l8swrmd5cXDh0-Tpl60A4RHL4DSJ3qKvbP7BA_9Vv8w/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNjMy/NTQ3LTE1MjEwMTg5/OTItNzU5MS5qcGVn.jpeg"
     - "https://i.discogs.com/TeSRZ_W23tit2Uhc5cNnqDSt_zU7a4H47Bix0FlxOa4/rs:fit/g:sm/q:90/h:590/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNjMy/NTQ3LTE1MjEwMTg5/ODktMjU2Ny5qcGVn.jpeg"
     - "https://i.discogs.com/a-tSWb86ZgFZRaAptqJa8QSBnIdhfiWhx0ZMr_Njx_A/rs:fit/g:sm/q:90/h:593/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNjMy/NTQ3LTE1MjEwMTg5/OTEtMTIzOC5qcGVn.jpeg"
@@ -29,6 +29,8 @@ styles: ["Pop Rock"]
 ---
 
 Rare Birds is the third studio album by American musician and producer Jonathan Wilson. It was released on March 2, 2018 under Bella Union.
+
+
     
     
 
@@ -53,16 +55,21 @@ Rare Birds is the third studio album by American musician and producer Jonathan 
 
 
 ## Videos
-### Jonathan Wilson - Trafalgar Square [Official Music Video]
-{{< youtube id="R2pg8BPQWlc" title="Jonathan Wilson - Trafalgar Square [Official Music Video]" >}}<br>
+### Jonathan Wilson - "Trafalgar Square" [Official Music Video]
+{{< youtube id="R2pg8BPQWlc" title="Jonathan Wilson - "Trafalgar Square" [Official Music Video]" >}}<br>
 ### More Videos
 
-- [Jonathan Wilson - Rare Birds [Full Album Stream]](https://www.youtube.com/watch?v=aVwtORXKqoA)
-- [Jonathan Wilson - Me [Official Music Video]](https://www.youtube.com/watch?v=Cswl94NPJhM)
-- [Jonathan Wilson - Miriam Montague [Official Audio]](https://www.youtube.com/watch?v=D18nBRG6hLw)
-- [Jonathan Wilson - Over the Midnight [Official Music Video]](https://www.youtube.com/watch?v=KgD0B0puL_k)
-- [Jonathan Wilson - Loving You [Official Music Video]](https://www.youtube.com/watch?v=sBKnvy8cr80)
+- [Jonathan Wilson - "Me" [Official Music Video]](https://www.youtube.com/watch?v=Cswl94NPJhM)
+- [Jonathan Wilson - "Over the Midnight" [Official Music Video]](https://www.youtube.com/watch?v=KgD0B0puL_k)
+- [Jonathan Wilson - "Loving You" [Official Music Video]](https://www.youtube.com/watch?v=sBKnvy8cr80)
 - [Jonathan Wilson ~ Rare Birds LIVE @ The Moroccan Lounge](https://www.youtube.com/watch?v=hcYEZl3AygQ)
+- [Jonathan Wilson - "Trafalgar Square" [Official Music Video]](https://www.youtube.com/watch?v=R2pg8BPQWlc)
+- [Jonathan Wilson - "Me" [Official Music Video]](https://www.youtube.com/watch?v=Cswl94NPJhM)
+- [Jonathan Wilson - "Over the Midnight" [Official Music Video]](https://www.youtube.com/watch?v=KgD0B0puL_k)
+- [Jonathan Wilson - "Loving You" [Official Music Video]](https://www.youtube.com/watch?v=sBKnvy8cr80)
+- [Jonathan Wilson ~ Rare Birds LIVE @ The Moroccan Lounge](https://www.youtube.com/watch?v=hcYEZl3AygQ)
+- [Jonathan Wilson - "Rare Birds" [Full Album Stream]](https://www.youtube.com/watch?v=aVwtORXKqoA)
+- [Jonathan Wilson - "Miriam Montague" [Official Audio]](https://www.youtube.com/watch?v=D18nBRG6hLw)
 
 ## Release Images
 {{< imageGrid >}}

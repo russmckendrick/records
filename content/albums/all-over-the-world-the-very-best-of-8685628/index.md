@@ -56,13 +56,7 @@ styles: ["Pop Rock", "Rock & Roll", "Disco"]
 {{< applemusic url="https://music.apple.com/gb/album/all-over-the-world-the-very-best-of-elo/438416549" >}}<br>
 
 
-## Videos
-### Electric Light Orchestra - Showdown (Official Audio)
-{{< youtube id="JHsUGJ4jDsw" title="Electric Light Orchestra - Showdown (Official Audio)" >}}<br>
-### More Videos
 
-- [ELO- Showdown](https://www.youtube.com/watch?v=8hqmmVXcXzU)
-- [Electric Light Orchestra - All Over The World (1980)](https://www.youtube.com/watch?v=36XYt4mpRxI)
 
 ## Release Images
 {{< imageGrid >}}

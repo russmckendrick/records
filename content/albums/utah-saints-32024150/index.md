@@ -13,6 +13,19 @@ cover:
     caption: "Utah Saints by Utah Saints"
 additional_images:
     - "https://i.discogs.com/Tdji6bQFj20x7bxGvKz_Q7-Rue70APkyZIThvd4DF2k/rs:fit/g:sm/q:90/h:593/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyMDI0/MTUwLTE3MjkyNTQ0/NDgtOTczOC5qcGVn.jpeg"
+    - "https://i.discogs.com/B-i4Tt4Dat_rvPSnjBubXDWvwtXnhgBL8j4-sG7xeqo/rs:fit/g:sm/q:90/h:600/w:591/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyMDI0/MTUwLTE3MzAwNDkx/MTctMjI4OC5qcGVn.jpeg"
+    - "https://i.discogs.com/iKq2r8q-pvzGXJFiHwidm6ZCFeEWjAOkoS5ixbUQ054/rs:fit/g:sm/q:90/h:600/w:591/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyMDI0/MTUwLTE3MzAwNDkx/MTgtNTAzMC5qcGVn.jpeg"
+    - "https://i.discogs.com/mLbhIzdlJh7kSPT3YNN8o4iZmv2XK75yYy3E3W74spk/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyMDI0/MTUwLTE3MzAwNDkx/MTktOTQzMy5qcGVn.jpeg"
+    - "https://i.discogs.com/VnOGF688Bc1ZsLSxxA4GGFJurV87o9Ul5cCjwdAb9JA/rs:fit/g:sm/q:90/h:600/w:571/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyMDI0/MTUwLTE3MzAwNDkx/MTYtNTg2OS5qcGVn.jpeg"
+    - "https://i.discogs.com/wTwrb2oulfV6upj2ZYWHBuUxR08cwZ3s8rdk3pL_7R0/rs:fit/g:sm/q:90/h:600/w:570/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyMDI0/MTUwLTE3MzAwNDkx/MTYtOTM0Mi5qcGVn.jpeg"
+    - "https://i.discogs.com/dK1dudI36FQLiafWbi5_lg3z-WC6AkkA07lAVTvYJLI/rs:fit/g:sm/q:90/h:600/w:591/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyMDI0/MTUwLTE3MzAwNDkx/MTQtNjU4My5qcGVn.jpeg"
+    - "https://i.discogs.com/Ne6Xa-kvezQqGvEYV7_xpisqLDXnF6nvPykc8iX2OKk/rs:fit/g:sm/q:90/h:600/w:563/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyMDI0/MTUwLTE3MzAwNDkx/MTUtNTk0Mi5qcGVn.jpeg"
+    - "https://i.discogs.com/OoX2djEwDZYaRnvAj2jBodrss3dMx1OqriEMK9oAFog/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyMDI0/MTUwLTE3MzAzMDU5/NzMtMzYyNi5qcGVn.jpeg"
+    - "https://i.discogs.com/QMgPO8K0Z5h1Za7A3ErAWYdzfiQHUzDqHDMsLbtSB0Q/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyMDI0/MTUwLTE3MzAzMDU5/NzItMzgyNy5qcGVn.jpeg"
+    - "https://i.discogs.com/fsaAFwRa6rkAJXf38pykGj4_VjmUERew4VQlirYcd-8/rs:fit/g:sm/q:90/h:383/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyMDI0/MTUwLTE3MzAzMDU5/NzItNjI3OS5qcGVn.jpeg"
+    - "https://i.discogs.com/wF12EuuCjCT_Gz0CVAJXk7FJrit735-5FS18aA7IWHU/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyMDI0/MTUwLTE3MzAzMDU5/NzItODczNS5qcGVn.jpeg"
+    - "https://i.discogs.com/EXNZDm9jnm4uocbsY-ZXye63LXXVxGjbaosaWYwscVI/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyMDI0/MTUwLTE3MzAwNDkx/MTYtMTc1Ny5qcGVn.jpeg"
+    - "https://i.discogs.com/Al9F-ZyGbgRAyJyDKF5gtyXQHDZeTHQc83qmL3GTXFU/rs:fit/g:sm/q:90/h:373/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyMDI0/MTUwLTE3MzAzMDU5/NzItNDcwNC5qcGVn.jpeg"
 genres: ["Electronic"]
 styles: ["Techno", "Euro House", "Experimental"]
 ---
@@ -67,8 +80,8 @@ They had five further UK top 40 singles including a top 10 between 2000 and 2012
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Utah_Saints |
-| Format         | Vinyl 2× LP Album Reissue Stereo |
+| Format         | Vinyl 2× LP Album Reissue Remastered Stereo |
 | Label          | London Records |
 | Catalog Number | LMS5521987 |
-| Notes | Utah Saints use samples to FREE us from the confines of popular instruments. THE sample may be a vocal phrase, 100 guitars, or everyday MACHINES and animals. These are all just instruments to us. No tape was used in the making of this album. TAKE CONTROL of the machine NOW!  RESPECT and thanks to Annie Lennox, David A. Stewart, Kate Bush, Motorhead, AND Akai. This album is dedicated to all those who supported and believed in us. We know who you are and we LOVE you. |
+| Notes | U.K. National Album Day 2024 release Saturday 19th October 2024 2024 theme: GREAT BRITISH GROUPS  2LP 30th Anniversary Edition Remastered + Expanded with remixes & rarities  Wide spine standard sleeve made from foil card.  Utah Saints use samples to FREE us from the confines of popular instruments. THE sample may be a vocal phrase, 100 guitars, or everyday MACHINES and animals. These are all just instruments to us. No tape was used in the making of this album. TAKE CONTROL of the machine NOW!  RESPECT and thanks to Annie Lennox, David A. Stewart, Kate Bush, Motorhead, AND Akai. This album is dedicated to all those who supported and believed in us. We know who you are and we LOVE you. |
 | Discogs URL    | [Utah Saints - Utah Saints](https://www.discogs.com/release/32024150-Utah-Saints-Utah-Saints) |

@@ -16,12 +16,19 @@ additional_images:
     - "https://i.discogs.com/91H3qjgtHwot64keR46v9GXbWgy45V9xc0kFyZ9_d2w/rs:fit/g:sm/q:90/h:595/w:595/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMTQ0/MjctMTM4NDUyODQz/MC0yMDQwLmpwZWc.jpeg"
     - "https://i.discogs.com/xmtJ29MXQ7KDitdha212pJM1TVfL4aOPBgnx-QlaHKs/rs:fit/g:sm/q:90/h:600/w:595/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMTQ0/MjctMTQyNDMyODcy/OC04MzkyLmpwZWc.jpeg"
     - "https://i.discogs.com/UIHDOIP5OS_9S1NQrX-wjJLdu2ifBZEAlu5cdFciZY0/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMTQ0/MjctMTQyNDMyODcz/MC05MzMwLmpwZWc.jpeg"
+    - "https://i.discogs.com/lBAom6Fw-cVf-s74TpvaDrt4Aw_R3BKKFpCwaZrittg/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMTQ0/MjctMTczMzE4NDg5/NS04OTIwLmpwZWc.jpeg"
+    - "https://i.discogs.com/A_krweY4heA83qk27GbCaGLTKuFyaOfL-sTVofV4Mi8/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMTQ0/MjctMTczMzE4NDg5/NS03OTQzLmpwZWc.jpeg"
     - "https://i.discogs.com/ObxqDiogCcHnX9V0kd7l2XUNIpdV-NS0o891UAwJDXg/rs:fit/g:sm/q:90/h:600/w:597/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMTQ0/MjctMTQyNDMyODcz/MC03NDkwLmpwZWc.jpeg"
-    - "https://i.discogs.com/TlQ8d0aWTkbjqFpBCeq27oYfQnLpM6vkWPqmoJvmu7E/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMTQ0/MjctMTY4MTQ3Nzc1/NS00NTkyLmpwZWc.jpeg"
+    - "https://i.discogs.com/bjWcjw77JJBErHzwOSLpDd5RQtQ5FpE-t6-f2UmoMWM/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMTQ0/MjctMTY4MTQ3Nzc1/NS00NTkyLmpwZWc.jpeg"
 genres: ["Funk / Soul"]
 styles: ["Rhythm & Blues", "Soul"]
 ---
 
+I Learned the Hard Way is the fourth studio album by American soul and funk band Sharon Jones & The Dap-Kings, released April 6, 2010 on Daptone Records. Production for the album took place at the label's House of Soul Studios during 2009 to 2010 and was handled by Daptone co-founder Gabriel Roth, credited for the album as "Bosco Mann". The album debuted at number 15 on the US Billboard 200, selling 23,000 copies in its first week. Upon its release, I Learned the Hard Way received generally positive reviews from most music critics.
+
+
+    
+    
 
 
 ## Tracklisting
@@ -65,6 +72,7 @@ styles: ["Rhythm & Blues", "Soul"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
+| Wikipedia URL | https://en.wikipedia.org/wiki/I_Learned_the_Hard_Way |
 | Format         | Vinyl LP Album Stereo |
 | Label          | Daptone Records |
 | Catalog Number | DAP-019 |

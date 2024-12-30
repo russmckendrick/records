@@ -33,7 +33,7 @@ styles: ["Synth-pop", "Indie Rock"]
 10. The Impossible Dream
 
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/1992-the-love-album-deluxe-version/1631043762" >}}<br>
+{{< applemusic url="https://music.apple.com/gb/album/1992-the-love-album-2023-remaster/1704330870" >}}<br>
 
 
 ## Videos
@@ -47,6 +47,19 @@ styles: ["Synth-pop", "Indie Rock"]
 - [Carter U.S.M. - Do Re Me So Far So Good (Official Video)](https://www.youtube.com/watch?v=zKMGO77yxdI)
 - [Carter U.S.M. - The Only Living Boy In New Cross (Official Video)](https://www.youtube.com/watch?v=imcSt2HyzEo)
 - [Carter U.S.M. - The Impossible Dream](https://www.youtube.com/watch?v=-Mp6F0u-cw0)
+- [Suppose You Gave a Funeral and Nobody Came (2012 Remaster)](https://www.youtube.com/watch?v=PYRHyoMClcA)
+- [After the Watershed (Early Learning The Hard Way) - Carter USM](https://www.youtube.com/watch?v=U-lvCkVQQ5w)
+- [The 90's Revival (2023 Remaster)](https://www.youtube.com/watch?v=Hde3aIDtYfU)
+- [A Nation of Shoplifters (2023 Remaster)](https://www.youtube.com/watch?v=3Q5nm6prMe4)
+- [This Is How It Feels (Live)](https://www.youtube.com/watch?v=wCIkjn5Bq80)
+- [Watching The Big Apple Turnover (2023 Remaster)](https://www.youtube.com/watch?v=ow5An5l0c_k)
+- [Panic (2023 Remaster)](https://www.youtube.com/watch?v=iOB1zpxDhFk)
+- [King Rocker (2023 Remaster)](https://www.youtube.com/watch?v=KgXOeM8QUaQ)
+- [Mannequin (2023 Remaster)](https://www.youtube.com/watch?v=35sM1H28SMk)
+- [Down In The Tubestation At Midnight (2023 Remaster)](https://www.youtube.com/watch?v=SMWwIaHsG8o)
+- [Turn On Tune In Switch Off (2023 Remaster)](https://www.youtube.com/watch?v=ddXeF7eMV1A)
+- [When Thesauruses Ruled The Earth (2023 Remaster)](https://www.youtube.com/watch?v=EIALwWzYFRo)
+- [Bring On The Girls (2023 Remaster)](https://www.youtube.com/watch?v=hAkoW3geadQ)
 
 ## Release Images
 {{< imageGrid >}}

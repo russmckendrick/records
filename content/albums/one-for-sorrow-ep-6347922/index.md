@@ -14,8 +14,8 @@ cover:
 additional_images:
     - "https://i.discogs.com/JnI7H_Qa5W7UFAHUzNlNRQs857ilc8j-fNQIJ21MAc4/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYzNDc5/MjItMTQ0OTMyMTg3/NS0yMjUwLmpwZWc.jpeg"
     - "https://i.discogs.com/9Lx-idRJpdBC2Me9Cr4xHCFQzSOQm2B3sCbsKrLQ7XU/rs:fit/g:sm/q:90/h:593/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYzNDc5/MjItMTYxNjM0ODY3/Ny04NzE0LmpwZWc.jpeg"
-    - "https://i.discogs.com/un8NVuewXoI_Kzfto4ew88-FFBk6GahLLZYVSdw0U6s/rs:fit/g:sm/q:90/h:602/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYzNDc5/MjItMTYxNjM0ODY4/MC04NDE1LmpwZWc.jpeg"
-    - "https://i.discogs.com/D8xeZUwLlB-tqc6kiYaid1Iaq2hJqqXDfMnRb_TpfGw/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYzNDc5/MjItMTYxNjM0ODY4/MC05MDg5LmpwZWc.jpeg"
+    - "https://i.discogs.com/BkN7eqiauwq81tkNsKHpFZTaip0PwELrCXN0TxUMgqo/rs:fit/g:sm/q:90/h:600/w:597/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYzNDc5/MjItMTYxNjM0ODY4/MC04NDE1LmpwZWc.jpeg"
+    - "https://i.discogs.com/lz2R90eJavQfkE20Iy3_3yvFcM2LFd2PVEeeoAaLV8I/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYzNDc5/MjItMTYxNjM0ODY4/MC05MDg5LmpwZWc.jpeg"
     - "https://i.discogs.com/Y0yPI0oBQebuIgYsH208Esi69I_j5u8U2sWeVF9e8ag/rs:fit/g:sm/q:90/h:585/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYzNDc5/MjItMTYxNjM0ODY4/MC01NjUzLmpwZWc.jpeg"
     - "https://i.discogs.com/X8Jjqe1554aP4nDQXNOHosU1eIX0tovuLKbgznYO-Ig/rs:fit/g:sm/q:90/h:576/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYzNDc5/MjItMTYxNjM0ODY4/MC0zMTc5LmpwZWc.jpeg"
 genres: ["Rock"]
@@ -37,7 +37,9 @@ styles: ["Indie Rock"]
 ## Videos
 ### One For Sorrow - The Anchoress
 {{< youtube id="AP0MpWelbx8" title="One For Sorrow - The Anchoress" >}}<br>
+### More Videos
 
+- [One For Sorrow - The Anchoress](https://www.youtube.com/watch?v=AP0MpWelbx8)
 
 ## Release Images
 {{< imageGrid >}}

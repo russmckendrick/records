@@ -14,13 +14,18 @@ cover:
 additional_images:
     - "https://i.discogs.com/1eTcFNPDQu_iB855ZjPCq3Se67-sh3RhYPOiGcKqTSI/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyOTgy/MzY2LTE2NTA3MjIx/NDUtODk2My5qcGVn.jpeg"
     - "https://i.discogs.com/KtxeVeWPdijjFq7jM02UCQMGUc8evW3SF4W0dGaMihY/rs:fit/g:sm/q:90/h:594/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyOTgy/MzY2LTE2NTA3MjIx/NDUtNjcwNy5qcGVn.jpeg"
-    - "https://i.discogs.com/D6e_GjegWxWaKDvyNERJu9qo4VR1oFf6zvTL9Hr5P9U/rs:fit/g:sm/q:90/h:611/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyOTgy/MzY2LTE2NTM0MDcz/MTItNjI3Mi5qcGVn.jpeg"
-    - "https://i.discogs.com/7mT7aVHIpqQnB-2qiGo-Kjyyf5Ot0Jp_l7OE-LZKcwM/rs:fit/g:sm/q:90/h:621/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyOTgy/MzY2LTE2NTM0MDcz/NTgtNDA3MS5qcGVn.jpeg"
+    - "https://i.discogs.com/Nwl8NWsratHKxQpgeDpiRiqosV4AZMeX645nv_sVUx0/rs:fit/g:sm/q:90/h:600/w:588/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyOTgy/MzY2LTE2NTM0MDcz/MTItNjI3Mi5qcGVn.jpeg"
+    - "https://i.discogs.com/P0Rj7PKF3QrpewGiwdbR4YLhfs4FSJMAekoIy_JyvH4/rs:fit/g:sm/q:90/h:600/w:578/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyOTgy/MzY2LTE2NTM0MDcz/NTgtNDA3MS5qcGVn.jpeg"
     - "https://i.discogs.com/pcW5IfME00nmmJU2Tx4BzHFLnoEOajEe-7WXzZTMmdg/rs:fit/g:sm/q:90/h:427/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyOTgy/MzY2LTE2NTM0MDc0/MDAtOTgwMi5qcGVn.jpeg"
 genres: ["Rock"]
 styles: ["Britpop"]
 ---
 
+Attack of the Grey Lantern is the debut album by English alternative rock band Mansun released on 17 February 1997 via Parlophone.  The album spent a total of 19 weeks on the UK Albums Chart, peaking at number one.
+
+
+    
+    
 
 
 ## Tracklisting
@@ -37,20 +42,10 @@ styles: ["Britpop"]
 11. Dark Mavis (8:39)
 
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/attack-of-the-grey-lantern/1579780625" >}}<br>
+{{< applemusic url="https://music.apple.com/gb/album/attack-of-the-grey-lantern-collectors-edition/1770502521" >}}<br>
 
 
-## Videos
-### Mansun Wide Open Space
-{{< youtube id="ppmUdn6GUXQ" title="Mansun Wide Open Space" >}}<br>
-### More Videos
 
-- [Disgusting](https://www.youtube.com/watch?v=O00-ToMySOc)
-- [M̲a̲n̲s̲u̲n̲ - A̲t̲t̲a̲c̲k̲ O̲f̲ T̲h̲e̲ G̲r̲e̲y̲ L̲a̲n̲t̲e̲r̲n̲](https://www.youtube.com/watch?v=Y-30Irqd_FQ)
-- [Mansun - Stripper Vicar (official video)](https://www.youtube.com/watch?v=NQ_QkYHaX9k)
-- [Mansun - She Makes My Nose Bleed (Official Promo Video)](https://www.youtube.com/watch?v=beJx16Xirlk)
-- [Mansun - Taxloss](https://www.youtube.com/watch?v=vGtCMzdNV60)
-- [Mansun - Egg Shaped Fred (Official Promo Video)](https://www.youtube.com/watch?v=grDNthP7Fzw)
 
 ## Release Images
 {{< imageGrid >}}
@@ -58,6 +53,7 @@ styles: ["Britpop"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
+| Wikipedia URL | https://en.wikipedia.org/wiki/Attack_of_the_Grey_Lantern |
 | Format         | Vinyl LP Record Store Day Limited Edition Picture Disc |
 | Label          | Kscope |
 | Catalog Number | KSCOPE1142 |

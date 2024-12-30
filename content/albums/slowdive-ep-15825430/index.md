@@ -13,12 +13,12 @@ cover:
     caption: "Slowdive EP by Slowdive"
 additional_images:
     - "https://i.discogs.com/YVZ2expbvOFDLTezzHji5IocXu71ICq0x55xtp3PS6Y/rs:fit/g:sm/q:90/h:592/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1ODI1/NDMwLTE2MDEzNzI2/ODctNjcwMi5qcGVn.jpeg"
-    - "https://i.discogs.com/SG7kEo5Yr0S5sg97nxJLOOU1FVjpNjSOmyVx5DOcjns/rs:fit/g:sm/q:90/h:601/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1ODI1/NDMwLTE2MDEzNzI3/MTItNTMwMS5qcGVn.jpeg"
-    - "https://i.discogs.com/cYcwyh2bP72y0V5rb7uQRcfX-qd2PWmLEJU_jiTxXWQ/rs:fit/g:sm/q:90/h:800/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1ODI1/NDMwLTE2MDEzNzI3/NzMtNDI1MS5qcGVn.jpeg"
-    - "https://i.discogs.com/Y0x09aE07JU4312uqt2iM8VYJY3wXsCTU_EeEwOgvS4/rs:fit/g:sm/q:90/h:800/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1ODI1/NDMwLTE2MDEzNzI3/NzMtOTY2MC5qcGVn.jpeg"
+    - "https://i.discogs.com/b3uolbtb0g0Tip9gKr8KNCbvmosVDNbmQF4UBHZRncQ/rs:fit/g:sm/q:90/h:600/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1ODI1/NDMwLTE2MDEzNzI3/MTItNTMwMS5qcGVn.jpeg"
+    - "https://i.discogs.com/AenZFumoMCjuYmKkmkMcV8oEBDB3pXgt5Fk901B3Tbs/rs:fit/g:sm/q:90/h:600/w:450/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1ODI1/NDMwLTE2MDEzNzI3/NzMtNDI1MS5qcGVn.jpeg"
+    - "https://i.discogs.com/6kzm3lemJleZwDTs4jggx0vVZ7zqcVgppZTek0sgyTA/rs:fit/g:sm/q:90/h:600/w:450/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1ODI1/NDMwLTE2MDEzNzI3/NzMtOTY2MC5qcGVn.jpeg"
     - "https://i.discogs.com/fqY36JqJTdSulGn6i-fDeR4FAGX-13-F6_UUB2H1bOM/rs:fit/g:sm/q:90/h:364/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1ODI1/NDMwLTE2MDEzNzI5/NTctOTg1MS5qcGVn.jpeg"
-    - "https://i.discogs.com/0-UQs85qn_-lOB9vr4Ms9A1YPNf2Db915sCjojtZQX8/rs:fit/g:sm/q:90/h:799/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1ODI1/NDMwLTE2MDEzNzI5/NjYtNzc5Ny5qcGVn.jpeg"
-    - "https://i.discogs.com/DeQoesVMsCh491DRNpkfoP4hzFV32n0PZN4kPeYI0fE/rs:fit/g:sm/q:90/h:601/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1ODI1/NDMwLTE2MDEzNzI5/NjQtNTQxOS5qcGVn.jpeg"
+    - "https://i.discogs.com/JcJ1UgB7bN7PexEnCmGf_eH8-1yApSTp3XqnB_UYGYc/rs:fit/g:sm/q:90/h:600/w:450/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1ODI1/NDMwLTE2MDEzNzI5/NjYtNzc5Ny5qcGVn.jpeg"
+    - "https://i.discogs.com/g7eAVyIXtS2idzJDj7v1tYkpQLnp8-1lQJ4KRVjcgvI/rs:fit/g:sm/q:90/h:600/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1ODI1/NDMwLTE2MDEzNzI5/NjQtNTQxOS5qcGVn.jpeg"
 genres: ["Rock"]
 styles: ["Indie Rock"]
 ---

@@ -55,6 +55,9 @@ styles: ["Space Rock", "Prog Rock"]
 
 - [Amplifier - Freakzone (2017)](https://www.youtube.com/watch?v=k7NAMedoq4o)
 - [Amplifier - Kosmos (Lyric Video)](https://www.youtube.com/watch?v=s4PoflfAMEo)
+- [Amplifier - Rainbow Machine](https://www.youtube.com/watch?v=TE4KCRZI2tg)
+- [Amplifier - Freakzone (2017)](https://www.youtube.com/watch?v=k7NAMedoq4o)
+- [Amplifier - Kosmos (Lyric Video)](https://www.youtube.com/watch?v=s4PoflfAMEo)
 
 ## Release Images
 {{< imageGrid >}}
@@ -66,4 +69,4 @@ styles: ["Space Rock", "Prog Rock"]
 | Label          | Rockosmos |
 | Catalog Number | ROK 16 |
 | Notes | The labels state "666 RPM", which is obviously incorrect. |
-| Discogs URL    | [Amplifier - Trippin' With Dr. Faustus](https://www.discogs.com/release/10527271-Amplifier-Trippin-With-Dr-Faustus) |
+| Discogs URL    | [Amplifier - Trippin' With Dr. Faustus](https://www.discogs.com/release/10527271-Amplifier-3-Trippin-With-Dr-Faustus) |

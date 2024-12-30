@@ -14,7 +14,8 @@ cover:
 additional_images:
     - "https://i.discogs.com/czqNMXqMa0jRI83bnJWldj4d7fIQsxZRIoD0EdTOYKo/rs:fit/g:sm/q:90/h:590/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3NTQ2/ODQzLTE2ODgyMTc3/NDYtMzczNy5qcGVn.jpeg"
     - "https://i.discogs.com/dZrhPNPvH5_C_0swgJg5gz6YQZCpjnPoPXAS3ke3gHI/rs:fit/g:sm/q:90/h:594/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3NTQ2/ODQzLTE2ODgyMTc3/NTItMTczMy5qcGVn.jpeg"
-    - "https://i.discogs.com/lSHzcuc8tA3o87icN3ySDogdR_5SYdxIUsZ_5rI61eg/rs:fit/g:sm/q:90/h:835/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3NTQ2/ODQzLTE2ODgyMTc3/NTYtMzcwNi5qcGVn.jpeg"
+    - "https://i.discogs.com/IOUCviW1CZNsGgn89n78VrM3VTNzvPyMbrSvUXnBIk4/rs:fit/g:sm/q:90/h:600/w:430/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3NTQ2/ODQzLTE2ODgyMTc3/NTYtMzcwNi5qcGVn.jpeg"
+    - "https://i.discogs.com/Byk5VOMP64CgqP5-yoTIFYloYjXgGDVRligfEgxf42c/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3NTQ2/ODQzLTE2ODg5Nzkw/ODMtNjc3NS5wbmc.jpeg"
 genres: ["Rock"]
 styles: ["Indie Rock"]
 ---
@@ -22,26 +23,30 @@ styles: ["Indie Rock"]
 
 
 ## Tracklisting
-1. Side One
-2. Thanks For Reaching Out
-3. The Day Of Reckoning
-4. Bernadette (Hasn’t Found Anyone Yet)
-5. Toxic Man
-6. This Is End Times
-7. We Need To Try Harder (We Need To Do Better
-8. Side Two
-9. Billionaire In Space
-10. Sebastian’s Gone On A Ridealong
-11. goesaroundcomesaround
-12. Befriend The Police
-13. The Prince Of Wales
-14. Thanks for Reaching Outro
+1. Thanks For Reaching Out
+2. The Day Of Reckoning
+3. Bernadette (Hasn’t Found Anyone Yet)
+4. Toxic Man
+5. This Is End Times
+6. We Need To Try Harder (We Need To Do Better)
+7. Billionaire In Space
+8. Sebastian’s Gone On A Ridealong
+9. goesaroundcomesaround
+10. Befriend The Police
+11. The Prince Of Wales
+12. Thanks For Reaching Outro
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/thanks-for-reaching-out/1678181317" >}}<br>
 
 
+## Videos
+### Jim Bob - Thanks For Reaching Out [Official Video]
+{{< youtube id="hqQdYpe7_wM" title="Jim Bob - Thanks For Reaching Out [Official Video]" >}}<br>
+### More Videos
 
+- [Jim Bob - Sebastian’s Gone On A Ridealong [Official Video]](https://www.youtube.com/watch?v=AInM9y6GcXQ)
+- [Jim Bob - Billionaire In Space [Official Video]](https://www.youtube.com/watch?v=a8Lb9yOefMc)
 
 ## Release Images
 {{< imageGrid >}}
@@ -52,4 +57,5 @@ styles: ["Indie Rock"]
 | Format         | Vinyl LP (Purple) |
 | Label          | Cherry Red |
 | Catalog Number | BRED880 |
-| Discogs URL    | [Jim Bob - Thanks For Reaching Out](https://www.discogs.com/release/27546843-Jim-Bob-Thanks-For-Reaching-Out) |
+| Notes | Comes with a 2024 calendar featuring illustrations by Mark Reynolds |
+| Discogs URL    | [Jim Bob - Thanks For Reaching Out](https://www.discogs.com/release/27546843-Jim-Bob-2-Thanks-For-Reaching-Out) |

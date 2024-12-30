@@ -14,21 +14,19 @@ cover:
 additional_images:
     - "https://i.discogs.com/DMmcXuGMnu4UEKDUkqChpz3ZyIMOdxHsLHjMJoEmGwg/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMDM1/MTU1LTE3MTAxNjMx/NTUtMTY1OC5qcGVn.jpeg"
     - "https://i.discogs.com/5oDAUt6fkJw5-Ci7t_-pb8-PW325xBdeVb15qcIiq-U/rs:fit/g:sm/q:90/h:592/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMDM1/MTU1LTE3MTAxNjMx/NTYtNjUwMS5qcGVn.jpeg"
-    - "https://i.discogs.com/JUaPOtjWT0VLBpKAv28iiNoJwundXz8tu_6w_EpC-CQ/rs:fit/g:sm/q:90/h:611/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMDM1/MTU1LTE3MTAxNjMx/NTgtODA2MC5qcGVn.jpeg"
-    - "https://i.discogs.com/b-9oq32n19uXW_ABfGTD4_PUkX6h5V8-NG9g887qWy4/rs:fit/g:sm/q:90/h:603/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMDM1/MTU1LTE3MTAxNjMx/NTktMzYxNC5qcGVn.jpeg"
+    - "https://i.discogs.com/7oZpIYARS7w148eQw4lBrzFRWvBYXRp2t1hLSIi6Ns4/rs:fit/g:sm/q:90/h:600/w:589/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMDM1/MTU1LTE3MTAxNjMx/NTgtODA2MC5qcGVn.jpeg"
+    - "https://i.discogs.com/KWFUy7OARguLjBsFTnJ7lNb1UARcZa8q7SRKTpWo-bo/rs:fit/g:sm/q:90/h:600/w:597/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMDM1/MTU1LTE3MTAxNjMx/NTktMzYxNC5qcGVn.jpeg"
     - "https://i.discogs.com/q4RgeQrmdtXRCVPfERya9Igg1_BxpJ7WRrItkKm7xRs/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMDM1/MTU1LTE3MTAxNjMx/NjEtNjgwMC5qcGVn.jpeg"
     - "https://i.discogs.com/1CJX3Er4pH_Cdy3r_oDfLtt7pdX2Vk6odHSSECb4lmY/rs:fit/g:sm/q:90/h:591/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMDM1/MTU1LTE3MTAxNjMx/NjMtMzU5Ny5qcGVn.jpeg"
     - "https://i.discogs.com/qNE71U6VAAjhA6Hu6iLr9_F6MqMwPQxZf3ymVZhDnbo/rs:fit/g:sm/q:90/h:590/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMDM1/MTU1LTE3MTAxNjMx/NjQtMTg2OC5qcGVn.jpeg"
     - "https://i.discogs.com/LgvVyxXVFTlhqhAl7lPzjc1naAgwMAYiEh6b6svFtBE/rs:fit/g:sm/q:90/h:340/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMDM1/MTU1LTE3MTAxNjMx/NjYtNjk1MC5qcGVn.jpeg"
     - "https://i.discogs.com/T7IAM00BrxNZwNi-ax389gLnTBbNM9pbUtH3ybRIWfQ/rs:fit/g:sm/q:90/h:338/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMDM1/MTU1LTE3MTAxNjMx/NjgtMjQ0Ny5qcGVn.jpeg"
-    - "https://i.discogs.com/C4-vheAw3XJ2rYaHmKz6QMsurgpgNw3uJwjFKmx7P2o/rs:fit/g:sm/q:90/h:884/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMDM1/MTU1LTE3MTAxMzQ1/NDMtNjc1OS5qcGVn.jpeg"
-genres: ["Rock"]
-styles: []
+    - "https://i.discogs.com/po1tE5zPoiJcenVwkzC8og-DXpPsyZ25y0-MKxdPmPE/rs:fit/g:sm/q:90/h:600/w:406/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMDM1/MTU1LTE3MTAxMzQ1/NDMtNjc1OS5qcGVn.jpeg"
+genres: ["Electronic", "Hip Hop", "Rock"]
+styles: ["Noise Rock", "No Wave", "Trap", "Illbient", "Leftfield"]
 ---
 
-The Collective is the second solo studio album by the American musician Kim Gordon, released on March 8, 2024, through Matador Records. It received acclaim from critics.
-
-
+The Collective is the second solo studio album by the American musician Kim Gordon, released on March 8, 2024, by Matador Records. It received acclaim from critics. It also received two nominations at the 67th Annual Grammy Awards: Best Alternative Music Album and Best Alternative Music Performance (for "Bye Bye").
     
     
 
@@ -51,22 +49,31 @@ The Collective is the second solo studio album by the American musician Kim Gord
 
 
 ## Videos
-### Kim Gordon - BYE BYE (Official Music Video)
-{{< youtube id="IZ3i80B0qKg" title="Kim Gordon - BYE BYE (Official Music Video)" >}}<br>
+### Kim Gordon - "BYE BYE" (Official Music Video)
+{{< youtube id="IZ3i80B0qKg" title="Kim Gordon - "BYE BYE" (Official Music Video)" >}}<br>
 ### More Videos
 
-- [Kim Gordon- I'm a Man (Official Music Video)](https://www.youtube.com/watch?v=ioKP3ORu0QY)
-- [Kim Gordon- Psychedelic Orgasm (Official Music Video)](https://www.youtube.com/watch?v=cdn2A3MVnfE)
-- [The Candy House](https://www.youtube.com/watch?v=FDeYQcaYPYY)
-- [Kim Gordon - BYE BYE](https://www.youtube.com/watch?v=D5EeKWDdPgA)
-- [Kim Gordon - The Candy House (Official Audio)](https://www.youtube.com/watch?v=Q_3KJkezWOs)
-- [Kim Gordon - I Don't Miss My Mind (Official Audio)](https://www.youtube.com/watch?v=wjyktFqiOZc)
-- [Kim Gordon - I’m A Man](https://www.youtube.com/watch?v=vzUZX8fUKpk)
-- [Kim Gordon - Trophies (Official Audio)](https://www.youtube.com/watch?v=YECXEjt4lNQ)
-- [Kim Gordon - It's Dark Inside (Official Audio)](https://www.youtube.com/watch?v=RVndycw2Sng)
-- [Kim Gordon - Tree House (Official Audio)](https://www.youtube.com/watch?v=GkGuOz7toz0)
-- [Kim Gordon - Shelf Warmer (Official Audio)](https://www.youtube.com/watch?v=pzCPToX5PyU)
-- [Kim Gordon - The Believers (Official Audio)](https://www.youtube.com/watch?v=aZ32GjG7jPs)
+- [Kim Gordon - "The Candy House" (Official Audio)](https://www.youtube.com/watch?v=Q_3KJkezWOs)
+- [Kim Gordon - "I Don't Miss My Mind" (Official Audio)](https://www.youtube.com/watch?v=wjyktFqiOZc)
+- [Kim Gordon- "I'm a Man" (Official Music Video)](https://www.youtube.com/watch?v=ioKP3ORu0QY)
+- [Kim Gordon - "Trophies" (Official Audio)](https://www.youtube.com/watch?v=YECXEjt4lNQ)
+- [Kim Gordon - "It's Dark Inside" (Official Audio)](https://www.youtube.com/watch?v=RVndycw2Sng)
+- [Kim Gordon- "Psychedelic Orgasm" (Official Music Video)](https://www.youtube.com/watch?v=cdn2A3MVnfE)
+- [Kim Gordon - "Tree House" (Official Audio)](https://www.youtube.com/watch?v=GkGuOz7toz0)
+- [Kim Gordon - "Shelf Warmer" (Official Audio)](https://www.youtube.com/watch?v=pzCPToX5PyU)
+- [Kim Gordon - "The Believers" (Official Audio)](https://www.youtube.com/watch?v=aZ32GjG7jPs)
+- [Kim Gordon - "Dream Dollar" (Official Audio)](https://www.youtube.com/watch?v=OKo0ilO01YQ)
+- [Kim Gordon - "BYE BYE" (Official Music Video)](https://www.youtube.com/watch?v=IZ3i80B0qKg)
+- [Kim Gordon - "The Candy House" (Official Audio)](https://www.youtube.com/watch?v=Q_3KJkezWOs)
+- [Kim Gordon - "I Don't Miss My Mind" (Official Audio)](https://www.youtube.com/watch?v=wjyktFqiOZc)
+- [Kim Gordon- "I'm a Man" (Official Music Video)](https://www.youtube.com/watch?v=ioKP3ORu0QY)
+- [Kim Gordon - "Trophies" (Official Audio)](https://www.youtube.com/watch?v=YECXEjt4lNQ)
+- [Kim Gordon - "It's Dark Inside" (Official Audio)](https://www.youtube.com/watch?v=RVndycw2Sng)
+- [Kim Gordon- "Psychedelic Orgasm" (Official Music Video)](https://www.youtube.com/watch?v=cdn2A3MVnfE)
+- [Kim Gordon - "Tree House" (Official Audio)](https://www.youtube.com/watch?v=GkGuOz7toz0)
+- [Kim Gordon - "Shelf Warmer" (Official Audio)](https://www.youtube.com/watch?v=pzCPToX5PyU)
+- [Kim Gordon - "The Believers" (Official Audio)](https://www.youtube.com/watch?v=aZ32GjG7jPs)
+- [Kim Gordon - "Dream Dollar" (Official Audio)](https://www.youtube.com/watch?v=OKo0ilO01YQ)
 
 ## Release Images
 {{< imageGrid >}}

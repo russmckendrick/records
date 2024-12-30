@@ -4,7 +4,6 @@ artist_name: "Wilco"
 artist: "wilco"
 album_name: "Schmilco"
 date: 2016-09-13T16:31:14.000000Z
-release_date: "2016-09-06"
 release_id: "9013976"
 slug: "schmilco-9013976"
 hideSummary: true
@@ -23,7 +22,9 @@ genres: ["Rock"]
 styles: ["Alternative Rock"]
 ---
 
-A year after the psychedelic glee of <i>Star Wars</i>, Wilco continue to surprise. <i>Schmilco</i> is a largely acoustic set of heartbreaking folk rock, marked by uncluttered arrangements and some of frontman Jeff Tweedy’s most personal songwriting to date—as heard in the brutal retrospection of “Normal American Kids” and the glammy warmth of “Someone to Lose.”
+Schmilco is the tenth studio album by the American rock band Wilco, released on September 9, 2016, by dBpm Records. Wilco announced the album on July 19, 2016, and released two songs, "Locator" and "If I Ever Was a Child". The album's announcement came a little more than a year after their previous studio album, Star Wars.
+
+
     
     
 
@@ -43,15 +44,25 @@ A year after the psychedelic glee of <i>Star Wars</i>, Wilco continue to surpris
 12. Just Say Goodbye
 
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/schmilco/1131561462" >}}<br>
+{{< applemusic url="https://music.apple.com/gb/album/schmilco/1690693983" >}}<br>
 
 
 ## Videos
-### SCHMILCO - Wilco [2016] - Full Album
-{{< youtube id="h2wt9TvkSZE" title="SCHMILCO - Wilco [2016] - Full Album" >}}<br>
+### Wilco - "Normal American Kids"
+{{< youtube id="sIwodhY8osM" title="Wilco - "Normal American Kids"" >}}<br>
 ### More Videos
 
-- [If I Ever Was a Child - Wilco - Schmilco](https://www.youtube.com/watch?v=ykOrfedFJ8o)
+- ["If I Ever Was a Child" - Wilco - Schmilco](https://www.youtube.com/watch?v=ykOrfedFJ8o)
+- [Wilco - "Cry All Day"](https://www.youtube.com/watch?v=dBgdK9oO0Gg)
+- [Wilco - "Common Sense"](https://www.youtube.com/watch?v=3P-1TJmbKCE)
+- [Wilco - "Nope"](https://www.youtube.com/watch?v=DBs2tGgzZuE)
+- [Wilco - "Someone to Lose"](https://www.youtube.com/watch?v=G5RrWCRsSYA)
+- [Wilco - "Happiness"](https://www.youtube.com/watch?v=ZzvfsEFRtVM)
+- [Wilco - "Quarters"](https://www.youtube.com/watch?v=kHM1zPZhG0k)
+- [Wilco - "Locator"](https://www.youtube.com/watch?v=RfM1sYaOG3k)
+- [Wilco - "Shrug and Destroy"](https://www.youtube.com/watch?v=wWVZBg3VRAQ)
+- [Wilco - "We Aren't The World (Safety Girl)"](https://www.youtube.com/watch?v=HQOSPMDwsgY)
+- [Wilco - "Just Say Goodbye"](https://www.youtube.com/watch?v=Yyaxnyvga0s)
 
 ## Release Images
 {{< imageGrid >}}
@@ -59,6 +70,7 @@ A year after the psychedelic glee of <i>Star Wars</i>, Wilco continue to surpris
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
+| Wikipedia URL | https://en.wikipedia.org/wiki/Schmilco |
 | Format         | Vinyl LP Album Limited Edition (Pink, 180 grams) |
 | Label          | dBpm Records |
 | Catalog Number | 7259-1 |

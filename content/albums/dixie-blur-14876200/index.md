@@ -44,24 +44,24 @@ Dixie Blur is the fourth studio album by American musician and producer Jonathan
 
 
 ## Videos
-### Jonathan Wilson - 69 Corvette [Official Music Video]
-{{< youtube id="EGyg7pvkhOw" title="Jonathan Wilson - 69 Corvette [Official Music Video]" >}}<br>
+### Jonathan Wilson - "69 Corvette" [Official Music Video]
+{{< youtube id="EGyg7pvkhOw" title="Jonathan Wilson - "69 Corvette" [Official Music Video]" >}}<br>
 ### More Videos
 
-- [Jonathan Wilson - Enemies [Official Audio]](https://www.youtube.com/watch?v=CSycEskr0z8)
-- [Jonathan Wilson - In Heaven Making Love [Official Music Video]](https://www.youtube.com/watch?v=jhe1malpg-8)
-- [Jonathan Wilson - Korean Tea [Official Audio]](https://www.youtube.com/watch?v=VU1J4sb17b8)
-- [Jonathan Wilson - Just For Love [Official Audio]](https://www.youtube.com/watch?v=4bz0nSpzF-U)
-- [Jonathan Wilson - Pirate [Official Audio]](https://www.youtube.com/watch?v=PykIR0IxuSo)
-- [Jonathan Wilson - In Heaven Making Love [Official Audio]](https://www.youtube.com/watch?v=TrLx8OsAvfY)
-- [Jonathan Wilson - Fun For The Masses [Official Audio]](https://www.youtube.com/watch?v=SppXH9vI0rc)
-- [Jonathan Wilson - Platform [Official Audio]](https://www.youtube.com/watch?v=DkWjXVMyv1E)
+- [Jonathan Wilson - "In Heaven Making Love" [Official Music Video]](https://www.youtube.com/watch?v=jhe1malpg-8)
+- [Jonathan Wilson - "Enemies" [Official Audio]](https://www.youtube.com/watch?v=CSycEskr0z8)
+- [Jonathan Wilson - "Korean Tea" [Official Audio]](https://www.youtube.com/watch?v=VU1J4sb17b8)
+- [Jonathan Wilson - "Just For Love" [Official Audio]](https://www.youtube.com/watch?v=4bz0nSpzF-U)
+- [Jonathan Wilson - "Pirate" [Official Audio]](https://www.youtube.com/watch?v=PykIR0IxuSo)
+- [Jonathan Wilson - "In Heaven Making Love" [Official Audio]](https://www.youtube.com/watch?v=TrLx8OsAvfY)
+- [Jonathan Wilson - "Fun For The Masses" [Official Audio]](https://www.youtube.com/watch?v=SppXH9vI0rc)
+- [Jonathan Wilson - "Platform" [Official Audio]](https://www.youtube.com/watch?v=DkWjXVMyv1E)
 - [So Alive](https://www.youtube.com/watch?v=LrK_prQM5XI)
-- [Jonathan Wilson - Oh Girl [Official Audio]](https://www.youtube.com/watch?v=dcMpOa6ngFY)
-- [Jonathan Wilson - New Home [Official Audio]](https://www.youtube.com/watch?v=anG9sSb1P7s)
-- [Jonathan Wilson - El Camino Real [Official Audio]](https://www.youtube.com/watch?v=6akW-heVGME)
-- [Jonathan Wilson - Riding the Blinds [Official Audio]](https://www.youtube.com/watch?v=so1jiIyE57w)
-- [Jonathan Wilson - Golden Apples [Official Audio]](https://www.youtube.com/watch?v=iouvagefzjc)
+- [Jonathan Wilson - "Oh Girl" [Official Audio]](https://www.youtube.com/watch?v=dcMpOa6ngFY)
+- [Jonathan Wilson - "New Home" [Official Audio]](https://www.youtube.com/watch?v=anG9sSb1P7s)
+- [Jonathan Wilson - "El Camino Real" [Official Audio]](https://www.youtube.com/watch?v=6akW-heVGME)
+- [Jonathan Wilson - "Riding the Blinds" [Official Audio]](https://www.youtube.com/watch?v=so1jiIyE57w)
+- [Jonathan Wilson - "Golden Apples" [Official Audio]](https://www.youtube.com/watch?v=iouvagefzjc)
 
 ## Release Images
 {{< imageGrid >}}

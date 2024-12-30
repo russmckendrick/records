@@ -12,7 +12,8 @@ cover:
     alt: "Some Cities by Doves"
     caption: "Some Cities by Doves"
 additional_images:
-    - "https://i.discogs.com/KoCQdAbFqGM5-604PyXzn45WHx4UZUXVJ6turUfDTD0/rs:fit/g:sm/q:90/h:623/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNzAx/NTI3LTE1NTkzMjMy/NzUtNzY1NC5qcGVn.jpeg"
+    - "https://i.discogs.com/hP5s9W3SDWnb4iZPTfSLxhONY3cVF46ezmek3VCVmr8/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNzAx/NTI3LTE3MzU1MjE3/ODUtNTIyMi5qcGVn.jpeg"
+    - "https://i.discogs.com/sas26tj8rG_QoZlN_3kpWf4f-e1PjtkbRwu9tZVsz_0/rs:fit/g:sm/q:90/h:600/w:577/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNzAx/NTI3LTE1NTkzMjMy/NzUtNzY1NC5qcGVn.jpeg"
     - "https://i.discogs.com/p4G_c3slELKxWjf5SslGd6y-rR2t2jJ39YQ7Xf9AR9I/rs:fit/g:sm/q:90/h:450/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNzAx/NTI3LTE1NTkzMjM3/NDMtMjA3Ny5qcGVn.jpeg"
     - "https://i.discogs.com/PA4SzOZnJBoxnLlV9Joh00o1twmAMCIq2vsVlj1MHHk/rs:fit/g:sm/q:90/h:450/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNzAx/NTI3LTE1NTkzMjM3/MTUtMjA4MS5qcGVn.jpeg"
     - "https://i.discogs.com/HugfOgYw57B9LfoVVrlWv6IHtK1VLvXeSRnG1Nr-a7E/rs:fit/g:sm/q:90/h:450/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNzAx/NTI3LTE1NTkzMjM3/NzEtNzA5My5qcGVn.jpeg"
@@ -24,6 +25,8 @@ styles: ["Downtempo", "Indie Rock"]
 
 Some Cities is the third studio album by the British indie rock band Doves. The album was released by Heavenly Recordings on 21 February 2005, and became the band's second consecutive album to top the UK Albums Chart at number 1. Some Cities was conceived as a rawer, stripped-down record, and conceptually touches upon the physical changes of the band's hometown of Manchester, as well as emotional transformations.
 The album features the band's second-highest charting single, "Black and White Town", which peaked at number 6 on the UK Singles Chart. Two further singles from the album—"Snowden" and "Sky Starts Falling"—also fared moderately well on the chart, peaking at number 17 and 45, respectively.
+
+
     
     
 
@@ -50,10 +53,6 @@ The album features the band's second-highest charting single, "Black and White T
 {{< youtube id="LR3rHOXQeeM" title="Shadows Of Salford" >}}<br>
 ### More Videos
 
-- [Doves – Complete A Side [ Some Cities LP ]](https://www.youtube.com/watch?v=UYQfuM1PP8o)
-- [Doves – Complete B Side [ Some Cities LP ]](https://www.youtube.com/watch?v=_HrOy64dsCs)
-- [Doves – Complete C Side [ Some Cities LP ]](https://www.youtube.com/watch?v=48n2X7H5hTg)
-- [Doves – Complete D Side [ Some Cities LP ]](https://www.youtube.com/watch?v=s4bLp-MDgyI)
 - [Some Cities - Doves](https://www.youtube.com/watch?v=ceiBoqK_SPE)
 - [Doves - The Storm](https://www.youtube.com/watch?v=46ynKrD5nYM)
 - [The Doves - Someday Soon](https://www.youtube.com/watch?v=If2W-ZmD9k8)
@@ -63,6 +62,11 @@ The album features the band's second-highest charting single, "Black and White T
 - [Doves - One Of These Days](https://www.youtube.com/watch?v=9fNTb8L1_m4)
 - [Doves - Walk in Fire](https://www.youtube.com/watch?v=NzXuCj-DXv4)
 - [Doves - Black & White Town (From Some Cities - 2005)](https://www.youtube.com/watch?v=Nio3f2yN8u8)
+- [Shadows Of Salford](https://www.youtube.com/watch?v=LR3rHOXQeeM)
+- [Doves – Complete A Side [ Some Cities LP ]](https://www.youtube.com/watch?v=UYQfuM1PP8o)
+- [Doves – Complete B Side [ Some Cities LP ]](https://www.youtube.com/watch?v=_HrOy64dsCs)
+- [Doves – Complete C Side [ Some Cities LP ]](https://www.youtube.com/watch?v=48n2X7H5hTg)
+- [Doves – Complete D Side [ Some Cities LP ]](https://www.youtube.com/watch?v=s4bLp-MDgyI)
 
 ## Release Images
 {{< imageGrid >}}

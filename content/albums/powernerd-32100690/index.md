@@ -21,9 +21,14 @@ additional_images:
     - "https://i.discogs.com/bC8y2ymto0FCRrBQU5daSarhD1dULMxGqo2B4V-3yCI/rs:fit/g:sm/q:90/h:600/w:590/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyMTAw/NjkwLTE3Mjk4NjI0/MjEtNTQ5MC5qcGVn.jpeg"
     - "https://i.discogs.com/NEYby-5NChk-URQUfm8q-LnETCpImpjJ5dTQSFApkPg/rs:fit/g:sm/q:90/h:600/w:589/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyMTAw/NjkwLTE3Mjk4NjI0/MjAtMjUwNy5qcGVn.jpeg"
 genres: ["Rock"]
-styles: ["Prog Rock", "Country Rock", "Heavy Metal"]
+styles: ["Prog Rock", "Country Rock", "Heavy Metal", "Progressive Metal"]
 ---
 
+PowerNerd is the twenty-second studio album by Canadian metal musician Devin Townsend. It was released on October 25, 2024, through Inside Out Music and HevyDevy Records.
+
+
+    
+    
 
 
 ## Tracklisting
@@ -43,6 +48,9 @@ styles: ["Prog Rock", "Country Rock", "Heavy Metal"]
 {{< applemusic url="https://music.apple.com/gb/album/powernerd/1761880363" >}}<br>
 
 
+## Videos
+### Unboxing Devin Townsend - PowerNerd 2024 Limited Edition Artbook
+{{< youtube id="VBIEHaDvs6I" title="Unboxing Devin Townsend - PowerNerd 2024 Limited Edition Artbook" >}}<br>
 
 
 ## Release Images
@@ -51,8 +59,9 @@ styles: ["Prog Rock", "Country Rock", "Heavy Metal"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
+| Wikipedia URL | https://en.wikipedia.org/wiki/PowerNerd |
 | Format         | Vinyl LP Album Limited Edition Stereo (White, 180g) |
 | Label          | Inside Out Music |
 | Catalog Number | IOM726 |
-| Notes | Gatefold with LP-size booklet. |
+| Notes | Gatefold with LP-size booklet. ℗ & © HevyDevy Records, Inc., issued under exclusive license to InsideOutMusic Published by HevyDevy Records Inc, administred by Kobalt Music Services Ltd.  Made in the EU.  Drums recorded at Armoury Studios, Vancouver BC Bass recorded at Demi-Tone Studios, Vancouver BC Guitars and vocals recorded at Lighthouse Studio, Vancouver BC Guitar Reamp recorded at Mythgraven Studio (KSR Orion Amplifier) Acoustic Guitars recorded at Lip Service Studio |
 | Discogs URL    | [Devin Townsend - PowerNerd](https://www.discogs.com/release/32100690-Devin-Townsend-PowerNerd) |

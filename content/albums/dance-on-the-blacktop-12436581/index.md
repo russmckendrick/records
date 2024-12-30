@@ -18,7 +18,9 @@ genres: ["Rock"]
 styles: ["Shoegaze", "Alternative Rock"]
 ---
 
-Dance on the Blacktop is the third studio album by American shoegaze band Nothing. It is the last album to feature bassist Nick Bassett (also the guitarist of Whirr) and founding member, vocalist and guitarist Brandon Setta before both departed the band between 2018 and 2019, respectively. The album was released on August 24, 2018 by Relapse Records.
+Dance on the Blacktop is the third studio album by American shoegaze band Nothing. It is the last album to feature bassist Nick Bassett (also the guitarist of Whirr) and longtime guitarist-vocalist Brandon Setta before both departed the band between 2018 and 2019, respectively. The album was released on August 24, 2018 by Relapse Records.
+
+
     
     
 
@@ -43,8 +45,8 @@ Dance on the Blacktop is the third studio album by American shoegaze band Nothin
 {{< youtube id="RJhkZo5OCHE" title="NOTHING - Zero Day (Official Music Video)" >}}<br>
 ### More Videos
 
-- [NOTHING - Dance On The Blacktop [FULL ALBUM STREAM]](https://www.youtube.com/watch?v=d91cRGR98yI)
 - [NOTHING - The Carpenter's Son (Official Audio)](https://www.youtube.com/watch?v=bxQjvOGl9qU)
+- [NOTHING - Dance On The Blacktop [FULL ALBUM STREAM]](https://www.youtube.com/watch?v=d91cRGR98yI)
 - [NOTHING - Heavy Water/I'd Rather Be Sleeping (Grouper Cover)](https://www.youtube.com/watch?v=JysJhkFzMGo)
 
 ## Release Images
@@ -58,4 +60,4 @@ Dance on the Blacktop is the third studio album by American shoegaze band Nothin
 | Label          | Relapse Records |
 | Catalog Number | RR7394 |
 | Notes | UK indie retailer exclusive.  From sticker on plastic cover sleeve: LP3927R - White Chrysanthemum (White) Version - Limited to 500 copies.  Comes in a gatefold cover with a lyric/credit sheet and a digital download code.  Recorded at Dreamland Recording, West Hurley, NY. Overdubs at Russell Street Recording, Greenpoint, Brooklyn, NY. Mixed at Strange Weather, Greenpoint, Brooklyn, NY. Additional mixing at Water Music Recorders, Hoboken, NJ. Mastered at Sterling Sound, NY.  ℗&© 2018 Relapse Record Inc. Made in EU. |
-| Discogs URL    | [Nothing - Dance On The Blacktop](https://www.discogs.com/release/12436581-Nothing-Dance-On-The-Blacktop) |
+| Discogs URL    | [Nothing - Dance On The Blacktop](https://www.discogs.com/release/12436581-Nothing-12-Dance-On-The-Blacktop) |

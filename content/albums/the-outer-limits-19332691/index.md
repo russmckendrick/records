@@ -12,15 +12,16 @@ cover:
     alt: "The Outer Limits by Voïvod"
     caption: "The Outer Limits by Voïvod"
 additional_images:
-    - "https://i.discogs.com/Hn2DclDSWg1XOG5EOpWixLfZ-W8MGIBYhq4rMtbEz9w/rs:fit/g:sm/q:90/h:574/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MzMy/NjkxLTE2MjUxNjU3/MDEtMjE1OS5qcGVn.jpeg"
+    - "https://i.discogs.com/PWtzxtQCVWrr_0lQn5fVs8-pfJJlNiIiCSSsWJFOJqg/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MzMy/NjkxLTE3MzI1NTMy/ODEtMTU4MS5qcGVn.jpeg"
     - "https://i.discogs.com/3xu1ujnhnxFgv_OOLihfz6ytG5x7cuDZXuYnfUqgJeg/rs:fit/g:sm/q:90/h:589/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MzMy/NjkxLTE2MjUxNjU2/OTgtNjIxNS5qcGVn.jpeg"
     - "https://i.discogs.com/g1I-xH211S4_jJIB-nBdj5rHEjkQBb6h4z2oTBzty9U/rs:fit/g:sm/q:90/h:587/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MzMy/NjkxLTE2MjUxNjU4/NzMtODU3Ni5qcGVn.jpeg"
     - "https://i.discogs.com/FH5Mrlpo6qEGlSt_kWREjQWIA97IZ6CJ_fuuoeC_-I4/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MzMy/NjkxLTE2MjUxNjU4/NzEtMjcwOS5qcGVn.jpeg"
     - "https://i.discogs.com/jaVm4R0kAwAujpFQ_W55kRwrTAGGZkHDKu1sx3TZg3Q/rs:fit/g:sm/q:90/h:591/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MzMy/NjkxLTE2MjUxNjU2/OTctMTY3Ni5qcGVn.jpeg"
     - "https://i.discogs.com/EwsdDxMLw_xg6FktPZxoNmK2Q4JxHSzEu1p3uPi8L54/rs:fit/g:sm/q:90/h:591/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MzMy/NjkxLTE2MjUxNjU3/MDUtNjM2MS5qcGVn.jpeg"
-    - "https://i.discogs.com/u-JLz18MkfmLRyzwRBe4i_u9LcRnKTF5wluvw9gbDnE/rs:fit/g:sm/q:90/h:826/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MzMy/NjkxLTE2MjczMTMy/MDMtNzY2Ni5qcGVn.jpeg"
-    - "https://i.discogs.com/JSJh1_VGrKWtTuDne1qQEOXzV62pSbSJwUYM-2dBl_w/rs:fit/g:sm/q:90/h:606/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MzMy/NjkxLTE2MjUxNjU3/MDItMjA0MS5qcGVn.jpeg"
+    - "https://i.discogs.com/D-O7UctS5eSAg6S-TeYOJYaqI8bg5HtsswlzULEfOms/rs:fit/g:sm/q:90/h:600/w:435/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MzMy/NjkxLTE2MjczMTMy/MDMtNzY2Ni5qcGVn.jpeg"
+    - "https://i.discogs.com/3DKZq1WjyCijZC5gMKc8ef0XE6eMYaUdt1yIiGmR0AY/rs:fit/g:sm/q:90/h:600/w:593/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MzMy/NjkxLTE2MjUxNjU3/MDItMjA0MS5qcGVn.jpeg"
     - "https://i.discogs.com/zl4iWuGSB2AZWdD2gx27jijvPJqxU1ylyX-gRFnxOgY/rs:fit/g:sm/q:90/h:592/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MzMy/NjkxLTE2MjUxNjU3/MDItNjk3NS5qcGVn.jpeg"
+    - "https://i.discogs.com/Hn2DclDSWg1XOG5EOpWixLfZ-W8MGIBYhq4rMtbEz9w/rs:fit/g:sm/q:90/h:574/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MzMy/NjkxLTE2MjUxNjU3/MDEtMjE1OS5qcGVn.jpeg"
 genres: ["Rock"]
 styles: ["Thrash", "Post-Metal", "Progressive Metal"]
 ---
@@ -45,18 +46,8 @@ In 2021, record label Real Gone Music released the album on limited edition blue
 9. We Are Not Alone (4:26)
 
 
-## Spotify
-{{< spotify type="album" id="0EevA0t8Qcxh4TFLtBQPyo" width="100%" height="500" >}}<br>
 
 
-## Videos
-### Voivod the outer limits full album
-{{< youtube id="FoCfpkSpeH0" title="Voivod the outer limits full album" >}}<br>
-### More Videos
-
-- [Fix My Heart](https://www.youtube.com/watch?v=M_zTCrenWuw)
-- [We Are Not Alone](https://www.youtube.com/watch?v=3vVyPBUujOg)
-- [Le Pont Noir](https://www.youtube.com/watch?v=tbxwPnPA5yM)
 
 ## Release Images
 {{< imageGrid >}}
@@ -68,5 +59,5 @@ In 2021, record label Real Gone Music released the album on limited edition blue
 | Format         | Vinyl LP Album Limited Edition Reissue Repress (Red/Black Smoke) |
 | Label          | Real Gone Music |
 | Catalog Number | RGM-1320 |
-| Notes | Limited edition "Rocket Fire Red" with black smoke vinyl pressing.  CAT# on spine : RGM-1320  [Back cover] A Geffen Records release; 1993 2021 UMG Recordings, Inc.   Courtesy of Geffen Records under licence from Universal Music Enterprises, a division of UMG Recordings, Inc. Manufactured by Real Gone Music, 960 N. Tustin Street #393, Orange, CA 9286 |
+| Notes | Limited edition "Rocket Fire Red" with black smoke vinyl pressing. Issued with a double-sided printed innersleeve with lyrics.   CAT# on spine : RGM-1320  [Back cover] A Geffen Records release; 1993 2021 UMG Recordings, Inc.   Courtesy of Geffen Records under licence from Universal Music Enterprises, a division of UMG Recordings, Inc. Manufactured by Real Gone Music, 960 N. Tustin Street #393, Orange, CA 9286 |
 | Discogs URL    | [Voïvod - The Outer Limits](https://www.discogs.com/release/19332691-Voivod-The-Outer-Limits) |

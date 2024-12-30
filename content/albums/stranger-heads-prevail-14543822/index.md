@@ -14,7 +14,7 @@ cover:
 additional_images:
     - "https://i.discogs.com/_JHDXqqtxeGtyYJIQTaP40j1sBwAHxzxfkm5FKjMJto/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NTQz/ODIyLTE1NzY3Mjc1/ODItNzQ3MC5qcGVn.jpeg"
     - "https://i.discogs.com/pW1gX1vX2E1nXWAzXiEdNgCHe3Pb3zw0Kp4CL2CsRJM/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NTQz/ODIyLTE1NzY3Mjc1/OTQtODg5OC5qcGVn.jpeg"
-    - "https://i.discogs.com/9VJW3v3LnhClwqNi2pSWdjViyUG7AxEg8EnpUc9_Nh4/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NTQz/ODIyLTE1NzY3Mjc2/MDAtMjQ2My5qcGVn.jpeg"
+    - "https://i.discogs.com/QTVaAkZc9ccuEdl9-2W7iKRVjzcvRFs2irrb-8Qn7V8/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NTQz/ODIyLTE1NzY3Mjc2/MDAtMjQ2My5qcGVn.jpeg"
     - "https://i.discogs.com/NXTi-VzhXISFpu_kbLxqzotgI1x156mlkXFBgg1vxI4/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NTQz/ODIyLTE1NzY3Mjc2/MTEtMjUzMy5qcGVn.jpeg"
 genres: ["Jazz", "Rock"]
 styles: ["Prog Rock"]
@@ -43,12 +43,11 @@ Stranger Heads Prevail is the second album by progressive rock band Thank You Sc
 
 
 ## Videos
-### Stranger Heads Prevail — Thank You Scientist — [Jazz-Fusion] [Progressive Rock] [2016]
-{{< youtube id="df6lSXzv9lI" title="Stranger Heads Prevail — Thank You Scientist — [Jazz-Fusion] [Progressive Rock] [2016]" >}}<br>
+### Thank You Scientist - Mr. Invisible
+{{< youtube id="dv1ypynSLzY" title="Thank You Scientist - Mr. Invisible" >}}<br>
 ### More Videos
 
-- [Thank You Scientist - Mr. Invisible](https://www.youtube.com/watch?v=dv1ypynSLzY)
-- [Thank You Scientist - The Amateur Arsonist's Handbook](https://www.youtube.com/watch?v=B97Ifr9pPy4)
+- [Thank You Scientist - "The Amateur Arsonist's Handbook"](https://www.youtube.com/watch?v=B97Ifr9pPy4)
 - [Thank You Scientist - The Somnambulist (AUDIO ONLY)](https://www.youtube.com/watch?v=Ip9Edh6pwkM)
 - [Thank You Scientist - Prologue... A Faint Applause (AUDIO ONLY)](https://www.youtube.com/watch?v=OIwNiP0BeRc)
 - [Thank You Scientist - Psychopomp (AUDIO ONLY)](https://www.youtube.com/watch?v=LK8JgjNxumo)

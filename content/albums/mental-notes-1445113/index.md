@@ -44,17 +44,12 @@ Mental Notes is the debut studio album by New Zealand band Split Enz. The album 
 
 
 ## Videos
-### Split Enz - Stranger Than Fiction
-{{< youtube id="7T4bHxbR0vk" title="Split Enz - Stranger Than Fiction" >}}<br>
+### Split Enz - Late Last Night (Official Video)
+{{< youtube id="51ib_El-yh4" title="Split Enz - Late Last Night (Official Video)" >}}<br>
 ### More Videos
 
-- [Split Enz - Time For A Change 1975 (Mental Notes Version)](https://www.youtube.com/watch?v=IwM7xDNasbE)
-- [Split Enz - Mental Notes](https://www.youtube.com/watch?v=d80t_wzZq88)
-- [Split Enz Amy [Darling]](https://www.youtube.com/watch?v=2CWQ6EDZGYc)
-- [Split Enz - Under The Wheel](https://www.youtube.com/watch?v=khPvE9JMg5A)
-- [Split Enz - Maybe](https://www.youtube.com/watch?v=psadmPirqpo)
-- [Split Enz - Spellbound](https://www.youtube.com/watch?v=m4E-jGjPgAM)
-- [Split Enz - So Long For Now](https://www.youtube.com/watch?v=rmGxjnml4yQ)
+- [Split Enz - Lovey Dovey (Official Video)](https://www.youtube.com/watch?v=66s967Qx0dM)
+- [Split Enz - Sweet Dreams (Official Video)](https://www.youtube.com/watch?v=we9XmUzmMlc)
 
 ## Release Images
 {{< imageGrid >}}

@@ -16,14 +16,14 @@ additional_images:
     - "https://i.discogs.com/wcqahqFOMUpZERdCFdFOlE9q--N6DBvw1bUmRRk9xh8/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc3MjA2/NTctMTQ1ODQwMzgy/OC0zMDY4LmpwZWc.jpeg"
     - "https://i.discogs.com/DYMGFe6-oPEMw1oc_sdaMnsND3g2pEsbrtL0omXMoCQ/rs:fit/g:sm/q:90/h:384/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc3MjA2/NTctMTQ0NzQzMDIw/MC02NzE1LmpwZWc.jpeg"
     - "https://i.discogs.com/qUmgGOEFm6dry9tvk8XcUiEpHHZ6CsG0GcztKgKdQBs/rs:fit/g:sm/q:90/h:583/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc3MjA2/NTctMTUyNTAxOTEz/MS05MDQ4LmpwZWc.jpeg"
-    - "https://i.discogs.com/LntSTbAk0QJd6fIeg6WQvwT2CgroS2D33RxdCXft-oQ/rs:fit/g:sm/q:90/h:623/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc3MjA2/NTctMTUyNTAxOTEz/MC01MTU2LmpwZWc.jpeg"
-    - "https://i.discogs.com/dy9ADmH65qkhyqPP0IzWAWfxCQHXWDZ1-PEJreOWmZI/rs:fit/g:sm/q:90/h:617/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc3MjA2/NTctMTUyNTAxOTEz/MC01NTIwLmpwZWc.jpeg"
-    - "https://i.discogs.com/XLezqOdBMmhYNQRrb-fmUKHguzRd435uKPoAIuDrWQU/rs:fit/g:sm/q:90/h:613/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc3MjA2/NTctMTUyNTAxOTEz/Ni01MDkzLmpwZWc.jpeg"
-    - "https://i.discogs.com/5GzEuzFme7GZxNKrx_SE4viSWBPqV-BmcgAhkCzR7Nw/rs:fit/g:sm/q:90/h:603/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc3MjA2/NTctMTUyNTAxOTEz/Mi02NDUwLmpwZWc.jpeg"
+    - "https://i.discogs.com/thub51t3BCvdjODLKZ6zH77juCFChWTtm9WXUAssMDE/rs:fit/g:sm/q:90/h:600/w:577/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc3MjA2/NTctMTUyNTAxOTEz/MC01MTU2LmpwZWc.jpeg"
+    - "https://i.discogs.com/zjpq2n3sofWiexGy7ljG7QukyvlVvMhtGbDd3-thq74/rs:fit/g:sm/q:90/h:600/w:582/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc3MjA2/NTctMTUyNTAxOTEz/MC01NTIwLmpwZWc.jpeg"
+    - "https://i.discogs.com/-nzBRqQpV3iNOM0KeuakCh3YEFgLcZ-6H9Oqi5DGmx4/rs:fit/g:sm/q:90/h:600/w:586/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc3MjA2/NTctMTUyNTAxOTEz/Ni01MDkzLmpwZWc.jpeg"
+    - "https://i.discogs.com/ATvtCqTenxiuqAlGQDerASxzczMbt1Prgh9A5604Vps/rs:fit/g:sm/q:90/h:600/w:596/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc3MjA2/NTctMTUyNTAxOTEz/Mi02NDUwLmpwZWc.jpeg"
     - "https://i.discogs.com/49I-CSKS_B4R1m2pf5sKVrekktbN10IVCvp0ydaOriU/rs:fit/g:sm/q:90/h:584/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc3MjA2/NTctMTUyNTAxOTEz/Mi0zNDQ5LmpwZWc.jpeg"
-    - "https://i.discogs.com/phE2WMN_HSTRFq9_YgV0BTn3bTzRf5J27p0Z5Yw_mO8/rs:fit/g:sm/q:90/h:619/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc3MjA2/NTctMTUyNTAxODIx/Ni00NTM1LmpwZWc.jpeg"
+    - "https://i.discogs.com/DMJMk5YbWYcpgRjIVpV-EV8h0rv0aBhMY9aduutdvSQ/rs:fit/g:sm/q:90/h:600/w:580/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc3MjA2/NTctMTUyNTAxODIx/Ni00NTM1LmpwZWc.jpeg"
     - "https://i.discogs.com/Bg1FFHRXrTCZL4yodfEiS5lkVmQrZ0z9qM7QmJ9UHmc/rs:fit/g:sm/q:90/h:593/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc3MjA2/NTctMTUyNTAxODIx/Ny03MzYwLmpwZWc.jpeg"
-    - "https://i.discogs.com/fSlzMAlOhyUimi3shcoz7L8tx52Y6MCzVVFfjbhHbdw/rs:fit/g:sm/q:90/h:609/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc3MjA2/NTctMTUyNTAxODIx/Ny01MTgzLmpwZWc.jpeg"
+    - "https://i.discogs.com/SClx2DSAUGO94XSLHRer8PuemZsjZMFB5tbZbOzAzOs/rs:fit/g:sm/q:90/h:600/w:590/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc3MjA2/NTctMTUyNTAxODIx/Ny01MTgzLmpwZWc.jpeg"
     - "https://i.discogs.com/hPcH_plw1fZuWcxprc_VY-U7IfB1spDDANLyWJQuJHs/rs:fit/g:sm/q:90/h:588/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc3MjA2/NTctMTUyNTAxODIx/Ny03Njc1LmpwZWc.jpeg"
 genres: ["Rock", "Pop", "Folk, World, & Country"]
 styles: []
@@ -50,7 +50,9 @@ styles: []
 ## Videos
 ### The Blacklist: Music From The Television Series LP RSD 2016 UNBOXING
 {{< youtube id="jv-Tymtpj3o" title="The Blacklist: Music From The Television Series LP RSD 2016 UNBOXING" >}}<br>
+### More Videos
 
+- [The Blacklist: Music From The Television Series LP RSD 2016 UNBOXING](https://www.youtube.com/watch?v=jv-Tymtpj3o)
 
 ## Release Images
 {{< imageGrid >}}

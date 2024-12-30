@@ -17,19 +17,24 @@ genres: ["Rock"]
 styles: ["Pop Rock"]
 ---
 
+Drive is the second studio album by Anneke van Giersbergen, released in the Benelux Union on 23 September 2013 and internationally on 15 October.
+
+
+    
+    
 
 
 ## Tracklisting
-1. We Live On (03:41)
-2. Treat Me Like A Lady (04:00)
-3. She (03:08)
-4. Drive (03:43)
-5. My Mother Said (03:21)
-6. Forgive Me (03:11)
-7. You Will Never Change (04:03)
-8. Mental Jungle (03:44)
-9. Shooting For The Stars (04:33)
-10. The Best Is Yet To Come (04:04)
+1. We Live On (3:41)
+2. Treat Me Like A Lady (4:00)
+3. She (3:08)
+4. Drive (3:43)
+5. My Mother Said (3:21)
+6. Forgive Me (3:11)
+7. You Will Never Change (4:03)
+8. Mental Jungle (3:44)
+9. Shooting For The Stars (4:33)
+10. The Best Is Yet To Come (4:04)
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/drive/1045638252" >}}<br>
@@ -46,6 +51,7 @@ styles: ["Pop Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
+| Wikipedia URL | https://en.wikipedia.org/wiki/Drive_(Anneke_van_Giersbergen_album) |
 | Format         | Vinyl LP Album Limited Edition |
 | Label          | Alone Records (2) |
 | Catalog Number | AR-058LP |

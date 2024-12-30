@@ -4,6 +4,7 @@ artist_name: "Elliott Smith"
 artist: "elliott-smith"
 album_name: "Figure 8"
 date: 2017-04-09T19:10:14.000000Z
+release_date: "2000-04-18"
 release_id: "8843169"
 slug: "figure-8-8843169"
 hideSummary: true
@@ -14,8 +15,8 @@ cover:
 additional_images:
     - "https://i.discogs.com/GuVMNp0z5kLRmHWgU-X68Fg6_4HiAKPCTaLbzlhrXxs/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg4NDMx/NjktMTQ3NDgyMDky/OC03NDYwLmpwZWc.jpeg"
     - "https://i.discogs.com/UKsObPWRLn_cuBLY0If-OjkGegY2QMMdvbTefLVj_Ag/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg4NDMx/NjktMTQ3NDgyMDky/OS00MTAyLmpwZWc.jpeg"
-    - "https://i.discogs.com/GIPtH0amPmt0zflr_YW9eJSJGShkEcVzXcfyeqdVdyQ/rs:fit/g:sm/q:90/h:602/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg4NDMx/NjktMTQ3NDgyMDkz/MS00NTMxLmpwZWc.jpeg"
-    - "https://i.discogs.com/_KWTdDpw-eEcin4oosMRT4l7cxeVyLOFB6JE_brDX3o/rs:fit/g:sm/q:90/h:601/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg4NDMx/NjktMTQ3NDgyMDkz/Mi00MDIzLmpwZWc.jpeg"
+    - "https://i.discogs.com/vN_X1F4H0z7iFCUBjsciPrA3pEskU22Fc5tG86A5Dlk/rs:fit/g:sm/q:90/h:600/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg4NDMx/NjktMTQ3NDgyMDkz/MS00NTMxLmpwZWc.jpeg"
+    - "https://i.discogs.com/ZtAClVxzZVY2ADQ39KSb5dNucWE8egv8ORORzkizYP0/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg4NDMx/NjktMTQ3NDgyMDkz/Mi00MDIzLmpwZWc.jpeg"
     - "https://i.discogs.com/e-WxOMj_l_WAGi9AnIR6u_nmLI3_oNWFxqgh4IXOkJo/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg4NDMx/NjktMTQ3NDgyMDkz/NC0yMTc4LmpwZWc.jpeg"
     - "https://i.discogs.com/_kI8Qz1SIdsyarP23QgWhcoP--92pNmHbyt-hx3Sjiw/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg4NDMx/NjktMTQ3NDgyMDkz/NS0yODA0LmpwZWc.jpeg"
     - "https://i.discogs.com/j2H3UIKrN7Kw7pKOB018sySVIC7KPYqx3X4opayOmuA/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg4NDMx/NjktMTQ3NDgyMDkz/Ny02NDgyLmpwZWc.jpeg"
@@ -25,8 +26,13 @@ genres: ["Rock", "Folk, World, & Country"]
 styles: ["Acoustic", "Indie Rock"]
 ---
 
-Figure 8 is the fifth studio album by American singer-songwriter Elliott Smith, and the final studio album released during his lifetime. It was recorded from 1998 to 2000 at numerous studios and released on April 18, 2000, through DreamWorks Records. Preceded by the singles "Happiness" and "Son of Sam", Figure 8 was Smith's second release on a major label.
-    
+Success hadn’t been easy for Elliott Smith: What had begun as a casual self-recording project had, in just five years, turned Smith into the sad-eyed singer-songwriter wearing the white suit at the Oscars, and hobnobbing with Celine Dion and Jack Nicholson. But there were also breakups, addictions, interventions and accidents that may have been suicide attempts—all real-life manifestations of the darkness in Smith’s songs that, in turn, drove <i>more</i> dark songs. All of which were no doubt weighing on the singer as he began work on his second major-label album.
+
+Released in 2000, just three years before Smith’s death, <i>Figure 8</i> is a complicated collection, an album that captures the singer’s contradictory feelings about his past and present, as well as his encyclopedic enthusiasm for rock’s glory days. It’s an album in which a lightly sparkling tune like “L.A.”—an ode to stepping back from the brink of the abyss and stepping into sunshine—can sit right next to the tender and heartbreaking “Everything Means Nothing to Me” (Smith sculpted that song’s crystalline structure at a piano as blood dripped down his arm; he’d just carved the word “NOW” into his skin, to protest his record label’s worries about his future). That sort of emotional back-and-forth can be found throughout <i>Figure 8</i>: The wry self-loathing of “Wouldn’t Mama Be Proud?” is followed by the grim persistence of “Color Bars”, and the future ache of “Better Be Quiet Now” is featured alongside the defeated “Can’t Make a Sound”.
+
+Smith talked about <i>Figure 8</i> as a dream diary, or a sequence of “little movies”. The rock wallop of “Son of Sam” gives way to the acoustic grace of “Somebody That I Used to Know”, while the crackling despair of “Stupidity Tries” sets up the string-swept plea of “Easy Way Out”. He never sits still for more than a few minutes, gliding among styles as though the act of recording was a carousel. <i>Figure 8</i>, then, can feel vertiginous and restless. But it’s also the unmitigated transmission of a feverish mind trying to counter pain by making something beautiful and giving it away. Though <i>Figure 8</i> would prove to be Smith’s final finished album, it’s the sound of a true musical zealot as he tries to map his mind in the studio.
+        
+        
     
 
 

@@ -24,6 +24,11 @@ genres: ["Rock"]
 styles: ["Alternative Rock", "Acoustic", "Psychedelic Rock", "Folk Rock"]
 ---
 
+Gather Up the Chaps is the second studio album by the Chicago-based punk rock supergroup The Falcon which was released by Red Scare Industries on March 18, 2016, almost ten years after their debut album Unicornography.
+
+
+    
+    
 
 
 ## Tracklisting
@@ -67,8 +72,9 @@ styles: ["Alternative Rock", "Acoustic", "Psychedelic Rock", "Folk Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
+| Wikipedia URL | https://en.wikipedia.org/wiki/Gather_Up_the_Chaps |
 | Format         | Vinyl 2× LP Compilation Limited Edition (Red) |
 | Label          | Acid Jazz |
 | Catalog Number | AJX2LP605 |
 | Notes | Gatefold sleeve |
-| Discogs URL    | [Matt Berry - Gather Up](https://www.discogs.com/release/21118603-Matt-Berry-Gather-Up) |
+| Discogs URL    | [Matt Berry - Gather Up](https://www.discogs.com/release/21118603-Matt-Berry-3-Gather-Up) |

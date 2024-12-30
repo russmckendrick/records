@@ -17,7 +17,7 @@ genres: ["Rock"]
 styles: ["Alternative Rock", "Indie Rock"]
 ---
 
-Come on Feel the Lemonheads is the sixth studio album by American alternative rock band the Lemonheads. It was released on October 12, 1993. Produced by The Robb Brothers, the band lineup consisted of Evan Dando (lead vocals, guitar), Nic Dalton (bass guitar) and David Ryan (drums), along with former bassist Juliana Hatfield singing backing vocals on several tracks.  The album was written by Dando and his songwriting partner Tom Morgan. Following the success of their prior album, It's a Shame About Ray, the band had attracted considerable media attention as alternative rock darlings, and some big-name guest musicians appeared on the album as well, including the Go-Go's lead singer Belinda Carlisle and funk musician Rick James. The song "Into Your Arms", a cover version of a song written and recorded previously by Dalton's former band, became the Lemonheads' biggest charting hit.
+Come on Feel the Lemonheads is the sixth studio album by the American alternative rock band the Lemonheads. It was released on October 12, 1993. Produced by The Robb Brothers, the band lineup consisted of Evan Dando (lead vocals, guitar), Nic Dalton (bass guitar) and David Ryan (drums), along with former bassist Juliana Hatfield singing backing vocals on several tracks.  The album was written by Dando and his songwriting partner Tom Morgan. Following the success of their prior album, It's a Shame About Ray, the band had attracted considerable media attention as alternative rock darlings, and some big-name guest musicians appeared on the album as well, including the Go-Go's lead singer Belinda Carlisle and funk musician Rick James. The song "Into Your Arms", a cover version of a song written and recorded previously by Dalton's former band, became the Lemonheads' biggest charting hit.
     
     
 
@@ -44,10 +44,12 @@ Come on Feel the Lemonheads is the sixth studio album by American alternative ro
 
 
 ## Videos
-### The Lemonheads - Down About It - Come on Feel the Lemonheads [1993]
-{{< youtube id="66dq0FIQO8c" title="The Lemonheads - Down About It - Come on Feel the Lemonheads [1993]" >}}<br>
+### The Lemonheads - Come On Feel The Lemonheads (Full Album - 30th Anniversary Edition)
+{{< youtube id="NMDpZZglra0" title="The Lemonheads - Come On Feel The Lemonheads (Full Album - 30th Anniversary Edition)" >}}<br>
 ### More Videos
 
+- [The Lemonheads - It's About Time](https://www.youtube.com/watch?v=_OVy1Q-O4wM)
+- [The Lemonheads - Down About It - Come on Feel the Lemonheads [1993]](https://www.youtube.com/watch?v=66dq0FIQO8c)
 - [The Lemonheads - Into Your Arms (Lyrics)](https://www.youtube.com/watch?v=Kt-lmyQG6GI)
 - [The Lemonheads - Big gay heart](https://www.youtube.com/watch?v=wnxTjW8MBlc)
 - [The Lemonheads - Into Your Arms](https://www.youtube.com/watch?v=ZhlJCQH7-SQ)

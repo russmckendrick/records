@@ -4,6 +4,7 @@ artist_name: "MF Doom"
 artist: "mf-doom"
 album_name: "MM..Food"
 date: 2024-11-16T08:47:59.000000Z
+release_date: "2004-11-16"
 release_id: "32298090"
 slug: "mm-food-32298090"
 hideSummary: true
@@ -20,10 +21,11 @@ genres: ["Hip Hop"]
 styles: ["Conscious", "Jazzy Hip-Hop", "Boom Bap"]
 ---
 
-Mm..Food is the fifth studio album by British-American rapper and producer MF Doom, released through Rhymesayers on 16 November, 2004. The album peaked at number 17 on Billboard's Independent Albums chart, and number 9 on Heatseekers Albums chart. The title Mm..Food is an anagram of "MF Doom".
-
-
-    
+By the time Daniel Dumile dropped this, his second proper MF DOOM album, he was already an underground legend. Part of that was his surreal origin story—after tragedy derailed his ’90s rap career, Dumile returned metal-masked and seeking revenge against the industry that wronged him. But most of his rep came from raw talent: a tumble of clever rhyme schemes and punchlines set to a loping score of rough-cut jazz loops and vintage film snippets. While his cachet would carry DOOM into collabs with members of Radiohead, Wu-Tang and even <I>Aqua Teen Hunger Force</I>, <I>MM...Food</I> finds him in the early days of his crossover appeal, totally ignoring his own hype. While many concept albums lean toward the esoteric or idea-stuffed, this one is built on an almost tauntingly basic conceit: throw DOOM a topic (food) and watch the wordplay go. <br />
+On opener “Beef Rapp”, he delves into the mortal dangers of, well, rap beef: “I suggest you change your diet/It can lead to high blood pressure if you fry it.” And “Hoe Cakes” toys with another hip-hop trope—dastardly deeds done after dark. But lest you think the culinary connections are all easily parsed, try “Potholderz” on for size: DOOM finds at least four meanings for these kitchen aids, casting them in one instance as tools that help him cook up and cannibalise lesser MCs. <br />
+Metal Fingers flexes his producer skills, too, packing the album’s midsection with jaunty sound collages that use Fat Albert and Frank Zappa samples to extend the edible metaphor. But nothing beats hearing DOOM croon his best/worst Cole Porter impression over a Madlib track, then binge-rap a two-minute verse inspired by beer. </I>MM...Food</I> captures Dumile at his most unburdened, making these songs as nourishing as they are fun.
+        
+        
     
 
 
@@ -48,7 +50,15 @@ Mm..Food is the fifth studio album by British-American rapper and producer MF Do
 {{< applemusic url="https://music.apple.com/gb/album/mm-food/1516750770" >}}<br>
 
 
+## Videos
+### MF DOOM - Vomitspit (Official Video)
+{{< youtube id="_JUpTOFJUTU" title="MF DOOM - Vomitspit (Official Video)" >}}<br>
+### More Videos
 
+- [MF DOOM - One Beer (Official Video)](https://www.youtube.com/watch?v=h69FSgua80A)
+- [MF DOOM - Hoe Cakes (Official Audio)](https://www.youtube.com/watch?v=Mv6kY_-zt-4)
+- [MF DOOM - Deep Fried Frenz (Official Audio)](https://www.youtube.com/watch?v=BjoULuCVQiw)
+- [MF DOOM - Beef Rapp (Official Audio)](https://www.youtube.com/watch?v=XvKDFX00tsU)
 
 ## Release Images
 {{< imageGrid >}}

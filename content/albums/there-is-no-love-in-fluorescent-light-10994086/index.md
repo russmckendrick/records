@@ -19,6 +19,8 @@ styles: ["Indie Rock", "Indie Pop", "Alternative Rock"]
 ---
 
 There Is No Love in Fluorescent Light is the eighth studio album by Canadian band Stars. It is the follow-up album to No One Is Lost, in 2014. It was released on October 13, 2017.
+
+
     
     
 
@@ -42,21 +44,21 @@ There Is No Love in Fluorescent Light is the eighth studio album by Canadian ban
 
 
 ## Videos
-### Privilege
-{{< youtube id="Q1-jaX3K4Ik" title="Privilege" >}}<br>
+### "Privilege" (Official Audio) by Stars
+{{< youtube id="mUAoB5WYdLA" title=""Privilege" (Official Audio) by Stars" >}}<br>
 ### More Videos
 
-- [We Called It Love](https://www.youtube.com/watch?v=YJwmEFm_tpg)
-- [Hope Avenue](https://www.youtube.com/watch?v=aipv5iARLhk)
-- [California, I Love That Name](https://www.youtube.com/watch?v=kYVuPoupRkg)
-- [Stars - Real Thing (Official Audio)](https://www.youtube.com/watch?v=xm-vMmgKL68)
+- [Stars - Fluorescent Light (Official Audio)](https://www.youtube.com/watch?v=2HJBkVsUNps)
 - [Losing To You](https://www.youtube.com/watch?v=lPYmAYU5Nug)
-- [On The Hills](https://www.youtube.com/watch?v=NfouphCLeUM)
-- [The Gift Of Love](https://www.youtube.com/watch?v=YBu_ZuZyyhU)
+- [Hope Avenue](https://www.youtube.com/watch?v=aipv5iARLhk)
 - [Stars - Alone (Official Audio)](https://www.youtube.com/watch?v=k3V-CQI5OiQ)
-- [Wanderers](https://www.youtube.com/watch?v=Sr5i0Ej2Ofg)
-- [Fluorescent Light](https://www.youtube.com/watch?v=UItCDy8ARYA)
+- [We Called It Love](https://www.youtube.com/watch?v=YJwmEFm_tpg)
+- [Stars - Real Thing (Official Audio)](https://www.youtube.com/watch?v=xm-vMmgKL68)
+- [The Gift Of Love](https://www.youtube.com/watch?v=YBu_ZuZyyhU)
+- [On The Hills](https://www.youtube.com/watch?v=NfouphCLeUM)
 - [The Maze](https://www.youtube.com/watch?v=LVhpxarz6k0)
+- [California, I Love That Name](https://www.youtube.com/watch?v=kYVuPoupRkg)
+- [Wanderers](https://www.youtube.com/watch?v=Sr5i0Ej2Ofg)
 
 ## Release Images
 {{< imageGrid >}}

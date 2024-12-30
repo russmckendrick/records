@@ -13,6 +13,7 @@ cover:
     caption: "Deep South Blues by The Mississippi Moons"
 additional_images:
     - "https://i.discogs.com/i6q4tM52MddqV3nW9z4nqTr-tzpOqHUZnkd6xRtqkJs/rs:fit/g:sm/q:90/h:472/w:450/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQwMjU2/ODQtMTM5MDM5MDQw/My05NzA5LmpwZWc.jpeg"
+    - "https://i.discogs.com/fNhc4kHUStS2dr2DeHG--JUZRRf6ybYF5pNRXpqKJXQ/rs:fit/g:sm/q:90/h:566/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQwMjU2/ODQtMTcxMjY4MzI2/Ni0yNTI1LmpwZWc.jpeg"
 genres: ["Jazz", "Blues"]
 styles: []
 ---
@@ -31,6 +32,8 @@ styles: []
 9. Down Home Rag
 10. Farewell Blues
 
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/the-preachers-wife-original-soundtrack-album/267929798" >}}<br>
 
 
 
@@ -41,7 +44,7 @@ styles: []
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl LP |
+| Format         | Vinyl LP (Saga label.) |
 | Label          | Presto |
 | Catalog Number | PRE 629 |
 | Notes | Sleeve says PRESTO, but label on record is SAGA. Both own by manufacture. Manufactured by Allied Records Ltd. 127 Kensal Road / London W.10 |

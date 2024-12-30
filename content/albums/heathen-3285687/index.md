@@ -23,10 +23,12 @@ genres: ["Rock"]
 styles: ["Art Rock", "Alternative Rock"]
 ---
 
-Heathen (stylised as uǝɥʇɐǝɥ) is the 23rd studio album by English musician David Bowie, originally released in Europe on 10 June 2002, and the following day in America. His first release through his own ISO label, it reunited Bowie with producer Tony Visconti for the two's first full-album collaboration since 1980. Recording took place at New York studios from August 2001 to January 2002 and featured guest musicians, including Dave Grohl and Pete Townshend. Two tracks, "Afraid" and "Slip Away", evolved from Bowie's shelved Toy project, while three were covers of songs by Pixies, Neil Young and the Legendary Stardust Cowboy.
+Heathen (stylised upside down and in lowercase) is the twenty-third studio album by the English musician David Bowie, originally released in Europe on 10 June 2002, and the following day in America. His first release through his own ISO label, it reunited Bowie with the producer Tony Visconti for the two's first full-album collaboration since 1980. Recording took place at New York studios from August 2001 to January 2002 and featured guest musicians including Dave Grohl and Pete Townshend. Two tracks, "Afraid" and "Slip Away", evolved from Bowie's shelved Toy project, while three were covers of songs by Pixies, Neil Young and the Legendary Stardust Cowboy.
 Musically, Heathen displays an art rock and art pop sound reminiscent of Bowie's 1970s works. The spiritual lyrics, reflected in the artwork and packaging, were based on his accumulated feelings of dread, thoughts on ageing and hopes for a better future for his newborn daughter. Commentators interpreted some tracks, particularly "Sunday" and "Slow Burn", as partial responses to the September 11 attacks, although Bowie denied any influence.
-Boosted by a vast marketing campaign and promotional appearances, Heathen reached number five in the United Kingdom and became his highest charting album in the United States since 1984, reaching number 14. The single "Everyone Says 'Hi'" reached number 20 in the UK. Bowie supported the album on the Heathen Tour throughout mid-2002, performing Heathen in its entirety at several shows.
-Heathen represented a creative and commercial resurgence for Bowie following a period of experimentation in the 1990s. It was his most well-received album in years, being praised as a return to form and his best since Scary Monsters. His biographers have commended Bowie's ability to update his older sound for a modern setting and recognise it as one of the finest of his later career.
+Boosted by a vast marketing campaign and promotional appearances, Heathen reached number five in the United Kingdom and became his highest-charting album in the United States since 1984, reaching number 14. The single "Everyone Says 'Hi'" reached number 20 in the UK. Bowie supported the album on the Heathen Tour throughout mid-2002, performing Heathen in its entirety at several shows.
+Heathen represented a creative and commercial resurgence for Bowie following a period of experimentation in the 1990s. It was his most well-received album in years, being praised as a return to form and his best since Scary Monsters (1980). His biographers have commended Bowie's ability to update his older sound for a modern setting and recognise it as one of the finest of his later career.
+
+
     
     
 
@@ -49,7 +51,13 @@ Heathen represented a creative and commercial resurgence for Bowie following a p
 {{< applemusic url="https://music.apple.com/gb/album/heathen/1677228660" >}}<br>
 
 
+## Videos
+### Heathen (The Rays)
+{{< youtube id="6V_Sqv0qolw" title="Heathen (The Rays)" >}}<br>
+### More Videos
 
+- [Sunday](https://www.youtube.com/watch?v=8IWjDoR_Qfc)
+- [Slip Away](https://www.youtube.com/watch?v=ACU6xzNnuUg)
 
 ## Release Images
 {{< imageGrid >}}

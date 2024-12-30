@@ -13,12 +13,12 @@ cover:
     caption: "The Fun Boy Three by Fun Boy Three"
 additional_images:
     - "https://i.discogs.com/7Bf3OZF4qEibqxBFV02bgvx1LJMi6rQQCTI0lhzSoXI/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3ODcy/MTc4LTE2OTExNDc1/MjctMzIxOC5qcGVn.jpeg"
-    - "https://i.discogs.com/2yWIp2JmINSGHyecJ79UpUs62fb8RDlmVD10y25rZNc/rs:fit/g:sm/q:90/h:613/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3ODcy/MTc4LTE2OTExNDc1/MjctNTI1MC5qcGVn.jpeg"
+    - "https://i.discogs.com/XsV-7btaWAB773VlEE7MFhXGMAct6ruQAdP8kBP-SQo/rs:fit/g:sm/q:90/h:600/w:586/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3ODcy/MTc4LTE2OTExNDc1/MjctNTI1MC5qcGVn.jpeg"
     - "https://i.discogs.com/D_BtRQbyu4x1MMi34m6MJ0GimLS_ihnmi9QambNCIow/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3ODcy/MTc4LTE2OTExNDc1/MjctOTQyMS5qcGVn.jpeg"
     - "https://i.discogs.com/HVjVEFsNvZTFB6V7TwBTxQWcAFMkur1SKeFVIAh5JaY/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3ODcy/MTc4LTE2OTExNDc1/MjgtNDY2NC5qcGVn.jpeg"
     - "https://i.discogs.com/GCbQbC7g2nHHoZN1htQ8LZGlJQCQmt3hgjCtZj0JfpU/rs:fit/g:sm/q:90/h:264/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3ODcy/MTc4LTE2OTExNDc1/MjctNDI1OS5qcGVn.jpeg"
-genres: ["Rock"]
-styles: ["Pop Rock"]
+genres: ["Rock", "Pop"]
+styles: ["Pop Rock", "New Wave", "Ska"]
 ---
 
 
@@ -37,17 +37,21 @@ styles: ["Pop Rock"]
 11. Alone
 
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/the-very-best-of-the-specials-and-fun-boy/155784049" >}}<br>
+{{< applemusic url="https://music.apple.com/gb/album/the-complete-fun-boy-three/1660766808" >}}<br>
 
 
 ## Videos
-### Fun Boy Three - summertime
-{{< youtube id="eoJDXI0HPjA" title="Fun Boy Three - summertime" >}}<br>
+### Fun Boy Three - The Lunatics Have Taken Over The Asylum (Official Music Video)
+{{< youtube id="on-y9Pv-CJA" title="Fun Boy Three - The Lunatics Have Taken Over The Asylum (Official Music Video)" >}}<br>
 ### More Videos
 
-- [Fun Boy Three - It Ain't What You Do It's The Way That You Do It](https://www.youtube.com/watch?v=0_kjctTbMHA)
 - [Funrama 2](https://www.youtube.com/watch?v=sSD93kA2xPU)
+- [The FUN BOY THREE – The Fun Boy Three – 1982 – Full album [Vinyl]](https://www.youtube.com/watch?v=OhmqmCytUPU)
+- [faith hope & charity](https://www.youtube.com/watch?v=ASx_aPbVJDM)
+- [BANANARAMA Ft. FB3-It Ain't What You Do... (dgm's FB3 album mix)](https://www.youtube.com/watch?v=P8JBgqrW18E)
 - [Fun Boy Three - The Lunatics Have Taken Over the Asylum](https://www.youtube.com/watch?v=7aItpjF5vXc)
+- [Fun Boy Three. It Ain't What You Do (It's The Way That You Do It).](https://www.youtube.com/watch?v=4o0r9unT4L4)
+- [Fun Boy Three - It Ain't What You Do It's The Way That You Do It](https://www.youtube.com/watch?v=0_kjctTbMHA)
 - [Fun Boy Three - The Lunatics Have Taken Over The Asylum](https://www.youtube.com/watch?v=on-y9Pv-CJA)
 - [Fun Boy Three - The Telephone Always Rings (Official Video)](https://www.youtube.com/watch?v=j5nH3iYfYh8)
 - [Fun Boy Three - best of luck mate](https://www.youtube.com/watch?v=c1aNpGFtgWA)
@@ -55,10 +59,7 @@ styles: ["Pop Rock"]
 - [Fun Boy Three - way on down](https://www.youtube.com/watch?v=hYuD4W-uEFo)
 - [Fun Boy Three - life in general](https://www.youtube.com/watch?v=eCSB7vyIqk0)
 - [Fun Boy Three - the end](https://www.youtube.com/watch?v=JoKiePSYWb4)
-- [faith hope & charity](https://www.youtube.com/watch?v=ASx_aPbVJDM)
-- [Fun Boy Three - The Lunatics Have Taken Over The Asylum (1981) (HD)](https://www.youtube.com/watch?v=Ycx3mFZRP2s)
-- [Fun Boy Three. It Ain't What You Do (It's The Way That You Do It).](https://www.youtube.com/watch?v=4o0r9unT4L4)
-- [BANANARAMA Ft. FB3-It Ain't What You Do... (dgm's FB3 album mix)](https://www.youtube.com/watch?v=P8JBgqrW18E)
+- [Fun Boy Three - summertime](https://www.youtube.com/watch?v=eoJDXI0HPjA)
 
 ## Release Images
 {{< imageGrid >}}

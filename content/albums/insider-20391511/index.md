@@ -12,20 +12,18 @@ cover:
     alt: "Insider by Amplifier"
     caption: "Insider by Amplifier"
 additional_images:
-    - "https://i.discogs.com/kg2z9h0aQFY6zDIwcucKeWE4ztqALe81L3kntmYHRBI/rs:fit/g:sm/q:90/h:624/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMzkx/NTExLTE2MzI3NzM5/MjktOTE5NC5qcGVn.jpeg"
-    - "https://i.discogs.com/UDOkHLy5Yslk-1JSgsOE1Q-MF5n9PpQkzxhERP6QY8w/rs:fit/g:sm/q:90/h:604/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMzkx/NTExLTE2MzI3NzM5/MjUtMTU4NC5qcGVn.jpeg"
-    - "https://i.discogs.com/wcOtaSA2CF2AGyS_WIlw5sgbc5P8cPDTKyiNum27m0s/rs:fit/g:sm/q:90/h:1170/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMzkx/NTExLTE2MzI3NzM5/MjktNTM3My5qcGVn.jpeg"
-    - "https://i.discogs.com/WIMhKct_QAr-vPvHEct6bvS32MEPDWUupY3kPcHl4HA/rs:fit/g:sm/q:90/h:1200/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMzkx/NTExLTE2MzI3NzM5/MjctOTc3NC5qcGVn.jpeg"
-    - "https://i.discogs.com/k_ZfyyRFR2zQF8dmAaxI-dVWQP29c1limCGPg-Uv7pw/rs:fit/g:sm/q:90/h:1216/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMzkx/NTExLTE2MzI3NzM5/MjgtOTMyMy5qcGVn.jpeg"
-    - "https://i.discogs.com/6XIDB6Prp0d3mamRLrYb9T_U5Z8mPeZbsb2j_9_4sTU/rs:fit/g:sm/q:90/h:617/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMzkx/NTExLTE2MzI3NzM5/MjgtOTkyNC5qcGVn.jpeg"
+    - "https://i.discogs.com/Rq65ex41MV29VfS4uSgwoBu_KHAbi3gZ3K4AxKYPWfg/rs:fit/g:sm/q:90/h:600/w:576/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMzkx/NTExLTE2MzI3NzM5/MjktOTE5NC5qcGVn.jpeg"
+    - "https://i.discogs.com/xayCkfT4BOkqUCJN3eJ610TfllstbcjeMr-qKzKjTHM/rs:fit/g:sm/q:90/h:600/w:595/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMzkx/NTExLTE2MzI3NzM5/MjUtMTU4NC5qcGVn.jpeg"
+    - "https://i.discogs.com/fVw2rnIdVSMjYzoplZEKtWnqMxda54D6EJzXAvMX9Lk/rs:fit/g:sm/q:90/h:600/w:307/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMzkx/NTExLTE2MzI3NzM5/MjktNTM3My5qcGVn.jpeg"
+    - "https://i.discogs.com/T13X5Z_Tx_foAt6F_CxyAf8oLx0DTtR9SiO8zjiuR3g/rs:fit/g:sm/q:90/h:600/w:299/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMzkx/NTExLTE2MzI3NzM5/MjctOTc3NC5qcGVn.jpeg"
+    - "https://i.discogs.com/iltLw3mPPDl8SdpyW-2e1xKzKw1dz1ao42gn_6HMqpg/rs:fit/g:sm/q:90/h:600/w:295/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMzkx/NTExLTE2MzI3NzM5/MjgtOTMyMy5qcGVn.jpeg"
+    - "https://i.discogs.com/zTcSbxbdDyH_PPyWJYLpmKBnwhvV7VslcXpiV0BZMSs/rs:fit/g:sm/q:90/h:600/w:583/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMzkx/NTExLTE2MzI3NzM5/MjgtOTkyNC5qcGVn.jpeg"
     - "https://i.discogs.com/M8NYd668GUmGuMHZeq2NfdMGx2AecgUI8ue20UI_F2g/rs:fit/g:sm/q:90/h:594/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMzkx/NTExLTE2MzI3NzM5/MjgtOTQ3MS5qcGVn.jpeg"
 genres: ["Rock"]
 styles: ["Prog Rock", "Hard Rock"]
 ---
 
 Insider is the second album of the Manchester alternative rock band Amplifier. It was released in 2006 by the German-based label SPV on 29 September in Germany and Austria then in the rest of Europe on 2 October.
-
-
     
     
 
@@ -64,4 +62,4 @@ Insider is the second album of the Manchester alternative rock band Amplifier. I
 | Label          | Rockosmos |
 | Catalog Number | ROK141 |
 | Notes | Gatefold cover double-sided color inlay Bandcamp download-code  Made in CZ |
-| Discogs URL    | [Amplifier - Insider](https://www.discogs.com/release/20391511-Amplifier-Insider) |
+| Discogs URL    | [Amplifier - Insider](https://www.discogs.com/release/20391511-Amplifier-3-Insider) |

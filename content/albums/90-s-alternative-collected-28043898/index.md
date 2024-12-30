@@ -57,7 +57,7 @@ styles: ["Alternative Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl 2× LP Limited Edition (Translucent Magenta) |
+| Format         | Vinyl 2× LP Compilation Limited Edition (Translucent Magenta) |
 | Label          | Music On Vinyl |
 | Catalog Number | MOVLP3485 |
 | Discogs URL    | [Various - 90's Alternative Collected](https://www.discogs.com/release/28043898-Various-90s-Alternative-Collected) |

@@ -40,13 +40,14 @@ styles: ["Alternative Rock", "Indie Rock"]
 
 
 ## Videos
-### Belly: Mine (Official Video)
-{{< youtube id="PsGgcabXrpg" title="Belly: Mine (Official Video)" >}}<br>
+### Human Child
+{{< youtube id="rITGW0pKqmk" title="Human Child" >}}<br>
 ### More Videos
 
-- [Human Child](https://www.youtube.com/watch?v=rITGW0pKqmk)
 - [Belly - Shiny One](https://www.youtube.com/watch?v=prF1CdzjTZ4)
-- [Belly Stars Align (Official Audio)](https://www.youtube.com/watch?v=rgxHiKv25EM)
+- [Belly "Stars Align" (Official Audio)](https://www.youtube.com/watch?v=rgxHiKv25EM)
+- [Belly: "Mine" (Official Video)](https://www.youtube.com/watch?v=PsGgcabXrpg)
+- [Human Child](https://www.youtube.com/watch?v=rITGW0pKqmk)
 
 ## Release Images
 {{< imageGrid >}}

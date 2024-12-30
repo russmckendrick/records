@@ -44,12 +44,16 @@ styles: []
 21. Through The Wormhole
 22. Dimension Z
 
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/devin-townsend-presents-ziltoid-live-at-the-royal/1045920518" >}}<br>
 
 
 ## Videos
 ### DEVIN TOWNSEND PROJECT - Deathray (Lyric Video)
 {{< youtube id="1DJrnr3cnro" title="DEVIN TOWNSEND PROJECT - Deathray (Lyric Video)" >}}<br>
+### More Videos
 
+- [DEVIN TOWNSEND PROJECT - Deathray (Lyric Video)](https://www.youtube.com/watch?v=1DJrnr3cnro)
 
 ## Release Images
 {{< imageGrid >}}

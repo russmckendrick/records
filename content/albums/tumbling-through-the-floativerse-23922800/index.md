@@ -18,6 +18,7 @@ additional_images:
     - "https://i.discogs.com/VHuu6BRby9BI5EMMsmmCquwvjO-FSi9s-hKAEuTyOTg/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzOTIy/ODAwLTE2NTgxNTIz/MTUtODY2OS5qcGVn.jpeg"
     - "https://i.discogs.com/iFOHxz-T3O20V-MeLi5yW-H9jYBWs-5rQn-4CGewbp8/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzOTIy/ODAwLTE2NzExMjE4/OTYtNTEwOC5qcGVn.jpeg"
     - "https://i.discogs.com/Hty_c_qRkNxwT0FEqMlEkO4NdF3s60dZXjX1Rxp_73I/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzOTIy/ODAwLTE2NzExMjE4/OTgtMjY1MS5qcGVn.jpeg"
+    - "https://i.discogs.com/KHcbD3AniUuIf0SI8xEiwKvZ_TPsgrr1UZu3jnUxYnQ/rs:fit/g:sm/q:90/h:600/w:500/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzOTIy/ODAwLTE3MTg0Njc1/OTItNjc3MS5qcGVn.jpeg"
 genres: ["Electronic", "Rock"]
 styles: ["Psychedelic Rock"]
 ---

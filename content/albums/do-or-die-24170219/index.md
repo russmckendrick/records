@@ -14,12 +14,14 @@ cover:
 additional_images:
     - "https://i.discogs.com/wePMChv8etkV7ARv27J7aC7DPyE0qKcF-HPrjek5EE8/rs:fit/g:sm/q:90/h:300/w:284/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MTcw/MjE5LTE2NjAyMzYx/NDctNDIzOS5qcGVn.jpeg"
     - "https://i.discogs.com/MP1l5GIF2CHg-fAZ8yPB4ImjTu4VuaxfEUaIhQdCnqg/rs:fit/g:sm/q:90/h:297/w:300/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MTcw/MjE5LTE2NjAyMzYx/NTQtOTQxOS5qcGVn.jpeg"
-    - "https://i.discogs.com/qK9BJLiKu76nZrSMN76SUb1_o7Su-QDmIBznSGUanaM/rs:fit/g:sm/q:90/h:606/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MTcw/MjE5LTE2NjA5MDkx/NzAtNTYyNi5qcGVn.jpeg"
+    - "https://i.discogs.com/si1uL9IIxuZF4YXBiBIebotP2niAy3VmJv2d6FrkDvs/rs:fit/g:sm/q:90/h:600/w:593/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MTcw/MjE5LTE2NjA5MDkx/NzAtNTYyNi5qcGVn.jpeg"
 genres: ["Rock"]
 styles: ["Punk"]
 ---
 
-Do or Die is the first studio album released by Boston's Irish-American punk band, Dropkick Murphys. It was released in 1998. A music video for the single "Barroom Hero" was released. This is the only album that featured original lead vocalist Mike McColgan, who went on to become a fireman before forming his own band, the Street Dogs.
+Do or Die is the debut studio album by the Celtic punk band Dropkick Murphys. It was released in 1998. A music video for the single "Barroom Hero" was released. It is the only album that featured original lead vocalist Mike McColgan, who went on to become a fireman before forming his own band, the Street Dogs.
+
+
     
     
 
@@ -47,11 +49,11 @@ Do or Die is the first studio album released by Boston's Irish-American punk ban
 
 
 ## Videos
-### Dropkick Murphys - Fightstarter Karaoke (Full Album Stream)
-{{< youtube id="zbXHjZdnT_s" title="Dropkick Murphys - Fightstarter Karaoke (Full Album Stream)" >}}<br>
+### Dropkick Murphys - "Fightstarter Karaoke" (Full Album Stream)
+{{< youtube id="zbXHjZdnT_s" title="Dropkick Murphys - "Fightstarter Karaoke" (Full Album Stream)" >}}<br>
 ### More Videos
 
-- [Dropkick Murphys - Never Alone (Full Album Stream)](https://www.youtube.com/watch?v=H5BnIDiTakg)
+- [Dropkick Murphys - "Never Alone" (Full Album Stream)](https://www.youtube.com/watch?v=H5BnIDiTakg)
 
 ## Release Images
 {{< imageGrid >}}

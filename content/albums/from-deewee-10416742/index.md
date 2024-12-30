@@ -24,7 +24,7 @@ additional_images:
     - "https://i.discogs.com/IWvTGc4n1UwtMImSvM2MwLkvCThEluPYFdrUT9KoNiM/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNDE2/NzQyLTE1MTYwMzU2/MjUtNDU1OS5qcGVn.jpeg"
     - "https://i.discogs.com/aPkYulO1_moerQdr7A6bTGoeV8rBPGZ2Hhj3eWEVsvM/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNDE2/NzQyLTE0OTc1MjMz/NTYtNzc0Ni5qcGVn.jpeg"
     - "https://i.discogs.com/LPxduKwzHwDRdZWsSPTpM32ic-SvsLIeFYlvD0CCbqo/rs:fit/g:sm/q:90/h:590/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNDE2/NzQyLTE0OTc1MjMz/NTMtMjUyMy5qcGVn.jpeg"
-    - "https://i.discogs.com/K1bFNp6ajhlBoMmZC1lSymg3JtRZzFxBfM8oc3fv4rU/rs:fit/g:sm/q:90/h:601/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNDE2/NzQyLTE0OTc1MjMz/NTMtOTAwMC5qcGVn.jpeg"
+    - "https://i.discogs.com/A6Kx1PNck-QecUwzcM2Woh0V6BlzXCZQcrBNhs-MT1k/rs:fit/g:sm/q:90/h:600/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNDE2/NzQyLTE0OTc1MjMz/NTMtOTAwMC5qcGVn.jpeg"
     - "https://i.discogs.com/CI_8XuV8xtlTXOTF1GFwbPUgM0P8je70GPZMeRmtth0/rs:fit/g:sm/q:90/h:591/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNDE2/NzQyLTE0OTc1MjMz/NTUtMTg1OC5qcGVn.jpeg"
     - "https://i.discogs.com/J678GnDbsdAt-AmPiqQP4Iyqe5t1EUDu0Q6KRuTLKEk/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNDE2/NzQyLTE0OTc1MjMz/NTYtMzcxNC5qcGVn.jpeg"
     - "https://i.discogs.com/tCZMYjdZnNUbS_THTd5r0GGvIKJAV9GbSNLq8nIsqJE/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNDE2/NzQyLTE1MTYwMzcy/MDYtNTk5OS5qcGVn.jpeg"
@@ -34,10 +34,8 @@ genres: ["Electronic"]
 styles: ["Electro", "Synth-pop", "Disco"]
 ---
 
-From Deewee (stylized as FROM DEEWEE) is the fourth studio album by Belgian electronic music duo Soulwax, released on 24 March 2017. With a length of 48 minutes, the album was recorded in one take by the Dewaele brothers along with three drummers. Besides the normal members of Soulwax, there is Laima Leyton on keys, Igor Cavalera, Blake Davies and Victoria Smith on drums. The first single from the album was "Transient Program for Drums and Machinery".
-The concept for the album was taken from Transient Program For Drums and Machinery, a live show they did in 2016.
-        
-        
+After leaving Soulwax (the band) dormant for well over a decade, it feels fitting that the Dewaele brothers resurrect their original guise with a subversive, one-take electronic blitz. <i>FROM DEEWEE</i> is a combative record, rigid with taut drums, hypnotic synths and a deliciously portentous mood. “Conditions of a Shared Belief”, “Is It Always Binary” and “My Tired Eyes” are highlights, but this is meticulously engineered to be enjoyed as one relentless thrill ride.
+    
     
 
 
@@ -60,18 +58,19 @@ The concept for the album was taken from Transient Program For Drums and Machine
 
 
 ## Videos
-### Masterplanned
-{{< youtube id="pdcbDkrBVaY" title="Masterplanned" >}}<br>
+### Soulwax - Transient Program for Drums and Machinery - DEEWEE 019
+{{< youtube id="m8K3-lLxaoI" title="Soulwax - Transient Program for Drums and Machinery - DEEWEE 019" >}}<br>
 ### More Videos
 
+- [Soulwax - Conditions Of A Shared Belief](https://www.youtube.com/watch?v=oo-pUHmN08g)
+- [Soulwax - Transient Program for Drums and Machinery - DEEWEE 019](https://www.youtube.com/watch?v=m8K3-lLxaoI)
+- [Soulwax - Missing Wires](https://www.youtube.com/watch?v=NSWpNntG6Mc)
+- [Masterplanned](https://www.youtube.com/watch?v=pdcbDkrBVaY)
 - [Trespassers](https://www.youtube.com/watch?v=jJxWVe5M2S8)
 - [Is It Always Binary](https://www.youtube.com/watch?v=3E8o9RkLFkM)
 - [Is It Always Binary](https://www.youtube.com/watch?v=W_21IVzPGvY)
 - [Here Come the Men in Suits](https://www.youtube.com/watch?v=jIeopjvrCWI)
 - [The Singer Has Become a Deejay](https://www.youtube.com/watch?v=BmJdBBLba9Q)
-- [Soulwax - Conditions Of A Shared Belief](https://www.youtube.com/watch?v=oo-pUHmN08g)
-- [Soulwax - Transient Program for Drums and Machinery - DEEWEE 019](https://www.youtube.com/watch?v=m8K3-lLxaoI)
-- [Soulwax - Missing Wires](https://www.youtube.com/watch?v=NSWpNntG6Mc)
 
 ## Release Images
 {{< imageGrid >}}
@@ -79,7 +78,6 @@ The concept for the album was taken from Transient Program For Drums and Machine
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Wikipedia URL | https://en.wikipedia.org/wiki/From_Deewee |
 | Format         | Vinyl LP (White), Vinyl 12" 33 ⅓ RPM 45 RPM, All Media Album Limited Edition |
 | Label          | [pias] |
 | Catalog Number | PIASR950DLPX |

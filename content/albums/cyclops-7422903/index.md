@@ -27,8 +27,8 @@ styles: ["Prog Rock"]
 
 ## Tracklisting
 1. 21st Century Schizoid Man
-2. Light Of Day
-3. Hellhounds Of Krim
+2. The Light of Day
+3. The Hell Hounds of Krim
 
 
 

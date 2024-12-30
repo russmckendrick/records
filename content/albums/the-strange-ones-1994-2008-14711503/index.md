@@ -336,15 +336,14 @@ styles: ["Indie Rock", "Pop Punk", "Interview", "Comedy", "Britpop", "Alternativ
 311. Richard III (Cousn 2020 Remix)
 
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/the-strange-ones-1994-2008/1493585754" >}}<br>
+{{< applemusic url="https://music.apple.com/gb/album/the-strange-ones-1994-2008/1494041804" >}}<br>
 
 
 ## Videos
-### Strange Ones
-{{< youtube id="aJsVw_PyTGs" title="Strange Ones" >}}<br>
+### Supergrass - Diamond Hoo Ha Man (Official HD Video)
+{{< youtube id="6EPHk16mO20" title="Supergrass - Diamond Hoo Ha Man (Official HD Video)" >}}<br>
 ### More Videos
 
-- [Supergrass - Diamond Hoo Ha Man (Official HD Video)](https://www.youtube.com/watch?v=6EPHk16mO20)
 - [Supergrass - Alright (Official HD Video)](https://www.youtube.com/watch?v=qUE4oDunYkc)
 - [Supergrass - Bad Blood (Official HD Video)](https://www.youtube.com/watch?v=WZhinVDm9yM)
 

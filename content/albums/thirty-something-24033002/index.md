@@ -17,10 +17,10 @@ additional_images:
     - "https://i.discogs.com/2yrLumBAdJoHUFaph-at9SbA3rNexjhhGpQ-RQQbjo8/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MDMz/MDAyLTE2NTk3MDc4/NjAtODkyMS5qcGVn.jpeg"
     - "https://i.discogs.com/MEFtrM4z20-9RDUddvpq4YAJSTz3_n3rrqUrUu_Z_tE/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MDMz/MDAyLTE2NTk3MDc5/NTUtOTQzMy5qcGVn.jpeg"
     - "https://i.discogs.com/yy9jtP11R_qrIN38JN0huf4T7uj-UTngEb2vjacy97A/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MDMz/MDAyLTE2NTk3MDc5/ODctNjA1My5qcGVn.jpeg"
-    - "https://i.discogs.com/-DPITrGDZ-eMyOXX_5fjXBu9AxdF08rmN0K1_fp2MX0/rs:fit/g:sm/q:90/h:602/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MDMz/MDAyLTE2NTk3MDgw/MDgtOTA2My5qcGVn.jpeg"
+    - "https://i.discogs.com/1qlsctk5dbXZVPK_N4ofmalzNUaLM3V5jn_P0qrA0uw/rs:fit/g:sm/q:90/h:600/w:597/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MDMz/MDAyLTE2NTk3MDgw/MDgtOTA2My5qcGVn.jpeg"
     - "https://i.discogs.com/1vlIF9pp2ySJ66FsUJiUk9ZechdRkv2V3bEjBWT5zHk/rs:fit/g:sm/q:90/h:593/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MDMz/MDAyLTE2NTk3MDgw/MzUtNDM4My5qcGVn.jpeg"
     - "https://i.discogs.com/BFFpY4_hkop2w_c7dPxe7Ngan_2PA9lsMYiaftp1nnE/rs:fit/g:sm/q:90/h:586/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MDMz/MDAyLTE2NTk3MDgw/NTAtOTgxNi5qcGVn.jpeg"
-    - "https://i.discogs.com/NzLA8rmOTLXXFA1XVxC4b9bOzc6-MJjR7IJ7lRcfkTU/rs:fit/g:sm/q:90/h:617/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MDMz/MDAyLTE2NTk3MDgw/NjktMTEyOC5qcGVn.jpeg"
+    - "https://i.discogs.com/a4bKDflsa6s7OmPgO2UdxcQQaPp4wNBEC46p1_mUvGo/rs:fit/g:sm/q:90/h:600/w:582/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MDMz/MDAyLTE2NTk3MDgw/NjktMTEyOC5qcGVn.jpeg"
     - "https://i.discogs.com/Kf_z9Un9r6QX7Rqm_fzWeUYKC5JS-s_NhO0MsY0B-SE/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MDMz/MDAyLTE2NTk3MDgw/OTItNDAzNC5qcGVn.jpeg"
     - "https://i.discogs.com/t1lS4Q-JpFHDLLvnhtDeCI239mSRKuKX_SRPzJKt-30/rs:fit/g:sm/q:90/h:591/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MDMz/MDAyLTE2NTk3MDgy/MTAtMzgyMi5qcGVn.jpeg"
     - "https://i.discogs.com/eVdP48psoXyRAMasiHuZRCBfnRj4i1iPyGeXSvGQJNc/rs:fit/g:sm/q:90/h:592/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MDMz/MDAyLTE2NTk3MDgy/MzQtMjU5My5qcGVn.jpeg"
@@ -41,6 +41,9 @@ genres: ["Electronic"]
 styles: ["Techno", "House", "Breakbeat", "Trance"]
 ---
 
+Thirty Something (Chinese: 我的30定律; pinyin: wo de san shi ding lu; literally "My 30 Law") is a 2015-2016 Taiwanese drama television series created and produced by Eastern Television. It stars Xiu Jie Kai, Kimi Hsia, Esther Liu and Samuel Gu. Filming began on October 22, 2015 and wrapped up on February 29, 2016. First original broadcast began on December 12, 2015 on TTV airing every Saturday night at 10:00-11:30 pm.
+    
+    
 
 
 ## Tracklisting
@@ -67,34 +70,47 @@ styles: ["Techno", "House", "Breakbeat", "Trance"]
 
 
 ## Videos
-### Smiley
-{{< youtube id="Gl-7yh4hY04" title="Smiley" >}}<br>
+### Orbital - Belfast (David Holmes Remix)
+{{< youtube id="Ox6kqhZFjCY" title="Orbital - Belfast (David Holmes Remix)" >}}<br>
 ### More Videos
 
-- [Orbital – Are We Here? (30 Something) Shanti Celeste Remix (Visualiser)](https://www.youtube.com/watch?v=RutDL-CTPcU)
-- [Acid Horse](https://www.youtube.com/watch?v=lCrk6V9h33c)
-- [Orbital - Halcyon (Jon Hopkins Remix) (Visualiser)](https://www.youtube.com/watch?v=mGg2vGuZDOg)
-- [Orbital - Where Is It Going? (feat. Stephen Hawking) (Official Video)](https://www.youtube.com/watch?v=DEGLSDv-f4Q)
 - [Orbital - Smiley (Official Video)](https://www.youtube.com/watch?v=S6Gq50dDKMs)
-- [Impact (30 Years Later and the Earth Is Still Burning Mix)](https://www.youtube.com/watch?v=1362djWFwJA)
 - [Orbital - Satan (30 Something Years Later Remix) [Visualiser]](https://www.youtube.com/watch?v=LLeVJDJG2mk)
+- [Orbital - Where Is It Going? (feat. Stephen Hawking) (Official Video)](https://www.youtube.com/watch?v=DEGLSDv-f4Q)
+- [Impact (30 Years Later and the Earth Is Still Burning Mix)](https://www.youtube.com/watch?v=1362djWFwJA)
 - [Chime (30 Something Years Later Mix)](https://www.youtube.com/watch?v=uGXJhs9MZY8)
 - [Halcyon (30 Something Years Later Mix)](https://www.youtube.com/watch?v=IJss6kR4i90)
-- [Belfast (30 Something Years Later Mix)](https://www.youtube.com/watch?v=dJOXjmrNFyM)
 - [Orbital - The Box (30 Something Years Later Mix) [Visualiser]](https://www.youtube.com/watch?v=d1DY-FD7l_Q)
-- [Orbital – Are We Here? (30 Something) Dusky Remix (Visualiser)](https://www.youtube.com/watch?v=UGfOoMVufgw)
+- [Belfast (30 Something Years Later Mix)](https://www.youtube.com/watch?v=dJOXjmrNFyM)
 - [Orbital - The Girl With The Sun In Her Head (Floex Remix)](https://www.youtube.com/watch?v=LhYib77GJMg)
-- [Orbital - Halcyon (Logic1000 Remix) (Visualiser)](https://www.youtube.com/watch?v=dW--yf5gNWU)
-- [Orbital - Belfast (ANNA Techno Remix) (Visualiser)](https://www.youtube.com/watch?v=TyOIWeC_3lk)
-- [Impact (John Tejada Remix)](https://www.youtube.com/watch?v=Px4X6HLw_2k)
-- [Chime (Octave One Remix)](https://www.youtube.com/watch?v=3B-oyQGuqFo)
-- [Orbital - Belfast (Yotto Remix) (Visualiser)](https://www.youtube.com/watch?v=rL1UXe5vioc)
-- [Orbital - The Box (Joris Voorn Outside The Box Remix)](https://www.youtube.com/watch?v=-exyYmtgcio)
-- [The Girl with the Sun in Her Head (Lone Remix)](https://www.youtube.com/watch?v=SoVJagJCKxY)
-- [Impact (Rich NxT Remix - Edit)](https://www.youtube.com/watch?v=6A_TkqEwOn0)
+- [Orbital - Halcyon (Jon Hopkins Remix) (Visualiser)](https://www.youtube.com/watch?v=mGg2vGuZDOg)
 - [Orbital - Chime (Eli Brown Remix) (Visualiser)](https://www.youtube.com/watch?v=cVbZqz3spm0)
-- [Belfast (David Holmes Remix)](https://www.youtube.com/watch?v=H_avqDJCJ54)
-- [Orbital - Belfast (ANNA Ambient Remix) Visualiser](https://www.youtube.com/watch?v=oYDGnjjLMzU)
+- [Impact (John Tejada Remix)](https://www.youtube.com/watch?v=Px4X6HLw_2k)
+- [Orbital – Are We Here? (30 Something) Dusky Remix (Visualiser)](https://www.youtube.com/watch?v=UGfOoMVufgw)
+- [Orbital - Belfast (ANNA Techno Remix) (Visualiser)](https://www.youtube.com/watch?v=TyOIWeC_3lk)
+- [Orbital - Joris Voorn ‘Out Of The Box’ (Remix Edit) (Visualiser)](https://www.youtube.com/watch?v=Q4qODnfp7IY)
+- [Orbital – Are We Here? (30 Something) Shanti Celeste Remix (Visualiser)](https://www.youtube.com/watch?v=RutDL-CTPcU)
+- [The Girl with the Sun in Her Head (Lone Remix)](https://www.youtube.com/watch?v=SoVJagJCKxY)
+- [Chime (Octave One Remix)](https://www.youtube.com/watch?v=3B-oyQGuqFo)
+- [Orbital - Belfast (David Holmes Remix)](https://www.youtube.com/watch?v=Ox6kqhZFjCY)
+- [Orbital - Smiley (Official Video)](https://www.youtube.com/watch?v=S6Gq50dDKMs)
+- [Orbital - Satan (30 Something Years Later Remix) [Visualiser]](https://www.youtube.com/watch?v=LLeVJDJG2mk)
+- [Orbital - Where Is It Going? (feat. Stephen Hawking) (Official Video)](https://www.youtube.com/watch?v=DEGLSDv-f4Q)
+- [Impact (30 Years Later and the Earth Is Still Burning Mix)](https://www.youtube.com/watch?v=1362djWFwJA)
+- [Chime (30 Something Years Later Mix)](https://www.youtube.com/watch?v=uGXJhs9MZY8)
+- [Halcyon (30 Something Years Later Mix)](https://www.youtube.com/watch?v=IJss6kR4i90)
+- [Orbital - The Box (30 Something Years Later Mix) [Visualiser]](https://www.youtube.com/watch?v=d1DY-FD7l_Q)
+- [Belfast (30 Something Years Later Mix)](https://www.youtube.com/watch?v=dJOXjmrNFyM)
+- [Orbital - The Girl With The Sun In Her Head (Floex Remix)](https://www.youtube.com/watch?v=LhYib77GJMg)
+- [Orbital - Halcyon (Jon Hopkins Remix) (Visualiser)](https://www.youtube.com/watch?v=mGg2vGuZDOg)
+- [Orbital - Chime (Eli Brown Remix) (Visualiser)](https://www.youtube.com/watch?v=cVbZqz3spm0)
+- [Impact (John Tejada Remix)](https://www.youtube.com/watch?v=Px4X6HLw_2k)
+- [Orbital – Are We Here? (30 Something) Dusky Remix (Visualiser)](https://www.youtube.com/watch?v=UGfOoMVufgw)
+- [Orbital - Belfast (ANNA Techno Remix) (Visualiser)](https://www.youtube.com/watch?v=TyOIWeC_3lk)
+- [Orbital - Joris Voorn ‘Out Of The Box’ (Remix Edit) (Visualiser)](https://www.youtube.com/watch?v=Q4qODnfp7IY)
+- [Orbital – Are We Here? (30 Something) Shanti Celeste Remix (Visualiser)](https://www.youtube.com/watch?v=RutDL-CTPcU)
+- [The Girl with the Sun in Her Head (Lone Remix)](https://www.youtube.com/watch?v=SoVJagJCKxY)
+- [Chime (Octave One Remix)](https://www.youtube.com/watch?v=3B-oyQGuqFo)
 
 ## Release Images
 {{< imageGrid >}}
@@ -102,8 +118,9 @@ styles: ["Techno", "House", "Breakbeat", "Trance"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
+| Wikipedia URL | https://en.wikipedia.org/wiki/Thirty_Something_(Taiwanese_TV_series) |
 | Format         | Vinyl 4× 12" Album (180g), Box Set |
 | Label          | Orbital Recordings Ltd. |
 | Catalog Number | LMS5521698 |
-| Notes | Boxes ordered directly from Townsend Music came with an exclusive signed print. 12" x 12" fold out booklet with new sleeve notes by Andrew Harrison. Plus exclusive ’30 Something’ slip mat.  |
+| Notes | Boxes ordered directly from Townsend Music came with an exclusive signed print. 12" x 12" fold out booklet with new sleeve notes by Andrew Harrison. Plus exclusive ’30 Something’ slip mat.  Runouts are etched, apart from MPO logo and subsequent digits on sides A to F, which are laser etched. |
 | Discogs URL    | [Orbital - Thirty-Something](https://www.discogs.com/release/24033002-Orbital-Thirty-Something) |

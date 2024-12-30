@@ -18,12 +18,12 @@ additional_images:
     - "https://i.discogs.com/aTuRxlifAFJdCnqfl9fhn-1SCvNdypjArtKbtNYtE5M/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MjY0/MzE1LTE1ODkwNTkw/MDMtNjAzMC5qcGVn.jpeg"
     - "https://i.discogs.com/kogOL98PMg22f4zhH6wlw6UoYhbuWps-uguT2mYuLVQ/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MjY0/MzE1LTE1ODkwNTkw/MDItNjI3OS5qcGVn.jpeg"
     - "https://i.discogs.com/UscgBe1xNxxi9YOURME3YIeMAthpsaOvuM291HSolAs/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MjY0/MzE1LTE1ODkwNTkw/MDItNjgzMC5qcGVn.jpeg"
-    - "https://i.discogs.com/lawqBE5gqOJVluTwQuKN_AWiOuLNbUKghgEnGX0_xEs/rs:fit/g:sm/q:90/h:623/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MjY0/MzE1LTE1ODkwNTkw/MDItMTcxMS5qcGVn.jpeg"
+    - "https://i.discogs.com/pLEkhlAo55-IrvgYD_DW9UwUeXrVmkc1j_jTJOXlsGM/rs:fit/g:sm/q:90/h:600/w:577/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MjY0/MzE1LTE1ODkwNTkw/MDItMTcxMS5qcGVn.jpeg"
     - "https://i.discogs.com/TXfktxCtmnHEzcSECv8ypr5kiphd1OoNPsJM8X3izcc/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MjY0/MzE1LTE1ODkwNTkw/NDQtNDg2OC5qcGVn.jpeg"
-    - "https://i.discogs.com/THVLnfPcFUHNR1SrixARafKs548oYDJKWSIJ7MFPHeY/rs:fit/g:sm/q:90/h:606/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MjY0/MzE1LTE1ODkwNTkw/NDYtNDg1Ny5qcGVn.jpeg"
+    - "https://i.discogs.com/RR4C42mhJKZ28VwVZPGCuUlYaWFy-YDFV_RHgC5XVKg/rs:fit/g:sm/q:90/h:600/w:593/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MjY0/MzE1LTE1ODkwNTkw/NDYtNDg1Ny5qcGVn.jpeg"
     - "https://i.discogs.com/-8vZIOD1RXAsI8aUZdgwarYLJysrrvNVb4Qe9GyfsFA/rs:fit/g:sm/q:90/h:592/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MjY0/MzE1LTE1ODkwNTkw/NDctNTk2My5qcGVn.jpeg"
     - "https://i.discogs.com/9IQ8sZR-kTYPZ8rBLAjLM5Mmr6vc12q2HH2tM7V0k4M/rs:fit/g:sm/q:90/h:586/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MjY0/MzE1LTE1ODkwNTkw/NDYtOTI3Ny5qcGVn.jpeg"
-    - "https://i.discogs.com/S6ZURrAcOU7oAOh7cQO_mDHbgb25minKJ5_kJxZj65U/rs:fit/g:sm/q:90/h:604/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MjY0/MzE1LTE1ODkwNTkw/NDctMjgyMy5qcGVn.jpeg"
+    - "https://i.discogs.com/g53ka61VuaPCZWVXN28_tXBj8t8592Kog9QXagW8-D0/rs:fit/g:sm/q:90/h:600/w:595/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MjY0/MzE1LTE1ODkwNTkw/NDctMjgyMy5qcGVn.jpeg"
     - "https://i.discogs.com/uyRnCuA2SYdku5XneCVIighQ-xoDR-XXMVvob22eM4s/rs:fit/g:sm/q:90/h:417/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MjY0/MzE1LTE1ODkwNTkw/NDUtNjEzMy5qcGVn.jpeg"
     - "https://i.discogs.com/xm5g-rhRMqeI_5WK4rk9k1PNKyQycgLtTeKMisb8TMQ/rs:fit/g:sm/q:90/h:582/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MjY0/MzE1LTE1ODkwNTkw/NzItMzI4Mi5qcGVn.jpeg"
     - "https://i.discogs.com/oYnO-dkM7epK5IgVjqR3RZEXiPn8xJkJfgf_T6MP4zo/rs:fit/g:sm/q:90/h:568/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MjY0/MzE1LTE1ODkwNTkw/NzItNjY5NC5qcGVn.jpeg"
@@ -65,13 +65,16 @@ Straight Songs of Sorrow is the twelfth and final studio album by American singe
 {{< youtube id="b4EL3wo1K84" title="Mark Lanegan - 'Bleed All Over'" >}}<br>
 ### More Videos
 
-- [I Wouldn't Want To Say](https://www.youtube.com/watch?v=mnV45clEoY4)
 - [Stockholm City Blues](https://www.youtube.com/watch?v=6UHQdLN7DSs)
+- [Mark Lanegan - 'Bleed All Over'](https://www.youtube.com/watch?v=b4EL3wo1K84)
+- [Stockholm City Blues](https://www.youtube.com/watch?v=6UHQdLN7DSs)
+- [I Wouldn't Want To Say](https://www.youtube.com/watch?v=mnV45clEoY4)
 - [This Game of Love](https://www.youtube.com/watch?v=D_THKz09seg)
 - [Mark Lanegan - Straight Songs of Sorrow](https://www.youtube.com/watch?v=Iz54DefU37c)
 - [Churchbells, Ghosts](https://www.youtube.com/watch?v=C2ygoNS9LeE)
 - [Mark Lanegan - Skeleton Key](https://www.youtube.com/watch?v=uJDLcaCuFHU)
 - [Daylight In The Nocturnal House](https://www.youtube.com/watch?v=ToMgSKgra38)
+- [Mark Lanegan - 'Bleed All Over'](https://www.youtube.com/watch?v=b4EL3wo1K84)
 - [Apples From A Tree](https://www.youtube.com/watch?v=60JH83Ze-lM)
 - [At Zero Below](https://www.youtube.com/watch?v=Lmz5Uvaf8ag)
 - [Ballad of A Dying Rover](https://www.youtube.com/watch?v=3alMP5Jj-YU)

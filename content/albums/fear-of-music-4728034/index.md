@@ -4,6 +4,7 @@ artist_name: "Talking Heads"
 artist: "talking-heads"
 album_name: "Fear Of Music"
 date: 2017-11-03T18:38:56.000000Z
+release_date: "1979-08-03"
 release_id: "4728034"
 slug: "fear-of-music-4728034"
 hideSummary: true
@@ -18,14 +19,18 @@ additional_images:
     - "https://i.discogs.com/9wzFm8l3B32QX5tZkzb9qp4BlShtpeG9VZqYD3DSr-s/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ3Mjgw/MzQtMTM3MzY0NDM2/Ni02MTA1LmpwZWc.jpeg"
     - "https://i.discogs.com/7WNhea4R5dgOEdAEviv7DmB4sSTfmtKIyFtQJip0n6E/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ3Mjgw/MzQtMTM3MzY0NDMz/Mi0zMTE3LmpwZWc.jpeg"
     - "https://i.discogs.com/FHBgG688cSW6G3lM9J56ouj5nkpusm1iyOwgX5vK0oQ/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ3Mjgw/MzQtMTM3MzY0NDM0/My03OTU3LmpwZWc.jpeg"
-    - "https://i.discogs.com/_EUPDH6FvjIpRFd-3_qPAkRUnkP0qjWtf7n4wGyMQv4/rs:fit/g:sm/q:90/h:629/w:350/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ3Mjgw/MzQtMTM3MzY0NDM4/MC03NDI3LmpwZWc.jpeg"
+    - "https://i.discogs.com/yD3NYZqJNirHeUY1SdcJxyK70SzWO6nnei4qN7dLEjI/rs:fit/g:sm/q:90/h:600/w:333/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ3Mjgw/MzQtMTM3MzY0NDM4/MC03NDI3LmpwZWc.jpeg"
 genres: ["Rock", "Pop"]
 styles: ["Leftfield", "Indie Rock", "Pop Rock"]
 ---
 
-Fear of Music is the third studio album by American rock band Talking Heads, released on August 3, 1979, by Sire Records. It was recorded at locations in New York City during April and May 1979 and was produced by Brian Eno and Talking Heads. The album reached number 21 on the Billboard 200 and number 33 on the UK Albums Chart. It spawned the singles "Life During Wartime", "I Zimbra", and "Cities".
-Fear of Music received favorable reviews from critics. Praise centered on its unconventional rhythms and frontman David Byrne's lyrical performances. The album is often considered one of Talking Heads' best releases and has been featured in several publications' lists of the best albums of all time.
-    
+Because David Byrne is so respected as a multimedia artist, lots of people don’t notice how funny some of his songs are. The third Talking Heads album, <i>Fear of Music</i>, is hilarious in a deadpan way, especially if you like jokes about anxiety; <i>Music of Fear</i> would be a more accurate title. 
+
+There are plenty of experiments into the disorienting possibilities of studio production; “Drugs”, the slow, staggered song that ends the album, more than lives up to its title with dub effects on the instruments, a staccato keyboard part and the intermittent sound of koala bears snorting, which Byrne had recorded during a tour stop in Australia. He jogged around the studio before singing it, so he’d sound out of breath, and the discordant, ill-fitting guitar part at the end was stitched together from several different solos. “Animals” is a song about pet paranoia, and Byrne brings a demented intensity to the lyrics about deceitful quadrupeds (“I won’t follow animals’ advice”), as though some innocent doggo has pushed his berserk button. 
+
+“Memories Can’t Wait” seems to describe an interrogation or a bad acid trip, and the music, written by Byrne and Jerry Harrison, is terrifying, full of disorienting delay and echo and Tina Weymouth’s menacing bass. On the other hand, <i>Fear of Music</i> also offers three of their strongest and most enduring songs. “Cities”, yet another song about buildings and urban life, rides atop a tremendous, funky, rhythm-guitar lick. The similarly danceable “Life During Wartime” describes a frantic underground guerilla trying to survive in post-apocalyptic New York (“This ain’t no Mudd Club, no CBGB”). And the dreamy and mysterious ballad “Heaven”, written by Byrne and Harrison, is set in a bar where, to the singer’s rapturous delight, “nothing ever happens.” Thanks to its expansive melody and hymnal quality, it’s been covered by lots of artists, including Simply Red, Widespread Panic, k.d. lang and Jimmy Scott.
+        
+        
     
 
 
@@ -51,15 +56,13 @@ Fear of Music received favorable reviews from critics. Praise centered on its un
 {{< youtube id="qKFn66dzdz0" title="I Zimbra (2005 Remaster)" >}}<br>
 ### More Videos
 
+- [Electric Guitar (2005 Remaster)](https://www.youtube.com/watch?v=GFmVwSRZcZE)
 - [Mind (2005 Remaster)](https://www.youtube.com/watch?v=ehB6462JHog)
-- [Paper (2005 Remaster)](https://www.youtube.com/watch?v=swCk2wKPK6Y)
 - [Cities (2005 Remaster)](https://www.youtube.com/watch?v=K5H1nEP2wXA)
-- [Life During Wartime (2005 Remaster)](https://www.youtube.com/watch?v=_NywTcGOUkE)
+- [Paper (2005 Remaster)](https://www.youtube.com/watch?v=swCk2wKPK6Y)
 - [Memories Can't Wait (2005 Remaster)](https://www.youtube.com/watch?v=ssCFwQkyCeI)
-- [Air (2005 Remaster)](https://www.youtube.com/watch?v=i6WaEcv9sdw)
 - [Heaven (2005 Remaster)](https://www.youtube.com/watch?v=JAa7J10D8Qw)
 - [Animals (2005 Remaster)](https://www.youtube.com/watch?v=eBiIFhg0Jnc)
-- [Electric Guitar (2005 Remaster)](https://www.youtube.com/watch?v=GFmVwSRZcZE)
 - [Drugs (2005 Remaster)](https://www.youtube.com/watch?v=vlc0_GUdfIQ)
 
 ## Release Images

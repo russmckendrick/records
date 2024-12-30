@@ -16,7 +16,7 @@ additional_images:
     - "https://i.discogs.com/gJqe36OvQ01pbrJWjE08Gne4rB2SYx42z2bh_Gh5S8Y/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwNzU4/MjUtMTUwMjEyNDY5/MC0zOTg3LmpwZWc.jpeg"
     - "https://i.discogs.com/MkiyrYU9K0WhNRdszUeIZFoMPlpQPh7FfLHCKyZCUyA/rs:fit/g:sm/q:90/h:574/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwNzU4/MjUtMTUwMjEyNDcy/MC04Nzk4LmpwZWc.jpeg"
     - "https://i.discogs.com/D30sR_KTifRDjZ_BoqenC9T332dTpQlGo_lw0mv_Ng0/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwNzU4/MjUtMTUwMjEyNDcx/My03MzkxLmpwZWc.jpeg"
-    - "https://i.discogs.com/zaA0cUyucHEMBYpgJNilxCXGERPJ0E9e8_JHlGWVv4I/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwNzU4/MjUtMTUwMjEyNDcw/My05NDUwLmpwZWc.jpeg"
+    - "https://i.discogs.com/FJrCh-bIQLDiCBJ8OfwnqTMKpZm7-jsESzA4vqHU-VU/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwNzU4/MjUtMTUwMjEyNDcw/My05NDUwLmpwZWc.jpeg"
     - "https://i.discogs.com/ns0QeIViZBm8zUCRR_qefZHPx8HEm-weimjGAJWfJss/rs:fit/g:sm/q:90/h:592/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwNzU4/MjUtMTUwMjEyNDY5/Mi0zMTQxLmpwZWc.jpeg"
     - "https://i.discogs.com/zGOIXB0ZvDx_mfSJI6Rr_eq2EbfwQGwRArQflTZtcvo/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwNzU4/MjUtMTUwMjEyNDY5/MC05MzAzLmpwZWc.jpeg"
     - "https://i.discogs.com/7hl6led0PlhAAQpyj36Uj2zdbtqIe8UMnrE-r1ZxKqM/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwNzU4/MjUtMTUwMjEyNDY5/OC0xOTgwLmpwZWc.jpeg"
@@ -29,7 +29,10 @@ genres: ["Rock"]
 styles: ["Indie Rock"]
 ---
 
-We Were Dead Before the Ship Even Sank is the fifth studio album by American alternative rock band Modest Mouse, released in 2007. It followed their previous studio album, 2004's Good News for People Who Love Bad News. It is the band's only full-length with former Smiths guitarist Johnny Marr as a member. It is also their last with founding member and bassist Eric Judy.  It has a strong nautical theme and was originally envisioned as a concept album about a boat crew that dies in every song.This album was certified Gold by the RIAA on June 11, 2009. As of February 2015, it has sold 649,000 copies in the US.
+We Were Dead Before the Ship Even Sank is the fifth studio album by American alternative rock band Modest Mouse, released in 2007. It followed their previous studio album, 2004's Good News for People Who Love Bad News. It is the band's only full-length with former Smiths guitarist Johnny Marr as a member. It is also their last with founding member and bassist Eric Judy. It has a strong nautical theme and was originally envisioned as a concept album about a boat crew that dies in every song.
+This album was certified Gold by the RIAA on June 11, 2009. As of February 2015, it has sold 649,000 copies in the US.
+
+
         
         
     
@@ -60,18 +63,12 @@ We Were Dead Before the Ship Even Sank is the fifth studio album by American alt
 
 
 ## Videos
-### Modest Mouse - Missed the Boat (Contest Video)
-{{< youtube id="O4XskfT6vNY" title="Modest Mouse - Missed the Boat (Contest Video)" >}}<br>
+### Modest Mouse - Dashboard (Official Music Video)
+{{< youtube id="penvn9VL32Y" title="Modest Mouse - Dashboard (Official Music Video)" >}}<br>
 ### More Videos
 
+- [Modest Mouse - Missed the Boat (Contest Video)](https://www.youtube.com/watch?v=O4XskfT6vNY)
 - [Modest Mouse - Dashboard (Official Music Video)](https://www.youtube.com/watch?v=penvn9VL32Y)
-- [Modest Mouse-Parting of the sensory](https://www.youtube.com/watch?v=4k_h9g4eoAI)
-- [Modest Mouse - Steam Engenius](https://www.youtube.com/watch?v=_PrhGkguKSE)
-- [Modest Mouse March into the Sea](https://www.youtube.com/watch?v=N3RendyCVvE)
-- [Modest Mouse - Florida](https://www.youtube.com/watch?v=7bTjjS_palc)
-- [Album Review : We Were Dead Before The Ship Even Sank by Modest Mouse](https://www.youtube.com/watch?v=hwZDSJB8L2o)
-- [Modest Mouse-Fly Trapped In A Jar](https://www.youtube.com/watch?v=i1FFOB3aP-M)
-- [Modest Mouse - We've Got Everything](https://www.youtube.com/watch?v=AceNg5WrF9I)
 
 ## Release Images
 {{< imageGrid >}}

@@ -42,10 +42,15 @@ styles: ["Soundtrack"]
 
 
 ## Videos
-### Return of the Jedi (1983) Retrospective / Review
-{{< youtube id="N2tL4w8qgpk" title="Return of the Jedi (1983) Retrospective / Review" >}}<br>
+### Main Title (The Story Continues)
+{{< youtube id="fPtQQZKxIEU" title="Main Title (The Story Continues)" >}}<br>
 ### More Videos
 
+- [Into the Trap](https://www.youtube.com/watch?v=maUL7WSUDOs)
+- [Luke and Leia](https://www.youtube.com/watch?v=l-a_w03ukgo)
+- [Parade of the Ewoks](https://www.youtube.com/watch?v=050qwQArBt8)
+- [Han Solo Returns (At the Court of Jabba the Hutt)](https://www.youtube.com/watch?v=8TjQqeXnnJg)
+- [Lapti Nek (Jabba's Palace Band)](https://www.youtube.com/watch?v=0YwhK5fpOGU)
 - [Main Title (The Story Continues)](https://www.youtube.com/watch?v=eP14omDNAfk)
 - [Into the Trap](https://www.youtube.com/watch?v=Rh0Xbbw9mQo)
 - [Luke and Leia](https://www.youtube.com/watch?v=oSXeOY_Ad4U)
@@ -68,4 +73,4 @@ styles: ["Soundtrack"]
 | Label          | RSO |
 | Catalog Number | 28MW 0031 |
 | Notes | Barnes & Noble "Vinyl Day" Exclusive pressed on gold colored vinyl.  Gatefold sleeve.       |
-| Discogs URL    | [John Williams - Star Wars / Return Of The Jedi - The Original Motion Picture Soundtrack](https://www.discogs.com/release/8902517-John-Williams-Star-Wars-Return-Of-The-Jedi-The-Original-Motion-Picture-Soundtrack) |
+| Discogs URL    | [John Williams - Star Wars / Return Of The Jedi - The Original Motion Picture Soundtrack](https://www.discogs.com/release/8902517-John-Williams-4-Star-Wars-Return-Of-The-Jedi-The-Original-Motion-Picture-Soundtrack) |

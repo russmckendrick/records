@@ -12,9 +12,9 @@ cover:
     alt: "Vivid by Living Colour"
     caption: "Vivid by Living Colour"
 additional_images:
-    - "https://i.discogs.com/PhcooWKkreLkF_B8o0s2_DfOYmPL-P-oZOwXkDc-rpY/rs:fit/g:sm/q:90/h:601/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcwMTE0/My0xMzE3MjEzMzkx/LmpwZWc.jpeg"
+    - "https://i.discogs.com/uTq7j2HRfULVFmRRhpJ7_AvQ-9-UlKuj1StFwh3r3eU/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcwMTE0/My0xMzE3MjEzMzkx/LmpwZWc.jpeg"
     - "https://i.discogs.com/4FtsMl_eNUz7VlA6jR5Oi7LAaTb0GMWE3k-EmIuQBgg/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcwMTE0/My0xMzE3MjEzMzk3/LmpwZWc.jpeg"
-    - "https://i.discogs.com/H6vMa2cGum-Bbh-aCHk_cpLXc1M_fqEGmIQJOi17pWY/rs:fit/g:sm/q:90/h:602/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcwMTE0/My0xMzE3MjEzNDAz/LmpwZWc.jpeg"
+    - "https://i.discogs.com/HhZPI2LBR9O3PTnY8H48Syw4b-rve-FKx65KRfyNO-E/rs:fit/g:sm/q:90/h:600/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcwMTE0/My0xMzE3MjEzNDAz/LmpwZWc.jpeg"
     - "https://i.discogs.com/z_nBplqRcPBIl2NFC7z6GVS89FHwMQvnWcmHwiDdhCA/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcwMTE0/My0xMzE3MjEzNDA5/LmpwZWc.jpeg"
     - "https://i.discogs.com/93e4Iz7Axom3wdMC0G_bOAc4qSNRwwe7CHXpBBEf2fk/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcwMTE0/My0xMzE3MjEzNDEy/LmpwZWc.jpeg"
     - "https://i.discogs.com/8mm-qx0Agzfz2czNRgO-r39t6QX8LrlR9x4doVzEOc0/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcwMTE0/My0xMzE3MjEzNDE3/LmpwZWc.jpeg"
@@ -22,7 +22,7 @@ genres: ["Rock"]
 styles: ["Alternative Rock", "Funk Metal"]
 ---
 
-Vivid is the debut studio album by American band Living Colour, released on May 3, 1988, through Epic Records. It was one of the most popular albums of 1988, peaking at number six on the US Billboard 200 chart and being certified double platinum by the Recording Industry Association of America.
+Vivid is the debut studio album by American rock band Living Colour, released on May 2, 1988, by Epic Records. It was one of the most popular albums of 1988, peaking at number six on the US Billboard 200 chart and being certified double platinum by the Recording Industry Association of America (RIAA).
 
 
     
@@ -43,24 +43,16 @@ Vivid is the debut studio album by American band Living Colour, released on May 
 11. Which Way To America? (3:40)
 
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/vivid-expanded-edition/192967260" >}}<br>
+{{< applemusic url="https://music.apple.com/gb/album/thousand-lifetimes-feat-corey-glover-of-living/1668841353" >}}<br>
 
 
 ## Videos
-### Cult of Personality
-{{< youtube id="gEjlMvDsp9I" title="Cult of Personality" >}}<br>
+### Living Colour - Cult Of Personality (Official Video)
+{{< youtube id="7xxgRUyzgs0" title="Living Colour - Cult Of Personality (Official Video)" >}}<br>
 ### More Videos
 
-- [I Want To Know](https://www.youtube.com/watch?v=gMzHmdo7BEw)
-- [Middle Man](https://www.youtube.com/watch?v=oQl1yqQGJp8)
-- [Desperate People](https://www.youtube.com/watch?v=D3Mb9e8mqsg)
-- [Open Letter (To a Landlord)](https://www.youtube.com/watch?v=yEeyR6F-RCI)
-- [Funny Vibe](https://www.youtube.com/watch?v=R7Dq8CT0l0E)
-- [Memories Can't Wait](https://www.youtube.com/watch?v=VSkm4Dr2AzQ)
-- [Broken Hearts](https://www.youtube.com/watch?v=pO1hImyPtS8)
-- [Glamour Boys](https://www.youtube.com/watch?v=9bvU5Vl0H-M)
-- [What's Your Favorite Color? (Theme Song) (LeBlanc Remix)](https://www.youtube.com/watch?v=hjmS6rlK6oc)
-- [Which Way to America](https://www.youtube.com/watch?v=IokyWj54ZLs)
+- [Living Colour - Type](https://www.youtube.com/watch?v=1HbF3EAt3ck)
+- [Living Colour - Middle Man](https://www.youtube.com/watch?v=FqlVRsA8aFE)
 
 ## Release Images
 {{< imageGrid >}}

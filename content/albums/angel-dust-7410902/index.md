@@ -29,7 +29,8 @@ genres: ["Rock"]
 styles: ["Alternative Rock"]
 ---
 
-Angel Dust is the fourth studio album by American rock band Faith No More, released on June 8, 1992, by Slash and Reprise Records. It is the follow-up to 1989's highly successful The Real Thing, and was the band's final album to feature guitarist Jim Martin. It was also the first album where vocalist Mike Patton had any substantial influence on the band's music, having been hired after the other band members had written and recorded everything for The Real Thing except vocals and most of the lyrics. The band stated that they wanted to move away from the funk metal style of their prior releases, towards a more "theatrical" sound.Angel Dust is Faith No More's best-selling album to date, having sold over 2.5 million copies worldwide. It also debuted at number 10 on the Billboard 200, making it the band's only top-ten album in the United States.
+Angel Dust is the fourth studio album by American rock band Faith No More, released on June 8, 1992, by Slash and Reprise Records. It is the follow-up to 1989's highly successful The Real Thing, and was the band's final album to feature guitarist Jim Martin. It was also the first album where vocalist Mike Patton had any substantial influence on the band's music, having been hired after the other band members had written and recorded everything for The Real Thing except vocals and most of the lyrics. The band stated that they wanted to move away from the funk metal style of their prior releases, towards a more "theatrical" sound.
+Angel Dust is Faith No More's best-selling album to date, having sold over 2.5 million copies worldwide. It also debuted at number 10 on the Billboard 200, making it the band's only top-ten album in the United States.
 
 
     
@@ -67,26 +68,12 @@ Angel Dust is the fourth studio album by American rock band Faith No More, relea
 
 
 ## Videos
-### Faith No More - Easy
-{{< youtube id="MoE6SeSm268" title="Faith No More - Easy" >}}<br>
+### Faith No More - Midlife Crisis (Official Music Video)
+{{< youtube id="U8b88US-6ts" title="Faith No More - Midlife Crisis (Official Music Video)" >}}<br>
 ### More Videos
 
-- [Faith No More ‎– Midlife Crisis](https://www.youtube.com/watch?v=6OGRzxTn-AU)
-- [Faith No More - Angel Dust (Full Album) [Official]](https://www.youtube.com/watch?v=k0tUb-87kP8)
-- [Faith No More ‎– Easy](https://www.youtube.com/watch?v=3rYQf_W1JtE)
-- [Land of Sunshine](https://www.youtube.com/watch?v=Sah7NvCSO9Y)
-- [Faith No More ‎– A Small Victory](https://www.youtube.com/watch?v=EaHEPyNeIZc)
-- [Faith No More - Midlife Crisis (Official Music Video)](https://www.youtube.com/watch?v=U8b88US-6ts)
-- [Smaller and Smaller](https://www.youtube.com/watch?v=kW_uhFAb8kQ)
-- [Faith No More - Everything's Ruined (Official Music Video)](https://www.youtube.com/watch?v=usGQjN87BUA)
-- [Malpractice](https://www.youtube.com/watch?v=QYN0CntLzcE)
-- [Kindergarten](https://www.youtube.com/watch?v=VRgL4mr8lPo)
-- [Be Aggressive](https://www.youtube.com/watch?v=m3M6q4w7wO0)
 - [Faith No More - A Small Victory (Official Music Video)](https://www.youtube.com/watch?v=i9_hCjcFNO0)
-- [Crack Hitler](https://www.youtube.com/watch?v=2WIoVVwMZTE)
-- [Jizzlobber](https://www.youtube.com/watch?v=5456JZPWAvY)
-- [Midnight Cowboy (Theme From)](https://www.youtube.com/watch?v=OwAlFtRY3FQ)
-- [Midlife Crisis by Faith No More](https://www.youtube.com/watch?v=FoQIuDEHVng)
+- [Faith No More - Angel Dust (Full Album) [Official]](https://www.youtube.com/watch?v=k0tUb-87kP8)
 
 ## Release Images
 {{< imageGrid >}}

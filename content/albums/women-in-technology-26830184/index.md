@@ -23,6 +23,8 @@ styles: ["Synth-pop"]
 ---
 
 Women in Technology is the second studio album by British recording artist White Town, released on 25 February 1997. The album is most known for the song "Your Woman" which was its only top 40 single. The song received much acclaim and reached #1 in the UK Singles Chart. A second single, released as a promo, was made of "Wanted" and failed to chart anywhere. The album's third single "Undressed" reached 57. The album was recorded entirely at Jyoti Mishra's home studio.
+
+
     
     
 
@@ -42,21 +44,27 @@ Women in Technology is the second studio album by British recording artist White
 12. Once I Flew (4:24)
 
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/women-in-technology/696586755" >}}<br>
+{{< applemusic url="https://music.apple.com/gb/album/women-in-technology/1675516474" >}}<br>
 
 
 ## Videos
-### White Town - Your Woman (Official HD Video)
-{{< youtube id="lVL-zZnD3VU" title="White Town - Your Woman (Official HD Video)" >}}<br>
+### White Town - Undressed
+{{< youtube id="5eojNszZM_M" title="White Town - Undressed" >}}<br>
 ### More Videos
 
-- [Going Nowhere Somehow](https://www.youtube.com/watch?v=HF-l8hPSoOA)
-- [Wanted](https://www.youtube.com/watch?v=IFRhTDX6YpY)
-- [White Town](https://www.youtube.com/watch?v=uqkBq731t8s)
-- [Undressed](https://www.youtube.com/watch?v=9L_VMMi7lMo)
-- [Shape Of Love](https://www.youtube.com/watch?v=_Dg0t3e280g)
-- [The Function Of The Orgasm](https://www.youtube.com/watch?v=F0OMmwtMlK8)
-- [Once I Flew](https://www.youtube.com/watch?v=H2fHAc2wEmU)
+- [Undressed](https://www.youtube.com/watch?v=l_BT4eLVRpw)
+- [Thursday at The Blue Note](https://www.youtube.com/watch?v=EBAfD12hkxI)
+- [White Town - A Week Next June](https://www.youtube.com/watch?v=X5lgXUo-83Q)
+- [White Town - Your Woman (Official HD Video)](https://www.youtube.com/watch?v=lVL-zZnD3VU)
+- [White Town](https://www.youtube.com/watch?v=Qr_i3FyV0mw)
+- [The Shape of Love](https://www.youtube.com/watch?v=pUKEOEoefpo)
+- [Wanted](https://www.youtube.com/watch?v=uGeouN4beCg)
+- [The Function of the Orgasm](https://www.youtube.com/watch?v=JHYYhmidjws)
+- [Going Nowhere Somehow](https://www.youtube.com/watch?v=laIJ-yUIWP0)
+- [Theme for an Early Evening American Sitcom](https://www.youtube.com/watch?v=HM1RaIBzNSA)
+- [The Death of My Desire](https://www.youtube.com/watch?v=wciHPPnMk9s)
+- [White Town - Once I Flew](https://www.youtube.com/watch?v=6alULgsAyqA)
+- [Wanted (Warped Remix)](https://www.youtube.com/watch?v=8HB43g9OWRQ)
 
 ## Release Images
 {{< imageGrid >}}

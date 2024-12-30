@@ -12,7 +12,8 @@ cover:
     alt: "Foxbase Beta by Saint Etienne"
     caption: "Foxbase Beta by Saint Etienne"
 additional_images:
-    - "https://i.discogs.com/C_qgw2iZ2RM-efqnTsU4qbSzWRRMP_qmi2AdzKURv0E/rs:fit/g:sm/q:90/h:540/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyODc2/NjI2LTE1NDM5NDQ4/ODgtNjY3MC5qcGVn.jpeg"
+    - "https://i.discogs.com/cZx8me9LCsbzTo4XqDJ5p0EA9NfdJt854jLYyyNzse4/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyODc2/NjI2LTE3MDQ0NDk5/NDQtNDM4OC5qcGVn.jpeg"
+    - "https://i.discogs.com/HYaf9zp_s1sLgJIg-_OB6NIOJcPEmkkctSXR91mn3ec/rs:fit/g:sm/q:90/h:589/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyODc2/NjI2LTE3MDQ0NDk5/NDQtODA0NS5qcGVn.jpeg"
 genres: ["Electronic", "Pop"]
 styles: ["Indie Pop", "Synth-pop", "Electro", "House", "Dance-pop"]
 ---
@@ -43,12 +44,15 @@ styles: ["Indie Pop", "Synth-pop", "Electro", "House", "Dance-pop"]
 {{< youtube id="pnQChL9V88g" title="Saint Etienne - Only Love Can Break Your Heart (Fox Base Beta Mix)" >}}<br>
 ### More Videos
 
+- [Saint Etienne - SPRING [FoxBase Beta Mix]](https://www.youtube.com/watch?v=oueyvUMWr_k)
+- [Saint Etienne - Only Love Can Break Your Heart (Fox Base Beta Mix)](https://www.youtube.com/watch?v=pnQChL9V88g)
 - [Saint Etienne Only Love Can Break Your Heart (Foxbase Beta Instrumental)](https://www.youtube.com/watch?v=jH2kiQsVMlk)
 - [Saint Etienne - Spring (Air France Remix)](https://www.youtube.com/watch?v=WtMKMAB31mw)
 - [Saint Etienne - Stoned to Say the Least](https://www.youtube.com/watch?v=UgwP9Tbp9f0)
 - [Saint Etienne - Only Love Can Break Your Heart (Richard X Remix)](https://www.youtube.com/watch?v=9rCeHdSEMC8)
 - [Saint Etienne - Spring](https://www.youtube.com/watch?v=_UBdFKGpdX4)
 - [Saint Etienne - Carnt Sleep](https://www.youtube.com/watch?v=XOUMSijvnhY)
+- [Saint Etienne - Only Love Can Break Your Heart (Fox Base Beta Mix)](https://www.youtube.com/watch?v=pnQChL9V88g)
 - [Saint Etienne - SPRING [FoxBase Beta Mix]](https://www.youtube.com/watch?v=oueyvUMWr_k)
 
 ## Release Images

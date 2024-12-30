@@ -13,9 +13,9 @@ cover:
     caption: "Two by Dubstar"
 additional_images:
     - "https://i.discogs.com/9XVIMuq5n3s24oM9gA7oli9wqq5hG0xiOpfYlPbRenM/rs:fit/g:sm/q:90/h:593/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMTQ0/NDExLTE2NTM3NTMw/MDktNjQwNy5qcGVn.jpeg"
-    - "https://i.discogs.com/lUvNw_jXNVUZKKt95KE-MCG-4Ycnnrac9l-KxeJ1BfY/rs:fit/g:sm/q:90/h:604/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMTQ0/NDExLTE2NTM3NTM1/MzctODQ5Ni5qcGVn.jpeg"
+    - "https://i.discogs.com/Skk4ncQww5hghd3n6U74PC91uZqmwbQJVsmc8-2s3og/rs:fit/g:sm/q:90/h:600/w:595/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMTQ0/NDExLTE2NTM3NTM1/MzctODQ5Ni5qcGVn.jpeg"
     - "https://i.discogs.com/Dote4YyeXN6AyG3NpiA37B0I_qfetiBfl7rlIm4_Grc/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMTQ0/NDExLTE2NTM3NTM1/NDEtNzk0Mi5qcGVn.jpeg"
-    - "https://i.discogs.com/HNh7h0xzKkoW78AB2rWFBEZ5GkXAIDHTkXNZZmrs7YQ/rs:fit/g:sm/q:90/h:636/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMTQ0/NDExLTE2NTE5MzA1/NjctMjAwMi5wbmc.jpeg"
+    - "https://i.discogs.com/7334H7JC6u3MVSmAf48dY5A8PcnIqomc5CTS39zJoRw/rs:fit/g:sm/q:90/h:600/w:565/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMTQ0/NDExLTE2NTE5MzA1/NjctMjAwMi5wbmc.jpeg"
     - "https://i.discogs.com/S4pO6n-ovOKCxtRrWTfLl-lx7pcPsvhzrAN1ppd4yjs/rs:fit/g:sm/q:90/h:404/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMTQ0/NDExLTE2NTM3NTMw/NTEtNzI0Mi5qcGVn.jpeg"
 genres: ["Electronic", "Pop"]
 styles: ["Synth-pop"]
@@ -36,7 +36,7 @@ styles: ["Synth-pop"]
 10. Perfect Circle (4:12)
 
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/two/1605798448" >}}<br>
+{{< applemusic url="https://music.apple.com/gb/album/dubstar2-single/1738192791" >}}<br>
 
 
 ## Videos
@@ -44,10 +44,10 @@ styles: ["Synth-pop"]
 {{< youtube id="IaHHRY9gpcs" title="Dubstar  - Token (Widescreen Mix) Official Artist Video" >}}<br>
 ### More Videos
 
-- [Dubstar - Tectonic Plates (Official Artist Lyric Video)](https://www.youtube.com/watch?v=tZN50XYHYUQ)
+- [Dubstar - "Tectonic Plates" (Official Artist Lyric Video)](https://www.youtube.com/watch?v=tZN50XYHYUQ)
 - [Lighthouse](https://www.youtube.com/watch?v=yH6tQGzAJoY)
 - [Dubstar - Tears (Visualiser)](https://www.youtube.com/watch?v=VgnS0oSovec)
-- [Dubstar - Hygiene Strip (Official Artist Lyric Video)](https://www.youtube.com/watch?v=W4efy7WBvpA)
+- [Dubstar - "Hygiene Strip" (Official Artist Lyric Video)](https://www.youtube.com/watch?v=W4efy7WBvpA)
 - [Blood](https://www.youtube.com/watch?v=SBoUO0_Wy0Q)
 - [Social Proof](https://www.youtube.com/watch?v=MRN--n7Dmpc)
 - [Kissing To Be Unkind](https://www.youtube.com/watch?v=loOtBBDsZZo)
@@ -67,4 +67,4 @@ styles: ["Synth-pop"]
 | Label          | Northern Writes |
 | Catalog Number | NW009VW |
 | Notes | Hype sticker: Limited edition white vinyl.  Initial copies from Rough Trade East, London came with a signed print.  |
-| Discogs URL    | [Dubstar - Two](https://www.discogs.com/release/23144411-Dubstar-Two) |
+| Discogs URL    | [Dubstar - Two](https://www.discogs.com/release/23144411-Dubstar-2-Two) |

@@ -19,8 +19,8 @@ additional_images:
     - "https://i.discogs.com/IsVQzeEQRO_Nvg1Azn3lPRAiLREvrhIX76QWBkuJTSA/rs:fit/g:sm/q:90/h:589/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk4NTIw/MzYtMTQ4NzU4ODU3/NS0zMjI4LmpwZWc.jpeg"
     - "https://i.discogs.com/5Cqiny8h22woaECzNHG9SPQvSM5RSB44eDNOkqP003g/rs:fit/g:sm/q:90/h:585/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk4NTIw/MzYtMTQ4NzU4ODU4/OS03Nzc4LmpwZWc.jpeg"
     - "https://i.discogs.com/r_NHl7fb9DZrDWwzbSIvU9I3ucZ_8mtynag2-pEK8zA/rs:fit/g:sm/q:90/h:594/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk4NTIw/MzYtMTQ4NzU4ODYw/Ni05OTA1LmpwZWc.jpeg"
-    - "https://i.discogs.com/Nk3v69wu8NDiBMrAhZnzxcAAZZEhjd8rezTQwd6ZuJE/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk4NTIw/MzYtMTQ4NzU4ODYy/My0xNjAyLmpwZWc.jpeg"
-    - "https://i.discogs.com/gmEAXJUcjOjjzZX4zfX40Q_0Id4t6t2gsboeL_xdp0Y/rs:fit/g:sm/q:90/h:603/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk4NTIw/MzYtMTQ4NzU4ODYz/NS01NDkxLmpwZWc.jpeg"
+    - "https://i.discogs.com/rKvyYKMqoBgM0BKjxjPYN6TFrIY8cybyTH9K3psMzTc/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk4NTIw/MzYtMTQ4NzU4ODYy/My0xNjAyLmpwZWc.jpeg"
+    - "https://i.discogs.com/Ivl1Wk7UKu7G0-wQ1A8yD4SB9RdSzh9DtnbR8oxGCuQ/rs:fit/g:sm/q:90/h:600/w:596/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk4NTIw/MzYtMTQ4NzU4ODYz/NS01NDkxLmpwZWc.jpeg"
     - "https://i.discogs.com/UZWPMccX-Hf3yq44lbPFLo0wuobw8E8ejPdWku6Aex0/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk4NTIw/MzYtMTQ4NzU4ODY1/MS01NTk0LmpwZWc.jpeg"
     - "https://i.discogs.com/8jxsLIEKQKAsOq5drX448FBzB4045Rv7LyFm8cV8NJc/rs:fit/g:sm/q:90/h:281/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk4NTIw/MzYtMTQ4NzU4ODkw/Ny05OTk3LmpwZWc.jpeg"
 genres: ["Rock"]
@@ -52,8 +52,8 @@ styles: ["Prog Rock"]
 
 
 ## Videos
-### Tim Bowness - Lost In The Ghost Light album trailer
-{{< youtube id="MSh-64nnnSM" title="Tim Bowness - Lost In The Ghost Light album trailer" >}}<br>
+### Tim Bowness - "Lost In The Ghost Light" album trailer
+{{< youtube id="MSh-64nnnSM" title="Tim Bowness - "Lost In The Ghost Light" album trailer" >}}<br>
 ### More Videos
 
 - [Tim Bowness - Kill the Pain That's Killing You](https://www.youtube.com/watch?v=6rCXh6FAsZ0)

@@ -12,12 +12,12 @@ cover:
     alt: "Our New Orleans 2005, A Benefit Album by Various"
     caption: "Our New Orleans 2005, A Benefit Album by Various"
 additional_images:
-    - "https://i.discogs.com/OQ2zVTMn2suYNBQ6I5tnQPg5M68knBnlFTfAzRVHQ-s/rs:fit/g:sm/q:90/h:604/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2OTE2/NjM0LTE2MTA1ODI2/MTEtNDYwOC5qcGVn.jpeg"
-    - "https://i.discogs.com/thMpmVRectaSKVGjrnIfK51sEyd7EXEiXZIN_OKCG_U/rs:fit/g:sm/q:90/h:603/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2OTE2/NjM0LTE2MTA1ODI2/MTgtOTMzNC5qcGVn.jpeg"
-    - "https://i.discogs.com/M_ZHUXmj4iKjVg4lvYb9FLZpvyoP4S-cn0gvwtMu00w/rs:fit/g:sm/q:90/h:800/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2OTE2/NjM0LTE2MTA1ODI2/MzAtNzU2OS5qcGVn.jpeg"
-    - "https://i.discogs.com/tRIaFGtkTu9exAqMfV9-2gUZWjHLEdcoAmpecMFxOhs/rs:fit/g:sm/q:90/h:800/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2OTE2/NjM0LTE2MTA1ODI2/NDAtNDczMy5qcGVn.jpeg"
-    - "https://i.discogs.com/JfbYkUauj1UJ7RUMQsIjqeBVdEYCpT07ipLjRa0rCdo/rs:fit/g:sm/q:90/h:800/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2OTE2/NjM0LTE2MTA1ODI2/NTAtMTg2OC5qcGVn.jpeg"
-    - "https://i.discogs.com/q0XjBpQQmtiKs3uvxZDZXLYNvRPeD6Fo7dw6OB1cP4A/rs:fit/g:sm/q:90/h:800/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2OTE2/NjM0LTE2MTA1ODI2/NTQtODM1MC5qcGVn.jpeg"
+    - "https://i.discogs.com/51-NlwutbNJf7yrXDaBn-FCWhlYPczTeNNDrmJD4K1o/rs:fit/g:sm/q:90/h:600/w:595/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2OTE2/NjM0LTE2MTA1ODI2/MTEtNDYwOC5qcGVn.jpeg"
+    - "https://i.discogs.com/nHhKfKnvykfQ90k_HjVVQ07RwEBegVEGp3cS4ayBJGI/rs:fit/g:sm/q:90/h:600/w:596/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2OTE2/NjM0LTE2MTA1ODI2/MTgtOTMzNC5qcGVn.jpeg"
+    - "https://i.discogs.com/pxlUkSiF_Lw0jFl99KWVZgv2k-2pcAbhBK64W1yj_NI/rs:fit/g:sm/q:90/h:600/w:450/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2OTE2/NjM0LTE2MTA1ODI2/MzAtNzU2OS5qcGVn.jpeg"
+    - "https://i.discogs.com/KXGxxgNqUOYrHd-W8MJXNNM4TlvNcUEAJIZ_SrVXfOs/rs:fit/g:sm/q:90/h:600/w:450/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2OTE2/NjM0LTE2MTA1ODI2/NDAtNDczMy5qcGVn.jpeg"
+    - "https://i.discogs.com/M2F3BZyebYifSFYUE_0HegMaJKJmNVuQvmu6gqrS9tw/rs:fit/g:sm/q:90/h:600/w:450/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2OTE2/NjM0LTE2MTA1ODI2/NTAtMTg2OC5qcGVn.jpeg"
+    - "https://i.discogs.com/cAYCw38P_uvlDPZtuKK7b4zgXFjYn0UE4b3uOK7Q1qs/rs:fit/g:sm/q:90/h:600/w:450/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2OTE2/NjM0LTE2MTA1ODI2/NTQtODM1MC5qcGVn.jpeg"
     - "https://i.discogs.com/j0NdU-IeBZAoRuiKz_IB_L4wN0lYoS5rZjQmR5loBv4/rs:fit/g:sm/q:90/h:450/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2OTE2/NjM0LTE2MTA1ODI2/NjUtMjg3NC5qcGVn.jpeg"
 genres: ["Jazz", "Funk / Soul", "Blues", "Brass & Military", "Folk, World, & Country"]
 styles: ["Louisiana Blues", "Cajun", "Bayou Funk", "Ragtime"]

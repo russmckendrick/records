@@ -14,12 +14,15 @@ cover:
 additional_images:
     - "https://i.discogs.com/vJcNStOtA5ThPOtVB3lcjTq8YIjLSfAkkLmTpUZDkYI/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcyMzU4/NzMtMTQzNjgxNTIx/NS0yMjAzLmpwZWc.jpeg"
     - "https://i.discogs.com/Ho-G9D9Z1gCz-h45zGtOa5btNRmaR9F4tKqw58_XizE/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcyMzU4/NzMtMTQzNjgxNTIy/MS0xMTU3LmpwZWc.jpeg"
-    - "https://i.discogs.com/T9MB0MftMouYewNEesBF8-Ve0qXxc8EVIjzwWtiWO6I/rs:fit/g:sm/q:90/h:602/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcyMzU4/NzMtMTQzNjgxNTIy/OS04OTUzLmpwZWc.jpeg"
+    - "https://i.discogs.com/tBVkyUr-OLnkweYoX4XNG0BoSwboEWuBolsZKOFrYdc/rs:fit/g:sm/q:90/h:600/w:597/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcyMzU4/NzMtMTQzNjgxNTIy/OS04OTUzLmpwZWc.jpeg"
     - "https://i.discogs.com/0hvGBWCemUfNekVM2EB_22lJWFaCVaQNSKY4v008G6Q/rs:fit/g:sm/q:90/h:277/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcyMzU4/NzMtMTQzNjgxNTIz/Ni0xOTM0LmpwZWc.jpeg"
 genres: ["Rock", "Funk / Soul"]
 styles: ["Pop Rock", "Funk"]
 ---
 
+Mr. Love Pants is a 1998 album by Ian Dury and the Blockheads, released on East Central One under Dury's own label Ronnie Harris Records (named after his accountant).
+    
+    
 
 
 ## Tracklisting
@@ -35,21 +38,23 @@ styles: ["Pop Rock", "Funk"]
 10. Mash It Up Harry (5:53)
 
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/mr-love-pants/1489403955" >}}<br>
+{{< applemusic url="https://music.apple.com/gb/album/mr-love-pants/1488482663" >}}<br>
 
 
 ## Videos
-### Ian Dury & The Blockheads- Honeysuckle Highway (Demo)
-{{< youtube id="Mn78lswQ3Hw" title="Ian Dury & The Blockheads- Honeysuckle Highway (Demo)" >}}<br>
+### Jack Shit George
+{{< youtube id="ZI8UihgKkX0" title="Jack Shit George" >}}<br>
 ### More Videos
 
-- [Mash It Up Harry](https://www.youtube.com/watch?v=MNV1SAc7z2M)
-- [You're My Baby](https://www.youtube.com/watch?v=EmlL0LmiNPM)
 - [The Passing Show](https://www.youtube.com/watch?v=8-HL4zg1h6c)
-- [Ian Dury And The Blockheads - Bed O' Roses No. 9](https://www.youtube.com/watch?v=bABopKlvXN8)
+- [You're My Baby](https://www.youtube.com/watch?v=EmlL0LmiNPM)
+- [Honeysuckle Highway](https://www.youtube.com/watch?v=ltZb-C1CeN4)
+- [Itinerant Child](https://www.youtube.com/watch?v=2GdLUKnUc58)
 - [Geraldine](https://www.youtube.com/watch?v=adzFl4xqR2k)
+- [Cacka Boom](https://www.youtube.com/watch?v=50TajQCnFWU)
+- [Bed O'Roses No.9](https://www.youtube.com/watch?v=EaRT5ITQgqs)
 - [Heavy Living](https://www.youtube.com/watch?v=3wdt9eExM4M)
-- [Ian Dury & The Blockheads - Jack Shit George](https://www.youtube.com/watch?v=BVhbpOYccjg)
+- [Mash It Up Harry](https://www.youtube.com/watch?v=MNV1SAc7z2M)
 
 ## Release Images
 {{< imageGrid >}}
@@ -57,6 +62,7 @@ styles: ["Pop Rock", "Funk"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
+| Wikipedia URL | https://en.wikipedia.org/wiki/Mr._Love_Pants |
 | Format         | Vinyl LP Album Reissue |
 | Label          | Demon Records |
 | Catalog Number | DEMREC62 |

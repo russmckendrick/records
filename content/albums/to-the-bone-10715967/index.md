@@ -25,7 +25,7 @@ additional_images:
     - "https://i.discogs.com/bz11EB9yty44wOGQawXpRDR9JXvX3WriHJc1iWmhyLc/rs:fit/g:sm/q:90/h:300/w:300/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNzE1/OTY3LTE1MDQ2Mzk0/OTktMjE2Mi5qcGVn.jpeg"
     - "https://i.discogs.com/NFEaDwVbh1_oBGJ6msCRPsQVWCqYA29WeKH9WcIn8n0/rs:fit/g:sm/q:90/h:300/w:300/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNzE1/OTY3LTE1MDQ2Mzk1/MDgtODgzMC5qcGVn.jpeg"
     - "https://i.discogs.com/Cyd5s1pWIR2RDyZWWRHeQ2Bqx8EJu_Wka_-OwvFT8iE/rs:fit/g:sm/q:90/h:195/w:500/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNzE1/OTY3LTE1MDYyODA3/OTItNDA2OC5qcGVn.jpeg"
-    - "https://i.discogs.com/7suuI9aIgeT8Mei-obJVvZD2evHRGkimwk2PiRnmoFY/rs:fit/g:sm/q:90/h:630/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNzE1/OTY3LTE1MDYyODA4/MDAtMzA0Mi5qcGVn.jpeg"
+    - "https://i.discogs.com/iPQsw48wndXYGIazVytI9jvftCeFDSPYwL3szCmkMYY/rs:fit/g:sm/q:90/h:600/w:570/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNzE1/OTY3LTE1MDYyODA4/MDAtMzA0Mi5qcGVn.jpeg"
     - "https://i.discogs.com/u9hgo8sFeBCPowOwxzn3GZH9GUgcOiXaXsp3sidLwIk/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNzE1/OTY3LTE1MDYyODA3/OTQtNDg2NC5qcGVn.jpeg"
 genres: ["Rock", "Pop"]
 styles: ["Prog Rock", "Pop Rock", "Art Rock"]
@@ -59,13 +59,25 @@ On his fifth solo record, the prolific Steven Wilson builds a monumentally lush 
 {{< youtube id="MhMFjUNu3qM" title="To The Bone - Steven Wilson - 45rpm Vinyl HQ Audio 4k" >}}<br>
 ### More Videos
 
-- [To The Bone](https://www.youtube.com/watch?v=3vdhuHmjrw8)
 - [Permanating - Steven Wilson - 45rpm Vinyl HQ Audio 4k](https://www.youtube.com/watch?v=6ZQF72Ihqnk)
 - [Pariah - Steven Wilson - 45rpm Vinyl HQ Audio 4k](https://www.youtube.com/watch?v=NSDex70Anr4)
 - [The Same Asylum As Before - Steven Wilson - 45rpm Vinyl HQ Audio 4k](https://www.youtube.com/watch?v=ris66JWNPJU)
 - [Refuge - Steven Wilson - 45rpm Vinyl HQ Audio 4k](https://www.youtube.com/watch?v=TBDlvHTUzjg)
 - [Nowhere Now - Steven Wilson - 45rpm Vinyl HQ Audio 4k](https://www.youtube.com/watch?v=Nb0maxV5xV8)
 - [To The Bone - Steven Wilson](https://www.youtube.com/watch?v=8Pa2BHCkhg4)
+- [To The Bone - Steven Wilson - 45rpm Vinyl HQ Audio 4k](https://www.youtube.com/watch?v=MhMFjUNu3qM)
+- [Permanating - Steven Wilson - 45rpm Vinyl HQ Audio 4k](https://www.youtube.com/watch?v=6ZQF72Ihqnk)
+- [Pariah - Steven Wilson - 45rpm Vinyl HQ Audio 4k](https://www.youtube.com/watch?v=NSDex70Anr4)
+- [The Same Asylum As Before - Steven Wilson - 45rpm Vinyl HQ Audio 4k](https://www.youtube.com/watch?v=ris66JWNPJU)
+- [Refuge - Steven Wilson - 45rpm Vinyl HQ Audio 4k](https://www.youtube.com/watch?v=TBDlvHTUzjg)
+- [Nowhere Now - Steven Wilson - 45rpm Vinyl HQ Audio 4k](https://www.youtube.com/watch?v=Nb0maxV5xV8)
+- [To The Bone - Steven Wilson](https://www.youtube.com/watch?v=8Pa2BHCkhg4)
+- [To The Bone](https://www.youtube.com/watch?v=3vdhuHmjrw8)
+- [To The Bone - Steven Wilson](https://www.youtube.com/watch?v=8Pa2BHCkhg4)
+- [Steven Wilson - To The Bone Album METAL 2017](https://www.youtube.com/watch?v=mOG8Nb51Tx4)
+- [Blank Tapes](https://www.youtube.com/watch?v=nnhTmFiR8DY)
+- [Detonation](https://www.youtube.com/watch?v=SkVikPiahBM)
+- [To The Bone](https://www.youtube.com/watch?v=3vdhuHmjrw8)
 
 ## Release Images
 {{< imageGrid >}}

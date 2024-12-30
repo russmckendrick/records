@@ -14,12 +14,19 @@ cover:
 additional_images:
     - "https://i.discogs.com/wbb9hOXEVcjvqTC7tPBuWJu9AnMGb0Q0lgDWTFLevTU/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYyNTI3/NjMtMTQxNTg5MDky/OC04MzIyLmpwZWc.jpeg"
     - "https://i.discogs.com/sHytCFSrNLxEWAwveBwIjjnuRZ3sQIzyByGisFmmHSc/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYyNTI3/NjMtMTQxNTg5MDky/Ny04NjAxLmpwZWc.jpeg"
+    - "https://i.discogs.com/YbyCvbf5BaaKmsMWXavpq0XmyCx7_z4-I0AFny7O7pY/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYyNTI3/NjMtMTcwMjgwODkw/Ny0yMDUyLmpwZWc.jpeg"
+    - "https://i.discogs.com/Eca7Xbc1TTRqXfa9kBBsqTptPHQC4iE83MIwuFO-fcA/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYyNTI3/NjMtMTcwMjgwODkw/NS00MjEyLmpwZWc.jpeg"
+    - "https://i.discogs.com/_SBGUNCZSunUex_drphqD1wGHBjrLTabpKbXF0Q0Ico/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYyNTI3/NjMtMTcwMjgwODkw/NC0zMjUxLmpwZWc.jpeg"
+    - "https://i.discogs.com/QZuZCRkEXURwikGXNcFl4lu5mYv_qdZVKkHKEFUAFsM/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYyNTI3/NjMtMTcwMjgwODkw/NC02ODQ4LmpwZWc.jpeg"
 genres: ["Hip Hop"]
 styles: ["Conscious"]
 ---
 
-3 Years, 5 Months and 2 Days in the Life Of... is the debut album by American hip hop group Arrested Development, released on March 24, 1992. The album's chart success ignited the popularization of Southern hip hop. Named after the length of time it took the group to get a record contract, 3 Years, 5 Months and 2 Days in the Life Of... starkly contrasted the gangsta rap that ruled the hip hop charts in 1992 (such as Dr. Dre's The Chronic), focusing on spirituality, peace and love.The album is also included in Robert Dimery's book 1001 Albums You Must Hear Before You Die.
+3 Years, 5 Months and 2 Days in the Life Of... is the debut album by American hip hop group Arrested Development, released on March 24, 1992. The album's chart success ignited the popularization of Southern hip hop. Named after the length of time it took the group to get a record contract, 3 Years, 5 Months and 2 Days in the Life Of... starkly contrasted the gangsta rap that ruled the hip hop charts in 1992 (such as Dr. Dre's The Chronic), focusing on spirituality, peace and love.
+Upon release, the album received praise by critics. It is included in Robert Dimery's book 1001 Albums You Must Hear Before You Die.
 The song "Tennessee" is part of The Rock and Roll Hall of Fame's 500 Songs that Shaped Rock and Roll list.
+
+
     
     
 
@@ -46,14 +53,15 @@ The song "Tennessee" is part of The Rock and Roll Hall of Fame's 500 Songs that 
 
 
 ## Videos
-### People Everyday - Arrested Development
-{{< youtube id="QlKWz_FcVoo" title="People Everyday - Arrested Development" >}}<br>
+### Arrested Development - Mr. Wendal
+{{< youtube id="GfxvsHpTZWk" title="Arrested Development - Mr. Wendal" >}}<br>
 ### More Videos
 
+- [People Everyday - Arrested Development](https://www.youtube.com/watch?v=QlKWz_FcVoo)
 - [3̲ ̲Y̲e̲a̲r̲s̲,̲ ̲5̲ ̲M̲o̲n̲t̲h̲s̲ ̲A̲n̲d̲ ̲2̲ ̲D̲a̲y̲s̲ ̲I̲n̲ ̲T̲h̲e̲ ̲L̲i̲f̲e̲ ̲O̲f̲.̲.̲.̲](https://www.youtube.com/watch?v=GMGXnL78xmQ)
 - [Arrested Development - Tennessee](https://www.youtube.com/watch?v=6VCdJyOAQYM)
-- [Man's Final Frontier](https://www.youtube.com/watch?v=yaY3slfWuRE)
 - [Arrested Development - Mr. Wendal](https://www.youtube.com/watch?v=GfxvsHpTZWk)
+- [Man's Final Frontier](https://www.youtube.com/watch?v=yaY3slfWuRE)
 - [Mama's Always On Stage](https://www.youtube.com/watch?v=4rYpFKBzGS4)
 - [People Everyday](https://www.youtube.com/watch?v=eBpiJysWvK8)
 - [Blues Happy](https://www.youtube.com/watch?v=kWSKhBd2HVM)

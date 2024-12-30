@@ -20,11 +20,11 @@ genres: ["Rock"]
 styles: ["Alternative Rock", "Folk Rock"]
 ---
 
-A Weapon Called the Word is the debut album by the Levellers, released in April 1990. The album contains re-recorded tracks from the band's first two E.P. recordings: Carry Me E.P. (upon which the tracks "Carry Me" and "England My Home" were originally released) and Outside/Inside E.P. (which contained "Outside/Inside", "Barrel of the Gun" and "I Have No Answers"). The band did not re-record the track "The Last Days of Winter" from the Carry Me E.P. despite the fact the album's title A Weapon Called the Word is taken from that song.
-Two versions of the album exist: the original 1990 release which has 12 tracks (the first twelve listed below) and a 1996 re-release by Musidisc which added two live recordings of the band's guitarist/vocalists Mark Chadwick and Simon Friend plus a remix of the track "Three Friends" to the end of the album.
+A Weapon Called the Word is the debut album by English folk rock band the Levellers, released in 1990. The album contains re-recorded tracks from the band's first two E.P. recordings: Carry Me E.P. (upon which the tracks "Carry Me" and "England My Home" were originally released) and Outside/Inside E.P. (which contained "Outside/Inside", "Barrel of the Gun" and "I Have No Answers"). The band did not re-record the track "The Last Days of Winter" from the Carry Me E.P. despite the fact the album's title A Weapon Called the Word is taken from that song.
+Two versions of the album exist: the original 1990 release which has 12 tracks and a 1996 re-release by Musidisc which added two live recordings of the band's guitarist/vocalists Mark Chadwick and Simon Friend plus a remix of the track "Three Friends" to the end of the album.
 This album is noteworthy in the Levellers' catalogue for being the only full-length album to feature the musical input of Alan Miles, who played guitar, harmonica and mandolin and supplied backing vocals as well as contributing musical arrangements. He was subsequently replaced by vocalist and multi-instrumentalist Simon Friend.
 The 1996 re-release credits Simon Friend in the liner notes despite him not being a band member at the time of recording. This is due to the added live tracks "Social Insecurity" and "Cardboard Box City" being written and sung by Friend.
-A Weapon Called the Word has achieved platinum status despite never having appeared in the album charts, a rare feat reflecting steady and consistent sales rather than strong initial sales. Only "World Freakshow" was released as a single, as Musidisc's alleged mismanagement of the promotion and pressing of the single led the Levellers to part company with the label shortly after release.
+A Weapon Called the Word has achieved gold status, despite never having appeared in the album charts, a rare feat reflecting steady and consistent sales rather than strong initial sales. Only "World Freakshow" was released as a single, as Musidisc's alleged mismanagement of the promotion and pressing of the single led the Levellers to part company with the label shortly after release.
     
     
 
@@ -52,15 +52,20 @@ A Weapon Called the Word has achieved platinum status despite never having appea
 {{< youtube id="Xe71vrfSVWI" title="World Freak Show - Levellers" >}}<br>
 ### More Videos
 
-- [The Levellers- Carry me](https://www.youtube.com/watch?v=3MLcEWaqk4k)
-- [Barrel Of The Gun](https://www.youtube.com/watch?v=KQUwOfR0JJw)
-- [The Levellers - Barrel Of The Gun](https://www.youtube.com/watch?v=bpnvmj2ek7A)
-- [Carry Me - Levellers](https://www.youtube.com/watch?v=uV-F-LGGtl0)
 - [England My Home](https://www.youtube.com/watch?v=grQVSNBqZkY)
 - [Ballard of Robbie Jones by: The Levellers](https://www.youtube.com/watch?v=kEVN8ZBU33Q)
 - [The Levellers - Blind Faith](https://www.youtube.com/watch?v=ndh0u8gPkV4)
 - [I have No Answers](https://www.youtube.com/watch?v=SKm3ibf_g4I)
-- [The Levellers - What You Know](https://www.youtube.com/watch?v=AiePzwMaXNg)
+- [The Levellers Three friends](https://www.youtube.com/watch?v=G4CiD0xRrdU)
+- [The Levellers- Carry me](https://www.youtube.com/watch?v=3MLcEWaqk4k)
+- [World Freak Show - Levellers](https://www.youtube.com/watch?v=Xe71vrfSVWI)
+- [Barrel Of The Gun](https://www.youtube.com/watch?v=KQUwOfR0JJw)
+- [Carry Me - Levellers](https://www.youtube.com/watch?v=uV-F-LGGtl0)
+- [World Freak Show - Levellers](https://www.youtube.com/watch?v=Xe71vrfSVWI)
+- [England My Home](https://www.youtube.com/watch?v=grQVSNBqZkY)
+- [Ballard of Robbie Jones by: The Levellers](https://www.youtube.com/watch?v=kEVN8ZBU33Q)
+- [The Levellers - Blind Faith](https://www.youtube.com/watch?v=ndh0u8gPkV4)
+- [I have No Answers](https://www.youtube.com/watch?v=SKm3ibf_g4I)
 - [The Levellers Three friends](https://www.youtube.com/watch?v=G4CiD0xRrdU)
 
 ## Release Images

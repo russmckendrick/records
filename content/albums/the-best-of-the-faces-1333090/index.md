@@ -13,15 +13,15 @@ cover:
     caption: "The Best Of The Faces by Faces"
 additional_images:
     - "https://i.discogs.com/uNGb0va5Y8Qne_Ltx2hz3PiulXhg-xUgxsvivz0Gt_Y/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMzMw/OTAtMTM4ODc2OTE4/Ni02NDg4LmpwZWc.jpeg"
-    - "https://i.discogs.com/EH_GX5qzIxU3hcH8EE1i8-tMcTBoV-Whqn71VlMuRSg/rs:fit/g:sm/q:90/h:603/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMzMw/OTAtMTM4OTU4OTc3/Ny00MTEyLmpwZWc.jpeg"
-    - "https://i.discogs.com/vP8JlYCSJ__PNcGHprmK9nfB1_K198tPDFEAqbsPShw/rs:fit/g:sm/q:90/h:603/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMzMw/OTAtMTM4OTU4OTc5/MC02MTYxLmpwZWc.jpeg"
-    - "https://i.discogs.com/9Q7D9SeIkCrfVvyAAnlEIoo8upmJU4fJMdPmEEWKywY/rs:fit/g:sm/q:90/h:603/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMzMw/OTAtMTM4OTU4OTgw/NC03MjA1LmpwZWc.jpeg"
+    - "https://i.discogs.com/2LAVuY2kVsPpM9aFmyqYwoiHFPBAomfPPm-ftYNWx1M/rs:fit/g:sm/q:90/h:600/w:597/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMzMw/OTAtMTM4OTU4OTc3/Ny00MTEyLmpwZWc.jpeg"
+    - "https://i.discogs.com/xbO04WaZGQYPSR7c0G-yttFSZbaqrQU7ofE1c-2FinI/rs:fit/g:sm/q:90/h:600/w:597/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMzMw/OTAtMTM4OTU4OTc5/MC02MTYxLmpwZWc.jpeg"
+    - "https://i.discogs.com/Rnqtt01YFm_RwYiEdl-mdLAngxAsrt7bdkgZs45ig-8/rs:fit/g:sm/q:90/h:600/w:597/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMzMw/OTAtMTM4OTU4OTgw/NC03MjA1LmpwZWc.jpeg"
     - "https://i.discogs.com/ebPqpR9ERFpJTgLipFrYLqgUnuSdtlqChZFBZ4aP2bw/rs:fit/g:sm/q:90/h:534/w:527/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMzMw/OTAtMTIxMDQ0MjE4/Mi5qcGVn.jpeg"
     - "https://i.discogs.com/s_rqcmZrHHQsleDqpnCJ3INMSHS_4TUwyb2ACXUV7yY/rs:fit/g:sm/q:90/h:532/w:524/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMzMw/OTAtMTIxMDQ0MjE5/OS5qcGVn.jpeg"
     - "https://i.discogs.com/_Zn7KIluC-0PgsGGKtroreMUl_Q6-SQPUi0E9Eon8wU/rs:fit/g:sm/q:90/h:501/w:495/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMzMw/OTAtMTIxMDQ0MjIx/Mi5qcGVn.jpeg"
     - "https://i.discogs.com/Eh5J_JlH_95FN22DK_6AwUyejrARJ9FRuZpogZjylPc/rs:fit/g:sm/q:90/h:544/w:542/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMzMw/OTAtMTIxMDQ0MjIy/Ny5qcGVn.jpeg"
 genres: ["Rock", "Pop"]
-styles: []
+styles: ["Blues Rock", "Hard Rock", "Classic Rock"]
 ---
 
 
@@ -49,13 +49,15 @@ styles: []
 20. It's All Over Now (6:23)
 
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/the-best-of-faces-good-boys-when-theyre-asleep/56208331" >}}<br>
+{{< applemusic url="https://music.apple.com/gb/album/the-best-of-the-specials/1629113738" >}}<br>
 
 
 ## Videos
 ### FACES   Flying 1970
 {{< youtube id="C_nnu8NHhjA" title="FACES   Flying 1970" >}}<br>
+### More Videos
 
+- [FACES   Flying 1970](https://www.youtube.com/watch?v=C_nnu8NHhjA)
 
 ## Release Images
 {{< imageGrid >}}
@@ -63,8 +65,8 @@ styles: []
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl 2× LP Compilation |
+| Format         | Vinyl 2× LP Compilation Stereo |
 | Label          | Riva (2) |
 | Catalog Number | RVLP 3 |
-| Notes | Released in a matt gatefold sleeve.    1st cat# on labels , 2nd cat# on sleeve.    Side 1 Warner Brother Music (1 - 5).  Side 2 Northern Songs (1), Warner Brothers Music (2,3,5), Jewel Music (4).  Side 3 Warner Brothers Music (1 - 5).  Side 4 By arrangement with Phonogram Ltd (5), Warner Brothers Music (1,3), Jobette Music (uk) Ltd (2), Warner Brothers Music / Island Music (4), Kags Music (5).     ℗1970, 1971, 1972,1973, 1974, 1975 and ©1977 Riva Records Ltd 2 New Kings Road London SW6.    Sleeve printed and made in England by Gothic Print Finishers Ltd., London SE9 2EQ   |
-| Discogs URL    | [Faces - The Best Of The Faces](https://www.discogs.com/release/1333090-Faces-The-Best-Of-The-Faces) |
+| Notes | Released in a matt gatefold sleeve.  1st cat# on labels , 2nd cat# on sleeve.  Side 1 Warner Brother Music (1 - 5). Side 2 Northern Songs (1), Warner Brothers Music (2,3,5), Jewel Music (4). Side 3 Warner Brothers Music (1 - 5). Side 4 By arrangement with Phonogram Ltd (5), Warner Brothers Music (1,3), Jobette Music (uk) Ltd (2), Warner Brothers Music / Island Music (4), Kags Music (5).   ℗1970, 1971, 1972,1973, 1974, 1975 and ©1977 Riva Records Ltd 2 New Kings Road London SW6.  Sleeve printed and made in England by Gothic Print Finishers Ltd., London SE9 2EQ  Etched runouts (A = Λ) |
+| Discogs URL    | [Faces - The Best Of The Faces](https://www.discogs.com/release/1333090-Faces-3-The-Best-Of-The-Faces) |

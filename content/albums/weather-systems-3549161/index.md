@@ -12,11 +12,18 @@ cover:
     alt: "Weather Systems by Anathema"
     caption: "Weather Systems by Anathema"
 additional_images:
-    - "https://i.discogs.com/3eBuSSdWP4IdbRg4aLPMMrZbxz-2Gh3jvAd7IyoreRM/rs:fit/g:sm/q:90/h:500/w:500/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1NDkx/NjEtMTU2NTExNTEy/NS04MTcyLmpwZWc.jpeg"
-    - "https://i.discogs.com/8bmkTSKz2K9Yv-Slo9L9mwslI8QClzQe0kEyCT7mFvA/rs:fit/g:sm/q:90/h:394/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1NDkx/NjEtMTU2NTExNTEy/Ny05MjgxLmpwZWc.jpeg"
-    - "https://i.discogs.com/bibu2YCiDWtKKWVEp2KqVB_crVrEcFVZKhvSKpUVf2Q/rs:fit/g:sm/q:90/h:418/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1NDkx/NjEtMTU2NTExNTEy/Ni05NTU1LmpwZWc.jpeg"
-    - "https://i.discogs.com/pRz14v8uZjzbVniDn5khHbd_gOV2uvRHrnpt8TWAl3A/rs:fit/g:sm/q:90/h:315/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1NDkx/NjEtMTU2NTExNTEy/Ni03OTA2LmpwZWc.jpeg"
-    - "https://i.discogs.com/KDjzxVvIlaG_lVOs2u5hgtrgctN-M5qfquWgvT2_0fQ/rs:fit/g:sm/q:90/h:320/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1NDkx/NjEtMTU2NTExNTEy/Ny05OTI4LmpwZWc.jpeg"
+    - "https://i.discogs.com/Y9nDTzUmtIi6Cczu1fMgeV29qHctxHmzj3zFkKcfGZA/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1NDkx/NjEtMTcxMzA3ODIy/My0yMDM3LmpwZWc.jpeg"
+    - "https://i.discogs.com/-fKudshLYZLGeB-gQt0l4NfqIkfV2aLRQLyAiW34TBU/rs:fit/g:sm/q:90/h:578/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1NDkx/NjEtMTcxMzA3OTMw/OC00NzAwLmpwZWc.jpeg"
+    - "https://i.discogs.com/NmHMYfNtWZUx9SFuk9MnBEuVxtm4yQsJzJLTcZ2oIxI/rs:fit/g:sm/q:90/h:580/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1NDkx/NjEtMTcxMzA3OTMw/Ny04OTMzLmpwZWc.jpeg"
+    - "https://i.discogs.com/V8bLXyELBjvI5FpWth0UFGOxcy8TW_RY_jwzmDlClWc/rs:fit/g:sm/q:90/h:591/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1NDkx/NjEtMTcxMzA3ODIy/Mi00NzM3LmpwZWc.jpeg"
+    - "https://i.discogs.com/pS1pJAbuqElU7VqRc1GWOi681fOXN2L62U0-K5eSNTs/rs:fit/g:sm/q:90/h:600/w:597/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1NDkx/NjEtMTcxMzA3OTA4/Ny05NDI2LmpwZWc.jpeg"
+    - "https://i.discogs.com/xfd4XcRxHu1VblJ64iugdZQP8PmBS5r6XnGlzlYbHWY/rs:fit/g:sm/q:90/h:600/w:577/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1NDkx/NjEtMTcxMzA3OTA4/Ny05NzUyLmpwZWc.jpeg"
+    - "https://i.discogs.com/AcRh2YGxT80PR2lAWMmzG51NdmnqF5ncvmSmL6wUU_g/rs:fit/g:sm/q:90/h:600/w:597/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1NDkx/NjEtMTcxMzA3OTA4/Ni0xMjkxLmpwZWc.jpeg"
+    - "https://i.discogs.com/X2a67g_CwJTJe0CDC-W6l03Ler0aNuPi-fnEaEou0Jo/rs:fit/g:sm/q:90/h:600/w:589/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1NDkx/NjEtMTcxMzA3OTA4/OS00NjkzLmpwZWc.jpeg"
+    - "https://i.discogs.com/KF8ZqrlYwzbiYMMxCZIFT6xoy_e_SUngFTEKBj_Nm6k/rs:fit/g:sm/q:90/h:600/w:597/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1NDkx/NjEtMTcxMzA3OTA4/OC02MzE5LmpwZWc.jpeg"
+    - "https://i.discogs.com/KpzAz-kO2S408mPtqRZwHLw7RcW5JpfbVNrSUC7HLB8/rs:fit/g:sm/q:90/h:600/w:589/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1NDkx/NjEtMTcxMzA3OTA4/NC0zMTQyLmpwZWc.jpeg"
+    - "https://i.discogs.com/1u640EeAxj7IqGwMGNXmxvbAETycLu_tH3IkdTG4p-A/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1NDkx/NjEtMTcxMzA3OTA5/MC0yMjQzLmpwZWc.jpeg"
+    - "https://i.discogs.com/whvSdsTGSLOf3Vlk03ZCQ-fk3VpwFKK66y2UnVONpxQ/rs:fit/g:sm/q:90/h:600/w:590/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1NDkx/NjEtMTcxMzA3OTA5/MC00MDgzLmpwZWc.jpeg"
 genres: ["Rock"]
 styles: ["Alternative Rock"]
 ---

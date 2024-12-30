@@ -13,7 +13,7 @@ cover:
     caption: "Home Of The Newly Departed by Knifeworld"
 additional_images:
     - "https://i.discogs.com/P7QNOwld6_8SQ4fgFDrz_WzdUvH9IGc9VTamyTgegB4/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMDQ4/NDczLTE1MjIxNjAz/NjAtMTQ4NC5qcGVn.jpeg"
-    - "https://i.discogs.com/RDikwVlsyuTkzKXWDai-FcCRD98rzUcGOWG-rL_Jlbs/rs:fit/g:sm/q:90/h:602/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMDQ4/NDczLTE1MjIxNjA0/OTAtMjkxMi5qcGVn.jpeg"
+    - "https://i.discogs.com/5Gnn1c7VhA2QSHb6Vr1_gRrboLuteikPTxVWWnvWmQQ/rs:fit/g:sm/q:90/h:600/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMDQ4/NDczLTE1MjIxNjA0/OTAtMjkxMi5qcGVn.jpeg"
 genres: ["Rock"]
 styles: ["Prog Rock", "Math Rock", "Psychedelic Rock"]
 ---

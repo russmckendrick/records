@@ -13,15 +13,18 @@ cover:
     caption: "Everything Is Changing by Anneke van Giersbergen"
 additional_images:
     - "https://i.discogs.com/4nu-U2vjAasKz-xN18ykg4IuH4YKdlhTCbwRHkshJ3c/rs:fit/g:sm/q:90/h:500/w:500/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg2Mjg0/OTQtMTQ2NTQ2ODUw/My0xNTE5LmpwZWc.jpeg"
-    - "https://i.discogs.com/q9S0ee3JIjm4uDX3rRkycCZIPE6NwUqybzOKONrVWV4/rs:fit/g:sm/q:90/h:606/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg2Mjg0/OTQtMTYxMDg5ODU5/NC05NDIzLmpwZWc.jpeg"
-    - "https://i.discogs.com/UPyisjYWBT_RoC64bhJiQ1YzwlIQf5wZj6lbW9XK_Kw/rs:fit/g:sm/q:90/h:638/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg2Mjg0/OTQtMTYxMDg5ODYz/Mi04ODIxLmpwZWc.jpeg"
-    - "https://i.discogs.com/YgIGZh05J-_wsr4bSecHSYsC9E9c9mXJCxv4G-2pzSc/rs:fit/g:sm/q:90/h:611/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg2Mjg0/OTQtMTYxMDg5ODYx/NC05MDE5LmpwZWc.jpeg"
+    - "https://i.discogs.com/P1n7bwB-AZ9j4KtJ1lmKwLpLn1wmzscJcT-qxs2fUqo/rs:fit/g:sm/q:90/h:600/w:593/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg2Mjg0/OTQtMTYxMDg5ODU5/NC05NDIzLmpwZWc.jpeg"
+    - "https://i.discogs.com/NmjlqUMfnYrile3F9cBoXOwIL0MzDpnMlWwPBv1Omi4/rs:fit/g:sm/q:90/h:600/w:563/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg2Mjg0/OTQtMTYxMDg5ODYz/Mi04ODIxLmpwZWc.jpeg"
+    - "https://i.discogs.com/Jsp185nToKWAiPF8tSlYpK7dcuvLrHOnu29KCi24juk/rs:fit/g:sm/q:90/h:600/w:588/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg2Mjg0/OTQtMTYxMDg5ODYx/NC05MDE5LmpwZWc.jpeg"
     - "https://i.discogs.com/OtrV6cjJgvoIioQ-AGVrWROaHnBHbTx-13RQ1YtCmeE/rs:fit/g:sm/q:90/h:560/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg2Mjg0/OTQtMTYzMjY2NTE0/OC0yMTA2LmpwZWc.jpeg"
     - "https://i.discogs.com/5l2TYamAnUhI6FX2T5neuhY309HW1M4Q1gnYD2D_ObM/rs:fit/g:sm/q:90/h:584/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg2Mjg0/OTQtMTYzMjY2NTE0/OS0xMjg4LmpwZWc.jpeg"
 genres: ["Rock"]
 styles: ["Alternative Rock", "Pop Rock"]
 ---
 
+Everything Is Changing is the debut studio album by the former The Gathering and Agua de Annique vocalist Anneke van Giersbergen.
+    
+    
 
 
 ## Tracklisting
@@ -64,6 +67,7 @@ styles: ["Alternative Rock", "Pop Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
+| Wikipedia URL | https://en.wikipedia.org/wiki/Everything_Is_Changing |
 | Format         | Vinyl LP Album Limited Edition Picture Disc Reissue |
 | Label          | Alone Records (2) |
 | Catalog Number | AR-064LPPIC |

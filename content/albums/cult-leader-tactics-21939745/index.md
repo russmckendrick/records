@@ -44,7 +44,12 @@ styles: ["Alternative Rock"]
 {{< applemusic url="https://music.apple.com/gb/album/cult-leader-tactics/1588722385" >}}<br>
 
 
+## Videos
+### Paul Draper - Cult Leader Tactics (Official Lyric Video)
+{{< youtube id="v9--PJqt7Jc" title="Paul Draper - Cult Leader Tactics (Official Lyric Video)" >}}<br>
+### More Videos
 
+- [Cult Leader Tactics in E-Flat Minor](https://www.youtube.com/watch?v=3ANL_fDerBU)
 
 ## Release Images
 {{< imageGrid >}}

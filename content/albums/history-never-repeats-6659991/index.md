@@ -22,6 +22,8 @@ styles: ["New Wave"]
 ---
 
 History Never Repeats – The Best of Split Enz is a compilation of hits by New Zealand rock band Split Enz. Initially released in the US in 1987, then in New Zealand and Australia in 1989, the album has been through many variations and reissues over the years.
+
+
     
     
 
@@ -31,29 +33,22 @@ History Never Repeats – The Best of Split Enz is a compilation of hits by New 
 2. Shark Attack (3:00)
 3. What's The Matter With You (4:34)
 
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/waiata/1442252874" >}}<br>
 
 
 ## Videos
-### Split Enz - History Never Repeats
-{{< youtube id="vFp4axRBag8" title="Split Enz - History Never Repeats" >}}<br>
+### Split Enz - History Never Repeats (Official Video)
+{{< youtube id="xXrWTFvnqKI" title="Split Enz - History Never Repeats (Official Video)" >}}<br>
 ### More Videos
 
-- [Split Enz - History Never Repeats](https://www.youtube.com/watch?v=tzuJXqgsiSM)
-- [History Never Repeats - Split Enz  (audio only)](https://www.youtube.com/watch?v=wZXcYjI1-S8)
-- [History Never Repeats - Split Enz [ Live ! 1981 ]](https://www.youtube.com/watch?v=qU13PZnfbrc)
-- [SPLIT ENZ History Never Repeats  Live 2009](https://www.youtube.com/watch?v=nfbQOhwkP58)
-- [Split Enz - History Never Repeats (Video)](https://www.youtube.com/watch?v=TvBVcLMkhFE)
-- [Split Enz - History Never Repeats](https://www.youtube.com/watch?v=Xz1aSjZ1mIQ)
-- [Split Enz - History Never Repeats (live in Canada)](https://www.youtube.com/watch?v=SN8721jZd70)
-- [Split Enz  HISTORY NEVER REPEATS  Live June 06](https://www.youtube.com/watch?v=7fLBLPCI9Ys)
-- [Split Enz - History Never Repeats (with Lyrics)](https://www.youtube.com/watch?v=H4MaXe_Gjxc)
-- [Split Enz - History Never  Repeats](https://www.youtube.com/watch?v=FQ9uENZ_12Y)
-- [Split Enz – History Never Repeats](https://www.youtube.com/watch?v=lPXXuEkMXes)
-- [Enz History Never Repeats Canada '82](https://www.youtube.com/watch?v=zW9Mc8JGq5E)
-- [Split Enz History Never Repeats 1 1 2000](https://www.youtube.com/watch?v=wJaZp-Zobcg)
-- [Split Enz- Poor Boy/History Never Repeats](https://www.youtube.com/watch?v=ZXejwWu4HYk)
-- [Split Enz: History Never Repeats - Corroboree (HD)](https://www.youtube.com/watch?v=_3T1xg_9MEE)
-- [Split Enz HISTORY NEVER REPEATS  Sydney '81](https://www.youtube.com/watch?v=p0MJ1q28qt0)
+- [Split Enz - Shark Attack](https://www.youtube.com/watch?v=kl2dslwQ29w)
+- [Split Enz - History Never Repeats](https://www.youtube.com/watch?v=vFp4axRBag8)
+- [Split Enz - History Never Repeats (Official Video)](https://www.youtube.com/watch?v=xXrWTFvnqKI)
+- [Split Enz - What's The Matter With You (good quality)](https://www.youtube.com/watch?v=PcdAU0RlmZY)
+- [Split Enz - History Never Repeats (Official Video)](https://www.youtube.com/watch?v=xXrWTFvnqKI)
+- [Split Enz - History Never Repeats (Official Video)](https://www.youtube.com/watch?v=xXrWTFvnqKI)
+- [Split Enz - Shark Attack](https://www.youtube.com/watch?v=kl2dslwQ29w)
 
 ## Release Images
 {{< imageGrid >}}

@@ -23,6 +23,12 @@ genres: ["Electronic"]
 styles: ["EBM"]
 ---
 
+Front by Front is the fourth studio album by Front 242, released in 1988, and has been labelled as "easily one of the greatest industrial albums ever made". The album was reissued in 1992 by Sony Music Entertainment. The song "Headhunter" became an industrial dancefloor hit, accompanied by a music video directed by Anton Corbijn, and has since been subject to over 20 remixes.
+Miss Kittin used "First In / First Out" on her mix album A Bugged Out Mix.
+
+
+    
+    
 
 
 ## Tracklisting
@@ -41,11 +47,10 @@ styles: ["EBM"]
 
 
 ## Videos
-### Front 242 - Headhunter (Official Video)
-{{< youtube id="m1cRGVaJF7Y" title="Front 242 - Headhunter (Official Video)" >}}<br>
+### Until Death (Us Do Part)
+{{< youtube id="Vq-udrSV7M4" title="Until Death (Us Do Part)" >}}<br>
 ### More Videos
 
-- [Until Death (Us Do Part)](https://www.youtube.com/watch?v=Vq-udrSV7M4)
 - [Circling Overland](https://www.youtube.com/watch?v=GQTys90jNkc)
 - [I'm Rhythmus Bleiben](https://www.youtube.com/watch?v=yi6vw3L5W6Y)
 - [Felines](https://www.youtube.com/watch?v=RAouNlhOuSk)
@@ -54,6 +59,7 @@ styles: ["EBM"]
 - [Headhunter V3.0](https://www.youtube.com/watch?v=aPKsvVKqvOg)
 - [Work 01](https://www.youtube.com/watch?v=2_Y5C2k0H7w)
 - [Terminal State](https://www.youtube.com/watch?v=UijjMj91ODg)
+- [Front 242 - Work 242 n.Off Is n.Off (1992)](https://www.youtube.com/watch?v=zNbW-Mdk1zc)
 
 ## Release Images
 {{< imageGrid >}}
@@ -61,6 +67,7 @@ styles: ["EBM"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
+| Wikipedia URL | https://en.wikipedia.org/wiki/Front_by_Front |
 | Format         | Vinyl LP Album Reissue |
 | Label          | Red Rhino Europe |
 | Catalog Number | RRE LP 7 |

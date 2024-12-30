@@ -13,12 +13,17 @@ cover:
     alt: "First Two Pages Of Frankenstein by The National"
     caption: "First Two Pages Of Frankenstein by The National"
 additional_images:
-    - "https://i.discogs.com/B-UUnzyIIHC2uilWNP33nmrHNlb13qm_hU8LW5MRfrY/rs:fit/g:sm/q:90/h:594/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2ODMy/MjIxLTE2ODI2MjM2/ODMtNzA1OC5qcGVn.jpeg"
-    - "https://i.discogs.com/pFJJJBQN9vunM31laTihlMAhjlBm7gY_Yj4ZC3TWZ-I/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2ODMy/MjIxLTE2ODI2MjM2/OTktNTM0NS5qcGVn.jpeg"
-    - "https://i.discogs.com/jaGdf2UYKYOMJdpnsmRRqTg1P2mXcJ-Yx-cRk4fdmNA/rs:fit/g:sm/q:90/h:604/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2ODMy/MjIxLTE2ODI2MjM3/MjQtNTI5Ni5qcGVn.jpeg"
-    - "https://i.discogs.com/vlvKcVoWa6ncvF6DlHsQt_TgBV8GWTPfiTk_70v_o08/rs:fit/g:sm/q:90/h:591/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2ODMy/MjIxLTE2ODI2MjM3/MDctODY2OS5qcGVn.jpeg"
-    - "https://i.discogs.com/ZvdM3Tb_OgStIgROp4SMI8rCWQX6VaiAywnRXx7_F7w/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2ODMy/MjIxLTE2ODI2MjM3/MTAtOTkyMC5qcGVn.jpeg"
-    - "https://i.discogs.com/iM0yt3dvX8RRtmpn-0zorgf2AIpmoVwgMbTrH_H-wJg/rs:fit/g:sm/q:90/h:554/w:570/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2ODMy/MjIxLTE2ODI2MjM3/MDAtMjA2My5qcGVn.jpeg"
+    - "https://i.discogs.com/ljb-G1vZthyrLVnFsHgREXvPKhpfjf4r-9MdasUgWJ0/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2ODMy/MjIxLTE2ODU4MjU0/ODUtMzAzMy5qcGVn.jpeg"
+    - "https://i.discogs.com/tXJXd74mkQSSt5w1SdDVzT1tIfEhyrb79q6T-b-aTAw/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2ODMy/MjIxLTE2ODU4MjU0/ODUtODA1NS5qcGVn.jpeg"
+    - "https://i.discogs.com/MblWw8Wzj78dT4Bj6vPAMlZEQNjg2IXoeoS-kaMqCZs/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2ODMy/MjIxLTE2ODU4MjU0/ODUtNDMxNy5qcGVn.jpeg"
+    - "https://i.discogs.com/xvDn1o9n3YPeIPdJyLwp09gEhXG5hVzPHGxtuZhY3qk/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2ODMy/MjIxLTE2ODU4MjU0/ODUtNjMwOS5qcGVn.jpeg"
+    - "https://i.discogs.com/EQeu_rqCVWJV3xnTpicRuJuonbin15hEoTipkqU_GEo/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2ODMy/MjIxLTE2ODU4MjU1/ODEtMzg5OS5qcGVn.jpeg"
+    - "https://i.discogs.com/lQJ6uEuvszD3msx_saMi9NxdzhSjoGb3-wQ5zMQlSpg/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2ODMy/MjIxLTE2ODU4MjU1/ODEtNzQ5MC5qcGVn.jpeg"
+    - "https://i.discogs.com/6-nFbvalWnefIr0H5chjxdBZ1hb4miIvf8LzNLdiXzo/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2ODMy/MjIxLTE2ODU4MjU1/ODQtMzgyMS5qcGVn.jpeg"
+    - "https://i.discogs.com/0lNVndsQ-7HOSZ8NR27mOwH5BsPavGkLjIFp_vrOLLo/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2ODMy/MjIxLTE2ODU4MjU1/ODQtNDYwMC5qcGVn.jpeg"
+    - "https://i.discogs.com/wM09azAxh7Ds8Td1z9mftXb1ylI6Eb6ae2RvHx831c8/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2ODMy/MjIxLTE2ODU4MjU1/ODQtOTc2NC5qcGVn.jpeg"
+    - "https://i.discogs.com/wv50tNYXjYfNYZhkJii0O5InktOm1cZAEER7hEsgSK0/rs:fit/g:sm/q:90/h:285/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2ODMy/MjIxLTE3MzQ3OTY4/MzYtODU0Ni5qcGVn.jpeg"
+    - "https://i.discogs.com/6JUB_iMAb4kIZG-6xQQh8RjWRvDKLMsopn8cmZvQskc/rs:fit/g:sm/q:90/h:600/w:594/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2ODMy/MjIxLTE3MzQ3OTY4/MzctODIzNC5qcGVn.jpeg"
 genres: ["Rock"]
 styles: ["Indie Rock"]
 ---
@@ -27,7 +32,7 @@ A year or so into the pandemic—and two decades into a career spent fronting Th
 
 For months, he assured his bandmates that he’d been making progress. But when the time came to join them in the studio, “everybody realised, ‘Oh, maybe we might have a problem here,’” he says. “Having to literally face the music, not really having anything to do or lyrics to share—I’d go into the booth and could barely open my mouth. I couldn't free-associate, I couldn't even come up with melodies.” Despite the real fear that he might not be able to write ever again, Berninger kept at it. After completing stand-alone single “Weird Goodbyes”, he spent time back on tour, where he was “forced to sink or swim onstage”, he says. “And slowly, I started swimming again.” 
 
-The result is <i>First Two Pages of Frankenstein</i>, the veteran indie rock outfit’s ninth full-length—and their first since multi-instrumentalist Aaron Dessner began working, famously, with one Taylor Swift, who guests here along with other noteworthy long-time collaborators Sufjan Stevens and Phoebe Bridgers. “The music that I eventually started connecting to, of all the stuff that we had, was the stuff that was a comfort for me,” Berninger says of the album, which also features lyrics written by his wife, Carin Besser. “It felt like a friend, like it was doing me some emotional good, like it was untangling the knot. I think getting out of my head and getting out of whatever loop I was in broke the spell. The approach that I ultimately had was to start exposing these weird, blurry, dark feelings to sunlight. This record is that—a record that I needed to make to fix myself.” Here Berninger tells the stories behind a few of the album's key tracks.
+The result is <I>First Two Pages of Frankenstein</I>, the veteran indie rock outfit’s ninth full-length—and their first since multi-instrumentalist Aaron Dessner began working, famously, with one Taylor Swift, who guests here along with other noteworthy long-time collaborators Sufjan Stevens and Phoebe Bridgers. “The music that I eventually started connecting to, of all the stuff that we had, was the stuff that was a comfort for me,” Berninger says of the album, which also features lyrics written by his wife, Carin Besser. “It felt like a friend, like it was doing me some emotional good, like it was untangling the knot. I think getting out of my head and getting out of whatever loop I was in broke the spell. The approach that I ultimately had was to start exposing these weird, blurry, dark feelings to sunlight. This record is that—a record that I needed to make to fix myself.” Here Berninger tells the stories behind a few of the album's key tracks.
 
 <b>“Once Upon a Poolside”</b> 
 “It starts with this image of being about to go onstage, and the song you walk out to is almost over and you can't stall it anymore. You have to go to get started, you have to do this thing. The song, it feels very much like a prologue to a complicated mess. There’s something about the line, which is a line that I stole from something my wife was writing: ‘What was the worried thing you said to me?’ Which is the one line that she's got in that song, but I keep coming back to that. I think it feels good because it’s introducing by saying this record's going to unpack a lot of worried things.”
@@ -73,6 +78,10 @@ The result is <i>First Two Pages of Frankenstein</i>, the veteran indie rock out
 {{< youtube id="MSywJt3VlUM" title="The National - Eucalyptus (Official Video)" >}}<br>
 ### More Videos
 
+- [The National - New Order T-Shirt (Official Visualizer)](https://www.youtube.com/watch?v=QEMabLFhD38)
+- [The National - Tropic Morning News (Lyric Video)](https://www.youtube.com/watch?v=zdU0qwZKLfU)
+- [The National - Your Mind Is Not Your Friend (feat. Phoebe Bridgers) (Official Video)](https://www.youtube.com/watch?v=KrCTNeuvmqA)
+- [The National - Eucalyptus (Official Video)](https://www.youtube.com/watch?v=MSywJt3VlUM)
 - [The National - New Order T-Shirt (Official Visualizer)](https://www.youtube.com/watch?v=QEMabLFhD38)
 - [The National - Tropic Morning News (Lyric Video)](https://www.youtube.com/watch?v=zdU0qwZKLfU)
 - [The National - Your Mind Is Not Your Friend (feat. Phoebe Bridgers) (Official Video)](https://www.youtube.com/watch?v=KrCTNeuvmqA)

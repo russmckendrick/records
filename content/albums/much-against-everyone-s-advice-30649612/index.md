@@ -15,6 +15,10 @@ additional_images:
     - "https://i.discogs.com/joceSygy8jjWc-qmf6YJVsDNC83YT5nE6mrQmz-XwuA/rs:fit/g:sm/q:90/h:592/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwNjQ5/NjEyLTE3MTU0MjY4/NDQtNjE3MS5qcGVn.jpeg"
     - "https://i.discogs.com/4cGOpTj4BaKROtSc4EoaXk5IdLjNIdIaZGdQIUOIX3Y/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwNjQ5/NjEyLTE3MTU0MjY4/NDctNDAyNi5qcGVn.jpeg"
     - "https://i.discogs.com/9ItNky_yEX6ErLHY2n14RwjjIzC16YJzlU7HVe1pOsk/rs:fit/g:sm/q:90/h:570/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwNjQ5/NjEyLTE3MTU0MjY4/NTAtOTU2My5qcGVn.jpeg"
+    - "https://i.discogs.com/WG282dXZPHCDX7lzs05gEFVVJYtwGTZen1umPPQlPdA/rs:fit/g:sm/q:90/h:583/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwNjQ5/NjEyLTE3MTU2MDQz/NTYtMTc1Ni5qcGVn.jpeg"
+    - "https://i.discogs.com/9XNHHROUVx8zScPk58NdpWkDl6k0CajlhhANXYZEisc/rs:fit/g:sm/q:90/h:583/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwNjQ5/NjEyLTE3MTU2MDQz/NTctNjI2My5qcGVn.jpeg"
+    - "https://i.discogs.com/lnO57vehqYq5JPxDw3FQVNIRDn2Ad81UB42ctbzc71s/rs:fit/g:sm/q:90/h:583/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwNjQ5/NjEyLTE3MTU2MDQz/NTctNDk5My5qcGVn.jpeg"
+    - "https://i.discogs.com/vUUG5_uevzi82meE7-LVeLgOlAhaJulNQNqseEg-t_s/rs:fit/g:sm/q:90/h:583/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwNjQ5/NjEyLTE3MTU2MDQz/NTctOTM0Ni5qcGVn.jpeg"
 genres: ["Rock"]
 styles: ["Alternative Rock"]
 ---
@@ -37,7 +41,7 @@ styles: ["Alternative Rock"]
 13. Scream
 14. Funny
 15. Conversation Intercom (Vocoder Intermix) 
-16. Mike Rule Joe Cream Mix (feat Tracy Bonham) 
+16. Mike Rule Joe Cream Mix
 17. Saturday (Roger Manning Mix)
 
 ## Apple Music
@@ -49,9 +53,7 @@ styles: ["Alternative Rock"]
 {{< youtube id="r28N6iYEN0I" title="01   Conversation Intercom - Soulwax" >}}<br>
 ### More Videos
 
-- [Soulwax - Too Many DJs](https://www.youtube.com/watch?v=C6xHYuuYdoM)
 - [03   When Logics Die - Soulwax](https://www.youtube.com/watch?v=fIe4ygIvwKM)
-- [Too Many DJs](https://www.youtube.com/watch?v=gJ9ao8u4GMY)
 - [04   Much Against Everyone's Advice - Soulwax](https://www.youtube.com/watch?v=Jm7N789FXUg)
 - [Funny](https://www.youtube.com/watch?v=eNimQu7lx40)
 - [When Logics Die](https://www.youtube.com/watch?v=x5hVMKDpMnU)
@@ -59,6 +61,8 @@ styles: ["Alternative Rock"]
 - [Soulwax - Saturday](https://www.youtube.com/watch?v=Dxq9VnAoV9A)
 - [13   Scream - Soulwax](https://www.youtube.com/watch?v=gAeNoZR6zcA)
 - [soulwax - my cruel joke](https://www.youtube.com/watch?v=rW7UzZ9sqKc)
+- [Soulwax - Too Many DJs](https://www.youtube.com/watch?v=C6xHYuuYdoM)
+- [Too Many DJs](https://www.youtube.com/watch?v=gJ9ao8u4GMY)
 
 ## Release Images
 {{< imageGrid >}}
@@ -66,7 +70,7 @@ styles: ["Alternative Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl LP Album Limited Edition |
+| Format         | Vinyl 2× LP Album Limited Edition Reissue |
 | Label          | [PIAS] Recordings |
 | Catalog Number | PIACS1035LP |
 | Notes | Sticker Text:  SOULWAX MUCHAGAINSTEVERYONE'SADVICE LIMITED EDITION EXPANDED 2LP VINYL  ℗ + © 2023 [PIAS] Recordings |

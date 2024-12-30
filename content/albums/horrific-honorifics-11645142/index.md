@@ -12,13 +12,13 @@ cover:
     alt: "Horrific Honorifics by Crippled Black Phoenix"
     caption: "Horrific Honorifics by Crippled Black Phoenix"
 additional_images:
-    - "https://i.discogs.com/p12RLqh5Kcbb9Zwi9l2UmEfpBNQOgNpqTD-Ds_DthKU/rs:fit/g:sm/q:90/h:642/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNjQ1/MTQyLTE1MTk5NTI4/MjAtNTE3NS5qcGVn.jpeg"
-    - "https://i.discogs.com/mqTJxJetTQwYk_f4dWQONTgrQnlwEGnOAMLo6ah-drM/rs:fit/g:sm/q:90/h:647/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNjQ1/MTQyLTE1MTk5NTI4/MzMtOTQxNS5qcGVn.jpeg"
-    - "https://i.discogs.com/c9bdFl763ka876g_HLfENGQEkhyzpv7On8driFt0zcU/rs:fit/g:sm/q:90/h:901/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNjQ1/MTQyLTE1MTk5NTI4/NDgtMzM1OC5qcGVn.jpeg"
-    - "https://i.discogs.com/MtEfIL5NOgREnhH2hBQHg14p0hnv2Md0KMpwHlyEWsE/rs:fit/g:sm/q:90/h:695/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNjQ1/MTQyLTE1MTk5NTI4/NTctOTkwMS5qcGVn.jpeg"
-    - "https://i.discogs.com/Iv0X2BaCGJYJm_KnEhHW9I4lcKi6uKa5_SUuR7M_bTs/rs:fit/g:sm/q:90/h:710/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNjQ1/MTQyLTE1MTk5NTI4/NjYtMTcwNS5qcGVn.jpeg"
-    - "https://i.discogs.com/bCPCU2lmGp4aT6StHYJAX5Nta0BJSas4lDN1SYw1Y4w/rs:fit/g:sm/q:90/h:666/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNjQ1/MTQyLTE1MTk5NTI4/NzktNzM0Ny5qcGVn.jpeg"
-    - "https://i.discogs.com/Ptqg4_JuZuCHMX0nE3YZjDPCzw-RiXaaVtq0owxsUls/rs:fit/g:sm/q:90/h:719/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNjQ1/MTQyLTE1MTk5NTI4/ODktOTU3My5qcGVn.jpeg"
+    - "https://i.discogs.com/twWkGGQbSCJ9hzMkT_ia08elbXWVbcsZwDZIdkt4fAY/rs:fit/g:sm/q:90/h:600/w:560/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNjQ1/MTQyLTE1MTk5NTI4/MjAtNTE3NS5qcGVn.jpeg"
+    - "https://i.discogs.com/PI7PNooG1rE1k2M7bLu0CEiFYjdpdVt92IjqKtxdBrA/rs:fit/g:sm/q:90/h:600/w:555/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNjQ1/MTQyLTE1MTk5NTI4/MzMtOTQxNS5qcGVn.jpeg"
+    - "https://i.discogs.com/slYCZUhPyyaRIFcr5rqV9QF6z0siJo4_H0yM1mpT2Yc/rs:fit/g:sm/q:90/h:600/w:399/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNjQ1/MTQyLTE1MTk5NTI4/NDgtMzM1OC5qcGVn.jpeg"
+    - "https://i.discogs.com/1OBxW0zNlpIudhvMI7b7xziqCt_Mf1TvcDiEXpnC0B0/rs:fit/g:sm/q:90/h:600/w:517/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNjQ1/MTQyLTE1MTk5NTI4/NTctOTkwMS5qcGVn.jpeg"
+    - "https://i.discogs.com/4puqQXmvEaKl6ytunNH3jbMEGKbifGQoENXa6U9DGXM/rs:fit/g:sm/q:90/h:600/w:506/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNjQ1/MTQyLTE1MTk5NTI4/NjYtMTcwNS5qcGVn.jpeg"
+    - "https://i.discogs.com/uqZswSxGzdtFWKfQmxq8Co4fDAA2-e4qzJnRLXYDR60/rs:fit/g:sm/q:90/h:600/w:540/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNjQ1/MTQyLTE1MTk5NTI4/NzktNzM0Ny5qcGVn.jpeg"
+    - "https://i.discogs.com/iGNnSNlcWLe6aqKCbiLHPxeq48Jx16dqQD57cfeSWy8/rs:fit/g:sm/q:90/h:600/w:500/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNjQ1/MTQyLTE1MTk5NTI4/ODktOTU3My5qcGVn.jpeg"
 genres: ["Rock"]
 styles: ["Alternative Rock"]
 ---
@@ -34,7 +34,7 @@ styles: ["Alternative Rock"]
 6. The Faith Healer
 
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/horrific-honorifics-feat-crippled-black-phoenix/1331662196" >}}<br>
+{{< applemusic url="https://music.apple.com/gb/album/horrific-honorifics-number-two-2/1762680953" >}}<br>
 
 
 ## Videos

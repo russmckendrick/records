@@ -45,14 +45,12 @@ It was voted number 324 in the third edition of Colin Larkin's All Time Top 1000
 
 
 ## Videos
-### Return of the Grievous Angel (Remastered Version)
-{{< youtube id="h_Iz0iVvhEc" title="Return of the Grievous Angel (Remastered Version)" >}}<br>
+### Gram Parsons - Return Of The Grievous Angel
+{{< youtube id="1PytxPaU6k4" title="Gram Parsons - Return Of The Grievous Angel" >}}<br>
 ### More Videos
 
-- [Medley Live from Northern Quebec (A) Cash on the Barrelhead (B) Hickory Wind (Remastered Version)](https://www.youtube.com/watch?v=ORI38WMccdM)
-- [Brass Buttons (Remastered Version)](https://www.youtube.com/watch?v=c7BwdZVDjS8)
+- [Gram Parsons - In My Hour Of Darkness](https://www.youtube.com/watch?v=ERhhkjqDGsA)
 - [Love Hurts (Remastered Version)](https://www.youtube.com/watch?v=4fCTZ0ZnD44)
-- [Ooh Las Vegas (feat. Emmylou Harris) (Remastered Version)](https://www.youtube.com/watch?v=kZ1X1lBTn2g)
 
 ## Release Images
 {{< imageGrid >}}

@@ -17,10 +17,10 @@ additional_images:
     - "https://i.discogs.com/VgfP6DOdiZeeuo3_m5mRs8-tJhfFLEgtyRlEpU0HOCA/rs:fit/g:sm/q:90/h:560/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNjEy/NDYwLTE1MTk0MTY4/MDgtMzcxNS5qcGVn.jpeg"
     - "https://i.discogs.com/0LIXMRazKeQsb2qW4buK4KOfmRhSQlZ9ShNy3YFBzs4/rs:fit/g:sm/q:90/h:576/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNjEy/NDYwLTE1MTk0MTY4/MTEtODAxMS5qcGVn.jpeg"
     - "https://i.discogs.com/0fjFuyOBAYUvhUnCuMNJTzaj4A1CMObIbOpDFgvJu40/rs:fit/g:sm/q:90/h:450/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNjEy/NDYwLTE1MTk0MTY4/MDctNjU5OS5qcGVn.jpeg"
-    - "https://i.discogs.com/xQsnqj8dXTCcZr10P5UU_yNlWcbBkxDQdLxD9gCK-e4/rs:fit/g:sm/q:90/h:800/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNjEy/NDYwLTE1MTk0MTY4/MTQtNjc0Ni5qcGVn.jpeg"
-    - "https://i.discogs.com/o7t2DxSZDqxo_52BtB94gqJePjFPHoXoyuE57g1D-cg/rs:fit/g:sm/q:90/h:800/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNjEy/NDYwLTE1MTk0MTY4/MTQtMzUxMi5qcGVn.jpeg"
-    - "https://i.discogs.com/BIvzEkVk8xMRUEN1aUf4-2akLo1i3SuonzR1By5_2Zc/rs:fit/g:sm/q:90/h:800/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNjEy/NDYwLTE1MTk0MTY4/MTQtMjkxNy5qcGVn.jpeg"
-    - "https://i.discogs.com/PACGxW-1vbvD3knDSHux1Gj6APggq3B5a88BVihQ2dg/rs:fit/g:sm/q:90/h:800/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNjEy/NDYwLTE1MTk0MTY4/MTQtMzAyOC5qcGVn.jpeg"
+    - "https://i.discogs.com/8jlEumqIh-35Hb9S53cRnIsBFUEGVmpmNuWnP1JImeg/rs:fit/g:sm/q:90/h:600/w:450/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNjEy/NDYwLTE1MTk0MTY4/MTQtNjc0Ni5qcGVn.jpeg"
+    - "https://i.discogs.com/uOUousYpjVGfEaF59_kKaM_Acrlnro6Wi0EuPwntTps/rs:fit/g:sm/q:90/h:600/w:450/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNjEy/NDYwLTE1MTk0MTY4/MTQtMzUxMi5qcGVn.jpeg"
+    - "https://i.discogs.com/1aL-AhZ5iVk2OG2mP5T4_IooY1oFOvjUfF7-ALU06m8/rs:fit/g:sm/q:90/h:600/w:450/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNjEy/NDYwLTE1MTk0MTY4/MTQtMjkxNy5qcGVn.jpeg"
+    - "https://i.discogs.com/ocWLJ2rZDESAYlxnSOJ_2kRXINrrPWEaOEDTtunV1hs/rs:fit/g:sm/q:90/h:600/w:450/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNjEy/NDYwLTE1MTk0MTY4/MTQtMzAyOC5qcGVn.jpeg"
 genres: ["Rock"]
 styles: []
 ---

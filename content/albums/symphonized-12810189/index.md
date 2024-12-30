@@ -57,6 +57,11 @@ styles: []
 - [Anneke Van Giersbergen w/ Residentie Orkest - Feel Alive - Den Haag, Netherlands 5/19/18](https://www.youtube.com/watch?v=mBmtYI8c-FY)
 - [Anneke van Giersbergen & het Residentie Orkest - Travel](https://www.youtube.com/watch?v=ipTnpgJcdYM)
 - [Amity (Symphonized live 2018)](https://www.youtube.com/watch?v=VSKHEUJYRus)
+- [ANNEKE VAN GIERSBERGEN with RESIDENTIE ORKEST The Hague - Zo Lief (OFFICIAL VIDEO)](https://www.youtube.com/watch?v=oIwzEfWT85Q)
+- [Anneke Van Giersbergen w/ Residentie Orkest - Travel - Den Haag, Netherlands 5/19/18](https://www.youtube.com/watch?v=Q72zXeAbwQw)
+- [Anneke Van Giersbergen w/ Residentie Orkest - Feel Alive - Den Haag, Netherlands 5/19/18](https://www.youtube.com/watch?v=mBmtYI8c-FY)
+- [Anneke van Giersbergen & het Residentie Orkest - Travel](https://www.youtube.com/watch?v=ipTnpgJcdYM)
+- [Amity (Symphonized live 2018)](https://www.youtube.com/watch?v=VSKHEUJYRus)
 
 ## Release Images
 {{< imageGrid >}}

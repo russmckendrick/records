@@ -31,7 +31,7 @@ additional_images:
     - "https://i.discogs.com/-QPHcRTwCK82I7YzFedaev4laVusdHQZ9mCX9-Mmn1o/rs:fit/g:sm/q:90/h:305/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwOTIy/NjEwLTE2NDkxNjg3/NzgtNzcwNC5qcGVn.jpeg"
     - "https://i.discogs.com/Im9hKgXntG8VAU4IQSMrkp3MvnsAf6By3024XT1KJvA/rs:fit/g:sm/q:90/h:303/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwOTIy/NjEwLTE2NDkxNjg3/NzgtNzE3NS5qcGVn.jpeg"
     - "https://i.discogs.com/NEem8eQeB7Ixrg2XOywmbWPcNjzsydnBewOCJHi1COg/rs:fit/g:sm/q:90/h:303/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwOTIy/NjEwLTE2NDkxNjg3/NzQtNTMyNi5qcGVn.jpeg"
-    - "https://i.discogs.com/2dleJ-knQuiWptmPutp2Q55khVpR_MSPy1KyKTqT0vw/rs:fit/g:sm/q:90/h:602/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwOTIy/NjEwLTE2NDkxNjg3/NzgtNjgyMi5qcGVn.jpeg"
+    - "https://i.discogs.com/erLg6eeEvsZUyTlwcxYOBh8aQ3vEmBrFcFrYfTx07hQ/rs:fit/g:sm/q:90/h:600/w:597/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwOTIy/NjEwLTE2NDkxNjg3/NzgtNjgyMi5qcGVn.jpeg"
 genres: ["Rock", "Blues"]
 styles: []
 ---
@@ -64,10 +64,15 @@ Imposter is the third collaborative studio album by English singer-songwriter Da
 {{< youtube id="QNvNs0MzYGg" title="Dave Gahan, Soulsavers - Metal Heart (Official Video)" >}}<br>
 ### More Videos
 
-- [Dave Gahan and Soulsavers Imposter Vinyl 12 test pressing US](https://www.youtube.com/watch?v=T31S2ZrUEsc)
 - [Dave Gahan, Soulsavers - Shut Me Down (Official Audio)](https://www.youtube.com/watch?v=HMunLq0Mmg0)
 - [Dave Gahan, Soulsavers - Not Dark Yet (Official Audio)](https://www.youtube.com/watch?v=ziHqfsIgCp0)
 - [Dave Gahan, Soulsavers - Always On My Mind (Official Audio)](https://www.youtube.com/watch?v=u_9QOy0xoDI)
+- [Dave Gahan, Soulsavers - Metal Heart (Official Video)](https://www.youtube.com/watch?v=QNvNs0MzYGg)
+- [Dave Gahan, Soulsavers - Shut Me Down (Official Audio)](https://www.youtube.com/watch?v=HMunLq0Mmg0)
+- [Dave Gahan, Soulsavers - Not Dark Yet (Official Audio)](https://www.youtube.com/watch?v=ziHqfsIgCp0)
+- [Dave Gahan, Soulsavers - Always On My Mind (Official Audio)](https://www.youtube.com/watch?v=u_9QOy0xoDI)
+- [Dave Gahan, Soulsavers - Metal Heart (Official Video)](https://www.youtube.com/watch?v=QNvNs0MzYGg)
+- [Dave Gahan and Soulsavers "Imposter" Vinyl 12" test pressing US](https://www.youtube.com/watch?v=T31S2ZrUEsc)
 
 ## Release Images
 {{< imageGrid >}}

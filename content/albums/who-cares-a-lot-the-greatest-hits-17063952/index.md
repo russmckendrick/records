@@ -12,18 +12,18 @@ cover:
     alt: "Who Cares A Lot? The Greatest Hits by Faith No More"
     caption: "Who Cares A Lot? The Greatest Hits by Faith No More"
 additional_images:
-    - "https://i.discogs.com/20f3LcQoqqzbfgZqjMM8vwqO0OT_YON27-VvghGfL2w/rs:fit/g:sm/q:90/h:609/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3MDYz/OTUyLTE2MTE0MTI4/MTgtMzEzOS5qcGVn.jpeg"
-    - "https://i.discogs.com/VlkIkgu2Hnn6jsTeEenoRVUf8I4G2VBKil1cc08BXkM/rs:fit/g:sm/q:90/h:605/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3MDYz/OTUyLTE2MTE0MTI4/MTgtODQ1MC5qcGVn.jpeg"
-    - "https://i.discogs.com/rIwot11vCchElPMasyn5R2m7ZdroVMmJyz_Go77yEWY/rs:fit/g:sm/q:90/h:800/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3MDYz/OTUyLTE2MTE0MTI4/MTgtNzAyMy5qcGVn.jpeg"
+    - "https://i.discogs.com/hNyG0N1f50GfVqxaqERbhKacPLiI6E7iadQ0satLvw0/rs:fit/g:sm/q:90/h:600/w:590/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3MDYz/OTUyLTE2MTE0MTI4/MTgtMzEzOS5qcGVn.jpeg"
+    - "https://i.discogs.com/TRzxP4SGk4S1uL5NvRntdgOACXd1LGZ5vcdHZ4Uve6M/rs:fit/g:sm/q:90/h:600/w:594/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3MDYz/OTUyLTE2MTE0MTI4/MTgtODQ1MC5qcGVn.jpeg"
+    - "https://i.discogs.com/owxwgF0pKFMY0IY6N1UqhhOKyRIYS3wLEfd0GBlkqCE/rs:fit/g:sm/q:90/h:600/w:450/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3MDYz/OTUyLTE2MTE0MTI4/MTgtNzAyMy5qcGVn.jpeg"
     - "https://i.discogs.com/nyP-tG0aWP5zG8R7UgtzG46fJWbGBhCQx9q79JTekgQ/rs:fit/g:sm/q:90/h:190/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3MDYz/OTUyLTE2MTE0MTI4/MTctOTAzMS5qcGVn.jpeg"
-    - "https://i.discogs.com/gWtrexfaWE4Ndmlor4QuZ7dIDJ4yjUI1hs8mS9GMfbk/rs:fit/g:sm/q:90/h:611/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3MDYz/OTUyLTE2MTY4NjE4/NDQtOTQ2MC5qcGVn.jpeg"
-    - "https://i.discogs.com/uF6mFiU8kHo09WcottE40BamGv7Lx6FwmlmWbFgrqmg/rs:fit/g:sm/q:90/h:603/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3MDYz/OTUyLTE2MTY5NDQw/MDgtOTM0Ni5qcGVn.jpeg"
-    - "https://i.discogs.com/vbxM-flrpCKl29KpkzfVT01VlVdP4lR49rSX1UUVc_s/rs:fit/g:sm/q:90/h:609/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3MDYz/OTUyLTE2MTY4NjE5/NzMtNzQ0NS5qcGVn.jpeg"
+    - "https://i.discogs.com/cgAEyJVjUOySuTzZtd8xd0Heb8ZmXCa7Nkj2JCpLPMg/rs:fit/g:sm/q:90/h:600/w:588/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3MDYz/OTUyLTE2MTY4NjE4/NDQtOTQ2MC5qcGVn.jpeg"
+    - "https://i.discogs.com/7bIzoO_3RqpOsJZnCJKosxvl0HuaAYrXnJPxAV-UQow/rs:fit/g:sm/q:90/h:600/w:596/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3MDYz/OTUyLTE2MTY5NDQw/MDgtOTM0Ni5qcGVn.jpeg"
+    - "https://i.discogs.com/hDA1Awrt3i9zO3WHvN5gIEbi5fvfrWFbnRUoL4Sc3YQ/rs:fit/g:sm/q:90/h:600/w:590/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3MDYz/OTUyLTE2MTY4NjE5/NzMtNzQ0NS5qcGVn.jpeg"
     - "https://i.discogs.com/IJxUxsUW2CH8GmrMK7SCT98H4nP8OXBs09Do-3G-Nug/rs:fit/g:sm/q:90/h:584/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3MDYz/OTUyLTE2MTY4NjIw/MTYtODg4NC5qcGVn.jpeg"
-    - "https://i.discogs.com/5IPIjnPBAr7iwPb26PJ81VldeSi5MQzagWgr0iugpAc/rs:fit/g:sm/q:90/h:624/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3MDYz/OTUyLTE2MTY4NjIw/NTQtMzg3MS5qcGVn.jpeg"
-    - "https://i.discogs.com/cOZi0CaTytt43flEgCaaFTx5asVQvOYY8IL23fcyQIk/rs:fit/g:sm/q:90/h:623/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3MDYz/OTUyLTE2MTY4NjIw/OTAtNTU2NC5qcGVn.jpeg"
+    - "https://i.discogs.com/Q-uT_EtG_xoYK3as5OeYScqasc5gNDhjYXeunl9uVH8/rs:fit/g:sm/q:90/h:600/w:576/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3MDYz/OTUyLTE2MTY4NjIw/NTQtMzg3MS5qcGVn.jpeg"
+    - "https://i.discogs.com/wucrgX2Z6znWviToZpaM3_ONbqO-znY1HQ7Hkb-0EcM/rs:fit/g:sm/q:90/h:600/w:577/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3MDYz/OTUyLTE2MTY4NjIw/OTAtNTU2NC5qcGVn.jpeg"
     - "https://i.discogs.com/SVgskROBRIUS1gZlNvND7tk6GEsFKKudiphyoK-ZB6I/rs:fit/g:sm/q:90/h:585/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3MDYz/OTUyLTE2MTY4NjIx/MzQtNTI1OS5qcGVn.jpeg"
-    - "https://i.discogs.com/joiBvnN9Dzsn6rbCdP5EQH7BLIFKSaVd-nOHh8K_GXU/rs:fit/g:sm/q:90/h:608/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3MDYz/OTUyLTE2MTY4NjIx/NzItNzc3MS5qcGVn.jpeg"
+    - "https://i.discogs.com/rmVe1brkgJ-qIOj5DCSwHkAna2C8I273lJNN3VLtuxY/rs:fit/g:sm/q:90/h:600/w:591/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3MDYz/OTUyLTE2MTY4NjIx/NzItNzc3MS5qcGVn.jpeg"
 genres: ["Rock"]
 styles: ["Alternative Rock", "Hard Rock", "Funk Metal"]
 ---
@@ -47,31 +47,26 @@ styles: ["Alternative Rock", "Hard Rock", "Funk Metal"]
 14. Ashes To Ashes
 15. Stripsearch
 
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/the-faith-no-more-collection/734506512" >}}<br>
 
 
 ## Videos
-### Faith No More - We Care a Lot (Official Music Video)
-{{< youtube id="LQhX8PbNUWI" title="Faith No More - We Care a Lot (Official Music Video)" >}}<br>
+### Faith No More - From Out Of Nowhere (Official Music Video)
+{{< youtube id="j4tsGWdarHc" title="Faith No More - From Out Of Nowhere (Official Music Video)" >}}<br>
 ### More Videos
 
-- [Introduce Yourself](https://www.youtube.com/watch?v=KuVUx8cADWs)
-- [Faith No More - From Out Of Nowhere (Official Music Video)](https://www.youtube.com/watch?v=j4tsGWdarHc)
 - [Epic](https://www.youtube.com/watch?v=EO6JN3LLTz8)
-- [Falling to Pieces](https://www.youtube.com/watch?v=MC_MqSwS7pA)
-- [Midlife Crisis](https://www.youtube.com/watch?v=nicENtCxsdQ)
-- [A Small Victory](https://www.youtube.com/watch?v=8A8ZABKyAys)
-- [Faith No More - Easy (Official Music Video)](https://www.youtube.com/watch?v=vPzDTfIb0DU)
-- [Faith No More - Digging The Grave](https://www.youtube.com/watch?v=Grx08ehxXMM)
-- [The Gentle Art of Making Enemies](https://www.youtube.com/watch?v=l_HtpFAlPWY)
-- [Evidence](https://www.youtube.com/watch?v=g-ZlNcsxgGI)
-- [I Started a Joke](https://www.youtube.com/watch?v=3bdD4fbBYkQ)
-- [Last Cup of Sorrow](https://www.youtube.com/watch?v=tx72qy4qkhw)
-- [Ashes to Ashes](https://www.youtube.com/watch?v=1UYLKtV4GIo)
 - [Faith No More - Stripsearch (Official Music Video)](https://www.youtube.com/watch?v=-_U6165DVeM)
-- [The World Is Yours (Outtake from Angel Dust Sessions)](https://www.youtube.com/watch?v=XXEMTvOmAXM)
-- [Hippie Jam Song (2016 Remaster)](https://www.youtube.com/watch?v=W1Vc_f7n1GA)
-- [Instrumental (2016 Remaster)](https://www.youtube.com/watch?v=w_DY87iXsdI)
+- [A Small Victory](https://www.youtube.com/watch?v=8A8ZABKyAys)
+- [Ashes to Ashes](https://www.youtube.com/watch?v=1UYLKtV4GIo)
 - [I Won't Forget You (2016 Remaster)](https://www.youtube.com/watch?v=mOtDoTPZ56c)
+- [Faith No More - We Care a Lot (Official Music Video) [4K]](https://www.youtube.com/watch?v=LQhX8PbNUWI)
+- [Faith No More - Epic (Official Music Video)](https://www.youtube.com/watch?v=ZG_k5CSYKhg)
+- [Faith No More - Easy (Official Music Video)](https://www.youtube.com/watch?v=vPzDTfIb0DU)
+- [Faith No More - Ashes to Ashes (Official Music Video)](https://www.youtube.com/watch?v=Kfq7wHJu21c)
+- [Faith No More - I Started a Joke (Official Music Video)](https://www.youtube.com/watch?v=JKDo6g4CCeU)
+- [Faith No More - Stripsearch (Official Music Video)](https://www.youtube.com/watch?v=-_U6165DVeM)
 
 ## Release Images
 {{< imageGrid >}}

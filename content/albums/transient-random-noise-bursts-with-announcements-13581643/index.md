@@ -16,16 +16,16 @@ additional_images:
     - "https://i.discogs.com/gFiFkEoHZOEZFguWTU92a7Gt-pPL5YNAhiRPJzbvXEs/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNTgx/NjQzLTE1NTY5MTM2/NjQtMzIyMy5wbmc.jpeg"
     - "https://i.discogs.com/6a3eyFZOq48cAfo4DZXYDMpHkZqjvEAZN7_ZXFUu_NQ/rs:fit/g:sm/q:90/h:587/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNTgx/NjQzLTE1NTg4Mjg4/NzUtMzU4MC5qcGVn.jpeg"
     - "https://i.discogs.com/r9Q768cmJLMb6k8O0I6R2OWXvLIuKpCaiId0rivONBE/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNTgx/NjQzLTE1NTg4Mjg4/NzQtNzE2MS5qcGVn.jpeg"
-    - "https://i.discogs.com/drva4GHjAvE1zEWt5B3iqJv2SqSJo6m-57BklwMMdS0/rs:fit/g:sm/q:90/h:601/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNTgx/NjQzLTE1NTY5MTM2/NjMtNzI3MC5wbmc.jpeg"
-    - "https://i.discogs.com/hXLEOpef8GwRws7ayJ3pm3xmarXyN_tBRcMdyacKPBU/rs:fit/g:sm/q:90/h:625/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNTgx/NjQzLTE1NTg4Mjg4/NzItOTI3MS5qcGVn.jpeg"
-    - "https://i.discogs.com/YyIGy2n3y0pvRVCtOktI5w_IP0URh0hQgh4IaJnmAdk/rs:fit/g:sm/q:90/h:614/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNTgx/NjQzLTE1NTg4Mjg4/NzMtNTg4MC5qcGVn.jpeg"
-    - "https://i.discogs.com/u33ZtABMZm5V6Gx18XRb0e5qPgEBM0ThzTXd7rQoZO0/rs:fit/g:sm/q:90/h:602/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNTgx/NjQzLTE1NTg4Mjg4/NzMtMjU4Ny5qcGVn.jpeg"
-    - "https://i.discogs.com/yl4fIdFGdC_qS_btEFBm_KnGhytIYwYGzCr93_FPXV8/rs:fit/g:sm/q:90/h:614/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNTgx/NjQzLTE1NTg4Mjg4/NzQtNTc1MC5qcGVn.jpeg"
-    - "https://i.discogs.com/TQEahebOVv1jXg9MXoTg4eCg1LMZfMgRQ6Uo2cqvtYg/rs:fit/g:sm/q:90/h:614/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNTgx/NjQzLTE1NTg4Mjg4/NzMtNjY1Ni5qcGVn.jpeg"
-    - "https://i.discogs.com/9Sq6Lge9FEMJGpIRNQUQK8FG-cX9CDlLRIfDamx5fMg/rs:fit/g:sm/q:90/h:628/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNTgx/NjQzLTE1NTg4Mjg4/NzQtODIyOC5qcGVn.jpeg"
+    - "https://i.discogs.com/5_iSQo9U5YSS3E6yEGVJU2_5ZIXjiGqYDhw6M85Xd4I/rs:fit/g:sm/q:90/h:600/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNTgx/NjQzLTE1NTY5MTM2/NjMtNzI3MC5wbmc.jpeg"
+    - "https://i.discogs.com/reac7pdHsQ3Bx698xSfwZ3CU87ejZnbGBlyCThI4tOk/rs:fit/g:sm/q:90/h:600/w:575/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNTgx/NjQzLTE1NTg4Mjg4/NzItOTI3MS5qcGVn.jpeg"
+    - "https://i.discogs.com/NR0iRcmZSALL2lbRa9H_UYUrbXen6Tt1gNAJMBQo14U/rs:fit/g:sm/q:90/h:600/w:586/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNTgx/NjQzLTE1NTg4Mjg4/NzMtNTg4MC5qcGVn.jpeg"
+    - "https://i.discogs.com/6WVVdi6z6nys-5Xrr5ttdpKdG_IEFt4zmL9WDiTViZM/rs:fit/g:sm/q:90/h:600/w:597/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNTgx/NjQzLTE1NTg4Mjg4/NzMtMjU4Ny5qcGVn.jpeg"
+    - "https://i.discogs.com/uWvGhA_NKAyYJbEFJI_m7hW7Mj2ypGRHsTEJqPt52Z8/rs:fit/g:sm/q:90/h:600/w:585/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNTgx/NjQzLTE1NTg4Mjg4/NzQtNTc1MC5qcGVn.jpeg"
+    - "https://i.discogs.com/rf6-bMPnU7-0rp-P1g-7NXOqsUSCM-ThOojw9jHY8UI/rs:fit/g:sm/q:90/h:600/w:585/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNTgx/NjQzLTE1NTg4Mjg4/NzMtNjY1Ni5qcGVn.jpeg"
+    - "https://i.discogs.com/Zs3Pxl3QbTpezcBq5UZKkc07F51S1VLuhZC057MT7qM/rs:fit/g:sm/q:90/h:600/w:572/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNTgx/NjQzLTE1NTg4Mjg4/NzQtODIyOC5qcGVn.jpeg"
     - "https://i.discogs.com/0RKIvhhLcI8Bsykx7Yl5SBBAbOykK4rUOFAp-ZurBIw/rs:fit/g:sm/q:90/h:450/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNTgx/NjQzLTE1NTg4Mjg4/NzQtNjIzMC5qcGVn.jpeg"
-    - "https://i.discogs.com/m3vm44ZNZ8rxY5J7mCMb9KJ4WyhjLV0onzLBCmV5oMo/rs:fit/g:sm/q:90/h:673/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNTgx/NjQzLTE1NTg4Mjg4/NzUtODU1OS5qcGVn.jpeg"
-    - "https://i.discogs.com/rDPS3vfCBhvU56SbGVJ6F3xZ5QlTEVVi7NHUmv5uXvE/rs:fit/g:sm/q:90/h:630/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNTgx/NjQzLTE1NTg4Mjg4/NzUtNDExNi5qcGVn.jpeg"
+    - "https://i.discogs.com/hmFEmHpUZHeyhCL6nTUNE0lzd7k7rbPgIveLTADwHGI/rs:fit/g:sm/q:90/h:600/w:534/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNTgx/NjQzLTE1NTg4Mjg4/NzUtODU1OS5qcGVn.jpeg"
+    - "https://i.discogs.com/xxD3eXeMBwtnBupao1fj9aPc6gOe2kFHJLmBHUCrURM/rs:fit/g:sm/q:90/h:600/w:570/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNTgx/NjQzLTE1NTg4Mjg4/NzUtNDExNi5qcGVn.jpeg"
 genres: ["Electronic", "Rock"]
 styles: ["Krautrock", "Indie Rock"]
 ---
@@ -50,12 +50,12 @@ And while they dove considerably deeper into kitsch as their career went on, you
 9. Crest (6:03)
 10. Lock-Groove Lullaby (3:36)
 11. Fragments
-12. Jenny Ondioline (7"/EP Version - Alternative Mix)
-13. Drum - Backwards Bass - Organ [Jenny Ondioline Breakdown Full Version]
-14. Analogue Rock [Original Mix]
-15. Pause [Original Mix]
-16. French Disco [Early Version Mix]
-17. Jenny Ondioline Part 2 [Breakdown Mix]
+12. Jenny Ondioline (7" / EP Version - Alternative Mix)
+13. Drum - Backwards Bass - Organ (Jenny Ondioline Breakdown Full Version)
+14. Analogue Rock (Original Mix)
+15. Pause (Original Mix)
+16. French Disco (Early Version Mix)
+17. Jenny Ondioline Part 2 (Breakdown Mix)
 18. Fruition - Demo
 19. I'm Going Out Of My Way - Demo
 20. French Disco - Demo
@@ -72,11 +72,9 @@ And while they dove considerably deeper into kitsch as their career went on, you
 {{< youtube id="zsIBzVSZeIQ" title="Stereolab - Jenny Ondioline (Official Video)" >}}<br>
 ### More Videos
 
-- [Stereolab - Pack Your Romantic Mind (Rare Early Mix)](https://www.youtube.com/watch?v=PJYc2xl7pgk)
 - [Tone Burst](https://www.youtube.com/watch?v=UoHK-555v5I)
 - [Our Trinitone Blast](https://www.youtube.com/watch?v=f4lANy2lyDo)
 - [Pack Yr Romantic Mind](https://www.youtube.com/watch?v=P5h_8vYrya0)
-- [I'm Going Out Of My Way](https://www.youtube.com/watch?v=1ENSJpYpJlU)
 - [Golden Ball](https://www.youtube.com/watch?v=LEWxa--fXlo)
 - [Pause](https://www.youtube.com/watch?v=K32zai-jDS4)
 - [Jenny Ondioline](https://www.youtube.com/watch?v=c_zYpoHQzbA)
@@ -94,5 +92,5 @@ And while they dove considerably deeper into kitsch as their career went on, you
 | Format         | Vinyl 2× LP Album Reissue Remastered, Vinyl LP, All Media (Expanded Edition) |
 | Label          | Duophonic Ultra High Frequency Disks |
 | Catalog Number | D-UHF-D02R |
-| Notes | Comes with fold-out poster & DL card. Track D3 ends in a locked groove. Gatefold sleeve. Tracks are continuously numbered across sides on the labels.  40 copies were made with a 3 - 4" piece of mastertape by Martin Pike and sold through Rough Trade UK. 18 copies were made with a piece of master tape numbered and stamped by Martin Pike and offered to customers whose orders for the clear vinyl edition could not be fulfilled through Rough Trade NYC.  Recorded at Blackwing Studios, London, May '93. Remastered [...] at Calyx, Berlin.  Front cover reproduced by kind permission of Haymarket Publishing Group.  Sampling credits: Pack Yr Romantic Mind. Embodies portions of "Strangers In The Night", written by Burt Kæmptfert, Charles Singleton, and Eddie Snyder, and published by Champion Music Corp. (BMI) / Screen - Gems (BMI) / GEMA. Used courtesy of Vanguard Records, a Welk Group Company. I'm Going Out Of My Way. "One Note Samba" Embodies portions of "One Note Samba", written by A. Jobim, J. Hendricks and N. Mendoca, and published by Duchess Music Corp. (BMI). Used courtesy of Vanguard Records, a Welk Group Company. Jenny Ondioline. "Channel Recognition Phasing & Balance" used courtesy of Haymarket Publishing Ltd. "Lock Groove Lullaby" This song embodies portions of "The Savers", written by Jean Marcel LeRoy and Gershon Kingsley, and published by Valentine Music Corp. (ASCAP). Used courtesy of Vanguard Records, a Welk Group Company.  On labels: ℗ 2019 Duophonic Ultra High Frequency Disks © 2019 Warp Records |
+| Notes | Comes with fold-out poster & DL card. Track D10 ends in a locked groove. Gatefold sleeve. Tracks are continuously numbered across sides on the reissued album. On the bonus album, the track numbering starts afresh, and also runs continuously. In the runouts, "1+" is mirrored.  40 copies were made with a 3 - 4" piece of mastertape by Martin Pike and sold through Rough Trade UK. 18 copies were made with a piece of master tape numbered and stamped by Martin Pike and offered to customers whose orders for the clear vinyl edition could not be fulfilled through Rough Trade NYC.  Recorded at Blackwing Studios, London, May '93. Remastered [...] at Calyx, Berlin.  Front cover reproduced by kind permission of Haymarket Publishing Group.  Sampling credits: Pack Yr Romantic Mind. Embodies portions of "Strangers In The Night", written by Burt Kæmptfert, Charles Singleton, and Eddie Snyder, and published by Champion Music Corp. (BMI) / Screen - Gems (BMI) / GEMA. Used courtesy of Vanguard Records, a Welk Group Company. I'm Going Out Of My Way. "One Note Samba" Embodies portions of "One Note Samba", written by A. Jobim, J. Hendricks and N. Mendoca, and published by Duchess Music Corp. (BMI). Used courtesy of Vanguard Records, a Welk Group Company. Jenny Ondioline. "Channel Recognition Phasing & Balance" used courtesy of Haymarket Publishing Ltd. "Lock Groove Lullaby" This song embodies portions of "The Savers", written by Jean Marcel LeRoy and Gershon Kingsley, and published by Valentine Music Corp. (ASCAP). Used courtesy of Vanguard Records, a Welk Group Company.  On labels: ℗ 2019 Duophonic Ultra High Frequency Disks © 2019 Warp Records |
 | Discogs URL    | [Stereolab - Transient Random-Noise Bursts With Announcements](https://www.discogs.com/release/13581643-Stereolab-Transient-Random-Noise-Bursts-With-Announcements) |

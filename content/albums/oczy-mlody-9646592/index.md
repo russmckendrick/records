@@ -18,7 +18,7 @@ additional_images:
     - "https://i.discogs.com/xyMQTvePiBGTu3b375vnnVJHBQdRNndKq9m1umnUygI/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk2NDY1/OTItMTY0NzE3Mzgy/MS02MjE2LmpwZWc.jpeg"
     - "https://i.discogs.com/6e2Tozn88ow47R_UyzeceLmGZoxgAXJQR9NKXHarUxw/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk2NDY1/OTItMTY0NzE3Mzgy/MS05MTc4LmpwZWc.jpeg"
     - "https://i.discogs.com/r8av-ETPLp7K8D0-8Lnff0H7rBUqr-bl-jfWO_nvVuQ/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk2NDY1/OTItMTY0NzE3Mzgy/MC0zNzE0LmpwZWc.jpeg"
-    - "https://i.discogs.com/d4jmBCfxsNv8xxgTUKjB_es1z2TGR6rHuSi0BZUidVU/rs:fit/g:sm/q:90/h:601/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk2NDY1/OTItMTY0NzE3Mzgy/MC0zNjcwLmpwZWc.jpeg"
+    - "https://i.discogs.com/7qxfj4c8ARaa3pbTGhtl7J26N1xGJxlDMUbhLspeCDM/rs:fit/g:sm/q:90/h:600/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk2NDY1/OTItMTY0NzE3Mzgy/MC0zNjcwLmpwZWc.jpeg"
     - "https://i.discogs.com/PcH7pRcu0URLfbwAJ3Khq1FuPOR1gJsUM1TIU6kWLlQ/rs:fit/g:sm/q:90/h:145/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk2NDY1/OTItMTY0NzE3Mzgy/MC00ODA0LmpwZWc.jpeg"
 genres: ["Rock", "Pop"]
 styles: ["Alternative Rock", "Dream Pop", "Psychedelic Rock"]
@@ -47,7 +47,12 @@ Described by frontman Wayne Coyne as “Syd Barrett meets A$AP Rocky and they ge
 {{< applemusic url="https://music.apple.com/gb/album/oczy-mlody/1161698600" >}}<br>
 
 
+## Videos
+### Oczy Mlody
+{{< youtube id="ZObBZh9ECcg" title="Oczy Mlody" >}}<br>
+### More Videos
 
+- [The Flaming Lips - How?? (Official Music Video)](https://www.youtube.com/watch?v=unLnJvzf-So)
 
 ## Release Images
 {{< imageGrid >}}

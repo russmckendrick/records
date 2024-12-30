@@ -33,14 +33,19 @@ styles: ["Leftfield", "Disco"]
 
 
 ## Videos
-### IAN DURY & THE MUSIC STUDENTS - Really Glad You Came (1983) Disco Funk
-{{< youtube id="t03qMYuBpOY" title="IAN DURY & THE MUSIC STUDENTS - Really Glad You Came (1983) Disco Funk" >}}<br>
+### Ian Dury and the Music Students — You're My Inspiration
+{{< youtube id="8zU57vIa6dw" title="Ian Dury and the Music Students — You're My Inspiration" >}}<br>
 ### More Videos
 
-- [Ian Dury - Ban The Bomb](https://www.youtube.com/watch?v=EV6s5Ol5GeI)
-- [IAN DURY & THE MUSIC STUDENTS - You're My Inspiration (Long Version) (1983) Disco Funk](https://www.youtube.com/watch?v=VpNZ_tGmr6Q)
-- [Your My Inspiration Ian Dury](https://www.youtube.com/watch?v=Vw-88GgxY4Y)
-- [Ian Dury - The Man With No Face](https://www.youtube.com/watch?v=4PtZAmpzD1w)
+- [Ian Dury and the Music Students — Friends](https://www.youtube.com/watch?v=R4bfhHLP7cI)
+- [Ian Dury and the Music Students — Tell Your Daddy](https://www.youtube.com/watch?v=ZqkVwVAN7Ow)
+- [Ian Dury and the Music Students — Peter the Painter](https://www.youtube.com/watch?v=j5zda2EwGjY)
+- [Ian Dury and the Music Students —  Ban the Bomb](https://www.youtube.com/watch?v=4_GU8gn20aY)
+- [Ian Dury and the Music Students — Percy the Poet](https://www.youtube.com/watch?v=z3rm4MCQRIQ)
+- [Ian Dury and the Music Students — Very Personal](https://www.youtube.com/watch?v=aJ405au1LOM)
+- [Ian Dury and the Music Students — Take Me to the Cleaners](https://www.youtube.com/watch?v=Njy9Zfa3ha0)
+- [Ian Dury and the Music Students — The Man with No Face](https://www.youtube.com/watch?v=B-ixhr61Lqk)
+- [Ian Dury and the Music Students — Really Glad You Came](https://www.youtube.com/watch?v=g6K-9f7rOvo)
 
 ## Release Images
 {{< imageGrid >}}

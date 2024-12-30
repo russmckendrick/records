@@ -15,7 +15,7 @@ cover:
 additional_images:
     - "https://i.discogs.com/BbHK3fbsYxtiUEFbkmbmzBe_oGgmn5eTY47kf4doA98/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgyNTU1/NDYtMTQ1ODA1NzQw/MS02NzMyLmpwZWc.jpeg"
     - "https://i.discogs.com/DH6M1DYwTrPejBIocMwWXYU1q9447fcZe2DIhixf6gw/rs:fit/g:sm/q:90/h:593/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgyNTU1/NDYtMTQ2Njg4NDAw/NC03NTA5LmpwZWc.jpeg"
-    - "https://i.discogs.com/tuAZkDnB1IJmSA5jqBi-XF0Yv_wAgkPP0mrwDaF0qY4/rs:fit/g:sm/q:90/h:607/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgyNTU1/NDYtMTQ2Njg4NDAw/MS02NDQzLmpwZWc.jpeg"
+    - "https://i.discogs.com/XGcq_oCrboJjmkrC80a5umZnQhSiwXCf9nSfO7etI94/rs:fit/g:sm/q:90/h:600/w:592/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgyNTU1/NDYtMTQ2Njg4NDAw/MS02NDQzLmpwZWc.jpeg"
     - "https://i.discogs.com/0aA5GmYVpn_6-fYsXv_eVSh7wwVP5itCUlJzlDnL6fk/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgyNTU1/NDYtMTQ2Njg4NDAw/Mi02ODUwLmpwZWc.jpeg"
     - "https://i.discogs.com/zPmKD_jiqTRLxRFvPg_wMbwDr8BZor-viUEjorxGTpU/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgyNTU1/NDYtMTQ2Njg4Mzk5/OS03NTg0LmpwZWc.jpeg"
     - "https://i.discogs.com/_5PH7a37YqYPwKM7hDy-NkT4_GsWWlwz8hilWwfgvC8/rs:fit/g:sm/q:90/h:592/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgyNTU1/NDYtMTQ2Njg4NDAw/MS0yMTcyLmpwZWc.jpeg"
@@ -24,8 +24,9 @@ genres: ["Funk / Soul"]
 styles: ["Soul"]
 ---
 
-The difference between Charles Bradley and a so-called soul revivalist is that, for Bradley—who was 67 when the third and final album of his lifetime, <i>Changes</i>, came out in 2016—soul never died in the first place. Like the work of Sharon Jones & The Dap-Kings (whose affiliates the Menahan Street Band provide most of Bradley’s musical backing), <i>Changes</i> doesn’t sound like a lost ’60s album so much as a found one, retouched and dusted off, sonically saturated in a way that wouldn’t’ve been possible 50 years ago. And while Bradley spent years as a James Brown impersonator, his delivery has more in common with what you heard in the balladry of Otis Redding: pained and reflective (“Changes”) but resilient (“Good to Be Back Home”) too—the sound of everything to give and nothing left to lose.
-    
+The difference between Charles Bradley and a so-called soul revivalist is that, for Bradley—who was 67 when the third and final album of his lifetime, <I>Changes</I>, came out in 2016—soul never died in the first place. Like the work of Sharon Jones & The Dap-Kings (whose affiliates the Menahan Street Band provide most of Bradley’s musical backing), <I>Changes</I> doesn’t sound like a lost ’60s album so much as a found one, retouched and dusted off, sonically saturated in a way that wouldn’t’ve been possible 50 years ago. And while Bradley spent years as a James Brown impersonator, his delivery has more in common with what you heard in the balladry of Otis Redding: pained and reflective (“Changes”) but resilient (“Good to Be Back Home”) too—the sound of everything to give and nothing left to lose.
+        
+        
     
 
 
@@ -51,14 +52,19 @@ The difference between Charles Bradley and a so-called soul revivalist is that, 
 {{< youtube id="Ntu_2beC9Ts" title="God Bless America" >}}<br>
 ### More Videos
 
+- [Good to Be Back Home](https://www.youtube.com/watch?v=SkioNKJMSUY)
+- [Nobody But You](https://www.youtube.com/watch?v=gZiVI1La8UI)
+- [Ain't Gonna Give It Up](https://www.youtube.com/watch?v=b4NAta5J8tI)
+- [Charles Bradley "Changes" (OFFICIAL VIDEO)](https://www.youtube.com/watch?v=xi49yirJiEA)
+- [God Bless America](https://www.youtube.com/watch?v=Ntu_2beC9Ts)
+- [Good to Be Back Home](https://www.youtube.com/watch?v=SkioNKJMSUY)
+- [Nobody But You](https://www.youtube.com/watch?v=gZiVI1La8UI)
+- [Ain't Gonna Give It Up](https://www.youtube.com/watch?v=b4NAta5J8tI)
+- [Charles Bradley "Changes" (OFFICIAL VIDEO)](https://www.youtube.com/watch?v=xi49yirJiEA)
 - [Charles Bradley - Ain't Gonna Give It Up (HD)](https://www.youtube.com/watch?v=3A4TiEHop8k)
 - [Charles Bradley - Changes | Instore at Rough Trade East, London](https://www.youtube.com/watch?v=dhYSGPxlHks)
-- [Good to Be Back Home](https://www.youtube.com/watch?v=SkioNKJMSUY)
 - [Charles Bradley - Lovin' You, Baby | Instore at Rough Trade East, London](https://www.youtube.com/watch?v=2De8gYv2EOQ)
-- [Nobody But You](https://www.youtube.com/watch?v=gZiVI1La8UI)
 - [Charles Bradley - Ain't It A Sin | Instore at Rough Trade East, London](https://www.youtube.com/watch?v=xwr-Oejggfs)
-- [Ain't Gonna Give It Up](https://www.youtube.com/watch?v=b4NAta5J8tI)
-- [Charles Bradley Changes (OFFICIAL VIDEO)](https://www.youtube.com/watch?v=xi49yirJiEA)
 
 ## Release Images
 {{< imageGrid >}}
@@ -66,6 +72,7 @@ The difference between Charles Bradley and a so-called soul revivalist is that, 
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
+| Wikipedia URL | https://en.wikipedia.org/wiki/Changes_(Charles_Bradley_album) |
 | Format         | Vinyl LP Album |
 | Label          | Dunham |
 | Catalog Number | DUN-1005 |

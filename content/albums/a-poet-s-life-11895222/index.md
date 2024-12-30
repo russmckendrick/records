@@ -26,6 +26,12 @@ genres: ["Rock"]
 styles: ["Ska"]
 ---
 
+A Poet's Life is the debut solo studio album by American musician Tim Armstrong. It was recorded with The Aggrolites in Los Angeles, California and released on May 22, 2007 via Hellcat Records.
+The album was initially released for free as downloads on the internet. Later it was announced that it would be a physical product as well. The album comes with a DVD featuring a video for every song on the album.
+
+
+    
+    
 
 
 ## Tracklisting
@@ -65,6 +71,7 @@ styles: ["Ska"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
+| Wikipedia URL | https://en.wikipedia.org/wiki/A_Poet%27s_Life |
 | Format         | Vinyl LP Album Record Store Day Limited Edition Reissue (White) |
 | Label          | Hellcat Records |
 | Catalog Number | 0491-1 |

@@ -20,6 +20,9 @@ genres: ["Rock"]
 styles: ["Alternative Rock", "Garage Rock", "Punk"]
 ---
 
+Now for a Feast! is a compilation album by English rock band Pop Will Eat Itself, released in November 1988 by Chapter 22 Records. It compiles their work before 1988, and has been re-released several times by different labels, each with a different selection of bonus tracks. The Cherry Red version, released as a 25th anniversary edition, contained almost every song released by the band while Graham Crabb was drumming, as well as several unreleased demos and versions, one live song, and three very rare demos recorded by Wild And Wandering, the previous incarnation of the band before their name was changed to Pop Will Eat Itself in 1986. The album is largely devoid of the grebo and electronic influences of later albums.
+    
+    
 
 
 ## Tracklisting
@@ -39,7 +42,7 @@ styles: ["Alternative Rock", "Garage Rock", "Punk"]
 14. Orgone Accumulator
 
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/now-for-a-feast-25th-anniversary-expanded-edition/461120910" >}}<br>
+{{< applemusic url="https://music.apple.com/gb/album/now-for-a-feast/1577268979" >}}<br>
 
 
 ## Videos
@@ -49,6 +52,9 @@ styles: ["Alternative Rock", "Garage Rock", "Punk"]
 
 - [PWEI Oh Grebo I Think I Love You](https://www.youtube.com/watch?v=VLOCQpsmutk)
 - [Pop Will Eat Itself - Sick Little Girl](https://www.youtube.com/watch?v=aqj67I5-dFg)
+- [Pop Will Eat Itself - Orgone Accumulator](https://www.youtube.com/watch?v=iOD-G6_1OGM)
+- [PWEI Oh Grebo I Think I Love You](https://www.youtube.com/watch?v=VLOCQpsmutk)
+- [Pop Will Eat Itself - Sick Little Girl](https://www.youtube.com/watch?v=aqj67I5-dFg)
 
 ## Release Images
 {{< imageGrid >}}
@@ -56,6 +62,7 @@ styles: ["Alternative Rock", "Garage Rock", "Punk"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
+| Wikipedia URL | https://en.wikipedia.org/wiki/Now_for_a_Feast! |
 | Format         | Vinyl LP Compilation |
 | Label          | Chapter 22 |
 | Catalog Number | CHAP LP 33 |

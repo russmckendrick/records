@@ -33,8 +33,11 @@ genres: ["Electronic", "Rock"]
 styles: ["Leftfield"]
 ---
 
-American Dream (stylized in all-lowercase on digital releases) is the fourth studio album by American rock band LCD Soundsystem, released on September 1, 2017, by DFA and Columbia. It was announced on January 5, 2016, the day after it was revealed that the band was reuniting after a disbandment lasting nearly five years. It is the band's first album in seven years, following This Is Happening (2010).  This album reached number 1 on the Top Rock Albums chart and was LCD Soundsystem's first record to top the US Billboard 200.
-Prior to release, LCD Soundsystem performed at large music festivals as well as smaller shows to promote their reunion. "Call the Police" and "American Dream" were released together as the album's lead single on May 5, 2017, and "Tonite" was released as the second single on August 16, 2017. "Oh Baby" was later released as a single on September 20, 2018. The album received widespread acclaim from music critics, appeared on many year-end lists, and was named "Album of the Year" by Mojo and Uncut. The album performed well commercially and became the band's first number-one album in the United States, Canada, and Portugal. At the 60th Annual Grammy Awards, the album was nominated for Best Alternative Music Album and "Tonite" won the Grammy Award for Best Dance Recording.
+James Murphy has always made things difficult for himself. By building a music career around the meta-narrative of being someone <i>knowingly</i> having a music career, every move he made was subject to scrutiny beyond that of a mere musician. Murphy painted himself into a corner—as did an artist from a previous generation: David Bowie. So it’s almost unbelievable that, before his death in 2016, Bowie told Murphy it was OK for the LCD Soundsystem mastermind to reform the band a mere five years after their much ballyhooed “final show” at Madison Square Garden.
+
+Following his mentor’s advice, LCD played their first reunion show not long afterward. But fans would have to wait until 2017 for LCD’s comeback album, <i>american dream</i>. By then, Murphy had lost several musical heroes, including Bowie, Leonard Cohen and Alan Vega of Suicide (a band name-checked on the first LCD song, “Losing My Edge”). When <i>american dream</i> was finally released, Murphy told interviewers that he’d imagined Cohen doing a “spoken word bit” on the song “Black Screen” (ostensibly a tribute to Bowie) mere days before the 82-year-old Cohen’s passing. Clearly, time was slipping away.
+
+Also slipping away: The 2000s indie-dance scene that had once viewed Murphy as a leading star. Sure, LCD Soundsystem’s beloved back catalogue could sell out concerts until the end of time. But Murphy was no longer a scenester darling—a point he addresses on <i>american dream</i>’s “I Used To”, which finds him singing, “I used to dance alone of my own volition.” The album’s “Emotional Haircut”, meanwhile, finds Murphy ignoring the 2000s altogether: With its intertwined guitar and drum exchange, the song recalls the early-1990s American post-hardcore scene that had chewed up and spit out Murphy early on in his music career. To quote Simone de Beauvoir, a philosopher often linked to none other than Bowie: “If you live long enough, you'll see that every victory turns into a defeat.”
         
         
     
@@ -61,19 +64,29 @@ Prior to release, LCD Soundsystem performed at large music festivals as well as 
 {{< youtube id="PPa7wrRW2zE" title="oh baby" >}}<br>
 ### More Videos
 
-- [LCD Soundsystem - oh baby (Official Video)](https://www.youtube.com/watch?v=5gIhrPGyu6U)
 - [other voices](https://www.youtube.com/watch?v=ZRaVXBJDiu8)
-- [LCD Soundsystem - tonite (Video)](https://www.youtube.com/watch?v=lqq3BtGrpU8)
 - [i used to](https://www.youtube.com/watch?v=P3tNaLXGPXc)
-- [LCD Soundsystem - american dream](https://www.youtube.com/watch?v=ML1MUKOJIIo)
 - [change yr mind](https://www.youtube.com/watch?v=ocu-e4A-XBk)
-- [LCD Soundsystem - call the police](https://www.youtube.com/watch?v=zWKIWNJnlzI)
 - [how do you sleep?](https://www.youtube.com/watch?v=E55hWJFzaC8)
 - [tonite](https://www.youtube.com/watch?v=On47IHTHEdA)
 - [call the police](https://www.youtube.com/watch?v=b4AYQa0j_v8)
 - [american dream](https://www.youtube.com/watch?v=pUo4Waix-ww)
 - [emotional haircut](https://www.youtube.com/watch?v=N2olnx1bTW0)
 - [black screen](https://www.youtube.com/watch?v=hYmvBLNhif4)
+- [oh baby](https://www.youtube.com/watch?v=PPa7wrRW2zE)
+- [other voices](https://www.youtube.com/watch?v=ZRaVXBJDiu8)
+- [i used to](https://www.youtube.com/watch?v=P3tNaLXGPXc)
+- [change yr mind](https://www.youtube.com/watch?v=ocu-e4A-XBk)
+- [how do you sleep?](https://www.youtube.com/watch?v=E55hWJFzaC8)
+- [tonite](https://www.youtube.com/watch?v=On47IHTHEdA)
+- [call the police](https://www.youtube.com/watch?v=b4AYQa0j_v8)
+- [american dream](https://www.youtube.com/watch?v=pUo4Waix-ww)
+- [emotional haircut](https://www.youtube.com/watch?v=N2olnx1bTW0)
+- [black screen](https://www.youtube.com/watch?v=hYmvBLNhif4)
+- [LCD Soundsystem - oh baby (Official Video)](https://www.youtube.com/watch?v=5gIhrPGyu6U)
+- [LCD Soundsystem - tonite (Video)](https://www.youtube.com/watch?v=lqq3BtGrpU8)
+- [LCD Soundsystem - american dream](https://www.youtube.com/watch?v=ML1MUKOJIIo)
+- [LCD Soundsystem - call the police](https://www.youtube.com/watch?v=zWKIWNJnlzI)
 
 ## Release Images
 {{< imageGrid >}}
@@ -85,5 +98,5 @@ Prior to release, LCD Soundsystem performed at large music festivals as well as 
 | Format         | Vinyl 2× LP Album |
 | Label          | DFA |
 | Catalog Number | 88985456111 |
-| Notes | 140-gram vinyl housed in gatefold cover and issued with a download voucher. This was also available in a bundle that included a tote bag and eight signed band photos.  © & ℗ 2017 Excelsior Equity Management of NY, LLC |
+| Notes | 140-gram vinyl housed in gatefold cover and issued with a download voucher. This was also available in a bundle that included a tote bag and eight signed band photos. All sides end in locked grooves.  © & ℗ 2017 Excelsior Equity Management of NY, LLC |
 | Discogs URL    | [LCD Soundsystem - American Dream](https://www.discogs.com/release/10776167-LCD-Soundsystem-American-Dream) |

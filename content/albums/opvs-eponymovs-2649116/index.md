@@ -4,6 +4,7 @@ artist_name: "Ghost"
 artist: "ghost"
 album_name: "Opvs Eponymovs"
 date: 2018-09-18T18:03:40.000000Z
+release_date: "2011-01-18"
 release_id: "2649116"
 slug: "opvs-eponymovs-2649116"
 hideSummary: true
@@ -21,24 +22,29 @@ genres: ["Rock"]
 styles: ["Doom Metal", "Heavy Metal"]
 ---
 
+For a bunch of scary Swedes, Ghost’s debut album is quite catchy and melodic. The Stockholm sextet keep their identities shrouded in mystery — their lead singer praises Satan while dressed up like a satanic pope (replete with tall hat and skull make-up) as his band plays in brown hooded robes. “Deus Culpa” opens with church- organ drones before thunderous rhythms hail down over proto-metal riffs – but then this is all contrasted with some of the sunniest vocal harmonies since Blue Öyster Cult. The following “Ritual” contains a catchy melody that borders on guitar-pop akin to the Posies’ “I Can Dream All Day.” Although the slightly tougher sounding “Elizabeth” harkens to lighter moments of early Mercyful Fate, disciples of black metal may have a hard time digesting “Satan Prayer” which plays with such uplifting musicality that you can almost envision them singing, “Unholy ghost overlord and taker of life/ Hear our Satan prayer” with a smile on their faces.
+    
+    
 
 
 ## Tracklisting
-1. Deus Culpa (1:34)
-2. Con Clavi Con Dio (3:34)
-3. Ritual (4:29)
-4. Elizabeth (4:01)
-5. Stand By Him (3:56)
-6. Satan Prayer (4:38)
-7. Death Knell (4:37)
-8. Prime Mover (3:53)
-9. Genesis (4:03)
+1. Deus Culpa
+2. Con Clavi Con Dio
+3. Ritual
+4. Elizabeth
+5. Stand By Him
+6. Satan Prayer
+7. Death Knell
+8. Prime Mover
+9. Genesis
 
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/opus-eponymous/398684510" >}}<br>
 
 
 ## Videos
-### Ghost Death Knell (OFFICIAL)
-{{< youtube id="qJy-hdKT5wM" title="Ghost Death Knell (OFFICIAL)" >}}<br>
+### Ghost "Death Knell" (OFFICIAL)
+{{< youtube id="qJy-hdKT5wM" title="Ghost "Death Knell" (OFFICIAL)" >}}<br>
 
 
 ## Release Images
@@ -51,4 +57,4 @@ styles: ["Doom Metal", "Heavy Metal"]
 | Label          | Rise Above Records |
 | Catalog Number | RISELP124 |
 | Notes | Album is also known as "Opus Eponymous".     Recorded at Manfire Recordings.  Additional recordings done at White Light Studio.  Mixed and mastered at Orgone Mastering.    ℗ 2010 Rise Above.  © 2010 Rise Above.    Limited to 300 on green with black splatter .   |
-| Discogs URL    | [Ghost - Opvs Eponymovs](https://www.discogs.com/release/2649116-Ghost-Opvs-Eponymovs) |
+| Discogs URL    | [Ghost - Opvs Eponymovs](https://www.discogs.com/release/2649116-Ghost-32-Opvs-Eponymovs) |

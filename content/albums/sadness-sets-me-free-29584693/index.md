@@ -12,18 +12,16 @@ cover:
     alt: "Sadness Sets Me Free by Gruff Rhys"
     caption: "Sadness Sets Me Free by Gruff Rhys"
 additional_images:
-    - "https://i.discogs.com/_OaEGX_85xqRXll4fUmENXFuKEId1HiaDROH4TMVXsk/rs:fit/g:sm/q:90/h:612/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5NTg0/NjkzLTE3MDYxMDA0/NzYtNjgzMy5qcGVn.jpeg"
-    - "https://i.discogs.com/ye73jZ9ZhhUoJuQ09FLFSjGTHxM-IyFycEaFtunHsys/rs:fit/g:sm/q:90/h:614/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5NTg0/NjkzLTE3MDYxMDA0/NzUtMzM3Ni5qcGVn.jpeg"
-    - "https://i.discogs.com/8W-yu_ijlfRp6DZgiaiLsy1jahFtPlhtTyxRyk1tYhg/rs:fit/g:sm/q:90/h:622/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5NTg0/NjkzLTE3MDYyMTUx/NzQtNzUxNC5qcGVn.jpeg"
-    - "https://i.discogs.com/dT4mi4AtD2Qx7A_E0X1d4gvVAy0CsMlHpHN0nUVpH2Y/rs:fit/g:sm/q:90/h:611/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5NTg0/NjkzLTE3MDYyMTUx/NzUtMjEwNC5qcGVn.jpeg"
-    - "https://i.discogs.com/61AAhcYomaazol1HSRvQb69KKWfgmtpRc_hfCyqGdD8/rs:fit/g:sm/q:90/h:628/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5NTg0/NjkzLTE3MDYyMTUx/NzYtNzUzMS5qcGVn.jpeg"
+    - "https://i.discogs.com/dJXMaZV3VQCJc3EP0d8BYVFaSdDuCGMFwTJzlviWLfE/rs:fit/g:sm/q:90/h:600/w:588/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5NTg0/NjkzLTE3MDYxMDA0/NzYtNjgzMy5qcGVn.jpeg"
+    - "https://i.discogs.com/2DMamYfcHrmwH-8_VXm5YXlB9tjSrdXyGZn5QKaMnSE/rs:fit/g:sm/q:90/h:600/w:585/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5NTg0/NjkzLTE3MDYxMDA0/NzUtMzM3Ni5qcGVn.jpeg"
+    - "https://i.discogs.com/fQ0TDXQ7uXicFdvBR4wTenXXlnvTt1we-FhMJGmQ-KE/rs:fit/g:sm/q:90/h:600/w:578/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5NTg0/NjkzLTE3MDYyMTUx/NzQtNzUxNC5qcGVn.jpeg"
+    - "https://i.discogs.com/Vzo4uR6KFjPuM3dZ5IenrzwWIINJP1Rz1EHqoKIBeiU/rs:fit/g:sm/q:90/h:600/w:588/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5NTg0/NjkzLTE3MDYyMTUx/NzUtMjEwNC5qcGVn.jpeg"
+    - "https://i.discogs.com/I0SVCAAPAl_VBiFia7InajRgQfHuFfVY8nadpvPZ7yA/rs:fit/g:sm/q:90/h:600/w:572/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5NTg0/NjkzLTE3MDYyMTUx/NzYtNzUzMS5qcGVn.jpeg"
 genres: ["Rock", "Pop"]
 styles: ["Indie Pop"]
 ---
 
 Sadness Sets Me Free is the eighth studio album by Welsh musician Gruff Rhys, released on 26 January 2024 through Rough Trade Records. It was recorded in three days in March 2022 in Paris, and received positive reviews from critics.
-
-
     
     
 
@@ -49,6 +47,9 @@ Sadness Sets Me Free is the eighth studio album by Welsh musician Gruff Rhys, re
 {{< youtube id="jv5jwu_RdQw" title="Gruff Rhys - Celestial Candyfloss (Official Video)" >}}<br>
 ### More Videos
 
+- [Gruff Rhys - Bad Friend (Official Video)](https://www.youtube.com/watch?v=OprFcUKXzJs)
+- [Gruff Rhys - Silver Lining Lead Balloons (Official Visualizer)](https://www.youtube.com/watch?v=H7fBfU4Swpc)
+- [Gruff Rhys - Celestial Candyfloss (Official Video)](https://www.youtube.com/watch?v=jv5jwu_RdQw)
 - [Gruff Rhys - Bad Friend (Official Video)](https://www.youtube.com/watch?v=OprFcUKXzJs)
 - [Gruff Rhys - Silver Lining Lead Balloons (Official Visualizer)](https://www.youtube.com/watch?v=H7fBfU4Swpc)
 

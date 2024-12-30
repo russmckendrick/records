@@ -17,6 +17,10 @@ genres: ["Rock", "Pop"]
 styles: ["Pop Rock"]
 ---
 
+40 Years: The Greatest Hits is a greatest hits album by English new wave band Spandau Ballet, released in 2020. The collection includes every song issued as a single by the band to that point, although the original recording of "Instinction" from the 1982 Diamond album was chosen over the hit remix by Trevor Horn.
+Their 1990 recording of "The Boxer" made its debut here. Other tracks from their first five albums were also included along with several mixes of their hits that were released as 12-inch singles.
+    
+    
 
 
 ## Tracklisting
@@ -44,9 +48,6 @@ styles: ["Pop Rock"]
 {{< applemusic url="https://music.apple.com/gb/album/40-years-the-greatest-hits/1535024673" >}}<br>
 
 
-## Videos
-### Spandau Ballet - The Boxer
-{{< youtube id="2vBQJv5cudk" title="Spandau Ballet - The Boxer" >}}<br>
 
 
 ## Release Images
@@ -55,6 +56,7 @@ styles: ["Pop Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
+| Wikipedia URL | https://en.wikipedia.org/wiki/40_Years:_The_Greatest_Hits |
 | Format         | Vinyl 2× LP Compilation (Red) |
 | Label          | Parlophone |
 | Catalog Number | 0190295200046 |

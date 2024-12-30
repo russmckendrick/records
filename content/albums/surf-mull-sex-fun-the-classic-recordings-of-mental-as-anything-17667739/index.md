@@ -12,7 +12,7 @@ cover:
     alt: "Surf & Mull & Sex & Fun: The Classic Recordings Of Mental As Anything by Mental As Anything"
     caption: "Surf & Mull & Sex & Fun: The Classic Recordings Of Mental As Anything by Mental As Anything"
 additional_images:
-    - "https://i.discogs.com/IfpNmgicCSxRIzTK_yy_sS8gLYAjLeN7ReH39ui54aA/rs:fit/g:sm/q:90/h:607/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3NjY3/NzM5LTE2MjcxODQy/NTctODAwNi5qcGVn.jpeg"
+    - "https://i.discogs.com/qZMsXvq1D17HiehV6f-PG1gJ7umdqRsUPV_y5eNlhWk/rs:fit/g:sm/q:90/h:600/w:592/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3NjY3/NzM5LTE2MjcxODQy/NTctODAwNi5qcGVn.jpeg"
 genres: ["Rock"]
 styles: ["Rock & Roll", "Pub Rock", "Pop Rock", "New Wave"]
 ---

@@ -36,9 +36,24 @@ styles: ["Pop Rock"]
 11. Just Fine (3:27)
 12. Adore (3:57)
 
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/in-your-room/1769679211" >}}<br>
 
 
+## Videos
+### Anneke van Giersbergen & Agua de Annique - Wonder (official music video)
+{{< youtube id="hKLJolIZ6Pg" title="Anneke van Giersbergen & Agua de Annique - Wonder (official music video)" >}}<br>
+### More Videos
 
+- [Anneke van Giersbergen & Agua de Annique - Hey Okay!](https://www.youtube.com/watch?v=telPDj1VQjQ)
+- [Anneke van Giersbergen & Agua de Annique - The World](https://www.youtube.com/watch?v=lj_R0IZMu0I)
+- [Anneke van Giersbergen - In your room](https://www.youtube.com/watch?v=pbho9mqrNIQ)
+- [Anneke Van Giersbergen & Agua de Annique - Just Fine](https://www.youtube.com/watch?v=RYJvj_X12rk)
+- [Anneke van Giersbergen & Agua de Annique - Wonder (official music video)](https://www.youtube.com/watch?v=hKLJolIZ6Pg)
+- [Anneke van Giersbergen & Agua de Annique - Hey Okay!](https://www.youtube.com/watch?v=telPDj1VQjQ)
+- [Anneke van Giersbergen & Agua de Annique - The World](https://www.youtube.com/watch?v=lj_R0IZMu0I)
+- [Anneke van Giersbergen - In your room](https://www.youtube.com/watch?v=pbho9mqrNIQ)
+- [Anneke Van Giersbergen & Agua de Annique - Just Fine](https://www.youtube.com/watch?v=RYJvj_X12rk)
 
 ## Release Images
 {{< imageGrid >}}

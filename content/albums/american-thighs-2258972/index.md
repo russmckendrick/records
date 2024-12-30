@@ -24,7 +24,7 @@ genres: ["Rock"]
 styles: ["Alternative Rock"]
 ---
 
-American Thighs is the 1994 debut studio album by American alternative rock band Veruca Salt. The album features the hit single "Seether" and received positive critical reviews.
+American Thighs is the 1994 debut studio album by American alternative rock band Veruca Salt. The album features the single "Seether".
     
     
 

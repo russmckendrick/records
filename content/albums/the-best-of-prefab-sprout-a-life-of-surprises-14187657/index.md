@@ -16,8 +16,8 @@ additional_images:
     - "https://i.discogs.com/FO54FRf5wWbztcajUJHdIxRz14r6A26P8SQLeV-jtLQ/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MTg3/NjU3LTE1Njk1MDg0/MDQtNTI0OS5qcGVn.jpeg"
     - "https://i.discogs.com/UZ6oF5SQ0pAfhuQBgCkWgv91CE5JItg6i8aUNNKQlhY/rs:fit/g:sm/q:90/h:290/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MTg3/NjU3LTE1Njk1MDg0/MDMtNTQ5MS5qcGVn.jpeg"
     - "https://i.discogs.com/33b73KD60IeJVCwDE8xa5StKpQNAuK0tYxqMKfEejR8/rs:fit/g:sm/q:90/h:592/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MTg3/NjU3LTE1Njk1MDg0/MDUtNjMxOS5qcGVn.jpeg"
-    - "https://i.discogs.com/ioy63kpOSc1I_mj7bCvWpUb7wx0zaTWoeZ_6Syjelgk/rs:fit/g:sm/q:90/h:622/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MTg3/NjU3LTE1Njk1MDg0/MDUtNTc3MS5qcGVn.jpeg"
-    - "https://i.discogs.com/_kjbQxr_F_09c3QBM_izHjCa3fiv1orZm77DM4j84Uo/rs:fit/g:sm/q:90/h:653/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MTg3/NjU3LTE1Njk1MDg0/MDMtMTYwNC5qcGVn.jpeg"
+    - "https://i.discogs.com/8IG4dpYfjkMX4fhMVcEZU5KpK-Frn-oWnGYMWDS967U/rs:fit/g:sm/q:90/h:600/w:578/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MTg3/NjU3LTE1Njk1MDg0/MDUtNTc3MS5qcGVn.jpeg"
+    - "https://i.discogs.com/CFy-1QobhrZcy8BpGz_gICZXPoda6Jz9KWluRTjjBLs/rs:fit/g:sm/q:90/h:600/w:550/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MTg3/NjU3LTE1Njk1MDg0/MDMtMTYwNC5qcGVn.jpeg"
     - "https://i.discogs.com/GJ73u1yp0m7nXEQdkq7wyNBU5OAPU6ZO1NP9it9P7Nk/rs:fit/g:sm/q:90/h:588/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MTg3/NjU3LTE1Njk1MDg0/MDItMjYzNS5qcGVn.jpeg"
 genres: ["Electronic", "Rock", "Pop"]
 styles: ["Pop Rock", "Synth-pop"]
@@ -48,23 +48,28 @@ styles: ["Pop Rock", "Synth-pop"]
 
 
 ## Videos
-### Prefab Sprout - Singles 1983 - 2013 (Alle Videos - Alle Chartplatzierungen)
-{{< youtube id="FKZY_r0hKqg" title="Prefab Sprout - Singles 1983 - 2013 (Alle Videos - Alle Chartplatzierungen)" >}}<br>
+### When Love Breaks Down
+{{< youtube id="IjzAogwxQxM" title="When Love Breaks Down" >}}<br>
 ### More Videos
 
-- [Prefab Sprout - If You Don't Love Me](https://www.youtube.com/watch?v=9FRQDOVSekE)
+- [Cars and Girls](https://www.youtube.com/watch?v=mKNL_VRus2o)
+- [Goodbye Lucille #1](https://www.youtube.com/watch?v=wPQYgn7ASIc)
+- [The King of Rock 'N' Roll](https://www.youtube.com/watch?v=IHDHB6qqp9o)
+- [Cruel](https://www.youtube.com/watch?v=DKHZfytXIAw)
+- [If You Don't Love Me](https://www.youtube.com/watch?v=0Xscw0V7ZLU)
+- [All the World Loves Lovers](https://www.youtube.com/watch?v=5xHPENAHZJU)
+- [Prefab Sprout - If You Don't Love Me (1992) [vinyl audio]](https://www.youtube.com/watch?v=fJLU5c5N0ls)
+- [Prefab Sprout - Singles 1983 - 2013 (Alle Videos - Alle Chartplatzierungen)](https://www.youtube.com/watch?v=FKZY_r0hKqg)
 - [Prefab Sprout — Wild Horses](https://www.youtube.com/watch?v=v3H3lKt5_BM)
-- [Life of Surprises](https://www.youtube.com/watch?v=NZ8NME3372M)
+- [Prefab Sprout "Wild Horses"](https://www.youtube.com/watch?v=Zv_jxrAMThI)
 - [When Love Breaks Down](https://www.youtube.com/watch?v=IjzAogwxQxM)
 - [Cars and Girls](https://www.youtube.com/watch?v=mKNL_VRus2o)
 - [Goodbye Lucille #1](https://www.youtube.com/watch?v=wPQYgn7ASIc)
 - [The King of Rock 'N' Roll](https://www.youtube.com/watch?v=IHDHB6qqp9o)
 - [Cruel](https://www.youtube.com/watch?v=DKHZfytXIAw)
 - [If You Don't Love Me](https://www.youtube.com/watch?v=0Xscw0V7ZLU)
-- [Faron Young (Remastered)](https://www.youtube.com/watch?v=SPWF1ncqhzI)
 - [All the World Loves Lovers](https://www.youtube.com/watch?v=5xHPENAHZJU)
-- [Prefab Sprout Wild Horses](https://www.youtube.com/watch?v=Zv_jxrAMThI)
-- [Prefab Sprout - The Sound Of Crying](https://www.youtube.com/watch?v=6we_GK0ZWa8)
+- [Prefab Sprout - If You Don't Love Me (1992) [vinyl audio]](https://www.youtube.com/watch?v=fJLU5c5N0ls)
 
 ## Release Images
 {{< imageGrid >}}

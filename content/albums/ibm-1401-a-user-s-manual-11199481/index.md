@@ -25,11 +25,17 @@ additional_images:
     - "https://i.discogs.com/uIJQI_h6x2dng3tTbQixibvQDd16Hsil-zJxSiwMIG4/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMTk5/NDgxLTE1MTE3OTI5/OTMtMTQ0Mi5qcGVn.jpeg"
     - "https://i.discogs.com/_Apy0n8NiJG_oiHC8hsn8RSQkuBHQlwkEkx3Jzdbh0o/rs:fit/g:sm/q:90/h:594/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMTk5/NDgxLTE1MTE3OTI5/OTktMjM1NS5qcGVn.jpeg"
     - "https://i.discogs.com/GC4oh6hIkOS7_0rQsaLKyHK-SmsbV5eomLEXw18hpTQ/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMTk5/NDgxLTE1MTE3OTMw/MDQtODkxNy5qcGVn.jpeg"
-    - "https://i.discogs.com/8XEUcGxe2k3CuyxYRX7dpk52pk8JP9MWaVFXMczsHBY/rs:fit/g:sm/q:90/h:606/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMTk5/NDgxLTE1MTE3OTMw/MDktOTYzMy5qcGVn.jpeg"
+    - "https://i.discogs.com/MFwxrD8sxQtRIuhHjJjVCdYoeXy2D_iOrpZWlcflpGg/rs:fit/g:sm/q:90/h:600/w:593/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMTk5/NDgxLTE1MTE3OTMw/MDktOTYzMy5qcGVn.jpeg"
 genres: ["Electronic", "Classical"]
 styles: ["Modern Classical"]
 ---
 
+IBM 1401, A User's Manual is the fourth full-length studio album by Icelandic musician Jóhann Jóhannsson, released by 4AD on October 30, 2006.
+4AD released the album on vinyl for the first time on December 8, 2017. The reissue was a double LP pressing on clear-coloured vinyl and included two previously unreleased live bonus tracks.
+
+
+    
+    
 
 
 ## Tracklisting
@@ -47,11 +53,10 @@ styles: ["Modern Classical"]
 
 
 ## Videos
-### Johann Johannsson - Part 1/ IBM 1401 Processing Unit
-{{< youtube id="tUkgJWxCyR0" title="Johann Johannsson - Part 1/ IBM 1401 Processing Unit" >}}<br>
+### IBM 1401, a User's Manual Part I - IBM 1401 Processing Unit
+{{< youtube id="tBw_wSoVQrY" title="IBM 1401, a User's Manual Part I - IBM 1401 Processing Unit" >}}<br>
 ### More Videos
 
-- [IBM 1401, a User's Manual Part I - IBM 1401 Processing Unit](https://www.youtube.com/watch?v=tBw_wSoVQrY)
 - [Jóhann Jóhannsson - The Sun's Gone Dim And The Sky's Turned Black (Baraka)](https://www.youtube.com/watch?v=euROmffXvKM)
 
 ## Release Images
@@ -60,8 +65,9 @@ styles: ["Modern Classical"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
+| Wikipedia URL | https://en.wikipedia.org/wiki/IBM_1401,_A_User%27s_Manual |
 | Format         | Vinyl 2× LP Album Reissue (Clear) |
 | Label          | 4AD |
 | Catalog Number | DAD 2609 |
 | Notes | Gatefold jacket is embossed.  The orchestra was recorded at Barrandov Studios, Smecky Soundstage in Prague in September 2005. Additional recordings were made in Reykjavik, Skálholt, Florence, Madrid, Zurich, Piran and Rennes during the period 2003-2006. Mixed in Syrland, Reykjavik in February 2006. Mastered in Abbey Road.  Side D recorded live in concert at the Rudolfinium in Prague with the City of Prague Philharmonic Orchestra, 2nd November 2010 and are exclusive bonus tracks to the LP version of this release.  This LP release comes with a digital download of the entire album, including the 2 bonus tracks.  Tracks two and three feature the voice of "an unknown instructor from an IBM 1401 Data Processing System maintenance instruction tape found in my father’s attic."  All electronic sounds were derived from the IBM 1401 Data Processing System and the Hammond B3 organ with Ring Modulator, Distortion and Filter pedals. The music and sounds of the IBM 1401 Data Processing System were recorded by Jóhann Gunnarsson, Örn Kaldalóns and Elías Davídsson in Reykjavik in 1971. The musical fragment played by the computer is from the hymn "Ísland Ögrum Skorid" by Sigvaldi Kaldalóns, used by kind permission.  (P) 2006 4AD Ltd (C) 2006 4AD Ltd Manufactured in the UK  |
-| Discogs URL    | [Jóhann Jóhannsson - IBM 1401, A User's Manual](https://www.discogs.com/release/11199481-J%C3%B3hann-J%C3%B3hannsson-IBM-1401-A-Users-Manual) |
+| Discogs URL    | [Jóhann Jóhannsson - IBM 1401, A User's Manual](https://www.discogs.com/release/11199481-Jóhann-Jóhannsson-IBM-1401-A-Users-Manual) |

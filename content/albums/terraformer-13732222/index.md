@@ -50,7 +50,11 @@ styles: ["Prog Rock", "Jazz-Rock"]
 ### More Videos
 
 - [Anchor](https://www.youtube.com/watch?v=CLSKD0Ka01A)
-- [New Moon and Terraformer by Thank You Scientists](https://www.youtube.com/watch?v=iqRC_2g8Xbc)
+- [Thank You Scientist - FXMLDR [Official Audio]](https://www.youtube.com/watch?v=UxzSGMYogow)
+- [Everyday Ghosts](https://www.youtube.com/watch?v=G7Vznh_e5LE)
+- [Son of a Serpent](https://www.youtube.com/watch?v=4yv83xBR0Rw)
+- [Thank You Scientist - Terraformer (Official Music Video)](https://www.youtube.com/watch?v=OKKWQEpS8hI)
+- [Anchor](https://www.youtube.com/watch?v=CLSKD0Ka01A)
 - [Thank You Scientist - FXMLDR [Official Audio]](https://www.youtube.com/watch?v=UxzSGMYogow)
 - [Everyday Ghosts](https://www.youtube.com/watch?v=G7Vznh_e5LE)
 - [Son of a Serpent](https://www.youtube.com/watch?v=4yv83xBR0Rw)

@@ -13,7 +13,7 @@ cover:
     caption: "Classic Rock Anthems by Various"
 additional_images:
     - "https://i.discogs.com/n88uYBFU6ymmGA0dKd4O2_vlt6ccZ1NNcdUYSTkrNpc/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk0MzUw/NTMtMTQ5NTgyNjk2/OC0zNTA3LmpwZWc.jpeg"
-    - "https://i.discogs.com/ekRZNeBIqzRCVkghiPXLZPX3M26DgAzzN0inoXtPb84/rs:fit/g:sm/q:90/h:609/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk0MzUw/NTMtMTUwODc2NTIz/MC0xNTY0LmpwZWc.jpeg"
+    - "https://i.discogs.com/tgdr1TGt025Bb1sGqt5Dmutcc0ciJ8WktH5J-CgdSFk/rs:fit/g:sm/q:90/h:600/w:590/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk0MzUw/NTMtMTUwODc2NTIz/MC0xNTY0LmpwZWc.jpeg"
     - "https://i.discogs.com/tNGPbHBj6-NMDY3yJQYT6mTB-ExyfZ9xNxW_XBPA2LU/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk0MzUw/NTMtMTUwODc2NTIz/Mi05ODI4LmpwZWc.jpeg"
     - "https://i.discogs.com/SyNuQK4O2zHxtkqp-0Y97ooRwYhtRc62Ir05YXnOg1o/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk0MzUw/NTMtMTUwODc2NTIz/NC0zMTExLmpwZWc.jpeg"
     - "https://i.discogs.com/gxgOKyQe1A8yWQlzWYCCT_KXnYk8ZzH7npuXrgkllDU/rs:fit/g:sm/q:90/h:593/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk0MzUw/NTMtMTUwODc2NTIz/Ni05NTcxLmpwZWc.jpeg"
@@ -23,7 +23,7 @@ additional_images:
     - "https://i.discogs.com/qaV_ZzjN3y7_cgwZCYgLCGAo3mpMaSKCdPtLqTC0Ugg/rs:fit/g:sm/q:90/h:592/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk0MzUw/NTMtMTUwODc2NTIz/MS03MjMyLmpwZWc.jpeg"
     - "https://i.discogs.com/HG91J31MM1rPBCYLBMuSkeTcaBjPksEChVG7JmNZTSc/rs:fit/g:sm/q:90/h:591/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk0MzUw/NTMtMTUwODc2NTIz/MS02NDUzLmpwZWc.jpeg"
     - "https://i.discogs.com/TLs9jYrWiaW6Zbw9VmrLRb-b57mLcWDdLpeL5zWXG1k/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk0MzUw/NTMtMTUwODc2NTIz/NC01NjY5LmpwZWc.jpeg"
-    - "https://i.discogs.com/M4zzf9rLZ9RPQnFjpMAYgqn3vNnjZmKmiiaaK5EzfvU/rs:fit/g:sm/q:90/h:602/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk0MzUw/NTMtMTUwODc2NTIz/NC03ODk4LmpwZWc.jpeg"
+    - "https://i.discogs.com/09WQTQ69YLotYB-DS7AtHHH1OYQ_PBtZnMCN6G0RrN4/rs:fit/g:sm/q:90/h:600/w:597/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk0MzUw/NTMtMTUwODc2NTIz/NC03ODk4LmpwZWc.jpeg"
 genres: ["Rock", "Pop"]
 styles: ["Arena Rock", "Classic Rock", "Hard Rock", "AOR", "Pop Rock"]
 ---
@@ -54,7 +54,7 @@ styles: ["Arena Rock", "Classic Rock", "Hard Rock", "AOR", "Pop Rock"]
 
 
 ## Spotify
-{{< spotify type="album" id="6xhhCNbvErbq2yyRTU7CtS" width="100%" height="500" >}}<br>
+{{< spotify type="album" id="1DSkPB9NNVCGt5WSiwN2PP" width="100%" height="500" >}}<br>
 
 
 

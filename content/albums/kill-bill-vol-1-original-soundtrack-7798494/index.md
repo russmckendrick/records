@@ -22,6 +22,11 @@ genres: ["Electronic", "Rock", "Non-Music", "Stage & Screen"]
 styles: ["Folk Rock", "Country Rock", "Dialogue", "Pop Rock", "Rock & Roll", "Disco", "Soundtrack", "Downtempo"]
 ---
 
+Kill Bill Vol. 1 Original Soundtrack is the soundtrack to the first volume of the two-part Quentin Tarantino film Kill Bill. Released on September 23, 2003, it reached #45 on the Billboard 200 album chart and #1 on the soundtracks chart. It was organized, and mostly produced and orchestrated by RZA from the Wu-Tang Clan.
+
+
+    
+    
 
 
 ## Tracklisting
@@ -44,13 +49,15 @@ styles: ["Folk Rock", "Country Rock", "Dialogue", "Pop Rock", "Rock & Roll", "Di
 
 
 ## Videos
-### Kill Bill: Vol. 1 (2003) Official Trailer - Uma Thurman, Lucy Liu Action Movie HD
-{{< youtube id="7kSuas6mRpk" title="Kill Bill: Vol. 1 (2003) Official Trailer - Uma Thurman, Lucy Liu Action Movie HD" >}}<br>
+### Ode To Oren Ishii (feat. The RZA)
+{{< youtube id="iotdU6kn-ws" title="Ode To Oren Ishii (feat. The RZA)" >}}<br>
 ### More Videos
 
-- [Kill Bill Vol. 1 [OST] #1 - Bang Bang (My Baby Shot Me Down)](https://www.youtube.com/watch?v=9KHEcUF_fvQ)
+- [The Flower Of Carnage](https://www.youtube.com/watch?v=Cogw9dlwPgg)
 - [5 6 7 8's - woo hoo - (j ross show) - vcd [jeffz].mpg](https://www.youtube.com/watch?v=7DJv0rx5g-c)
-- [Kill Bill - Vol. 1 [Soundtrack]](https://www.youtube.com/watch?v=RMJu05FDO5w)
+- [Kill Bill: Vol. 1 (2003) Official Trailer - Uma Thurman, Lucy Liu Action Movie HD](https://www.youtube.com/watch?v=7kSuas6mRpk)
+- [Ode To Oren Ishii (feat. The RZA)](https://www.youtube.com/watch?v=iotdU6kn-ws)
+- [Kill Bill Vol. 1 [OST] #1 - Bang Bang (My Baby Shot Me Down)](https://www.youtube.com/watch?v=9KHEcUF_fvQ)
 - [Kill Bill Vol. 1 [OST] #2 - That Certain Female](https://www.youtube.com/watch?v=EtrkC6mm6b8)
 - [Kill Bill Vol. 1 [OST] #3 - The Grand Duel (Parte Prima)](https://www.youtube.com/watch?v=qe2axAR9GZ4)
 - [Kill Bill Vol. 1 [OST] #4 - Twisted Nerve](https://www.youtube.com/watch?v=5Q4AUvqfE_g)
@@ -70,6 +77,7 @@ styles: ["Folk Rock", "Country Rock", "Dialogue", "Pop Rock", "Rock & Roll", "Di
 - [Kill Kill Bill Vol. 1 [OST] #20 - Flip Sting](https://www.youtube.com/watch?v=4UhWkUM1RYc)
 - [Kill Bill Vol. 1 [OST] #21 - Sword Swings](https://www.youtube.com/watch?v=n_N3rfaUyh8)
 - [Kill Bill Vol. 1 [OST] #22 - Axe Throws](https://www.youtube.com/watch?v=J9hVWeiwsfA)
+- [Kill Bill - Vol. 1 [Soundtrack]](https://www.youtube.com/watch?v=RMJu05FDO5w)
 
 ## Release Images
 {{< imageGrid >}}
@@ -77,6 +85,7 @@ styles: ["Folk Rock", "Country Rock", "Dialogue", "Pop Rock", "Rock & Roll", "Di
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
+| Wikipedia URL | https://en.wikipedia.org/wiki/Kill_Bill_Vol._1_Original_Soundtrack |
 | Format         | Vinyl LP Compilation Reissue Repress |
 | Label          | Maverick |
 | Catalog Number | 9362-48570-1 |

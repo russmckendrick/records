@@ -20,6 +20,14 @@ genres: ["Rock", "Pop"]
 styles: ["Alternative Rock"]
 ---
 
+Late Night Final is the second studio album (and first full-length album after the mini-album Richard Hawley released six months earlier) from musician Richard Hawley, released in the UK in October 2001 by Setanta Records. Named after the cry of vendors selling the Sheffield Star evening newspaper on the streets of his home city, it was released to positive reviews. A single, "Baby, You're My Light" was released from the album in February 2002, reaching #81 in the UK Singles Chart.
+Scottish band Camera Obscura later covered "The Nights Are Cold" and released it as a single in May 2010. In turn, Hawley remixed their song "The Sweetest Thing" for the single's B-side.
+A short clip of the song "Long Black Train" was used in the 2005 film V for Vendetta, but did not feature on the accompanying soundtrack album.
+The album's front cover and inner artwork feature photographs taken in the Castle Market indoor market in Sheffield.
+
+
+    
+    
 
 
 ## Tracklisting
@@ -40,11 +48,11 @@ styles: ["Alternative Rock"]
 
 
 ## Videos
-### Something Is
-{{< youtube id="Msf2bU9MJmU" title="Something Is" >}}<br>
+### Baby You're My Light
+{{< youtube id="QUeLj2xguHI" title="Baby You're My Light" >}}<br>
 ### More Videos
 
-- [Baby You're My Light](https://www.youtube.com/watch?v=QUeLj2xguHI)
+- [Something Is](https://www.youtube.com/watch?v=Msf2bU9MJmU)
 - [Love of My Life](https://www.youtube.com/watch?v=lFNLxKh66fA)
 - [The Nights Are Cold](https://www.youtube.com/watch?v=PQWxJGXsb3I)
 - [Can You Hear the Rain Love](https://www.youtube.com/watch?v=CYAa5970h-4)
@@ -61,7 +69,8 @@ styles: ["Alternative Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl LP Album Limited Edition Reissue Repress (Clear vinyl ) |
+| Wikipedia URL | https://en.wikipedia.org/wiki/Late_Night_Final |
+| Format         | Vinyl LP Album Limited Edition Reissue Repress (Clear) |
 | Label          | Setanta |
 | Catalog Number | SETLP088 |
 | Notes | Independent record shops exclusive, limited to 400 copies.  Rear of sleeve: Made in UK |

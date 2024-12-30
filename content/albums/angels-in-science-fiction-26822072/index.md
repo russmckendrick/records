@@ -13,6 +13,9 @@ cover:
     caption: "Angels In Science Fiction by St. Paul & The Broken Bones"
 additional_images:
     - "https://i.discogs.com/JHKFUn9KLedCnNgZ5aUI-QQP3TxXpbKohXi5oPK-DFQ/rs:fit/g:sm/q:90/h:572/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2ODIy/MDcyLTE2ODE5OTg5/NzgtOTA4Ni5qcGVn.jpeg"
+    - "https://i.discogs.com/OUmtuwTuOMZbQ5SpDHlfkSodKHyQ_2skomhGs2bCw0E/rs:fit/g:sm/q:90/h:593/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2ODIy/MDcyLTE3MDg3ODQx/MzUtODkwNS5qcGVn.jpeg"
+    - "https://i.discogs.com/J2mXVqxw9DB_tttqvXkB8aFJE-AaLvyTXmameLGc7e8/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2ODIy/MDcyLTE3MDg3ODQx/NTEtMjEwMy5qcGVn.jpeg"
+    - "https://i.discogs.com/QuJGmxtCcc3UkyWmr2BPvQfdyKbmMq1-TXSjUJ3WxQo/rs:fit/g:sm/q:90/h:600/w:597/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2ODIy/MDcyLTE3MDg3ODQx/MTgtNDEwNy5qcGVn.jpeg"
 genres: ["Funk / Soul"]
 styles: ["Rhythm & Blues"]
 ---
@@ -48,5 +51,5 @@ styles: ["Rhythm & Blues"]
 | Format         | Vinyl LP Album Limited Edition (Clear Transparent ) |
 | Label          | ATO Records |
 | Catalog Number | ATO0599LP |
-| Notes | Tracks listed as 01 - 12 on rear of sleeve   |
+| Notes | Tracks listed as 01 - 12 on rear of sleeve  Comes with a 12-page booklet.  Runouts are stamped. |
 | Discogs URL    | [St. Paul & The Broken Bones - Angels In Science Fiction](https://www.discogs.com/release/26822072-St-Paul-The-Broken-Bones-Angels-In-Science-Fiction) |

@@ -13,9 +13,9 @@ cover:
     caption: "Ace A's + Killer B's by Dodgy"
 additional_images:
     - "https://i.discogs.com/9Uz_OieVuFb9ktaYE1W4boOc4ICJoIKpQfXef2-kJc8/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMjE4/MzU4LTE2NDUyODIw/NDEtMzg5MC5qcGVn.jpeg"
-    - "https://i.discogs.com/bxC6v_fcNWoCxEvwpTJNo3S5M15y0LTDV7JSBGXFw98/rs:fit/g:sm/q:90/h:449/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMjE4/MzU4LTE2NDUyNjYw/OTItOTExNC5qcGVn.jpeg"
-    - "https://i.discogs.com/M7Y46y9a4vdFJwtdyQGmlQKfR6cUBJCmIWCzRNVF7jI/rs:fit/g:sm/q:90/h:800/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMjE4/MzU4LTE2NDUyNjYx/MDctNDk0My5qcGVn.jpeg"
-    - "https://i.discogs.com/1BD8EWfzCUfvueLzx_CKp1EbffLE9Je54srb3fviVcc/rs:fit/g:sm/q:90/h:800/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMjE4/MzU4LTE2NDUyNjYx/MTEtNTc2MC5qcGVn.jpeg"
+    - "https://i.discogs.com/aBS4TH-X02Qf9PPVUGAkmZcDnIir7Y9o3rgWU5FgbZk/rs:fit/g:sm/q:90/h:450/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMjE4/MzU4LTE2NDUyNjYw/OTItOTExNC5qcGVn.jpeg"
+    - "https://i.discogs.com/y2Qf_Xpaytc1ZrkO32V24AD8BLbL0tfdJg6uRh46NdI/rs:fit/g:sm/q:90/h:600/w:450/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMjE4/MzU4LTE2NDUyNjYx/MDctNDk0My5qcGVn.jpeg"
+    - "https://i.discogs.com/e4VSU6EHWR_voICfVeEr1MEBqno6ExtlMbX5dAhgZ9s/rs:fit/g:sm/q:90/h:600/w:450/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMjE4/MzU4LTE2NDUyNjYx/MTEtNTc2MC5qcGVn.jpeg"
 genres: ["Rock"]
 styles: ["Indie Pop", "Pop Rock", "Britpop"]
 ---

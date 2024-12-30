@@ -41,15 +41,13 @@ styles: ["Industrial", "Indie Rock", "Shoegaze"]
 ### More Videos
 
 - [Curve - Superblaster (4K Remaster)](https://www.youtube.com/watch?v=pYQa-Ft6nmE)
-- [Curve - Horror Head](https://www.youtube.com/watch?v=04i4A5OdNmA)
 - [Curve - Missing Link [1993]](https://www.youtube.com/watch?v=KqmGEPfRzk0)
-- [Sandpit](https://www.youtube.com/watch?v=qHX_2Orr1D4)
-- [CURVE - 'Horror Head (Remix)' - 12 1992](https://www.youtube.com/watch?v=o5kwCNC7c88)
+- [CURVE - 'Horror Head (Remix)' - 12" 1992](https://www.youtube.com/watch?v=o5kwCNC7c88)
 - [Curve - Ice that melts the tips](https://www.youtube.com/watch?v=OBI1FaLNQZA)
-- [Curve   Clipped](https://www.youtube.com/watch?v=4tJsZ6HUN2I)
-- [Curve- falling free  (aphex twin remix)](https://www.youtube.com/watch?v=GKwoghK6B1U)
+- [Curve - Horror Head](https://www.youtube.com/watch?v=04i4A5OdNmA)
+- [Sandpit](https://www.youtube.com/watch?v=qHX_2Orr1D4)
 - [Curve - Horror Head](https://www.youtube.com/watch?v=_4xMR7mYPWU)
-- [Curve, Clipped](https://www.youtube.com/watch?v=moAIaLbcKb0)
+- [Curve, "Clipped"](https://www.youtube.com/watch?v=moAIaLbcKb0)
 - [Curve - Doppelganger](https://www.youtube.com/watch?v=mT0dGTNtODc)
 - [Curve - Lillies Dying](https://www.youtube.com/watch?v=q7VKHpfv_Io)
 - [Curve - Think & Act](https://www.youtube.com/watch?v=L6YTLz8eqxI)
@@ -64,5 +62,5 @@ styles: ["Industrial", "Indie Rock", "Shoegaze"]
 | Format         | Vinyl LP Album Reissue |
 | Label          | 3 Loop Music |
 | Catalog Number | 3RANGE-52LP |
-| Notes | Comes with download card from 3 Loop Music.   Some copies come with a print, using the image for the cover of [r=266442], signed by Toni and Dean. |
-| Discogs URL    | [Curve - Doppelgänger](https://www.discogs.com/release/10770475-Curve-Doppelg%C3%A4nger) |
+| Notes | 25th Anniversary Edition Comes with download card from 3 Loop Music.   Some copies come with a print, using the image for the cover of [r=266442], signed by Toni and Dean. |
+| Discogs URL    | [Curve - Doppelgänger](https://www.discogs.com/release/10770475-Curve-Doppelgänger) |

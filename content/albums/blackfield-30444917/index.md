@@ -55,9 +55,9 @@ Four singles were released from the album: "Hello", "Pain", "Blackfield" and "Cl
 {{< youtube id="FF79zvZok48" title="Blackfield - Blackfield (from Blackfield)" >}}<br>
 ### More Videos
 
-- [Blackfield (Full Album)](https://www.youtube.com/watch?v=1Le1ocJPmLs)
 - [Blackfield - Hello (from Blackfield)](https://www.youtube.com/watch?v=Mw1NGzbPQ3c)
 - [Blackfield - Pain (from Blackfield)](https://www.youtube.com/watch?v=d-VOPvny-O0)
+- [Blackfield (Full Album)](https://www.youtube.com/watch?v=1Le1ocJPmLs)
 
 ## Release Images
 {{< imageGrid >}}

@@ -18,12 +18,15 @@ additional_images:
     - "https://i.discogs.com/lIv2hVgLvL9KodHQ2pg9lOKoCstpdUzaEd-alz8j3OM/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkyMjU0/MzQtMTU3MDAzMDQ3/OS03ODAxLmpwZWc.jpeg"
     - "https://i.discogs.com/oekwlnjvcSPu7lY9RtWMyPKYSuXfpNDyFAvaAj9fjtA/rs:fit/g:sm/q:90/h:584/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkyMjU0/MzQtMTUwNjA5NzI5/Mi05MDY0LmpwZWc.jpeg"
     - "https://i.discogs.com/-r0qLZtxVo8dLtkKVKyokYNDAyihxWkeD008hH0jQX4/rs:fit/g:sm/q:90/h:594/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkyMjU0/MzQtMTUwNjA5NzI5/NC00NTk4LmpwZWc.jpeg"
-    - "https://i.discogs.com/d-VqonJNWtmuXzJ4bQ0wAd77yTEA5vWqPxhhsEmR3Lg/rs:fit/g:sm/q:90/h:769/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkyMjU0/MzQtMTY3MzUyNDY3/NS00NzczLmpwZWc.jpeg"
+    - "https://i.discogs.com/GsF_g_2lzTNC3FedZZbDKYac5gWEaffpuI10xR4F6tQ/rs:fit/g:sm/q:90/h:600/w:467/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkyMjU0/MzQtMTY3MzUyNDY3/NS00NzczLmpwZWc.jpeg"
     - "https://i.discogs.com/FdHbJ7m16iNX7kBYs4DDasWPPqbdXVT4T8DO_VohewQ/rs:fit/g:sm/q:90/h:409/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkyMjU0/MzQtMTY3MzUyNDY5/My03MjkxLmpwZWc.jpeg"
 genres: ["Rock", "Blues"]
 styles: []
 ---
 
+The Last Days of Oakland is the second album by American singer-songwriter Fantastic Negrito. Rayanne Pinna described the album as "an urgent, political record that grapples with the many changes Oakland has seen in recent years." In 2017, it won a Grammy Award for Best Contemporary Blues Album.
+    
+    
 
 
 ## Tracklisting
@@ -65,8 +68,9 @@ styles: []
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
+| Wikipedia URL | https://en.wikipedia.org/wiki/The_Last_Days_of_Oakland |
 | Format         | Vinyl LP Album |
 | Label          | Blackball Universe Records |
 | Catalog Number | none |
-| Notes | Released in a gatefold sleeve and includes download card P C 2016 Blackball Universe, under exclusive license to Believe Global Label Services  Made in France |
+| Notes | Released in a gatefold sleeve and includes download card P C 2016 Blackball Universe, under exclusive license to Believe Global Label Services  Made in France  The lacquer cut identifier appears as Λ_ (AL for Alex Nimmermann) in runouts.  |
 | Discogs URL    | [Fantastic Negrito - The Last Days Of Oakland](https://www.discogs.com/release/9225434-Fantastic-Negrito-The-Last-Days-Of-Oakland) |

@@ -14,12 +14,15 @@ cover:
 additional_images:
     - "https://i.discogs.com/pdneEHosbQwYnaT8DfaD1hNa99rM1zWJ0vrBLTD1rx4/rs:fit/g:sm/q:90/h:355/w:355/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNjg5/Njg5LTE1NTkwNzUw/NTUtNjMzNC5qcGVn.jpeg"
     - "https://i.discogs.com/pL3KI3rUDevrND21qih-oFlOz7GhB2lOmLaxYz8c3WM/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNjg5/Njg5LTE1NTk4MTQz/MDMtNTE2NC5qcGVn.jpeg"
-    - "https://i.discogs.com/bDifS0YdkybHOr9kzye1IkQYmADLamhV-7k1Dd03MWY/rs:fit/g:sm/q:90/h:614/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNjg5/Njg5LTE1NTk4MTQz/MDItODk3Ny5qcGVn.jpeg"
+    - "https://i.discogs.com/PV5_bjEmoRlIpgTK-q96dDKyImbyNVG7BZQ0YVOidPA/rs:fit/g:sm/q:90/h:600/w:585/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNjg5/Njg5LTE1NTk4MTQz/MDItODk3Ny5qcGVn.jpeg"
     - "https://i.discogs.com/A-bA44lo8AL9wZR7QbhKThZtPAy24SaQgPrPKQjwx_A/rs:fit/g:sm/q:90/h:585/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNjg5/Njg5LTE1NTk4MTQz/MDUtMzk4Ny5qcGVn.jpeg"
 genres: ["Reggae"]
 styles: ["Reggae", "Ska"]
 ---
 
+A royal peculiar is a Church of England parish or church exempt from the jurisdiction of the diocese and the province in which it lies, and subject to the direct jurisdiction of the monarch.
+    
+    
 
 
 ## Tracklisting
@@ -56,6 +59,7 @@ styles: ["Reggae", "Ska"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
+| Wikipedia URL | https://en.wikipedia.org/wiki/Royal_peculiar |
 | Format         | Vinyl LP Album Reissue (Blue Electric & White Galaxy), Vinyl 7" 45 RPM |
 | Label          | Pirates Press Records |
 | Catalog Number | PPR231-1 |

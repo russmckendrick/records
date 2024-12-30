@@ -21,10 +21,12 @@ additional_images:
     - "https://i.discogs.com/rAHAhAxGET0uI9oKAabkwlv6d3JT5N8dbDaaUzYXKMk/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMDk3/MjMzLTE2NTE1ODY2/NTQtNDU0Ny5qcGVn.jpeg"
     - "https://i.discogs.com/nt-TkCF8YPEYkQBywuEl5xQu8q-HxvvO91KXr-jw5TQ/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMDk3/MjMzLTE2NTE1ODcy/NzUtNTA4MS5qcGVn.jpeg"
     - "https://i.discogs.com/JpTLlN9iKxauTkUbR3wXCmUOk70W9gfl_OThhkZVI8Q/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMDk3/MjMzLTE2NTE1ODcy/NzUtODY3OS5qcGVn.jpeg"
-    - "https://i.discogs.com/Qi8Upse46dixhl-NZz9G3xx9EoGfZ0G5D7Cp1KzOOuU/rs:fit/g:sm/q:90/h:613/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMDk3/MjMzLTE2NTE1ODY4/NjYtODI1OS5qcGVn.jpeg"
-    - "https://i.discogs.com/LCNqZvWMxZCKMGV93VnEccd1kLD1OrL8gm4jb5tHr48/rs:fit/g:sm/q:90/h:613/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMDk3/MjMzLTE2NTE1ODY4/NjYtNTgzMy5qcGVn.jpeg"
-    - "https://i.discogs.com/5tROZu6U7sJFxtnQUz4b2j2_vRtJqOx_VDnYuWbvR5I/rs:fit/g:sm/q:90/h:608/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMDk3/MjMzLTE2NTE1ODY4/NjYtMjYxNi5qcGVn.jpeg"
-    - "https://i.discogs.com/8yT8eRdEa1K6EUqqzkvoUvQzZP3Py2_fchahzIAB1CY/rs:fit/g:sm/q:90/h:613/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMDk3/MjMzLTE2NTE1ODY4/NjYtNzY1OS5qcGVn.jpeg"
+    - "https://i.discogs.com/aq6eUTnyS7jc7GA98aDLSt1UQZ9OyDyDixCOTYwxiOY/rs:fit/g:sm/q:90/h:600/w:586/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMDk3/MjMzLTE2NTE1ODY4/NjYtODI1OS5qcGVn.jpeg"
+    - "https://i.discogs.com/KcXEUyyLiG8Hawo9A_JdRurovdT0vcXkKs-rSLk3EnY/rs:fit/g:sm/q:90/h:600/w:586/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMDk3/MjMzLTE2NTE1ODY4/NjYtNTgzMy5qcGVn.jpeg"
+    - "https://i.discogs.com/XGdSCkbOFRL5nZ8iHXlT-XO95nV_9BZKa4hyltEFDGI/rs:fit/g:sm/q:90/h:600/w:591/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMDk3/MjMzLTE2NTE1ODY4/NjYtMjYxNi5qcGVn.jpeg"
+    - "https://i.discogs.com/kSzo1lZXBgPiDGCtfAhslmN4ZQmGru57JnwQlrc5Pps/rs:fit/g:sm/q:90/h:600/w:586/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMDk3/MjMzLTE2NTE1ODY4/NjYtNzY1OS5qcGVn.jpeg"
+    - "https://i.discogs.com/7_elUl7FN5G8cjgui7zEwaKO7wZr2XE4z5nxfp-jZog/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMDk3/MjMzLTE2OTU3NTUw/NDAtMzYyMS5qcGVn.jpeg"
+    - "https://i.discogs.com/hW3sUJsQSeEGFCQotsjjTGY55VYk0KPgvRTNxLXGM_k/rs:fit/g:sm/q:90/h:587/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMDk3/MjMzLTE2OTU3NTUw/NDAtNDQ3MC5qcGVn.jpeg"
 genres: ["Pop"]
 styles: ["Indie Pop"]
 ---
@@ -101,23 +103,23 @@ Murdoch: “‘Working Boy in New York City’ is more about a San Francisco thi
 
 
 ## Videos
-### Belle and Sebastian - Young and Stupid (Official Lyric Video)
-{{< youtube id="O9P7EBj8LgU" title="Belle and Sebastian - Young and Stupid (Official Lyric Video)" >}}<br>
+### Belle and Sebastian - "Young and Stupid" (Official Lyric Video)
+{{< youtube id="O9P7EBj8LgU" title="Belle and Sebastian - "Young and Stupid" (Official Lyric Video)" >}}<br>
 ### More Videos
 
-- [Belle And Sebastian - A Bit Of Previous 7 inch](https://www.youtube.com/watch?v=yo-ZS8al_hQ)
 - [If They’re Shooting At You](https://www.youtube.com/watch?v=r94kiQ4vdLc)
-- [Belle And Sebastian - Sometimes](https://www.youtube.com/watch?v=xAB7GFHN_QA)
 - [Talk to Me, Talk to Me](https://www.youtube.com/watch?v=hLeETgzOz18)
 - [Reclaim the Night](https://www.youtube.com/watch?v=sbWW4cRfIAs)
 - [Do It for Your Country](https://www.youtube.com/watch?v=kuzNkBOa17A)
 - [Prophets On Hold](https://www.youtube.com/watch?v=8JkmXvWx6r4)
-- [Belle and Sebastian- Unnecessary Drama (Official Music Video)](https://www.youtube.com/watch?v=h2-RZSVHNVQ)
+- [Belle and Sebastian- "Unnecessary Drama" (Official Music Video)](https://www.youtube.com/watch?v=h2-RZSVHNVQ)
 - [Come On Home](https://www.youtube.com/watch?v=uQypW7gaNHA)
 - [A World Without You](https://www.youtube.com/watch?v=N_c6lEYyZ6I)
 - [Deathbed of My Dreams](https://www.youtube.com/watch?v=TCnsMyJj_tY)
 - [Sea of Sorrow](https://www.youtube.com/watch?v=J54Q0ZgDbGI)
 - [Working Boy in New York City](https://www.youtube.com/watch?v=pOOawVJjsEI)
+- [Belle And Sebastian - A Bit Of Previous 7 inch](https://www.youtube.com/watch?v=yo-ZS8al_hQ)
+- [Belle And Sebastian - Sometimes](https://www.youtube.com/watch?v=xAB7GFHN_QA)
 
 ## Release Images
 {{< imageGrid >}}
@@ -126,8 +128,8 @@ Murdoch: “‘Working Boy in New York City’ is more about a San Francisco thi
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/A_Bit_of_Previous |
-| Format         | Vinyl LP Album (Gatefold), Vinyl 7" 45 RPM |
+| Format         | Vinyl LP Album Stereo (Gatefold), Vinyl 7" 45 RPM Stereo |
 | Label          | Matador |
 | Catalog Number | OLE1845LPE |
-| Notes | Indies Exclusive version Includes full color glossy inner sleeve and a full color matte 12X12 lyric/notes booklet |
+| Notes | Indies Exclusive version Includes full color glossy inner sleeve and a full color matte 12X12 lyric/notes booklet.  200 copies were also retailed by Assai Records with an approved hand numbered Japanese style Obi under Assai Obi Editions. |
 | Discogs URL    | [Belle & Sebastian - A Bit Of Previous](https://www.discogs.com/release/23097233-Belle-And-Sebastian-A-Bit-Of-Previous) |

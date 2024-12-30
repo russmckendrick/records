@@ -17,12 +17,17 @@ additional_images:
     - "https://i.discogs.com/Xl_LYb_t72fVvgoQlnffg5KgCXi3ooJHm0Jp7WV2yY4/rs:fit/g:sm/q:90/h:590/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU3NTgy/OTUtMTY4MDk2MzAx/OS01NjAyLmpwZWc.jpeg"
     - "https://i.discogs.com/vADx6lr7d52MHb68yYyaWSUB9ydzfY3S-CAlp9bn9jE/rs:fit/g:sm/q:90/h:591/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU3NTgy/OTUtMTY4MDk2MzAx/Ni04NDczLmpwZWc.jpeg"
     - "https://i.discogs.com/gZlPxtxGHsT1U_ly4-b6AG0pFqcy5MsddR269F3pYvQ/rs:fit/g:sm/q:90/h:593/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU3NTgy/OTUtMTUwODg2MDI4/OS05OTkyLmpwZWc.jpeg"
-    - "https://i.discogs.com/j8aifZkzdIK4ZK4e1oCU9PsIG-jtPmRxDa1gZ2-94wA/rs:fit/g:sm/q:90/h:604/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU3NTgy/OTUtMTUwODg2MDI5/NC0zOTI0LmpwZWc.jpeg"
+    - "https://i.discogs.com/5kAiNhAysS54TwPE4umH6Eudq3Ya3xKFoJZ1RO2SGOU/rs:fit/g:sm/q:90/h:600/w:595/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU3NTgy/OTUtMTUwODg2MDI5/NC0zOTI0LmpwZWc.jpeg"
     - "https://i.discogs.com/tk6RLEwkz0CX-dqHspD8GgASmK8VOIDicoGYW5cS8F8/rs:fit/g:sm/q:90/h:401/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU3NTgy/OTUtMTY4MDk2MzAx/NS04NDg4LmpwZWc.jpeg"
 genres: ["Rock", "Pop"]
 styles: ["Vocal", "Ballad", "Pop Rock"]
 ---
 
+Scott 4 is Scott Walker's fifth  solo album. It was released in late 1969 under his birth name, Scott Engel, and failed to chart. Reissues have been released under his stage name. It has since received praise as one of Walker's best works.
+
+
+    
+    
 
 
 ## Tracklisting
@@ -38,20 +43,20 @@ styles: ["Vocal", "Ballad", "Pop Rock"]
 10. Rhymes Of Goodbye
 
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/scott-4/1443533039" >}}<br>
+{{< applemusic url="https://music.apple.com/gb/album/scott-walker-sings-jacques-brel/1444213513" >}}<br>
 
 
 ## Videos
-### Scott Walker - Boy Child
-{{< youtube id="THPVTsenZxs" title="Scott Walker - Boy Child" >}}<br>
+### Scott Walker - The Seventh Seal
+{{< youtube id="jMUk1R_fKEA" title="Scott Walker - The Seventh Seal" >}}<br>
 ### More Videos
 
+- [Scott Walker The Old Man`s Back Again](https://www.youtube.com/watch?v=N-zgdGQB4S4)
+- [Scott Walker - Boy Child](https://www.youtube.com/watch?v=THPVTsenZxs)
 - [Scott Walker - Angels Of Ashes](https://www.youtube.com/watch?v=HYHp-w-1PJY)
 - [Rhymes Of Goodbye](https://www.youtube.com/watch?v=jI1-_LqC8Ok)
 - [Get Behind Me](https://www.youtube.com/watch?v=2Vr22rvFB-g)
 - [Duchess](https://www.youtube.com/watch?v=M7gMlpABItE)
-- [Scott Walker - The Seventh Seal](https://www.youtube.com/watch?v=jMUk1R_fKEA)
-- [Scott Walker The Old Man`s Back Again](https://www.youtube.com/watch?v=N-zgdGQB4S4)
 
 ## Release Images
 {{< imageGrid >}}
@@ -59,6 +64,7 @@ styles: ["Vocal", "Ballad", "Pop Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
+| Wikipedia URL | https://en.wikipedia.org/wiki/Scott_4 |
 | Format         | Vinyl LP Album Reissue Remastered (180 Gram, Gatefold) |
 | Label          | Mercury |
 | Catalog Number | 3728852 |

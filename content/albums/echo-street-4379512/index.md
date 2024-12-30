@@ -45,9 +45,17 @@ styles: ["Prog Rock", "Alternative Rock"]
 
 
 ## Videos
-### Amplifier (Echo Street) - Where the river goes
-{{< youtube id="mOzRzoE-F5Y" title="Amplifier (Echo Street) - Where the river goes" >}}<br>
+### Amplifier - Matmos (from Echo Street)
+{{< youtube id="FZneZEpExkM" title="Amplifier - Matmos (from Echo Street)" >}}<br>
+### More Videos
 
+- [Amplifier - Matmos lyric video (from Echo Street)](https://www.youtube.com/watch?v=vZSDyF2bSI8)
+- [Amplifier - The Wheel](https://www.youtube.com/watch?v=JzZuVvOsRuM)
+- [Amplifier -  Extra Vehicular](https://www.youtube.com/watch?v=AXWpXhO7PQ0)
+- [Amplifier (Echo Street) - Where the river goes](https://www.youtube.com/watch?v=mOzRzoE-F5Y)
+- [amplifier paris in spring](https://www.youtube.com/watch?v=yVgntGwiOH8)
+- [Amplifier  Echo Street - Between today and yesterday](https://www.youtube.com/watch?v=mpmqy6m3mz4)
+- [Amplifier - Mary Rose](https://www.youtube.com/watch?v=u1aA38UkLCA)
 
 ## Release Images
 {{< imageGrid >}}
@@ -59,4 +67,4 @@ styles: ["Prog Rock", "Alternative Rock"]
 | Label          | Kscope |
 | Catalog Number | KSCOPE837 |
 | Notes | Comes in gatefold sleeve with full color inner sleeves.     Copies preordered from the Ampcorp Industries web store come signed by all four band members.    Copies ordered from Burning Shed include a download card.    ℗ & © 2013 Ampcorp Industries  Kscope is a Snapper Music label  www.kscopemusic.com  www.amplifierband.com  www.ampcorp-industries.com    Cat# appears as KSCOPE837 on spine, but on both labels it appears wrongly as KSCOPE835   (which is the cat# for "Steven Wilson - The Raven That Refused To Sing"). |
-| Discogs URL    | [Amplifier - Echo Street](https://www.discogs.com/release/4379512-Amplifier-Echo-Street) |
+| Discogs URL    | [Amplifier - Echo Street](https://www.discogs.com/release/4379512-Amplifier-3-Echo-Street) |

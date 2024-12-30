@@ -19,20 +19,21 @@ additional_images:
     - "https://i.discogs.com/MvGOxFDZeh1TfHZLwZj6NQjM6dquzS4h5bqb6bsYqsE/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMDE3/NzItMTQ0NTIyNTY5/NC0yMjMxLmpwZWc.jpeg"
     - "https://i.discogs.com/4zsg4FJLpV-Voy3Wcqobe6D5lNarQhwZOLjZNscJ_Vg/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMDE3/NzItMTQ0NTIyNTY5/OC01NDkzLmpwZWc.jpeg"
     - "https://i.discogs.com/OgjcRrbNT5tSqhmSFfZInJGktSdivc35I38J4ZtIDTI/rs:fit/g:sm/q:90/h:592/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMDE3/NzItMTQ0NTIyNTY5/OS0xMDQ5LmpwZWc.jpeg"
-    - "https://i.discogs.com/wl0SjjjaDkSWi3kagq1gSPj1RHlhYX1CoWERUGlugCw/rs:fit/g:sm/q:90/h:620/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMDE3/NzItMTQ0NTIyNTcw/MC05ODQ1LmpwZWc.jpeg"
-    - "https://i.discogs.com/h9EG0--dZnSgkiCqiJcQclH_Y3AL5WrBsZDfePbc7I0/rs:fit/g:sm/q:90/h:607/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMDE3/NzItMTQ0NTIyNTY5/Ny02NzcwLmpwZWc.jpeg"
+    - "https://i.discogs.com/RlqkDQi95pOIFJPmwU1KwXpIz1QYZG1_s4UreoIMYhc/rs:fit/g:sm/q:90/h:600/w:580/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMDE3/NzItMTQ0NTIyNTcw/MC05ODQ1LmpwZWc.jpeg"
+    - "https://i.discogs.com/aoYbDhZ5HAouJqrOP9EGiJGmYrZauIg0oMiPBG2svf0/rs:fit/g:sm/q:90/h:600/w:592/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMDE3/NzItMTQ0NTIyNTY5/Ny02NzcwLmpwZWc.jpeg"
     - "https://i.discogs.com/QJLP50hcnoSNlLPSnCF0gTd0Ojzs7tC4azuOp7guWmA/rs:fit/g:sm/q:90/h:171/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMDE3/NzItMTQ0NTIyNTY5/My03OTg3LmpwZWc.jpeg"
     - "https://i.discogs.com/t_P_d6p4W6ESNaZ93wMGTUK8nfBH7LIZIKNTcpVguRM/rs:fit/g:sm/q:90/h:535/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMDE3/NzItMTM4MzM5ODU2/Ny02NzYyLmpwZWc.jpeg"
     - "https://i.discogs.com/x78JPSkhBnksVgXHkFlFmqkrIOEBwRtcR8K72rieJaU/rs:fit/g:sm/q:90/h:600/w:596/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMDE3/NzItMTM4MzM5ODU3/Mi00MjMyLmpwZWc.jpeg"
-    - "https://i.discogs.com/YDrP0U6bQwmeMiJVMFw3YRILIFM-I7NCz_5TYLLhMq4/rs:fit/g:sm/q:90/h:722/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMDE3/NzItMTQ0NTIyNTY5/Mi0zMjQ4LmpwZWc.jpeg"
-    - "https://i.discogs.com/XBrmMYaKaFN1-MlZ-06UGUblDtoIWnY4CmjzCjn-614/rs:fit/g:sm/q:90/h:669/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMDE3/NzItMTY3NzUwODU0/MC05NDQ1LmpwZWc.jpeg"
+    - "https://i.discogs.com/Y4hOhjzEmf03Nl5LqiPJMYKMP-PJP1eKhzJTfbsYLKY/rs:fit/g:sm/q:90/h:600/w:497/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMDE3/NzItMTQ0NTIyNTY5/Mi0zMjQ4LmpwZWc.jpeg"
+    - "https://i.discogs.com/qgYyvKgmaQA53Uv717fnVk_L3qRWRLU9hl4rbTAWd9o/rs:fit/g:sm/q:90/h:600/w:537/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMDE3/NzItMTY3NzUwODU0/MC05NDQ1LmpwZWc.jpeg"
 genres: ["Rock"]
-styles: ["AOR", "Alternative Rock", "Art Rock", "Prog Rock"]
+styles: ["Art Rock", "Prog Rock", "AOR"]
 ---
 
-A Momentary Lapse of Reason is the thirteenth studio album by the English progressive rock band Pink Floyd, released in the UK on 7 September 1987 by EMI and the following day in the US on Columbia. It was recorded primarily on guitarist David Gilmour's converted houseboat, Astoria.
-A Momentary Lapse of Reason was the first Pink Floyd album recorded without founding member Roger Waters, who departed in 1985. The production was marred by legal fights over the rights to the Pink Floyd name, which were not resolved until several months after release. It also saw the return of keyboardist and founding member Richard Wright, who was fired from the band by Waters during the recording of The Wall (1979).Unlike most earlier Pink Floyd records, A Momentary Lapse of Reason is not a concept album. It includes writing contributions from outside songwriters, following Gilmour's decision to include material once intended for his third solo album. The album was promoted with three singles: the double A-side "Learning to Fly" / "Terminal Frost", "On the Turning Away", and "One Slip".
-A Momentary Lapse of Reason received mixed reviews; some critics praised the production and instrumentation but criticised Gilmour's writing, and it was derided by Waters. It was nonetheless a commercial comeback for the band, reaching number three in the UK and US, and outsold Pink Floyd's previous album The Final Cut (1983). The album was supported by a highly successful world tour between 1987 and 1989, including free performance on a barge floating on the Grand Canal in Venice, Italy.
+A Momentary Lapse of Reason is the thirteenth studio album by the English progressive rock band Pink Floyd, released in the UK on 7 September 1987 by EMI and the following day in the US on Columbia. It was recorded primarily on the converted houseboat Astoria, belonging to the guitarist, David Gilmour.
+A Momentary Lapse of Reason was the first Pink Floyd album recorded without the founding member Roger Waters, who departed in 1985. The production was marred by legal fights over the rights to the Pink Floyd name, which were not resolved until several months after release. It also saw the return of the keyboardist and founding member Richard Wright, who was fired by Waters during the recording of The Wall (1979). Wright returned as a session player.
+Unlike most of Pink Floyd's preceding studio records, A Momentary Lapse of Reason is not a concept album. It includes writing contributions from outside songwriters, following Gilmour's decision to include material once intended for his third solo album. The album was promoted with three singles: the double A-side "Learning to Fly" / "Terminal Frost", "On the Turning Away", and "One Slip".
+A Momentary Lapse of Reason received mixed reviews; some critics praised the production and instrumentation but criticised Gilmour's songwriting, and it was derided by Waters. It reached number three in the UK and US, and outsold Pink Floyd's previous album, The Final Cut (1983). It was supported by a successful world tour between 1987 and 1989, including a free performance on a barge floating on the Grand Canal in Venice, Italy.
 
 
         
@@ -58,9 +59,13 @@ A Momentary Lapse of Reason received mixed reviews; some critics praised the pro
 
 
 ## Videos
-### Pink Floyd - A Momentary Lapse Of Reason (Full Album)
-{{< youtube id="DEf0iT6r7z4" title="Pink Floyd - A Momentary Lapse Of Reason (Full Album)" >}}<br>
+### Pink Floyd - 1st UK press - a momentary lapse of reason  - side one 192 Khz
+{{< youtube id="UFbF5l5mzFg" title="Pink Floyd - 1st UK press - a momentary lapse of reason  - side one 192 Khz" >}}<br>
+### More Videos
 
+- [Pink Floyd - 1st UK press - a momentary lapse of reason - side two - 192 Khz](https://www.youtube.com/watch?v=4HcwzM30zeQ)
+- [Pink Floyd - 1st UK press - a momentary lapse of reason  - side one 192 Khz](https://www.youtube.com/watch?v=UFbF5l5mzFg)
+- [Pink Floyd - 1st UK press - a momentary lapse of reason - side two - 192 Khz](https://www.youtube.com/watch?v=4HcwzM30zeQ)
 
 ## Release Images
 {{< imageGrid >}}
@@ -72,5 +77,5 @@ A Momentary Lapse of Reason received mixed reviews; some critics praised the pro
 | Format         | Vinyl LP Album (Gatefold) |
 | Label          | EMI |
 | Catalog Number | EMD 1003 |
-| Notes | Matt gatefold cover with printed inner sleeve.  Sleeve: Studios, Astoria, Hampton Britannia Row Studios, London A&M Studios, Los Angeles Can Am Studios, Los Angeles Village Recorder, Los Angeles Mayfair, London Audio International, London.  Spherical Sound recorded at Le Mobile, Los Angeles.   Also thanks to Winston Johnson at Cama, Gary Barlogh at Producers Workshop, Air London. This album was recorded digitally, with the exception of the acoustic drums and bass guitar, which were recorded analogue. Dolby SR noise reduction was used for mixing, mastered direct to metal.  EMI Records Ltd Hayes Middlesex England. Sleeve printed in England. Manufactured in England. RB8709HP  ℗ 1987 Original sound recording made by Pink Floyd Music Ltd under exclusive licence to EMI Records Ltd. © 1987 Pink Floyd Music Ltd under exclusive licence to EMI Records Ltd.  Inner sleeve: A1:  © D. J. Gilmour A. Moore, 1986 A2:  © D. J. Gilmour, 1986 A3, B4, B5:  © D. J. Gilmour, 1986 A4:  © D. J. Gilmour A. Moore, 1986/7 B1a, B1b, B2, B3:  © D. J. Gilmour, 1987  Durations do not appear on this release. Timings via stopwatch.     |
+| Notes | Matt gatefold cover with printed inner sleeve.  Sleeve: Studios, Astoria, Hampton Britannia Row Studios, London A&M Studios, Los Angeles Can Am Studios, Los Angeles Village Recorder, Los Angeles Mayfair, London Audio International, London.  Spherical Sound recorded at Le Mobile, Los Angeles.   Also thanks to Winston Johnson at Cama, Gary Barlogh at Producers Workshop, Air London. This album was recorded digitally, with the exception of the acoustic drums and bass guitar, which were recorded analogue. Dolby SR noise reduction was used for mixing, mastered direct to metal.  EMI Records Ltd Hayes Middlesex England. Sleeve printed in England. Manufactured in England. RB8709HP  ℗ 1987 Original sound recording made by Pink Floyd Music Ltd under exclusive licence to EMI Records Ltd. © 1987 Pink Floyd Music Ltd under exclusive licence to EMI Records Ltd.  Inner sleeve: A1:  © D. J. Gilmour A. Moore, 1986 A2:  © D. J. Gilmour, 1986 A3, B4, B5:  © D. J. Gilmour, 1986 A4:  © D. J. Gilmour A. Moore, 1986/7 B1a, B1b, B2, B3:  © D. J. Gilmour, 1987  Durations do not appear on this release. Timings via stopwatch. |
 | Discogs URL    | [Pink Floyd - A Momentary Lapse Of Reason](https://www.discogs.com/release/1201772-Pink-Floyd-A-Momentary-Lapse-Of-Reason) |

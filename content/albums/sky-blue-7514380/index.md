@@ -12,7 +12,7 @@ cover:
     alt: "Sky Blue by Devin Townsend Project"
     caption: "Sky Blue by Devin Townsend Project"
 additional_images:
-    - "https://i.discogs.com/IKq7OCnOaLQiTGsQIuh8dnU3168JefihWpfOissFgiY/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc1MTQz/ODAtMTQ0MzA0ODk4/MS03MjY2LmpwZWc.jpeg"
+    - "https://i.discogs.com/C-i5FTNHC87-RsljpAz3Z_TSq1AoSpU0jKUuMfUBgG0/rs:fit/g:sm/q:90/h:540/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc1MTQz/ODAtMTQ1NTQ0NjI5/OS0zODE4LmpwZWc.jpeg"
 genres: ["Rock"]
 styles: []
 ---
@@ -52,6 +52,15 @@ styles: []
 {{< youtube id="PRFHR19EW34" title="Devin Townsend - Sky Blue" >}}<br>
 ### More Videos
 
+- [DEVIN TOWNSEND PROJECT - Rejoice (Lyric Video)](https://www.youtube.com/watch?v=pCNx6vs7c2Y)
+- [Devin Townsend Project - A New Reign](https://www.youtube.com/watch?v=BEKd6fzmGE0)
+- [Devin Townsend Project - Rain City](https://www.youtube.com/watch?v=hGwKNj5jwfA)
+- [Silent Militia - The Devin Townsend Project](https://www.youtube.com/watch?v=zGCWq9sylao)
+- [Forever - The Devin Townsend Project](https://www.youtube.com/watch?v=xxzrGzdMPFg)
+- [Devin Townsend Project - Universal Flame](https://www.youtube.com/watch?v=xZ8Xt4CV2qQ)
+- [Devin Townsend Project - Warrior](https://www.youtube.com/watch?v=slr_xGSklqU)
+- [Devin Townsend and Anneke Van Giersbergen - Fallout (with lyrics)](https://www.youtube.com/watch?v=p4rOf7jRrtA)
+- [Devin Townsend - Sky Blue](https://www.youtube.com/watch?v=PRFHR19EW34)
 - [DEVIN TOWNSEND PROJECT - Rejoice (Lyric Video)](https://www.youtube.com/watch?v=pCNx6vs7c2Y)
 - [Devin Townsend Project - A New Reign](https://www.youtube.com/watch?v=BEKd6fzmGE0)
 - [Devin Townsend Project - Rain City](https://www.youtube.com/watch?v=hGwKNj5jwfA)

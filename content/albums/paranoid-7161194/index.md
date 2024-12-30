@@ -22,13 +22,17 @@ additional_images:
     - "https://i.discogs.com/9ac9Z2B-xq9M-o3PQe1dPYVzepK4boyyawvDoubMWJ4/rs:fit/g:sm/q:90/h:549/w:549/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcxNjEx/OTQtMTQzNzY3Njc1/OS0yODU3LmpwZWc.jpeg"
     - "https://i.discogs.com/bj7t0NKKmT32JBySz7EKIKqTz_FmBarBpn3-fChUO5I/rs:fit/g:sm/q:90/h:267/w:291/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcxNjEx/OTQtMTQzNzY3Njc0/Ni03MDA0LmpwZWc.jpeg"
     - "https://i.discogs.com/i_GNNC2KF69MPBr0lmdsed4RyzeNgm5fg1o3TjNNGY8/rs:fit/g:sm/q:90/h:177/w:451/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcxNjEx/OTQtMTQzNzY3Njc0/Ni04MDcyLmpwZWc.jpeg"
-    - "https://i.discogs.com/K8EXRb0cSvkAwz6yQ3MZiwz6Az6DUfBbFQKgg_koZNo/rs:fit/g:sm/q:90/h:703/w:400/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcxNjEx/OTQtMTQzNzY3Njc1/My0zNzM3LmpwZWc.jpeg"
+    - "https://i.discogs.com/CTBlh5_UhZaqFFtizFe5aI78EaHjVXBzEVPl0jYzlWI/rs:fit/g:sm/q:90/h:600/w:341/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcxNjEx/OTQtMTQzNzY3Njc1/My0zNzM3LmpwZWc.jpeg"
     - "https://i.discogs.com/FREF8e1pKm5iLQW_n5ulXpqNuPJKXDWibf5KE9dqMSU/rs:fit/g:sm/q:90/h:149/w:200/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcxNjEx/OTQtMTQzNzY3Njc1/NC0zNzE3LmpwZWc.jpeg"
 genres: ["Rock"]
 styles: ["Heavy Metal", "Hard Rock"]
 ---
 
-Black Sabbath's second album is nothing less than a blitzkrieg of in-your-face attitude. The politically charged epic "War Pigs/Luke's Wall" sparks the attack with Bill Ward's hardcore drum thrashing. Ozzy Osbourne's distinctive Brummie wail carries songs like the raw and craggy "Iron Man" to metal anthem status. And as for the high-octane title track, legend has it that the band knocked it out in less than half an hour. Not bad for the cut that essentially created the template for thrash metal.
+If any album signalled the definitive end of the ’60s, it was <i>Paranoid</i>. Gone were the flower children, peace chants and Day-Glo paint; in came monumental, vicious guitar riffs, Ozzy Osbourne’s snarling twist of a voice, and stories of doom, drug addiction and death. It wasn’t always this way, of course: Confirmed Beatles fans, Sabbath’s members had their psychedelic period. But by the late ’60s, the death toll in Vietnam was rising, the band’s native Birmingham remained studded with World War II bomb sites, and these blue-collar boys saw only mind-dulling factory work ahead of them.
+
+Out of that despair came this furious, uncompromising record. Despite critics’ misreading of the album as a Satanic screed (a perception Sabbath played up), the album in fact contained searing indictments of the elite. “War Pigs”—meant at one point to be the album’s title track—opens with air-raid sirens and ultimately envisions the evisceration of warmongering politicians. “Iron Man”, bearing one of the most recognizable guitar riffs on the planet, is told from the perspective of a man who, after being blasted into space, has seen humanity’s grim future but is unable to communicate it upon his return. “Hand of Doom” deals with heroin addiction among soldiers, while “Paranoid” traffics in depression.
+
+This is heavy subject matter, and the band developed a musical vocabulary to match it, with ponderous drums and scowling guitars that felt light-years away from, say, CSN&Y. Many critics found the songs overly theatrical, but the public was ravenous for them. Within just over two years, Black Sabbath released four albums and birthed something much bigger than themselves: heavy metal. <i>Paranoid</i> remains the diabolical wellspring from which innumerable bands—and many metal subgenres—have sprung.
         
         
     
@@ -53,21 +57,23 @@ Black Sabbath's second album is nothing less than a blitzkrieg of in-your-face a
 16. Fairies Wear Boots
 
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/paranoid-2009-remastered-version/1193826796" >}}<br>
+{{< applemusic url="https://music.apple.com/gb/album/paranoid/1533659667" >}}<br>
 
 
 ## Videos
-### War Pigs / Luke's Wall (2012 - Remaster)
-{{< youtube id="lLb6UUw2ZVQ" title="War Pigs / Luke's Wall (2012 - Remaster)" >}}<br>
+### Black Sabbath - Paranoid (Cassette, 1970)
+{{< youtube id="-sbzdOaF8PA" title="Black Sabbath - Paranoid (Cassette, 1970)" >}}<br>
 ### More Videos
 
 - [BLACK SABBATH - Paranoid (Full Album)](https://www.youtube.com/watch?v=fWvKvOViM3g)
-- [BLACK SABBATH - Paranoid (Official Video)](https://www.youtube.com/watch?v=0qanF-91aJo)
-- [Planet Caravan (2012 - Remaster)](https://www.youtube.com/watch?v=NhyGGLic1QM)
-- [Iron Man (2012 - Remaster)](https://www.youtube.com/watch?v=b3-QqGVt-tM)
-- [Electric Funeral (2012 - Remaster)](https://www.youtube.com/watch?v=ZyEUk1ZJLn4)
-- [Hand of Doom (2012 - Remaster)](https://www.youtube.com/watch?v=o6HmfTdwYZg)
-- [Rat Salad (2012 - Remaster)](https://www.youtube.com/watch?v=RLlU-5GqLvo)
+- [War Pigs](https://www.youtube.com/watch?v=bc5Nk1DXyEY)
+- [Black Sabbath - Paranoid (Official Audio)](https://www.youtube.com/watch?v=BOTIIw76qiE)
+- [Planet Caravan (2012 - Remaster)](https://www.youtube.com/watch?v=bm2N2nHqITY)
+- [Iron Man](https://www.youtube.com/watch?v=F01UTYg79KY)
+- [Electric Funeral](https://www.youtube.com/watch?v=2wJ-NBeEDIY)
+- [Hand of Doom (2012 - Remaster)](https://www.youtube.com/watch?v=dgPv9_sPiME)
+- [Rat Salad](https://www.youtube.com/watch?v=S2H5hzOMhIs)
+- [Fairies Wear Boots](https://www.youtube.com/watch?v=8e1W2O5jDPI)
 
 ## Release Images
 {{< imageGrid >}}

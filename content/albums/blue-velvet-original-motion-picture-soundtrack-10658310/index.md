@@ -43,19 +43,19 @@ styles: ["Soundtrack", "Rhythm & Blues", "Smooth Jazz"]
 16. Mysteries Of Love (4:22)
 
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/blue-velvet-original-motion-picture-soundtrack/1649800938" >}}<br>
+{{< applemusic url="https://music.apple.com/gb/album/stalingrad-original-motion-picture-soundtrack/1558580900" >}}<br>
 
 
 ## Videos
-### Blue Velvet: Main Title Theme (From Blue Velvet)
-{{< youtube id="HNXjgKA6mn8" title="Blue Velvet: Main Title Theme (From Blue Velvet)" >}}<br>
+### Blue Velvet: Main Title Theme (From "Blue Velvet")
+{{< youtube id="HNXjgKA6mn8" title="Blue Velvet: Main Title Theme (From "Blue Velvet")" >}}<br>
 ### More Videos
 
-- [Mysteries of Love](https://www.youtube.com/watch?v=PgXlMNDezk4)
 - [Angelo Badalamenti - Frank (from Blue Velvet)](https://www.youtube.com/watch?v=BBapDanSkII)
 - [Mysteries Of Love (French Horn solo)](https://www.youtube.com/watch?v=arnSJQtBpVA)
 - [Angelo Badalementi - Mysteries Of Love (instrumental)](https://www.youtube.com/watch?v=4F9GsEg7v64)
-- [Mysteries of Love (From David Lynch's Blue Velvet - OST by Angelo Badalamenti)](https://www.youtube.com/watch?v=ry5vs331sMY)
+- [Mysteries of Love (From David Lynch's "Blue Velvet" - OST by Angelo Badalamenti)](https://www.youtube.com/watch?v=ry5vs331sMY)
+- [Mysteries of Love](https://www.youtube.com/watch?v=PgXlMNDezk4)
 
 ## Release Images
 {{< imageGrid >}}

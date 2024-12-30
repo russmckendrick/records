@@ -13,13 +13,18 @@ cover:
     caption: "Mobile Home by Longpigs"
 additional_images:
     - "https://i.discogs.com/UShGNb_MkRgCIZqomO5NfiDvExgj2iCtvLW_E63_V6w/rs:fit/g:sm/q:90/h:586/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwNzcx/MjY5LTE2MzU1MDgz/NTAtMjAxMS5qcGVn.jpeg"
-    - "https://i.discogs.com/CFDE19h38rDKF-7lY8F7WA-ZJaPBJ2bHjMS1J-dMW0k/rs:fit/g:sm/q:90/h:612/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwNzcx/MjY5LTE2MzU1MDcw/NzMtNTg0Mi5qcGVn.jpeg"
-    - "https://i.discogs.com/3syEYXVb6KadciRnWAHJdJaMjTE6bGjhH1h99pkKOC8/rs:fit/g:sm/q:90/h:601/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwNzcx/MjY5LTE2MzU1MDcw/NzMtNjIxNy5qcGVn.jpeg"
-    - "https://i.discogs.com/ARaQelfcfZAoeO7B8ulrTGHHGolKr19XBUsm0h1Bu-A/rs:fit/g:sm/q:90/h:631/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwNzcx/MjY5LTE2NjQxOTg2/MzQtNDc0NC5qcGVn.jpeg"
+    - "https://i.discogs.com/oZwGviYd9WyeYneruDxiw_Q3L4SR2mCoe7CCqlKfNUM/rs:fit/g:sm/q:90/h:600/w:587/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwNzcx/MjY5LTE2MzU1MDcw/NzMtNTg0Mi5qcGVn.jpeg"
+    - "https://i.discogs.com/IKMKZx1OcNZZ7sSa225DamCK1IIgoW3e0x_y5RhpmHU/rs:fit/g:sm/q:90/h:600/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwNzcx/MjY5LTE2MzU1MDcw/NzMtNjIxNy5qcGVn.jpeg"
+    - "https://i.discogs.com/1270MCod0rxioGudz_yfJtsA-pIV8ADMnCEIDvuFrzE/rs:fit/g:sm/q:90/h:600/w:570/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwNzcx/MjY5LTE2NjQxOTg2/MzQtNDc0NC5qcGVn.jpeg"
 genres: ["Rock"]
 styles: ["Indie Rock", "Britpop"]
 ---
 
+Mobile Home is the second and final album by Longpigs, released in 1999 on U2's record label, Mother.
+
+
+    
+    
 
 
 ## Tracklisting
@@ -55,7 +60,8 @@ styles: ["Indie Rock", "Britpop"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl LP Album Limited Edition Reissue Stereo (Clear, 180g) |
+| Wikipedia URL | https://en.wikipedia.org/wiki/Mobile_Home_(album) |
+| Format         | Vinyl LP Album Limited Edition Reissue Stereo (Signed Edition, Clear 180g) |
 | Label          | Demon Records |
 | Catalog Number | DEMREC950X |
 | Notes | Clear vinyl. Limited to 1000 copies with print insert signed by Crispin Hunt  Hype sticker on the front of the signed print version is different to the standard, non-signed print version.   Hype sticker states: "Indies Exclusive Version Includes Print Signed By Crispin Hunt"  Rear sleeve includes a different barcode on a sticker stuck on the original shrink-wrap obscuring the sleeve printed barcode to distinguish it from the standard issue.  Hype sticker: DEMREC950X Sleeve/labels: DEMREC950 |

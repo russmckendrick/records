@@ -12,19 +12,22 @@ cover:
     alt: "English Electric Part One by Big Big Train"
     caption: "English Electric Part One by Big Big Train"
 additional_images:
-    - "https://i.discogs.com/AHnB_QQ-sinKshOykKLsDesbkvX8PNRK85kdn5Iaz1A/rs:fit/g:sm/q:90/h:316/w:316/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MjUy/NDc0LTE1NzA3ODg2/MzgtMzgwNC5qcGVn.jpeg"
+    - "https://i.discogs.com/6x1x6qPYAG42fCpKez6FXqXMebWfSfeaLLPXj6Wo1AM/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MjUy/NDc0LTE2OTkyODI3/NjAtODM4Mi5qcGVn.jpeg"
     - "https://i.discogs.com/cJ72kHU1PdfoqOi4YNJyfXPvQ6l4JpAHBRytCMgLJ0Q/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MjUy/NDc0LTE1NzE5NjU1/NDItNTM0Ni5qcGVn.jpeg"
-    - "https://i.discogs.com/QNvub9Z-TOiWh9nFcf6r7M0Z6LEtq9PlNg7VBggncOQ/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MjUy/NDc0LTE1NzE5NjU1/NDItMTM5MC5qcGVn.jpeg"
-    - "https://i.discogs.com/WES9gtpj4EAayKiHcvdaUxI6qiyXtsgc0EvZW3JT2co/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MjUy/NDc0LTE1NzE5NjU1/NDItODM4My5qcGVn.jpeg"
-    - "https://i.discogs.com/VAiselly5_rQC3qXrBat_OQb-ayeMhiXBzAReX5cAzE/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MjUy/NDc0LTE1NzE5NjU1/NDEtNDI4NC5qcGVn.jpeg"
     - "https://i.discogs.com/zBGBenTWXgnP3E_Vgtm_oEu97xmwLpzjtjjIk20CKzA/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MjUy/NDc0LTE1NzE5NjU1/NDItOTAyMS5qcGVn.jpeg"
     - "https://i.discogs.com/BZfe2Dl1bX4g7hjbP4FXP0q6lmbBX_5yrf41tKG3eug/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MjUy/NDc0LTE1NzE5NjU1/NDItODczMi5qcGVn.jpeg"
     - "https://i.discogs.com/p4ROPywl8lnmmDeKEt_IbKrUSpS43J73qPJRgoSxcW4/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MjUy/NDc0LTE1NzE5NjU1/NDItMzAxMC5qcGVn.jpeg"
     - "https://i.discogs.com/GxAjDOKkd9ULG6JVEuWlYrCPFGQdRP1sV6IcGmmaqnA/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MjUy/NDc0LTE1NzE5NjU1/NDItMjY3Mi5qcGVn.jpeg"
+    - "https://i.discogs.com/QNvub9Z-TOiWh9nFcf6r7M0Z6LEtq9PlNg7VBggncOQ/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MjUy/NDc0LTE1NzE5NjU1/NDItMTM5MC5qcGVn.jpeg"
+    - "https://i.discogs.com/WES9gtpj4EAayKiHcvdaUxI6qiyXtsgc0EvZW3JT2co/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MjUy/NDc0LTE1NzE5NjU1/NDItODM4My5qcGVn.jpeg"
+    - "https://i.discogs.com/VAiselly5_rQC3qXrBat_OQb-ayeMhiXBzAReX5cAzE/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MjUy/NDc0LTE1NzE5NjU1/NDEtNDI4NC5qcGVn.jpeg"
 genres: ["Rock"]
 styles: ["Prog Rock"]
 ---
 
+English Electric Part One is the seventh studio album by the English progressive rock band Big Big Train. It was released on 3 September 2012, by English Electric Recordings and GEP.
+    
+    
 
 
 ## Tracklisting
@@ -56,6 +59,7 @@ styles: ["Prog Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
+| Wikipedia URL | https://en.wikipedia.org/wiki/English_Electric_Part_One |
 | Format         | Vinyl 2× LP Album Limited Edition Reissue Stereo (Blue) |
 | Label          | English Electric Recordings |
 | Catalog Number | 7426822210565 |

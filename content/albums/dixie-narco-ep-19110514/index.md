@@ -16,7 +16,7 @@ additional_images:
     - "https://i.discogs.com/hJWz8IpDtCBzaJ12UUonbSZWqsjMBnGkmEPL96nChlM/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MTEw/NTE0LTE2MjM4NDY4/MjAtMjY4OC5qcGVn.jpeg"
     - "https://i.discogs.com/hPTih2djvXc6QkKFf3O3cJM3xpbpAbEovB8IOL7-mVU/rs:fit/g:sm/q:90/h:593/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MTEw/NTE0LTE2MjM4NDY4/MjAtNTE2NS5qcGVn.jpeg"
     - "https://i.discogs.com/e52mWx6ViewwMjUzF7gZXLNrBHdTucnywL8NDTNAfYM/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MTEw/NTE0LTE2MjM4NDY4/MTktODk4OC5qcGVn.jpeg"
-    - "https://i.discogs.com/zYa9q0lRXF0j5adetmzx8KRVVfZtYEP2lqekmP2UlUk/rs:fit/g:sm/q:90/h:601/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MTEw/NTE0LTE2MjM4NDY4/MjAtNjA2Ny5qcGVn.jpeg"
+    - "https://i.discogs.com/aQmez6iSB35NY2J4exhxE9_dRmrQgZEslEY0BzTnyQ8/rs:fit/g:sm/q:90/h:600/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MTEw/NTE0LTE2MjM4NDY4/MjAtNjA2Ny5qcGVn.jpeg"
     - "https://i.discogs.com/RMjwuzJigZO0NhurIfAOs9JJcnVzoY4gfHAhZhGUljs/rs:fit/g:sm/q:90/h:526/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MTEw/NTE0LTE2MjM4NDY4/MjAtNTUyMC5qcGVn.jpeg"
     - "https://i.discogs.com/cf3CEogXPr4rMhaVSv642Ikg1t_K7MQ7jgAWPUUk2Io/rs:fit/g:sm/q:90/h:332/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MTEw/NTE0LTE2NDU1NTM0/MTEtNTU1My5qcGVn.jpeg"
 genres: ["Electronic", "Rock", "Funk / Soul"]
@@ -35,7 +35,14 @@ styles: ["House", "Gospel", "Downtempo", "Indie Rock"]
 {{< applemusic url="https://music.apple.com/gb/album/dixie-narco-ep/1568698448" >}}<br>
 
 
+## Videos
+### Primal Scream - Stone My Soul (Dixie-Narco EP)
+{{< youtube id="wxYFV4ywkw8" title="Primal Scream - Stone My Soul (Dixie-Narco EP)" >}}<br>
+### More Videos
 
+- [Primal Scream - Carry Me Home (Dixie-Narco EP)](https://www.youtube.com/watch?v=pQ4x1YB88_s)
+- [Primal Scream - Movin' on Up (Official HD Video)](https://www.youtube.com/watch?v=UVm3mJPn5tE)
+- [Primal Scream - Screamadelica (HQ)](https://www.youtube.com/watch?v=F-JtmHJ6ZgI)
 
 ## Release Images
 {{< imageGrid >}}

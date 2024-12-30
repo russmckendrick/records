@@ -12,12 +12,12 @@ cover:
     alt: "Lotus Unfolding by Ozric Tentacles"
     caption: "Lotus Unfolding by Ozric Tentacles"
 additional_images:
-    - "https://i.discogs.com/1n3gOSsbcfLZKT3HXWCwS1Q_IRw_DSwk0tplGfDJ2gY/rs:fit/g:sm/q:90/h:603/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4NjE5/NjAyLTE2OTc3MTI5/MjMtOTIwMi5qcGVn.jpeg"
-    - "https://i.discogs.com/6txMZLfy47Y_i5qhVOC3PZQm953lvrRxrVfLO34q4UE/rs:fit/g:sm/q:90/h:602/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4NjE5/NjAyLTE2OTc3MTI5/MjMtNDI1MC5qcGVn.jpeg"
-    - "https://i.discogs.com/V1EELogCH19qBfZ-bjLEEKbDirzzfDc3KUV2JotX8ec/rs:fit/g:sm/q:90/h:602/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4NjE5/NjAyLTE2OTc3MTI5/MjMtODgwOC5qcGVn.jpeg"
-    - "https://i.discogs.com/4xfg_KabhlWqQUtTLPZyN7Roia2ObFizFVyTPaBSwQA/rs:fit/g:sm/q:90/h:601/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4NjE5/NjAyLTE2OTc3MTI5/MjMtMzU1NC5qcGVn.jpeg"
+    - "https://i.discogs.com/J9zFhy1ZnLdxkevLkQ3VLe4s1xacFFeL3BHrTyR6Vbc/rs:fit/g:sm/q:90/h:600/w:596/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4NjE5/NjAyLTE2OTc3MTI5/MjMtOTIwMi5qcGVn.jpeg"
+    - "https://i.discogs.com/2xQdWq61u9bvNUSxAgdvRJIjuEuWPMCKmM22SRW26vA/rs:fit/g:sm/q:90/h:600/w:597/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4NjE5/NjAyLTE2OTc3MTI5/MjMtNDI1MC5qcGVn.jpeg"
+    - "https://i.discogs.com/iLRjlGpQbZ_PFpu1HSvzC3NcngzChF-SeV3p0XG9XJ8/rs:fit/g:sm/q:90/h:600/w:597/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4NjE5/NjAyLTE2OTc3MTI5/MjMtODgwOC5qcGVn.jpeg"
+    - "https://i.discogs.com/l9ELrS9l7lbaJ3I9F4B-FE9Rc22MRS39CDeTMzBUPNA/rs:fit/g:sm/q:90/h:600/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4NjE5/NjAyLTE2OTc3MTI5/MjMtMzU1NC5qcGVn.jpeg"
     - "https://i.discogs.com/sT9ycyHurCfkxeclwp9UT_4A458_eGFXzq4v3whnh08/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4NjE5/NjAyLTE2OTc3MTI5/MjItOTQ4Ny5qcGVn.jpeg"
-    - "https://i.discogs.com/UsOAaY74jj3AQwo6noazb54d2LW8ALsHYJJzM31VfEM/rs:fit/g:sm/q:90/h:609/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4NjE5/NjAyLTE2OTc3MTI5/MjMtOTM4Ny5qcGVn.jpeg"
+    - "https://i.discogs.com/ST95QeBRlOsRFYUEeCRFnvmUJ-RqBlt7gOLdU-3gIuk/rs:fit/g:sm/q:90/h:600/w:591/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4NjE5/NjAyLTE2OTc3MTI5/MjMtOTM4Ny5qcGVn.jpeg"
     - "https://i.discogs.com/qvMC6g1VgVhGGxPG7ExPacn29jFCnQLL7mU6Di8xAiY/rs:fit/g:sm/q:90/h:450/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4NjE5/NjAyLTE2OTc3MTI5/MjMtNTc5Ny5qcGVn.jpeg"
     - "https://i.discogs.com/_rCCNyvGX1nHrBNWPe5GlULfeCc_akiDmzgsKkWNIoI/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4NjE5/NjAyLTE2OTc3MTI5/MjMtMzA1Ny5qcGVn.jpeg"
     - "https://i.discogs.com/ZiO0aMNTWrHIj2lq4p5hC3THmBYhdqVse85qHBOn7pQ/rs:fit/g:sm/q:90/h:592/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4NjE5/NjAyLTE2OTc3MTI5/MTktMjM3OC5qcGVn.jpeg"
@@ -28,7 +28,7 @@ styles: ["Space Rock", "Psychedelic Rock", "Ambient"]
 
 
 ## Tracklisting
-1. Storm in a Teacup (9:30)
+1. Storm In A Teacup (9:30)
 2. Deep Blue Shade (5:08)
 3. Lotus Unfolding (8:10)
 4. Crumplepenny (9:54)
@@ -40,12 +40,23 @@ styles: ["Space Rock", "Psychedelic Rock", "Ambient"]
 
 
 ## Videos
-### Ozric Tentacles -  Lotus Unfolding - official promo video (taken from the album Lotus Unfolding)
-{{< youtube id="iMnQiB8KKBQ" title="Ozric Tentacles -  Lotus Unfolding - official promo video (taken from the album Lotus Unfolding)" >}}<br>
+### O Z R I C - T E N T A C L E S / L O T U S - U N F O L D I N G
+{{< youtube id="1pfser5uX_w" title="O Z R I C - T E N T A C L E S / L O T U S - U N F O L D I N G" >}}<br>
 ### More Videos
 
+- [Ozric Tentacles -  Lotus Unfolding - official promo video (taken from the album Lotus Unfolding)](https://www.youtube.com/watch?v=iMnQiB8KKBQ)
 - [Ozric Tentacles - Deep Blue Shade (Official Video)](https://www.youtube.com/watch?v=XXs19JdRjS8)
-- [Ozric Tentacles - Lotus Unfolding (?), live at the O2 Liverpool Dec 2022](https://www.youtube.com/watch?v=rliOJ_gsaoc)
+- [Storm in a Teacup](https://www.youtube.com/watch?v=PpER0O2V1so)
+- [Burundi Spaceport](https://www.youtube.com/watch?v=5CrWga8Emnk)
+- [Crumplepenny](https://www.youtube.com/watch?v=GQbxOHaQ2bI)
+- [Green Incantation](https://www.youtube.com/watch?v=fNy-wlDyL3I)
+- [O Z R I C - T E N T A C L E S / L O T U S - U N F O L D I N G](https://www.youtube.com/watch?v=1pfser5uX_w)
+- [Ozric Tentacles -  Lotus Unfolding - official promo video (taken from the album Lotus Unfolding)](https://www.youtube.com/watch?v=iMnQiB8KKBQ)
+- [Ozric Tentacles - Deep Blue Shade (Official Video)](https://www.youtube.com/watch?v=XXs19JdRjS8)
+- [Storm in a Teacup](https://www.youtube.com/watch?v=PpER0O2V1so)
+- [Burundi Spaceport](https://www.youtube.com/watch?v=5CrWga8Emnk)
+- [Crumplepenny](https://www.youtube.com/watch?v=GQbxOHaQ2bI)
+- [Green Incantation](https://www.youtube.com/watch?v=fNy-wlDyL3I)
 
 ## Release Images
 {{< imageGrid >}}
@@ -56,5 +67,5 @@ styles: ["Space Rock", "Psychedelic Rock", "Ambient"]
 | Format         | Vinyl LP Album Limited Edition (Green/Black Marble) |
 | Label          | Kscope |
 | Catalog Number | KSCOPE1217 |
-| Notes | Limited marble (black & transparent turquoise) LP edition with an exclusive die-cut sleeve.  |
+| Notes | Limited marble (black & transparent turquoise) LP edition with an exclusive die-cut sleeve. |
 | Discogs URL    | [Ozric Tentacles - Lotus Unfolding](https://www.discogs.com/release/28619602-Ozric-Tentacles-Lotus-Unfolding) |

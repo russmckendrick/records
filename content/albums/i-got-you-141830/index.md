@@ -20,7 +20,10 @@ genres: ["Electronic", "Rock", "Pop"]
 styles: ["New Wave", "Pop Rock", "Synth-pop"]
 ---
 
-"I Got You" is a song by New Zealand rock band Split Enz. It was released as a single on 21 January 1980 by Mushroom Records in Australia and New Zealand, and August 1980 by A&M internationally, as the first single from their breakthrough album True Colours. Written by co-lead singer Neil Finn, who did not initially believe it to be a hit, it became the band's most commercially successful song, topping the charts in Australasia (spending eight weeks at number-one in Australia) and placing in the top 20 of the British and Canadian charts. By July 1980, it had become the biggest selling single in Australian history.The song was rated #11 on the Australasian Performing Right Association's Top 100 New Zealand Songs Of All Time list.
+"I Got You" is a song by New Zealand rock band Split Enz. It was released as a single on 21 January 1980 by Mushroom Records in Australia and New Zealand, and August 1980 by A&M internationally, as the first single from their breakthrough album True Colours. Written by co-lead singer Neil Finn, who did not initially believe it to be a hit, it became the band's most commercially successful song, topping the charts in Australasia (spending eight weeks at number-one in Australia) and placing in the top 20 of the British and Canadian charts. By July 1980, it had become the biggest selling single in Australian history.
+The song was rated #11 on the Australasian Performing Right Association's Top 100 New Zealand Songs Of All Time list.
+
+
     
     
 
@@ -29,17 +32,16 @@ styles: ["New Wave", "Pop Rock", "Synth-pop"]
 1. I Got You (3:24)
 2. Double Happy (3:15)
 
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/i-got-you-karaoke-version-originally-performed-by-split/1755091340" >}}<br>
 
 
 ## Videos
-### Split Enz - I Got You (1980)
-{{< youtube id="YmQlBfxh4Us" title="Split Enz - I Got You (1980)" >}}<br>
+### Split Enz - I Got You (Official Video)
+{{< youtube id="wiqBlKnb91A" title="Split Enz - I Got You (Official Video)" >}}<br>
 ### More Videos
 
-- [I Got You](https://www.youtube.com/watch?v=bAAe3cVFxTM)
-- [Split Enz : I Got You (rare clip)](https://www.youtube.com/watch?v=icBL4ahIWTU)
-- [Split Enz - Double Happy (1980)](https://www.youtube.com/watch?v=nsGblAyjmZM)
-- [Split Enz - I Got You](https://www.youtube.com/watch?v=xv6oOxn1axw)
+- [Split Enz - I Got You (1980)](https://www.youtube.com/watch?v=YmQlBfxh4Us)
 
 ## Release Images
 {{< imageGrid >}}

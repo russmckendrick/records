@@ -13,19 +13,19 @@ cover:
     alt: "The Order Of Time by Valerie June"
     caption: "The Order Of Time by Valerie June"
 additional_images:
-    - "https://i.discogs.com/Qu6u0KTKOV8aPqmSy0O4_y987FtydjzMpa9wXdUhXaE/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk5Njk4/MjktMTYxMzM5MzQx/My04NjIwLmpwZWc.jpeg"
-    - "https://i.discogs.com/V6WlT4S0IP0HqOnu92fL2cBQZdKtApvbulewsc_N83c/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk5Njk4/MjktMTYxMzM5MzQx/Mi03NzEzLmpwZWc.jpeg"
-    - "https://i.discogs.com/Na_KuIOH8MprivP0kl7tMew48535SkuI1svyIUbdygw/rs:fit/g:sm/q:90/h:77/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk5Njk4/MjktMTYxMzM5MzQx/My0xMzg0LmpwZWc.jpeg"
+    - "https://i.discogs.com/OEq3_2VsTlbxiDtW43P-ScMzxziMi4OX3HVLF_GaNlo/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk5Njk4/MjktMTcyNzY0Njc3/Ni0yODg3LmpwZWc.jpeg"
+    - "https://i.discogs.com/czDUw6-741DUM40flvSZxbRvMUZaycuLtMCBOTkJCG8/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk5Njk4/MjktMTcyNzY0Njc3/NS03MjI4LmpwZWc.jpeg"
+    - "https://i.discogs.com/Zubi7sRUKBL66im1F3Zxjai13AHnfONLPNH68-Ynz7I/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk5Njk4/MjktMTcyNzY0Njc3/Ni05NDIzLmpwZWc.jpeg"
+    - "https://i.discogs.com/chb4_lbYJUFXSyTWYqpIZgN7VC1AuektE-i4beOgBhI/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk5Njk4/MjktMTcyNzY0Njc3/Ni0xMzg3LmpwZWc.jpeg"
+    - "https://i.discogs.com/OfPY2aZ1116nRt7hkZVrGJZh1XYDBdq0Mnr2C5ayFeY/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk5Njk4/MjktMTcyNzY0Njc3/Ni04MDUzLmpwZWc.jpeg"
+    - "https://i.discogs.com/7XjO4X33nSmPOwfWGzvXO0ILBKmyWnQbFPksZve64nI/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk5Njk4/MjktMTcyNzY0Njc3/NS0xMTUzLmpwZWc.jpeg"
     - "https://i.discogs.com/gtz4GKPWRwl5_o7xB722VEd0dDGhCxaBqgmVhPbPmV0/rs:fit/g:sm/q:90/h:139/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk5Njk4/MjktMTYxMzM5MzQx/Mi03OTA2LmpwZWc.jpeg"
-    - "https://i.discogs.com/o6IXc3My3kV4FGpcPNpBEOFBtCprXK34bDhfTFo7jXI/rs:fit/g:sm/q:90/h:604/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk5Njk4/MjktMTYxMzM5MzQx/My01Mjc4LmpwZWc.jpeg"
-    - "https://i.discogs.com/SZ1B_21fb2Yc03hNbZ2GmF8_YF0Q5bxLkupBXtiEJMI/rs:fit/g:sm/q:90/h:602/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk5Njk4/MjktMTYxMzM5MzQx/Mi02OTIyLmpwZWc.jpeg"
-    - "https://i.discogs.com/UPyzKVF5_R1cycJtp2b1avWlPnsHUBJ2iVN1Vg13hmU/rs:fit/g:sm/q:90/h:591/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk5Njk4/MjktMTYxMzM5MzQx/NC03NTU5LmpwZWc.jpeg"
-    - "https://i.discogs.com/upUiqj0C31L4pzKAUfSWFcrkBhXIi6Hm5VeuZHCjFAA/rs:fit/g:sm/q:90/h:594/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk5Njk4/MjktMTYxMzM5MzQx/My0zNzA5LmpwZWc.jpeg"
+    - "https://i.discogs.com/Na_KuIOH8MprivP0kl7tMew48535SkuI1svyIUbdygw/rs:fit/g:sm/q:90/h:77/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk5Njk4/MjktMTYxMzM5MzQx/My0xMzg0LmpwZWc.jpeg"
 genres: ["Funk / Soul", "Blues", "Folk, World, & Country"]
 styles: ["Gospel", "Folk"]
 ---
 
-That many of the magnetic Americana heartmelters on <i>The Order of Time</i> were written over a long period makes sense. Ethereal, sonically nimble, and evocatively Southern, Valerie June's second record hums with an unhurried self-possession, tapping into traditions as far-ranging as rowdy dive-bar rock (“Shakedown,” which features Norah Jones on backing vocals) and slow-burn blues (“Slip Slide on By”). But “Astral Plane” is the kicker: a starlit, Velcro-catchy miracle that lets June’s transcendent delivery soar.
+That many of the magnetic Americana heartmelters on <i>The Order of Time</i> were written over a long period makes sense. Ethereal, sonically nimble and evocatively Southern, Valerie June's second record hums with an unhurried self-possession, tapping into traditions as far-ranging as rowdy dive-bar rock (“Shakedown”, which features Norah Jones on backing vocals) and slow-burn blues (“Slip Slide on By”). But “Astral Plane” is the kicker: a starlit, Velcro-catchy miracle that lets June’s transcendent delivery soar.
     
     
 
@@ -55,7 +55,7 @@ That many of the magnetic Americana heartmelters on <i>The Order of Time</i> wer
 
 - [Valerie June - The Front Door](https://www.youtube.com/watch?v=OT7jlvXIaSw)
 - [Valerie June - Long Lonely Road](https://www.youtube.com/watch?v=ntc8jL9VDmQ)
-- [Valerie June -  Astral Plane](https://www.youtube.com/watch?v=rN35g4eLQgg)
+- [Valerie June -  "Astral Plane"](https://www.youtube.com/watch?v=rN35g4eLQgg)
 - [Valerie June - Got Soul (Radio Edit)](https://www.youtube.com/watch?v=Zw_4QDxs6CI)
 - [Valerie June - Two Hearts](https://www.youtube.com/watch?v=HFFi4v2wq_8)
 

@@ -13,11 +13,14 @@ cover:
     caption: "The Light In You by Mercury Rev"
 additional_images:
     - "https://i.discogs.com/PP30SIUCIyhHVcjF2m6l4IVpjVg71PUBW--fxKwAw18/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1MjQw/MTgwLTE2NzU5Mjg3/NjgtMjgzMC5qcGVn.jpeg"
-    - "https://i.discogs.com/lJkyKa9ImAWYIOCVV2c7bzNId1Ep-PYkI980IXUby2E/rs:fit/g:sm/q:90/h:602/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1MjQw/MTgwLTE2NzU5Mjg3/NjMtMzI2OS5qcGVn.jpeg"
+    - "https://i.discogs.com/st3MJd5nev17hLT6Es6tRhGwiMa13F5ZXFz2hz_SSAk/rs:fit/g:sm/q:90/h:600/w:597/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1MjQw/MTgwLTE2NzU5Mjg3/NjMtMzI2OS5qcGVn.jpeg"
 genres: ["Rock"]
 styles: ["Indie Rock", "Psychedelic Rock"]
 ---
 
+The Light in You is the eighth studio album by American rock band Mercury Rev, released on September 18, 2015, by Bella Union. The Light in You is the band's first entirely self-produced and recorded album, as well as the first not to be produced by longtime collaborator Dave Fridmann.
+    
+    
 
 
 ## Tracklisting
@@ -56,6 +59,7 @@ styles: ["Indie Rock", "Psychedelic Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
+| Wikipedia URL | https://en.wikipedia.org/wiki/The_Light_in_You |
 | Format         | Vinyl LP |
 | Label          | Bella Union |
 | Catalog Number | BELLA504V |

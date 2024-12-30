@@ -4,6 +4,7 @@ artist_name: "New Order"
 artist: "new-order"
 album_name: "Substance"
 date: 2023-11-10T11:18:26.000000Z
+release_date: "1987-08-17"
 release_id: "28848151"
 slug: "substance-28848151"
 hideSummary: true
@@ -12,9 +13,9 @@ cover:
     alt: "Substance by New Order"
     caption: "Substance by New Order"
 additional_images:
-    - "https://i.discogs.com/tunnLoDdITIkDgfe-FQ3iQbc_nPS-qr-tCqpMWZ_Q-s/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4ODQ4/MTUxLTE2OTk1OTE4/MTUtMTUzNS5qcGVn.jpeg"
-    - "https://i.discogs.com/AHxjpbQ_bSWnXPhr70PR_XzYWBXvafFHLA2hcldFm28/rs:fit/g:sm/q:90/h:584/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4ODQ4/MTUxLTE2OTk1OTE4/MTYtNjMwNy5qcGVn.jpeg"
-    - "https://i.discogs.com/8rua0rDfmSN9EoOvsdV9AtNbnxEZjy_0J7GybiJrCMA/rs:fit/g:sm/q:90/h:601/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4ODQ4/MTUxLTE2OTk2NTk4/MTMtNTI5MC5qcGVn.jpeg"
+    - "https://i.discogs.com/2JNrbG27vY2W0qpR-59P9pVsxo7E1_aCIH6O3RZwMVA/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4ODQ4/MTUxLTE3MDYxMTgw/NTgtNDE2Ny5qcGVn.jpeg"
+    - "https://i.discogs.com/8Tf4RiSvVxAh_vlyz65yWqeQatDomJEigzT0yGqjoxo/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4ODQ4/MTUxLTE3MDYxMTgw/NjYtNDUzMi5qcGVn.jpeg"
+    - "https://i.discogs.com/wsz6l8fVq0cQfst8icVXITMJR-XVgqrserSE-rfvGQY/rs:fit/g:sm/q:90/h:600/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4ODQ4/MTUxLTE2OTk2NTk4/MTMtNTI5MC5qcGVn.jpeg"
     - "https://i.discogs.com/_Y4SnpT1hjy8OxjkfxiP2Cay4kK91FdK3JZNdzKx_kw/rs:fit/g:sm/q:90/h:594/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4ODQ4/MTUxLTE2OTk2NTk4/MTItNzY3My5qcGVn.jpeg"
     - "https://i.discogs.com/QwjTo9bRAiIlgSfWu8b3Ep7d9va0-lUOUtuy4bC6hs0/rs:fit/g:sm/q:90/h:588/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4ODQ4/MTUxLTE2OTk2NTk3/NzQtOTM3Ny5qcGVn.jpeg"
     - "https://i.discogs.com/EfsVnjIg9nXTMD4uabSoyc2DHEUw-lf1PVzJgCiLaRo/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4ODQ4/MTUxLTE2OTk2NTk4/MTAtMzcxMC5qcGVn.jpeg"
@@ -26,16 +27,19 @@ additional_images:
     - "https://i.discogs.com/oOiyURmojWJ6MA4v8MCS5ibj45e_XfiwuXK8wUrqvP0/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4ODQ4/MTUxLTE2OTk1OTE4/MTUtNDYwMC5qcGVn.jpeg"
     - "https://i.discogs.com/ogCec-fwvn4I72XomA2qLFbGeFvL2b4d4390qcFRVGw/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4ODQ4/MTUxLTE2OTk2NDIz/NTItMTQxMy5qcGVn.jpeg"
     - "https://i.discogs.com/d09cmeoSN6LxGH0gOHL6VT4Pz11NNSZmjkI58HjcYe8/rs:fit/g:sm/q:90/h:499/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4ODQ4/MTUxLTE2OTk2NTk4/MTItNDUwNi5qcGVn.jpeg"
+    - "https://i.discogs.com/m-7LXoOMhCyMdRv2UW13D1U_iHHhOzAifCzs5OZmlxY/rs:fit/g:sm/q:90/h:450/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4ODQ4/MTUxLTE2OTk3MTg0/MTktOTEzMi5qcGVn.jpeg"
+    - "https://i.discogs.com/vHsGNnDgLADjHv8MROcPQVlQMmEIk06Bp_5Of1dWjN4/rs:fit/g:sm/q:90/h:450/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4ODQ4/MTUxLTE2OTk3MTg0/MjEtMjA2Ny5qcGVn.jpeg"
 genres: ["Electronic", "Pop"]
 styles: ["Synth-pop", "New Wave"]
 ---
 
-Substance (also known as Substance 1987) is a compilation album by English alternative dance band New Order. It was released in August 1987 by Factory Records. The album compiles all of the band's singles at that point in their 12-inch versions, along with their respective B-side tracks. The then-newly released non-album single "True Faith" is also featured, along with its B-side "1963" and new versions of "Temptation" and "Confusion".
-Substance was released as a double LP (12 tracks), a double CD (24 tracks), a double cassette (24 or 28 tracks), a single cassette (12 tracks) in the U.S. and a digital audio tape (24 tracks). It sold over one million copies and became New Order's most popular and critically acclaimed album.
-It is the companion to a similar singles compilation by New Order's predecessor band Joy Division, also entitled Substance.
+By 1987, the members of New Order were at the height of their powers. They’d released four albums of revered electronic-flavoured rock that found them carrying the post-punk torch of their first band, Joy Division, while adopting dance and New Wave into their sound. And they’d let loose a series of club-centric singles inspired by New York’s thriving early-1980s post-disco, proto-house, early electro and Latin freestyle scenes—all of which helped push New Order further into the electronic dance music milieu. New Order dominated both college-rock radio and dance-music playlists.
 
+Unfortunately for fans, New Order’s music wasn’t always easy to track down. Club singles from the early 1980s—including the mammoth hit “Blue Monday”—were available only as 12-inch singles. The 1985 dance-floor classic “The Perfect Kiss” could be found on the album <i>Low-Life</i>, but only in truncated form. And 1986’s beloved “Bizarre Love Triangle” was released in a variety of versions. It was tough to collect all of the group’s smashes in one place.
 
-    
+A solution arrived in the form of 1987’s <i>Substance</i>, a two-disc compilation that contained a treasure trove of music. Yet the band members weren’t content with simply slapping a bunch of old recordings together. <i>Substance</i> opens with a new version of “Ceremony”, a track written by the four members of Joy Division while singer Ian Curtis was still alive, and recorded in March 1981 by the three surviving musicians as the first New Order single; the <i>Substance</i> version is a re-recording featuring member Gillian Gilbert adding guitars. Other early hits, like “Temptation” and “Confusion”, appear here in new, <i>Substance</i>-specific versions. Those updates give the album a sonic consistency. It also explains why many fans consider <i>Substance</i> to be their favourite New Order “album”—and why it became the only one to achieve platinum status.
+        
+        
     
 
 
@@ -54,22 +58,18 @@ It is the companion to a similar singles compilation by New Order's predecessor 
 12. True Faith
 
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/substance-2023-expanded-reissue/1706916897" >}}<br>
+{{< applemusic url="https://music.apple.com/gb/album/substance/1530256325" >}}<br>
 
 
 ## Videos
-### Ceremony
-{{< youtube id="kkASIx9Xk6s" title="Ceremony" >}}<br>
+### New Order (Substance; 1987) - Ceremony
+{{< youtube id="fi33-cITS0s" title="New Order (Substance; 1987) - Ceremony" >}}<br>
 ### More Videos
 
-- [Blue Monday](https://www.youtube.com/watch?v=TsgLhkjY4q0)
-- [The Perfect Kiss (Substance Edit)](https://www.youtube.com/watch?v=aXMw9f77BEc)
-- [Bizarre Love Triangle (Extended Dance Mix)](https://www.youtube.com/watch?v=PDCeGZ3n8jY)
 - [Sub-culture (Substance Edit)](https://www.youtube.com/watch?v=6H7wyPSinUU)
-- [New Order - True Faith (1987) (Official Music Video) [HD REMASTERED]](https://www.youtube.com/watch?v=mfI1S0PKJR8)
-- [New Order - Everything's Gone Green (Official Lyric Video)](https://www.youtube.com/watch?v=Aaf-eqg8dvo)
-- [Thieves like Us (12 Extended)](https://www.youtube.com/watch?v=2s3aA40o5r0)
-- [Confusion](https://www.youtube.com/watch?v=jFj1n0fdgVs)
+- [New Order - Shellshock (Substance - 1987)](https://www.youtube.com/watch?v=zcB_IqzUEaA)
+- [State of the Nation](https://www.youtube.com/watch?v=lXHnRbNU2AU)
+- [1963](https://www.youtube.com/watch?v=2rpasa6EIRs)
 
 ## Release Images
 {{< imageGrid >}}
@@ -78,7 +78,7 @@ It is the companion to a similar singles compilation by New Order's predecessor 
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Substance_1987 |
-| Format         | Vinyl LP (Red), Vinyl LP (Blue), All Media Compilation Reissue Remastered (180g) |
+| Format         | Vinyl LP (Red Translucent), Vinyl LP (Blue Translucent), All Media Compilation Reissue Remastered (180g) |
 | Label          | Factory |
 | Catalog Number | Fact 200 |
 | Notes | Indie exclusive pressing, distributed in an embossed sleeve. Barcode as a sticker on sleeve rather than printed on the sleeve.  Hype sticker on shrink-wrap: "New Order - Substance  Remastered double LP red and blue vinyl  Fact 200"   Inner sleeves: 1987 Factory Communications Limited  A Factory Record ℗ 1987, 2023 Warner Music UK Ltd. © 2023 Warner Music UK Ltd.  In variant 2 runouts, "21", "1|", and "1△" are mirrored. All is etched.  |

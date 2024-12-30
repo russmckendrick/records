@@ -27,7 +27,7 @@ genres: ["Electronic", "Rock"]
 styles: ["Downtempo", "Shoegaze"]
 ---
 
-We Can Create is the debut album from Northampton-based artist Maps, released in 2007. It was shortlisted for the 2007 Mercury Music Prize, but lost out to Klaxons debut album Myths of the Near Future. Five singles were released from the album.
+We Can Create is the debut album from Northampton-based artist Maps, released digitally on 16 April 2007, and physically on 14 May 2007. It was shortlisted for the 2007 Mercury Music Prize, but lost out to Klaxons debut album Myths of the Near Future. Five singles were released from the album.
     
     
 
@@ -54,14 +54,14 @@ We Can Create is the debut album from Northampton-based artist Maps, released in
 {{< youtube id="bHSQsbSAuHQ" title="Make Yourself Exist" >}}<br>
 ### More Videos
 
-- [Maps, 'You Don't Know Her Name'](https://www.youtube.com/watch?v=AJgtYk5Pd9M)
 - [We're Not in Kansas Anymore](https://www.youtube.com/watch?v=oANfQ7Br1IA)
-- [MAPS - ELOUISE](https://www.youtube.com/watch?v=ouY5RBOOrPE)
 - [Start Something](https://www.youtube.com/watch?v=dTITpNVU1T4)
-- [Maps - Elouise (Studio-Version)](https://www.youtube.com/watch?v=XVU75kz91dE)
 - [Fall Apart](https://www.youtube.com/watch?v=_9N6YlDUxzU)
-- [Maps - To The Sky](https://www.youtube.com/watch?v=9dHiOJ_JNJM)
 - [In Chemistry (Edit)](https://www.youtube.com/watch?v=TCTStfBoQyk)
+- [Maps, 'You Don't Know Her Name'](https://www.youtube.com/watch?v=AJgtYk5Pd9M)
+- [MAPS - ELOUISE](https://www.youtube.com/watch?v=ouY5RBOOrPE)
+- [Maps - Elouise (Studio-Version)](https://www.youtube.com/watch?v=XVU75kz91dE)
+- [Maps - To The Sky](https://www.youtube.com/watch?v=9dHiOJ_JNJM)
 
 ## Release Images
 {{< imageGrid >}}

@@ -23,6 +23,13 @@ genres: ["Rock", "Funk / Soul", "Pop"]
 styles: ["Glam", "Pop Rock", "Soul"]
 ---
 
+Changesonebowie is a compilation album by English musician David Bowie, issued through RCA Records in 1976. It collected songs from the 1969–1976 period, including the first LP appearance of "John, I'm Only Dancing". A "sax version" of this song, cut during the Aladdin Sane sessions in 1973, appeared on the first 1000 copies of the UK pressing (identified by the lack of the RCA logo in the upper-right corner of the cover). Later pressings of Changesonebowie featured the original version of the single that had been recorded and released in 1972. All US pressings of the LP contain this original version as well.
+Two of the tracks, "Ziggy Stardust" and "Suffragette City", had never been released as singles when Changesonebowie was issued, though the former had been the B-side of "The Jean Genie" in November 1972 and the latter would be released as an A-side in July 1976 to help promote the compilation.
+The album was followed up by a companion compilation, Changestwobowie, in 1981.
+
+
+    
+    
 
 
 ## Tracklisting
@@ -50,6 +57,7 @@ styles: ["Glam", "Pop Rock", "Soul"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
+| Wikipedia URL | https://en.wikipedia.org/wiki/Changesonebowie |
 | Format         | Vinyl LP Compilation Reissue (Clear, 180g) |
 | Label          | Parlophone |
 | Catalog Number | COBLP 2016 |

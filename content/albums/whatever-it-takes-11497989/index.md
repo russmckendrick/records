@@ -16,8 +16,8 @@ additional_images:
     - "https://i.discogs.com/aeWxxPMOnxeuOY27f4sCKfaMT2uJIkENYXS0PI4VTVM/rs:fit/g:sm/q:90/h:593/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNDk3/OTg5LTE1MTc0MDUz/NDItMTUxNS5qcGVn.jpeg"
     - "https://i.discogs.com/bwi5AJ6Dqye5HxsQ1Kk40u732f4YtjyLu5uBVRNxnsE/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNDk3/OTg5LTE1MTc0MDU0/NDctNDY1My5qcGVn.jpeg"
     - "https://i.discogs.com/TP7g4WeI-mtExUCxNlnIVW9mScbsKEoAbC4T0v6d5R4/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNDk3/OTg5LTE1MTc0MDU0/ODctOTY4OS5qcGVn.jpeg"
-    - "https://i.discogs.com/kgBitYGNZHbKPO79rlcGPBgFTXaLL402V76B99eH6YQ/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNDk3/OTg5LTE1MTc0MDU1/MTAtMzY5OC5qcGVn.jpeg"
-    - "https://i.discogs.com/9eilmwMc9x_xIXrG5D1iDI0bP-Rymmj3WJE8qMm9Log/rs:fit/g:sm/q:90/h:800/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNDk3/OTg5LTE1MTk5OTEx/MzItNzc4My5qcGVn.jpeg"
+    - "https://i.discogs.com/sfdrsm-9O377GNCxzgSGR1a8wZ22Yikwho9QJJXY8gk/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNDk3/OTg5LTE1MTc0MDU1/MTAtMzY5OC5qcGVn.jpeg"
+    - "https://i.discogs.com/njg74uzhrmFkZSuk-1IDRbGYmpNmy0Zd0A19jrdlYAc/rs:fit/g:sm/q:90/h:600/w:450/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNDk3/OTg5LTE1MTk5OTEx/MzItNzc4My5qcGVn.jpeg"
 genres: ["Funk / Soul", "Blues"]
 styles: ["Rhythm & Blues"]
 ---
@@ -45,6 +45,16 @@ styles: ["Rhythm & Blues"]
 {{< youtube id="Y7Kc_zDU2RI" title="I Don't Wanna Be Without You" >}}<br>
 ### More Videos
 
+- [Whatever It Takes](https://www.youtube.com/watch?v=s---v0I-fnc)
+- [I Got Eyes](https://www.youtube.com/watch?v=JLY3mzivXRA)
+- [Mm-Hmm](https://www.youtube.com/watch?v=KuYL9szNGsI)
+- [Blisters](https://www.youtube.com/watch?v=yVpO4R8qd7w)
+- [I Should've Spoke Up](https://www.youtube.com/watch?v=di90SP63Ahg)
+- [Show Her](https://www.youtube.com/watch?v=3Sb0Rx_O8rc)
+- [Don't Let Pride Take You for a Ride](https://www.youtube.com/watch?v=6SQGydlB8ls)
+- [It Was Gonna Be You](https://www.youtube.com/watch?v=kE0CaexS6JM)
+- [How Long](https://www.youtube.com/watch?v=3HJ_nr4ycbs)
+- [I Don't Wanna Be Without You](https://www.youtube.com/watch?v=Y7Kc_zDU2RI)
 - [Whatever It Takes](https://www.youtube.com/watch?v=s---v0I-fnc)
 - [I Got Eyes](https://www.youtube.com/watch?v=JLY3mzivXRA)
 - [Mm-Hmm](https://www.youtube.com/watch?v=KuYL9szNGsI)

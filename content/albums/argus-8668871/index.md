@@ -26,7 +26,7 @@ genres: ["Rock"]
 styles: ["Hard Rock", "Classic Rock"]
 ---
 
-Argus is the third album by the British rock band Wishbone Ash, released on 28 April 1972. It is their most commercially and critically successful album. It peaked at No. 3 in the UK Albums Chart.
+Argus is the third album by the British rock band Wishbone Ash, released on 28 April 1972. It is their most commercially and critically successful album, peaking at No. 3 in the UK Albums Chart.
 
 
     
@@ -43,22 +43,10 @@ Argus is the third album by the British rock band Wishbone Ash, released on 28 A
 7. Throw Down The Sword
 
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/the-essential-collection/1443329907" >}}<br>
+{{< applemusic url="https://music.apple.com/gb/album/wishbone-ash/1443237340" >}}<br>
 
 
-## Videos
-### Wishbone Ash ► Phoenix ✤ Live at the BBC 1972 [HQ Audio]
-{{< youtube id="iIbHRX8hO64" title="Wishbone Ash ► Phoenix ✤ Live at the BBC 1972 [HQ Audio]" >}}<br>
-### More Videos
 
-- [Wishbone Ash ► Phoenix  Live from Memphis 1972 [HQ Audio]](https://www.youtube.com/watch?v=YXV7vdpqwFA)
-- [Wishbone Ash - The King Will Come](https://www.youtube.com/watch?v=Tna0Mmu1XlI)
-- [Wishbone Ash - Sometime World](https://www.youtube.com/watch?v=kvLVSPPLZZY)
-- [Wishbone Ash - Blowin' Free](https://www.youtube.com/watch?v=mUolWNHxRiM)
-- [Wishbone Ash - Throw Down The Sword](https://www.youtube.com/watch?v=LByiVlc6czA)
-- [Wishbone Ash - Time Was](https://www.youtube.com/watch?v=SjIvjmJQJYE)
-- [Wishbone Ash - Warrior](https://www.youtube.com/watch?v=U5X_Dd_6Czk)
-- [Wishbone Ash - Leaf and Stream](https://www.youtube.com/watch?v=ZB6fCuxGvAw)
 
 ## Release Images
 {{< imageGrid >}}

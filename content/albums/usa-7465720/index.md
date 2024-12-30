@@ -24,7 +24,7 @@ genres: ["Rock"]
 styles: ["Prog Rock"]
 ---
 
-USA is a live album by the English band King Crimson, released in 1975. It was recorded at the Casino, Asbury Park, New Jersey, on 28 June 1974, except “21st Century Schizoid Man”, which was recorded at the Palace Theatre, Providence, Rhode Island, United States, on 30 June 1974. Violin and electric piano overdubs by Eddie Jobson were recorded at Olympic Studios, London in 1975.
+USA is a live album by the English progressive rock band King Crimson, released in 1975. It was recorded at the Casino, Asbury Park, New Jersey, on 28 June 1974, except “21st Century Schizoid Man”, which was recorded at the Palace Theatre, Providence, Rhode Island, United States, on 30 June 1974. Violin and electric piano overdubs by Eddie Jobson were recorded at Olympic Studios, London in 1975.
 The live recording was performed by George Chkiantz and David Hewitt using the Record Plant Remote Truck. 
 “Asbury Park” and “Easy Money” were edited to about half their original lengths for the LP release. The unedited versions were released digitally on dgmlive.com in 2005, along with the rest of the show in original running order.
 The album opens with a brief excerpt of "The Heavenly Music Corporation" from (No Pussyfooting), an album Robert Fripp recorded with musician and producer Brian Eno.  While it was not listed as a separate track on the original album, it is present on all releases. 
@@ -54,9 +54,18 @@ Original vinyl release in 1975.  Includes tracks 1 - 6 (although track 1 & 2 are
 
 
 ## Videos
-### King Crimson - Larks Tongues In Aspic Part II (USA album)
-{{< youtube id="HYF3KU-UALg" title="King Crimson - Larks Tongues In Aspic Part II (USA album)" >}}<br>
+### Walk On - No Pussyfooting - Live
+{{< youtube id="xM2t5Z-XgXw" title="Walk On - No Pussyfooting - Live" >}}<br>
+### More Videos
 
+- [Larks' Tongues In Aspic Part II - Live](https://www.youtube.com/watch?v=Ql_kW_zXiuY)
+- [Lament - Live](https://www.youtube.com/watch?v=Ar9Y6H6MjFQ)
+- [Exiles - Live](https://www.youtube.com/watch?v=qsP49QAxsHE)
+- [Asbury Park - Live](https://www.youtube.com/watch?v=aOg5NSJFKqM)
+- [Easy Money - Live](https://www.youtube.com/watch?v=6G9YOvX76D4)
+- [21st Century Schizoid Man - Live](https://www.youtube.com/watch?v=4kO44O4-BgU)
+- [Starless - Live](https://www.youtube.com/watch?v=JHkEIN6HdFI)
+- [Fracture - Live](https://www.youtube.com/watch?v=rJHCl6NjCcE)
 
 ## Release Images
 {{< imageGrid >}}

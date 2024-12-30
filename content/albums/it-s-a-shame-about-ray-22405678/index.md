@@ -25,6 +25,9 @@ genres: ["Rock"]
 styles: ["Alternative Rock", "Indie Rock"]
 ---
 
+It's a Shame About Ray is the fifth album by American alternative rock band the Lemonheads, released on June 2, 1992.  The album was produced by the Robb Brothers. At the time of principal recording, the band consisted of Evan Dando (lead vocals, guitar), Juliana Hatfield (bass, backing vocals) and David Ryan (drums). Though not originally on the album, the band's cover of Simon & Garfunkel's "Mrs. Robinson" was added to the album in later pressings after it had become a major worldwide radio hit, and it features a later lineup of the band with Nic Dalton on bass.
+    
+    
 
 
 ## Tracklisting
@@ -61,20 +64,24 @@ styles: ["Alternative Rock", "Indie Rock"]
 31. Confetti
 
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/its-a-shame-about-ray-expanded-edition/1667654799" >}}<br>
+{{< applemusic url="https://music.apple.com/gb/album/its-a-shame-about-ray-ep/1716979934" >}}<br>
 
 
 ## Videos
-### Lemonheads - Rudderless (Album version)
-{{< youtube id="NofWFKSMiM4" title="Lemonheads - Rudderless (Album version)" >}}<br>
+### The Lemonheads - My Drug Buddy (Video)
+{{< youtube id="DCOKAYIBmng" title="The Lemonheads - My Drug Buddy (Video)" >}}<br>
 ### More Videos
 
-- [The Turnpike Down (Remastered)](https://www.youtube.com/watch?v=LKjeqYxK8_0)
-- [The Lemonheads - It's A Shame About Ray (Official Video)](https://www.youtube.com/watch?v=NdU0fQzt0h8)
+- [The Lemonheads - My Drug Buddy (Official Video)](https://www.youtube.com/watch?v=Y7n7SKD40p8)
+- [The Lemonheads - My Drug Buddy (Remastered)](https://www.youtube.com/watch?v=3j6DxgyPLCs)
+- [My Drug Buddy](https://www.youtube.com/watch?v=bivoFhU0Vac)
+- [Lemonheads - Rudderless (Album version)](https://www.youtube.com/watch?v=NofWFKSMiM4)
 - [Lemonheads - Bit part (studio verison)](https://www.youtube.com/watch?v=ca6N9FN-rbQ)
-- [It's A Shame About Ray (Demo Version)](https://www.youtube.com/watch?v=EKGAk4TUdEQ)
 - [The Lemonheads - Alison's Starting To Happen](https://www.youtube.com/watch?v=R_NwXtO9MI8)
+- [The Turnpike Down (Remastered)](https://www.youtube.com/watch?v=LKjeqYxK8_0)
+- [It's A Shame About Ray (Demo Version)](https://www.youtube.com/watch?v=EKGAk4TUdEQ)
 - [Rockin Stroll (Remastered)](https://www.youtube.com/watch?v=jet27-LRviQ)
+- [The Lemonheads - It's A Shame About Ray (Official Video)](https://www.youtube.com/watch?v=NdU0fQzt0h8)
 
 ## Release Images
 {{< imageGrid >}}
@@ -82,6 +89,7 @@ styles: ["Alternative Rock", "Indie Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
+| Wikipedia URL | https://en.wikipedia.org/wiki/It%27s_a_Shame_About_Ray |
 | Format         | Vinyl 2× LP Album Limited Edition Reissue Remastered (Gold) |
 | Label          | Fire Records |
 | Catalog Number | FIRELP624 |

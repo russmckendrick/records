@@ -14,14 +14,14 @@ cover:
 additional_images:
     - "https://i.discogs.com/0WsjCx_L6HXxGsjK29vcGZzzSJPS07Y28wUftgJXQpY/rs:fit/g:sm/q:90/h:480/w:480/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NzY2/MDgwLTE1OTc0MDI2/NTEtMjAxMy5qcGVn.jpeg"
     - "https://i.discogs.com/l56PJ0p19HH56CR1RS2RQ7RcmV8yKtslbUJOhOd5nMw/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NzY2/MDgwLTE1OTg1MjM4/MjQtNjA5Ni5qcGVn.jpeg"
-    - "https://i.discogs.com/cm9XUm4z7hup6bSaboYGeAWrJH8INWI4UP_gjiNukNM/rs:fit/g:sm/q:90/h:601/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NzY2/MDgwLTE1OTg1MjM4/MjQtOTU1My5qcGVn.jpeg"
+    - "https://i.discogs.com/8k_CrK3apZAiIDjnmtsvcjgwhDaQAdjzusdGEif4yAA/rs:fit/g:sm/q:90/h:600/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NzY2/MDgwLTE1OTg1MjM4/MjQtOTU1My5qcGVn.jpeg"
     - "https://i.discogs.com/fxxWF4Ot1KlvjdBRGcBLoQ6KyaPA-vPVvB1DVI3nRis/rs:fit/g:sm/q:90/h:575/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NzY2/MDgwLTE1OTg1MjM4/MjMtNjQ3Mi5qcGVn.jpeg"
     - "https://i.discogs.com/l8-_mzUtcn9DSoAx7H2Rm5hcYWZNtQqXEJuFelUH9P0/rs:fit/g:sm/q:90/h:570/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NzY2/MDgwLTE1OTg1MjM4/MjMtNjM4MC5qcGVn.jpeg"
-    - "https://i.discogs.com/PUhVswoC1Oa9M-2gXux7SphncsSUijwhqjLy9tb0ia8/rs:fit/g:sm/q:90/h:611/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NzY2/MDgwLTE1OTg1MjM4/MjQtNzA0OC5qcGVn.jpeg"
-    - "https://i.discogs.com/SuflOzN78zN_CO3FPU7PLF8-gxMVxfnWHF2xvry-ZMc/rs:fit/g:sm/q:90/h:603/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NzY2/MDgwLTE1OTg1MjM4/MjQtNTYzMy5qcGVn.jpeg"
+    - "https://i.discogs.com/xLqCJ8zF_azrbgTK9wVrGmWZI4nO-AXY5ShlyNVBek4/rs:fit/g:sm/q:90/h:600/w:588/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NzY2/MDgwLTE1OTg1MjM4/MjQtNzA0OC5qcGVn.jpeg"
+    - "https://i.discogs.com/W1jHft1TXFihDJ4-r86WrC4OJsn0Gh2Z3MWKib4yG3s/rs:fit/g:sm/q:90/h:600/w:596/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NzY2/MDgwLTE1OTg1MjM4/MjQtNTYzMy5qcGVn.jpeg"
     - "https://i.discogs.com/oOmUTfqbwNvRt--awJFw_nVK2Xs5Aug0JvrwFhfD1Ag/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NzY2/MDgwLTE1OTg1MjM4/MjQtNjUwNC5qcGVn.jpeg"
-    - "https://i.discogs.com/2zNiRu1FpY1Yz50LyBJsSilIDj54y2vEfZNzKfwIWsI/rs:fit/g:sm/q:90/h:604/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NzY2/MDgwLTE1OTg1MjM4/MTktMzk3Ny5qcGVn.jpeg"
-    - "https://i.discogs.com/eoZSfnBQJI4DpSycJ_1uKsQtA6AHl3k1DLILjNd13Tk/rs:fit/g:sm/q:90/h:604/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NzY2/MDgwLTE1OTg1MjM4/MjAtOTAwNy5qcGVn.jpeg"
+    - "https://i.discogs.com/RT2BLi-6OYVKRKnV_-dTVa6royWQD6fzgpolY6Momto/rs:fit/g:sm/q:90/h:600/w:595/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NzY2/MDgwLTE1OTg1MjM4/MTktMzk3Ny5qcGVn.jpeg"
+    - "https://i.discogs.com/0qA6j8WJ9yj3Qvnh_e8qeB4Sj89nXHA3z0SUALEEXmA/rs:fit/g:sm/q:90/h:600/w:595/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NzY2/MDgwLTE1OTg1MjM4/MjAtOTAwNy5qcGVn.jpeg"
 genres: ["Rock", "Pop"]
 styles: ["Alternative Rock"]
 ---
@@ -55,6 +55,12 @@ styles: ["Alternative Rock"]
 - [BIG Boy](https://www.youtube.com/watch?v=CRUMIlyIW1g)
 - [Pop Up Jim Bob Unboxing](https://www.youtube.com/watch?v=Vv-EEglCd90)
 - [POP UP TV   HD 720p](https://www.youtube.com/watch?v=bFcl6RiEFYY)
+- [Jim Bob - Jo's Got Papercuts [Official Video]](https://www.youtube.com/watch?v=OqRWb9JQW_0)
+- [Jim Bob: Pop Up Jim Bob [CD / Limited Edition Vinyl LP with 2021 Jim Bob Calendar]](https://www.youtube.com/watch?v=hICaKXpoMCw)
+- [Jim Bob - If it Ain't Broke (Official Video)](https://www.youtube.com/watch?v=FtJDa_UMDFE)
+- [BIG Boy](https://www.youtube.com/watch?v=CRUMIlyIW1g)
+- [Pop Up Jim Bob Unboxing](https://www.youtube.com/watch?v=Vv-EEglCd90)
+- [POP UP TV   HD 720p](https://www.youtube.com/watch?v=bFcl6RiEFYY)
 
 ## Release Images
 {{< imageGrid >}}
@@ -66,4 +72,4 @@ styles: ["Alternative Rock"]
 | Label          | Cherry Red |
 | Catalog Number | BRED808 |
 | Notes | Gatefold sleeve.  2021 Jim Bob Calendar included |
-| Discogs URL    | [Jim Bob - Pop Up Jim Bob](https://www.discogs.com/release/15766080-Jim-Bob-Pop-Up-Jim-Bob) |
+| Discogs URL    | [Jim Bob - Pop Up Jim Bob](https://www.discogs.com/release/15766080-Jim-Bob-2-Pop-Up-Jim-Bob) |

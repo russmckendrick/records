@@ -68,5 +68,5 @@ Vocalist/guitarist Mike Vennart states that: When Jon [Ellis] left I thought we 
 | Format         | Vinyl 3× LP Album |
 | Label          | Kscope |
 | Catalog Number | KSCOPE1249 |
-| Notes | Hype sticker: Oceansize - Frames. Presented on 3LP for the first time. Includes "Voorhees". Plus 2 bonus tracks previously only available on myspace. 8 page booklet with previously unseen photos and essay by Remfry Dedman. kscope 1249. kscopemusic.com/Oceansize |
+| Notes | Hype sticker: Oceansize - Frames. Presented on 3LP for the first time. Includes "Voorhees". Plus 2 bonus tracks previously only available on myspace. 8 page booklet with previously unseen photos and essay by Remfry Dedman. kscope 1249. kscopemusic.com/Oceansize  Limited to 1000 copies - confirmed by Mike Vennart on Instagram. |
 | Discogs URL    | [Oceansize - Frames](https://www.discogs.com/release/32607300-Oceansize-Frames) |

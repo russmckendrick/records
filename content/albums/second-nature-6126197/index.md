@@ -13,19 +13,26 @@ cover:
     caption: "Second Nature by Flying Colors"
 additional_images:
     - "https://i.discogs.com/bkfs-YGr84Q1u5vHgcU5ylcRdRnpc4YCiKS7T3YtQtY/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYxMjYx/OTctMTQxMTcxODg1/Mi02OTk4LmpwZWc.jpeg"
-    - "https://i.discogs.com/BzrjnjG7OoGMOo4MHaHFsHxCTIGMccLmcIVD4RNuCrw/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYxMjYx/OTctMTQxNTIxNTQx/MS02NzE4LmpwZWc.jpeg"
+    - "https://i.discogs.com/aAoUGsZb_6vwkgVvBZxn_UJw-bryp21Kr6PJJGENflI/rs:fit/g:sm/q:90/h:591/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYxMjYx/OTctMTY5ODIxMjA0/Mi01NTU5LmpwZWc.jpeg"
+    - "https://i.discogs.com/ODt7bIfDTUloOKlefsNiKV5lPsEhktvqJ_Z1_cF9q1Q/rs:fit/g:sm/q:90/h:586/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYxMjYx/OTctMTY5ODIxMjA0/MS0zNDUzLmpwZWc.jpeg"
+    - "https://i.discogs.com/2FCYl9iIGHPevyxSOKVU6WYt0S_ATyCoi0HhUKkedjs/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYxMjYx/OTctMTY5ODIxMjE3/NC02MDg0LmpwZWc.jpeg"
     - "https://i.discogs.com/iHFSGhaORuVvIQlxEEnT0d4eY2DdjM7AV3iROGAmAU4/rs:fit/g:sm/q:90/h:291/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYxMjYx/OTctMTQxNTIxNTQ0/Ny04NDY4LmpwZWc.jpeg"
-    - "https://i.discogs.com/YxDvodoyCLxWlnh13RfdBMCtBzn6q0Q-z9MAm1Aubwk/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYxMjYx/OTctMTQxNTIxNTUy/My02NTQ1LmpwZWc.jpeg"
-    - "https://i.discogs.com/oe33iq4By2BhWtvQLJctrGa8-FhdlvTPNhq1jK5dtLo/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYxMjYx/OTctMTQxNTIxNTUy/OC03OTYwLmpwZWc.jpeg"
-    - "https://i.discogs.com/vay4OwQt2VCBGumN6df8XN7uttFxUywDNit-tpe6p40/rs:fit/g:sm/q:90/h:607/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYxMjYx/OTctMTQxNDUyNzc2/OC0yMTUzLmpwZWc.jpeg"
+    - "https://i.discogs.com/ipKzNQZrenjKdTb4tmYq0y8bDSFPV2ePb7KWuQ8cb_k/rs:fit/g:sm/q:90/h:600/w:593/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYxMjYx/OTctMTQxNDUyNzc2/OC0yMTUzLmpwZWc.jpeg"
     - "https://i.discogs.com/rlfeGCU_UfkUepzFk5oNBmxxJM5IsI7s-bIEchQuNYM/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYxMjYx/OTctMTQxNDUyNzc5/Mi0yMzM4LmpwZWc.jpeg"
-    - "https://i.discogs.com/CvzCxR3T3VnyewGoMFm-GLnmpwHCqskoSW5fy-NlORA/rs:fit/g:sm/q:90/h:606/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYxMjYx/OTctMTQxNDUyNzgw/NS0yMTAwLmpwZWc.jpeg"
+    - "https://i.discogs.com/vex0X_ShD27AxLue10HbA9K1RRVFlQbRFY1A86JWHNo/rs:fit/g:sm/q:90/h:600/w:594/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYxMjYx/OTctMTQxNDUyNzgw/NS0yMTAwLmpwZWc.jpeg"
     - "https://i.discogs.com/F8cMPZnd7Z4ZtZ1U1PhGfrXp18BLvrF-JbsDXLy1Mc8/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYxMjYx/OTctMTQxNDUyNzgy/NC04NjI1LmpwZWc.jpeg"
+    - "https://i.discogs.com/IM4JZSz_E0uVOnOCH045Lh7Mz-zYv48K8hhcs1MwbJk/rs:fit/g:sm/q:90/h:585/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYxMjYx/OTctMTY5ODIxMjA0/My0yMjMwLmpwZWc.jpeg"
+    - "https://i.discogs.com/-RrCg7Qiai3OxOH_-VNFAXAUBbkAZRzo735NQ9Nl8tc/rs:fit/g:sm/q:90/h:584/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYxMjYx/OTctMTY5ODIxMjA0/Mi04NjkwLmpwZWc.jpeg"
+    - "https://i.discogs.com/zpLFLSzpxyE7orUc_LudNoNHfSI51UVimxSNzJpweII/rs:fit/g:sm/q:90/h:586/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYxMjYx/OTctMTY5ODIxMjE3/Ni00NTEzLmpwZWc.jpeg"
+    - "https://i.discogs.com/rh56FEtiHT6UNR0_0sLNWMBqDVoTYv6f9K6vmDR2cbE/rs:fit/g:sm/q:90/h:586/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYxMjYx/OTctMTY5ODIxMjE3/Ni04NDc3LmpwZWc.jpeg"
+    - "https://i.discogs.com/_xnWoweOIKHVGGClto9eIsw-gtpnRQ-YfxYGgT-apkc/rs:fit/g:sm/q:90/h:558/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYxMjYx/OTctMTY5ODIxMjAz/OC01NjM5LmpwZWc.jpeg"
 genres: ["Rock"]
 styles: ["Prog Rock"]
 ---
 
 Second Nature is the second studio album by the American supergroup Flying Colors, that was released in Europe on September 29, 2014, in the US on September 30, and in the UK on October 6. On August 19, Loudwire premiered the video for the album's first single "Mask Machine". Soon after, Classic Rock premiered the song for Europe. On September 22, the entire album began streaming on the Prog magazine website.
+
+
     
     
 
@@ -42,7 +49,7 @@ Second Nature is the second studio album by the American supergroup Flying Color
 9. Cosmic Symphony (11:46)
 
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/second-nature-deluxe-edition/1600467187" >}}<br>
+{{< applemusic url="https://music.apple.com/gb/album/flying-fires-and-colors/1595339458" >}}<br>
 
 
 ## Videos
@@ -50,6 +57,12 @@ Second Nature is the second studio album by the American supergroup Flying Color
 {{< youtube id="vXj2VF9eLYg" title="Flying Colors - Open Up Your Eyes" >}}<br>
 ### More Videos
 
+- [Flying Colors - Cosmic Symphony](https://www.youtube.com/watch?v=mUYEWrsRSU4)
+- [Flying Colors - Second Nature "2014"](https://www.youtube.com/watch?v=L8ysiXXCYsE)
+- [Flying Colors - Mask Machine (Official Music Video)](https://www.youtube.com/watch?v=FdnKddL9giw)
+- [Flying Colors - Bombs Away (Second Nature)](https://www.youtube.com/watch?v=YiMSr6zPIrw)
+- [Flying Colors - Fury Of My Love (Official Video)](https://www.youtube.com/watch?v=v_rQYZH5kWw)
+- [Flying Colors - Open Up Your Eyes](https://www.youtube.com/watch?v=vXj2VF9eLYg)
 - [Flying Colors - Cosmic Symphony](https://www.youtube.com/watch?v=mUYEWrsRSU4)
 
 ## Release Images

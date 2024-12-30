@@ -21,11 +21,11 @@ additional_images:
     - "https://i.discogs.com/OP17xKkBgsAmYl0Uh7_eFNXB99r4PlUBD7ydt6JQh5g/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkwMjI1/NjItMTY1MzcxNzcy/MC0zMjA3LmpwZWc.jpeg"
     - "https://i.discogs.com/k6Xwi1OLAAlG6x35L-ginW6OaRcgJ1HmF1qRTf8YZDA/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkwMjI1/NjItMTY1MzcxNzcy/MS03MjA4LmpwZWc.jpeg"
     - "https://i.discogs.com/FvpvMnLYWkW9WRx4E9WpID1FXEW47Dg6sapn7S3_obM/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkwMjI1/NjItMTY1MzcxNzcy/Mi0xOTU2LmpwZWc.jpeg"
-    - "https://i.discogs.com/UAqC6nlz_wWhzKCWZFYCDiaXK6cfczlXuIKKCXn5iAQ/rs:fit/g:sm/q:90/h:845/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkwMjI1/NjItMTY1MzcxNzcy/MS0yODk3LmpwZWc.jpeg"
+    - "https://i.discogs.com/mJPVtGNf9mm2gl9u_DaY1SPuHL2yJWSX2sEQ4sthctA/rs:fit/g:sm/q:90/h:600/w:425/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkwMjI1/NjItMTY1MzcxNzcy/MS0yODk3LmpwZWc.jpeg"
     - "https://i.discogs.com/SkmhY9hrpVBLngk552kssB1-Lj4ire9YCnbKcvNXIJI/rs:fit/g:sm/q:90/h:587/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkwMjI1/NjItMTU3ODY3NDgx/MS00MzY1LmpwZWc.jpeg"
     - "https://i.discogs.com/dEjrlYDzRnFd9c8Wih88AhPkJCN3biYqA3Q9K3jmOE8/rs:fit/g:sm/q:90/h:548/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkwMjI1/NjItMTU3ODY3NDgy/Mi0zNjAwLmpwZWc.jpeg"
     - "https://i.discogs.com/2YFqUMLzzTcCVLqgsQzdOZFfwvZjLTk6cg0yGhQSmWI/rs:fit/g:sm/q:90/h:588/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkwMjI1/NjItMTU3ODY3NDgy/Ni0xNzE3LmpwZWc.jpeg"
-    - "https://i.discogs.com/63FrW1OWPsGD7r0j4YrKfRW281-RnS8eSqjgPSWUk_0/rs:fit/g:sm/q:90/h:639/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkwMjI1/NjItMTU3ODY3NDgz/Ni02MDA5LmpwZWc.jpeg"
+    - "https://i.discogs.com/pR_JKgUNmpYa06rhY2-3ILGn2uQ-JzBBvU7j2HTzJzE/rs:fit/g:sm/q:90/h:600/w:562/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkwMjI1/NjItMTU3ODY3NDgz/Ni02MDA5LmpwZWc.jpeg"
 genres: ["Stage & Screen"]
 styles: ["Soundtrack", "Score"]
 ---
@@ -66,6 +66,8 @@ styles: ["Soundtrack", "Score"]
 {{< youtube id="lVll1epJBHU" title="Mr. Robot Volume 2 - Mac Quayle - Soundtrack Preview (Official Video)" >}}<br>
 ### More Videos
 
+- [Mr. Robot Volume 1 - Mac Quayle - Soundtrack Preview (Official Video)](https://www.youtube.com/watch?v=-B--tEBZwCg)
+- [Mr. Robot Volume 2 - Mac Quayle - Soundtrack Preview (Official Video)](https://www.youtube.com/watch?v=lVll1epJBHU)
 - [Mr. Robot Volume 1 - Mac Quayle - Soundtrack Preview (Official Video)](https://www.youtube.com/watch?v=-B--tEBZwCg)
 
 ## Release Images

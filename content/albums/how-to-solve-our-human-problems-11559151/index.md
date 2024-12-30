@@ -20,7 +20,7 @@ additional_images:
     - "https://i.discogs.com/Vs9KLaYfr4BBLbRfSPg_6bhhQQ0MY6SHN_yp3qMHlMk/rs:fit/g:sm/q:90/h:585/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNTU5/MTUxLTE1MTkyMjA1/NDMtMzgzOC5qcGVn.jpeg"
     - "https://i.discogs.com/pdL-dfuVkMc33qb27HDmU-ISClRp1ftAQdjrhGry-bo/rs:fit/g:sm/q:90/h:584/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNTU5/MTUxLTE1MTkyMjA1/NDgtOTEwNS5qcGVn.jpeg"
     - "https://i.discogs.com/08z-0VKI3uAq4AtMtEFIRVNKg3I3GbzpqWgLmhoFdyA/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNTU5/MTUxLTE1MTkyMjA1/NTMtMzEzMC5qcGVn.jpeg"
-    - "https://i.discogs.com/TB1okX1GQUNLt5-h8zstHlBeb5pAK1NMCQ3K6-siBS4/rs:fit/g:sm/q:90/h:612/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNTU5/MTUxLTE1MTkyMjA1/NTctNzM4My5qcGVn.jpeg"
+    - "https://i.discogs.com/Gjrmz5Yj07ekpvJp7gk1IPhrp3YpUNzS2tXun0yJuYc/rs:fit/g:sm/q:90/h:600/w:588/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNTU5/MTUxLTE1MTkyMjA1/NTctNzM4My5qcGVn.jpeg"
     - "https://i.discogs.com/1CGvB2voDFBP4fFW5Q-ritDySfHZoWcX97ORIx8TDeE/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNTU5/MTUxLTE1MTkyMjA1/NjEtOTk1Mi5qcGVn.jpeg"
     - "https://i.discogs.com/FluZyLRf7fPynqXf1KPExYajrBFekveYR0-xKmy0oKk/rs:fit/g:sm/q:90/h:571/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNTU5/MTUxLTE1MTkyMjA1/NjYtNzIyMi5qcGVn.jpeg"
     - "https://i.discogs.com/gKMaIpy8wrkLohXUW4QaM1hPYlje-pE_5Vtl_vvyZy8/rs:fit/g:sm/q:90/h:588/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNTU5/MTUxLTE1MTkyMjA1/NzEtNzY3MC5qcGVn.jpeg"
@@ -37,12 +37,14 @@ additional_images:
     - "https://i.discogs.com/UP33TM5xHyCXxIMczB4kEKIqWdICQOoqU9-m8OLUl9I/rs:fit/g:sm/q:90/h:586/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNTU5/MTUxLTE1MTkyMjA2/MzItMTc4Ni5qcGVn.jpeg"
     - "https://i.discogs.com/i9VHuc6S7L3xNs3mIJGPAmXxhopIXtHVJT7FdSCYVnE/rs:fit/g:sm/q:90/h:588/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNTU5/MTUxLTE1MTkyMjA2/MzktMjg2Mi5qcGVn.jpeg"
     - "https://i.discogs.com/5GSFk_-JNIvOQiUrvc_UWahY8IN7UMInyisb3dFRS3Q/rs:fit/g:sm/q:90/h:408/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNTU5/MTUxLTE1MTkyMjA1/MzAtMjAzOS5qcGVn.jpeg"
-    - "https://i.discogs.com/_1bG2KKCe-VxN3vfTfpLogAFdsgDJlUDP64d3FbR_vw/rs:fit/g:sm/q:90/h:778/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNTU5/MTUxLTE1MTkyMjA1/MjMtNzk5NS5qcGVn.jpeg"
+    - "https://i.discogs.com/wFgJvbhxPB4dvnjzLe7XO4YUW9QTlaFqejphWko5800/rs:fit/g:sm/q:90/h:600/w:462/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNTU5/MTUxLTE1MTkyMjA1/MjMtNzk5NS5qcGVn.jpeg"
 genres: ["Rock", "Pop"]
 styles: ["Indie Pop"]
 ---
 
 How to Solve Our Human Problems is the collective title of three EPs by the band Belle and Sebastian, released through Matador Records between 2017 and 2018. The EPs were eventually compiled as a compilation album on 16 February 2018.
+
+
     
     
 
@@ -76,6 +78,8 @@ How to Solve Our Human Problems is the collective title of three EPs by the band
 {{< youtube id="qlAfus-n9-U" title="Belle and Sebastian - We Were Beautiful" >}}<br>
 ### More Videos
 
+- [Belle and Sebastian - I'll Be Your Pilot](https://www.youtube.com/watch?v=JsL1fVhaNbg)
+- [Belle and Sebastian - We Were Beautiful](https://www.youtube.com/watch?v=qlAfus-n9-U)
 - [Belle and Sebastian - I'll Be Your Pilot](https://www.youtube.com/watch?v=JsL1fVhaNbg)
 
 ## Release Images

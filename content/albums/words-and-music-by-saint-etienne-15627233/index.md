@@ -22,6 +22,9 @@ genres: ["Electronic", "Pop"]
 styles: ["Indie Pop", "Dance-pop"]
 ---
 
+Words and Music by Saint Etienne is the eighth studio album by English alternative dance band Saint Etienne, released on 18 May 2012 by Heavenly Recordings. The band announced the album in a Christmas message on their official website on 11 December 2011. The album features collaborations from longtime Saint Etienne associate Ian Catt, as well as Richard X and former Xenomania members Tim Powell and Nick Coler.
+    
+    
 
 
 ## Tracklisting
@@ -44,10 +47,12 @@ styles: ["Indie Pop", "Dance-pop"]
 
 
 ## Videos
-### When I Was Seventeen
-{{< youtube id="GSTSTNK0BG0" title="When I Was Seventeen" >}}<br>
+### Saint Etienne - I've Got Your Music
+{{< youtube id="3MQmsHPwLvU" title="Saint Etienne - I've Got Your Music" >}}<br>
 ### More Videos
 
+- [Saint Etienne - Tonight](https://www.youtube.com/watch?v=UEWEAqNR2XQ)
+- [When I Was Seventeen](https://www.youtube.com/watch?v=GSTSTNK0BG0)
 - [Saint Etienne - I've Got Your Music (Single Version)](https://www.youtube.com/watch?v=_kWy48yIgxQ)
 - [Saint Etienne - Over the Border](https://www.youtube.com/watch?v=DnxGHwDiqWk)
 - [Saint Etienne - DJ](https://www.youtube.com/watch?v=u7jbF_8MzHs)
@@ -59,8 +64,6 @@ styles: ["Indie Pop", "Dance-pop"]
 - [Saint Etienne - Haunted Jukebox](https://www.youtube.com/watch?v=_SswsMjN0TU)
 - [Saint Etienne - DJ](https://www.youtube.com/watch?v=tAk6slCEuIw)
 - [Saint Etienne - Popular (Tom Middleton Cosmos Remix)](https://www.youtube.com/watch?v=Ro1ziKoFFHg)
-- [Saint Etienne - I've Got Your Music](https://www.youtube.com/watch?v=3MQmsHPwLvU)
-- [Saint Etienne - Tonight](https://www.youtube.com/watch?v=UEWEAqNR2XQ)
 
 ## Release Images
 {{< imageGrid >}}
@@ -68,6 +71,7 @@ styles: ["Indie Pop", "Dance-pop"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
+| Wikipedia URL | https://en.wikipedia.org/wiki/Words_and_Music_by_Saint_Etienne |
 | Format         | Vinyl LP Album Limited Edition Reissue (White w/ Black, Yellow and Green Splatter) |
 | Label          | Heavenly |
 | Catalog Number | HVNLP92C |

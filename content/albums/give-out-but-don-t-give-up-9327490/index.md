@@ -4,6 +4,7 @@ artist_name: "Primal Scream"
 artist: "primal-scream"
 album_name: "Give Out But Don't Give Up"
 date: 2018-09-11T20:11:09.000000Z
+release_date: "2011-12-02"
 release_id: "9327490"
 slug: "give-out-but-don-t-give-up-9327490"
 hideSummary: true
@@ -23,11 +24,19 @@ additional_images:
     - "https://i.discogs.com/zR5s6bR3OGD5Gly0cPs_XOKGX5HIn_cWvdZrnGOIDNI/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkzMjc0/OTAtMTU4MzY4MzM0/OS02NzgwLmpwZWc.jpeg"
     - "https://i.discogs.com/1_PReXPypmOYeRG6cRWBRgGxN77WYrRpGbSB35guF4o/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkzMjc0/OTAtMTU4MzY4MzM1/MS04ODY1LmpwZWc.jpeg"
     - "https://i.discogs.com/lDeOTT-G03p7AvwSNPO5uOCuqsz619lUtbpf-Pp3R7Q/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkzMjc0/OTAtMTU4MzY4MzM1/Mi02NDk0LmpwZWc.jpeg"
-    - "https://i.discogs.com/ky35yq5OilbV_LJfyZd_xbMN1Yf4AoUY_Z4p94DK0es/rs:fit/g:sm/q:90/h:605/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkzMjc0/OTAtMTU4MzY4MzM1/Mi00MDExLmpwZWc.jpeg"
+    - "https://i.discogs.com/w3LWXNKYeF5dCSmKzdT-T-gIb-A5mqnRoMdZijOJ4I4/rs:fit/g:sm/q:90/h:600/w:594/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkzMjc0/OTAtMTU4MzY4MzM1/Mi00MDExLmpwZWc.jpeg"
 genres: ["Rock"]
 styles: ["Pop Rock"]
 ---
 
+Give Out but Don't Give Up is the fourth studio album by Scottish rock band Primal Scream. It was released on 28 March 1994 in the United Kingdom by Creation Records and in the United States by Sire Records. It peaked at number 2 on the UK Albums Chart. Musically, it marked a massive departure from the psychedelic sound of their previous studio album Screamadelica (1991) into one influenced by classic rock and blues music. Its cover photo is a cropped version of Troubled Waters by American photographer William Eggleston. Eggleston included the album in his 2017 Pitchfork list of "the Music That Made Him a Photography Legend."
+The album peaked at number 22 on the US Billboard Heatseekers chart.
+A second version of the album, featuring previously lost recordings, was released in 2018 as Give Out But Don’t Give Up: The Original Memphis Recordings.
+
+
+        
+        
+    
 
 
 ## Tracklisting
@@ -45,9 +54,12 @@ styles: ["Pop Rock"]
 12. Everybody Needs Somebody (5:22)
 
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/give-out-but-dont-give-up-the-original-memphis-recordings/1435164739" >}}<br>
+{{< applemusic url="https://music.apple.com/gb/album/give-out-but-dont-give-up-deluxe-version/481694930" >}}<br>
 
 
+## Videos
+### Primal Scream - Jailbird (Official Video)
+{{< youtube id="zNH5aY9mHTo" title="Primal Scream - Jailbird (Official Video)" >}}<br>
 
 
 ## Release Images
@@ -56,6 +68,7 @@ styles: ["Pop Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
+| Wikipedia URL | https://en.wikipedia.org/wiki/Give_Out_but_Don%27t_Give_Up |
 | Format         | Vinyl 2× LP Album Reissue |
 | Label          | 1972 |
 | Catalog Number | if33 |

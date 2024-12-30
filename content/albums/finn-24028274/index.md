@@ -16,16 +16,17 @@ additional_images:
     - "https://i.discogs.com/iK7EquYFVKfQi0duAgCW8Wi_FlpmMF5sVk6GkvKpGBU/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MDI4/Mjc0LTE2NTkwMzgw/NjAtMTMzNy5qcGVn.jpeg"
     - "https://i.discogs.com/6ZzTZJEDerCkgJPz_PNPmN-R4_GCKpr4-kvLC_G2YeA/rs:fit/g:sm/q:90/h:326/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MDI4/Mjc0LTE2NTkwMzgw/NjQtNjU4My5qcGVn.jpeg"
     - "https://i.discogs.com/_1g_CjPRAzfc4Ch3mDLlsO5pC7zsZHL_87La-J3Vx_M/rs:fit/g:sm/q:90/h:587/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MDI4/Mjc0LTE2NTkwMzgw/NTgtNzUzMy5qcGVn.jpeg"
-    - "https://i.discogs.com/QhH2UHw8X22tSw4KNNoEJpB1z-T7Ow33CRuiIqFMyvk/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MDI4/Mjc0LTE2NTkwMzgw/NjEtMTE0OS5qcGVn.jpeg"
-    - "https://i.discogs.com/QzNub5qEFA0IVh20xv1msjRYOiYNfy1FjhlnwHFLcIo/rs:fit/g:sm/q:90/h:628/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MDI4/Mjc0LTE2NTkwMzgw/NTMtNzg3NS5qcGVn.jpeg"
-    - "https://i.discogs.com/l3k0SGTGBYaZ205WwVqrzw56BMmyvT2ErWb1J1WfCmI/rs:fit/g:sm/q:90/h:618/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MDI4/Mjc0LTE2NTkwMzgw/NTYtMjYyMi5qcGVn.jpeg"
+    - "https://i.discogs.com/oOlvr62iQf_u4EcZslcNWqk5ktdWA056AOFjP1Di5UU/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MDI4/Mjc0LTE2NTkwMzgw/NjEtMTE0OS5qcGVn.jpeg"
+    - "https://i.discogs.com/anZ81YGnLirYxMcBfQCbYgvZQbuvzcJJFwyJYPoJl7Y/rs:fit/g:sm/q:90/h:600/w:572/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MDI4/Mjc0LTE2NTkwMzgw/NTMtNzg3NS5qcGVn.jpeg"
+    - "https://i.discogs.com/XDA2OSeyndPGKmH5QjQhypSfkK5eJuxGi3rpT9MOP5g/rs:fit/g:sm/q:90/h:600/w:582/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MDI4/Mjc0LTE2NTkwMzgw/NTYtMjYyMi5qcGVn.jpeg"
     - "https://i.discogs.com/_HDxoaV-G5Bolw7EbHIp-OvC5wyZUwXm55GqFZtvksc/rs:fit/g:sm/q:90/h:530/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MDI4/Mjc0LTE2NTkwMzgw/NjItNDI5NC5qcGVn.jpeg"
     - "https://i.discogs.com/jh61WVULUj82FWdeN5AH36q8lpvjL5CWUhu7blmymBk/rs:fit/g:sm/q:90/h:509/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MDI4/Mjc0LTE2NTkwMzgw/NjMtMTYyNy5qcGVn.jpeg"
 genres: ["Rock", "Pop"]
 styles: ["Acoustic", "Pop Rock", "Lo-Fi"]
 ---
 
-The Finn Brothers are a New Zealand musical duo consisting of brothers Neil and Tim Finn. In June 1993 both members were awarded the OBE for their contribution to music.The two brothers began making music together at a young age; later, when Neil was 18, he was invited to join older brother Tim in Split Enz. Neil would go on to write one of the band's biggest hits, "I Got You". Tim released his first solo album Escapade before leaving Split Enz, and the band folded soon after. Neil started his own group, Crowded House and subsequently recorded two solo albums after Crowded House split in 1996. He reformed Crowded House in 2007, releasing three albums since then. Neil and Tim have also released a series of separate solo albums.
+The Finn Brothers are a New Zealand musical duo consisting of brothers Neil and Tim Finn. In June 1993 both members were awarded the OBE for their contribution to music.
+The two brothers began making music together at a young age; later, when Neil was 18, he was invited to join older brother Tim in Split Enz. Neil would go on to write one of the band's biggest hits, "I Got You". Tim released his first solo album Escapade before leaving Split Enz, and the band folded soon after. Neil started his own group, Crowded House and subsequently recorded two solo albums after Crowded House split in 1996. He reformed Crowded House in 2007, releasing three albums since then. Neil and Tim have also released a series of separate solo albums.
 After working on a few songs with Neil, Tim joined Crowded House for the Woodface album and accompanying tour in 1991.
     
     
@@ -58,13 +59,17 @@ After working on a few songs with Neil, Tim joined Crowded House for the Woodfac
 24. Weather With You (End Piece)
 
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/finn/1599847083" >}}<br>
+{{< applemusic url="https://music.apple.com/gb/album/chalk-brothers-single/1759940148" >}}<br>
 
 
 ## Videos
-### Finn Brothers - Only Talking Sense
-{{< youtube id="7Kl-Y5ISIvM" title="Finn Brothers - Only Talking Sense" >}}<br>
+### The Finn Brothers - Only Talking Sense
+{{< youtube id="-NwJZK2ZxkE" title="The Finn Brothers - Only Talking Sense" >}}<br>
+### More Videos
 
+- [The Finn Brothers - Suffer Never](https://www.youtube.com/watch?v=elJJmTdptf8)
+- [The Finn Brothers - Angels Heap](https://www.youtube.com/watch?v=eJgJGxi_j-Y)
+- [Finn Brothers - Only Talking Sense](https://www.youtube.com/watch?v=7Kl-Y5ISIvM)
 
 ## Release Images
 {{< imageGrid >}}

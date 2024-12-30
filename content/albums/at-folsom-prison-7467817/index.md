@@ -21,14 +21,14 @@ additional_images:
     - "https://i.discogs.com/gfV9AYAd7KR0ygpTx5-Aiiqztt3MOOmvNBt9TlUOK4k/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc0Njc4/MTctMTYyODAxMDQ0/MC0xNDE2LmpwZWc.jpeg"
     - "https://i.discogs.com/8FhVzq5Oi_9nr6RxbF8qfDe37Ln9Z1pHkgqKwK48gY0/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc0Njc4/MTctMTUxMjEyMzA1/Ni0yNDQxLmpwZWc.jpeg"
     - "https://i.discogs.com/UCMKG1vChIyvgJ3HuMGuuhFwVl05yzYAjfpL3UoR0QM/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc0Njc4/MTctMTUxMjEyMzA4/My01MTkwLmpwZWc.jpeg"
-    - "https://i.discogs.com/nrlvVyASLW1XtjsLj34cxv7jyqu9Wgg2JgFZCD2of8s/rs:fit/g:sm/q:90/h:601/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc0Njc4/MTctMTUxMjEyMzEw/OS03NjI0LmpwZWc.jpeg"
+    - "https://i.discogs.com/gSGxD5Jv0BwIdD79MSNLp4obvzpG6JmYCvOViZQWBGU/rs:fit/g:sm/q:90/h:600/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc0Njc4/MTctMTUxMjEyMzEw/OS03NjI0LmpwZWc.jpeg"
 genres: ["Folk, World, & Country"]
 styles: ["Country"]
 ---
 
-Though the term "outlaw country" wasn’t yet coined when Johnny Cash recorded <i>At Folsom Prison</i> in 1968, it's tough to imagine a more literal example. Cash's status as a country superstar was fading by the late ’60s, but the raw excitement and immediacy of the album he made in front of a roomful of convicts at California's Folsom State Prison brought him back into the spotlight and earned him a whole new audience. Cash started his sets for years with one of his first big hits, 1955’s stark jailhouse tale "Folsom Prison Blues," and naturally that song kicks things off here. <br />
-Cash had always shunned the trappings of stardom, and his uncompromising, black-clad, champion-of-the-underdog persona and rough-edged style helped him connect with the Folsom prisoners. With his faithful Tennessee Three offering their typically terse, barbed-wire backing, Cash sounds energized by the event. He throws himself into tough-minded stompers like "Cocaine Blues" and the death-row rave-up "25 Minutes to Go" with wild-eyed abandon, sometimes sounding nearly unhinged. <br />
-He leans hard into prison-themed tunes like "I Got Stripes" and "Greystone Chapel" (the latter written by Folsom inmate Glen Sherley), giving them a superhuman degree of gravitas. He even finds time to lighten things up with the jokey (but still suitably gritty) "Dirty Old Egg-Suckin' Dog" and "Flushed from the Bathroom of Your Heart." Cash would go on to record more prison concert albums, including 1969's legendary <i>At San Quentin</i>, but before <i>Folsom</i>, nobody would have pegged a state pen as a catalyst for an iconic performance, much less a career turnaround.
+Though the term "outlaw country" wasn’t yet coined when Johnny Cash recorded <I>At Folsom Prison</I> in 1968, it's tough to imagine a more literal example. Cash’s status as a country superstar was fading by the late ’60s, but the raw excitement and immediacy of the album he made in front of a roomful of convicts at California's Folsom State Prison brought him back into the spotlight and earned him a whole new audience. Cash started his sets for years with one of his first big hits, 1955’s stark jailhouse tale "Folsom Prison Blues", and naturally that song kicks things off here. <br />
+Cash had always shunned the trappings of stardom, and his uncompromising, black-clad, champion-of-the-underdog persona and rough-edged style helped him connect with the Folsom prisoners. With his faithful Tennessee Three offering their typically terse, barbed-wire backing, Cash sounds energised by the event. He throws himself into tough-minded stompers like "Cocaine Blues" and the death-row rave-up "25 Minutes to Go" with wild-eyed abandon, sometimes sounding nearly unhinged. <br />
+He leans hard into prison-themed tunes like "I Got Stripes" and "Greystone Chapel" (the latter written by Folsom inmate Glen Sherley), giving them a superhuman degree of gravitas. He even finds time to lighten things up with the jokey (but still suitably gritty) "Dirty Old Egg-Suckin' Dog" and "Flushed from the Bathroom of Your Heart". Cash would go on to record more prison concert albums, including 1969's legendary <I>At San Quentin</I>, but before <I>Folsom</I>, nobody would have pegged a state pen as a catalyst for an iconic performance, much less a career turnaround.
         
         
     
@@ -65,7 +65,26 @@ He leans hard into prison-themed tunes like "I Got Stripes" and "Greystone Chape
 {{< applemusic url="https://music.apple.com/gb/album/at-folsom-prison-live/825516828" >}}<br>
 
 
+## Videos
+### Johnny Cash - Folsom Prison Blues (Official Audio)
+{{< youtube id="AeZRYhLDLeU" title="Johnny Cash - Folsom Prison Blues (Official Audio)" >}}<br>
+### More Videos
 
+- [Dark as the Dungeon (Live at Folsom State Prison, Folsom, CA - January 1968)](https://www.youtube.com/watch?v=OFjBLdyssjc)
+- [I Still Miss Someone (Live at Folsom State Prison, Folsom, CA (1st Show) - January 1968)](https://www.youtube.com/watch?v=0GM-1N8TfHE)
+- [Cocaine Blues (Live at Folsom State Prison, Folsom, CA - January 1968)](https://www.youtube.com/watch?v=0VZuA7iJY4Y)
+- [Johnny Cash - 25 Minutes to Go (Official Audio)](https://www.youtube.com/watch?v=sbMirPYzthY)
+- [Orange Blossom Special (Live at Folsom State Prison, Folsom, CA (1st Show) - January 1968)](https://www.youtube.com/watch?v=WkMB3RitBSE)
+- [The Long Black Veil (Live at Folsom State Prison, Folsom, CA (1st Show) - January 1968)](https://www.youtube.com/watch?v=c0OSboEOtRQ)
+- [Send a Picture of Mother (Live at Folsom State Prison, Folsom, CA - January 1968)](https://www.youtube.com/watch?v=0JUSmwGl4T4)
+- [The Wall (Live at Folsom State Prison, Folsom, CA (1st Show) - January 1968)](https://www.youtube.com/watch?v=ZEvuwiCa9RA)
+- [Dirty Old Egg-Suckin' Dog (Live at Folsom State Prison, Folsom, CA (1st Show) - January 1968)](https://www.youtube.com/watch?v=jeudEqVhJOM)
+- [Flushed from the Bathroom of Your Heart (Live at Folsom State Prison, Folsom, CA - January 1968)](https://www.youtube.com/watch?v=q3wyAzjlE9Y)
+- [Jackson (Live at Folsom State Prison, Folsom, CA - January 1968)](https://www.youtube.com/watch?v=FPynO42XFRw)
+- [Give My Love to Rose (Live at Folsom State Prison, Folsom, CA - January 1968)](https://www.youtube.com/watch?v=Mqe2kcRZo5I)
+- [Johnny Cash - I Got Stripes (Official Audio)](https://www.youtube.com/watch?v=AUYk700_6W0)
+- [Green, Green Grass of Home (Live at Folsom State Prison, Folsom, CA - January 1968)](https://www.youtube.com/watch?v=SLfxsneyfnY)
+- [Greystone Chapel (Live at Folsom State Prison, Folsom, CA - January 1968)](https://www.youtube.com/watch?v=fGMVRoXelNs)
 
 ## Release Images
 {{< imageGrid >}}

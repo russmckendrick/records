@@ -4,6 +4,7 @@ artist_name: "Peter Gabriel"
 artist: "peter-gabriel"
 album_name: "Us"
 date: 2016-12-08T18:44:07.000000Z
+release_date: "1980-05-22"
 release_id: "9471068"
 slug: "us-9471068"
 hideSummary: true
@@ -29,10 +30,15 @@ genres: ["Electronic", "Rock", "Funk / Soul", "Pop"]
 styles: ["Art Rock", "Prog Rock", "Pop Rock", "Downtempo"]
 ---
 
-Us is the sixth studio album by the English singer-songwriter and musician Peter Gabriel, released on 28 September 1992 by Real World Records. Following the release of his soundtrack album Passion in 1989, Gabriel started work on new material for a new album, his first since So, which became his biggest selling release. Gabriel focused on personal themes on Us, including his divorce in the late 1980s, his subsequent relationship with actress Rosanna Arquette, and the growing distance between him and his first daughter.Us was promoted with an early form of interactive multimedia software for Macintosh computers entitled Xplora1: Peter Gabriel's Secret World, which featured several music videos from the album. The album was a worldwide chart success, reaching No. 2 in the UK and the US and the top-ten in twelve other countries. Four singles were released: "Digging in the Dirt", "Steam", "Blood of Eden", and "Kiss That Frog", with "Steam" reaching No. 10 in the UK. Gabriel supported the album with his Secret World Tour in 1993 and 1994 which was documented on the Secret World Live album and same-titled concert film, both released in 1994. Us was reissued in 2002 and 2010.
+“I felt I wanted to write music for the 1980s, and that the place to begin was the rhythm track,” Peter Gabriel once said. “Rhythm being the spine of music, if you change the spine, the shape of the body changes as a matter of course.” Armed with a primitive drum machine, Gabriel took a sharp compositional detour for his third album, <i>Peter Gabriel 3: Melt</i>, letting his songwriting process lead with rhythm instead of chord changes. The sparse, percussion-driven album, released in 1980, became the place where his artistic ambitions finally coalesced, resulting in a peculiar and ominous piece of shadow-lurking art-rock that nonetheless spawned a pop hit.
 
+Traditional sounds were eschewed across the album. Gabriel banned the use of cymbals and hi-hats for drummers Jerry Marotta and Phil Collins, which explains such austere, atmospheric tracks as “Intruder” and “No Self Control”. But the in-studio innovations didn’t end there: Gabriel and Collins—working with producer Steve Lillywhite and engineer Hugh Padgham—also experimented with the explosive, cavernous sound that would be known as “gated reverb”, which would soon come to define the decade.
 
-    
+<i>Melt</i> was also one of the first to use the Fairlight CMI synthesiser, a sampling keyboard whose trademark sound would take flight across the decade on records by Art of Noise, Herbie Hancock, Frankie Goes to Hollywood and Tears for Fears. Rhythmically inspired by the soundtrack to the 1965 South African film <i>Dingaka</i>, Gabriel composed protest anthem and perennial set-closer “Biko”, a soaring tribute to activist Steve Biko that would help bring global attention to South African apartheid, and would directly inspire Steven Van Zandt’s <i>Sun City</i> project.
+
+But Gabriel’s forward-thinking musicianship on <i>Melt</i> scared record execs. The album dealt in strange, supposedly uncommercial sounds, and featured dark lyrics sung from the perspective of assassins (“Family Snapshot”), perverts (“Intruder”) and the generally alienated (“I Don’t Remember”). Sensing a commercial disaster, Gabriel’s label in the US dropped him. It was a disastrous decision: After Mercury picked up <i>Melt</i>, the album became Gabriel’s biggest-selling to that point, and spawned a legitimate hit single in “Games Without Frontiers”. Featuring background vocals from Kate Bush, the anti-war tune became a top 10 smash in the UK and Canada, and a minor chart hit in the States—officially kicking off the former prog-rocker’s journey toward becoming a heavy player in the MTV era.
+        
+        
     
 
 
@@ -49,10 +55,21 @@ Us is the sixth studio album by the English singer-songwriter and musician Peter
 10. Secret World (7:03)
 
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/four-kinds-of-horses-bright-side-mix-single/1685222329" >}}<br>
+{{< applemusic url="https://music.apple.com/gb/album/peter-gabriel-3-melt-remastered/986713177" >}}<br>
 
 
+## Videos
+### Peter Gabriel - Digging In The Dirt (1992) [vinyl audio]
+{{< youtube id="Zfa6_Sg69OE" title="Peter Gabriel - Digging In The Dirt (1992) [vinyl audio]" >}}<br>
+### More Videos
 
+- [Peter Gabriel - Blood Of Eden](https://www.youtube.com/watch?v=3XhDGkg8SpQ)
+- [Peter Gabriel - Steam](https://www.youtube.com/watch?v=Qt87bLX7m_o)
+- [Peter Gabriel - Digging In The Dirt](https://www.youtube.com/watch?v=X0C3DHp36zc)
+- [Only Us](https://www.youtube.com/watch?v=nSMsOYGKw7A)
+- [Love To Be Loved](https://www.youtube.com/watch?v=fV5f4MMrTVM)
+- [Come Talk To Me](https://www.youtube.com/watch?v=12xFB3zXBSg)
+- [Secret World](https://www.youtube.com/watch?v=fUyhI7bc2N0)
 
 ## Release Images
 {{< imageGrid >}}

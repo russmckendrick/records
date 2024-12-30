@@ -4,7 +4,6 @@ artist_name: "Sigur Rós"
 artist: "sigur-rs"
 album_name: "Átta"
 date: 2023-09-01T05:07:25.000000Z
-release_date: "2023-06-16"
 release_id: "28131088"
 slug: "tta-28131088"
 hideSummary: true
@@ -13,39 +12,56 @@ cover:
     alt: "Átta by Sigur Rós"
     caption: "Átta by Sigur Rós"
 additional_images:
-    - "https://i.discogs.com/8OUjJ3i8EruJ1Uj1wHmvp1CkNtRq4YOOpCIu1NPxOQY/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4MTMx/MDg4LTE2OTM0ODY2/ODgtNjgyMi5qcGVn.jpeg"
-    - "https://i.discogs.com/MXjTHrv8Wips8svTs4FbsguMZ0Q67S0xE6klDV9edDo/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4MTMx/MDg4LTE2OTM0ODY2/OTMtNjQzOC5qcGVn.jpeg"
+    - "https://i.discogs.com/3HxGMpDU2BluIKl9dXsM_i1cXoj4ZyYqLMPdagzXsXE/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4MTMx/MDg4LTE2OTM2NTUy/MzMtNTkxMC5qcGVn.jpeg"
+    - "https://i.discogs.com/2-BVmCaoLLIrJstbsT9VdifZxQCDWMKZOKDGZNOXHkk/rs:fit/g:sm/q:90/h:292/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4MTMx/MDg4LTE2OTQxMTU4/NjEtNjcxMC5qcGVn.jpeg"
+    - "https://i.discogs.com/g4ROwfUNuHU6dyimdm30ZT7aDQFTUOtiH5PX_-JwBks/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4MTMx/MDg4LTE2OTM2NTUy/MzQtNzI2Ny5qcGVn.jpeg"
+    - "https://i.discogs.com/Gq11LZDWhqnKKIxUXFn3KanbyQNFVC4wHp_13_FJP2E/rs:fit/g:sm/q:90/h:589/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4MTMx/MDg4LTE2OTQxMTU4/NjAtNzI1NC5qcGVn.jpeg"
+    - "https://i.discogs.com/3iHvAGW2lEdUqVEcYqJ8S0O8wauOW6qM0xW0RhKY-vs/rs:fit/g:sm/q:90/h:589/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4MTMx/MDg4LTE2OTQxMTU4/NjEtNDQ4MC5qcGVn.jpeg"
+    - "https://i.discogs.com/L2Y0XDWNLdqM1xGjMEUoNEKiU0y_Y1nnk288b0p34T0/rs:fit/g:sm/q:90/h:600/w:590/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4MTMx/MDg4LTE2OTQxMTU4/NjEtNzI4OS5qcGVn.jpeg"
+    - "https://i.discogs.com/8WLF5nP0vM48Hzr-qdo8LmCM3_9UTh0B_09mjQ7BWBA/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4MTMx/MDg4LTE2OTQxMTU4/NjEtMjc1Mi5qcGVn.jpeg"
+    - "https://i.discogs.com/JzS9tFzb1FAUFGITALeHhmNSU0dgUrUJnsJcpftcROs/rs:fit/g:sm/q:90/h:584/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4MTMx/MDg4LTE2OTQxMTU4/NjAtNjM2Mi5qcGVn.jpeg"
+    - "https://i.discogs.com/vqvIxFoBhFXWmHTKMfOBoLCbdj6pNXp0AcP9lRi3kcM/rs:fit/g:sm/q:90/h:589/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4MTMx/MDg4LTE2OTQxMTU4/NjEtNTk0Ny5qcGVn.jpeg"
+    - "https://i.discogs.com/w2jrJVr3T7XVuZespTzfwyisMYiC8gu5eMfijiT1SH4/rs:fit/g:sm/q:90/h:591/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4MTMx/MDg4LTE2OTQxMTU4/NjItNjUwMC5qcGVn.jpeg"
+    - "https://i.discogs.com/KBMaT0iKjGd2Q-T_okgSTmb4FGKmLLmImQZlX0Wp1JQ/rs:fit/g:sm/q:90/h:593/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4MTMx/MDg4LTE2OTQxMTU4/NjEtNzA0NC5qcGVn.jpeg"
+    - "https://i.discogs.com/L5gPNqdPmz-0JhtlP6QGrGUmlsDlcNiVZ2MPkZDlda8/rs:fit/g:sm/q:90/h:600/w:587/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4MTMx/MDg4LTE2OTQxMTU4/NjEtMzU2Ny5qcGVn.jpeg"
+    - "https://i.discogs.com/1JhZw1pJChoWnXgTPKeRt9VaaKOKFsBo0tx2BRCOq_E/rs:fit/g:sm/q:90/h:589/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4MTMx/MDg4LTE2OTQxMTYw/MTYtNTgwNy5qcGVn.jpeg"
+    - "https://i.discogs.com/yrDJuLTBT2FJEcmMjvNoe0lSpjL_2ILNps1Hq53x7vI/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4MTMx/MDg4LTE2OTM2NTUy/MzQtMzIzNS5qcGVn.jpeg"
+    - "https://i.discogs.com/zg3dxWwcx-UdoLTacO6l-T1olL-vztqdCZUgXJd8ows/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4MTMx/MDg4LTE2OTM2NTUy/NDAtNTcxNi5qcGVn.jpeg"
+    - "https://i.discogs.com/WrpG4W46_ZWTuXCT10OAd2fX2w1SdMhDWr0jrY8_2xc/rs:fit/g:sm/q:90/h:592/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4MTMx/MDg4LTE2OTUzOTU2/MjAtNTkyNy5qcGVn.jpeg"
+    - "https://i.discogs.com/80KeauikxOZqxMHUG3kGLDyID9XvMc5FS-CTmUfySD8/rs:fit/g:sm/q:90/h:461/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4MTMx/MDg4LTE3MDI5MjEy/NjUtODU1My5qcGVn.jpeg"
 genres: ["Electronic", "Rock"]
 styles: ["Ambient", "Post Rock"]
 ---
 
-The Icelandic avant-rock outfit Sigur Rós has been making music, in various arrangements, for nearly 30 years. Their debut full-length <i>Von</i> came out in 1997, and their breakthrough album <i>Ágætis byrjun</i> arrived two years later. The second project was the first to feature multi-instrumentalist Kjartan Sveinsson, who, despite departing the group 15 years later, has always been seen as a critical piece of the magic. After their surprisingly dark and dissonant 2013 album <i>Kveikur</i>, the band took a break, focusing on personal projects and personal lives. But a series of casual jam sessions—from Iceland’s Sundlaugin to London’s Abbey Road—reignited their creative spark and resulted in <i>ÁTTA</i>, their first album in 10 years.
-
-The project, a collaboration with conductor Robert Ames and the London Contemporary Orchestra, is full of sweeping, mystical soundscapes that mirror the majestic vistas of the group’s home country. Although there is a lingering sense of apocalyptic foreboding—very likely a nod to climate-disaster-related doom—most of these songs are imbued with hope. “Gold”, a meditative vocal number bathed in pastel tones, seems to surround you, wide and warm, like arms in an embrace. “Andrá”, glacial and glowing, is practically a hymnal. Even the more mournful songs (“Skel”, “Mór” and “Fall” are three) feel affectionate and tender—more like bittersweet love songs than sounds of alarm. For a band that has long been openly weary about the state of the world—a rage captured vividly on their last studio record—this project feels like a deep, cathartic breath, a tribute to the magnificent beauty that remains.
-    
-    
 
 
 ## Tracklisting
-1. Glóð (3:39)
-2. Blóðberg (7:16)
-3. Skel (4:58)
-4. Klettur (6:31)
-5. Mór (5:47)
-6. Andrá (4:07)
-7. Gold (5:13)
-8. Ylur (5:55)
-9. Fall (3:27)
-10. 8 (9:41)
+1. Glóð
+2. Blóðberg
+3. Skel
+4. Klettur
+5. Mór
+6. Andrá
+7. Gold
+8. Ylur
+9. Fall
+10. 8
 
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/%C3%A1tta/1689744202" >}}<br>
+{{< applemusic url="https://music.apple.com/gb/album/%C3%A1tta/1688702511" >}}<br>
 
 
 ## Videos
-### Sigur Rós - ÁTTA (2023) [Full Album]
-{{< youtube id="seQGmak5b7s" title="Sigur Rós - ÁTTA (2023) [Full Album]" >}}<br>
+### Sigur Rós - Blóðberg (Official Video)
+{{< youtube id="ENZsxTiVQYo" title="Sigur Rós - Blóðberg (Official Video)" >}}<br>
+### More Videos
 
+- [Sigur Rós – Gold (Official Video)](https://www.youtube.com/watch?v=S9aMeRDxSKo)
+- [Sigur Rós – Glóð (Official Video)](https://www.youtube.com/watch?v=5icgrXI0H40)
+- [Sigur Rós - Andrá (Official Video)](https://www.youtube.com/watch?v=qEw--v19WyI)
+- [Sigur Rós - Mór (Official Video)](https://www.youtube.com/watch?v=uIgtOov-j8A)
+- [Sigur Rós - Ylur (Official Video)](https://www.youtube.com/watch?v=bVUGKcT9QgQ)
+- [Sigur Rós - 8 (Official Video)](https://www.youtube.com/watch?v=f5DGqCEMvIk)
 
 ## Release Images
 {{< imageGrid >}}
@@ -55,6 +71,6 @@ The project, a collaboration with conductor Robert Ames and the London Contempor
 | ---------------| ---------------------------------------------------- |
 | Format         | Vinyl 2× LP 45 RPM Album Limited Edition Stereo (Yellow) |
 | Label          | Krúnk |
-| Catalog Number | 538918940 |
-| Notes | Gatefold cover with hype sticker. |
-| Discogs URL    | [Sigur Rós - Átta](https://www.discogs.com/release/28131088-Sigur-R%C3%B3s-%C3%81tta) |
+| Catalog Number | 5389109040 |
+| Notes | Gatefold cover with hype sticker. Some copies sold in France also included a hype sticker with 2 review quotations, one from Les Inrocks and one from Magic  Manufactured in Germany  The final three characters in runout etching on each side are mirrored.  • 300 copies of this release were released with a numbered japanese style obi strip and sold by Assai Records as part of the Assai Obi Editions. |
+| Discogs URL    | [Sigur Rós - Átta](https://www.discogs.com/release/28131088-Sigur-Rós-Átta) |

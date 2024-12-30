@@ -12,12 +12,12 @@ cover:
     alt: "The Big Lebowski  (Original Motion Picture Soundtrack) by Various"
     caption: "The Big Lebowski  (Original Motion Picture Soundtrack) by Various"
 additional_images:
-    - "https://i.discogs.com/ZCF_ziKtJ1Ggc04X2xnaKOaQKNpHNiOcKlH33UwKuos/rs:fit/g:sm/q:90/h:603/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMDc1/NjIyLTE1Nzk5NTUx/MzctNjY3MC5qcGVn.jpeg"
-    - "https://i.discogs.com/Fdh5O9HAE67otSJrrG0uuWEGpSIABquL2Tu-rKD2jM4/rs:fit/g:sm/q:90/h:635/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMDc1/NjIyLTE1Njg1NTA0/OTItOTY0MS5qcGVn.jpeg"
+    - "https://i.discogs.com/Q6WYuL5IA8S1D_VBMWrzcDEIS2i2hVBVFZupukfIODw/rs:fit/g:sm/q:90/h:600/w:596/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMDc1/NjIyLTE1Nzk5NTUx/MzctNjY3MC5qcGVn.jpeg"
+    - "https://i.discogs.com/3tN6-ZSeHjS4O7J058yFqvvSeUOsc2caRTO3gmofRlQ/rs:fit/g:sm/q:90/h:600/w:566/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMDc1/NjIyLTE1Njg1NTA0/OTItOTY0MS5qcGVn.jpeg"
     - "https://i.discogs.com/H68B2XLOsaJ6RmAzgAo_YrMGBrLo8DusdsuiDbm7J90/rs:fit/g:sm/q:90/h:378/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMDc1/NjIyLTE1Njg1NTA1/MTAtMjIyNi5qcGVn.jpeg"
-    - "https://i.discogs.com/t5Pq8RxROmjMLsm9cxM9VAxBDyW_8Oy36a6uBpOv7ug/rs:fit/g:sm/q:90/h:611/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMDc1/NjIyLTE1Njg1NTA1/MzgtODUzOC5qcGVn.jpeg"
-    - "https://i.discogs.com/BjyW6uSTKTfMiyTs1xmJxSY9z6gsaxTVdcWsy-FSGiU/rs:fit/g:sm/q:90/h:604/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMDc1/NjIyLTE1Njg1NTA1/MzgtMjk0NS5qcGVn.jpeg"
-    - "https://i.discogs.com/Mg2k5ErsjweAf5XvC60ymJUoD9aVbh4DnJxsunwLJE8/rs:fit/g:sm/q:90/h:800/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMDc1/NjIyLTE1Njg1NTA1/NzUtNjUyMS5qcGVn.jpeg"
+    - "https://i.discogs.com/0__K0XNUpp5yrDEcuAQp8OXcCX1yja-ViCaKNweabuQ/rs:fit/g:sm/q:90/h:600/w:588/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMDc1/NjIyLTE1Njg1NTA1/MzgtODUzOC5qcGVn.jpeg"
+    - "https://i.discogs.com/iOPVvM3BQAbyYOi1h75YLqSBDCwf-M8vwgiuaFgiaSE/rs:fit/g:sm/q:90/h:600/w:595/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMDc1/NjIyLTE1Njg1NTA1/MzgtMjk0NS5qcGVn.jpeg"
+    - "https://i.discogs.com/S1EfUUVoqAp9hibFcQXN87fKWpgP4NS1MXqbpv0ww7k/rs:fit/g:sm/q:90/h:600/w:450/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMDc1/NjIyLTE1Njg1NTA1/NzUtNjUyMS5qcGVn.jpeg"
     - "https://i.discogs.com/JID1mWHzw3YXtJnoyJEEiBqm6MTDtWIXaCXEbfc2hCY/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMDc1/NjIyLTE1Njg1NTA1/NzUtNzI4OC5qcGVn.jpeg"
     - "https://i.discogs.com/I7fdRCFOVVPJZYvP88SMp_JoH0CvEMqs_KEG089Ew5w/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMDc1/NjIyLTE1Njg1NTA1/NzUtMjQ1NS5qcGVn.jpeg"
 genres: ["Electronic", "Jazz", "Rock", "Classical", "Folk, World, & Country", "Stage & Screen"]
@@ -45,18 +45,23 @@ styles: ["Soundtrack"]
 
 
 ## Videos
-### Bob Dylan - The Man in Me (Audio)
-{{< youtube id="G6oBqDkNz38" title="Bob Dylan - The Man in Me (Audio)" >}}<br>
+### 'The Big Lebowski' - Full Vinyl Soundtrack
+{{< youtube id="ovx2OJtJ5uo" title="'The Big Lebowski' - Full Vinyl Soundtrack" >}}<br>
 ### More Videos
 
-- [Carter Burwell - Wie Glauben](https://www.youtube.com/watch?v=14xY1lxLMkI)
-- [Big Lebowski trailer](https://www.youtube.com/watch?v=r_GCRFRcWxA)
-- [Yma Sumac - Ataypura](https://www.youtube.com/watch?v=Z3Dgtpsg8DQ)
-- [The Big Lebowski](https://www.youtube.com/watch?v=tgKhPObZeaw)
-- [Henry Mancini - Lujon (Official Audio)](https://www.youtube.com/watch?v=RjsG3i6L9vw)
-- [The Big Lebowski - Lookin' Out My Back Door](https://www.youtube.com/watch?v=iApz08Bh53w)
-- [Nina Simone - I Got It Bad (And That Ain't Good)](https://www.youtube.com/watch?v=N8av28fydMw)
+- [Bob Dylan - The Man in Me (Official Audio)](https://www.youtube.com/watch?v=G6oBqDkNz38)
+- [Her Eyes Are a Blue Million Miles](https://www.youtube.com/watch?v=1kTCTxOVEug)
+- [My Mood Swings (From "The Big Lebowski" Soundtrack)](https://www.youtube.com/watch?v=fzJo3rS9sOE)
+- [Ataypura (High Andes) (1999 Digital Remaster)](https://www.youtube.com/watch?v=z6lFX7yTB3s)
+- [Traffic Boom (The Big Lebowski)](https://www.youtube.com/watch?v=4aw_ivCk1Nc)
+- [I Got It Bad (And That Ain't Good)](https://www.youtube.com/watch?v=ZzJ5lgdT3T8)
 - [Stamping Ground (Instrumental)](https://www.youtube.com/watch?v=FZHc_HEncwc)
+- [Just Dropped In (To See What Condition My Condition Is In)](https://www.youtube.com/watch?v=-0-7fg8oAO4)
+- [Meredith Monk - Walking Song](https://www.youtube.com/watch?v=P8r4eHM8Zlk)
+- [Act I: Gluck, das mir verblieb](https://www.youtube.com/watch?v=bP8wcxFeM7g)
+- [Henry Mancini - Lujon (Official Audio)](https://www.youtube.com/watch?v=RjsG3i6L9vw)
+- [Gipsy Kings - Hotel California (Spanish Mix) (Audio)](https://www.youtube.com/watch?v=nVNAqNZcpB4)
+- [Carter Burwell - Wie Glauben](https://www.youtube.com/watch?v=14xY1lxLMkI)
 - [Townes Van Zandt - Dead Flowers (Official Audio)](https://www.youtube.com/watch?v=8ApA2W8f2vg)
 
 ## Release Images

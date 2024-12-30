@@ -12,23 +12,18 @@ cover:
     alt: "Split by Lush"
     caption: "Split by Lush"
 additional_images:
-    - "https://i.discogs.com/mTZpbsUdFTPdM4gGV3luqJ-HSN4SbxOPiqBMa-8ve-s/rs:fit/g:sm/q:90/h:622/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3OTA5/NDI5LTE2OTE0NTQ2/MDAtNzI4MS5qcGVn.jpeg"
-    - "https://i.discogs.com/QTEByDGyEv7kYxm1VaRA1J6UKjP8YNuD060kkL7qonU/rs:fit/g:sm/q:90/h:609/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3OTA5/NDI5LTE2OTE0NTQ2/MTUtNjc0NS5qcGVn.jpeg"
-    - "https://i.discogs.com/tw3xy5Ioy1hMEQbLUou9CMKXB_Ipo1Xp03BN91NxaNc/rs:fit/g:sm/q:90/h:612/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3OTA5/NDI5LTE2OTE0NTQ2/MTMtODI3Ny5qcGVn.jpeg"
+    - "https://i.discogs.com/Q9CkUJ8GOFXYgJ6h1oJarmEcY0pldL-ceSf4JavEovE/rs:fit/g:sm/q:90/h:600/w:578/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3OTA5/NDI5LTE2OTE0NTQ2/MDAtNzI4MS5qcGVn.jpeg"
+    - "https://i.discogs.com/ASWOCyU6i6BIVUZ5REdXTwo7iGygykKc1xdDUEwU79U/rs:fit/g:sm/q:90/h:600/w:590/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3OTA5/NDI5LTE2OTE0NTQ2/MTUtNjc0NS5qcGVn.jpeg"
+    - "https://i.discogs.com/cwxxjajpD1ImvCdJDV-i-xFva4SXxD1vxs0EaAtIuPg/rs:fit/g:sm/q:90/h:600/w:587/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3OTA5/NDI5LTE2OTE0NTQ2/MTMtODI3Ny5qcGVn.jpeg"
     - "https://i.discogs.com/_pVMBwsP3oPcAI5icXnAB5nYENEcnZHoIUEXZ4vmsYM/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3OTA5/NDI5LTE2OTE0NTQ2/MTgtMTczNS5qcGVn.jpeg"
     - "https://i.discogs.com/yrRGBdNiP8taWY0LjZlghMcsDiReDoCJeaFv1k853N8/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3OTA5/NDI5LTE2OTE0NTQ1/OTYtMTAyOC5qcGVn.jpeg"
     - "https://i.discogs.com/omEtC5JqxlbLLE48qUnF7zNFmD5NlLGUhdpV4AtNZpE/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3OTA5/NDI5LTE2OTE0NTQ1/OTYtMjI5OS5qcGVn.jpeg"
-    - "https://i.discogs.com/mjFW16_G5UR9HEbahVF_8-hdLlKi5iZWTbNVzJXi_dc/rs:fit/g:sm/q:90/h:614/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3OTA5/NDI5LTE2OTE0NTQ1/OTktMTI3OS5qcGVn.jpeg"
+    - "https://i.discogs.com/sxvCmf5x8oySDRo6JNNe2QRLIEbZQm21uJcBr1IVFG0/rs:fit/g:sm/q:90/h:600/w:585/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3OTA5/NDI5LTE2OTE0NTQ1/OTktMTI3OS5qcGVn.jpeg"
     - "https://i.discogs.com/vkuNK-uVp52EnxmhItSlq4jE5c6BVE21TPmreHGFGFI/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3OTA5/NDI5LTE2OTE0NTQ2/MjctNTI4MS5qcGVn.jpeg"
 genres: ["Rock"]
-styles: ["Indie Rock"]
+styles: ["Indie Rock", "Shoegaze"]
 ---
 
-Split is the third studio album by English rock band Lush, released on 4AD on 13 June 1994 in the United Kingdom and a day later in the US. Two commercial singles were released from the album: "Desire Lines" and "Hypocrite", both released on 30 May 1994. Split was reissued by 4AD on CD in July 2001.
-
-
-    
-    
 
 
 ## Tracklisting
@@ -50,11 +45,21 @@ Split is the third studio album by English rock band Lush, released on 4AD on 13
 
 
 ## Videos
-### Lush - Desire Lines (Official Video)
-{{< youtube id="1ccElDZUTpQ" title="Lush - Desire Lines (Official Video)" >}}<br>
+### Lush - Light From A Dead Star  [2023 Remaster] (Official Visualiser)
+{{< youtube id="q3eMtIIf98U" title="Lush - Light From A Dead Star  [2023 Remaster] (Official Visualiser)" >}}<br>
 ### More Videos
 
+- [Lush - Desire Lines (Official Video)](https://www.youtube.com/watch?v=1ccElDZUTpQ)
 - [Lush - Hypocrite (Official Video)](https://www.youtube.com/watch?v=qGVzyby5kcU)
+- [Lush - Lit Up  [2023 Remaster] (Official Visualiser)](https://www.youtube.com/watch?v=V33YbgQxNZE)
+- [Lush - Lovelife  [2023 Remaster] (Official Visualiser)](https://www.youtube.com/watch?v=1rfgcjT_tCw)
+- [Lush - Kiss Chase  [2023 Remaster] (Official Visualiser)](https://www.youtube.com/watch?v=qaiMZjG6Pyk)
+- [Lush - Blackout  [2023 Remaster] (Official Audio)](https://www.youtube.com/watch?v=UsxrkT0EHGE)
+- [Lush - Hypocrite  [2023 Remaster] (Official Visualiser)](https://www.youtube.com/watch?v=L_IxLGDa4oE)
+- [Lush - The Invisible Man  [2023 Remaster] (Official Visualiser)](https://www.youtube.com/watch?v=a9uHLk9PyVY)
+- [Lush - Undertow  [2023 Remaster] (Official Visualiser)](https://www.youtube.com/watch?v=osB980jn5PY)
+- [Lush - Starlust  [2023 Remaster] (Official Visualiser)](https://www.youtube.com/watch?v=of5jv8VNPxA)
+- [Lush - When I Die  [2023 Remaster] (Official Visualiser)](https://www.youtube.com/watch?v=u85wJsfkLmk)
 
 ## Release Images
 {{< imageGrid >}}
@@ -62,9 +67,8 @@ Split is the third studio album by English rock band Lush, released on 4AD on 13
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Wikipedia URL | https://en.wikipedia.org/wiki/Split_(Lush_album) |
 | Format         | Vinyl LP Album Limited Edition Reissue Remastered Stereo (Clear) |
 | Label          | 4AD |
 | Catalog Number | 4ad0452lp |
-| Notes | Tracks listed sequentially (1 to 12) on sleeve and label. |
+| Notes | Tracks listed sequentially (1 to 12) on sleeve and label.  Some copies lack sticker barcode.  |
 | Discogs URL    | [Lush - Split](https://www.discogs.com/release/27909429-Lush-Split) |

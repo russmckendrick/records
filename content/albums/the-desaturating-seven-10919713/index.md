@@ -15,7 +15,7 @@ cover:
 additional_images:
     - "https://i.discogs.com/GTvuD7aDgnYtoak-kXMy4dP8fDas0kSgCblgJ_BLkjg/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwOTE5/NzEzLTE1MDY1MzEz/OTMtMjE2OS5qcGVn.jpeg"
     - "https://i.discogs.com/gz9o-RC2j0IcLSqjRSlCyvGvwpUPBZ15IRNHVXbjtho/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwOTE5/NzEzLTE1MjU4MTE3/MjMtNzQzMC5qcGVn.jpeg"
-    - "https://i.discogs.com/mbprYitit_CD-WGRurdLXtg-mO1D13TYDUUEr8qn4AY/rs:fit/g:sm/q:90/h:854/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwOTE5/NzEzLTE2MDU5NTE1/OTEtOTMxMS5qcGVn.jpeg"
+    - "https://i.discogs.com/Z2n0O8dWzvfy8TaSJzjlTROdAB19OtYhzhPIQwD-s78/rs:fit/g:sm/q:90/h:600/w:421/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwOTE5/NzEzLTE2MDU5NTE1/OTEtOTMxMS5qcGVn.jpeg"
     - "https://i.discogs.com/zxxwRv70Be7BfYy8uBqQ9FfPeLn6SG_NR_LVkka2SHQ/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwOTE5/NzEzLTE1MjU4MTE3/MjMtNjk3MS5qcGVn.jpeg"
     - "https://i.discogs.com/TUuTRN-8ypis738qmGNIaGezogIMiyEUna8lYfnCFUU/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwOTE5/NzEzLTE1MjU4MTE3/NjgtMzU1OS5qcGVn.jpeg"
     - "https://i.discogs.com/Ppf0WjCXoyRJzjOQaxkKn_QoCTjIT4ddZcWlJ8UlXO8/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwOTE5/NzEzLTE1MjU4MTE3/NjktMzQ0Mi5qcGVn.jpeg"
@@ -30,7 +30,7 @@ genres: ["Rock"]
 styles: ["Alternative Rock", "Funk Metal"]
 ---
 
-Reuniting the classic Primus lineup to record original music for the first time since 1995, <i>The Desaturating Seven</i> is a concept album based on a children’s book called <i>The Rainbow Goblins</i>. Channeling their prog-rock roots, the band filters a fairy tale of color-eating goblins through adventurous time signatures, skronky-tonk guitar work, and ringleader Les Claypool’s nasal vocal intonations and bulbous basslines. This is Primus as fun-loving, boisterous, and ambitious as ever.
+Reuniting the classic Primus lineup to record original music for the first time since 1995, <i>The Desaturating Seven</i> is a concept album based on a children’s book called <i>The Rainbow Goblins</i>. Channelling their prog-rock roots, the band filters a fairy tale of colour-eating goblins through adventurous time signatures, skronky-tonk guitar work and ringleader Les Claypool’s nasal vocal intonations and bulbous basslines. This is Primus as fun-loving, boisterous and ambitious as ever.
         
         
     
@@ -50,19 +50,37 @@ Reuniting the classic Primus lineup to record original music for the first time 
 
 
 ## Videos
-### Primus - The Rainbow Goblins Chapter 7 (The Ends?)
-{{< youtube id="zH0ciOB9Fgw" title="Primus - The Rainbow Goblins Chapter 7 (The Ends?)" >}}<br>
+### Primus - The Seven (Official Lyric Video)
+{{< youtube id="kZVToL4LhDQ" title="Primus - The Seven (Official Lyric Video)" >}}<br>
 ### More Videos
 
+- [Primus - The Rainbow Goblins Chapter 3 (The Trek)](https://www.youtube.com/watch?v=rEOH7MeltqU)
+- [Primus - The Scheme (Official Audio)](https://www.youtube.com/watch?v=oF4DXdRWzY0)
+- [Primus - The Rainbow Goblins Chapter 7 (The Ends?)](https://www.youtube.com/watch?v=zH0ciOB9Fgw)
+- [Primus - The Rainbow Goblins Chapter 1 (The Valley)](https://www.youtube.com/watch?v=Ui0Y0fVRjzU)
 - [Primus - The Seven (Official Audio)](https://www.youtube.com/watch?v=jw95wlggfYM)
+- [Primus - The Trek - (The Desaturating Seven)](https://www.youtube.com/watch?v=25ofF3O6Rz8)
+- [Primus - The Rainbow Goblins Chapter 6 (The Storm)](https://www.youtube.com/watch?v=-bfF94YCu7o)
+- [Primus - The Rainbow Goblins Chapter 2 (The Seven)](https://www.youtube.com/watch?v=xIyzA-xHnh0)
+- [Primus - The Rainbow Goblins Chapter 4 (The Scheme)](https://www.youtube.com/watch?v=jc7Fa2ihwpQ)
+- [Primus - The Valley - (The Desaturating Seven)](https://www.youtube.com/watch?v=43mrOTRtCAI)
+- [Primus - The Storm -  (The Desaturating Seven)](https://www.youtube.com/watch?v=dS3KEHam1kE)
+- [Primus - The Rainbow Goblins Chapter 6 (The Storm)](https://www.youtube.com/watch?v=-bfF94YCu7o)
+- [Primus - The Rainbow Goblins Chapter 7 (The Ends?)](https://www.youtube.com/watch?v=zH0ciOB9Fgw)
 - [Primus - The Seven (Official Lyric Video)](https://www.youtube.com/watch?v=kZVToL4LhDQ)
 - [Primus - The Desaturating Seven [Full Album]](https://www.youtube.com/watch?v=yLhJYYRx_9k)
-- [Primus - The Trek - (The Desaturating Seven)](https://www.youtube.com/watch?v=25ofF3O6Rz8)
 - [Primus - The Rainbow Goblins Chapter 1 (The Valley)](https://www.youtube.com/watch?v=Ui0Y0fVRjzU)
-- [Primus - The Rainbow Goblins Chapter 6 (The Storm)](https://www.youtube.com/watch?v=-bfF94YCu7o)
 - [Primus - The Rainbow Goblins Chapter 3 (The Trek)](https://www.youtube.com/watch?v=rEOH7MeltqU)
-- [Primus - The Rainbow Goblins Chapter 2 (The Seven)](https://www.youtube.com/watch?v=xIyzA-xHnh0)
 - [Primus - The Scheme (Official Audio)](https://www.youtube.com/watch?v=oF4DXdRWzY0)
+- [Primus - The Seven (Official Lyric Video)](https://www.youtube.com/watch?v=kZVToL4LhDQ)
+- [Primus - The Rainbow Goblins Chapter 3 (The Trek)](https://www.youtube.com/watch?v=rEOH7MeltqU)
+- [Primus - The Scheme (Official Audio)](https://www.youtube.com/watch?v=oF4DXdRWzY0)
+- [Primus - The Rainbow Goblins Chapter 7 (The Ends?)](https://www.youtube.com/watch?v=zH0ciOB9Fgw)
+- [Primus - The Rainbow Goblins Chapter 1 (The Valley)](https://www.youtube.com/watch?v=Ui0Y0fVRjzU)
+- [Primus - The Seven (Official Audio)](https://www.youtube.com/watch?v=jw95wlggfYM)
+- [Primus - The Trek - (The Desaturating Seven)](https://www.youtube.com/watch?v=25ofF3O6Rz8)
+- [Primus - The Rainbow Goblins Chapter 6 (The Storm)](https://www.youtube.com/watch?v=-bfF94YCu7o)
+- [Primus - The Rainbow Goblins Chapter 2 (The Seven)](https://www.youtube.com/watch?v=xIyzA-xHnh0)
 - [Primus - The Rainbow Goblins Chapter 4 (The Scheme)](https://www.youtube.com/watch?v=jc7Fa2ihwpQ)
 - [Primus - The Valley - (The Desaturating Seven)](https://www.youtube.com/watch?v=43mrOTRtCAI)
 - [Primus - The Storm -  (The Desaturating Seven)](https://www.youtube.com/watch?v=dS3KEHam1kE)

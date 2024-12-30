@@ -15,9 +15,9 @@ additional_images:
     - "https://i.discogs.com/tbdnN90tmrQgWq3tIC_8FqeJyEMotorSiLClXhTCWFs/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc4Mjk4/OTQtMTQ1MDI3Njkx/OS04Mzc4LmpwZWc.jpeg"
     - "https://i.discogs.com/xUOrEFblr0pI-I9SbkQMMe-xHBW4zz_ln3BtSJJDcM4/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc4Mjk4/OTQtMTQ1MDUzMTcz/My04Mzk1LmpwZWc.jpeg"
     - "https://i.discogs.com/30bz8jMTvMXu1Mr6w8Zwzm_5cz5JNE5bs0rEX5C5ZXk/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc4Mjk4/OTQtMTQ1MDUzMTky/Ny04NzYwLmpwZWc.jpeg"
-    - "https://i.discogs.com/X2pp0xj_UuObSXUQYrxmnNRxoj8hoPnkhhK-DC0CPZg/rs:fit/g:sm/q:90/h:635/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc4Mjk4/OTQtMTQ1MDUzMTg4/MS0yODUzLmpwZWc.jpeg"
+    - "https://i.discogs.com/6KpctO_HXcrgzoz_voL5fwT_0bf76Ic52yVs2fheFec/rs:fit/g:sm/q:90/h:600/w:566/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc4Mjk4/OTQtMTQ1MDUzMTg4/MS0yODUzLmpwZWc.jpeg"
     - "https://i.discogs.com/jTg8HLhBWKXCSpPXsBkolm321aZ0TqEL4xvoKQGfmlY/rs:fit/g:sm/q:90/h:578/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc4Mjk4/OTQtMTQ1MDUzMTk0/OC05OTQ3LmpwZWc.jpeg"
-    - "https://i.discogs.com/xQ80mW5oMLTFEDSXfRCsMnLB_pFWeDDH-jWpONkAHdc/rs:fit/g:sm/q:90/h:614/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc4Mjk4/OTQtMTQ1MDUzMTg4/My03OTgxLmpwZWc.jpeg"
+    - "https://i.discogs.com/Z2LToFfzO3ZKT67oEsUAs3RUeSKoJG3QZdIHS0EWBb4/rs:fit/g:sm/q:90/h:600/w:585/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc4Mjk4/OTQtMTQ1MDUzMTg4/My03OTgxLmpwZWc.jpeg"
     - "https://i.discogs.com/_BalSCVL2cs9-jImpHIDWC3NskWDRlpAu3EoSZcqe8M/rs:fit/g:sm/q:90/h:593/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc4Mjk4/OTQtMTQ1MDUzMTg5/NS01NzY3LmpwZWc.jpeg"
     - "https://i.discogs.com/Ky9YJCF51qxEGdLsHfGrAF-J7lD5vlpeGwmOYo7-fjs/rs:fit/g:sm/q:90/h:355/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc4Mjk4/OTQtMTQ1MDUzMTk0/Ni03MTgzLmpwZWc.jpeg"
     - "https://i.discogs.com/sYtX3TITebCxpptuCQjo1Ghzq8U9XW3TSKTo3M_-lys/rs:fit/g:sm/q:90/h:280/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc4Mjk4/OTQtMTQ1MDUzMTk0/Mi03NTgyLmpwZWc.jpeg"
@@ -43,10 +43,12 @@ styles: []
 
 
 ## Videos
-### Dave Gahan, Soulsavers - Shine (Official Video)
-{{< youtube id="MP38Z1QfkYw" title="Dave Gahan, Soulsavers - Shine (Official Video)" >}}<br>
+### Dave Gahan, Soulsavers - All of This and Nothing (Lyric Video)
+{{< youtube id="2k11RlYp51I" title="Dave Gahan, Soulsavers - All of This and Nothing (Lyric Video)" >}}<br>
 ### More Videos
 
+- [Dave Gahan, Soulsavers - Shine (Official Video)](https://www.youtube.com/watch?v=MP38Z1QfkYw)
+- [Dave Gahan, Soulsavers - All of This and Nothing (Lyric Video)](https://www.youtube.com/watch?v=2k11RlYp51I)
 - [Dave Gahan, Soulsavers - All of This and Nothing (Lyric Video)](https://www.youtube.com/watch?v=2k11RlYp51I)
 
 ## Release Images

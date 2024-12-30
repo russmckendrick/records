@@ -14,15 +14,21 @@ cover:
 additional_images:
     - "https://i.discogs.com/xc3dxL3rGxUNfOLNcCJi1Aj65pyxq3i7wvCTyqosBiQ/rs:fit/g:sm/q:90/h:480/w:480/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYxMjkz/MDctMTQxMTgwMzI5/NS0xMDEwLmpwZWc.jpeg"
     - "https://i.discogs.com/RFpmlrE9kpO3XLu9u-0xRejPRcqzKajHONIyQRmwZp0/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYxMjkz/MDctMTQ1OTM4NDU2/NC0xNjU1LmpwZWc.jpeg"
-    - "https://i.discogs.com/4z2N1y9tSU-tFqfwsyls0Z01xejPrviTWEvGlUxHCqs/rs:fit/g:sm/q:90/h:608/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYxMjkz/MDctMTQ1Nzk5NTYx/Ny00NzQzLmpwZWc.jpeg"
-    - "https://i.discogs.com/4cL8aZbX9BMNiqTe2rHP5tO7axAbY537oGolptmRe_Q/rs:fit/g:sm/q:90/h:610/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYxMjkz/MDctMTQ1Nzk5NTYx/Ny03MjE0LmpwZWc.jpeg"
-    - "https://i.discogs.com/qmci78DJ3PCD3wMQH_wPnGJqf2K_E3gs6XclUHbH3Uk/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYxMjkz/MDctMTQ1Nzk5NTYy/Ny0zNTA5LmpwZWc.jpeg"
+    - "https://i.discogs.com/dhdEUz9X6OyIh8uDbUqL5lyX6JIg-LEuv6aMk-G9aW8/rs:fit/g:sm/q:90/h:600/w:591/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYxMjkz/MDctMTQ1Nzk5NTYx/Ny00NzQzLmpwZWc.jpeg"
+    - "https://i.discogs.com/dGabSEf_P17sKAKGASYp4eAbIyeSmwctzS6wMDGnQr0/rs:fit/g:sm/q:90/h:600/w:589/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYxMjkz/MDctMTQ1Nzk5NTYx/Ny03MjE0LmpwZWc.jpeg"
+    - "https://i.discogs.com/fhJGp2qAepxWW_5VWVCXJQAQl0Wl2iW84lbd9R-83X8/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYxMjkz/MDctMTQ1Nzk5NTYy/Ny0zNTA5LmpwZWc.jpeg"
     - "https://i.discogs.com/UFRN-mPRq0tNrTzrf8QDfd0PKZ_GFC-4WEEqXpOgPDk/rs:fit/g:sm/q:90/h:566/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYxMjkz/MDctMTQxMTg1MjQ3/NS00MzU3LmpwZWc.jpeg"
     - "https://i.discogs.com/RWwVyLmx_0RUsostzuNipxjDFqCoOofh_8agRxk9SDs/rs:fit/g:sm/q:90/h:584/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYxMjkz/MDctMTQxMTg1MjQ2/MC0zNTc3LmpwZWc.jpeg"
 genres: ["Rock"]
 styles: ["Stoner Rock"]
 ---
 
+Gigantoid is the eleventh studio album by American stoner rock band Fu Manchu. It was released on April 29, 2014, on At the Dojo Records. The album features "a slightly more primitive, raw and ultra fuzzed-out sound" than previous releases.
+Initially released as a 2013 split seven-inch single with psych-metal trio Moab, "Robotic Invasion" appears as a bonus track on the digital version of Gigantoid.
+
+
+    
+    
 
 
 ## Tracklisting
@@ -60,6 +66,7 @@ styles: ["Stoner Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
+| Wikipedia URL | https://en.wikipedia.org/wiki/Gigantoid |
 | Format         | Vinyl LP Album Repress (Blue Translucent With White Splatter) |
 | Label          | At The Dojo Records |
 | Catalog Number | ATD008 |

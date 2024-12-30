@@ -12,19 +12,19 @@ cover:
     alt: "Pygmalion by Slowdive"
     caption: "Pygmalion by Slowdive"
 additional_images:
-    - "https://i.discogs.com/LmNWaCk7Q0kIEinryjLeL-yyzTBHR4oZY_ZA8WyFpLY/rs:fit/g:sm/q:90/h:604/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NzY1/NDI5LTE2NTM3NTg5/NDktNjgxMC5qcGVn.jpeg"
+    - "https://i.discogs.com/ZxVGMaA-VNmPwzNqjTAAMBcAlExKTFsgvymQnDagEcY/rs:fit/g:sm/q:90/h:600/w:595/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NzY1/NDI5LTE2NTM3NTg5/NDktNjgxMC5qcGVn.jpeg"
     - "https://i.discogs.com/d0NtzDplwCpJ6bPHO-vEZhyaKsRRsA420bX-JtBvWFw/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NzY1/NDI5LTE1OTgxMDgy/NjktNzQ1Ny5qcGVn.jpeg"
     - "https://i.discogs.com/gSkqCV5gC21WY3JYQB6q8XCF4maOxe7uYN52Hfih5YY/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NzY1/NDI5LTE1OTgxMDgy/NjktMTA5Mi5qcGVn.jpeg"
-    - "https://i.discogs.com/dCxRKpC06YkrXTjBSavsKkn70D3aAVbkguWSGjXUCmc/rs:fit/g:sm/q:90/h:615/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NzY1/NDI5LTE1OTgxMDgy/NzEtODI0Ni5qcGVn.jpeg"
+    - "https://i.discogs.com/yg71Iv-Tm1yGc2RdpmEl4ZLpuMZISJg0K5a5aSyx5UE/rs:fit/g:sm/q:90/h:600/w:585/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NzY1/NDI5LTE1OTgxMDgy/NzEtODI0Ni5qcGVn.jpeg"
     - "https://i.discogs.com/N7iTOwQNiv3uNnFNVQSE860IgiLfIzCC4nXwR_X1GGY/rs:fit/g:sm/q:90/h:592/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NzY1/NDI5LTE1OTgxMDgy/NzEtOTM2Ni5qcGVn.jpeg"
     - "https://i.discogs.com/MVd52mpjRrF9bUNx9VuywqdHVZbPuhB7jRTFbQXPMoM/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NzY1/NDI5LTE1OTgxMDgy/NzAtOTQ0Ni5qcGVn.jpeg"
     - "https://i.discogs.com/SFWTP1elLjJly-RvUgb7lXKYgGqdVX1738lUKHJITek/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NzY1/NDI5LTE1OTgxMDgy/NzAtMzYxNS5qcGVn.jpeg"
     - "https://i.discogs.com/3-QYtfSYn9vYwONIDqfwoEZT6Tp0hSzl4kt95azn7kw/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NzY1/NDI5LTE1OTgxMDgy/NzEtMjQ1NC5qcGVn.jpeg"
 genres: ["Electronic", "Rock"]
-styles: ["Post Rock", "Ethereal", "Ambient"]
+styles: ["Post Rock", "Ethereal", "Ambient", "Abstract", "Dream Pop", "Shoegaze"]
 ---
 
-Pygmalion is the third studio album by English rock band Slowdive, released on 6 February 1995 by Creation Records. It was the group's final album before their reformation in 2014, and their only album with Ian McCutcheon, who had replaced Simon Scott on drums.
+Pygmalion is the third studio album by English rock band Slowdive, released on 6 February 1995 by Creation Records. It was the group's final album before their disbandment in 1995 and later reformation in 2014, and their only album with Ian McCutcheon, who had replaced Simon Scott on drums.
 
 
     
@@ -51,8 +51,6 @@ Pygmalion is the third studio album by English rock band Slowdive, released on 6
 {{< youtube id="X3UmjDqF0lc" title="Rutti" >}}<br>
 ### More Videos
 
-- [Crazy for You (Alternative Version (Demo Version))](https://www.youtube.com/watch?v=_4jYMIx0HHU)
-- [Slowdive-Option One (Instrumental #1)](https://www.youtube.com/watch?v=Xc5DpJprI_E)
 - [Crazy for You](https://www.youtube.com/watch?v=fb4MRvJ6NXw)
 - [Miranda](https://www.youtube.com/watch?v=D5BuFce-Ro4)
 - [Trellisaze](https://www.youtube.com/watch?v=oDEG7-MKaTI)

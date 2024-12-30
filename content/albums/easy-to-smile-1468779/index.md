@@ -12,9 +12,9 @@ cover:
     alt: "Easy To Smile by Senseless Things"
     caption: "Easy To Smile by Senseless Things"
 additional_images:
-    - "https://i.discogs.com/LzxUctYkEFF8L9HfF729aDB0ckCG1ubFWifwhgDHhMw/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0Njg3/NzktMTUwMzIyOTAz/Ni00ODIyLmpwZWc.jpeg"
+    - "https://i.discogs.com/BdCRJOUrAR6xnRsq428kWIJvUjQlhP6OSE-4aMJycuw/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0Njg3/NzktMTUwMzIyOTAz/Ni00ODIyLmpwZWc.jpeg"
     - "https://i.discogs.com/Qs3R1bb3SIWjiG9WMwex_OnH8nlAtAJhWp36dkTpQeQ/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0Njg3/NzktMTUwMzIyOTAy/Mi00MzUyLmpwZWc.jpeg"
-    - "https://i.discogs.com/6y2uQsGKgXb1P1rSVv5MTwLPDIUCFJTr6uM9qrRaY8g/rs:fit/g:sm/q:90/h:601/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0Njg3/NzktMTUwMzIyODk0/MC0yODk3LmpwZWc.jpeg"
+    - "https://i.discogs.com/s29srylIScnTBNoyWuy5MZKz3SHX7pObsvAO-dRptXM/rs:fit/g:sm/q:90/h:600/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0Njg3/NzktMTUwMzIyODk0/MC0yODk3LmpwZWc.jpeg"
     - "https://i.discogs.com/bMZ-qdPk8H8SPOyeA0fPf68bZ2iLxP8XYbLyMKPcYSM/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0Njg3/NzktMTUwMzIyODk0/MC0yNTkwLmpwZWc.jpeg"
     - "https://i.discogs.com/KYA-WfEm88QX1FZ6blVPN3sXN2Q1Z2K7640WGLfihVc/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0Njg3/NzktMTY0ODQ3Nzk5/OC03NDk3LmpwZWc.jpeg"
 genres: ["Rock"]
@@ -33,10 +33,11 @@ styles: ["Indie Rock"]
 
 
 ## Videos
-### Easy To Smile (Edited Version)
-{{< youtube id="98eDh69GD-M" title="Easy To Smile (Edited Version)" >}}<br>
+### senseless things - easy to smile
+{{< youtube id="xoqkAI7vk3c" title="senseless things - easy to smile" >}}<br>
 ### More Videos
 
+- [Easy To Smile (Edited Version)](https://www.youtube.com/watch?v=98eDh69GD-M)
 - [senseless things - easy to smile](https://www.youtube.com/watch?v=xoqkAI7vk3c)
 
 ## Release Images

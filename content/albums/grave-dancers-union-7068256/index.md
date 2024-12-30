@@ -24,7 +24,9 @@ genres: ["Rock"]
 styles: ["Alternative Rock"]
 ---
 
-Grave Dancers Union is the sixth studio album by American alternative rock band Soul Asylum and was released in 1992. The album spent 76 weeks on the US Billboard music charts and was certified triple-platinum in 1993, establishing Soul Asylum as one of the most successful rock groups of the first half of the 1990s.
+Grave Dancers Union is the sixth studio album by American alternative rock band Soul Asylum and was released in 1992. The album features the single "Runaway Train", which reached number five on the Billboard Hot 100 and was the biggest hit of the Soul Asylum's career. The album is certified double platinum by the Recording Industry Association of America for sales of two million copies in the United States.
+
+
     
     
 
@@ -48,21 +50,44 @@ Grave Dancers Union is the sixth studio album by American alternative rock band 
 
 
 ## Videos
-### Soul Asylum - Somebody to Shove
-{{< youtube id="OrrE5bCA5lg" title="Soul Asylum - Somebody to Shove" >}}<br>
+### Soul Asylum - Somebody to Shove (Official HD Video)
+{{< youtube id="OrrE5bCA5lg" title="Soul Asylum - Somebody to Shove (Official HD Video)" >}}<br>
 ### More Videos
 
-- [Soul Asylum - Black Gold](https://www.youtube.com/watch?v=KpiFDrFEGvE)
-- [Soul Asylum - Runaway Train (Official Video)](https://www.youtube.com/watch?v=NRtvqT_wMeY)
-- [Soul Asylum - Without a Trace](https://www.youtube.com/watch?v=yNWR3OenaPk)
-- [Keep It Up](https://www.youtube.com/watch?v=C2kQ5ECi6QM)
-- [Homesick](https://www.youtube.com/watch?v=RQrGcKBFKfM)
-- [Get on Out](https://www.youtube.com/watch?v=VBrLC_QEsG0)
-- [New World](https://www.youtube.com/watch?v=vSNQpQYQM8E)
-- [April Fool](https://www.youtube.com/watch?v=sP6AgxumUzY)
-- [Growing Into You](https://www.youtube.com/watch?v=oiSGuza-obQ)
-- [99%](https://www.youtube.com/watch?v=OrGtWLrMTxQ)
-- [The Sun Maid](https://www.youtube.com/watch?v=x025XOmFg5A)
+- [Soul Asylum - Black Gold (Official HD Video)](https://www.youtube.com/watch?v=KpiFDrFEGvE)
+- [Soul Asylum - Runaway Train (Official HD Video)](https://www.youtube.com/watch?v=NRtvqT_wMeY)
+- [Soul Asylum - Keep It Up (Official Audio)](https://www.youtube.com/watch?v=U5X9lu5wZGE)
+- [Soul Asylum - Homesick (Official Audio)](https://www.youtube.com/watch?v=sLJovBEyCSc)
+- [Soul Asylum - Get On Out (Official Audio)](https://www.youtube.com/watch?v=b76N8KF6gxo)
+- [Soul Asylum - New World (Official Audio)](https://www.youtube.com/watch?v=k5zCxPTMQEc)
+- [Soul Asylum - April Fool (Official Audio)](https://www.youtube.com/watch?v=8O2a1fuS3O8)
+- [Soul Asylum - Without a Trace (Official HD Video)](https://www.youtube.com/watch?v=yNWR3OenaPk)
+- [Soul Asylum - Growing Into You (Official Audio)](https://www.youtube.com/watch?v=wAurPDa8Qfk)
+- [Soul Asylum - 99% (Official Audio)](https://www.youtube.com/watch?v=OwOkt89dt70)
+- [Soul Asylum - The Sun Maid (Official Audio)](https://www.youtube.com/watch?v=ISXlEt94VTA)
+- [Black Gold (2022 Remaster)](https://www.youtube.com/watch?v=EHqzg7YOtFQ)
+- [Runaway Train (2022 Remaster)](https://www.youtube.com/watch?v=5cRopUrDgRQ)
+- [Keep It Up (2022 Remaster)](https://www.youtube.com/watch?v=C2kQ5ECi6QM)
+- [Homesick (2022 Remaster)](https://www.youtube.com/watch?v=RQrGcKBFKfM)
+- [Get On Out (2022 Remaster)](https://www.youtube.com/watch?v=VBrLC_QEsG0)
+- [New World (2022 Remaster)](https://www.youtube.com/watch?v=vSNQpQYQM8E)
+- [April Fool (2022 Remaster)](https://www.youtube.com/watch?v=sP6AgxumUzY)
+- [Growing Into You (2022 Remaster)](https://www.youtube.com/watch?v=oiSGuza-obQ)
+- [99% (2022 Remaster)](https://www.youtube.com/watch?v=OrGtWLrMTxQ)
+- [The Sun Maid (2022 Remaster)](https://www.youtube.com/watch?v=x025XOmFg5A)
+- [Somebody to Shove (2022 Remaster) (Live at Majestic Theatre, Ventura, CA - April 1993)](https://www.youtube.com/watch?v=RO0HjMX7ZXc)
+- [Black Gold (Live at Deep Ellum, Dallas, TX - December 1992)](https://www.youtube.com/watch?v=_d2vlNAWR1A)
+- [Soul Asylum - Can't Even Tell (Official Video)](https://www.youtube.com/watch?v=lP78Wc3-EGg)
+- [Square Root (2022 Remaster) (Demo)](https://www.youtube.com/watch?v=Xvqfnfjr_Yo)
+- [Runaway Train (Live at Majestic Theatre, Ventura, CA - April 1993)](https://www.youtube.com/watch?v=H0bY8OdAD6c)
+- [Sexual Healing (2022 Remaster)](https://www.youtube.com/watch?v=uGQa636XSj0)
+- [Without a Trace (Live at Majestic Theatre, Ventura, CA - April 1993)](https://www.youtube.com/watch?v=h8iFSD4vMGU)
+- [Soul Asylum - Summer of Drugs (Official Video)](https://www.youtube.com/watch?v=HwuSZAwUysM)
+- [By the Way (2022 Remaster) (Demo)](https://www.youtube.com/watch?v=wFTWN8OZJCU)
+- [The Break](https://www.youtube.com/watch?v=qOC7tmSCZ4w)
+- [Everybody Loves A Winner (2022 Remaster)](https://www.youtube.com/watch?v=Vim37dLBsyI)
+- [Never Really Been (Live at Liberty Lunch, Austin, TX - December 1992)](https://www.youtube.com/watch?v=0cB-X22-BEw)
+- [The Tracks of My Tears (2022 Remaster) (Live at 7th St Entry, Minneapolis, MN - November 1992)](https://www.youtube.com/watch?v=Sn5kVCxj8Gg)
 
 ## Release Images
 {{< imageGrid >}}
@@ -75,4 +100,4 @@ Grave Dancers Union is the sixth studio album by American alternative rock band 
 | Label          | Columbia |
 | Catalog Number | MOVLP1368 |
 | Notes | 180 gram audiophile vinyl, including insert |
-| Discogs URL    | [Soul Asylum - Grave Dancers Union](https://www.discogs.com/release/7068256-Soul-Asylum-Grave-Dancers-Union) |
+| Discogs URL    | [Soul Asylum - Grave Dancers Union](https://www.discogs.com/release/7068256-Soul-Asylum-2-Grave-Dancers-Union) |

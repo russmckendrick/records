@@ -12,10 +12,10 @@ cover:
     alt: "Hologram by Amplifier"
     caption: "Hologram by Amplifier"
 additional_images:
-    - "https://i.discogs.com/bQkIFycneSu4NuR3uuFFgsd1K1nEXiUske8CxGPUC8o/rs:fit/g:sm/q:90/h:610/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4MjU5/NDUyLTE2OTQ2OTIz/NDItNTMyNi5qcGVn.jpeg"
+    - "https://i.discogs.com/3uEjk60wpy4OOwGKmglswBTcu4o7rUMO6F8NJy3j2mM/rs:fit/g:sm/q:90/h:600/w:589/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4MjU5/NDUyLTE2OTQ2OTIz/NDItNTMyNi5qcGVn.jpeg"
     - "https://i.discogs.com/836aigW1RcXlCx-vhMYsUYNiGrqs2ZOYApYw2hKmHTw/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4MjU5/NDUyLTE2OTQ2OTIz/NDctNjExNC5qcGVn.jpeg"
-    - "https://i.discogs.com/_s4RUfShKtykeuXNCUWX9CPu0NfQF2FSuYxIrLEpx8o/rs:fit/g:sm/q:90/h:609/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4MjU5/NDUyLTE2OTQ2OTIz/NTMtNjc0Mi5qcGVn.jpeg"
-    - "https://i.discogs.com/OdKPiCmOGWRkjuEeuyI-Qj24gCkT0Ab-HBIqxK_qbBc/rs:fit/g:sm/q:90/h:610/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4MjU5/NDUyLTE2OTQ2OTIz/NTctNzYzOC5qcGVn.jpeg"
+    - "https://i.discogs.com/xUoMapaEMXxLvPonQzqhFMOBKHOhZU_wuYOR1lTBYFU/rs:fit/g:sm/q:90/h:600/w:590/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4MjU5/NDUyLTE2OTQ2OTIz/NTMtNjc0Mi5qcGVn.jpeg"
+    - "https://i.discogs.com/iL2sRnk5gHlmjf6MhMUo4m64fsbV7Xb6cmE5_Falj6A/rs:fit/g:sm/q:90/h:600/w:589/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4MjU5/NDUyLTE2OTQ2OTIz/NTctNzYzOC5qcGVn.jpeg"
 genres: ["Rock"]
 styles: []
 ---
@@ -46,4 +46,4 @@ styles: []
 | Label          | Rockosmos |
 | Catalog Number | ROK262 |
 | Notes | Limited to 500 copies. Half and Half Blue/Red coloured vinyl. Some copies Signed rear side on sleeve. |
-| Discogs URL    | [Amplifier - Hologram](https://www.discogs.com/release/28259452-Amplifier-Hologram) |
+| Discogs URL    | [Amplifier - Hologram](https://www.discogs.com/release/28259452-Amplifier-3-Hologram) |

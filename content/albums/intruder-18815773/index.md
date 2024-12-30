@@ -25,7 +25,7 @@ additional_images:
     - "https://i.discogs.com/JRKvtqWKm_t0cmPGs7wFLFgJPXU2SJTxOdLNbe6Pii8/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4ODE1/NzczLTE2MjY5MDc5/ODEtNjk4My5qcGVn.jpeg"
     - "https://i.discogs.com/qZIQffWAX7pMTdaHe4yaY3WonRIaHONeQZz9pv0K9n4/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4ODE1/NzczLTE2MjY5MDc5/ODEtNDUyNi5qcGVn.jpeg"
     - "https://i.discogs.com/ave0qm3WLwTssfX2j4sM4dqcgNCdLJaJhhZYVPrdcxw/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4ODE1/NzczLTE2MjY5MDc5/ODEtNzQ0MS5qcGVn.jpeg"
-    - "https://i.discogs.com/hB5tFnAdSF7x5R_lni0fJkc1giCocg0QC3hKw2c3of8/rs:fit/g:sm/q:90/h:632/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4ODE1/NzczLTE2MjE1Nzgz/ODUtODY5MC5qcGVn.jpeg"
+    - "https://i.discogs.com/5JxfLfKRrZNzXpZ87wWR7ZOn3PR3lF3e9Jk4SFr3IsU/rs:fit/g:sm/q:90/h:600/w:569/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4ODE1/NzczLTE2MjE1Nzgz/ODUtODY5MC5qcGVn.jpeg"
 genres: ["Rock"]
 styles: ["Industrial"]
 ---
@@ -51,7 +51,7 @@ Intruder is the nineteenth studio album by English musician Gary Numan, released
 13. The End Of Dragons (Alt) 
 
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/intruder/1544855563" >}}<br>
+{{< applemusic url="https://music.apple.com/gb/album/intruder/1566837719" >}}<br>
 
 
 ## Videos
@@ -77,7 +77,7 @@ Intruder is the nineteenth studio album by English musician Gary Numan, released
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Wikipedia URL | https://en.wikipedia.org/wiki/Intruder_(Gary_Numan_album) |
+| Wikipedia URL | https://en.wikipedia.org/wiki/Intruder_(album) |
 | Format         | Vinyl 2× LP Album Limited Edition Stereo (Silver ) |
 | Label          | BMG |
 | Catalog Number | 538658721 |

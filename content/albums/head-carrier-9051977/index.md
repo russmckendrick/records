@@ -12,7 +12,7 @@ cover:
     alt: "Head Carrier by Pixies"
     caption: "Head Carrier by Pixies"
 additional_images:
-    - "https://i.discogs.com/UR6HwePHf_P4Fzlru2bWkKLTQqi2Q1HLM3YJwrUcWBs/rs:fit/g:sm/q:90/h:627/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkwNTE5/NzctMTQ3ODEwOTk5/MS00NzE0LmpwZWc.jpeg"
+    - "https://i.discogs.com/GU0d99XEhIG7zzKE57BOuVC7jwwBTsxi8TcKCzW-n0A/rs:fit/g:sm/q:90/h:600/w:573/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkwNTE5/NzctMTQ3ODEwOTk5/MS00NzE0LmpwZWc.jpeg"
     - "https://i.discogs.com/3G0DTadlDG13bMQ3hJOKo5aTCJhH28MSDUK5CfB55ng/rs:fit/g:sm/q:90/h:593/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkwNTE5/NzctMTQ5MzE0OTM5/MC00NjM4LmpwZWc.jpeg"
     - "https://i.discogs.com/CS_KW-42JLQJA2z4BzUhWJVzRDBBP0NOPhBGdzT1hmA/rs:fit/g:sm/q:90/h:291/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkwNTE5/NzctMTQ5MzE0OTM5/MC03NTI4LmpwZWc.jpeg"
     - "https://i.discogs.com/ZZiUdrvahuQDuN6hglkNDN-N1A5JjZxHhF3NJssBf2U/rs:fit/g:sm/q:90/h:593/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkwNTE5/NzctMTQ5MzE0OTM5/NC0xNzc4LmpwZWc.jpeg"
@@ -51,7 +51,12 @@ The album's title references a cephalophore, a saint carrying his own head, more
 {{< applemusic url="https://music.apple.com/gb/album/head-carrier/1589760454" >}}<br>
 
 
+## Videos
+### Pixies - Head Carrier (full album) 2016
+{{< youtube id="8rSLzayIy9w" title="Pixies - Head Carrier (full album) 2016" >}}<br>
+### More Videos
 
+- [PIXIES - Tenement Song (Official Video)](https://www.youtube.com/watch?v=-SLgXBLQA2M)
 
 ## Release Images
 {{< imageGrid >}}

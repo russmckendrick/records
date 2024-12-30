@@ -14,9 +14,9 @@ cover:
 additional_images:
     - "https://i.discogs.com/Mob5sKW29IIXqordQC5tkGULXRLBqY-n9G7tHe88lm4/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyODAz/NjI1LTE1NDM2ODkw/NjgtNjYxMi5qcGVn.jpeg"
     - "https://i.discogs.com/KBPwMFj2deJDG_RGuokESvX8YMqzaGB0Lr8HA0Nx0WI/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyODAz/NjI1LTE1NDM2ODkw/NjItMjA3Mi5qcGVn.jpeg"
-    - "https://i.discogs.com/OBlfNLhZoAnqNne0b7Kbk-JBd1lanrOkkG2c_UPeu1s/rs:fit/g:sm/q:90/h:615/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyODAz/NjI1LTE1NDIyODMy/MjUtNTg3My5qcGVn.jpeg"
+    - "https://i.discogs.com/wNvG6zMH1_9X-7uxf36zE7okF0vqB1s3RqBP-KqT3hE/rs:fit/g:sm/q:90/h:600/w:585/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyODAz/NjI1LTE1NDIyODMy/MjUtNTg3My5qcGVn.jpeg"
     - "https://i.discogs.com/NBtnrPtXvXLDiYfl6D6SeD4v-KD844WYjZTEROQsJRY/rs:fit/g:sm/q:90/h:586/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyODAz/NjI1LTE1NDIyNzEw/NTItODY5Ni5qcGVn.jpeg"
-    - "https://i.discogs.com/WG2_PTKhWW0sLwvP1NxOUt8tQPSxIQmsQZ5KlrB6XdI/rs:fit/g:sm/q:90/h:710/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyODAz/NjI1LTE1NDM2ODkx/MzgtNDExNi5qcGVn.jpeg"
+    - "https://i.discogs.com/1ug1-C775L9fIV_YjTgBuPyE347A85c0BKhKHpcdHjc/rs:fit/g:sm/q:90/h:600/w:506/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyODAz/NjI1LTE1NDM2ODkx/MzgtNDExNi5qcGVn.jpeg"
 genres: ["Rock", "Pop"]
 styles: []
 ---

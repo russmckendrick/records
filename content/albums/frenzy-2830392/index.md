@@ -44,12 +44,12 @@ The album is notable for being the first to feature Neil Finn on lead vocals –
 
 
 ## Videos
-### Split Enz-Frenzy (Full Album) 1979 Original Version
-{{< youtube id="dIjapHRUESw" title="Split Enz-Frenzy (Full Album) 1979 Original Version" >}}<br>
+### Split Enz - Give It A Whirl (Official Video)
+{{< youtube id="IQuRnQK7BcM" title="Split Enz - Give It A Whirl (Official Video)" >}}<br>
 ### More Videos
 
-- [Split Enz - Frenzy (1979)](https://www.youtube.com/watch?v=caAZuKxUeW0)
-- [Split Enz - Give It A Whirl](https://www.youtube.com/watch?v=WDJ3th_qhaI)
+- [Split Enz - I See Red (Official Video)](https://www.youtube.com/watch?v=TFIrKWg89r4)
+- [Split Enz - Famous People](https://www.youtube.com/watch?v=mkKVyCzdaLY)
 
 ## Release Images
 {{< imageGrid >}}

@@ -12,7 +12,7 @@ cover:
     alt: "Guerrilla by Super Furry Animals"
     caption: "Guerrilla by Super Furry Animals"
 additional_images:
-    - "https://i.discogs.com/MJY28ahpGmDjGJ82ekSa93RZNPKLxPK0TUAEJkRQuVg/rs:fit/g:sm/q:90/h:610/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0Mjgz/MTI3LTE1NzE0MTMw/MzEtMzMwNC5qcGVn.jpeg"
+    - "https://i.discogs.com/io8VjEUWnfyl1SFrkxaewecvL7Bm0cPGABSFf5H3MJs/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0Mjgz/MTI3LTE1NzQ4MDI2/MjctNTUyMC5qcGVn.jpeg"
     - "https://i.discogs.com/kDMy8sh3iNbf5n-IpI4sLAVXB0f-45i_N6VpesQ89os/rs:fit/g:sm/q:90/h:291/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0Mjgz/MTI3LTE1NzQ4MDI2/MjMtODEzNy5qcGVn.jpeg"
     - "https://i.discogs.com/OJAJMiG61103Ljdp_1O7oKUIslC3ye_8-UtAty7SV4U/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0Mjgz/MTI3LTE1NzQ4MDI2/MjQtNDUyNC5qcGVn.jpeg"
     - "https://i.discogs.com/2LpZiJS8f6MrpKrMSntjy5PSdHVLhZUF2VY0wlJ9E5g/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0Mjgz/MTI3LTE1NzQ4MDI2/NTctOTQzNC5qcGVn.jpeg"
@@ -25,12 +25,16 @@ additional_images:
     - "https://i.discogs.com/nQ91hgLwf2bIRbgRV5I4NVtrAa_uNEIKPyZT4AIGI9A/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0Mjgz/MTI3LTE1NzQ4MDI3/MDktNjU1OS5qcGVn.jpeg"
     - "https://i.discogs.com/FdT7pJv5874d-NmSV_m8ac6y9rKTuWF8nd83Cr6auns/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0Mjgz/MTI3LTE1NzQ4MDI3/MDktMTkxNC5qcGVn.jpeg"
     - "https://i.discogs.com/JfPbPXGKq2n0AI0hXdCH5-8LrxokHBU6BJVJGQkv11Q/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0Mjgz/MTI3LTE1NzQ4MDI3/MTAtNTUzNS5qcGVn.jpeg"
-    - "https://i.discogs.com/io8VjEUWnfyl1SFrkxaewecvL7Bm0cPGABSFf5H3MJs/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0Mjgz/MTI3LTE1NzQ4MDI2/MjctNTUyMC5qcGVn.jpeg"
     - "https://i.discogs.com/cChxVFj9GNS0NLk0sXT0n7pQ2M35DmVeU68OEbQIzSM/rs:fit/g:sm/q:90/h:565/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0Mjgz/MTI3LTE1NzE0MTMw/MzEtNDY5MS5qcGVn.jpeg"
 genres: ["Rock"]
 styles: ["Indie Rock"]
 ---
 
+Guerrilla warfare is a form of unconventional warfare in which small groups of irregular military, such as  rebels, partisans, paramilitary personnel or armed civilians, including recruited children, use ambushes, sabotage, terrorism, raids, petty warfare or hit-and-run tactics in a rebellion, in a violent conflict, in a war or in a civil war to fight against regular military, police or rival insurgent forces.
+Although the term "guerrilla warfare" was coined in the context of the Peninsular War in the 19th century, the tactical methods of guerrilla warfare have long been in use. In the 6th century BC, Sun Tzu proposed the use of guerrilla-style tactics in The Art of War. The 3rd century BC Roman general Quintus Fabius Maximus Verrucosus is also credited with inventing many of the tactics of guerrilla warfare through what is today called the Fabian strategy, and in China Peng Yue is also often regarded as the inventor of guerrilla warfare. Guerrilla warfare has been used by various factions throughout history and is particularly associated with revolutionary movements and popular resistance against invading or occupying armies.
+Guerrilla tactics focus on avoiding head-on confrontations with enemy armies, typically due to inferior arms or forces, and instead engage in limited skirmishes with the goal of exhausting adversaries and forcing them to withdraw (see also attrition warfare). Organized guerrilla groups often depend on the support of either the local population or foreign backers who sympathize with the guerrilla group's efforts.
+    
+    
 
 
 ## Tracklisting
@@ -51,16 +55,18 @@ styles: ["Indie Rock"]
 15. Keep The Cosmic Trigger Happy (2:25)
 
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/guerrilla/270284548" >}}<br>
+{{< applemusic url="https://music.apple.com/gb/album/guerrilla/1626519136" >}}<br>
 
 
 ## Videos
-### Super Furry Animals - Do or Die (HD Official Video)
-{{< youtube id="YYzB2c3C5LM" title="Super Furry Animals - Do or Die (HD Official Video)" >}}<br>
+### Super Furry Animals - Guerrilla (1/4)
+{{< youtube id="EdkmTTJoM0M" title="Super Furry Animals - Guerrilla (1/4)" >}}<br>
 ### More Videos
 
-- [Super Furry Animals - Northern Lites (Official HD Video)](https://www.youtube.com/watch?v=BXJoGAe0R3w)
-- [Super Furry Animals - Fire in My Heart (Official HD Video)](https://www.youtube.com/watch?v=odHFwbQthN0)
+- [Super Furry Animals - Guerrilla (2/4)](https://www.youtube.com/watch?v=4jd45HQjxBQ)
+- [Super Furry Animals - Guerrilla (3/4)](https://www.youtube.com/watch?v=F4mDHLsfYIA)
+- [Super Furry Animals - Guerrilla (4/4)](https://www.youtube.com/watch?v=ZW_gvo174FU)
+- [Super Furry Animals - Northern Lites (Video)](https://www.youtube.com/watch?v=dv1h3VSQjf8)
 
 ## Release Images
 {{< imageGrid >}}
@@ -68,6 +74,7 @@ styles: ["Indie Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
+| Wikipedia URL | https://en.wikipedia.org/wiki/Guerrilla_warfare |
 | Format         | Vinyl 2× LP 45 RPM Album Reissue Remastered (20th Anniversary Edition) |
 | Label          | BMG |
 | Catalog Number | BMGCAT392DLP |

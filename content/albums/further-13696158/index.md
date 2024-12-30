@@ -20,7 +20,7 @@ additional_images:
     - "https://i.discogs.com/dHdfOkxgMqjwOskRCSPojDhA2oeQhyVvzcM9h2gIfRo/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNjk2/MTU4LTE1NjMwMzE2/MDMtNjU0OC5qcGVn.jpeg"
     - "https://i.discogs.com/DoVgit-kuNy3MAnkVuglKG9af7kDGbzv_4KVOcLGgnI/rs:fit/g:sm/q:90/h:594/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNjk2/MTU4LTE1NjMwMzE2/MDEtNjg3MS5qcGVn.jpeg"
     - "https://i.discogs.com/9SqgJflMsnBTp1bRj6B6prldjrkm627T4cNOyncJozM/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNjk2/MTU4LTE1NjMwMzE2/MDAtMjk2MC5qcGVn.jpeg"
-    - "https://i.discogs.com/YYROfs8AOaZLKK1_VOInQWwMtlahUSWe7HAmndReulY/rs:fit/g:sm/q:90/h:604/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNjk2/MTU4LTE1NjMwMzE2/MDEtNzQ1NS5qcGVn.jpeg"
+    - "https://i.discogs.com/SkQ6OGxsf4_REwRnPDkRLeb5IEl1VDKBryAr44mrVu8/rs:fit/g:sm/q:90/h:600/w:596/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNjk2/MTU4LTE1NjMwMzE2/MDEtNzQ1NS5qcGVn.jpeg"
     - "https://i.discogs.com/HzskDgaB8EI0mRxkKpSv4M2bAJMrggdR02OrLODUKHw/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNjk2/MTU4LTE1NjMwMzE2/MDEtNjUxOS5qcGVn.jpeg"
     - "https://i.discogs.com/Oh5ODd69hrkz5zvUlQQONiwYgS9PebfkF82fXVvquHk/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNjk2/MTU4LTE1NjMwMzE2/MDMtMjk1Ni5qcGVn.jpeg"
 genres: ["Rock"]
@@ -48,7 +48,7 @@ Further is the ninth studio album by English singer-songwriter Richard Hawley. I
 11. Doors
 
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/further/1454553726" >}}<br>
+{{< applemusic url="https://music.apple.com/gb/album/further/1453685870" >}}<br>
 
 
 ## Videos
@@ -57,8 +57,8 @@ Further is the ninth studio album by English singer-songwriter Richard Hawley. I
 ### More Videos
 
 - [Richard Hawley - Alone (Official Video)](https://www.youtube.com/watch?v=Lwj6SjKBweU)
-- [Richard Hawley - My Little Treasures (Official Video)](https://www.youtube.com/watch?v=BhLAO-x5lOw)
 - [Richard Hawley - Further (Official Audio)](https://www.youtube.com/watch?v=HL52vxONCcM)
+- [Richard Hawley - My Little Treasures (Official Video)](https://www.youtube.com/watch?v=BhLAO-x5lOw)
 - [Richard Hawley - Emilina Says (Official Audio)](https://www.youtube.com/watch?v=T36rAgvpCeY)
 - [Richard Hawley - Is There a Pill ? (Official Audio)](https://www.youtube.com/watch?v=7i4uaf9wDfo)
 - [Richard Hawley - Galley Girl (Official Audio)](https://www.youtube.com/watch?v=MvfdQziLE2s)

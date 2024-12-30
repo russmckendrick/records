@@ -13,7 +13,7 @@ cover:
     caption: "Empath by Devin Townsend"
 additional_images:
     - "https://i.discogs.com/uoI7n516gbpU1WMwFhAodXMIlHC50AY3lEIfTquUUnc/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNDIx/MzgxLTE2NDg1NjY0/MjctOTg5OC5qcGVn.jpeg"
-    - "https://i.discogs.com/tPuyC0u7X2nYYJ4bN5tZLNhicRM1o7snpxTS7kTGijE/rs:fit/g:sm/q:90/h:601/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNDIx/MzgxLTE2NDg1NjY0/MjgtNTgyNC5qcGVn.jpeg"
+    - "https://i.discogs.com/P3TeXB6vKqcCNAt7O8Lt8W4JQXwDJgGViCCxvgjI_M0/rs:fit/g:sm/q:90/h:600/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNDIx/MzgxLTE2NDg1NjY0/MjgtNTgyNC5qcGVn.jpeg"
     - "https://i.discogs.com/alMznTnjgQsjMRmBX5ySYypwO3kOdBapcRZH6PEkmV0/rs:fit/g:sm/q:90/h:318/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNDIx/MzgxLTE2NDg1NjY0/MjUtODI3NC5qcGVn.jpeg"
     - "https://i.discogs.com/x7H1XII38uLw2ULC8KOOlDXA_zCcxg_nyIMoO0pWzpU/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNDIx/MzgxLTE1OTAzMjk1/NjMtNDk2NC5qcGVn.jpeg"
     - "https://i.discogs.com/i5vB15P2jcGQBxAD4tlucOBsK5miNMd9PJWRNSguSsU/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNDIx/MzgxLTE1OTAzMjk1/NjItMjA4MC5qcGVn.jpeg"
@@ -26,6 +26,8 @@ styles: ["Progressive Metal", "Symphonic Rock"]
 ---
 
 Empath is the eighteenth studio album by Canadian metal musician Devin Townsend, released on his own label HevyDevy Records on March 29, 2019. It is his first solo album since Dark Matters, which was a part of the 2014 double album Z², and his first release to act solely as a solo album since 2007's Ziltoid the Omniscient.
+
+
     
     
 
@@ -53,7 +55,7 @@ Empath is the eighteenth studio album by Canadian metal musician Devin Townsend,
 20. Singularity
 
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/empath-deluxe-edition/1449841303" >}}<br>
+{{< applemusic url="https://music.apple.com/gb/album/devolution-series-3-empath-live-in-america/1687553775" >}}<br>
 
 
 ## Videos
@@ -61,7 +63,6 @@ Empath is the eighteenth studio album by Canadian metal musician Devin Townsend,
 {{< youtube id="AdHJurX0yVA" title="DEVIN TOWNSEND - Spirits Will Collide (OFFICIAL VIDEO)" >}}<br>
 ### More Videos
 
-- [Unboxing Devin Townsend - Empath 2020 Ultimate Artbook Edition](https://www.youtube.com/watch?v=ZDrwCSoia6M)
 - [Sprite](https://www.youtube.com/watch?v=HsPqxO7lVaM)
 - [Hear Me](https://www.youtube.com/watch?v=NOoBfVFQdQg)
 - [Why?](https://www.youtube.com/watch?v=Ob8IsKzRPwg)
@@ -74,6 +75,7 @@ Empath is the eighteenth studio album by Canadian metal musician Devin Townsend,
 - [Gulag (Demo)](https://www.youtube.com/watch?v=WKzaSSPooeI)
 - [Evermore](https://www.youtube.com/watch?v=V2-cKI34bpU)
 - [Borderlands](https://www.youtube.com/watch?v=J52C4Z7uya0)
+- [Unboxing Devin Townsend - Empath 2020 Ultimate Artbook Edition](https://www.youtube.com/watch?v=ZDrwCSoia6M)
 
 ## Release Images
 {{< imageGrid >}}

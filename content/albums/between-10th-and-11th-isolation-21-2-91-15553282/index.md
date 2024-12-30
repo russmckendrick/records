@@ -12,7 +12,7 @@ cover:
     alt: "Between 10th And 11th / Isolation 21.2.91 by The Charlatans"
     caption: "Between 10th And 11th / Isolation 21.2.91 by The Charlatans"
 additional_images:
-    - "https://i.discogs.com/t09N1JvSepsJmt3aXb74xGC8ZLoLmg3M6_z34MQNUSk/rs:fit/g:sm/q:90/h:614/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NTUz/MjgyLTE1OTM2MTMx/NTctMjU5Mi5qcGVn.jpeg"
+    - "https://i.discogs.com/-VTRsElyRFWrITQcl9JhtQXw6rzjCzj-tE7Av4nscsc/rs:fit/g:sm/q:90/h:600/w:585/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NTUz/MjgyLTE1OTM2MTMx/NTctMjU5Mi5qcGVn.jpeg"
     - "https://i.discogs.com/PL8O65bGE0BhEg-a2FbegYzNgR0PCI7Zy867o3-tGyA/rs:fit/g:sm/q:90/h:587/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NTUz/MjgyLTE1OTM2MTMx/NzEtNzYzMC5qcGVn.jpeg"
     - "https://i.discogs.com/KM7fg4Ip-XcLfnN1IlASqeJOikMWGtdNz-QDDvLOC2E/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NTUz/MjgyLTE1OTM2MTMx/ODQtNTczNC5qcGVn.jpeg"
     - "https://i.discogs.com/bUE0JskLKun0fqquMHxlOcgYLdKgUKHF0aisNhhbcK8/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NTUz/MjgyLTE2MTA5NTI1/OTUtNjk5OC5qcGVn.jpeg"
@@ -50,19 +50,22 @@ styles: ["Indie Rock"]
 
 
 ## Videos
-### I Don't Want To See The Sights
-{{< youtube id="xivKBrdgz3c" title="I Don't Want To See The Sights" >}}<br>
+### The Charlatans - Tremelo Song
+{{< youtube id="a_jfHwt8USc" title="The Charlatans - Tremelo Song" >}}<br>
 ### More Videos
 
-- [The Charlatans - Tremelo Song](https://www.youtube.com/watch?v=a_jfHwt8USc)
-- [Can't Even Be Bothered](https://www.youtube.com/watch?v=GyOk-gCOE9U)
-- [Chewing Gum Weekend](https://www.youtube.com/watch?v=6qf1OLRwbgw)
-- [Ignition](https://www.youtube.com/watch?v=NtinvC3Yc8k)
 - [The Charlatans - Weirdo](https://www.youtube.com/watch?v=SXBR96Z8_e8)
+- [Chewing Gum Weekend](https://www.youtube.com/watch?v=6qf1OLRwbgw)
+- [Weirdo](https://www.youtube.com/watch?v=m-yjro8dZjY)
+- [I Don't Want To See The Sights](https://www.youtube.com/watch?v=xivKBrdgz3c)
+- [Can't Even Be Bothered](https://www.youtube.com/watch?v=GyOk-gCOE9U)
+- [Ignition](https://www.youtube.com/watch?v=NtinvC3Yc8k)
 - [The End Of Everything](https://www.youtube.com/watch?v=BYBzjmrw8Qs)
 - [Subtitle](https://www.youtube.com/watch?v=t_Wr_nfYTbg)
 - [[No One] Not Even The Rain](https://www.youtube.com/watch?v=AZezlm4_KOA)
-- [Weirdo](https://www.youtube.com/watch?v=m-yjro8dZjY)
+- [The Charlatans - Tremelo Song](https://www.youtube.com/watch?v=a_jfHwt8USc)
+- [The Charlatans - Weirdo](https://www.youtube.com/watch?v=SXBR96Z8_e8)
+- [Chewing Gum Weekend](https://www.youtube.com/watch?v=6qf1OLRwbgw)
 
 ## Release Images
 {{< imageGrid >}}
@@ -73,5 +76,5 @@ styles: ["Indie Rock"]
 | Format         | Vinyl LP Album Reissue (Clear), Vinyl LP Reissue Remastered (Clear), All Media (Expanded Edition, Gatefold Sleeve) |
 | Label          | Beggars Banquet |
 | Catalog Number | BBQ2165LP |
-| Notes | ℗ 2020 Beggars Banquet Ltd © 2020 Beggars Banquet Ltd Original release ℗ & © 1992 Situation Two Beggars Banquet Records Limited   |
+| Notes | ℗ 2020 Beggars Banquet Ltd © 2020 Beggars Banquet Ltd Original release ℗ & © 1992 Situation Two Beggars Banquet Records Limited |
 | Discogs URL    | [The Charlatans - Between 10th And 11th / Isolation 21.2.91](https://www.discogs.com/release/15553282-The-Charlatans-Between-10th-And-11th-Isolation-21291) |

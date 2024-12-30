@@ -12,12 +12,21 @@ cover:
     alt: "Days Of The New by Days Of The New"
     caption: "Days Of The New by Days Of The New"
 additional_images:
-    - "https://i.discogs.com/bg-8RQRyy3r8eXfqGxChLJRl6BPY_Qxkur8WO13p_RU/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5NDU2/MDQxLTE3MDg1NDIz/MzctODcwNi5qcGVn.jpeg"
+    - "https://i.discogs.com/Fqq2GhUKsM9oUT7XoWgyllsFNTNVKehi3HciYyWJAUU/rs:fit/g:sm/q:90/h:588/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5NDU2/MDQxLTE3MTI2NzU3/MTUtNjAzOS5qcGVn.jpeg"
+    - "https://i.discogs.com/P53-PWLjj3c5qh_7oXaysdY6UAinOQyM3M95LYFCUsg/rs:fit/g:sm/q:90/h:577/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5NDU2/MDQxLTE3MTI2NzU3/MTUtODg1My5qcGVn.jpeg"
+    - "https://i.discogs.com/j36p3A2GJnR-CM95rIkdaSVDgbpZnsGSURynSGxPW9E/rs:fit/g:sm/q:90/h:587/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5NDU2/MDQxLTE3MTI2NzU3/MTktMjk1OS5qcGVn.jpeg"
+    - "https://i.discogs.com/cSkxjzTrFYLOIIVjttq3H8Lyd60l2re50ozvWhqGdYk/rs:fit/g:sm/q:90/h:580/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5NDU2/MDQxLTE3MTI2NzU3/MTgtNDczMy5qcGVn.jpeg"
+    - "https://i.discogs.com/METnNjz_tXdIGEvGE-mnv-KtKDY4ScX2KL3wl1rYxMU/rs:fit/g:sm/q:90/h:587/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5NDU2/MDQxLTE3MTI2NzU3/MjAtNjM1MS5qcGVn.jpeg"
+    - "https://i.discogs.com/8iy4VEjxAoxbvm9xnjwd3zy4r8vZKNAO8XzMoX5HVNA/rs:fit/g:sm/q:90/h:592/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5NDU2/MDQxLTE3MTI2NzU3/MjAtNjA4MC5qcGVn.jpeg"
+    - "https://i.discogs.com/bAAMIg-fpALoe_KkNWgGUMa9QkEhKTuBTr9UU0TK1sI/rs:fit/g:sm/q:90/h:600/w:594/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5NDU2/MDQxLTE3MTI2NzU3/MjAtODg1My5qcGVn.jpeg"
+    - "https://i.discogs.com/M-6v4hN1nHcvxP6gAsxSfF87jNHZTFgFSzRGAUrHQOw/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5NDU2/MDQxLTE3MTI2NzU3/MTktOTAwOS5qcGVn.jpeg"
+    - "https://i.discogs.com/4N8JFgpV1Z6-8eWIqCm2TpcJp2M9AeCyS60gkt4Men4/rs:fit/g:sm/q:90/h:600/w:458/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5NDU2/MDQxLTE3MTI2NzU3/MTUtNzc0OS5qcGVn.jpeg"
 genres: ["Rock"]
 styles: ["Alternative Rock", "Grunge", "Acoustic"]
 ---
 
-Days of the New was an American rock band from Charlestown, Indiana, formed in 1995. The band later relocated to Louisville, Kentucky. They consisted of vocalist/guitarist Travis Meeks and a variety of supporting musicians. They are best known for the hit singles "Touch, Peel and Stand", "The Down Town", "Shelf in the Room", and "Enemy", as well as radio hits "Weapon and the Wound", "Hang On To This" and "Die Born". "Touch, Peel and Stand" was named, ″Greatest of All-Time Mainstream Rock Song″ by Billboard Magazine.The band was formed by Meeks as an acoustic solo project during his teenage years. Their debut album, self-titled but informally known as the Yellow or Orange album, was released in 1997 and featured Meeks, along with Jesse Vest, Todd Whitener and Matt Taul. Vest, Whitener and Taul went on to form Tantric. The group briefly included future pop star and The Pussycat Dolls frontwoman Nicole Scherzinger on their 1999 second album, also self-titled and informally known as the Green album. Other band members would include drummer Ray Rizzo, bassist Mike Starr (Alice in Chains) and bassist Charlie Colin (Train). Days of the New's third and final self-titled album, informally known as the Red album, was released in 2001.
+Days of the New was an American rock band from Charlestown, Indiana, formed in 1995. The band later relocated to Louisville, Kentucky. They consisted of vocalist/guitarist Travis Meeks and a variety of supporting musicians. They are best known for the hit singles "Touch, Peel and Stand", "The Down Town", "Shelf in the Room", and "Enemy", as well as radio hits "Weapon and the Wound", "Hang On To This" and "Die Born". "Touch, Peel and Stand" was named, ″Greatest of All-Time Mainstream Rock Song″ by Billboard Magazine.
+The band was formed by Meeks as an acoustic solo project during his teenage years. Their debut album, self-titled but informally known as the Yellow or Orange album, was released in 1997 and featured Meeks, along with Jesse Vest, Todd Whitener and Matt Taul. Vest, Whitener and Taul went on to form Tantric. The group briefly included future pop star and The Pussycat Dolls frontwoman Nicole Scherzinger on their 1999 second album, also self-titled and informally known as the Green album. Other band members would include drummer Ray Rizzo, bassist Mike Starr (Alice in Chains) and bassist Charlie Colin (Train). Days of the New's third and final self-titled album, informally known as the Red album, was released in 2001.
     
     
 
@@ -45,10 +54,10 @@ Days of the New was an American rock band from Charlestown, Indiana, formed in 1
 {{< youtube id="8F3KncwJvxA" title="Days Of The New – Hang On To This" >}}<br>
 ### More Videos
 
-- [Days of the New - Dirty Road](https://www.youtube.com/watch?v=GUXyulycU0E)
 - [Days Of The New – Die Born](https://www.youtube.com/watch?v=XGEMFaOX-j0)
-- [Days of the New - Hang on to This](https://www.youtube.com/watch?v=UCY2czWpLio)
 - [Days Of The New – Dirty Road](https://www.youtube.com/watch?v=3Ci8D0_6bG0)
+- [Days of the New - Dirty Road](https://www.youtube.com/watch?v=GUXyulycU0E)
+- [Days of the New - Hang on to This](https://www.youtube.com/watch?v=UCY2czWpLio)
 - [Days of the new - Days In Our Life](https://www.youtube.com/watch?v=s1gyuc1qqDE)
 - [Days Of The New - Once Again](https://www.youtube.com/watch?v=e9EQrKZeJDs)
 - [Die Born - Days of the New - Lyrics](https://www.youtube.com/watch?v=kHOII42kkug)

@@ -27,7 +27,7 @@ additional_images:
     - "https://i.discogs.com/Zs2dXoztFiMocJpfVB-VX4ewv_KfNa1AA1DGji46ej0/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNjAx/ODU0LTE2NTU2Mzcx/ODItNzg4Ny5qcGVn.jpeg"
     - "https://i.discogs.com/OoLP8iayD4HWUF-YIKnF5KsUx_Mh1PN4ANU0chmtQeo/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNjAx/ODU0LTE2NTU2Mzcx/OTMtMTAzNS5qcGVn.jpeg"
     - "https://i.discogs.com/SpYq71lkoBltNPTOkhGbdaBedmP4ks_iJwsPFhSNDuI/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNjAx/ODU0LTE2NTU2Mzcy/MzYtNjc1Ni5qcGVn.jpeg"
-    - "https://i.discogs.com/uHdaFI9h2xnMJXnwA4q7ypRUTM6yBNRyoxE--Mg2lGA/rs:fit/g:sm/q:90/h:603/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNjAx/ODU0LTE2NTU2Mzcy/MjgtMjAwNC5qcGVn.jpeg"
+    - "https://i.discogs.com/vn1BrFzYwhhOncR0Cx_CcGoQlvTRG1PgacQCSofw-94/rs:fit/g:sm/q:90/h:600/w:596/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNjAx/ODU0LTE2NTU2Mzcy/MjgtMjAwNC5qcGVn.jpeg"
     - "https://i.discogs.com/YfXfYukzmsBLf-GZ9qMuKCgdVLVT-wZP1U4HEpuS1PI/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNjAx/ODU0LTE2NTYzMzIx/ODAtMzQ2Mi5qcGVn.jpeg"
     - "https://i.discogs.com/rPg0PqjMOuy5MBq88diQYQ05Mp4WBdzNRm5rInhgdSQ/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNjAx/ODU0LTE2NTYzMzIx/ODAtNTcyNC5qcGVn.jpeg"
     - "https://i.discogs.com/p5ANdfncFoDl1H8LPJhOK_FEzssCRABuVeQM6PThz44/rs:fit/g:sm/q:90/h:587/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNjAx/ODU0LTE2NTU2Mzcy/MzQtNjcwOS5qcGVn.jpeg"
@@ -50,7 +50,7 @@ additional_images:
     - "https://i.discogs.com/VLfblGoCLbUsL3v7WX5x8CdtcZqT9YvWSWHljuVl-Rk/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNjAx/ODU0LTE2NTYzMzIx/ODAtMzk1MS5qcGVn.jpeg"
     - "https://i.discogs.com/1lMlXnGqy_ZSTja1OHZCei3sxWKeCIhtazM0gOCmtHE/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNjAx/ODU0LTE2NTU2Mzc0/MjUtMTUyMC5qcGVn.jpeg"
     - "https://i.discogs.com/IDr8ecSVU1-dK5O_PXMJHT2BMToyGEw3WzCjZiHN2EM/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNjAx/ODU0LTE2NTU2Mzc0/MDktMjM3NC5qcGVn.jpeg"
-    - "https://i.discogs.com/bLyV_H5CUzxUk7uGoHyEsHb-R3pB7BP3OIzDPUb6V0Q/rs:fit/g:sm/q:90/h:623/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNjAx/ODU0LTE2NTU1NzE1/MTktOTY5NC5qcGVn.jpeg"
+    - "https://i.discogs.com/Fu6wsf8DDpqUAvBAg0F2EKf6qXX0z9SnMZ2TLy16x5o/rs:fit/g:sm/q:90/h:600/w:577/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNjAx/ODU0LTE2NTU1NzE1/MTktOTY5NC5qcGVn.jpeg"
     - "https://i.discogs.com/NCNDHVMvLaPWEWgdqSgCzAL1uZTgDNhrZnujsaQ8hqs/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNjAx/ODU0LTE2NTU2Mzc0/NjktODgwNC5qcGVn.jpeg"
     - "https://i.discogs.com/vv8FiulLSWtKy3siLjJBy2_U97IcKu2TJUeptmsLFUg/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNjAx/ODU0LTE2NTU2Mzc0/NzAtODIwOC5qcGVn.jpeg"
     - "https://i.discogs.com/Xz24Taoe_FhP6pjUorLf9IH5bmHXAUxGzuSw27kwL9U/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNjAx/ODU0LTE2NTU2Mzc0/NjktNjAyMS5qcGVn.jpeg"
@@ -66,7 +66,8 @@ styles: ["Pop Rock", "Arena Rock", "Classic Rock"]
 ---
 
 The Platinum Collection: Greatest Hits I, II & III is a box set by British rock band Queen which comprises their three greatest hits albums, Greatest Hits, Greatest Hits II and Greatest Hits III. The album was originally released on 13 November 2000 on the Parlophone label. A booklet with song facts and images is also included with the three CD set. The US release was delayed by Hollywood Records until September 2002 and featured the 2001 Japanese release remastered versions of Greatest Hits Volumes 1 and 2 on the US and Canadian versions of The Platinum Collection. The album peaked at number 2 in the UK.
-On 27 June 2011, as part of Queen's 40th anniversary celebrations, The Platinum Collection was re-released in the UK as well as in other territories around the world. The release consisted of the 2011 remasters of all three albums.In 2018, the album reached a peak of number 9 on the US Billboard 200 following the success of the Bohemian Rhapsody film and soundtrack, making it their first time with two albums in the US albums chart top 10. In 2019, the album reached a higher peak at number 6 on the US Billboard 200 thanks to sale pricing in the iTunes Store during the tracking week.
+On 27 June 2011, as part of Queen's 40th anniversary celebrations, The Platinum Collection was re-released in the UK as well as in other territories around the world. The release consisted of the 2011 remasters of all three albums.
+In 2018, the album reached a peak of number 9 on the US Billboard 200 following the success of the Bohemian Rhapsody film and soundtrack, making it their first time with two albums in the US albums chart top 10. In 2019, the album reached a higher peak at number 6 on the US Billboard 200 thanks to sale pricing in the iTunes Store during the tracking week.
 
 
     

@@ -16,7 +16,7 @@ additional_images:
     - "https://i.discogs.com/hTdEAlRMITntajOUaU4S4_5HSgTCVp7wM_koISN3TvM/rs:fit/g:sm/q:90/h:588/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMjYy/NTIyLTE2NDkwMDky/MzItNjgyMC5qcGVn.jpeg"
     - "https://i.discogs.com/zzxMM6jXwYQA_CnhlgcluOgZeKRqvrQ6EOgbhzK2MHM/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMjYy/NTIyLTE2NDkwMDYy/OTktNjQ2MC5qcGVn.jpeg"
     - "https://i.discogs.com/7q6lI9L3c5Pfnh8EJu642KLzSVxpSenTIiC0XHuQgwU/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMjYy/NTIyLTE2NDkwMDYz/MTctMzcyMC5qcGVn.jpeg"
-    - "https://i.discogs.com/atC8jOrZc2AFPEMtIamP441Co5Tmg5zRPUEJeukb0Is/rs:fit/g:sm/q:90/h:912/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMjYy/NTIyLTE2NDkwMDY0/NDYtMTcyNS5qcGVn.jpeg"
+    - "https://i.discogs.com/7ywZXffS_ZgbPuTnNpN4q8k4X9bovUk_5KkuQUHh9Uk/rs:fit/g:sm/q:90/h:600/w:394/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMjYy/NTIyLTE2NDkwMDY0/NDYtMTcyNS5qcGVn.jpeg"
     - "https://i.discogs.com/H1GRfYD1ngLD3DDzUxoV50BoOKtPxLWIdtNAiFxx1co/rs:fit/g:sm/q:90/h:97/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMjYy/NTIyLTE2NDkwMDYz/NDEtNjg3MC5qcGVn.jpeg"
     - "https://i.discogs.com/NuQypwSho4cU6KVOfBlqWRV9Y-TeSUdOTArY9cI-1LA/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMjYy/NTIyLTE2NDkwMDYy/ODktMzU0OS5qcGVn.jpeg"
 genres: ["Rock", "Pop"]
@@ -37,7 +37,12 @@ styles: ["Psychedelic Rock", "Indie Pop"]
 {{< applemusic url="https://music.apple.com/gb/album/sunset-dreams/1668233212" >}}<br>
 
 
+## Videos
+### Jane Weaver - Sunset Dreams
+{{< youtube id="vMYrmeRp7LE" title="Jane Weaver - Sunset Dreams" >}}<br>
+### More Videos
 
+- [Jane Weaver - Sunset Dreams](https://www.youtube.com/watch?v=vMYrmeRp7LE)
 
 ## Release Images
 {{< imageGrid >}}

@@ -17,7 +17,7 @@ additional_images:
     - "https://i.discogs.com/s3DArzZv-Oo4mehoFvv2n1qk7oBRWfUQwNemaiTHss8/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMDIy/Njc3LTE2NDM5ODk0/NTMtMTQ5OC5qcGVn.jpeg"
     - "https://i.discogs.com/tBmfu-c7M6ScZLh6PQ6LSn8hGwLseCjvPbsyZlmb-7M/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMDIy/Njc3LTE2NDM5ODk0/NTItODUyMy5qcGVn.jpeg"
     - "https://i.discogs.com/nGsOyX2EMpk_Q5SstXjmOrdcy2ClwwV8mYdJ_ihO-mQ/rs:fit/g:sm/q:90/h:592/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMDIy/Njc3LTE2NDM5ODk0/NTItNTkyNy5qcGVn.jpeg"
-    - "https://i.discogs.com/MmtplJRaPVcvHw1Dy6npiFtceNIMR5Y1-wujaslabKM/rs:fit/g:sm/q:90/h:601/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMDIy/Njc3LTE2NDM5ODk0/NTItNjEyNS5qcGVn.jpeg"
+    - "https://i.discogs.com/Rx4zYsYUXQExwgemQmrdz-PhH98p5yJUXIKoKqFNTxo/rs:fit/g:sm/q:90/h:600/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMDIy/Njc3LTE2NDM5ODk0/NTItNjEyNS5qcGVn.jpeg"
     - "https://i.discogs.com/DNd5YXic2X_zeST6hrzi2KwxPNJzgIBGrQvRXChvJOQ/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMDIy/Njc3LTE2NDM5ODk0/NTMtOTYwNy5qcGVn.jpeg"
     - "https://i.discogs.com/-idDuXIA5390W55UkVehKg7jYj-VUqPwFv1tEbw5gYY/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMDIy/Njc3LTE2NDM5ODk0/NTMtMzA0MC5qcGVn.jpeg"
     - "https://i.discogs.com/JZBfz4sbx0Xh0kf-VUJyDTAijArqDXsJGCX1kOiWIew/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMDIy/Njc3LTE2NDM5ODk0/NTMtNzQ4OS5qcGVn.jpeg"
@@ -59,7 +59,7 @@ styles: ["Indie Pop"]
 24. Tonight We Fly
 
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/charmed-life-the-best-of-the-divine-comedy-deluxe-edition/1594918111" >}}<br>
+{{< applemusic url="https://music.apple.com/gb/album/charmed-life-the-best-of-the-divine-comedy/1594485729" >}}<br>
 
 
 ## Videos

@@ -21,12 +21,15 @@ additional_images:
     - "https://i.discogs.com/jyzvG1CIKwwBRCT_0OJkCHI1yg21uwebt63rAy_FUGk/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1OTM0/MDI4LTE2MDE2MzQx/MTgtNDU1OS5qcGVn.jpeg"
     - "https://i.discogs.com/5IPIJhVWGjZwgorMkq0BpvRwfRKNRlW3nb0pXVGXxVQ/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1OTM0/MDI4LTE2MDk1MTEz/MTEtNTg0OS5qcGVn.jpeg"
     - "https://i.discogs.com/QPIx100DSYgUP6baiW6HMFgEFKo5zOWnCuF1FFNBqsI/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1OTM0/MDI4LTE2MDA0Njc3/NTQtNTYwMC5qcGVn.jpeg"
-    - "https://i.discogs.com/P1x2bXJB2VtVcZG_UuRMKcdSoBVpW19uvN1phfz06K4/rs:fit/g:sm/q:90/h:602/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1OTM0/MDI4LTE2MDE2MzQy/MjUtNjQ5MC5qcGVn.jpeg"
+    - "https://i.discogs.com/FckxyTA3VnSWF9sT8iv1Ra94gr3SuwcnZO64kGhMtvU/rs:fit/g:sm/q:90/h:600/w:597/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1OTM0/MDI4LTE2MDE2MzQy/MjUtNjQ5MC5qcGVn.jpeg"
 genres: ["Rock"]
 styles: ["Punk", "Alternative Rock", "Indie Rock"]
 ---
 
-Blue Hearts is an album by the American alternative rock musician Bob Mould, released in 2020. Mould considered the tracks to be protest songs.The album peaked at No. 181 on the Billboard 200.
+Blue Hearts is an album by the American alternative rock musician Bob Mould, released in 2020. Mould considered the tracks to be protest songs.
+The album peaked at No. 181 on the Billboard 200.
+
+
     
     
 
@@ -56,6 +59,20 @@ Blue Hearts is an album by the American alternative rock musician Bob Mould, rel
 {{< youtube id="bkbPhYShiCg" title="Heart on My Sleeve" >}}<br>
 ### More Videos
 
+- [Next Generation](https://www.youtube.com/watch?v=G75JEUymDqo)
+- [Bob Mould - American Crisis (Official Video)](https://www.youtube.com/watch?v=zD7TxGTPsV4)
+- [Fireball](https://www.youtube.com/watch?v=5JnKg2x3MA8)
+- [Bob Mould - Forecast of Rain (Official Video)](https://www.youtube.com/watch?v=Bygb9bTd__U)
+- [When You Left](https://www.youtube.com/watch?v=903-HdeLhbA)
+- [Bob Mould - Siberian Butterfly (Official Video)](https://www.youtube.com/watch?v=IowGrGWzecQ)
+- [Everyth!ng to You](https://www.youtube.com/watch?v=pkTtkWteuuI)
+- [Racing to the End](https://www.youtube.com/watch?v=Hlt7x1RF6Xc)
+- [Baby Needs a Cookie](https://www.youtube.com/watch?v=ge8la_2iAKk)
+- [Little Pieces](https://www.youtube.com/watch?v=umNJVoqQ4Wo)
+- [Leather Dreams](https://www.youtube.com/watch?v=hSW-b8Pgdvs)
+- [Password to My Soul](https://www.youtube.com/watch?v=8BU3bXTrwhY)
+- [The Ocean](https://www.youtube.com/watch?v=melM7wufREc)
+- [Heart on My Sleeve](https://www.youtube.com/watch?v=bkbPhYShiCg)
 - [Next Generation](https://www.youtube.com/watch?v=G75JEUymDqo)
 - [Bob Mould - American Crisis (Official Video)](https://www.youtube.com/watch?v=zD7TxGTPsV4)
 - [Fireball](https://www.youtube.com/watch?v=5JnKg2x3MA8)

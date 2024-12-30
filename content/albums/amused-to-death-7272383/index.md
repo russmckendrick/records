@@ -13,8 +13,8 @@ cover:
     caption: "Amused To Death by Roger Waters"
 additional_images:
     - "https://i.discogs.com/PojU28OTf7JRKXa7jdS9odQYjTkRsAJBgMwug5B4kno/rs:fit/g:sm/q:90/h:557/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcyNzIz/ODMtMTQzNzczNjA5/Ni04Mjc0LmpwZWc.jpeg"
-    - "https://i.discogs.com/sf_xBcnOVh62g-A4xfWSBekqhNMb3wEKnOXJ9Ab9kHk/rs:fit/g:sm/q:90/h:1519/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcyNzIz/ODMtMTQzNzczNjEx/Ny02NzU5LmpwZWc.jpeg"
-    - "https://i.discogs.com/pGemo6ViJcw3xu4qPDIsIqiBuNGtEs3W3WI8xnrQ_18/rs:fit/g:sm/q:90/h:1529/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcyNzIz/ODMtMTQzNzczNjEx/MC0xNTg0LmpwZWc.jpeg"
+    - "https://i.discogs.com/MGw4wdNXUCsr_-znovZW5g8BUsXKy6pg76k2ZDckb_w/rs:fit/g:sm/q:90/h:600/w:236/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcyNzIz/ODMtMTQzNzczNjEx/Ny02NzU5LmpwZWc.jpeg"
+    - "https://i.discogs.com/RHjDka3YjSwoPg7OS-TCDHtaDMO1DtYEbD1fvPrVyds/rs:fit/g:sm/q:90/h:600/w:235/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcyNzIz/ODMtMTQzNzczNjEx/MC0xNTg0LmpwZWc.jpeg"
     - "https://i.discogs.com/VjNBw7Z35IZJXyUGtcyHY_HUEl028RO_M7iv1zEDSt8/rs:fit/g:sm/q:90/h:594/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcyNzIz/ODMtMTQzNzczNjA5/My0xODIwLmpwZWc.jpeg"
     - "https://i.discogs.com/ob7GN7_FrDNtH7wOiURWfRnJpj3NZz9P1OVV7OGW1XA/rs:fit/g:sm/q:90/h:588/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcyNzIz/ODMtMTQzNzczNjEw/MC0zOTA4LmpwZWc.jpeg"
     - "https://i.discogs.com/zUTRPJVNg0v-wloqoQBJzJfHkvw_jxkkkNVjErUVJOo/rs:fit/g:sm/q:90/h:581/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcyNzIz/ODMtMTQzNzczNjA5/MS00MDk2LmpwZWc.jpeg"
@@ -27,6 +27,8 @@ styles: ["Prog Rock", "Symphonic Rock"]
 
 Amused to Death is the third studio album by English musician Roger Waters, released 7 September 1992 on Columbia. Produced by Waters and Patrick Leonard, it was mixed in QSound to enhance its spatial feel. The album features Jeff Beck on lead guitar on several tracks. The album's title was inspired by Neil Postman's 1985 book Amusing Ourselves to Death.
 In 2015, the album was remastered and re-released with new artwork and in different formats, including a new 5.1 surround sound mix by original engineer James Guthrie, assisted by Joel Plante.
+
+
     
     
 
@@ -52,23 +54,23 @@ In 2015, the album was remastered and re-released with new artwork and in differ
 
 
 ## Videos
-### The Ballad of Bill Hubbard
-{{< youtube id="EIzgTL5NDT8" title="The Ballad of Bill Hubbard" >}}<br>
+### Roger Waters - What God Wants, Pt. 1
+{{< youtube id="wtq1_peTXbw" title="Roger Waters - What God Wants, Pt. 1" >}}<br>
 ### More Videos
 
-- [Roger Waters - What God Wants, Pt. 1](https://www.youtube.com/watch?v=wtq1_peTXbw)
+- [The Ballad of Bill Hubbard](https://www.youtube.com/watch?v=EIzgTL5NDT8)
+- [Roger Waters - Three Wishes](https://www.youtube.com/watch?v=SWEPrenL5d8)
 - [Perfect Sense, Pt. I](https://www.youtube.com/watch?v=7CoT8RyIwwk)
 - [Perfect Sense, Pt. II](https://www.youtube.com/watch?v=eYG7INhXFjc)
-- [Roger Waters - The Bravery of Being Out of Range](https://www.youtube.com/watch?v=JamLmpVOgE0)
+- [The Bravery of Being Out of Range](https://www.youtube.com/watch?v=QDFTHiJR63U)
 - [Late Home Tonight, Pt. I](https://www.youtube.com/watch?v=_QGNAm5cHTo)
 - [Late Home Tonight, Pt. II](https://www.youtube.com/watch?v=isVAEXdKBS4)
 - [Too Much Rope](https://www.youtube.com/watch?v=Vz65-1wXoLY)
 - [What God Wants, Pt. II](https://www.youtube.com/watch?v=e4TMbtgmrH0)
 - [What God Wants, Pt. III](https://www.youtube.com/watch?v=OccmcfZ9ZnY)
 - [Watching TV](https://www.youtube.com/watch?v=Ca3PnHFgJ54)
-- [Roger Waters - Three Wishes](https://www.youtube.com/watch?v=SWEPrenL5d8)
 - [It's a Miracle](https://www.youtube.com/watch?v=yxuUjLP5GiY)
-- [Roger Waters - Amused to Death (1992)](https://www.youtube.com/watch?v=lneXi5yCKsg)
+- [Amused to Death](https://www.youtube.com/watch?v=zpotZUiKLbU)
 
 ## Release Images
 {{< imageGrid >}}
@@ -77,8 +79,8 @@ In 2015, the album was remastered and re-released with new artwork and in differ
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Amused_to_Death |
-| Format         | Vinyl 2× LP Album Limited Edition Numbered Picture Disc Reissue Remastered |
+| Format         | Vinyl 2× LP Album Limited Edition Numbered Picture Disc (Remixed) |
 | Label          | Columbia |
 | Catalog Number | 88875065801 |
-| Notes | "The 2015 Limited Edition, numbered 2 LP picture disc vinyl features art by Sean Evans, the creative director of Waters 2010-2013 "The Wall Live" tour and movie. The materials used to create picture discs and color vinyl are not the same as traditional vinyl. Picture discs will have an inherent surface noise in playback."  Pressed By information is not listed. Information derived from runouts.   |
+| Notes | New 2015 remix completed by James Guthrie.  "The 2015 Limited Edition, numbered 2 LP picture disc vinyl features art by Sean Evans, the creative director of Waters 2010-2013 "The Wall Live" tour and movie. The materials used to create picture discs and color vinyl are not the same as traditional vinyl. Picture discs will have an inherent surface noise in playback."  Pressed By information is not listed. Information derived from runouts.   |
 | Discogs URL    | [Roger Waters - Amused To Death](https://www.discogs.com/release/7272383-Roger-Waters-Amused-To-Death) |

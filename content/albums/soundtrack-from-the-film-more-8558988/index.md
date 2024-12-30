@@ -4,7 +4,6 @@ artist_name: "Pink Floyd"
 artist: "pink-floyd"
 album_name: "Soundtrack From The Film More"
 date: 2016-06-03T20:02:40.000000Z
-release_date: "1969-06-13"
 release_id: "8558988"
 slug: "soundtrack-from-the-film-more-8558988"
 hideSummary: true
@@ -15,18 +14,16 @@ cover:
 additional_images:
     - "https://i.discogs.com/Ukf-bEWWqNABP0Amwg3RGcL9e-0rgWqBgMHV6jF04tw/rs:fit/g:sm/q:90/h:594/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg1NTg5/ODgtMTQ2NjE4NDEx/NS04NTE5LmpwZWc.jpeg"
     - "https://i.discogs.com/SpwSTENEmSakN8rxbObzQKaNbxvOaQSLDljKW1jRyH0/rs:fit/g:sm/q:90/h:593/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg1NTg5/ODgtMTQ2NDAyNTEz/NC0zNTk1LmpwZWc.jpeg"
-    - "https://i.discogs.com/hcafB4viBiK0ZGJwHqZkyCyQ2FZDgaNx4UUvTKIHloo/rs:fit/g:sm/q:90/h:633/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg1NTg5/ODgtMTQ2NDAyNTEz/OC04NzM0LmpwZWc.jpeg"
-    - "https://i.discogs.com/mNF0Ey0OnP7ccmhVqmYRfKl7_pAVc3HIcqGa4nBNqm0/rs:fit/g:sm/q:90/h:609/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg1NTg5/ODgtMTQ2NDAyNTEz/NC05MTMyLmpwZWc.jpeg"
-    - "https://i.discogs.com/SdRddlO2MT-wRlMNMWF35HNEvETW02Q0uZdLwBtenfE/rs:fit/g:sm/q:90/h:900/w:450/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg1NTg5/ODgtMTQ2NjE4NDEw/My05MTA0LmpwZWc.jpeg"
+    - "https://i.discogs.com/1uPihhNc7zEVjwqPiVZ5A0LS-RGVWHnYe1BwwZSufyw/rs:fit/g:sm/q:90/h:600/w:568/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg1NTg5/ODgtMTQ2NDAyNTEz/OC04NzM0LmpwZWc.jpeg"
+    - "https://i.discogs.com/tXmME_7ExqHRSfo0pNO1t5mzke68oBeGHjG_diq2gIs/rs:fit/g:sm/q:90/h:600/w:591/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg1NTg5/ODgtMTQ2NDAyNTEz/NC05MTMyLmpwZWc.jpeg"
     - "https://i.discogs.com/tTehTtCxpPniupF0NzJGrQPrsBld2lYTOY-nQVzDZtM/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg1NTg5/ODgtMTQ2NTc0MjIy/Mi00NzQ4LmpwZWc.jpeg"
+    - "https://i.discogs.com/4zH6TI_cDxdLM2zKwRfTM6R8gDEhXKASnyeATEyZYQ8/rs:fit/g:sm/q:90/h:469/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg1NTg5/ODgtMTcwMzM1NDE5/My0yODcxLmpwZWc.jpeg"
+    - "https://i.discogs.com/m3NQQR3acqqlr0y7HU486OCCpv7XCq3vn19MKbWV9-k/rs:fit/g:sm/q:90/h:235/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg1NTg5/ODgtMTcwMzM1NDE4/OS04MDAwLmpwZWc.jpeg"
+    - "https://i.discogs.com/LA5tvGQ5-XjYSdLSbK5wh52-37f8HgZG0bjaG9JSfnE/rs:fit/g:sm/q:90/h:600/w:294/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg1NTg5/ODgtMTcwMzM1NjMy/Mi00NzU0LmpwZWc.jpeg"
 genres: ["Rock", "Stage & Screen"]
 styles: ["Soundtrack", "Psychedelic Rock", "Prog Rock"]
 ---
 
-Though it was officially a soundtrack for a rarely seen Barbet Schroeder film, <i>More</i> is a hugely important transitional album for Pink Floyd. Here the post-Syd Barrett lineup moves away from freeform psychedelia and masters song structure, while keeping their experimental edge. There's a lost classic in Roger Waters' soaring, spooky "Cymbaline", while "The Nile Song" is one of their heaviest rockers. But <i>More</i> mostly features the band's lyrical side: "Green Is the Colour" has to be the only Floyd song featuring a pennywhistle.
-
-    
-    
 
 
 ## Tracklisting
@@ -45,10 +42,15 @@ Though it was officially a soundtrack for a rarely seen Barbet Schroeder film, <
 13. Dramatic Theme
 
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/more-original-film-soundtrack/703496837" >}}<br>
+{{< applemusic url="https://music.apple.com/gb/album/eternal-sunshine-of-the-spotless-mind-soundtrack/1442912229" >}}<br>
 
 
+## Videos
+### Pink Floyd - 1st UK press - More - side two - 192 Khz
+{{< youtube id="E4-0wZj1olc" title="Pink Floyd - 1st UK press - More - side two - 192 Khz" >}}<br>
+### More Videos
 
+- [Dramatic Theme](https://www.youtube.com/watch?v=Lp74csZ6JtM)
 
 ## Release Images
 {{< imageGrid >}}
@@ -59,5 +61,5 @@ Though it was officially a soundtrack for a rarely seen Barbet Schroeder film, <
 | Format         | Vinyl LP Album Reissue Remastered Stereo (180 Gram) |
 | Label          | Pink Floyd Records |
 | Catalog Number | PFRLP3 |
-| Notes | The stereo remastered album on heavyweight 180ɢ vinyl Remastered from the original analogue tapes by JAMES GUTHRIE, JOEL PLANTE and BERNIE GRUNDMAN Original UK release date: July 1969 www.pinkfloyd.com  Hype sticker on shrink wrap. Printed image of the original flip back rear sleeve. Black paper and plastic poly-lined inner sleeve. Made and Printed by Optimal in the EU (on back cover). Made in the EU (on labels).  Runouts: - Runouts are etched - Variant 3: 'BG' is underlined, '2△' and '5T' are mirrored |
+| Notes | The stereo remastered album on heavyweight 180ɢ vinyl Remastered from the original analogue tapes by JAMES GUTHRIE, JOEL PLANTE and BERNIE GRUNDMAN Original UK release date: July 1969 www.pinkfloyd.com  Hype sticker on shrink wrap. Printed image of the original flip back rear sleeve. Black paper and plastic poly-lined inner sleeve. Made and Printed by Optimal in the EU (on back cover). Made in the EU (on labels). Soundtrack From The Film “More” - Pink Floyd PFRLP3 (on spine). File under Popular : Films and Shows (on back cover) ℗ 2016 Pink Floyd Music Ltd., marketed and distributed by Parlophone Records Ltd., a Warner Music Group Company. © 2016 Pink Floyd Music Ltd. The copyright in this sound recording and artwork is owned by Pink Floyd Music Ltd (on back cover)  Runouts are etched with Optimal plating symbols mirrored Variant 3 and 5: 'BG' is underlined |
 | Discogs URL    | [Pink Floyd - Soundtrack From The Film "More"](https://www.discogs.com/release/8558988-Pink-Floyd-Soundtrack-From-The-Film-More) |

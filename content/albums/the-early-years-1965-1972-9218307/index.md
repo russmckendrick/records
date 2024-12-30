@@ -13,15 +13,15 @@ cover:
     caption: "The Early Years 1965-1972 by Pink Floyd"
 additional_images:
     - "https://i.discogs.com/YT4IjkFKQbl-LYCLSylmCjHiTskk7bzKkRAO2PVdNK4/rs:fit/g:sm/q:90/h:304/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkyMTgz/MDctMTU3NzYxMDA4/OC00NzM5LmpwZWc.jpeg"
-    - "https://i.discogs.com/WtfiBJswiJIIEWypUqfzLfj_ufUZK-hua0GGit0ktzM/rs:fit/g:sm/q:90/h:811/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkyMTgz/MDctMTQ3OTE5NTQ1/My02OTI2LmpwZWc.jpeg"
-    - "https://i.discogs.com/-nQh_7c4ztxyj0ASYIVTltgnKswbM46T4KNNtoll-yk/rs:fit/g:sm/q:90/h:811/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkyMTgz/MDctMTQ3OTE5NTQ1/NS03NzEzLmpwZWc.jpeg"
-    - "https://i.discogs.com/ZV048dBH6Dk4eruYYl8jF-M9Lq8RtW1-tcEWqGSUzYg/rs:fit/g:sm/q:90/h:811/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkyMTgz/MDctMTQ3OTE5NTQ0/OS02ODcwLmpwZWc.jpeg"
-    - "https://i.discogs.com/lIXLg3gQ2SwUagJwftLrFrxF7_qfhyuabhNfQGINB1c/rs:fit/g:sm/q:90/h:815/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkyMTgz/MDctMTQ3OTE5NTQ0/OS05MzcxLmpwZWc.jpeg"
-    - "https://i.discogs.com/Z3Quao96HKNwxpjYO5ERpKkTBrJP_7c-Ud3WHdEbUGc/rs:fit/g:sm/q:90/h:823/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkyMTgz/MDctMTQ3OTE5NTQ0/OC04NzAwLmpwZWc.jpeg"
-    - "https://i.discogs.com/PRt7cCL6wpf1u_C5FEXTTNdxwXmwWbDhNCRApoEZSwA/rs:fit/g:sm/q:90/h:816/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkyMTgz/MDctMTQ3OTE5NTQ1/OC0yMjAwLmpwZWc.jpeg"
-    - "https://i.discogs.com/JgFD4K_IVf6xq4k5sz1TPnE2O6Nz78q6qBtlujbbraM/rs:fit/g:sm/q:90/h:817/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkyMTgz/MDctMTQ3OTE5NTQ2/MC02MzgyLmpwZWc.jpeg"
-    - "https://i.discogs.com/9TblPfRDQeq0B6vRoaMzFDIbGIqxyB47V5jIkXsRHcU/rs:fit/g:sm/q:90/h:800/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkyMTgz/MDctMTQ3OTY1NTE2/NC0xMjMzLmpwZWc.jpeg"
-    - "https://i.discogs.com/m0uHG8F15BTST631odPuDA3gNxaroIwO3v9sCaECQEo/rs:fit/g:sm/q:90/h:800/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkyMTgz/MDctMTQ3OTY1NTE3/MS03MjYwLmpwZWc.jpeg"
+    - "https://i.discogs.com/4uKahrfFnnzM3QIOfgKo5SNlx5fvwMUSnhEx6iLUvOQ/rs:fit/g:sm/q:90/h:600/w:443/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkyMTgz/MDctMTQ3OTE5NTQ1/My02OTI2LmpwZWc.jpeg"
+    - "https://i.discogs.com/2Ey4gzarqBvoz78EDvaJawhISaDJ-Q63YkeWXTE9TjY/rs:fit/g:sm/q:90/h:600/w:443/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkyMTgz/MDctMTQ3OTE5NTQ1/NS03NzEzLmpwZWc.jpeg"
+    - "https://i.discogs.com/48sH4XDMsCB_h121nKQGKwuoZomeUGgp-nUGzmVlgOM/rs:fit/g:sm/q:90/h:600/w:443/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkyMTgz/MDctMTQ3OTE5NTQ0/OS02ODcwLmpwZWc.jpeg"
+    - "https://i.discogs.com/1lrKvY6vi1FdHPSLMaV4_E3VRPypKVvXCdLjkrxXbqk/rs:fit/g:sm/q:90/h:600/w:441/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkyMTgz/MDctMTQ3OTE5NTQ0/OS05MzcxLmpwZWc.jpeg"
+    - "https://i.discogs.com/xKvNQ78x2d-n3w485uaesgDvGNdRwVbS88CDstPxax8/rs:fit/g:sm/q:90/h:600/w:436/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkyMTgz/MDctMTQ3OTE5NTQ0/OC04NzAwLmpwZWc.jpeg"
+    - "https://i.discogs.com/VzLW4M0bGbIRdAgynizzL4y3Fojj_FfOkaS8GI8_usc/rs:fit/g:sm/q:90/h:600/w:441/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkyMTgz/MDctMTQ3OTE5NTQ1/OC0yMjAwLmpwZWc.jpeg"
+    - "https://i.discogs.com/xNDSRJ4qj6BBthbztC-QB5n1iw_9KqvwGfdq4zPrPsQ/rs:fit/g:sm/q:90/h:600/w:440/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkyMTgz/MDctMTQ3OTE5NTQ2/MC02MzgyLmpwZWc.jpeg"
+    - "https://i.discogs.com/IuP8T4pN3ZU_XphYRmby0zURO7-V5UMxh-gwSKogQ9o/rs:fit/g:sm/q:90/h:600/w:450/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkyMTgz/MDctMTQ3OTY1NTE2/NC0xMjMzLmpwZWc.jpeg"
+    - "https://i.discogs.com/lTLseiPga6yxd84tLC7Akd506ffIs9blrgGZKGbE09U/rs:fit/g:sm/q:90/h:600/w:450/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkyMTgz/MDctMTQ3OTY1NTE3/MS03MjYwLmpwZWc.jpeg"
     - "https://i.discogs.com/H2I8trBMjBXU5GTtobhbmU9NjGY4ujd0EI5l04QOQJU/rs:fit/g:sm/q:90/h:436/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkyMTgz/MDctMTQ4MDQ5MDU2/NC04NzMxLmpwZWc.jpeg"
     - "https://i.discogs.com/GRPd5n68IAf2RtFqgz1UhxCgwccj8oDT7lOnXHB4otY/rs:fit/g:sm/q:90/h:600/w:484/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkyMTgz/MDctMTQ4MDQ5MDU2/NC0zMjA4LmpwZWc.jpeg"
     - "https://i.discogs.com/JJ8k7iZ3UbNCKSXIT8cLsV-BZySPcSdUxHpR1hsvz-s/rs:fit/g:sm/q:90/h:600/w:595/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkyMTgz/MDctMTQ3OTgwMjgw/NS04NDk2LmpwZWc.jpeg"
@@ -112,131 +112,6 @@ additional_images:
     - "https://i.discogs.com/DK1OY5VbS73rsf45n6JJl2XAB013j6eOL_5UiNYkZao/rs:fit/g:sm/q:90/h:394/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkyMTgz/MDctMTQ4MDc1NzA3/NS02MjgwLmpwZWc.jpeg"
     - "https://i.discogs.com/vTNUg0BDLXKiZIwj4c1cwEQlXiXl3Sl2fEknnJazcTU/rs:fit/g:sm/q:90/h:394/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkyMTgz/MDctMTQ4MDc1NzA4/Ny0xNTQzLmpwZWc.jpeg"
     - "https://i.discogs.com/Px4u9k9K4mEhDXrQbG8bDQ27wpZhvJbHTEcasL_NTTc/rs:fit/g:sm/q:90/h:600/w:595/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkyMTgz/MDctMTQ4MDc1NzIw/MS0xMzY4LmpwZWc.jpeg"
-    - "https://i.discogs.com/Evl_p_xSQmGBq2juUu1IHqNLpPWGhLtD4w_jB3N0TXU/rs:fit/g:sm/q:90/h:600/w:595/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkyMTgz/MDctMTQ4MDc1NzIw/My02NDAyLmpwZWc.jpeg"
-    - "https://i.discogs.com/2paOqi-9NR2dcc1eAHYYikjdqiWWig04r9Gl12pYiKE/rs:fit/g:sm/q:90/h:600/w:597/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkyMTgz/MDctMTQ4MDc1NzE5/Ni00NDM4LmpwZWc.jpeg"
-    - "https://i.discogs.com/Aus7W9xnhPaS4Z_QFZU3D2QyN5ak-7kQVXN6UnmSWSI/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkyMTgz/MDctMTQ4MDc1NzIw/NS0xMjMxLmpwZWc.jpeg"
-    - "https://i.discogs.com/BJEpnFwtvOA-gyl_ssowmpb1bniHRfrLe0KKTIUYZ10/rs:fit/g:sm/q:90/h:600/w:597/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkyMTgz/MDctMTQ4MDc1NzIw/NC04NjE4LmpwZWc.jpeg"
-    - "https://i.discogs.com/r5noRAlzLzM4Jt-qPiwjEoGnCdE2aBQ0J1MXFE5rRaE/rs:fit/g:sm/q:90/h:600/w:453/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkyMTgz/MDctMTQ4MDc1NzI3/OS04OTQ4LmpwZWc.jpeg"
-    - "https://i.discogs.com/RHp9pv7LyApbUxkEjSV6DfR-rPJ2v6PqKru_BuhrlT4/rs:fit/g:sm/q:90/h:600/w:371/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkyMTgz/MDctMTQ4MDc1NzI4/My01NTU0LmpwZWc.jpeg"
-    - "https://i.discogs.com/4mGFaqSUEJLGo8Cat5sFRkw-wgKiN6oIKysV3QRQ840/rs:fit/g:sm/q:90/h:600/w:414/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkyMTgz/MDctMTQ4MDc1NzI4/MS02MDQ4LmpwZWc.jpeg"
-    - "https://i.discogs.com/Mc3SwySPm0ZCCJKkQV8_rP0J9n1ohElLmM1D-pOVIP4/rs:fit/g:sm/q:90/h:600/w:426/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkyMTgz/MDctMTQ4MDc1NzI4/NC02ODU4LmpwZWc.jpeg"
-    - "https://i.discogs.com/74nCuCiSrVsXQQfKK6ARR3pbFcEGQySt9Q6ZCTWZFjU/rs:fit/g:sm/q:90/h:600/w:444/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkyMTgz/MDctMTQ4MDc3Nzcx/OS0xMTQyLmpwZWc.jpeg"
-    - "https://i.discogs.com/QdHNWnSP7HAwKBxVXlByI9K9CpGfRzJ4U6CeE0va6Eo/rs:fit/g:sm/q:90/h:600/w:440/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkyMTgz/MDctMTQ4MDc3Nzcx/Mi05OTY5LmpwZWc.jpeg"
-    - "https://i.discogs.com/rpAlcWfZ7aY5_2pu5zAhAOVvs3ZeAnhm4QTpo_KlcZ0/rs:fit/g:sm/q:90/h:600/w:596/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkyMTgz/MDctMTQ4MDc3Nzgw/OS02NzY5LmpwZWc.jpeg"
-    - "https://i.discogs.com/GLyWbzqRtgFede0yzW-pR54B98bdmVmQqg7m1goJxOg/rs:fit/g:sm/q:90/h:600/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkyMTgz/MDctMTQ4MDc3Nzgw/OS05Mzk1LmpwZWc.jpeg"
-    - "https://i.discogs.com/cr0HlW5QbKzsrPEE_tgR44cvCDuzIivNLfkbbKALdY0/rs:fit/g:sm/q:90/h:600/w:592/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkyMTgz/MDctMTQ4MDc3Nzgw/NC04MDk4LmpwZWc.jpeg"
-    - "https://i.discogs.com/fYRGDhdNbxQ7hBoSI0mDDo4fLNR_H2KS09fKUTKacoc/rs:fit/g:sm/q:90/h:390/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkyMTgz/MDctMTQ4MDc3Nzcx/MS04OTU5LmpwZWc.jpeg"
-    - "https://i.discogs.com/gPinwxZIArgLyRMyqNPGCpwkugMhVoeD0ycGZcLBTrk/rs:fit/g:sm/q:90/h:382/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkyMTgz/MDctMTQ4MDc3Nzcx/MS05MTE1LmpwZWc.jpeg"
-    - "https://i.discogs.com/iOnAG6T-HasSGxiX4wiCk2wTDEkMxfvRq4005HCARtU/rs:fit/g:sm/q:90/h:437/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkyMTgz/MDctMTQ4MDc3Nzcy/NC03NDkyLmpwZWc.jpeg"
-    - "https://i.discogs.com/KlDZvRy7-sdcwUB7XSiwCIb7NFUoJDnY_RRTrfX-e7w/rs:fit/g:sm/q:90/h:413/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkyMTgz/MDctMTQ4MDc3Nzcx/Ni05MTI2LmpwZWc.jpeg"
-    - "https://i.discogs.com/Wqr_pKKRfPn6ea9Q59Zp-uGaeHLZVzMJBtBIPe2ccdI/rs:fit/g:sm/q:90/h:414/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkyMTgz/MDctMTQ4MDc3Nzcy/My04MzAxLmpwZWc.jpeg"
-    - "https://i.discogs.com/nSSAWVG6UHXZpX5yPFTsQGo73aExt-NKTr7UaFDqVKQ/rs:fit/g:sm/q:90/h:414/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkyMTgz/MDctMTQ4MDc3Nzcy/MS0xMzY4LmpwZWc.jpeg"
-    - "https://i.discogs.com/-ykm5pk2eTFKuxUT7Yy4AgQ7CoMKuF2fp88tJpCW8Go/rs:fit/g:sm/q:90/h:422/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkyMTgz/MDctMTQ4MDc3Nzcx/My02MDI0LmpwZWc.jpeg"
-    - "https://i.discogs.com/us0gmcivBSjudZu5V0ZaHoY0AQrVPKRkFTQWfKFt3UI/rs:fit/g:sm/q:90/h:435/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkyMTgz/MDctMTQ4MDc3Nzcw/Ny03NDAyLmpwZWc.jpeg"
-    - "https://i.discogs.com/cuiKTDkOnCflr8zuSK_G8G3avVxseOpblT6SKfHad14/rs:fit/g:sm/q:90/h:409/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkyMTgz/MDctMTQ4MDc3Nzcy/NS0zNTE2LmpwZWc.jpeg"
-    - "https://i.discogs.com/1L0attrZbEolxDUgVXEKYE73D4spHZtnTGTY87Kqfqk/rs:fit/g:sm/q:90/h:427/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkyMTgz/MDctMTQ4MDc3Nzcy/NC02MjczLmpwZWc.jpeg"
-    - "https://i.discogs.com/-7EJ1zUej6WsnDyyCS2ewvZ0l8tG4GjCb_hho2W1A_w/rs:fit/g:sm/q:90/h:377/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkyMTgz/MDctMTQ4MDc3Nzcy/MC01NDEyLmpwZWc.jpeg"
-    - "https://i.discogs.com/XPNx2cDTdEgTiQOk0eeVdlo0di52B7L4fkmzItLTTF4/rs:fit/g:sm/q:90/h:600/w:461/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkyMTgz/MDctMTQ4MDc3Nzg4/OS00NTc2LmpwZWc.jpeg"
-    - "https://i.discogs.com/LLgyAJGEboepcHZk7M4No8Hw865ljN5okQ4aAGrVj9E/rs:fit/g:sm/q:90/h:600/w:596/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkyMTgz/MDctMTQ4MDc3Nzg4/NS0xMTk4LmpwZWc.jpeg"
-    - "https://i.discogs.com/b8r_FT2ZWCvq4okmQUvhBxFWdy16haK2Ymp3VW3KcII/rs:fit/g:sm/q:90/h:600/w:478/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkyMTgz/MDctMTQ4MDc3Nzg4/Ni04MTA0LmpwZWc.jpeg"
-    - "https://i.discogs.com/ONmf9J_iF6ZE8ueZq6gH9K_RrwQGEoksUbh_2BPlk_E/rs:fit/g:sm/q:90/h:600/w:480/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkyMTgz/MDctMTQ4MDc3Nzg5/MC0yMDU1LmpwZWc.jpeg"
-    - "https://i.discogs.com/GcKaIFY7tMVVs348WfeIMMRlyrCSgsVkC3X3GUgw5IM/rs:fit/g:sm/q:90/h:446/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkyMTgz/MDctMTQ4MDc3Nzg4/NC02NzY2LmpwZWc.jpeg"
-    - "https://i.discogs.com/8rcODp1cd63f0NSqQg8WA4gj8CgWlw9JVHygL2yB_Qw/rs:fit/g:sm/q:90/h:600/w:443/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkyMTgz/MDctMTQ4MDkxOTQ4/Ny04MjExLmpwZWc.jpeg"
-    - "https://i.discogs.com/IxFhpzbCS7Ch-bH9KIviYvg15TM-Zy419x3P_HXqTss/rs:fit/g:sm/q:90/h:600/w:437/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkyMTgz/MDctMTQ4MDkxOTQ2/Ni0zNTE0LmpwZWc.jpeg"
-    - "https://i.discogs.com/0sWIu-riwRhs3zpe_g5tAiiX8UHXFVyKTI6wtnyayHg/rs:fit/g:sm/q:90/h:387/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkyMTgz/MDctMTQ4MDkxOTQ4/MS0xNDUzLmpwZWc.jpeg"
-    - "https://i.discogs.com/C8CsbfZKIpBU8m6T9H6w44JEG6UZSKCTY_8h9jhgMlQ/rs:fit/g:sm/q:90/h:390/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkyMTgz/MDctMTQ4MDkxOTQ4/NC0zNzk0LmpwZWc.jpeg"
-    - "https://i.discogs.com/I2cQ8HoQkrVmF_5PKZLmkK_nFFwCl8Zo_19daXvyW3o/rs:fit/g:sm/q:90/h:436/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkyMTgz/MDctMTQ4MDkxOTQ3/MS0zNDc1LmpwZWc.jpeg"
-    - "https://i.discogs.com/FYluk2ITtm2KhQG6HjDtifRw-sOiuCzphs2AK-50Sqk/rs:fit/g:sm/q:90/h:411/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkyMTgz/MDctMTQ4MDkxOTQ3/Ni0yMTI3LmpwZWc.jpeg"
-    - "https://i.discogs.com/HBnh9zIajygs97w1bw7f7Mi0QSMpI6RXlVComB3Hr2Y/rs:fit/g:sm/q:90/h:412/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkyMTgz/MDctMTQ4MDkxOTQ3/MC0yODE1LmpwZWc.jpeg"
-    - "https://i.discogs.com/SDI4vJxT8hVLGF5zbvNVABLzEBr9H2HXagetC4T-AoU/rs:fit/g:sm/q:90/h:408/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkyMTgz/MDctMTQ4MDkxOTQ4/Ny0xMTA5LmpwZWc.jpeg"
-    - "https://i.discogs.com/-nUTkHkRUgVuIERBQbrIvPwToR6M_4dMxKLRR8-F9nM/rs:fit/g:sm/q:90/h:413/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkyMTgz/MDctMTQ4MDkxOTQ4/My01MzA3LmpwZWc.jpeg"
-    - "https://i.discogs.com/aludifo-94FsU2A3jn98Ma9Gr-bIJ55UvHZjrXKYuU0/rs:fit/g:sm/q:90/h:413/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkyMTgz/MDctMTQ4MDkxOTQ3/MC03NDAyLmpwZWc.jpeg"
-    - "https://i.discogs.com/voApGnomV2aGKjfhUijWb_vcM5O4wVIQN5JGTD70jJw/rs:fit/g:sm/q:90/h:435/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkyMTgz/MDctMTQ4MDkxOTQ4/NS01NTM5LmpwZWc.jpeg"
-    - "https://i.discogs.com/r3ukH097YN-W-yp9peVDvUe-KXtQuwDiGGU1RubVuKs/rs:fit/g:sm/q:90/h:404/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkyMTgz/MDctMTQ4MDkxOTQ3/OC0yNzM0LmpwZWc.jpeg"
-    - "https://i.discogs.com/IX2dBcB8yiRwJd_duWFc6DRfYKkzzxp-EifBiY1sRwQ/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkyMTgz/MDctMTQ4MDkxOTc2/OS01NzE0LmpwZWc.jpeg"
-    - "https://i.discogs.com/btbYcDrAlOmvUZ7taocOM3pjbAijSfBgb4s3TuUd7mY/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkyMTgz/MDctMTQ4MDkxOTc2/Ni04MjM2LmpwZWc.jpeg"
-    - "https://i.discogs.com/B8JjEAlWDpSM16n9Teeqb9dkTrqWgRd31vqgbx3O4t8/rs:fit/g:sm/q:90/h:600/w:593/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkyMTgz/MDctMTQ4MDkxOTc3/MC03NjIxLmpwZWc.jpeg"
-    - "https://i.discogs.com/TtL0_0H8iXzrkienSmKmZxMI7q7hwQvhl9v1TtKVz4I/rs:fit/g:sm/q:90/h:600/w:587/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkyMTgz/MDctMTQ4MDkxOTc2/OC00NTU4LmpwZWc.jpeg"
-    - "https://i.discogs.com/MqXXxOOdPSXlLqdUmZ9sGn8sjgBJDIotHZ-qpG0OJNQ/rs:fit/g:sm/q:90/h:600/w:420/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkyMTgz/MDctMTQ4MDkxOTk3/NS04OTc4LmpwZWc.jpeg"
-    - "https://i.discogs.com/Vtgy7nDZiW33U_r5DfSNSQwp35ulx2j-ay7ZhyJLF5U/rs:fit/g:sm/q:90/h:199/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkyMTgz/MDctMTQ4MDkxOTk2/MC02OTQ1LmpwZWc.jpeg"
-    - "https://i.discogs.com/rnl8IfndqnkD2AiOqUqszW4LXnkuTMf1_rC0Px1j2q0/rs:fit/g:sm/q:90/h:461/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkyMTgz/MDctMTQ4MDkxOTk3/Ny04MTI0LmpwZWc.jpeg"
-    - "https://i.discogs.com/arHecvcM0UGqC_HKb4x8Cvn-C-E6QrmIiZrEKiTtjGc/rs:fit/g:sm/q:90/h:455/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkyMTgz/MDctMTQ4MDkxOTk3/MC0zMzExLmpwZWc.jpeg"
-    - "https://i.discogs.com/HpzjWOCig8SmuidZDy4JssM00VKggW5K1_3zcL8wUfE/rs:fit/g:sm/q:90/h:458/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkyMTgz/MDctMTQ4MDkxOTk3/My05MDY2LmpwZWc.jpeg"
-    - "https://i.discogs.com/4yVsVq2rkePvAqOvW1a6c7zsj6aFnr7ymAxMJgua2ps/rs:fit/g:sm/q:90/h:600/w:437/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkyMTgz/MDctMTQ4MDkxOTk3/Mi05Nzk2LmpwZWc.jpeg"
-    - "https://i.discogs.com/Ryrx_O46ruIPA2dK8mRZ_DyNpb5uI4EAsWQ8RlN6F38/rs:fit/g:sm/q:90/h:600/w:415/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkyMTgz/MDctMTQ4MDkxOTk3/NC05ODUyLmpwZWc.jpeg"
-    - "https://i.discogs.com/plh64RYSTBt6_7OGqZiqBL3uEpq-gv5THDjPDnxrPKc/rs:fit/g:sm/q:90/h:600/w:596/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkyMTgz/MDctMTQ4MDkxOTk3/NC05ODYxLmpwZWc.jpeg"
-    - "https://i.discogs.com/MyIeAei_l4oumi8ZtSb03Hp6kS5S6oKwldXB1HTTSec/rs:fit/g:sm/q:90/h:600/w:442/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkyMTgz/MDctMTQ4MDQ5MDA1/Ny03MDYxLmpwZWc.jpeg"
-    - "https://i.discogs.com/EcFUPbWPuN8QQGqE_51w8TX-AwSwXo5Ht-r7Xp5IJss/rs:fit/g:sm/q:90/h:600/w:439/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkyMTgz/MDctMTQ4MDQ5MDA5/My05OTAzLmpwZWc.jpeg"
-    - "https://i.discogs.com/MC6GwAnvm8zZ_9-a92lY8NPNadCwRG8gRdzyr2rdk_0/rs:fit/g:sm/q:90/h:600/w:593/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkyMTgz/MDctMTQ4MDQ5MDEy/My04ODU4LmpwZWc.jpeg"
-    - "https://i.discogs.com/hNp38c-a-5zn9KfzfjpMlM2OyY5qZNOaei2I7y_GWP4/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkyMTgz/MDctMTQ4MDQ5MDEx/My02MDU3LmpwZWc.jpeg"
-    - "https://i.discogs.com/TdkQRDdK8oma57xP3ipSlNTyG493S9B9t5EXbd8qhrE/rs:fit/g:sm/q:90/h:600/w:597/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkyMTgz/MDctMTQ4MDQ5MDEy/OS01MTU5LmpwZWc.jpeg"
-    - "https://i.discogs.com/H782wmAu8vKon9IHROR0BJ8ZXnylmZ81-r9WNKmYaY8/rs:fit/g:sm/q:90/h:600/w:595/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkyMTgz/MDctMTQ4MDQ5MDA1/Mi02NjQ4LmpwZWc.jpeg"
-    - "https://i.discogs.com/FVPnYezvfIwZb68Q4MQwzF6cXsnlvwBsRGw3Xzupo0A/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkyMTgz/MDctMTQ4MDQ5MDA2/OC05NTc5LmpwZWc.jpeg"
-    - "https://i.discogs.com/K96HzicT5mRhIICgPAUkcOfWdvmdJ7MBwmIivgiys0Q/rs:fit/g:sm/q:90/h:391/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkyMTgz/MDctMTQ4MDQ5MDEw/MS02ODM3LmpwZWc.jpeg"
-    - "https://i.discogs.com/jxKYr2bBJxsHf-VOec6wQPrHNJP8iioIrfLWTCjniwA/rs:fit/g:sm/q:90/h:403/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkyMTgz/MDctMTQ4MDQ5MDEx/Ny05MDE5LmpwZWc.jpeg"
-    - "https://i.discogs.com/bIfu6n5CstBF2lh9a2AVqxt0ALtV2AMVA3Anew0VBaY/rs:fit/g:sm/q:90/h:393/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkyMTgz/MDctMTQ4MDQ5MDEx/OS0xOTE3LmpwZWc.jpeg"
-    - "https://i.discogs.com/6IhhQL1aEI12-U4yJVgXLdB9t90TJVqGiSSPSVfMVIo/rs:fit/g:sm/q:90/h:428/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkyMTgz/MDctMTQ4MDQ5MDEx/OS01MTkzLmpwZWc.jpeg"
-    - "https://i.discogs.com/gD9kacDDUqj8XdWZ7ReNLIVoIxBIjwgYhlaFRkpO9uI/rs:fit/g:sm/q:90/h:453/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkyMTgz/MDctMTQ4MDQ5MDA5/MC04MzQ0LmpwZWc.jpeg"
-    - "https://i.discogs.com/cJ4gsS97MgdJwXPkf_EImKyjGxwsR7tAQmmS0Q21HYc/rs:fit/g:sm/q:90/h:458/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkyMTgz/MDctMTQ4MDQ5MDA3/NS0xMDM3LmpwZWc.jpeg"
-    - "https://i.discogs.com/h6S24OV6wnbTiYnxoasOYnLGI3924fy4TkOzG6kvffo/rs:fit/g:sm/q:90/h:417/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkyMTgz/MDctMTQ4MDQ5MDA5/My00OTE2LmpwZWc.jpeg"
-    - "https://i.discogs.com/_Qc3cQqE3B-u19MN3vf74T6j1iisBVCD6d_-92uL8Z4/rs:fit/g:sm/q:90/h:419/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkyMTgz/MDctMTQ4MDQ5MDA3/My01NTM5LmpwZWc.jpeg"
-    - "https://i.discogs.com/QAzDhrO4MKV5puSlPhi13xZxMbnZCRtA3fV6EZHuAPg/rs:fit/g:sm/q:90/h:417/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkyMTgz/MDctMTQ4MDQ5MDA4/My0yMDk1LmpwZWc.jpeg"
-    - "https://i.discogs.com/FlRtxK0BBUY6hEJ8OE5CpM8UAjJDZRA8uH4MrKIbtnk/rs:fit/g:sm/q:90/h:434/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkyMTgz/MDctMTQ4MDQ5MDA2/NS03ODA1LmpwZWc.jpeg"
-    - "https://i.discogs.com/PlWZ7zygbel04lh22dabu6s4EDMvly22FSC3jy_25L4/rs:fit/g:sm/q:90/h:600/w:421/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkyMTgz/MDctMTQ4MDQ5MDA0/NC03NzU5LmpwZWc.jpeg"
-    - "https://i.discogs.com/EsUImYIRJinHTelNAmWZlUv9-EK1Spk7Dk92tRlyiUI/rs:fit/g:sm/q:90/h:428/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkyMTgz/MDctMTQ4MDQ5MDA2/NC04MTU5LmpwZWc.jpeg"
-    - "https://i.discogs.com/GXB5Yn1T8vRGxwMfeRDhQjLOQybmgFt0MHsrXfMQF2I/rs:fit/g:sm/q:90/h:428/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkyMTgz/MDctMTQ4MDQ5MDA1/OC00NDg3LmpwZWc.jpeg"
-    - "https://i.discogs.com/PhfeaqKcoZHdqVmnyARyJtgPUa1HceL8JEzYgiS1YFA/rs:fit/g:sm/q:90/h:600/w:424/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkyMTgz/MDctMTQ4MDQ5MDA0/NS0yNzgxLmpwZWc.jpeg"
-    - "https://i.discogs.com/cmySEMOtkoRTSc0ul31POn985kMrmb4shrXs6VuuY2k/rs:fit/g:sm/q:90/h:600/w:424/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkyMTgz/MDctMTQ4MDQ5MTQ3/OC0xMDExLmpwZWc.jpeg"
-    - "https://i.discogs.com/K6E6GA4WILqm_rVoJYmHkRjS6TM613ecmJyknRboLn0/rs:fit/g:sm/q:90/h:424/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkyMTgz/MDctMTQ4MDQ5MTUw/My04MTIzLmpwZWc.jpeg"
-    - "https://i.discogs.com/8e-Xq0IrExhhrKEUyqugefEcdb-AMJ0BwPrkC9XrsGQ/rs:fit/g:sm/q:90/h:422/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkyMTgz/MDctMTQ4MDQ5MTUw/Ny04OTcwLmpwZWc.jpeg"
-    - "https://i.discogs.com/nfimtTGoYEH8A13pBiLFEfK8BwxR8gNeQ2hBk1dtgN4/rs:fit/g:sm/q:90/h:391/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkyMTgz/MDctMTQ4MDQ5MTUy/OC02MTUxLmpwZWc.jpeg"
-    - "https://i.discogs.com/RBwaE8WZEPhdGYI5TSNCFJlpOKL2aFWXc7nPhZsZil4/rs:fit/g:sm/q:90/h:600/w:399/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkyMTgz/MDctMTQ4MDQ5MTQ4/My03MTQwLmpwZWc.jpeg"
-    - "https://i.discogs.com/4oZflaLMuBM0PML-_lDafrCEJU9nlmGKj9h8Yktnun8/rs:fit/g:sm/q:90/h:600/w:421/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkyMTgz/MDctMTQ4MDQ5MTU3/Ni00MzIzLmpwZWc.jpeg"
-    - "https://i.discogs.com/klboFTE40EQ6ZwNiLFs0Lqsak0rOvH0CYKOnTsoib6M/rs:fit/g:sm/q:90/h:600/w:476/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkyMTgz/MDctMTQ4MDQ5MTU1/OC05NjM2LmpwZWc.jpeg"
-    - "https://i.discogs.com/2J_PNEKHW74md9YsruY24m0TDzZodCvrgg168tqaN1U/rs:fit/g:sm/q:90/h:600/w:480/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkyMTgz/MDctMTQ4MDQ5MTQ3/My05MDcxLmpwZWc.jpeg"
-    - "https://i.discogs.com/EeuCykkbdnNlivvbTq7Y_vbe09ty0Kv9Xp0LJgVREzc/rs:fit/g:sm/q:90/h:600/w:478/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkyMTgz/MDctMTQ4MDQ5MTQ1/OC0zODE3LmpwZWc.jpeg"
-    - "https://i.discogs.com/yyz-BwFo70ybibY7rGH1T-nSV4IMKPiS-Tzp-pOeHtM/rs:fit/g:sm/q:90/h:600/w:480/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkyMTgz/MDctMTQ4MDQ5MTQ2/MS00MTU5LmpwZWc.jpeg"
-    - "https://i.discogs.com/qtaGIL6Dhj40dsy4AzITqjqHpYxdzL3k0edBiRA4Dmk/rs:fit/g:sm/q:90/h:600/w:478/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkyMTgz/MDctMTQ4MDQ5MTUz/Ny0xNDk4LmpwZWc.jpeg"
-    - "https://i.discogs.com/7AXjFuX2VlchChRfkKdINEKYRM_j7hex5-RC5sSL83Y/rs:fit/g:sm/q:90/h:600/w:480/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkyMTgz/MDctMTQ4MDQ5MTU2/MC0yMzA5LmpwZWc.jpeg"
-    - "https://i.discogs.com/UW1X7yPfLF4XnUlzZ6JmUX6z6Ex0APyZlen3CEpjTaQ/rs:fit/g:sm/q:90/h:600/w:477/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkyMTgz/MDctMTQ4MDQ5MTQ2/Mi0yNjgxLmpwZWc.jpeg"
-    - "https://i.discogs.com/VlSvR_KFJqfuuQufcVr8QKZm-lUAe_y0ErW8YS6rgJU/rs:fit/g:sm/q:90/h:600/w:468/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkyMTgz/MDctMTQ4MDQ5MTQ2/Mi0xOTA2LmpwZWc.jpeg"
-    - "https://i.discogs.com/6DzmGOORs8628pb_lNUyecBNWezBpm83QCcC1LfaPKs/rs:fit/g:sm/q:90/h:600/w:452/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkyMTgz/MDctMTQ4MDQ5MTU2/Mi05MjUwLmpwZWc.jpeg"
-    - "https://i.discogs.com/8uHmQxcFr7ey_jIPVaxbdS2PpeCA3xuSb7o_E5t1L5c/rs:fit/g:sm/q:90/h:600/w:478/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkyMTgz/MDctMTQ4MDQ5MTU0/NC02NjAwLmpwZWc.jpeg"
-    - "https://i.discogs.com/4ZSC381mEhYsUDx9nzlbx__pDdaHgSse6Z_sOYr2KVg/rs:fit/g:sm/q:90/h:600/w:488/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkyMTgz/MDctMTQ4MDQ5MTUz/OS00NjQ2LmpwZWc.jpeg"
-    - "https://i.discogs.com/eJe7AFmMRpAouo9Hf2LMMt4gIr3teA0qdkQ9_LEwqRM/rs:fit/g:sm/q:90/h:600/w:483/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkyMTgz/MDctMTQ4MDQ5MTUx/OC0zNDU2LmpwZWc.jpeg"
-    - "https://i.discogs.com/cVdrrN-STRv_i5w7xZe5stkF622byZiFn21WWYAFN1A/rs:fit/g:sm/q:90/h:600/w:480/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkyMTgz/MDctMTQ4MDQ5MTUx/OC03NzkyLmpwZWc.jpeg"
-    - "https://i.discogs.com/TPVnTqHJ4aH4gxn7rMxUhWOcoZWUMoryfsNv6tQBhGY/rs:fit/g:sm/q:90/h:600/w:481/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkyMTgz/MDctMTQ4MDQ5MTU3/NC0xNDc1LmpwZWc.jpeg"
-    - "https://i.discogs.com/4L8iF9JclFTdoJ5pIYYPQJJRtk3XZXNa6QNzogCfysg/rs:fit/g:sm/q:90/h:600/w:481/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkyMTgz/MDctMTQ4MDQ5MTQ4/NC0zMzg5LmpwZWc.jpeg"
-    - "https://i.discogs.com/6lky90U09Jy7yiyy-KuvCipd1rSncXSIWuI9t8FFzgU/rs:fit/g:sm/q:90/h:600/w:478/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkyMTgz/MDctMTQ4MDQ5MTU2/NS02MzQ0LmpwZWc.jpeg"
-    - "https://i.discogs.com/WDWxKKip28t7JH1XjPs-pQg1Yog8HBrM6FmHKMz5HA4/rs:fit/g:sm/q:90/h:600/w:481/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkyMTgz/MDctMTQ4MDQ5MTU3/Ni04NDA3LmpwZWc.jpeg"
-    - "https://i.discogs.com/G-KlXPj-NITQwTL8Mb-o2NFCwBQsK4pVMueGwbOrfrQ/rs:fit/g:sm/q:90/h:600/w:477/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkyMTgz/MDctMTQ4MDQ5MTU1/Ni0yNDUxLmpwZWc.jpeg"
-    - "https://i.discogs.com/I1XSqAnDSQoEIoNDx9-GaERsTpVHJdbtZUsR4j8gYJI/rs:fit/g:sm/q:90/h:600/w:480/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkyMTgz/MDctMTQ4MDQ5MTUw/My01OTEzLmpwZWc.jpeg"
-    - "https://i.discogs.com/ey86_XCyrkI2-lSPnRHyddy28OSsj9izGTeCS1zw9B8/rs:fit/g:sm/q:90/h:600/w:477/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkyMTgz/MDctMTQ4MDQ5MTQ5/NC0zNzYxLmpwZWc.jpeg"
-    - "https://i.discogs.com/HRRy4OekXNo_MQQdxJbdKlJKa7uBZH-_LdzmbUsUvhI/rs:fit/g:sm/q:90/h:600/w:345/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkyMTgz/MDctMTQ4MDQ5MTUy/Ni04NzA1LmpwZWc.jpeg"
-    - "https://i.discogs.com/DDp8xJ2abkieRmzh5Eaz-tzp64thYqx2pk8AgWEtAyw/rs:fit/g:sm/q:90/h:400/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkyMTgz/MDctMTQ4MDQ5MTU0/My01Mzk0LmpwZWc.jpeg"
-    - "https://i.discogs.com/c6qczDxexwN_ap6fx42pUdvPyex1PZ4qb7b20VpGN-0/rs:fit/g:sm/q:90/h:600/w:397/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkyMTgz/MDctMTQ4MDQ5MTUz/My01MjA4LmpwZWc.jpeg"
-    - "https://i.discogs.com/NAOXJ48tds-Vi0DGT-s9QwLc0zoxzvg43bzhnIXsq-k/rs:fit/g:sm/q:90/h:600/w:477/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkyMTgz/MDctMTQ4MDQ5MTUy/Mi0yNjUxLmpwZWc.jpeg"
-    - "https://i.discogs.com/_KDC3GMkR5WwHqMA6BgIJG8j_Su2455Tq3kIkcMEt50/rs:fit/g:sm/q:90/h:600/w:477/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkyMTgz/MDctMTQ4MDQ5MTUz/NC0xODI0LmpwZWc.jpeg"
-    - "https://i.discogs.com/KD-YiwEw4HGlHPOLbjWXLHK7hNGXks8zidvt6t-_530/rs:fit/g:sm/q:90/h:600/w:477/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkyMTgz/MDctMTQ4MDQ5MTUw/NS0zODUwLmpwZWc.jpeg"
-    - "https://i.discogs.com/0M8gFKVZHg42MOULDDTMmZyvb6TZa-Qcjqq9py5EMN4/rs:fit/g:sm/q:90/h:600/w:436/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkyMTgz/MDctMTQ4MDQ5MTQ4/NS01MDc1LmpwZWc.jpeg"
-    - "https://i.discogs.com/0yB7D6Boil-FmPX0CA5XkXkFBIf5WnL_5vZRQ24LgGI/rs:fit/g:sm/q:90/h:418/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkyMTgz/MDctMTQ4MDQ5MTU2/OC0zMjA1LmpwZWc.jpeg"
-    - "https://i.discogs.com/EIvGgXGn9HHPZNxeLbaZsJ9hqqFtTWl-xxlMdqOXkDE/rs:fit/g:sm/q:90/h:418/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkyMTgz/MDctMTQ4MDQ5MTU2/My04NTM4LmpwZWc.jpeg"
-    - "https://i.discogs.com/BU_hlp8RkocmnoStchd_P5QmU2NvhO5NUVfjMgvBQn4/rs:fit/g:sm/q:90/h:417/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkyMTgz/MDctMTQ4MDQ5MTQ5/OS00MjE3LmpwZWc.jpeg"
-    - "https://i.discogs.com/z6fhVX0ukUlaXfvgym5Y_Pm8I2pwN6Pf28Sjvz4HVII/rs:fit/g:sm/q:90/h:419/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkyMTgz/MDctMTQ4MDQ5MTQ4/MC05NTI3LmpwZWc.jpeg"
-    - "https://i.discogs.com/JT8cRne9HQ0v4TkKaRFKWdvtEYkumEc5y006_ddzJdg/rs:fit/g:sm/q:90/h:427/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkyMTgz/MDctMTQ4MDQ5MTUx/Mi00OTAyLmpwZWc.jpeg"
-    - "https://i.discogs.com/q8ix57zgXs5YtjoSNEJHwrh7GvDuLGH_xJkZGQO7ewM/rs:fit/g:sm/q:90/h:600/w:434/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkyMTgz/MDctMTQ4MDQ5MTUx/NS01NzY4LmpwZWc.jpeg"
-    - "https://i.discogs.com/6gJPmg9vROp6-COlpeEtVAdJFvOZitv1FPKmK4vfWFk/rs:fit/g:sm/q:90/h:600/w:466/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkyMTgz/MDctMTQ4MDQ5MTY5/NC02MDE4LmpwZWc.jpeg"
-    - "https://i.discogs.com/lmbcAcP-3FC3Xabag21y5gF2oM8ZOiVVTpgW5ZMjHDI/rs:fit/g:sm/q:90/h:600/w:415/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkyMTgz/MDctMTQ4MDQ5MTY4/OC00MTA5LmpwZWc.jpeg"
-    - "https://i.discogs.com/Q41kG3_EzBUZW3G0c0RFeS33YYpLliZmcNRU6gzrBk8/rs:fit/g:sm/q:90/h:600/w:415/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkyMTgz/MDctMTQ4MDQ5MTY1/OS02OTEwLmpwZWc.jpeg"
-    - "https://i.discogs.com/D9na2k1liqplLPYZdlsAkBswKv7pnJlIGg90su-p2T0/rs:fit/g:sm/q:90/h:600/w:511/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkyMTgz/MDctMTQ4MDQ5MTY5/NS03MzY0LmpwZWc.jpeg"
-    - "https://i.discogs.com/-xwmcOvQdAR84u399wGxF2PD1YA_NCR1JDCfPZPcMT8/rs:fit/g:sm/q:90/h:395/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkyMTgz/MDctMTQ4MDQ5MTY3/MC03Njg4LmpwZWc.jpeg"
-    - "https://i.discogs.com/VBnl33GABqiiq01TAFieLxJI36pfElqBFZMTBC3YeB4/rs:fit/g:sm/q:90/h:429/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkyMTgz/MDctMTQ4MDQ5MTY5/Ny01Njg5LmpwZWc.jpeg"
-    - "https://i.discogs.com/cOyUbE4VjrWIpUzCfZ3Q2E_cXhnrHJ10o02TR6xwFfE/rs:fit/g:sm/q:90/h:600/w:391/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkyMTgz/MDctMTQ4MDQ5MTY4/OC01OTkxLmpwZWc.jpeg"
-    - "https://i.discogs.com/NHWJrpJ51sBCmkrgrOHb04FRWm0IyWHzQ6xitcuJuxY/rs:fit/g:sm/q:90/h:600/w:466/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkyMTgz/MDctMTQ4MDQ5MTY3/OC0yMTU5LmpwZWc.jpeg"
-    - "https://i.discogs.com/UtOQseuUm3NISsGtUjQOpw67l1djJnDYpWBfdxraIzw/rs:fit/g:sm/q:90/h:381/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkyMTgz/MDctMTQ4MDQ5MTY4/NS04NDY4LmpwZWc.jpeg"
-    - "https://i.discogs.com/6BLy9obBfZBuBpW5AsaEqNqAZKHn-abE4AHX7c3R1VM/rs:fit/g:sm/q:90/h:600/w:469/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkyMTgz/MDctMTQ4MDQ5MTY3/MC03NTYwLmpwZWc.jpeg"
-    - "https://i.discogs.com/tDiyDI6JquIypsS0UZBfddnXR51y9-pqWpQ68RvNW7w/rs:fit/g:sm/q:90/h:509/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkyMTgz/MDctMTQ4MDQ5MTY4/NC0zOTA0LmpwZWc.jpeg"
-    - "https://i.discogs.com/WtzlVmKqAiI9Wsv0t9-93g1nc_7OqegourGhEQLcHoQ/rs:fit/g:sm/q:90/h:365/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkyMTgz/MDctMTUxOTAyOTUx/NS0zMDE0LmpwZWc.jpeg"
 genres: ["Rock", "Blues", "Pop"]
 styles: ["Prog Rock", "Psychedelic Rock"]
 ---
@@ -633,8 +508,8 @@ styles: ["Prog Rock", "Psychedelic Rock"]
 387. The Committee (55:18)
 388. -
 389. Credits (0:21)
-390. More (1:56:00)
-391. ‘La Vallée’ (Obscured By Clouds) (1:45:00)
+390. More (116:00)
+391. ‘La Vallée’ (Obscured By Clouds) (105:00)
 392. Bonus Continu/ation BR
 393. Hampstead Heath And St. Michael’s Church, Highgate, London, UK, March 1967
 394. Arnold Layne (Alternative Version) (2:56)
@@ -647,8 +522,8 @@ styles: ["Prog Rock", "Psychedelic Rock"]
 401. The Committee (55:18)
 402. -
 403. Credits (0:21)
-404. More (1:56:00)
-405. ‘La Vallée’ (Obscured By Clouds) (1:45:00)
+404. More (116:00)
+405. ‘La Vallée’ (Obscured By Clouds) (105:00)
 406. Arnold Layne
 407. Arnold Layne (2:57)
 408. Candy And A Currant Bun (2:45)
@@ -676,8 +551,6 @@ styles: ["Prog Rock", "Psychedelic Rock"]
 430. Stay (4:06)
 431. Absolutely Curtains (5:52)
 
-## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/the-early-years-1967-1972-cre-ation/1137669181" >}}<br>
 
 
 

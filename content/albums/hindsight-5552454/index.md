@@ -15,12 +15,15 @@ additional_images:
     - "https://i.discogs.com/4uLtnffFEkxSkKmkt4Mcj1DUCXv9wIgGyH5QqvcrbS0/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU1NTI0/NTQtMTM5NjM1Mzc1/NC02ODEyLmpwZWc.jpeg"
     - "https://i.discogs.com/POU8up-2IUGiFkOTbVI4nk15JliuoC5l8G-axRXdnyI/rs:fit/g:sm/q:90/h:600/w:397/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU1NTI0/NTQtMTM5NjM1NjA4/Ni05MTM3LmpwZWc.jpeg"
     - "https://i.discogs.com/onue9FJUR9f1MI2WGPSeqOddjm96EK2duuQIMwjrF5g/rs:fit/g:sm/q:90/h:400/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU1NTI0/NTQtMTQwNjYzMTQz/My0yNDYyLmpwZWc.jpeg"
-    - "https://i.discogs.com/8jbaVz7BdSCqzqhT8KxRbwHN7ZWFYIEYyVD68Wk9Vrw/rs:fit/g:sm/q:90/h:746/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU1NTI0/NTQtMTQ2MzYyMTU2/My03NTQwLmpwZWc.jpeg"
+    - "https://i.discogs.com/4AnHGXC5TIc7E6hE1H2-hE_LMAKffigakInBuctd_fo/rs:fit/g:sm/q:90/h:600/w:482/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU1NTI0/NTQtMTQ2MzYyMTU2/My03NTQwLmpwZWc.jpeg"
 genres: ["Rock"]
 styles: ["Acoustic", "Prog Rock"]
 ---
 
-Hindsight is an acoustically-oriented studio compilation album by British progressive rock band Anathema consisting of re-recorded versions of some of the band's classic songs with the addition of one new song; "Unchained (Tales of the Unexpected)". The title for the album was originally intended to be Temporary Peace.This album also features cello playing of Dave Wesling from the Royal Liverpool Philharmonic Orchestra. A close friend of the band, Dave previously toured with the band in 2004 and is featured on the DVD A Moment in Time. The record was arranged, recorded, performed and produced solely by the band. Kscope label launched a Hindsight mini-site, available in three languages: English, Italian and French, from where the song "Fragile Dreams" can be downloaded for free in MP3 format if signing to a mailing list. The mini-site also contains streaming previews of "Inner Silence", "Are You There?" and "Angelica".
+Hindsight is an acoustically oriented studio compilation album by British progressive rock band Anathema consisting of re-recorded versions of some of the band's classic songs with the addition of one new song, "Unchained (Tales of the Unexpected)". The title for the album was originally intended to be Temporary Peace.
+This album also features cello playing of Dave Wesling from the Royal Liverpool Philharmonic Orchestra. A close friend of the band, Dave previously toured with the band in 2004 and is featured on the DVD A Moment in Time. Dave Wesling is also a convicted sex offender. The record was arranged, recorded, performed and produced solely by the band. Kscope label launched a Hindsight mini-site, available in three languages—English, Italian and French—from where the song "Fragile Dreams" can be downloaded for free in MP3 format if subscribing to a mailing list. The mini-site also contains streaming previews of "Inner Silence", "Are You There?" and "Angelica".
+
+
     
     
 
@@ -47,6 +50,13 @@ Hindsight is an acoustically-oriented studio compilation album by British progre
 {{< youtube id="dNd4mq2HvoE" title="Anathema - A Natural Disaster [Hindsight]" >}}<br>
 ### More Videos
 
+- [Anathema - 03. Inner Silence (Hindsight)](https://www.youtube.com/watch?v=U3K5SAlcGQ4)
+- [Anathema - 01. Fragile Dreams (Hindsight)](https://www.youtube.com/watch?v=08SWLhoBTwE)
+- [Anathema - Flying (Hindsight)](https://www.youtube.com/watch?v=wQmwfiEvOgE)
+- [Anathema-Angelica Hindsight](https://www.youtube.com/watch?v=WicH4P8HxTI)
+- [Anathema - 05. Are You There? (Hindsight)](https://www.youtube.com/watch?v=wI_RIhF2nOw)
+- [Anathema - 04. One Last Goodbye (Hindsight)](https://www.youtube.com/watch?v=msEND_xgNt0)
+- [Anathema - A Natural Disaster [Hindsight]](https://www.youtube.com/watch?v=dNd4mq2HvoE)
 - [Anathema - 03. Inner Silence (Hindsight)](https://www.youtube.com/watch?v=U3K5SAlcGQ4)
 - [Anathema - 01. Fragile Dreams (Hindsight)](https://www.youtube.com/watch?v=08SWLhoBTwE)
 - [Anathema - Flying (Hindsight)](https://www.youtube.com/watch?v=wQmwfiEvOgE)

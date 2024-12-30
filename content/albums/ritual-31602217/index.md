@@ -13,8 +13,21 @@ cover:
     alt: "Ritual by Jon Hopkins"
     caption: "Ritual by Jon Hopkins"
 additional_images:
+    - "https://i.discogs.com/x8nqvk0Q4ToBkphWas9U5zMufKfEjpFxiTqlasdZEZM/rs:fit/g:sm/q:90/h:600/w:559/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxNjAy/MjE3LTE3MjU2MDQ2/OTctOTA1NC5qcGVn.jpeg"
     - "https://i.discogs.com/yhXpQBsTtgs_Bmysutvs-wt7Oc4Wr0_yQr7PAQC6jD4/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxNjAy/MjE3LTE3MjQ5Mjk5/MDgtNjM0MS5qcGVn.jpeg"
+    - "https://i.discogs.com/9UnMM6zj0es1Jr8R5kdvW-mON7Pk1YmFkxBcUtcMHdY/rs:fit/g:sm/q:90/h:557/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxNjAy/MjE3LTE3MjU2MDQ2/OTktNzkwMC5qcGVn.jpeg"
+    - "https://i.discogs.com/OTanCSPDU7OWnaQxB7V5JYoHrJmt7-Y2YrjKvqQbiqI/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxNjAy/MjE3LTE3Mjk4MjQ4/MTAtOTg1Ni5qcGVn.jpeg"
+    - "https://i.discogs.com/ejMjWSVBJt-RW2QtseZ9bWBziRAzs8VHfgptV9Az0BU/rs:fit/g:sm/q:90/h:600/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxNjAy/MjE3LTE3MjU2MDQ0/MDYtOTY2MS5qcGVn.jpeg"
+    - "https://i.discogs.com/CHCjISPmcp4RdUzrn2H3eBqpQFDZ8RAO8eMbUNKVvuM/rs:fit/g:sm/q:90/h:587/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxNjAy/MjE3LTE3MjU2MDQ0/MDUtNjI4OS5qcGVn.jpeg"
+    - "https://i.discogs.com/Z7oC8AFrJivK4CWx7196suRrt-KG6hBs2w_IK5Q3F5M/rs:fit/g:sm/q:90/h:584/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxNjAy/MjE3LTE3MjU2MDQ0/MDQtNTEzNy5qcGVn.jpeg"
+    - "https://i.discogs.com/9d6Sn7nhR8zLcPfFf7Nse0meIy0AoxkE-DIcwQM8kos/rs:fit/g:sm/q:90/h:600/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxNjAy/MjE3LTE3MjU2MDQ0/MDYtOTM3MS5qcGVn.jpeg"
+    - "https://i.discogs.com/dXUt5tRx3iJTjcEPqaIM-qDiJKmozh_NWOvhtmtpTsI/rs:fit/g:sm/q:90/h:600/w:577/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxNjAy/MjE3LTE3MjU2NTMx/NjQtNjg1Ni5qcGVn.jpeg"
+    - "https://i.discogs.com/uqJ6R_5v96-hTRn2dMGHUiVP7ITxQ0scxlBgGT0A3Xo/rs:fit/g:sm/q:90/h:600/w:480/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxNjAy/MjE3LTE3Mjk4MjQ4/MDktNDMxNC5qcGVn.jpeg"
     - "https://i.discogs.com/EFfnMTya131PWM8rcJ-nJKD4lqC2T-ckVBNW_m59m3Y/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxNjAy/MjE3LTE3MjQ5Mjk5/MDgtMjAxMC5qcGVn.jpeg"
+    - "https://i.discogs.com/aq4UbnYfQKsgUCx6HAnaREKsxVgvLazx00r8mb6atps/rs:fit/g:sm/q:90/h:600/w:589/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxNjAy/MjE3LTE3MjU2NTMz/OTktNDI1Mi5qcGVn.jpeg"
+    - "https://i.discogs.com/J54dHD8WuYdgbfOSZm_GU6RmGlW42xF3cpGGqkVLh7A/rs:fit/g:sm/q:90/h:600/w:579/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxNjAy/MjE3LTE3MjU2MDQ5/MzgtMTg5Mi5qcGVn.jpeg"
+    - "https://i.discogs.com/d2z3BfdcjaaCPz16wQEFcCImjB7ikIqWoSjYxRXKwgA/rs:fit/g:sm/q:90/h:449/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxNjAy/MjE3LTE3MjU2NTMx/NjEtMjIxNC5qcGVn.jpeg"
+    - "https://i.discogs.com/BK1Z3kVV3v-cgx2srcGdAlLm_L7wCG06Ak6_YQ_RNcE/rs:fit/g:sm/q:90/h:600/w:504/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxNjAy/MjE3LTE3MjY0Mjk3/ODktNzk1Ny5qcGVn.jpeg"
 genres: ["Electronic"]
 styles: ["Ambient"]
 ---

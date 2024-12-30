@@ -14,14 +14,14 @@ cover:
 additional_images:
     - "https://i.discogs.com/AQaA14jmXZ1PAwAst_-ORp8S9SBtfxIWhxWPEmga-70/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMzIx/NTMyLTE1NTIwNTI2/NTctMTYxMi5qcGVn.jpeg"
     - "https://i.discogs.com/CJzy-BbKuMeRfbm9k5A8jfAa2mpsXyGCC5DJeGfjavk/rs:fit/g:sm/q:90/h:587/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMzIx/NTMyLTE2NDQ5MzEw/MDktNzU0Ni5qcGVn.jpeg"
-    - "https://i.discogs.com/eIz6MOrABLrdD-VyGNNXV3J4yPnXkfMJEp9KD9fexUY/rs:fit/g:sm/q:90/h:601/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMzIx/NTMyLTE2NDQ5MzA0/NzYtNjkyNC5qcGVn.jpeg"
-    - "https://i.discogs.com/vtHbN36Hm1JhHlQIpVSb1vijHJgakBacXh_ntHTUl2s/rs:fit/g:sm/q:90/h:602/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMzIx/NTMyLTE2NDQ5MzA0/NzctNjAzOC5qcGVn.jpeg"
-    - "https://i.discogs.com/zcz8oCIUQThz9Pd7cJ0Qf9VZj-3hAUZ39YNsAiemljs/rs:fit/g:sm/q:90/h:607/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMzIx/NTMyLTE2NDQ5MzA0/NzgtOTIyNi5qcGVn.jpeg"
+    - "https://i.discogs.com/gTc318n-DCU0tmR5CwXf0Z1ETWPO0RQAZOHeWoOnPNU/rs:fit/g:sm/q:90/h:600/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMzIx/NTMyLTE2NDQ5MzA0/NzYtNjkyNC5qcGVn.jpeg"
+    - "https://i.discogs.com/Lv6_Q506rzwnXt-mmm-LLIbc-M0g96cRrf4CW42s_Go/rs:fit/g:sm/q:90/h:600/w:597/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMzIx/NTMyLTE2NDQ5MzA0/NzctNjAzOC5qcGVn.jpeg"
+    - "https://i.discogs.com/IIWW7jPceOiVl4LpdZ3CHn3fR3cAwizeAoIUZWc18XU/rs:fit/g:sm/q:90/h:600/w:592/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMzIx/NTMyLTE2NDQ5MzA0/NzgtOTIyNi5qcGVn.jpeg"
     - "https://i.discogs.com/tbQu307DDG7P9gY7oyrrYmZ2sT_YaH7qwK2CuIIxmJE/rs:fit/g:sm/q:90/h:594/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMzIx/NTMyLTE2NDQ5MzA0/NzctMjk5Mi5qcGVn.jpeg"
     - "https://i.discogs.com/PPDa-YnMJqYoyPJ-Ul8Az6sr2ZC4oi8LRWJYOOZsQRM/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMzIx/NTMyLTE2NDQ5MzA0/NzctNzkzNi5qcGVn.jpeg"
     - "https://i.discogs.com/uCW6CTlkZST1q7WIINVgIRR1NB8m2Rsf0C2SQwGLkkU/rs:fit/g:sm/q:90/h:589/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMzIx/NTMyLTE2NDQ5MzA0/NzctMTAzMS5qcGVn.jpeg"
-    - "https://i.discogs.com/izRt8cKlhqG8HohUqR9pfHjt3dt5ykPzGxtlXgxABV0/rs:fit/g:sm/q:90/h:624/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMzIx/NTMyLTE2NDQ5MzA0/NzctNzQ5Mi5qcGVn.jpeg"
-    - "https://i.discogs.com/HiAD4RRiLdZGKqQnqH-NuCODhPlBBlyFWXk1FQUSDus/rs:fit/g:sm/q:90/h:637/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMzIx/NTMyLTE2NDQ5MzA0/NzUtMTY5OS5qcGVn.jpeg"
+    - "https://i.discogs.com/obLAk7hb6IRJXm695JJW3SeDiM2K0z3tdooUgAO84cg/rs:fit/g:sm/q:90/h:600/w:576/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMzIx/NTMyLTE2NDQ5MzA0/NzctNzQ5Mi5qcGVn.jpeg"
+    - "https://i.discogs.com/8RHsfUFfiC7CQ2I6ROB0Ii0fbqa3adL_eLiCBw6hlIU/rs:fit/g:sm/q:90/h:600/w:564/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMzIx/NTMyLTE2NDQ5MzA0/NzUtMTY5OS5qcGVn.jpeg"
 genres: ["Rock"]
 styles: ["Indie Rock"]
 ---
@@ -48,17 +48,46 @@ The tracks on the first album come from sessions with Mark Radcliffe, Steve Lama
 13. Nothing In The Silence
 14. (My Girl's Got) Miraculous Technique
 
-
-## Spotify
-{{< spotify type="album" id="0ezeGGrqYPEL6nlD3eXV4y" width="100%" height="500" >}}<br>
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/j-s-bach-complete-cello-suites-the-2023-sessions/1757614627" >}}<br>
 
 
 ## Videos
-### Belle And Sebastian - Lazy Jane The BBC Sessions CD1 (2008)
-{{< youtube id="7A2rbeKqulU" title="Belle And Sebastian - Lazy Jane The BBC Sessions CD1 (2008)" >}}<br>
+### The State I Am in (BBC Session)
+{{< youtube id="kurj8HYCc0w" title="The State I Am in (BBC Session)" >}}<br>
 ### More Videos
 
+- [Belle And Sebastian - Lazy Jane The BBC Sessions CD1 (2008)](https://www.youtube.com/watch?v=7A2rbeKqulU)
+- [Sleep the Clock Around (BBC Session)](https://www.youtube.com/watch?v=07kNaYfiohQ)
+- [I Could Be Dreaming (BBC Session)](https://www.youtube.com/watch?v=00AOqYQHp8w)
+- [Belle & Sebastian - The Magic Of A Kind Word (The BBC Sessions)](https://www.youtube.com/watch?v=2r_mrqQUqMI)
+- [Sleep The Clock Around (BBC Session)](https://www.youtube.com/watch?v=pfHeGR1IrFc)
+- [The Stars of Track and Field (BBC Session)](https://www.youtube.com/watch?v=FxcXh2gAEto)
+- [Seymour Stein (BBC Session)](https://www.youtube.com/watch?v=o9uHwsurAWc)
+- [Boys Are Back In Town (BBC Session - Live In Belfast,2001)](https://www.youtube.com/watch?v=15HU9XvRUOc)
+- [Lazy Line Painter Jane (BBC Session)](https://www.youtube.com/watch?v=Wt7KyEc9ThM)
+- [Lazy Jane (BBC Session)](https://www.youtube.com/watch?v=jfsFRmSnCgI)
+- [Shoot the Sexual Athlete (BBC Session)](https://www.youtube.com/watch?v=R0oI7ZEn8zQ)
+- [Shoot The Sexual Athlete (BBC Session)](https://www.youtube.com/watch?v=ILaMrQa4-Pc)
+- [The State I Am In (BBC Session)](https://www.youtube.com/watch?v=H6Pg5MmUSOE)
+- [Judy and the Dream of Horses (BBC Session)](https://www.youtube.com/watch?v=oeG3cA6T7Kw)
+- [Belle And Sebastian - Lazy Jane The BBC Sessions CD1 (2008)](https://www.youtube.com/watch?v=7A2rbeKqulU)
 - [The State I Am In - The Belle and Sebastian](https://www.youtube.com/watch?v=Qxw4jHXmv-A)
+- [The State I Am in (BBC Session)](https://www.youtube.com/watch?v=kurj8HYCc0w)
+- [Belle And Sebastian - Lazy Jane The BBC Sessions CD1 (2008)](https://www.youtube.com/watch?v=7A2rbeKqulU)
+- [Sleep the Clock Around (BBC Session)](https://www.youtube.com/watch?v=07kNaYfiohQ)
+- [I Could Be Dreaming (BBC Session)](https://www.youtube.com/watch?v=00AOqYQHp8w)
+- [Belle & Sebastian - The Magic Of A Kind Word (The BBC Sessions)](https://www.youtube.com/watch?v=2r_mrqQUqMI)
+- [Sleep The Clock Around (BBC Session)](https://www.youtube.com/watch?v=pfHeGR1IrFc)
+- [The Stars of Track and Field (BBC Session)](https://www.youtube.com/watch?v=FxcXh2gAEto)
+- [Seymour Stein (BBC Session)](https://www.youtube.com/watch?v=o9uHwsurAWc)
+- [Boys Are Back In Town (BBC Session - Live In Belfast,2001)](https://www.youtube.com/watch?v=15HU9XvRUOc)
+- [Lazy Line Painter Jane (BBC Session)](https://www.youtube.com/watch?v=Wt7KyEc9ThM)
+- [Lazy Jane (BBC Session)](https://www.youtube.com/watch?v=jfsFRmSnCgI)
+- [Shoot the Sexual Athlete (BBC Session)](https://www.youtube.com/watch?v=R0oI7ZEn8zQ)
+- [Shoot The Sexual Athlete (BBC Session)](https://www.youtube.com/watch?v=ILaMrQa4-Pc)
+- [The State I Am In (BBC Session)](https://www.youtube.com/watch?v=H6Pg5MmUSOE)
+- [Judy and the Dream of Horses (BBC Session)](https://www.youtube.com/watch?v=oeG3cA6T7Kw)
 
 ## Release Images
 {{< imageGrid >}}

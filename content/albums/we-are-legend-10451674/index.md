@@ -40,4 +40,4 @@ styles: ["Prog Rock", "Symphonic Rock"]
 | Format         | Vinyl LP Album Stereo |
 | Label          | Plane Groovy |
 | Catalog Number | PLG057 |
-| Discogs URL    | [Magenta - We Are Legend](https://www.discogs.com/release/10451674-Magenta-We-Are-Legend) |
+| Discogs URL    | [Magenta - We Are Legend](https://www.discogs.com/release/10451674-Magenta-10-We-Are-Legend) |

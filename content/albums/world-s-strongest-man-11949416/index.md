@@ -20,7 +20,8 @@ styles: ["Alternative Rock"]
 ---
 
 For some, Gaz Coombes is just the mutton-chopped likely lad who peaked with Supergrass mega-single “Alright”. Those people are missing out. The trio were perhaps Britpop’s most underrated band (the mature, but commercially modest later releases deserve rediscovery) and their talisman’s solo career has continued to burnish a robust and quietly brilliant talent. <i>World’s Strongest Man</i> is Coombes’ most confident solo album yet—a satisfying coalition of <i>Here Come the Bombs</i>’ trippy chutzpah and Mercury Prize-nominated <i>Matador</i>’s melodic sure-footedness. Highlights abound (the Berlin electro shuffle of “Deep Pockets”; “In Waves” and its sinister groove), but this is a carefully layered record to play right through.
-    
+        
+        
     
 
 
@@ -48,6 +49,11 @@ For some, Gaz Coombes is just the mutton-chopped likely lad who peaked with Supe
 
 - [Gaz Coombes - Walk The Walk](https://www.youtube.com/watch?v=lh9zLxqsX1E)
 - [Gaz Coombes - Wounded Egos (Official Video)](https://www.youtube.com/watch?v=kn_qMEo8RD0)
+- [GAZ COOMBES - Oxygen Mask (World's Strongest Man, 2018)](https://www.youtube.com/watch?v=VpgFeHwBQ6k)
+- [Gaz Coombes - Deep Pockets (Audio)](https://www.youtube.com/watch?v=Ui5nb0wLY74)
+- [Gaz Coombes - Walk The Walk](https://www.youtube.com/watch?v=lh9zLxqsX1E)
+- [Gaz Coombes - Wounded Egos (Official Video)](https://www.youtube.com/watch?v=kn_qMEo8RD0)
+- [GAZ COOMBES - Oxygen Mask (World's Strongest Man, 2018)](https://www.youtube.com/watch?v=VpgFeHwBQ6k)
 
 ## Release Images
 {{< imageGrid >}}
@@ -55,6 +61,7 @@ For some, Gaz Coombes is just the mutton-chopped likely lad who peaked with Supe
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
+| Wikipedia URL | https://en.wikipedia.org/wiki/World%27s_Strongest_Man_(album) |
 | Format         | Vinyl LP Album Limited Edition (Pink) |
 | Label          | Hot Fruit Recordings |
 | Catalog Number | HF012LP1 |

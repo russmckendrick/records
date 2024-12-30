@@ -12,8 +12,8 @@ cover:
     alt: "Roachford by Roachford"
     caption: "Roachford by Roachford"
 additional_images:
-    - "https://i.discogs.com/IZaKGsvVMOVDjAlaxUDW8yyiO28oObxFPj416OeBN-w/rs:fit/g:sm/q:90/h:602/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyNjUx/NjctMTU4OTQ3OTA4/MC0yNTQzLmpwZWc.jpeg"
-    - "https://i.discogs.com/MbMyeuUgtaDD34IkMoySkgKJzqEh7KQ2eYaCvU6RwIs/rs:fit/g:sm/q:90/h:601/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyNjUx/NjctMTU4OTQ3OTA4/MC05MTY5LmpwZWc.jpeg"
+    - "https://i.discogs.com/1nC_RIYoDG4DLcn-pEFCiPC2GizZ3A8kT2nQvVGa6Dg/rs:fit/g:sm/q:90/h:600/w:597/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyNjUx/NjctMTU4OTQ3OTA4/MC0yNTQzLmpwZWc.jpeg"
+    - "https://i.discogs.com/tXpEwuPY6wTDCIa7GmTqIPCLBh3KJuRLn8Q_D1RKRWk/rs:fit/g:sm/q:90/h:600/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyNjUx/NjctMTU4OTQ3OTA4/MC05MTY5LmpwZWc.jpeg"
     - "https://i.discogs.com/yeaO58P0PhRxCSSjYNIF9COkLHigW3ML5EV68Eb-BwQ/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyNjUx/NjctMTU4OTQ3OTA4/MC0xNjc2LmpwZWc.jpeg"
     - "https://i.discogs.com/AFkRm-BGsKHcDnpaILyAQpBGYvl39615ML-3go_hPfM/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyNjUx/NjctMTU4OTQ3OTA4/MC0zMzkyLmpwZWc.jpeg"
     - "https://i.discogs.com/VSTsaPvV2wulivVoJWUThYBiPUFYMIqrANbOpUH45eU/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyNjUx/NjctMTU4OTQ3OTA4/MC02NjA1LmpwZWc.jpeg"
@@ -38,18 +38,19 @@ styles: ["Pop Rock", "Contemporary R&B", "Soul"]
 10. Nobody But You (4:24)
 
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/the-very-best-of-roachford/289538023" >}}<br>
+{{< applemusic url="https://music.apple.com/gb/album/roachford/357796717" >}}<br>
 
 
 ## Videos
-### Roachford Cuddly Toy Original Video
-{{< youtube id="gZvpVYm2kxI" title="Roachford Cuddly Toy Original Video" >}}<br>
+### Roachford - Family Man (1988) ♫
+{{< youtube id="LfpGkPbizk4" title="Roachford - Family Man (1988) ♫" >}}<br>
 ### More Videos
 
+- [Roachford Cuddly Toy Original Video](https://www.youtube.com/watch?v=gZvpVYm2kxI)
 - [Roachford - Find Me Another Love](https://www.youtube.com/watch?v=yZQRlmsDZJ4)
-- [Find Me Another Love](https://www.youtube.com/watch?v=ujUbohXs4JE)
-- [Find Me Another Love (The 'Psycho Bump Beat ' Mix)](https://www.youtube.com/watch?v=RbGljByCxq0)
-- [Roachford - Cuddly Toy](https://www.youtube.com/watch?v=sbscx0S3jcY)
+- [Kathleen](https://www.youtube.com/watch?v=JU2AI2cYNAM)
+- [Beautiful Morning](https://www.youtube.com/watch?v=X6uuOJm6j4M)
+- [Nobody But You](https://www.youtube.com/watch?v=OTRn2FdBplQ)
 
 ## Release Images
 {{< imageGrid >}}

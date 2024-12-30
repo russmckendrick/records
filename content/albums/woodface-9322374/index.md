@@ -14,15 +14,15 @@ cover:
     caption: "Woodface by Crowded House"
 additional_images:
     - "https://i.discogs.com/CIB8FuqROdrAbTQSxqYPx4KTmv-CZiq4IVGa3M00bro/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkzMjIz/NzQtMTY1Mzk4OTkz/Ni0xMDA2LmpwZWc.jpeg"
-    - "https://i.discogs.com/XKrVzZSeSvas-DWu9vsyfjng5C8QVyEbgmAdVsYTfN4/rs:fit/g:sm/q:90/h:602/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkzMjIz/NzQtMTY1Mzk4OTkz/Ni0yNzY0LmpwZWc.jpeg"
+    - "https://i.discogs.com/rn4D2q7oNinEsktJnl44whWtENGvHKuX_gigbji4ME4/rs:fit/g:sm/q:90/h:600/w:597/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkzMjIz/NzQtMTY1Mzk4OTkz/Ni0yNzY0LmpwZWc.jpeg"
     - "https://i.discogs.com/jNQpS2OQQM-mM64m-FWjhuq3wzrQiWtN_cROxMAvPok/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkzMjIz/NzQtMTY1Mzk4OTk4/MC01MDY3LmpwZWc.jpeg"
-    - "https://i.discogs.com/jn7syC2WkDxDfg3NDMQS81nbru5S1oiQj4Y0Kml3k1s/rs:fit/g:sm/q:90/h:602/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkzMjIz/NzQtMTY1Mzk4OTk4/MC0xMzE2LmpwZWc.jpeg"
-    - "https://i.discogs.com/7zrU32sGOYaYbzBaCMM2w9gRn0DClQ3Q7npWpXW_FZQ/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkzMjIz/NzQtMTY1Mzk4OTk5/OS0zMTI3LmpwZWc.jpeg"
+    - "https://i.discogs.com/LZyU95Y8B47wwnf7IE0aKO9bQ5Zz_3-qtg-0kM3iIFU/rs:fit/g:sm/q:90/h:600/w:597/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkzMjIz/NzQtMTY1Mzk4OTk4/MC0xMzE2LmpwZWc.jpeg"
+    - "https://i.discogs.com/XLwySXqyc_Hqs4RHpUCZ7b_IU20bscWNK8XU0gUdVKg/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkzMjIz/NzQtMTY1Mzk4OTk5/OS0zMTI3LmpwZWc.jpeg"
 genres: ["Rock"]
 styles: ["Pop Rock"]
 ---
 
-Woodface is the third studio album by New Zealand-Australian band Crowded House. The album was produced by Mitchell Froom and Neil Finn and was released by Capitol in July 1991. It features five singles "Chocolate Cake", "Fall at Your Feet", "It's Only Natural", "Weather with You", and "Four Seasons in One Day". Woodface was a major hit in Australia and New Zealand as well as giving the band their first top ten hit album in the UK. It was listed at No. 3 in the book 100 Best Australian Albums in October 2010. It was voted number 80 in the third edition of Colin Larkin's All Time Top 1000 Albums (2000).
+Woodface is the third studio album by Crowded House. The album was produced by Mitchell Froom and Neil Finn and was released by Capitol Records in July 1991. It features five singles: "Chocolate Cake", "Fall at Your Feet", "It's Only Natural", "Weather with You", and "Four Seasons in One Day". Woodface was a major hit in Australia and New Zealand as well as giving the band their first top ten hit album in the UK. It was listed at No. 3 in the book 100 Best Australian Albums in October 2010. It was voted number 80 in the third edition of Colin Larkin's All Time Top 1000 Albums (2000).
         
         
     
@@ -49,18 +49,24 @@ Woodface is the third studio album by New Zealand-Australian band Crowded House.
 
 
 ## Videos
-### Crowded House — Chocolate cake (subtitulada).
-{{< youtube id="e4Huvbcjo7A" title="Crowded House — Chocolate cake (subtitulada)." >}}<br>
+### Crowded House - It's Only Natural
+{{< youtube id="duf-dofeoms" title="Crowded House - It's Only Natural" >}}<br>
 ### More Videos
 
+- [Crowded House - Fall At Your Feet](https://www.youtube.com/watch?v=2ROiU9kOHeE)
+- [Crowded House - Weather With You](https://www.youtube.com/watch?v=ag8XcMG1EX4)
+- [Crowded House - Four Seasons In One Day](https://www.youtube.com/watch?v=si3dBlNdifE)
+- [Crowded House - Chocolate Cake](https://www.youtube.com/watch?v=M699TqhO06k)
+- [All I Ask](https://www.youtube.com/watch?v=YYPT3OYOl-g)
+- [Crowded House - Weather With You (HQ)](https://www.youtube.com/watch?v=BjDknXaEP9A)
+- [Crowded House — Chocolate cake (subtitulada).](https://www.youtube.com/watch?v=e4Huvbcjo7A)
+- [Crowded House - Four Seasons In One Day](https://www.youtube.com/watch?v=si3dBlNdifE)
+- [Fame Is](https://www.youtube.com/watch?v=1jWjXLejcnI)
 - [It's Only Natural](https://www.youtube.com/watch?v=r1mni1H2_SU)
 - [Fall at Your Feet - Crowded House](https://www.youtube.com/watch?v=9XLEDZO9kCQ)
 - [Tall Trees](https://www.youtube.com/watch?v=1FoPfNku9sY)
-- [Crowded House - Weather With You (HQ)](https://www.youtube.com/watch?v=BjDknXaEP9A)
 - [Whispers And Moans](https://www.youtube.com/watch?v=CY9kS7d6O_0)
-- [Crowded House - Four Seasons In One Day](https://www.youtube.com/watch?v=si3dBlNdifE)
 - [There Goes God](https://www.youtube.com/watch?v=sMMRryOYeGY)
-- [Fame Is](https://www.youtube.com/watch?v=1jWjXLejcnI)
 - [Crowded House - All I Ask (1991)](https://www.youtube.com/watch?v=-nUk45bj_8g)
 - [As Sure As I Am](https://www.youtube.com/watch?v=EzrQgTJa6qU)
 - [Italian Plastic](https://www.youtube.com/watch?v=me0Ap2I_j8E)

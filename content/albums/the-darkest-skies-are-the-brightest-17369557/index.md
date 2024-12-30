@@ -12,11 +12,14 @@ cover:
     alt: "The Darkest Skies Are The Brightest by Anneke van Giersbergen"
     caption: "The Darkest Skies Are The Brightest by Anneke van Giersbergen"
 additional_images:
-    - "https://i.discogs.com/NGd77H68iLiZnDNJC84kVYra26HRR10sOgd_8sh0xqc/rs:fit/g:sm/q:90/h:603/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3MzY5/NTU3LTE2MTMzMDk3/ODEtOTY0Ny5qcGVn.jpeg"
+    - "https://i.discogs.com/1983svm2Sd9J62n8Fb0XVC0RMDbo1JwIdkZRqdMlEEc/rs:fit/g:sm/q:90/h:600/w:596/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3MzY5/NTU3LTE2MTMzMDk3/ODEtOTY0Ny5qcGVn.jpeg"
 genres: ["Rock", "Pop", "Folk, World, & Country"]
-styles: []
+styles: ["Acoustic", "Indie Pop", "Pop Rock"]
 ---
 
+The Darkest Skies Are the Brightest is the third solo studio album by Anneke van Giersbergen, released on 26 February 2021 by Inside Out Music. It was written entirely by van Giersbergen and produced by Gijs Coolen.
+    
+    
 
 
 ## Tracklisting
@@ -61,6 +64,7 @@ styles: []
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
+| Wikipedia URL | https://en.wikipedia.org/wiki/The_Darkest_Skies_Are_the_Brightest |
 | Format         | Vinyl LP Album (180g), CD Album |
 | Label          | Inside Out Music |
 | Catalog Number | IOMLP 577 |

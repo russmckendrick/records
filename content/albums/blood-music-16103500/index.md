@@ -41,25 +41,12 @@ Blood Music is the second and final studio album by British shoegaze band Chapte
 
 
 ## Videos
-### Global Communication ~ Pentamerous Metamorphosis (Full Album)
-{{< youtube id="Kpj6vyxS4kw" title="Global Communication ~ Pentamerous Metamorphosis (Full Album)" >}}<br>
+### Chapterhouse - We Are The Beautiful (Video)
+{{< youtube id="g3T9AT8FBtc" title="Chapterhouse - We Are The Beautiful (Video)" >}}<br>
 ### More Videos
 
-- [Don't look now ~ Chapterhouse](https://www.youtube.com/watch?v=F36BQY6tnlg)
-- [Chapterhouse - Don't Look Now (Club Bliss Mix)](https://www.youtube.com/watch?v=X9ZUYrUCzTQ)
-- [There's still life : Chapterhouse](https://www.youtube.com/watch?v=kipmFuYEt3g)
-- [Chapterhouse - Deli (Crystal Poet Remix)](https://www.youtube.com/watch?v=uwRG8rVMjuQ)
-- [Chapterhouse - We Are The Beautiful](https://www.youtube.com/watch?v=vvpuWGDeBzY)
-- [Summer's Gone ~ Chapterhouse](https://www.youtube.com/watch?v=9tIJbjKC-tY)
-- [Everytime - Chapterhouse](https://www.youtube.com/watch?v=W7ydmi-auBg)
-- [Chapterhouse - Deli](https://www.youtube.com/watch?v=JNDOCgYnJPI)
-- [On the way to fly - Chapterhouse](https://www.youtube.com/watch?v=I52DruRQtYI)
-- [She's a Vision - Chapterhouse](https://www.youtube.com/watch?v=CgIl5lMem4s)
-- [Greater power - Chapterhouse](https://www.youtube.com/watch?v=9EC7uTL10k8)
-- [Chapterhouse - Confusion Trip](https://www.youtube.com/watch?v=5-V7wTT5Bpk)
-- [Love Forever - Chapterhouse](https://www.youtube.com/watch?v=U4EZJEdGuxI)
-- [Chapterhouse - We Are The Beautiful (Spookys Ugly As Sin Mix)](https://www.youtube.com/watch?v=0bgXNI4Fc7E)
-- [Chapterhouse - Picnic](https://www.youtube.com/watch?v=uFcBEq2pfmU)
+- [Chapterhouse - She's A Vision](https://www.youtube.com/watch?v=WStfpamuOq8)
+- [Global Communication ~ Pentamerous Metamorphosis (Full Album)](https://www.youtube.com/watch?v=Kpj6vyxS4kw)
 
 ## Release Images
 {{< imageGrid >}}
@@ -68,7 +55,7 @@ Blood Music is the second and final studio album by British shoegaze band Chapte
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Blood_Music_(Chapterhouse_album) |
-| Format         | Vinyl 2× LP Limited Edition Numbered Reissue Stereo (Red transparent) |
+| Format         | Vinyl 2× LP Limited Edition Numbered Reissue Stereo (Red [Transparent]) |
 | Label          | Music On Vinyl |
 | Catalog Number | MOVLP2700 |
 | Notes | Limited edition of 2000 numbered copies on transparent red vinyl. 180 gram audiophile vinyl |

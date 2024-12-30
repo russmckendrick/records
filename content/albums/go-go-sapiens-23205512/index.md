@@ -12,11 +12,11 @@ cover:
     alt: "Go Go Sapiens by EMF"
     caption: "Go Go Sapiens by EMF"
 additional_images:
-    - "https://i.discogs.com/QIBssqQxc7PlYbZxgtZcFvA4rSgb741Hh_qmuKRE6aQ/rs:fit/g:sm/q:90/h:607/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMjA1/NTEyLTE2NTI2MTUw/NzktNTM4NC5qcGVn.jpeg"
-    - "https://i.discogs.com/iRckpEf6UPs2ASND_OXlTx1driNl1EKlDz9PqerACHg/rs:fit/g:sm/q:90/h:602/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMjA1/NTEyLTE2NTI2MTUw/OTAtMzEzMi5qcGVn.jpeg"
-    - "https://i.discogs.com/f62EuGSu0hk0X9d2xPFWhNCp5lK_QwZPMhacIXBfuRo/rs:fit/g:sm/q:90/h:610/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMjA1/NTEyLTE2NTI2MTUw/OTktNTc4MC5qcGVn.jpeg"
+    - "https://i.discogs.com/pAUGhCvD0ncQqKdzOn-yhYZeVWMCSjckhTR_cw2OjVw/rs:fit/g:sm/q:90/h:600/w:592/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMjA1/NTEyLTE2NTI2MTUw/NzktNTM4NC5qcGVn.jpeg"
+    - "https://i.discogs.com/_Yg_lSULjCCBu3jzmAOlSampZzDcJJDybkmaavZxiHs/rs:fit/g:sm/q:90/h:600/w:597/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMjA1/NTEyLTE2NTI2MTUw/OTAtMzEzMi5qcGVn.jpeg"
+    - "https://i.discogs.com/ifJzt0hJdoChGnCTRBWBRdG6GxYOgvKQ_NIrnvJsTVs/rs:fit/g:sm/q:90/h:600/w:589/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMjA1/NTEyLTE2NTI2MTUw/OTktNTc4MC5qcGVn.jpeg"
     - "https://i.discogs.com/58Xbr13joOR4mgtVyqx2t2y4csF9Q9wlb42xFhm0mBs/rs:fit/g:sm/q:90/h:593/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMjA1/NTEyLTE2NTI2MTUx/MTAtOTkxNS5qcGVn.jpeg"
-    - "https://i.discogs.com/cV1JoEEzy6Z7hjgH3IPJP9Cit7f4apUW9l8QaxeRlOI/rs:fit/g:sm/q:90/h:621/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMjA1/NTEyLTE2NTI2MTUx/MjctNTI1Ny5qcGVn.jpeg"
+    - "https://i.discogs.com/VNYduph6xf5Gsrw29HWvX3Sxr6S9wQ7tahVCbJFvMdE/rs:fit/g:sm/q:90/h:600/w:579/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMjA1/NTEyLTE2NTI2MTUx/MjctNTI1Ny5qcGVn.jpeg"
     - "https://i.discogs.com/guPPeBtx7IHBLj19eSuOw7PYebogsJG99e_K4RVMzbw/rs:fit/g:sm/q:90/h:592/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMjA1/NTEyLTE2NTI2MTUx/MzQtNjc3Ny5qcGVn.jpeg"
 genres: ["Electronic", "Rock", "Pop"]
 styles: ["Dance-pop"]
@@ -39,7 +39,12 @@ styles: ["Dance-pop"]
 
 
 
+## Videos
+### EMF - GO GO SAPIENS Album Sampler
+{{< youtube id="5VZRhG_xmpg" title="EMF - GO GO SAPIENS Album Sampler" >}}<br>
+### More Videos
 
+- [EMF - GO GO SAPIENS Album Sampler](https://www.youtube.com/watch?v=5VZRhG_xmpg)
 
 ## Release Images
 {{< imageGrid >}}

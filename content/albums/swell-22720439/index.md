@@ -20,6 +20,9 @@ genres: ["Rock"]
 styles: ["Prog Rock", "Space Rock"]
 ---
 
+S'well is a reusable water bottle and insulated products company headquartered in Manhattan, New York. Sarah Kauss founded the company in 2010 and was the company's CEO until 2020.
+    
+    
 
 
 ## Tracklisting
@@ -38,6 +41,9 @@ styles: ["Prog Rock", "Space Rock"]
 
 - [Jacques Cousteau](https://www.youtube.com/watch?v=LA9q6wtDltA)
 - [Seagull](https://www.youtube.com/watch?v=mOC6_K_pzfc)
+- [Swell](https://www.youtube.com/watch?v=cRsXd_cxPv0)
+- [Jacques Cousteau](https://www.youtube.com/watch?v=LA9q6wtDltA)
+- [Seagull](https://www.youtube.com/watch?v=mOC6_K_pzfc)
 
 ## Release Images
 {{< imageGrid >}}
@@ -45,6 +51,7 @@ styles: ["Prog Rock", "Space Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
+| Wikipedia URL | https://en.wikipedia.org/wiki/S%27well |
 | Format         | Vinyl LP Album Limited Edition (FX) |
 | Label          | Rockosmos |
 | Catalog Number | ROK151 |

@@ -4,7 +4,6 @@ artist_name: "The Cure"
 artist: "the-cure"
 album_name: "Disintegration"
 date: 2016-08-05T14:55:50.000000Z
-release_date: "1989-05-02"
 release_id: "2289504"
 slug: "disintegration-2289504"
 hideSummary: true
@@ -31,10 +30,12 @@ genres: ["Rock"]
 styles: ["Alternative Rock", "New Wave"]
 ---
 
-Disintegration is the eighth studio album by English rock band the Cure, released on 2 May 1989 by Fiction Records. The record marks a return to the introspective gothic rock style the band had established in the early 1980s. As he neared the age of 30, vocalist and guitarist Robert Smith had felt an increased pressure to follow up on the band's pop successes with a more enduring work. This, coupled with a distaste for the group's newfound popularity, caused Smith to lapse back into the use of hallucinogenic drugs, the effects of which had a strong influence on the production of the album. The band recorded the album at Hookend Recording Studios in Checkendon, Oxfordshire, with co-producer David M. Allen from late 1988 to early 1989. Following the completion of the mixing, founding member Lol Tolhurst was fired from the band.
-The album became the band's first commercial peak, charting at number three in the United Kingdom and at number 12 in the United States, and producing several hit singles including "Lovesong", which peaked at number two on the Billboard Hot 100. It remains the band's highest selling record to date, with more than four million copies sold worldwide. It was greeted with a warm critical reception before later being acclaimed, eventually being placed at number 116 on Rolling Stone magazine's list of the "500 Greatest Albums of All Time". Stephen Thomas Erlewine of AllMusic called it the "culmination of all the musical directions the Cure were pursuing over the course of the '80s".
-        
-        
+Disintegration is the eighth studio album by English rock band the Cure, released on 2 May 1989 by Fiction Records. The band recorded the album at Hookend Recording Studios in Checkendon, Oxfordshire, with co-producer David M. Allen from late 1988 to early 1989.
+The record marks a return to the introspective gothic rock style the band had established in the early 1980s. As he neared the age of 30, vocalist and guitarist Robert Smith had felt an increased pressure to follow up on the band's pop successes with a more enduring work. This, coupled with a distaste for the group's newfound popularity, caused Smith to lapse back into the use of hallucinogenic drugs, the effects of which had a strong influence on the production of the album. Following the completion of the mixing, founding member Lol Tolhurst was fired from the band.
+Disintegration became the band's highest charting album to that point, reaching number three on the UK Albums Chart and number 12 on the US Billboard 200, and producing several hit singles, including "Lovesong", which peaked at number two on the Billboard Hot 100. It remains the band's highest-selling record to date, with more than four million copies sold worldwide. It was greeted with a warm critical reception before later being widely acclaimed, including being placed at number 116 on Rolling Stone magazine's list of the "500 Greatest Albums of All Time". Stephen Thomas Erlewine of AllMusic called it the "culmination of all the musical directions the Cure were pursuing over the course of the '80s".
+
+
+    
     
 
 
@@ -53,13 +54,35 @@ The album became the band's first commercial peak, charting at number three in t
 12. Untitled (6:30)
 
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/disintegration-remastered/1440785740" >}}<br>
+{{< applemusic url="https://music.apple.com/gb/album/disintegration/1713850545" >}}<br>
 
 
 ## Videos
-### Th̲e C̲ure – D̲isintegrat̲i̲o̲n̲ (Full Album) 1989
-{{< youtube id="fcF8DaOSasY" title="Th̲e C̲ure – D̲isintegrat̲i̲o̲n̲ (Full Album) 1989" >}}<br>
+### The Cure - Pictures Of You
+{{< youtube id="UmFFTkjs-O0" title="The Cure - Pictures Of You" >}}<br>
+### More Videos
 
+- [Plainsong (Remastered)](https://www.youtube.com/watch?v=JOb5f-TG6iI)
+- [Closedown (Remastered 2010)](https://www.youtube.com/watch?v=PLV7P31E8Jk)
+- [Lovesong (Remastered)](https://www.youtube.com/watch?v=kplT6ftFokA)
+- [Last Dance (Remastered)](https://www.youtube.com/watch?v=PRdmx-0cqtk)
+- [Lullaby (Remastered)](https://www.youtube.com/watch?v=oGyqB3yC87k)
+- [Fascination Street (Remastered)](https://www.youtube.com/watch?v=uW_Ps_M8bGE)
+- [Prayers For Rain (Remastered)](https://www.youtube.com/watch?v=MnHxZUoHVAc)
+- [The Same Deep Water As You (Remastered)](https://www.youtube.com/watch?v=YBTo-QVJjBo)
+- [Disintegration (Remastered)](https://www.youtube.com/watch?v=__EVr7CF3Hw)
+- [Homesick (Remastered)](https://www.youtube.com/watch?v=phqkKxvfv8I)
+- [Untitled (Remastered)](https://www.youtube.com/watch?v=qWZu86_tZtE)
+- [Prayers For Rain (RS Home Instrumental Demo)](https://www.youtube.com/watch?v=HsSvpx_O6VA)
+- [Fascination Street (RS Home Instrumental Demo)](https://www.youtube.com/watch?v=oQfwVpyGp4A)
+- [Esten (Band Instrumental Demo)](https://www.youtube.com/watch?v=3NnEQ3Pyk48)
+- [Lovesong (Band Instrumental Demo)](https://www.youtube.com/watch?v=OrVRyId5CTk)
+- [Disintegration (Band Instrumental Demo)](https://www.youtube.com/watch?v=ASU_9VRK0JE)
+- [Closedown (Band Instrumental Demo)](https://www.youtube.com/watch?v=6SCyAKBG3eI)
+- [Disintegration (Live)](https://www.youtube.com/watch?v=lMTVNPUt5Lo)
+- [Plainsong (Studio Guide Vocal Rough)](https://www.youtube.com/watch?v=-jbFSK4RTHA)
+- [2 Late (Alternative Version / Band Instrumental Demo)](https://www.youtube.com/watch?v=7HSJ-5AP7iw)
+- [Lullaby (Studio Guide Vocal Rough)](https://www.youtube.com/watch?v=_XlqReZ0nkY)
 
 ## Release Images
 {{< imageGrid >}}

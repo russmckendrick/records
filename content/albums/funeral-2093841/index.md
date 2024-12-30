@@ -4,7 +4,6 @@ artist_name: "Arcade Fire"
 artist: "arcade-fire"
 album_name: "Funeral"
 date: 2016-02-14T11:10:06.000000Z
-release_date: "2004-09-14"
 release_id: "2093841"
 slug: "funeral-2093841"
 hideSummary: true
@@ -23,18 +22,17 @@ additional_images:
     - "https://i.discogs.com/nDJV1OSrqnVpXsiSEIraWsmEkfvfik2w0Qu3Z6G4fmM/rs:fit/g:sm/q:90/h:600/w:376/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwOTM4/NDEtMTQxNzg0ODI5/MC0xNjM1LmpwZWc.jpeg"
     - "https://i.discogs.com/YXaXw0CwGrTEyp6XEcMNdU8U9u8QMZJ0da7EwBNWBCg/rs:fit/g:sm/q:90/h:600/w:371/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwOTM4/NDEtMTQxNzg0ODI5/MS03MTk5LmpwZWc.jpeg"
     - "https://i.discogs.com/AdiLetfv-hGvlvCB97p5MoEo6d4qZpXLwFOgjF_rjiQ/rs:fit/g:sm/q:90/h:600/w:377/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwOTM4/NDEtMTQxNzg0ODI5/MS04NzEyLmpwZWc.jpeg"
-    - "https://i.discogs.com/0VI6W40O21_BI6iPMUr_ByO7NfUEccdc85FUPx0P5Gw/rs:fit/g:sm/q:90/h:774/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwOTM4/NDEtMTYyMDYzOTgy/My04MDkzLnBuZw.jpeg"
+    - "https://i.discogs.com/N4qdfsoGeBMPLL65ptybv3MQhRqs0yIuq7mwmnyvPsw/rs:fit/g:sm/q:90/h:600/w:465/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwOTM4/NDEtMTYyMDYzOTgy/My04MDkzLnBuZw.jpeg"
     - "https://i.discogs.com/eioKKwg8Ikpvs5ElCCuOV965ka9WPTFvaJJGhLml7OM/rs:fit/g:sm/q:90/h:502/w:500/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwOTM4/NDEtMTQ3MTcyNzI0/NC00OTQ2LmpwZWc.jpeg"
 genres: ["Rock"]
 styles: ["Alternative Rock", "Indie Rock"]
 ---
 
-Funeral is the debut studio album by Canadian indie rock band Arcade Fire, released on September 14, 2004 by Merge Records. Preliminary recordings for Funeral were made during the course of a week in August 2003 at the Hotel2Tango in Montreal, Quebec, and the recording was completed later that year all in an analogue recording format.
-The album produced five singles, with "Rebellion (Lies)" being the most successful, having peaked at #19 on the UK Singles Chart. The album was nominated for a Grammy Award in 2005 for Best Alternative Music Album. It received widespread critical acclaim and topped many year-end and decade-end lists, now being often considered one of the greatest albums of all time.  According to the website Metacritic, the album had the second most appearances on end-of-decade Top 10 lists, only behind Radiohead's Kid A. In the 2020 updated version of Rolling Stone's 500 Greatest Albums of All Time, it was ranked at number 500.
+Funeral is the debut studio album by Canadian indie rock band Arcade Fire, released on September 14, 2004 by Merge Records. Preliminary recordings for Funeral were made during the course of a week in August 2003 at the Hotel2Tango in Montreal, Quebec, and the recording was completed later that year all in an analogue recording format. Its lyrics draw upon themes of death, change, and the loss of childhood innocence, inspired by the recent passing of several bandmates' family members during its production. The first half of the album, dubbed the 'Neighborhood' suite, centres around a town struggling with a power outage in the middle of winter, based on personal experience during the North American ice storm of 1998.
+The album produced five singles, with "Rebellion (Lies)" being the most successful, having peaked at #19 on the UK Singles Chart. The album was nominated for a Grammy Award in 2005 for Best Alternative Music Album. It received widespread critical acclaim and topped many year-end and decade-end lists, now being often considered one of the greatest albums of all time. According to the website Metacritic, the album had the second most appearances on end-of-decade Top 10 lists, only behind Radiohead's Kid A. In the 2020 updated version of Rolling Stone's 500 Greatest Albums of All Time, it was ranked at number 500.
 
 
-        
-        
+    
     
 
 
@@ -51,22 +49,22 @@ The album produced five singles, with "Rebellion (Lies)" being the most successf
 10. In The Backseat (6:20)
 
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/funeral/1249417623" >}}<br>
+{{< applemusic url="https://music.apple.com/gb/album/vsq-performs-arcade-fires-funeral/988548178" >}}<br>
 
 
 ## Videos
-### Arcade Fire - Neighborhood #1 (Tunnels) (Official Remastered Video)
-{{< youtube id="TwisvB3PVpU" title="Arcade Fire - Neighborhood #1 (Tunnels) (Official Remastered Video)" >}}<br>
+### Arcade Fire - Neighborhood #3 (Power Out) (Official Video)
+{{< youtube id="0ozdCLrTrtA" title="Arcade Fire - Neighborhood #3 (Power Out) (Official Video)" >}}<br>
 ### More Videos
 
+- [Arcade Fire - Wake Up (Official Audio)](https://www.youtube.com/watch?v=sJRPPUr1yic)
+- [Arcade Fire - Rebellion (Lies) (Official Remastered Video)](https://www.youtube.com/watch?v=8vN2vqaEBhM)
+- [Arcade Fire - Neighborhood #1 (Tunnels) (Official Remastered Video)](https://www.youtube.com/watch?v=TwisvB3PVpU)
 - [Arcade Fire - Neighborhood #2 (Laika) (Official Video)](https://www.youtube.com/watch?v=siFsdInZqC0)
 - [Arcade Fire - Une Annee Sans Lumiere (Official Audio)](https://www.youtube.com/watch?v=pPKUDprZIvs)
-- [Arcade Fire - Neighborhood #3 (Power Out) (Official Video)](https://www.youtube.com/watch?v=0ozdCLrTrtA)
 - [Arcade Fire - Neighborhood #4 (7 Kettles) (Official Audio)](https://www.youtube.com/watch?v=VKZ2rhcwaXE)
 - [Arcade Fire - Crown of Love (Official Audio)](https://www.youtube.com/watch?v=p9XX193hgH8)
-- [Arcade Fire - Wake Up (Official Audio)](https://www.youtube.com/watch?v=sJRPPUr1yic)
 - [Arcade Fire - Haiti (Official Audio)](https://www.youtube.com/watch?v=tGvpUgo7ayY)
-- [Arcade Fire - Rebellion (Lies) (Official Remastered Video)](https://www.youtube.com/watch?v=8vN2vqaEBhM)
 - [Arcade Fire - In the Backseat (Official Audio)](https://www.youtube.com/watch?v=i2jsArz5IQg)
 
 ## Release Images
@@ -79,5 +77,5 @@ The album produced five singles, with "Rebellion (Lies)" being the most successf
 | Format         | Vinyl LP Album Repress (180 Gram) |
 | Label          | Merge Records |
 | Catalog Number | MRG255 |
-| Notes | Reissued on 180-gram vinyl, includes a digital download coupon and a little 4-pages leaflet with liner notes, lyrics and credits.  Housed in an embossed gatefold sleeve.  The Arcade Fire Funeral September 14, 2004  Recorded and mixed at Hotel 2 Tango and Win & Régine's apartment in Montréal in a week of August 2003 and the winter of 2004 Mastered at Disques SNB, Montréal  ©The Arcade Fire 2004  ℗ & © merge records 2005  Variations on the titles of some tracks: Track A2: "Neighborhood #2 (Laïka)" on back cover tracklist and insert liner notes, but "Neighborhood #2 (Laika)" on record label tracklist. Track A3: "Une année sans lumiere" on back cover and label, but "Une année sans lumière" on insert. Track B3: "Haiti" on back cover and label, "Haïti" on insert.  Lacquer cutting credits identified in runout stampings. |
+| Notes | Reissued on 180-gram vinyl, includes a digital download coupon and a little 4-pages leaflet with liner notes, lyrics and credits.  Housed in an embossed gatefold sleeve.  The Arcade Fire Funeral September 14, 2004  Recorded and mixed at Hotel 2 Tango and Win & Régine's apartment in Montréal in a week of August 2003 and the winter of 2004 Mastered at Disques SNB, Montréal  ©The Arcade Fire 2004  ℗ & © merge records 2005  Variations on the titles of some tracks: •Track A2: "Neighborhood #2 (Laïka)" is listed on back cover tracklist and insert liner notes, but listed as "Neighborhood #2 (Laika)" on record label tracklist. •Track A3: "Une année sans lumiere" is listed on back cover and label, but listed as "Une année sans lumière" on insert. •Track B8: "Haiti" is listed on back cover and label, but listed as "Haïti" on insert.  Tracklisting ascends numerically regardless of disc side.  Runouts are etched, except for 'GOLDEN', which is stamped. Lacquer cutting and a mastering credit are identified in runouts. |
 | Discogs URL    | [Arcade Fire - Funeral](https://www.discogs.com/release/2093841-Arcade-Fire-Funeral) |

@@ -12,9 +12,9 @@ cover:
     alt: "Afraid Of Sunlight by Marillion"
     caption: "Afraid Of Sunlight by Marillion"
 additional_images:
-    - "https://i.discogs.com/SWPm0SuZBQz9u4hH-N7mCMYGI-NyOm-1vY5hrkcgGxE/rs:fit/g:sm/q:90/h:606/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MzM4/OTQ5LTE1NzI1MzQw/NjctNDg2OC5qcGVn.jpeg"
-    - "https://i.discogs.com/IoLjmnE4DOvN3kb2oKoET2Xc_gPVCPz1PZ4RfNVWHio/rs:fit/g:sm/q:90/h:851/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MzM4/OTQ5LTE1NzI1MzQw/NjItMzAzMS5qcGVn.jpeg"
-    - "https://i.discogs.com/9uP9AKchK_vEeXX1D5G9UKi04wehP-kyR0Jc0l2nLME/rs:fit/g:sm/q:90/h:610/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MzM4/OTQ5LTE1NzI1MzQw/NjctNDc3NC5qcGVn.jpeg"
+    - "https://i.discogs.com/BGP6TDIr7_ydmWOswhrP3UhO9L9BkOxDVoD7-pfmppE/rs:fit/g:sm/q:90/h:600/w:593/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MzM4/OTQ5LTE1NzI1MzQw/NjctNDg2OC5qcGVn.jpeg"
+    - "https://i.discogs.com/2xRZmyMbrtHyMJRiIuZvgKxWYc_my6bMWhBcVrHa6r8/rs:fit/g:sm/q:90/h:600/w:423/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MzM4/OTQ5LTE1NzI1MzQw/NjItMzAzMS5qcGVn.jpeg"
+    - "https://i.discogs.com/x2Cz3eSUxeutBZcQ_k70S36nXvkHaefdvIF9deeUhJQ/rs:fit/g:sm/q:90/h:600/w:589/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MzM4/OTQ5LTE1NzI1MzQw/NjctNDc3NC5qcGVn.jpeg"
     - "https://i.discogs.com/tBkVVtUjJUr5jYwQ76QTzeSXa7n7xLqUYVO9h8U1SSw/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MzM4/OTQ5LTE1NzI5NTY1/MjItODYyMi5qcGVn.jpeg"
     - "https://i.discogs.com/A813bn7xjfqJ5Tr99m9ADaj0VnU-1soWWA6bd4klvO4/rs:fit/g:sm/q:90/h:450/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MzM4/OTQ5LTE1NzI1MzQw/NjItODM1Mi5qcGVn.jpeg"
     - "https://i.discogs.com/XgavgujkrQb7kVuNoFWa092tpK_YCSdjQ5UowEBT3aA/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MzM4/OTQ5LTE1NzI5NTY1/NzAtMjM1Ni5qcGVn.jpeg"
@@ -43,7 +43,9 @@ styles: ["Prog Rock", "Pop Rock", "Symphonic Rock"]
 ---
 
 Afraid of Sunlight is Marillion's eighth studio album, released in 1995. It was their last for EMI (who would, however, continue to release back-catalogue material on compilations and re-issues, as well as distribute some later recordings).
-Afraid of Sunlight was the first Marillion studio album to fail to reach the Top 10 in the UK Albums Chart, peaking at number 16 and falling out of the Top 75 after two weeks. Despite this, Afraid of Sunlight became one of the band's most critically acclaimed albums and was included in Q magazine's "Recordings of the Year" for 1995. It was retrospectively described by Jeri Montesano of Allmusic as "the peak of Marillion's growing, impressive body of work" and by colleague Jason Ankeny as "the most consistent Marillion release to date".
+Afraid of Sunlight was the first Marillion studio album to fail to reach the Top 10 in the UK Albums Chart, peaking at number 16 and falling out of the Top 75 after two weeks. Despite this, Afraid of Sunlight became one of the band's most critically acclaimed albums and was included in Q magazine's "Recordings of the Year" for 1995. It was retrospectively described by Jeri Montesano of Allmusic as "the peak of Marillion's growing, impressive body of work" and by colleague Jason Ankeny as "the most consistent Marillion release to date".The album is ranked at #90 on Prog Magazine's list of the 100 Greatest Prog Albums of All Time.
+
+
     
     
 

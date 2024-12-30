@@ -4,7 +4,7 @@ artist_name: "The Meters"
 artist: "the-meters"
 album_name: "The Meters"
 date: 2023-02-20T05:06:43.000000Z
-release_date: "1991-08-06"
+release_date: "1997-06-10"
 release_id: "12652036"
 slug: "the-meters-12652036"
 hideSummary: true
@@ -17,13 +17,14 @@ additional_images:
     - "https://i.discogs.com/LXIj56p_v4KaqEpYZmuKUh8nle8QWv4jwzuiVHs7wgI/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNjUy/MDM2LTE2MTIzNTEz/MTctNDY3NS5qcGVn.jpeg"
     - "https://i.discogs.com/KnkgeEUer8W4BKp3ryHM7eudh-_laAYc-TyEpm0pkXc/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNjUy/MDM2LTE1Njg4OTk5/ODQtNjI0MC5qcGVn.jpeg"
     - "https://i.discogs.com/scYOvXE58UDdyEqrjHciD7qaRLFto8DIoPp1f6gMjaM/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNjUy/MDM2LTE1Njg5MDAw/MDQtMTY4NS5qcGVn.jpeg"
-    - "https://i.discogs.com/ndzCIbCJ4nII6caeG1rEl4-KV0rSkvhikvKgXYRvbqU/rs:fit/g:sm/q:90/h:602/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNjUy/MDM2LTE1Njg5MDAw/MDItMjE3MC5qcGVn.jpeg"
+    - "https://i.discogs.com/C6LTY2LvO-WC4MpD1LhxnUMDVKm8pRNo9D2HEhPECKQ/rs:fit/g:sm/q:90/h:600/w:597/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNjUy/MDM2LTE1Njg5MDAw/MDItMjE3MC5qcGVn.jpeg"
     - "https://i.discogs.com/sTBXu-FZVVz0HzFi__7YECHuifBiLOjLIyKdjorHO2U/rs:fit/g:sm/q:90/h:241/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNjUy/MDM2LTE2MTIzNTEz/MjgtNjY3NC5qcGVn.jpeg"
 genres: ["Funk / Soul"]
 styles: ["Bayou Funk"]
 ---
 
-The Meters are an American funk band formed in 1965 in New Orleans by  Zigaboo Modeliste (drums), George Porter Jr. (bass), Leo Nocentelli (guitar) and Art Neville (keyboards). The band performed and recorded their own music from the late 1960s until 1977 and played an influential role as backing musicians for other artists, including Lee Dorsey, Robert Palmer, Dr. John, and Allen Toussaint. Their original songs "Cissy Strut" and "Look-Ka Py Py" are considered funk classics.While they rarely enjoyed significant mainstream success, they are considered originators of funk along with artists like James Brown, and their work is influential on many other bands, both their contemporaries and modern musicians. Their sound is defined by a combination of tight melodic grooves and syncopated New Orleans "second line" rhythms under highly charged guitar and keyboard riffing. The band has been nominated four times for induction into the Rock and Roll Hall of Fame, most recently in 2017. In 2018 the band was presented with the Grammy Lifetime Achievement Award.
+The Meters (later The Funky Meters) are an American funk band formed in 1965 in New Orleans by Zigaboo Modeliste (drums), George Porter Jr. (bass), Leo Nocentelli (guitar) and Art Neville (keyboards). The band performed and recorded their own music from the late 1960s until 1977 and played an influential role as backing musicians for other artists, including Lee Dorsey, Robert Palmer, Dr. John, and Allen Toussaint. Their original songs "Cissy Strut" and "Look-Ka Py Py" are considered funk classics.
+While they rarely enjoyed significant mainstream success, they are considered originators of funk along with artists like James Brown, and their work is influential on many other bands, both their contemporaries and modern musicians. Their sound is defined by a combination of tight melodic grooves and syncopated New Orleans "second line" rhythms under highly charged guitar and keyboard riffing. The band has been nominated four times for induction into the Rock and Roll Hall of Fame, most recently in 2017. In 2018 the band was presented with the Grammy Lifetime Achievement Award.
 
 
         
@@ -46,20 +47,16 @@ The Meters are an American funk band formed in 1965 in New Orleans by  Zigaboo M
 12. Simple Song (2:56)
 
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/blue-lines-2012-mix-master/715864097" >}}<br>
+{{< applemusic url="https://music.apple.com/gb/album/the-very-best-of-the-meters/213532006" >}}<br>
 
 
 ## Videos
-### The Meters- Cardova
-{{< youtube id="bzjGeyW0MpE" title="The Meters- Cardova" >}}<br>
+### Cissy Strut
+{{< youtube id="Nd3yDoOyvbY" title="Cissy Strut" >}}<br>
 ### More Videos
 
-- [Cissy Strut](https://www.youtube.com/watch?v=Nd3yDoOyvbY)
-- [The Meters- Cissy Strut](https://www.youtube.com/watch?v=Zkk-IXt0Dj0)
 - [Here Comes the Meter Man](https://www.youtube.com/watch?v=jEA4FiYZWaM)
-- [The Meters- 6V6 La](https://www.youtube.com/watch?v=bcvsOmQkDwM)
 - [Cardova](https://www.youtube.com/watch?v=4kd3QuTexvM)
-- [The Meters- Sing A Simple Song](https://www.youtube.com/watch?v=cMi8X2UB91I)
 - [Live Wire](https://www.youtube.com/watch?v=D9IGwqUAwdU)
 - [Art](https://www.youtube.com/watch?v=8vRRz62oJQ4)
 - [Sophisticated Cissy](https://www.youtube.com/watch?v=wEm_sj6k6lI)
@@ -67,7 +64,6 @@ The Meters are an American funk band formed in 1965 in New Orleans by  Zigaboo M
 - [6V6 LA](https://www.youtube.com/watch?v=4CNS2jYBsZw)
 - [Sehorn's Farm](https://www.youtube.com/watch?v=54Ss8rnzCz8)
 - [Ann](https://www.youtube.com/watch?v=QGuL1qOKp4Q)
-- [The Meters - Stormy](https://www.youtube.com/watch?v=i-ShsT4aKHU)
 - [Sing a Simple Song](https://www.youtube.com/watch?v=7VT9MTLEDWw)
 
 ## Release Images

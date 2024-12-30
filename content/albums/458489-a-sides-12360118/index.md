@@ -20,7 +20,7 @@ additional_images:
     - "https://i.discogs.com/DTLHTRgZ1wxfmwo68Wa4aFNY6U5fLr1hyNMSmMpgpq0/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMzYw/MTE4LTE2MDcxOTU2/NDEtOTUxOS5qcGVn.jpeg"
     - "https://i.discogs.com/CA6WRonv97EpJ7WnUk-wuv0BiDYGVaqxrmxDe3DPQ5s/rs:fit/g:sm/q:90/h:593/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMzYw/MTE4LTE2MDcxOTU2/NDEtNDE0NC5qcGVn.jpeg"
     - "https://i.discogs.com/pl_kS5V3p9u2Iw8R_02fl7NqePVzMvzIHqUKs5Hopuw/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMzYw/MTE4LTE2MDcxOTU2/NDItNTM2MS5qcGVn.jpeg"
-    - "https://i.discogs.com/8vkIXegHgVO9BBaUDGuzlJDCMOjMHBlUVyOAbMFTt9Q/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMzYw/MTE4LTE2MDcxOTU2/MzktMTYxNy5qcGVn.jpeg"
+    - "https://i.discogs.com/5gbnzFIHTgx1bOn18hLc7tpHc-UWLuZ6dEeTdzieqWk/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMzYw/MTE4LTE2MDcxOTU2/MzktMTYxNy5qcGVn.jpeg"
 genres: ["Rock"]
 styles: ["Alternative Rock", "Art Rock", "Indie Rock"]
 ---
@@ -46,6 +46,8 @@ styles: ["Alternative Rock", "Art Rock", "Indie Rock"]
 16. Jerusalem (3:49)
 17. Dead Beat Descendant (2:22)
 
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/45-84-89-a-sides/1025315700" >}}<br>
 
 
 ## Videos

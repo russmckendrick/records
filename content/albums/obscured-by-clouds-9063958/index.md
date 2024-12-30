@@ -17,14 +17,15 @@ additional_images:
     - "https://i.discogs.com/4Y1Jya-7yjopcR8LyYB607Njhw2qe2lgKz_yowzQauU/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkwNjM5/NTgtMTYzNzI1MzEw/MS05MTAxLmpwZWc.jpeg"
     - "https://i.discogs.com/KRKE6eXHnI3c1QKZ47ZDzNZ1gK-PgUhnETXwaapaPOg/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkwNjM5/NTgtMTYzNzI1MzEy/Mi0yNDY4LmpwZWc.jpeg"
     - "https://i.discogs.com/MFDC2sf6ULppwBb9YzZsphJfyGZ8TMVjWf3PGAQMK6U/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkwNjM5/NTgtMTYzNzI1MzEy/Mi05MjMyLmpwZWc.jpeg"
-    - "https://i.discogs.com/luzQJ72Vf6xdWeZnHg0u2VjT0j8bkStGT59xIZos5Jc/rs:fit/g:sm/q:90/h:1204/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkwNjM5/NTgtMTYzNzI1MzEz/Mi00MDA4LmpwZWc.jpeg"
+    - "https://i.discogs.com/nAbKfTepvyu4CAgGnG2jHQY3-wGc4sc87mz-CImCaOo/rs:fit/g:sm/q:90/h:600/w:298/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkwNjM5/NTgtMTYzNzI1MzEz/Mi00MDA4LmpwZWc.jpeg"
     - "https://i.discogs.com/--EZy8Pfy4sWKPfzF55GyJwAEOwnSlN61pCHVoSeGpg/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkwNjM5/NTgtMTYzNzI1MzEz/My00NTM1LmpwZWc.jpeg"
     - "https://i.discogs.com/lIFThNxNO0CfTdhnR44Q-R5wsa9f8oJQfTUx-Pb3c5A/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkwNjM5/NTgtMTYzNzI1MzEw/MC00OTM3LmpwZWc.jpeg"
+    - "https://i.discogs.com/r83abSm3iApTF38YTcmJOJ64gOZRqCeHqf4Qiq2FsA8/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkwNjM5/NTgtMTY4NDc4NzA3/Ny0zMzg1LmpwZWc.jpeg"
 genres: ["Rock", "Stage & Screen"]
 styles: ["Soundtrack", "Psychedelic Rock", "Prog Rock"]
 ---
 
-Working again with director Barbet Schroeder, Pink Floyd created this soundtrack for the film <i>La Vallée</i> over a two-week period in early 1972. It was a relatively quick session for the group, which was also recording <i>The Dark Side of the Moon</i> back in London. To compare it to the soundtrack they had recorded just three years earlier (<i>More</i>) is remarkable—just listen to the tightly arranged, pastoral wonder of “Wot’s ... Uh the Deal” or the nearly glam, folk sing-along “Free Four”. With the dark, paranoia-and-synthesiser-tinged “Childhood’s End”, you can hear the seeds of the music that came to fruition on <i>The Dark Side ... </i>. At this point in their career, Pink Floyd had developed into a distinct and powerful group—veering between stately rock ’n’ roll and wide-eyed wonder at the drop of a hat. All the pieces of the band were in place on this album—lyrical introspection, Gilmour’s soaring guitar work and the loping gait of the rhythm section.
+Working again with director Barbet Schroeder, Pink Floyd created this soundtrack for the film <I>La Vallée</I> over a two-week period in early 1972. It was a relatively quick session for the group, which was also recording <I>The Dark Side of the Moon</I> back in London. To compare it to the soundtrack they had recorded just three years earlier (<I>More</I>) is remarkable—just listen to the tightly arranged, pastoral wonder of “Wot’s ... Uh the Deal” or the nearly glam, folk sing-along “Free Four”. With the dark, paranoia-and-synthesiser-tinged “Childhood’s End”, you can hear the seeds of the music that came to fruition on <I>The Dark Side ... </I>. At this point in their career, Pink Floyd had developed into a distinct and powerful group—veering between stately rock ’n’ roll and wide-eyed wonder at the drop of a hat. All the pieces of the band were in place on this album—lyrical introspection, Gilmour’s soaring guitar work and the loping gait of the rhythm section.
         
         
     
@@ -47,11 +48,20 @@ Working again with director Barbet Schroeder, Pink Floyd created this soundtrack
 
 
 ## Videos
-### Pink Floyd - Obscured By Clouds (1972) [Full Album]
-{{< youtube id="Te_-nISxLVI" title="Pink Floyd - Obscured By Clouds (1972) [Full Album]" >}}<br>
+### Pink Floyd - 1st UK press vinyl - Obscured by clouds - side 2
+{{< youtube id="IA_Eq3DtkR8" title="Pink Floyd - 1st UK press vinyl - Obscured by clouds - side 2" >}}<br>
 ### More Videos
 
 - [Obscured By Clouds](https://www.youtube.com/watch?v=16V-wNwlTw0)
+- [When You're In](https://www.youtube.com/watch?v=6vr07uuBjg4)
+- [Burning Bridges](https://www.youtube.com/watch?v=nsGhjcDNU2g)
+- [04 The Gold It's In The?](https://www.youtube.com/watch?v=HWhOd0ENVS8)
+- [Pink Floyd - Wot’s… Uh The Deal (Official Music Video)](https://www.youtube.com/watch?v=aGPjfj69cXE)
+- [Mudmen](https://www.youtube.com/watch?v=uKSTu-HMPQ4)
+- [Pink Floyd - Childhood's End (Official Music Video)](https://www.youtube.com/watch?v=SnTz09-nk9c)
+- [Free Four](https://www.youtube.com/watch?v=FPSb5QjgjAc)
+- [Stay](https://www.youtube.com/watch?v=Rhge-ZOgfsw)
+- [Absolutely Curtains](https://www.youtube.com/watch?v=o876axae4VE)
 
 ## Release Images
 {{< imageGrid >}}

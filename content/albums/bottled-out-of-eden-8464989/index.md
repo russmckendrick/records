@@ -17,15 +17,15 @@ additional_images:
     - "https://i.discogs.com/aMsom8Q9oOS-kQdD6haqCpgPfXX1P1PRkafzvy5sNJU/rs:fit/g:sm/q:90/h:383/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg0NjQ5/ODktMTQ2MjI4MDY0/NS0zMDEwLmpwZWc.jpeg"
     - "https://i.discogs.com/w8Ihdg8xDlmCoM08DN2c_yhNDXdMoxwE4DoHu6L_ZDc/rs:fit/g:sm/q:90/h:289/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg0NjQ5/ODktMTQ2MjI4MDY4/OC05NTE5LmpwZWc.jpeg"
     - "https://i.discogs.com/1zHmT_Dyi0sjkSWOshBE_wafkKjhuvVOflBVsqNLQuw/rs:fit/g:sm/q:90/h:590/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg0NjQ5/ODktMTQ2MjI4MDY3/MC04NTUyLmpwZWc.jpeg"
-    - "https://i.discogs.com/bzAjcQKi09Foi0pE80ZqWYZ4j-DG2U-Lc33iVEQneM8/rs:fit/g:sm/q:90/h:608/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg0NjQ5/ODktMTQ2MjI4MDg0/Ni02NjEwLmpwZWc.jpeg"
+    - "https://i.discogs.com/gUSOH-dCK_UrIod3XHCqQNy6fRXvy8v0dt5oQSXAmL8/rs:fit/g:sm/q:90/h:600/w:592/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg0NjQ5/ODktMTQ2MjI4MDg0/Ni02NjEwLmpwZWc.jpeg"
     - "https://i.discogs.com/k8K12IuDYVIfzRjbL0Idjydko-9VmBcDYuwdhNSJrA8/rs:fit/g:sm/q:90/h:585/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg0NjQ5/ODktMTQ2MjI4MDgz/MS02MDg5LmpwZWc.jpeg"
-    - "https://i.discogs.com/vIL1E42QntJ-ZwNCJFBnLAg3gYuJK2tr2eXZ6muogew/rs:fit/g:sm/q:90/h:613/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg0NjQ5/ODktMTQ2MjI4MDgx/NS0zODc3LmpwZWc.jpeg"
+    - "https://i.discogs.com/-QKmpmo7IuNI2Zxz5XiX4gK9dMGQIvMKgcdYob1XxWM/rs:fit/g:sm/q:90/h:600/w:587/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg0NjQ5/ODktMTQ2MjI4MDgx/NS0zODc3LmpwZWc.jpeg"
     - "https://i.discogs.com/5GeX0I6uYp8RJYkcHuDFwroGeLd-EHfuY4xMEX15520/rs:fit/g:sm/q:90/h:404/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg0NjQ5/ODktMTQ2MjI4MDg3/MS02MTI1LmpwZWc.jpeg"
-    - "https://i.discogs.com/J6PaaENkESAunnas0XmulBqvPJCnt2mG45zBodXjwMQ/rs:fit/g:sm/q:90/h:625/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg0NjQ5/ODktMTQ2MjI4MTQx/MC04OTk4LmpwZWc.jpeg"
-    - "https://i.discogs.com/lwHrQZG6qzc2fmAnRR2tjDLwjl1c41zqGYus04QeI14/rs:fit/g:sm/q:90/h:655/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg0NjQ5/ODktMTQ2MjI4MTQy/NC04MDQxLmpwZWc.jpeg"
-    - "https://i.discogs.com/XaOY9n_bxhAg1_uL7lo-3ki_ss6mfLLyR4FxCsz5yzE/rs:fit/g:sm/q:90/h:622/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg0NjQ5/ODktMTQ2MjI4MTQy/NS0xMjY2LmpwZWc.jpeg"
-    - "https://i.discogs.com/ekQE-qpNBIK7u_uL9QLwI7xtv35m7OETiDtQKXt2H0c/rs:fit/g:sm/q:90/h:601/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg0NjQ5/ODktMTQ2MjI4MTM2/OS03NTU2LmpwZWc.jpeg"
-    - "https://i.discogs.com/zXQ0q5rBrg6uhVn5qa7lU4pwps5fuMOVMDEqAx38lqM/rs:fit/g:sm/q:90/h:635/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg0NjQ5/ODktMTQ2MjI4MDg0/OC0yNzM5LmpwZWc.jpeg"
+    - "https://i.discogs.com/DKAB2OS_Gr5AWzVVuSbAJJpg1Bc7eRnsXu44eYfj3Qs/rs:fit/g:sm/q:90/h:600/w:575/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg0NjQ5/ODktMTQ2MjI4MTQx/MC04OTk4LmpwZWc.jpeg"
+    - "https://i.discogs.com/Ed6i4s8cRUKco8vH1qxWiOiqZrFjV86hLpv6igyF3xs/rs:fit/g:sm/q:90/h:600/w:549/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg0NjQ5/ODktMTQ2MjI4MTQy/NC04MDQxLmpwZWc.jpeg"
+    - "https://i.discogs.com/zj3q4BbOV6z5Cks4SXcUrz5iNjJAHydqDRkSaMt7DK8/rs:fit/g:sm/q:90/h:600/w:578/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg0NjQ5/ODktMTQ2MjI4MTQy/NS0xMjY2LmpwZWc.jpeg"
+    - "https://i.discogs.com/rfaENBEbOuFrwR63j2OA512K2GEWQHbWUIAy2YXru3E/rs:fit/g:sm/q:90/h:600/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg0NjQ5/ODktMTQ2MjI4MTM2/OS03NTU2LmpwZWc.jpeg"
+    - "https://i.discogs.com/wY3WleLlGdYl3dB3qFgPW8xY8iBOlLECBybMewFFRvQ/rs:fit/g:sm/q:90/h:600/w:566/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg0NjQ5/ODktMTQ2MjI4MDg0/OC0yNzM5LmpwZWc.jpeg"
 genres: ["Rock", "Pop"]
 styles: ["Prog Rock", "Math Rock", "Art Rock", "Bubblegum"]
 ---
@@ -61,11 +61,13 @@ styles: ["Prog Rock", "Math Rock", "Art Rock", "Bubblegum"]
 
 
 ## Videos
-### KnifeWorld - Bottled Out Of Eden [Full Album]
-{{< youtube id="T_9wjlangXE" title="KnifeWorld - Bottled Out Of Eden [Full Album]" >}}<br>
+### KNIFEWORLD - High/Aflame (OFFICIAL VIDEO)
+{{< youtube id="WzXVxOT8an0" title="KNIFEWORLD - High/Aflame (OFFICIAL VIDEO)" >}}<br>
 ### More Videos
 
+- [KNIFEWORLD - The Germ Inside (Lyric Video)](https://www.youtube.com/watch?v=mWRig5rV274)
 - [KNIFEWORLD - High/Aflame (OFFICIAL VIDEO)](https://www.youtube.com/watch?v=WzXVxOT8an0)
+- [KNIFEWORLD - The Germ Inside (Lyric Video)](https://www.youtube.com/watch?v=mWRig5rV274)
 
 ## Release Images
 {{< imageGrid >}}

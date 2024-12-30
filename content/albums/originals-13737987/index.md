@@ -13,20 +13,20 @@ cover:
     alt: "Originals by Prince"
     caption: "Originals by Prince"
 additional_images:
-    - "https://i.discogs.com/-aaFnZNrC4SpaOet6dd7OpavmsfwNehws7I9qCmulfE/rs:fit/g:sm/q:90/h:601/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNzM3/OTg3LTE1NjMyMDQ3/NDEtODI3Ni5qcGVn.jpeg"
+    - "https://i.discogs.com/MfbU0Q5mH82MIn33NGpTMOLyspgeHPjL4eftdtOScmQ/rs:fit/g:sm/q:90/h:600/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNzM3/OTg3LTE1NjMyMDQ3/NDEtODI3Ni5qcGVn.jpeg"
     - "https://i.discogs.com/1QfDAFBjt4tu6yVVCkxuH7Y-fzRd1udF8BUE-PV54lE/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNzM3/OTg3LTE1NjM1Mzk0/ODMtOTA1Ny5qcGVn.jpeg"
-    - "https://i.discogs.com/YmfshXb0tsTAa8Vv_m_KJEDevj6rTwCMlIEXtNNuwm8/rs:fit/g:sm/q:90/h:601/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNzM3/OTg3LTE1NjM1Mzk0/ODgtMzQzNS5qcGVn.jpeg"
+    - "https://i.discogs.com/FKLXZYpPgnvqHVxOwxjKZ9w6R5guCIytrvUu0te4fQg/rs:fit/g:sm/q:90/h:600/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNzM3/OTg3LTE1NjM1Mzk0/ODgtMzQzNS5qcGVn.jpeg"
     - "https://i.discogs.com/xQYeILSNsB5ckGvYB5mPEM7CVRxA3aDaz2mkh6yUmW4/rs:fit/g:sm/q:90/h:587/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNzM3/OTg3LTE1NjM1Mzk0/ODktMTYyNy5qcGVn.jpeg"
     - "https://i.discogs.com/DY36UoZ-k25uF1T4j4X9CkyAJgpKWhA_C3xL6CytG2U/rs:fit/g:sm/q:90/h:584/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNzM3/OTg3LTE1NjM1Mzk1/MDgtNTczOC5qcGVn.jpeg"
     - "https://i.discogs.com/H1Aw62QhdNmc_Q4G9gA-0iaNniEVOiRt_rPiNDUtrmQ/rs:fit/g:sm/q:90/h:584/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNzM3/OTg3LTE1NjM1Mzk1/MTEtODE3My5qcGVn.jpeg"
     - "https://i.discogs.com/xNthFflvlRjP63E8cdl9hEKmZUcSAn2CyAjSx54zo8M/rs:fit/g:sm/q:90/h:585/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNzM3/OTg3LTE2NzAwNDY4/NjMtMzE0Mi5qcGVn.jpeg"
-    - "https://i.discogs.com/PchFbzO8P8KMxHOMH5vVRTiCB5olbm5clbItGwyrWWU/rs:fit/g:sm/q:90/h:612/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNzM3/OTg3LTE2NzAwNDY4/NjMtODc3My5qcGVn.jpeg"
+    - "https://i.discogs.com/5bNJJXDd6QpfuCJnzY3ltQvVzBSMLYFlmposIwfhZiw/rs:fit/g:sm/q:90/h:600/w:587/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNzM3/OTg3LTE2NzAwNDY4/NjMtODc3My5qcGVn.jpeg"
     - "https://i.discogs.com/ZYwG9smkEwLkUZbHbMWifLsQefCn0btSbfMvr70VSx4/rs:fit/g:sm/q:90/h:588/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNzM3/OTg3LTE2NzAwNDY4/NjMtNzU5OS5qcGVn.jpeg"
-    - "https://i.discogs.com/Rhh90V9AhXLyhk_kbR4Jh6c3krka7xmv63Sfa0Iua3U/rs:fit/g:sm/q:90/h:611/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNzM3/OTg3LTE2NzAwNDY4/NjMtODgwOC5qcGVn.jpeg"
-    - "https://i.discogs.com/Rh4dG0fo_5EyZDkpYSafuKa7U03A6vX2HvIn27EDnlY/rs:fit/g:sm/q:90/h:605/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNzM3/OTg3LTE2NzAwNDY4/NjQtNTI0NC5qcGVn.jpeg"
+    - "https://i.discogs.com/7xNZEIBXIAl7sQIQxEBTkEv9f6LZE8Dq_aBSefKOckQ/rs:fit/g:sm/q:90/h:600/w:588/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNzM3/OTg3LTE2NzAwNDY4/NjMtODgwOC5qcGVn.jpeg"
+    - "https://i.discogs.com/S7PQbhR9uVdQHNw0px4Ave5Hb7jdcLphIcoDZ32SHR0/rs:fit/g:sm/q:90/h:600/w:594/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNzM3/OTg3LTE2NzAwNDY4/NjQtNTI0NC5qcGVn.jpeg"
     - "https://i.discogs.com/ViOWRPkm6YxxOUNc2fCADeqzxlUJEjtkmlxQXICn7os/rs:fit/g:sm/q:90/h:566/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNzM3/OTg3LTE1NjM1Mzk1/MTItNTA3NC5qcGVn.jpeg"
-    - "https://i.discogs.com/YgwsCnyytPYgfg5Cu2-Xoie6UmrQomKzRrTtPXeU5Hk/rs:fit/g:sm/q:90/h:601/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNzM3/OTg3LTE1NjM1Mzk1/ODctNzg1Mi5qcGVn.jpeg"
-    - "https://i.discogs.com/A5KxmkMJQZtPS7NzLzD1cYOJlHZfJbxc5tmKfJ82ZF0/rs:fit/g:sm/q:90/h:608/w:456/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNzM3/OTg3LTE1NzI5MTA3/OTQtNjAwMi5qcGVn.jpeg"
+    - "https://i.discogs.com/STAS8YKkm--UwDr52SlYVs5CcVU2lMLneWT1x8VADNg/rs:fit/g:sm/q:90/h:600/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNzM3/OTg3LTE1NjM1Mzk1/ODctNzg1Mi5qcGVn.jpeg"
+    - "https://i.discogs.com/BNfd_73O64WWBAsZk8IpewvMbWQc36ctTxHLx4YrUxo/rs:fit/g:sm/q:90/h:600/w:450/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNzM3/OTg3LTE1NzI5MTA3/OTQtNjAwMi5qcGVn.jpeg"
     - "https://i.discogs.com/CclcM3XTTaYmEr29V1h6KQuCCtrxwqT5YPCeZGW3xBA/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNzM3/OTg3LTE1NjM1Mzk1/OTMtNTE0Ni5qcGVn.jpeg"
     - "https://i.discogs.com/pwTNVxpmDUXbTa2DEH--jPZYObl7mZBOO_LyReg4JXs/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNzM3/OTg3LTE1NjM1Mzk1/OTUtNzgwMy5qcGVn.jpeg"
     - "https://i.discogs.com/xmqdX9aDkxCaue7hq80NvQXzRWDIxe-Hvjr4VqE2Q4o/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNzM3/OTg3LTE2NzAwNDY4/NjMtNjg1MS5qcGVn.jpeg"
@@ -34,7 +34,7 @@ genres: ["Funk / Soul", "Pop"]
 styles: ["Minneapolis Sound", "Funk"]
 ---
 
-When Prince died in 2016, he left behind a huge amount of unreleased music—a literal steel vault so private and tightly guarded it had to be drilled open. Following on the heels of 2018’s unprecedentedly intimate <i>Piano & a Microphone 1983</i>, <i>Originals</i> is a collection of highly polished demos for songs ultimately gifted to other artists. As exciting as it is to hear Prince's initial vision for now-ubiquitous hits like “Manic Monday” and “Nothing Compares 2 U,” the most revelatory tracks here tend to be the raunchy ones: “Sex Shooter,” originally for Apollonia 6 (“Come on, kiss the gun”); “Jungle Love,” originally for The Time (and complete with monkey-howl backing vocals); the sex-doll synth-pop of “Make-Up,” for Vanity 6. Not that it <i>isn’t</i> exciting to hear him sing “Manic Monday” (adopted by The Bangles) and “Nothing Compares 2 U” (reportedly inspired by a departed housekeeper before being rendered immortal by Sinéad O’Connor)—it is. But what better testament to Prince’s genius than his ability to lay our nastiest, basest impulses over a funk beat and elevate them to high art?
+When Prince died in 2016, he left behind a huge amount of unreleased music—a literal steel vault so private and tightly guarded it had to be drilled open. Following on the heels of 2018’s unprecedentedly intimate <i>Piano & a Microphone 1983</i>, <i>Originals</i> is a collection of highly polished demos for songs ultimately gifted to other artists. As exciting as it is to hear Prince's initial vision for now-ubiquitous hits like “Manic Monday” and “Nothing Compares 2 U”, the most revelatory tracks here tend to be the raunchy ones: “Sex Shooter”, originally for Apollonia 6 (“Come on, kiss the gun”); “Jungle Love”, originally for The Time (and complete with monkey-howl backing vocals); the sex-doll synth-pop of “Make-Up”, for Vanity 6. Not that it <i>isn’t</i> exciting to hear him sing “Manic Monday” (adopted by The Bangles) and “Nothing Compares 2 U” (reportedly inspired by a departed housekeeper before being rendered immortal by Sinéad O’Connor)—it is. But what better testament to Prince’s genius than his ability to lay our nastiest, basest impulses over a funk beat and elevate them to high art?
         
         
     
@@ -76,25 +76,7 @@ When Prince died in 2016, he left behind a huge amount of unreleased music—a l
 {{< applemusic url="https://music.apple.com/gb/album/originals/1460319631" >}}<br>
 
 
-## Videos
-### Prince - Nothing Compares 2 U (Official Music Video)
-{{< youtube id="cpGA0azFdCs" title="Prince - Nothing Compares 2 U (Official Music Video)" >}}<br>
-### More Videos
 
-- [Prince - Sex Shooter (Official Audio)](https://www.youtube.com/watch?v=UmTqS2IBkTc)
-- [Prince - Jungle Love (Official Audio)](https://www.youtube.com/watch?v=VimhzZyd0Wc)
-- [Prince - Manic Monday (Official Music Video)](https://www.youtube.com/watch?v=WnPX-uI7ivM)
-- [Prince - Noon Rendezvous (Official Audio)](https://www.youtube.com/watch?v=XqFEpHXqFzg)
-- [Prince - Make-Up (Official Audio)](https://www.youtube.com/watch?v=sOZVJODyiRA)
-- [Prince - 100 MPH (Official Audio)](https://www.youtube.com/watch?v=OpJpvrdUSB4)
-- [Prince - You're My Love (Official Audio)](https://www.youtube.com/watch?v=3o84aYs15go)
-- [Prince - Holly Rock (Official Music Video)](https://www.youtube.com/watch?v=HaphX02vY6k)
-- [Prince - Baby You're A Trip (Official Audio)](https://www.youtube.com/watch?v=jf0_eRTvFas)
-- [Prince - The Glamorous Life (Official Audio)](https://www.youtube.com/watch?v=F8jjS3hCQRo)
-- [Prince - Gigolos Get Lonely Too (Official Audio)](https://www.youtube.com/watch?v=HVA8BrimcKk)
-- [Prince - Love… Thy Will Be Done (Official Audio)](https://www.youtube.com/watch?v=efubwIE9Aaw)
-- [Prince - Dear Michaelangelo (Official Audio)](https://www.youtube.com/watch?v=ZP9WDBtzIBQ)
-- [Prince - Wouldn’t You Love to Love Me? (Official Audio)](https://www.youtube.com/watch?v=D7U6pniM13s)
 
 ## Release Images
 {{< imageGrid >}}

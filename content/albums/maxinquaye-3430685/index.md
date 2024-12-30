@@ -43,10 +43,10 @@ Maxinquaye reached the number three position on the United Kingdom's albums char
 5. Pumpkin
 6. Aftermath
 7. Abbaon Fat Tracks
-8. Brand New You’re Retro
+8. Brand New You're Retro
 9. Suffocated Love
-10. You Don’t
-11. Strugglin’
+10. You Don't
+11. Strugglin'
 12. Feed Me
 
 ## Apple Music
@@ -54,9 +54,15 @@ Maxinquaye reached the number three position on the United Kingdom's albums char
 
 
 ## Videos
-### Tricky - Maxinquaye [FULL ALBUM] ☆☆☆☆☆
-{{< youtube id="AxSvRhspIjo" title="Tricky - Maxinquaye [FULL ALBUM] ☆☆☆☆☆" >}}<br>
+### Feed Me
+{{< youtube id="IlB3Exvb4NM" title="Feed Me" >}}<br>
+### More Videos
 
+- [Pumpkin](https://www.youtube.com/watch?v=ddn7Nlgr87o)
+- [Abbaon Fat Tracks](https://www.youtube.com/watch?v=ZmdpZQV_dPM)
+- [Tricky - 'Overcome' (Official Video)](https://www.youtube.com/watch?v=ViHiOopNTlc)
+- [Tricky - Black Steel](https://www.youtube.com/watch?v=9ZJTM03UByU)
+- [Tricky - 'Aftermath' (Official Video)](https://www.youtube.com/watch?v=25y3cMC9i94)
 
 ## Release Images
 {{< imageGrid >}}

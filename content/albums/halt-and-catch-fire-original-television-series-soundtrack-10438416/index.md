@@ -12,8 +12,8 @@ cover:
     alt: "Halt And Catch Fire (Original Television Series Soundtrack) by Paul Haslinger"
     caption: "Halt And Catch Fire (Original Television Series Soundtrack) by Paul Haslinger"
 additional_images:
-    - "https://i.discogs.com/llMvUHjUgTKU_vPrg19FexzQ-EOu-6VATccUOtiJVMQ/rs:fit/g:sm/q:90/h:586/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNDM4/NDE2LTE0OTc0NTA0/MDMtOTAwNC5tcG8.jpeg"
-    - "https://i.discogs.com/6eLceTGItoS1lzkn77G9NO4Fil3SDA92UehflaRqwUE/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNDM4/NDE2LTE0OTc0NTA5/MzYtOTE2My5tcG8.jpeg"
+    - "https://i.discogs.com/Wb_b9RYpQ6C8dAarkwcVPZMOecc85AWLVoODdT8itcM/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNDM4/NDE2LTE3MzIzNzA3/ODktNjg3MC5qcGVn.jpeg"
+    - "https://i.discogs.com/EvaCGM6ERrzGy6uZxoY2XbMYY5PqSPLzDXgqRIh98BQ/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNDM4/NDE2LTE3MzIzNzA3/ODktNjU5Ny5qcGVn.jpeg"
     - "https://i.discogs.com/5HEw6r82hjeCAQo__y8xlP2aHou-vRBkljDpGqVLxng/rs:fit/g:sm/q:90/h:589/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNDM4/NDE2LTE0OTc0NTA5/OTgtNjU5NC5tcG8.jpeg"
     - "https://i.discogs.com/e_JvpD8zAPcwGBI_fQE7AHRDwDyFP00CTjTTirNeg4s/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNDM4/NDE2LTE0OTc0NTEw/MTgtOTgwMS5tcG8.jpeg"
     - "https://i.discogs.com/Ha-xRhfSCPQ0bDV45b54u7d1Z8ki6pVyL-jIQpVfduQ/rs:fit/g:sm/q:90/h:591/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNDM4/NDE2LTE0OTc0NTA5/ODYtODA1OC5tcG8.jpeg"

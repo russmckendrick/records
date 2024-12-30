@@ -17,13 +17,18 @@ additional_images:
     - "https://i.discogs.com/0uqncf5cfeztUhQkgTgathvvzl8lx6VX52yrucLEkjs/rs:fit/g:sm/q:90/h:591/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMzc5/ODU0LTE2NDYzODI5/OTAtMzAzMS5qcGVn.jpeg"
     - "https://i.discogs.com/OazWAlWtNfyORsKOiXCbQtksSOMHneB_RusqmnGvrTo/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMzc5/ODU0LTE2NDY1MDYx/NjEtNzU0OC5qcGVn.jpeg"
     - "https://i.discogs.com/EU7J71GIcLF7GdSIYVz9Um-ZQOjicF76Qn8NBYI0xGI/rs:fit/g:sm/q:90/h:584/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMzc5/ODU0LTE2NDY1MDYx/ODUtMzI3Mi5qcGVn.jpeg"
-    - "https://i.discogs.com/35O_ym9Yf5J_R0vtyF4vq9rOjAavL6qtfV66WZBT8iU/rs:fit/g:sm/q:90/h:604/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMzc5/ODU0LTE2NDY1MDYy/MTUtMTYzNS5qcGVn.jpeg"
-    - "https://i.discogs.com/aOmNV2yPN1xcK4pokvJl6ywNafJkdvklu7IAZ390KjA/rs:fit/g:sm/q:90/h:605/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMzc5/ODU0LTE2NDY1MDYy/MzQtMjY5MS5qcGVn.jpeg"
+    - "https://i.discogs.com/iD2xCZeL_KrQ4_20f9MpvgMSopoB4Eza9TXyYYDvdUM/rs:fit/g:sm/q:90/h:600/w:596/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMzc5/ODU0LTE2NDY1MDYy/MTUtMTYzNS5qcGVn.jpeg"
+    - "https://i.discogs.com/wb7XKftO26jdE0qAM1Rhlhkr6_kuaQF01HOshhNBZ58/rs:fit/g:sm/q:90/h:600/w:594/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMzc5/ODU0LTE2NDY1MDYy/MzQtMjY5MS5qcGVn.jpeg"
     - "https://i.discogs.com/6eoXEjzA1hwjc4m5eBb9S3HKbNK66fGI7XIokBTIO4k/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMzc5/ODU0LTE2NDYzODI5/OTEtMjU1NS5qcGVn.jpeg"
 genres: ["Rock"]
 styles: ["Prog Rock"]
 ---
 
+An Hour Before It's Dark is the 20th studio album by British neo-prog band Marillion, released on 4 March 2022 by Intact and earMUSIC.
+
+
+    
+    
 
 
 ## Tracklisting
@@ -40,6 +45,9 @@ styles: ["Prog Rock"]
 {{< applemusic url="https://music.apple.com/gb/album/an-hour-before-its-dark/1593404034" >}}<br>
 
 
+## Videos
+### Ma͟r͟i͟l͟l͟i͟o͟n͟ - An H͟o͟u͟r͟ Be͟f͟o͟r͟e͟ ͟It’s Da͟r͟k͟ ͟(Full Album 2022)
+{{< youtube id="SeYoiPF0RZk" title="Ma͟r͟i͟l͟l͟i͟o͟n͟ - An H͟o͟u͟r͟ Be͟f͟o͟r͟e͟ ͟It’s Da͟r͟k͟ ͟(Full Album 2022)" >}}<br>
 
 
 ## Release Images
@@ -48,6 +56,7 @@ styles: ["Prog Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
+| Wikipedia URL | https://en.wikipedia.org/wiki/An_Hour_Before_It%27s_Dark |
 | Format         | Vinyl 2× LP Album Limited Edition Stereo (Blue) |
 | Label          | Ear Music |
 | Catalog Number | 0217171EMU |

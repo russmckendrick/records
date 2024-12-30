@@ -14,12 +14,12 @@ cover:
 additional_images:
     - "https://i.discogs.com/GsG3DYF3VEsamKzZ8UwuDIKyuLwoGDjiGVceeEvlgEU/rs:fit/g:sm/q:90/h:584/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwODcx/NDU3LTE2MzYxOTIy/MzgtMjExMC5qcGVn.jpeg"
     - "https://i.discogs.com/yl9PES5-_lmyzoiZGxhxX3QT1_cbtDlWguHJYOYRfT8/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwODcx/NDU3LTE2MzYxOTIy/NDktMjU3OS5qcGVn.jpeg"
-    - "https://i.discogs.com/yCdbAy1RCtX-4SIKCHHwTx0naORqgyxHpX8XJxrHsUc/rs:fit/g:sm/q:90/h:615/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwODcx/NDU3LTE2MzYxOTIz/MzMtMjM4MS5qcGVn.jpeg"
+    - "https://i.discogs.com/A2iZjuj5JyV1MwPMrzbH9nz9IlF6R7uSuLvvg8RbuG4/rs:fit/g:sm/q:90/h:600/w:585/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwODcx/NDU3LTE2MzYxOTIz/MzMtMjM4MS5qcGVn.jpeg"
     - "https://i.discogs.com/_vKS5T85BpzWM6K74wmd7BFdYrVwauhSvySoEtE5tYc/rs:fit/g:sm/q:90/h:296/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwODcx/NDU3LTE2MzYxOTIz/NDQtNDQ2Mi5qcGVn.jpeg"
-    - "https://i.discogs.com/Zhq18sNkC_ZcG7VbqEwlk8NTXQxS7Eu65LCGIeXZLeM/rs:fit/g:sm/q:90/h:604/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwODcx/NDU3LTE2MzYxOTIz/NTEtMTA4OS5qcGVn.jpeg"
-    - "https://i.discogs.com/EAlPXCT7JHj3cvG3FWIuvHmodqP4pK61DruBghAzeC0/rs:fit/g:sm/q:90/h:616/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwODcx/NDU3LTE2MzYxOTIz/NTktMzEzNy5qcGVn.jpeg"
-    - "https://i.discogs.com/Gg2wy5QUc6QvmSFaNdHmux6Q38WrwB2TtuufgFD2jCs/rs:fit/g:sm/q:90/h:607/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwODcx/NDU3LTE2MzYxOTIz/NjgtNTc1Ni5qcGVn.jpeg"
-    - "https://i.discogs.com/Oyh1R8jEOBAtTcplXR_nPxSmGEg_YSAsXS_bmiK4x-o/rs:fit/g:sm/q:90/h:631/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwODcx/NDU3LTE2MzYxOTI0/NjctMjY1NS5qcGVn.jpeg"
+    - "https://i.discogs.com/_4M6AOzjy3VyHO4_dpBlF6BCjlMDRZ0TAm0e0NLBAo0/rs:fit/g:sm/q:90/h:600/w:595/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwODcx/NDU3LTE2MzYxOTIz/NTEtMTA4OS5qcGVn.jpeg"
+    - "https://i.discogs.com/qSLpg3xFobuhK-MhiSbee6wbmbQEv4DkLDf82NLnEu8/rs:fit/g:sm/q:90/h:600/w:584/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwODcx/NDU3LTE2MzYxOTIz/NTktMzEzNy5qcGVn.jpeg"
+    - "https://i.discogs.com/GwlyvFfjubYBRl_Q6530MOEsZYoFYwSfQ15afvS_Q_A/rs:fit/g:sm/q:90/h:600/w:592/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwODcx/NDU3LTE2MzYxOTIz/NjgtNTc1Ni5qcGVn.jpeg"
+    - "https://i.discogs.com/TpMrDfoZO4lsjH3HZcGdbWuWS9AHnYpqdCgs9vj61iY/rs:fit/g:sm/q:90/h:600/w:569/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwODcx/NDU3LTE2MzYxOTI0/NjctMjY1NS5qcGVn.jpeg"
 genres: ["Rock"]
 styles: ["Psychedelic Rock"]
 ---
@@ -47,6 +47,7 @@ styles: ["Psychedelic Rock"]
 {{< youtube id="3SAs3xtNG4g" title="Bill Fisher - In the Morning (Official Visualiser Video)" >}}<br>
 ### More Videos
 
+- [Bill Fisher - In the Morning (Official Visualiser Video)](https://www.youtube.com/watch?v=3SAs3xtNG4g)
 - [Bill Fisher - Hallucinations of a Higher Truth (Full Album 2021)](https://www.youtube.com/watch?v=pAANiKCOzgw)
 
 ## Release Images

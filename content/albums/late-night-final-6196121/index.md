@@ -16,15 +16,18 @@ additional_images:
     - "https://i.discogs.com/cFZsFN91DEDBO8xjCZa4D2SlBDejDHNFTKlkCZzr2FQ/rs:fit/g:sm/q:90/h:593/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYxOTYx/MjEtMTQzNDg4OTUy/Ni01ODQ2LmpwZWc.jpeg"
     - "https://i.discogs.com/ilsfqq3FiLYPsYije8S2IAASO-yLn5PX1-OvAIl256o/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYxOTYx/MjEtMTQzNDg4OTUy/Ni0yMzQ2LmpwZWc.jpeg"
     - "https://i.discogs.com/CeZlAi3vdt1-vx9-I5ZDmvA6qwCZ3iIIh6643V9YjD4/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYxOTYx/MjEtMTQzNDg4OTUy/NS04NTMwLmpwZWc.jpeg"
-    - "https://i.discogs.com/1DZKMjQi1hdv4xVr1Ay_ydX7h583k4kpdhAO2rEU54g/rs:fit/g:sm/q:90/h:606/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYxOTYx/MjEtMTQzNDg4OTUy/MC00NDYxLmpwZWc.jpeg"
+    - "https://i.discogs.com/PRFRoYVylEU-opsUMMqtsiZqgJ5WhPmxj1jwfV32X8s/rs:fit/g:sm/q:90/h:600/w:593/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYxOTYx/MjEtMTQzNDg4OTUy/MC00NDYxLmpwZWc.jpeg"
     - "https://i.discogs.com/g4FYsZ3oSVSqPvVopEjTHdc8Pdz2lsHCpmct_YphdGw/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYxOTYx/MjEtMTQzNDg4OTUy/My04OTM5LmpwZWc.jpeg"
 genres: ["Rock"]
 styles: ["Alternative Rock"]
 ---
 
 Late Night Final is the second studio album (and first full-length album after the mini-album Richard Hawley released six months earlier) from musician Richard Hawley, released in the UK in October 2001 by Setanta Records. Named after the cry of vendors selling the Sheffield Star evening newspaper on the streets of his home city, it was released to positive reviews. A single, "Baby, You're My Light" was released from the album in February 2002, reaching #81 in the UK Singles Chart.
-Scottish band Camera Obscura later covered "The Nights Are Cold" and released it as a single in May 2010. In turn, Hawley remixed their song "The Sweetest Thing" for the single's B-side.A short clip of the song "Long Black Train" was used in the 2005 film V for Vendetta, but did not feature on the accompanying soundtrack album.
+Scottish band Camera Obscura later covered "The Nights Are Cold" and released it as a single in May 2010. In turn, Hawley remixed their song "The Sweetest Thing" for the single's B-side.
+A short clip of the song "Long Black Train" was used in the 2005 film V for Vendetta, but did not feature on the accompanying soundtrack album.
 The album's front cover and inner artwork feature photographs taken in the Castle Market indoor market in Sheffield.
+
+
     
     
 
@@ -47,11 +50,22 @@ The album's front cover and inner artwork feature photographs taken in the Castl
 
 
 ## Videos
-### Something Is
-{{< youtube id="Msf2bU9MJmU" title="Something Is" >}}<br>
+### Baby You're My Light
+{{< youtube id="QUeLj2xguHI" title="Baby You're My Light" >}}<br>
 ### More Videos
 
+- [Something Is](https://www.youtube.com/watch?v=Msf2bU9MJmU)
+- [Love of My Life](https://www.youtube.com/watch?v=lFNLxKh66fA)
+- [The Nights Are Cold](https://www.youtube.com/watch?v=PQWxJGXsb3I)
+- [Can You Hear the Rain Love](https://www.youtube.com/watch?v=CYAa5970h-4)
+- [Lonely Night](https://www.youtube.com/watch?v=Tw1stITSY5E)
+- [Precious Sight](https://www.youtube.com/watch?v=k9KAeod9Le8)
+- [No Way Home](https://www.youtube.com/watch?v=YJVr9bCrC0w)
+- [Cry a Tear for the Man On the Moon](https://www.youtube.com/watch?v=J7hESbgte8M)
+- [Long Black Train](https://www.youtube.com/watch?v=wQmy0pbrGXY)
+- [The Light At the End of the Tunnel (Was a Train Coming the Other Way)](https://www.youtube.com/watch?v=jIYdJeRYNSo)
 - [Baby You're My Light](https://www.youtube.com/watch?v=QUeLj2xguHI)
+- [Something Is](https://www.youtube.com/watch?v=Msf2bU9MJmU)
 - [Love of My Life](https://www.youtube.com/watch?v=lFNLxKh66fA)
 - [The Nights Are Cold](https://www.youtube.com/watch?v=PQWxJGXsb3I)
 - [Can You Hear the Rain Love](https://www.youtube.com/watch?v=CYAa5970h-4)

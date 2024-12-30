@@ -16,12 +16,13 @@ additional_images:
     - "https://i.discogs.com/vFvXOvWt5I8bZt_dzTPg_T50P0fWFBqkC7Bx1Irf_s8/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3MjY5/MjU1LTE2MTI1Mzc0/NzUtNTc2Ni5qcGVn.jpeg"
     - "https://i.discogs.com/BC6medEh1esFrp7m8NYozVD4txwfkGo3QwtIxLK76u4/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3MjY5/MjU1LTE2MTI1MzY4/NzgtNjc0Ni5qcGVn.jpeg"
     - "https://i.discogs.com/Q8Ml5eTjNWk6rjIFzRrTB7059LTNvYKkXLfUhPD40mk/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3MjY5/MjU1LTE2MTI1MzY4/NzgtNDIwNy5qcGVn.jpeg"
-    - "https://i.discogs.com/VwMWDZS6zrF1nHR4eyfIRWxdxstDnsy3MTQlDduoEQI/rs:fit/g:sm/q:90/h:671/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3MjY5/MjU1LTE2MTM3NDM3/OTUtNDU5NS5qcGVn.jpeg"
+    - "https://i.discogs.com/s6ffWJLqAp50R-Ya8N1SgKnr45O2MtAfn48w5sQiMWQ/rs:fit/g:sm/q:90/h:600/w:535/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3MjY5/MjU1LTE2MTM3NDM3/OTUtNDU5NS5qcGVn.jpeg"
 genres: ["Rock"]
 styles: ["Alternative Rock", "Britpop", "Glam"]
 ---
 
-See You in the Next Life... is a fan-club release album by the English alternative rock band Suede, released in 2004.The album was limited to 2,000 copies and is mostly demos and remixes of previously released songs. "Elaine Paige" is an alternate version of "Another No One", a B-side on the "Trash" CD2 single. "La Puissance" is a live version of "The Power" (from Suede's Dog Man Star album) sung in French.
+See You in the Next Life... is a fan-club release album by the English alternative rock band Suede, released in 2004.
+The album was limited to 2,000 copies and is mostly demos and remixes of previously released songs. "Elaine Paige" is an alternate version of "Another No One", a B-side on the "Trash" CD2 single. "La Puissance" is a live version of "The Power" (from Suede's Dog Man Star album) sung in French.
 On 29 August 2020, the band and Demon Records released a red vinyl edition for Record Store Day, marking the first edition in this format.
     
     
@@ -43,7 +44,7 @@ On 29 August 2020, the band and Demon Records released a red vinyl edition for R
 13. Still Life (Strings) (5:19)
 
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/see-you-in-the-next-life/1485580531" >}}<br>
+{{< applemusic url="https://music.apple.com/gb/album/see-you-in-the-next-life/1529578693" >}}<br>
 
 
 

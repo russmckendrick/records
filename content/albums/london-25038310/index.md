@@ -21,6 +21,11 @@ genres: ["Electronic", "Rock"]
 styles: ["Alternative Rock", "Synth-pop"]
 ---
 
+London is the fifth album by the British rock band Jesus Jones in 2001 through Koch Records. Following the commercial failure of 1997's Already which led to the band and EMI parting ways, the band took a hiatus before regathering for the recording of London for Koch/Mi5 Recordings, with a more alternative rock approach as opposed to the techno sounds on their previous albums. The album had low-key promotion, initially only being released in the United States.   Two EP's were released from the album, "Nowhere Slow" and "In the Face Of All This".
+
+
+    
+    
 
 
 ## Tracklisting
@@ -49,6 +54,7 @@ styles: ["Alternative Rock", "Synth-pop"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
+| Wikipedia URL | https://en.wikipedia.org/wiki/London_(Jesus_Jones_album) |
 | Format         | Vinyl LP Album Reissue (White) |
 | Label          | Demon Records |
 | Catalog Number | DEMREC956 |

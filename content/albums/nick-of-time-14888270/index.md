@@ -12,10 +12,10 @@ cover:
     alt: "Nick Of Time by The James Hunter Six"
     caption: "Nick Of Time by The James Hunter Six"
 additional_images:
-    - "https://i.discogs.com/jENYKgR5403nARzhqVFHd-2zPvhiD2NxSH0-y2WD6nk/rs:fit/g:sm/q:90/h:604/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0ODg4/MjcwLTE1ODM2MTEz/MjAtNTY2My5qcGVn.jpeg"
-    - "https://i.discogs.com/Ap3J_YeCcEq9AVKjRdocTilAffmh31HIaBJSdZE2sd0/rs:fit/g:sm/q:90/h:604/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0ODg4/MjcwLTE1ODM2MTEz/MjEtNDg1My5qcGVn.jpeg"
-    - "https://i.discogs.com/Q21YNjE18BOlKEP4R1eVyLTR4900eTSiBc1KO8V1sjA/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0ODg4/MjcwLTE1ODM2MTEz/MjMtODgwMy5qcGVn.jpeg"
-    - "https://i.discogs.com/Bk3xmbIXEr66OHsJbzA6FU6b5r-G4dEEg-Ibcheb7CE/rs:fit/g:sm/q:90/h:602/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0ODg4/MjcwLTE1ODM2MTEz/MjMtNTI0NS5qcGVn.jpeg"
+    - "https://i.discogs.com/RmVfGVankHvwbx6PjB2CY0pLry0614H62jUFwRJOBpg/rs:fit/g:sm/q:90/h:600/w:595/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0ODg4/MjcwLTE1ODM2MTEz/MjAtNTY2My5qcGVn.jpeg"
+    - "https://i.discogs.com/IN79RuyObmYAd_-UmyHkpzlRsdJ1G60dYpFoHA-agDo/rs:fit/g:sm/q:90/h:600/w:595/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0ODg4/MjcwLTE1ODM2MTEz/MjEtNDg1My5qcGVn.jpeg"
+    - "https://i.discogs.com/M0MGdfafN0-sIN4oWR38coAj8jy_Q0N72eseoU5i_1A/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0ODg4/MjcwLTE1ODM2MTEz/MjMtODgwMy5qcGVn.jpeg"
+    - "https://i.discogs.com/wC-HE1ilVM-Um3M4PbN_h4wE42XHQfZ0t5_lgnv8UKY/rs:fit/g:sm/q:90/h:600/w:597/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0ODg4/MjcwLTE1ODM2MTEz/MjMtNTI0NS5qcGVn.jpeg"
     - "https://i.discogs.com/KoaixVVmERenKjOEnx_1mHMoo3gMw_kFHVV4QFB6eFs/rs:fit/g:sm/q:90/h:372/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0ODg4/MjcwLTE1ODM2MTEz/MjItMjU1MC5qcGVn.jpeg"
     - "https://i.discogs.com/F2KbPLHdr0qU68HW4Uzurr3ZNbuMArfL6EPF-Q6zy-M/rs:fit/g:sm/q:90/h:592/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0ODg4/MjcwLTE1ODQ2OTE3/MjEtOTQ3OC5qcGVn.jpeg"
 genres: ["Funk / Soul"]
@@ -60,6 +60,19 @@ styles: ["Soul"]
 - [How 'Bout Now](https://www.youtube.com/watch?v=y2mTWUtqkeI)
 - [Paradise for One](https://www.youtube.com/watch?v=gFIm8_lPJpw)
 - [He's Your Could've Been](https://www.youtube.com/watch?v=BWIl0SWwCbs)
+- [I Can Change Your Mind](https://www.youtube.com/watch?v=h-7hfMvA6Lc)
+- [Who's Fooling Who](https://www.youtube.com/watch?v=FEooO3WtAv4)
+- [Till I Hear It From You](https://www.youtube.com/watch?v=C-OPn3Y3krE)
+- [Never](https://www.youtube.com/watch?v=USWqRiFo8nM)
+- [Missing in Action](https://www.youtube.com/watch?v=Asc2oHBZgok)
+- [Nick of Time](https://www.youtube.com/watch?v=CSuYDcgNusc)
+- [Brother or Other](https://www.youtube.com/watch?v=ziRNbu8pOSE)
+- [Ain't Goin' Up in One of Those Things](https://www.youtube.com/watch?v=2dDBZodjoVI)
+- [Take It As You Find It](https://www.youtube.com/watch?v=EAYUA_OJK3I)
+- [Can't Help Myself](https://www.youtube.com/watch?v=7pe-TYXpDWc)
+- [How 'Bout Now](https://www.youtube.com/watch?v=y2mTWUtqkeI)
+- [Paradise for One](https://www.youtube.com/watch?v=gFIm8_lPJpw)
+- [He's Your Could've Been](https://www.youtube.com/watch?v=BWIl0SWwCbs)
 
 ## Release Images
 {{< imageGrid >}}
@@ -70,5 +83,5 @@ styles: ["Soul"]
 | Format         | Vinyl LP Album Mono |
 | Label          | Daptone Records |
 | Catalog Number | DAP-061 |
-| Notes | In memory of Jim Cotte, 1936-2019  Recorded to 8-tracks at Penrose Recorders - Daptone West, Riverside, CA.  Another Bosco Mann Production  ℗ 2020, Daptone Records Daptone Recording Co., 115 Troutman St., Brooklyn, NY 11206  All songs [...] Stoketone Publishing, PRS  Includes MP3 download card |
+| Notes | In memory of Jim Cotte, 1936-2019  Recorded to 8-tracks at Penrose Recorders - Daptone West, Riverside, CA.  Another Bosco Mann Production  © 2020, Daptone Records Daptone Recording Co., 115 Troutman St., Brooklyn, NY 11206  All songs [...] Stoketone Publishing, PRS  Includes MP3 download card |
 | Discogs URL    | [The James Hunter Six - Nick Of Time](https://www.discogs.com/release/14888270-The-James-Hunter-Six-Nick-Of-Time) |

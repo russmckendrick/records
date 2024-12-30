@@ -56,6 +56,15 @@ Here, Mason emerges from insularity to seize the day on the title track’s coun
 - [No Clue](https://www.youtube.com/watch?v=jcrD5EBKhw4)
 - [Stars Around My Heart](https://www.youtube.com/watch?v=KLxAlOobhf4)
 - [Walking Away from Love](https://www.youtube.com/watch?v=9SfZEou56sU)
+- [Steve Mason - About  the light](https://www.youtube.com/watch?v=8jPy090dfPg)
+- [Rocket](https://www.youtube.com/watch?v=3ko96ZE8lvk)
+- [Fox on the Rooftop](https://www.youtube.com/watch?v=gjNO4fSv4hM)
+- [About the Light](https://www.youtube.com/watch?v=iNq9vi7w1CA)
+- [Steve Mason - Fox on the rooftop](https://www.youtube.com/watch?v=HPgygTsLH-A)
+- [America Is Your Boyfriend](https://www.youtube.com/watch?v=qkLt8csF5eI)
+- [No Clue](https://www.youtube.com/watch?v=jcrD5EBKhw4)
+- [Stars Around My Heart](https://www.youtube.com/watch?v=KLxAlOobhf4)
+- [Walking Away from Love](https://www.youtube.com/watch?v=9SfZEou56sU)
 
 ## Release Images
 {{< imageGrid >}}
@@ -68,4 +77,4 @@ Here, Mason emerges from insularity to seize the day on the title track’s coun
 | Label          | Double Six (2) |
 | Catalog Number | DS121LP |
 | Notes | Indies Silver vinyl version.  (i.e.with no lenticular print insert of the front cover, version).  Download card for MP3 and WAV files included.  Some copies issued with a sticker applied to the shrinkwrap with alternative catalogue number DSS121LPX and barcode listed. |
-| Discogs URL    | [Steve Mason - About The Light](https://www.discogs.com/release/13072237-Steve-Mason-About-The-Light) |
+| Discogs URL    | [Steve Mason - About The Light](https://www.discogs.com/release/13072237-Steve-Mason-2-About-The-Light) |

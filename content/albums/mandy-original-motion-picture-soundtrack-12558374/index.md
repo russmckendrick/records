@@ -18,9 +18,9 @@ additional_images:
     - "https://i.discogs.com/_wxB3a_5QG9CpV9j3GniiEIP0BFETeeLFINU-qr4nLk/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNTU4/Mzc0LTE2NTU2NTM0/MzAtNDg3My5qcGVn.jpeg"
     - "https://i.discogs.com/uotORQ5vIm-dUPG3_oSkcn4-Fv8WfKjTj9irNmkV2N8/rs:fit/g:sm/q:90/h:586/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNTU4/Mzc0LTE1NjE4NzQ3/NzEtMTAzNC5qcGVn.jpeg"
     - "https://i.discogs.com/i8ezGGTaI5kIZJRyqIy2Dwq_06FaYwPHLFX8OBzEPcI/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNTU4/Mzc0LTE1NjE4NzQ3/NzEtODMwMi5qcGVn.jpeg"
-    - "https://i.discogs.com/OCTRX_rXU9g6N2DPJzXegk5bNnSUafPVhM1fScQjMG0/rs:fit/g:sm/q:90/h:603/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNTU4/Mzc0LTE2NDE0MTMz/MDItNzQxOS5qcGVn.jpeg"
+    - "https://i.discogs.com/EMdMN4V9facSNbIBUzQADeYxJSIISPTiH80FULmkGfI/rs:fit/g:sm/q:90/h:600/w:596/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNTU4/Mzc0LTE2NDE0MTMz/MDItNzQxOS5qcGVn.jpeg"
     - "https://i.discogs.com/1TH7hx0hGLaJPhk5UhkzpjP2RSiGmFChDsL8SmYpxfo/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNTU4/Mzc0LTE2NDE0MTMy/OTYtMTAyNy5qcGVn.jpeg"
-    - "https://i.discogs.com/-Vt4fEer3CPxqgvVwEaR6WhWmRlQTfMtvcyIu5tqOJY/rs:fit/g:sm/q:90/h:608/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNTU4/Mzc0LTE2NDE0MTQw/OTctMTE1Mi5qcGVn.jpeg"
+    - "https://i.discogs.com/4CaBVtYvfwHz7QPa5TxN_UT1AXNCuxxVYx3z2JE1MQY/rs:fit/g:sm/q:90/h:600/w:591/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNTU4/Mzc0LTE2NDE0MTQw/OTctMTE1Mi5qcGVn.jpeg"
     - "https://i.discogs.com/xENQ3oy60Id3B4OIxFJqCR_ck55kXE9D7xnI0T7bGbI/rs:fit/g:sm/q:90/h:145/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNTU4/Mzc0LTE2NDE0MTMz/MTMtNDg0Ny5qcGVn.jpeg"
     - "https://i.discogs.com/GNxbjIkhulp9r2HmSS3zppt9_8f3DfBZxX3DyU87Ew8/rs:fit/g:sm/q:90/h:145/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNTU4/Mzc0LTE2NDE0MTMz/MDctODI0Ny5qcGVn.jpeg"
     - "https://i.discogs.com/Va4BzbXvsn5p45-Roc1VMFnhQIBPrWet3KumfP6UBWs/rs:fit/g:sm/q:90/h:445/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNTU4/Mzc0LTE1Mzc3MDQy/MzEtMzE0Mi5qcGVn.jpeg"
@@ -52,27 +52,13 @@ styles: ["Soundtrack", "Industrial", "Ambient", "Dark Ambient"]
 
 
 ## Videos
-### Jóhann Jóhannsson - Mandy (2018) OST - incl bonus track
-{{< youtube id="PKZEBhRX-TU" title="Jóhann Jóhannsson - Mandy (2018) OST - incl bonus track" >}}<br>
+### Children Of The New Dawn - Johann Johannsson - Mandy Soundtrack (Official Video)
+{{< youtube id="s6ARrtnMkzM" title="Children Of The New Dawn - Johann Johannsson - Mandy Soundtrack (Official Video)" >}}<br>
 ### More Videos
 
-- [Children Of The New Dawn - Johann Johannsson - Mandy Soundtrack (Official Video)](https://www.youtube.com/watch?v=s6ARrtnMkzM)
-- [Mandy 2018 Soundtrack | 03. Mandy Love Theme | Jóhann Jóhannsson OST](https://www.youtube.com/watch?v=ilaRNAPSUKc)
 - [Mandy Love Theme](https://www.youtube.com/watch?v=72ye1IMywrQ)
-- [Mandy 2018 Soundtrack | 14. Memories | Jóhann Jóhannsson OST](https://www.youtube.com/watch?v=F8LZgBxLp9I)
-- [Mandy 2018 Soundtrack | 02. Starling | Jóhann Jóhannsson OST](https://www.youtube.com/watch?v=P8TDr8XmIzY)
-- [Mandy 2018 Soundtrack | 01. Seeker of the Serpent's Eye | Jóhann Jóhannsson OST](https://www.youtube.com/watch?v=XkwtifENU1c)
-- [Mandy 2018 Soundtrack | 07. Sand | Jóhann Jóhannsson OST](https://www.youtube.com/watch?v=5rMC2O3dWPs)
 - [Children of the New Dawn](https://www.youtube.com/watch?v=-KZxeSATdXI)
-- [Mandy 2018 Soundtrack | 12. Temple | Jóhann Jóhannsson OST](https://www.youtube.com/watch?v=6ylbxJqRkqc)
-- [Mandy 2018 Soundtrack | 11. Waste | Jóhann Jóhannsson OST](https://www.youtube.com/watch?v=kmmnk0FZsoc)
-- [Mandy 2018 Soundtrack | 15. Children of the New Dawn | Jóhann Jóhannsson OST](https://www.youtube.com/watch?v=_XwmduN4WfA)
-- [Mandy 2018 Soundtrack | 09. Forging the Beast | Jóhann Jóhannsson OST](https://www.youtube.com/watch?v=pmaFn3iqpV8)
-- [Mandy 2018 Soundtrack | 13. Burning Church | Jóhann Jóhannsson OST](https://www.youtube.com/watch?v=BlAAym8Zkpk)
-- [Mandy 2018 Soundtrack | 05. Black Skulls | Jóhann Jóhannsson OST](https://www.youtube.com/watch?v=xdeJeW-onTo)
 - [Mandy - Johann Johannsson - Soundtrack Preview (Official Video)](https://www.youtube.com/watch?v=ZTZWaH7R8g0)
-- [Mandy 2018 Soundtrack | 08. Red | Jóhann Jóhannsson OST](https://www.youtube.com/watch?v=SSjKG4tUYIA)
-- [Mandy 2018 Soundtrack | 06. Death and Ashes | Jóhann Jóhannsson OST](https://www.youtube.com/watch?v=oFJ5AKF0WKw)
 
 ## Release Images
 {{< imageGrid >}}
@@ -84,4 +70,4 @@ styles: ["Soundtrack", "Industrial", "Ambient", "Dark Ambient"]
 | Label          | Lakeshore Records |
 | Catalog Number | LKSINV203LP |
 | Notes | Translucent red, 140g vinyl.  Deluxe gatefold sleeve. Printed on reverse board, with gloss spot varnish artwork and a wrap-around paper band. Includes 2-sided insert.  Repressed in October 2018.  © 2018  Lakeshore Records LLC. |
-| Discogs URL    | [Jóhann Jóhannsson - Mandy (Original Motion Picture Soundtrack)](https://www.discogs.com/release/12558374-J%C3%B3hann-J%C3%B3hannsson-Mandy-Original-Motion-Picture-Soundtrack) |
+| Discogs URL    | [Jóhann Jóhannsson - Mandy (Original Motion Picture Soundtrack)](https://www.discogs.com/release/12558374-Jóhann-Jóhannsson-Mandy-Original-Motion-Picture-Soundtrack) |

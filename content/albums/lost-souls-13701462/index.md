@@ -25,6 +25,12 @@ genres: ["Rock"]
 styles: ["Space Rock", "Indie Rock"]
 ---
 
+Lost Souls is the debut studio album by British indie rock band Doves, released by Heavenly Recordings on 3 April 2000. The album was recorded over a period of several years, following the dissolution of Doves' original musical incarnation as house music act Sub Sub. Lost Souls was a moderate chart success in the UK; the album peaked at number 16, while the three singles taken from the album charted in the Top 40.
+Lost Souls was considered by many to be the best debut album by a British act since Oasis' Definitely Maybe. It was met with positive critical acclaim and was a shortlist nominee for the Mercury Prize in 2000. The album was roundly praised on its release for its blending of claustrophobic intensity and euphoria, the sonic influences from electronic music present in its textures and for being "the perfect after-hours soundtrack."
+
+
+    
+    
 
 
 ## Tracklisting
@@ -50,15 +56,16 @@ styles: ["Space Rock", "Indie Rock"]
 {{< youtube id="RadUfjnnqOE" title="Doves - The Cedar Room" >}}<br>
 ### More Videos
 
-- [Doves 'Firesuite](https://www.youtube.com/watch?v=YDMbFjQZCkM)
+- [Doves 'Firesuite"](https://www.youtube.com/watch?v=YDMbFjQZCkM)
 - [Doves - Break Me Gently](https://www.youtube.com/watch?v=2ct3Ia7HwPc)
-- [doves- catch the sun original video](https://www.youtube.com/watch?v=KqlIFLb6jU0)
 - [Doves - Rise](https://www.youtube.com/watch?v=supe-yD0fX4)
 - [Doves Lost Souls](https://www.youtube.com/watch?v=55G56ToTXYk)
 - [Doves - The Man Who Told Everything (HQ)](https://www.youtube.com/watch?v=Gd5g7X9KPB4)
-- [Doves Reprise](https://www.youtube.com/watch?v=bcIX1kH_tR8)
+- [Doves "Reprise"](https://www.youtube.com/watch?v=bcIX1kH_tR8)
 - [Doves - Sea song (HD) (Lost Souls 2000)](https://www.youtube.com/watch?v=cO6pGcdD_mE)
 - [Doves - Lost Souls](https://www.youtube.com/watch?v=QCmvW7MLMA0)
+- [doves- catch the sun original video](https://www.youtube.com/watch?v=KqlIFLb6jU0)
+- [Doves - The Cedar Room](https://www.youtube.com/watch?v=RadUfjnnqOE)
 - [Doves - Here It Comes](https://www.youtube.com/watch?v=kthMTQs61ic)
 
 ## Release Images
@@ -67,6 +74,7 @@ styles: ["Space Rock", "Indie Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
+| Wikipedia URL | https://en.wikipedia.org/wiki/Lost_Souls_(Doves_album) |
 | Format         | Vinyl 2× LP Album Limited Edition Numbered Reissue (Grey) |
 | Label          | Heavenly |
 | Catalog Number | 7748262 |

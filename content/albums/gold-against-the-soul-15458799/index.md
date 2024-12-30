@@ -12,18 +12,24 @@ cover:
     alt: "Gold Against The Soul by Manic Street Preachers"
     caption: "Gold Against The Soul by Manic Street Preachers"
 additional_images:
-    - "https://i.discogs.com/fIQOyY3FM4X6IGaOqUbjLF18ssmloeaa76MPjrDgVic/rs:fit/g:sm/q:90/h:603/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NDU4/Nzk5LTE1OTIxNDYx/NDgtMzU4NS5qcGVn.jpeg"
+    - "https://i.discogs.com/UuUhBiG4k63OPHQbk0ZqrpowY9Lvhjy2ZoDFbv3FGDE/rs:fit/g:sm/q:90/h:600/w:596/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NDU4/Nzk5LTE1OTIxNDYx/NDgtMzU4NS5qcGVn.jpeg"
     - "https://i.discogs.com/msaxmxiX62Wnj1VnrR8ekgv8_sq9bUn84xDff1a0nh4/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NDU4/Nzk5LTE1OTIxNDYx/NDgtNzY4NC5qcGVn.jpeg"
     - "https://i.discogs.com/TL-jKjxbY8-Eih8oiKo81B4Qn6JhyzvKN0DSxOJxljk/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NDU4/Nzk5LTE1OTIxNDYx/NTgtOTQ1NC5qcGVn.jpeg"
     - "https://i.discogs.com/z7sbjHY2zQ8_DPpCV6bIx7rYe8xpVO5S044y2ix5XTc/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NDU4/Nzk5LTE1OTIxNDYx/NTYtMTk2Ny5qcGVn.jpeg"
-    - "https://i.discogs.com/y3zyYJFc-scXmOfHzN4UeI3Or7C6wVxri4_-hwgFgww/rs:fit/g:sm/q:90/h:603/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NDU4/Nzk5LTE1OTIxNDYx/NTMtNTU4OC5qcGVn.jpeg"
-    - "https://i.discogs.com/JMGlPeSBBJ8s5vkXpIF0LTYKckZ3v0psQLs59bLjZxI/rs:fit/g:sm/q:90/h:606/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NDU4/Nzk5LTE1OTIxNDYx/NTUtNjgyMi5qcGVn.jpeg"
+    - "https://i.discogs.com/K62tZN52SKIFnCSpauv2VY3014EBH105VIk5mZp8z1o/rs:fit/g:sm/q:90/h:600/w:596/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NDU4/Nzk5LTE1OTIxNDYx/NTMtNTU4OC5qcGVn.jpeg"
+    - "https://i.discogs.com/1syVkQYUcXlRkXQ6TL4ec7xqtxSr-AjV7QzZ7e3mMoY/rs:fit/g:sm/q:90/h:600/w:593/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NDU4/Nzk5LTE1OTIxNDYx/NTUtNjgyMi5qcGVn.jpeg"
     - "https://i.discogs.com/XXjV02S3CF_p8dJA6_IeJQMfPGG5opU7rDwLQwobC58/rs:fit/g:sm/q:90/h:592/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NDU4/Nzk5LTE2MDQ2OTA4/MTYtMzcyNS5qcGVn.jpeg"
     - "https://i.discogs.com/2dzrGs96tbjaEECUYwDrSoWsWKFlBpXchYisEgjVSo4/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NDU4/Nzk5LTE2MDQ2OTA4/MTYtNzQ0Mi5qcGVn.jpeg"
 genres: ["Rock"]
 styles: ["Alternative Rock"]
 ---
 
+Gold Against the Soul is the second studio album by Welsh alternative rock band Manic Street Preachers, released on 21 June 1993 by Columbia Records. The follow-up to the band's 1992 debut album Generation Terrorists, the record reached No.8 on the UK Albums Chart.
+Gold Against the Soul takes to an extreme the hard rock sound of its predecessor and saw the band experiment with styles including funk and the then-contemporary grunge. The album's lyrical themes owed little to the political and social commentaries of its predecessor, and instead explored more personal themes of depression, melancholy and nostalgia.
+
+
+    
+    
 
 
 ## Tracklisting
@@ -45,23 +51,7 @@ styles: ["Alternative Rock"]
 ## Videos
 ### Manic Street Preachers - La Tristesse Durera (Scream to a Sigh)
 {{< youtube id="zJzwIFyZfck" title="Manic Street Preachers - La Tristesse Durera (Scream to a Sigh)" >}}<br>
-### More Videos
 
-- [Manic Street Preachers - Gold Against the Soul (Audio)](https://www.youtube.com/watch?v=xJw2KqxlLho)
-- [Gold Against the Soul (Remastered)](https://www.youtube.com/watch?v=X_Q8YEr_GQU)
-- [Manic Street Preachers - Sleepflower (Audio)](https://www.youtube.com/watch?v=K4Wqb5LerKk)
-- [From Despair to Where (Remastered)](https://www.youtube.com/watch?v=REK6Q6a2PQE)
-- [Manic Street Preachers - From Despair To Where](https://www.youtube.com/watch?v=zF3VRIcYkAU)
-- [Manic Street Preachers - Gold Against The Soul](https://www.youtube.com/watch?v=U-HSjtwmbeI)
-- [La Tristesse Durera (Scream to a Sigh) (House in the Woods Demo) (Remastered)](https://www.youtube.com/watch?v=nBmAo-gy4Wo)
-- [Manic Street Preachers - Sleepflower [Gold Against the Soul (1993)]](https://www.youtube.com/watch?v=Nhy36oGWgNs)
-- [From Despair to Where (House in the Woods Demo) (Remastered)](https://www.youtube.com/watch?v=gQnMvWx0xB0)
-- [Sleepflower (Remastered)](https://www.youtube.com/watch?v=CZLU57Xge9c)
-- [Roses in the Hospital (Remastered)](https://www.youtube.com/watch?v=qNZNsOKtX-U)
-- [Roses in the Hospital (House in the Woods Demo) (Remastered)](https://www.youtube.com/watch?v=FR0WT7rx-Bo)
-- [Sleepflower (House in the Woods Demo) (Remastered)](https://www.youtube.com/watch?v=NCBLSOwAurY)
-- [Symphony of Tourette (House in the Woods Demo) (Remastered)](https://www.youtube.com/watch?v=3Pgui4hr9SA)
-- [Gold Against The Soul - Trailer](https://www.youtube.com/watch?v=8qaD-U7fS24)
 
 ## Release Images
 {{< imageGrid >}}
@@ -69,6 +59,7 @@ styles: ["Alternative Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
+| Wikipedia URL | https://en.wikipedia.org/wiki/Gold_Against_the_Soul |
 | Format         | Vinyl LP Album Reissue Remastered |
 | Label          | Columbia |
 | Catalog Number | 19439733611 |

@@ -18,8 +18,8 @@ additional_images:
     - "https://i.discogs.com/9_UgSDPqOE20v-t6-jsoIzcq9DLGfuTV8-PELEZINGQ/rs:fit/g:sm/q:90/h:593/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2ODE0/NzUtMTYxNjc1Njcx/Mi02MDkxLmpwZWc.jpeg"
     - "https://i.discogs.com/roYpCOEoDap4lg5SRkTP0VzmjOl7pYrxDKYfSgbRrYo/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2ODE0/NzUtMTYxNjc1Njcw/Ny0yMzk4LmpwZWc.jpeg"
     - "https://i.discogs.com/KiUZRgVlzcC-a_fU8uemLIEOUBO2cC6NuzM5tde4lW0/rs:fit/g:sm/q:90/h:594/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2ODE0/NzUtMTYxNjc1Njcy/MC00NTMwLmpwZWc.jpeg"
-    - "https://i.discogs.com/BTmX_N5Ut9Ex-rdlFNuA579L8QHeUwTTrkYXPtA6CyM/rs:fit/g:sm/q:90/h:612/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2ODE0/NzUtMTYxNjc1Njcx/My04ODc2LmpwZWc.jpeg"
-    - "https://i.discogs.com/cpSnSdy_gkYA-qnEPcWOXq0h_hWMO7hlYf5Ucp4vtFI/rs:fit/g:sm/q:90/h:1344/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2ODE0/NzUtMTYxNjc1Njcw/OC03OTMxLmpwZWc.jpeg"
+    - "https://i.discogs.com/aO8SpG18iiiiiXlY3bSjVc2Lcx4au81TK7TeoZMZ91c/rs:fit/g:sm/q:90/h:600/w:587/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2ODE0/NzUtMTYxNjc1Njcx/My04ODc2LmpwZWc.jpeg"
+    - "https://i.discogs.com/6TKwgqfTTThLP7N6eAH4p1ew1sUM08relnNNOQNnUaE/rs:fit/g:sm/q:90/h:600/w:267/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2ODE0/NzUtMTYxNjc1Njcw/OC03OTMxLmpwZWc.jpeg"
 genres: ["Funk / Soul"]
 styles: ["Soul", "Rhythm & Blues"]
 ---
@@ -44,7 +44,7 @@ No Time for Dreaming is the debut studio album by American soul singer Charles B
 12. Heartaches And Pain
 
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/no-time-for-dreaming-feat-menahan-street-band/1485045964" >}}<br>
+{{< applemusic url="https://music.apple.com/gb/album/no-time-for-dreaming-the-instrumentals/1484982503" >}}<br>
 
 
 ## Videos
@@ -52,6 +52,12 @@ No Time for Dreaming is the debut studio album by American soul singer Charles B
 {{< youtube id="MTy7ugrSFz4" title="OFFICIAL VIDEO: Charles Bradley - The World (Is Going Up In Flames) - Feat. Menahan Street Band" >}}<br>
 ### More Videos
 
+- [CHARLES BRADLEY - No Time For Dreamin'](https://www.youtube.com/watch?v=b_lAmspU8rQ)
+- [Charles Bradley & The Menahan Street Band - Lovin You Baby](https://www.youtube.com/watch?v=cJlXDNYJejs)
+- [OFFICIAL VIDEO: Charles Bradley - The World (Is Going Up In Flames) - Feat. Menahan Street Band](https://www.youtube.com/watch?v=MTy7ugrSFz4)
+- [CHARLES BRADLEY - No Time For Dreamin'](https://www.youtube.com/watch?v=b_lAmspU8rQ)
+- [Charles Bradley & The Menahan Street Band - Lovin You Baby](https://www.youtube.com/watch?v=cJlXDNYJejs)
+- [Charles Bradley feat The Sounds Of  Menahan Street Band  - Since our last goodbye](https://www.youtube.com/watch?v=CtZ-2ACChrQ)
 - [No Time For Dreaming (Instrumental)](https://www.youtube.com/watch?v=tdHABhSOd3E)
 - [How Long (Instrumental)](https://www.youtube.com/watch?v=qEAFQfLWPFY)
 - [Heartaches and Pain (Instrumental)](https://www.youtube.com/watch?v=B498xlbeeTg)
@@ -59,16 +65,13 @@ No Time for Dreaming is the debut studio album by American soul singer Charles B
 - [Trouble in the Land (Instrumental)](https://www.youtube.com/watch?v=NLvx0Hw4-Vg)
 - [Lovin' You, Baby (Instrumental)](https://www.youtube.com/watch?v=8fuMl5vqMu4)
 - [Since Our Last Goodbye (Instrumental)](https://www.youtube.com/watch?v=thZr2mmGhdk)
-- [Charles Bradley feat The Sounds Of  Menahan Street Band  - Since our last goodbye](https://www.youtube.com/watch?v=CtZ-2ACChrQ)
 - [Eyes on the Prize (Instrumental)](https://www.youtube.com/watch?v=61lZH-HZqAo)
 - [The Telephone Song (Instrumental)](https://www.youtube.com/watch?v=WG2p4ZcgeH8)
 - [Heart of Gold (Instrumental)](https://www.youtube.com/watch?v=wPXQSjVb2gQ)
-- [Charles Bradley - Why Is It So Hard (Live on KEXP)](https://www.youtube.com/watch?v=yBdTVmSVq14)
 - [Charles Bradley - Revelations (Instrumental)](https://www.youtube.com/watch?v=psXy2qdPxWM)
 - [Slow Love (Instrumental)](https://www.youtube.com/watch?v=ZP920ZDgcjk)
+- [Charles Bradley - Why Is It So Hard (Live on KEXP)](https://www.youtube.com/watch?v=yBdTVmSVq14)
 - [Heart of Gold](https://www.youtube.com/watch?v=kDJPIUibna8)
-- [CHARLES BRADLEY - No Time For Dreamin'](https://www.youtube.com/watch?v=b_lAmspU8rQ)
-- [Charles Bradley & The Menahan Street Band - Lovin You Baby](https://www.youtube.com/watch?v=cJlXDNYJejs)
 
 ## Release Images
 {{< imageGrid >}}

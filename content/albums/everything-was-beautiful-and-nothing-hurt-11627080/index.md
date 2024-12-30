@@ -15,16 +15,16 @@ additional_images:
     - "https://i.discogs.com/p9iE0sQRcOq-AwZj1oUv0iSNtgFzkX_t1jRGjIIHHhs/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNjI3/MDgwLTE2Nzk5NDcx/MzctMjAzOS5qcGVn.jpeg"
     - "https://i.discogs.com/-Bl2r9jSYgjowf6pATDAaN1OtYNqlAMIjMDparg3rWE/rs:fit/g:sm/q:90/h:294/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNjI3/MDgwLTE1MjE2NzIx/NTQtOTU5Ny5qcGVn.jpeg"
     - "https://i.discogs.com/CPvX_CTToSlZbzakDiUQB5hpdQWYU95vq_MOfMEJDc0/rs:fit/g:sm/q:90/h:592/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNjI3/MDgwLTE1MjE2NzIx/NTEtMzEwNC5qcGVn.jpeg"
-    - "https://i.discogs.com/TFf90dkGJoGqXkNfB70K2mmIxRUXXHa8_6wjSFFrpGw/rs:fit/g:sm/q:90/h:605/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNjI3/MDgwLTE1MjE2NzIx/NTMtNzEyMC5qcGVn.jpeg"
+    - "https://i.discogs.com/iYFE4QnMwj1SksD60ai3j6_4MwjYw2RX08Twt5CRwig/rs:fit/g:sm/q:90/h:600/w:594/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNjI3/MDgwLTE1MjE2NzIx/NTMtNzEyMC5qcGVn.jpeg"
     - "https://i.discogs.com/ZQQSdTfezevlhqmGrSfugt2UJMwuvP1-r1g1x1cXBzg/rs:fit/g:sm/q:90/h:587/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNjI3/MDgwLTE1MjE2NzIx/NTItODc3NC5qcGVn.jpeg"
     - "https://i.discogs.com/uATQGZNMQy-fTXzKEn7CU_wXd4-r34LmKgUrho07gRU/rs:fit/g:sm/q:90/h:584/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNjI3/MDgwLTE1MjE2NzIx/NTMtODY4NS5qcGVn.jpeg"
-    - "https://i.discogs.com/P8iM5tUk3nlVTEEi_GJpYTDneMnwY77KrKHeMkgOD8Y/rs:fit/g:sm/q:90/h:609/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNjI3/MDgwLTE1MjE2NzIx/NTUtNDMwOC5qcGVn.jpeg"
+    - "https://i.discogs.com/x_JRAriiJpwaswxqtdG9cM4vGQtthTvg9evpeFg46Wg/rs:fit/g:sm/q:90/h:600/w:590/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNjI3/MDgwLTE1MjE2NzIx/NTUtNDMwOC5qcGVn.jpeg"
     - "https://i.discogs.com/ocqCXOXgQe9Z5s1ZQ1zW99ExH3PsGEswg6THe0_NzlM/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNjI3/MDgwLTE1MjE2NzIx/NTAtNDEzMC5qcGVn.jpeg"
-    - "https://i.discogs.com/zOk1GIM1IRuVt3rBGGIsFTDp0dO3Mjuzw_GblI0B-uo/rs:fit/g:sm/q:90/h:603/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNjI3/MDgwLTE1MjE2NzIx/NTYtNzk3OS5qcGVn.jpeg"
-    - "https://i.discogs.com/TDn4HAqvDMAPsTuZJkUqJVQPfheYOddwMT4BIjcH5HI/rs:fit/g:sm/q:90/h:614/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNjI3/MDgwLTE1MjE2NzIx/NTEtMjcyMi5qcGVn.jpeg"
-    - "https://i.discogs.com/eA7qznHCsQsgnD0yzKG-bU_3u-7vQKs72-yEcLtxZAQ/rs:fit/g:sm/q:90/h:604/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNjI3/MDgwLTE1MjE2NzIx/NDgtODg0MC5qcGVn.jpeg"
-    - "https://i.discogs.com/kdcLYuQfZqP3VdasPPaeZbmj_iDFDTG9MLOCi_enQdA/rs:fit/g:sm/q:90/h:602/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNjI3/MDgwLTE1MjE2NzIx/NDctODg4OS5qcGVn.jpeg"
-    - "https://i.discogs.com/8-koGZ8Fcsd0fFU7Ol2dOzfqSFwz8eWAZ2mOpuA9zx8/rs:fit/g:sm/q:90/h:601/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNjI3/MDgwLTE1MjE2NzIx/NTQtMjA4My5qcGVn.jpeg"
+    - "https://i.discogs.com/KcVuvO8ny71qsVtRcmvyPy7ISBTesIZ6qeVBud3_gLU/rs:fit/g:sm/q:90/h:600/w:596/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNjI3/MDgwLTE1MjE2NzIx/NTYtNzk3OS5qcGVn.jpeg"
+    - "https://i.discogs.com/3_k_chGLFE_hokjqrxDVxKEXjeYPyRggUkwFuDvl8kk/rs:fit/g:sm/q:90/h:600/w:585/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNjI3/MDgwLTE1MjE2NzIx/NTEtMjcyMi5qcGVn.jpeg"
+    - "https://i.discogs.com/6yLkBRrz5wG2IFFCF9nGqQ5pWwO3X83UEVYtDXqjvMQ/rs:fit/g:sm/q:90/h:600/w:596/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNjI3/MDgwLTE1MjE2NzIx/NDgtODg0MC5qcGVn.jpeg"
+    - "https://i.discogs.com/1auKLdewgVbMEeZPeXw37ECtd3u4q4vw9ap9Jbhz1KU/rs:fit/g:sm/q:90/h:600/w:597/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNjI3/MDgwLTE1MjE2NzIx/NDctODg4OS5qcGVn.jpeg"
+    - "https://i.discogs.com/PZ3wBh-v-fAxs1KAdSKYWoIRQDuySfQZULePI1pYJIk/rs:fit/g:sm/q:90/h:600/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNjI3/MDgwLTE1MjE2NzIx/NTQtMjA4My5qcGVn.jpeg"
 genres: ["Electronic", "Folk, World, & Country"]
 styles: ["Ambient", "Downtempo", "Gospel", "Synth-pop", "Trip Hop"]
 ---
@@ -52,7 +52,16 @@ Everything Was Beautiful, and Nothing Hurt is the fifteenth studio album by Amer
 {{< applemusic url="https://music.apple.com/gb/album/everything-was-beautiful-and-nothing-hurt/1321127827" >}}<br>
 
 
+## Videos
+### Moby - Mere Anarchy (Official Video)
+{{< youtube id="BZcBjjfR-10" title="Moby - Mere Anarchy (Official Video)" >}}<br>
+### More Videos
 
+- [Moby - The Waste Of Suns (Official Audio)](https://www.youtube.com/watch?v=2IE38IloCJY)
+- [Moby - Like A Motherless Child (Official Video)](https://www.youtube.com/watch?v=xp0m08eOD5U)
+- [Moby - The Last Of Goodbyes (Official Audio)](https://www.youtube.com/watch?v=Df1S_WTG350)
+- [Moby - The Ceremony Of Innocence (Official Audio)](https://www.youtube.com/watch?v=P0w7rqtR4oQ)
+- [Moby - The Tired And The Hurt (Official Audio)](https://www.youtube.com/watch?v=UbditKR-BbU)
 
 ## Release Images
 {{< imageGrid >}}

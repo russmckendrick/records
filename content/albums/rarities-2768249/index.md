@@ -14,7 +14,7 @@ cover:
 additional_images:
     - "https://i.discogs.com/TY0TqNUn4CtPKFHEDr0KEYND-AtFJJXo7g0AaPz6LJk/rs:fit/g:sm/q:90/h:500/w:500/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3Njgy/NDktMTMwMDE2NjQy/Ny5qcGVn.jpeg"
     - "https://i.discogs.com/3DjKafFA4chymmyD6p1y1C6BpESPnCiWrJ1sfjClry8/rs:fit/g:sm/q:90/h:594/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3Njgy/NDktMTY3MTgwODEy/Mi00MTI2LmpwZWc.jpeg"
-    - "https://i.discogs.com/RLn50x1wp6tHmbWt7SyXBQDrTJRP2iOQNlmePGmA2sg/rs:fit/g:sm/q:90/h:601/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3Njgy/NDktMTY3MTgwODEy/NC05MzA1LmpwZWc.jpeg"
+    - "https://i.discogs.com/OwdthecUNCpxzOT07ArhWmPmM2N-cXN4z0-nH9MnGgI/rs:fit/g:sm/q:90/h:600/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3Njgy/NDktMTY3MTgwODEy/NC05MzA1LmpwZWc.jpeg"
     - "https://i.discogs.com/5dPbGCOAojdpXt0wP0NMkjqZ_6vlSdMr-mtGSkUCkJI/rs:fit/g:sm/q:90/h:593/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3Njgy/NDktMTY3MTgwODEy/My03OTI1LmpwZWc.jpeg"
     - "https://i.discogs.com/zCV_g8RBPuO_NXyA30l47ySGepLHhBXxTkZhjrNReF0/rs:fit/g:sm/q:90/h:593/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3Njgy/NDktMTY3MTgwODEy/NS0xNzUxLmpwZWc.jpeg"
     - "https://i.discogs.com/aMWusZbAce_i7FHdQY7YzRobpon-yGT22E1i-_JQq08/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3Njgy/NDktMTY3MTgwODEx/OS0yMzY2LmpwZWc.jpeg"
@@ -27,12 +27,12 @@ additional_images:
     - "https://i.discogs.com/fT6D9dlkLWzjFnOGerni9e_vXRgQMtm5oLLfwRchWsg/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3Njgy/NDktMTY3MTgwODE1/OS03Mjc5LmpwZWc.jpeg"
     - "https://i.discogs.com/hGaczywOwSRoeRfXaHe-4-TEzCznLOOXDeVSJfz9A54/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3Njgy/NDktMTY3MTgwODE1/OS0yNDgyLmpwZWc.jpeg"
     - "https://i.discogs.com/h12NuuZC_OvxNCXZPcd-guHPiOkVFEOLoe2ZsWLAgzA/rs:fit/g:sm/q:90/h:592/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3Njgy/NDktMTY3MTgwODE1/Ni01NzAzLmpwZWc.jpeg"
-    - "https://i.discogs.com/qYPQR84XJbPjlahpxbS42aePjweYMmWWDDJimiVF3Dc/rs:fit/g:sm/q:90/h:603/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3Njgy/NDktMTY3MTgwODE1/Ny04MzM4LmpwZWc.jpeg"
+    - "https://i.discogs.com/9pr3nNmuESFE87HkIijPVJeoPWkVkfNC04fNkS4QQ0M/rs:fit/g:sm/q:90/h:600/w:596/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3Njgy/NDktMTY3MTgwODE1/Ny04MzM4LmpwZWc.jpeg"
 genres: ["Electronic", "Pop"]
 styles: ["Techno", "Trip Hop", "Vocal"]
 ---
 
-Rarities is a 2000 promo album by Emilíana Torrini.
+Rarities is a compilation album by Icelandic singer-songwriter Emilíana Torrini, released in 2000.
     
     
 
@@ -68,18 +68,26 @@ Rarities is a 2000 promo album by Emilíana Torrini.
 28. Unemployed In Summertime (Dreemhouse Unemployed Club Mix)
 
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/rarities/1527623910" >}}<br>
+{{< applemusic url="https://music.apple.com/gb/album/rarities/1726652232" >}}<br>
 
 
 ## Videos
-### Emiliana Torrini - Weird Friendless Kid
-{{< youtube id="MBj5ZFPWxqE" title="Emiliana Torrini - Weird Friendless Kid" >}}<br>
+### Emiliana Torrini - Unemployed In Summertime (DreemHouse Radio Mix)
+{{< youtube id="wsDWu4vC-eI" title="Emiliana Torrini - Unemployed In Summertime (DreemHouse Radio Mix)" >}}<br>
 ### More Videos
 
-- [Emiliana Torrini - Unemployed In Summertime (DreemHouse Radio Mix)](https://www.youtube.com/watch?v=wsDWu4vC-eI)
-- [Emiliana Torrini - Baby Blue](https://www.youtube.com/watch?v=TDnd5snrn1s)
 - [Baby Blue (Rae & Christian Remix)](https://www.youtube.com/watch?v=ESrnf0rz05A)
+- [Baby Blue (Runaways Mix)](https://www.youtube.com/watch?v=Qqvk2X3I88k)
+- [Baby Blue (Runaways Mix)](https://www.youtube.com/watch?v=AJ7TTqZpuAA)
+- [Emiliana Torrini - Baby Blue](https://www.youtube.com/watch?v=TDnd5snrn1s)
+- [Emiliana Torrini - Weird Friendless Kid](https://www.youtube.com/watch?v=MBj5ZFPWxqE)
+- [Emiliana Torrini - Easy (Acoustic Rare)](https://www.youtube.com/watch?v=iSDRNyyKS64)
+- [Emiliana Torrini -Tuna Fish (Acoustic version).wmv](https://www.youtube.com/watch?v=xf5tKnmYNyg)
+- [Emiliana Torrini - Weird Friendless Kid](https://www.youtube.com/watch?v=MBj5ZFPWxqE)
+- [Emiliana Torrini - Baby Blue](https://www.youtube.com/watch?v=TDnd5snrn1s)
 - [Emilíana Torrini - Unemployed in Summertime - Music Video](https://www.youtube.com/watch?v=lDi_tJcCJP0)
+- [Emiliana Torrini - Unemployed In Summertime (DreemHouse Radio Mix)](https://www.youtube.com/watch?v=wsDWu4vC-eI)
+- [Baby Blue (Rae & Christian Remix)](https://www.youtube.com/watch?v=ESrnf0rz05A)
 - [Baby Blue (Runaways Mix)](https://www.youtube.com/watch?v=Qqvk2X3I88k)
 - [Baby Blue (Runaways Mix)](https://www.youtube.com/watch?v=AJ7TTqZpuAA)
 

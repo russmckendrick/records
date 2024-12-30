@@ -15,12 +15,20 @@ additional_images:
     - "https://i.discogs.com/8qxF5Yb2qUxnpDRoHI4yZXahArnniw_WzSJ_0-CTjCA/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMjgx/ODgwLTE1MzIwOTY1/MTgtOTg0Ny5qcGVn.jpeg"
     - "https://i.discogs.com/9pv9IXtWjFVjZEi6ohq6sEF5AibZ5FNlqx6o4vTvwSQ/rs:fit/g:sm/q:90/h:589/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMjgx/ODgwLTE1ODA0MTUx/NjMtNDU1My5qcGVn.jpeg"
     - "https://i.discogs.com/jMvQBuvk0q24GdgBd6Ijc0FN-aWha-tkCgPVx-ME22w/rs:fit/g:sm/q:90/h:303/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMjgx/ODgwLTE1ODA0MTUx/NjQtMjg4MC5qcGVn.jpeg"
-    - "https://i.discogs.com/XEW_EJHSSzPnJMf7YtEvSPkhKE1P3A2zebZlCTb_y1Q/rs:fit/g:sm/q:90/h:606/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMjgx/ODgwLTE1ODA0MTUx/NjAtOTQ4MS5qcGVn.jpeg"
+    - "https://i.discogs.com/4Pu34p1InYd4snU0vyKB7MEertbF2fIKAOV2mgfCMtU/rs:fit/g:sm/q:90/h:600/w:593/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMjgx/ODgwLTE1ODA0MTUx/NjAtOTQ4MS5qcGVn.jpeg"
     - "https://i.discogs.com/k5hATR21Y7N07dMx0RHqijRl8VWjEDtM7xcbYWKZaRQ/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMjgx/ODgwLTE1ODA0MTUx/NjAtNzI5NC5qcGVn.jpeg"
 genres: ["Rock"]
 styles: []
 ---
 
+Science fiction (sometimes shortened to sci-fi or abbreviated SF) is a genre of speculative fiction which typically deals with imaginative and futuristic concepts such as advanced science and technology, space exploration, time travel, parallel universes, and extraterrestrial life. It can explore science and technology in different ways, such as human responses to theoretical new advancements, or the consequences thereof. 
+Science fiction is related to fantasy, horror, and superhero fiction and contains many subgenres. Its exact definition has long been disputed among authors, critics, scholars, and readers. Subgenres include hard science fiction, which emphasizes scientific accuracy, and soft science fiction, focusing on social sciences. Other notable subgenres are cyberpunk, which explores the interface between technology and society, and climate fiction, addressing environmental issues.
+Precedents for science fiction are argued to exist as far back as antiquity, but the modern genre primarily arose in the 19th and early 20th centuries when popular writers began looking to technological progress and speculation. Mary Shelley's Frankenstein, written in 1818, is often credited as the first true science fiction novel. Jules Verne and H.G. Wells are pivotal figures in the genre's development. In the 20th century, expanded with the introduction of space operas, dystopian literature, pulp magazines, and the Golden Age of Science Fiction.
+Science fiction has come to influence not just literature but film, TV, and culture at large. Besides providing entertainment, it can also criticize present-day society and explore alternatives and inspire a "sense of wonder".
+
+
+    
+    
 
 
 ## Tracklisting
@@ -44,8 +52,8 @@ styles: []
 {{< youtube id="b5WJDSmv1iE" title="Science Fiction" >}}<br>
 ### More Videos
 
-- [Church of the Cosmic Skull - Science Fiction (2018) (New Full Album)](https://www.youtube.com/watch?v=Al1ammaaqqs)
 - [Church of the Cosmic Skull - Science Fiction](https://www.youtube.com/watch?v=hdXffwZGg1Q)
+- [Church of the Cosmic Skull - Science Fiction (2018) (New Full Album)](https://www.youtube.com/watch?v=Al1ammaaqqs)
 
 ## Release Images
 {{< imageGrid >}}
@@ -53,6 +61,7 @@ styles: []
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
+| Wikipedia URL | https://en.wikipedia.org/wiki/Science_fiction |
 | Format         | Vinyl LP Album Limited Edition (Clear/white blob) |
 | Label          | Kozmik Artifactz |
 | Catalog Number | ARTIFACT 45 |

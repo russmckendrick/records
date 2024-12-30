@@ -55,10 +55,36 @@ styles: ["Alternative Rock"]
 23. Winterlong
 
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/wave-of-mutilation-best-of-pixies/1025318588" >}}<br>
+{{< applemusic url="https://music.apple.com/gb/album/wave-of-mutilation-single/1606788796" >}}<br>
 
 
+## Videos
+### Bone Machine
+{{< youtube id="HfLk4o6ybCU" title="Bone Machine" >}}<br>
+### More Videos
 
+- [Nimrod's Son](https://www.youtube.com/watch?v=XCXnIQ5Dqmo)
+- [The Holiday Song](https://www.youtube.com/watch?v=W1H3nsxL1Qs)
+- [Caribou](https://www.youtube.com/watch?v=yQEkLOxFZoQ)
+- [Broken Face](https://www.youtube.com/watch?v=t1WFxCaRFPI)
+- [Gigantic](https://www.youtube.com/watch?v=R0id6tY9AY8)
+- [Vamos (Surfer Rosa)](https://www.youtube.com/watch?v=nOl_2h01WrQ)
+- [Hey](https://www.youtube.com/watch?v=tVCUAXOBF7w)
+- [PIXIES - Monkey Gone to Heaven (Official Video)](https://www.youtube.com/watch?v=OncDlwNH9F0)
+- [Pixies - Debaser (Official Video)](https://www.youtube.com/watch?v=PVyS9JwtFoQ)
+- [The Pixies - Gouge Away [Lyrics]](https://www.youtube.com/watch?v=BDHidMlViMc)
+- [Pixies - Wave of Mutilation [UK Surf]](https://www.youtube.com/watch?v=hvHJOus1pRo)
+- [Pixies - Here Comes Your Man (Official Video)](https://www.youtube.com/watch?v=tPgf_btTFlc)
+- [Pixies - Tame [1989]](https://www.youtube.com/watch?v=KR2OiHiysLg)
+- [Pixies - Where Is My Mind](https://www.youtube.com/watch?v=N3oCS85HvpY)
+- [Pixies - Into the White](https://www.youtube.com/watch?v=hnMS6_NqZls)
+- [Pixies - Velouria (Official Video)](https://www.youtube.com/watch?v=nc0Mv4Iyxvc)
+- [Pixies "Allison"](https://www.youtube.com/watch?v=pGtnI3EPkKw)
+- [Pixies - Dig For Fire & Allison (Official Video)](https://www.youtube.com/watch?v=n37Bdr559to)
+- [The Pixies - U mass](https://www.youtube.com/watch?v=cN4V5XjyR6s)
+- [Pixies - Alec Eiffel](https://www.youtube.com/watch?v=TCWbsEuEaVw)
+- [Pixies - Planet Of Sound](https://www.youtube.com/watch?v=YAAmYe6Qfd0)
+- [Winterlong](https://www.youtube.com/watch?v=RpYehve028w)
 
 ## Release Images
 {{< imageGrid >}}

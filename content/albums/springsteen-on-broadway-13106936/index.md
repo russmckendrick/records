@@ -13,11 +13,26 @@ cover:
     alt: "Springsteen On Broadway by Bruce Springsteen"
     caption: "Springsteen On Broadway by Bruce Springsteen"
 additional_images:
-    - "https://i.discogs.com/n7Q42sDoJS-F3Ph7_oc8-yUMrdOPKopbR3bXtIPPu-4/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMTA2/OTM2LTE1NDgxNzQx/MDctNzgwNi5qcGVn.jpeg"
-    - "https://i.discogs.com/pN_azdzOk0OLPbdNUq_QBdrxq8CtMaU04o-1yrlRB9o/rs:fit/g:sm/q:90/h:616/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMTA2/OTM2LTE1NDgxNzQx/MjAtNDQxMi5qcGVn.jpeg"
+    - "https://i.discogs.com/6ZfJkwZmMH8_3L0Iosry8j-ZrWDzkYANSBMSibzH9_w/rs:fit/g:sm/q:90/h:566/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMTA2/OTM2LTE3MDU3MDAw/MjQtODY0MS5qcGVn.jpeg"
+    - "https://i.discogs.com/AKSthtFhDygZU3wMWLuHlJv5zMwfTfMF4n4PjWpvxZY/rs:fit/g:sm/q:90/h:562/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMTA2/OTM2LTE3MDU3MDAw/MzEtMjc5MS5qcGVn.jpeg"
+    - "https://i.discogs.com/n5wz6ZklvBbdRzjSkjQ8XKqoq5qgQDJfWLXJiE6iY1U/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMTA2/OTM2LTE3MDU3MDAw/NDItNDIwOC5qcGVn.jpeg"
+    - "https://i.discogs.com/PM_40bIYK6YzFO1ojkaJ2OmVn1BmvtEEfttyIswzwSY/rs:fit/g:sm/q:90/h:573/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMTA2/OTM2LTE3MDU3MDAw/NjAtNjcxOC5qcGVn.jpeg"
+    - "https://i.discogs.com/cjJYtePEwq_zAVBhRjpkwD1aX56aU1qlzJYyJmxDylQ/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMTA2/OTM2LTE3MDU3MDAw/NTktMTA2Ny5qcGVn.jpeg"
+    - "https://i.discogs.com/00Is9kFV3unocPvaCdM74qmGlYiWtSJj5Gzvx8S5SZM/rs:fit/g:sm/q:90/h:576/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMTA2/OTM2LTE3MDU3MDAw/NTktMTA3OC5qcGVn.jpeg"
+    - "https://i.discogs.com/JSSMbx177I5BRjvhziHbvJxS1CN9yEWRhj074Vzum6I/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMTA2/OTM2LTE3MDU3MDAw/NjAtNTQ5Mi5qcGVn.jpeg"
+    - "https://i.discogs.com/oawzt3e0zpx-FO5GVMACDFyaR8YtYPHamFUjJkEehD4/rs:fit/g:sm/q:90/h:578/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMTA2/OTM2LTE3MDU3MDAw/NjAtNjExMy5qcGVn.jpeg"
+    - "https://i.discogs.com/4r2AwhN5B40wli7pYQARLeLTtpWtXJHAGA8pGwtcUb0/rs:fit/g:sm/q:90/h:578/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMTA2/OTM2LTE3MDU3MDAw/NjAtNTg3OC5qcGVn.jpeg"
+    - "https://i.discogs.com/nPgAcII5QjfLqDzV3iRnMOWs2C1akgTR59bQKMTgc3E/rs:fit/g:sm/q:90/h:576/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMTA2/OTM2LTE3MDU3MDAw/NjAtNzI2Ny5qcGVn.jpeg"
+    - "https://i.discogs.com/9n5Qg3rOJJ8r6mOFaiRJ3amER4YHwzqSiZwB91H4u0g/rs:fit/g:sm/q:90/h:577/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMTA2/OTM2LTE3MDU3MDAw/NjAtOTI3NC5qcGVn.jpeg"
+    - "https://i.discogs.com/_YRhuCxwIG9KwWP41WB4W2HU96_U1bVzoI3FbB9hO7w/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMTA2/OTM2LTE3MDU3MDAw/NTgtNTM3OS5qcGVn.jpeg"
+    - "https://i.discogs.com/QIS_QBjC9INzbbHSJ3s7R4gB0cYWAJkCJHYfBHNZrog/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMTA2/OTM2LTE3MDU3MDAw/NTgtNjAzMS5qcGVn.jpeg"
+    - "https://i.discogs.com/z18rupYrSVRNXAvqo2u7Jc0zCUgT-6YQnuw4HXBo2Zo/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMTA2/OTM2LTE3MDU3MDAw/NTgtMTkxMS5qcGVn.jpeg"
+    - "https://i.discogs.com/EmoV2-oKVSN0woGOhcMP-XJfDyeD7nki_tLSM0NP53A/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMTA2/OTM2LTE3MDU3MDAw/NTktODU0OC5qcGVn.jpeg"
+    - "https://i.discogs.com/tRv8f39cSPB7CWaASN0ix-Tv1-RoDl1eD3e4afT_Qw8/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMTA2/OTM2LTE3MDU3MDAw/NTktOTQwNS5qcGVn.jpeg"
+    - "https://i.discogs.com/INgEErEyiJsKXGQ3anQHvyFEyR9RH0o7z0mNf3dC38I/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMTA2/OTM2LTE3MDU3MDAw/NTktOTU3My5qcGVn.jpeg"
+    - "https://i.discogs.com/qSz_7pSoYfG3liS9D3Ej9f0mGgENwzicKt7lvTzYlGo/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMTA2/OTM2LTE3MDU3MDAw/NTktNzA3NS5qcGVn.jpeg"
+    - "https://i.discogs.com/OL5Cg2AohpXP7nauyyzg7p5Cwg0vtpZr8wLFmrcpiqY/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMTA2/OTM2LTE3MDU3MDAw/NTgtNDc5My5qcGVn.jpeg"
     - "https://i.discogs.com/-sLIR58Nw_Jdu_M4w707L136M-1WWc0LjBffJoPflog/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMTA2/OTM2LTE1NDgxNzQx/MTMtNjI1Ni5qcGVn.jpeg"
-    - "https://i.discogs.com/UP_XJBEx2LMSoYJzHoI2o3iLI9hN_YAl54neZ-QiNzg/rs:fit/g:sm/q:90/h:723/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMTA2/OTM2LTE1NDg3NTQy/NjktODg4Ni5qcGVn.jpeg"
-    - "https://i.discogs.com/Ga34gS6NsQbVf5fSGs0x0wCRF7n359P4mIOKWPfYgwI/rs:fit/g:sm/q:90/h:765/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMTA2/OTM2LTE1NDg3NTQy/NzAtNTUwMi5qcGVn.jpeg"
 genres: ["Rock", "Stage & Screen"]
 styles: ["Soundtrack"]
 ---
@@ -66,9 +81,6 @@ That Springsteen is a masterful storyteller with superhuman command of a small t
 {{< applemusic url="https://music.apple.com/gb/album/springsteen-on-broadway/1445588120" >}}<br>
 
 
-## Videos
-### Springsteen on Broadway | Official Trailer [HD] | Netflix
-{{< youtube id="M1xDzgob1JI" title="Springsteen on Broadway | Official Trailer [HD] | Netflix" >}}<br>
 
 
 ## Release Images

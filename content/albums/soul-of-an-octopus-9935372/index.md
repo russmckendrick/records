@@ -13,10 +13,10 @@ cover:
     caption: "Soul Of An Octopus by O.R.k."
 additional_images:
     - "https://i.discogs.com/d7s8AdQpnyzUKWErYWY0SxBl04QIIOApf0zfR2k3klg/rs:fit/g:sm/q:90/h:592/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk5MzUz/NzItMTUyMzcwODg3/My04MDA4LmpwZWc.jpeg"
-    - "https://i.discogs.com/yUHXXzDXnzWEdSPOSwDHHu-IG5edXClWaZ8LtFJOKPk/rs:fit/g:sm/q:90/h:602/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk5MzUz/NzItMTUyMzcwODg3/Mi05MDc1LmpwZWc.jpeg"
+    - "https://i.discogs.com/OaVYPiq-hv7KokAds_hjNx_aboYK_ve0Ni6pSPhr1wk/rs:fit/g:sm/q:90/h:600/w:597/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk5MzUz/NzItMTUyMzcwODg3/Mi05MDc1LmpwZWc.jpeg"
     - "https://i.discogs.com/NzZauACcdJwdVKfVLIG4YQQ1JfORg44zNbGFivkJdDA/rs:fit/g:sm/q:90/h:441/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk5MzUz/NzItMTUyMzcwODg2/NS03Mjc4LmpwZWc.jpeg"
-    - "https://i.discogs.com/sWswVM3u2Fg8G22DtIQLBoSpXJt4fdwOoLctcaz8ejk/rs:fit/g:sm/q:90/h:606/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk5MzUz/NzItMTUyMzcwODg3/MC0yNTMzLmpwZWc.jpeg"
-    - "https://i.discogs.com/-NeQPtHAYYe0JwXgXOQ-LHDlDuQiNhsK6ZH22-p_QbQ/rs:fit/g:sm/q:90/h:648/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk5MzUz/NzItMTUyMzcwODg3/My0xNzc5LmpwZWc.jpeg"
+    - "https://i.discogs.com/I8v4U33LyhWnpEWX0AsetuYZlY4Ko-aAE6DwZaRVTd4/rs:fit/g:sm/q:90/h:600/w:593/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk5MzUz/NzItMTUyMzcwODg3/MC0yNTMzLmpwZWc.jpeg"
+    - "https://i.discogs.com/W_Ybdn_UwufecB0fgZXCIASoFU8ZBnQsZKlq2ICUsnM/rs:fit/g:sm/q:90/h:600/w:555/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk5MzUz/NzItMTUyMzcwODg3/My0xNzc5LmpwZWc.jpeg"
 genres: ["Rock"]
 styles: ["Prog Rock"]
 ---

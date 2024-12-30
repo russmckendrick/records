@@ -13,13 +13,13 @@ cover:
     caption: "Placebo by Placebo"
 additional_images:
     - "https://i.discogs.com/qR-at0NKYRcr55IBoSfGcbKEufvqWeajW2FRtt1JZPE/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNzA1/NTE0LTE2MjI2NjEy/NjUtMTkxNS5qcGVn.jpeg"
-    - "https://i.discogs.com/NeC6EqYaUpj1HhfpcyxSVTz2sUanZVq3EFBtkOtALYo/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNzA1/NTE0LTE2NTc5NTYw/ODctOTI3OS5qcGVn.jpeg"
-    - "https://i.discogs.com/vGfmCgEghHq-yklxwBDz81EQXabB244rdXMnMhRetOM/rs:fit/g:sm/q:90/h:601/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNzA1/NTE0LTE2NTc5NTYx/MDMtNTM1OS5qcGVn.jpeg"
+    - "https://i.discogs.com/XTa7eA00FQdIkgOmdILPuFTMy6ixP79cO2IieA6fVRI/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNzA1/NTE0LTE2NTc5NTYw/ODctOTI3OS5qcGVn.jpeg"
+    - "https://i.discogs.com/2AC1W5NVP8kYkIaBFUwIaphWi_RC0kgDe9Ce4_IKtb4/rs:fit/g:sm/q:90/h:600/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNzA1/NTE0LTE2NTc5NTYx/MDMtNTM1OS5qcGVn.jpeg"
     - "https://i.discogs.com/63lkxl0LKzueSYyflQiS6LRPN-v48mBHrJG38X9cBqQ/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNzA1/NTE0LTE2MjI2NjEy/NjUtNTQ4Ny5qcGVn.jpeg"
     - "https://i.discogs.com/F6GZXg1_An1h2TwM3gZVpZNl4QOlE9Mzx8PBZhQ_Oa8/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNzA1/NTE0LTE2NTI3MjU0/MTMtNzkyNy5qcGVn.jpeg"
-    - "https://i.discogs.com/SHQ6fPsbFWDaVhgP88RIHRRoVdshkTr4snIXb9Bdfgc/rs:fit/g:sm/q:90/h:601/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNzA1/NTE0LTE2NTI3MjU0/MTMtMjQyMi5qcGVn.jpeg"
-    - "https://i.discogs.com/yRxASD4Tfe-PJGEZ2xXSSBtXkGW5ykTpBIAS_tIM5oE/rs:fit/g:sm/q:90/h:610/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNzA1/NTE0LTE2NTI3MjU0/MTMtOTg3Ni5qcGVn.jpeg"
-    - "https://i.discogs.com/ncGqFCcfXna84KQ9LOF2QjDZlWgIn_QyzBtclXJKSwc/rs:fit/g:sm/q:90/h:604/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNzA1/NTE0LTE2NTI3MjU0/MTMtNDEzMC5qcGVn.jpeg"
+    - "https://i.discogs.com/nt5stDlz3hYBV3I0YT8iCAIKBrHtJB0r85IenjdIp1A/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNzA1/NTE0LTE2NTI3MjU0/MTMtMjQyMi5qcGVn.jpeg"
+    - "https://i.discogs.com/QZd9Mr5-q-jC80969apa5HefpRgVn8ZFKtkWAkTZDjY/rs:fit/g:sm/q:90/h:600/w:590/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNzA1/NTE0LTE2NTI3MjU0/MTMtOTg3Ni5qcGVn.jpeg"
+    - "https://i.discogs.com/0BP7ADaicTeh-sc8uHtYjTayuKkFPNe6xjICvjPMj2c/rs:fit/g:sm/q:90/h:600/w:596/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNzA1/NTE0LTE2NTI3MjU0/MTMtNDEzMC5qcGVn.jpeg"
 genres: ["Rock"]
 styles: ["Alternative Rock"]
 ---
@@ -45,27 +45,29 @@ The album was a commercial success in the UK, reaching number 5 in the UK Albums
 10. Swallow
 
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/placebo/961067797" >}}<br>
+{{< applemusic url="https://music.apple.com/gb/album/placebo-single/1572802845" >}}<br>
 
 
 ## Videos
-### Placebo - 36 Degrees
-{{< youtube id="f8CkTsDNGJI" title="Placebo - 36 Degrees" >}}<br>
+### PLACEBO 'Bruise Pristine'
+{{< youtube id="v6XhoHTDFSM" title="PLACEBO 'Bruise Pristine'" >}}<br>
 ### More Videos
 
-- [PLACEBO 'Bruise Pristine'](https://www.youtube.com/watch?v=v6XhoHTDFSM)
 - [PLACEBO - Teenage Angst](https://www.youtube.com/watch?v=Fx5bfLI5slU)
 - [Placebo - Come Home](https://www.youtube.com/watch?v=KFnvkypksPI)
-- [PLACEBO - Nancy Boy](https://www.youtube.com/watch?v=PBxuq_eWW94)
 - [Placebo - Teenage Angst](https://www.youtube.com/watch?v=SpEHT9blu_0)
-- [Placebo - I Know](https://www.youtube.com/watch?v=2wqlAfeC-Jc)
 - [Placebo - Bionic](https://www.youtube.com/watch?v=YMpi6I0Rex8)
+- [Placebo - 36 Degrees](https://www.youtube.com/watch?v=f8CkTsDNGJI)
 - [Placebo - Hang on to your IQ](https://www.youtube.com/watch?v=_OWNqTkWl-Q)
 - [Placebo - Nancy Boy](https://www.youtube.com/watch?v=RbCvjxjGiKE)
 - [Placebo - I Know](https://www.youtube.com/watch?v=gGGWN2T-Nno)
 - [Placebo - Bruise Pristine](https://www.youtube.com/watch?v=3xMI6Ql_Ch0)
 - [Placebo - Lady of the Flowers](https://www.youtube.com/watch?v=gan1oKzVtiU)
 - [Placebo - Swallow](https://www.youtube.com/watch?v=eq0r8xD3ADs)
+- [Placebo - 36 Degrees](https://www.youtube.com/watch?v=f8CkTsDNGJI)
+- [PLACEBO - Nancy Boy](https://www.youtube.com/watch?v=PBxuq_eWW94)
+- [Placebo - I Know](https://www.youtube.com/watch?v=2wqlAfeC-Jc)
+- [Placebo - Bionic](https://www.youtube.com/watch?v=YMpi6I0Rex8)
 
 ## Release Images
 {{< imageGrid >}}
@@ -73,7 +75,7 @@ The album was a commercial success in the UK, reaching number 5 in the UK Albums
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Wikipedia URL | https://en.wikipedia.org/wiki/Placebo_(album) |
+| Wikipedia URL | https://en.wikipedia.org/wiki/Placebo_(Placebo_album) |
 | Format         | Vinyl LP Album Reissue (Gatefold) |
 | Label          | Elevator Music (4) |
 | Catalog Number | 6711042 |

@@ -38,16 +38,20 @@ styles: ["Big Beat", "Breakbeat", "Breaks"]
 11. Crenshaw Siren Beats (2:59)
 
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/better-living-through-chemistry-20th-anniversary-edition/1143639792" >}}<br>
+{{< applemusic url="https://music.apple.com/gb/album/better-living-through-chemistry-20th-anniversary-edition/1446578875" >}}<br>
 
 
 ## Videos
-### FatBoy Slim - First down
-{{< youtube id="2FChxWapTP0" title="FatBoy Slim - First down" >}}<br>
+### Going Out Of My Head by Fatboy Slim [Official Video]
+{{< youtube id="ynlNxXHqJks" title="Going Out Of My Head by Fatboy Slim [Official Video]" >}}<br>
 ### More Videos
 
-- [Fatboy Slim - 10th and Crenshaw](https://www.youtube.com/watch?v=9dTmk1n2RmY)
-- [Fatboy Slim - Give The Po' Man A Break](https://www.youtube.com/watch?v=MU1NgGm3yr0)
+- [Everybody Needs A 303 by Fatboy Slim [High Res/Official Video]](https://www.youtube.com/watch?v=o6eIBE7Bo3U)
+- [Fayboy Slim - The weekend starts here (classic chilled tune, cool beat)](https://www.youtube.com/watch?v=h4gh01kftv0)
+- [Santa Cruz by Fatboy Slim [Official Video]](https://www.youtube.com/watch?v=D06ZivsDJmc)
+- [F̲a̲t̲b̲o̲y̲ ̲S̲l̲i̲m̲ | B̲e̲t̲t̲e̲r̲ ̲L̲i̲v̲i̲n̲g̲ ̲T̲h̲r̲o̲u̲g̲h̲ ̲C̲h̲e̲m̲i̲s̲t̲r̲y̲](https://www.youtube.com/watch?v=JfQj4zDuViI)
+- [Fatboy Slim - The Sound Of Milwaukee (Official Audio)](https://www.youtube.com/watch?v=pcGGRXDW98M)
+- [Fatboy Slim - Better Living Through Chemistry - Full Album  HD 1080p](https://www.youtube.com/watch?v=1fMcsFZax1U)
 
 ## Release Images
 {{< imageGrid >}}

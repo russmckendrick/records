@@ -47,7 +47,7 @@ styles: ["Alternative Rock"]
 
 
 ## Spotify
-{{< spotify type="album" id="6HqFU3JhIwBSjpnGYVI3E7" width="100%" height="500" >}}<br>
+{{< spotify type="album" id="0I5gq6g5TdvPWVAqEECV2y" width="100%" height="500" >}}<br>
 
 
 

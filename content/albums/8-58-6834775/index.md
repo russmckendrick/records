@@ -27,7 +27,10 @@ genres: ["Electronic"]
 styles: ["Downtempo", "Electro"]
 ---
 
-8:58 is the debut album of Paul Hartnoll's 8:58 project, released on March 30, 2015. According to Hartnoll, the album is a continuation of his work with Orbital. The album features contributions from actor Cillian Murphy, folk band The Unthanks, singer-songwriter Ed Harcourt, Lisa Knapp, Robert Smith, Lianne Hall and Fable.The song "Please" is a reworking of the track of the same name from Paul Hartnoll's 2007 solo album, The Ideal Condition, and was previously released under the title "Please (Remember 1992?) (PH Mix)". The track "A Forest" is a cover of The Cure's track of the same name.
+8:58 is the debut album of Paul Hartnoll's 8:58 project, released on March 30, 2015. According to Hartnoll, the album is a continuation of his work with Orbital. The album features contributions from actor Cillian Murphy, folk band The Unthanks, singer-songwriter Ed Harcourt, Lisa Knapp, Robert Smith, Lianne Hall and Fable.
+The song "Please" is a reworking of the track of the same name from Paul Hartnoll's 2007 solo album, The Ideal Condition, and was previously released under the title "Please (Remember 1992?) (PH Mix)". The track "A Forest" is a cover of The Cure's track of the same name.
+
+
     
     
 
@@ -43,6 +46,8 @@ styles: ["Downtempo", "Electro"]
 8. Nearly There (5:02)
 9. Cemetery (7:37)
 
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/8-58/1168829355" >}}<br>
 
 
 ## Videos

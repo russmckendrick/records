@@ -15,8 +15,8 @@ additional_images:
     - "https://i.discogs.com/sU7-rhr38YP6-Y1ehjjNXjRKbPPEWret-NWtOuuZ1qE/rs:fit/g:sm/q:90/h:450/w:450/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgzOTU1/MTQtMTQ2MDgwMjkx/My0xNDk4LmpwZWc.jpeg"
     - "https://i.discogs.com/sW-tOETWxwCxp_JSIpRN6NH8ZD5OQNbxanhaiUH_AjA/rs:fit/g:sm/q:90/h:594/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgzOTU1/MTQtMTQ2MTE3Mzgw/Ny04NzE4LmpwZWc.jpeg"
     - "https://i.discogs.com/fpu0MhodIVzn9oTt3BjDmrouErUUxpPQbCmwwjqOEhc/rs:fit/g:sm/q:90/h:591/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgzOTU1/MTQtMTQ2MTE3Mzgy/MC00NDY2LmpwZWc.jpeg"
-    - "https://i.discogs.com/TzmhT_9ZkLWxkZ9_vju0hrbPMxveDRXMdTKoMuEJJLA/rs:fit/g:sm/q:90/h:601/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgzOTU1/MTQtMTQ2MTE3Mzgz/MS0yNzY4LmpwZWc.jpeg"
-    - "https://i.discogs.com/GWdf7edRv2RsL5lIHLdNByg4uwCkFE-0I217CsgXVRg/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgzOTU1/MTQtMTQ2MTE3Mzgz/OC05MTMyLmpwZWc.jpeg"
+    - "https://i.discogs.com/v7kCnuqag9iTO4Hz2vGKOauL0XjjI1jaIhXyOXeJtfE/rs:fit/g:sm/q:90/h:600/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgzOTU1/MTQtMTQ2MTE3Mzgz/MS0yNzY4LmpwZWc.jpeg"
+    - "https://i.discogs.com/I0oM6-E_2Si-s_1nQahDwNWhpsdK6pAXtR3CXxy_lFc/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgzOTU1/MTQtMTQ2MTE3Mzgz/OC05MTMyLmpwZWc.jpeg"
     - "https://i.discogs.com/nVG4dfk72fYruF2Wnn_f6SNvanus5Xn_6fe63MkX5rw/rs:fit/g:sm/q:90/h:593/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgzOTU1/MTQtMTQ2MTE3Mzg2/NS00NzUyLmpwZWc.jpeg"
     - "https://i.discogs.com/wNlwGeDFvVhMiFHQs1-LNWsqrNiG9ORIn63lvqMuRvI/rs:fit/g:sm/q:90/h:591/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgzOTU1/MTQtMTQ2MTE3Mzg2/OC0zOTg1LmpwZWc.jpeg"
 genres: ["Folk, World, & Country"]

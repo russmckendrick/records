@@ -24,6 +24,14 @@ genres: ["Rock"]
 styles: ["New Wave", "Glam", "Pop Rock", "Disco"]
 ---
 
+Changestwobowie  is a compilation album by English rock musician David Bowie, issued in November 1981 through RCA Records. It is a companion volume to the 1976 compilation Changesonebowie, and its title and artwork follow the format of that album.
+In addition to selected post-1976 singles, the album collected five songs from earlier in Bowie's career that had not appeared on Changesonebowie, including "Wild Is the Wind" from Station to Station, which was released as a single to promote the album, along with a newly filmed video for the track.  However, the album did not repeat the chart success of the earlier compilation, reaching No. 24 on the UK Album Chart and No. 68 in the United States.
+RCA reissued the album on CD in 1984, but it  was soon deleted, along with Bowie's other albums, owing to a conflict between Bowie and RCA. Changestwobowie was not reissued when Rykodisc obtained the rights to re-release the Bowie catalog in 1990; Rykodisc assembled a new compilation, Changesbowie, an expanded version of RCA's Changesonebowie, instead.
+Changestwobowie was reissued in its original form by Rhino, on vinyl, CD, and digital/streaming formats, on 13 April 2018.
+
+
+    
+    
 
 
 ## Tracklisting
@@ -50,7 +58,8 @@ styles: ["New Wave", "Glam", "Pop Rock", "Disco"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl LP Compilation Limited Edition Reissue Remastered (Blue Translucent) |
+| Wikipedia URL | https://en.wikipedia.org/wiki/Changestwobowie |
+| Format         | Vinyl LP Compilation Limited Edition Reissue Remastered Stereo (Blue Translucent) |
 | Label          | Parlophone |
 | Catalog Number | 0190295740542 |
 | Notes | 180 gram vinyl edition was available randomly on its initial limited run in black and blue vinyl before reverting solely to black vinyl. |

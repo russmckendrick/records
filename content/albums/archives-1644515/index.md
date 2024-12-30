@@ -13,8 +13,8 @@ cover:
     caption: "Archives by Rush"
 additional_images:
     - "https://i.discogs.com/p7fVJiJ0yOjTSErDgrsnaBZpBe8adPkHOpr14qjmPV0/rs:fit/g:sm/q:90/h:563/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2NDQ1/MTUtMTQxMTY5NDYy/MC04NzcyLmpwZWc.jpeg"
-    - "https://i.discogs.com/zi8kCNXLWn34dteZ1k4DOhBl6wZ8io484zydD2Ry1WI/rs:fit/g:sm/q:90/h:647/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2NDQ1/MTUtMTQxMTY5NDYy/MC03NTQzLmpwZWc.jpeg"
-    - "https://i.discogs.com/jshdcqLXt3xEs2plxF01ZmZTn_UxHpceW3R4I01wAXc/rs:fit/g:sm/q:90/h:644/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2NDQ1/MTUtMTQxMTY5NDYy/MC0zMjEzLmpwZWc.jpeg"
+    - "https://i.discogs.com/WU3vcMrYFyIsJTXFdyp-NNurHR0deLI0AyyiDChzfWI/rs:fit/g:sm/q:90/h:600/w:556/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2NDQ1/MTUtMTQxMTY5NDYy/MC03NTQzLmpwZWc.jpeg"
+    - "https://i.discogs.com/1Ezi3g0Mt0v_w_ULxLIPpThhFXBH5diya0Ar8HQo87g/rs:fit/g:sm/q:90/h:600/w:559/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2NDQ1/MTUtMTQxMTY5NDYy/MC0zMjEzLmpwZWc.jpeg"
     - "https://i.discogs.com/D-PdXyiO5ERFdWT9-Pfv97t44VO2Vmn7Dwm-H8upZ8c/rs:fit/g:sm/q:90/h:491/w:491/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2NDQ1/MTUtMTM1MTg1NDkw/OS05NjgxLmpwZWc.jpeg"
     - "https://i.discogs.com/3A1L1dPIbQED1jInMs9g2VpQzpodlqo4jDYChKiR5sY/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2NDQ1/MTUtMTQxMTY5NDYy/MC0xMjk0LmpwZWc.jpeg"
     - "https://i.discogs.com/GKCOraaObt9m60M3ksnIw6w31NbYFrPOsvfmYKv2568/rs:fit/g:sm/q:90/h:365/w:382/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2NDQ1/MTUtMTM1MTg1NDk1/Mi0zMjcyLmpwZWc.jpeg"
@@ -57,13 +57,15 @@ styles: ["Hard Rock", "Prog Rock"]
 24. The Fountain Of Lamneth
 
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/no-rush-single/1653217412" >}}<br>
+{{< applemusic url="https://music.apple.com/gb/album/rush-single/1731911500" >}}<br>
 
 
 ## Videos
 ### Rush - By Tor And The Snow Dog (1978 UK Vinyl)
 {{< youtube id="xOtEx_y__MM" title="Rush - By Tor And The Snow Dog (1978 UK Vinyl)" >}}<br>
+### More Videos
 
+- [Rush - By Tor And The Snow Dog (1978 UK Vinyl)](https://www.youtube.com/watch?v=xOtEx_y__MM)
 
 ## Release Images
 {{< imageGrid >}}
@@ -74,5 +76,5 @@ styles: ["Hard Rock", "Prog Rock"]
 | Format         | Vinyl 3× LP Compilation |
 | Label          | Mercury |
 | Catalog Number | 6641 799 |
-| Notes | Consists of the first three Rush albums 'Rush', 'Fly By Night' & 'Caress Of Steel'    Album 1 Recorded in Toronto, Canada, 1973, released in North America August 1974  Album 2 Recorded in Toronto, Canada, 1975, released in North America February 1975  Album 3 Recorded in Toronto, Canada, 1975, released in North America September 1975    All timings are approximate.    Issued in a gatefold sleeve.   |
+| Notes | Consists of the first three Rush albums 'Rush', 'Fly By Night' & 'Caress Of Steel'  Album 1 Recorded in Toronto, Canada, 1973, released in North America August 1974 Album 2 Recorded in Toronto, Canada, 1975, released in North America February 1975 Album 3 Recorded in Toronto, Canada, 1975, released in North America September 1975  All timings are approximate.  Issued in a gatefold sleeve.  For tracks F-I to F-VI, the title "The Fountain of Lamneth" appears on the label before the listing of each component part. However, on the inside of the gatefold it is shortened to "Fountain of Lamneth", and omitted completely from the back cover where only the individual titles are listed.  [r31108571] is a similar release without the etched 'JACKO' and extended rim text [r13968254] is a similar release with extended rim text  |
 | Discogs URL    | [Rush - Archives](https://www.discogs.com/release/1644515-Rush-Archives) |

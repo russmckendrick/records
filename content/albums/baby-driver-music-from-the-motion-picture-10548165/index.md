@@ -20,11 +20,11 @@ additional_images:
     - "https://i.discogs.com/NX7XPQBW4kQF2_2ZAgkxIZWV6_iuF-RjuMmdv6jrby0/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNTQ4/MTY1LTE1NzQ0NDg4/ODgtNDE2NS5qcGVn.jpeg"
     - "https://i.discogs.com/EmUbEx3FQi5CQm-ygUn377R4Ltm0SG7oen1ouMygWC8/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNTQ4/MTY1LTE1NzQ0NDg4/ODUtMjgyNS5qcGVn.jpeg"
     - "https://i.discogs.com/tUml6o065gpRKzKP_RHA3fWkXOrfR9AnYyCf8wmw7fg/rs:fit/g:sm/q:90/h:591/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNTQ4/MTY1LTE1NzQ0NDg4/ODEtMjg3MS5qcGVn.jpeg"
-    - "https://i.discogs.com/99n_3Rk6dGymIhZP_I4iyUj07C7v65T6dDIgVtL6GbI/rs:fit/g:sm/q:90/h:601/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNTQ4/MTY1LTE1NzQ0NDg4/ODctODE1My5qcGVn.jpeg"
+    - "https://i.discogs.com/Jl7X47u2HIOUFHGfS6BwssgCIdb4xgavyQIjSVH7vxs/rs:fit/g:sm/q:90/h:600/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNTQ4/MTY1LTE1NzQ0NDg4/ODctODE1My5qcGVn.jpeg"
     - "https://i.discogs.com/VOy9FVv-tTASSCpXKDrB8g7q-uXhjKUxPJ0CcRz4A-E/rs:fit/g:sm/q:90/h:547/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNTQ4/MTY1LTE1MDQyNjE4/MjMtMzQyNS5qcGVn.jpeg"
     - "https://i.discogs.com/xU4j2QXBv2KqnOyG6PF-BY8pXvuL02SQpGzqRQkiz6I/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNTQ4/MTY1LTE1MDQyNjE4/MjAtNTQ0NC5qcGVn.jpeg"
     - "https://i.discogs.com/vDXzJAuSVXhMJ15sKhQkCYUMji6aZEEvsxf-Use6q8A/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNTQ4/MTY1LTE1MDQyNjE4/MjMtNjg5Mi5qcGVn.jpeg"
-    - "https://i.discogs.com/NTaJsfFkW9EUz1F2yx59AY05i9C0-GLigBGp5AAdDeU/rs:fit/g:sm/q:90/h:602/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNTQ4/MTY1LTE1MDQyNjE4/MjUtODc3Mi5qcGVn.jpeg"
+    - "https://i.discogs.com/lxyWnxfiINDqwkrvDbr1B8jcWBDuecEhBZf0Hgc2Xvo/rs:fit/g:sm/q:90/h:600/w:597/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNTQ4/MTY1LTE1MDQyNjE4/MjUtODc3Mi5qcGVn.jpeg"
     - "https://i.discogs.com/7uuvPd11Octs8HX05QYQSRgNYNjdsYMLwXpQJAvlY2I/rs:fit/g:sm/q:90/h:225/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNTQ4/MTY1LTE1MTQzODgw/OTgtMjEyNS5qcGVn.jpeg"
 genres: ["Rock", "Funk / Soul", "Blues", "Stage & Screen"]
 styles: ["Soundtrack"]
@@ -65,36 +65,42 @@ styles: ["Soundtrack"]
 
 
 ## Spotify
-{{< spotify type="album" id="1XaJOcLe3xMQ611SMHtOja" width="100%" height="500" >}}<br>
+{{< spotify type="album" id="1rKtp8dt8DDLzcLOpyncWA" width="100%" height="500" >}}<br>
 
 
 ## Videos
-### Beck - Debra
-{{< youtube id="qL_9zWmDcjs" title="Beck - Debra" >}}<br>
+### The Jon Spencer Blues Explosion - Bellbottoms
+{{< youtube id="XlTqcshkmc8" title="The Jon Spencer Blues Explosion - Bellbottoms" >}}<br>
 ### More Videos
 
-- [Chase Me – Danger Mouse ft. Run The Jewels & Big Boi (Baby Driver Official Video)](https://www.youtube.com/watch?v=vHShmiCxL8s)
-- [The Jon Spencer Blues Explosion - Bellbottoms](https://www.youtube.com/watch?v=XlTqcshkmc8)
-- [T.Rex - Deborah](https://www.youtube.com/watch?v=28Gj5Bfj90Y)
-- [Carla Thomas - B-A-B-Y (Official Audio)](https://www.youtube.com/watch?v=FZu6FMAksrs)
 - [Incredible Bongo Band - Bongolia](https://www.youtube.com/watch?v=cBBhmu-fPyk)
 - [Simon & Garfunkel - Baby Driver (Audio)](https://www.youtube.com/watch?v=J8i4Rp3qizk)
-- [Boga- Nowhere to run ( Baby Driver trailer soundtrack)](https://www.youtube.com/watch?v=8j6e0mLPXOA)
-- [Harlem Shuffle](https://www.youtube.com/watch?v=6bZyk5mixXk)
-- [Sky Ferreira - Easy (Baby Driver OST)](https://www.youtube.com/watch?v=esV8bKn8_Js)
 - [Queen - Brighton Rock (Baby Driver Soundtrack)](https://www.youtube.com/watch?v=WOlN2a5jPhM)
+- [Baby Driver OST - Jon Spencer Blues Explosion - "Bellbottoms" -](https://www.youtube.com/watch?v=udwZO-GqUoU)
+- [Beck - Debra](https://www.youtube.com/watch?v=qL_9zWmDcjs)
+- [T.Rex - Deborah](https://www.youtube.com/watch?v=28Gj5Bfj90Y)
+- [Simon & Garfunkel - Baby Driver (Audio)](https://www.youtube.com/watch?v=J8i4Rp3qizk)
+- [Harlem Shuffle](https://www.youtube.com/watch?v=6bZyk5mixXk)
 - [BABY DRIVER - 6-Minute Opening Clip](https://www.youtube.com/watch?v=6XMuUVw7TOM)
-- [Baby Driver Running Scene (1080p)](https://www.youtube.com/watch?v=7Y59oGt2XWU)
-- [Baby Driver OST - Jon Spencer Blues Explosion - Bellbottoms -](https://www.youtube.com/watch?v=udwZO-GqUoU)
+- [Chase Me – Danger Mouse ft. Run The Jewels & Big Boi (Baby Driver Official Video)](https://www.youtube.com/watch?v=vHShmiCxL8s)
+- [Carla Thomas - B-A-B-Y (Official Audio)](https://www.youtube.com/watch?v=FZu6FMAksrs)
+- [Boga- Nowhere to run ( Baby Driver trailer soundtrack)](https://www.youtube.com/watch?v=8j6e0mLPXOA)
+- [Sky Ferreira - Easy (Baby Driver OST)](https://www.youtube.com/watch?v=esV8bKn8_Js)
+- [Baby Driver "Running Scene" (1080p)](https://www.youtube.com/watch?v=7Y59oGt2XWU)
 - [Young MC - Know How (Baby Driver Soundtrack)](https://www.youtube.com/watch?v=8AVPYRe47ww)
 - [MIKE RELM: THE BABY DRIVER REMIX](https://www.youtube.com/watch?v=9J1xlZtCoDk)
 - [Kid Koala - Was He Slow? (Music From The Motion Picture Baby Driver) (Audio)](https://www.youtube.com/watch?v=3igDZrG3DTQ)
-- [Sky Ferreira - Easy (Music From The Motion Picture Baby Driver - Official Video)](https://www.youtube.com/watch?v=2DScjas2Nv8)
-- [Was He Slow? (Music From The Motion Picture Baby Driver)](https://www.youtube.com/watch?v=se_AfP_agEk)
+- [Sky Ferreira - Easy (Music From The Motion Picture "Baby Driver" - Official Video)](https://www.youtube.com/watch?v=2DScjas2Nv8)
+- ["Was He Slow?" (Music From The Motion Picture Baby Driver)](https://www.youtube.com/watch?v=se_AfP_agEk)
 - [The Commodores - Easy (Baby Driver Soundtrack)](https://www.youtube.com/watch?v=5-uU30V7Uis)
 - [Barry White - Never, Never Gonna Give Ya Up (Baby Driver Soundtrack)](https://www.youtube.com/watch?v=JXQ-qs5bDkI)
 - [Blur - Intermission](https://www.youtube.com/watch?v=ZZCt92zLmLI)
 - [Neat Neat Neat](https://www.youtube.com/watch?v=Y3x5G9UmJOM)
+- [The Jon Spencer Blues Explosion - Bellbottoms](https://www.youtube.com/watch?v=XlTqcshkmc8)
+- [Incredible Bongo Band - Bongolia](https://www.youtube.com/watch?v=cBBhmu-fPyk)
+- [Simon & Garfunkel - Baby Driver (Audio)](https://www.youtube.com/watch?v=J8i4Rp3qizk)
+- [Queen - Brighton Rock (Baby Driver Soundtrack)](https://www.youtube.com/watch?v=WOlN2a5jPhM)
+- [Baby Driver OST - Jon Spencer Blues Explosion - "Bellbottoms" -](https://www.youtube.com/watch?v=udwZO-GqUoU)
 
 ## Release Images
 {{< imageGrid >}}

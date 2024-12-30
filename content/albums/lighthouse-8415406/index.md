@@ -23,7 +23,10 @@ genres: ["Rock"]
 styles: ["Prog Rock", "Post Rock", "Folk Rock"]
 ---
 
-Lighthouse is the third studio album by Russian chamber progressive band iamthemorning. It was released on 1 April 2016 through Kscope. It features several guest musicians, including Gavin Harrison and Colin Edwin from Porcupine Tree, as well as Mariusz Duda from Riverside.The album was primarily recorded at Murder Mile Studios in London and Mosfilm Studios in Moscow, mixed at Murder Mile Studio, mastered by Marcel van Limbeek and Neil Pickles at Reveal Sound Studios in London and produced by iamthemorning. The album was premiered by AllMusic on 30 March 2016.
+A lighthouse is a tower, building, or other type of physical structure designed to emit light from a system of lamps and lenses and to serve as a beacon for navigational aid for maritime pilots at sea or on inland waterways.
+Lighthouses mark dangerous coastlines, hazardous shoals, reefs, rocks, and safe entries to harbors; they also assist in aerial navigation. Once widely used, the number of operational lighthouses has declined due to the expense of maintenance and the advent of much cheaper, more sophisticated, and more effective electronic navigational systems.
+
+
     
     
 
@@ -57,7 +60,7 @@ Lighthouse is the third studio album by Russian chamber progressive band iamthem
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Wikipedia URL | https://en.wikipedia.org/wiki/Lighthouse_(iamthemorning_album) |
+| Wikipedia URL | https://en.wikipedia.org/wiki/Lighthouse |
 | Format         | Vinyl LP Album |
 | Label          | Kscope |
 | Catalog Number | kscope919 |

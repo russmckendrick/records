@@ -17,7 +17,7 @@ additional_images:
     - "https://i.discogs.com/28irL3wGDDH5tt7mtlQcwWwJhBqGbeJDnWhBaBvclXk/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1ODM3/NTY1LTE2NTM0ODkz/NTUtNzQwOC5qcGVn.jpeg"
     - "https://i.discogs.com/Xq-URvLvBGs6FiNz4FswLccEyxZsAJezdZLCK6bwmZc/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1ODM3/NTY1LTE1OTg3NTI5/NDktODk0Ni5qcGVn.jpeg"
     - "https://i.discogs.com/o-6YKDBiwPxKCbpQtjqjwt4CILGrZAjhlCytxVeIu30/rs:fit/g:sm/q:90/h:588/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1ODM3/NTY1LTE1OTkyMzQw/MzMtODE5OC5qcGVn.jpeg"
-    - "https://i.discogs.com/MwuiNvGPV87ojlJf3cFQnsTtDY9Xjv3uY2CH-9mbGoY/rs:fit/g:sm/q:90/h:666/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1ODM3/NTY1LTE1OTkyMzQw/NDAtMTU1Ni5qcGVn.jpeg"
+    - "https://i.discogs.com/aeK5Klfd50jQ_yFPjiwNRLUZmW64qZ9xZNmFaHFMUbE/rs:fit/g:sm/q:90/h:600/w:539/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1ODM3/NTY1LTE1OTkyMzQw/NDAtMTU1Ni5qcGVn.jpeg"
     - "https://i.discogs.com/q9tlMct36RZ3hxlvl6UpRo7H9RNjA_Vha6VWzG_1o-w/rs:fit/g:sm/q:90/h:586/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1ODM3/NTY1LTE1OTkyMzQw/NDYtMTc1OC5qcGVn.jpeg"
     - "https://i.discogs.com/svDDFiSNKy3xTaIN1d5fhpijlosQdnvFIoLYu8aquo8/rs:fit/g:sm/q:90/h:593/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1ODM3/NTY1LTE1OTkyMzQw/NDktNzY2OS5qcGVn.jpeg"
 genres: ["Rock"]
@@ -45,7 +45,8 @@ When My Morning Jacket decamped to Stinson Beach, California, to record the <i>T
 “This was a rumination on family, and I have such a wonderful family—not only a blood family, but my friends that have become family—and sometimes I get so lost in the end of a romance or the failure of a romantic relationship that I can spin out and almost forget there's anybody else on earth. When I wrote ‘Welcome Home’, it was a time after I came home to Kentucky and just had some beautiful hangs with my family and with my friends. It's just a reminder to myself that there are these people that love me, that do welcome me home, no matter what my personal or relationship life may be going through, and to not forget them in those times of need, but remember them and call on them, because they've always been there for me.”<br />
 <b>The First Time</b>
 “Another one I wrote walking down the beach. That's a thing I think about a lot, that I struggle with. I almost feel like sometimes I haven't unlocked the key yet. Some people have, but I feel like we get almost penalised in relationships, that everybody always says there's the magic there at the beginning and everything is so amazing, and then slowly the magic fades away. You can keep creating that beginner's mind—that freshness that brought you together in the first place—but still grow. Can we make this feel as special as it did back when we met and things were electric and things were on fire and we were everything to each other? I haven't been able to sustain that. Somehow that always fades away, and I wish it was engineered the other way, where you got more and more rewarded for staying in the relationship—it just got hotter and hotter and more and more amazing. I know some people do make that happen, but I think it takes a lot of work, obviously, doing the work for yourself and have your partner do the work.”
-    
+        
+        
     
 
 
@@ -78,6 +79,7 @@ When My Morning Jacket decamped to Stinson Beach, California, to record the <i>T
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
+| Wikipedia URL | https://en.wikipedia.org/wiki/The_Waterfall_II |
 | Format         | Vinyl LP Album (Clear) |
 | Label          | ATO Records |
 | Catalog Number | ATO0530LP |

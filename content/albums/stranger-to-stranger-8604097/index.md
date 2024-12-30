@@ -26,6 +26,9 @@ styles: ["Folk Rock"]
 
 Stranger to Stranger is the thirteenth solo studio album by American folk rock singer-songwriter Paul Simon. Produced by Paul Simon and Roy Halee, it was released on June 3, 2016 through Concord Records. Simon wrote the material over a period of several years, perfecting it and rewriting it to his liking. Its music is experimental, making use of custom-made instruments by composer and music theorist Harry Partch. Three of the songs on the album are collaborations with Italian electronic artist Clap! Clap!.
 His first release in over five years, Stranger to Stranger received wide critical acclaim. It represented Simon's highest-ever debut on the Billboard 200, at No. 3, and reached No. 1 on the UK Albums Chart.
+The cover art is a detail of a portrait of Simon from 2011 by Chuck Close. Photo by Kerry Ryan McFate, courtesy Pace Gallery.
+
+
     
     
 
@@ -44,7 +47,7 @@ His first release in over five years, Stranger to Stranger received wide critica
 11. Insomniac’s Lullaby (4:33)
 
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/stranger-to-stranger/1443229003" >}}<br>
+{{< applemusic url="https://music.apple.com/gb/album/stranger-to-stranger/1715332946" >}}<br>
 
 
 ## Videos
@@ -53,8 +56,10 @@ His first release in over five years, Stranger to Stranger received wide critica
 ### More Videos
 
 - [Paul Simon - Wristband (Official Audio)](https://www.youtube.com/watch?v=O3crKHaBdy4)
-- [The Clock](https://www.youtube.com/watch?v=-mQr64uJ8xE)
-- [Paul Simon - Cool Papa Bell (Static Image Video)](https://www.youtube.com/watch?v=Rm2LIorVaPw)
+- [Paul Simon - The Werewolf (Static Image Video)](https://www.youtube.com/watch?v=S9UwRLfYUlo)
+- [Stranger To Stranger](https://www.youtube.com/watch?v=P7zs5JmlhwY)
+- [Paul Simon - Wristband (Official Audio)](https://www.youtube.com/watch?v=O3crKHaBdy4)
+- [Paul Simon - The Werewolf (Static Image Video)](https://www.youtube.com/watch?v=S9UwRLfYUlo)
 
 ## Release Images
 {{< imageGrid >}}

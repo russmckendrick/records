@@ -12,15 +12,18 @@ cover:
     alt: "In The Dead, Dead Wood by Vennart"
     caption: "In The Dead, Dead Wood by Vennart"
 additional_images:
-    - "https://i.discogs.com/l1QepQn43inQccmR8T2SxuHMEHgL_zdNuts_tP_J4SU/rs:fit/g:sm/q:90/h:602/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4MDAx/MzE4LTE2MjAwNzg4/NzctOTc0My5qcGVn.jpeg"
-    - "https://i.discogs.com/Z3CZGzbiNYq94IX8ZbOnzkR8_jYupSrwZg2DveXZmfY/rs:fit/g:sm/q:90/h:602/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4MDAx/MzE4LTE2MjAwNzg4/MjYtMTIyMC5qcGVn.jpeg"
-    - "https://i.discogs.com/ahmvGtaNyLXt_TKpxAvnNnjTHG4GYcLAIENhDsGQbMc/rs:fit/g:sm/q:90/h:566/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4MDAx/MzE4LTE2MTY5NDg2/MzUtMjQ3Ni5qcGVn.jpeg"
+    - "https://i.discogs.com/VJoBkGlZ4IMlXw7dGKdrxzQBno-wywpZS9iAFYJl3yY/rs:fit/g:sm/q:90/h:600/w:597/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4MDAx/MzE4LTE2MjAwNzg4/NzctOTc0My5qcGVn.jpeg"
+    - "https://i.discogs.com/KnNVZCi3IwYS6Ub70FoyBU9A32TceAA7A0qT8HSbaNM/rs:fit/g:sm/q:90/h:600/w:597/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4MDAx/MzE4LTE2MjAwNzg4/MjYtMTIyMC5qcGVn.jpeg"
     - "https://i.discogs.com/70-MOLtqx8VwQb22H8wwZpuV6ZJ4R9xlEuqNvpUxSTU/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4MDAx/MzE4LTE2MjAwNzg4/MjMtMjI3OC5qcGVn.jpeg"
     - "https://i.discogs.com/F4OP36RyDw3yhNoemCAgWoDsgw6B0nCCoGFKzFospDc/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4MDAx/MzE4LTE2MjAwNzg4/MzAtNTMzNi5qcGVn.jpeg"
     - "https://i.discogs.com/73FZjO57gkog8i8WC27n5nQry-Lsi4QRibweCndAdRs/rs:fit/g:sm/q:90/h:589/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4MDAx/MzE4LTE2MjAwNzg4/MzAtMjAwOC5qcGVn.jpeg"
     - "https://i.discogs.com/Zz3CZU8oNMJxGnxKmxCioDgr6r8WediU-uVRxuEmXHc/rs:fit/g:sm/q:90/h:594/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4MDAx/MzE4LTE2MjAwNzg4/MjktMTQ4NS5qcGVn.jpeg"
+    - "https://i.discogs.com/ahmvGtaNyLXt_TKpxAvnNnjTHG4GYcLAIENhDsGQbMc/rs:fit/g:sm/q:90/h:566/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4MDAx/MzE4LTE2MTY5NDg2/MzUtMjQ3Ni5qcGVn.jpeg"
     - "https://i.discogs.com/8AYBH0qujbnF5OEpUcwJ2MRJneHkdf5eoUp6yackjYM/rs:fit/g:sm/q:90/h:450/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4MDAx/MzE4LTE2MTc2MTU4/ODktOTIxOS5qcGVn.jpeg"
     - "https://i.discogs.com/BDZUV_qqyQ2-PIrSBiurp7tq_FgdSfMsBQ-Ja1ZubhE/rs:fit/g:sm/q:90/h:450/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4MDAx/MzE4LTE2MTc2MTU4/OTQtNDI3NC5qcGVn.jpeg"
+    - "https://i.discogs.com/re998UDtexkLaN9ay6mARVq3CfgvGvWCoXrZi8elrLo/rs:fit/g:sm/q:90/h:419/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4MDAx/MzE4LTE2OTY1OTkw/MjgtMzYyMi5qcGVn.jpeg"
+    - "https://i.discogs.com/IcSQFwEwb-1oABkNGr-C_lbcggxZWAw5RFY-_SIAeX8/rs:fit/g:sm/q:90/h:600/w:455/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4MDAx/MzE4LTE2OTY1OTkw/MjktNTU4MS5qcGVn.jpeg"
+    - "https://i.discogs.com/zkz2ANZWXB1SDefgX846XM9KwoV0VRSDAKMrOwpIRbc/rs:fit/g:sm/q:90/h:600/w:472/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4MDAx/MzE4LTE2OTY1OTkw/MjktNjA0My5qcGVn.jpeg"
 genres: ["Rock"]
 styles: []
 ---

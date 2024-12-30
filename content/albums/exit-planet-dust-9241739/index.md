@@ -13,7 +13,7 @@ cover:
     alt: "Exit Planet Dust by The Chemical Brothers"
     caption: "Exit Planet Dust by The Chemical Brothers"
 additional_images:
-    - "https://i.discogs.com/MNpxfrM6uoLguVodCqIlFdAs2E9fFeGu-6lDuQFHcDY/rs:fit/g:sm/q:90/h:603/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkyNDE3/MzktMTQ3NzIyMjYw/Ni03NjgyLmpwZWc.jpeg"
+    - "https://i.discogs.com/Bun5CW1VxKtzq7i0flUL-2q6QpbKfVyFgNeEZpg5TvA/rs:fit/g:sm/q:90/h:600/w:596/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkyNDE3/MzktMTQ3NzIyMjYw/Ni03NjgyLmpwZWc.jpeg"
     - "https://i.discogs.com/E2cWRBWLlRn5U11hbvQRiQrGgT0HwEU7xjEZ6CwpcXI/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkyNDE3/MzktMTQ3NzIyMjYx/NS00MjYxLmpwZWc.jpeg"
     - "https://i.discogs.com/KEWlwz617a0OWxEFEvL_2zUUQCHgGiySI7MORKb9pIo/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkyNDE3/MzktMTQ3NzIyMjYx/Ny01NzAyLmpwZWc.jpeg"
     - "https://i.discogs.com/SUGDLC5UBt90gPIuuXZJYiWbluK9zhv8fS5ytLmDjZs/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkyNDE3/MzktMTQ3NzIyMjYx/OC03NjQ4LmpwZWc.jpeg"
@@ -28,7 +28,7 @@ genres: ["Electronic"]
 styles: ["Breakbeat", "Trip Hop", "Big Beat"]
 ---
 
-Exit Planet Dust is the debut studio album by English electronic music duo The Chemical Brothers. It was first released on 26 June 1995 in the United Kingdom by Junior Boy's Own, Freestyle Dust, and Virgin Records, and on 15 August 1995 in the United States by Astralwerks. The album was recorded between August and November 1994, with "Song to the Siren" performed live. Its title is a reference to their departure from their earlier name The Dust Brothers.
+Exit Planet Dust is the debut studio album by English electronic music duo the Chemical Brothers. It was first released on 26 June 1995 in the United Kingdom by Junior Boy's Own, Freestyle Dust, and Virgin Records, and on 15 August 1995 in the United States by Astralwerks. The album was recorded between August and November 1994, with "Song to the Siren" performed live. Its title is a reference to their departure from their earlier name the Dust Brothers.
 The album received critical acclaim and was in the UK charts for many weeks, charting in each year from its release in 1995 until 2000; its highest peak was number 9 in 1995.
 
 
@@ -54,7 +54,22 @@ The album received critical acclaim and was in the UK charts for many weeks, cha
 {{< applemusic url="https://music.apple.com/gb/album/exit-planet-dust/723670972" >}}<br>
 
 
+## Videos
+### Leave Home
+{{< youtube id="4QKi8DorEpM" title="Leave Home" >}}<br>
+### More Videos
 
+- [In Dust We Trust](https://www.youtube.com/watch?v=YtnBsvu72kY)
+- [Song To The Siren (Live From Sabresonic Nightclub,United Kingdom/1994)](https://www.youtube.com/watch?v=D7R4Z0T5ViA)
+- [Three Little Birdies Down Beats](https://www.youtube.com/watch?v=kJqSFi0ukEY)
+- [Fuck Up Beats](https://www.youtube.com/watch?v=RvXDHnJ817E)
+- [Chemical Beats](https://www.youtube.com/watch?v=_GfcIprkuvw)
+- [The Chemical Brothers - Life Is Sweet (Official Music Video)](https://www.youtube.com/watch?v=30p2UWAegeQ)
+- [Playground For A Wedgeless Firm](https://www.youtube.com/watch?v=vaYgOV1urpQ)
+- [Chico's Groove](https://www.youtube.com/watch?v=F8smPDj7r4w)
+- [One Too Many Mornings](https://www.youtube.com/watch?v=wA-FVMPg49I)
+- [Alive Alone](https://www.youtube.com/watch?v=q9rrZzrgA2I)
+- [THE CHEMICAL BROTHERS - One Too Many Mornings](https://www.youtube.com/watch?v=ItS_e_u37Qs)
 
 ## Release Images
 {{< imageGrid >}}

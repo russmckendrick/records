@@ -4,6 +4,7 @@ artist_name: "Johnny Cash"
 artist: "johnny-cash"
 album_name: "American Recordings I - VI"
 date: 2015-12-29T19:02:02.000000Z
+release_date: "1994-01-01"
 release_id: "7001701"
 slug: "american-recordings-i-vi-7001701"
 hideSummary: true
@@ -12,15 +13,18 @@ cover:
     alt: "American Recordings I - VI by Johnny Cash"
     caption: "American Recordings I - VI by Johnny Cash"
 additional_images:
-    - "https://i.discogs.com/sSMzqTWs9FxcnntB_uDG0euN0F_o0xwCudCnMaH7MFI/rs:fit/g:sm/q:90/h:630/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcwMDE3/MDEtMTYzNjgyODU1/My04Nzg1LmpwZWc.jpeg"
+    - "https://i.discogs.com/VelpTUuyt6tWoGtlxWhoOYesIgv07khWWroRKHym3mo/rs:fit/g:sm/q:90/h:600/w:570/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcwMDE3/MDEtMTYzNjgyODU1/My04Nzg1LmpwZWc.jpeg"
     - "https://i.discogs.com/mY5LoocOrqzF03gACjJ7K5rHmYGeYKc0XBBBFDJ_sbI/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcwMDE3/MDEtMTYzNjgyODU1/My02NTA3LmpwZWc.jpeg"
-    - "https://i.discogs.com/oqNdAqWqi6cVlg20JPGXlEjHusF5XdMKlj5zJF0uBtA/rs:fit/g:sm/q:90/h:4027/w:531/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcwMDE3/MDEtMTYzNjgyODU1/MS01OTk2LmpwZWc.jpeg"
-    - "https://i.discogs.com/yvQiW5lUulK2v95jFNonMTjadiq-hcoO3II_lt4l_8s/rs:fit/g:sm/q:90/h:3800/w:500/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcwMDE3/MDEtMTYzNjgyODU1/MS00MjI0LmpwZWc.jpeg"
-    - "https://i.discogs.com/X1AckXSMHaMxnbXNfWEQDH5qmCsUVAJUouA3nwIvaso/rs:fit/g:sm/q:90/h:640/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcwMDE3/MDEtMTYzNjgyODY2/Mi02MTkyLmpwZWc.jpeg"
+    - "https://i.discogs.com/5zEqTz0pEZCMw6ODxhyGNKYrlAm8DI2LCXhRHzCK7ok/rs:fit/g:sm/q:90/h:600/w:79/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcwMDE3/MDEtMTYzNjgyODU1/MS01OTk2LmpwZWc.jpeg"
+    - "https://i.discogs.com/S-v8mekVnAEPlcYmK0h0SWfsn-Fd2kiXzDehyyiTQcU/rs:fit/g:sm/q:90/h:600/w:78/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcwMDE3/MDEtMTYzNjgyODU1/MS00MjI0LmpwZWc.jpeg"
+    - "https://i.discogs.com/akROMG7OYt0_aei-ilS1l61fHqIQB2zrHA2qSmRU3ok/rs:fit/g:sm/q:90/h:600/w:561/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcwMDE3/MDEtMTYzNjgyODY2/Mi02MTkyLmpwZWc.jpeg"
 genres: ["Folk, World, & Country"]
 styles: []
 ---
 
+Johnny Cash had been without a record deal for several years when rap/rock producer Rick Rubin revived his career by focusing the spotlight solely on Cash's minimal guitar accompaniment and his commanding, chiseled-in-granite vocals. Rubin and Cash also cherry-picked an astonishing range of material from such unlikely sources as Glenn Danzig ("Thirteen"), Tom Waits ("Down There By The Train"), Leonard Cohen ("Bird On A Wire"), Loudon Wainwright III ("The Man Who Wouldn't Cry") and Nick Lowe ("The Beast In Me"), all of which rest comfortably alongside a fistful of Cash originals and traditional tunes. With subjects stretching from horses ("Tennessee Stud") and travel ("Let The Train Blow The Whistle"), to God ("Redemption" and "Oh Bury Me Not") and murder ("Delia's Gone"), this album is as timeless as a Matthew Brady photograph from the Civil War.
+    
+    
 
 
 ## Tracklisting
@@ -109,6 +113,8 @@ styles: []
 83. Last Night I Had The Strangest Dream (3:14)
 84. Aloha Oe (3:00)
 
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/american-recordings/1442245246" >}}<br>
 
 
 

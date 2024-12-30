@@ -14,8 +14,8 @@ cover:
 additional_images:
     - "https://i.discogs.com/vUjhp9IsQF947uiJx9szE7ESXagIAP2G7zd0JZU9xng/rs:fit/g:sm/q:90/h:594/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MDA3/OTM2LTE2MDY0MDk5/MjUtNTIyMi5qcGVn.jpeg"
     - "https://i.discogs.com/GhA0WtZIwAsJntfv-GvvzlyzEhSgKC3ai8a_Jx-ZD4w/rs:fit/g:sm/q:90/h:590/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MDA3/OTM2LTE2MDY0MDk5/NDUtMjY1MC5qcGVn.jpeg"
-    - "https://i.discogs.com/sW86loP4hTZUKjprb3fVwf-jCb6lqCkqzcfr6PAn6Qo/rs:fit/g:sm/q:90/h:605/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MDA3/OTM2LTE2MDY0MDk5/NDYtNzA4Ny5qcGVn.jpeg"
-    - "https://i.discogs.com/e8lVW3iN2EKthqkjM22bdFazxwUnplBY_j-MZoCxsM0/rs:fit/g:sm/q:90/h:609/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MDA3/OTM2LTE2MDY0MDk5/NDctNTg4NC5qcGVn.jpeg"
+    - "https://i.discogs.com/OP0jPeEP3aVRwCw8Vq5SHbzrEHLmd3hD7P4eDefwGvw/rs:fit/g:sm/q:90/h:600/w:595/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MDA3/OTM2LTE2MDY0MDk5/NDYtNzA4Ny5qcGVn.jpeg"
+    - "https://i.discogs.com/NaopMCTf18WJz0Jcwgwv6Gn2WtatmTLwOaN9peIyCt8/rs:fit/g:sm/q:90/h:600/w:590/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MDA3/OTM2LTE2MDY0MDk5/NDctNTg4NC5qcGVn.jpeg"
     - "https://i.discogs.com/T3q-2THNOUbI9lCB_enlE5jRuPXFT4mYI0y1ACGXtac/rs:fit/g:sm/q:90/h:450/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MDA3/OTM2LTE1ODU0Mjkx/MjUtNzk3Ny5qcGVn.jpeg"
     - "https://i.discogs.com/haAYoPZZ3lYfpsfiJZAsBcmvQG5M5hZmatuXuqIpmfA/rs:fit/g:sm/q:90/h:450/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MDA3/OTM2LTE1ODU0Mjkx/NjctNjM0Mi5qcGVn.jpeg"
     - "https://i.discogs.com/9lV01QGr9vKzPot2xMPpVkmX-uRKSbtNNmI25l-Qfy8/rs:fit/g:sm/q:90/h:450/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MDA3/OTM2LTE1ODU0Mjky/MTUtOTI3OS5qcGVn.jpeg"
@@ -27,7 +27,8 @@ styles: ["Alternative Rock"]
 ---
 
 Fashion Nugget is the second studio album by alternative rock band Cake. It was released in 1996, and contains 14 songs. "The Distance" and "I Will Survive" became the most successful singles on the record, with the prior peaking at number 22 in the UK and at number 4 on the US Alternative Airplay Chart.
-The album was recorded at Paradise Studios in Sacramento, California.On December 9, 1996, the album was certified gold by the RIAA, and the next year, the album was certified platinum for shipments of one million copies.
+The album was recorded at Paradise Studios in Sacramento, California.
+On December 9, 1996, the album was certified gold by the RIAA, and the next year, the album was certified platinum for shipments of one million copies.
 
 
     
@@ -55,29 +56,15 @@ The album was recorded at Paradise Studios in Sacramento, California.On December
 
 
 ## Videos
-### Cake-Frank Sinatra from Fashion Nugget
-{{< youtube id="aAkWJmoL8KQ" title="Cake-Frank Sinatra from Fashion Nugget" >}}<br>
+### CAKE - The Distance (Official HD Video)
+{{< youtube id="F_HoMkkRHv8" title="CAKE - The Distance (Official HD Video)" >}}<br>
 ### More Videos
 
-- [CAKE - The Distance (Official HD Video)](https://www.youtube.com/watch?v=F_HoMkkRHv8)
-- [Cake-The Distance from Fashion Nugget](https://www.youtube.com/watch?v=GORDBKl8ibY)
-- [Cake-Friend Is a Four Letter Word  from Fashion Nugget](https://www.youtube.com/watch?v=Pj1Kx7AI_rw)
-- [Open Book](https://www.youtube.com/watch?v=0lrg1W7-zHo)
-- [Cake-Daria from Fashion Nugget](https://www.youtube.com/watch?v=avjMKjvUicE)
-- [Cake-Race Car Ya-Yas from Fashion Nugget](https://www.youtube.com/watch?v=cTIR270As1c)
 - [CAKE - I Will Survive (Official HD Video)](https://www.youtube.com/watch?v=f9rCUQjmkxU)
-- [Cake- I Will Survive from Fashion Nugget](https://www.youtube.com/watch?v=vUijC01vfUc)
 - [CAKE - Frank Sinatra (Official HD Video)](https://www.youtube.com/watch?v=7xw49Y-bYYk)
-- [Cake-Stickshifts and Safetybelts from Fashion Nugget](https://www.youtube.com/watch?v=60WKtfE_cvA)
-- [Cake-Perhaps, Perhaps, Perhaps from Fashion Nugget](https://www.youtube.com/watch?v=nEIbTdBSNTQ)
 - [CAKE - Nugget (Official Audio)](https://www.youtube.com/watch?v=tQ3VgWkgLr8)
-- [Cake-It's Coming Down from Fashion Nugget](https://www.youtube.com/watch?v=zknWYqboUzc)
-- [Nugget](https://www.youtube.com/watch?v=ov3Lh_ELdkI)
 - [CAKE - Frank Sinatra (Official Audio)](https://www.youtube.com/watch?v=rWonYwd5oL8)
-- [She'll Come Back to Me](https://www.youtube.com/watch?v=Qs15pNP69HM)
 - [The Distance](https://www.youtube.com/watch?v=Ol5Q4V4lJzk)
-- [Cake-Italian Leather Sofa from Fashion Nugget](https://www.youtube.com/watch?v=DuVSvSbnaUg)
-- [Cake-Sad Songs and Waltzes from Fashion Nugget](https://www.youtube.com/watch?v=UK-DcAcQ-7Y)
 
 ## Release Images
 {{< imageGrid >}}

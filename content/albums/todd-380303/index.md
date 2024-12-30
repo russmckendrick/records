@@ -17,6 +17,7 @@ additional_images:
     - "https://i.discogs.com/CLn06qKV7olmVlFC9KRKK2FcBn4JzUrv1H9s6b343bU/rs:fit/g:sm/q:90/h:593/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4MDMw/My0xMzUzMzMyNzc1/LTQxMzIuanBlZw.jpeg"
     - "https://i.discogs.com/GutuVyHaZUkJKZ-OITNUK4wSHS3-49E7b2lQDzstXiE/rs:fit/g:sm/q:90/h:600/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4MDMw/My0xMzUzMzMyNzg3/LTg0NDQuanBlZw.jpeg"
     - "https://i.discogs.com/p6DD6-UTJ4Jz0eqvtnGKZjSLemaY21sCTAavq1bzUGc/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4MDMw/My0xMzUzMzMyODAy/LTI5MzAuanBlZw.jpeg"
+    - "https://i.discogs.com/DKxyVE0dHEkZ86iRikasWhHx2u8jVIp0SESYRt3RA6A/rs:fit/g:sm/q:90/h:600/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4MDMw/My0xNzIzOTMyMDI3/LTU1ODQuanBlZw.jpeg"
     - "https://i.discogs.com/GlpWcuwIo86909a5EJw-fLy6XzT-smd02QUgFFoQVhk/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4MDMw/My0xMzUzMzMyODE2/LTE0MjAuanBlZw.jpeg"
     - "https://i.discogs.com/bWVIOMqZ65Np1hn5lW12Zt5xbXJkp2TAPxhkXFaQ1B0/rs:fit/g:sm/q:90/h:527/w:420/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4MDMw/My0xMzEzMzg5MDQ2/LmpwZWc.jpeg"
     - "https://i.discogs.com/uPvRfvf5mdgEBYw0If_Q5e149Q1qOMC7wbKQ04N3-hA/rs:fit/g:sm/q:90/h:450/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4MDMw/My0xNjc2MDE5MjU1/LTg3OTcuanBlZw.jpeg"
@@ -24,7 +25,7 @@ additional_images:
     - "https://i.discogs.com/u82XEKTAqnP8kznDIXgVkCdHrdn6gOsOwlWLuSridT4/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4MDMw/My0xNjc2MDE5MjY3/LTk3NzUuanBlZw.jpeg"
     - "https://i.discogs.com/iMSUuvE0WrEX2Q1XnAioJLh68SlBMSt02b0BwMoa1nM/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4MDMw/My0xNjc2MDE5MjY5/LTgwOTguanBlZw.jpeg"
     - "https://i.discogs.com/X99QyMNPn8RnEzu6uAW9firJBRGBsIRM-V8W18wdzzY/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4MDMw/My0xNjc2MDE5Mjcx/LTczNDUuanBlZw.jpeg"
-    - "https://i.discogs.com/hoecJFn4t3nGSF_bFjrX5TM0azbS_0-niNsQQ_Od3Ek/rs:fit/g:sm/q:90/h:733/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4MDMw/My0xNjc2MDE5MjQy/LTI1NTMuanBlZw.jpeg"
+    - "https://i.discogs.com/686tb4LtY3EQKRbjAbFmi3bu6GIXyTLIlLC3C7lbq3M/rs:fit/g:sm/q:90/h:600/w:490/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4MDMw/My0xNjc2MDE5MjQy/LTI1NTMuanBlZw.jpeg"
     - "https://i.discogs.com/n_sLw7v3Tz5tfzRol8DMN6F56Rv0hauz27FykNq9k3M/rs:fit/g:sm/q:90/h:450/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4MDMw/My0xNjc2MDE5MjQ1/LTc3NDUuanBlZw.jpeg"
     - "https://i.discogs.com/XdnuPlcnKnrLFL1EkFOrl5nKZPkBchOZTir-NPQdeqA/rs:fit/g:sm/q:90/h:213/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4MDMw/My0xMzUzMzMyODI4/LTM4MzguanBlZw.jpeg"
     - "https://i.discogs.com/kud-fIxPEzwbmUUl7kM36S-992gYGjJXINeVY_SUtwQ/rs:fit/g:sm/q:90/h:278/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4MDMw/My0xMzUzMzMyODQw/LTE2MDIuanBlZw.jpeg"
@@ -59,13 +60,15 @@ This article is a discography of American rock musician Todd Rundgren.
 17. Sons Of 1984 (4:37)
 
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/the-very-best-of-todd-rundgren/107636259" >}}<br>
+{{< applemusic url="https://music.apple.com/gb/album/todd-rundgrens-utopia/100982409" >}}<br>
 
 
 ## Videos
-### Todd Rundgren - Todd (Full Album 1974)
-{{< youtube id="7X_HQXfyLVQ" title="Todd Rundgren - Todd (Full Album 1974)" >}}<br>
+### The Last Ride (2015 Remaster)
+{{< youtube id="Ch1cX5xDi3M" title="The Last Ride (2015 Remaster)" >}}<br>
+### More Videos
 
+- [A Dream Goes on Forever (2015 Remaster)](https://www.youtube.com/watch?v=xt90oOl0IE8)
 
 ## Release Images
 {{< imageGrid >}}

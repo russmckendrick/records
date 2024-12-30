@@ -13,10 +13,17 @@ cover:
     caption: "Don't Give Up On Me by Solomon Burke"
 additional_images:
     - "https://i.discogs.com/ddewhSIN09EMUYLu1DzzaT4YkWhlcmz-ABDcZvrqO20/rs:fit/g:sm/q:90/h:599/w:597/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1MzM2/OTMwLTE2Nzk1ODM1/NjYtNzQ2Ny5qcGVn.jpeg"
+    - "https://i.discogs.com/yaG_Znk6AXv7Phcvo2QRRtPD2wbdvvUeSgOokaumoFA/rs:fit/g:sm/q:90/h:600/w:289/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1MzM2/OTMwLTE3MDQ1ODU4/ODEtMTc2NS5qcGVn.jpeg"
 genres: ["Funk / Soul", "Blues"]
 styles: ["Soul"]
 ---
 
+Don't Give Up on Me is a studio album by American R&B/Soul singer Solomon Burke, recorded and released in 2002 on Fat Possum Records. The album won the Grammy Award for Best Contemporary Blues Album. It is noteworthy for the contributions of original and previously unreleased compositions by top-rank songwriters, the effect of which placed Burke back in the public eye for a time. Guest stars are Daniel Lanois, who plays electric guitar on "Stepchild", and The Blind Boys of Alabama, who feature on backing vocals for "None of Us Are Free". "None of Us Are Free" was also featured at the end of the sixth episode ("Spin") of the second season of House. "Fast Train" was featured during the ending montage of the season three finale of The Wire.
+The title track, written by the team of Dan Penn and Carson Whitsett with Hoy Lindsey, gained popularity (and introduced Burke to a new generation) when it was used several times on the popular primetime teen soap opera The O.C. as one of the signature song of adult couple Sandy and Kirsten Cohen, played by Peter Gallagher and Kelly Rowan. It became a staple of Burke's live performances and has been covered by Joe Cocker, as well as Peter Gallagher, who also performed the song on The O.C.
+
+
+    
+    
 
 
 ## Tracklisting
@@ -38,9 +45,19 @@ styles: ["Soul"]
 
 
 ## Videos
-### Salomon Burke  -Dont give up on me  -2002 (FULL ALBUM)
-{{< youtube id="FR73etxqFx4" title="Salomon Burke  -Dont give up on me  -2002 (FULL ALBUM)" >}}<br>
+### Don't Give Up On Me
+{{< youtube id="tbvZ6CawWEY" title="Don't Give Up On Me" >}}<br>
+### More Videos
 
+- [Fast Train](https://www.youtube.com/watch?v=mqmxkGjow1A)
+- [Only A Dream](https://www.youtube.com/watch?v=mKShWA7lvbI)
+- [Diamond In Your Mind](https://www.youtube.com/watch?v=pLp7kH4jxRA)
+- [Soul Searchin'](https://www.youtube.com/watch?v=GdG3ngeyaXQ)
+- [The Judgement](https://www.youtube.com/watch?v=tE4tk8bl784)
+- [The Other Side Of The Coin](https://www.youtube.com/watch?v=Q8lu8LqG2oQ)
+- [Sit This One Out](https://www.youtube.com/watch?v=peRzfSGUMcU)
+- [Stepchild](https://www.youtube.com/watch?v=XJngNK33msU)
+- [Flesh And Blood](https://www.youtube.com/watch?v=dR43hOzfkbw)
 
 ## Release Images
 {{< imageGrid >}}
@@ -48,8 +65,9 @@ styles: ["Soul"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
+| Wikipedia URL | https://en.wikipedia.org/wiki/Don%27t_Give_Up_on_Me_(album) |
 | Format         | Vinyl 2× LP 45 RPM Album Limited Edition Reissue Repress (Gatefold - Transparent) |
 | Label          | Anti- |
 | Catalog Number | 0358-3 |
-| Notes | 2022 Limited edition of 2000 copies on transparent vinyl |
+| Notes | very similar to [r25358653], except this is a 2022 Limited edition of 2000 copies on transparent vinyl |
 | Discogs URL    | [Solomon Burke - Don't Give Up On Me](https://www.discogs.com/release/25336930-Solomon-Burke-Dont-Give-Up-On-Me) |

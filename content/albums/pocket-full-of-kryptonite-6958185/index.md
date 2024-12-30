@@ -13,10 +13,21 @@ cover:
     caption: "Pocket Full of Kryptonite  by Spin Doctors"
 additional_images:
     - "https://i.discogs.com/J6EeTZcbtYWuGqhOt6ZliDWRMWkcCy7Df1SPSy6t1aU/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY5NTgx/ODUtMTQzMDQwNTg3/Ni04MDk0LmpwZWc.jpeg"
+    - "https://i.discogs.com/G5NEJ7zGsedpbFGYX4ZfdjrZ-wWb8v36tljjM-jN0C8/rs:fit/g:sm/q:90/h:600/w:596/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY5NTgx/ODUtMTcyOTMzNzgy/Mi05MTE4LmpwZWc.jpeg"
+    - "https://i.discogs.com/DQypF1V_UbNpdm9Bvnc87O_tg-W2vt4pyyuQZvHbqkI/rs:fit/g:sm/q:90/h:600/w:337/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY5NTgx/ODUtMTcyOTMzODUx/OC01NDMwLmpwZWc.jpeg"
+    - "https://i.discogs.com/ZDpU8dkp0O5GKnN_AZwch683vb5JVSbPUgGy2Kh4woE/rs:fit/g:sm/q:90/h:600/w:337/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY5NTgx/ODUtMTcyOTMzODUz/My0zNTY2LmpwZWc.jpeg"
+    - "https://i.discogs.com/momWgubngRzDFokqPZyQBPoi4089P-I9gjgkk2QW1pU/rs:fit/g:sm/q:90/h:600/w:337/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY5NTgx/ODUtMTcyOTMzODU0/OS0yNTg1LmpwZWc.jpeg"
 genres: ["Rock"]
 styles: ["Indie Rock"]
 ---
 
+Pocket Full of Kryptonite is the debut studio album by the American rock band Spin Doctors, released in August 1991. The album initially sold a respectable 60,000 copies in late 1991 due to its growing hardcore fanbase, before several radio stations (including WEQX in Vermont) started playing the single "Little Miss Can't Be Wrong" in mid-1992. The combined strength of the single along with the follow-up "Two Princes" led to the album's peak at Nos. 1 and 3 on the Billboard Top Heatseekers and Billboard 200 albums charts, respectively. It is currently the band's best selling album, and was certified 5× Platinum by the RIAA.
+It was remastered and reissued in 2011 as a 20th-anniversary edition, with a bonus track added to the original album and a second disc of demos previously released only on cassette, plus two live tracks.
+The album's title is a quote from the opening track, "Jimmy Olsen's Blues", a humorous song sung from the point of view of Jimmy Olsen, a character in the Superman comic book series. In the song, Jimmy Olsen tries to woo Lois Lane away from Superman, stating "I got a pocket full of Kryptonite," referring to a fictional substance that weakens Superman. The album cover, showing a phone booth, refers to Clark Kent frequently ducking into a nearby phone booth to change into his Superman attire.
+
+
+    
+    
 
 
 ## Tracklisting
@@ -41,32 +52,10 @@ styles: ["Indie Rock"]
 {{< youtube id="GrQCro68sRU" title="Spin Doctors - Jimmy Olsen's Blues (New Version)" >}}<br>
 ### More Videos
 
-- [Spin Doctors - What Time Is It?](https://www.youtube.com/watch?v=e86omL8uzks)
 - [Spin Doctors - Little Miss Can't Be Wrong](https://www.youtube.com/watch?v=cXWbMu4PtpE)
-- [Forty or Fifty](https://www.youtube.com/watch?v=a969Vyr_x4I)
-- [Refrigerator Car](https://www.youtube.com/watch?v=_aZ8KV_SyIE)
-- [More Than She Knows](https://www.youtube.com/watch?v=h6qAP__v1S4)
 - [Spin Doctors - Two Princes](https://www.youtube.com/watch?v=wsdy_rct6uo)
-- [Off My Line](https://www.youtube.com/watch?v=RgXp6yyDmK8)
+- [Spin Doctors - What Time Is It?](https://www.youtube.com/watch?v=e86omL8uzks)
 - [Spin Doctors - How Could You Want Him (When You Know You Can Have Me)](https://www.youtube.com/watch?v=HOGBcYN1Hu4)
-- [How Could You Want Him (When You Know You Can Have Me)](https://www.youtube.com/watch?v=yO3Ab1p7yqY)
-- [Shinbone Alley / Hard to Exist](https://www.youtube.com/watch?v=hhy_WWXDjEI)
-- [Jimmy Olsen's Blues ((from Can't Say No demo, 1989))](https://www.youtube.com/watch?v=8HvoKpLZMZw)
-- [Can't Say No ((from Can't Say No demo, 1989))](https://www.youtube.com/watch?v=CcaG_Driz8Q)
-- [Hard To Exist](https://www.youtube.com/watch?v=8gbPCEPW93g)
-- [At This Hour ((from Can't Say No demo, 1989))](https://www.youtube.com/watch?v=U_xDw5ws-EM)
-- [40 Of 50 ((from Can't Say No demo, 1989))](https://www.youtube.com/watch?v=MiknvRc9sjs)
-- [Big Fat Funky Booty ((from Can't Say No demo, 1989))](https://www.youtube.com/watch?v=WvpEbIMgMyw)
-- [What Time Is It? ((from Piece Of Glass demo, 1990))](https://www.youtube.com/watch?v=ev4fg1Mkp-I)
-- [How Could You Want Him (When You Know You Can Have Me) ((from Piece Of Glass demo, 1990))](https://www.youtube.com/watch?v=rvofeUijLZk)
-- [Hungry Hamed's ((from Piece Of Glass demo, 1990))](https://www.youtube.com/watch?v=q0w6SIJyFcY)
-- [House ((from Piece Of Glass demo, 1990))](https://www.youtube.com/watch?v=XJpgh9INNYQ)
-- [Two Princes ((from Piece Of Glass demo, 1990))](https://www.youtube.com/watch?v=k88C06qS2PU)
-- [Refrigerator Car ((from Piece Of Glass demo, 1990))](https://www.youtube.com/watch?v=-4K3WVsZfWY)
-- [Rosetta Stone ((from Piece Of Glass demo, 1990))](https://www.youtube.com/watch?v=4kJFR6ScpbA)
-- [Freeway Of The Plains ((from Piece Of Glass demo, 1990))](https://www.youtube.com/watch?v=ltjUt3Om3Zw)
-- [Turn It Upside Down ((live 7-19-1993, Kingswood Music Theater, Toronto, Canada))](https://www.youtube.com/watch?v=YMh6cGih564)
-- [Little Miss Can't Be Wrong ((live 9-25-1990 bootleg, Continental Divide, New York, NY))](https://www.youtube.com/watch?v=gARswxK2D-E)
 
 ## Release Images
 {{< imageGrid >}}
@@ -74,6 +63,7 @@ styles: ["Indie Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
+| Wikipedia URL | https://en.wikipedia.org/wiki/Pocket_Full_of_Kryptonite |
 | Format         | Vinyl LP Album Repress |
 | Label          | Epic |
 | Catalog Number | 88875013561 |

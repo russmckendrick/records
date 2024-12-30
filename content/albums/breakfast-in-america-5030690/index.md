@@ -21,7 +21,10 @@ genres: ["Rock"]
 styles: ["Pop Rock"]
 ---
 
-Breakfast in America is the sixth studio album by the English rock band Supertramp, released by A&M Records on 29 March 1979. It was recorded in 1978 at The Village Recorder in Los Angeles. It spawned four US Billboard hit singles: "The Logical Song" (No. 6), "Goodbye Stranger" (No. 15), "Take the Long Way Home" (No. 10) and "Breakfast in America" (No. 62). In the UK, "The Logical Song" and the title track were both top 10 hits, the only two the group had in their native country.At the 22nd Annual Grammy Awards in 1980, Breakfast in America won two awards for Best Album Package and Best Engineered Non-Classical Recording, as well as nominations for Album of the Year and Best Pop Performance by a Duo or Group with Vocals. It holds an RIAA certification of quadruple platinum and became Supertramp's biggest-selling album, with more than 4 million copies sold in the US and more than 3 million in France (the fourth ever best-selling album). It was No. 1 on Billboard Pop Albums Chart for six weeks, until 30 June 1979. The album also hit No. 1 in Norway, Austria, West Germany, the Netherlands, Spain, Canada, Australia and France.
+Breakfast in America is the sixth studio album by the English rock band Supertramp, released on 16 March 1979, by A&M Records. It was recorded in 1978 at The Village Recorder in Los Angeles. It spawned three US Billboard hit singles: "The Logical Song" (No. 6), "Goodbye Stranger" (No. 15), and "Take the Long Way Home" (No. 10). In the UK, "The Logical Song" and the title track were both top 10 hits, the only two the group had in their native country.
+At the 22nd Annual Grammy Awards in 1980, Breakfast in America won two awards for Best Album Package and Best Engineered Non-Classical Recording, as well as nominations for Album of the Year and Best Pop Performance by a Duo or Group with Vocals. It holds an Recording Industry Association of America (RIAA) certification of quadruple platinum and became Supertramp's biggest-selling album, with more than 4 million copies sold in the US and more than 3 million in France (the fourth ever best-selling album). It was No. 1 on Billboard Pop Albums Chart for six weeks, until 30 June 1979. The album also hit No. 1 in Norway, Austria, West Germany, the Netherlands, Spain, Canada, Australia and France.
+
+
     
     
 
@@ -39,23 +42,23 @@ Breakfast in America is the sixth studio album by the English rock band Supertra
 10. Child Of Vision (7:31)
 
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/breakfast-in-america-remastered/1440512054" >}}<br>
+{{< applemusic url="https://music.apple.com/gb/album/breakfast-in-america-single/588764133" >}}<br>
 
 
 ## Videos
-### Supertramp - Breakfast In America (Official Video)
-{{< youtube id="gD1EkIbIUUc" title="Supertramp - Breakfast In America (Official Video)" >}}<br>
+### Supertramp - Gone Hollywood (Audio)
+{{< youtube id="U1ZURsd17GI" title="Supertramp - Gone Hollywood (Audio)" >}}<br>
 ### More Videos
 
-- [Supertramp - The Logical Song (Official Video)](https://www.youtube.com/watch?v=k4tdefi0Znc)
-- [Supertramp - Goodbye Stranger (Official Video)](https://www.youtube.com/watch?v=VoMwGjwhl5A)
-- [Supertramp - Breakfast In America (HQ)](https://www.youtube.com/watch?v=3YQb-0P320s)
-- [Supertramp - Take The Long Way Home (BEST QUALITY SOUND)](https://www.youtube.com/watch?v=LPRrHyXchEY)
-- [Supertramp - Breakfast In America (Official 4K Video)](https://www.youtube.com/watch?v=aQdoUUi3iJ8)
-- [S̲u̲pe̲rtra̲mp - B̲re̲a̲kfa̲st In A̲me̲rica̲ (Deluxe Edition) Full Album 1979](https://www.youtube.com/watch?v=BL3iuizcr0Q)
-- [S͟u͟p͟e͟r͟t͟r͟amp͟ ͟B͟r͟e͟a͟k͟f͟a͟s͟t͟ ͟i͟n͟ ͟A͟m͟e͟r͟i͟ca͟ full album 1979 🇬🇧](https://www.youtube.com/watch?v=Co44YRyPeCI)
-- [Goodbye Stranger (2010 Remastered)](https://www.youtube.com/watch?v=u8pVZ5hTGJQ)
-- [The Logical Song](https://www.youtube.com/watch?v=pP8iUyb9Gn8)
+- [Supertramp - The Logical Song (Audio)](https://www.youtube.com/watch?v=w31GDDH_enM)
+- [Supertramp - Goodbye Stranger (Audio)](https://www.youtube.com/watch?v=eVRxeAnHhc4)
+- [Supertramp - Breakfast In America (Audio)](https://www.youtube.com/watch?v=D6bA59wDgYE)
+- [Supertramp - Oh Darling (Audio)](https://www.youtube.com/watch?v=S26A9oTCXAA)
+- [Supertramp - Take The Long Way Home (Audio)](https://www.youtube.com/watch?v=_Pts0jqX-yY)
+- [Supertramp - Lord It Is Mine (Audio)](https://www.youtube.com/watch?v=qkw-PlOvA58)
+- [Supertramp - Just Another Nervous Wreck (Audio)](https://www.youtube.com/watch?v=zah1klIbrL0)
+- [Supertramp - Casual Conversations (Audio)](https://www.youtube.com/watch?v=BsVL6oaOGEk)
+- [Supertramp - Child Of Vision (Audio)](https://www.youtube.com/watch?v=SEReeNV8KpQ)
 
 ## Release Images
 {{< imageGrid >}}

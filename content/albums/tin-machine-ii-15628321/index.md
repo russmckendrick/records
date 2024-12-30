@@ -19,14 +19,14 @@ additional_images:
     - "https://i.discogs.com/WIzpQkCICEB7RxQWCk0OGlYlYEt60M25LsFiIN1SiUE/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NjI4/MzIxLTE1OTY4ODgz/MzYtOTI3NS5qcGVn.jpeg"
     - "https://i.discogs.com/JxLWoes-SkG_YsjxdVS0RC4VAFgEYYImV6c0yX3JahQ/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NjI4/MzIxLTE1OTY4ODgz/MzYtNTg5NC5qcGVn.jpeg"
     - "https://i.discogs.com/NVw1ULDEtDiRa2vTvBs6Ujxc4pd_cIIEuEHxxAMoJA4/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NjI4/MzIxLTE1OTY4ODgz/MzYtOTIwNi5qcGVn.jpeg"
-    - "https://i.discogs.com/4ZtMz1w1j0m5Q1lEeDFKzTE3pD6IHgXWe0h6iMZBItY/rs:fit/g:sm/q:90/h:797/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NjI4/MzIxLTE1OTY4ODgz/MzYtMzk5NS5qcGVn.jpeg"
+    - "https://i.discogs.com/vWqbiRMbdO9X2RSOLDiEIhitmtK9Mxmo4_cXQu5_wbo/rs:fit/g:sm/q:90/h:600/w:451/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NjI4/MzIxLTE1OTY4ODgz/MzYtMzk5NS5qcGVn.jpeg"
     - "https://i.discogs.com/s6L1vCu8bzVrLvgkv99IhQp_wrdxUsESTluSpcNmcnw/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NjI4/MzIxLTE1OTY4ODgz/MzYtOTk1Ny5qcGVn.jpeg"
     - "https://i.discogs.com/8DuHx6mB0VWq2VUjCMqkirDglsGbGVDk_JFqKBsqrGk/rs:fit/g:sm/q:90/h:450/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NjI4/MzIxLTE1OTc2Mjc4/ODEtMTc4Ny5qcGVn.jpeg"
 genres: ["Rock"]
 styles: ["Alternative Rock"]
 ---
 
-Tin Machine II is the second and final studio album by Anglo-American rock group Tin Machine, released on 2 September 1991 through Victory Music in association with London Records. The band, composed of English singer-songwriter David Bowie, Reeves Gabrels on guitar and brothers Tony Fox and Hunt Sales on bass and drums, respectively, recorded it in Sydney, Australia in late 1989 at the conclusion of the Tin Machine Tour. After Bowie completed his solo Sound+Vision Tour in late 1990, recording resumed in Los Angeles, California until March 1991. The production was handled by Tin Machine and Tim Palmer, who produced their debut studio album (1989), with additional production by Hugh Padgham on "One Shot". While the album musically retains a hard rock sound, the songs are more melodic compared to its predecessor, with lyrics focusing on love.
+Tin Machine II is the second and final studio album by the Anglo-American rock group Tin Machine, released on 2 September 1991 through Victory Music. The band, composed of David Bowie, Reeves Gabrels on guitar and brothers Tony Fox and Hunt Sales on bass and drums, respectively, recorded it in Sydney, Australia in late 1989 at the conclusion of the Tin Machine Tour. After Bowie completed his solo Sound+Vision Tour in late 1990, recording resumed in Los Angeles, California until March 1991. The production was handled by Tin Machine and Tim Palmer, who produced their debut studio album (1989), with additional production by Hugh Padgham on "One Shot". While the album musically retains a hard rock sound, the songs are more melodic compared to its predecessor, with lyrics focusing on love.
 The cover artwork features four Greek Kouroi and was controversial in the US due to the statues' genitalia. Tin Machine II received mostly mixed reviews from music critics, with many highlighting individual tracks but considering the project as a whole mediocre. Some recognised it as an improvement over Tin Machine. Supported by three singles, the album peaked at number 23 in the UK and number 126 in the US. The band's accompanying It's My Life Tour received mixed reviews; a live album from the tour, Tin Machine Live: Oy Vey, Baby, was released in 1992. At the tour's completion, Tin Machine disbanded and Bowie resumed his solo career, releasing his eighteenth studio album, Black Tie White Noise (1993). Gabrels remained Bowie's collaborator for the rest of the 1990s. Bowie's biographers have given Tin Machine II mixed reactions, with most recognising it as inconsistent in quality and panning two tracks sung by Hunt Sales. The album was reissued for the first time in 2020 on both vinyl and CD.
     
     
@@ -47,6 +47,8 @@ The cover artwork features four Greek Kouroi and was controversial in the US due
 12. Goodbye Mr. Ed (3:24)
 13. Hammerhead (0:58)
 
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/tin-machine-single/1125283231" >}}<br>
 
 
 ## Videos
@@ -54,12 +56,10 @@ The cover artwork features four Greek Kouroi and was controversial in the US due
 {{< youtube id="lFMmyaPrNkM" title="Tin Machine - Tin Machine II -【1991】 Full Album" >}}<br>
 ### More Videos
 
-- [Tin Machine - If There Is Something](https://www.youtube.com/watch?v=c7QYO-1IQ3I)
+- [TIN MACHINE II ~ FULL ALBUM](https://www.youtube.com/watch?v=kirFZVEN48Y)
+- [Tin Machine – Tin Machine II](https://www.youtube.com/watch?v=KJ8XfO7YTdo)
+- [Tin Machine - Tin Machine II -【1991】 Full Album](https://www.youtube.com/watch?v=lFMmyaPrNkM)
 - [David Bowie - Tin Machine II (1991)](https://www.youtube.com/watch?v=nGfCw8zluNM)
-- [David Bowie & Tin Machine - Amlapura](https://www.youtube.com/watch?v=2qCXUldOf1s)
-- [Tin machine you belong in Rock n Roll](https://www.youtube.com/watch?v=Ok5A8VoOMis)
-- [Tin Machine - Baby Universal (music video version)](https://www.youtube.com/watch?v=E7q3FDDmqmA)
-- [Tin Machine - One Shot](https://www.youtube.com/watch?v=esu90pt3aTo)
 
 ## Release Images
 {{< imageGrid >}}

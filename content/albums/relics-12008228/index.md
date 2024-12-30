@@ -17,8 +17,8 @@ additional_images:
     - "https://i.discogs.com/plLuTBifG6GhDluI5GjxCipRKRNaWtEsD9nwVy522Mk/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMDA4/MjI4LTE2MzcyNDQ4/NzMtOTQ1MC5qcGVn.jpeg"
     - "https://i.discogs.com/T6b22nLDxMYpEllMOmAupAMkMpoCa5DNqoKR6aIzdqw/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMDA4/MjI4LTE1Mjc3NzU0/NDUtNjcyMC5qcGVn.jpeg"
     - "https://i.discogs.com/WmutmCOFmGYbh5L3r3tqGZWwEe_nKHZBJF3JxFIflWk/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMDA4/MjI4LTE1Mjc3NzU0/NDYtOTYyMy5qcGVn.jpeg"
-    - "https://i.discogs.com/PPjvagFzXGgsXbcAYl-xifC-fNA6PQ9dJZjYGEKKeu4/rs:fit/g:sm/q:90/h:600/w:296/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMDA4/MjI4LTE1Mjc3NzU0/NDUtOTA4Ny5qcGVn.jpeg"
     - "https://i.discogs.com/xPmA5JsKYb4wUXvhvYzaaDcXVlGbbTp5OyRkOiTeupo/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMDA4/MjI4LTE2MzcyNDQ4/NzItNTI4MS5qcGVn.jpeg"
+    - "https://i.discogs.com/PPjvagFzXGgsXbcAYl-xifC-fNA6PQ9dJZjYGEKKeu4/rs:fit/g:sm/q:90/h:600/w:296/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMDA4/MjI4LTE1Mjc3NzU0/NDUtOTA4Ny5qcGVn.jpeg"
 genres: ["Rock"]
 styles: ["Psychedelic Rock", "Prog Rock"]
 ---
@@ -48,7 +48,12 @@ Relics (subtitle: A Bizarre Collection of Antiques & Curios) is a 1971 compilati
 {{< applemusic url="https://music.apple.com/gb/album/relics/734655586" >}}<br>
 
 
+## Videos
+### Pink Floyd   Arnold Layne.....yerdenizplak.com İstanbul Kadıköy
+{{< youtube id="-Jwa438LNJs" title="Pink Floyd   Arnold Layne.....yerdenizplak.com İstanbul Kadıköy" >}}<br>
+### More Videos
 
+- [Pink Floyd - Interstellar Overdrive Live In Stockholm (1967) HD](https://www.youtube.com/watch?v=15quQUN4cfg)
 
 ## Release Images
 {{< imageGrid >}}

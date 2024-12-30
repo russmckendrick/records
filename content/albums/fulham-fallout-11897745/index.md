@@ -14,7 +14,7 @@ cover:
 additional_images:
     - "https://i.discogs.com/hPIcVHRfStoLbDIJmlsxZSkubbuXOgt5TW0zM042wNM/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExODk3/NzQ1LTE1MjQzNDQ0/MDgtNzA4NC5qcGVn.jpeg"
     - "https://i.discogs.com/bC6z2EneVTZEzjSpdZKm2ciqZ5axhLS6n5xsrzu8rEA/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExODk3/NzQ1LTE1MjQzNDQ0/MTQtMzk2MS5qcGVn.jpeg"
-    - "https://i.discogs.com/KZSks4-DNfE8buGQMGsFRzV9YwNjy4SNcoX8mFGOHXc/rs:fit/g:sm/q:90/h:621/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExODk3/NzQ1LTE1MjQzNDQ0/NTYtMzU3Ni5qcGVn.jpeg"
+    - "https://i.discogs.com/dkNkmrOGigkRJNVN3EykytuwC0TfNM5nxom-KA0tnCA/rs:fit/g:sm/q:90/h:600/w:579/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExODk3/NzQ1LTE1MjQzNDQ0/NTYtMzU3Ni5qcGVn.jpeg"
     - "https://i.discogs.com/HcY-lkzQ37TFuqdCLZLnXgXCu2R9GfcVNJWosJdosLY/rs:fit/g:sm/q:90/h:316/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExODk3/NzQ1LTE1MjQzNDQ0/NjgtMjE3NC5qcGVn.jpeg"
 genres: ["Rock"]
 styles: ["Punk"]
@@ -70,6 +70,7 @@ The style on this album is a good demonstration of how they earned the nickname 
 - [Then I Kissed Her (Demo)](https://www.youtube.com/watch?v=FnEmV-zPAao)
 - [I Love the Dark (Demo)](https://www.youtube.com/watch?v=raIG1_yTzq4)
 - [Freak Show (LP Demo)](https://www.youtube.com/watch?v=Y4nX8gxIqJM)
+- [Ain't Got a Clue](https://www.youtube.com/watch?v=hog_NKEkbtc)
 
 ## Release Images
 {{< imageGrid >}}

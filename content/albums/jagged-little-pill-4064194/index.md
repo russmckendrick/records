@@ -4,7 +4,6 @@ artist_name: "Alanis Morissette"
 artist: "alanis-morissette"
 album_name: "Jagged Little Pill"
 date: 2017-04-17T13:21:29.000000Z
-release_date: "1995-06-13"
 release_id: "4064194"
 slug: "jagged-little-pill-4064194"
 hideSummary: true
@@ -15,26 +14,27 @@ cover:
 additional_images:
     - "https://i.discogs.com/GaHMYF9fnXXF7kSzgn08UopzsTN7TX3RGw-J7WCDL6M/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQwNjQx/OTQtMTY3NzI2NDAy/NC04MTY4LmpwZWc.jpeg"
     - "https://i.discogs.com/f4reiRpAmCyr8tcuwql8O5HtSNMB-ZIzGLaFIRfDivM/rs:fit/g:sm/q:90/h:592/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQwNjQx/OTQtMTY3NzI2NDAy/NC02OTk1LmpwZWc.jpeg"
-    - "https://i.discogs.com/QRf5sgvJhmepVnYOuj3lBkOTL6hWuday1fge_5Gb6jA/rs:fit/g:sm/q:90/h:620/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQwNjQx/OTQtMTY3NzI2NDAy/NC03NDUzLmpwZWc.jpeg"
+    - "https://i.discogs.com/5RHLEvBtdFc5P8j4saFvrtNGC_iT3GZsQTqiyz66ZCE/rs:fit/g:sm/q:90/h:600/w:580/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQwNjQx/OTQtMTY3NzI2NDAy/NC03NDUzLmpwZWc.jpeg"
     - "https://i.discogs.com/gcC1o9Kr6kLAgHZ8ZJuiqtON-OiFYVbCB6VkL4uYcW0/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQwNjQx/OTQtMTY3NzI2NDAy/NC0xOTM0LmpwZWc.jpeg"
     - "https://i.discogs.com/QfwNvGkKZBYuUn4z0bogfHngu6_v7CtPnoVtKYFnYzo/rs:fit/g:sm/q:90/h:589/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQwNjQx/OTQtMTY3NzI2NDAy/Mi03NTkxLmpwZWc.jpeg"
     - "https://i.discogs.com/Zf8e7dpjngQI9SC-Ujyaej-Tj8FoSBAQbDYSDjmpqbM/rs:fit/g:sm/q:90/h:594/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQwNjQx/OTQtMTY3NzI2NDAy/NC02NjgxLmpwZWc.jpeg"
-    - "https://i.discogs.com/Kyl35v14KdbkxPwBz-zzRFxU0pe0hY-dFd4g0z4LLh8/rs:fit/g:sm/q:90/h:819/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQwNjQx/OTQtMTUzNDg2OTEw/MC05NjA0LmpwZWc.jpeg"
-    - "https://i.discogs.com/uhLX0IZ6WGgdlW6lxk6xIGwkPwiERs9di6OXOnsmEEI/rs:fit/g:sm/q:90/h:649/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQwNjQx/OTQtMTYyMTk0ODgy/MS0yNTQ4LmpwZWc.jpeg"
+    - "https://i.discogs.com/7qE62qk9IyhEgSNaKKODf89rN8UvfQhgoChrjIL2lyw/rs:fit/g:sm/q:90/h:600/w:439/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQwNjQx/OTQtMTUzNDg2OTEw/MC05NjA0LmpwZWc.jpeg"
+    - "https://i.discogs.com/oKOH1TQQ0AjGuhrO1QEZsjib0XKG-wkvYx9hemoc8UI/rs:fit/g:sm/q:90/h:600/w:554/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQwNjQx/OTQtMTYyMTk0ODgy/MS0yNTQ4LmpwZWc.jpeg"
     - "https://i.discogs.com/Wy46Xp-RsA_wLV2Oy-_5qYkrFcmtTT9TOoEAItaBh9Y/rs:fit/g:sm/q:90/h:572/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQwNjQx/OTQtMTUzNDg2OTA5/Ny01MTUwLmpwZWc.jpeg"
     - "https://i.discogs.com/yLfCMoS6c6zyNjI1cXrrt-VyG2ev-fHmXUnQFekzR7o/rs:fit/g:sm/q:90/h:115/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQwNjQx/OTQtMTUzNDg2OTA5/OC03NDA0LmpwZWc.jpeg"
     - "https://i.discogs.com/Nk8SFal6aFWsaagPb2TaF-vmWmS2V7MLVJ4DGG6AxVI/rs:fit/g:sm/q:90/h:175/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQwNjQx/OTQtMTUzNDg2OTA5/OC00MjAxLmpwZWc.jpeg"
     - "https://i.discogs.com/uTiNHLtiTfi5eDUQ39WlcThTuDWhaMOECf0E87cUxmI/rs:fit/g:sm/q:90/h:74/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQwNjQx/OTQtMTUzNDg2OTA5/OC01MTk2LmpwZWc.jpeg"
-    - "https://i.discogs.com/h_CKB70XCXZsssFqR0Zx-bL1prIWyYjVxvrkGrGZ-nA/rs:fit/g:sm/q:90/h:1139/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQwNjQx/OTQtMTUzNDg2OTA5/OS0xMjEzLmpwZWc.jpeg"
+    - "https://i.discogs.com/0tJK24bRQuMULpGXxO3kXYgk4DSNs3422mtXZg3EAeA/rs:fit/g:sm/q:90/h:600/w:316/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQwNjQx/OTQtMTUzNDg2OTA5/OS0xMjEzLmpwZWc.jpeg"
 genres: ["Rock"]
 styles: ["Alternative Rock"]
 ---
 
-Everyone has a moment on <i>Jagged Little Pill</i> that they feel like they belong to—a spitting wisecrack or rhetorical question that struck a nerve early on and continued to reveal its wisdom with age, time and experience. Alanis Morissette’s era-defining album is full of these moments—snarling, eye-rolling, ugly truths that feel so good to say out loud. Like Morissette, whose arrival bridged the gap between grunge, alternative and mainstream pop, much of the album’s enduring magnetism is in its embrace of chaos and contradiction. Her blockbuster third LP (following two teen-pop records that went Top 40 in her native Canada) was poetic and straightforward, cynical and idealistic, sarcastic and wide-eyed, lost but hopeful (baby!). It is also fearlessly confrontational, with sharp-edged criticisms of Catholicism, technology and boyish men that few artists since have had the guts to echo. So when the 21-year-old former Nickelodeon star released it in 1995 after being dropped by her label, MCA Canada, its fresh and unapologetic worldview just hit different.<br />
-Beneath the record's radio-friendly hooks and shiny harmonies were startling observations on the messiness and banality of life. Human weakness is a theme—she’s hyperactive and distracted on “All I Really Want”, disoriented by happiness on “Head Over Feet”—but then, so is strength. On “Not the Doctor”, she refuses to play mother or babysitter for someone else’s problems. For women, many of Morissette's lyrics felt like a reckoning: “Right Through You” skewers a man for not taking her seriously (“You took a long hard look at my ass/And then played golf for a while”), and on “You Oughta Know”, the cheating-ex send-up lit with rage, she captures the fury felt from such blatant disrespect: “And every time I scratch my nails down someone else’s back I hope you feel it/Well, can you feel it?”<br />
-Yet even if the album’s core spirit is disillusionment—a refusal to smile, play along or indulge—listeners seem to cling to its hopefulness, the idea that bleeding, screaming and learning is also, ultimately, living. Perhaps that’s why, for all her angst and anger, Morissette is relatively kind to herself. In the easygoing “Hand in My Pocket”, now a time capsule of cigarettes and taxi cabs, she forgives herself for not having it all figured out. Everything’s going to be fine, fine, fine.
-        
-        
+Jagged Little Pill is the third studio album by Canadian-American singer Alanis Morissette, released by Maverick on June 13, 1995. Recorded in Hollywood at Westlake with production by Glen Ballard, it is Morissette's first album to be released worldwide. It marks a significant stylistic departure from the dance-pop sound of her first two efforts, Alanis (1991) and Now Is the Time (1992). She began work on the album after moving from her hometown Ottawa to Los Angeles, where she met Ballard. The pair had an instant connection and began co-writing and experimenting with sounds. The experimentation resulted in an alternative rock album that takes influence from post-grunge and pop rock, and features guitars, keyboards, drum machines, and harmonica. The lyrics touch upon themes of aggression and unsuccessful relationships, while Ballard introduced a pop sensibility to Morissette's angst. The title of the album is taken from a line in the first verse of the song "You Learn".
+Jagged Little Pill received positive reviews from critics, who praised its music and Morissette's lyrics and vocals. It received nine Grammy Award nominations, of which it won five: Album of the Year, making her the youngest artist to win the award at the time; Best Rock Album; Best Female Rock Vocal Performance ("You Oughta Know"); Best Rock Song ("You Oughta Know"); and Best Long Form Music Video. It was certified ten times platinum by the British Phonographic Industry (BPI), seventeen times platinum by the Recording Industry Association of America (RIAA), and double diamond by Music Canada, making Morissette the first Canadian artist to achieve double diamond. With combined sales of over 33 million copies worldwide, Jagged Little Pill is one of the best-selling albums of all time. It has been included on several all-time lists, such as those of Apple Music, the Rock and Roll Hall of Fame, and Rolling Stone.
+The album has been re-released twice: on October 30, 2015, in a two-disc deluxe edition and a four-disc collector's edition commemorating its 20th anniversary; and on June 26, 2020, in a 25th anniversary deluxe edition. An acoustic re-recording of the album was released on June 13, 2005, to mark its 10th anniversary. It inspired a musical stage production, which premiered at the American Repertory Theater in Cambridge on May 5, 2018; it transferred to Broadway the following year, and was nominated for 15 Tony Awards, including Best Musical. A world tour celebrating the 25th anniversary of Jagged Little Pill began in early 2020 but was postponed due to the COVID-19 pandemic.
+
+
+    
     
 
 
@@ -53,16 +53,16 @@ Yet even if the album’s core spirit is disillusionment—a refusal to smile, p
 12. Wake Up (4:54)
 
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/jagged-little-pill-remastered/1050392837" >}}<br>
+{{< applemusic url="https://music.apple.com/gb/album/vsq-performs-alanis-morissettes-jagged-little-pill/1021694197" >}}<br>
 
 
 ## Videos
-### Alanis Morissette - You Oughta Know (Official 4K Music Video)
-{{< youtube id="NPcyTyilmYY" title="Alanis Morissette - You Oughta Know (Official 4K Music Video)" >}}<br>
+### Alanis Morissette - Hand In My Pocket (Official 4K Music Video)
+{{< youtube id="CUjIY_XxF1g" title="Alanis Morissette - Hand In My Pocket (Official 4K Music Video)" >}}<br>
 ### More Videos
 
-- [Alanis Morissette - Hand In My Pocket (Official 4K Music Video)](https://www.youtube.com/watch?v=CUjIY_XxF1g)
 - [Alanis Morissette - Ironic (Official 4K Music Video)](https://www.youtube.com/watch?v=Jne9t8sHpUc)
+- [Alanis Morissette - You Oughta Know (Official 4K Music Video)](https://www.youtube.com/watch?v=NPcyTyilmYY)
 - [Alanis Morissette - You Learn (Official 4K Music Video)](https://www.youtube.com/watch?v=GFW-WfuX2Dk)
 - [Alanis Morissette - Head Over Feet (Official 4K Music Video)](https://www.youtube.com/watch?v=4iuO49jbovg)
 - [All I Really Want (2015 Remaster)](https://www.youtube.com/watch?v=9t9HQMGfGrY)

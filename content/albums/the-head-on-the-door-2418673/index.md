@@ -25,31 +25,50 @@ genres: ["Electronic", "Rock"]
 styles: ["Alternative Rock", "New Wave", "Synth-pop"]
 ---
 
-The Head on the Door is the sixth studio album by English rock band the Cure. It was released on 30 August 1985 by Fiction Records. Preceded by the single "In Between Days" which had reached No. 15 on the UK Singles Chart, The Head on the Door was described by Melody Maker as "a collection of pop songs". With its variety of styles, it allowed the group to reach a wider audience in both Europe and North America. In the United Kingdom it became their most successful album to date, entering the albums chart at No. 7 on 7 September.The album is the first to feature drummer Boris Williams. Bassist Simon Gallup, who had previously worked on three major Cure albums of the early 1980s, was called back before the recording. In 1985, the band became a quintet with instrumentalist Porl Thompson as their fifth official member. The Head on the Door is the first Cure album where all the songs were composed solely by singer and guitarist Robert Smith.
+The Head on the Door is the sixth studio album by English rock band The Cure. It was released on 30 August 1985 by Fiction Records. Preceded by the single "In Between Days" which had reached No. 15 on the UK Singles Chart, The Head on the Door was described by Melody Maker as "a collection of pop songs". With its variety of styles, it allowed the group to reach a wider audience in both Europe and North America. In the United Kingdom it became their most successful album to date, entering the albums chart at No. 7 on 7 September.
+The album is the first to feature drummer Boris Williams. Bassist Simon Gallup, who had previously worked on three major Cure albums of the early 1980s, was called back before the recording. In 1985, the band became a quintet with instrumentalist Porl Thompson as their fifth official member. The Head on the Door is the first Cure album where all the songs were composed solely by singer and guitarist Robert Smith.
+
+
     
     
 
 
 ## Tracklisting
-1. In Between Days
-2. Kyoto Song
-3. The Blood
-4. Six Different Ways
-5. Push
-6. The Baby Screams
-7. Close To Me
-8. A Night Like This
-9. Screw
-10. Sinking
+1. In Between Days (2:56)
+2. Kyoto Song (4:14)
+3. The Blood (3:41)
+4. Six Different Ways (3:16)
+5. Push (4:30)
+6. The Baby Screams (3:42)
+7. Close To Me (3:21)
+8. A Night Like This (4:13)
+9. Screw (2:36)
+10. Sinking (4:53)
 
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/the-head-on-the-door-remastered/1440791711" >}}<br>
+{{< applemusic url="https://music.apple.com/gb/album/the-head-on-the-door/1443833316" >}}<br>
 
 
 ## Videos
-### Th̲e C̲ure - T̲h̲e̲ He̲a̲d On T̲h̲e̲ Do̲o̲r (Full Album) 1985
-{{< youtube id="02Klc3nAkp4" title="Th̲e C̲ure - T̲h̲e̲ He̲a̲d On T̲h̲e̲ Do̲o̲r (Full Album) 1985" >}}<br>
+### The Cure - Close To Me
+{{< youtube id="BjvfIJstWeg" title="The Cure - Close To Me" >}}<br>
+### More Videos
 
+- [The Cure - In Between Days](https://www.youtube.com/watch?v=scif2vfg1ug)
+- [Kyoto Song](https://www.youtube.com/watch?v=q1-ZaQTe6RI)
+- [The Cure - The Blood](https://www.youtube.com/watch?v=4PgWNRSHQ8k)
+- [Six Different Ways](https://www.youtube.com/watch?v=RMTA62J44G0)
+- [Push](https://www.youtube.com/watch?v=8sxCVBBmx10)
+- [The Baby Screams](https://www.youtube.com/watch?v=tZYv4DRjDpM)
+- [A Night Like This](https://www.youtube.com/watch?v=nvB7v5ZEh18)
+- [Screw](https://www.youtube.com/watch?v=ARyCYfTX9e0)
+- [Inbetween Days (Robert Smith Home Demo)](https://www.youtube.com/watch?v=dGYgk6DrxyM)
+- [A Night Like This (Studio Demo)](https://www.youtube.com/watch?v=05gzZXxGz48)
+- [Lime Time (Studio Demo)](https://www.youtube.com/watch?v=t8o4H2GTqm8)
+- [Six Different Ways (Studio Demo)](https://www.youtube.com/watch?v=db7VD6TVIQE)
+- [Inwood (Robert Smith Home Demo)](https://www.youtube.com/watch?v=Jpxpl5MQoKo)
+- [Innsbruck (Robert Smith Home Demo)](https://www.youtube.com/watch?v=-GOOAbYVfhk)
+- [Lalala (Studio Demo)](https://www.youtube.com/watch?v=5jyX4sNJzAs)
 
 ## Release Images
 {{< imageGrid >}}
@@ -58,8 +77,8 @@ The Head on the Door is the sixth studio album by English rock band the Cure. It
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/The_Head_on_the_Door |
-| Format         | Vinyl LP Album Reissue Remastered (180 gram) |
+| Format         | Vinyl LP Album Reissue Remastered Stereo (180 gram) |
 | Label          | Fiction Records |
 | Catalog Number | 0042282723116 |
-| Notes | 180 gram vinyl remastered  "Back to black" 60th vinyl anniversary series  Includes a voucher to download MP3 version of the album  Made in EU    Inner sleeve with printed lyrics  Originally released in 1985   |
+| Notes | Cardboard jacket with printed inner sleeve (lyrics & credits), download voucher and red hype sticker with black/white font: "Back To Black 60th Vinyl Anniversary Includes a voucher to download MP3 version of the album Made in EU www.backtoblackvinyl.com"  Originally released in 1985  Track times not given on release  |
 | Discogs URL    | [The Cure - The Head On The Door](https://www.discogs.com/release/2418673-The-Cure-The-Head-On-The-Door) |

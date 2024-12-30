@@ -12,9 +12,9 @@ cover:
     alt: "West Bank Songs 1978-1983 (A Best Of) by The Undertones"
     caption: "West Bank Songs 1978-1983 (A Best Of) by The Undertones"
 additional_images:
-    - "https://i.discogs.com/I156WrrR-GZAjuLoICsfcC9VTUpWSY3383UC2gGMDTM/rs:fit/g:sm/q:90/h:618/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0ODQz/MTgwLTE1ODI2NTAz/NTYtOTc0MS5qcGVn.jpeg"
+    - "https://i.discogs.com/Zxf5mQmLV4apFRC4LZOXASDH_xMSZ9nsGzCnTiQ4IkI/rs:fit/g:sm/q:90/h:600/w:582/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0ODQz/MTgwLTE1ODI2NTAz/NTYtOTc0MS5qcGVn.jpeg"
     - "https://i.discogs.com/Rtxb7ee2fj1eYGhcXwXbMf8AW_zIw_jI3N6emHkwb0U/rs:fit/g:sm/q:90/h:581/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0ODQz/MTgwLTE1ODI2NTAz/NTYtNzQ2Ny5qcGVn.jpeg"
-    - "https://i.discogs.com/bje4yRCBoBSYGFPgifZGw9fDTHZb9F5dz2vOm7gyWm8/rs:fit/g:sm/q:90/h:1089/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0ODQz/MTgwLTE1ODI2NTAz/NTYtNDUzNC5qcGVn.jpeg"
+    - "https://i.discogs.com/eVky1Plx990c4hs4P9ndZ0N4rceoCplfSIot_hlvR48/rs:fit/g:sm/q:90/h:600/w:330/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0ODQz/MTgwLTE1ODI2NTAz/NTYtNDUzNC5qcGVn.jpeg"
     - "https://i.discogs.com/TOFwKRBlpofksVgraJP5qIr7J8fan5i4SzhISoub6dQ/rs:fit/g:sm/q:90/h:590/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0ODQz/MTgwLTE1ODI2NTIx/NjYtOTYxOC5qcGVn.jpeg"
 genres: ["Rock"]
 styles: ["Punk", "Power Pop"]
@@ -54,12 +54,27 @@ styles: ["Punk", "Power Pop"]
 29. It's Going To Happen (3:32)
 30. Bittersweet (5:08)
 
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/west-bank-songs-1978-1983-a-best-of/1705669822" >}}<br>
 
 
 ## Videos
-### Teenage Kicks
-{{< youtube id="u-mnSIbGTk0" title="Teenage Kicks" >}}<br>
+### The Undertones - You've Got My Number (Why Don't You Use It!)
+{{< youtube id="qQwOqBhib3w" title="The Undertones - You've Got My Number (Why Don't You Use It!)" >}}<br>
+### More Videos
 
+- [Male Model](https://www.youtube.com/watch?v=NKtNwlutbDw)
+- [The Undertones - Hypnotised](https://www.youtube.com/watch?v=uzbB8O-Z41Q)
+- [Billy's Third](https://www.youtube.com/watch?v=_Hik5QxeKrk)
+- [The Way Girls Talk](https://www.youtube.com/watch?v=l3gu7DGykjI)
+- [True Confessions (B-side of Teenage Kicks)](https://www.youtube.com/watch?v=DEykyyEoBNQ)
+- [The Undertones - Wednesday Week (1980) (HD)](https://www.youtube.com/watch?v=EMLyCST6HkQ)
+- [[She's A] Runaround](https://www.youtube.com/watch?v=XHFAOYwS4F0)
+- [There Goes Norman - The Undertones](https://www.youtube.com/watch?v=ft58QqQjfKw)
+- [The Undertones - Teenage Kicks (HQ)](https://www.youtube.com/watch?v=DxPiD8EB3ZU)
+- [Tearproof](https://www.youtube.com/watch?v=BZobqlGa9wQ)
+- [Jump Boys](https://www.youtube.com/watch?v=pF6l7FNsjaM)
+- [Undertones - love parade](https://www.youtube.com/watch?v=CzukOUcvmTg)
 
 ## Release Images
 {{< imageGrid >}}

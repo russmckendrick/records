@@ -32,6 +32,8 @@ styles: []
 9. Schoolgirl
 10. Keep On Rollin'
 
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/hold-your-head-up-karaoke-version-in-the-style-of/823508529" >}}<br>
 
 
 

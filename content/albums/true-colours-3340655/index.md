@@ -13,7 +13,7 @@ cover:
     caption: "True Colours by Split Enz"
 additional_images:
     - "https://i.discogs.com/W6v0s4bTwliZLBZqZaKy3u3IIEJAYa34Tz4ofrzEVMs/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzNDA2/NTUtMTQ4Njc4ODgx/MS04NDg2LmpwZWc.jpeg"
-    - "https://i.discogs.com/A2SdzE2awqOMVsHBHOuzTW72bQQbuXFLHA0vjDIzDTU/rs:fit/g:sm/q:90/h:602/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzNDA2/NTUtMTQ4Njc4ODgx/MC02NTM3LmpwZWc.jpeg"
+    - "https://i.discogs.com/xRjr2xsYro5qZOyeGqiEXZ5j0DjoOG9uVxhd14d1VVE/rs:fit/g:sm/q:90/h:600/w:597/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzNDA2/NTUtMTQ4Njc4ODgx/MC02NTM3LmpwZWc.jpeg"
     - "https://i.discogs.com/YcDOkKW2FDtJ4KpKikJl5esIYxqBH5bs7Ka58Iz5kx8/rs:fit/g:sm/q:90/h:563/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzNDA2/NTUtMTQ4Njc4ODgx/MS0xMTgyLmpwZWc.jpeg"
     - "https://i.discogs.com/ayKikTUV5yxXoOtY32OleLzR6VGuKs-tYHP-7cKOsXk/rs:fit/g:sm/q:90/h:460/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzNDA2/NTUtMTM0MTAxNTUx/MS0xNTg4LmpwZWc.jpeg"
     - "https://i.discogs.com/IwT8vHq1czDIIQezQN28KOmMEBN_3eDx4W-52Y1x7kQ/rs:fit/g:sm/q:90/h:588/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzNDA2/NTUtMTQ4Njc4ODgx/MS0zODMyLmpwZWc.jpeg"
@@ -46,17 +46,16 @@ True Colours is the sixth studio album released by New Zealand band Split Enz, a
 
 
 ## Videos
-### Split Enz - I Got You (1980)
-{{< youtube id="YmQlBfxh4Us" title="Split Enz - I Got You (1980)" >}}<br>
+### split enz - the choral sea
+{{< youtube id="8-jVOHQLRF0" title="split enz - the choral sea" >}}<br>
 ### More Videos
 
-- [Split Enz - How Can I Resist Her? (1980)](https://www.youtube.com/watch?v=sA1M-_pJv6s)
-- [HOW CAN I RESIST HER By Split Enz](https://www.youtube.com/watch?v=BLDmz3YfjMo)
+- [Split Enz - Shark Attack (Official Video)](https://www.youtube.com/watch?v=jIPlnvR1c6M)
+- [Split Enz - I Got You (Official Video)](https://www.youtube.com/watch?v=wiqBlKnb91A)
+- [Split Enz - I Hope I Never (Official Video)](https://www.youtube.com/watch?v=Pu98BS7UkHM)
+- [Split Enz - I Got You (1980)](https://www.youtube.com/watch?v=YmQlBfxh4Us)
+- [Split Enz - I Got You (1980)](https://www.youtube.com/watch?v=YmQlBfxh4Us)
 - [Split Enz - Nobody Takes Me Seriously](https://www.youtube.com/watch?v=gkk5kZxe_ks)
-- [split enz - the choral sea](https://www.youtube.com/watch?v=8-jVOHQLRF0)
-- [Split Enz-True Colours [Full Album] 1980](https://www.youtube.com/watch?v=DLnjju8zeVI)
-- [Split Enz: I Hope I Never](https://www.youtube.com/watch?v=-CHtXZeyEMU)
-- [Split Enz Poor Boy](https://www.youtube.com/watch?v=J9pIdHwOf2c)
 
 ## Release Images
 {{< imageGrid >}}
@@ -68,5 +67,5 @@ True Colours is the sixth studio album released by New Zealand band Split Enz, a
 | Format         | Vinyl LP Album Etched (Blue Cover) |
 | Label          | A&M Records |
 | Catalog Number | SP-4822 |
-| Notes | Holographic etched vinyl. There also exists a Red cover, a Purple cover, and a Yellow cover.  Released with a printed inner photo-sleeve  Cat # on back cover & spine: SP-4822 Cat # on centre label: SP 4822  Printed on back cover: [Boomerang Productions logo] A Boomerang Production. Recorded at Armstrongs, Melbourne, Australia. [Champion Entertainment Organization Inc. logo] © 1980 A&M Records, Inc. ℗ 1979 Mushroom Records Pty. Ltd. Fabriqué et Distribué par/Manufactured and Distributed by A & M Records of Canada Limited  Printed on A-side label: [Boomerang Productions logo] A Boomerang Production All selections published by Enz Music ℗ 1979 Mushroom Records Pty. Ltd. Manufactured and Distributed by A&M Records, Inc. © 1980 A&M Records, Inc.  |
+| Notes | Holographic etched vinyl. There also exists a Red cover, a Purple cover, and a Yellow cover.  Released with a printed inner photo-sleeve  Cat # on back cover & spine: SP-4822 Cat # on centre label: SP 4822  Printed on back cover: [Boomerang Productions logo] A Boomerang Production. Recorded at Armstrongs, Melbourne, Australia. [Champion Entertainment Organization Inc. logo] © 1980 A&M Records, Inc. ℗ 1979 Mushroom Records Pty. Ltd. Fabriqué et Distribué par/Manufactured and Distributed by A & M Records of Canada Limited  Printed on A-side label: [Boomerang Productions logo] A Boomerang Production All selections published by Enz Music ℗ 1979 Mushroom Records Pty. Ltd. Manufactured and Distributed by A&M Records, Inc. © 1980 A&M Records, Inc.  The runouts are etched. |
 | Discogs URL    | [Split Enz - True Colours](https://www.discogs.com/release/3340655-Split-Enz-True-Colours) |

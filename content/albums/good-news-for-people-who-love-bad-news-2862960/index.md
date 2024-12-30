@@ -28,8 +28,10 @@ genres: ["Rock"]
 styles: ["Alternative Rock", "Indie Rock"]
 ---
 
-Good News for People Who Love Bad News is the fourth studio album by American rock band Modest Mouse, released on April 6, 2004 by Epic Records. Founding member Jeremiah Green did not perform on this album due to his temporary absence from the band, and it would be the only release during his time with Modest Mouse that he would not appear on.
-Good News for People Who Love Bad News was nominated for the Grammy Award for Best Alternative Music Album in 2005. It was certified platinum by the RIAA in August 2004, and had sold over 1.5 million copies in the United States by 2006. Three singles were released from the album: "Float On", "Ocean Breathes Salty", and "The World at Large".
+Good News for People Who Love Bad News is the fourth studio album by American rock band Modest Mouse, released on April 6, 2004, by Epic Records. Founding member Jeremiah Green did not perform on this album due to his temporary absence from the band, and it would be the only release during his time with Modest Mouse that he would not appear on.
+Good News for People Who Love Bad News was nominated for the Grammy Award for Best Alternative Music Album in 2005. It was certified 2× platinum by the RIAA in March 2024, and had sold over 1.5 million copies in the United States by 2006. Three singles were released from the album: "Float On", "Ocean Breathes Salty", and "The World at Large".
+
+
         
         
     
@@ -59,24 +61,15 @@ Good News for People Who Love Bad News was nominated for the Grammy Award for Be
 
 
 ## Videos
-### Horn Intro
-{{< youtube id="uHnfpd7gUjE" title="Horn Intro" >}}<br>
+### Modest Mouse - Float On (Official Music Video)
+{{< youtube id="CTAud5O7Qqk" title="Modest Mouse - Float On (Official Music Video)" >}}<br>
 ### More Videos
 
-- [Modest Mouse - Float On (Official Music Video)](https://www.youtube.com/watch?v=CTAud5O7Qqk)
-- [Modest Mouse - The World At Large (Audio)](https://www.youtube.com/watch?v=1TXdU9LMmv4)
-- [Dig Your Grave](https://www.youtube.com/watch?v=3wFiHru0Ke4)
-- [Bury Me With It](https://www.youtube.com/watch?v=-0c53YAYK1o)
-- [Dance Hall](https://www.youtube.com/watch?v=LTQhvRv2ziQ)
-- [Bukowski](https://www.youtube.com/watch?v=m0VpdRYCv3s)
-- [This Devil's Workday](https://www.youtube.com/watch?v=cOIeXLSajSg)
-- [The View](https://www.youtube.com/watch?v=POWgfPP88nA)
-- [Satin In A Coffin](https://www.youtube.com/watch?v=FC9Puvn9Xsw)
-- [Interlude (Milo)](https://www.youtube.com/watch?v=OQATHY-Tgh0)
-- [Blame It On the Tetons](https://www.youtube.com/watch?v=kLMENNyUxcI)
-- [Black Cadillacs](https://www.youtube.com/watch?v=dTKJcZhrn6A)
-- [One Chance](https://www.youtube.com/watch?v=jsiirnDtio8)
 - [The Good Times Are Killing Me](https://www.youtube.com/watch?v=oITcKJpM9UQ)
+- [Bury Me With It](https://www.youtube.com/watch?v=-0c53YAYK1o)
+- [Modest Mouse - The World At Large (Audio)](https://www.youtube.com/watch?v=1TXdU9LMmv4)
+- [Bukowski](https://www.youtube.com/watch?v=m0VpdRYCv3s)
+- [Blame It On the Tetons](https://www.youtube.com/watch?v=kLMENNyUxcI)
 
 ## Release Images
 {{< imageGrid >}}

@@ -14,13 +14,15 @@ cover:
 additional_images:
     - "https://i.discogs.com/pOO2usBNK2atT_qXIAxv5i0XdtH8JODUouTU7ZVBnFI/rs:fit/g:sm/q:90/h:594/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MTEy/MzkyLTE2MjM0OTYx/MDktMjE2NS5qcGVn.jpeg"
     - "https://i.discogs.com/IH9pNAtyIIHgAN1Ipb47uJBWYqJS8eliDQoL7lvF6z0/rs:fit/g:sm/q:90/h:588/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MTEy/MzkyLTE2MjM0OTYx/MTYtNTc2MS5qcGVn.jpeg"
-    - "https://i.discogs.com/MztgADHcj_NNilWgjSlzVko0Brxd5RN0Z5ZPscOgcxA/rs:fit/g:sm/q:90/h:601/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MTEy/MzkyLTE2MjQzNDQx/OTEtNzQxMC5qcGVn.jpeg"
+    - "https://i.discogs.com/1QkryD00M3X2_s_cqmVu4sUhUyEo0KIu668oHhUjWA0/rs:fit/g:sm/q:90/h:600/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MTEy/MzkyLTE2MjQzNDQx/OTEtNzQxMC5qcGVn.jpeg"
     - "https://i.discogs.com/-pbC0IV3xYERDR7JvUOBPk0-SejkhJoauKy9wkjipHM/rs:fit/g:sm/q:90/h:577/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MTEy/MzkyLTE2MjQzNDQy/MDMtMTkzNi5qcGVn.jpeg"
 genres: ["Rock"]
 styles: ["Indie Rock"]
 ---
 
 The Boy with the Arab Strap is the third studio album by Scottish indie pop band Belle & Sebastian, released in 1998 through Jeepster Records.
+
+
     
     
 
@@ -44,21 +46,9 @@ The Boy with the Arab Strap is the third studio album by Scottish indie pop band
 
 
 ## Videos
-### Belle & Sebastian - It Could Have Been A Brilliant Career
-{{< youtube id="qSV4Cs0bwmQ" title="Belle & Sebastian - It Could Have Been A Brilliant Career" >}}<br>
-### More Videos
+### Belle and Sebastian- "The Boy With The Arab Strap (Live)" (Official Music Video)
+{{< youtube id="gnvhhvzAvSM" title="Belle and Sebastian- "The Boy With The Arab Strap (Live)" (Official Music Video)" >}}<br>
 
-- [Belle and Sebastian - Sleep The Clock Around](https://www.youtube.com/watch?v=3mB8V9Lz7u0)
-- [Belle and Sebastian - Is It Wicked Not To Care?](https://www.youtube.com/watch?v=HL0-0F9BaHQ)
-- [Belle & Sebastian - Ease Your Feet in the Sea](https://www.youtube.com/watch?v=DcZL3e42wEs)
-- [Belle and Sebastian - A Summer Wasting](https://www.youtube.com/watch?v=Z8LmfH2kuB8)
-- [Belle and Sebastian - Seymour Stein (subtitulada en español)](https://www.youtube.com/watch?v=ihSXBcaO6yA)
-- [A Space Boy Dream](https://www.youtube.com/watch?v=R92PzrjpLN0)
-- [Belle and Sebastian - Dirty Dream #2](https://www.youtube.com/watch?v=uHLOs9QzgCA)
-- [The Boy With The Arab Strap](https://www.youtube.com/watch?v=dN1iW-ee5I8)
-- [Chickfactor](https://www.youtube.com/watch?v=AjnbRPgM6Kk)
-- [Simple Things](https://www.youtube.com/watch?v=-kfIHFlEUhw)
-- [Belle and Sebastian - The Rollercoaster Ride](https://www.youtube.com/watch?v=b0Vx3a5Fb5E)
 
 ## Release Images
 {{< imageGrid >}}
@@ -67,8 +57,8 @@ The Boy with the Arab Strap is the third studio album by Scottish indie pop band
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/The_Boy_with_the_Arab_Strap |
-| Format         | Vinyl LP Album Record Store Day Limited Edition Reissue (Green Transparent) |
+| Format         | Vinyl LP Album Record Store Day Limited Edition Reissue Repress (Green Transparent) |
 | Label          | Jeepster Recordings |
 | Catalog Number | JPRLP003RSD |
-| Notes | Record Store Day 2021 Exclusive Gatefold sleeve  (P) & (C) 1998 Jeepster Recordings Made in EU.  Distributed by Universal Music Operations Ltd.       The title of this record in no way refers to the cover star, by the way.   |
+| Notes | Record Store Day 2021 Exclusive Gatefold sleeve with die cut, poly lined paper inner sleeve. Lyrics are printed inside the gatefold.  (P) & (C) 1998 Jeepster Recordings Made in EU.  Distributed by Universal Music Operations Ltd.       The title of this record in no way refers to the cover star, by the way.   |
 | Discogs URL    | [Belle & Sebastian - The Boy With The Arab Strap](https://www.discogs.com/release/19112392-Belle-Sebastian-The-Boy-With-The-Arab-Strap) |

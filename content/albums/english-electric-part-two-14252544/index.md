@@ -24,6 +24,11 @@ genres: ["Rock"]
 styles: ["Prog Rock"]
 ---
 
+English Electric Part Two is the eighth studio album by the English progressive rock band Big Big Train. It was released on 4 March 2013, by English Electric Recordings and GEP.
+
+
+    
+    
 
 
 ## Tracklisting
@@ -56,6 +61,7 @@ styles: ["Prog Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
+| Wikipedia URL | https://en.wikipedia.org/wiki/English_Electric_Part_Two |
 | Format         | Vinyl 2× LP Album Limited Edition Reissue Stereo (Orange) |
 | Label          | English Electric Recordings |
 | Catalog Number | 0700613252192 |

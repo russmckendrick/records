@@ -21,7 +21,7 @@ genres: ["Rock"]
 styles: ["Southern Rock", "Country Rock"]
 ---
 
-Welcome 2 Club XIII  is the fourteenth studio album by southern rock band Drive-By Truckers released on June 3, 2022. The album's title references one of the venues where the band first played near Muscle Shoals, Alabama. The autobiographical nature of the album's lyrics presents a welcomed return to form in contrast to the more politically charged songs from the band's previous albums. It features vocal contributions from Schaefer Llana, Mike Mills (from R.E.M.), and Margo Price.
+Welcome 2 Club XIII  is the fourteenth studio album by American rock band Drive-By Truckers, released on June 3, 2022. The album's title references one of the venues where the band first played near Muscle Shoals, Alabama. The autobiographical nature of the album's lyrics presents a contrast to the more politically charged songs from the band's previous albums. It features vocal contributions from Schaefer Llana, Mike Mills of R.E.M., and Margo Price.
 
 
     

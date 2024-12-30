@@ -18,9 +18,8 @@ genres: ["Hip Hop"]
 styles: ["Electro"]
 ---
 
-The Album is the debut album by the group Mantronix.
-
-
+The Album is the debut album by the group Mantronix. The group was a New York-based duo composed of MC Tee and Kurtis Mantronik. Following some live performances together, they recorded a demo tape version of the song "Fresh is the Word" which was noticed by Will Socolov of Sleeping Bag Records. The label released the single and signed them to record an album.
+From contemporary reviews, American critics J. D. Considine and Ken Tucker predominantly complemented the hip hop production of the album in lukewarm reviews, while it received greater praise from British press magazines Melody Maker and the NME who included it in their Top 10 albums of 1986. Later review, from Pitchfork and AllMusic predominantly commented again on the production, with AllMusic finding it being closer related to club music than hip hop while Pitchfork noting the albums production seeming to forbearer to Southern bounce and hyphy scenes.
     
     
 
@@ -45,20 +44,21 @@ The Album is the debut album by the group Mantronix.
 {{< youtube id="5lYh0sWG2OI" title="Mantronix - Bassline" >}}<br>
 ### More Videos
 
-- [Bassline](https://www.youtube.com/watch?v=TpXkptCMJhI)
-- [Fresh Is the Word (12 Version)](https://www.youtube.com/watch?v=Lnd-vbtMlP8)
 - [Mantronix - Needle To The Groove](https://www.youtube.com/watch?v=YGE5G49c8zU)
-- [Needle to the Groove](https://www.youtube.com/watch?v=yrzb8QfdTpg)
 - [Mantronix - Mega Mix](https://www.youtube.com/watch?v=gWxW8y5PS34)
-- [Mega-Mix](https://www.youtube.com/watch?v=hykpMfQ6u4E)
 - [Mantronix - Hardcore Hip Hop](https://www.youtube.com/watch?v=7wY2nbHhg2Q)
-- [Hardcore Hip-Hop](https://www.youtube.com/watch?v=tiTsdjtaPMc)
 - [Mantronix - Ladies](https://www.youtube.com/watch?v=LDkzwo1VUqY)
-- [Ladies](https://www.youtube.com/watch?v=Nqr0-nRj7Xk)
 - [Mantronix - Get Stupid Fresh Part 1](https://www.youtube.com/watch?v=bIrpwmXW3aI)
-- [Get Stupid 'Fresh', Pt. 1](https://www.youtube.com/watch?v=adUNugsQ_KA)
 - [Mantronix - Fresh Is The Word](https://www.youtube.com/watch?v=M2xKzGy93E8)
+- [Bassline](https://www.youtube.com/watch?v=TpXkptCMJhI)
+- [Needle to the Groove](https://www.youtube.com/watch?v=yrzb8QfdTpg)
+- [Mega-Mix](https://www.youtube.com/watch?v=hykpMfQ6u4E)
+- [Hardcore Hip-Hop](https://www.youtube.com/watch?v=tiTsdjtaPMc)
+- [Ladies](https://www.youtube.com/watch?v=Nqr0-nRj7Xk)
+- [Get Stupid 'Fresh', Pt. 1](https://www.youtube.com/watch?v=adUNugsQ_KA)
 - [Fresh Is The Word](https://www.youtube.com/watch?v=K0TMOqwF1mo)
+- [Fresh Is the Word (12" Version)](https://www.youtube.com/watch?v=Lnd-vbtMlP8)
+- [Needle to the Groove (Alternate Version)](https://www.youtube.com/watch?v=0SbOerxkp8M)
 
 ## Release Images
 {{< imageGrid >}}
@@ -66,7 +66,7 @@ The Album is the debut album by the group Mantronix.
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Wikipedia URL | https://en.wikipedia.org/wiki/Mantronix:_The_Album |
+| Wikipedia URL | https://en.wikipedia.org/wiki/The_Album_(Mantronix_album) |
 | Format         | Vinyl LP Album Reissue (180g) |
 | Label          | Demon Music Group |
 | Catalog Number | DEMREC 364 |

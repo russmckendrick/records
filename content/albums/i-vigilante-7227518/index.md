@@ -22,6 +22,7 @@ additional_images:
     - "https://i.discogs.com/J35I3lyAv4eXH-psUgKkdjLGgFe9G7h_4_aDstLTEgc/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcyMjc1/MTgtMTQzOTM4ODkz/MC04NzM0LmdpZg.jpeg"
     - "https://i.discogs.com/05Zm_K_Rl6X0BjjOxLmxfHjuVq-Xt5I1OjMSfZFOOTo/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcyMjc1/MTgtMTQzOTM4ODkz/NC0zMzUzLmdpZg.jpeg"
     - "https://i.discogs.com/RYGNL3ae1svOAfHoZjeDA_Zrk80ZEkXxVr5Kdx-Ro_s/rs:fit/g:sm/q:90/h:8/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcyMjc1/MTgtMTQzOTM4ODkz/Ni0zOTM5LmpwZWc.jpeg"
+    - "https://i.discogs.com/GZJjVErmUT0O6BkoaFk30p69OKf3PFgYCRiBvqDWReI/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcyMjc1/MTgtMTcwMDM3OTIw/OC0yNTAxLmpwZWc.jpeg"
 genres: ["Rock"]
 styles: ["Avantgarde"]
 ---
@@ -45,11 +46,11 @@ styles: ["Avantgarde"]
 {{< youtube id="lb3iIeh0Ruw" title="Crippled Black Phoenix - 02 We Forgotten Who We Are (HQ)" >}}<br>
 ### More Videos
 
-- [Crippled Black Phoenix - I, Vigilante (full album) A4=432Hz](https://www.youtube.com/watch?v=OjHybP76T5I)
 - [Crippled Black Phoenix - 03 Fantastic Justice (HQ)](https://www.youtube.com/watch?v=Xg4wP8YB0T0)
 - [Cippled Black Phoenix - 04 Bastogne Blues (HQ)](https://www.youtube.com/watch?v=cyIolrH4DjA)
 - [Crippled Black Phoenix - Troublemaker (HQ)](https://www.youtube.com/watch?v=tHCxKy2xWHs)
 - [Crippled Black Phoenix - 05 Of A Lifetime (HQ)](https://www.youtube.com/watch?v=BE8p_5EDjg0)
+- [Crippled Black Phoenix - I, Vigilante (full album) A4=432Hz](https://www.youtube.com/watch?v=OjHybP76T5I)
 
 ## Release Images
 {{< imageGrid >}}

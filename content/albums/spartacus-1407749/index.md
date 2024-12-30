@@ -24,8 +24,10 @@ genres: ["Electronic", "Rock"]
 styles: ["Acid House", "Indie Rock", "House"]
 ---
 
-Spartacus is the debut studio album by British rock band the Farm, released on 4 March 1991 through Produce Records. Following a variety of member changes and single releases, the band solidified their line-up in 1987; after a record deal fell through, they opted to start their own label, Produce Records. They recorded the bulk of their debut album in London in 1990 with former Madness frontman Graham "Suggs" McPherson as producer, while one track from 1987 was produced by the Housemartins members Paul Heaton and Stan Cullimore. Spartacus  is a baggy and dance-rock album that takes influence from the work of Buzzcocks, the Clash and the Jam.
-Spartacus received generally positive reviews from music critics, though some of them were split on the album's songwriting quality, while others praised it in the context of the baggy scene. The album topped the charts in the United Kingdom. "Groovy Train" was released as its lead single in August 1990, followed by the second single "All Together Now" in November 1990. "Don't Let Me Down" appeared in April 1991, and was promoted with a supporting slot for Happy Mondays in June 1991 at the Elland Road football stadium in Leeds. They then toured the United States with Big Audio Dynamite and Downtown Science. NME and Vox included the album on their lists of the year's best 50 releases.
+Spartacus is the debut studio album by British rock band the Farm, released on 4 March 1991 through Produce Records. Following a variety of member changes and single releases, the band solidified their line-up in 1987; after a record deal fell through, they opted to start their own label, Produce Records. They recorded the bulk of their debut album in London in 1990 with former Madness frontman Graham "Suggs" McPherson as producer; one track from 1987 was produced by the Housemartins members Paul Heaton and Stan Cullimore. Spartacus  is a baggy and dance-rock album that takes influence from the work of Buzzcocks, the Clash and the Jam.
+Spartacus received generally positive reviews from music critics. Although some of them were split on the album's songwriting quality, while others praised it in the context of the baggy scene. The album topped the charts in the United Kingdom. "Groovy Train" was released as its lead single in August 1990, followed by the second single "All Together Now" in November 1990. "Don't Let Me Down" appeared in April 1991, and was promoted with a supporting slot for Happy Mondays in June 1991 at the Elland Road football stadium in Leeds. They then toured the United States with Big Audio Dynamite and Downtown Science. NME and Vox included the album on their lists of the year's best 50 releases.
+
+
     
     
 
@@ -51,26 +53,57 @@ Spartacus received generally positive reviews from music critics, though some of
 18. Groovy Train (Terry Farley Mix)
 
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/spartacus/1187293695" >}}<br>
+{{< applemusic url="https://music.apple.com/gb/album/spartacus/1446872921" >}}<br>
 
 
 ## Videos
-### Hearts and Minds
-{{< youtube id="Fg-0TMFS-BI" title="Hearts and Minds" >}}<br>
+### The Farm - Groovy Train - Spartacus - London - 3/4/91
+{{< youtube id="vUX8TODVuEQ" title="The Farm - Groovy Train - Spartacus - London - 3/4/91" >}}<br>
 ### More Videos
 
-- [The Farm - Higher & Higher (Terry Farley Mix)](https://www.youtube.com/watch?v=ATdBTjdEoPo)
-- [T̲h̲e̲ F̲a̲r̲m̲̲ - S̲p̲a̲r̲t̲a̲c̲u̲s̲](https://www.youtube.com/watch?v=Deycwh9CBh4)
-- [The Farm - All Together Now - Official Video](https://www.youtube.com/watch?v=iRgtzZ-mOQo)
-- [THE FARM 'MIND'](https://www.youtube.com/watch?v=qP2nTxojwBQ)
+- [The Farm - Groovy Train (Terry Farley Mix)](https://www.youtube.com/watch?v=RVSKUk5F5Ec)
+- [The Farm - ALL TOGETHER NOW [Farley & Heller Mix] [d]](https://www.youtube.com/watch?v=b366Sw5I1qs)
+- [The Farm - Don't Let Me Down (Terry Farley Mix)](https://www.youtube.com/watch?v=SzwPeEoJab0)
 - [The Farm - Sweet Inspiration (Terry Farley Mix)](https://www.youtube.com/watch?v=xQO59LyID3s)
-- [The Farm - (I'm Not Your) Stepping Stone [Ghost Dance Mix]](https://www.youtube.com/watch?v=pVlbuC9ak_8)
+- [The Farm - Higher & Higher (Terry Farley Mix)](https://www.youtube.com/watch?v=ATdBTjdEoPo)
+- [The Farm - Hearts & Minds (Terry Farley Mix)](https://www.youtube.com/watch?v=3vbSzam6fA8)
 - [The Farm - Very Emotional (Terry Farley Mix)](https://www.youtube.com/watch?v=QLGzPRVGwoM)
-- [The Farm - All Together Now (HQ)](https://www.youtube.com/watch?v=uf0nHL42ZCs)
-- [Hearts and Minds](https://www.youtube.com/watch?v=HX1fWf7xO58)
-- [The Farm - Tell The Story (1991) From the US Spartacus CD](https://www.youtube.com/watch?v=l-72nr0DAzA)
-- [The Farm - Don't Let Me Down (1991) From the US Spartacus CD](https://www.youtube.com/watch?v=Pe5ZON_sTpg)
-- [the farm -higher and higher](https://www.youtube.com/watch?v=SuKzKRdEWCg)
+- [Higher and Higher (Farley and Heller Remix)](https://www.youtube.com/watch?v=7_nmZ8Ovbgw)
+- [Hearts and Minds](https://www.youtube.com/watch?v=Fg-0TMFS-BI)
+- [Higher and Higher (Farley and Heller Remix)](https://www.youtube.com/watch?v=RTET5kE_r1U)
+- [Very Emotional (Farley and Heller Remix)](https://www.youtube.com/watch?v=1yB61ij_eII)
+- [Groovy Train (Luv Thug)](https://www.youtube.com/watch?v=HV9srZzKHRQ)
+- [How Long](https://www.youtube.com/watch?v=r8pJHGi-gFE)
+- [Sweet Inspiration](https://www.youtube.com/watch?v=6lcniqej5d0)
+- [Very Emotional (Farley and Heller Remix)](https://www.youtube.com/watch?v=5BriUVeqYFQ)
+- [Higher and Higher](https://www.youtube.com/watch?v=6u-KNPRBkDg)
+- [Don't Let Me Down](https://www.youtube.com/watch?v=T68R4NEPWr0)
+- [Family of Man](https://www.youtube.com/watch?v=3GRzkWlE9n0)
+- [Tell the Story](https://www.youtube.com/watch?v=1uyb8GRZVOc)
+- [Very Emotional](https://www.youtube.com/watch?v=mXocIUKQ88Y)
+- [All Together Now (Farley and Heller 7 Inch Edit)](https://www.youtube.com/watch?v=HtXQ3QkuwmI)
+- [The Farm - Groovy Train - Spartacus - London - 3/4/91](https://www.youtube.com/watch?v=vUX8TODVuEQ)
+- [The Farm - Groovy Train (Terry Farley Mix)](https://www.youtube.com/watch?v=RVSKUk5F5Ec)
+- [The Farm - ALL TOGETHER NOW [Farley & Heller Mix] [d]](https://www.youtube.com/watch?v=b366Sw5I1qs)
+- [The Farm - Don't Let Me Down (Terry Farley Mix)](https://www.youtube.com/watch?v=SzwPeEoJab0)
+- [The Farm - Sweet Inspiration (Terry Farley Mix)](https://www.youtube.com/watch?v=xQO59LyID3s)
+- [The Farm - Higher & Higher (Terry Farley Mix)](https://www.youtube.com/watch?v=ATdBTjdEoPo)
+- [The Farm - Hearts & Minds (Terry Farley Mix)](https://www.youtube.com/watch?v=3vbSzam6fA8)
+- [The Farm - Very Emotional (Terry Farley Mix)](https://www.youtube.com/watch?v=QLGzPRVGwoM)
+- [Higher and Higher (Farley and Heller Remix)](https://www.youtube.com/watch?v=7_nmZ8Ovbgw)
+- [Hearts and Minds](https://www.youtube.com/watch?v=Fg-0TMFS-BI)
+- [Higher and Higher (Farley and Heller Remix)](https://www.youtube.com/watch?v=RTET5kE_r1U)
+- [Very Emotional (Farley and Heller Remix)](https://www.youtube.com/watch?v=1yB61ij_eII)
+- [Groovy Train (Luv Thug)](https://www.youtube.com/watch?v=HV9srZzKHRQ)
+- [How Long](https://www.youtube.com/watch?v=r8pJHGi-gFE)
+- [Sweet Inspiration](https://www.youtube.com/watch?v=6lcniqej5d0)
+- [Very Emotional (Farley and Heller Remix)](https://www.youtube.com/watch?v=5BriUVeqYFQ)
+- [Higher and Higher](https://www.youtube.com/watch?v=6u-KNPRBkDg)
+- [Don't Let Me Down](https://www.youtube.com/watch?v=T68R4NEPWr0)
+- [Family of Man](https://www.youtube.com/watch?v=3GRzkWlE9n0)
+- [Tell the Story](https://www.youtube.com/watch?v=1uyb8GRZVOc)
+- [Very Emotional](https://www.youtube.com/watch?v=mXocIUKQ88Y)
+- [All Together Now (Farley and Heller 7 Inch Edit)](https://www.youtube.com/watch?v=HtXQ3QkuwmI)
 
 ## Release Images
 {{< imageGrid >}}
@@ -82,5 +115,5 @@ Spartacus received generally positive reviews from music critics, though some of
 | Format         | Vinyl LP Album, Vinyl 12" 33 ⅓ RPM EP Limited Edition |
 | Label          | Produce Records |
 | Catalog Number | MILK LP1 |
-| Notes | "Spartacus is dedicated to Mr & Mrs McVann in memory of their son Andy"  The Farm would like to thank Barney, Wayne, Macca, Ian, Kevin, Suggs & Farley.  All songs published by  Virgin Music (Publishers) Ltd. Design Miles & Carl © 91. Distributed by Pinnacle. Made in England. ℗ 1991 Produce Records © 1991 Produce Records   Recorded at Mayfair Studios (A1-A3, A5, B1, B2, B4), Liquidator Studios (A4, B2), Fairview Studios, Hull (B3). Mixed at Westside Studios (A1-A3, A5, B1, B4, B5), Konk Studios (A4). B2 remixed at Westside Studios/E-Zee Hire. B3 remixed at E-Zee Hire.  LP with printed inner sleeve. Early pressing of the album with accompanying bonus remix ep indicated by sticker on front cover.   No tracklist is present on bonus EP and tracklist is taken from existing discogs entry of the full retail copy.  |
+| Notes | "Spartacus is dedicated to Mr & Mrs McVann in memory of their son Andy"  The Farm would like to thank Barney, Wayne, Macca, Ian, Kevin, Suggs & Farley.  All songs published by  Virgin Music (Publishers) Ltd. Design Miles & Carl © 91. Distributed by Pinnacle. Made in England. ℗ 1991 Produce Records © 1991 Produce Records   Recorded at Mayfair Studios (A1-A3, A5, B1, B2, B4), Liquidator Studios (A4, B2), Fairview Studios, Hull (B3). Mixed at Westside Studios (A1-A3, A5, B1, B4, B5), Konk Studios (A4). B2 remixed at Westside Studios/E-Zee Hire. B3 remixed at E-Zee Hire.  LP with printed inner sleeve. Early pressing of the album with accompanying bonus remix ep indicated by sticker on front cover.   No tracklist is present on bonus EP, info taken from full retail copy.  |
 | Discogs URL    | [The Farm - Spartacus](https://www.discogs.com/release/1407749-The-Farm-Spartacus) |

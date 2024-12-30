@@ -31,7 +31,10 @@ styles: ["Alternative Rock"]
 Cure for Pain is the second studio album by alternative rock band Morphine, released through Rykodisc in September 1993. Jerome Deupree, the band's original drummer, quit due to health problems during the recording of the album and was replaced by Billy Conway.
 The tracks "Sheila" and "In Spite of Me" were prominently featured on the soundtrack of the 1994 independent film Spanking the Monkey. The video for "Thursday" also appeared on an episode of Beavis and Butt-head.
 The track "Buena" also appears in the first season of The Sopranos, in the Daria episode "The Teachings of Don Jake," and the barroom scene in the 1997 film Ulee's Gold.
-In 2014, the album placed eighth on the Alternative Nation site's "Top 10 Underrated '90s Alternative Rock Albums" list.As of 1995, it has sold 107,000 copies in United States and over 300,000 copies worldwide. As of 2017, combined sales of Cure for Pain and 1995's Yes are 661,000 sold copies in United States.
+In 2014, the album placed eighth on the Alternative Nation site's "Top 10 Underrated '90s Alternative Rock Albums" list. Also in 2014, Cure for Pain was included and analyzed in the book Overlooked/Underappreciated: 354 Recordings That Demand Your Attention.
+As of 1995, it has sold 107,000 copies in United States and over 300,000 copies worldwide. As of 2017, combined sales of Cure for Pain and 1995's Yes are 661,000 sold copies in United States.
+
+
         
         
     
@@ -85,4 +88,4 @@ In 2014, the album placed eighth on the Alternative Nation site's "Top 10 Underr
 | Label          | Music On Vinyl |
 | Catalog Number | MOVLP1783 |
 | Notes |  Limited to 3500 copies worldwide. Comes in external clear sleeve with hype sticker, heavy gauge protective inner sleeve and 4 page insert with credits, lyrics and pictures.   Originally released ℗ & © 1993 Rykodisc. Manufactured & distributed by Music On Vinyl B.V. 2016, under the exclusive license from Warner Music Benelux B.V., a Warner Music Group Company. Made in the EU. |
-| Discogs URL    | [Morphine - Cure For Pain](https://www.discogs.com/release/13678278-Morphine-Cure-For-Pain) |
+| Discogs URL    | [Morphine - Cure For Pain](https://www.discogs.com/release/13678278-Morphine-2-Cure-For-Pain) |

@@ -13,10 +13,12 @@ cover:
     alt: "AOI: Bionix by De La Soul"
     caption: "AOI: Bionix by De La Soul"
 additional_images:
-    - "https://i.discogs.com/OQ5EZksovV0CqA_D0wGTt3hekZe9aYuFJMscmqSnijE/rs:fit/g:sm/q:90/h:556/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3Nzkw/NzQ2LTE2OTA0MDIz/NjQtMTU0NS5qcGVn.jpeg"
+    - "https://i.discogs.com/XJ4VOitNAebLq7Mw0qKD20t2hWMzh_YclFFYIUN7bMc/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3Nzkw/NzQ2LTE3MDk0NzE3/MjUtOTM4OC5qcGVn.jpeg"
+    - "https://i.discogs.com/TUxKdl347X1i24GnAXwKRFQ2uudZN4hT5K14h00RFag/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3Nzkw/NzQ2LTE2OTQ4NTI5/NDMtNjc3Ni5qcGVn.jpeg"
     - "https://i.discogs.com/bNan_3E_lz6MAp8UKrJ3DC9xYtE9j4N3Jj888r2EyBQ/rs:fit/g:sm/q:90/h:395/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3Nzkw/NzQ2LTE2OTA0MDIz/NjQtOTAwMy5qcGVn.jpeg"
+    - "https://i.discogs.com/OQ5EZksovV0CqA_D0wGTt3hekZe9aYuFJMscmqSnijE/rs:fit/g:sm/q:90/h:556/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3Nzkw/NzQ2LTE2OTA0MDIz/NjQtMTU0NS5qcGVn.jpeg"
 genres: ["Hip Hop"]
-styles: ["Jazzy Hip-Hop", "Conscious"]
+styles: ["Jazzy Hip-Hop", "Conscious", "Boom Bap"]
 ---
 
 On their sixth album, 2001’s <i>AOI: Bionix</i>—the second volume in a never-completed trilogy—De La Soul took on a gently robotic feel for their head-nodding-est project ever. There’s a little bit of hedonism in here, with a few breezy songs about what they used to call “buddy”: “Pawn Star” is like X-rated Curtis Mayfield, “What We Do (For Love)” features Slick Rick with an adult update of “Children’s Story”, mild hit “Baby Phat” is a celebration of thicker women. And there’s a little weed smoke in the air, too, on “Peer Pressure”—though, in true Delacratic fashion, Posdnuos abstains, even when going toe-to-toe with Cypress Hill’s B-Real. However, De La Soul had not turned into a mellow party crew, as the gospel-tinged “Held Down” and the child-chant-abetted “Trying People” attest—they are existential soul jams with raps about jealousy, growth and the changing rap world.
@@ -50,21 +52,9 @@ On their sixth album, 2001’s <i>AOI: Bionix</i>—the second volume in a never
 
 
 ## Videos
-### De La Soul - Bionix (Official Audio)
-{{< youtube id="dlchnLLtug0" title="De La Soul - Bionix (Official Audio)" >}}<br>
-### More Videos
+### Peer Pressure
+{{< youtube id="BUW46Z3iZV0" title="Peer Pressure" >}}<br>
 
-- [De La Soul - Trying People](https://www.youtube.com/watch?v=jKY4xOGnFrk)
-- [De La Soul - Special (Official Audio) ft. Elizabeth Yummy Bingham](https://www.youtube.com/watch?v=Nma7-GoKVHg)
-- [Baby Phat](https://www.youtube.com/watch?v=xgHKPGDgXO0)
-- [de la soul - ARE YOU IN? - Nike+ ORIGINAL RUN](https://www.youtube.com/watch?v=mQ7nZ-9UV8Y)
-- [The Sauce](https://www.youtube.com/watch?v=2GaBrL7KEzE)
-- [Peer Pressure](https://www.youtube.com/watch?v=axK7qa07Oeo)
-- [Watch Out](https://www.youtube.com/watch?v=1u-edJEtFas)
-- [What We Do (For Love)](https://www.youtube.com/watch?v=RyeRuUvu1EU)
-- [De La Soul - Am I Worth You? (Official Audio) ft. Glenn Lewis](https://www.youtube.com/watch?v=YW8V1zRo5Nc)
-- [De La Soul - Simply Havin' (Official Audio)](https://www.youtube.com/watch?v=Cv3Gv_jWlkQ)
-- [Bionix](https://www.youtube.com/watch?v=aDkioJ_g2vg)
 
 ## Release Images
 {{< imageGrid >}}
@@ -76,5 +66,5 @@ On their sixth album, 2001’s <i>AOI: Bionix</i>—the second volume in a never
 | Format         | Vinyl 2× LP Album Reissue |
 | Label          | AOI Records |
 | Catalog Number | RMM-056-1 |
-| Notes | Release date of August 11, 2023 in the U.S. and September 15, 2023 Worldwide  "MADE IN CZECH REPUBLIC" sticker on back shrink |
+| Notes | The release date is August 11, 2023, in the U.S. and September 15, 2023, worldwide.  The "MADE IN CZECH REPUBLIC" sticker is on the back shrinkwrap. |
 | Discogs URL    | [De La Soul - AOI: Bionix](https://www.discogs.com/release/27790746-De-La-Soul-AOI-Bionix) |

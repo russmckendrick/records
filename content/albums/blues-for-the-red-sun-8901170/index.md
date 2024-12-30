@@ -17,6 +17,7 @@ additional_images:
     - "https://i.discogs.com/vYdbKpgYYJrjaCYwQFyHZfJ7kDEekg8S6DeYnsHPYf4/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg5MDEx/NzAtMTQ3MjUwNDE4/NC0zNDE5LmpwZWc.jpeg"
     - "https://i.discogs.com/psbLTwkiGDcbz4xEHQQ3Dh75gmfz2VMmh8ZYt_eOLxA/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg5MDEx/NzAtMTQ3MjUwNDE4/NC0yMjI0LmpwZWc.jpeg"
     - "https://i.discogs.com/iHp_MPXmRgCPYDUxGErQGTItLmuYQkEoknQEdgrtFnQ/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg5MDEx/NzAtMTQ3MjUwNDIx/Ny03MTQ3LmpwZWc.jpeg"
+    - "https://i.discogs.com/iMHRng9yFH3_NxZ8vhDJI-P1UHxt_Vv45xs5E8Te_Es/rs:fit/g:sm/q:90/h:600/w:595/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg5MDEx/NzAtMTcwNzc3Mjg0/Ny0yODE5LmpwZWc.jpeg"
 genres: ["Rock"]
 styles: ["Stoner Rock", "Hard Rock"]
 ---

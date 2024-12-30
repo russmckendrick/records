@@ -4,6 +4,7 @@ artist_name: "Mansun"
 artist: "mansun"
 album_name: "Wide Open Space"
 date: 2018-04-26T17:55:35.000000Z
+release_date: "1998-01-27"
 release_id: "11894962"
 slug: "wide-open-space-11894962"
 hideSummary: true
@@ -13,7 +14,7 @@ cover:
     caption: "Wide Open Space by Mansun"
 additional_images:
     - "https://i.discogs.com/e4f4ylouSltbVfa313rM3ozvqH9fNRwCSVbQqvEDNS4/rs:fit/g:sm/q:90/h:594/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExODk0/OTYyLTE1OTAwMTcx/ODQtNzk0MS5qcGVn.jpeg"
-    - "https://i.discogs.com/U3ge3dEliipjgEO92CYD5nt5POyN17QmzzQVdjvj-No/rs:fit/g:sm/q:90/h:611/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExODk0/OTYyLTE1OTAwMTcx/ODUtNzA1My5qcGVn.jpeg"
+    - "https://i.discogs.com/_cbjrBwVan83f3SGZPHa-Nb-VCTb-R6UfTCPPw8kHTs/rs:fit/g:sm/q:90/h:600/w:589/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExODk0/OTYyLTE1OTAwMTcx/ODUtNzA1My5qcGVn.jpeg"
     - "https://i.discogs.com/ZONOGASQaiZcL59wqfWxXRrchXdqcfXMaHvdmFbrvfY/rs:fit/g:sm/q:90/h:449/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExODk0/OTYyLTE1OTAwMTcx/ODQtNDYzNS5qcGVn.jpeg"
     - "https://i.discogs.com/Of2orNRIuycbcSSeBZm9OF4OTctY146A2u46-lrU48I/rs:fit/g:sm/q:90/h:452/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExODk0/OTYyLTE1OTAwMTcx/ODQtNzE5MC5qcGVn.jpeg"
     - "https://i.discogs.com/Fj1gs2eoFaEmBMQ_Yf0dZ5VfcW93y1KfHDyk-YqoHHM/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExODk0/OTYyLTE1OTAwMTcx/ODMtOTQ5MC5qcGVn.jpeg"
@@ -27,7 +28,8 @@ styles: ["Alternative Rock", "Indie Rock"]
 ---
 
 "Wide Open Space" is a song by Chester rock band Mansun, released as a single on 25 November 1996. The song was the lead track of Four EP. The single's success led to alternative versions appearing on four of the next five Mansun singles. These versions were one live, one acoustic, and two remixes, the first and most popular by Perfecto, and a NRG version by The Trouser Enthusiasts. A completely different version credited to longtime engineer Mike Hunter was included as a hidden bonus track on their compilation Kleptomania. The song also appears on The Sound of Gran Turismo, a soundtrack album based on Gran Turismo.
-    
+        
+        
     
 
 
@@ -41,20 +43,19 @@ styles: ["Alternative Rock", "Indie Rock"]
 7. Lemonade Secret Drinker (Acoustic Version)
 
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/wide-open-space-remastered-single/1584231195" >}}<br>
+{{< applemusic url="https://music.apple.com/gb/album/wide-open-spaces/155681921" >}}<br>
 
 
 ## Videos
-### Mansun - Wide Open Space (Perfecto Mix) ·1998·
-{{< youtube id="VEMiMRS1ixo" title="Mansun - Wide Open Space (Perfecto Mix) ·1998·" >}}<br>
+### Mansun ‎– Wide Open Space (Perfecto Mix)
+{{< youtube id="pqXPver8pr0" title="Mansun ‎– Wide Open Space (Perfecto Mix)" >}}<br>
 ### More Videos
 
-- [Mansun - Wide Open Space (Trouser Enthusiasts Hermaphrodite circus Mix.wmv](https://www.youtube.com/watch?v=Zp0bGzYML14)
-- [Mansun Wide Open Space [Trouser Enthusiasts Hermaphrodite Circus Mix]](https://www.youtube.com/watch?v=xAm3jogRt9Y)
-- [Mansun Wide Open Space](https://www.youtube.com/watch?v=ppmUdn6GUXQ)
-- [Mansun- Wide Open Space (Forthright remix)](https://www.youtube.com/watch?v=wnorj9T7tpU)
-- [Mansun - Wide Open Space (John 00 Fleming Mix) 1998](https://www.youtube.com/watch?v=b-EE3VnETeU)
+- [Wide Open Space](https://www.youtube.com/watch?v=h9vu_QdKwJw)
+- [Mansun - Wide Open Space (John '00' Fleming Mix)](https://www.youtube.com/watch?v=L7bd4aaW1o4)
 - [Mansun - Wide Open Space (Forthright Dub)](https://www.youtube.com/watch?v=P91Os-2UVR8)
+- [Mansun- Wide Open Space (Forthright remix)](https://www.youtube.com/watch?v=wnorj9T7tpU)
+- [Mansun - Wide Open Space (Trouser Enthusiasts' Hermaphrodite Circus Mix) (1998)](https://www.youtube.com/watch?v=HPxD-ah3B_k)
 
 ## Release Images
 {{< imageGrid >}}

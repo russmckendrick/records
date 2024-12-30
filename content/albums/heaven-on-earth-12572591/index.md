@@ -19,12 +19,14 @@ additional_images:
     - "https://i.discogs.com/S9q5gnxECNjjCMRyyEbdyRLqrBcHJDzGvSUOIj0C14I/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNTcy/NTkxLTE1NDE4ODc3/MTYtNjQ5OC5qcGVn.jpeg"
     - "https://i.discogs.com/efT0Tt6gxWU1nSM5xLkX5LifGxS0wUOZ4rtP86mbSf4/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNTcy/NTkxLTE1NDc4Njk2/MTEtMjU5OC5qcGVn.jpeg"
     - "https://i.discogs.com/-65rVIrLjtFn65ct4GQkRaAMCkq6a1M8XX37sArsTXM/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNTcy/NTkxLTE1NDE4ODc3/MTYtODUwMi5qcGVn.jpeg"
-    - "https://i.discogs.com/Ejq9MUlhJyyoIfqK7NTkLfP8WK2G93khneC945VIR6w/rs:fit/g:sm/q:90/h:840/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNTcy/NTkxLTE2MjE3OTQz/NDItNjgyNC5qcGVn.jpeg"
+    - "https://i.discogs.com/a_39RfvvxTnHm9OwTaUAou3LElEMlGiIglrCphgsSsA/rs:fit/g:sm/q:90/h:600/w:428/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNTcy/NTkxLTE2MjE3OTQz/NDItNjgyNC5qcGVn.jpeg"
 genres: ["Rock", "Pop"]
 styles: ["Pop Rock", "Ballad"]
 ---
 
 Heaven on Earth is the second solo studio album by American singer Belinda Carlisle. It was released on October 5, 1987, by MCA Records. Three singles reached the top 10 of the US Billboard Hot 100, including the number-one single and Carlisle's signature song "Heaven Is a Place on Earth". The album has been certified triple Platinum in the United Kingdom and Platinum in many countries, including the United States.
+
+
     
     
 
@@ -50,20 +52,11 @@ Heaven on Earth is the second solo studio album by American singer Belinda Carli
 {{< youtube id="j2F4INQFjEI" title="Belinda Carlisle - Heaven Is A Place On Earth (Official Video)" >}}<br>
 ### More Videos
 
-- [Belinda Carlisle - I Get Weak (Official Video)](https://www.youtube.com/watch?v=sdTaPrs3fYE)
-- [Belinda Carlisle - Circle In The Sand (Official Video)](https://www.youtube.com/watch?v=hgpXSoWBAVA)
 - [Belinda Carlisle - I Feel Free (Official Video)](https://www.youtube.com/watch?v=Z9T7rbO00hI)
 - [Belinda Carlisle - World Without You (Official Video)](https://www.youtube.com/watch?v=lb2lgh2NhVA)
 - [Belinda Carlisle - Love Never Dies (Official Video)](https://www.youtube.com/watch?v=GhOj0B5Pvgs)
-- [I Feel Free](https://www.youtube.com/watch?v=jjNgO4v8HW4)
-- [Should I Let You In?](https://www.youtube.com/watch?v=0-BxVxwBINM)
-- [World Without You](https://www.youtube.com/watch?v=YyTfnf5jD_8)
-- [I Get Weak](https://www.youtube.com/watch?v=6O5JLllaMW0)
-- [We Can Change](https://www.youtube.com/watch?v=GPN6xhSw-Pw)
-- [Fool for Love](https://www.youtube.com/watch?v=lgiLr1q257o)
-- [Nobody Owns Me](https://www.youtube.com/watch?v=cizmZPd2mfo)
-- [Love Never Dies](https://www.youtube.com/watch?v=ivOXrlFOeEs)
-- [Heaven is a Place on Earth (Acoustic)](https://www.youtube.com/watch?v=-Gbnyvq66Hk)
+- [Belinda Carlisle - I Get Weak (Official Video)](https://www.youtube.com/watch?v=sdTaPrs3fYE)
+- [Belinda Carlisle - Circle In The Sand (Official Video)](https://www.youtube.com/watch?v=hgpXSoWBAVA)
 
 ## Release Images
 {{< imageGrid >}}

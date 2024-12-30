@@ -19,6 +19,8 @@ genres: ["Rock"]
 styles: ["AOR"]
 ---
 
+
+
 ## Tracklisting
 1. Sunshine
 2. Ride Like The Wind [45 Version]
@@ -48,7 +50,6 @@ styles: ["AOR"]
 26. Sailing
 
 
-{{< spotify type="playlist" id="2pxkFXhenUkCfmTKknZCEb" width="100%" height="500" >}}<br>
 
 
 

@@ -36,7 +36,7 @@ styles: ["Art Rock"]
 
 Paris 1919 is the third solo studio album by the Welsh musician John Cale, released on 25 February 1973 by Reprise Records. Musicians such as Lowell George and Wilton Felder performed on the release. It was produced by Chris Thomas, who had previously worked producing Procol Harum.
 In contrast to the experimental nature of much of John Cale's work before and after Paris 1919, the album is noted for its orchestral-influenced style, reminiscent of contemporary pop rock music. Its title is a reference to the 1919 Paris Peace Conference, and song contents explore various aspects of early 20th century Western Europe culture and history.
-The album has received critical praise from several publications over the years, including AllMusic and Rolling Stone. It was reissued on 19 June 2006 by Rhino Records.
+The album has received critical praise from several publications over the years, including AllMusic and Rolling Stone.
 
 
     
@@ -86,8 +86,8 @@ The album has received critical praise from several publications over the years,
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Paris_1919_(album) |
-| Format         | Vinyl LP Reissue Remastered Stereo, Vinyl LP Stereo, All Media Album Deluxe Edition |
+| Format         | Vinyl LP Album Reissue Remastered Stereo, Vinyl LP Stereo, All Media Deluxe Edition |
 | Label          | Domino |
 | Catalog Number | REWIGLP139 |
-| Notes | Remastered from the original tapes and includes previously unreleased outtakes and a brand new recording (track D2). Includes liner notes written by Grayson Haver Currin.  Includes digital download card. |
+| Notes | Remastered from the original tapes and includes previously unreleased outtakes and a brand new recording (track D2). Includes liner notes written by Grayson Haver Currin. Single pocket jacket with printed inner sleeves with photographs of the master tapes, a lyrics/credits sheet and a reproduction of an original ad.  Includes digital download card. |
 | Discogs URL    | [John Cale - Paris 1919](https://www.discogs.com/release/32196960-John-Cale-Paris-1919) |

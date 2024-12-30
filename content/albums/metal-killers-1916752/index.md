@@ -14,6 +14,8 @@ cover:
 additional_images:
     - "https://i.discogs.com/-qznj7gQF8MY_u_fDyxzKzM9hTAkhKsZdAwBkRp9nGk/rs:fit/g:sm/q:90/h:350/w:350/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MTY3/NTItMTI1OTUyOTUx/MS5qcGVn.jpeg"
     - "https://i.discogs.com/hE-Jpb28EKmlnbQWlaSzGv6U3hCGhGRF8lfeEqbQ0oM/rs:fit/g:sm/q:90/h:591/w:592/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MTY3/NTItMTQyNDE3NTI1/MS0yNDI0LmpwZWc.jpeg"
+    - "https://i.discogs.com/rOwJZdISZsvXPR96NqJr3j64BzTZvomDpOIkOVXUEus/rs:fit/g:sm/q:90/h:571/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MTY3/NTItMTcxNDgxODE0/Ny0xMDMzLmpwZWc.jpeg"
+    - "https://i.discogs.com/xu_Nwhimy6S3dqJ-UTRtstt0xC1DkZn5648Wge6x214/rs:fit/g:sm/q:90/h:574/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MTY3/NTItMTcxNDgxODE0/Ny0zMjgzLmpwZWc.jpeg"
 genres: ["Rock"]
 styles: ["Heavy Metal", "Hard Rock"]
 ---
@@ -42,7 +44,9 @@ styles: ["Heavy Metal", "Hard Rock"]
 ## Videos
 ### Accept - Fast As A Shark
 {{< youtube id="tTeXBTStek0" title="Accept - Fast As A Shark" >}}<br>
+### More Videos
 
+- [Accept - Fast As A Shark](https://www.youtube.com/watch?v=tTeXBTStek0)
 
 ## Release Images
 {{< imageGrid >}}

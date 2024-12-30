@@ -25,7 +25,7 @@ genres: ["Rock"]
 styles: ["Prog Rock", "Hard Rock"]
 ---
 
-Time Machine 2011: Live in Cleveland is a concert DVD, Blu-ray and double CD by Canadian rock band Rush released on 8 November 2011. It was filmed on 15 April 2011 at the Quicken Loans Arena in Cleveland, Ohio during the band's Time Machine Tour. The DVD film was recorded by Banger Films, which had previously produced the Rush documentary Rush: Beyond the Lighted Stage. The Moving Pictures portion of the concert was released on vinyl and digitally under the title Moving Pictures: Live 2011.
+Time Machine 2011: Live in Cleveland is a concert DVD, Blu-ray and double CD by Canadian rock band Rush released on 8 November 2011. It was filmed on 15 April 2011 at the Quicken Loans Arena in Cleveland, Ohio during the band's Time Machine Tour. The DVD film was recorded by Banger Films, which had previously produced the Rush documentary Rush: Beyond the Lighted Stage. The Moving Pictures portion of the concert was released on vinyl and digitally under the title Moving Pictures: Live 2011. In Canada in 2023 and 2024, the film was carried on Hollywood Suite under the title, Rush: Time Machine Tour.
 The album was nominated for a Juno Award in the "Music DVD of the Year" category. On 14 May 2014, the DVD was certified 2× Platinum in the US with 200,000 copies sold. It was later reissued as a part of the DVD and Blu-ray box set titled R40, released on 11 November 2014.
     
     

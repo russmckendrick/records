@@ -18,11 +18,11 @@ additional_images:
     - "https://i.discogs.com/CAa7xwMyxWTvng01uMX1Y1oLO65WJegfbqXoyNsirnY/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MTIw/NTkzLTE2NTk4MDU3/NzQtOTA0NC5qcGVn.jpeg"
     - "https://i.discogs.com/FFQUI-aQr3n4nXR2B0f9D-QjEULOgtxYRI2qc_QbaHg/rs:fit/g:sm/q:90/h:427/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MTIw/NTkzLTE2NTk4MDU3/MjEtMzk0Ny5qcGVn.jpeg"
     - "https://i.discogs.com/eSvuswX7O0sz3QJBy3667skTkPLes3k1_QMF_auEWNI/rs:fit/g:sm/q:90/h:424/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MTIw/NTkzLTE2NTk4MDY0/MTQtMjUwMS5qcGVn.jpeg"
-    - "https://i.discogs.com/D6VVg-K_eO7o8PG1woNzxTwbfq8ckEEjMGZcWWwsl1g/rs:fit/g:sm/q:90/h:605/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MTIw/NTkzLTE2NTk4MDY0/MzUtODc0Mi5qcGVn.jpeg"
+    - "https://i.discogs.com/yrJ6_7UTjnsRfIOtA5kaTjKT9P_4gOgtnKFUcOFCJfE/rs:fit/g:sm/q:90/h:600/w:594/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MTIw/NTkzLTE2NTk4MDY0/MzUtODc0Mi5qcGVn.jpeg"
     - "https://i.discogs.com/g8rCweCqGYQ8x9BgdosuXM4_dY7pWRZxfw3M4YN5e0o/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MTIw/NTkzLTE2NTk4MDY0/NDctODUxMi5qcGVn.jpeg"
     - "https://i.discogs.com/AA607zG1DFVA33tEsp3tk0Z8AsC4xQ8LIIobs3WIsBc/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MTIw/NTkzLTE2NTk4MDU0/ODItMTU3MS5qcGVn.jpeg"
-    - "https://i.discogs.com/V_eUSZkN2M1zSPXim7GouNvGU1LoT9JPHG4BI3TVizk/rs:fit/g:sm/q:90/h:605/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MTIw/NTkzLTE2NTk4MDU2/MjMtMjkzNi5qcGVn.jpeg"
-    - "https://i.discogs.com/flfHzMq4oIwYa0ensttPyOuaHZk8LSv-eWBFkTxLTjI/rs:fit/g:sm/q:90/h:610/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MTIw/NTkzLTE2NTk4MDUy/NzAtOTA4Ny5qcGVn.jpeg"
+    - "https://i.discogs.com/5hidHup5hY-qEUVj8rnk4aO7zx-wxOsu8QtLpo0vpEI/rs:fit/g:sm/q:90/h:600/w:594/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MTIw/NTkzLTE2NTk4MDU2/MjMtMjkzNi5qcGVn.jpeg"
+    - "https://i.discogs.com/YEYitH86WwPiObUqRQ5OVQSYxBkSxwTFxQBMhg6N-6c/rs:fit/g:sm/q:90/h:600/w:589/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MTIw/NTkzLTE2NTk4MDUy/NzAtOTA4Ny5qcGVn.jpeg"
 genres: ["Rock"]
 styles: ["Alternative Rock"]
 ---

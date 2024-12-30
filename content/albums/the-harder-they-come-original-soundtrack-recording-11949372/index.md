@@ -15,11 +15,11 @@ additional_images:
     - "https://i.discogs.com/bYAMFjBg3SOub9jKXbpE1vFYv-tuTFaHK-gSnBoZjI0/rs:fit/g:sm/q:90/h:569/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExOTQ5/MzcyLTE1MzQ0NDcz/NDYtNjAyNy5qcGVn.jpeg"
     - "https://i.discogs.com/yg9X1egQ2R9pXGtdH_3VQD2tayK8lPW3JsW9SR3t-Cc/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExOTQ5/MzcyLTE2NjY4NjI5/MDMtNTIwNS5qcGVn.jpeg"
     - "https://i.discogs.com/0wZIQTn3NvPIFmWvO1Fykk5fH5wlBU23hJ76qprnYKE/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExOTQ5/MzcyLTE2NjY4NjI5/MDQtMzQxMS5qcGVn.jpeg"
-    - "https://i.discogs.com/QOkpULR69T-KA__4f7NGo4Vpju42Jd-sHY78bIxfPd0/rs:fit/g:sm/q:90/h:623/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExOTQ5/MzcyLTE1MzQ0NDc1/MTktNzE0MC5qcGVn.jpeg"
-    - "https://i.discogs.com/BIZzW3_At0M3RH3prVNrERVXBpwSRrJ5bAeB-QlixsI/rs:fit/g:sm/q:90/h:603/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExOTQ5/MzcyLTE1MzQ0NDc5/MDMtMzc3MC5qcGVn.jpeg"
-    - "https://i.discogs.com/3NHOx-zDop-53gepnrZiwwgc-CAfjK0qZlAkEYYKRSo/rs:fit/g:sm/q:90/h:603/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExOTQ5/MzcyLTE1MzQ0NDc5/NjYtNjY1MC5qcGVn.jpeg"
-    - "https://i.discogs.com/2zI0OW34NB2lkbdSJMB6Gc7uiCzZ5VkQum3KiGOHVZc/rs:fit/g:sm/q:90/h:606/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExOTQ5/MzcyLTE1MzQ0NDc3/MjYtNjU3OS5qcGVn.jpeg"
-    - "https://i.discogs.com/zyfnyO1eFXyVNyZ2qkIA7J60h9niqCoX9QmT-asYNJA/rs:fit/g:sm/q:90/h:606/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExOTQ5/MzcyLTE1MzQ0NDc3/OTYtMjg5MC5qcGVn.jpeg"
+    - "https://i.discogs.com/MWL8-QIbYZ-gm7QKAq83VKc7vwubqZlwd8ul7QDkcm4/rs:fit/g:sm/q:90/h:600/w:577/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExOTQ5/MzcyLTE1MzQ0NDc1/MTktNzE0MC5qcGVn.jpeg"
+    - "https://i.discogs.com/kvhT9-1V9x2snQteQWKS2oZLQWLghzvKK7lBhmG85tA/rs:fit/g:sm/q:90/h:600/w:596/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExOTQ5/MzcyLTE1MzQ0NDc5/MDMtMzc3MC5qcGVn.jpeg"
+    - "https://i.discogs.com/OufqFeEsFavmp6t8N4m99NNo39KjRu-OA2Lw1Hn61wg/rs:fit/g:sm/q:90/h:600/w:596/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExOTQ5/MzcyLTE1MzQ0NDc5/NjYtNjY1MC5qcGVn.jpeg"
+    - "https://i.discogs.com/2B8WwA2OmUjtF32Qhzc5qzblRi5qeHQASpIkxO1R1tk/rs:fit/g:sm/q:90/h:600/w:593/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExOTQ5/MzcyLTE1MzQ0NDc3/MjYtNjU3OS5qcGVn.jpeg"
+    - "https://i.discogs.com/kig8yYNR4fUDuKBBxLV7KqKtEEgZyA12Y6g24sue__k/rs:fit/g:sm/q:90/h:600/w:593/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExOTQ5/MzcyLTE1MzQ0NDc3/OTYtMjg5MC5qcGVn.jpeg"
 genres: ["Reggae", "Stage & Screen"]
 styles: ["Soundtrack", "Reggae"]
 ---
@@ -43,28 +43,19 @@ styles: ["Soundtrack", "Reggae"]
 
 
 ## Videos
-### Review 25: Jimmy Cliff - The Harder They Come
-{{< youtube id="f0DNBaKWieI" title="Review 25: Jimmy Cliff - The Harder They Come" >}}<br>
+### Jimmy Cliff - The Harder They Come (Original Soundtrack 1972)
+{{< youtube id="StP9OX4bOgU" title="Jimmy Cliff - The Harder They Come (Original Soundtrack 1972)" >}}<br>
 ### More Videos
 
-- [Jimmy Cliff - The Harder They Come](https://www.youtube.com/watch?v=7Znh0OM9jiA)
-- [The Maytals - Pressure Drop + LYRICS (Various - The Harder They Come OST, 1972)](https://www.youtube.com/watch?v=YgMoEMfKdDs)
-- [Jimmy Cliff - The Harder They Come (Original Soundtrack 1972)](https://www.youtube.com/watch?v=StP9OX4bOgU)
-- [The Harder They Come Movie HD](https://www.youtube.com/watch?v=j9U1zc8ys-Q)
-- [Jimmy Cliff - You Can Get If You Really Want](https://www.youtube.com/watch?v=alJGnfiQ9iU)
-- [The Melodians - Rivers Of Babylon + LYRICS (Various - The Harder They Come OST, 1972)](https://www.youtube.com/watch?v=GX5DPsw0Hy0)
 - [Scotty   Draw Your Brakes](https://www.youtube.com/watch?v=pcGadadrPtk)
+- [Desmond Dekker ~ 007 Shanty Town (with lyrics)](https://www.youtube.com/watch?v=YspCXgdjqEM)
+- [The Harder They Come Movie HD](https://www.youtube.com/watch?v=j9U1zc8ys-Q)
+- [Review 25: Jimmy Cliff - The Harder They Come](https://www.youtube.com/watch?v=f0DNBaKWieI)
+- [Jimmy Cliff - The Harder They Come](https://www.youtube.com/watch?v=7Znh0OM9jiA)
+- [Jimmy Cliff - You Can Get If You Really Want](https://www.youtube.com/watch?v=alJGnfiQ9iU)
 - [Scotty - Draw Your Brakes - Balada Sangrenta Jimmy Cliff](https://www.youtube.com/watch?v=m7KxOv1v7Bs)
-- [The Uniques - My Conversation + LYRICS (Various - The Harder They Come OST, 1972)](https://www.youtube.com/watch?v=jSoRU_VxoPY)
 - [Jimmy Cliff - Many Rivers to Cross](https://www.youtube.com/watch?v=7FhiM5gXRZM)
-- [Dave & Ansel Collins - Monkey Spanner + LYRICS (Various - The Harder They Come OST, 1972)](https://www.youtube.com/watch?v=B3ZZOokFVEo)
 - [The Slickers - Johnny Too Bad](https://www.youtube.com/watch?v=lRm7j2UL3YY)
-- [Desmond Dekker - 007 (Shanty Town) + LYRICS (Various - The Harder They Come OST, 1972)](https://www.youtube.com/watch?v=DfV-PnmAGS0)
-- [Jimmy Cliff - The Harder They Come + LYRICS (Various - The Harder They Come OST, 1972)](https://www.youtube.com/watch?v=3z8iuVzZSyE)
-- [Jimmy Cliff - The Slickers - Johnny Too Bad + LYRICS (Various - The Harder They Come OST, 1972)](https://www.youtube.com/watch?v=hS2k85zW4WU)
-- [The Melodians - Sweet Sensation + LYRICS (Various - The Harder They Come OST, 1972)](https://www.youtube.com/watch?v=pYsk6V6CJ9o)
-- [Jimmy Cliff - Sitting In Limbo + LYRICS (Various - The Harder They Come OST, 1972)](https://www.youtube.com/watch?v=9r1Dwa3bou0)
-- [The Melodians - It's My Delight + LYRICS (Various - The Harder They Come OST, 1972)](https://www.youtube.com/watch?v=fvMp6elDcOQ)
 
 ## Release Images
 {{< imageGrid >}}

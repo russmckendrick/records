@@ -13,21 +13,21 @@ cover:
     alt: "Closure / Continuation by Porcupine Tree"
     caption: "Closure / Continuation by Porcupine Tree"
 additional_images:
-    - "https://i.discogs.com/-s58lX7EaiQQoT_t2VVqfruKj884UpS3oLTp9PstWBk/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNjY5/Nzg5LTE2NTY1Mjc5/MDQtNDgzOS5qcGVn.jpeg"
-    - "https://i.discogs.com/56vcAk8tnXZu6Ues-eeaq3k32cslAkU5YQZA56DdED4/rs:fit/g:sm/q:90/h:603/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNjY5/Nzg5LTE2NTY1Mjc5/MDQtNzI4Ny5qcGVn.jpeg"
+    - "https://i.discogs.com/cW9N196FFgXxDMvDEIy04hZNWWfzhCwnTLcB5Xlw2dY/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNjY5/Nzg5LTE2NTY1Mjc5/MDQtNDgzOS5qcGVn.jpeg"
+    - "https://i.discogs.com/IQRjesSNmcWi12wS2ieNhUkuTvBi3N7ovhm2FMuycZI/rs:fit/g:sm/q:90/h:600/w:597/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNjY5/Nzg5LTE2NTY1Mjc5/MDQtNzI4Ny5qcGVn.jpeg"
     - "https://i.discogs.com/uW4Q0Cq18oZfUjr0qU6CL7gP_sZg-gzXujR8Ml80XQY/rs:fit/g:sm/q:90/h:112/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNjY5/Nzg5LTE2NTY1Mjc5/MDQtMzcwMy5qcGVn.jpeg"
-    - "https://i.discogs.com/mHptiWFxtJQqrCeTWjIPEUqm9Pb9JF7kP_r7OFB7HK4/rs:fit/g:sm/q:90/h:603/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNjY5/Nzg5LTE2NTY1Mjc5/NjgtODExNi5qcGVn.jpeg"
+    - "https://i.discogs.com/kpdHIukugiYP-SF-lDz1f7bs1A-luNaibTWZIErsC4s/rs:fit/g:sm/q:90/h:600/w:596/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNjY5/Nzg5LTE2NTY1Mjc5/NjgtODExNi5qcGVn.jpeg"
     - "https://i.discogs.com/mkGZuEP9P8ey5A3ENi7M0OU9mLKdU87gauOnQXDJwFY/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNjY5/Nzg5LTE2NTY1Mjc5/MTYtOTQ3MC5qcGVn.jpeg"
-    - "https://i.discogs.com/FVYYnos4h9tp0y-XdXTVps0EBOH1d-5vXO0KS8uDKLE/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNjY5/Nzg5LTE2NTY1Mjc5/MTgtOTEzNC5qcGVn.jpeg"
+    - "https://i.discogs.com/S0kojDELl3NBqkNZmFminN0FhG-nSh6RLVYbUahiotM/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNjY5/Nzg5LTE2NTY1Mjc5/MTgtOTEzNC5qcGVn.jpeg"
     - "https://i.discogs.com/CDFU6NG3tWzKYAG1NvCADj3xWaC9RAaQ7Rbg83BiHAc/rs:fit/g:sm/q:90/h:15/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNjY5/Nzg5LTE2NTY1Mjc5/MDItMTgzOC5qcGVn.jpeg"
     - "https://i.discogs.com/3Jhq-tN5yb_P1-DZrg-EbtqiFEdQZnoAQRA4YI60nGc/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNjY5/Nzg5LTE2NTY1Mjc5/MTgtODYzMi5qcGVn.jpeg"
     - "https://i.discogs.com/wLZrfMg13dwl9H8sSAF3NMBiN0yDSnQZymDqDywjpng/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNjY5/Nzg5LTE2NTY1Mjc5/MTctOTE5NC5qcGVn.jpeg"
-    - "https://i.discogs.com/oTMfVSRQ4qFn_yKNDUrxC9QyXE4-2mKxCB8SWIUuvQI/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNjY5/Nzg5LTE2NTY1Mjc5/MTktMjgwMS5qcGVn.jpeg"
+    - "https://i.discogs.com/qFbiuxlAdK-5TvB3LbWlvs_CnyXb-GSl6XHVGoT3Ftc/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNjY5/Nzg5LTE2NTY1Mjc5/MTktMjgwMS5qcGVn.jpeg"
     - "https://i.discogs.com/5OS7DCAzuo0r7ipc02rrlhyjaWfWuteh4U74A_K6jWs/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNjY5/Nzg5LTE2NTY1Mjc5/MTctOTYwMS5qcGVn.jpeg"
     - "https://i.discogs.com/lUC4gKj4lU8j8RfrI1wO0cNhlu6Oh1ERkXARJNZmFFE/rs:fit/g:sm/q:90/h:13/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNjY5/Nzg5LTE2NTY1Mjc5/MDItNDEwNy5qcGVn.jpeg"
     - "https://i.discogs.com/w9dvAkLubDV1HXAljq8nnj5cVr_6Z7ik3SkFHCgm2fs/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNjY5/Nzg5LTE2NTY1Mjc5/MTktNjAwMS5qcGVn.jpeg"
     - "https://i.discogs.com/bLKNOfHXbQ_34qC0n2Q6YklGh4GVStVgmqHxIQTCRyE/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNjY5/Nzg5LTE2NTY1Mjc5/MTUtMjYxNi5qcGVn.jpeg"
-    - "https://i.discogs.com/0QCdAuSh-wu8jTNJu6ncit0yboM994gAiGJaLPtySs8/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNjY5/Nzg5LTE2NTY1Mjc5/MTgtNjQ4NC5qcGVn.jpeg"
+    - "https://i.discogs.com/n3j6zFIzgOBzLKJwS46ZoZ0GMKAjssasrkWluJgWzWo/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNjY5/Nzg5LTE2NTY1Mjc5/MTgtNjQ4NC5qcGVn.jpeg"
     - "https://i.discogs.com/VIbqDpTsWD-5amQb2mk6qnbg4b-JMslDGuGyR-28muY/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNjY5/Nzg5LTE2NTY1Mjc5/MTctNDY1MS5qcGVn.jpeg"
     - "https://i.discogs.com/KrgAHlAV-TJvRriIlNgqlN_rOrBiMJPZpf_saCXhCbw/rs:fit/g:sm/q:90/h:13/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNjY5/Nzg5LTE2NTY1Mjc5/MDMtNzE1NS5qcGVn.jpeg"
     - "https://i.discogs.com/lbffy50WT0Ol9BbccC0q2BrvY8jHlhPTLCLigmOh4vM/rs:fit/g:sm/q:90/h:594/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNjY5/Nzg5LTE2NTY1Mjc5/MTctOTY3Mi5qcGVn.jpeg"
@@ -45,8 +45,12 @@ genres: ["Rock"]
 styles: ["Prog Rock"]
 ---
 
-Add this album to your library now.
-    
+Closure/Continuation is the eleventh studio album by British progressive rock band Porcupine Tree. It is their first since 2009's The Incident. Despite public uncertainty of the band's future after frontman Steven Wilson's focus on a solo career in 2010, the album was recorded intermittently in complete secrecy among Wilson, Gavin Harrison, and Richard Barbieri across the course of the following decade, without longtime bassist Colin Edwin. With the COVID-19 pandemic putting members' separate plans on hold, the band found time to finish the record in September 2021. Towards the end of the year, the band's reformation was announced, alongside the album's release date of 24 June 2022. Four singles were released ahead of the record—"Harridan", "Of the New Day", "Herd Culling", and "Rats Return".
+The album debuted at number two on the UK Albums Chart and reached number one in Germany, the Netherlands and Switzerland.
+
+
+        
+        
     
 
 
@@ -79,6 +83,8 @@ Add this album to your library now.
 - [Porcupine Tree - Population Three (Official Audio)](https://www.youtube.com/watch?v=LzG1nOFL3XQ)
 - [Porcupine Tree - Never Have (Official Audio)](https://www.youtube.com/watch?v=LYaur8_mUg4)
 - [Porcupine Tree - Love in the Past Tense (Official Audio)](https://www.youtube.com/watch?v=My9hnoHEgaU)
+- [Unboxing Porcupine Tree - Closure / Continuation 2022 Deluxe Edition](https://www.youtube.com/watch?v=yznt2OSAw7g)
+- [Porcupine Tree – Of The New Day......yerdenizplak.com İstanbul Kadıköy](https://www.youtube.com/watch?v=QXBDIofnwDc)
 
 ## Release Images
 {{< imageGrid >}}
@@ -86,6 +92,7 @@ Add this album to your library now.
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
+| Wikipedia URL | https://en.wikipedia.org/wiki/Closure/Continuation |
 | Format         | Vinyl 3× 12" 45 RPM Album (Clear), Box Set Deluxe Edition |
 | Label          | Music For Nations |
 | Catalog Number | 19439956921 |

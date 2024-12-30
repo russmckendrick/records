@@ -21,6 +21,13 @@ genres: ["Rock"]
 styles: ["Pop Rock"]
 ---
 
+The Best of R.E.M. is a greatest hits album by R.E.M. released in 1991, shortly after the success of the band's seventh studio album, Out of Time, released by Warner Bros. The Best of R.E.M., however, was released by the band's previous record label, I.R.S. Records, and only includes tracks from their first five albums while the group was with that label. As such, it covers their output from 1982 to 1987.
+The Best of R.E.M. was only issued in Europe, New Zealand, Australia, Brazil and Chile, complete with liner notes from Remarks: The Story of R.E.M. by Tony Fletcher (a greatest hits album with alternate mixes had been released prior with a very similar track list titled Eponymous).
+Three songs were taken from each of the first five studio albums and one song was taken from Chronic Town, the band's first EP, making a total of sixteen songs on the album.
+
+
+    
+    
 
 
 ## Tracklisting
@@ -45,6 +52,9 @@ styles: ["Pop Rock"]
 {{< applemusic url="https://music.apple.com/gb/album/in-time-the-best-of-r-e-m-1988-2003/1422693791" >}}<br>
 
 
+## Videos
+### Carnival Of Sorts (Boxcars)
+{{< youtube id="I2ldtKJbNQQ" title="Carnival Of Sorts (Boxcars)" >}}<br>
 
 
 ## Release Images
@@ -53,6 +63,7 @@ styles: ["Pop Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
+| Wikipedia URL | https://en.wikipedia.org/wiki/The_Best_of_R.E.M. |
 | Format         | Vinyl LP Compilation |
 | Label          | I.R.S. Records |
 | Catalog Number | MIRH 1 |

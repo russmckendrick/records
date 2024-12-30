@@ -21,6 +21,12 @@ genres: ["Rock"]
 styles: ["Lo-Fi", "Indie Rock"]
 ---
 
+It's a Wonderful Life is the third studio album by American musical act Sparklehorse, released in the UK on June 11, 2001 and in the US on August 28, 2001 by record label Capitol/EMI. The album features appearances by Tom Waits, PJ Harvey, John Parish, Nina Persson and Dave Fridmann.
+It was the band's most successful album commercially, selling over 63,000 copies.
+
+
+    
+    
 
 
 ## Tracklisting
@@ -42,12 +48,21 @@ styles: ["Lo-Fi", "Indie Rock"]
 
 
 ## Videos
-### Sparklehorse - It's a wonderful life
-{{< youtube id="AGZsQf6WjHI" title="Sparklehorse - It's a wonderful life" >}}<br>
+### Sparklehorse - It's A Wonderful Life (Official Video)
+{{< youtube id="kqoKWuu8JTo" title="Sparklehorse - It's A Wonderful Life (Official Video)" >}}<br>
 ### More Videos
 
-- [Sparklehorse - Comfort Me (Official Video)](https://www.youtube.com/watch?v=7JviEK52rl8)
-- [Sparklehorse feat. Nina Persson - Gold Day (Official Video)](https://www.youtube.com/watch?v=OrFrcF6xd4I)
+- [Sparklehorse – Gold Day](https://www.youtube.com/watch?v=z3ju_IFmsCc)
+- [Piano Fire](https://www.youtube.com/watch?v=vECOp7oqhWA)
+- [Sparklehorse – Sea of Teeth](https://www.youtube.com/watch?v=NeUH4Re7RuA)
+- [Sparklehorse – Apple Bed (Official Video)](https://www.youtube.com/watch?v=x471zUbvs6o)
+- [Sparklehorse – King of Nails (Official Video)](https://www.youtube.com/watch?v=PQgy6F1AGso)
+- [Sparklehorse – Eyepennies (feat  PJ Harvey) (Official Video)](https://www.youtube.com/watch?v=8oD1j2KuJS4)
+- [Sparklehorse - Dog Door (Official Video)](https://www.youtube.com/watch?v=CtQe7s7EZ-c)
+- [Sparklehorse – More Yellow Birds (Official Video)](https://www.youtube.com/watch?v=gnxA0wi6deI)
+- [Sparklehorse – Little Fat Baby (Official Video)](https://www.youtube.com/watch?v=FhYNerrrOYY)
+- [Sparklehorse – Comfort Me (Official Video)](https://www.youtube.com/watch?v=pEzskD2Zys4)
+- [Sparklehorse - Babies On The Sun (Official Video)](https://www.youtube.com/watch?v=5qFJNrcS2AI)
 
 ## Release Images
 {{< imageGrid >}}
@@ -55,6 +70,7 @@ styles: ["Lo-Fi", "Indie Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
+| Wikipedia URL | https://en.wikipedia.org/wiki/It%27s_a_Wonderful_Life_(album) |
 | Format         | Vinyl LP Album Reissue (180 gram) |
 | Label          | Plain Recordings |
 | Catalog Number | Plain176 |

@@ -71,6 +71,8 @@ styles: ["Soundtrack", "Pop Rock", "Psychedelic Rock"]
 ### More Videos
 
 - [TOMMY THE MOVIE 1975 Original soundtrack recording Part 2 of 2 (Vinyl record)](https://www.youtube.com/watch?v=cVO5P3yOYa8)
+- [Tommy 1975 Trailer HD](https://www.youtube.com/watch?v=GkD78qRf3gQ)
+- [The Who - Acid Queen...yerdenizplak.com İstanbul Kadıköy](https://www.youtube.com/watch?v=2eMXa8v640k)
 
 ## Release Images
 {{< imageGrid >}}

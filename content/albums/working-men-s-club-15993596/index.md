@@ -17,10 +17,10 @@ additional_images:
     - "https://i.discogs.com/3g2tWGAOwDvWd7yYn57V2TT2WbC0074GJNmmuuA2DSk/rs:fit/g:sm/q:90/h:592/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1OTkz/NTk2LTE2MDE1NDU3/MzAtMjEzMy5qcGVn.jpeg"
     - "https://i.discogs.com/PfuDiRduTBEvZMh9dnaEbO8ByE9llf4vwptVq9EhaU8/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1OTkz/NTk2LTE2MDE1NDU3/NjYtNTQ1Ny5qcGVn.jpeg"
     - "https://i.discogs.com/RK_Kb4GBDjRSkCc922auFotzf-Mya5LONsxr-3tmOZ8/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1OTkz/NTk2LTE2MDE1NDU3/OTAtOTE0NS5qcGVn.jpeg"
-    - "https://i.discogs.com/VTs95KYGsaNBgsy6Lp8S_SYeSrazvbQPjZchLiP-Tns/rs:fit/g:sm/q:90/h:605/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1OTkz/NTk2LTE2MDIzMTc3/ODYtNTExNS5qcGVn.jpeg"
+    - "https://i.discogs.com/AH8WJTswdpAGC7zzW5-T0uCHWz_n3ZvIhhZb3gvT0i4/rs:fit/g:sm/q:90/h:600/w:594/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1OTkz/NTk2LTE2MDIzMTc3/ODYtNTExNS5qcGVn.jpeg"
     - "https://i.discogs.com/u5NlqbzgYWyo_w5aj8lb9NdRj3LVHUPmdsdgv1vF1m4/rs:fit/g:sm/q:90/h:385/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1OTkz/NTk2LTE2MDIzMTc5/MzgtMzA5NC5qcGVn.jpeg"
-    - "https://i.discogs.com/kl6UouKLFqq1CEHdn31uGLLkIzni236stLsptLJiXzA/rs:fit/g:sm/q:90/h:1225/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1OTkz/NTk2LTE2MDIzMTgx/MTktMjA0NC5qcGVn.jpeg"
-    - "https://i.discogs.com/3n12AraiBJoaCvCthuFzmaZRMR5Ta-kR_Lt2hyhPVt8/rs:fit/g:sm/q:90/h:1075/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1OTkz/NTk2LTE2MDIzMTgx/NTQtNTQxOC5qcGVn.jpeg"
+    - "https://i.discogs.com/4tNbsC63RygHFmLFM1AX5WA3VcvS0Gc5XKmq9w-6vYY/rs:fit/g:sm/q:90/h:600/w:293/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1OTkz/NTk2LTE2MDIzMTgx/MTktMjA0NC5qcGVn.jpeg"
+    - "https://i.discogs.com/_KjCemyA0bg47bNnoIcPcF4ApO0vpOHU53ER2wsKhuM/rs:fit/g:sm/q:90/h:600/w:334/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1OTkz/NTk2LTE2MDIzMTgx/NTQtNTQxOC5qcGVn.jpeg"
     - "https://i.discogs.com/R-3rM7ItgCN5L5eiBmweCijQRImGGsQwFcLkd3AXSDU/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1OTkz/NTk2LTE2MDMxNDM1/MzYtOTM1OC5qcGVn.jpeg"
 genres: ["Electronic", "Rock"]
 styles: ["Post-Punk", "Acid House", "New Wave"]
@@ -47,7 +47,8 @@ There aren’t many bands who undergo drastic sonic transformations <i>before</i
 “When we put ‘Teeth’ out as a single, there was a lot of back-and-forth discussion over which mix would go out. Me and Ross had worked quite closely on this tune together, and for me and him, the wrong mix went out. So as soon as we got in the studio, it was like, ‘We've got to change that mix for the record.’ And we did. It just drives it a lot more. It makes it a lot more cinematic than just guitars on top of synths. When we do stuff it's all so finely tuned, everything has its own place.”<br />
 <b>Angel</b>
 “We play this second to last when we play it live, but in terms of the album, it had to be the last tune. I think it's just quite a pompous way to end it, isn't it? It's quite ridiculous. Whenever you read books about records and how they were done, it always seems that the last song's the last song that they recorded. And it felt like during the process of recording the album, we were putting it back–we knew it was maybe going to be a bit harder to capture. But it was actually fine. It was a nice way to end the recording process.”
-    
+        
+        
     
 
 
@@ -72,15 +73,22 @@ There aren’t many bands who undergo drastic sonic transformations <i>before</i
 {{< youtube id="wsgjt1jC3Pc" title="Angel" >}}<br>
 ### More Videos
 
-- [Working Men's Club - Valleys (Official Video)](https://www.youtube.com/watch?v=pzkfcLzUYYg)
-- [Working Men's Club - 'A.A.A.A.'](https://www.youtube.com/watch?v=4uCC6IAbRWU)
 - [Cook a Coffee](https://www.youtube.com/watch?v=a3sS2Km_OJo)
-- [Working Men's Club - 'Teeth'](https://www.youtube.com/watch?v=0ovHJ_NzHbE)
 - [John Cooper Clarke](https://www.youtube.com/watch?v=ortHnqOoQB0)
 - [Be My Guest](https://www.youtube.com/watch?v=Y8Qw9CuEmmc)
 - [Outside](https://www.youtube.com/watch?v=0HOJ0tDRi1Q)
 - [White Rooms and People](https://www.youtube.com/watch?v=gagyh1-9zuk)
 - [Tomorrow](https://www.youtube.com/watch?v=Jm6UaS09FR0)
+- [Angel](https://www.youtube.com/watch?v=wsgjt1jC3Pc)
+- [Cook a Coffee](https://www.youtube.com/watch?v=a3sS2Km_OJo)
+- [John Cooper Clarke](https://www.youtube.com/watch?v=ortHnqOoQB0)
+- [Be My Guest](https://www.youtube.com/watch?v=Y8Qw9CuEmmc)
+- [Outside](https://www.youtube.com/watch?v=0HOJ0tDRi1Q)
+- [White Rooms and People](https://www.youtube.com/watch?v=gagyh1-9zuk)
+- [Tomorrow](https://www.youtube.com/watch?v=Jm6UaS09FR0)
+- [Working Men's Club - Valleys (Official Video)](https://www.youtube.com/watch?v=pzkfcLzUYYg)
+- [Working Men's Club - 'Teeth'](https://www.youtube.com/watch?v=0ovHJ_NzHbE)
+- [Working Men's Club - 'A.A.A.A.'](https://www.youtube.com/watch?v=4uCC6IAbRWU)
 
 ## Release Images
 {{< imageGrid >}}
@@ -88,8 +96,9 @@ There aren’t many bands who undergo drastic sonic transformations <i>before</i
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
+| Wikipedia URL | https://en.wikipedia.org/wiki/Working_Men%27s_Club_(album) |
 | Format         | Vinyl LP Album Limited Edition Stereo (Neon Yellow ) |
 | Label          | Heavenly |
 | Catalog Number | HVNLP179C |
 | Notes | Some copies were signed by Sydney Minsky-Sargeant when purchased from WMC or Heavenly webstore.  Certain copies came with a Megamix CD [r16004209] |
-| Discogs URL    | [Working Men's Club - Working Men's Club](https://www.discogs.com/release/15993596-Working-Mens-Club-Working-Mens-Club) |
+| Discogs URL    | [Working Men's Club - Working Men's Club](https://www.discogs.com/release/15993596-Working-Mens-Club-2-Working-Mens-Club) |

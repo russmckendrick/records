@@ -23,6 +23,11 @@ genres: ["Rock"]
 styles: ["Post Rock", "Prog Rock"]
 ---
 
+Bronze is an alloy consisting primarily of copper, commonly with about 12–12.5% tin and often with the addition of other metals (including aluminium, manganese, nickel, or zinc) and sometimes non-metals, such as phosphorus, or metalloids, such as arsenic or silicon. These additions produce a range of alloys that may be harder than copper alone, or have other useful properties, such as strength, ductility, or machinability.
+The archaeological period in which bronze was the hardest metal in widespread use is known as the Bronze Age. The beginning of the Bronze Age in western Eurasia and India is conventionally dated to the mid-4th millennium BC (~3500 BC), and to the early 2nd millennium BC in China; elsewhere it gradually spread across regions. The Bronze Age was followed by the Iron Age starting about 1300 BC and reaching most of Eurasia by about 500 BC, although bronze continued to be much more widely used than it is in modern times.
+Because historical artworks were often made of brasses (copper and zinc) and bronzes of different metallic compositions, modern museum and scholarly descriptions of older artworks increasingly use the generalized term "copper alloy" instead of the names of individual alloys. This is done (at least in part) to prevent database searches from failing merely because of errors or disagreements in the naming of historic copper alloys.
+    
+    
 
 
 ## Tracklisting
@@ -38,15 +43,14 @@ styles: ["Post Rock", "Prog Rock"]
 10. We Are The Darkeners (7:53)
 
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/bronze-deluxe-edition/1170690446" >}}<br>
+{{< applemusic url="https://music.apple.com/gb/album/bronze/1155996061" >}}<br>
 
 
 ## Videos
-### Crippled Black Phoenix - Bronze (Full Album)
-{{< youtube id="O5ka3u6su3M" title="Crippled Black Phoenix - Bronze (Full Album)" >}}<br>
+### Crippled Black Phoenix - Dead Imperial Bastard
+{{< youtube id="KgjifMxvzQQ" title="Crippled Black Phoenix - Dead Imperial Bastard" >}}<br>
 ### More Videos
 
-- [Crippled Black Phoenix - Dead Imperial Bastard](https://www.youtube.com/watch?v=KgjifMxvzQQ)
 - [Crippled Black Phoenix - Champions Of Disturbance (Pt 1 & 2)](https://www.youtube.com/watch?v=FIGgkISamQI)
 - [Crippled Black Phoenix - We Are The Darkeners](https://www.youtube.com/watch?v=l7aptX4aTZw)
 - [Crippled Black Phoenix - Deviant Burials](https://www.youtube.com/watch?v=0GzoGeyDd_4)
@@ -61,6 +65,8 @@ styles: ["Post Rock", "Prog Rock"]
 - [Crippled Black Phoenix - Turn To Stone](https://www.youtube.com/watch?v=w0FvX_9PGFQ)
 - [Crippled Black Phoenix - A future Shock](https://www.youtube.com/watch?v=qohb-MbsuLU)
 - [Crippled Black Phoenix - Winning A Losing Battle](https://www.youtube.com/watch?v=jhWfxcOGQnk)
+- [Crippled Black Phoenix - Winning A Losing Battle (Official Premiere)](https://www.youtube.com/watch?v=VLKjk9c8OTc)
+- [Crippled Black Phoenix - Turn To Stone (Official Premiere)](https://www.youtube.com/watch?v=gOMqznyez20)
 
 ## Release Images
 {{< imageGrid >}}
@@ -68,6 +74,7 @@ styles: ["Post Rock", "Prog Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
+| Wikipedia URL | https://en.wikipedia.org/wiki/Bronze |
 | Format         | Vinyl 2× LP Album Limited Edition (Green) |
 | Label          | Season Of Mist |
 | Catalog Number | SOM 399LP |

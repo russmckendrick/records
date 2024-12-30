@@ -12,7 +12,7 @@ cover:
     alt: "Ghostbusters - Original Soundtrack Album by Various"
     caption: "Ghostbusters - Original Soundtrack Album by Various"
 additional_images:
-    - "https://i.discogs.com/B-aMftNfWq6OWSyO6zjMk3NFvpNRKdbbEdy1o0mhiZ8/rs:fit/g:sm/q:90/h:601/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTczMTg2/MDgtMTQzODc3NTAy/OC01MzY3LmpwZWc.jpeg"
+    - "https://i.discogs.com/-ULNuL6bDXlmcmT7rG-sDVCXlmU8_patLDzHrxvQmzc/rs:fit/g:sm/q:90/h:600/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTczMTg2/MDgtMTQzODc3NTAy/OC01MzY3LmpwZWc.jpeg"
     - "https://i.discogs.com/wl9042ga1FGnIdbSJc11dGCArZrwsZ5rZRgVY5_rfP4/rs:fit/g:sm/q:90/h:592/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTczMTg2/MDgtMTQzODc3NTAy/Ny0yMDA4LmpwZWc.jpeg"
     - "https://i.discogs.com/yItHGpPLiNlPCI8rgoEcMiZf69URsbSpaO2v-Lhsql0/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTczMTg2/MDgtMTQzODc3NDk4/NS0xMDYzLmpwZWc.jpeg"
     - "https://i.discogs.com/YEBy9XJ2ele9O9vNABLfjSFaRS4xgBEZh-f2rfi6TZo/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTczMTg2/MDgtMTQzODc3NDk4/Ni05ODUzLmpwZWc.jpeg"
@@ -35,6 +35,9 @@ styles: []
 10. Ghostbusters (Instrumental Version)
 
 
+## Spotify
+{{< spotify type="album" id="0epcJ1L57tp3SF30aKyeWa" width="100%" height="500" >}}<br>
+
 
 ## Videos
 ### Ghostbusters Full Album From the Motion Picture/Film 1984
@@ -42,15 +45,8 @@ styles: []
 ### More Videos
 
 - [Original GhostBusters Theme Song](https://www.youtube.com/watch?v=m9We2XsVZfc)
-- [Ray Parker Jr. - Ghostbusters](https://www.youtube.com/watch?v=Fe93CLbHjxQ)
 - [Musique du film Ghostbusters](https://www.youtube.com/watch?v=DjWYs10OyFE)
-- [GHOSTBUSTERS / Original soundtrack album (Sonido Vinilo) - 1984](https://www.youtube.com/watch?v=BnroRUrhcK8)
-- [Ghostbusters original soundtrack: THREE PRESSINGS COMPARED](https://www.youtube.com/watch?v=ZrjnjC6x_KY)
-- [Ghostbusters](https://www.youtube.com/watch?v=TaV1r341wYk)
-- [Ghostbusters](https://www.youtube.com/watch?v=Uvck7ItXwdc)
-- [Ghostbusters Soundtrack (1984) 1 - Ghostbusters (Ray Parker Jr.)](https://www.youtube.com/watch?v=p0MGBrKLhi4)
-- [Magic](https://www.youtube.com/watch?v=hK2EUIYiWXU)
-- [Ghostbusters 1984 - Complete motion picture score - Elmer Bernstein](https://www.youtube.com/watch?v=4o6KaJ36660)
+- [Ray Parker Jr. - Ghostbusters](https://www.youtube.com/watch?v=Fe93CLbHjxQ)
 
 ## Release Images
 {{< imageGrid >}}

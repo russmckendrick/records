@@ -15,10 +15,10 @@ additional_images:
     - "https://i.discogs.com/_PZe1JEP8tp_mL50F7GKvX98gmhnRzhNPR70NhksylA/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MTQy/NjUtMTQ2MzEzMTMy/Ny03OTM1LmpwZWc.jpeg"
     - "https://i.discogs.com/pitwrjAMpK5wqi87uwGz1T-QR44ljXXIRmjScQuKyR8/rs:fit/g:sm/q:90/h:591/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MTQy/NjUtMTQ2MzEzMTMz/MS03MTc1LmpwZWc.jpeg"
     - "https://i.discogs.com/5HIcIrHTeL58X6W4TSq_fL6idXBxcJDzHqRO59ZH97Q/rs:fit/g:sm/q:90/h:560/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MTQy/NjUtMTQ2MzA4ODk4/Ni03NDQ3LmpwZWc.jpeg"
-    - "https://i.discogs.com/T43IFyCyJx0imNQcKqCLoMlQU48W2w4-yDjK18ZL2d4/rs:fit/g:sm/q:90/h:715/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MTQy/NjUtMTQ2MzA4ODk4/Ni04NjY0LmpwZWc.jpeg"
-    - "https://i.discogs.com/nuWAvKSP5CxXj-aGfM8wZNPaKS5v54MevLiRLEyBkOQ/rs:fit/g:sm/q:90/h:1390/w:370/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MTQy/NjUtMTQ4ODY1MzE5/Mi04MjM3LmpwZWc.jpeg"
+    - "https://i.discogs.com/Qs-I18WtCSua7IHrgTyZRW7T2vCjQNxMUrUDL8W_2eo/rs:fit/g:sm/q:90/h:600/w:503/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MTQy/NjUtMTQ2MzA4ODk4/Ni04NjY0LmpwZWc.jpeg"
+    - "https://i.discogs.com/HvO1oVi-fFwZKC1nEy46ejVUPdmeBaAjdV84vuV3LoM/rs:fit/g:sm/q:90/h:600/w:159/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MTQy/NjUtMTQ4ODY1MzE5/Mi04MjM3LmpwZWc.jpeg"
     - "https://i.discogs.com/yMzfdBmkvVv5GNp19N83swdgrsJNxXFrO9CnxG7WYe4/rs:fit/g:sm/q:90/h:247/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MTQy/NjUtMTQ4ODY1MzE5/NC01NTg1LmpwZWc.jpeg"
-    - "https://i.discogs.com/LkUJygczsoTrUODUt05lUY8__HqyLCf3J7LCOUrE-QM/rs:fit/g:sm/q:90/h:606/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MTQy/NjUtMTQ2MzA4ODk4/Ny03NDk5LmpwZWc.jpeg"
+    - "https://i.discogs.com/nsWO4zTJE1zwClmjg8MPCERYfBOhdJPdZZA4LUPbluo/rs:fit/g:sm/q:90/h:600/w:593/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MTQy/NjUtMTQ2MzA4ODk4/Ny03NDk5LmpwZWc.jpeg"
     - "https://i.discogs.com/0NLp3DZByVMcZQ9Xs9phDzyk1ole6EXh_9i-J4upQz4/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MTQy/NjUtMTQ2MzA4ODk4/OC02NDcyLmpwZWc.jpeg"
 genres: ["Rock"]
 styles: ["Pop Rock"]
@@ -26,6 +26,8 @@ styles: ["Pop Rock"]
 
 Me Myself I is the sixth studio album by British recording artist Joan Armatrading. Released in May 1980, the album was Armatrading's highest ever chart placing both in the UK (number 5) and in the US (number 28).  In Australia, the album peaked at number 13. It was certified "Gold" in the UK by the BPI in July 1980.
 The title track became one of her most successful singles, peaking at number 21 over an 11-week stay in the UK Singles Chart. It was also used in the soundtrack of an Australian movie of the same title made in 1999. "All the Way From America" was a minor hit, peaking at number 54 in the UK chart.
+
+
     
     
 
@@ -43,7 +45,7 @@ The title track became one of her most successful singles, peaking at number 21 
 10. I Need You (2:44)
 
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/me-myself-i/1443914431" >}}<br>
+{{< applemusic url="https://music.apple.com/gb/album/joan-armatrading/1444099157" >}}<br>
 
 
 ## Videos
@@ -54,9 +56,6 @@ The title track became one of her most successful singles, peaking at number 21 
 - [Friends](https://www.youtube.com/watch?v=hF1wTxW7VKM)
 - [Is It Tomorrow Yet?](https://www.youtube.com/watch?v=41VgElN01lo)
 - [Turn Out The Light](https://www.youtube.com/watch?v=wg1lJrl3F9Q)
-- [Me Myself I](https://www.youtube.com/watch?v=Ibds7i_jLWw)
-- [When You Kisses Me](https://www.youtube.com/watch?v=RLAcUsTMxso)
-- [All The Way From America](https://www.youtube.com/watch?v=btn3JKLJysc)
 - [Feeling In My Heart (For You)](https://www.youtube.com/watch?v=VLfd0Ro0wLE)
 - [Simon](https://www.youtube.com/watch?v=gaa_RPDW958)
 - [I Need You](https://www.youtube.com/watch?v=9zsuwzoxfDU)

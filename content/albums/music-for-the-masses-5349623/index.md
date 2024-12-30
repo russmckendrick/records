@@ -4,7 +4,6 @@ artist_name: "Depeche Mode"
 artist: "depeche-mode"
 album_name: "Music For The Masses"
 date: 2016-05-24T17:39:18.000000Z
-release_date: "1987-09-28"
 release_id: "5349623"
 slug: "music-for-the-masses-5349623"
 hideSummary: true
@@ -13,10 +12,10 @@ cover:
     alt: "Music For The Masses by Depeche Mode"
     caption: "Music For The Masses by Depeche Mode"
 additional_images:
-    - "https://i.discogs.com/lrm0MLLGAl4bHghCLNqv-BqWvCU4jp3MY3L2TzCTodI/rs:fit/g:sm/q:90/h:604/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUzNDk2/MjMtMTQxMDIxMDgw/My0xNTk4LmpwZWc.jpeg"
-    - "https://i.discogs.com/2BkoEjX6NT3ougVjYJT9UGSt4GhPO5T7UQb8tq-InxU/rs:fit/g:sm/q:90/h:606/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUzNDk2/MjMtMTQxMDIxMDgw/OS05MzM2LmpwZWc.jpeg"
-    - "https://i.discogs.com/nVKbJZgHgfNmWtHitxtRbUONof8ErRSn8806vLP1fgg/rs:fit/g:sm/q:90/h:601/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUzNDk2/MjMtMTQxMDIxMDgx/OS0xMzQzLmpwZWc.jpeg"
-    - "https://i.discogs.com/m77upF8qa3bSDnlJ2yIasTtt3Dj91RwmEIvuJ4rypuM/rs:fit/g:sm/q:90/h:605/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUzNDk2/MjMtMTQxMDIxMDgy/My01NTYyLmpwZWc.jpeg"
+    - "https://i.discogs.com/_gb2FJ-AeAA-O2F7pass5nLVaVISqaZkO4yUy0VGIo0/rs:fit/g:sm/q:90/h:600/w:596/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUzNDk2/MjMtMTQxMDIxMDgw/My0xNTk4LmpwZWc.jpeg"
+    - "https://i.discogs.com/UEOe9Cofe9N4qys6qvNAh3nQD6CoBkwEd16vzEoJiZo/rs:fit/g:sm/q:90/h:600/w:594/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUzNDk2/MjMtMTQxMDIxMDgw/OS05MzM2LmpwZWc.jpeg"
+    - "https://i.discogs.com/kTmCCeyi7x46mNDdD9Ka8yR6dA3ZXrbe4nCOoAjxw8U/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUzNDk2/MjMtMTQxMDIxMDgx/OS0xMzQzLmpwZWc.jpeg"
+    - "https://i.discogs.com/jk9keAcjnY9BCpm1nW8LloNHC0eU2elI8cYVZ-mZS8E/rs:fit/g:sm/q:90/h:600/w:595/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUzNDk2/MjMtMTQxMDIxMDgy/My01NTYyLmpwZWc.jpeg"
     - "https://i.discogs.com/FUQfIUnc_x0ETW56vCi-rpaq-ztNK7A1Z9djRQVfGKk/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUzNDk2/MjMtMTQxMDIxMDgz/MC0xMzU4LmpwZWc.jpeg"
     - "https://i.discogs.com/KFgvukF5B9cr00Ph94jCAj8PhtunkFMXgPe64oTlZDo/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUzNDk2/MjMtMTQxMDIxMDgz/NC04MTc2LmpwZWc.jpeg"
     - "https://i.discogs.com/EEM_Js0u3tfKYxfVWEfMzODfdelDMTwiXeTEqqL99QU/rs:fit/g:sm/q:90/h:291/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUzNDk2/MjMtMTQxMDIxMDg0/OS05OTQyLmpwZWc.jpeg"
@@ -25,12 +24,12 @@ genres: ["Electronic"]
 styles: ["Synth-pop"]
 ---
 
-Music for the Masses is the sixth studio album by English electronic music band Depeche Mode, released on 28 September 1987 by Mute Records. The album was supported by the Music for the Masses Tour, which launched their fame in the US when they performed at the Rose Bowl in Pasadena. The tour led to the creation and filming of the documentary/live album titled 101. This saw the band using heavy amounts of sampling, much like they did in their previous album Black Celebration.
-Considered one of the band's best albums, Music for the Masses was included in the book 1001 Albums You Must Hear Before You Die.
+Music for the Masses is the sixth studio album by English electronic music band Depeche Mode, released on 28 September 1987 by Mute Records. The album was supported by the Music for the Masses Tour, which launched their fame in the United States when they performed at the Rose Bowl in Pasadena, California. The tour led to the creation and filming of the documentary/live album titled 101.
+Considered one of the band's best albums, Music for the Masses was included in the book 1001 Albums You Must Hear Before You Die (2006). The album reached No. 10 in the UK Charts.
+It was preceded by the singles "Strangelove", released on 13 April, "Never Let Me Down Again", released on 24 August. Two other singles followed the release of the album, one being "Behind the Wheel", released 28 December, and the other being "Little 15", which was released on 16 May the following year.
 
 
-        
-        
+    
     
 
 
@@ -47,10 +46,23 @@ Considered one of the band's best albums, Music for the Masses was included in t
 10. Pimpf (3:56)
 
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/music-for-the-masses-deluxe/1174246735" >}}<br>
+{{< applemusic url="https://music.apple.com/gb/album/music-for-the-masses/665403347" >}}<br>
 
 
+## Videos
+### Depeche Mode - Behind The Wheel (Official Video)
+{{< youtube id="VEAuMiKqP-4" title="Depeche Mode - Behind The Wheel (Official Video)" >}}<br>
+### More Videos
 
+- [Never Let Me Down Again](https://www.youtube.com/watch?v=xORPrLjiIyQ)
+- [The Things You Said](https://www.youtube.com/watch?v=0r0mjPctuoE)
+- [Depeche Mode - Strangelove (Remastered)](https://www.youtube.com/watch?v=JIrm0dHbCDU)
+- [Sacred](https://www.youtube.com/watch?v=bWsda-qXUm8)
+- [Little 15](https://www.youtube.com/watch?v=YOoQYOKHUvo)
+- [I Want You Now](https://www.youtube.com/watch?v=IfuD44g-DaI)
+- [To Have and to Hold](https://www.youtube.com/watch?v=_5_EfcsPtCY)
+- [Nothing](https://www.youtube.com/watch?v=4Xcbz7jT7-0)
+- [Pimpf](https://www.youtube.com/watch?v=JPLKem4OYYo)
 
 ## Release Images
 {{< imageGrid >}}

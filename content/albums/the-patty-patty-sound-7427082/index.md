@@ -21,9 +21,11 @@ genres: ["Electronic", "Rock"]
 styles: ["Psychedelic Rock", "Downtempo", "Experimental"]
 ---
 
-The Patty Patty Sound is the second release by The Beta Band, released in 1998. Despite being almost 40mins long and originally being released on 2 x 12" records, the release is still considered an E.P. by both the band and the press. All the tracks from the EP were later included on the compilation The Three E.P.'s along with Champion Versions and Los Amigos del Beta Bandidos. "The Monolith" is titled simply "Monolith" on The Three E.P.'s..
+The Patty Patty Sound is the second release by The Beta Band, released in 1998. Despite being almost 40 minutes long and originally being released on 2 x 12" records, the release is still considered an E.P. by both the band and the press. All the tracks from the EP were later included on the compilation The Three E.P.'s along with Champion Versions and Los Amigos del Beta Bandidos. "The Monolith" is titled simply "Monolith" on The Three E.P.'s..
 The track "Monolith" features a manipulated sample of "Dry The Rain" from the E.P. Champion Versions.
 The Patty Patty Sound, along with the other two original E.P.s from The Beta Band, long out of print on vinyl were re-issued as part of Record Store Day 2013.
+
+
     
     
 
@@ -34,16 +36,20 @@ The Patty Patty Sound, along with the other two original E.P.s from The Beta Ban
 3. The Monolith
 4. She's The One
 
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/its-officially-christmas-the-double-album/1774094610" >}}<br>
 
 
 ## Videos
-### The Beta Band - Inner Meet Me
-{{< youtube id="eyRu0b7nnNc" title="The Beta Band - Inner Meet Me" >}}<br>
+### Beta Band-She's The One For Me
+{{< youtube id="fh9yn5zxAXw" title="Beta Band-She's The One For Me" >}}<br>
 ### More Videos
 
-- [Beta Band-She's The One For Me](https://www.youtube.com/watch?v=fh9yn5zxAXw)
+- [The Beta Band - Inner Meet Me](https://www.youtube.com/watch?v=eyRu0b7nnNc)
 - [The Beta Band - The House Song](https://www.youtube.com/watch?v=PihMXJ2lKCs)
 - [The Beta Band - 07 Monolith](https://www.youtube.com/watch?v=xeUVbfPIPhU)
+- [The Beta Band - Inner Meet Me](https://www.youtube.com/watch?v=eyRu0b7nnNc)
+- [Beta Band-She's The One For Me](https://www.youtube.com/watch?v=fh9yn5zxAXw)
 
 ## Release Images
 {{< imageGrid >}}

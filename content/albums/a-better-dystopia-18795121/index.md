@@ -51,7 +51,8 @@ For the last three decades, Monster Magnet have been the reigning champions of h
 “Dust’s <i>Hard Attack</i> album was way ahead of its time, and I’ve always loved this song. I always envisioned ‘Learning to Die’ as a song we could play because I had copped things from Dust over the years with Monster Magnet. I’ll be trying to explain something to somebody and be like, ‘You know—like Dust!’ And they’ll go, ‘What do you mean?’ And then I’ll play them the record. It’s probably the most artfully done hard rock record of all time.”<br /> 
 <b>“Welcome to the Void”</b>
 “This Morgen song was the hardest one to do. I realised really quickly that it didn’t quite fit in. The title is cool, but the delivery was different than the paranoia and high energy of the other ones, so I didn’t know what to do with it. I was originally gonna start the record with it, but then I decided it would be best as a sort of coda. And I shortened it. I think the original version has eight verses. Who writes eight verses? Bob Dylan, maybe. But it’s a really cool song.”
-    
+        
+        
     
 
 
@@ -75,12 +76,20 @@ For the last three decades, Monster Magnet have been the reigning champions of h
 
 
 ## Videos
-### The Diamond Mine
-{{< youtube id="B5cw4KMugBc" title="The Diamond Mine" >}}<br>
+### MONSTER MAGNET - Learning To Die (Official Lyric Video) | Napalm Records
+{{< youtube id="dC-UwU8xK68" title="MONSTER MAGNET - Learning To Die (Official Lyric Video) | Napalm Records" >}}<br>
 ### More Videos
 
+- [MONSTER MAGNET - Mr. Destroyer (Official Lyric Video) | Napalm Records](https://www.youtube.com/watch?v=GYv5vNdkcWQ)
+- [MONSTER MAGNET - Motorcycle (Straight to Hell) | Napalm Records](https://www.youtube.com/watch?v=QD4C990HTBs)
+- [MONSTER MAGNET - Solid Gold Hell (Official Lyric Video) | Napalm Records](https://www.youtube.com/watch?v=hbnv2j1FBQU)
+- [The Diamond Mine](https://www.youtube.com/watch?v=B5cw4KMugBc)
+- [MONSTER MAGNET - Learning To Die (Official Lyric Video) | Napalm Records](https://www.youtube.com/watch?v=dC-UwU8xK68)
+- [MONSTER MAGNET - Mr. Destroyer (Official Lyric Video) | Napalm Records](https://www.youtube.com/watch?v=GYv5vNdkcWQ)
+- [MONSTER MAGNET - Motorcycle (Straight to Hell) | Napalm Records](https://www.youtube.com/watch?v=QD4C990HTBs)
+- [MONSTER MAGNET - Solid Gold Hell (Official Lyric Video) | Napalm Records](https://www.youtube.com/watch?v=hbnv2j1FBQU)
+- [The Diamond Mine](https://www.youtube.com/watch?v=B5cw4KMugBc)
 - [The Diamond Mine](https://www.youtube.com/watch?v=hMW6P2LcBmw)
-- [Monster Magnet - A Better Dystopia (Full Album) 2021 - Napalm Records](https://www.youtube.com/watch?v=VFCcWppMT5Q)
 - [Born to Go](https://www.youtube.com/watch?v=jucuttyPPQY)
 - [Epitaph for a Head](https://www.youtube.com/watch?v=29ijCdrzRjI)
 - [Solid Gold Hell](https://www.youtube.com/watch?v=EMVQQWadkbg)
@@ -100,8 +109,9 @@ For the last three decades, Monster Magnet have been the reigning champions of h
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
+| Wikipedia URL | https://en.wikipedia.org/wiki/A_Better_Dystopia |
 | Format         | Vinyl LP, Vinyl LP Single Sided Etched, All Media Album Limited Edition |
 | Label          | Napalm Records |
 | Catalog Number | NPR916VINYL |
-| Notes | Double black vinyl in gatefold sleeve. Etching on side D.  Produced and mixed summer / fall 2020.  Strictly limited edition.  Made in Germany. |
+| Notes | - Gatefold - Etching on side D - Runouts are etched  On rear cover: Produced and mixed summer / fall 2020 Strictly limited edition Made in Germany  Original performers are uncredited: A1. [a3209238] & [a1122390] on "[m=1485999]" A2. [a69719] on "[m=28163]" A3. [a887226] on "[m=631348]" A4. [a538147] on "[m=123364]" A5. [a396928] on "[r=2547729]" B1. [a2595059] on "[m=447570]" B2. [a1169205] on "[m=335297]" B3. [a260959] on "[m=59306]" B4. [a1346515] on "[m=180040]" C1. [a1359595] on "[r=3805077]" C2. [a3793862] on "[m=873363]" C3. [a1144149] on "[m=94781]" C4. [a445508] on "[m=28716]" |
 | Discogs URL    | [Monster Magnet - A Better Dystopia](https://www.discogs.com/release/18795121-Monster-Magnet-A-Better-Dystopia) |

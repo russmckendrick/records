@@ -12,11 +12,11 @@ cover:
     alt: "Runaway Horses by Belinda Carlisle"
     caption: "Runaway Horses by Belinda Carlisle"
 additional_images:
-    - "https://i.discogs.com/h8TYZoLAfOe0IdlEIJEP6IBPAVemCN1dvhEbBsxjHmg/rs:fit/g:sm/q:90/h:601/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNTU5/MDA3LTE1Mzg4NTg1/NTktNTk4MS5qcGVn.jpeg"
-    - "https://i.discogs.com/Hkc1Stp3a6H_TENOupNcM-vVF4_zbThwMlN7au_V0HQ/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNTU5/MDA3LTE1Mzg4NTg1/NzktNDQzMi5qcGVn.jpeg"
+    - "https://i.discogs.com/jJTLdDHAOrG7d26-62yOcW861VFAST4sZ_6WJov3fpk/rs:fit/g:sm/q:90/h:600/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNTU5/MDA3LTE1Mzg4NTg1/NTktNTk4MS5qcGVn.jpeg"
+    - "https://i.discogs.com/1sTuN13mrcQY3Lxv9jM2pDIxdLi6LrPwdHUxC6CApGs/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNTU5/MDA3LTE1Mzg4NTg1/NzktNDQzMi5qcGVn.jpeg"
     - "https://i.discogs.com/_eFfLh2-LmWzg6Bqzaxy0gyZf0NgnHIZzFDsra3s264/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNTU5/MDA3LTE1Mzg4NTg1/ODgtMjI1MC5qcGVn.jpeg"
     - "https://i.discogs.com/fyqNWTH3wo56zrGAB9E3dUpwB4ahUKb6337oR9oM4uM/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNTU5/MDA3LTE1Mzg4NTg1/OTUtOTQzNi5qcGVn.jpeg"
-    - "https://i.discogs.com/9l2Xgm3OQlqYsmtqccqv9VQDvwHgWy2J787XLl4btR8/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNTU5/MDA3LTE1Mzg4NTg2/MDYtNTYxNi5qcGVn.jpeg"
+    - "https://i.discogs.com/-oEyj5ePOHo8wZlM4AjdckUxVnzNLrPIV3-jLwq7PXY/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNTU5/MDA3LTE1Mzg4NTg2/MDYtNTYxNi5qcGVn.jpeg"
     - "https://i.discogs.com/4kDb2JS6PRQqIGvuSrJYDNKVkIfaYYjFkl6V5eSFkh4/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNTU5/MDA3LTE1Mzg4NTg2/MTAtODMzNC5qcGVn.jpeg"
     - "https://i.discogs.com/_zM8lKyrwh44_tAtz77Nd5xy3S6i73Ruqi9Smp3PWcE/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNTU5/MDA3LTE1Mzg4NTg2/MTctMjEyNy5qcGVn.jpeg"
 genres: ["Rock"]
@@ -48,21 +48,15 @@ The album peaked at number 37 on the US Billboard 200, a considerable fall in sa
 
 
 ## Videos
-### Leave A Light On
-{{< youtube id="J7DOyqNtmgM" title="Leave A Light On" >}}<br>
+### Belinda Carlisle - Leave A Light On (Official HD Music Video)
+{{< youtube id="pmZYE8j2ZNs" title="Belinda Carlisle - Leave A Light On (Official HD Music Video)" >}}<br>
 ### More Videos
 
-- [Belinda Carlisle - Runaway Horses](https://www.youtube.com/watch?v=SheKvJKtpdU)
-- [Runaway Horses](https://www.youtube.com/watch?v=2vMM5gjqVUA)
-- [Belinda Carlisle - Runaway Horses](https://www.youtube.com/watch?v=lLhqsopncHE)
-- [Vision Of You](https://www.youtube.com/watch?v=q1xXNddPmnk)
-- [Summer Rain](https://www.youtube.com/watch?v=H25HYjXMB8g)
-- [La Luna](https://www.youtube.com/watch?v=yE1gIRq7yJw)
-- [[We Want] The Same Thing](https://www.youtube.com/watch?v=WPJRQS189bo)
-- [Deep Deep Ocean](https://www.youtube.com/watch?v=RWJ_sZd9VxM)
-- [Valentine](https://www.youtube.com/watch?v=FaSq1WmCTvg)
-- [Whatever It Takes](https://www.youtube.com/watch?v=7T3HLGHigwI)
-- [Shades Of Michaelangelo](https://www.youtube.com/watch?v=c8GV0CxraL4)
+- [Belinda Carlisle - Summer Rain (Official HD Music Video)](https://www.youtube.com/watch?v=JOlybsZqNlE)
+- [Belinda Carlisle - (We Want) The Same Thing (Official HD Music Video)](https://www.youtube.com/watch?v=Q9pw_cY8uyk)
+- [Belinda Carlisle - Runaway Horses (Official HD Music Video)](https://www.youtube.com/watch?v=z5gQt126Ka8)
+- [Belinda Carlisle - Vision Of You (Official HD Music Video)](https://www.youtube.com/watch?v=KbeN3MM1OXo)
+- [Belinda Carlisle - La Luna (Official HD Music Video)](https://www.youtube.com/watch?v=ur48BBf6TkU)
 
 ## Release Images
 {{< imageGrid >}}

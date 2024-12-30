@@ -4,7 +4,6 @@ artist_name: "Angelo Badalamenti"
 artist: "angelo-badalamenti"
 album_name: "Twin Peaks"
 date: 2016-08-26T16:30:13.000000Z
-release_date: "1990-09-11"
 release_id: "8888892"
 slug: "twin-peaks-8888892"
 hideSummary: true
@@ -18,15 +17,17 @@ additional_images:
     - "https://i.discogs.com/tI-ft95H-uqmwkyqqfUA5Ugjkbdon5OAdZwqH7TRVig/rs:fit/g:sm/q:90/h:290/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg4ODg4/OTItMTUzMDQ1ODY2/Ni04NDM0LmpwZWc.jpeg"
     - "https://i.discogs.com/roXWAM_rnph2DAr9RVcKgYyVwD9uz0JZdPYUP8jJKkw/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg4ODg4/OTItMTYyNjc4ODE0/OC05NDEwLmpwZWc.jpeg"
     - "https://i.discogs.com/Ey0NBlK-YkeioKam6SkhVndy8A7NTUrh-fA7fSdESGs/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg4ODg4/OTItMTYyNjc4ODEw/NS03MTc0LmpwZWc.jpeg"
-    - "https://i.discogs.com/T8PE19hB5cUxwd0bQJArF8rknoxxYpC4I5E9JAXIyH4/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg4ODg4/OTItMTYyNjc4ODYy/NC01NzYzLmpwZWc.jpeg"
-    - "https://i.discogs.com/4I5NxA-NCMbxlkRctZe0rNWNS9VuUEeZI8eWC-TG7XA/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg4ODg4/OTItMTYyNjc4ODYy/NC02NDM4LmpwZWc.jpeg"
+    - "https://i.discogs.com/sG8SHIj0WEYbHwTYtRLTttecsRA4JPq_S0VNKPWPyyU/rs:fit/g:sm/q:90/h:600/w:595/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg4ODg4/OTItMTcyMzAxNDk4/MS03OTIwLmpwZWc.jpeg"
+    - "https://i.discogs.com/97kS0o24XKqz7prYROq7JL45_DLNbfcQrQZtPONzONE/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg4ODg4/OTItMTcyMzAxNDk4/MS00ODk3LmpwZWc.jpeg"
     - "https://i.discogs.com/BCI0PSfJL3z_0NSaY9BQZ7MdiSXEUL6ohvLvc5f1X_M/rs:fit/g:sm/q:90/h:503/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg4ODg4/OTItMTQ3MDg1Mzkx/My0xNzYwLmpwZWc.jpeg"
 genres: ["Electronic", "Jazz", "Stage & Screen"]
 styles: ["Soundtrack", "Score", "Ambient"]
 ---
 
-Likely the most influential and beloved television soundtrack of all time, Angelo Badalamenti's dark jazz mood piece for <i>Twin Peaks</i> moves with a distinctly slow, sinister, sensual elegance. It was the second collaboration between the composer and director David Lynch, following 1986's landmark <i>Blue Velvet</i>. At an initial meeting, Lynch, who didn't yet have a script, described the feel of the show: a girl alone in the woods while the sycamore trees sway in the wind. With Lynch in his ear demanding it be slower, Badalamenti improvised the haunting, iconic "Laura Palmer's Theme." <br /> 
-The rest of the <i>Twin Peaks</i> score moves in similar shadows, stalking between noir moods and romantic swoon, cool jazz and warm dream pop. It's a musical universe befitting Twin Peaks, Washington itself: slow-motion tempos, velvety synths, gently brushed drums, vibraphones, twangy guitar, simple melodies, dissonance, and a liberal coating of reverb. In three tracks—"The Nightingale," "Into the Night," and "Falling"—you can also hear the croon of Julee Cruise, who set the red-curtained stage for generations of drifting, melancholy vocals, including those of Lana Del Rey, Beach House, Chromatics, and Sky Ferreira. Badalamenti's uncanny world and evocative textures would have wide-ranging impact, in indie gloom bands like Cigarettes After Sex, "doom jazz" bands like Bohren & Der Club of Gore, and the austere film soundtracks of Cliff Martinez.
+Twin Peaks is an American mystery-horror drama television series created by Mark Frost and David Lynch. It premiered on ABC on April 8, 1990, and ran for two seasons until its cancellation in 1991. The show returned in 2017 for a third season on Showtime.
+Set in the fictional Pacific Northwest town of Twin Peaks, the series follows an investigation led by FBI Special Agent Dale Cooper (Kyle MacLachlan) into the murder of local teenager Laura Palmer (Sheryl Lee). The show's narrative draws on the characteristics of detective fiction, but its uncanny tone, supernatural elements, and campy, melodramatic portrayal of eccentric characters also draws from American soap opera and horror tropes. Like much of Lynch's work, it is distinguished by surrealism, offbeat humor, and distinctive cinematography. The musical score was composed by Angelo Badalamenti with Lynch.
+The original run was followed by the 1992 feature film Twin Peaks: Fire Walk with Me, which serves as a prequel to the series. The success of the series sparked a media franchise, leading to the release of several tie-in books, including The Secret Diary of Laura Palmer. Under Lynch's direction, the show's 2017 revival included much of the original cast.
+In the years following the first two seasons, the show has gained a devoted cult following and been referenced in a wide variety of media. Twin Peaks is often listed among the greatest television series and has received widespread acclaim from critics and audiences as well as various accolades. It is considered a landmark turning point in television drama. The 2017 revival titled The Return also received widespread critical acclaim.
     
     
 
@@ -45,7 +46,7 @@ The rest of the <i>Twin Peaks</i> score moves in similar shadows, stalking betwe
 11. Falling
 
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/twin-peaks-soundtrack-from/374382340" >}}<br>
+{{< applemusic url="https://music.apple.com/gb/album/twin-peaks-single/299503747" >}}<br>
 
 
 ## Videos
@@ -70,6 +71,7 @@ The rest of the <i>Twin Peaks</i> score moves in similar shadows, stalking betwe
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
+| Wikipedia URL | https://en.wikipedia.org/wiki/Twin_Peaks |
 | Format         | Vinyl LP Album Reissue Remastered (Brown Marbled [Damn Fine Coffee], 180g) |
 | Label          | Death Waltz Recording Company |
 | Catalog Number | DW50 |

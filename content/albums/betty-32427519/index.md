@@ -61,7 +61,6 @@ Prior to Betty's release in June 1994, the album's biggest hit, "Milquetoast", a
 {{< youtube id="k3a8Ow-DoAw" title="Helmet - Wilma's Rainbow" >}}<br>
 ### More Videos
 
-- [Helmet - Milquetoast](https://www.youtube.com/watch?v=lEnMb4m9lu0)
 - [Helmet - Biscuits For Smut](https://www.youtube.com/watch?v=gWdCX9FXx5Y)
 
 ## Release Images

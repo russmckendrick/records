@@ -21,6 +21,8 @@ genres: ["Electronic", "Rock"]
 styles: ["Alternative Rock", "Prog Rock"]
 ---
 
+
+
 ## Tracklisting
 1. Dig Till You Die
 2. Betrayal
@@ -29,10 +31,13 @@ styles: ["Alternative Rock", "Prog Rock"]
 5. Worship
 6. Bend The Earth
 7. Lifeless Creature
-8.  As We Disappear
+8. As We Disappear
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/coming-up-to-consciousness/1751003081" >}}<br>
+
+
+
 
 ## Release Images
 {{< imageGrid >}}
@@ -40,8 +45,8 @@ styles: ["Alternative Rock", "Prog Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl LP Album Limited Edition Stereo (Petrol Green BioVinyl) |
+| Format         | Vinyl LP Album Limited Edition Stereo (Green [Transparent Petrol Green] BioVinyl) |
 | Label          | Inside Out Music |
 | Catalog Number | IOM710 |
-| Notes | Sticker reads:  THE SIXTH ALBUM FROM PRR, FEATURING GUEST APPEARANCES FROM GUY PRATT, AS WELL AS BRUCE SOORD & JON SYKES (THE PINEAPPLE THIEF). Limited Gatefold Transp. Petrol Green BioVinyl LP Limited to 300 units |
+| Notes | Tracks positions given sequentially on release, regardless of vinyl sides.  Hype sticker reads: THE SIXTH ALBUM FROM PRR, FEATURING GUEST APPEARANCES FROM GUY PRATT, AS WELL AS BRUCE SOORD & JON SYKES (THE PINEAPPLE THIEF). Limited Gatefold Transp. Petrol Green BioVinyl LP Limited to 300 units |
 | Discogs URL    | [Pure Reason Revolution - Coming Up To Consciousness](https://www.discogs.com/release/31683545-Pure-Reason-Revolution-Coming-Up-To-Consciousness) |

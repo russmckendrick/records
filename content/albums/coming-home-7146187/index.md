@@ -13,7 +13,7 @@ cover:
     alt: "Coming Home by Leon Bridges"
     caption: "Coming Home by Leon Bridges"
 additional_images:
-    - "https://i.discogs.com/Xg7-JYafHj0wEjPeOvcv8K1goP0VCNykCL_3mWZLGho/rs:fit/g:sm/q:90/h:609/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcxNDYx/ODctMTQ5NTE2MDY3/NC0zMTM1LmpwZWc.jpeg"
+    - "https://i.discogs.com/5KghXHq54Nu1fASTE7t0Io3_AuBN1V-tP0RVE10iHlQ/rs:fit/g:sm/q:90/h:600/w:591/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcxNDYx/ODctMTQ5NTE2MDY3/NC0zMTM1LmpwZWc.jpeg"
     - "https://i.discogs.com/_6wK6rtQPCpvcpciN8ZfXPhILHPe5y8SrVLXMl2a0yE/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcxNDYx/ODctMTQ0NDY3ODI5/Ny02MDg4LmpwZWc.jpeg"
     - "https://i.discogs.com/vfDGCv-7rGOUp3_fzr2pAnM-oJBgx1Lrk84ELigkp4A/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcxNDYx/ODctMTQ0NDY3ODI5/OC0zNTc4LmpwZWc.jpeg"
     - "https://i.discogs.com/LIl8pnFCNbTQsP4CPsiEIZiDByiX59dwObSanu561rI/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcxNDYx/ODctMTQ0NDY3ODI5/Ny04MTgzLmpwZWc.jpeg"
@@ -47,11 +47,10 @@ Leon Bridges’ retro-soul debut is so impressively dead-on you might wonder whe
 
 
 ## Videos
-### Leon Bridges - Coming Home (Official Music Video)
-{{< youtube id="MTrKkqE9p1o" title="Leon Bridges - Coming Home (Official Music Video)" >}}<br>
+### Better Man
+{{< youtube id="E6TCadcFPNE" title="Better Man" >}}<br>
 ### More Videos
 
-- [Better Man](https://www.youtube.com/watch?v=E6TCadcFPNE)
 - [Brown Skin Girl](https://www.youtube.com/watch?v=wk2duLxAmFE)
 - [Smooth Sailin'](https://www.youtube.com/watch?v=jhiK0uXA-QE)
 - [Shine](https://www.youtube.com/watch?v=L1rJNNivdlI)
@@ -59,11 +58,11 @@ Leon Bridges’ retro-soul debut is so impressively dead-on you might wonder whe
 - [Flowers](https://www.youtube.com/watch?v=RgVseMnDXSE)
 - [Pull Away](https://www.youtube.com/watch?v=NhmQ_kOsSBc)
 - [Twistin' & Groovin'](https://www.youtube.com/watch?v=sjNcVcv8ax0)
-- [Leon Bridges - River (Official Music Video)](https://www.youtube.com/watch?v=0Hegd4xNfRo)
 - [There She Goes](https://www.youtube.com/watch?v=KlxpKJwNdlg)
 - [Daisy Mae](https://www.youtube.com/watch?v=EoJJcvc7J4c)
 - [Here In My Arms](https://www.youtube.com/watch?v=qmoLKDAMKJM)
 - [Mississippi Kisses](https://www.youtube.com/watch?v=SV3d1U6gEK4)
+- [Leon Bridges - Coming Home (Official Video)](https://www.youtube.com/watch?v=MTrKkqE9p1o)
 
 ## Release Images
 {{< imageGrid >}}

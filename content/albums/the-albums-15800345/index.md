@@ -4,6 +4,7 @@ artist_name: "Gene"
 artist: "gene"
 album_name: "The Albums"
 date: 2021-05-22T05:19:26.000000Z
+release_date: "2023-07-21"
 release_id: "15800345"
 slug: "the-albums-15800345"
 hideSummary: true
@@ -34,6 +35,12 @@ genres: ["Rock"]
 styles: ["Indie Rock", "Britpop"]
 ---
 
+<i>Barbie The Album</i> was <i>almost</i> as anticipated as <i>Barbie</i> the movie—and for good reason. Executive-produced by Mark Ronson and featuring a global all-star lineup, the soundtrack is full of bangers and clever pop-cultural winks meant to capture the zeitgeist the same way the movie and its marketing machine have. It starts appropriately loud with “Pink”, a roséwave bop by Lizzo that makes you feel like Malibu Barbie driving her beach cruiser down the Pacific Coast Highway and features one of the album’s best sound bites—a cheer-style call-and-response spelling out “P, pretty! I, intelligent! N, never sad! K, cool!” Dua Lipa’s “Dance the Night” comes next, kicking off a stretch of songs that belongs on any summer going-out playlist: “Barbie World (With Aqua)” by Nicki Minaj and Ice Spice is a true Barbie multiverse moment, interpolating the Danish group’s 1997 global hit “Barbie Girl.” Charli XCX’s “Speed Drive” is basically “Vroom Vroom” but Barbie-fied, followed by KAROL G’s bouncing reggaetón track “WATATI” and “Man I Am”, a rousing himbo anthem by Sam Smith. 
+
+But it’s not just banger after banger: Tame Impala’s trippy intergalactic disco jam “Journey to the Real World” shifts the tone, while “I’m Just Ken”, an ’80s-style power ballad sung by Ryan Gosling himself, threatens to steal the whole show here. With “Home”, HAIM provide Tauruses everywhere with their very own theme song, while Billie Eilish’s spare and surprisingly existential “What Was I Made For?” contributes a healthy measure of emotional depth. But it’s Ava Max’s empowerment anthem “Choose Your Fighter” that may best sum up the hectic but high-minded spirit of the entire project: It’s a celebration of self-expression and freedom from rigid, outdated standards of beauty and femininity. Her point is that anyone can be Barbie, and by the time the Korean girl group FIFTY FIFTY is singing about that “pretty state of mind” in the album’s finale, we are all living our own P-I-N-K Barbie dream. 
+        
+        
+    
 
 
 ## Tracklisting
@@ -112,7 +119,7 @@ styles: ["Indie Rock", "Britpop"]
 73. Somewhere In The World
 
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/kiss-best-of-solo-albums/1538080316" >}}<br>
+{{< applemusic url="https://music.apple.com/gb/album/barbie-the-album/1689238301" >}}<br>
 
 
 
@@ -123,6 +130,7 @@ styles: ["Indie Rock", "Britpop"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
+| Wikipedia URL | https://en.wikipedia.org/wiki/The_Albums |
 | Format         | Box Set Compilation Limited Edition Special Edition, Vinyl LP Album Reissue (White, 180g), Vinyl 2× LP Compilation Reissue (Gold. 180g), Vinyl 2× LP Album Reissue (Maroon, Gatefold, 180g), Vinyl LP Album Reissue (Green, 180g), Vinyl 2× LP Album Reissue (Pink, 180g) |
 | Label          | Demon Records |
 | Catalog Number | DEMRECBOX49X |

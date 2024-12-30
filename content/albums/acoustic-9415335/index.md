@@ -14,7 +14,7 @@ cover:
 additional_images:
     - "https://i.discogs.com/0a1M8xEIK8ulZkKJyYth9izTSnOOFvqTny8ZX8VsM_k/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk0MTUz/MzUtMTQ4MDI0MjU2/MS01NDI2LmpwZWc.jpeg"
     - "https://i.discogs.com/V4qJCGcs1AXIqOmzSEWruLFFJ4E4yXf44vxD-oB9C1M/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk0MTUz/MzUtMTQ4MDI0MjU1/Ni0zOTMwLmpwZWc.jpeg"
-    - "https://i.discogs.com/pT7-W_jwY1oh6_6hi7Igf8LYR5ZCQqP-BSwsaZAST9U/rs:fit/g:sm/q:90/h:601/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk0MTUz/MzUtMTQ4MDI0MjUz/NS0zMTc5LmpwZWc.jpeg"
+    - "https://i.discogs.com/SPb7Vk87vrj_s2_C9CbfSv3WIT7zWrsFXmgrP7NKYXc/rs:fit/g:sm/q:90/h:600/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk0MTUz/MzUtMTQ4MDI0MjUz/NS0zMTc5LmpwZWc.jpeg"
     - "https://i.discogs.com/jwuTTMgi0zyAQsc3vLzBUPNztGLkgs0rYAIQfhNCBZI/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk0MTUz/MzUtMTQ4MDI0MjUz/My02NTk2LmpwZWc.jpeg"
     - "https://i.discogs.com/TBIrpF8WOz3IiT5Wtj_edMEat3c_fm8i-eOmR5WtNlk/rs:fit/g:sm/q:90/h:582/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk0MTUz/MzUtMTQ4MDI0MjU0/OS02MDM3LmpwZWc.jpeg"
     - "https://i.discogs.com/hQVf-WhjbzQsjV4R2qf8dIcsK3HfML_eKcBlYUbJqhY/rs:fit/g:sm/q:90/h:586/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk0MTUz/MzUtMTQ4MDI0MjUz/OS05MDYxLmpwZWc.jpeg"
@@ -25,6 +25,8 @@ styles: ["New Wave", "Post-Punk", "Alternative Rock"]
 ---
 
 Acoustic is the seventeenth studio album by Scottish rock band Simple Minds, released in November 2016 by Caroline International. The album features acoustic studio recordings of previously released songs. It received mixed reviews.
+
+
     
     
 
@@ -48,10 +50,16 @@ Acoustic is the seventeenth studio album by Scottish rock band Simple Minds, rel
 16. Light Travels (4:40)
 
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/acoustic/1440871080" >}}<br>
+{{< applemusic url="https://music.apple.com/gb/album/acoustic/1773791768" >}}<br>
 
 
+## Videos
+### Simple Minds - Don't You [Forget About Me] Acoustic - (Official Audio)
+{{< youtube id="4JTtJwL7sCI" title="Simple Minds - Don't You [Forget About Me] Acoustic - (Official Audio)" >}}<br>
+### More Videos
 
+- [Simple Minds - Alive And Kicking Acoustic - (Official Audio)](https://www.youtube.com/watch?v=9WTAp-Opr5U)
+- [Simple Minds - The American Acoustic - (Official Audio)](https://www.youtube.com/watch?v=ejt4SxJc2ss)
 
 ## Release Images
 {{< imageGrid >}}

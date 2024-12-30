@@ -14,17 +14,18 @@ cover:
     caption: "Tapestry by Carole King"
 additional_images:
     - "https://i.discogs.com/Y8MSykN_pl-mtevqiUnLyYYIPBt0A5ep3vkSOv9gukE/rs:fit/g:sm/q:90/h:500/w:500/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgyMTE5/MjEtMTQ1NzIyNjEw/NC00OTg1LmpwZWc.jpeg"
-    - "https://i.discogs.com/IojtwoO7s9L-vqlZoRRqzbjL4lf1QAA5ZKDHwQbinNQ/rs:fit/g:sm/q:90/h:601/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgyMTE5/MjEtMTYyODI0NzE5/OS02OTM1LmpwZWc.jpeg"
+    - "https://i.discogs.com/9DXcbNk7dPvUQKkR1tAqwpI8P9WbKQHYEbR6EOmSIPc/rs:fit/g:sm/q:90/h:600/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgyMTE5/MjEtMTYyODI0NzE5/OS02OTM1LmpwZWc.jpeg"
     - "https://i.discogs.com/fEpd56StpDSRgO2oenl6BI01fAusPyfNq_6wy1tei4I/rs:fit/g:sm/q:90/h:589/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgyMTE5/MjEtMTYyODI0NzE5/Ny03NjQzLmpwZWc.jpeg"
-    - "https://i.discogs.com/RmboAc2LcDR8ELPFSB5yuEJp4cIuyAqzzeDTQ__XZs0/rs:fit/g:sm/q:90/h:601/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgyMTE5/MjEtMTYyODI0NzE5/Ny00NDcxLmpwZWc.jpeg"
+    - "https://i.discogs.com/AKsgmIuGqoIdYLBFK9LfLrSlp17WooKsgjDbDju1UJ0/rs:fit/g:sm/q:90/h:600/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgyMTE5/MjEtMTYyODI0NzE5/Ny00NDcxLmpwZWc.jpeg"
 genres: ["Rock", "Folk, World, & Country"]
 styles: []
 ---
 
-Tapestry is the second studio album by American singer-songwriter Carole King, released in 1971 on Ode Records and produced by Lou Adler. The lead singles from the album—"It's Too Late" and "I Feel the Earth Move"—spent five weeks at number one on both the Billboard Hot 100 and Easy Listening charts.
-Tapestry has been certified 14× Platinum by the Recording Industry Association of America in the US, and has sold an estimated 25 million copies worldwide, making it one of the best-selling albums of all time. In 2000, it attained number 74 in Colin Larkin's All Time Top 1000 Albums, and in 2020, it was ranked number 25 on Rolling Stone's list of the 500 greatest albums of all time. Tapestry won four Grammy Awards, including Album of the Year, Song of the Year and Record of the Year.
+<b>100 Best Albums</b> It would all sound trite, if it weren’t so true: In the late 1960s, a seasoned professional New York songsmith moves to Laurel Canyon, finds her voice in a whole new way and emerges with one of the biggest records of the 1970s. That’s the shorthand history behind Carole King’s 1971 hit <i>Tapestry</i>, an iconic entry in the canon of genre-agnostic singer-songwriters, and the album that marked the dawning of King’s second act. Working alongside like-minded West Coast artists James Taylor and Joni Mitchell, the hitmaking singer narrowed her scope, stripping down and getting personal as a songwriter and a performer—and, in doing so, creating a timeless standard for confessional expression. In a decade dominated by monolithic pop albums, <i>Tapestry</i> became one of the biggest, eventually selling more than 14 million copies.
 
+Even before the album’s release, King had helped reshape American pop music as a songwriter, her work often speaking for women as a group: She articulated previously masked vulnerability on The Shirelles’ “Will You Love Me Tomorrow”, and expressed daring, earthy sensuality on Aretha Franklin’s “(You Make Me Feel Like) a Natural Woman”. But on <i>Tapestry</i>, her second album as a soloist, King reclaims those songs, using them to tell her own story along with a slew of new compositions. Her previous hits had been co-written with her ex-husband, Gerry Goffin, but on <i>Tapestry</i>, King accepted one new songwriting collaborator: Toni Stern, who provided lyrics for “It’s Too Late” and “Where You Lead”. Besides Stern’s sterling contributions, King centered her own words, voice and piano-playing. And throughout <i>Tapestry</i>, her gutting honesty and earnest optimism are channelled with the easy fluency of a veteran pop songwriter.
 
+Individually, the songs have long since been woven into pop music’s unconscious: “I Feel The Earth Move” became an instant R&B classic; “You’ve Got A Friend” remains a somehow-never-saccharine pledge of loyalty; and “It’s Too Late” is the break-up anthem to end all break-up anthems. Together, they weave a <i>Tapestry</i> about the power of vulnerability, one that King performs with unflinching and carefree power, wrapping everything in an unpretentious and lovely musical package.
         
         
     

@@ -22,6 +22,13 @@ genres: ["Rock"]
 styles: ["Alternative Rock", "Indie Rock"]
 ---
 
+In chemistry, efflorescence (which roughly means "the flowering" in French) is the migration of a salt to the surface of a porous material, where it forms a coating. The essential process involves the dissolving of an internally held salt in water or occasionally, in another solvent. The water, with the salt now held in solution, migrates to the surface, then evaporates, leaving a coating of the salt.
+In what has been described as "primary efflorescence", the water is the invader and the salt was already present internally, and a reverse process, where the salt is originally present externally and is then carried inside in solution, is referred to as "secondary efflorescence".
+Efflorescences can occur in natural and built environments. On porous construction materials it may present a cosmetic outer problem only (primary efflorescence causing staining), but can sometimes indicate internal structural weakness (migration/degradation of component materials).  Efflorescence may clog the pores of porous materials, resulting in the destruction of those materials by internal water pressure, as seen in the spalling of brick.
+
+
+    
+    
 
 
 ## Tracklisting
@@ -55,6 +62,7 @@ styles: ["Alternative Rock", "Indie Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
+| Wikipedia URL | https://en.wikipedia.org/wiki/Efflorescence |
 | Format         | Vinyl 2× LP Album |
 | Label          | Beggars Banquet |
 | Catalog Number | BBQ 235 |

@@ -19,7 +19,7 @@ additional_images:
     - "https://i.discogs.com/vUYiNO0bLiXKXbllzD0p08c4bzrqZFdYjrptbW0zzxw/rs:fit/g:sm/q:90/h:433/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NTMw/ODg1LTE2NjMzMjYy/NTgtNjExNi5qcGVn.jpeg"
     - "https://i.discogs.com/Fzwk-0bl9-ZnY5JVCPjMU3UEmu9H7F1IgTF3dLfMK0U/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NTMw/ODg1LTE2NjMzMzUw/NTEtOTc2Ny5qcGVn.jpeg"
     - "https://i.discogs.com/Zc8CBRFrooto0lhS4qMlWnNwcj2p-W2DL0LCYIC0pPI/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NTMw/ODg1LTE2NjMzMzUw/NTItNzc3MC5qcGVn.jpeg"
-    - "https://i.discogs.com/2s7DqVMAQQjYu6Tom62vz-dpSOMr71czPvmuY_F5tAw/rs:fit/g:sm/q:90/h:800/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NTMw/ODg1LTE2NjMzMzUw/NTItMjQ2Ni5qcGVn.jpeg"
+    - "https://i.discogs.com/zVAtPIQXAis8mbPW7eKLFEs0byom7ncE9-8MTrc5HuU/rs:fit/g:sm/q:90/h:600/w:450/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NTMw/ODg1LTE2NjMzMzUw/NTItMjQ2Ni5qcGVn.jpeg"
 genres: ["Rock", "Pop"]
 styles: ["Pop Rock"]
 ---
@@ -45,7 +45,7 @@ The 2008 reissue CD on the Wounded Bird Records label (WOU 4039) adds a bonus tr
 12. Not Like You (3:05)
 
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/different-light-deluxe-edition/397587066" >}}<br>
+{{< applemusic url="https://music.apple.com/gb/album/different-light/285529680" >}}<br>
 
 
 ## Videos
@@ -53,6 +53,10 @@ The 2008 reissue CD on the Wounded Bird Records label (WOU 4039) adds a bonus tr
 {{< youtube id="SsmVgoXDq2w" title="The Bangles - Manic Monday" >}}<br>
 ### More Videos
 
+- [The Bangles - Walk Like an Egyptian (Video Version)](https://www.youtube.com/watch?v=Cv6tuzHUuuk)
+- [The Bangles - Walking Down Your Street (Video Version)](https://www.youtube.com/watch?v=HvnV2jFeWNQ)
+- [The Bangles - If She Knew What She Wants](https://www.youtube.com/watch?v=mu_pNeqAQ-U)
+- [The Bangles - Manic Monday](https://www.youtube.com/watch?v=SsmVgoXDq2w)
 - [The Bangles - Walk Like an Egyptian (Video Version)](https://www.youtube.com/watch?v=Cv6tuzHUuuk)
 - [The Bangles - Walking Down Your Street (Video Version)](https://www.youtube.com/watch?v=HvnV2jFeWNQ)
 - [The Bangles - If She Knew What She Wants](https://www.youtube.com/watch?v=mu_pNeqAQ-U)

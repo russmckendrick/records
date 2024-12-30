@@ -26,6 +26,10 @@ genres: ["Electronic", "Pop"]
 styles: ["Synth-pop"]
 ---
 
+Flowers of Evil is the twelfth studio album by Norwegian experimental electronica band Ulver. Written and produced by Ulver, the album was released on August 28, 2020 via House of Mythology. The album was recorded in Oslo from summer 2019 to winter 2020 and mixed by Martin Glover and Michael Rendall in February 2020. The album was officially announced in February 2020 with music video of the song "Russian Doll" being released on Valentine's Day. The second single "Little Boy" was made available on April 4, 2020.
+The album cover features a still image of actress Renée Jeanne Falconetti having her head shaved during her performance in the title role of Carl Theodor Dreyer's La Passion de Jeanne d'Arc, a film released in 1928.
+    
+    
 
 
 ## Tracklisting
@@ -57,6 +61,7 @@ styles: ["Synth-pop"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
+| Wikipedia URL | https://en.wikipedia.org/wiki/Flowers_of_Evil_(Ulver_album) |
 | Format         | Vinyl LP Album Limited Edition (Crystal Clear) |
 | Label          | House of Mythology |
 | Catalog Number | HOM023LPC |

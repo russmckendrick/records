@@ -13,6 +13,9 @@ cover:
     alt: "You're The One by Rhiannon Giddens"
     caption: "You're The One by Rhiannon Giddens"
 additional_images:
+    - "https://i.discogs.com/ntIbTyparvifHZwuy6JxOlWlWGmyE_YZXTyMrGpmthE/rs:fit/g:sm/q:90/h:592/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4MDQx/MDY5LTE2OTY3OTQx/MjctNDYxOC5qcGVn.jpeg"
+    - "https://i.discogs.com/AkCZWTi9osJeE8sKgm018FufQ20A09hoU1h9h-3CX64/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4MDQx/MDY5LTE2OTY3OTQx/MjctNTAwMC5qcGVn.jpeg"
+    - "https://i.discogs.com/2MKAELYWX0ShB6RhP0sqxOAi4-zZjHg6rDbmhXmKx14/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4MDQx/MDY5LTE2OTY3OTQx/MjQtOTg2NS5qcGVn.jpeg"
 genres: ["Pop", "Folk, World, & Country"]
 styles: []
 ---
@@ -39,7 +42,8 @@ Opener “Too Little, Too Late, Too Bad” is a soulful kiss-off worthy of the b
 <b>“Hen in the Foxhouse”</b>
 “I like to play with words. I was just kind of contemplating being often the only woman in the room in the music industry. I was playing in bands with all men and a crew of all men, and all this kind of stuff. Obviously, things are changing and they have been changing, and I do feel like representation is shifting. But even—especially—15 years ago, it was a sausage fest. It's just thinking about that and all the women who've had to be in that place, the strength that you have to pull into. How do you stake out your place? It's subverting, like, ‘Yeah, I'm just a hen in the foxhouse. I'm just here.’ But actually, that's where the real strength is, because you're surrounded by foxes and you have to survive that. It's more about fighting off all the foxes.”
 
-    
+        
+        
     
 
 
@@ -61,7 +65,22 @@ Opener “Too Little, Too Late, Too Bad” is a soulful kiss-off worthy of the b
 {{< applemusic url="https://music.apple.com/gb/album/youre-the-one/1683236541" >}}<br>
 
 
+## Videos
+### Rhiannon Giddens - Too Little, Too Late, Too Bad (Official Audio)
+{{< youtube id="hCLm34zR-7Y" title="Rhiannon Giddens - Too Little, Too Late, Too Bad (Official Audio)" >}}<br>
+### More Videos
 
+- [Rhiannon Giddens - You're the One (Lyric Video)](https://www.youtube.com/watch?v=o7-o13fK4p4)
+- [Rhiannon Giddens - Yet to Be (feat. Jason Isbell) (Official Video)](https://www.youtube.com/watch?v=eCQ3qm_JCVo)
+- [Rhiannon Giddens - Wrong Kind of Right (Official Audio)](https://www.youtube.com/watch?v=Edtv44JwPIo)
+- [Rhiannon Giddens - Another Wasted Life (Official Audio)](https://www.youtube.com/watch?v=8LDBMi6887Y)
+- [Rhiannon Giddens - You Louisiana Man (Official Video)](https://www.youtube.com/watch?v=j2oiQtAjcPk)
+- [Rhiannon Giddens - If You Don't Know How Sweet It Is (Official Audio)](https://www.youtube.com/watch?v=LjKl0BvEzco)
+- [Rhiannon Giddens - Hen in the Foxhouse (Official Audio)](https://www.youtube.com/watch?v=Eg-sm2SjGjk)
+- [Rhiannon Giddens - Who Are You Dreaming Of (Official Audio)](https://www.youtube.com/watch?v=UfDjVUfZ2Z4)
+- [Rhiannon Giddens - You Put the Sugar in My Bowl (Official Audio)](https://www.youtube.com/watch?v=JYpkUFE8y2E)
+- [Rhiannon Giddens - Way Over Yonder (Official Audio)](https://www.youtube.com/watch?v=xKIo5uzcuHU)
+- [Rhiannon Giddens - Good Ol' Cider (Official Audio)](https://www.youtube.com/watch?v=-16-7GdZrD8)
 
 ## Release Images
 {{< imageGrid >}}
@@ -69,7 +88,8 @@ Opener “Too Little, Too Late, Too Bad” is a soulful kiss-off worthy of the b
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl LP Album Limited Edition (Translucent Emerald) |
+| Wikipedia URL | https://en.wikipedia.org/wiki/You%27re_the_One_(Rhiannon_Giddens_album) |
+| Format         | Vinyl LP Album Limited Edition (Emerald [Translucent]) |
 | Label          | Nonesuch |
 | Catalog Number | 075597904093 |
 | Discogs URL    | [Rhiannon Giddens - You're The One](https://www.discogs.com/release/28041069-Rhiannon-Giddens-Youre-The-One) |

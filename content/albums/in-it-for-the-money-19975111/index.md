@@ -12,7 +12,7 @@ cover:
     alt: "In It For The Money by Supergrass"
     caption: "In It For The Money by Supergrass"
 additional_images:
-    - "https://i.discogs.com/MKDYb3WCtWCEOW4_l0JDOLHSWbplVhvt3mWWBu9-dno/rs:fit/g:sm/q:90/h:602/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5OTc1/MTExLTE2Mjk3OTU4/NjYtNTQzOS5qcGVn.jpeg"
+    - "https://i.discogs.com/35vE-ZNUZuNXm6P_UVlakXG8f0myBlGLjaGF67JBK1Q/rs:fit/g:sm/q:90/h:600/w:597/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5OTc1/MTExLTE2Mjk3OTU4/NjYtNTQzOS5qcGVn.jpeg"
     - "https://i.discogs.com/SIaEDlBso2aIBYDloOsqrnjI9sz7eA1T93hLaKGXePU/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5OTc1/MTExLTE2Mjk3OTU4/NjYtNzI2NC5qcGVn.jpeg"
     - "https://i.discogs.com/eup3tg9XPQaf2i_HIkH0KIepGDLmLxdXYrmZkPlWThg/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5OTc1/MTExLTE2Mjk3OTU4/NjQtMjgxMi5qcGVn.jpeg"
     - "https://i.discogs.com/jxSOPZZAwMUGkeX_Nb7XCAxeuWCc-hEr2DpE6PU7w9E/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5OTc1/MTExLTE2Mjk3OTU4/NjItNTEyNC5qcGVn.jpeg"
@@ -25,6 +25,8 @@ styles: ["Britpop", "Indie Rock"]
 ---
 
 In It for the Money is the second studio album by English alternative rock band Supergrass, released in 1997. NME called it "more fun than watching a wombat in a washing machine" and named it the 10th best album of the year. In 1998, Q readers voted it the 68th greatest album of all time, while in 2000 the same magazine placed it at number 57 in its list of the 100 Greatest British Albums Ever.
+
+
     
     
 
@@ -46,19 +48,32 @@ In It for the Money is the second studio album by English alternative rock band 
 14. BRA Sun Hits The Sky mix
 
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/in-it-for-the-money/695598956" >}}<br>
+{{< applemusic url="https://music.apple.com/gb/album/in-it-for-the-money/1448862928" >}}<br>
 
 
 ## Videos
-### Supergrass - Richard III (Official HD Video)
-{{< youtube id="UnXrrOxzZCE" title="Supergrass - Richard III (Official HD Video)" >}}<br>
+### Supergrass - Grace (Official HD Video)
+{{< youtube id="Z4IWmNBKN3o" title="Supergrass - Grace (Official HD Video)" >}}<br>
 ### More Videos
 
-- [Supergrass - In It For The Money (Monitor Mix) (Official Video)](https://www.youtube.com/watch?v=pplWingupSs)
-- [Supergrass - Grace (Official HD Video)](https://www.youtube.com/watch?v=Z4IWmNBKN3o)
-- [Supergrass - Cheapskate (Official HD Video)](https://www.youtube.com/watch?v=7Tivnce5-jU)
+- [Supergrass - Richard III (Official HD Video)](https://www.youtube.com/watch?v=UnXrrOxzZCE)
 - [Supergrass - Late In The Day (Official HD Video)](https://www.youtube.com/watch?v=v8HJRVpUHQI)
+- [Supergrass – In It For The Money](https://www.youtube.com/watch?v=GOVGp6I0CgQ)
+- [Supergrass – Cheapskate](https://www.youtube.com/watch?v=YobvL4cwx0E)
+- [Supergrass – You Can See Me](https://www.youtube.com/watch?v=U1NbPfb2NGM)
+- [Supergrass – It's Not Me](https://www.youtube.com/watch?v=oGjeMbm2Tcg)
+- [Supergrass – Going Out](https://www.youtube.com/watch?v=chNYxfWL4y0)
+- [Supergrass – Sometimes I Make You Sad](https://www.youtube.com/watch?v=e6tqd2x-Cbw)
+- [Supergrass – Late In The Day](https://www.youtube.com/watch?v=uprjsXm0x6s)
+- [Supergrass – G-Song](https://www.youtube.com/watch?v=2KgPwjePcnc)
+- [Supergrass – Tonight](https://www.youtube.com/watch?v=Q2PxzbqlKW4)
+- [Supergrass – Sun Hits the Sky](https://www.youtube.com/watch?v=M2bzThImp6E)
+- [Supergrass – Hollow Little Reign](https://www.youtube.com/watch?v=VBcW3SzS-1s)
+- [Supergrass – Richard III](https://www.youtube.com/watch?v=L97CtYyUsXY)
+- [Supergrass - Richard III (Official HD Video)](https://www.youtube.com/watch?v=UnXrrOxzZCE)
+- [Supergrass - Cheapskate (Official HD Video)](https://www.youtube.com/watch?v=7Tivnce5-jU)
 - [Supergrass - Sun Hits The Sky (Official HD Video)](https://www.youtube.com/watch?v=OJ8TYNpJdLg)
+- [Supergrass - In It For The Money (Monitor Mix) (Official Video)](https://www.youtube.com/watch?v=pplWingupSs)
 - [Supergrass - It's Not Me (Early Version) (Official Video)](https://www.youtube.com/watch?v=u80_jUEaWII)
 
 ## Release Images

@@ -50,9 +50,12 @@ styles: ["Leftfield", "Industrial", "Experimental", "Alternative Rock"]
 19. Strangers When We Meet (5:07)
 
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/1-outside-the-nathan-adler-diaries-a-hyper-cycle/1061940454" >}}<br>
+{{< applemusic url="https://music.apple.com/gb/album/1-outside-the-nathan-adler-diaries-a-hyper-cycle/1745520271" >}}<br>
 
 
+## Videos
+### David Bowie - Strangers When We Meet (Official Music Video) [HD Upgrade]
+{{< youtube id="4FQc4tbNjPA" title="David Bowie - Strangers When We Meet (Official Music Video) [HD Upgrade]" >}}<br>
 
 
 ## Release Images

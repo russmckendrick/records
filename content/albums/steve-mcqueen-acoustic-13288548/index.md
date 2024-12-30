@@ -41,7 +41,11 @@ styles: ["Acoustic"]
 ## Videos
 ### Prefab Sprout - When Love Breaks Down (acoustic version - 2007)
 {{< youtube id="-DZwRaC1qvw" title="Prefab Sprout - When Love Breaks Down (acoustic version - 2007)" >}}<br>
+### More Videos
 
+- [PREFAB SPROUT — STEVE MCQUEEN『 ACOUSTIC VERSION・2007・FULL ALBUM 』](https://www.youtube.com/watch?v=q4acjMWXeRo)
+- [Prefab Sprout - When Love Breaks Down (acoustic version - 2007)](https://www.youtube.com/watch?v=-DZwRaC1qvw)
+- [PREFAB SPROUT — STEVE MCQUEEN『 ACOUSTIC VERSION・2007・FULL ALBUM 』](https://www.youtube.com/watch?v=q4acjMWXeRo)
 
 ## Release Images
 {{< imageGrid >}}

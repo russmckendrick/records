@@ -25,8 +25,11 @@ genres: ["Rock"]
 styles: ["Hard Rock", "Prog Rock"]
 ---
 
-This Canadian trio's self-titled debut proved the band was adept at the heavy blues-rock of the era, but it was with its second album, 1975's <i>Fly By Night</i>, that Rush established its signature sound: a mix of studio wizardry and athletic musicianship coupled with a desire to break past conventional songforms. Mostly, this was the result of new drummer Neil Peart, whose inquisitive lyrics and extra polyrhythmic emphasis would make them arena-rock superstars before decade's end. Peart's unusual sensibility can be heard in the nearly nine-minute epic "By-Tor and the Snow Dog," the extra flicker driving "Anthem" and the graceful, jazzy touches of "Making Memories." Singer Geddy Lee pushes his voice to the upper reaches of his range. "Beneath, Between and Behind" sounds like a drag race between drummer, guitarist and singer to see who can twist and turn with greater dexterity. One part hard rock, two parts progressive ambition, and the band was off in a prolific and singular direction.
-    
+Fly by Night is the second studio album by the Canadian rock band Rush, released on February 1975, by Mercury Records. It was the first Rush album to showcase elements of progressive rock for which the band has become known. It was also the first to feature lyricist and drummer Neil Peart, who replaced original drummer John Rutsey the previous summer just prior to the band's first North American tour. Peart took over as Rush's primary lyricist, and the abundance of fantastical and philosophical themes in his compositions contrasted greatly with the simpler hard rock of the band's debut album.
+
+
+        
+        
     
 
 
@@ -44,7 +47,12 @@ This Canadian trio's self-titled debut proved the band was adept at the heavy bl
 {{< applemusic url="https://music.apple.com/gb/album/fly-by-night-remastered/1440724415" >}}<br>
 
 
+## Videos
+### Rush - Fly By Night
+{{< youtube id="nEVDZl5UvN4" title="Rush - Fly By Night" >}}<br>
+### More Videos
 
+- [Rush - Fly By Night](https://www.youtube.com/watch?v=nEVDZl5UvN4)
 
 ## Release Images
 {{< imageGrid >}}
@@ -52,6 +60,7 @@ This Canadian trio's self-titled debut proved the band was adept at the heavy bl
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
+| Wikipedia URL | https://en.wikipedia.org/wiki/Fly_by_Night_(album) |
 | Format         | Vinyl LP Album Reissue Remastered Stereo (180 Gram) |
 | Label          | Mercury |
 | Catalog Number | 00602547107817 |

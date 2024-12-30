@@ -18,23 +18,36 @@ genres: ["Rock"]
 styles: ["Prog Rock"]
 ---
 
-## Tracklisting
-### 2024 Mixes
-1. Red
-2. Fallen Angel
-3. One More Red Nightmare
-4. Providence
-5. Starless
+Often credited with anointing prog rock as a genre, King Crimson’s debut album remains an almost overwhelming statement of ambition and invention. Released just a year after the band’s 1968 formation in London, <i>In the Court of the Crimson King</i> closes out that most psychedelic decade by amplifying the heady intensity of everything that came before it—and throwing open the doors for everything that would come after.
 
-### Elemental Mixes
-1. Red
-2. Fallen Angel
-3.  One More Red Nightmare
-4.  Starless - Percussion
-50. Starless
+There could be no more fitting introduction than “21st Century Schizoid Man”, one of the wildest tracks of the ’60s. Everything vital about early King Crimson is on full display: Robert Fripp’s nightmarishly cool guitar contours; Michael Giles’ intricate drumming; bassist/singer Greg Lake’s instant vocal swagger; lyricist Peter Sinfield’s poetic portent; and multi-instrumentalist Ian McDonald’s surprise integration of jazz and classical tactics. Pack all of that into nearly eight minutes of buzzing tones, stubborn momentum and roller-coaster dynamic shifts, and you’ve got a rock band that’s ready to play in the same hothouse arena as free jazz—right down to McDonald’s tightly wound alto sax.
+
+Given that song’s bracing impact, it’s all the more fascinating to hear it immediately followed by the peaceable psych-folk ramble “I Talk to the Wind”. McDonald swaps out his piercing sax for breezy flute, and Lake’s vocal approach switches from eye-rolling menace to sleepy serenity, while the track’s medieval quality continues into the Mellotron-ripened “Epitaph”. As mellow as those two songs are by comparison to “Schizoid Man”, they still very much honour the album’s penchant for elaborate, suite-like structures.
+
+That’s just as pronounced on the 12-minute “Moonchild”, a ballad of eerie elegance that draws upon some of Sinfield’s most mind-bending imagery before almost disappearing into the ether during its ghostly noodling and offbeat percussive tics. As the Mellotron swoops back in for the closing title track, King Crimson have no trouble at all justifying the theatrical grandeur of the album’s long-winded name.
+
+While King Crimson were quickly wracked with infighting and line-up changes following <i>In the Court of the Crimson King</i>, the album lives on in a multiplicity of ways. Its songs have been sampled and interpolated in the realms of electronic music, rap and indie rock, and the album’s far-flung arrangements and conceptual flourishes spurred on such genre-refining prog acts as Genesis, Yes, Rush and Emerson, Lake & Palmer. But few of them would cover so much ground in a single exhilarating outing.
+        
+        
+    
+
+
+## Tracklisting
+1. 2024 Mixes
+2. Red
+3. Fallen Angel
+4. One More Red Nightmare
+5. Providence
+6. Starless
+7. Elemental Mixes
+8. Red
+9. Fallen Angel
+10. One More Red Nightmare
+11. Starless - Percussion
+12. Starless
 
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/red-2024-elemental-mixes/1774762531" >}}<br>
+{{< applemusic url="https://music.apple.com/gb/album/in-the-court-of-the-crimson-king-expanded-edition/918534711" >}}<br>
 
 
 ## Videos

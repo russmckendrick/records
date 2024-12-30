@@ -4,6 +4,7 @@ artist_name: "Slowdive"
 artist: "slowdive"
 album_name: "Just For A Day"
 date: 2020-07-17T12:26:17.000000Z
+release_date: "1991-09-02"
 release_id: "15633294"
 slug: "just-for-a-day-15633294"
 hideSummary: true
@@ -12,19 +13,20 @@ cover:
     alt: "Just For A Day by Slowdive"
     caption: "Just For A Day by Slowdive"
 additional_images:
-    - "https://i.discogs.com/ZvT-sWDXzVlW66d3kuojy4NV9M4hofpWFFRSeRJAMMk/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NjMz/Mjk0LTE2NTM3OTMx/MTEtMzI5MC5qcGVn.jpeg"
+    - "https://i.discogs.com/gyRV3Pna4zOIplw7NPfi5GeXWchj3Hnb-1A3AQqwgDE/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NjMz/Mjk0LTE2NTM3OTMx/MTEtMzI5MC5qcGVn.jpeg"
     - "https://i.discogs.com/LFJOa8aU3ITOJmDyEIdBuV4KyJfWAIuCn35DOItGK5I/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NjMz/Mjk0LTE1OTQ5Nzcz/MDgtNjEyNC5qcGVn.jpeg"
     - "https://i.discogs.com/obFRTyZo0FgWejC_dts-fPy40GIvGzb06-ewn4kDRHE/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NjMz/Mjk0LTE2NTM3OTMx/MjEtMTE4MS5qcGVn.jpeg"
     - "https://i.discogs.com/BZSybAXKKhTODrh2GcsDMIglAOJ4Dx5fM65Oa8dbIrg/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NjMz/Mjk0LTE2NTM3OTMx/MjEtNDI5Mi5qcGVn.jpeg"
-    - "https://i.discogs.com/mvjRiGcQjRYRLWL1lFe0MJm2GzYPQuozU72dapBo7LE/rs:fit/g:sm/q:90/h:605/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NjMz/Mjk0LTE1OTQ5Nzcz/MDgtNDI4My5qcGVn.jpeg"
-    - "https://i.discogs.com/n15y8VBhuDCQH-UVxhw172R_Xuz9QumosLvhO2Of-IQ/rs:fit/g:sm/q:90/h:602/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NjMz/Mjk0LTE1OTQ5Nzcz/MDgtNDg0My5qcGVn.jpeg"
-    - "https://i.discogs.com/1Qgfla-LvyVebDaQwmYbKEr-inayA_Y73dZToZYQEeo/rs:fit/g:sm/q:90/h:762/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NjMz/Mjk0LTE1OTQ5Nzcy/OTMtNDU1NS5qcGVn.jpeg"
+    - "https://i.discogs.com/WJBrfM5Z7Nd9rgFiZqC7yDij3iMhLSv4BzEK2EXgjlU/rs:fit/g:sm/q:90/h:600/w:594/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NjMz/Mjk0LTE1OTQ5Nzcz/MDgtNDI4My5qcGVn.jpeg"
+    - "https://i.discogs.com/LjBOlVYQZMhlNErBjZxujA5PjHWLkHd4ZsWKmcd2qn8/rs:fit/g:sm/q:90/h:600/w:597/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NjMz/Mjk0LTE1OTQ5Nzcz/MDgtNDg0My5qcGVn.jpeg"
+    - "https://i.discogs.com/59CAipDq3o7p5IyKIU_31TgSBSLA1GlsIHKOElhio4w/rs:fit/g:sm/q:90/h:600/w:472/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NjMz/Mjk0LTE1OTQ5Nzcy/OTMtNDU1NS5qcGVn.jpeg"
 genres: ["Rock"]
 styles: ["Shoegaze", "Indie Rock", "Dream Pop"]
 ---
 
-Just for a Day is the debut studio album by English rock band Slowdive. It was released on 2 September 1991 by Creation Records.
-    
+A signature song for the dreamiest original shoegaze acts, “Catch the Breeze” boasts an especially apt title. Like many tracks on Slowdive’s debut, this swirl of reverb-drenched guitars and vocal harmonies feels so vaporous, it’s ready to vanish into the ether. Yet <i>Just for a Day</i>’s ecstatic nature belies darker undercurrents that become more pronounced whenever the rapturous swells of sound subside, and Rachel Goswell’s angelic cooing takes on a more despairing quality on the haunting “Primal”.
+        
+        
     
 
 
@@ -40,7 +42,7 @@ Just for a Day is the debut studio album by English rock band Slowdive. It was r
 9. Primal (5:29)
 
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/just-for-a-day/399186360" >}}<br>
+{{< applemusic url="https://music.apple.com/gb/album/just-for-a-day/259842692" >}}<br>
 
 
 ## Videos

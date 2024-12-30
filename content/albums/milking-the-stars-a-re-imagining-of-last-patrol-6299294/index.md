@@ -15,7 +15,7 @@ additional_images:
     - "https://i.discogs.com/izXAwjgmLUoIu6oDVHXgxGWXeCEePKULAL9mH7-E038/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYyOTky/OTQtMTQzNTYxMTU5/NS02MzQwLmpwZWc.jpeg"
     - "https://i.discogs.com/wUZ1omMBYpExWx76XGVhOsXGq8zjSPTllA7MisxFgX4/rs:fit/g:sm/q:90/h:294/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYyOTky/OTQtMTUzODkzNzQy/Ny03NDk0LmpwZWc.jpeg"
     - "https://i.discogs.com/wd0Bb2WmIIAnGyeoSt-ccrQKnmwdvac6EHGpffz_to0/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYyOTky/OTQtMTQzNTYxMTYw/My0xMTgwLmpwZWc.jpeg"
-    - "https://i.discogs.com/hOtCD5hzZ3FU04J-v8kw7dqTGrAInh_aFZy4xpG6bMg/rs:fit/g:sm/q:90/h:606/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYyOTky/OTQtMTUzODkzNzQy/NC0yNzM2LmpwZWc.jpeg"
+    - "https://i.discogs.com/aTza1F6-N2KOlxAh0dF7J__r19xxrfpjhzSYjdAMr_Q/rs:fit/g:sm/q:90/h:600/w:594/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYyOTky/OTQtMTUzODkzNzQy/NC0yNzM2LmpwZWc.jpeg"
     - "https://i.discogs.com/VCM2A5T4Vo1lSpRcMYzFZjH8pIbjoUhgsLP5kWOyIYg/rs:fit/g:sm/q:90/h:591/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYyOTky/OTQtMTUzODkzNzQx/Ni02OTgwLmpwZWc.jpeg"
     - "https://i.discogs.com/oUdEHp7ABiRHcJaQDNo4E7WKdlNwGU4VKZwKKD7BhKM/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYyOTky/OTQtMTUzODkzNzQy/Mi0xMTU5LmpwZWc.jpeg"
     - "https://i.discogs.com/20_xHElpWKJ74kc54mOjip25-8zEjMpTYEd0m5uci7Q/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYyOTky/OTQtMTUzODkzNzQy/Mi02NjU3LmpwZWc.jpeg"
@@ -25,6 +25,11 @@ genres: ["Rock"]
 styles: ["Hard Rock", "Stoner Rock", "Psychedelic Rock"]
 ---
 
+Milking the Stars: A Re-Imagining of Last Patrol is a remix studio album by the American rock band Monster Magnet, released on November 14, 2014. According to frontman Dave Wyndorf, the album is a "reimagined" version of their previous album, 2013's Last Patrol, featuring four new songs and two live tracks. The album is not strictly a remix of Last Patrol, as songs feature new recordings and arrangements aimed at giving the album what Wyndorf describes as "a weird 1960s vibe". The album concludes with two live tracks recorded at the AB in Brussels in 2014, and which feature the debut performance of the band's new bassist, Chris Kosnik.
+
+
+    
+    
 
 
 ## Tracklisting
@@ -63,6 +68,20 @@ styles: ["Hard Rock", "Stoner Rock", "Psychedelic Rock"]
 - [The Duke (Full On Drums 'N Wah)](https://www.youtube.com/watch?v=jyo1Oxh598Q)
 - [Stay Tuned (Even Sadder)](https://www.youtube.com/watch?v=3yvfjPGVOIo)
 - [Hallelujah (Fuzz And Swamp)](https://www.youtube.com/watch?v=JIFKCAZE7jQ)
+- [MONSTER MAGNET - The Duke (Official Video) | Napalm Records](https://www.youtube.com/watch?v=2RCwgz4FiSA)
+- [Monster Magnet - End of Time](https://www.youtube.com/watch?v=hfp0fZVtgzo)
+- [MONSTER MAGNET - Mindless Ones (Official) | Napalm Records](https://www.youtube.com/watch?v=YkVOko8xVb8)
+- [Milking The Stars](https://www.youtube.com/watch?v=RyADFdo6H3g)
+- [Last Patrol (Live)](https://www.youtube.com/watch?v=MOdftJvtYvw)
+- [End Of Time (B-3)](https://www.youtube.com/watch?v=V2mU6pDuuZE)
+- [Let The Circus Burn](https://www.youtube.com/watch?v=mggy7HHsbFU)
+- [Goliath Returns](https://www.youtube.com/watch?v=EuM5J7s4aP4)
+- [Mindless Ones '68](https://www.youtube.com/watch?v=kiVjdn1o82k)
+- [Three Kingfishers (Live)](https://www.youtube.com/watch?v=6jEcMZ8XANc)
+- [I Live Behind The Clouds (Roughed Up And Slightly Spaced)](https://www.youtube.com/watch?v=zgpsvUg7DA0)
+- [The Duke (Full On Drums 'N Wah)](https://www.youtube.com/watch?v=jyo1Oxh598Q)
+- [Stay Tuned (Even Sadder)](https://www.youtube.com/watch?v=3yvfjPGVOIo)
+- [Hallelujah (Fuzz And Swamp)](https://www.youtube.com/watch?v=JIFKCAZE7jQ)
 
 ## Release Images
 {{< imageGrid >}}
@@ -70,6 +89,7 @@ styles: ["Hard Rock", "Stoner Rock", "Psychedelic Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
+| Wikipedia URL | https://en.wikipedia.org/wiki/Milking_the_Stars:_A_Re-Imagining_of_Last_Patrol |
 | Format         | Vinyl 2× LP Album Limited Edition |
 | Label          | Napalm Records |
 | Catalog Number | NPR 563 LP |

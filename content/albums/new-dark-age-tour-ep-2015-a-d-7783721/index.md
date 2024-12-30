@@ -13,11 +13,11 @@ cover:
     caption: "New Dark Age Tour EP 2015 A.D. by Crippled Black Phoenix"
 additional_images:
     - "https://i.discogs.com/XfZWGtovAZiHoEcEvYBeeuD5bPX_4R4qBMiP2eNltp8/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc3ODM3/MjEtMTQ0ODcwNTMx/MC0zMDIwLmpwZWc.jpeg"
-    - "https://i.discogs.com/USCveC49Z4Sm7inqCeatNnQvxUHc2JvxDOsgCezYylo/rs:fit/g:sm/q:90/h:609/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc3ODM3/MjEtMTUyODMxODA5/Mi05MDk0LmpwZWc.jpeg"
-    - "https://i.discogs.com/__BnomDJr3C95xRzWuC0uzb7GY8UhNZd13U-EOKHWJA/rs:fit/g:sm/q:90/h:617/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc3ODM3/MjEtMTUyODMxODEx/NC05Njk2LmpwZWc.jpeg"
+    - "https://i.discogs.com/o7OPUchJYqx_oA_lEW_FNdI4wwYekpeS8_lSUw1lZf4/rs:fit/g:sm/q:90/h:600/w:590/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc3ODM3/MjEtMTUyODMxODA5/Mi05MDk0LmpwZWc.jpeg"
+    - "https://i.discogs.com/Ci-j5akwXRiZDKkUjnNx9IqFX-uwI1gdMYp_Szyc9w4/rs:fit/g:sm/q:90/h:600/w:583/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc3ODM3/MjEtMTUyODMxODEx/NC05Njk2LmpwZWc.jpeg"
     - "https://i.discogs.com/LdQZdfql9_oSbM0Xnb60ps_Zmi4_im17n0bxTWckpEs/rs:fit/g:sm/q:90/h:543/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc3ODM3/MjEtMTUyODMxODIw/Mi0zNDg1LmpwZWc.jpeg"
-    - "https://i.discogs.com/cP21E4LrRDi6BIOtaVd3XOlqLiyj437Jo9v2OP96AZY/rs:fit/g:sm/q:90/h:618/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc3ODM3/MjEtMTUyODMxODEy/NS01NDI0LmpwZWc.jpeg"
-    - "https://i.discogs.com/xEPRYLQrdA2QBoISf6AcHoOSkyTKVbz57RYMNhcIdJU/rs:fit/g:sm/q:90/h:617/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc3ODM3/MjEtMTUyODMxODEz/Ni05NTc5LmpwZWc.jpeg"
+    - "https://i.discogs.com/cs69_QgVhs2x4ktCajGvJfrAmUyBm4JI0Q03ATrBINw/rs:fit/g:sm/q:90/h:600/w:581/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc3ODM3/MjEtMTUyODMxODEy/NS01NDI0LmpwZWc.jpeg"
+    - "https://i.discogs.com/dacv-D14nNSZH_d3gnQDO76-x04UP39J2jTxfY8CYEI/rs:fit/g:sm/q:90/h:600/w:583/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc3ODM3/MjEtMTUyODMxODEz/Ni05NTc5LmpwZWc.jpeg"
 genres: ["Rock"]
 styles: ["Post Rock"]
 ---

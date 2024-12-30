@@ -17,6 +17,9 @@ genres: ["Rock"]
 styles: ["Prog Rock", "Alternative Rock"]
 ---
 
+marillion.com is the eleventh studio album by the British neo-prog band Marillion, released on 18 October 1999 by their own label, Intact Records, and distributed by Castle Communications.
+    
+    
 
 
 ## Tracklisting
@@ -34,6 +37,9 @@ styles: ["Prog Rock", "Alternative Rock"]
 {{< applemusic url="https://music.apple.com/gb/album/marillion-com/1328761898" >}}<br>
 
 
+## Videos
+### Marillion - Deserve Music Video
+{{< youtube id="Q_0ZN0Xl-hM" title="Marillion - Deserve Music Video" >}}<br>
 
 
 ## Release Images
@@ -42,6 +48,7 @@ styles: ["Prog Rock", "Alternative Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
+| Wikipedia URL | https://en.wikipedia.org/wiki/Marillion.com |
 | Format         | Vinyl 2× LP Album Reissue |
 | Label          | Kscope |
 | Catalog Number | KSCOPE1103 |

@@ -19,14 +19,14 @@ additional_images:
     - "https://i.discogs.com/SFrBD5Kyr-hqQ6BBVbRJqJjl_7_LE7GBNggau0cHFZ0/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1OTU5/NTMxLTE2MDU3MzA0/MzAtNDE3NC5qcGVn.jpeg"
     - "https://i.discogs.com/fY7TFWP1ycm9YJDFo_vekhINcjpEnNDplHEM92r5So8/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1OTU5/NTMxLTE2MDU3MzA0/MjktMjM0OC5qcGVn.jpeg"
     - "https://i.discogs.com/TiOqWbAb31ylnI6QfMgkGJ5e_BddD-AMXA6cFIRGw-k/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1OTU5/NTMxLTE2MDU3MzA0/MjctODcxMi5qcGVn.jpeg"
-    - "https://i.discogs.com/s-PYeKSeXeUbilj-mLjSfo33C_wUyidN8t7SMXHniyk/rs:fit/g:sm/q:90/h:602/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1OTU5/NTMxLTE2MDA5NDk5/NzAtMjczNS5qcGVn.jpeg"
-    - "https://i.discogs.com/qmdCVAJUyFR0kDTrJr5J-Pdsd9SZcAi_nEaafYQ9l7Y/rs:fit/g:sm/q:90/h:771/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1OTU5/NTMxLTE2MDA5NDk5/NzQtNjQ1Ni5qcGVn.jpeg"
+    - "https://i.discogs.com/8zhgsqMPD0BQtL3UM0TtCggawBhRheOQIqDrNgPs6I4/rs:fit/g:sm/q:90/h:600/w:597/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1OTU5/NTMxLTE2MDA5NDk5/NzAtMjczNS5qcGVn.jpeg"
+    - "https://i.discogs.com/EzraMJRLhTb3TiloOxTcDemmvBG4H1QTTaHaCRylQ_o/rs:fit/g:sm/q:90/h:600/w:466/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1OTU5/NTMxLTE2MDA5NDk5/NzQtNjQ1Ni5qcGVn.jpeg"
 genres: ["Rock"]
 styles: ["Hard Rock"]
 ---
 
 Greatest Hits is a compilation album by the American hard rock band Guns N' Roses, released on March 23, 2004. Released by Geffen Records in part because of the delay in the making of Chinese Democracy, the album was subject to lawsuits by band member Axl Rose and former band members, in an attempt to block its release due to its track listing.
-Despite the album having almost no promotion, it reached number one on the UK Albums Chart and number three on the Billboard 200 chart upon its release. Greatest Hits re-entered the Billboard 200 at number three in March 2012, selling about 85,000 copies as part of a promotion by both Amazon and Google Play that saw the album sold for 25 cents for one day. The album has proven a popular seller, selling over six million copies in the United States by 2018. Greatest Hits is one of the longest charting albums in the Billboard 200 era, being one of only seven albums to notch at least 400 weeks on the chart by June 2017. As of April 2022, it has spent 568 weeks on the chart.
+Despite the album having almost no promotion, it reached number one on the UK Albums Chart and number three on the Billboard 200 chart upon its release. Greatest Hits re-entered the Billboard 200 at number three in March 2012, selling about 85,000 copies as part of a promotion by both Amazon and Google Play that saw the album sold for 25 cents for one day. The album has proven a popular seller, selling over six million copies in the United States by 2018. Greatest Hits is one of the longest charting albums in the Billboard 200 era, being one of only seven albums to notch at least 400 weeks on the chart by June 2017. As of July 2023, it has spent 631 weeks on the chart.
 
 
     
@@ -51,7 +51,7 @@ Despite the album having almost no promotion, it reached number one on the UK Al
 15. Sympathy For The Devil (7:35)
 
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/greatest-hits-bonus-track-version/1533360448" >}}<br>
+{{< applemusic url="https://music.apple.com/gb/album/guns-n-roses/1751946574" >}}<br>
 
 
 

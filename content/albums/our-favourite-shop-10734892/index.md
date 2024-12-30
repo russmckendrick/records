@@ -23,8 +23,8 @@ genres: ["Electronic", "Jazz", "Rock", "Funk / Soul", "Pop"]
 styles: ["Synth-pop", "Mod", "Rhythm & Blues", "Soul"]
 ---
 
-Our Favourite Shop is the second studio album by the English group the Style Council. It was released on 8 June 1985, on Polydor, and was recorded ten months after the band's debut Café Bleu. It features guest vocalists, including Lenny Henry, Tracie Young, and Dee C Lee. The album contained "Come to Milton Keynes", "The Lodgers", "Boy Who Cried Wolf", and "Walls Come Tumbling Down!" which were all released as singles, with corresponding music videos. The three singles that were released in the UK all reached the top 40 on the UK charts.  The album was released as Internationalists in the United States, with a reconfigured track listing.
-Style Council's most commercially successful album, it was an immediate commercial and critical success, and remained at the top of the charts for one week, displacing Brothers in Arms by Dire Straits. The album was the Style Council's only number one album in the UK. According to the BPI, the record sold over 100,000 copies, and was certified gold.
+Our Favourite Shop (released as Internationalists in the United States) is the second studio album by English band the Style Council. Recorded ten months after the band's debut, Café Bleu, it was released on 8 June 1985 on Polydor. It features guest vocalists including Lenny Henry, Tracie Young, and Dee C Lee. The album includes "Come to Milton Keynes", "The Lodgers", "Boy Who Cried Wolf", and "Walls Come Tumbling Down!", which were all released as singles (with corresponding music videos). The three singles released in the UK all reached the top 40 on the UK charts. The track listing was reconfigured for the U.S. release.
+The Style Council's most commercially successful album, it was an immediate commercial and critical success, and remained at the top of the charts for one week, displacing Brothers in Arms by Dire Straits. The album was the Style Council's only number one album in the UK. According to the BPI, the record sold over 100,000 copies and was certified gold.
 The multigenre album incorporates diverse stylistic influences, including soul, rap, jazz and rock styles. Recording was completed in March 1985. The cover, depicting the band posing inside a shop, was designed by Paul Weller and British artist Simon Halfon.
     
     
@@ -47,27 +47,28 @@ The multigenre album incorporates diverse stylistic influences, including soul, 
 14. Walls Come Tumbling Down
 
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/our-favourite-shop-remastered/1443801982" >}}<br>
+{{< applemusic url="https://music.apple.com/gb/album/our-favourite-shop/1442247599" >}}<br>
 
 
 ## Videos
-### The Style Council - Come To Milton Keynes
-{{< youtube id="eweq1pnVOF0" title="The Style Council - Come To Milton Keynes" >}}<br>
+### Shout To The Top (USA Remix)
+{{< youtube id="IhZHLIOSd0k" title="Shout To The Top (USA Remix)" >}}<br>
 ### More Videos
 
-- [The Style Council - Our Favourite Shop (Album Version)](https://www.youtube.com/watch?v=4Xr48EHqvlk)
+- [The Style Council   Our Favourite Shop TV Commercial, 1985](https://www.youtube.com/watch?v=BVNt8kdw5XQ)
+- [The Style Council - Walls Come Tumbling Down!](https://www.youtube.com/watch?v=k5HfOipwvts)
+- [The Style Council - Shout To The Top](https://www.youtube.com/watch?v=7m94ip38UKs)
 - [Internationalists](https://www.youtube.com/watch?v=lNFFr8H_qKo)
-- [Homebreakers   The Style Council](https://www.youtube.com/watch?v=vqDRo2p5W1I)
 - [The Stand Up Comic's Instructions](https://www.youtube.com/watch?v=gsxMirHcG9k)
-- [The Style Council - All Gone Away](https://www.youtube.com/watch?v=mExCJcu98h0)
 - [Style Council - The Boy Who Cried Wolf (HQ)](https://www.youtube.com/watch?v=LJZenO5LXgo)
 - [Down In The Seine](https://www.youtube.com/watch?v=WXP5uFVc1l0)
 - [Luck](https://www.youtube.com/watch?v=yqccuvCOSO4)
-- [Style Council - Walls Come Tumbling Down](https://www.youtube.com/watch?v=8_WhytIbSno)
 - [With Everything To Lose](https://www.youtube.com/watch?v=inJY7ldDcF8)
 - [A Man Of Great Promise](https://www.youtube.com/watch?v=DnVHVBaYIus)
-- [Style Council - The Lodgers](https://www.youtube.com/watch?v=Dpg0jlhNV8Y)
 - [A Stones Throw Away](https://www.youtube.com/watch?v=45DsZpjL4tM)
+- [The Style Council - Our Favourite Shop (Album Version)](https://www.youtube.com/watch?v=4Xr48EHqvlk)
+- [Homebreakers   The Style Council](https://www.youtube.com/watch?v=vqDRo2p5W1I)
+- [The Style Council - All Gone Away](https://www.youtube.com/watch?v=mExCJcu98h0)
 
 ## Release Images
 {{< imageGrid >}}

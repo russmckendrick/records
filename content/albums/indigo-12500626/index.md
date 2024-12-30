@@ -13,7 +13,7 @@ cover:
     caption: "Indigo by Kandace Springs"
 additional_images:
     - "https://i.discogs.com/T2CWA7-VPiy4V8uR6QlnVUKxcjPQAjzi8AREv074V8g/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNTAw/NjI2LTE1MzY3MzQ2/NzEtMzExOC5qcGVn.jpeg"
-    - "https://i.discogs.com/miAZmcOkLHLMHeFT2EmkwgdFUn55H480aTqFT4PFOOQ/rs:fit/g:sm/q:90/h:607/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNTAw/NjI2LTE1Mzg5NDU1/NjgtMzQyOS5qcGVn.jpeg"
+    - "https://i.discogs.com/87fnsXIETRWEDtJkHKKkbzmrcmzaZ3zQmUXJwhS6MZ4/rs:fit/g:sm/q:90/h:600/w:592/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNTAw/NjI2LTE1Mzg5NDU1/NjgtMzQyOS5qcGVn.jpeg"
 genres: ["Jazz"]
 styles: []
 ---

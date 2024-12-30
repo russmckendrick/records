@@ -22,7 +22,8 @@ genres: ["Rock"]
 styles: ["New Wave", "Mod"]
 ---
 
-All Mod Cons is the third studio album by the British band the Jam, released in 1978 by Polydor Records. The title, a British idiom one might find in housing advertisements, is short for "all modern conveniences" and is a pun on the band's association with the mod revival. The album reached No. 6 in the UK Albums Chart.The album was reissued in the United States in 1979, with the song "The Butterfly Collector" replacing "Billy Hunt".
+All Mod Cons is the third studio album by the British band the Jam, released in 1978 by Polydor Records. The title, a British idiom one might find in housing advertisements, is short for "all modern conveniences" and is a pun on the band's association with the mod revival. The cover is a visual joke showing the band in a bare room. The album reached No. 6 in the UK Albums Chart.
+The album was reissued in the United States in 1979, with the song "The Butterfly Collector" replacing "Billy Hunt".
     
     
 
@@ -42,20 +43,20 @@ All Mod Cons is the third studio album by the British band the Jam, released in 
 12. Down In The Tube Station At Midnight
 
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/all-mod-cons-remastered/1440910355" >}}<br>
+{{< applemusic url="https://music.apple.com/gb/album/all-mod-cons-1997-remaster/1440910355" >}}<br>
 
 
 ## Videos
-### Billy Hunt
-{{< youtube id="4A6GeBiHp1A" title="Billy Hunt" >}}<br>
+### All Mod Cons
+{{< youtube id="UChgYxZ0_so" title="All Mod Cons" >}}<br>
 ### More Videos
 
-- [All Mod Cons](https://www.youtube.com/watch?v=UChgYxZ0_so)
 - [To Be Someone (Didn't We Have A Nice Time)](https://www.youtube.com/watch?v=e16_8ZhPDZU)
 - [Mr. Clean](https://www.youtube.com/watch?v=j3u1LsoiL18)
 - [David Watts](https://www.youtube.com/watch?v=5wRGnbqZBeE)
 - [English Rose](https://www.youtube.com/watch?v=Zve5DJn_9R8)
 - [In The Crowd (Full Version)](https://www.youtube.com/watch?v=b6pO2XkK88I)
+- [Billy Hunt](https://www.youtube.com/watch?v=4A6GeBiHp1A)
 - [It's Too Bad](https://www.youtube.com/watch?v=IrUmEsR6yyY)
 - [Fly](https://www.youtube.com/watch?v=H7mOmYa--x0)
 - [The Place I Love](https://www.youtube.com/watch?v=p0zSbY6fqhU)

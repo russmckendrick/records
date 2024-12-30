@@ -12,7 +12,21 @@ cover:
     alt: "Salvage Enterprise by The Polyphonic Spree"
     caption: "Salvage Enterprise by The Polyphonic Spree"
 additional_images:
-    - "https://i.discogs.com/n38Wx0Rz89ovq9CMEkCYZ-Nyw8mzqww8KshnnyWz2QI/rs:fit/g:sm/q:90/h:500/w:500/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4OTQ1/NjA2LTE3MDAyNTQz/MDktODk1MC5qcGVn.jpeg"
+    - "https://i.discogs.com/dWx-dWJCpFXVZBKZ-Rl6RW8hTv_KQFPZfXeFsMTL4SY/rs:fit/g:sm/q:90/h:591/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4OTQ1/NjA2LTE3MDA2ODY2/OTQtMzYyNC5qcGVn.jpeg"
+    - "https://i.discogs.com/P09Ivee6yx_LU-5kj17MzBt6jSPUPxOmAiXpdThQF8Q/rs:fit/g:sm/q:90/h:581/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4OTQ1/NjA2LTE3MDA2ODY2/OTQtNDUwOC5qcGVn.jpeg"
+    - "https://i.discogs.com/t-fyxWLvStf2LSGu-6pVwj_wblCYkKyMiEMyaWu5t1Y/rs:fit/g:sm/q:90/h:578/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4OTQ1/NjA2LTE3MDA2ODY2/OTUtNDQ3OC5qcGVn.jpeg"
+    - "https://i.discogs.com/qFMsIoy_tCFR_EDRWnjcPQZepMVNCVJGXMcJaX6Pzuk/rs:fit/g:sm/q:90/h:584/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4OTQ1/NjA2LTE3MDA2ODY2/OTMtODc2MS5qcGVn.jpeg"
+    - "https://i.discogs.com/os0oSxO-2bzkuxp33iLXg4nSGF5WMkZQvKxcUCfbxo8/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4OTQ1/NjA2LTE3MDA2ODY2/OTMtMzY5Ny5qcGVn.jpeg"
+    - "https://i.discogs.com/RgmDvjBoiPJJijtWISGygXuSODXt3UwbGeS_1ex4tzE/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4OTQ1/NjA2LTE3MDA2ODY2/OTQtNjkwNy5qcGVn.jpeg"
+    - "https://i.discogs.com/yq9w1AmwOD_tiWi6exU4NForS1Eqqh4rC176KHmjwxQ/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4OTQ1/NjA2LTE3MDA2ODY2/OTAtMTc0MC5qcGVn.jpeg"
+    - "https://i.discogs.com/zkUhhoey1A9-Tw51VuiecPAqn1bB7e7KshMa4Qt75M8/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4OTQ1/NjA2LTE3MDA2ODY2/OTQtNjU0MS5qcGVn.jpeg"
+    - "https://i.discogs.com/QODn3-1iOIbKJRP4FSF5WWYRoZDp6J6uXOx5BetAQ2E/rs:fit/g:sm/q:90/h:311/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4OTQ1/NjA2LTE3MDA2ODY2/OTQtNTA4Mi5qcGVn.jpeg"
+    - "https://i.discogs.com/iolGneD_-1gf_GH_O9pedKjmC2G8PZzxQGfp_5bUxTo/rs:fit/g:sm/q:90/h:312/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4OTQ1/NjA2LTE3MDA2ODY2/OTMtNzA1Mi5qcGVn.jpeg"
+    - "https://i.discogs.com/jzXnmxruKI6fyEB6Np244d9y_mrPcPYWsDDNDi_RtT8/rs:fit/g:sm/q:90/h:307/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4OTQ1/NjA2LTE3MDA2ODY2/OTQtOTgyMy5qcGVn.jpeg"
+    - "https://i.discogs.com/WXi2uyKfQkFNADBbwxWRq4ZkglzzSKUalVhS8NzXd1I/rs:fit/g:sm/q:90/h:309/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4OTQ1/NjA2LTE3MDA2ODY2/OTQtODgwMC5qcGVn.jpeg"
+    - "https://i.discogs.com/YsXApK1OCNTHUeJlzDzfOOwW4sigbcA_-ZRO2Xk2x00/rs:fit/g:sm/q:90/h:308/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4OTQ1/NjA2LTE3MDA2ODY2/OTQtMTkzOS5qcGVn.jpeg"
+    - "https://i.discogs.com/UWJf3UcPm2OFlaqHVXq3RvDetYvNAy-qHU9eiPhb6EE/rs:fit/g:sm/q:90/h:589/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4OTQ1/NjA2LTE3MDA2ODY2/OTItMjg2NS5qcGVn.jpeg"
+    - "https://i.discogs.com/jk7QxCqY1bKkvWq7POYIW8Vt68dDP2FUB2lTVhIhU14/rs:fit/g:sm/q:90/h:183/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4OTQ1/NjA2LTE3MDA2ODY2/ODktMzM4Ny5qcGVn.jpeg"
 genres: ["Rock", "Folk, World, & Country"]
 styles: ["Indie Rock", "Folk"]
 ---
@@ -20,21 +34,26 @@ styles: ["Indie Rock", "Folk"]
 
 
 ## Tracklisting
-1. Section 44 (Galloping Seas)
-2.  Section 45 (Wishful, Brave, and True)
-3. Section 46 (Give Me Everything)
-4. Section 47 (Got Down to the Soul)
-5. Section 48 (Shadows on the Hillside)
-6. Section 49 (Hop Off the Fence)
-7. Section 50 (Open the Shores)
-8. Section 50 (Winds Of Summer)
-9. Section 52 (Morning Sun, I Built the Stairs)
+1. Section 44: Galloping Seas
+2. Section 45: Wishful, Brave, And True
+3. Section 46: Give Me Everything
+4. Section 47: Got Down To The Soul
+5. Section 48: Shadows On The Hillside
+6. Section 49: Hop Off The Fence
+7. Section 50: Open The Shores
+8. Section 51: Winds Of Summer
+9. Section 52: Morning Sun, I Built The Stairs
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/salvage-enterprise/1705065928" >}}<br>
 
 
+## Videos
+### The Polyphonic Spree - Galloping Seas
+{{< youtube id="LH02-WiTO_w" title="The Polyphonic Spree - Galloping Seas" >}}<br>
+### More Videos
 
+- [The Polyphonic Spree - Galloping Seas](https://www.youtube.com/watch?v=LH02-WiTO_w)
 
 ## Release Images
 {{< imageGrid >}}
@@ -42,8 +61,8 @@ styles: ["Indie Rock", "Folk"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl LP Album Limited Edition (IEX LEMON YELLOW VINYL) |
+| Format         | Vinyl LP Album Limited Edition (Yellow [Morning Sun]) |
 | Label          | Good Records |
 | Catalog Number | GRR106LP |
-| Notes | Front hype sticker advertises the band and album name, along with label name and barcode (617308061093).  Back of sleeve contains tracklist at the top and label logo in bottom left. Lemon yellow colored vinyl. |
+| Notes | Back cover lists tracks in Polyphonic Spree sequential order (e.g. Section 44: Galloping Seas). Side A label only lists the track names (e.g. Galloping Seas). |
 | Discogs URL    | [The Polyphonic Spree - Salvage Enterprise](https://www.discogs.com/release/28945606-The-Polyphonic-Spree-Salvage-Enterprise) |

@@ -34,7 +34,7 @@ styles: ["Acid Jazz", "Funk"]
 12. In The Park
 
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/the-moneyspyder/1152540522" >}}<br>
+{{< applemusic url="https://music.apple.com/gb/album/the-new-money-spyder-single/1628572492" >}}<br>
 
 
 ## Videos
@@ -49,7 +49,7 @@ styles: ["Acid Jazz", "Funk"]
 - [A Real Mean Time](https://www.youtube.com/watch?v=Op34Yg8iqB0)
 - [Onion Club](https://www.youtube.com/watch?v=qZvtNXpfl4M)
 - [The Stroll](https://www.youtube.com/watch?v=nJ7iYK3fQ28)
-- [Los Cuevos Pablo](https://www.youtube.com/watch?v=1QHD0rfFe4Q)
+- ["Los Cuevos Pablo"](https://www.youtube.com/watch?v=1QHD0rfFe4Q)
 - [Midnight Stomp](https://www.youtube.com/watch?v=w6ymg2uHJko)
 - [The James Taylor Quartet - Buzy Bee](https://www.youtube.com/watch?v=ykHYVBTqEfc)
 - [In The Park](https://www.youtube.com/watch?v=HcoAJ6S_Hg4)
@@ -72,7 +72,7 @@ styles: ["Acid Jazz", "Funk"]
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Format         | Vinyl LP Album Reissue (Clear) |
-| Label          | Acid Jazz Records |
+| Label          | Acid Jazz |
 | Catalog Number | AJXLP300C |
 | Notes | 35th anniversary issue. |
 | Discogs URL    | [The James Taylor Quartet - The Money Spyder](https://www.discogs.com/release/28740754-The-James-Taylor-Quartet-The-Money-Spyder) |

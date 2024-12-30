@@ -12,11 +12,16 @@ cover:
     alt: "I'll Be Your Girl by The Decemberists"
     caption: "I'll Be Your Girl by The Decemberists"
 additional_images:
-    - "https://i.discogs.com/X9QEfM77E-duOLJ1ye3oGTNCuMDxu9axaIsh1S38KMc/rs:fit/g:sm/q:90/h:611/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNjg1/OTE3LTE1MjA2MzU3/NTMtNTM2Ni5qcGVn.jpeg"
+    - "https://i.discogs.com/AokGQy_qyYKfXHvHVKH9iRGcACEl-xkETS8JQ_rIuTY/rs:fit/g:sm/q:90/h:600/w:588/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNjg1/OTE3LTE1MjA2MzU3/NTMtNTM2Ni5qcGVn.jpeg"
 genres: ["Rock"]
 styles: ["Indie Rock", "Folk Rock"]
 ---
 
+I'll Be Your Girl is the eighth studio album by the American indie rock band The Decemberists, released on March 16, 2018 on Capitol and Rough Trade. Produced by John Congleton, the band experimented with new instrumentation during the album's recording sessions, including several synth-based compositions inspired by New Order and Depeche Mode. The album was preceded by the singles "Severed" and "Once in My Life".
+
+
+    
+    
 
 
 ## Tracklisting
@@ -44,6 +49,7 @@ styles: ["Indie Rock", "Folk Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
+| Wikipedia URL | https://en.wikipedia.org/wiki/I%27ll_Be_Your_Girl |
 | Format         | Vinyl LP Album Limited Edition (White) |
 | Label          | Rough Trade |
 | Catalog Number | RTRADLPX906 |

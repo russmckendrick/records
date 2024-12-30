@@ -42,7 +42,12 @@ The band toured the UK and Europe for one year to promote the album, which raise
 {{< applemusic url="https://music.apple.com/gb/album/nursery-cryme-2007-stereo-mix/294810977" >}}<br>
 
 
+## Videos
+### Genesis - 1st UK press vinyl - Nursery cryme - side 1
+{{< youtube id="CxqtJvWDAYs" title="Genesis - 1st UK press vinyl - Nursery cryme - side 1" >}}<br>
+### More Videos
 
+- [Genesis - 1st UK press vinyl - Nursery Cryme - side 2](https://www.youtube.com/watch?v=_qPXJIIFQS4)
 
 ## Release Images
 {{< imageGrid >}}

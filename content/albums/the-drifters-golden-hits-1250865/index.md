@@ -15,11 +15,15 @@ additional_images:
     - "https://i.discogs.com/gdEpV42l41UENDV-gGfm1xYxVLU8VvD4R4XDqpeCu94/rs:fit/g:sm/q:90/h:298/w:300/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNTA4/NjUtMTI0NzMwMzMx/MC5qcGVn.jpeg"
     - "https://i.discogs.com/59gCdKQ--VsXxuX92_bWEApTklC-Xwrve8NMbqDGskc/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNTA4/NjUtMTYyMTA3MzAx/OC00OTQ1LmpwZWc.jpeg"
     - "https://i.discogs.com/FBlR5TkCQoOl4TTqkfgL5hgVgW-VhoWMEeqXc9lqSTA/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNTA4/NjUtMTYyMTA3MzAy/My03Mjk1LmpwZWc.jpeg"
-    - "https://i.discogs.com/_P0oWmGQj0P8MKd1d-uBSQ5PWiWUe-53PKqj6vLo_74/rs:fit/g:sm/q:90/h:606/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNTA4/NjUtMTYyMTA3MzAy/OC05NDUxLmpwZWc.jpeg"
+    - "https://i.discogs.com/QZQ22fRiB-fLkrWvxI9vKUaK3WZmfzAGzlnW-hv0tnI/rs:fit/g:sm/q:90/h:600/w:593/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNTA4/NjUtMTYyMTA3MzAy/OC05NDUxLmpwZWc.jpeg"
 genres: ["Rock", "Funk / Soul"]
 styles: ["Rhythm & Blues", "Soul"]
 ---
 
+The Drifters' Golden Hits is a 1968 compilation album by American doo wop/R&B vocal group The Drifters. The collection of the bands' later hits charted at #22 on Billboard's "Black Albums" chart and at #122 on the "Pop Albums" chart.
+The album was included in Robert Christgau's "Basic Record Library" of 1950s and 1960s recordings, published in Christgau's Record Guide: Rock Albums of the Seventies (1981). In 2012, Rolling Stone listed the album at #459 in its list of "Rolling Stone's 500 Greatest Albums of All Time". Originally released on the Atlantic label, the album has been re-released on CD by Atlantic.  A Drifters' compilation by the same name was released by Intercontinental records in 1996, but it has a different track listing.
+    
+    
 
 
 ## Tracklisting
@@ -41,19 +45,22 @@ styles: ["Rhythm & Blues", "Soul"]
 
 
 ## Videos
-### The Drifters - Saturday Night At The Movies
-{{< youtube id="yIkjFhoW2ns" title="The Drifters - Saturday Night At The Movies" >}}<br>
+### The Drifters´ - Golden Hits (FULL ALBUM)
+{{< youtube id="3Lo5pfq3TVk" title="The Drifters´ - Golden Hits (FULL ALBUM)" >}}<br>
 ### More Videos
 
-- [The Drifters - Up on the Roof - Stereo LP - HQ](https://www.youtube.com/watch?v=K6RyTRCK-CM)
-- [This Magic Moment](https://www.youtube.com/watch?v=a4PPUp6XS5I)
-- [I Count The Tears --The Drifters](https://www.youtube.com/watch?v=b-D4SqUDS0M)
-- [The Drifters - On Broadway (1963)](https://www.youtube.com/watch?v=o_djfcdMSG0)
-- [The Drifters  There Goes My Baby](https://www.youtube.com/watch?v=ehFWRG5gHyI)
-- [The Drifters - Under the Boardwalk - Stereo LP - HQ](https://www.youtube.com/watch?v=PAIiYJQNSnY)
-- [The Drifters - I've Got Sand In My Shoes - Stereo LP - HQ](https://www.youtube.com/watch?v=dWoC8puTaoM)
-- [1959 HITS ARCHIVE: (If You Cry) True Love, True Love - Drifters](https://www.youtube.com/watch?v=oRpkU1e_LYk)
-- [The Drifters - On Broadway - Stereo LP - HQ](https://www.youtube.com/watch?v=KUMvG0yNPtY)
+- [There Goes My Baby (Mono)](https://www.youtube.com/watch?v=jQH1TofwSlI)
+- [[If You Cry] True Love, True Love [Mono]](https://www.youtube.com/watch?v=oGntIZ0CqSA)
+- [Dance With Me (Mono)](https://www.youtube.com/watch?v=cwujE7yoeSU)
+- [This Magic Moment (Mono)](https://www.youtube.com/watch?v=i0xelMht57w)
+- [Save The Last Dance For Me (Mono)](https://www.youtube.com/watch?v=FXmpIniHFiE)
+- [I Count The Tears (Mono)](https://www.youtube.com/watch?v=J59jH6N_b9w)
+- [Some Kind Of Wonderful (Mono)](https://www.youtube.com/watch?v=6YXZibnWTNo)
+- [Up On The Roof (Mono)](https://www.youtube.com/watch?v=NuQgkasBZbA)
+- [On Broadway (Mono)](https://www.youtube.com/watch?v=kxciHu8iY2A)
+- [Under the Boardwalk](https://www.youtube.com/watch?v=PSddD6w5SKc)
+- [I've Got Sand In My Shoes (Mono)](https://www.youtube.com/watch?v=_-bMtWogtMs)
+- [Saturday Night At The Movies (Mono)](https://www.youtube.com/watch?v=R251pbb6ZgY)
 
 ## Release Images
 {{< imageGrid >}}
@@ -61,6 +68,7 @@ styles: ["Rhythm & Blues", "Soul"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
+| Wikipedia URL | https://en.wikipedia.org/wiki/The_Drifters%27_Golden_Hits |
 | Format         | Vinyl LP Compilation Reissue |
 | Label          | Atlantic |
 | Catalog Number | K 40018 |

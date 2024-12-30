@@ -12,10 +12,10 @@ cover:
     alt: "Karmadrome / Eat Me! Drink Me! Love Me! Kill Me! by Pop Will Eat Itself"
     caption: "Karmadrome / Eat Me! Drink Me! Love Me! Kill Me! by Pop Will Eat Itself"
 additional_images:
-    - "https://i.discogs.com/SZu6DaaaLLsegVZeH12YH7Zainv112kRhH-8ywY-qhc/rs:fit/g:sm/q:90/h:611/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkzODA3/OC0xNDMzNjYwMzEz/LTExMTMuanBlZw.jpeg"
-    - "https://i.discogs.com/f4K5T_Mif0mSt-5VdnM9AWCpGvfkt7k6Jo1zXF40Zjo/rs:fit/g:sm/q:90/h:609/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkzODA3/OC0xNDMzNjYwMzEx/LTE5ODEuanBlZw.jpeg"
-    - "https://i.discogs.com/AGk-6A_cKIYktI3K7oUG4TOanAIQOF7tQ9TpDVKAabA/rs:fit/g:sm/q:90/h:607/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkzODA3/OC0xNDMzNjYwMzEy/LTk2NzguanBlZw.jpeg"
-    - "https://i.discogs.com/wPXeCnRhE8WAHer4cJdVI9ImLgA6X6Ug_fFNgyDeEOA/rs:fit/g:sm/q:90/h:606/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkzODA3/OC0xNDMzNjYwMzE0/LTc2MDkuanBlZw.jpeg"
+    - "https://i.discogs.com/Ms6IHzFp3GoS38hapxofoPwT3KkRdrFB6byFa1cyV_o/rs:fit/g:sm/q:90/h:600/w:589/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkzODA3/OC0xNDMzNjYwMzEz/LTExMTMuanBlZw.jpeg"
+    - "https://i.discogs.com/zZVLjk9I_ZhqF1Hkfhu0YOhVICdsQT5FbAhB-zbh0Sw/rs:fit/g:sm/q:90/h:600/w:591/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkzODA3/OC0xNDMzNjYwMzEx/LTE5ODEuanBlZw.jpeg"
+    - "https://i.discogs.com/q0SmPj1xlmBGVl1roekaqkek6e0CZGglXekRLf12_Bg/rs:fit/g:sm/q:90/h:600/w:593/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkzODA3/OC0xNDMzNjYwMzEy/LTk2NzguanBlZw.jpeg"
+    - "https://i.discogs.com/ItIZdWjhnDxaqG5mLQmROB0axtHZM06z_jx91ZoY4Uw/rs:fit/g:sm/q:90/h:600/w:594/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkzODA3/OC0xNDMzNjYwMzE0/LTc2MDkuanBlZw.jpeg"
 genres: ["Electronic", "Rock"]
 styles: ["Synth-pop", "Indie Rock"]
 ---
@@ -29,14 +29,12 @@ styles: ["Synth-pop", "Indie Rock"]
 
 
 ## Videos
-### Eat Me, Drink Me, Love Me, Kill Me
-{{< youtube id="myZgDBe95L4" title="Eat Me, Drink Me, Love Me, Kill Me" >}}<br>
+### Pop Will Eat Itself - Eat Me, Drink Me, Dub Me, Kill Me
+{{< youtube id="4yCr14ftc38" title="Pop Will Eat Itself - Eat Me, Drink Me, Dub Me, Kill Me" >}}<br>
 ### More Videos
 
 - [Pop Will Eat Itself - Karmadrome](https://www.youtube.com/watch?v=2YwfFFcNC9o)
-- [Pop Will Eat Itself - Eat Me Drink Me Love Me Kill Me](https://www.youtube.com/watch?v=ZhWznez7aGY)
-- [Pop Will Eat Itself- Karmadrome](https://www.youtube.com/watch?v=8t2Qf8ZAG2M)
-- [pop will eat itself ~ eat me drink me love me kill me](https://www.youtube.com/watch?v=QVhbm6RPcLM)
+- [Eat Me, Drink Me, Love Me, Kill Me](https://www.youtube.com/watch?v=myZgDBe95L4)
 
 ## Release Images
 {{< imageGrid >}}

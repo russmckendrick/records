@@ -38,11 +38,11 @@ No other band creates symphonic textures quite like Sigur Rós. The Icelandic gr
 
 
 ## Videos
-### Sigur Rós - Varúð [Official Music Video]
-{{< youtube id="Gf1h2PMPCAo" title="Sigur Rós - Varúð [Official Music Video]" >}}<br>
+### Sigur Rós - Valtari [Full Album Stream]
+{{< youtube id="jQi77xni1p8" title="Sigur Rós - Valtari [Full Album Stream]" >}}<br>
 ### More Videos
 
-- [Sigur Rós - Valtari [Full Album Stream]](https://www.youtube.com/watch?v=jQi77xni1p8)
+- [Sigur Rós - Varúð [Official Music Video]](https://www.youtube.com/watch?v=Gf1h2PMPCAo)
 
 ## Release Images
 {{< imageGrid >}}
@@ -54,4 +54,4 @@ No other band creates symphonic textures quite like Sigur Rós. The Icelandic gr
 | Label          | Krúnk |
 | Catalog Number | KRUNK61LP |
 | Notes | Limited standard black vinyl edition. Side B runout is a locked groove.  Barcode sticker on shrink, lower right corner.  ℗ 2012 the copyright in this sound recording is owned by Sigur Rós under exclusive license to Krúnk.  © 2021 Krúnk. Published by Universal Music Publishing. |
-| Discogs URL    | [Sigur Rós - Valtari](https://www.discogs.com/release/19148089-Sigur-R%C3%B3s-Valtari) |
+| Discogs URL    | [Sigur Rós - Valtari](https://www.discogs.com/release/19148089-Sigur-Rós-Valtari) |

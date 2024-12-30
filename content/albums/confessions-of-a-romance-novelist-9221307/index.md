@@ -13,13 +13,18 @@ cover:
     caption: "Confessions Of A Romance Novelist by The Anchoress"
 additional_images:
     - "https://i.discogs.com/GkueBvTAm1R6FyFJ9TJKJGFmMOqNXzFVFGnYEjLYdJg/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkyMjEz/MDctMTQ3ODU0OTk2/Ny0yNjQzLmpwZWc.jpeg"
-    - "https://i.discogs.com/b7zVS2ofT8IkWRRhbHiaXsdeLBL_0DAiYNugkGuC92I/rs:fit/g:sm/q:90/h:601/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkyMjEz/MDctMTQ3ODU0OTk2/OS01OTk5LmpwZWc.jpeg"
-    - "https://i.discogs.com/V0jd-zKfehQn_9ML8ZlRsP5IEfBdC0Ue5j7CtF8LmQE/rs:fit/g:sm/q:90/h:617/w:490/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkyMjEz/MDctMTY0Njk3NTY0/MC0zMzQzLmpwZWc.jpeg"
+    - "https://i.discogs.com/deZcSHXZ2siyvkUeXDZQXTwQF73sFR6edva98i-0G3E/rs:fit/g:sm/q:90/h:600/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkyMjEz/MDctMTQ3ODU0OTk2/OS01OTk5LmpwZWc.jpeg"
+    - "https://i.discogs.com/wpuEH7cKR0ftZNie7w4J-QHFwOJ8SGdGxk77CeoUQcg/rs:fit/g:sm/q:90/h:600/w:476/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkyMjEz/MDctMTY0Njk3NTY0/MC0zMzQzLmpwZWc.jpeg"
 genres: ["Rock"]
 styles: ["Indie Rock", "Art Rock"]
 ---
 
-Confessions of a Romance Novelist is the debut album from The Anchoress aka Catherine Anne Davies. Released on 15 January 2016, the album received a favourable critique from The Guardian.The album was named amongst the Guardian critics' Albums of the Year, won HMV's Welsh Album of the Year, Best Newcomer at the PROG awards, and a nomination for Welsh Music Prize.Mojo described Davies as being in possession of "a devastatingly powerful voice". The Observer called it "a blackly witty break up album...compelling", while PROG magazine described the record as "Kate Bush’s Hounds Of Love updated for the 21st century".On the album, Catherine plays a variety of instruments, including piano, guitar, flute, omnichord, mellotron, wurlitzer, glockenspiel, and celeste, as well as sampling church bells, and an orchestra of typewriters.
+Confessions of a Romance Novelist is the debut album from The Anchoress aka Catherine Anne Davies. Released on 15 January 2016, the album received a favourable critique from The Guardian.
+The album was named amongst the Guardian critics' Albums of the Year, won HMV's Welsh Album of the Year, Best Newcomer at the PROG awards, and a nomination for Welsh Music Prize.
+Mojo described Davies as being in possession of "a devastatingly powerful voice". The Observer called it "a blackly witty break up album...compelling", while PROG magazine described the record as "Kate Bush’s Hounds Of Love updated for the 21st century".
+On the album, Catherine plays a variety of instruments, including piano, guitar, flute, omnichord, mellotron, wurlitzer, glockenspiel, and celeste, as well as sampling church bells, and an orchestra of typewriters.
+
+
     
     
 
@@ -47,10 +52,12 @@ Confessions of a Romance Novelist is the debut album from The Anchoress aka Cath
 
 
 ## Videos
-### Confessions of a Romance Novelist
-{{< youtube id="6ul6hypmC30" title="Confessions of a Romance Novelist" >}}<br>
+### The Anchoress - Doesn't Kill You (from Confessions of a Romance Novelist)
+{{< youtube id="Z2FXZeJED2w" title="The Anchoress - Doesn't Kill You (from Confessions of a Romance Novelist)" >}}<br>
 ### More Videos
 
+- [The Anchoress - Popular (from Confessions of a Romance Novelist)](https://www.youtube.com/watch?v=K7TK2k1jtjw)
+- [Confessions of a Romance Novelist](https://www.youtube.com/watch?v=6ul6hypmC30)
 - [The Anchoress - Doesn't Kill You (from Confessions of a Romance Novelist)](https://www.youtube.com/watch?v=Z2FXZeJED2w)
 - [The Anchoress - Popular (from Confessions of a Romance Novelist)](https://www.youtube.com/watch?v=K7TK2k1jtjw)
 

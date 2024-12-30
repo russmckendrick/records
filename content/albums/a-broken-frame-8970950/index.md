@@ -4,7 +4,6 @@ artist_name: "Depeche Mode"
 artist: "depeche-mode"
 album_name: "A Broken Frame"
 date: 2017-02-20T19:08:15.000000Z
-release_date: "1982-09-27"
 release_id: "8970950"
 slug: "a-broken-frame-8970950"
 hideSummary: true
@@ -13,7 +12,7 @@ cover:
     alt: "A Broken Frame by Depeche Mode"
     caption: "A Broken Frame by Depeche Mode"
 additional_images:
-    - "https://i.discogs.com/Ft3xjyNK-Wi491p0b31dOJe46SSKOS7xnBUKo5Q7750/rs:fit/g:sm/q:90/h:601/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg5NzA5/NTAtMTYzODc3NDAy/Ny0yNjcyLmpwZWc.jpeg"
+    - "https://i.discogs.com/VE_Jrp2TyojOuCMEkylkdOuPceTY8_j3M21LdYq_ysU/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg5NzA5/NTAtMTYzODc3NDAy/Ny0yNjcyLmpwZWc.jpeg"
     - "https://i.discogs.com/9LwC5nt7pUPDvONYaecXY2L19TUZxOw5LdNA_A6dkRg/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg5NzA5/NTAtMTYzODc3NDAz/MC03MzUyLmpwZWc.jpeg"
     - "https://i.discogs.com/O8wGdRuxHGiVXvFBfxKh1V72B0ePFDEJbRgC-9HW2-E/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg5NzA5/NTAtMTYzODc3NDAz/MC05NzUxLmpwZWc.jpeg"
     - "https://i.discogs.com/fpBR6qUomCAjuqwqYcniPDU-RRB5KUojuS-EfiLodQs/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg5NzA5/NTAtMTYzODc3NDAz/MC0yODE5LmpwZWc.jpeg"
@@ -25,9 +24,11 @@ genres: ["Electronic", "Pop"]
 styles: ["Synth-pop"]
 ---
 
-With Vince Clarke departed and Martin Gore in the songwriter’s chair, <i>A Broken Frame</i> is Depeche Mode exploring their sound with impressive assurance. “The Meaning of Love” and “A Photograph of You” maintain the energy and infectiousness of <i>Speak & Spell</i>, but “See You” leads its pop hook down a dark alley of a heartbreak. “Satellite” investigates electro-dub and, at the album’s most ambitious, “Shouldn’t Have Done That” examines the evolution of dictators with unsettling harmonies and marching jackboots.
-        
-        
+A Broken Frame is the second studio album by English electronic music band Depeche Mode, released on 27 September 1982 by Mute Records. The album was written entirely by Martin Gore and was recorded as a trio after the departure of Vince Clarke, who had left and formed Yazoo with singer Alison Moyet. Alan Wilder was part of a second band tour in the United Kingdom prior to the release of A Broken Frame, but had not officially joined yet and does not appear on the album.
+The album reached number eight on the UK Albums Chart and was promoted by the singles "See You", "The Meaning of Love" and "Leave in Silence".
+
+
+    
     
 
 
@@ -44,7 +45,7 @@ With Vince Clarke departed and Martin Gore in the songwriter’s chair, <i>A Bro
 10. The Sun & The Rainfall
 
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/a-broken-frame-deluxe/665404834" >}}<br>
+{{< applemusic url="https://music.apple.com/gb/album/a-broken-frame/665410900" >}}<br>
 
 
 

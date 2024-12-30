@@ -14,15 +14,18 @@ cover:
 additional_images:
     - "https://i.discogs.com/d1qlk3MLQ9usati65pXQhLjK9sOcay2uV3o7hNtLj6A/rs:fit/g:sm/q:90/h:570/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY5MDA0/MTMtMTQ1MDUzNDE0/MS01ODc5LmpwZWc.jpeg"
     - "https://i.discogs.com/KvjObbo9uMSYPhmNWA_5AgcbAyOM5VKtLEc0AFg99_Y/rs:fit/g:sm/q:90/h:570/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY5MDA0/MTMtMTQ1MDUzNDE0/My05ODQwLmpwZWc.jpeg"
-    - "https://i.discogs.com/dzQJLh8JUS7p7xOevkawtfmV1MPS72aTanFwEWy0rxg/rs:fit/g:sm/q:90/h:602/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY5MDA0/MTMtMTU2NTgwOTE1/MC04MTE5LmpwZWc.jpeg"
+    - "https://i.discogs.com/md-jRXZeA-gUdeBvliIj-UJMQ2euQ1-aIXDYa1-Gq84/rs:fit/g:sm/q:90/h:600/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY5MDA0/MTMtMTU2NTgwOTE1/MC04MTE5LmpwZWc.jpeg"
     - "https://i.discogs.com/G4Npx4WLQAfK7nVT6KoS5rMhQVOX3xe7sNaHXkBzfPg/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY5MDA0/MTMtMTU2NTgwOTE1/MC0yNzQ2LmpwZWc.jpeg"
-    - "https://i.discogs.com/EWB7D-0tjk-T68Ep3iW5x2FTeRokLovBA_tawlsYRKo/rs:fit/g:sm/q:90/h:867/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY5MDA0/MTMtMTQ1MDUzNDEx/Mi03NzgyLmpwZWc.jpeg"
+    - "https://i.discogs.com/HSOYE0yzkIkJpOBlTRSvKzMND1PJU5U9kdEXGNvLagc/rs:fit/g:sm/q:90/h:600/w:414/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY5MDA0/MTMtMTQ1MDUzNDEx/Mi03NzgyLmpwZWc.jpeg"
 genres: ["Rock"]
 styles: ["Alternative Rock"]
 ---
 
-Under the Pink is the second studio album by singer-songwriter Tori Amos. Upon its release in January 1994, the album debuted atop the UK Albums Chart on the back of the hit single "Cornflake Girl", and peaked at number 12 in the US.The album was certified double Platinum in the US by the RIAA in October 1999, for sales exceeding 2 million copies. It was the 61st highest-selling album of 1994 in the UK and was certified platinum by the BPI in February 2007, for sales exceeding 300,000 copies.
+Under the Pink is the second studio album by singer-songwriter Tori Amos. Upon its release in January 1994, the album debuted atop the UK Albums Chart on the back of the hit single "Cornflake Girl", and peaked at number 12 in the US.
+The album was certified double Platinum in the US by the RIAA in October 1999, for sales exceeding 2 million copies. It was the 61st highest-selling album of 1994 in the UK and was certified platinum by the BPI in February 2007, for sales exceeding 300,000 copies.
 Under the Pink was included in Blender magazine's list of 500 CDs You Must Own, and was voted among the greatest albums of the 1990s by Rolling Stone magazine some years later.  A special double-disc tour edition was released exclusively in Australia and New Zealand in November 1994, titled More Pink: The B-Sides.
+
+
     
     
 
@@ -50,10 +53,37 @@ Under the Pink was included in Blender magazine's list of 500 CDs You Must Own, 
 {{< youtube id="cN3rzi7dZVQ" title="Tori Amos - God (Official Music Video)" >}}<br>
 ### More Videos
 
-- [Tori Amos - Pretty Good Year (Official Music Video)](https://www.youtube.com/watch?v=xr8auZq-Xn8)
-- [Tori Amos - Past the Mission (Official Music Video)](https://www.youtube.com/watch?v=AdIgXD1-93U)
+- [Cornflake Girl (2015 Remaster)](https://www.youtube.com/watch?v=S9F1axV6TeA)
 - [Tori Amos - Cornflake Girl (US Version) (Official Music Video)](https://www.youtube.com/watch?v=w_HA5Czhtx4)
 - [Tori Amos - Cornflake Girl (UK Version) (Official Music Video)](https://www.youtube.com/watch?v=mVSuSsoXABQ)
+- [Tori Amos - Pretty Good Year (Official Music Video)](https://www.youtube.com/watch?v=xr8auZq-Xn8)
+- [Tori Amos - Past the Mission (Official Music Video)](https://www.youtube.com/watch?v=AdIgXD1-93U)
+- [Pretty Good Year (2015 Remaster)](https://www.youtube.com/watch?v=8aoNzZpJbFI)
+- [God (2015 Remaster)](https://www.youtube.com/watch?v=5-MmyopVWog)
+- [Bells for Her (2015 Remaster)](https://www.youtube.com/watch?v=YWIvvDjOt-A)
+- [Past the Mission (2015 Remaster)](https://www.youtube.com/watch?v=enc-DG5kkDU)
+- [Baker Baker (2015 Remaster)](https://www.youtube.com/watch?v=ORgf6tz__pQ)
+- [The Wrong Band (2015 Remaster)](https://www.youtube.com/watch?v=JnA4NXjFWKs)
+- [The Waitress (2015 Remaster)](https://www.youtube.com/watch?v=OTIL9hQb6eI)
+- [Icicle (2015 Remaster)](https://www.youtube.com/watch?v=5jToT-q9Zww)
+- [Cloud on My Tongue (2015 Remaster)](https://www.youtube.com/watch?v=w9UzNDyWRyY)
+- [Space Dog (2015 Remaster)](https://www.youtube.com/watch?v=3cMQcOtETGk)
+- [Yes, Anastasia (2015 Remaster)](https://www.youtube.com/watch?v=LUazhfLiG6U)
+- [Sister Janet (2015 Remaster)](https://www.youtube.com/watch?v=qF_ckz7FfnI)
+- [Tori Amos - "Honey" [Official Audio]](https://www.youtube.com/watch?v=l-xiDBJfLEY)
+- [Daisy Dead Petals (2015 Remaster)](https://www.youtube.com/watch?v=xh0hmPb8-WU)
+- [Over It (2015 Remaster)](https://www.youtube.com/watch?v=oKKwB2a9Tvo)
+- [Black Swan (2015 Remaster)](https://www.youtube.com/watch?v=sOsnlXIW094)
+- [Home on the Range (Cherokee Addition) (2015 Remaster)](https://www.youtube.com/watch?v=ltr68JGRi4I)
+- [All the Girls Hate Her (2015 Remaster)](https://www.youtube.com/watch?v=CgZehKAe_0A)
+- [God (The C J Bolland Remix) (2015 Remaster)](https://www.youtube.com/watch?v=DYKQziLOVoc)
+- [Here, in My Head (Live at Colston Hall, Bristol, UK, 3/7/1994) (2015 Remaster)](https://www.youtube.com/watch?v=LSr4NPpLH7U)
+- [Upside Down (Live) (2015 Remaster)](https://www.youtube.com/watch?v=FYin19umjgU)
+- [Past the Mission (Live at Vic Theatre, Chicago, IL, 3/24/1994) (2015 Remaster)](https://www.youtube.com/watch?v=8n4aUSVh6H8)
+- [Icicle (Live at Wadsworth Theatre, Los Angeles, CA, 3/22/1994) (2015 Remaster)](https://www.youtube.com/watch?v=I-1j22NL_K0)
+- [Flying Dutchman (Live at Vic Theatre, Chicago, IL, 3/24/1994) (2015 Remaster)](https://www.youtube.com/watch?v=HGS2mjFXJ7A)
+- [Winter (Live at Free Trade Hall, Manchester, UK, 3/1/1994) (2015 Remaster)](https://www.youtube.com/watch?v=lVFyTqblF7g)
+- [The Waitress (Live at the Sanders Theatre, Boston, MA, 3/31/1994) (2015 Remaster)](https://www.youtube.com/watch?v=3eXmMrshsxk)
 
 ## Release Images
 {{< imageGrid >}}

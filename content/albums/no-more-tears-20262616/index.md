@@ -20,14 +20,16 @@ additional_images:
     - "https://i.discogs.com/DCehkglLPGehz9e4rUlzfBujEUpvm1tCR-YWHQMz3xs/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMjYy/NjE2LTE2MzQwNDI0/ODMtNTQyNi5qcGVn.jpeg"
     - "https://i.discogs.com/PV1CfuxC0j0aMi-9NpRuoeA7Lv-MloRsrZJtHCT51kA/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMjYy/NjE2LTE2MzQwNDI0/ODktMzcwNi5qcGVn.jpeg"
     - "https://i.discogs.com/PPWveVW6mXqoNwbWo54kHaMojkQO4Z1fsMaFZ097YBs/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMjYy/NjE2LTE2MzQwNDI0/OTAtNDQwMS5qcGVn.jpeg"
-    - "https://i.discogs.com/6vAN87Bmj2PFjaVgS8hzly0f-MG1NJj1vVXvlErSH10/rs:fit/g:sm/q:90/h:745/w:587/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMjYy/NjE2LTE2MzQwNDI0/OTYtMzY0Ni5qcGVn.jpeg"
+    - "https://i.discogs.com/zPqwfcLkrceA35SmTJpUKOiUloeZhndi81r6nEQEgUs/rs:fit/g:sm/q:90/h:600/w:472/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMjYy/NjE2LTE2MzQwNDI0/OTYtMzY0Ni5qcGVn.jpeg"
     - "https://i.discogs.com/Nf3JSLEvDqjQVxs3STSxpY4wpU0qRw4qT0QrlUCl2TA/rs:fit/g:sm/q:90/h:562/w:596/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMjYy/NjE2LTE2MzQwNDI0/OTYtNTE1NC5qcGVn.jpeg"
     - "https://i.discogs.com/B26MByVIK2ZRuirr-Bd9VHRWmsX0xmMD4N0Qd-H070I/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMjYy/NjE2LTE2MzQwNDI0/NjAtNjEwMi5qcGVn.jpeg"
 genres: ["Rock"]
 styles: ["Heavy Metal", "Hard Rock"]
 ---
 
-"No More Tears" is the fifth song and title track on the 1991 Ozzy Osbourne album of the same name. With a running time of 7:23, it is the longest solo song that Osbourne has ever recorded on a studio album. It reached number five on the U.S. Mainstream Rock Tracks chart, number 71 on the Billboard Hot 100, number 17 on the Dutch Top 40 chart and number 32 on the UK Singles Chart.
+"No More Tears" is the fifth song and title track on the 1991 Ozzy Osbourne album No More Tears. It reached number five on the U.S. Mainstream Rock Tracks chart, number 71 on the Billboard Hot 100, number 17 on the Dutch Top 40 chart and number 32 on the UK Singles Chart.
+
+
     
     
 
@@ -46,15 +48,13 @@ styles: ["Heavy Metal", "Hard Rock"]
 11. Road To Nowhere (5:09)
 
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/no-more-tears-30th-anniversary-expanded-edition/1585398360" >}}<br>
+{{< applemusic url="https://music.apple.com/gb/album/no-more-tears/1620628762" >}}<br>
 
 
 ## Videos
-### OZZY OSBOURNE - No More Tears (Official Video)
-{{< youtube id="CprfjfN5PRs" title="OZZY OSBOURNE - No More Tears (Official Video)" >}}<br>
-### More Videos
+### Ozzy Osbourne - No More Tears (Official Audio)
+{{< youtube id="mX_8p7NaibQ" title="Ozzy Osbourne - No More Tears (Official Audio)" >}}<br>
 
-- [OZZY OSBOURNE - Mama, I'm Coming Home (Official Video)](https://www.youtube.com/watch?v=K0siYUjV9UM)
 
 ## Release Images
 {{< imageGrid >}}

@@ -20,7 +20,10 @@ genres: ["Reggae"]
 styles: []
 ---
 
-Cliff Hanger is an album by Jimmy Cliff, released in 1985 through CBS Records. In 1986, the album won Cliff the Grammy Award for Best Reggae Recording.The album featured collaborations with members of Kool and the Gang and included two songs co-written by La Toya Jackson.
+Cliff Hanger is an album by Jimmy Cliff, released in 1985 through CBS Records. In 1986, the album won Cliff the Grammy Award for Best Reggae Recording.
+The album featured collaborations with members of Kool and the Gang and included two songs co-written by La Toya Jackson.
+
+
     
     
 
@@ -41,23 +44,7 @@ Cliff Hanger is an album by Jimmy Cliff, released in 1985 through CBS Records. I
 {{< applemusic url="https://music.apple.com/gb/album/cliff-hanger/185867129" >}}<br>
 
 
-## Videos
-### Reggae Street
-{{< youtube id="rDqRo2ecJ0o" title="Reggae Street" >}}<br>
-### More Videos
 
-- [Jimmy Cliff - Hitting with music](https://www.youtube.com/watch?v=9MUVvz1D-E8)
-- [Arrival](https://www.youtube.com/watch?v=sLItI0wpSUI)
-- [1985 Jimmy Cliff ‎– Cliff Hanger Completo](https://www.youtube.com/watch?v=52eWzKeAWvo)
-- [Jimmy Cliff - Hot Shot](https://www.youtube.com/watch?v=e-Xiw5VDc0c)
-- [Nuclear War](https://www.youtube.com/watch?v=nxfrxf5xlXk)
-- [Brown Eyes](https://www.youtube.com/watch?v=hgLPuPGVnKg)
-- [Now and Forever](https://www.youtube.com/watch?v=7sa0qERzrqk)
-- [Dead And Awake](https://www.youtube.com/watch?v=WQhhLrtQ17o)
-- [American Sweet](https://www.youtube.com/watch?v=Kr2oluPDzp0)
-- [Hitting With Music](https://www.youtube.com/watch?v=x-Mh314H3sg)
-- [Jimmy Cliff, Sunrise (Reggae)](https://www.youtube.com/watch?v=r4qskFuW8_c)
-- [jimmy Cliff - American Sweet (Showbizzquizz 1985)](https://www.youtube.com/watch?v=BTiz15PZiI8)
 
 ## Release Images
 {{< imageGrid >}}

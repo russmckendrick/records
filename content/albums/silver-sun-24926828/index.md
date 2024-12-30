@@ -21,8 +21,8 @@ genres: ["Rock"]
 styles: ["Power Pop", "Indie Rock", "Alternative Rock"]
 ---
 
-Silver Sun is the debut full album by the British power pop band Silver Sun.  It was released in May 1997 on Polydor Records and was produced by Nigel Godrich.
-Changing their name from Sun, under which their debut EP had been released, their debut studio album was released under the name Silver Sun.  The album received critical acclaim, but had limited chart success, reaching #30 in the UK Album Chart.  Four singles were released from the album; "Lava", "Last Day", "Golden Skin" and "Julia", of which, only "Golden Skin" and "Lava" reached the UK Top 40.  "Golden Skin" was used in the soundtrack of the British romantic comedy film Shooting Fish which was released the same year as the album.[1]
+Silver Sun is the debut album by the British power pop band Silver Sun. It was released in May 1997 on Polydor Records and was produced by Nigel Godrich. Godrich said: "They're a great band, they're really quirky, but the guy writes loads of serious three minute pop songs with Beach Boys backing vocals. He did these demos that got him the deal on his home 8-track, and they just sound ridiculously over the top, messy but in a great way, really trashy and dirty. So the brief was to try and recreate that, as well as just to sort of bring it back into listenable territory, and I think we did it quite well."
+Changing their name from Sun, under which their debut EP had been released, their debut studio album was released under the name Silver Sun.  The album received critical acclaim, but had limited chart success, reaching No. 30 in the UK Album Chart.  Four singles were released from the album; "Lava", "Last Day", "Golden Skin" and "Julia", of which, only "Golden Skin" and "Lava" reached the UK Top 40.  "Golden Skin" was used in the soundtrack of the British romantic comedy film Shooting Fish which was released the same year as the album.[1]
     
     
 
@@ -45,7 +45,7 @@ Changing their name from Sun, under which their debut EP had been released, thei
 15. Animals Feets
 
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/silver-sun/1276092987" >}}<br>
+{{< applemusic url="https://music.apple.com/gb/album/b-is-for-silver-sun/1518621330" >}}<br>
 
 
 ## Videos

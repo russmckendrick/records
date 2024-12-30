@@ -49,6 +49,12 @@ styles: []
 - [DJ Format & Abdominal - Behind the Scenes (Official Video)](https://www.youtube.com/watch?v=sAdJpm1gchA)
 - [DJ Format & Abdominal - Dirt (Official Video)](https://www.youtube.com/watch?v=LrEta1txJY4)
 - [DJ Format & Abdominal - We're Back](https://www.youtube.com/watch?v=yPJlNs-8ERk)
+- [DJ Format & Abdominal - We Say](https://www.youtube.com/watch?v=rvbrRYUpRoA)
+- [DJ Format & Abdominal - Diamond Hammer](https://www.youtube.com/watch?v=WbWnJbfsbNI)
+- [DJ Format & Abdominal - Still Hungry](https://www.youtube.com/watch?v=Ktj_Zvyy6qw)
+- [DJ Format & Abdominal - Behind the Scenes (Official Video)](https://www.youtube.com/watch?v=sAdJpm1gchA)
+- [DJ Format & Abdominal - Dirt (Official Video)](https://www.youtube.com/watch?v=LrEta1txJY4)
+- [DJ Format & Abdominal - We're Back](https://www.youtube.com/watch?v=yPJlNs-8ERk)
 
 ## Release Images
 {{< imageGrid >}}
@@ -57,6 +63,6 @@ styles: []
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Format         | Vinyl LP Album |
-| Label          | AAF |
+| Label          | AAF Records (2) |
 | Catalog Number | AAF003LP |
 | Discogs URL    | [DJ Format - Still Hungry](https://www.discogs.com/release/10119644-DJ-Format-Abdominal-Still-Hungry) |

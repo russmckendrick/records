@@ -44,21 +44,18 @@ Six is the second album by English alternative rock band Mansun, released in Sep
 13. Being A Girl (7:59)
 
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/six-remastered/1584319613" >}}<br>
+{{< applemusic url="https://music.apple.com/gb/album/six/1770063407" >}}<br>
 
 
 ## Videos
-### Mansun - Six
-{{< youtube id="RxbHvLgNl_4" title="Mansun - Six" >}}<br>
+### Six - Mansun (Long Album Version)
+{{< youtube id="xSyl89ltv5Y" title="Six - Mansun (Long Album Version)" >}}<br>
 ### More Videos
 
-- [M̲a̲n̲s̲u̲n̲̲ - S̲i̲x̲](https://www.youtube.com/watch?v=F0P1JxLWHiA)
-- [Mansun - Six official promo video (HQ)](https://www.youtube.com/watch?v=DxZnqSDXZjw)
-- [Mansun - Legacy](https://www.youtube.com/watch?v=UKa7opcFxCU)
-- [Mansun - Six (animated cover)](https://www.youtube.com/watch?v=bhEi2cBpoAk)
-- [Mansun - Negative](https://www.youtube.com/watch?v=WwMSH9-Irm4)
-- [Mansun - Negative](https://www.youtube.com/watch?v=BnyHcDZHvko)
-- [Mansun - Shotgun](https://www.youtube.com/watch?v=UgK_1nkp6VE)
+- [Negative](https://www.youtube.com/watch?v=UeMEiyURC2o)
+- [Shotgun](https://www.youtube.com/watch?v=-z3JZPQuCZY)
+- [Mansun - Inverse Midas + Anti Everything](https://www.youtube.com/watch?v=Pk6SJb31NBg)
+- [Mansun - Taxloss [John '00' Fleming Remix]](https://www.youtube.com/watch?v=BEuxF6GravM)
 
 ## Release Images
 {{< imageGrid >}}

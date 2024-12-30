@@ -19,7 +19,7 @@ genres: ["Rock"]
 styles: ["Thrash", "Heavy Metal"]
 ---
 
-Burn My Eyes is the debut studio album by American heavy metal band Machine Head, released on August 9, 1994, by Roadrunner Records. The album's themes generally tie into the social disorder and corresponding inner tension that the band was exposed to in their native Oakland, California, reflected in Robb Flynn's lyrics, such as the Los Angeles Riots of 1992 and the Waco Siege of 1993. The album's title alludes to the third part of the phrase, "Burn my eyes and try to blind me" during the breakdown of "Old". The album shipped over 400,000 copies worldwide, becoming Roadrunner Records's best selling debut album until the release of Slipknot's self-titled debut album. This is Machine Head's only studio album to feature drummer Chris Kontos.
+Burn My Eyes is the debut studio album by American heavy metal band Machine Head, released on August 9, 1994, by Roadrunner Records. The album's themes generally tie into the social disorder and corresponding inner tension that the band was exposed to in their native Oakland, California, reflected in Robb Flynn's lyrics, such as the Los Angeles Riots of 1992 and the Waco Siege of 1993. The album's title alludes to the third part of the phrase, "Burn my eyes and try to blind me" during the breakdown of "Old". The album shipped over 400,000 copies worldwide, becoming Roadrunner Records's best-selling debut album until the release of Slipknot's self-titled debut album. This is Machine Head's only studio album to feature drummer Chris Kontos.
 
 
     
@@ -48,8 +48,8 @@ Burn My Eyes is the debut studio album by American heavy metal band Machine Head
 {{< youtube id="r2dY8Vv_TFY" title="Machine Head - Old [OFFICIAL VIDEO]" >}}<br>
 ### More Videos
 
-- [Davidian](https://www.youtube.com/watch?v=sM8Awen6umM)
 - [Machine Head - Davidian](https://www.youtube.com/watch?v=_mWPPBW4DU8)
+- [Davidian](https://www.youtube.com/watch?v=sM8Awen6umM)
 - [Old](https://www.youtube.com/watch?v=Z7Zs_TLa81Y)
 - [A Thousand Lies](https://www.youtube.com/watch?v=FqV3OzRs-6Q)
 - [The Rage to Overcome](https://www.youtube.com/watch?v=Yt9iQwqf0ec)
@@ -72,4 +72,4 @@ Burn My Eyes is the debut studio album by American heavy metal band Machine Head
 | Label          | Metal Blade Records |
 | Catalog Number | 3984-15313-1 |
 | Notes | Gold transparent 180g vinyl. Limited to 1.500 Copies  ℗ & © 1994 & 2014 Roadrunner Records Inc. Produced under license from Roadrunner Records Inc.  Manufactured by Rhino Entertainment company, a Warner Music Group Company, All rights Reserved. Made in U.S.A. Marketed by Metal Blade Records Inc. |
-| Discogs URL    | [Machine Head - Burn My Eyes](https://www.discogs.com/release/6125349-Machine-Head-Burn-My-Eyes) |
+| Discogs URL    | [Machine Head - Burn My Eyes](https://www.discogs.com/release/6125349-Machine-Head-3-Burn-My-Eyes) |

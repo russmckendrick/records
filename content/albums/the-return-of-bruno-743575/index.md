@@ -22,7 +22,7 @@ genres: ["Rock", "Funk / Soul", "Blues"]
 styles: ["Blues Rock", "Pop Rock"]
 ---
 
-The Return of Bruno is the debut studio album by American actor Bruce Willis. Released by Motown Records in January 1987, the album consists of blues, rhythm and blues and soul music sung by Willis, with backing musicians including Booker T. Jones, The Pointer Sisters, and The Temptations. It is a companion piece to an HBO special of the same name, which aired shortly after the album's release. A re-issue was distributed by Razor & Tie in 1997.
+The Return of Bruno is the debut studio album by American actor Bruce Willis. Released by Motown Records in January 1987, the album contains backing musicians including Booker T. Jones, the Pointer Sisters, and the Temptations. It is a companion piece to an HBO special of the same name, which aired shortly after the album's release. A re-issue was distributed by Razor & Tie in 1997.
 
 
     
@@ -50,14 +50,18 @@ The Return of Bruno is the debut studio album by American actor Bruce Willis. Re
 {{< youtube id="Z2uComF6LuY" title="Jackpot (Bruno's Bop)" >}}<br>
 ### More Videos
 
-- [Bruce Willis - Secret Agent Man](https://www.youtube.com/watch?v=3v6pBscvuZI)
-- [Return of Bruno](https://www.youtube.com/watch?v=Z6hJn272wIM)
+- [Comin' Right Up](https://www.youtube.com/watch?v=5liPIblI7tE)
+- [Respect Yourself](https://www.youtube.com/watch?v=EfXy1ORKzKQ)
+- [Down In Hollywood](https://www.youtube.com/watch?v=6IJyrhYMteI)
+- [Youngblood](https://www.youtube.com/watch?v=2vpHM3VlrMA)
+- [Under The Boardwalk](https://www.youtube.com/watch?v=en9ZWmt5UxI)
+- [Secret Agent Man / James Bond Is Back](https://www.youtube.com/watch?v=dcM-W2hRObA)
+- [Jackpot (Bruno's Bop)](https://www.youtube.com/watch?v=Z2uComF6LuY)
+- [Fun Time](https://www.youtube.com/watch?v=SPji7EDIZZ4)
+- [Lose Myself](https://www.youtube.com/watch?v=RYqStFGuHMA)
 - [Under The Boardwalk - Bruce Willis - The Return of Bruno](https://www.youtube.com/watch?v=gH2zJfK0B0Q)
-- [Bruce Willis (The Return of Bruno)](https://www.youtube.com/watch?v=WIciG46xNdg)
-- [Bruce Willis - Down in Hollywood](https://www.youtube.com/watch?v=BY2oWGpNF_s)
-- [(1987) Bruce Willis - The Return of Bruno [Cassette Rip]](https://www.youtube.com/watch?v=YQ1xNdH06r8)
+- [Bruce Willis (The Return Of Bruno)](https://www.youtube.com/watch?v=3Kd8mEnJ1SQ)
 - [Bruce Willis Respecting Himself - VHS Files 02](https://www.youtube.com/watch?v=ni90iL81wTQ)
-- [Bruce Willis Respect Yourself (1987)](https://www.youtube.com/watch?v=a3vMKSA0OKc)
 
 ## Release Images
 {{< imageGrid >}}

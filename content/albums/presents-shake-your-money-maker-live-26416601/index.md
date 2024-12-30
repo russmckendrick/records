@@ -14,9 +14,9 @@ cover:
 additional_images:
     - "https://i.discogs.com/I3PkhOe38zH4weA4WIE5MrD3h83netSAix0WR2p39pI/rs:fit/g:sm/q:90/h:593/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NDE2/NjAxLTE2Nzg3OTU0/NDMtOTc4NC5qcGVn.jpeg"
     - "https://i.discogs.com/QcXTUg10b-UjklQ6jJ6i-sXor9OGedq06RWKQ41ORyI/rs:fit/g:sm/q:90/h:292/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NDE2/NjAxLTE2Nzg3OTU0/NDMtNDY2Ny5qcGVn.jpeg"
-    - "https://i.discogs.com/QBy0k3fQNhKBI0sIogjcOVBA6r5sM-jZo-8T67nCovQ/rs:fit/g:sm/q:90/h:603/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NDE2/NjAxLTE2Nzg3OTU0/NDMtMTIxOC5qcGVn.jpeg"
-    - "https://i.discogs.com/gEugk2BUIOw6u58nF9MsfSJeyWzzbcmb_EgWjrSu33o/rs:fit/g:sm/q:90/h:619/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NDE2/NjAxLTE2Nzk0Mjky/MzQtNjE2My5qcGVn.jpeg"
-    - "https://i.discogs.com/DIjonV8kuUYXZAQcr77XC8_SFQQ_EGRcGfsh14b_Qmk/rs:fit/g:sm/q:90/h:606/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NDE2/NjAxLTE2Nzg3OTU0/NDMtODU2My5qcGVn.jpeg"
+    - "https://i.discogs.com/83Dj06H1kxzdFS0yloX0ogOKHwlpN7Sh6opC689NUBw/rs:fit/g:sm/q:90/h:600/w:596/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NDE2/NjAxLTE2Nzg3OTU0/NDMtMTIxOC5qcGVn.jpeg"
+    - "https://i.discogs.com/LCaQOhZnhOBg9M0kdGszBjU12LcpGjKXR2uFXG-Tgbc/rs:fit/g:sm/q:90/h:600/w:581/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NDE2/NjAxLTE2Nzk0Mjky/MzQtNjE2My5qcGVn.jpeg"
+    - "https://i.discogs.com/9hy09rRnWqesKXqY67zVeq5lAxQ9oF-pGybtImEXY3A/rs:fit/g:sm/q:90/h:600/w:593/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NDE2/NjAxLTE2Nzg3OTU0/NDMtODU2My5qcGVn.jpeg"
     - "https://i.discogs.com/kpt7nYhDx5iPTADQCldRwTkR5kie8zpjHQZBnHKFxuA/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NDE2/NjAxLTE2Nzg3OTU0/NDMtOTEzMC5qcGVn.jpeg"
     - "https://i.discogs.com/uTQYIKlZt-_v5uQrzyWmWmU9R3dfl0ZUWmKHB8WQYAY/rs:fit/g:sm/q:90/h:593/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NDE2/NjAxLTE2Nzg3OTU0/NDItMTY4NC5qcGVn.jpeg"
     - "https://i.discogs.com/-u26YdPr26ucEs66vPBKFiaxUKnjuCZ7LabbK8TRRUs/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NDE2/NjAxLTE2Nzg3OTU0/NDMtNTE4MC5qcGVn.jpeg"
@@ -26,8 +26,8 @@ additional_images:
     - "https://i.discogs.com/nNsKIJ0jcMbH21dGEnoymmZgHU7fujx7YEXednXFO0w/rs:fit/g:sm/q:90/h:592/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NDE2/NjAxLTE2Nzg3OTU0/NDItODEyNy5qcGVn.jpeg"
     - "https://i.discogs.com/2_PwJTj6Y2xAQUBjPjaku_FxR4FiLbOV5Vzb6zbWneE/rs:fit/g:sm/q:90/h:585/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NDE2/NjAxLTE2Nzg3OTU0/NDItNzkwNy5qcGVn.jpeg"
     - "https://i.discogs.com/528FF0Da4qEuLWOv-mHYbN2kzoDHKJU4w8LsEQKF_bE/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NDE2/NjAxLTE2Nzg3OTU0/NDItMzk0OC5qcGVn.jpeg"
-    - "https://i.discogs.com/UyrxxGVD3HSZj3W_4cOeh98IFCTOENYSbaYiqgR9chY/rs:fit/g:sm/q:90/h:603/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NDE2/NjAxLTE2Nzg3OTU0/NDItNTc2OC5qcGVn.jpeg"
-    - "https://i.discogs.com/NmxR23BSVRaNHzm7k2jep3CrPjnz0hJnh0dtM2hvzZ0/rs:fit/g:sm/q:90/h:602/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NDE2/NjAxLTE2Nzg3OTU0/NDItMzg2MC5qcGVn.jpeg"
+    - "https://i.discogs.com/1L67XOeBaf906LQ3CzYBUS2Jp40ucfmFwACZQxdfF5Q/rs:fit/g:sm/q:90/h:600/w:596/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NDE2/NjAxLTE2Nzg3OTU0/NDItNTc2OC5qcGVn.jpeg"
+    - "https://i.discogs.com/PBV7p_348DyfZhXCWmWOypv0U83E0IEXmshj4502y68/rs:fit/g:sm/q:90/h:600/w:597/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NDE2/NjAxLTE2Nzg3OTU0/NDItMzg2MC5qcGVn.jpeg"
     - "https://i.discogs.com/9NGrB_DqQdgpbUwLrHhl-V2_hLBsEHTyGGSfx5lrMCU/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NDE2/NjAxLTE2ODEzMTg3/MjYtOTQ0MC5qcGVn.jpeg"
 genres: ["Rock"]
 styles: ["Rock & Roll", "Southern Rock"]
@@ -58,6 +58,9 @@ styles: ["Rock & Roll", "Southern Rock"]
 
 
 
+## Videos
+### The Black Crowes - Shake Your Money Maker Live (Full Album) 2023
+{{< youtube id="TYAI52FCdAI" title="The Black Crowes - Shake Your Money Maker Live (Full Album) 2023" >}}<br>
 
 
 ## Release Images

@@ -23,8 +23,11 @@ genres: ["Rock"]
 styles: ["Funk Metal"]
 ---
 
-Living Colour’s second album blows up the muscular swagger of their debut into an eclectic, epic musical statement on survival in America. Channeling the hardcore fury of Bad Brains, the title track sounds the alarm for environmental disaster; “Elvis Is Dead” uses The King as the piñata in a savage funk-metal battering of systemic racism. But the band balances these big-picture pronouncements with intimate, playful gestures—on “Love Rears Its Ugly Head,” Corey Glover cheekily plumbs the anxieties of modern romance over a stuttering soul groove.
-    
+Time's Up is the second studio album by the band Living Colour, released on August 28, 1990, through Epic Records. It was the follow-up to their successful 1988 album Vivid. Time's Up features a wide range of genres and also includes cameo appearances by Queen Latifah, Little Richard, Doug E. Fresh, Maceo Parker and James Earl Jones. The album reached gold status, peaking at #13 on the Billboard 200, and won a Grammy for Best Hard Rock Performance. It is the final album to feature Muzz Skillings on bass, though it was not his last release with the band (as he appeared on the Biscuits EP). In late February 2014, the album was reissued in Europe by Music On CD and is available once again.
+
+
+        
+        
     
 
 
@@ -50,10 +53,29 @@ Living Colour’s second album blows up the muscular swagger of their debut into
 
 
 ## Videos
-### Living Colour - Solace of You
-{{< youtube id="vIUke0CCvDs" title="Living Colour - Solace of You" >}}<br>
+### Living Colour – Time's Up
+{{< youtube id="doLVEvDn_wI" title="Living Colour – Time's Up" >}}<br>
 ### More Videos
 
+- [Living Colour – Type](https://www.youtube.com/watch?v=Nuv2NXZzUQ8)
+- [Living Colour – Final Solution [Live] [Bonus Tracks]](https://www.youtube.com/watch?v=7zDQfvRAczk)
+- [Living Colour – Tag Team Partners](https://www.youtube.com/watch?v=0xS7oaMsDu0)
+- [Living Colour – Solace Of You](https://www.youtube.com/watch?v=BX5jV1Cs8nQ)
+- [Living Colour – Information Overload](https://www.youtube.com/watch?v=ZdW0BGEaXBE)
+- [Living Colour – This Is The Life](https://www.youtube.com/watch?v=R-RGfdNMrPI)
+- [Living Colour – Under Cover Of Darkness](https://www.youtube.com/watch?v=ml2Hh5RKoZ0)
+- [Living Colour – History Lesson](https://www.youtube.com/watch?v=43-I3gOSp20)
+- [Living Colour – Pride](https://www.youtube.com/watch?v=hEQ7Pw9ooDA)
+- [Living Colour – Someone Like You](https://www.youtube.com/watch?v=jTFx9cJBD8w)
+- [Living Colour – Ology](https://www.youtube.com/watch?v=K-jbInqi0Iw)
+- [Living Colour – Love Rears Its Ugly Head (Soul Power Mix) [Bonus Tracks]](https://www.youtube.com/watch?v=Dwcrq2jdBo4)
+- [Living Colour – Middle Man [Live] [Bonus Tracks]](https://www.youtube.com/watch?v=I2x3Hv1CuCI)
+- [Living Colour – Elvis Is Dead](https://www.youtube.com/watch?v=t3NruE6_3q4)
+- [Living Colour – Fight The Fight](https://www.youtube.com/watch?v=OVLYzWyaPVQ)
+- [Living Colour – Love Rears It's Ugly Head](https://www.youtube.com/watch?v=KZjXYcBtnNQ)
+- [Living Colour – New Jack Theme](https://www.youtube.com/watch?v=8X9iU0LSTLo)
+- [Living Colour - Solace of You](https://www.youtube.com/watch?v=vIUke0CCvDs)
+- [Living Colour - Time's Up (1990 Full Album)](https://www.youtube.com/watch?v=y1DikKh-uf8)
 - [Living Colour - Love Rears Its Ugly Head (Official Video)](https://www.youtube.com/watch?v=MQcPB1WkISI)
 - [Living Colour - Elvis Is Dead](https://www.youtube.com/watch?v=8nvpRkn_R5g)
 - [Living Colour - Time's Up (Official Video)](https://www.youtube.com/watch?v=0YAA7nivQng)
@@ -70,7 +92,9 @@ Living Colour’s second album blows up the muscular swagger of their debut into
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl LP Album |
+| Wikipedia URL | https://en.wikipedia.org/wiki/Time%27s_Up_(Living_Colour_album) |
+| Format         | Vinyl LP Album Stereo |
 | Label          | Epic |
 | Catalog Number | 466920 1 |
+| Notes | Issued with printed inner sleeve with lyrics, picture of band members on one side and credits on the opposite. Runouts etched. Last A stamped as Λ. |
 | Discogs URL    | [Living Colour - Time's Up](https://www.discogs.com/release/313923-Living-Colour-Times-Up) |

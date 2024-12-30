@@ -22,11 +22,13 @@ genres: ["Rock"]
 styles: ["Folk Rock", "Pop Rock"]
 ---
 
-Darkness on the Edge of Town is the fourth studio album by American singer-songwriter Bruce Springsteen. It was released on June 2, 1978, by Columbia Records. Recorded following a period of legal disputes between Springsteen and his former manager Mike Appel, the sessions took place in New York City with the E Street Band from June 1977 to March 1978. Springsteen and Jon Landau co-produced, with assistance from Steven Van Zandt. The sessions yielded a large number of outtakes, several of which were given to other artists while others later appeared on compilations.
-Springsteen used outside sources when writing the album's songs, including John Steinbeck novels, John Ford films, punk rock, and country music. Musically, Darkness strips the wall of sound production of its predecessor, Born to Run, for a rawer hard rock sound emphasizing the band as a whole. The lyrics on Darkness focus on ill-fortuned characters who fight back against overwhelming odds. Compared to Springsteen's previous records, the characters are more mature and the songs are less geographically tied to the Jersey Shore area. Commentators recognize Frank Stefanko's cover photograph of Springsteen as representing a physical manifestation of the album's songs.
-Released three years after Born to Run, Darkness sold less than its predecessor but reached number five in the US, while its singles performed modestly. Springsteen promoted it on the successful Darkness Tour, his largest tour up to that point. Darkness was initially received favorably; critics praised the music and performances but were divided  the lyrical content. In later decades, the album has attracted acclaim as one of Springsteen's best works and is viewed as the benchmark for his future career. It has appeared on lists of the greatest albums of all time and was reissued in 2010, accompanied by a documentary detailing the album's making.
+Released three years after the epic <i>Born to Run</i>, Bruce Springsteen’s fourth album is full of the literal darkness in the album title—but it also also crackles with power and intensity. <i>Darkness on the Edge of Town</i> wasn’t an easy album to make: It didn’t arrive until 1978, largely because Springsteen had signed a contract preventing him from working with any producer not approved by the singer’s management. Springsteen sued his manager; his manager sued him back; and, as a result, the Boss spent a year and a half fighting to defend everything he had worked for.
 
+That defiance can be found throughout <i>Darkness on the Edge of Town</i>, from the lyrics to the vocals to the instrumental performances. You can hear Springsteen’s anger—as well as the sheer relief of achieving his freedom. But you can also sense Springsteen’s very real fear that everyone had forgotten about him, and his awareness that this record was going to make or break his future. The material was powerful enough—but the emotional catharsis required to bring it together took <i>Darkness on the Edge of Town</i> to another level.
 
+So there’s the snarling saga of father/son dynamics in “Adam Raised a Cain”; the firecracker fuse of lust in “Something in the Night” and “Candy’s Room”; the dull mundanity of the 9-to-5 job in “Factory”. Springsteen’s writing was informed by a new interest in classical country music, as well as an increasing affinity with American cinema. The dignity of adult life, and the sharp jump-cuts of B movies, informed a record featuring Springsteen’s now-familiar cast of ne’er-do-wells. These are people who’ve evolved past their days of living hard and getting into trouble. Springsteen’s characters in <i>Darkness on the Edge of Town</i> are trying to get by—but they’re desperate and making bad decisions along the way. They’re running out of road.
+
+You can hear their desperation in “Racing in the Street” or on the sombre title track. But this is hardly a hopeless album. Springsteen also included beacons of light in the form of “Badlands”, “The Promised Land” and “Prove It All Night”—a trinity that would expand far beyond their roles as lifelines on this record, and come to symbolise the universal quest for hope and redemption.
         
         
     
@@ -49,21 +51,17 @@ Released three years after Born to Run, Darkness sold less than its predecessor 
 
 
 ## Videos
-### Badlands
-{{< youtube id="SDlSCeQXbPo" title="Badlands" >}}<br>
+### Darkness On the Edge of Town
+{{< youtube id="0LpdEyGhNxM" title="Darkness On the Edge of Town" >}}<br>
 ### More Videos
 
-- [Adam Raised A Cain | Bruce Springsteen | 1978 | Darkness On The Edge Of Town | 2014 Columbia LP](https://www.youtube.com/watch?v=YTHKOHEzeMo)
-- [Adam Raised a Cain](https://www.youtube.com/watch?v=PRRd78fqmIg)
-- [The Promised Land | Bruce Springsteen | 1978 | Darkness On The Edge Of Town | 2014 Columbia  LP](https://www.youtube.com/watch?v=AwNGvxRzQ24)
-- [Something in the Night](https://www.youtube.com/watch?v=5q_JZGV05Rk)
-- [Candy's Room](https://www.youtube.com/watch?v=CyPfb0vOVfo)
-- [Racing in the Street](https://www.youtube.com/watch?v=cm9UuM3UXdc)
+- [DARKNESS ON THE EDGE OF TOWN Bruce Springsteen Vinyl HQ Sound Full Album](https://www.youtube.com/watch?v=yTp5runGeBM)
+- [Darkness on the Edge of Town (complete album)](https://www.youtube.com/watch?v=pTeREIomdrY)
+- [Bruce Springsteen - "Darkness on the Edge of Town"](https://www.youtube.com/watch?v=kg0ekQBmzKs)
 - [The Promised Land](https://www.youtube.com/watch?v=azQY2YBUMQc)
-- [Factory](https://www.youtube.com/watch?v=3YuEJ_XolkM)
-- [Streets of Fire](https://www.youtube.com/watch?v=HzIm7Ek6Vv0)
+- [Candy's Room](https://www.youtube.com/watch?v=CyPfb0vOVfo)
 - [Prove It All Night](https://www.youtube.com/watch?v=UzjkWdRqWFo)
-- [Darkness on the Edge of Town](https://www.youtube.com/watch?v=0LpdEyGhNxM)
+- [Adam Raised a Cain](https://www.youtube.com/watch?v=PRRd78fqmIg)
 
 ## Release Images
 {{< imageGrid >}}

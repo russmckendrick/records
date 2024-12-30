@@ -19,6 +19,12 @@ genres: ["Rock"]
 styles: ["Blues Rock", "Psychedelic Rock"]
 ---
 
+Santana's Greatest Hits is a 1974 compilation album by Santana. It offers highlights from the group's first three albums. It is the band's best-selling compilation album, selling over 7 million copies in the United States.
+Three of the tracks are the edited single versions, as annotated below.
+
+
+    
+    
 
 
 ## Tracklisting
@@ -37,27 +43,7 @@ styles: ["Blues Rock", "Psychedelic Rock"]
 {{< applemusic url="https://music.apple.com/gb/album/santanas-greatest-hits/897791041" >}}<br>
 
 
-## Videos
-### Santana. Samba Pa Ti
-{{< youtube id="WzSayxVM_E0" title="Santana. Samba Pa Ti" >}}<br>
-### More Videos
 
-- [Santana - Black Magic Woman (Official Audio)](https://www.youtube.com/watch?v=9wT1s96JIb0)
-- [Santana - Smooth (Stereo) ft. Rob Thomas](https://www.youtube.com/watch?v=6Whgn_iE5uc)
-- [Hope You're Feeling Better ~ Santana](https://www.youtube.com/watch?v=P_vJBz2_LtE)
-- [Persuasion](https://www.youtube.com/watch?v=PMBDutul1tA)
-- [Oye Como Va](https://www.youtube.com/watch?v=U3XPzwjhSZw)
-- [Hope You're Feeling Better](https://www.youtube.com/watch?v=sL4S0LII02Y)
-- [Samba Pa Ti](https://www.youtube.com/watch?v=timZoOs9ozo)
-- [S A N T A N A Greatest Hits Full Album - Best Songs Of S A N T A N A Playlist 2021](https://www.youtube.com/watch?v=BdWWOuCxw4Q)
-- [Carlos Santana Greatest Hits -  Carlos Santana Best Songs](https://www.youtube.com/watch?v=VUHe5P7sEYQ)
-- [The Best of Santana Full Album 1998](https://www.youtube.com/watch?v=ZZP-WYpC2HE)
-- [S A N T A N A Greatest Hits Full Albm - Best Songs Of S A N T A N A Playlist 2021](https://www.youtube.com/watch?v=-7JvFA3B7h4)
-- [S A N T A N A Greatest Hits Full Albm - Best Songs Of S A N T A N A Playlist 2021](https://www.youtube.com/watch?v=e4KFECvwR6Y)
-- [ Carlos Santana  Greatest Hits 1969-2014 || Tribute Best Songs of Santana  HD](https://www.youtube.com/watch?v=MjEBjaejZfg)
-- [Carlos Santana Very Best Nonstop Playlist - Carlos Santana Greatest Hits Full Album](https://www.youtube.com/watch?v=M5YLIMDfpqw)
-- [Carlos Santana Very Best Nonstop Playlist - Carlos Santana Greatest Hits Full Album](https://www.youtube.com/watch?v=iOrhaXaVYu0)
-- [Evil Ways](https://www.youtube.com/watch?v=lR4ZjMVHCuM)
 
 ## Release Images
 {{< imageGrid >}}
@@ -65,6 +51,7 @@ styles: ["Blues Rock", "Psychedelic Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
+| Wikipedia URL | https://en.wikipedia.org/wiki/Santana%27s_Greatest_Hits |
 | Format         | Vinyl LP Compilation Reissue |
 | Label          | Columbia |
 | Catalog Number | 88985446151 |

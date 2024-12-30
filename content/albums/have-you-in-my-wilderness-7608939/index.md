@@ -15,13 +15,13 @@ cover:
 additional_images:
     - "https://i.discogs.com/_-zuEWNCir0PY_deMBj60xr-8hqzI7DnLrCXvezSgHA/rs:fit/g:sm/q:90/h:560/w:560/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc2MDg5/MzktMTQ0NTA3NjEx/OS00MzQwLmpwZWc.jpeg"
     - "https://i.discogs.com/-B7ommeuUBId0Kx7GCkS_CSnQC8Lffz3es6akcJ-2Vk/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc2MDg5/MzktMTQ0NTU0ODE1/Ni04NTU2LmpwZWc.jpeg"
-    - "https://i.discogs.com/Z7KzkNIwdInCGiz1cL5N4_UziZNoqGdJQ7WjEUbOMeE/rs:fit/g:sm/q:90/h:721/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc2MDg5/MzktMTQ0NTU0ODE1/Ny0zNTMwLmpwZWc.jpeg"
+    - "https://i.discogs.com/ASz5Xad0ejNjEgIBRj5ix9gT4EUS44N4olqrYZiSFOY/rs:fit/g:sm/q:90/h:600/w:498/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc2MDg5/MzktMTQ0NTU0ODE1/Ny0zNTMwLmpwZWc.jpeg"
     - "https://i.discogs.com/3Y7iv2qt48VwzwT14JczNYND7gGwICPRgNMwFMz3JPw/rs:fit/g:sm/q:90/h:98/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc2MDg5/MzktMTQ0NTU0ODE1/Ni0zNzI4LmpwZWc.jpeg"
     - "https://i.discogs.com/9YuWAaMVdGgWY-4dXge4VOn3bKrxRpg1E-JNF9k8yHE/rs:fit/g:sm/q:90/h:585/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc2MDg5/MzktMTQ0NTU0ODE1/Ny0zMTE2LmpwZWc.jpeg"
     - "https://i.discogs.com/2ybqoEq1wr7KW4iEC5oJ_bDyH7o1j0oGHSJ7t-5kMc4/rs:fit/g:sm/q:90/h:587/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc2MDg5/MzktMTQ0NTU0ODE1/OC0zMzQxLmpwZWc.jpeg"
     - "https://i.discogs.com/keYdmbEwLjGXx9XBgCQFtglNvW-WudtRf4bsYImQS1g/rs:fit/g:sm/q:90/h:594/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc2MDg5/MzktMTQ0NTU0ODE2/NC05OTI1LmpwZWc.jpeg"
     - "https://i.discogs.com/jwmv8UTQV7TtXI82MQ6B_fPSHbJomv8U9QxluQ_MXXE/rs:fit/g:sm/q:90/h:590/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc2MDg5/MzktMTQ0NTU0ODE2/Mi03NjI3LmpwZWc.jpeg"
-    - "https://i.discogs.com/0qtHoWycYveO7gF_BCCxoYrcoRIdO3wZyTmeKi-v9oU/rs:fit/g:sm/q:90/h:610/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc2MDg5/MzktMTQ0NTU0ODE1/OS0xNzI4LmpwZWc.jpeg"
+    - "https://i.discogs.com/1CTYscccz3G7eWGaoGOrnd30zGGLGi3nNCva9gnGTJQ/rs:fit/g:sm/q:90/h:600/w:589/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc2MDg5/MzktMTQ0NTU0ODE1/OS0xNzI4LmpwZWc.jpeg"
 genres: ["Electronic", "Pop"]
 styles: ["Indie Pop"]
 ---
@@ -53,12 +53,13 @@ Bold experimentalism is key for Californian Julia Holter. Her third album is a m
 {{< youtube id="X2JgMniIpRM" title="Julia Holter - Feel You (Official Video)" >}}<br>
 ### More Videos
 
-- [Julia Holter –  Vasquez  (hommage à Julia - unofficial video)](https://www.youtube.com/watch?v=w8USu4D0dvw)
 - [Julia Holter - Silhouette (Official Video)](https://www.youtube.com/watch?v=m8_ZWlOKsUQ)
 - [How Long?](https://www.youtube.com/watch?v=rV6dzWOSEQE)
+- [Lucette Stranded on the Island](https://www.youtube.com/watch?v=QhBhpQgN0MU)
 - [Julia Holter - Betsy On The Roof (Official Audio)](https://www.youtube.com/watch?v=Sr2GYsynCFg)
 - [Julia Holter - Sea Calls Me Home (Official Video)](https://www.youtube.com/watch?v=OERixQR-hxY)
 - [Have You In My Wilderness](https://www.youtube.com/watch?v=uYLOYsDYpRg)
+- [Julia Holter –  Vasquez  (hommage à Julia - unofficial video)](https://www.youtube.com/watch?v=w8USu4D0dvw)
 
 ## Release Images
 {{< imageGrid >}}

@@ -50,6 +50,7 @@ Best Shots is a Platinum-certified greatest hits album released by the American 
 {{< youtube id="0q2jL8hpT_0" title="Pat Benatar - Love is a battlefield 1984" >}}<br>
 ### More Videos
 
+- [Pat Benatar - Love is a battlefield 1984](https://www.youtube.com/watch?v=0q2jL8hpT_0)
 - [Pat Benatar- Hit Me With Your Best Shot](https://www.youtube.com/watch?v=x5kisPBwZOM)
 
 ## Release Images

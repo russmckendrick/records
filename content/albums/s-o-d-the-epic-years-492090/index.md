@@ -36,6 +36,8 @@ styles: ["Pop Rock", "Goth Rock"]
 9. Mickey
 10. Liberator
 
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/best-of-spear-of-destiny-live-at-the-forum/1671997414" >}}<br>
 
 
 ## Videos

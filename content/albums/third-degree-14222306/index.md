@@ -20,14 +20,18 @@ additional_images:
     - "https://i.discogs.com/KdX_LmwyUM3GD7mrksZfWx1WNXBB6Rk26jzjhn17whI/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MjIy/MzA2LTE1NzQwMDQ4/MTEtMzg5NC5qcGVn.jpeg"
     - "https://i.discogs.com/DoDUKoXlSvlft2B0ji2JFch51sjmFZGNkFgXySroH1c/rs:fit/g:sm/q:90/h:587/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MjIy/MzA2LTE1NzAxNzA3/MzctMjY1NC5qcGVn.jpeg"
     - "https://i.discogs.com/vcoakab3JWVbjWt-Omvd3UjFy5lEBI1rGfRAi-W8VNw/rs:fit/g:sm/q:90/h:427/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MjIy/MzA2LTE1NzAxNzA3/OTEtMzQyMC5qcGVn.jpeg"
-    - "https://i.discogs.com/YH-O_YJfo_pvO9wTuGf8ft1lt7mhHyrbPHrsIgGpSCw/rs:fit/g:sm/q:90/h:606/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MjIy/MzA2LTE1NzAxNzEw/MDMtMzc0Mi5qcGVn.jpeg"
+    - "https://i.discogs.com/uAvOHQSZzUto11k3EwsWEVpPufoO5jCFK5Blb31F9SA/rs:fit/g:sm/q:90/h:600/w:593/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MjIy/MzA2LTE1NzAxNzEw/MDMtMzc0Mi5qcGVn.jpeg"
     - "https://i.discogs.com/F2agoALZvOLGO57re2vr2Uc_t9r_ri7f7qtGUOGzrPk/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MjIy/MzA2LTE1NzQwMDQ5/MTctNjA4My5qcGVn.jpeg"
     - "https://i.discogs.com/GMs_XHNVOaBUxj3fpPYyIK-8EH4dIgFatj47HGvPH2I/rs:fit/g:sm/q:90/h:450/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MjIy/MzA2LTE1NzA1NDYw/NTQtNDEwOC5qcGVn.jpeg"
 genres: ["Rock"]
 styles: ["Prog Rock"]
 ---
 
-Third Degree is the third studio album by the American supergroup Flying Colors, released on October 4, 2019 via Mascot Label Group.The album was released on digital platforms and also on CD digipack, a limited-edition double-LP, a 180g blue or black vinyl and a limited-edition box set with bonus content such as a 40-page photobook, two coasters and a bonus disc with six bonus songs.Third Degree's first single and video, "More", was released as the band revealed the album's title, cover and tracklist. The second single, "You Are Not Alone", was released on August 28, 2019. The third, pop rock single "Love Letter", was released on September 12 and the final single, "The Loss Inside", about the process of grieving, had its video premiered on September 30, 2019.
+Third Degree is the third studio album by the American supergroup Flying Colors, released on October 4, 2019, via Mascot Label Group.
+The album was released on digital platforms and also on CD digipack, a limited-edition double-LP, a 180g blue or black vinyl and a limited-edition box set with bonus content such as a 40-page photobook, two coasters and a bonus disc with six bonus songs.
+Third Degree's first single and video, "More", was released as the band revealed the album's title, cover and tracklist. The second single, "You Are Not Alone", was released on August 28, 2019. The third, pop rock single "Love Letter", was released on September 12 and the final single, "The Loss Inside", about the process of grieving, had its video premiered on September 30, 2019.
+
+
     
     
 
@@ -56,6 +60,8 @@ Third Degree is the third studio album by the American supergroup Flying Colors,
 - [Cadence](https://www.youtube.com/watch?v=45bywuigQWI)
 - [Last Train Home](https://www.youtube.com/watch?v=d027LIRm_Ds)
 - [Crawl](https://www.youtube.com/watch?v=pmupTHXOMQo)
+- [Crawl](https://www.youtube.com/watch?v=pmupTHXOMQo)
+- [Geronimo](https://www.youtube.com/watch?v=PzPb0SUAF1Q)
 - [Geronimo](https://www.youtube.com/watch?v=PzPb0SUAF1Q)
 
 ## Release Images

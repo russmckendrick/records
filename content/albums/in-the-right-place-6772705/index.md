@@ -13,15 +13,18 @@ cover:
     alt: "In The Right Place by Dr. John"
     caption: "In The Right Place by Dr. John"
 additional_images:
-    - "https://i.discogs.com/jJ1TL9zapevarhKcV3d3IqFY1MEOMZSoupMGESwUtI4/rs:fit/g:sm/q:90/h:605/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY3NzI3/MDUtMTQyNjM0MDI1/MS02NTc4LmpwZWc.jpeg"
-    - "https://i.discogs.com/FseJetQmKN60ZXfxKuQyPXx62Lf4anhvyBz_1Rs3jls/rs:fit/g:sm/q:90/h:611/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY3NzI3/MDUtMTQyNjM0MDI1/Ny0yODE1LmpwZWc.jpeg"
+    - "https://i.discogs.com/6TQEW0LyVbjCpLAE29J6jadzBU-jhHRM-pR2xdTNxIA/rs:fit/g:sm/q:90/h:600/w:594/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY3NzI3/MDUtMTQyNjM0MDI1/MS02NTc4LmpwZWc.jpeg"
+    - "https://i.discogs.com/GQoudbmfo-WfQlBBSNlyHFKaKdiX5ZA5j33C4TKbnsc/rs:fit/g:sm/q:90/h:600/w:589/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY3NzI3/MDUtMTQyNjM0MDI1/Ny0yODE1LmpwZWc.jpeg"
     - "https://i.discogs.com/3SxfDo_p2gLM9ctDtYuJsWbIBnMyjWDMYW0aYX0Fsvo/rs:fit/g:sm/q:90/h:200/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY3NzI3/MDUtMTQyNjM0MDI2/NC00MTMyLmpwZWc.jpeg"
 genres: ["Funk / Soul"]
 styles: ["Bayou Funk", "Soul", "Funk"]
 ---
 
 In the Right Place is the sixth album by the New Orleans R&B artist Dr. John. The album was released on Atco Records in 1973, and became the biggest selling album of Dr. John's career.
-The song "Such a Night" was also performed as part of The Band's The Last Waltz concert, made famous by Martin Scorsese's film.The song "Right Place, Wrong Time" became the biggest hit from the LP, reaching the Top 10 in both the U.S. and Canada. The album itself was Dr. John's highest charting album on the Billboard 200, spending 33 weeks on the chart and peaking at #24 on June 23, 1973.
+The song "Such a Night" was also performed as part of The Band's The Last Waltz concert, made famous by Martin Scorsese's film.
+The song "Right Place, Wrong Time" became the biggest hit from the LP, reaching the Top 10 in both the U.S. and Canada. The album itself was Dr. John's highest charting album on the Billboard 200, spending 33 weeks on the chart and peaking at #24 on June 23, 1973.
+
+
         
         
     

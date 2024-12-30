@@ -14,11 +14,11 @@ cover:
 additional_images:
     - "https://i.discogs.com/BLt7zR-kVNpEmvvdsMB6LCa6jO8oeje8Tph9U5F0rfk/rs:fit/g:sm/q:90/h:590/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3Nzk5/MTUyLTE2OTIzNjAy/MjYtNDEyOC5qcGVn.jpeg"
     - "https://i.discogs.com/XJ8TKpawj84-eThhD6vpoT36Yf4n84D_YPfPeWPNuZg/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3Nzk5/MTUyLTE2OTA0ODIx/NTMtNzY3OS5qcGVn.jpeg"
-    - "https://i.discogs.com/FNl082rnpPOceuyjKXVtw7BFXew9lNwK7t_rqIDv1ew/rs:fit/g:sm/q:90/h:601/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3Nzk5/MTUyLTE2OTIzNTk4/MzUtMTk0MS5qcGVn.jpeg"
-    - "https://i.discogs.com/K8PLhRbXCYuR-lC1ygZTyUzRW7lZJfOsgwxvd9AGMRU/rs:fit/g:sm/q:90/h:605/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3Nzk5/MTUyLTE2OTIzNTk4/MzctNjQyNC5qcGVn.jpeg"
-    - "https://i.discogs.com/oT2AQcBkiOhAZTBuopnLp-XwaPKqM4_uMjJiMD6BRi8/rs:fit/g:sm/q:90/h:602/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3Nzk5/MTUyLTE2OTIzNTk4/MzgtOTg4MS5qcGVn.jpeg"
+    - "https://i.discogs.com/Yx5RiQqrXDV7mu1HfI9N1JSIBAKPWJ-LEIb9TM7Kmw8/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3Nzk5/MTUyLTE2OTIzNTk4/MzUtMTk0MS5qcGVn.jpeg"
+    - "https://i.discogs.com/PG8SDA6sUMlc6mTrzVmSB8gz6ix-H2Uvqg0xNpT97wI/rs:fit/g:sm/q:90/h:600/w:595/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3Nzk5/MTUyLTE2OTIzNTk4/MzctNjQyNC5qcGVn.jpeg"
+    - "https://i.discogs.com/50LhYYCrRLQuebO1SUyc7fH4d4ZccFrjcMxGPeiFqCk/rs:fit/g:sm/q:90/h:600/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3Nzk5/MTUyLTE2OTIzNTk4/MzgtOTg4MS5qcGVn.jpeg"
     - "https://i.discogs.com/Ti-4xQbT-WSJeS4yDBTunlRxv76Kp1H7dUCgQxwuJpY/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3Nzk5/MTUyLTE2OTIzNTk4/NDAtNDAyOS5qcGVn.jpeg"
-    - "https://i.discogs.com/wW2L8fa0lEe_2K11TglTiZH_UGSRG36BejxWOU-NUj8/rs:fit/g:sm/q:90/h:704/w:537/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3Nzk5/MTUyLTE2OTIzNTk4/NDItODIyMi5qcGVn.jpeg"
+    - "https://i.discogs.com/iIjCZT4XnmbnPWia9UwLhCER5AGnsmh20TaA4dpzdck/rs:fit/g:sm/q:90/h:600/w:457/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3Nzk5/MTUyLTE2OTIzNTk4/NDItODIyMi5qcGVn.jpeg"
     - "https://i.discogs.com/NyfXZtI8tE-Laaygzdc6VjpvbXiyi4FPjsahkIYeFLQ/rs:fit/g:sm/q:90/h:296/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3Nzk5/MTUyLTE2OTIzNTk4/NDQtNjgwOS5qcGVn.jpeg"
 genres: ["Electronic", "Rock", "Funk / Soul", "Stage & Screen"]
 styles: ["New Wave", "Post-Punk", "Art Rock", "Soundtrack", "Funk", "Pop Rock", "Indie Rock", "Alternative Rock", "Leftfield"]
@@ -49,14 +49,13 @@ styles: ["New Wave", "Post-Punk", "Art Rock", "Soundtrack", "Funk", "Pop Rock", 
 
 
 ## Videos
-### This Must Be the Place (Naive Melody) (Live)
-{{< youtube id="4Q2lmZtDlMU" title="This Must Be the Place (Naive Melody) (Live)" >}}<br>
+### Psycho Killer (Live)
+{{< youtube id="xGccP6N2xP4" title="Psycho Killer (Live)" >}}<br>
 ### More Videos
 
-- [Psycho Killer (Live)](https://www.youtube.com/watch?v=xGccP6N2xP4)
 - [Swamp (Live)](https://www.youtube.com/watch?v=O2VTCfcfTTM)
-- [Slippery People (Live)](https://www.youtube.com/watch?v=ZCHv9jHHgwU)
 - [Once in a Lifetime (Live)](https://www.youtube.com/watch?v=3XCp3ioDjwo)
+- [Slippery People (Live)](https://www.youtube.com/watch?v=ZCHv9jHHgwU)
 - [Burning Down the House (Live)](https://www.youtube.com/watch?v=WymDCo0dkSY)
 - [Crosseyed and Painless (Live)](https://www.youtube.com/watch?v=qhLDfsOBsC0)
 - [Take Me to the River (Live)](https://www.youtube.com/watch?v=1FlTFQW9lAQ)
@@ -67,8 +66,8 @@ styles: ["New Wave", "Post-Punk", "Art Rock", "Soundtrack", "Funk", "Pop Rock", 
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl 2× LP Limited Edition Reissue Remastered Special Edition Stereo |
-| Label          | Rhino Records (2) |
+| Format         | Vinyl 2× LP Album Limited Edition Reissue Remastered Special Edition Stereo (Optimal Pressing) |
+| Label          | Sire |
 | Catalog Number | R1 724897 |
-| Notes | Hype sticker: Music from the film by Jonathan Demme and Talking Heads, newly remastered Special limited-edition 2-LP package features the complete show on vinyl for the first time Also includes original booklet with additional liner notes written by Tina Weymouth, David Byrne, Chris Frantz, and Jerry Harrison  Packaged in a wide-spine sleeve. Tracks A6 and C4 are identified as previously unreleased.  This reissue ℗ & © 2023, 1984 Sire Records Company, a Warner Music Group Company, for the U.S. and Canada, and Parlophone Records Ltd., a Warner Music Group Company, for the rest of the world. Manufactured for & marketed by Rhino Entertainment Company, a Warner Music Group Company, 777 S. Santa Fe Ave., Los Angeles, CA 90021. Made in Germany.  Recorded at The Pantages Theatre, Hollywood, December 1983 by The Record Plant Mobile Re-recording for film at Can Am and Ocean Way, Los Angeles, and Right Track, New York Mixed at Soundworks and Sigma Sound, New York... Originally mastered... at Sterling Sound, New York  Reissue credits: Remastered... at Sterling Sound Vinyl lacquers cut... at Sterling Sound |
+| Notes | Hype sticker: Music from the film by Jonathan Demme and Talking Heads, newly remastered Special limited-edition 2-LP package features the complete show on vinyl for the first time Also includes original booklet with additional liner notes written by Tina Weymouth, David Byrne, Chris Frantz, and Jerry Harrison  Packaged like the 1984 limited edition pressing but in a wide-spine sleeve. Booklet has additional pages with never before seen photos. Tracks A6 and C4 are identified as previously unreleased.  This version is similar to the [url=https://www.discogs.com/release/28021260-Talking-Heads-Stop-Making-Sense-Music-From-A-Film-By-Jonathan-Demme-And-Talking-Heads]PRP Pressing[/url] with the following differences: - "Made in Germany" printed on back of outer sleeve - Runouts indicate Optimal catalog numbers "BN94056"  This reissue ℗ & © 2023, 1984 Sire Records Company, a Warner Music Group Company, for the U.S. and Canada, and Parlophone Records Ltd., a Warner Music Group Company, for the rest of the world. Manufactured for & marketed by Rhino Entertainment Company, a Warner Music Group Company, 777 S. Santa Fe Ave., Los Angeles, CA 90021. Made in Germany.  Recorded at The Pantages Theatre, Hollywood, December 1983 by The Record Plant Mobile Re-recording for film at Can Am and Ocean Way, Los Angeles, and Right Track, New York Mixed at Soundworks and Sigma Sound, New York... Originally mastered... at Sterling Sound, New York  Reissue credits: Remastered... at Sterling Sound Vinyl lacquers cut... at Sterling Sound |
 | Discogs URL    | [Talking Heads - Stop Making Sense (Music From A Film By Jonathan Demme And Talking Heads)](https://www.discogs.com/release/27799152-Talking-Heads-Stop-Making-Sense-Music-From-A-Film-By-Jonathan-Demme-And-Talking-Heads) |

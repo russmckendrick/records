@@ -18,8 +18,9 @@ genres: ["Funk / Soul"]
 styles: ["Neo Soul", "Funk"]
 ---
 
-A masterpiece of joyous nostalgia and full-throated soul marks a new phase for robo-R&B king Jamie Lidell on this lovestruck sixth record. Warm, 70s-infused highs—just see pulpit-shaking gospel stormer “Walk Right Back”—lurk everywhere. And whether he’s calling for political peace over languid guitars (“Me and You”), or sweetly exulting in his newborn son (as on the unavoidably Stevie Wonder-ish funk of “Julian”) optimism suits the British-born Nashville transplant.
-    
+A masterpiece of joyous nostalgia and full-throated soul marks a new phase for robo-R&B king Jamie Lidell on this lovestruck sixth record. Warm, 70s-infused highs—just see pulpit-shaking gospel stormer “Walk Right Back”—lurk everywhere. And whether he’s calling for political peace over languid guitars (“Me and You”) or sweetly exulting in his newborn son (as on the unavoidably Stevie Wonder-ish funk of “Julian”) optimism suits the British-born Nashville transplant.
+        
+        
     
 
 
@@ -44,11 +45,13 @@ A masterpiece of joyous nostalgia and full-throated soul marks a new phase for r
 
 
 ## Videos
-### Jamie Lidell - Building A Beginning (Lyric Video)
-{{< youtube id="RkNdHL3eXGc" title="Jamie Lidell - Building A Beginning (Lyric Video)" >}}<br>
+### Jamie Lidell - "Building A Beginning" (Lyric Video)
+{{< youtube id="RkNdHL3eXGc" title="Jamie Lidell - "Building A Beginning" (Lyric Video)" >}}<br>
 ### More Videos
 
-- [Jamie Lidell - I Live To Make You Smile (Official Audio)](https://www.youtube.com/watch?v=SpXk3GslsgU)
+- [Jamie Lidell - "I Live To Make You Smile" (Official Audio)](https://www.youtube.com/watch?v=SpXk3GslsgU)
+- [Jamie Lidell - "Building A Beginning" (Lyric Video)](https://www.youtube.com/watch?v=RkNdHL3eXGc)
+- [Jamie Lidell - "I Live To Make You Smile" (Official Audio)](https://www.youtube.com/watch?v=SpXk3GslsgU)
 
 ## Release Images
 {{< imageGrid >}}
@@ -56,6 +59,7 @@ A masterpiece of joyous nostalgia and full-throated soul marks a new phase for r
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
+| Wikipedia URL | https://en.wikipedia.org/wiki/Building_a_Beginning |
 | Format         | Vinyl LP 45 RPM (Red), Vinyl LP 45 RPM (Yellow), All Media Album |
 | Label          | Jajulin |
 | Catalog Number | JJL004 |

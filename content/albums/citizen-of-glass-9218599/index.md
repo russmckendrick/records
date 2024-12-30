@@ -13,19 +13,19 @@ cover:
     alt: "Citizen Of Glass by Agnes Obel"
     caption: "Citizen Of Glass by Agnes Obel"
 additional_images:
-    - "https://i.discogs.com/s2xweHIqKkQn8WPn2DmCH-KlGv0t5URJA_I9CHl6l6s/rs:fit/g:sm/q:90/h:487/w:500/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkyMTg1/OTktMTQ3Njg2OTAx/MC0xOTI2LmpwZWc.jpeg"
     - "https://i.discogs.com/vVqjyyfkaLoCnh1drggJ_OtFFWZUXZD8qpEClRnEDts/rs:fit/g:sm/q:90/h:592/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkyMTg1/OTktMTQ4ODg5Mzcw/OS0xNjgzLmpwZWc.jpeg"
+    - "https://i.discogs.com/AjkEjkyeCEXIkK0282qb3vaafTio9G2zM3dL-VugZWc/rs:fit/g:sm/q:90/h:300/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkyMTg1/OTktMTQ4ODg5Mzg5/NS04MDk3LmpwZWc.jpeg"
     - "https://i.discogs.com/ofKV8tfyKTxUb5RIBtGaIDXkYV-BkWj72aSGnu3eAXE/rs:fit/g:sm/q:90/h:592/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkyMTg1/OTktMTQ4ODg5Mzcx/OS04MjU1LmpwZWc.jpeg"
     - "https://i.discogs.com/zGEv3VltqMBk2ICGtXev1xXGo4Rx80A5WDpwtt_rRmk/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkyMTg1/OTktMTQ3NzE1MDM1/OC0xMjg1LmpwZWc.jpeg"
     - "https://i.discogs.com/alr8ixq5Malz1ugviTMHj-o6RnFzBpX7fTTE4FaVrpM/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkyMTg1/OTktMTQ3NzE1MDM3/NS00NDI0LmpwZWc.jpeg"
-    - "https://i.discogs.com/AjkEjkyeCEXIkK0282qb3vaafTio9G2zM3dL-VugZWc/rs:fit/g:sm/q:90/h:300/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkyMTg1/OTktMTQ4ODg5Mzg5/NS04MDk3LmpwZWc.jpeg"
+    - "https://i.discogs.com/s2xweHIqKkQn8WPn2DmCH-KlGv0t5URJA_I9CHl6l6s/rs:fit/g:sm/q:90/h:487/w:500/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkyMTg1/OTktMTQ3Njg2OTAx/MC0xOTI2LmpwZWc.jpeg"
     - "https://i.discogs.com/hVg23d8PuNeYXQFbqWe0GzkEMNqAw5losCG0lvsM5zw/rs:fit/g:sm/q:90/h:450/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkyMTg1/OTktMTQ3NzE1MDQx/Ni03NjY1LmpwZWc.jpeg"
     - "https://i.discogs.com/1S89BTxHMF2aFzwAWWavyKaqUTQxP6Q-F9UYlVhCLPM/rs:fit/g:sm/q:90/h:431/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkyMTg1/OTktMTQ4ODg5Mzcw/OC0xOTE0LmpwZWc.jpeg"
 genres: ["Pop", "Folk, World, & Country"]
 styles: ["Vocal", "Ballad"]
 ---
 
-Spectral visions haunt Agnes Obel’s remarkable third studio album. You can hear them in the wraithlike harmonies that shadow her mournful vocal melody on “It’s Happening Again,” in the eerie celestial layers of the stately “Trojan Horses,” and in the discombobulating sonic textures and claustrophobic lyrics of “Stretch Your Eyes.” Obel is fully in charge of these spirits, engaging them both aesthetically (her arrangements are uncharacteristically complex and captivatingly strange) and thematically, as she explores concepts connected to mortality, identity, and privacy.
+Spectral visions haunt Agnes Obel’s remarkable third studio album. You can hear them in the wraithlike harmonies that shadow her mournful vocal melody on “It’s Happening Again”, in the eerie celestial layers of the stately “Trojan Horses” and in the discombobulating sonic textures and claustrophobic lyrics of “Stretch Your Eyes”. Obel is fully in charge of these spirits, engaging them both aesthetically (her arrangements are uncharacteristically complex and captivatingly strange) and thematically, as she explores concepts connected to mortality, identity and privacy.
     
     
 
@@ -51,6 +51,16 @@ Spectral visions haunt Agnes Obel’s remarkable third studio album. You can hea
 {{< youtube id="N0mV1raPQ3o" title="Agnes Obel - Stretch your Eyes (Official Audio)" >}}<br>
 ### More Videos
 
+- [Agnes Obel - Familiar (Official Video)](https://www.youtube.com/watch?v=32kYH6XZrIo)
+- [Agnes Obel - Red Virgin Soil (Official Audio)](https://www.youtube.com/watch?v=GalTlzwr3XU)
+- [Agnes Obel - It's Happening Again (Official Video)](https://www.youtube.com/watch?v=YT-ECHaz4PE)
+- [Agnes Obel - Stone (Official Audio)](https://www.youtube.com/watch?v=pyFmxA3ZyLE)
+- [Agnes Obel - Trojan Horses (Official Audio)](https://www.youtube.com/watch?v=-EYEOMj7TBk)
+- [Agnes Obel - Citizen Of Glass (Official Audio)](https://www.youtube.com/watch?v=IlIRIZSZtuc)
+- [Agnes Obel - Golden Green (Official Video)](https://www.youtube.com/watch?v=WRLVINLlEVE)
+- [Agnes Obel - Grasshopper (Official Audio)](https://www.youtube.com/watch?v=TMPRryoSny0)
+- [Agnes Obel - Mary (Official Audio)](https://www.youtube.com/watch?v=CoBT59xRElU)
+- [Agnes Obel - Stretch your Eyes (Official Audio)](https://www.youtube.com/watch?v=N0mV1raPQ3o)
 - [Agnes Obel - Familiar (Official Video)](https://www.youtube.com/watch?v=32kYH6XZrIo)
 - [Agnes Obel - Red Virgin Soil (Official Audio)](https://www.youtube.com/watch?v=GalTlzwr3XU)
 - [Agnes Obel - It's Happening Again (Official Video)](https://www.youtube.com/watch?v=YT-ECHaz4PE)

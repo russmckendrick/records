@@ -12,7 +12,7 @@ cover:
     alt: "The Beta Band by The Beta Band"
     caption: "The Beta Band by The Beta Band"
 additional_images:
-    - "https://i.discogs.com/ggAjbPAjZMmGblVjrVSdsbP2azLsanvzky_if1PJm7k/rs:fit/g:sm/q:90/h:612/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNjQ3/NDYzLTE1MzkyODEw/MTQtMTU4OC5qcGVn.jpeg"
+    - "https://i.discogs.com/WTzG9RPseHN5TL67Gd9EU5Pqg4QS6uhuQkSyEtVpGT8/rs:fit/g:sm/q:90/h:600/w:587/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNjQ3/NDYzLTE1MzkyODEw/MTQtMTU4OC5qcGVn.jpeg"
     - "https://i.discogs.com/P9_7EJwlBzTnYKtOoKTUtUzNtm4Ikxb2mc96kVxQ6yE/rs:fit/g:sm/q:90/h:590/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNjQ3/NDYzLTE1MzkyODI2/MzMtMzk1NS5qcGVn.jpeg"
     - "https://i.discogs.com/AU550qm6EspN0Om4b7bOJ3GdrPejaqFXLknP4qxZTNI/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNjQ3/NDYzLTE1MzkyODI2/NjYtMzkwNy5qcGVn.jpeg"
     - "https://i.discogs.com/x2tMvSqfmbhsKeOM0S29aMEeUURDe5Kod6a8fodZ9RU/rs:fit/g:sm/q:90/h:590/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNjQ3/NDYzLTE1MzkyODEw/MjAtMTY2Mi5qcGVn.jpeg"
@@ -21,8 +21,9 @@ genres: ["Electronic", "Rock"]
 styles: ["Leftfield", "Experimental", "IDM", "Indie Rock"]
 ---
 
-The Beta Band were a Scottish musical group formed in 1996. Their style was described as being "folktronica", although it was mainly a blend of folk, psychedelia, electronica, experimental rock and trip hop, often involving stylistic experimentation. Despite inner conflict and the eventual decline of the group, they became critically acclaimed after releasing their first few recordings and achieved a cult following as they began releasing studio albums, before disbanding in 2004. They were praised by members of both Radiohead and Oasis, the former of which chose them to open for their concerts in 2001.
-The band's music has been featured in multiple films, including High Fidelity and It's All Gone Pete Tong.
+The Beta Band is the debut studio album of the Beta Band, released in June 1999 by Regal Records. The album followed the critically acclaimed compilation of their first three EPs titled The Three E.P.'s (1998). With high anticipation for The Beta Band, the band originally planned to record the album in four separate continents, but financial constraints slimmed the recording locations down; however, the album was still recorded in a variety of locations. The band approached creating the songs in a variety of ways, sometimes forming songs from single melodies, sometimes bringing together other strands of music, among other forms.
+The album builds upon the experimentation of their EPs, and is often seen as a particularly intricate, experimental and layered album, with a variety of different influences, sound effects, instrumentation and song structures. Based more around beat and rhythm than prior releases, the numerous different styles and influences incorporated into The Beta Band include psychedelia, hip hop and blues. Vocalist Steve Mason described his lyrics as fitting but without narrative interests. The band also recorded an ambient bonus disc of two long compositions, "Happiness and Colour" and "The Hut", but decided not to include the disc in the final release.
+Upon its release, the band made their dissatisfaction with the album public, infamously calling it "fucking awful", largely blaming time constraints. Upon its release, it reached number 18 on the UK Albums Chart. Critics were favourable towards the album, although many found the album particularly messy and disappointing after the EPs. In later years however, several critics have found the album to be underrated and have praised its ambitions. In 2018, as part of a reissue campaign of the band's discography, Because Music re-released the album alongside the intended bonus disc.
     
     
 
@@ -62,9 +63,12 @@ The band's music has been featured in multiple films, including High Fidelity an
 
 
 ## Videos
-### The Beta Band - The Beta Band (Full Album)
-{{< youtube id="shIRuXRPKBA" title="The Beta Band - The Beta Band (Full Album)" >}}<br>
+### It's Not Too Beautiful
+{{< youtube id="-41N62ps1jc" title="It's Not Too Beautiful" >}}<br>
+### More Videos
 
+- [The Hard One](https://www.youtube.com/watch?v=QbHZOoZ10VQ)
+- [The Beta Band - The Beta Band (Full Album)](https://www.youtube.com/watch?v=shIRuXRPKBA)
 
 ## Release Images
 {{< imageGrid >}}
@@ -72,7 +76,7 @@ The band's music has been featured in multiple films, including High Fidelity an
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Wikipedia URL | https://en.wikipedia.org/wiki/The_Beta_Band |
+| Wikipedia URL | https://en.wikipedia.org/wiki/The_Beta_Band_(album) |
 | Format         | Vinyl 2× LP Album Reissue, Vinyl LP Album, CD 2× Album |
 | Label          | Because Music |
 | Catalog Number | BEC5543698 |

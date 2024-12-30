@@ -21,7 +21,7 @@ additional_images:
     - "https://i.discogs.com/g44L-19fDacftQ8hG4KtCsMSvD3qARFKuVfx6cDD1Qw/rs:fit/g:sm/q:90/h:288/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwOTIw/MDYyLTE1MTEzNjQw/NTYtNDk5Ni5qcGVn.jpeg"
     - "https://i.discogs.com/HCuOYtYAYoucbMOYP2K-2gTDuwZVqITkhC0mK4XBMLQ/rs:fit/g:sm/q:90/h:292/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwOTIw/MDYyLTE1MTEzNjQw/NjgtMjk3MS5qcGVn.jpeg"
     - "https://i.discogs.com/uAy1XlkMXwk6iWfgHlGNK-_tYQr2TeGBGRZOVce1QR4/rs:fit/g:sm/q:90/h:558/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwOTIw/MDYyLTE1MDY3ODk0/NjctMjI4MC5qcGVn.jpeg"
-    - "https://i.discogs.com/0rsqXDld-7GNszJ_xL656W70KyIgUHwiZEHyUNfvHBs/rs:fit/g:sm/q:90/h:604/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwOTIw/MDYyLTE1MDY3ODk0/ODYtNjc2Ni5qcGVn.jpeg"
+    - "https://i.discogs.com/GjhqWli1rn2kEoqsHuQK99KT8ZsKSkjJl620LNnNxG4/rs:fit/g:sm/q:90/h:600/w:595/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwOTIw/MDYyLTE1MDY3ODk0/ODYtNjc2Ni5qcGVn.jpeg"
     - "https://i.discogs.com/K7W0wGQs0gMVRExgEW8AL6qm_JFe_1ypoYlw8pHeyHc/rs:fit/g:sm/q:90/h:288/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwOTIw/MDYyLTE1MTEzNjQw/NjQtNzMyNC5qcGVn.jpeg"
     - "https://i.discogs.com/lIROPvO-mJ8xwwaCxKfEWLhMk_VwF9umUGL4L18EcJk/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwOTIw/MDYyLTE1MDk2Mzc0/MjktMzUwMy5qcGVn.jpeg"
     - "https://i.discogs.com/7wLadDXpjLeTKr0Cw7SFx6I14l4C75o2lYMeXeq2gHY/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwOTIw/MDYyLTE1MDk2Mzc0/MzUtMjg1NC5qcGVn.jpeg"
@@ -45,7 +45,7 @@ additional_images:
     - "https://i.discogs.com/omcU8rFRSHd1dhv_F5ptD2nvY50AfCymsQMh5v8CsJ8/rs:fit/g:sm/q:90/h:294/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwOTIw/MDYyLTE1MTEzNjQx/ODgtMzg5NS5qcGVn.jpeg"
     - "https://i.discogs.com/0_6oSFuVijfhGZQGb-NoGshfqHFxGRgHMsBeMyRddWE/rs:fit/g:sm/q:90/h:293/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwOTIw/MDYyLTE1MTEzNjQx/ODQtNzE0MC5qcGVn.jpeg"
     - "https://i.discogs.com/PkKAlXeBMfUz_2r5gbumuZs2tCRqufgzSX0IscFhXMA/rs:fit/g:sm/q:90/h:522/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwOTIw/MDYyLTE1MTEzNjQx/ODEtNDk1MC5qcGVn.jpeg"
-    - "https://i.discogs.com/fO_CJTFBy5p3eFK2inwhfLAGgzQXY5H18PJpVVnp02o/rs:fit/g:sm/q:90/h:666/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwOTIw/MDYyLTE1MTEzNjQx/ODMtNjc4Mi5qcGVn.jpeg"
+    - "https://i.discogs.com/1nDyORAuJWpHjpHEvl36a7UALise9_YP5G_Zp3goaKY/rs:fit/g:sm/q:90/h:600/w:540/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwOTIw/MDYyLTE1MTEzNjQx/ODMtNjc4Mi5qcGVn.jpeg"
 genres: ["Rock"]
 styles: ["Psychedelic Rock", "Art Rock", "Prog Rock"]
 ---
@@ -89,6 +89,21 @@ Live at Pompeii is a live album and film by David Gilmour, the guitarist of Pink
 {{< youtube id="ABPQdXertbs" title="David Gilmour - One of These Days (Live At Pompeii)" >}}<br>
 ### More Videos
 
+- [David Gilmour - Money (Live At Pompeii)](https://www.youtube.com/watch?v=26nZZSLs65o)
+- [David Gilmour - Time/Breathe (Reprise) (Live At Pompeii)](https://www.youtube.com/watch?v=sogFyPrAY5E)
+- [David Gilmour - Wish You Were Here (Live At Pompeii)](https://www.youtube.com/watch?v=WaEKXGlfYj8)
+- [David Gilmour - Comfortably Numb (Live At Pompeii)](https://www.youtube.com/watch?v=eHKG7EMxWW8)
+- [David Gilmour - Run Like Hell (Live At Pompeii)](https://www.youtube.com/watch?v=Z50ssGVeE94)
+- [David Gilmour - The Great Gig In the Sky (Live At Pompeii)](https://www.youtube.com/watch?v=jXRJSyHuG2I)
+- [David Gilmour - Shine On You Crazy Diamond (Live At Pompeii)](https://www.youtube.com/watch?v=CiXNIjGX1hY)
+- [David Gilmour - High Hopes (Live At Pompeii)](https://www.youtube.com/watch?v=-xveqYrKJTE)
+- [David Gilmour - Coming Back To Life (Live At Pompeii)](https://www.youtube.com/watch?v=YTaYw6V5HP4)
+- [David Gilmour - Sorrow (Live At Pompeii)](https://www.youtube.com/watch?v=q3ATfbYXqpc)
+- [David Gilmour - Fat Old Sun (Live At Pompeii)](https://www.youtube.com/watch?v=qB3dLKVSs6s)
+- [David Gilmour - Faces of Stone (Live At Pompeii)](https://www.youtube.com/watch?v=xFai4z9Z5bU)
+- [David Gilmour - In Any Tongue (Live At Pompeii)](https://www.youtube.com/watch?v=iOACn7v-_VI)
+- [David Gilmour - On An Island (Live At Pompeii)](https://www.youtube.com/watch?v=r49ehE3bU94)
+- [David Gilmour - One of These Days (Live At Pompeii)](https://www.youtube.com/watch?v=ABPQdXertbs)
 - [David Gilmour - Money (Live At Pompeii)](https://www.youtube.com/watch?v=26nZZSLs65o)
 - [David Gilmour - Time/Breathe (Reprise) (Live At Pompeii)](https://www.youtube.com/watch?v=sogFyPrAY5E)
 - [David Gilmour - Wish You Were Here (Live At Pompeii)](https://www.youtube.com/watch?v=WaEKXGlfYj8)

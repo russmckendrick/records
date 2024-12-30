@@ -4,6 +4,7 @@ artist_name: "The Hold Steady"
 artist: "the-hold-steady"
 album_name: "Separation Sunday"
 date: 2017-04-17T13:21:46.000000Z
+release_date: "2005-05-03"
 release_id: "9314471"
 slug: "separation-sunday-9314471"
 hideSummary: true
@@ -24,9 +25,13 @@ genres: ["Rock"]
 styles: ["Indie Rock"]
 ---
 
-Separation Sunday is the second studio album by the American indie rock band The Hold Steady, released on May 3, 2005 through Frenchkiss Records. A concept album, Separation Sunday follows the interconnected stories of several fictional characters: Craig (the narrator), Holly (short for Halleluiah), a sometimes addict, sometimes prostitute, sometimes born again Christian/Catholic (and sometimes all three simultaneously); Charlemagne, a pimp; and Gideon, a skinhead, as they travel from city to city and party to party.Separation Sunday is lyrically dense, full of Biblical allusions, self-reference word play, and puns.  Vocalist/songwriter Craig Finn typically delivers these lyrics in a distinct flavor of sprechgesang.
-Musically, Separation Sunday touches on elements of Classic rock: guitar solos, riff-based structures, use of piano and organ, and guitar harmony.  Structurally, however, most songs eschew the standard verse-chorus-verse song structure, frequently foregoing choruses or refrains altogether. In a review of the album, Blender described The Hold Steady as "sound[ing] like the best bar band in the world."The album cover was photographed at the corner of Maspeth Avenue and Conselyea Street in Williamsburg, Brooklyn.The song "Your Little Hoodrat Friend" was featured on the video game Tony Hawk's Project 8.
-    
+After The Hold Steady’s energising 2004 debut—the short-story-collection-as-rock-record <i>Almost Killed Me</i>—the group returned in 2005 with <i>Separation Sunday</i>, an album that plays as a cohesive, somewhat experimental novel. Propelled by a borderline biblical narrative, <i>Separation Sunday</i> dives deep into the lives of lead singer Craig Finn’s recurring characters—including Holly (short for Hallelujah), Charlemagne and Gideon—as they get into adventures (and trouble) in places like Denver, Chicago, the Twin Cities and Ybor City.
+
+Filled with ripping rock ’n’ roll alongside Catholic imagery, resurrections and an oftentimes drug-fueled scene, <i>Separation Sunday</i> is an original, artful record. Finn’s lyrics combine intensely specific references—he sings about actual streets, neighbourhoods and bands—with completely unreliable narration. He was telling an ongoing fictional story that felt very much encapsulated within reality, building a years-long lore that Hold Steady fans would still be debating and discussing years later.
+
+And on <i>Separation Sunday</i>, the band is doing some boundary-bending work of its own, pulling together punk rock, classic rock, bar rock and mid-2000s indie rock to create a dynamic sound, with keyboardist and multi-instrumentalist Franz Nicolay joining in as a full-time member. The result is a raw, energetic collection of modern-day hymns, one that found The Hold Steady finding critical acclaim—and landing the group on the cover of <i>The Village Voice</i>, the first rock act to do so in 15 years.
+        
+        
     
 
 
@@ -38,13 +43,13 @@ Musically, Separation Sunday touches on elements of Classic rock: guitar solos, 
 5. Charlemagne In Sweatpants (3:59)
 6. Stevie Nix (5:28)
 7. Multitude Of Casualties (3:06)
-8. Don’t Let Me Explode (2:23)
+8. Don't Let Me Explode (2:23)
 9. Chicago Seemed Tired Last Night (3:20)
 10. Crucifixion Cruise (1:51)
 11. How A Resurrection Really Feels (5:32)
 
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/separation-sunday-deluxe-version/1143274331" >}}<br>
+{{< applemusic url="https://music.apple.com/gb/album/separation-sunday/58623804" >}}<br>
 
 
 ## Videos
@@ -69,7 +74,7 @@ Musically, Separation Sunday touches on elements of Classic rock: guitar solos, 
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Separation_Sunday |
-| Format         | Vinyl LP Reissue Remastered (White Vinyl) |
+| Format         | Vinyl LP Reissue Remastered (White) |
 | Label          | Frenchkiss Records |
 | Catalog Number | FKR087-1 |
 | Notes | Repress on white vinyl. Comes with download card with B-sides and bonus tracks  ©&℗ 2016 Frenchkiss Records.  |

@@ -17,7 +17,7 @@ additional_images:
     - "https://i.discogs.com/BvB7Q8cChnUEXZmJu_dElcLbSPixrc_OZnKimnhopYA/rs:fit/g:sm/q:90/h:590/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NzIx/ODA5LTE2MDE1NjE5/ODQtNDY3OS5qcGVn.jpeg"
     - "https://i.discogs.com/gRolLrVI5zTpffARX593YurG4Koqs3frjvSHNrM3Wl0/rs:fit/g:sm/q:90/h:567/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NzIx/ODA5LTE2MDEzNzg0/NjMtMTg5Ni5qcGVn.jpeg"
     - "https://i.discogs.com/VgJOo-rxdIsVZP88jySuBTWQvNgOBKE0O5Aaq-Dk5cM/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NzIx/ODA5LTE2MDEzNzg0/NjMtNzk1Ni5qcGVn.jpeg"
-    - "https://i.discogs.com/5AtbVzSh8sOru4TgrS56XDIiaEp_Sm4QRmgCK6MrXXw/rs:fit/g:sm/q:90/h:618/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NzIx/ODA5LTE1ODAzMTUw/MjctODQ4NS5qcGVn.jpeg"
+    - "https://i.discogs.com/nCz50z7IvGvdjqMlAC4bboZZGRlXfEv7sla70zCT92M/rs:fit/g:sm/q:90/h:600/w:582/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NzIx/ODA5LTE1ODAzMTUw/MjctODQ4NS5qcGVn.jpeg"
 genres: ["Rock", "Folk, World, & Country"]
 styles: ["Southern Rock", "Country Rock"]
 ---
@@ -44,9 +44,11 @@ In 2016’s <i>American Band</i>, Drive-By Truckers co-founders Patterson Hood a
 
 
 ## Videos
-### Drive-By Truckers - Thoughts and Prayers (Official Lyric Video)
-{{< youtube id="tkD4xSqNVII" title="Drive-By Truckers - Thoughts and Prayers (Official Lyric Video)" >}}<br>
+### Drive-By Truckers - "Thoughts and Prayers" (Official Lyric Video)
+{{< youtube id="tkD4xSqNVII" title="Drive-By Truckers - "Thoughts and Prayers" (Official Lyric Video)" >}}<br>
+### More Videos
 
+- [Drive-By Truckers - "Thoughts and Prayers" (Official Lyric Video)](https://www.youtube.com/watch?v=tkD4xSqNVII)
 
 ## Release Images
 {{< imageGrid >}}

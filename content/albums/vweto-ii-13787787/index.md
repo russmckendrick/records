@@ -14,7 +14,7 @@ cover:
 additional_images:
     - "https://i.discogs.com/AWCA450o4l340mn2uymWGAwS4621lSbDO9rDwu5qmD8/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNzg3/Nzg3LTE1NjExMzE0/MTQtMjA1NS5qcGVn.jpeg"
     - "https://i.discogs.com/u5HylPNZMnNTUVncMCd2_OnYm5JdUtCRIXvBWw3iOlk/rs:fit/g:sm/q:90/h:480/w:480/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNzg3/Nzg3LTE1NjIxNjI1/MjMtNzgxNC5qcGVn.jpeg"
-    - "https://i.discogs.com/FeZSHalDBbCuFX_LWtEbzFreoWZEuYx0uHsrg01HQxY/rs:fit/g:sm/q:90/h:604/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNzg3/Nzg3LTE1NjIxNjI1/MjctODIwMC5qcGVn.jpeg"
+    - "https://i.discogs.com/tDG8-f0EcwPPssMgmhtxfzfYqZ9jSZ8ATsyZCZFb6LY/rs:fit/g:sm/q:90/h:600/w:595/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNzg3/Nzg3LTE1NjIxNjI1/MjctODIwMC5qcGVn.jpeg"
     - "https://i.discogs.com/mDg0NTzHNZ7Ik4su469zOgoauUwJThiXdqC10nAjcOQ/rs:fit/g:sm/q:90/h:480/w:480/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNzg3/Nzg3LTE1NjIxNjI1/MzAtNTI5Mi5qcGVn.jpeg"
 genres: ["Hip Hop", "Funk / Soul"]
 styles: ["Instrumental", "Funk"]
@@ -41,7 +41,7 @@ styles: ["Instrumental", "Funk"]
 16. Yoyo Ma Fonk (3:09)
 
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/vweto-ii/1456010351" >}}<br>
+{{< applemusic url="https://music.apple.com/gb/album/vweto-ii/1755756476" >}}<br>
 
 
 ## Videos
@@ -49,6 +49,23 @@ styles: ["Instrumental", "Funk"]
 {{< youtube id="oJabLChQ8Bs" title="Brokenfolks" >}}<br>
 ### More Videos
 
+- [GEORGIA ANNE MULDROW - BIG MAMA AFRICA JAM](https://www.youtube.com/watch?v=jxbEScphfOs)
+- [Emo Blues](https://www.youtube.com/watch?v=1kcGwm9x9M4)
+- [When the Fonk Radiates](https://www.youtube.com/watch?v=ocag27kZJ2Y)
+- [Big Mama Africa Jam](https://www.youtube.com/watch?v=D2kwqYMnijg)
+- [CV Jam Number 2](https://www.youtube.com/watch?v=UgSQtQXz9wc)
+- [Old School Fonk](https://www.youtube.com/watch?v=2qMQw8e7-GE)
+- [Yoyo Ma Fonk](https://www.youtube.com/watch?v=O0t97d5BRlc)
+- [Das Funk](https://www.youtube.com/watch?v=qsagVuvu9OE)
+- [Nate Dogg's Eulogy](https://www.youtube.com/watch?v=Y2vyP7IzVg4)
+- [Gettin It](https://www.youtube.com/watch?v=OUjRgX7Q4lY)
+- [Bass Attack Bap](https://www.youtube.com/watch?v=YoN5w1fQLbU)
+- [Almost Trendy](https://www.youtube.com/watch?v=QbmvOuKK_Us)
+- [Bronx Skates](https://www.youtube.com/watch?v=vnPR8alNV6I)
+- [Something Fun](https://www.youtube.com/watch?v=bOdbCxu49fw)
+- [Wu Punk](https://www.youtube.com/watch?v=j33VtKOYTLU)
+- [Mary Lou's Motherboard](https://www.youtube.com/watch?v=qaxYIPhdqp0)
+- [Brokenfolks](https://www.youtube.com/watch?v=oJabLChQ8Bs)
 - [GEORGIA ANNE MULDROW - BIG MAMA AFRICA JAM](https://www.youtube.com/watch?v=jxbEScphfOs)
 - [Emo Blues](https://www.youtube.com/watch?v=1kcGwm9x9M4)
 - [When the Fonk Radiates](https://www.youtube.com/watch?v=ocag27kZJ2Y)

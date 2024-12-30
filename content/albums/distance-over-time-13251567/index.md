@@ -21,13 +21,13 @@ additional_images:
     - "https://i.discogs.com/E0WA6ALLpxFLWeAd7CsFVu58rEiGFfe2anRSoLcGfV8/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMjUx/NTY3LTE1NTA5MDc0/NDQtNDg2Ny5qcGVn.jpeg"
     - "https://i.discogs.com/wZL-hqVMhPYb2Go_nLJoRIBR6IHtWmvynb-5Zle72_Q/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMjUx/NTY3LTE1NTA5MDc0/ODctNDQ0MS5qcGVn.jpeg"
     - "https://i.discogs.com/H8uUp_wme3IHBPVguchVWvKKzQi4HjWQf7NVo5mOWiQ/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMjUx/NTY3LTE1NTA5MDc0/MjYtMTAzNC5qcGVn.jpeg"
-    - "https://i.discogs.com/aGwILEJKXmDMkZryMaXHqCxJtr37Dq8j1AgFNoOD5wM/rs:fit/g:sm/q:90/h:603/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMjUx/NTY3LTE2MDcyNjQw/OTItNzY2NS5qcGVn.jpeg"
-    - "https://i.discogs.com/7qjN44FzHLKpA6w39TsLVkPwtEB-fmUoNcYAIJmrOKY/rs:fit/g:sm/q:90/h:606/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMjUx/NTY3LTE2MDcyNjQw/OTMtNzQzNi5qcGVn.jpeg"
+    - "https://i.discogs.com/UF9VTpgnDGPjo0n9c2wgHPZ0gTAJ_yjtVMp6c7Hj8CE/rs:fit/g:sm/q:90/h:600/w:596/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMjUx/NTY3LTE2MDcyNjQw/OTItNzY2NS5qcGVn.jpeg"
+    - "https://i.discogs.com/KOjnWu-xgaPKBe4saclu3aI_cFfHGmiltgRD0qmkDjc/rs:fit/g:sm/q:90/h:600/w:593/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMjUx/NTY3LTE2MDcyNjQw/OTMtNzQzNi5qcGVn.jpeg"
     - "https://i.discogs.com/WHIzakPH30kwe0sOi_pEAWknOhG_D6fd8dPULUXLGJs/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMjUx/NTY3LTE2MDcyNjQw/OTMtMzkxNi5qcGVn.jpeg"
     - "https://i.discogs.com/_EwVBLdVfv_OFpusMhwz8xWuI2onc0JT1un0SqnUuTM/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMjUx/NTY3LTE2MDcyNjQw/OTMtNTEyMi5qcGVn.jpeg"
     - "https://i.discogs.com/YunqfrIiPD6aX4oBBQDqXSEVDA9tNMW6DPinOrAKRP0/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMjUx/NTY3LTE2MDcyNjQw/OTMtOTI3MS5qcGVn.jpeg"
     - "https://i.discogs.com/k_TXtFonPih-72APPef7tPe4h1lSm65j4fjSEuRJLas/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMjUx/NTY3LTE1NTA5MDc0/ODYtODY5Ny5qcGVn.jpeg"
-    - "https://i.discogs.com/RgOsPIcjGP8nSSbGvOhrKBmWxG6aXuKo2HpYXmb2ucw/rs:fit/g:sm/q:90/h:604/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMjUx/NTY3LTE2MDcyNjQw/OTMtNTgwMy5qcGVn.jpeg"
+    - "https://i.discogs.com/RCuSD69gXNZD4Dz_jj3xB5UzORu-_m_3l8a3l9JQon4/rs:fit/g:sm/q:90/h:600/w:595/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMjUx/NTY3LTE2MDcyNjQw/OTMtNTgwMy5qcGVn.jpeg"
     - "https://i.discogs.com/urVA_C1STMLf3cq23PQP1FMjAdMfhmCiQhhjRzLif2k/rs:fit/g:sm/q:90/h:483/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMjUx/NTY3LTE1NTA5MDcw/MzUtMzE4OC5qcGVn.jpeg"
     - "https://i.discogs.com/de05LvpuzPjPQ4ocJzOeKtn4KcOkSwAa4O3lfGIsEcM/rs:fit/g:sm/q:90/h:587/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMjUx/NTY3LTE1NTQ1NzUz/MjUtNzExMS5qcGVn.jpeg"
     - "https://i.discogs.com/IpoHdGsVKgJsPI4XUZ6Nb8RvA6Q4hl5uErjFoijDRQc/rs:fit/g:sm/q:90/h:600/w:594/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMjUx/NTY3LTE1ODE0NDE4/NDYtODk1OC5qcGVn.jpeg"
@@ -64,15 +64,13 @@ Distance Over Time is the fourteenth studio album by American progressive metal 
 20. Viper King (4:01)
 
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/distance-over-time-bonus-track-version/1445099485" >}}<br>
+{{< applemusic url="https://music.apple.com/gb/album/dream-theater/676891642" >}}<br>
 
 
 ## Videos
-### Dream Theater - Distance Over Time. 2019. Progressive Metal. Full Album
-{{< youtube id="zB19NXfsxdQ" title="Dream Theater - Distance Over Time. 2019. Progressive Metal. Full Album" >}}<br>
-### More Videos
+### Dream Theate̲r̲ - Distance Over Tim̲e̲ - Full album 2019
+{{< youtube id="SqeWgDH09Nk" title="Dream Theate̲r̲ - Distance Over Tim̲e̲ - Full album 2019" >}}<br>
 
-- [DREAM THEATER - Untethered Angel (OFFICIAL VIDEO)](https://www.youtube.com/watch?v=gylxuO6dKOw)
 
 ## Release Images
 {{< imageGrid >}}
@@ -80,7 +78,7 @@ Distance Over Time is the fourteenth studio album by American progressive metal 
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Wikipedia URL | https://en.wikipedia.org/wiki/Distance_over_Time |
+| Wikipedia URL | https://en.wikipedia.org/wiki/Distance_Over_Time |
 | Format         | Vinyl 2× LP Album Stereo (180 gram), CD Album Stereo |
 | Label          | Inside Out Music |
 | Catalog Number | IOMLP 523 |

@@ -18,6 +18,8 @@ styles: ["Roots Reggae"]
 ---
 
 In the Dark is the second international album release by the reggae singing group Toots and the Maytals, issued in Jamaica and in the United Kingdom on Dragon Records, DRLS 5004, a subsidiary label owned by Chris Blackwell. It was released in September 1974.
+
+
     
     
 
@@ -37,7 +39,7 @@ In the Dark is the second international album release by the reggae singing grou
 12. Sailing On
 
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/in-the-dark/1442876860" >}}<br>
+{{< applemusic url="https://music.apple.com/gb/album/toots-the-maytals-pressure-drop/602608174" >}}<br>
 
 
 ## Videos

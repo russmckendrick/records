@@ -14,12 +14,17 @@ cover:
 additional_images:
     - "https://i.discogs.com/iQ2W7MwqTUMuqidsW6QYcRD6H_j7lquEgEVzwpC0XS0/rs:fit/g:sm/q:90/h:304/w:300/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMjk2/MjItMTE4NTg5MTA4/My5qcGVn.jpeg"
     - "https://i.discogs.com/ruCBaUbO1mEX0G2UTRVLXx2wt6_N5wZ4PyGdGet4KmA/rs:fit/g:sm/q:90/h:600/w:574/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMjk2/MjItMTM5NjQyNDUy/Ny03NDk2LmpwZWc.jpeg"
-    - "https://i.discogs.com/Rii3Mel4TAuMg_WVnF5wLRTmRjWzeZ1_-1bF9M829mQ/rs:fit/g:sm/q:90/h:608/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMjk2/MjItMTUzODgzMDg3/NS01NjYyLmpwZWc.jpeg"
+    - "https://i.discogs.com/DyCn2vL_YnZIs5SYJpFbKWd4jshGN0aCabJncCwEsm0/rs:fit/g:sm/q:90/h:600/w:591/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMjk2/MjItMTUzODgzMDg3/NS01NjYyLmpwZWc.jpeg"
     - "https://i.discogs.com/IAC0bmxJWpWrUjpqqM88aYmxCB6_M3KvYaXfgJGuu6Y/rs:fit/g:sm/q:90/h:600/w:596/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMjk2/MjItMTM5NjQyNDUz/Mi0yOTY0LmpwZWc.jpeg"
 genres: ["Rock"]
 styles: ["Alternative Rock"]
 ---
 
+Fish Heads and Tails is a 1989 compilation album from the Scottish group Goodbye Mr Mackenzie. It includes a selection of live tracks, outtakes and cover versions.
+
+
+    
+    
 
 
 ## Tracklisting
@@ -36,7 +41,22 @@ styles: ["Alternative Rock"]
 
 
 
+## Videos
+### Goodbye Mr Mackenzie - Somewhere In China
+{{< youtube id="375g1nn7j9I" title="Goodbye Mr Mackenzie - Somewhere In China" >}}<br>
+### More Videos
 
+- [Goodbye Mr Mackenzie - Mystery Train](https://www.youtube.com/watch?v=cyEkczmN7Rc)
+- [Goodbye Mr Mackenzie - Secrets](https://www.youtube.com/watch?v=Bdwu81gRGjA)
+- [Goodbye Mr Mackenzie - Pleasure Search](https://www.youtube.com/watch?v=l1xwmOAVgxM)
+- [Goodbye Mr Mackenzie - Punchandjudyland](https://www.youtube.com/watch?v=sgZXY5N8Eno)
+- [Goodbye Mr  Mackenzie   Face to Face](https://www.youtube.com/watch?v=-l0Lrw2_KgE)
+- [Goodbye Mr Mackenzie - Somewhere In China](https://www.youtube.com/watch?v=375g1nn7j9I)
+- [Goodbye Mr Mackenzie - Mystery Train](https://www.youtube.com/watch?v=cyEkczmN7Rc)
+- [Goodbye Mr Mackenzie - Secrets](https://www.youtube.com/watch?v=Bdwu81gRGjA)
+- [Goodbye Mr Mackenzie - Pleasure Search](https://www.youtube.com/watch?v=l1xwmOAVgxM)
+- [Goodbye Mr Mackenzie - Punchandjudyland](https://www.youtube.com/watch?v=sgZXY5N8Eno)
+- [Goodbye Mr  Mackenzie   Face to Face](https://www.youtube.com/watch?v=-l0Lrw2_KgE)
 
 ## Release Images
 {{< imageGrid >}}
@@ -44,6 +64,7 @@ styles: ["Alternative Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
+| Wikipedia URL | https://en.wikipedia.org/wiki/Fish_Heads_and_Tails |
 | Format         | Vinyl LP Compilation |
 | Label          | Capitol Records UK |
 | Catalog Number | CAPS 2001 |

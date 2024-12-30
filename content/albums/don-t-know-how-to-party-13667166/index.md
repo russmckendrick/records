@@ -14,12 +14,12 @@ cover:
 additional_images:
     - "https://i.discogs.com/5hADtu5g509FTWvIZ3gPvxYdHAxFY5_rcqFy665i1mY/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNjY3/MTY2LTE1NjA2MTI5/MjItMTEyMi5qcGVn.jpeg"
     - "https://i.discogs.com/8SJacgF407nY9nCT2cEAnCFwH3ZBrLVvgxBPsDOehiU/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNjY3/MTY2LTE1NjA2MTI5/MTMtMzUzMC5qcGVn.jpeg"
-    - "https://i.discogs.com/sqibFUv1zXrqPdG8-V9MDmHptY5iJiSF95Aj8diZLVE/rs:fit/g:sm/q:90/h:608/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNjY3/MTY2LTE1NjA2MTI4/OTktMzY0NC5qcGVn.jpeg"
-    - "https://i.discogs.com/VvynkstZN38UKLPwi_0MUhKTSpU8Qxfr5HxCAAS_wkc/rs:fit/g:sm/q:90/h:603/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNjY3/MTY2LTE1NjA2MTI4/OTUtNjE4NC5qcGVn.jpeg"
+    - "https://i.discogs.com/3THDHmgroNa-MI8_KBfWpgGTYtqz0DRvY9oxT4NbTdM/rs:fit/g:sm/q:90/h:600/w:591/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNjY3/MTY2LTE1NjA2MTI4/OTktMzY0NC5qcGVn.jpeg"
+    - "https://i.discogs.com/FGFJqaoQKwTK2dF10jQdJxbmfHw4EJb1HbCZiS-RLwQ/rs:fit/g:sm/q:90/h:600/w:596/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNjY3/MTY2LTE1NjA2MTI4/OTUtNjE4NC5qcGVn.jpeg"
     - "https://i.discogs.com/HcAgOOTuiC86XTB-xQ4JvefkKkwNlDNMAztExbrMcPw/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNjY3/MTY2LTE1NjA2MTI5/MjYtMjU0OC5qcGVn.jpeg"
-    - "https://i.discogs.com/aesvBqiVRJtr1TrR0BRM-PyR4MykutO3yk__n4vU6cI/rs:fit/g:sm/q:90/h:603/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNjY3/MTY2LTE1NjA2MTI5/MjUtMzAzMy5qcGVn.jpeg"
+    - "https://i.discogs.com/ZrChigc1uO_9pTQ3kS9c0IqeQjr8x_aI1JR0Xu7jhN4/rs:fit/g:sm/q:90/h:600/w:596/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNjY3/MTY2LTE1NjA2MTI5/MjUtMzAzMy5qcGVn.jpeg"
     - "https://i.discogs.com/tQHyEJ1sODSK0mHXLiGg9andv_UdX4wv5EjODGswTVE/rs:fit/g:sm/q:90/h:377/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNjY3/MTY2LTE1NjA2MTI5/MTEtNTEzNy5qcGVn.jpeg"
-    - "https://i.discogs.com/23l_26PTAAxxq7BnKhjTKbtHRrhaZL4YZPlUUkCqydA/rs:fit/g:sm/q:90/h:1537/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNjY3/MTY2LTE1NjA2MTI4/NDEtMjg3OC5qcGVn.jpeg"
+    - "https://i.discogs.com/TrguEr1XvDOdvOfr5JH-FoTDkc8KyBMM_z1I1LoqyBk/rs:fit/g:sm/q:90/h:600/w:234/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNjY3/MTY2LTE1NjA2MTI4/NDEtMjg3OC5qcGVn.jpeg"
 genres: ["Rock"]
 styles: ["Ska", "Punk"]
 ---
@@ -45,21 +45,11 @@ styles: ["Ska", "Punk"]
 
 
 ## Videos
-### Someday I Suppose
-{{< youtube id="Mvav4aPv0-s" title="Someday I Suppose" >}}<br>
+### The Mighty Mighty Bosstones - Don't Know How To Party
+{{< youtube id="IBY_UbhYJVU" title="The Mighty Mighty Bosstones - Don't Know How To Party" >}}<br>
 ### More Videos
 
-- [Our Only Weapon](https://www.youtube.com/watch?v=3QtGz0NCTA0)
-- [Last Dead Mouse](https://www.youtube.com/watch?v=Yb3l_GwdL1Q)
-- [Don't Know How To Party](https://www.youtube.com/watch?v=PVeVvAoo_Wc)
-- [A Man Without](https://www.youtube.com/watch?v=Z3RPIRl85sU)
-- [Holy Smoke](https://www.youtube.com/watch?v=S12UGb6b8cM)
-- [Illegal Left](https://www.youtube.com/watch?v=zouxzzdRSMo)
-- [Tin Soldiers](https://www.youtube.com/watch?v=El_dh1gWC48)
-- [Almost Anything Goes](https://www.youtube.com/watch?v=awHWILGJBI4)
-- [Issachar](https://www.youtube.com/watch?v=Mb94pbeWqq0)
-- [What Was Was Over](https://www.youtube.com/watch?v=BXDgiwf76yw)
-- [Seven Thirty Seven / Shoe Glue](https://www.youtube.com/watch?v=UbHQT73w8Mg)
+- [The Mighty Mighty Bosstones - Someday I Suppose](https://www.youtube.com/watch?v=gmOmAuhAQbE)
 
 ## Release Images
 {{< imageGrid >}}

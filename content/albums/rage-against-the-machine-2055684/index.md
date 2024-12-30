@@ -4,7 +4,6 @@ artist_name: "Rage Against The Machine"
 artist: "rage-against-the-machine"
 album_name: "Rage Against The Machine"
 date: 2015-08-09T08:46:38.000000Z
-release_date: "1992-11-03"
 release_id: "2055684"
 slug: "rage-against-the-machine-2055684"
 hideSummary: true
@@ -13,17 +12,22 @@ cover:
     alt: "Rage Against The Machine by Rage Against The Machine"
     caption: "Rage Against The Machine by Rage Against The Machine"
 additional_images:
-    - "https://i.discogs.com/wr4MXT-R5rKQMA70YwkMQPMm4o9FtPyjaFoKogzPAw4/rs:fit/g:sm/q:90/h:450/w:450/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwNTU2/ODQtMTI3NDg3NjYw/Ny5qcGVn.jpeg"
-    - "https://i.discogs.com/4Tii-3LaoXjfkJz65pADqfw6wGY6zJLBqJGk7WGqics/rs:fit/g:sm/q:90/h:450/w:448/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwNTU2/ODQtMTMyMDkyMDc1/MS5qcGVn.jpeg"
-    - "https://i.discogs.com/B3S17sekwTTnkeZbHK4G_HRfzNiA6o8wTB0lSZWMIb0/rs:fit/g:sm/q:90/h:606/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwNTU2/ODQtMTQ1OTM3Nzkw/My05Mjg2LmpwZWc.jpeg"
-    - "https://i.discogs.com/PRBLf3c-M8QGpcvaac_XU4--9Dn5xROErFjaq3Ka9_0/rs:fit/g:sm/q:90/h:605/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwNTU2/ODQtMTQ1OTM3Nzkw/Mi0zNzU5LmpwZWc.jpeg"
+    - "https://i.discogs.com/cOvTNqJ-Q7ZrYPGwt7hzzfZbbTNGFCs8VgvlaYCj_w4/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwNTU2/ODQtMTY5NzEzNDQ4/OC04MjMwLmpwZWc.jpeg"
+    - "https://i.discogs.com/aM4keH_mQtDsG125uaWuAIsLvzjUAAj2rT7Z3Z7yYaw/rs:fit/g:sm/q:90/h:594/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwNTU2/ODQtMTY5NzEzNDQ4/OC01OTQwLmpwZWc.jpeg"
+    - "https://i.discogs.com/cHolZAHLHAYMfnB0sFgSGGv9cE7kVlbaiA8-_QCw-s8/rs:fit/g:sm/q:90/h:600/w:593/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwNTU2/ODQtMTQ1OTM3Nzkw/My05Mjg2LmpwZWc.jpeg"
+    - "https://i.discogs.com/PkcKGKm6TrZNTgzY_PZlOPbkQMX-g9g7WRqTshnX79Q/rs:fit/g:sm/q:90/h:600/w:594/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwNTU2/ODQtMTQ1OTM3Nzkw/Mi0zNzU5LmpwZWc.jpeg"
+    - "https://i.discogs.com/-ISWQ_VKwkrqH2vyu4klAz_jHQWeIDIs_lj5uj0F164/rs:fit/g:sm/q:90/h:257/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwNTU2/ODQtMTY5NzEzNDQ4/Ny0zMjA3LmpwZWc.jpeg"
+    - "https://i.discogs.com/W-8nYFIQMzYHdHYZY4Wn6loScBeLLrCme9-cxXSQDYE/rs:fit/g:sm/q:90/h:331/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwNTU2/ODQtMTY5NzEzNDQ4/OC0yMDYwLmpwZWc.jpeg"
 genres: ["Rock"]
 styles: ["Funk Metal"]
 ---
 
-The discography of Rage Against the Machine, an American rock band, consists of four studio albums, two live albums, one compilation album, one demo album, 17 singles, four video albums and 15 music videos. Formed in Los Angeles, California in 1991 by vocalist Zack de la Rocha, guitarist Tom Morello, bassist Tim Commerford and drummer Brad Wilk, the band signed to Epic Records and released its self-titled debut album in 1992. The album reached number 45 on the United States Billboard 200 and was certified three times platinum by the Recording Industry Association of America (RIAA) for sales in excess of three million units. Rage Against the Machine singles "Killing in the Name", "Bullet in the Head" and "Bombtrack" charted in the United Kingdom and several other regions.The band returned in 1996 with its second studio album Evil Empire, which topped the Billboard 200 and was again certified three times platinum by the RIAA. Lead single "Bulls on Parade" was the band's first to chart in the US, reaching number 11 on the Alternative Songs chart, number 36 on the Mainstream Rock chart, and number 62 on the Radio Songs chart. The group's first video release, 1997's Rage Against the Machine, reached number 2 on the Billboard Music Video Sales chart and was certified double platinum by the RIAA. 1999's The Battle of Los Angeles topped the Billboard 200 and the Canadian Albums Chart.Rage Against the Machine released its final studio album, a collection of cover versions called Renegades, in 2000, reaching number 14 on the Billboard 200. The band broke up prior to the album's release, after de la Rocha announced his departure in October that year. The Battle of Mexico City video album was released in 2001, reaching number 4 on the Billboard Music Video Sales chart. Two years later, Live at the Grand Olympic Auditorium reached number 7 on the Music Video Sales chart and the top 100 of the Billboard 200.In 2009, the band achieved its first UK Singles Chart number 1 when "Killing in the Name" became Christmas number one as the result of a Facebook campaign. To celebrate the achievement, the group reunited for a free concert at Finsbury Park in London on June 6, 2010, which was later released in the form of Live at Finsbury Park in 2015 and reached number 2 on the Billboard Music Video Sales chart.
-        
-        
+Rage Against the Machine is the debut studio album by American rock band Rage Against the Machine. It was released on November 3, 1992, by Epic Records, one day after the release of the album's first single, "Killing in the Name". The album was based largely on the band's first commercial demo tape of the same name, completed 11 months prior to the album's release. The tape contained earlier recordings of seven of the ten songs.
+With politically themed, revolutionary lyrical content, the album artwork was notable for its graphic photograph of Vietnamese monk Thích Quảng Đức performing self-immolation in June 1963.
+The album was a critical success upon release, with several critics noting the album's politically motivated agenda and praising frontman Zack de la Rocha's strong vocal delivery. Ranked number 24 on Rolling Stone's list of the "100 Greatest Metal Albums of All Time", the album peaked at number 1 on the US Billboard Heatseekers chart and number 45 on the US Billboard 200 and has gone on to achieve a triple platinum sales certification from the Recording Industry Association of America (RIAA) in the US. Multiple publications have ranked it as one of the best albums of the 1990s. In 2020, it was ranked 221 in Rolling Stone's updated list of the "500 Greatest Albums of All Time".
+
+
+    
     
 
 
@@ -40,22 +44,15 @@ The discography of Rage Against the Machine, an American rock band, consists of 
 10. Freedom (6:06)
 
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/rage-against-the-machine/191450810" >}}<br>
+{{< applemusic url="https://music.apple.com/gb/album/rage-against-the-machine-single/485443440" >}}<br>
 
 
 ## Videos
-### Rage Against The Machine - Killing In the Name (Official Music Video)
-{{< youtube id="bWXazVhlyxQ" title="Rage Against The Machine - Killing In the Name (Official Music Video)" >}}<br>
+### Rage Against The Machine - Killing In the Name (Official HD Video)
+{{< youtube id="bWXazVhlyxQ" title="Rage Against The Machine - Killing In the Name (Official HD Video)" >}}<br>
 ### More Videos
 
-- [Rage Against The Machine - Take The Power Back (Audio)](https://www.youtube.com/watch?v=qKSNABST4b0)
-- [Settle for Nothing](https://www.youtube.com/watch?v=fLndnUeWlQo)
-- [Bullet In the Head](https://www.youtube.com/watch?v=BbbWzMGSUuE)
-- [Rage Against The Machine - Know Your Enemy (Audio)](https://www.youtube.com/watch?v=JukTvlrh-Wk)
-- [Rage Against The Machine - Wake Up (Audio)](https://www.youtube.com/watch?v=4lzqUe1Qfec)
-- [Fistful of Steel](https://www.youtube.com/watch?v=UnRhHYaX8Cw)
-- [Township Rebellion](https://www.youtube.com/watch?v=Q04d4O8etHI)
-- [Rage Against The Machine - Freedom (Official Music Video)](https://www.youtube.com/watch?v=H_vQt_v8Jmw)
+- [Rage Against The Machine - Bombtrack (Official Video)](https://www.youtube.com/watch?v=MUaL1FnotRQ)
 
 ## Release Images
 {{< imageGrid >}}
@@ -63,7 +60,7 @@ The discography of Rage Against the Machine, an American rock band, consists of 
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Wikipedia URL | https://en.wikipedia.org/wiki/Rage_Against_the_Machine_discography |
+| Wikipedia URL | https://en.wikipedia.org/wiki/Rage_Against_the_Machine_(album) |
 | Format         | Vinyl LP Album Reissue Repress (180 Gram) |
 | Label          | Music On Vinyl |
 | Catalog Number | MOVLP043 |

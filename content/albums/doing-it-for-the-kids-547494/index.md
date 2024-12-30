@@ -12,9 +12,9 @@ cover:
     alt: "Doing It For The Kids by Various"
     caption: "Doing It For The Kids by Various"
 additional_images:
-    - "https://i.discogs.com/w8-VOXi_Fp_HOLXj2j8uo2pwgudkxH7OiHdze3l2x6A/rs:fit/g:sm/q:90/h:608/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU0NzQ5/NC0xNDU4NDY5Mzgy/LTI0MjYuanBlZw.jpeg"
+    - "https://i.discogs.com/YtA_b_kaIPSm_6zdIFRtA0HO1uKJLN85ka-42CJS5Jc/rs:fit/g:sm/q:90/h:600/w:591/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU0NzQ5/NC0xNDU4NDY5Mzgy/LTI0MjYuanBlZw.jpeg"
     - "https://i.discogs.com/nRCQSDO6aY_5ZNO8VFdWM_Ikt96mANwbYfbkzJt0XYw/rs:fit/g:sm/q:90/h:370/w:350/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU0NzQ5/NC0xMTMwMDEzODkz/LmpwZWc.jpeg"
-    - "https://i.discogs.com/WWWng8nEuGPKH5CVIyN50s8A3rK7CV-hSb1OpHDIx1w/rs:fit/g:sm/q:90/h:605/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU0NzQ5/NC0xNDU4NDY5Mzgy/LTIwMzguanBlZw.jpeg"
+    - "https://i.discogs.com/WvIOSVUoODdYeKHxhZVHEcE3AdXDKWHsxgqwR9BKCyY/rs:fit/g:sm/q:90/h:600/w:594/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU0NzQ5/NC0xNDU4NDY5Mzgy/LTIwMzguanBlZw.jpeg"
     - "https://i.discogs.com/-D_d5T4MRqS_J-0hXBZeQkNlciTCtItP3x05bT1P-H0/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU0NzQ5/NC0xNDU4NDY5Mzgx/LTk5NzUuanBlZw.jpeg"
     - "https://i.discogs.com/76A6KlgFK_W_tGFPjHEbJ6-4tICW0PimT4qRyBA7Vl4/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU0NzQ5/NC0xNDU4NDY5Mzgy/LTcyNDguanBlZw.jpeg"
 genres: ["Rock"]
@@ -47,7 +47,6 @@ styles: ["Alternative Rock", "Indie Rock"]
 {{< youtube id="4wi2bi9-ZUI" title="Primal Scream - All Fall Down" >}}<br>
 ### More Videos
 
-- [Pacific - Jetstream (Fanmade Video) (1988)](https://www.youtube.com/watch?v=Dul4i-Y5vU4)
 - [Felt - Ballad Of The Band](https://www.youtube.com/watch?v=FcQs4sng8CU)
 - [Jasmine Minks - Cut Me Deep](https://www.youtube.com/watch?v=38xbRxrnwqk)
 - [The House of Love - Christine](https://www.youtube.com/watch?v=wIKpkjlptNY)
@@ -62,6 +61,22 @@ styles: ["Alternative Rock", "Indie Rock"]
 - [Razorcuts-Brighter Now](https://www.youtube.com/watch?v=M6-m8jFd2JU)
 - [Emily - 'Reflect On Rye'](https://www.youtube.com/watch?v=kDmgbvGQeF4)
 - [Heidi Berry - Northshore Train](https://www.youtube.com/watch?v=VWh8Bi8d4h0)
+- [Primal Scream - All Fall Down](https://www.youtube.com/watch?v=4wi2bi9-ZUI)
+- [Felt - Ballad Of The Band](https://www.youtube.com/watch?v=FcQs4sng8CU)
+- [Jasmine Minks - Cut Me Deep](https://www.youtube.com/watch?v=38xbRxrnwqk)
+- [The House of Love - Christine](https://www.youtube.com/watch?v=wIKpkjlptNY)
+- [Nikki Sudden & The Jacobites - Death Is Hanging Over Me](https://www.youtube.com/watch?v=gN08etKFUs8)
+- [Momus A Complete History Of Sexual Jealousy](https://www.youtube.com/watch?v=PAjpgAkeTj0)
+- [The Jazz Butcher - Lot 49](https://www.youtube.com/watch?v=f8EVyEaXu_I)
+- [The Weather Prophets - Well Done Sonny (Judges, Juries & Horsemen)  1988](https://www.youtube.com/watch?v=J5AyEsD0Tpk)
+- [Biff Bang Pow! - She Paints](https://www.youtube.com/watch?v=Ai4ifP6MA_M)
+- [Pacific - Jet stream (Audio)](https://www.youtube.com/watch?v=HLXXByTQH54)
+- [My Bloody Valentine - Cigarette In Your Bed](https://www.youtube.com/watch?v=P82V5TEEVWc)
+- [The Times - Godevil](https://www.youtube.com/watch?v=hCuK6BGrxz4)
+- [Razorcuts-Brighter Now](https://www.youtube.com/watch?v=M6-m8jFd2JU)
+- [Emily - 'Reflect On Rye'](https://www.youtube.com/watch?v=kDmgbvGQeF4)
+- [Heidi Berry - Northshore Train](https://www.youtube.com/watch?v=VWh8Bi8d4h0)
+- [Pacific - Jetstream (Fanmade Video) (1988)](https://www.youtube.com/watch?v=Dul4i-Y5vU4)
 
 ## Release Images
 {{< imageGrid >}}

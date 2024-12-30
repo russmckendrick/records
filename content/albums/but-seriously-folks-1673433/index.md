@@ -15,9 +15,9 @@ additional_images:
     - "https://i.discogs.com/mb7vIxhb1uFt2fh7JTxQgW3UcS0QXp2A6kzVdZUlE3I/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2NzM0/MzMtMTUyNjY0OTE3/My00ODUzLmpwZWc.jpeg"
     - "https://i.discogs.com/TLfUEWbNUfwRlGv8FLFIjYX7zCaO4lGbovuB5ddRKOs/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2NzM0/MzMtMTUyNjY0OTIx/MC01MDg1LmpwZWc.jpeg"
     - "https://i.discogs.com/iMDIeO5OXuwcKcbRSisJedznfOMuk3fM5wEUUM6g44M/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2NzM0/MzMtMTUyNjY0OTE5/MC02NjEyLmpwZWc.jpeg"
-    - "https://i.discogs.com/MmLqtq7iMBkWVi6vscaXbqQhLJQelEou6DowUc5TvSE/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2NzM0/MzMtMTUyNjY0OTE5/Ni00MjcxLmpwZWc.jpeg"
+    - "https://i.discogs.com/VsOuceRnKGETrz0vtRV4OoG0ttg6fS0hxJ6GKC7E7LQ/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2NzM0/MzMtMTUyNjY0OTE5/Ni00MjcxLmpwZWc.jpeg"
     - "https://i.discogs.com/832W4dCE-mrzRBdjkPPfp9XWz8-Q8fXEri-b4gqbVhI/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2NzM0/MzMtMTUyNjY0OTIw/OS05MTE0LmpwZWc.jpeg"
-    - "https://i.discogs.com/yD2oongUHCf3CjU8pmNwW4UlZVeL7aWYAvIQ5ZfsSNQ/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2NzM0/MzMtMTUyNjY0OTIx/MS04MDg1LmpwZWc.jpeg"
+    - "https://i.discogs.com/ztL56kBgGJzjdwM3qkG1UFmgMVw6Pt586OopNqck0Jg/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2NzM0/MzMtMTUyNjY0OTIx/MS04MDg1LmpwZWc.jpeg"
     - "https://i.discogs.com/wuvTV5biOgIbu2NFdFxPiP86Urc9gCroIvu5WSqh_uI/rs:fit/g:sm/q:90/h:591/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2NzM0/MzMtMTUyNjY0OTIz/MS0xNzQ1LmpwZWc.jpeg"
     - "https://i.discogs.com/GRpJtUcZiX_Vr4f4JVrZeumK6Y-s-SfQSSfccggzVcU/rs:fit/g:sm/q:90/h:590/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2NzM0/MzMtMTUyNjY0OTI0/OC0xNTAyLmpwZWc.jpeg"
     - "https://i.discogs.com/-rAQe-VERGSZPEV9497hhCPRigglNafRI1u4OAEy7b8/rs:fit/g:sm/q:90/h:358/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2NzM0/MzMtMTUyNjY0OTI0/Mi03NTAyLmpwZWc.jpeg"
@@ -43,17 +43,17 @@ styles: ["Rock & Roll", "Classic Rock", "Soft Rock"]
 
 
 ## Videos
-### Joe Walsh - Over and Over
-{{< youtube id="dYuFFJ5Ness" title="Joe Walsh - Over and Over" >}}<br>
+### Over and Over
+{{< youtube id="pV6BRgu1mCM" title="Over and Over" >}}<br>
 ### More Videos
 
 - [Second Hand Store](https://www.youtube.com/watch?v=9uzCuP4_72U)
-- [Joe Walsh - Indian Summer](https://www.youtube.com/watch?v=Ea5FH7a3iWU)
-- [Joe Walsh - At The Station (But Seriously Folks, May 16, 1978)](https://www.youtube.com/watch?v=PGe8P7DK4Nc)
+- [Indian Summer](https://www.youtube.com/watch?v=ob3IYBH37yE)
+- [At the Station](https://www.youtube.com/watch?v=pg_3jHeB-3M)
 - [Tomorrow](https://www.youtube.com/watch?v=byl1LfL3SBU)
 - [Inner Tube](https://www.youtube.com/watch?v=L9KUnOI3WjU)
 - [Theme from Boat Weirdos](https://www.youtube.com/watch?v=1hD5lmf2LLE)
-- [Joe Walsh - Life's Been Good](https://www.youtube.com/watch?v=BXWvKDSwvls)
+- [Joe Walsh - Life's Been Good (Official Audio)](https://www.youtube.com/watch?v=Fds_2qH9sBQ)
 
 ## Release Images
 {{< imageGrid >}}

@@ -19,13 +19,13 @@ additional_images:
     - "https://i.discogs.com/g4eLZNy0mGDgEPEvUuWtBOzXIxOh6yuKH5pGHQdpLL4/rs:fit/g:sm/q:90/h:581/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NDc5/MjA5LTE1NzU3MTQ2/MTItODAxNC5qcGVn.jpeg"
     - "https://i.discogs.com/1-QOMbnIq1NFxdYJYLBCKvm8TRfk7hOwLPX7oxwJGqk/rs:fit/g:sm/q:90/h:590/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NDc5/MjA5LTE1NzUzNjQ0/MDEtNjM1Mi5qcGVn.jpeg"
     - "https://i.discogs.com/GFkOa1mGUyn4OiLsqmn5GJ1B9siY8pKCRJzSHz6blRQ/rs:fit/g:sm/q:90/h:586/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NDc5/MjA5LTE1NzUzNjQ0/MjUtNzg4NC5qcGVn.jpeg"
-    - "https://i.discogs.com/67ulo4R9K0NBMytU7G6wkpjYGs4Jkcv-zr4i7XJ7L3s/rs:fit/g:sm/q:90/h:604/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NDc5/MjA5LTE1NzUzNjQ0/MDktNDM2NS5qcGVn.jpeg"
+    - "https://i.discogs.com/3T1koeGWbXtcw1RAqGHVwTk0B1ybNVHJNMj5nJXQ6xM/rs:fit/g:sm/q:90/h:600/w:595/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NDc5/MjA5LTE1NzUzNjQ0/MDktNDM2NS5qcGVn.jpeg"
     - "https://i.discogs.com/7rNy1wOxOLdoXhuL_nxxrOfomznMESlZtbrzhjstsVM/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NDc5/MjA5LTE1NzUzNjQ0/MjctMTQ0Ny5qcGVn.jpeg"
     - "https://i.discogs.com/Ufr1F4WLKEO8oZl3Wp5so4E6zJBsTVLXuVqxYh0e41Q/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NDc5/MjA5LTE1NzUzNjQ0/MzMtMjQwMS5qcGVn.jpeg"
     - "https://i.discogs.com/Jq91Uo0WxeUihLrtF0CcvdYtsqH78VD8AWKmBxfUDjs/rs:fit/g:sm/q:90/h:582/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NDc5/MjA5LTE1NzUzNjQ0/MTMtODE1OC5qcGVn.jpeg"
     - "https://i.discogs.com/EVbK3Jgg-2B4Gdc5xUO65iBnFToR4uQqJGmB-CL-54I/rs:fit/g:sm/q:90/h:588/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NDc5/MjA5LTE1NzUzNjQ0/MzMtNTg2NC5qcGVn.jpeg"
     - "https://i.discogs.com/AYQ88IYRqbMIJSt8_hysAkAYEOop_X7l0_Et8TlDFt4/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NDc5/MjA5LTE1NzUzNjQ0/MzYtMzIyNS5qcGVn.jpeg"
-    - "https://i.discogs.com/7i6x6FkOarGkrbaobFr5NGH88-YY9bQzeqJgdZM6gig/rs:fit/g:sm/q:90/h:608/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NDc5/MjA5LTE1NzUzNjQ0/MTMtNTExNS5qcGVn.jpeg"
+    - "https://i.discogs.com/QBsjLlQTIAHGGtqZK25hHlIOc-spv0is3OC8T32cVbA/rs:fit/g:sm/q:90/h:600/w:591/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NDc5/MjA5LTE1NzUzNjQ0/MTMtNTExNS5qcGVn.jpeg"
     - "https://i.discogs.com/ryPxMI-R03RG011tpDJwMBV4lWT86IH9JBYdXjoGZdI/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NDc5/MjA5LTE1NzUzNjQ0/MjAtMjA1Ni5qcGVn.jpeg"
     - "https://i.discogs.com/iLcywm261mFoK1jGu7JhwYlL5bZ7-kdVDB6Ure-BW50/rs:fit/g:sm/q:90/h:115/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NDc5/MjA5LTE1NzUzNjQ0/MTgtMzEwNS5qcGVn.jpeg"
     - "https://i.discogs.com/FLmxrvSGyCRw1vagsgQMevnuwZW24AoAQiUzi1IuUlU/rs:fit/g:sm/q:90/h:590/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NDc5/MjA5LTE1NzU3MTQ2/OTUtNDY3Mi5qcGVn.jpeg"
@@ -69,29 +69,26 @@ Surfing with the Alien is the second studio album by American rock guitarist Joe
 
 
 ## Videos
-### Joe Satriani – Surfing With The Alien
-{{< youtube id="JeUPSYrVP1w" title="Joe Satriani – Surfing With The Alien" >}}<br>
+### Joe Satriani Surfing with the alien!
+{{< youtube id="uoERl34Ld00" title="Joe Satriani Surfing with the alien!" >}}<br>
 ### More Videos
 
-- [Joe Satriani – Hill Of The Skull](https://www.youtube.com/watch?v=SJ5n-Rr9t7M)
-- [Joe Satriani – Lords Of Karma](https://www.youtube.com/watch?v=LgZ_p1-CRqg)
-- [Joe Satriani – Crushing Day](https://www.youtube.com/watch?v=W3jtDOz3lOU)
-- [Joe Satriani – Echo](https://www.youtube.com/watch?v=D18DzqToeK8)
-- [Joe Satriani – Ice 9](https://www.youtube.com/watch?v=Ib2IvxY1e0g)
-- [Joe Satriani – Circles](https://www.youtube.com/watch?v=KYqSTmOhhlI)
-- [Joe Satriani – Satch Boogie](https://www.youtube.com/watch?v=FpQ_wzfJZsU)
-- [Joe Satriani – Always With Me, Always With You](https://www.youtube.com/watch?v=L1pQMsR4MGU)
-- [Joe Satriani – Midnight](https://www.youtube.com/watch?v=SE6TJJIdIJs)
-- [Joe Satriani Surfing with the alien!](https://www.youtube.com/watch?v=uoERl34Ld00)
-- [Joe Satriani-Satch Boogie](https://www.youtube.com/watch?v=lCGCG_N2b30)
 - [Joe Satriani - Ice 9](https://www.youtube.com/watch?v=eyVWQH7jIg8)
 - [Joe Satriani - Crushing Day](https://www.youtube.com/watch?v=eFRhmKuD9x8)
 - [Joe Satriani - Always with Me, Always with you](https://www.youtube.com/watch?v=vxeYDEOXsqU)
+- [Joe Satriani-Satch Boogie](https://www.youtube.com/watch?v=lCGCG_N2b30)
 - [Joe Satriani - Hill of the Skull](https://www.youtube.com/watch?v=tl4OB2zjzD4)
 - [Joe Satriani - Circles](https://www.youtube.com/watch?v=gOnUAWIZPIg)
 - [Joe Satriani - Lords of Karma](https://www.youtube.com/watch?v=hrwk0COfggo)
 - [Joe Satriani - Midnight](https://www.youtube.com/watch?v=GpXr31S56CU)
 - [Joe Satriani - Echo](https://www.youtube.com/watch?v=cMj8n5NKSeM)
+- [Joe Satriani – Surfing With The Alien](https://www.youtube.com/watch?v=JeUPSYrVP1w)
+- [Joe Satriani – Crushing Day](https://www.youtube.com/watch?v=W3jtDOz3lOU)
+- [Joe Satriani – Ice 9](https://www.youtube.com/watch?v=Ib2IvxY1e0g)
+- [Joe Satriani – Echo](https://www.youtube.com/watch?v=D18DzqToeK8)
+- [Joe Satriani – Circles](https://www.youtube.com/watch?v=KYqSTmOhhlI)
+- [Joe Satriani – Always With Me, Always With You](https://www.youtube.com/watch?v=L1pQMsR4MGU)
+- [Joe Satriani – Satch Boogie](https://www.youtube.com/watch?v=FpQ_wzfJZsU)
 
 ## Release Images
 {{< imageGrid >}}

@@ -12,12 +12,12 @@ cover:
     alt: "92° F / The Incredible PWEI Vs Dirty Harry by Pop Will Eat Itself"
     caption: "92° F / The Incredible PWEI Vs Dirty Harry by Pop Will Eat Itself"
 additional_images:
-    - "https://i.discogs.com/0k5t4R9KzBxBoR6Ev3-fGebY3TFz9vP6_6soqSnNZ-w/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk5NjQx/LTE1MDc3NjAxNzYt/NjYxMC5qcGVn.jpeg"
+    - "https://i.discogs.com/qS8YSIMjN--IUpF_rKdbwcMbBNEIaLBAPmIQwBokyMg/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk5NjQx/LTE1MDc3NjAxNzYt/NjYxMC5qcGVn.jpeg"
     - "https://i.discogs.com/zY9T10Q88NUs4l2WX5GxlIHxrimH4DL4sXv4e_UCeJ0/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk5NjQx/LTE1MDc3NjAxNzYt/NjAxNC5qcGVn.jpeg"
     - "https://i.discogs.com/F-t53XjFchg5kBO8mBoqx_RpV-g2Cuwnuang_yLRBNI/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk5NjQx/LTE1MDc3NjAxNzEt/MjM2MC5qcGVn.jpeg"
     - "https://i.discogs.com/Px7E3QdGSMutyf_y_ZADQoPv3-YC_E7v2h3lnekZNDc/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk5NjQx/LTE1MDc3NjAxNzMt/NzQ4NS5qcGVn.jpeg"
     - "https://i.discogs.com/I9rrSrPBSPkhIYdRVwRwrZmRcv7okS14QLccWdFvYc0/rs:fit/g:sm/q:90/h:402/w:400/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk5NjQx/LTExNTU5MzEzMDgu/anBlZw.jpeg"
-    - "https://i.discogs.com/MWxIOfgA8PhpaSc_ODsqnde8lKpLqrtlqLIM-xBFljc/rs:fit/g:sm/q:90/h:917/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk5NjQx/LTE1MDc3NjAyMzkt/Mjk1My5qcGVn.jpeg"
+    - "https://i.discogs.com/AUZW_5SP68VjubyZJaTB7nHQdBU2OgZlq0ClOx9g6ys/rs:fit/g:sm/q:90/h:600/w:392/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk5NjQx/LTE1MDc3NjAyMzkt/Mjk1My5qcGVn.jpeg"
 genres: ["Electronic", "Hip Hop", "Rock"]
 styles: ["Leftfield", "Acid House", "Industrial", "Indie Rock"]
 ---
@@ -37,9 +37,9 @@ styles: ["Leftfield", "Acid House", "Industrial", "Indie Rock"]
 ### More Videos
 
 - [PWEI Pop Will Eat Itself 92 Degrees Original Version Very Metal Noise Pollution EP](https://www.youtube.com/watch?v=AKa1OenSae0)
-- [POP WILL EAT ITSELF - 92oF (BOILERHOUSE 'THE BIRTH, THE DEATH, THE ROMANCE' REMIX) (1991)](https://www.youtube.com/watch?v=gBZTIBtT8IY)
 - [P.W.E.I - 92f (the 3rd degree)](https://www.youtube.com/watch?v=a8E9haQXTQw)
 - [The Incredible PWEI Vs. Dirty Harry by Pop Will Eat Itself](https://www.youtube.com/watch?v=A2xYHBeM-5M)
+- [POP WILL EAT ITSELF - 92oF (BOILERHOUSE 'THE BIRTH, THE DEATH, THE ROMANCE' REMIX) (1991)](https://www.youtube.com/watch?v=gBZTIBtT8IY)
 
 ## Release Images
 {{< imageGrid >}}

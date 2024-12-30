@@ -4,7 +4,6 @@ artist_name: "Rush"
 artist: "rush"
 album_name: "Hemispheres"
 date: 2015-08-09T08:38:01.000000Z
-release_date: "1978-10-29"
 release_id: "7036854"
 slug: "hemispheres-7036854"
 hideSummary: true
@@ -28,10 +27,12 @@ genres: ["Rock"]
 styles: ["Hard Rock", "Prog Rock"]
 ---
 
-Hemispheres is the sixth studio album by Canadian rock band Rush, released in October 1978 by Anthem Records. After touring to support the band's previous release, A Farewell to Kings, during which the group gained popularity in the UK, Rush started work on their next album. As with the band's previous studio album, Hemispheres was recorded at Rockfield Studios in Monmouthshire and Trident Studios in London with longtime engineer and arranger, Terry Brown. Rush continued its progressive rock sound with the side-long "Cygnus X-1 Book II: Hemispheres" and the nine-minute instrumental "La Villa Strangiato", which was the band's first instrumental piece.
-Hemispheres received acclaim from music critics. It reached number 14 in Canada and the UK, and number 41 in the United States. The album's two shorter tracks, "Circumstances" and "The Trees" were released as singles in early 1979. In 1993, the album was certified platinum by the Recording Industry Association of America (RIAA) for selling one million copies. Rush supported Hemispheres with a concert tour from October 1978 to June 1979. The album was re-released in various expanded formats on November 16, 2018 as part of the band's ongoing 40th Anniversary editions, including the previously unreleased live set by the band at the Pinkpop Festival from June 1979.
-        
-        
+Hemispheres is the sixth studio album by Canadian rock band Rush, released on October 24, 1978, by Anthem Records. It reached No. 14 in Canada and the UK, and No. 47 in the US. The album was a steady seller in the group's catalogue, and was certified platinum by the Recording Industry Association of America for selling one million copies 15 years later. 
+After a particularly exhausting tour supporting A Farewell to Kings to capitalise on their growing fanbase, Rush had a dedicated rest period. They returned to Rockfield Studios in Wales to record a follow-up album but had no preconceived ideas, and spent two weeks writing and arranging new material with some difficulty over its direction. It is the final Rush album to feature a side-long track; the 18-minute opener "Cygnus X-1 Book II: Hemispheres" concludes the story initially left as a cliffhanger on A Farewell to Kings, and the Apollonian and Dionysian concept addressed in drummer Neil Peart's lyrics are represented on the cover artwork. The final track, "La Villa Strangiato", was the band's first instrumental.
+Hemispheres received a mostly positive reception from critics upon release, and has gained further acclaim retrospectively. It was the first Rush album to receive widespread FM radio airplay, helped by the release of "Circumstances" and "The Trees", the two shorter tracks on the album, as singles. The album has been remastered several times, and a deluxe 40th anniversary edition with previously unreleased live tracks followed in 2018.
+
+
+    
     
 
 
@@ -42,10 +43,17 @@ Hemispheres received acclaim from music critics. It reached number 14 in Canada 
 4. La Villa Strangiato (9:36)
 
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/hemispheres-remastered/1440764218" >}}<br>
+{{< applemusic url="https://music.apple.com/gb/album/the-next-hemisphere-a-rush-tribute/1294937317" >}}<br>
 
 
+## Videos
+### Cygnus X-1 Book II: Hemispheres
+{{< youtube id="J0zN0VjA3As" title="Cygnus X-1 Book II: Hemispheres" >}}<br>
+### More Videos
 
+- [Circumstances](https://www.youtube.com/watch?v=QHQ-Xl5YC5o)
+- [The Trees](https://www.youtube.com/watch?v=0jRafVKRg18)
+- [La Villa Srangiato (An Exercise in Self-Indulgence)](https://www.youtube.com/watch?v=FeumXTFH3vc)
 
 ## Release Images
 {{< imageGrid >}}

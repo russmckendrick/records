@@ -31,6 +31,8 @@ styles: []
 
 Elephants on Acid is the ninth studio album by American hip hop group Cypress Hill, and is the group's first studio album in eight years following Rise Up making it the group's longest gap between albums. The album was released on September 28, 2018. The album includes 21 tracks. Unlike Rise Up, the group's last album, which was produced by a number of people, this album is fully produced by DJ Muggs.
 Despite serving as an interlude, "Muggs Is Dead" was released as a second single of the album on August 23 and received an animated video.
+
+
     
     
 
@@ -80,32 +82,17 @@ Despite serving as an interlude, "Muggs Is Dead" was released as a second single
 42. Stairway To Heaven
 
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/elephants-on-acid/1413278413" >}}<br>
+{{< applemusic url="https://music.apple.com/gb/album/elephants-on-acid/1405708942" >}}<br>
 
 
 ## Videos
-### Cypress Hill - Tusko (Intro) (Audio)
-{{< youtube id="etAPOcsHgOk" title="Cypress Hill - Tusko (Intro) (Audio)" >}}<br>
+### Cypress Hill - Band of Gypsies (Official Video)
+{{< youtube id="buxccDwjkdA" title="Cypress Hill - Band of Gypsies (Official Video)" >}}<br>
 ### More Videos
 
-- [Cypress Hill - Band of Gypsies (Official Video)](https://www.youtube.com/watch?v=buxccDwjkdA)
-- [Cypress Hill - Put Em in the Ground (Audio)](https://www.youtube.com/watch?v=nNyDk4Q503M)
-- [Cypress Hill - Satao Interval (Audio)](https://www.youtube.com/watch?v=aeJf0A-0GvM)
-- [Cypress Hill - Jesus Was A Stoner (Audio)](https://www.youtube.com/watch?v=-rtS8P5OHHc)
-- [Cypress Hill - Pass The Knife (Audio)](https://www.youtube.com/watch?v=cudK_NRB3Lw)
-- [Cypress Hill - LSD (Interval) (Audio)](https://www.youtube.com/watch?v=YtjMWUf-FwM)
-- [Cypress Hill - Oh Na Na (Audio)](https://www.youtube.com/watch?v=wUzYFdhGL7g)
-- [Cypress Hill - Holy Mountain (Interval) (Audio)](https://www.youtube.com/watch?v=fMsT2emhc3A)
-- [Cypress Hill - Locos feat. Sick Jacken (Official Video)](https://www.youtube.com/watch?v=glZQaFukto0)
-- [Cypress Hill - Falling Down (Audio)](https://www.youtube.com/watch?v=75Pu6bauXjE)
-- [Cypress Hill - Elephant Acid (Interlude) (Audio)](https://www.youtube.com/watch?v=eGDnB0wA-pE)
-- [Cypress Hill - Insane OG (Audio)](https://www.youtube.com/watch?v=KNtZEf25TNE)
-- [Cypress Hill - The 5th Angel (Instrumental)](https://www.youtube.com/watch?v=9-qL31QChTU)
-- [Cypress Hill - Warlord (Audio)](https://www.youtube.com/watch?v=65zuQ2RZQFY)
+- [Cypress Hill - "Locos" feat. Sick Jacken (Official Video)](https://www.youtube.com/watch?v=glZQaFukto0)
 - [Cypress Hill - Reefer Man](https://www.youtube.com/watch?v=jDb2xNsa2YA)
-- [Cypress Hill - Thru the Rabbit Hole (Interlude)](https://www.youtube.com/watch?v=wOI1YDpWYXM)
-- [Cypress Hill - Blood On My Hands Again (Official Video)](https://www.youtube.com/watch?v=P1AaYTKGknk)
-- [Cypress Hill - Stairway to Heaven (Audio)](https://www.youtube.com/watch?v=HWOGZJvU564)
+- [Cypress Hill - "Blood On My Hands Again" (Official Video)](https://www.youtube.com/watch?v=P1AaYTKGknk)
 
 ## Release Images
 {{< imageGrid >}}
@@ -114,7 +101,7 @@ Despite serving as an interlude, "Muggs Is Dead" was released as a second single
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Elephants_on_Acid |
-| Format         | Vinyl 2× LP Album, CD Album |
+| Format         | Vinyl 2× LP 45 RPM Album, CD Album |
 | Label          | BMG |
 | Catalog Number | 538415541 |
 | Notes | Manufactured in Poland Made in the E.U  Printed innersleeves  Comes in gatefold This version also contains the CD version - comes with a paper sleeve |

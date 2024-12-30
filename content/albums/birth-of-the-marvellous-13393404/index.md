@@ -12,11 +12,11 @@ cover:
     alt: "Birth Of The Marvellous by Sermon"
     caption: "Birth Of The Marvellous by Sermon"
 additional_images:
-    - "https://i.discogs.com/v5MJdMcvr4a-sIr8UWs2WQUuSwS0vZ_zmswLxY_yRYw/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMzkz/NDA0LTE1ODE1Mjgz/OTAtNTM5Ni5qcGVn.jpeg"
-    - "https://i.discogs.com/GnxWphIhgjmKLVnJhdhDMUrtGtvWBE2yPxOosKXS4RA/rs:fit/g:sm/q:90/h:603/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMzkz/NDA0LTE1ODE1Mjgz/OTAtMzAxMy5qcGVn.jpeg"
-    - "https://i.discogs.com/e0iYktwxzfsi0iyzjaH17Re1_HUw9uqrfbOO9xKQqZc/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMzkz/NDA0LTE1ODE1Mjgz/OTAtNjAxNS5qcGVn.jpeg"
-    - "https://i.discogs.com/tdRcEUy0ykLm_3bAGV4NBN1huYITqGVIXjowXY6_cyM/rs:fit/g:sm/q:90/h:610/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMzkz/NDA0LTE1ODE1Mjgz/ODktNTQwMy5qcGVn.jpeg"
-    - "https://i.discogs.com/eA_vmB7LhJcqPyMshCr4gBbQivzwgQ7aupG95cCzssA/rs:fit/g:sm/q:90/h:607/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMzkz/NDA0LTE1ODE1Mjgz/ODktMzA3MC5qcGVn.jpeg"
+    - "https://i.discogs.com/r5pYYp6JakLQQggN9v2Xjuhu6V91BHe3El9OOZ6oPWU/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMzkz/NDA0LTE1ODE1Mjgz/OTAtNTM5Ni5qcGVn.jpeg"
+    - "https://i.discogs.com/RUh2NIPOxxi3r5qVs-k0xrKqQ2pecXquflMDfZKmyqU/rs:fit/g:sm/q:90/h:600/w:596/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMzkz/NDA0LTE1ODE1Mjgz/OTAtMzAxMy5qcGVn.jpeg"
+    - "https://i.discogs.com/seEl5PuP8FkqcdOSmuUlP64vHV7AHUarKmsrgS68S90/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMzkz/NDA0LTE1ODE1Mjgz/OTAtNjAxNS5qcGVn.jpeg"
+    - "https://i.discogs.com/nX-l8oHFEAuKBytuV4oWZBfxoefMC_dCjKzwn11zehA/rs:fit/g:sm/q:90/h:600/w:589/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMzkz/NDA0LTE1ODE1Mjgz/ODktNTQwMy5qcGVn.jpeg"
+    - "https://i.discogs.com/blff_XlLV1LKAsUaRVz54ok9MfG2s5fGr1785HqYOnM/rs:fit/g:sm/q:90/h:600/w:592/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMzkz/NDA0LTE1ODE1Mjgz/ODktMzA3MC5qcGVn.jpeg"
 genres: ["Rock"]
 styles: ["Progressive Metal"]
 ---
@@ -37,10 +37,11 @@ styles: ["Progressive Metal"]
 
 
 ## Videos
-### Sermon - Birth Of The Marvellous. 2019. Progressive Metal. Full Album
-{{< youtube id="P0FtRWykN-w" title="Sermon - Birth Of The Marvellous. 2019. Progressive Metal. Full Album" >}}<br>
+### SERMON - THE DESCEND (OFFICIAL AUDIO)
+{{< youtube id="jlh1JbdhKt4" title="SERMON - THE DESCEND (OFFICIAL AUDIO)" >}}<br>
 ### More Videos
 
+- [Sermon - Birth Of The Marvellous. 2019. Progressive Metal. Full Album](https://www.youtube.com/watch?v=P0FtRWykN-w)
 - [SERMON - THE DESCEND (OFFICIAL AUDIO)](https://www.youtube.com/watch?v=jlh1JbdhKt4)
 
 ## Release Images
@@ -53,4 +54,4 @@ styles: ["Progressive Metal"]
 | Label          | Prosthetic Records |
 | Catalog Number | PROS103551 |
 | Notes | 1st pressing, limited to 300 classic black LPs in heavy, reverse board sleeve with gold ink and insert. |
-| Discogs URL    | [Sermon - Birth Of The Marvellous](https://www.discogs.com/release/13393404-Sermon-Birth-Of-The-Marvellous) |
+| Discogs URL    | [Sermon - Birth Of The Marvellous](https://www.discogs.com/release/13393404-Sermon-6-Birth-Of-The-Marvellous) |

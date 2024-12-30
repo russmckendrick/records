@@ -12,31 +12,34 @@ cover:
     alt: "All Things Must Pass by George Harrison"
     caption: "All Things Must Pass by George Harrison"
 additional_images:
-    - "https://i.discogs.com/FYS161C8PP2DO8t-I66-xBtyNcmh9LE4mO5n3k9cG8Q/rs:fit/g:sm/q:90/h:601/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk4ODI0/NzEtMTQ4ODY1OTY4/Ni0zNzEyLmpwZWc.jpeg"
+    - "https://i.discogs.com/gBweNOJYtvNwyJAdZzQCRTrNYU9GrFahi97GGX5ouKo/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk4ODI0/NzEtMTQ4ODY1OTY4/Ni0zNzEyLmpwZWc.jpeg"
     - "https://i.discogs.com/NYBk8PLxTNC__OKe-ykm09Z1GGJeieBahiveUWtbICo/rs:fit/g:sm/q:90/h:592/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk4ODI0/NzEtMTQ4ODY1OTY5/My0yMDM2LmpwZWc.jpeg"
     - "https://i.discogs.com/bfZlEjPkszHr34aV0xK9FakcMgOuVLWSz_FKz0HiJdY/rs:fit/g:sm/q:90/h:594/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk4ODI0/NzEtMTQ4ODY1OTY5/NS00NzU2LmpwZWc.jpeg"
     - "https://i.discogs.com/il9gGXG10nGv7apWx4ROSxq6UxvFoKMto3KROly7MWc/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk4ODI0/NzEtMTQ4ODY1OTY5/Ny04NjU3LmpwZWc.jpeg"
     - "https://i.discogs.com/fzKVQOXA2q3uKvxvVhnsNYXGgMYJ7Bf7w6umfZa-2JI/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk4ODI0/NzEtMTQ4ODY1OTY5/OS0yNTM2LmpwZWc.jpeg"
     - "https://i.discogs.com/uy08Y3XxwP8kRFDrWzxm_MLxfyABZIFnIrh00TLlYOg/rs:fit/g:sm/q:90/h:586/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk4ODI0/NzEtMTQ4ODY1OTcw/MC0xNTI2LmpwZWc.jpeg"
     - "https://i.discogs.com/aK-MShmsV7fgWUS07ScytDEfgf7_wSPVQh8IcPrUWGY/rs:fit/g:sm/q:90/h:589/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk4ODI0/NzEtMTQ4ODY1OTcw/MS03MDM1LmpwZWc.jpeg"
-    - "https://i.discogs.com/fVuoPoMqrAN6MZ_4-k490KYyU_p50KICzQiCmOrl_70/rs:fit/g:sm/q:90/h:601/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk4ODI0/NzEtMTQ4ODY1OTcw/My03ODk4LmpwZWc.jpeg"
-    - "https://i.discogs.com/sdtYOZmRIIy8NjO_QNn1f5L2ZwXShG_VVSVmc1b0dso/rs:fit/g:sm/q:90/h:607/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk4ODI0/NzEtMTQ4ODY1OTcw/NC0yMjY5LmpwZWc.jpeg"
+    - "https://i.discogs.com/-Urqd9u-GRkHYhdOqKImxGjBQ4iNLoJ2ju4NFxGVfj8/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk4ODI0/NzEtMTQ4ODY1OTcw/My03ODk4LmpwZWc.jpeg"
+    - "https://i.discogs.com/KFaPk6koGirN03W0zsStBaxkTVEllXeYHwYkKjVKpic/rs:fit/g:sm/q:90/h:600/w:593/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk4ODI0/NzEtMTQ4ODY1OTcw/NC0yMjY5LmpwZWc.jpeg"
     - "https://i.discogs.com/nV2KrQcDm4gJd97aAf7Qe43mOP2bWJQ9m_6TGcRDbZE/rs:fit/g:sm/q:90/h:586/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk4ODI0/NzEtMTQ4ODY1OTcw/Ni04NTg3LmpwZWc.jpeg"
     - "https://i.discogs.com/XtXI4LunB1C0CIU4eL-e48eJWOdpCOgSy0um-sHQsVA/rs:fit/g:sm/q:90/h:585/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk4ODI0/NzEtMTQ4ODY1OTcw/Ny02OTA4LmpwZWc.jpeg"
-    - "https://i.discogs.com/1JruVBGjkI3hN5rfnXdHJAs3PIGKdsvzDqQzN-Gotp8/rs:fit/g:sm/q:90/h:602/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk4ODI0/NzEtMTQ4ODY1OTcw/OC0zMjk1LmpwZWc.jpeg"
+    - "https://i.discogs.com/6fceXeQ5FigbjRX97rqu-KHXEcBYI2OeThlW5y5eM8s/rs:fit/g:sm/q:90/h:600/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk4ODI0/NzEtMTQ4ODY1OTcw/OC0zMjk1LmpwZWc.jpeg"
     - "https://i.discogs.com/Abe1tZjXlzFTMVdW1okG-FAZ1DOWsrpyRhoVB4B2G5w/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk4ODI0/NzEtMTQ4ODY1OTcx/MC04ODA3LmpwZWc.jpeg"
     - "https://i.discogs.com/-2LuppqWrFDApvKkMC2tSaCMf8YBTZvRYLJmL4O2Xxc/rs:fit/g:sm/q:90/h:589/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk4ODI0/NzEtMTQ4ODY1OTcx/MS0zNzA0LmpwZWc.jpeg"
     - "https://i.discogs.com/0IcB8Fg5RYZZY4YCxVrC7t2QHkJy0KVBm8hcqdCjdSI/rs:fit/g:sm/q:90/h:589/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk4ODI0/NzEtMTQ4ODY1OTcx/My02MTU0LmpwZWc.jpeg"
-    - "https://i.discogs.com/QhgarIvfVpDtHmOQ9Etkjz-vHNp9_xNdkM2QYF0ERJ4/rs:fit/g:sm/q:90/h:855/w:575/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk4ODI0/NzEtMTQ4ODY1OTcx/Ni00MzY0LmpwZWc.jpeg"
+    - "https://i.discogs.com/XG9s5C-xbSCCAN_YNlJRbpblydgvZddwMsRcuLjQqqw/rs:fit/g:sm/q:90/h:600/w:403/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk4ODI0/NzEtMTQ4ODY1OTcx/Ni00MzY0LmpwZWc.jpeg"
     - "https://i.discogs.com/k_dCLBraEbz5cGjLxWbBqfLOOQkhxI5U4muBBQGaQm0/rs:fit/g:sm/q:90/h:590/w:300/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk4ODI0/NzEtMTQ4ODY1OTcx/Ny04Mzc4LmpwZWc.jpeg"
     - "https://i.discogs.com/B_Xz2ZASKFsOT8DINIJl4A7lP8O2Lz9o_zaJ-5Xxa_Y/rs:fit/g:sm/q:90/h:333/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk4ODI0/NzEtMTU1NTAxMTUz/My0xNzA1LmpwZWc.jpeg"
 genres: ["Rock"]
 styles: ["Pop Rock"]
 ---
 
-All Things Must Pass is the third studio album by English rock musician George Harrison. Released as a triple album in November 1970, it was Harrison's first solo work after the break-up of the Beatles in April that year. It includes the hit singles "My Sweet Lord" and "What Is Life", as well as songs such as "Isn't It a Pity" and the title track that had been overlooked for inclusion on releases by the Beatles. The album reflects the influence of Harrison's musical activities with artists such as Bob Dylan, the Band, Delaney & Bonnie and Friends and Billy Preston during 1968–70, and his growth as an artist beyond his supporting role to former bandmates John Lennon and Paul McCartney. All Things Must Pass introduced Harrison's signature slide guitar sound and the spiritual themes present throughout his subsequent solo work. The original vinyl release consisted of two LPs of songs and a third disc of informal jams titled Apple Jam. Several commentators interpret Barry Feinstein's album cover photo, showing Harrison surrounded by four garden gnomes, as a statement on his independence from the Beatles.
+All Things Must Pass is the third studio album by the English rock musician George Harrison. Released as a triple album in November 1970, it was Harrison's first solo work after the break-up of the Beatles in April that year. It includes the hit singles "My Sweet Lord" and "What Is Life", as well as songs such as "Isn't It a Pity" and the title track that had been overlooked for inclusion on releases by the Beatles. The album reflects the influence of Harrison's musical activities with artists such as Bob Dylan, the Band, Delaney & Bonnie and Friends and Billy Preston during 1968–70, and his growth as an artist beyond his supporting role to former bandmates John Lennon and Paul McCartney. All Things Must Pass introduced Harrison's signature slide guitar sound and the spiritual themes present throughout his subsequent solo work. The original vinyl release consisted of two LPs of songs and a third disc of informal jams titled Apple Jam. Several commentators interpret Barry Feinstein's album cover photo, showing Harrison surrounded by four garden gnomes, as a statement on his independence from the Beatles.
 Production began at London's EMI Studios in May 1970, with extensive overdubbing and mixing continuing through October. Among the large cast of backing musicians were Eric Clapton and members of Delaney & Bonnie's Friends band – three of whom formed Derek and the Dominos with Clapton during the recording – as well as Ringo Starr, Gary Wright, Billy Preston, Klaus Voormann, John Barham, Badfinger and Pete Drake. The sessions produced a double album's worth of extra material, most of which remains unissued.
-All Things Must Pass was critically and commercially successful on release, with long stays at number one on charts worldwide. Co-producer Phil Spector employed his Wall of Sound production technique to notable effect; Ben Gerson of Rolling Stone described the sound as "Wagnerian, Brucknerian, the music of mountain tops and vast horizons". Reflecting the widespread surprise at the assuredness of Harrison's post-Beatles debut, Melody Maker's Richard Williams likened the album to Greta Garbo's first role in a talking picture and declared: "Garbo talks! – Harrison is free!" According to Colin Larkin, writing in the 2011 edition of his Encyclopedia of Popular Music, All Things Must Pass is "generally rated" as the best of all the former Beatles' solo albums.During the final year of his life, Harrison oversaw a successful reissue campaign to mark the 30th anniversary of the album's release. After this reissue, the Recording Industry Association of America certified the album six-times platinum. It has since been certified seven-times platinum, with at least 2 million albums sold. Among its appearances on critics' best-album lists, All Things Must Pass was ranked 79th on The Times' "The 100 Best Albums of All Time" in 1993, while Rolling Stone placed it 368th on the magazine's 2020 update of "The 500 Greatest Albums of All Time". In 2014, All Things Must Pass was inducted into the Grammy Hall of Fame.
+All Things Must Pass was critically and commercially successful on release, with long stays at number one on charts worldwide. Co-producer Phil Spector employed his Wall of Sound production technique to notable effect; Ben Gerson of Rolling Stone described the sound as "Wagnerian, Brucknerian, the music of mountain tops and vast horizons". Reflecting the widespread surprise at the assuredness of Harrison's post-Beatles debut, Melody Maker's Richard Williams likened the album to Greta Garbo's first role in a talking picture and declared: "Garbo talks! – Harrison is free!" According to Colin Larkin, writing in the 2011 edition of his Encyclopedia of Popular Music, All Things Must Pass is "generally rated" as the best of all the former Beatles' solo albums.
+During the final year of his life, Harrison oversaw a successful reissue campaign to mark the 30th anniversary of the album's release. After this reissue, the Recording Industry Association of America certified the album six-times platinum. It has since been certified seven-times platinum, with at least 7 million albums sold. Among its appearances on critics' best-album lists, All Things Must Pass was ranked 79th on The Times' "The 100 Best Albums of All Time" in 1993, while Rolling Stone placed it 368th on the magazine's 2023 update of "The 500 Greatest Albums of All Time". In 2014, All Things Must Pass was inducted into the Grammy Hall of Fame.
+
+
     
     
 
@@ -68,35 +71,36 @@ All Things Must Pass was critically and commercially successful on release, with
 24. Thanks For The Pepperoni
 
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/all-things-must-pass-2014-remaster/1670641986" >}}<br>
+{{< applemusic url="https://music.apple.com/gb/album/all-things-must-pass-single/1565924539" >}}<br>
 
 
 ## Videos
-### George Harrison - All Things Must Pass (2020 Mix / Audio)
-{{< youtube id="QWV4pFV5nX4" title="George Harrison - All Things Must Pass (2020 Mix / Audio)" >}}<br>
+### George Harrison - All Things Must Pass [Disc 1]
+{{< youtube id="doReVkb3Xgo" title="George Harrison - All Things Must Pass [Disc 1]" >}}<br>
 ### More Videos
 
-- [George Harrison - My Sweet Lord](https://www.youtube.com/watch?v=SP9wms6oEMo)
-- [George Harrison - I'd Have You Anytime](https://www.youtube.com/watch?v=ZI64iGZkoks)
-- [George Harrison - Let It Down](https://www.youtube.com/watch?v=5Gyk_gvuIoI)
-- [George Harrison - Ballad Of Sir Frankie Crisp (Let It Roll)](https://www.youtube.com/watch?v=6QCWZJJr3BM)
-- [George Harrison - What Is Life](https://www.youtube.com/watch?v=fiH9edd25Bc)
-- [Wah-Wah (Remastered 2014)](https://www.youtube.com/watch?v=yNfBDnnZyuo)
-- [Isn't It A Pity (Remastered 2014)](https://www.youtube.com/watch?v=lIbVWNy7HBk)
-- [If Not For You (Remastered 2014)](https://www.youtube.com/watch?v=eDAaKxlaBQ4)
-- [Behind That Locked Door (Remastered 2014)](https://www.youtube.com/watch?v=VHX-MFg2Zqw)
-- [Run Of The Mill (Remastered 2014)](https://www.youtube.com/watch?v=h_9RFTN2ikU)
-- [Beware Of Darkness (Remastered 2014)](https://www.youtube.com/watch?v=0LrxYds2UNE)
-- [Apple Scruffs (Remastered 2014)](https://www.youtube.com/watch?v=Bw-ky3BvAFI)
-- [Awaiting On You All (Remastered 2014)](https://www.youtube.com/watch?v=fbyHdlCVrRo)
-- [I Dig Love (Remastered 2014)](https://www.youtube.com/watch?v=EE9GWOeMDkE)
-- [Art Of Dying (Remastered 2014)](https://www.youtube.com/watch?v=tmo8L7NlURQ)
-- [Isn't It A Pity (Version Two / Remastered 2014)](https://www.youtube.com/watch?v=bHV2CY5LOSQ)
-- [Hear Me Lord (Remastered 2014)](https://www.youtube.com/watch?v=EoUIryN1tM4)
-- [Out Of The Blue (Remastered 2014)](https://www.youtube.com/watch?v=hD_ZVuwfkS4)
-- [Plug Me In (Remastered 2014)](https://www.youtube.com/watch?v=BgpwqkYYyUo)
-- [I Remember Jeep (Remastered 2014)](https://www.youtube.com/watch?v=PFY6SBhFZHc)
-- [Thanks For The Pepperoni (Remastered 2014)](https://www.youtube.com/watch?v=rDDA0tSxzVU)
+- [George Harrison - All Things Must Pass [Disc 2 & 3]](https://www.youtube.com/watch?v=QzEOFcrHDIM)
+- [George Harrison - All Things Must Pass Cd1 (FullAlbum)](https://www.youtube.com/watch?v=ZCdj6oraKRg)
+- [George Harrison - All Things Must Pass (Full Album) (1970)](https://www.youtube.com/watch?v=dpa-80yYL7Q)
+- [All Things Must Pass (2009 Remaster)](https://www.youtube.com/watch?v=bpbdsIQb87A)
+- [George Harrison - All Things Must Pass](https://www.youtube.com/watch?v=oVx_8mj-UyE)
+- [Paul McCartney - All Things Must Pass (Live)](https://www.youtube.com/watch?v=o6iaSWSB7rE)
+- [George Harrison - All Things Must Pass (Last TV Appearance, 1997)](https://www.youtube.com/watch?v=HAo_4mXxLrM)
+- [George Harrison - All Things Must Pass (Lyrics)](https://www.youtube.com/watch?v=Til-MWvtkf0)
+- [THE BEST DOUBLE ALBUMS OF ALL TIME](https://www.youtube.com/watch?v=-5PHigXL8PI)
+- [George Harrison: All Things Pass (FULL MOVIE)](https://www.youtube.com/watch?v=N5goAwWijAQ)
+- [John Lennon helps George with 'All Things Must Pass](https://www.youtube.com/watch?v=kQAMDw77m9U)
+- [All Things Must Pass (Demo)](https://www.youtube.com/watch?v=JeyB7zzEquo)
+- [Peter Frampton on Recording “All Things Must Pass” With George Harrison](https://www.youtube.com/watch?v=Ajr0KukHKsE)
+- [GEORGE HARRISON -  All Things Must Pass (with lyrics)](https://www.youtube.com/watch?v=_nYXsnRSQXA)
+- [All Things Must Pass (Anthology 3 Version)](https://www.youtube.com/watch?v=5ODEhwaU2Uw)
+- [I'd Have You Anytime (2014 Remaster)](https://www.youtube.com/watch?v=bEoaZc7pY4M)
+- [Beware of Darkness (2014 Remaster)](https://www.youtube.com/watch?v=FrsGTItbss4)
+- [George Harrison - All Things Must Pass (Living In The Material World Bonus Tracks)](https://www.youtube.com/watch?v=KZbGVHk3tBA)
+- [George Harrison - All Things Must Pass 1997 - VH1- HD](https://www.youtube.com/watch?v=HsQKJt1n_dc)
+- [All Things Must Pass](https://www.youtube.com/watch?v=Hxyon6mBXfU)
+- [All Things Must Pass (1080p) FULL MOVIE - Documentary, Music](https://www.youtube.com/watch?v=tH-Y3WiwUXQ)
+- [GEORGE HARRISON - ALL THINGS MUST PASS (Full album UK)](https://www.youtube.com/watch?v=boZC6NTls70)
 
 ## Release Images
 {{< imageGrid >}}

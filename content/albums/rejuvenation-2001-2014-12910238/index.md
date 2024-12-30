@@ -14,7 +14,7 @@ cover:
 additional_images:
     - "https://i.discogs.com/l5th_HB9OrSBAEJSLUVRSmC8l7wPnCvroU4k0cltIgA/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyOTEw/MjM4LTE1NDQzNDE2/NDgtMzExOS5qcGVn.jpeg"
     - "https://i.discogs.com/7fUQ4v9_N4yWX6-zkvSI1g0XRCBfyZrP1oSQkfZ1q3o/rs:fit/g:sm/q:90/h:440/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyOTEw/MjM4LTE1NDQzNDE2/NTMtNzEyNS5qcGVn.jpeg"
-    - "https://i.discogs.com/GHshoOOKjq5bw6emVfpBPGOt7X5TIPzQgJ_zZZxJAIc/rs:fit/g:sm/q:90/h:618/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyOTEw/MjM4LTE1NDY4NTE3/NzQtMjM3MS5qcGVn.jpeg"
+    - "https://i.discogs.com/UbEAUwIswNw7c5sIMh9LAQaOwsqVKOxLrSak8WnDVug/rs:fit/g:sm/q:90/h:600/w:582/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyOTEw/MjM4LTE1NDY4NTE3/NzQtMjM3MS5qcGVn.jpeg"
 genres: ["Rock", "Pop"]
 styles: ["Indie Pop"]
 ---

@@ -1,16 +1,16 @@
 ---
-title: "Super Furry Animals - Fuzzy Logic B-Sides and Besides"
+title: "Super Furry Animals - Fuzzy Logic B-Sides And Besides"
 artist_name: "Super Furry Animals"
 artist: "super-furry-animals"
-album_name: "Fuzzy Logic B-Sides and Besides"
+album_name: "Fuzzy Logic B-Sides And Besides"
 date: 2024-04-20T08:01:03.000000Z
 release_id: "30451196"
 slug: "fuzzy-logic-b-sides-and-besides-30451196"
 hideSummary: true
 cover:
     image: "fuzzy-logic-b-sides-and-besides-30451196.jpg"
-    alt: "Fuzzy Logic B-Sides and Besides by Super Furry Animals"
-    caption: "Fuzzy Logic B-Sides and Besides by Super Furry Animals"
+    alt: "Fuzzy Logic B-Sides And Besides by Super Furry Animals"
+    caption: "Fuzzy Logic B-Sides And Besides by Super Furry Animals"
 additional_images:
     - "https://i.discogs.com/dLN7RqqjeRkosxu3IJpE6cf0oNHaIWp5ZcaTW00rMsY/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwNDUx/MTk2LTE3MTM2MTk2/NzMtNTAxNi5qcGVn.jpeg"
     - "https://i.discogs.com/1i7dAD2_59blTuCEwdclMeOcy5MeoxoJBXfNbhgF1yg/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwNDUx/MTk2LTE3MTM2MTk2/NzQtODkwOS5qcGVn.jpeg"
@@ -19,7 +19,7 @@ additional_images:
     - "https://i.discogs.com/cbaQd6mUgkM8mUGN2cwT4pcNTQvvY1jMOx1mGf1gzIk/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwNDUx/MTk2LTE3MTM2MTk2/NzQtODk0OC5qcGVn.jpeg"
     - "https://i.discogs.com/NTO-orEmh3C8kA8GVPZzuDDbEtn8Vs3DfdVwEIAb1hA/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwNDUx/MTk2LTE3MTM2MTk2/NzMtNTQ2OC5qcGVn.jpeg"
     - "https://i.discogs.com/J_zWwe6lGmjjkMaqeow22xUxD-USaAkHRtbl9TihMOc/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwNDUx/MTk2LTE3MTM2MTk2/NzMtODczMy5qcGVn.jpeg"
-    - "https://i.discogs.com/lMTBRfxv3UNS60UOUtjdhuKsIUiVy2TCidoF24IP4KI/rs:fit/g:sm/q:90/h:812/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwNDUx/MTk2LTE3MTM2MTk2/NzMtOTg5Ni5qcGVn.jpeg"
+    - "https://i.discogs.com/EVcLDnM4ywFC0YjvUFP07mFLZzFJw2BfFSSu_8RDa9E/rs:fit/g:sm/q:90/h:600/w:443/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwNDUx/MTk2LTE3MTM2MTk2/NzMtOTg5Ni5qcGVn.jpeg"
 genres: ["Electronic", "Rock"]
 styles: ["Alternative Rock"]
 ---
@@ -27,16 +27,19 @@ styles: ["Alternative Rock"]
 
 
 ## Tracklisting
-1. The man don't give a fuck
-2. Dim bendith
-3. Arnofio / Glo in the dark 
-4. Don't be a fool Billy!
+1. The Man Don't Give A Fuck
+2. Dim Bendith
+3. Arnofio / Glô In The Dark 
+4. Don't Be A Fool Billy!
 5. Guacamole 
-6. Death by melody
-7. Lazy Life
-8. Waiting to Happen
-9. (Nid) hon yw'r gan sy'n mind I achub Yr iaith
+6. Death By Melody
+7. Lazy Life (Of No Fixed Identity)
+8. Waiting To Happen
+9. (Nid) Hon Yw'r Gân Sy'n Mind I Achub Yr Iaith
+10. Something For The Weekend
 
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/super-furry-animals-at-the-b-b-c-live/1444296486" >}}<br>
 
 
 
@@ -50,5 +53,5 @@ styles: ["Alternative Rock"]
 | Format         | Vinyl LP Record Store Day Compilation Limited Edition Stereo (Green Bottle) |
 | Label          | BMG |
 | Catalog Number | BMGCAT870LP |
-| Notes | Manufactured in Germany |
-| Discogs URL    | [Super Furry Animals - Fuzzy Logic B-Sides and Besides](https://www.discogs.com/release/30451196-Super-Furry-Animals-Fuzzy-Logic-B-Sides-and-Besides) |
+| Notes | Track B5 ends on a locked groove. The stylus needs to be picked up and moved into the groove to hear the extra track B6, the original U.K. LP version of Something For The Weekend (which was replaced by the single version, [r1845638], on subsequent pressings of Fuzzy Logic). B6 is not listed on the release.  Manufactured in Germany  1500 copies. |
+| Discogs URL    | [Super Furry Animals - Fuzzy Logic B-Sides And Besides](https://www.discogs.com/release/30451196-Super-Furry-Animals-Fuzzy-Logic-B-Sides-And-Besides) |

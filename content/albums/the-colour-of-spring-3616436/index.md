@@ -15,14 +15,15 @@ cover:
 additional_images:
     - "https://i.discogs.com/JToOGjMWhU31-4loeq4Vqri6_sg6jZ34YB0P6Wl8byk/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2MTY0/MzYtMTM4NzI2MzA2/OS05NTYzLmpwZWc.jpeg"
     - "https://i.discogs.com/tqjvA_ioeihEf-tglK9Wd7_XIiaMhJ_4luNj3ZvsUok/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2MTY0/MzYtMTM4NzI2MzA3/NC0zNDMwLmpwZWc.jpeg"
-    - "https://i.discogs.com/OsJvV0T_U34ilUbkER008XvJGMGomdK8ix_0xTpKpgA/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2MTY0/MzYtMTM4NzI2MzA4/Mi03NzMxLmpwZWc.jpeg"
-    - "https://i.discogs.com/Xp0z8IPGjiaOrp0pdfqPohC8wQ4Z6Ahsw4ur3ydf9fE/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2MTY0/MzYtMTYyMTI2NTgw/OC01MzI3LmpwZWc.jpeg"
-    - "https://i.discogs.com/IUrpyrydxd3y2u3QyOGaOGdHNAXn8TO0b-eAMx-zAjM/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2MTY0/MzYtMTYyMTI2NTgw/OC02NTIyLmpwZWc.jpeg"
+    - "https://i.discogs.com/ZNeEbwNZAMXc0xFMGNqVOSFykKb0x-frDV-MzOlGlug/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2MTY0/MzYtMTcwNjQ2MjY5/NC0xNjY0LmpwZWc.jpeg"
+    - "https://i.discogs.com/hHvwVwfe5lhCBX3RNq7bDDT5OnT3ylOiwlD98ZZpGi0/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2MTY0/MzYtMTYyMTI2NTgw/OC01MzI3LmpwZWc.jpeg"
+    - "https://i.discogs.com/g4zW6W8xKMkZzWvZcdg78dL9MzQt4K3zp_GqZm7wTlI/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2MTY0/MzYtMTYyMTI2NTgw/OC02NTIyLmpwZWc.jpeg"
     - "https://i.discogs.com/tuL4Od74uUVhzH0UokZkn32tuioyv9ZTdXfupXZUubU/rs:fit/g:sm/q:90/h:592/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2MTY0/MzYtMTM4NzI2MzA4/OC00MTIyLmpwZWc.jpeg"
     - "https://i.discogs.com/pmI_Ll7kxqdIPB6h0MJZY_7fJeKWqS_vlETJQkILlVw/rs:fit/g:sm/q:90/h:582/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2MTY0/MzYtMTM4NzI2MzA5/NS00NjAzLmpwZWc.jpeg"
-    - "https://i.discogs.com/h05hIViJE2OhDS06vASszrERjUfKC7-cUn0DZ5YPcjc/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2MTY0/MzYtMTM4NzI2MzIy/MS0xNTU3LmpwZWc.jpeg"
-    - "https://i.discogs.com/4CrtS_UyzLdAH7B8ZuozW7-tIuRc2Yfae5w1NYpBQYg/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2MTY0/MzYtMTM4NzI2MzIy/Ni00MzQwLmpwZWc.jpeg"
+    - "https://i.discogs.com/4ilnE4hvJ-xUmqJwOrl8vAc-TPgEoWE5jMVU8ylO994/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2MTY0/MzYtMTcwNjQ2MjU5/Ni0zMzg1LmpwZWc.jpeg"
+    - "https://i.discogs.com/hOgxx1tQ8lPGCBUJIsXg6xgm5wyRAmgIBX4gHnAvKg8/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2MTY0/MzYtMTcwNjQ2MjM2/MC04NzU2LmpwZWc.jpeg"
     - "https://i.discogs.com/JyyxKMj2tUc0BQXVR-ukaVF47SFpQsfoUFRQJTaGqlU/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2MTY0/MzYtMTM4NzI2MzUz/OC0yMzc5LmpwZWc.jpeg"
+    - "https://i.discogs.com/0UdN-XZDo7qVWnGoFxc2y-0Mid5gcqePlibwgizOEW0/rs:fit/g:sm/q:90/h:600/w:597/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2MTY0/MzYtMTcwNjQ2MTc2/Ni0xMTk5LmpwZWc.jpeg"
 genres: ["Electronic", "Rock", "Pop"]
 styles: ["Pop Rock", "Experimental"]
 ---
@@ -57,15 +58,14 @@ Talk Talk snuck into the music industry as part of the New Romantic movement, op
 
 
 ## Videos
-### Talk Talk - Give It Up
-{{< youtube id="OsEgxsyUn2c" title="Talk Talk - Give It Up" >}}<br>
+### Talk Talk - The Colour of Spring (Full Album)
+{{< youtube id="XWs1sWdx1ig" title="Talk Talk - The Colour of Spring (Full Album)" >}}<br>
 ### More Videos
 
 - [Talk Talk - Life's What You Make It (Official Video)](https://www.youtube.com/watch?v=l3VqAsMXE7o)
-- [Talk Talk - Living In Another World (Official Video)](https://www.youtube.com/watch?v=fZQZZf_R434)
 - [Happiness Is Easy (1997 Remaster)](https://www.youtube.com/watch?v=gl4lvJmvqQU)
-- [I Don't Believe in You (1997 Remaster)](https://www.youtube.com/watch?v=o8canrG0YfY)
 - [April 5th (1997 Remaster)](https://www.youtube.com/watch?v=h3vbVCRNcrM)
+- [I Don't Believe in You (1997 Remaster)](https://www.youtube.com/watch?v=o8canrG0YfY)
 - [Give It Up (1997 Remaster)](https://www.youtube.com/watch?v=XK4Cw2STZiQ)
 - [Chameleon Day (1997 Remaster)](https://www.youtube.com/watch?v=RQGAw43t20k)
 - [Time It's Time (1997 Remaster)](https://www.youtube.com/watch?v=vwM77SSxLp8)

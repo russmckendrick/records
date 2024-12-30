@@ -16,11 +16,11 @@ additional_images:
     - "https://i.discogs.com/xahfVfDrKXpTjL6tbueVUZ-0DbyJSkOME64KS-a-AEs/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3MjMx/MTcwLTE2MTIzMDg0/MjItNDI2NC5qcGVn.jpeg"
     - "https://i.discogs.com/qHxYiJaaasPeAV5mxLqpf_KHrGpT0kBR1n0GUvPySVQ/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3MjMx/MTcwLTE2MTIzMDg0/MjQtMTE2OS5qcGVn.jpeg"
     - "https://i.discogs.com/hrM-kTY9AaxxTgELF0NBvaDs1NRXaQ2hGwmcitI5skA/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3MjMx/MTcwLTE2MTIzMDg0/MjQtNzgxMS5qcGVn.jpeg"
-    - "https://i.discogs.com/PUmSBmHgOo8ofTsElaRaitYk6yktKHDmDOhOrNolVj8/rs:fit/g:sm/q:90/h:608/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3MjMx/MTcwLTE2MTIzMDg0/MjQtOTY3Mi5qcGVn.jpeg"
+    - "https://i.discogs.com/Z-kO4h32N-RrZX0Phi5JFdk6L-iiGDMuxaqds-jKWVs/rs:fit/g:sm/q:90/h:600/w:591/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3MjMx/MTcwLTE2MTIzMDg0/MjQtOTY3Mi5qcGVn.jpeg"
     - "https://i.discogs.com/i6MWnIPoYnmHGTimDun9bIRM_KyOp_Gt0ZsVOUmlvtU/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3MjMx/MTcwLTE2MTIzMDg0/MjEtNzkyMS5qcGVn.jpeg"
     - "https://i.discogs.com/9_4ETcGS0LgJ1Bgqs9ODAaUmEEYv1xgK2FhRnVweYZ0/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3MjMx/MTcwLTE2MTIzMDg0/MjItODE3Mi5qcGVn.jpeg"
-    - "https://i.discogs.com/dsvxVF54UI10aJ07Q6GIwPzCs7byH3JPO9XE23I9z1E/rs:fit/g:sm/q:90/h:884/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3MjMx/MTcwLTE2MTIzMDg0/MjMtNzY0OS5qcGVn.jpeg"
-    - "https://i.discogs.com/Db7bsnwv1yhUX-vl57IOi1WCrM3mLT8pUNnsilygTBc/rs:fit/g:sm/q:90/h:815/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3MjMx/MTcwLTE2MTIzMDg0/MjMtNDYyNC5qcGVn.jpeg"
+    - "https://i.discogs.com/vKJWdFd2cVfXd-6iMKhTgLEbcNxR-JJ56ExRYCP_1gA/rs:fit/g:sm/q:90/h:600/w:407/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3MjMx/MTcwLTE2MTIzMDg0/MjMtNzY0OS5qcGVn.jpeg"
+    - "https://i.discogs.com/X2AYbdkja9UYlpGdmYSgrUCamO2rB1DQKgO9HAWJCFg/rs:fit/g:sm/q:90/h:600/w:441/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3MjMx/MTcwLTE2MTIzMDg0/MjMtNDYyNC5qcGVn.jpeg"
     - "https://i.discogs.com/j0duazn0EteYduNVYUOeKIp0RPQqyeOlGB0FuRoFN9Q/rs:fit/g:sm/q:90/h:333/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3MjMx/MTcwLTE2MzY0Nzk5/OTItOTg0MC5qcGVn.jpeg"
 genres: ["Electronic"]
 styles: ["Ambient", "Experimental", "Synthwave"]
@@ -55,8 +55,10 @@ Lost Themes III: Alive After Death is the third studio album by American film di
 ### More Videos
 
 - [John Carpenter - The Dead Walk (Official Audio)](https://www.youtube.com/watch?v=3Ic0Xdpwhl4)
+- [John Carpenter - Alive After Death (Official Music Video)](https://www.youtube.com/watch?v=A8NHR31TA9E)
 - [John Carpenter - Weeping Ghost (Official Audio)](https://www.youtube.com/watch?v=l7AA4oZ8URA)
 - [Alive After Death](https://www.youtube.com/watch?v=SIing3weJbc)
+- [John Carpenter - The Dead Walk (Official Audio)](https://www.youtube.com/watch?v=3Ic0Xdpwhl4)
 - [Carpathian Darkness](https://www.youtube.com/watch?v=FIbZ9J2a6wI)
 - [Cemetery](https://www.youtube.com/watch?v=2_YuSaOcjSU)
 - [Turning the Bones](https://www.youtube.com/watch?v=nuWNasbkJOg)

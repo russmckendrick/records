@@ -14,7 +14,7 @@ cover:
 additional_images:
     - "https://i.discogs.com/BsVBPHdgbT6hKawnDk0zgqaRXWcW_Tp4SFkxvAOS1Io/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMDQ2/OTM5LTE1MDg4NjE5/ODktMTgzNi5qcGVn.jpeg"
     - "https://i.discogs.com/gDcJeC2iyO49o1GkzwjXEiM2SU2iWSeuVSPspKqT5B4/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMDQ2/OTM5LTE1MTAwNTIz/MzgtODk1MS5qcGVn.jpeg"
-    - "https://i.discogs.com/qGLbv6uhfv0RBY3k95tKJN0xhDQGv7szSIVnybaHHNo/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMDQ2/OTM5LTE1MTAwNTE3/MjctMjkwNi5qcGVn.jpeg"
+    - "https://i.discogs.com/4-UoNsJ9dpxHd8cC8ilbqzyHUa4JgEPRW328kCnfHr4/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMDQ2/OTM5LTE1MTAwNTE3/MjctMjkwNi5qcGVn.jpeg"
     - "https://i.discogs.com/dlv7zT3k5oGSZ9VWU3vbW6ZsL0b6TnT9XzsTczPfCwM/rs:fit/g:sm/q:90/h:395/w:395/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMDQ2/OTM5LTE1MDk3MDQ0/NTAtNDc4Ny5qcGVn.jpeg"
     - "https://i.discogs.com/jkDRP2o69OBrsE9g4AnDfBSmO-YbUADkY7OmdseWMWk/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMDQ2/OTM5LTE1MTAwNTE4/MzEtMzA3MS5qcGVn.jpeg"
     - "https://i.discogs.com/4IAPDUhQFFMwU83CECT8ZR8EantphrL0YhqX61oDq_8/rs:fit/g:sm/q:90/h:503/w:503/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMDQ2/OTM5LTE1MDk3MDQ0/NjMtNTAwNi5qcGVn.jpeg"
@@ -32,15 +32,18 @@ additional_images:
     - "https://i.discogs.com/X64C3TQEz9LSJEwEJA6fl-prLGK1zvj7KgDJAsu_jtM/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMDQ2/OTM5LTE1MTAwNTI1/NjQtMTMxNS5qcGVn.jpeg"
     - "https://i.discogs.com/8by8ad_TRO--iq-C04nv4K91dfSW5WquPKLoI83Ag8I/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMDQ2/OTM5LTE1MTAwNTI1/OTEtNzM2MS5qcGVn.jpeg"
     - "https://i.discogs.com/kKBZlskjZmJfvz9MBoDPT7I47wdunEtZ2_7cszRQl0E/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMDQ2/OTM5LTE1MTAwNTI2/MDktNzU5Ny5qcGVn.jpeg"
-    - "https://i.discogs.com/7eg9r203NcmXLKg0vDuWljG7H0TqqK7Jrem-_4LX16c/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMDQ2/OTM5LTE1MTAyNDA3/NjItNDY2OS5qcGVn.jpeg"
-    - "https://i.discogs.com/vC5sG_PFte8hhxy5_6ZT9zwnRmX0N-uw2mb12LInyeY/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMDQ2/OTM5LTE1MTAyNDA4/NTktOTY2Mi5qcGVn.jpeg"
+    - "https://i.discogs.com/vGdK1STeidcFdSbkqylEYFnfhtsRDmAjJUQizpf6ZAc/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMDQ2/OTM5LTE1MTAyNDA3/NjItNDY2OS5qcGVn.jpeg"
+    - "https://i.discogs.com/DKGppEAwZixsEI_VllA72sN77xwno9K3zNC60vsWFo4/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMDQ2/OTM5LTE1MTAyNDA4/NTktOTY2Mi5qcGVn.jpeg"
     - "https://i.discogs.com/vlgvbEWvvr3bSBzXjEEHygACaHHFegN0s3FtTpb8nFc/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMDQ2/OTM5LTE1MTAyNDEw/OTQtNDQ2Ni5qcGVn.jpeg"
-    - "https://i.discogs.com/1KQ7ogqouOGqIAyBx6RTYCQB8rn0RdbX2TXfvw28gng/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMDQ2/OTM5LTE1MTAyNDEx/NDMtMzAyMi5qcGVn.jpeg"
+    - "https://i.discogs.com/uKu0K0A5M4tb7acdf_j3vvXw01m6j3G4ehwDFI-nD8Y/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMDQ2/OTM5LTE1MTAyNDEx/NDMtMzAyMi5qcGVn.jpeg"
     - "https://i.discogs.com/8Gj2Bd1mAn6iyVrDhKAl7XzLcB6EauPkWW8hCYr1-Ao/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMDQ2/OTM5LTE1MTAyNDEx/OTYtNDcyMC5qcGVn.jpeg"
 genres: ["Hip Hop", "Funk / Soul"]
 styles: ["P.Funk"]
 ---
 
+World Wide Funk is the 15th studio album by former Parliament-Funkadelic bassist Bootsy Collins. The album was released on October 26, 2017—Collins' 66th birthday—by Mascot Records and was made available on CD, 180G "Splatter" vinyl, and digital download. The album features diverse musical collaborations with artists such as Stanley Clarke, Victor Wooten, Chuck D, Big Daddy Kane, Doug E. Fresh, Eric Gales, Musiq Soulchild, Buckethead, Dennis Chambers, Kali Uchis, and the late P-Funk keyboardist, Bernie Worrell.
+    
+    
 
 
 ## Tracklisting
@@ -64,19 +67,7 @@ styles: ["P.Funk"]
 {{< applemusic url="https://music.apple.com/gb/album/world-wide-funk/1600467754" >}}<br>
 
 
-## Videos
-### Bootsy Collins - Worth My While (feat. Kali Uchis) (World Wide Funk) 2017
-{{< youtube id="xgqPq3MKbcI" title="Bootsy Collins - Worth My While (feat. Kali Uchis) (World Wide Funk) 2017" >}}<br>
-### More Videos
 
-- [Bootsy Collins - Hot Saucer (feat. Musiq Soulchild & Big Daddy Kane) (World Wide Funk) 2017](https://www.youtube.com/watch?v=e4sw54XwFpU)
-- [Bootsy Collins - Ladies Nite (Official Music Video)](https://www.youtube.com/watch?v=nVL7WUPvjnc)
-- [Illusions (feat. Chuck D, Buckethead & BlvckSeeds)](https://www.youtube.com/watch?v=mmelrq5bqVo)
-- [Bootsy Collins Bass-Rigged-System (World Wide Funk)](https://www.youtube.com/watch?v=wn7-cPIX5dM)
-- [World Wide Funk (feat. Doug E. Fresh, Buckethead & Alissia Benveniste)](https://www.youtube.com/watch?v=S_pt0vMsARo)
-- [Come Back Bootsy](https://www.youtube.com/watch?v=fAMiUe7ZraE)
-- [A Salute To Bernie (feat. Dr. G. & Bernie Worrell)](https://www.youtube.com/watch?v=2UVNZ4oRlTA)
-- [Pusherman (feat. Dru Down, BlvckSeeds & Mr. Talkbox)](https://www.youtube.com/watch?v=VxExDMN6C4w)
 
 ## Release Images
 {{< imageGrid >}}
@@ -84,6 +75,7 @@ styles: ["P.Funk"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
+| Wikipedia URL | https://en.wikipedia.org/wiki/World_Wide_Funk |
 | Format         | Vinyl 2× LP Album Limited Edition (Splatter) |
 | Label          | Mascot Records (2) |
 | Catalog Number | M 75141 |

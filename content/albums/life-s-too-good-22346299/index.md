@@ -17,11 +17,15 @@ additional_images:
     - "https://i.discogs.com/KafTsLuRrmp6iAZCWso0ujlWHNm2HeAp7pjbgXC3Tx0/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMzQ2/Mjk5LTE2NDYxNDA3/NDgtODkzMi5qcGVn.jpeg"
     - "https://i.discogs.com/1wL2fkgc4_OUlwuSKfvOq9VWzdw-5oMPoGm4uzpt9go/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMzQ2/Mjk5LTE2NDYxNDA3/NDgtMjIzOS5qcGVn.jpeg"
     - "https://i.discogs.com/qFpExmf5buJ-czI9nR5oVJNPJMduv1gsz9HMj66OWn4/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMzQ2/Mjk5LTE2NDk5ODQ2/ODAtMzgwNi5qcGVn.jpeg"
-    - "https://i.discogs.com/EP4dEiu_ARWxedIMgnXSK1-hOSO5fkkYhJpuyZxiLrs/rs:fit/g:sm/q:90/h:602/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMzQ2/Mjk5LTE2NDk5ODQ2/ODEtNjMyOC5qcGVn.jpeg"
+    - "https://i.discogs.com/t24Ca-GZJkmTS4kS6h4Aoc_sh1hSSe71770Jw0mEHLg/rs:fit/g:sm/q:90/h:600/w:597/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMzQ2/Mjk5LTE2NDk5ODQ2/ODEtNjMyOC5qcGVn.jpeg"
 genres: ["Rock", "Pop"]
 styles: ["Indie Rock"]
 ---
 
+Life's Too Good is the debut studio album by Icelandic alternative rock group the Sugarcubes. It was released April 25, 1988 by One Little Indian in the UK and Europe and in May 1988 by Elektra Records in the US. The album was an unexpected success and brought international attention for the band, especially to lead singer Björk, who would launch a successful solo career in 1993.
+Consisting of veterans of Reykjavík's early 1980s rock culture, the band took elements of the post-punk sound that characterised the scene, intending to create a humorous take on pop music's optimism, which is reflected in the album's title. Despite never having intended to be taken seriously, and because of the success of their debut and their contractual obligations, the Sugarcubes went on to release two further studio albums.
+    
+    
 
 
 ## Tracklisting
@@ -38,14 +42,20 @@ styles: ["Indie Rock"]
 11. Take Some Petrol Darling (1:27)
 
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/lifes-too-good/1536988611" >}}<br>
+{{< applemusic url="https://music.apple.com/gb/album/lifes-too-good/1726662462" >}}<br>
 
 
 ## Videos
-### Traitor
-{{< youtube id="xAb5-GDu3uE" title="Traitor" >}}<br>
+### The SUGARCUBES – Life's Too Good – 1988 – Full album – Vinyl
+{{< youtube id="6vd1cHybP-o" title="The SUGARCUBES – Life's Too Good – 1988 – Full album – Vinyl" >}}<br>
 ### More Videos
 
+- [The Sugarcubes - Birthday (Lifes too good)](https://www.youtube.com/watch?v=_ik9e-HRJ_o)
+- [Mama](https://www.youtube.com/watch?v=V0t6tVMoQfM)
+- [Blue Eyed Pop](https://www.youtube.com/watch?v=Whc0WOxEZU4)
+- [The Sugarcubes - Birthday](https://www.youtube.com/watch?v=tvnErW9FYs4)
+- [The Sugarcubes - Birthday - 432Hz  HD  (lyrics in description)](https://www.youtube.com/watch?v=yqVksqxHGl0)
+- [Traitor](https://www.youtube.com/watch?v=xAb5-GDu3uE)
 - [Motor Crash](https://www.youtube.com/watch?v=yl3IOefc82M)
 - [Birthday](https://www.youtube.com/watch?v=oTeVFbmzMVM)
 - [Delicious Demon](https://www.youtube.com/watch?v=vtHPokwW__M)
@@ -63,6 +73,7 @@ styles: ["Indie Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
+| Wikipedia URL | https://en.wikipedia.org/wiki/Life%27s_Too_Good |
 | Format         | Vinyl LP Album Limited Edition Reissue (Pink) |
 | Label          | One Little Independent Records |
 | Catalog Number | tplp5 |

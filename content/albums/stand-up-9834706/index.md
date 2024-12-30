@@ -45,13 +45,15 @@ additional_images:
     - "https://i.discogs.com/Sf6SI6F99XuzEArpZM9a6DxYy2z95awCtfc9AsRgZUc/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk4MzQ3/MDYtMTQ4NzA4MTU5/Ni02NDE2LmpwZWc.jpeg"
     - "https://i.discogs.com/EM5PFr7mRMimLTVY0te2xKq1pKQMg4ySEN51h162gBk/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk4MzQ3/MDYtMTQ4NzA4MTYy/NS05MTgwLmpwZWc.jpeg"
     - "https://i.discogs.com/Z5zCyYE1HEGCdYGL0LycErNEXXtqEJbCIJBvIpo0fM4/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk4MzQ3/MDYtMTQ4NzA4MTYx/MC0yODEyLmpwZWc.jpeg"
-    - "https://i.discogs.com/odz9o-M59-SgydVFp_AksO9b55CmccTH2OKXZ5B5mrI/rs:fit/g:sm/q:90/h:620/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk4MzQ3/MDYtMTY3ODAzNjM1/Ny05MTQ5LmpwZWc.jpeg"
+    - "https://i.discogs.com/ySeWzGDYcK0UcY0pzRZ3l0RgVjHgWJYWE94Mkjlp3lM/rs:fit/g:sm/q:90/h:600/w:580/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk4MzQ3/MDYtMTY3ODAzNjM1/Ny05MTQ5LmpwZWc.jpeg"
 genres: ["Rock", "Folk, World, & Country"]
 styles: ["Prog Rock", "Folk Rock"]
 ---
 
-Stand Up is the second studio album by British rock band Jethro Tull, released in 1969. It was the first Jethro Tull album to feature guitarist Martin Barre, who would go on to become the band's longtime guitarist until its initial dissolution in 2012.  Before recording sessions for the album began, the band's original guitarist Mick Abrahams departed the band as a result of musical differences with frontman and primary songwriter Ian Anderson; Abrahams wanted to stay with the blues rock sound of their 1968 debut, This Was, while Anderson wished to add other musical influences such as folk rock.Stand Up represents the first album project on which Anderson was in full control of the music and lyrics. The result was an eclectic album with various styles and instrumentation appearing in its songs.
-The album quickly went to No. 1 on the UK charts, further launching the band's career, while the non-album single "Living in the Past" peaked at No. 3. The album was also Jethro Tull's first success in the United States, reaching No. 20 on the Billboard 200.
+Stand Up, released in 1969, is the second studio album by British rock band Jethro Tull. It was the first Jethro Tull album to feature guitarist Martin Barre, who would go on to become the band's longtime guitarist until its initial dissolution in 2011.  Before recording sessions for the album began, the band's original guitarist Mick Abrahams departed from the band as a result of musical differences with frontman and primary songwriter Ian Anderson; Abrahams wanted to stay with the blues rock sound of their 1968 debut, This Was, while Anderson wished to add other musical influences such as folk rock.
+The album was released 25 July, and was No. 1 on the UK albums chart the following week, 3 August, following up on the success of the non-album single "Living in the Past", which had reached No. 3 in the UK singles chart on the day the album was released. The album was Jethro Tull's first success in the United States, reaching No. 20 on the Billboard 200. 
+
+
     
     
 
@@ -73,9 +75,35 @@ The album quickly went to No. 1 on the UK charts, further launching the band's c
 
 
 ## Videos
-### J̲e̲thro T̲ull - S̲tand Up (Full Album) 1969
-{{< youtube id="dP3V4ZRpSdM" title="J̲e̲thro T̲ull - S̲tand Up (Full Album) 1969" >}}<br>
+### Jethro Tull   Stand Up
+{{< youtube id="ouX5zxE9rpM" title="Jethro Tull   Stand Up" >}}<br>
+### More Videos
 
+- [A New Day Yesterday (Steven Wilson Remix)](https://www.youtube.com/watch?v=MkF_dn3ni5g)
+- [Jeffrey Goes to Leicester Square (Steven Wilson Stereo Remix)](https://www.youtube.com/watch?v=zTtiIEphLy0)
+- [Bourée (Steven Wilson Remix)](https://www.youtube.com/watch?v=I8ToarxmUmo)
+- [Back to the Family (Steven Wilson Remix)](https://www.youtube.com/watch?v=T62f339WCzM)
+- [Look into the Sun (Steven Wilson Stereo Remix)](https://www.youtube.com/watch?v=YVwIjGyWVe4)
+- [Nothing Is Easy (Steven Wilson Remix)](https://www.youtube.com/watch?v=ttcbUuUEZMk)
+- [Fat Man (Steven Wilson Remix)](https://www.youtube.com/watch?v=KBekMK-0XzI)
+- [We Used to Know (Steven Wilson Stereo Remix)](https://www.youtube.com/watch?v=vJ9VMNCURMk)
+- [Reasons for Waiting (Steven Wilson Stereo Remix)](https://www.youtube.com/watch?v=VxxiJ-3-BY8)
+- [For a Thousand Mothers (Steven Wilson Stereo Remix)](https://www.youtube.com/watch?v=OoZUueWE1OY)
+- [FIRST LOOK: STAND UP - THE ELEVATED EDITION 50th ANNIVERSARY - JETHRO TULL RARE BOX SET](https://www.youtube.com/watch?v=84gE7eWe0W8)
+- [J̲e̲thro T̲ull - S̲tand Up (Full Album) 1969](https://www.youtube.com/watch?v=dP3V4ZRpSdM)
+- [Jethro Tull - Reasons for Waiting (Stand Up, 1969)](https://www.youtube.com/watch?v=JnuCo6jAgz0)
+- [Jethro Tull's Stand Up - A look at the new Analogue Productions 45 edition mastered by Kevin Gray](https://www.youtube.com/watch?v=dO_RkKU_0oI)
+- [We Used to Know](https://www.youtube.com/watch?v=oGvux7w1Ea4)
+- [Stand Up (US Radio Spot #1) (2010 Remaster)](https://www.youtube.com/watch?v=OZUWjPXgG-s)
+- [Reasons for Waiting](https://www.youtube.com/watch?v=exXKfGPgW00)
+- [Jethro Tull - Stand Up (Vinyl) Part 1 (HQ)](https://www.youtube.com/watch?v=7QfHlg1CArY)
+- [Look into the Sun](https://www.youtube.com/watch?v=A6VXRSVZHIY)
+- [Back to the Family](https://www.youtube.com/watch?v=a3uqdoJxJ50)
+- [Jethro Tull Stand Up: Analogue Production vs 1st British Pressing vs. S. Wilson Remaster](https://www.youtube.com/watch?v=kRuwGlrrnv0)
+- [Jeffrey Goes to Leicester Square](https://www.youtube.com/watch?v=wlNwOJkP5P8)
+- [Jethro Tull   Stand Up Full Album](https://www.youtube.com/watch?v=vDFg82sx8BU)
+- [Live EDM DANCE CLUB SET Mix Performance 🎧 Remixes for Party, Gym, and Car Music Deep House music](https://www.youtube.com/watch?v=iQVfPFcAYZc)
+- [JETHRO TULL  -  STAND UP 1969.](https://www.youtube.com/watch?v=vBNnQDGRiCQ)
 
 ## Release Images
 {{< imageGrid >}}

@@ -24,10 +24,10 @@ additional_images:
     - "https://i.discogs.com/U2dKKf9FTuyGBdvDJOJ7vJOavShlGpn1RXpoVDtmvTc/rs:fit/g:sm/q:90/h:600/w:590/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4MzMy/NjkyLTE2MTg2NDM5/NjYtMTQyOS5qcGVn.jpeg"
     - "https://i.discogs.com/BH1NtUzOkDBari_-Te8Zw9PRo_qcxhfZKF-rLoQ8K3Q/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4MzMy/NjkyLTE2MTg2NDM5/NzEtNzk1Mi5qcGVn.jpeg"
 genres: ["Rock", "Pop"]
-styles: ["Classic Rock"]
+styles: ["Pop Rock"]
 ---
 
-The Best Years of Our Lives is the third studio album by Steve Harley & Cockney Rebel, which was released by EMI in 1975. It was the first album to feature Harley's name ahead of the band's (the band was previously known as Cockney Rebel). The album was produced by Harley and Alan Parsons, and contains the band's only UK number one, the million-selling "Make Me Smile (Come Up and See Me)".
+The Best Years of Our Lives is the third studio album by Steve Harley & Cockney Rebel, released by EMI on 7 March 1975. It was the first album to feature Harley's name ahead of the band's (the band was previously known as Cockney Rebel). The album was produced by Harley and Alan Parsons, and contains the band's only UK number one, the million-selling "Make Me Smile (Come Up and See Me)".
     
     
 
@@ -50,40 +50,22 @@ The Best Years of Our Lives is the third studio album by Steve Harley & Cockney 
 15. Sebastian (Live At Hammersmith Odeon 14/4/75)
 
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/the-best-years-of-our-lives-deluxe-version/1631057930" >}}<br>
+{{< applemusic url="https://music.apple.com/gb/album/the-cream-of-steve-harley-cockney-rebel/1629179059" >}}<br>
 
 
 ## Videos
-### Steve Harley & Cockney Rebel - It Wasn't Me - The Best Years Of Our Lives - 1975
-{{< youtube id="G00gx11mKf4" title="Steve Harley & Cockney Rebel - It Wasn't Me - The Best Years Of Our Lives - 1975" >}}<br>
+### Introducing 'The Best Years' (2014 Remaster)
+{{< youtube id="qEiPqFwDs1E" title="Introducing 'The Best Years' (2014 Remaster)" >}}<br>
 ### More Videos
 
-- [Introducing 'The Best Years' (2014 Remaster)](https://www.youtube.com/watch?v=qEiPqFwDs1E)
-- [The Mad, Mad Moonlight (Live at Hammersmith Odeon, 14 April 1975)](https://www.youtube.com/watch?v=jrRkOA8wbQY)
 - [The Mad Mad Moonlight (2014 Remaster)](https://www.youtube.com/watch?v=hDal-VyOkVM)
-- [Mr. Raffles (Man, It Was Mean)](https://www.youtube.com/watch?v=4hRJ4878OXw)
+- [Mr. Raffles (Man, It Was Mean)](https://www.youtube.com/watch?v=e5kKfhO_js4)
 - [It Wasn't Me (2014 Remaster)](https://www.youtube.com/watch?v=Vf8n-7c4Pmk)
 - [Panorama (2014 Remaster)](https://www.youtube.com/watch?v=fzX1IdOH_E0)
 - [Steve Harley & Cockney Rebel ~ Make Me Smile (Come Up And See Me) ~ The Best Years Of Our Lives (HQ)](https://www.youtube.com/watch?v=prUFFUTb7lQ)
 - [Back to the Farm (2014 Remaster)](https://www.youtube.com/watch?v=f_D2THFZP_E)
 - [49th Parallel (2014 Remaster)](https://www.youtube.com/watch?v=CQ90oxGi1yo)
 - [The Best Years of Our Lives (2014 Remaster)](https://www.youtube.com/watch?v=BvRz8aAm9E0)
-- [Another Journey (2014 Remaster)](https://www.youtube.com/watch?v=W_xqddFzJwo)
-- [The Best Years of Our Lives (Acoustic Version)](https://www.youtube.com/watch?v=nln6a7fJcmU)
-- [Hideaway (Live at Hammersmith Odeon, 14 April 1975)](https://www.youtube.com/watch?v=CbnMh9uyY6M)
-- [Panorama (Live at Hammersmith Odeon, 14 April 1975)](https://www.youtube.com/watch?v=0rg_k4dpzeQ)
-- [Panorama (Live at the Hammersmith Odeon, 14 April 1975)](https://www.youtube.com/watch?v=0rgyWfnZFWY)
-- [Sweet Dreams (Live at Hammersmith Odeon, 14 April 1975)](https://www.youtube.com/watch?v=bGbuEDFlkac)
-- [Sebastian (Live at Hammersmith Odeon, 14 April 1975)](https://www.youtube.com/watch?v=ONqG1sF4K0Y)
-- [Mr. Raffles (Man, It Was Mean) (Live at Hammersmith Odeon, 14 April 1975)](https://www.youtube.com/watch?v=4TKpsqymLnM)
-- [Back to the Farm (Live at Hammersmith Odeon, 14 April 1975)](https://www.youtube.com/watch?v=4Grhiof9Ch8)
-- [49th Parallel (Live at Hammersmith Odeon, 14 April 1975)](https://www.youtube.com/watch?v=eovlmyBwb2s)
-- [Death Trip (Live at Hammersmith Odeon, 14 April 1975)](https://www.youtube.com/watch?v=N7SknTV2JQw)
-- [Judy Teen (Live at Hammersmith Odeon, 14 April 1975)](https://www.youtube.com/watch?v=1jXejqI6TmQ)
-- [Mr. Soft (Live at Hammersmith Odeon, 14 April 1975)](https://www.youtube.com/watch?v=WSp-BEvDetM)
-- [The Best Years of Our Lives (Live at Hammersmith Odeon, 14 April 1975)](https://www.youtube.com/watch?v=4BnxTOXF7DI)
-- [Make Me Smile (Come up and See Me) (Live at Hammersmith Odeon, 14 April 1975)](https://www.youtube.com/watch?v=iIXGkgkst7s)
-- [Tumbling Down (Live at Hammersmith Odeon, 14 April 1975)](https://www.youtube.com/watch?v=zWHMjqV1SJQ)
 
 ## Release Images
 {{< imageGrid >}}

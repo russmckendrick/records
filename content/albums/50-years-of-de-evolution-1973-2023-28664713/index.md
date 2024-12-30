@@ -12,9 +12,12 @@ cover:
     alt: "50 Years Of De-Evolution (1973-2023) by Devo"
     caption: "50 Years Of De-Evolution (1973-2023) by Devo"
 additional_images:
-    - "https://i.discogs.com/APolr-vjbX-R7IXavuwh5BJoDhaEk-G3hEb_ZfWpcSY/rs:fit/g:sm/q:90/h:613/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4NjY0/NzEzLTE2OTc5MjI3/NTgtNTQwOC5qcGVn.jpeg"
-    - "https://i.discogs.com/h89uoXfjBsJ0jBByAwPfJyxVYr-9U_YMCHjiA6zjaE4/rs:fit/g:sm/q:90/h:606/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4NjY0/NzEzLTE2OTc5MjI3/NjMtODc3Ny5qcGVn.jpeg"
-    - "https://i.discogs.com/MzeImyz3vW8cMcgtKrvdqe-EQiGAjQHVJpc_NtIqkwA/rs:fit/g:sm/q:90/h:394/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4NjY0/NzEzLTE2OTc5MjM2/NTctNzIzNC5wbmc.jpeg"
+    - "https://i.discogs.com/FMAooCzWiJArcXXWKZzdv7fef8ntUMxNtpzZP5JzFtk/rs:fit/g:sm/q:90/h:600/w:587/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4NjY0/NzEzLTE2OTc5MjI3/NTgtNTQwOC5qcGVn.jpeg"
+    - "https://i.discogs.com/3Fgs2vWgltRakm_jI1oDqmqGFIVJ0zEexXrtPAkoUR4/rs:fit/g:sm/q:90/h:600/w:593/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4NjY0/NzEzLTE2OTc5MjI3/NjMtODc3Ny5qcGVn.jpeg"
+    - "https://i.discogs.com/CHu39EeLH3yv5AWnm2XxYCIeq7ziCNi270nQRJmp76o/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4NjY0/NzEzLTE3MDI0ODg1/OTAtOTg2Ni5qcGVn.jpeg"
+    - "https://i.discogs.com/Ic9cr2eDdW8Y-mMFJqSxwuoYlqyDsGOqsGTqXLo1DZg/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4NjY0/NzEzLTE3MDI0ODg2/MDQtNTQ3Ni5qcGVn.jpeg"
+    - "https://i.discogs.com/bB4DTRRAdJIhw67ZIzqiOIvpIF7DwOZLMGN9ZvxQrSs/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4NjY0/NzEzLTE3MDI0ODg2/MTAtNjE1Mi5qcGVn.jpeg"
+    - "https://i.discogs.com/LGNs1FuHEF3DlFiczE0Pwv1-g1L9H4KDj0dUC2nPlOM/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4NjY0/NzEzLTE3MDI0ODg2/MTItMTYwNy5qcGVn.jpeg"
 genres: ["Electronic", "Rock"]
 styles: ["New Wave", "Synth-pop"]
 ---
@@ -49,11 +52,22 @@ styles: ["New Wave", "Synth-pop"]
 25. Fresh (2:57)
 
 
-## Spotify
-{{< spotify type="album" id="2mafYkzxTjR7sQhy4kearK" width="100%" height="500" >}}<br>
 
+## Videos
+### Peek•A•Boo! (2023 Remaster)
+{{< youtube id="P-p6EiglULA" title="Peek•A•Boo! (2023 Remaster)" >}}<br>
+### More Videos
 
-
+- [Gates of Steel (2023 Remaster)](https://www.youtube.com/watch?v=nQMFkmi0gS8)
+- [What We Do (Single Edit) (2023 Remaster)](https://www.youtube.com/watch?v=7t7RTSKZ1EA)
+- [Through Being Cool (2023 Remaster)](https://www.youtube.com/watch?v=-jj5d0lnj7A)
+- [Going Under (2023 Remaster)](https://www.youtube.com/watch?v=1YKDliSLV1c)
+- [Triumph of the Will (2023 Remaster)](https://www.youtube.com/watch?v=5BIE6DTRYDY)
+- [It Takes a Worried Man (2023 Remaster)](https://www.youtube.com/watch?v=oda1x98NF8k)
+- [Freedom of Choice (2023 Remaster)](https://www.youtube.com/watch?v=T1MjLtGiWEU)
+- [Are You Experienced? (2023 Remaster)](https://www.youtube.com/watch?v=aQg460kbKHE)
+- [Bread and Butter (2023 Remaster)](https://www.youtube.com/watch?v=nfFV_qic6gI)
+- [Watch Us Work It (2023 Remaster)](https://www.youtube.com/watch?v=eTxkuMKM6X4)
 
 ## Release Images
 {{< imageGrid >}}
@@ -61,8 +75,8 @@ styles: ["New Wave", "Synth-pop"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl 2× LP Compilation Special Edition Stereo (Blue and Red) |
-| Label          | Rhino Entertainment Company |
+| Format         | Vinyl LP (Blue), Vinyl LP (Red), All Media Compilation Special Edition Stereo |
+| Label          | Rhino Records (2) |
 | Catalog Number | RCV1 725327 |
 | Notes | 50 Years of De-Evolution in 25 Tracks  Special Edition blue and red vinyl edition.  Only available at retail stores.  |
 | Discogs URL    | [Devo - 50 Years Of De-Evolution (1973-2023)](https://www.discogs.com/release/28664713-Devo-50-Years-Of-De-Evolution-1973-2023) |

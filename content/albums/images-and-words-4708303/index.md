@@ -18,15 +18,17 @@ additional_images:
     - "https://i.discogs.com/AovDJuqbBYqOsE0aE0SDeONUwZLkyGQLw_4iL2pSim0/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ3MDgz/MDMtMTM4NTExNTI3/OS01MDU3LmpwZWc.jpeg"
     - "https://i.discogs.com/Oe1AGAtd6RS5Lq0qXHIBn60wsxzU-Sclyh3Mq3ydm2Q/rs:fit/g:sm/q:90/h:547/w:552/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ3MDgz/MDMtMTM3Mzk5NDAw/My03OTY0LmpwZWc.jpeg"
     - "https://i.discogs.com/DDjH4ZzhimVnFYW0rATO5n4SFvTeFu4EKO_QM_gwtW4/rs:fit/g:sm/q:90/h:570/w:561/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ3MDgz/MDMtMTM3Mzk5NDA4/Mi01NTU3LmpwZWc.jpeg"
-    - "https://i.discogs.com/xbPl4w3bY9tWH1kAp1hSwIiJpCCxKIy2Qmu7ESm-IOA/rs:fit/g:sm/q:90/h:633/w:450/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ3MDgz/MDMtMTQzNzc2NzQ5/Ny0zOTMzLmpwZWc.jpeg"
+    - "https://i.discogs.com/BbEf3XVutWKx-ajQjcWSOVsfeyNGvbMC4jhXLiUj8kQ/rs:fit/g:sm/q:90/h:600/w:426/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ3MDgz/MDMtMTQzNzc2NzQ5/Ny0zOTMzLmpwZWc.jpeg"
     - "https://i.discogs.com/4ApxcT44S3z8cttn87H4YoVzP3z_SPMG67NysTrDReM/rs:fit/g:sm/q:90/h:142/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ3MDgz/MDMtMTQzNzc2NzQ5/Ni0yMzg4LmpwZWc.jpeg"
-    - "https://i.discogs.com/ly6UcPi2py1xgZZinHWH38XZYBiinnWFHOfC2zl70jI/rs:fit/g:sm/q:90/h:682/w:316/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ3MDgz/MDMtMTQzNzc2NzQ5/OC05MTU3LmpwZWc.jpeg"
+    - "https://i.discogs.com/dvJddyopMNiunItu0IWy9gS-dPS_n7dUy2ZCyM4jWTk/rs:fit/g:sm/q:90/h:600/w:278/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ3MDgz/MDMtMTQzNzc2NzQ5/OC05MTU3LmpwZWc.jpeg"
     - "https://i.discogs.com/x--4kjujOUdotoAGsKY-MEcxDNIDvH9gVo_zMNlQffM/rs:fit/g:sm/q:90/h:138/w:350/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ3MDgz/MDMtMTQzNzc2NzQ5/NS0yNDMwLmpwZWc.jpeg"
 genres: ["Rock"]
 styles: ["Prog Rock", "Progressive Metal"]
 ---
 
 Images and Words is the second studio album by American progressive metal band Dream Theater, released on July 7, 1992, through Atco Records. It is the first Dream Theater release to feature James LaBrie on vocals. Since its release, the album has maintained its position as the band's most commercially successful studio album, and the song "Pull Me Under" has the distinction of being the only Top 10 hit (radio or otherwise) the band has had to date. This particular song has also had more recent success as it has appeared in the 2008 video game Guitar Hero World Tour.
+
+
     
     
 
@@ -48,9 +50,7 @@ Images and Words is the second studio album by American progressive metal band D
 ## Videos
 ### Dream Theater - Pull Me Under [OFFICIAL VIDEO]
 {{< youtube id="mipc-JxrhRk" title="Dream Theater - Pull Me Under [OFFICIAL VIDEO]" >}}<br>
-### More Videos
 
-- [Dream Theater - Another Day [OFFICIAL VIDEO]](https://www.youtube.com/watch?v=LYtiDCXLAcQ)
 
 ## Release Images
 {{< imageGrid >}}
@@ -62,5 +62,5 @@ Images and Words is the second studio album by American progressive metal band D
 | Format         | Vinyl LP Album Reissue (180gram) |
 | Label          | ATCO Records |
 | Catalog Number | MOVLP780 |
-| Notes | 180 gram audiophile vinyl pressing (on sticker). Printed insert with lyrics    Recorded & Mixed at Bear Tracks Studio, Suffern, NY, October-December 1991  Additional recording at The Hit Factory, NYC.    Originally released ℗ & © 1992 ATCO Records  This release ℗ & © 2013 Warner Music  Made in the EU |
+| Notes | 180 gram audiophile vinyl pressing (on sticker). Printed insert with lyrics  Recorded & Mixed at Bear Tracks Studio, Suffern, NY, October-December 1991 Additional recording at The Hit Factory, NYC.  Originally released ℗ & © 1992 ATCO Records This release ℗ & © 2013 Warner Music Made in the EU  On insert:  All lyrics © 1992 Octa Music, Inc./Ytse Jams, Inc. adm. by WB Music Corp., ASCAP. © 1992 Atlantic Recording Corporation for the United States and WEA International Inc., for the world outside of the United States. |
 | Discogs URL    | [Dream Theater - Images And Words](https://www.discogs.com/release/4708303-Dream-Theater-Images-And-Words) |

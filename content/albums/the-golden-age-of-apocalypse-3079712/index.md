@@ -12,7 +12,7 @@ cover:
     alt: "The Golden Age Of Apocalypse by Thundercat"
     caption: "The Golden Age Of Apocalypse by Thundercat"
 additional_images:
-    - "https://i.discogs.com/yiY9J5EjosdrpeX6VJw2tCbq5DOJJEoUnSNXsfO9q7o/rs:fit/g:sm/q:90/h:601/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwNzk3/MTItMTU5MDM5NDUz/NC02MDQ4LmpwZWc.jpeg"
+    - "https://i.discogs.com/2pMA3zFNeO8npJAL60H2LZ8AXz8k1MzbwrKra2S7sbI/rs:fit/g:sm/q:90/h:600/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwNzk3/MTItMTU5MDM5NDUz/NC02MDQ4LmpwZWc.jpeg"
     - "https://i.discogs.com/2qMgmsgiVgzJjJsafHKD1rSleMeRscR5vE8coVaaZVY/rs:fit/g:sm/q:90/h:560/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwNzk3/MTItMTU5MDM5NDYx/MC05NzA4LmpwZWc.jpeg"
     - "https://i.discogs.com/_LnX2uCUuV-2arF6rBnpzPANaLGkIts-NNoAgMOf2og/rs:fit/g:sm/q:90/h:527/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwNzk3/MTItMTU5MDM5NDUz/Ni0yNTU3LmpwZWc.jpeg"
     - "https://i.discogs.com/sxzXk2fOvLXiCw36vzut4QTeMJWamHZlc77k-9kdwtM/rs:fit/g:sm/q:90/h:353/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwNzk3/MTItMTU5MDM5NDU0/MC05MTk1LmpwZWc.jpeg"
@@ -54,23 +54,22 @@ The Golden Age of Apocalypse is the debut studio album by Thundercat, released o
 
 
 ## Videos
-### Mystery Machine (The Golden Age of Apocalypse)
-{{< youtube id="-9DagL4amrY" title="Mystery Machine (The Golden Age of Apocalypse)" >}}<br>
+### HooooooO
+{{< youtube id="0LHV9oz9M0o" title="HooooooO" >}}<br>
 ### More Videos
 
-- [Goldenboy](https://www.youtube.com/watch?v=HBcN7kONMW8)
-- [Thundercat - Walkin' (Official Video) HD](https://www.youtube.com/watch?v=8qGigIMM1Vw)
 - [Daylight](https://www.youtube.com/watch?v=rvyZaAaGgr8)
-- [Walkin'](https://www.youtube.com/watch?v=-70T4A2pLWg)
+- [Fleer Ultra](https://www.youtube.com/watch?v=jdM1jdLTFEU)
 - [Is It Love?](https://www.youtube.com/watch?v=Y7YSYnjb104)
 - [For Love (I Come Your Friend)](https://www.youtube.com/watch?v=5t8wGiIcFMA)
-- [Fleer Ultra](https://www.youtube.com/watch?v=jdM1jdLTFEU)
 - [It Really Doesn't Matter to You](https://www.youtube.com/watch?v=VS4L2K-CLUI)
-- [Seasons](https://www.youtube.com/watch?v=_0jVG1zcJSo)
-- [Boat Cruise](https://www.youtube.com/watch?v=O9k-B_46fMg)
-- [Return to the Journey](https://www.youtube.com/watch?v=-czZoYtzB9c)
 - [Jamboree](https://www.youtube.com/watch?v=eU3ntpyDB0E)
-- [Thundercat- Is It Love?](https://www.youtube.com/watch?v=ijiP-FSjDxU)
+- [Boat Cruise](https://www.youtube.com/watch?v=O9k-B_46fMg)
+- [Seasons](https://www.youtube.com/watch?v=_0jVG1zcJSo)
+- [Goldenboy](https://www.youtube.com/watch?v=HBcN7kONMW8)
+- [Thundercat - Walkin' (Official Video) HD](https://www.youtube.com/watch?v=8qGigIMM1Vw)
+- [Mystery Machine (The Golden Age of Apocalypse)](https://www.youtube.com/watch?v=-9DagL4amrY)
+- [Return to the Journey](https://www.youtube.com/watch?v=-czZoYtzB9c)
 
 ## Release Images
 {{< imageGrid >}}

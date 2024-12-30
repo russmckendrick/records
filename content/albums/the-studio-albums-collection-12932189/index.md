@@ -12,47 +12,48 @@ cover:
     alt: "The Studio Albums Collection by Creedence Clearwater Revival"
     caption: "The Studio Albums Collection by Creedence Clearwater Revival"
 additional_images:
-    - "https://i.discogs.com/9NunhXjHpj3nfRHjGITi101VKHk38vG5OXDI_60-QRY/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyOTMy/MTg5LTE1NDYzNTUx/MDItNTY5NS5qcGVn.jpeg"
-    - "https://i.discogs.com/i14E84lMId7gSkym8xEfVxnNw10y0tSBgfJeKcYQjIY/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyOTMy/MTg5LTE1NDYzNTUx/MDktMjI3OS5qcGVn.jpeg"
-    - "https://i.discogs.com/92Ql8ffhkYjZQcEw6nyqIEctWdyI8sOD8EGeKGWSNNk/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyOTMy/MTg5LTE1NDQ4MDE3/MDMtOTkzMC5qcGVn.jpeg"
-    - "https://i.discogs.com/RhJz-Hho1FOg2QRBMcf1_-So6P8urgfQf_NKAkRIvwE/rs:fit/g:sm/q:90/h:450/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyOTMy/MTg5LTE1NTU3NjU4/MjEtNjQ5Ny5qcGVn.jpeg"
-    - "https://i.discogs.com/psHm08n9AWXuj-gybNYDUKDdFsOEq8f68UYUga4DADs/rs:fit/g:sm/q:90/h:443/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyOTMy/MTg5LTE1NTU3NjU4/MjMtMjY3Mi5qcGVn.jpeg"
-    - "https://i.discogs.com/1939jupaIo2lZLr9erKlpGPM6pNAFKesVWxUE_Aemcg/rs:fit/g:sm/q:90/h:501/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyOTMy/MTg5LTE1NTU3NjU4/MjYtMjk3MC5qcGVn.jpeg"
-    - "https://i.discogs.com/pWSPJBuIR4brPw2d2MKLJKhpAUEFYKPBHzxM7LUV3WI/rs:fit/g:sm/q:90/h:379/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyOTMy/MTg5LTE1NTU3Njcy/NjgtMzA0OC5qcGVn.jpeg"
-    - "https://i.discogs.com/bqqCSILQE6hPBs15Ew5TYpObw1Mle3HU2QWqBudvyWs/rs:fit/g:sm/q:90/h:728/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyOTMy/MTg5LTE1NTU3NjU4/MjUtMjExNy5qcGVn.jpeg"
-    - "https://i.discogs.com/A_6OcbF9V7R0kFqTza32PVhZxoL3yRAEC927s4fvHEk/rs:fit/g:sm/q:90/h:575/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyOTMy/MTg5LTE1NTU3NjU4/MjUtODY4Ny5qcGVn.jpeg"
-    - "https://i.discogs.com/mz50uURDrLNeZ1gFm4DU4ffZIaZOvprq-YXA9omovnE/rs:fit/g:sm/q:90/h:748/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyOTMy/MTg5LTE1NTU3NjU4/MjEtOTk5MS5qcGVn.jpeg"
-    - "https://i.discogs.com/NAyBpQhYHN-wR5xrB7_-yyERo0Om9kpzMDqFxejxhuk/rs:fit/g:sm/q:90/h:286/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyOTMy/MTg5LTE1NTU3NjU4/MjMtODg3OS5qcGVn.jpeg"
-    - "https://i.discogs.com/fuSPYF2Zc0rK7555Kzct2q33lwZxEs0FDPYlEF7itWc/rs:fit/g:sm/q:90/h:293/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyOTMy/MTg5LTE1NTU3NjU4/MjgtNjg3MS5qcGVn.jpeg"
-    - "https://i.discogs.com/HY031zJdXjXuRLLyS2WFA5vVc_O7lVNQrlUHmnf3sgw/rs:fit/g:sm/q:90/h:368/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyOTMy/MTg5LTE1NTU3NjU4/MjgtNDM5Mi5qcGVn.jpeg"
-    - "https://i.discogs.com/a-Kz4r-V7YSFvPmnjpR5JmK_EAcU25GiRspgyT7w4Cc/rs:fit/g:sm/q:90/h:676/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyOTMy/MTg5LTE1NTU3NjU4/MjUtNjIwNS5qcGVn.jpeg"
-    - "https://i.discogs.com/FWxd8Tikgz8osCCHl-FsUrUb460gVx8wCZtjOcGUd_8/rs:fit/g:sm/q:90/h:665/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyOTMy/MTg5LTE1NTU3NjU4/MjItODkyNy5qcGVn.jpeg"
-    - "https://i.discogs.com/Lvc3lRp6dzswf9p6uJUlKyRSUX0DO4YkAEOXCLVKU-s/rs:fit/g:sm/q:90/h:676/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyOTMy/MTg5LTE1NTU3NjU4/MjItODMxNy5qcGVn.jpeg"
-    - "https://i.discogs.com/RcxCaBCtw1SE8YL1zWCfvxo8Et0gGO8RX3l5RKbKdQU/rs:fit/g:sm/q:90/h:606/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyOTMy/MTg5LTE1NTU3NjU4/MjEtOTgzMS5qcGVn.jpeg"
-    - "https://i.discogs.com/34q38Ay-XzxreuNmSz7FGxjtIjTVUn8Zz0XVUElEuV8/rs:fit/g:sm/q:90/h:591/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyOTMy/MTg5LTE1NTU3NjU4/MjMtODgxMy5qcGVn.jpeg"
-    - "https://i.discogs.com/I76u9I-n7Tjv8owy9Q3tFl5gdUxl7Nxx1O7ADPwe1N0/rs:fit/g:sm/q:90/h:640/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyOTMy/MTg5LTE1NTU3NjU4/MjEtODEyNS5qcGVn.jpeg"
-    - "https://i.discogs.com/nJkErQWfdJDABBJPVKNFnpB11hX6AHSCczvztbtqzp4/rs:fit/g:sm/q:90/h:641/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyOTMy/MTg5LTE1NTU3NjU4/MjQtNDY4NC5qcGVn.jpeg"
-    - "https://i.discogs.com/osJ0XcyYrdcWdsc456eEJU4MzGLwxADSunF6skAIMQo/rs:fit/g:sm/q:90/h:635/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyOTMy/MTg5LTE1NTU3NjU4/MjMtODY1MC5qcGVn.jpeg"
-    - "https://i.discogs.com/niOMMINVU2PcseQvVGJvINtGM1XjMkJ2hlSe_y9Nros/rs:fit/g:sm/q:90/h:613/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyOTMy/MTg5LTE1NTU3NjU4/MjItNjY5NC5qcGVn.jpeg"
-    - "https://i.discogs.com/U8FV9IgozPCY8hthnGLEXty96zWnAWcO1ntlDt1RmRY/rs:fit/g:sm/q:90/h:642/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyOTMy/MTg5LTE1NTU3NjU4/MjQtMjEwOC5qcGVn.jpeg"
-    - "https://i.discogs.com/OlfDHgk9dxI_4ZRQKk7imiQYI3HuwVJeLjo7OVxDcpM/rs:fit/g:sm/q:90/h:703/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyOTMy/MTg5LTE1NTU3NjY0/NjktMjkyMS5qcGVn.jpeg"
-    - "https://i.discogs.com/xeM2zv9cRYR-IgYe-UdjAuI1OGuyqlE221505-8uwiQ/rs:fit/g:sm/q:90/h:679/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyOTMy/MTg5LTE1NTU3NjU4/MjQtNTA3My5qcGVn.jpeg"
-    - "https://i.discogs.com/MGzdohKyeLrIHnQmyZc6YwNtzmH2eyS4XbitgYaMoIE/rs:fit/g:sm/q:90/h:636/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyOTMy/MTg5LTE1NTU3NjU4/MjgtMTcwMC5qcGVn.jpeg"
-    - "https://i.discogs.com/zUGjKdsNS2lC-F_9x5NDriV3zMIIHhlBBZISVzoAukA/rs:fit/g:sm/q:90/h:633/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyOTMy/MTg5LTE1NTU3NjU4/MjUtMzA4Mi5qcGVn.jpeg"
-    - "https://i.discogs.com/i-KFOYvUsLM5SJS3f2iGvd669r47bo9L4YmJC8doAUs/rs:fit/g:sm/q:90/h:630/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyOTMy/MTg5LTE1NTU3NjU4/MjctMzA0Ny5qcGVn.jpeg"
-    - "https://i.discogs.com/L9I4-MLa2ol121m8jCBl14epTLu79avMeGS6drLEPHM/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyOTMy/MTg5LTE1NTU3NjU4/MjUtODA1OS5qcGVn.jpeg"
-    - "https://i.discogs.com/1vs9-P4iEZKJtU8hiFTbfY3txooX3IDq0qendLdIU8M/rs:fit/g:sm/q:90/h:606/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyOTMy/MTg5LTE1NTU3NjU4/MjEtMTI4Ny5qcGVn.jpeg"
-    - "https://i.discogs.com/-S2klslLA5LNAFnBfk3SNrD5jQtzTarVNZJOlivLHAY/rs:fit/g:sm/q:90/h:647/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyOTMy/MTg5LTE1NTU3NjU4/MjYtNDY1NC5qcGVn.jpeg"
-    - "https://i.discogs.com/WziiSwMPwqB5j-ZE9j7tkaVHTwZtqcR2j0SncK7brGs/rs:fit/g:sm/q:90/h:644/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyOTMy/MTg5LTE1NTU3NjU4/MjctMzQ1Mi5qcGVn.jpeg"
-    - "https://i.discogs.com/Xt3Y-b78mgJNnqnA9JJg8gvLLquNWog8mF1B5HrRys4/rs:fit/g:sm/q:90/h:647/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyOTMy/MTg5LTE1NTU3NjU4/MjctNzU2Mi5qcGVn.jpeg"
-    - "https://i.discogs.com/D2Ni4sPMbbyHUTfTFZh5T6wmmuCdLArdjLUssmurSWA/rs:fit/g:sm/q:90/h:327/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyOTMy/MTg5LTE1NTU3NjU4/MjYtMzg2My5qcGVn.jpeg"
-    - "https://i.discogs.com/FkDIXfGXjnnC5Ty8TB8yEF9u4zwQi-4H2S8E5Zcrhmg/rs:fit/g:sm/q:90/h:615/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyOTMy/MTg5LTE1NTU3Njcw/MTYtNTk4Ny5qcGVn.jpeg"
-    - "https://i.discogs.com/YD4eMWH6byhE_5vWxvwMZSRjxhCcL_4McNP2pN3LKlI/rs:fit/g:sm/q:90/h:583/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyOTMy/MTg5LTE1NTU3NjU4/MjYtOTk0Ny5qcGVn.jpeg"
-    - "https://i.discogs.com/ZsveIzQyHGLBo4pDHvTd5Q0UDaYCk1-7F4Hf2Yhcevg/rs:fit/g:sm/q:90/h:608/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyOTMy/MTg5LTE1NTU3NjU4/MjYtMzM2Ny5qcGVn.jpeg"
-    - "https://i.discogs.com/cfbJ29z9H8t9MUkoRrHFAmXM_akuNC4eGdESDrhz6wo/rs:fit/g:sm/q:90/h:604/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyOTMy/MTg5LTE1NTU3NjU4/MjctOTYyMS5qcGVn.jpeg"
-    - "https://i.discogs.com/IQGNNyfGrMBi5LLTS-t2ee1RJGbu5zK0xt95_jesKgw/rs:fit/g:sm/q:90/h:639/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyOTMy/MTg5LTE1NTU3NjU4/MjctNjExOS5qcGVn.jpeg"
-    - "https://i.discogs.com/FNWDvSHBtYrE7nXDcN4dDvg9F-osqUbLEEngUcLkrY4/rs:fit/g:sm/q:90/h:686/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyOTMy/MTg5LTE1NTU3NjU4/MjctNTI0MC5qcGVn.jpeg"
-    - "https://i.discogs.com/scwqfOVhEhWKD3x7JaadFebMi9EPdOoRiX5J4BYC5tM/rs:fit/g:sm/q:90/h:650/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyOTMy/MTg5LTE1NTU3NjU4/MjYtNTI4NS5qcGVn.jpeg"
+    - "https://i.discogs.com/StAPzd2uVPLK16H0qdSmuf1QPEWp2ahmupreYGQIeAE/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyOTMy/MTg5LTE3MDk4OTM4/MjMtNjI3Ni5qcGVn.jpeg"
+    - "https://i.discogs.com/3iqBBdOTJWXCKvG9WxSXTxp2QMbf-C4Yvn3SIrhh4dM/rs:fit/g:sm/q:90/h:593/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyOTMy/MTg5LTE3MDk4OTM4/MjMtNjIxOS5qcGVn.jpeg"
+    - "https://i.discogs.com/4XIUDNHSgQhv-r_Y2pMPq2uQZCv09_NKAD4a5UrAc8U/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyOTMy/MTg5LTE3MDk4OTM4/NzktMTE1Mi5qcGVn.jpeg"
+    - "https://i.discogs.com/h6AE9ly7HNGPEFmlnAKqDDdFvoZDrW1-SmfF5cq_F3U/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyOTMy/MTg5LTE3MDk4OTM4/ODAtMTgwOC5qcGVn.jpeg"
+    - "https://i.discogs.com/29mg4xagx9pfwgTqZ3e-vNKiz-LJPrELPbz2KiYS1jQ/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyOTMy/MTg5LTE3MDk4OTM4/NzktOTc0OC5qcGVn.jpeg"
+    - "https://i.discogs.com/pwU04HEWETI-tBkkkAQOl58a3gCYqISaWjFbQl25txo/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyOTMy/MTg5LTE3MDk4OTM4/NzktNDY5MC5qcGVn.jpeg"
+    - "https://i.discogs.com/yZY7pCgrJ-Hit4udiJQr5ToaeGnmTjxrM0ZXdAt8oqo/rs:fit/g:sm/q:90/h:594/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyOTMy/MTg5LTE3MDk4OTM5/MjYtMTY5OS5qcGVn.jpeg"
+    - "https://i.discogs.com/RBaGrC1vXU5uFdS1UKGFOUtNVEVIz8nJ8pkHAre5Qto/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyOTMy/MTg5LTE3MDk4OTM5/MjYtOTc5My5qcGVn.jpeg"
+    - "https://i.discogs.com/X8f9hLLii72qNZ9Ti13RD9mgs75cjSk3iLnIHVCcsxU/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyOTMy/MTg5LTE3MDk4OTM5/MjYtOTgyOC5qcGVn.jpeg"
+    - "https://i.discogs.com/LOvNQ1hBOgPmB4wJRY6Iq_tfbqe-qxrOEQK14RQUSc0/rs:fit/g:sm/q:90/h:600/w:596/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyOTMy/MTg5LTE3MDk4OTM5/MjctODI4Ny5qcGVn.jpeg"
+    - "https://i.discogs.com/1Sx2F_iaFCsGdgOxcAgHLngn4GHYPbjSKGX09fQYYMk/rs:fit/g:sm/q:90/h:594/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyOTMy/MTg5LTE3MDk4OTM5/NjAtMjk3NC5qcGVn.jpeg"
+    - "https://i.discogs.com/5rTk-y86qgsyvd2t_ouSuQcAXbZfe3oSBXP40Jawry8/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyOTMy/MTg5LTE3MDk4OTM5/NjAtNTQ3NS5qcGVn.jpeg"
+    - "https://i.discogs.com/dNaaJ0k7f_LAGLEufF6e7vwAveRIpzf3aaYKeHYugic/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyOTMy/MTg5LTE3MDk4OTM5/NjAtMjQ1MS5qcGVn.jpeg"
+    - "https://i.discogs.com/CuZkgocH-ovAuI2j_NlHPW44jHGdgr-bZTu9vlX28bw/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyOTMy/MTg5LTE3MDk4OTM5/NjAtNzYxNC5qcGVn.jpeg"
+    - "https://i.discogs.com/4Igq87aYvniocURdLi5hkcivYheUM5Zy5rOwcjZ1PRY/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyOTMy/MTg5LTE3MDk4OTM5/NzktMjM2Mi5qcGVn.jpeg"
+    - "https://i.discogs.com/FL7wxWIlaF6hhhG4nl8_Vu_gL-joIj69SA6lTCxRjWs/rs:fit/g:sm/q:90/h:600/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyOTMy/MTg5LTE3MDk4OTM5/NzktOTAyMy5qcGVn.jpeg"
+    - "https://i.discogs.com/EDeohNsJ2K1DjQYb7x8CsD0zYM_GxnXrVZxvw71nJw0/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyOTMy/MTg5LTE3MDk4OTM5/NzktNDE0OC5qcGVn.jpeg"
+    - "https://i.discogs.com/HF_Vlz-2CEXEftePY_5f4Pul_iIUQw5ThjVbz-H9pbg/rs:fit/g:sm/q:90/h:600/w:596/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyOTMy/MTg5LTE3MDk4OTM5/NzktNTczNi5qcGVn.jpeg"
+    - "https://i.discogs.com/XNHRX_b60F8Rijx6hXg6QGHo2FgUn01MWLXm4O2tM_0/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyOTMy/MTg5LTE3MDk4OTM5/OTQtMTAwOS5qcGVn.jpeg"
+    - "https://i.discogs.com/piXjXyAHlhIDkpAgrtooMsvcBa_kGDQqLOcjw_AY_sg/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyOTMy/MTg5LTE3MDk4OTM5/OTQtMTY3MC5qcGVn.jpeg"
+    - "https://i.discogs.com/8mw7wOesemWSVqnytqJdckLdf9aO8N8GhIusrz_YAlk/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyOTMy/MTg5LTE3MDk4OTM5/OTQtNTgyMi5qcGVn.jpeg"
+    - "https://i.discogs.com/cDXGQu4WNNloEZWrHHBmzg7nC0Z7gduXlafJz5-HEk4/rs:fit/g:sm/q:90/h:600/w:590/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyOTMy/MTg5LTE3MDk4OTM5/OTQtNzM3NS5qcGVn.jpeg"
+    - "https://i.discogs.com/0QJxJg-LrgJwtWo3bdSr5RO4ljUPrH245wUghL0JrUQ/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyOTMy/MTg5LTE3MDk4OTQw/MDUtOTUyMy5qcGVn.jpeg"
+    - "https://i.discogs.com/MFD3VFKH8D503VAy5-jcGg02zewD6k0s4d94XjT4i-A/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyOTMy/MTg5LTE3MDk4OTQw/MDYtNzczMS5qcGVn.jpeg"
+    - "https://i.discogs.com/tM7-0I_KxHNNUgaR58Z8ZX3KTBBI9s4UTcf2nxDTdjk/rs:fit/g:sm/q:90/h:600/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyOTMy/MTg5LTE3MDk4OTQw/MDYtODAyOC5qcGVn.jpeg"
+    - "https://i.discogs.com/UieB3EQfqyFwu7NA4owiHcqsTYJewt4PnKeGp5QaHcE/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyOTMy/MTg5LTE3MDk4OTQw/MDYtMTQxMC5qcGVn.jpeg"
+    - "https://i.discogs.com/Aglt42pRnCNoFYwXnTUXwUnouZiZ9hfKaMXCDKYpL04/rs:fit/g:sm/q:90/h:590/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyOTMy/MTg5LTE3MDk4OTQw/MTQtMjEwNi5qcGVn.jpeg"
+    - "https://i.discogs.com/roFzSpWVWm6l3llY20KLlpltLb2XDL69_PRMRnXVpvU/rs:fit/g:sm/q:90/h:587/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyOTMy/MTg5LTE3MDk4OTQw/MTQtNTk4OC5qcGVn.jpeg"
+    - "https://i.discogs.com/rgaft88PWnSPzGzbt9R4cvIiqPLdrQ1QJPkfofz0u9o/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyOTMy/MTg5LTE3MDk4OTQw/MTQtNTE4Mi5qcGVn.jpeg"
+    - "https://i.discogs.com/ailB988ni4Jcpw11gXNVjXddeWlCR7cJuQ8TyT6uung/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyOTMy/MTg5LTE3MDk4OTQw/MTQtOTY1OS5qcGVn.jpeg"
+    - "https://i.discogs.com/yYwxQtiFoFVe4eunXNXo--MXItD_7QpdA8vWxZZsymE/rs:fit/g:sm/q:90/h:600/w:426/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyOTMy/MTg5LTE3MDk4OTQw/NzUtMzgzNi5qcGVn.jpeg"
+    - "https://i.discogs.com/2a1mIY4CHdy14c2JsbaIeWxr_t5bs90PwxhgDiP3h6g/rs:fit/g:sm/q:90/h:600/w:597/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyOTMy/MTg5LTE3MDk4OTQw/NzUtMzQxMC5qcGVn.jpeg"
+    - "https://i.discogs.com/6fR6t_a74eQJgeA0LhfPLTBaCt3Ov9sM4gVIvp-apI8/rs:fit/g:sm/q:90/h:562/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyOTMy/MTg5LTE3MDk4OTQw/NzUtMTE3OC5qcGVn.jpeg"
+    - "https://i.discogs.com/MjPKoqwCbFNIRxr5GxsIT6anrksnaxxMj2gLX1tkQwY/rs:fit/g:sm/q:90/h:318/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyOTMy/MTg5LTE3MDk4OTQw/NzUtMTUxOC5qcGVn.jpeg"
+    - "https://i.discogs.com/FcCHmhYzqnYBJGQMBUygIgH47F5nGxQAoyXtpBb0QSA/rs:fit/g:sm/q:90/h:322/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyOTMy/MTg5LTE3MDk4OTQw/NzUtNDkwNC5qcGVn.jpeg"
+    - "https://i.discogs.com/7A4EJLg6aepoXz2aU8nDv1j6i-J7xGGO_FLIvpNFzzw/rs:fit/g:sm/q:90/h:315/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyOTMy/MTg5LTE3MDk4OTQw/NzUtODQzNS5qcGVn.jpeg"
+    - "https://i.discogs.com/BBICoSCFOpD67yFMrkbM8PDIdmQ6u-1HChUOnPTg7qs/rs:fit/g:sm/q:90/h:308/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyOTMy/MTg5LTE3MDk4OTQw/NzUtOTY0My5qcGVn.jpeg"
+    - "https://i.discogs.com/GVF4kv8zMv81Ijn00zKzdlbo1s11W_3_zk7sVDuguX8/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyOTMy/MTg5LTE3MDk4OTQw/NzUtNzU4NC5qcGVn.jpeg"
+    - "https://i.discogs.com/m036kqudkBlXVBIBkVzYWXqhHX3KVnrTdjoRfulu0bc/rs:fit/g:sm/q:90/h:148/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyOTMy/MTg5LTE3MDk4OTQw/NzQtNTQ2My5qcGVn.jpeg"
+    - "https://i.discogs.com/Z5oaIkHkTWOw5i6UYw2Y8Db8teHtHK1KyFAbm1_dSxU/rs:fit/g:sm/q:90/h:94/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyOTMy/MTg5LTE3MDk4OTQw/NzQtNDgzOS5qcGVn.jpeg"
+    - "https://i.discogs.com/WObjD-okJiK8KCfHmhbeW0XuZerzxDRXxv3ijeKC1bk/rs:fit/g:sm/q:90/h:177/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyOTMy/MTg5LTE3MDk4OTQw/NzMtMTYyNy5qcGVn.jpeg"
+    - "https://i.discogs.com/AxY7eeGPh3Sl1mQQnx0PVYkj_xuMhYMjsXnS2ctP05E/rs:fit/g:sm/q:90/h:380/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyOTMy/MTg5LTE3MDk4OTQw/NzQtNjg2NC5qcGVn.jpeg"
 genres: ["Rock"]
 styles: ["Southern Rock", "Rock & Roll", "Swamp Pop"]
 ---
@@ -133,9 +134,34 @@ styles: ["Southern Rock", "Rock & Roll", "Swamp Pop"]
 71. Door To Door (2:03)
 72. Sweet Hitch-Hiker (2:59)
 
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/creedence-clearwater-revival/1440944801" >}}<br>
 
 
+## Videos
+### Creedence Clearwater Revival - Have You Ever Seen The Rain (Official)
+{{< youtube id="u1V8YRJnr4Q" title="Creedence Clearwater Revival - Have You Ever Seen The Rain (Official)" >}}<br>
+### More Videos
 
+- [Creedence Clearwater Revival - The Studio Albums Collection (Half Speed Masters) Unboxing](https://www.youtube.com/watch?v=Y14px43fICc)
+- [Creedence Clearwater Revival - The Studio Albums Collection](https://www.youtube.com/watch?v=NUSgXNrOce0)
+- [Creedence Clearwater Revival - The Studio Albums Collection](https://www.youtube.com/watch?v=Qsp9KJAEWV0)
+- [CREEDENCE CLEARWATER REVIVAL - The Studio Albums Collection ● UNBOXING + REVIEW](https://www.youtube.com/watch?v=wwYlNGD0NUI)
+- [Ranking the Studio Albums: Creedence Clearwater Revival](https://www.youtube.com/watch?v=84b_UwVbeGY)
+- [CCR - the studio albums collection - my review](https://www.youtube.com/watch?v=61UuSulzaMY)
+- [Creedence Clearwater Revival -  The Studio album collection -Suzie Q (Vinyl, Reed Muse 3C)](https://www.youtube.com/watch?v=KLAoJX-DiWc)
+- [Creedence 12" vinyl collection - Different editions](https://www.youtube.com/watch?v=bnZldRR0fBw)
+- [Creedence Clearwater Revival   vinyl & CD collection](https://www.youtube.com/watch?v=xRG-u59psMY)
+- [Discography Creedence Clearwater Revival](https://www.youtube.com/watch?v=vFQ55_VXOf8)
+- [Creedence Clearwater Revival Vinyl Record Collection Part_1/3](https://www.youtube.com/watch?v=qXdbeg2h2vM)
+- [On this day in 1970 Cosmo's Factory hit #1 on UK Album Charts.](https://www.youtube.com/watch?v=VFqcRHDXt-w)
+- [Creedence Clearwater Revival CD Collection](https://www.youtube.com/watch?v=4BTdxtAua-g)
+- [My Creedence Clearwater Revival Vinyl Collection](https://www.youtube.com/watch?v=Op8jdF5XF2A)
+- [Credence Clearwater Revival vinyl Walmart exclusive!!!](https://www.youtube.com/watch?v=MIKdKWM4ttk)
+- [Creedence Clearwater Revival Vinyl Record Collection Part_3/3](https://www.youtube.com/watch?v=E_FeNIiAIoM)
+- [Studio Albums Ranked - Creedence Clearwater Revival | bicyclelegs](https://www.youtube.com/watch?v=yrrwT7KigNE)
+- [New Album In 1969. Bayou Country by Creedence Clearwater Revival](https://www.youtube.com/watch?v=yo2Ne9JsD1Y)
+- [Creedence Clearwater Revival - Half-Speed Masters (Interview with Miles Showell)](https://www.youtube.com/watch?v=jvrUQiZh_qc)
 
 ## Release Images
 {{< imageGrid >}}

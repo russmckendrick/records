@@ -15,8 +15,8 @@ additional_images:
     - "https://i.discogs.com/3S8WI4e-djAlyIb9e-7Y2jmccCepEcgdtTaElWR0dEg/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTczOTQx/MDAtMTQ0MDYzMTM5/OS05NzMwLmpwZWc.jpeg"
     - "https://i.discogs.com/e7-Ebr6hpsQX41Si8ukkj3OnLJZ2NEB2t1RM8M1qoR4/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTczOTQx/MDAtMTQ0MDYzMTM5/OS05MDU5LmpwZWc.jpeg"
     - "https://i.discogs.com/7Uoe0OugK6hxZ-ai4208mN8UCW6kXKmVhvFBStKxdak/rs:fit/g:sm/q:90/h:592/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTczOTQx/MDAtMTQ0MDYzMTM5/OS0zNTQxLmpwZWc.jpeg"
-    - "https://i.discogs.com/4ZGzlnbtc5lBAD66AdJWtpMGTjvm9Jf15S3p_iMhHkc/rs:fit/g:sm/q:90/h:601/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTczOTQx/MDAtMTQ0MDYzMTM5/OC0xNjgzLmpwZWc.jpeg"
-    - "https://i.discogs.com/Xvti_PDzU7k2p4fvY2c-Nt-1buoWFpScauL1a6l61a8/rs:fit/g:sm/q:90/h:604/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTczOTQx/MDAtMTQ0MDYzMTM5/OC03MjQyLmpwZWc.jpeg"
+    - "https://i.discogs.com/VsRa-l_vWhCdX1OQqfT9y3LF1-03J-dyxD6wJidQvtM/rs:fit/g:sm/q:90/h:600/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTczOTQx/MDAtMTQ0MDYzMTM5/OC0xNjgzLmpwZWc.jpeg"
+    - "https://i.discogs.com/Zz_mMYFCStZPBWDYQpSCuyH-PIRGd83L6o2AR5f541Q/rs:fit/g:sm/q:90/h:600/w:595/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTczOTQx/MDAtMTQ0MDYzMTM5/OC03MjQyLmpwZWc.jpeg"
     - "https://i.discogs.com/CN5V_kr174ppv097RL1TXMcyN2JceB1WF6ldlm6jvDA/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTczOTQx/MDAtMTQ0MDYzMTM5/OC0yNjYyLmpwZWc.jpeg"
 genres: ["Rock"]
 styles: ["Classic Rock", "Symphonic Rock"]
@@ -36,14 +36,15 @@ styles: ["Classic Rock", "Symphonic Rock"]
 9. Trilogy
 
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/the-best-of-emerson-lake-palmer/1208718941" >}}<br>
+{{< applemusic url="https://music.apple.com/gb/album/the-best-of-emerson-lake-palmer/1528509528" >}}<br>
 
 
 ## Videos
-### Emerson, Lake & Palmer - Lucky Man
-{{< youtube id="89g1P_J40JA" title="Emerson, Lake & Palmer - Lucky Man" >}}<br>
+### Extended version of Emerson Lake and Palmer’s documentary from their 40th Anniversary Concert DVD
+{{< youtube id="90hN9IM2NMs" title="Extended version of Emerson Lake and Palmer’s documentary from their 40th Anniversary Concert DVD" >}}<br>
 ### More Videos
 
+- [Emerson, Lake & Palmer - Lucky Man](https://www.youtube.com/watch?v=89g1P_J40JA)
 - [Emerson, Lake & Palmer - Fanfare For The Common Man](https://www.youtube.com/watch?v=c2zurZig4L8)
 
 ## Release Images

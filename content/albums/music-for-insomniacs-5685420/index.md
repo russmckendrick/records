@@ -48,4 +48,4 @@ styles: ["Experimental", "Ambient", "Downtempo"]
 | Label          | Acid Jazz |
 | Catalog Number | AJXLP321 |
 | Notes | 'Music For Insomniacs' was recorded in Matt Berry's studio between March and May 2012.    Dedicated to insomnia sufferers everywhere. Sleep well.    Limited number of copies were available signed. |
-| Discogs URL    | [Matt Berry - Music For Insomniacs](https://www.discogs.com/release/5685420-Matt-Berry-Music-For-Insomniacs) |
+| Discogs URL    | [Matt Berry - Music For Insomniacs](https://www.discogs.com/release/5685420-Matt-Berry-3-Music-For-Insomniacs) |

@@ -14,20 +14,22 @@ cover:
 additional_images:
     - "https://i.discogs.com/JKaHqFlUscE0EIa7zneL50gS3FMDL2ADelCBZg8D-NE/rs:fit/g:sm/q:90/h:594/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1Njgw/MDAxLTE2MDAxMDA4/MDYtMzc3NC5qcGVn.jpeg"
     - "https://i.discogs.com/eT1vguTHOhf-BtnePp7d2C1_WSkYb9OzCp26ZGr3sSE/rs:fit/g:sm/q:90/h:592/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1Njgw/MDAxLTE2MDAxMDA4/MDYtODIyNi5qcGVn.jpeg"
-    - "https://i.discogs.com/a3dHOmXQ5aEi7DI5E5z78sSM0Q-aZqNEMkQPU5rU4yw/rs:fit/g:sm/q:90/h:611/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1Njgw/MDAxLTE2MDAxMDA4/MDMtMzAwNS5qcGVn.jpeg"
+    - "https://i.discogs.com/u8tDnIqZmLJALR-Rr7fV3aup8LY7YEpvV0GvC36r8DU/rs:fit/g:sm/q:90/h:600/w:588/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1Njgw/MDAxLTE2MDAxMDA4/MDMtMzAwNS5qcGVn.jpeg"
     - "https://i.discogs.com/JK8OhDv3uotfv_0BK5Zc5LODwO-OC5pDisbLzGUHXSk/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1Njgw/MDAxLTE2MDAxMDA4/MDItNDA3NC5qcGVn.jpeg"
-    - "https://i.discogs.com/A_93DVTqN4c1lUEB1A872kgwMPYcsUNgJrnCuxRxy8Y/rs:fit/g:sm/q:90/h:606/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1Njgw/MDAxLTE2MDAxMDA4/MDMtNzQ3MS5qcGVn.jpeg"
-    - "https://i.discogs.com/-1yvIH8t-oLznxKqIQFoEZib6XVRS5yymMwNfVnIKX8/rs:fit/g:sm/q:90/h:615/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1Njgw/MDAxLTE2MDAxMDA4/MDMtNjczMC5qcGVn.jpeg"
+    - "https://i.discogs.com/3w6lAFb-NT7_Fyiwb8xiQK1_cJ0mGSQk6oy-WAPOmgc/rs:fit/g:sm/q:90/h:600/w:593/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1Njgw/MDAxLTE2MDAxMDA4/MDMtNzQ3MS5qcGVn.jpeg"
+    - "https://i.discogs.com/yeNj0mYlp1ISaPl6fppLQbTi3lJps5gYq7e-bASWt28/rs:fit/g:sm/q:90/h:600/w:585/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1Njgw/MDAxLTE2MDAxMDA4/MDMtNjczMC5qcGVn.jpeg"
     - "https://i.discogs.com/nQHdUEAGEbLy2Q-vzukFUJ1vZnK7eIjEQ9MeyhV2lgA/rs:fit/g:sm/q:90/h:572/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1Njgw/MDAxLTE2MDAxMDA4/MDUtNTE4NC5qcGVn.jpeg"
     - "https://i.discogs.com/SOtKI_Lciu_wAr2NYdwQdZi9Qyn99soZme9KbAw1dHM/rs:fit/g:sm/q:90/h:589/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1Njgw/MDAxLTE2MDAxMDA4/MDQtNTM5Mi5qcGVn.jpeg"
     - "https://i.discogs.com/LSBJaaK3XNa2n-kdrBot1BZRF-wM8PtixrRzOi8qPQo/rs:fit/g:sm/q:90/h:586/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1Njgw/MDAxLTE2MDAxMDA4/MDYtNjg2Ni5qcGVn.jpeg"
     - "https://i.discogs.com/BIMzKa-dphz_D2bGwwRqAH8BQJCSoqODo-68bih9J9M/rs:fit/g:sm/q:90/h:588/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1Njgw/MDAxLTE2MDAxMDA4/MDUtMzU3MS5qcGVn.jpeg"
-    - "https://i.discogs.com/Trt2fyCcTeEbvAr2Un2bkbT2ET3ackkHdiTMdabAKSo/rs:fit/g:sm/q:90/h:808/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1Njgw/MDAxLTE2MDAxMDA3/OTgtMzk3NC5qcGVn.jpeg"
+    - "https://i.discogs.com/XrkRrKv6F3mphWceYmCPfVIWt_bJJrYBeiYoqiYGAgQ/rs:fit/g:sm/q:90/h:600/w:445/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1Njgw/MDAxLTE2MDAxMDA3/OTgtMzk3NC5qcGVn.jpeg"
 genres: ["Rock"]
 styles: ["Groove Metal", "Heavy Metal", "Sludge Metal", "Stoner Rock"]
 ---
 
 Wiseblood is the fifth studio album by American heavy metal band Corrosion of Conformity. It was released on October 15, 1996 by Columbia Records, the band's second and final album for the label. Its name comes from the novel Wise Blood, written by Southern Gothic author Flannery O'Connor. Metallica's lead vocalist James Hetfield provides backing vocals on "Man or Ash". The song "Drowning in a Daydream" was nominated for Best Metal Performance at the 40th Grammy Awards ceremony (which went to Tool for "Ænema"). The album had sold 130,000 copies by 1999, selling less than Blind and Deliverance.
+
+
     
     
 

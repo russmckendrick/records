@@ -4,6 +4,7 @@ artist_name: "Tori Amos"
 artist: "tori-amos"
 album_name: "Little Earthquakes - The B-Sides"
 date: 2023-04-23T04:36:32.000000Z
+release_date: "1992-01-06"
 release_id: "26839190"
 slug: "little-earthquakes-the-b-sides-26839190"
 hideSummary: true
@@ -12,15 +13,20 @@ cover:
     alt: "Little Earthquakes - The B-Sides by Tori Amos"
     caption: "Little Earthquakes - The B-Sides by Tori Amos"
 additional_images:
-    - "https://i.discogs.com/xlogl4HwD-jor9GtHzKVGT0cX-39rrMmY8j2XSkXnRE/rs:fit/g:sm/q:90/h:602/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2ODM5/MTkwLTE2ODIxNzAy/MjItMjQ0Mi5qcGVn.jpeg"
+    - "https://i.discogs.com/UyCLawoADAu7-k-3E4NOO5HGx2tk2LeMXF8yv2HGFUI/rs:fit/g:sm/q:90/h:600/w:597/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2ODM5/MTkwLTE2ODIxNzAy/MjItMjQ0Mi5qcGVn.jpeg"
     - "https://i.discogs.com/JfINKSTPkdOcBaFqiqtbn_WtZE9ptIIUvLhUOn6e-4U/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2ODM5/MTkwLTE2ODIxNjMy/ODgtMzYyMC5qcGVn.jpeg"
     - "https://i.discogs.com/qfCK7p-dz7ij0zt_rhXEhM49yMPbHNReRYKDw_yGPgA/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2ODM5/MTkwLTE2ODIxNjMy/OTctNTgwMS5qcGVn.jpeg"
-    - "https://i.discogs.com/dpUpNhJqK5RVpdW8UYLcFvQ6ROKc90nQ5wCU7Lb-8Us/rs:fit/g:sm/q:90/h:612/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2ODM5/MTkwLTE2ODI1MDYy/ODEtODcxNC5qcGVn.jpeg"
-    - "https://i.discogs.com/LvlRHR_5_9Zftmjg2fyT81G1-p7hWpNTtWzXbUZprY4/rs:fit/g:sm/q:90/h:612/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2ODM5/MTkwLTE2ODI1MDYy/ODktMjEwNS5qcGVn.jpeg"
+    - "https://i.discogs.com/YlE-5aGlQURWxi9nroLW8FKh5WpDAeAoTRQ0qYq7UG8/rs:fit/g:sm/q:90/h:600/w:587/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2ODM5/MTkwLTE2ODI1MDYy/ODEtODcxNC5qcGVn.jpeg"
+    - "https://i.discogs.com/fSxOKgABXzAgKlHAxLhec2hQg34zhZPQCTD4osaryfQ/rs:fit/g:sm/q:90/h:600/w:587/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2ODM5/MTkwLTE2ODI1MDYy/ODktMjEwNS5qcGVn.jpeg"
 genres: ["Rock", "Pop"]
 styles: ["Alternative Rock"]
 ---
 
+By now, the story of Tori Amos’ 1992 solo debut is familiar: Child prodigy starts band; band gets signed; band makes album that falls prey to the stylistic trappings of its day (1988’s self-titled <I>Y Kant Tori Read</I>); album flops, and child prodigy—now in her late twenties—faces the rare opportunity to be honest with herself and start over.<br />
+Even in the midst of landmark records by Tracy Chapman and Sinéad O’Connor, Amos stood out, a confessional female singer-songwriter who chose piano instead of guitar, who forsook conversational directness for a musical vocabulary as dense as art rock. The comparisons to Kate Bush made sense: Both seemed like they’d fallen out of the sky, wailing in a language more readily felt than understood. But Amos’ closest comparison was Joni Mitchell, not for her warmth or the rawness of her soul, but for the way she balanced the gut-punch of her subject matter—rape (“Me and a Gun”) the eroticism of power (“Silent All These Years”)—with music that was circuitous and complex, but still catchy, even funny. “You’ve found a girl who thinks really deep thoughts,” she sings on “Silent All These Years”. “What’s so amazing about really deep thoughts?”<br />
+Her label famously wanted to replace the album’s piano with guitars—a response in part to the predominance of bands like Nirvana. But the grace of <I>Little Earthquakes</I> is that no matter how abstract Amos is in presentation, she never leaves any doubt of where she’s coming from. And for as delicate as the music sounds at first glance, the lingering impression is one of confidence and power. Like Alanis Morissette and Fiona Apple, Amos brought you into her head without sparing you the ugliness and complexity that lived there.
+    
+    
 
 
 ## Tracklisting
@@ -36,6 +42,8 @@ styles: ["Alternative Rock"]
 10. Sugar (5:00)
 11. Ode To The Banana King (Part One) (4:06)
 
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/little-earthquakes-remastered/981370459" >}}<br>
 
 
 

@@ -13,14 +13,14 @@ cover:
     caption: "People Move On by Bernard Butler"
 additional_images:
     - "https://i.discogs.com/6M7anEO4Y6Ujydo8wsv61AhPDIa9wZGKSomImZdG18E/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MTI3/NzczLTE2MjQxMDIy/NTQtNDc0MC5qcGVn.jpeg"
-    - "https://i.discogs.com/Sq0pmNTVXhvW3Z6Q0HfocQsBmLpDPBctx7YJAYogTcw/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MTI3/NzczLTE2MjQxMDIy/NTQtNTQzMy5qcGVn.jpeg"
+    - "https://i.discogs.com/ZXKyVeO3s6tMfy1AFnyofzHpJCQj8CcEI2Czx4FGoh8/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MTI3/NzczLTE2MjQxMDIy/NTQtNTQzMy5qcGVn.jpeg"
     - "https://i.discogs.com/95S43HLGaKWgtR7e3g3EAPn_y_j8EFXF4gZ2-ijzTKI/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MTI3/NzczLTE2MjQxMDIy/NTQtNTUyNy5qcGVn.jpeg"
     - "https://i.discogs.com/9w5iBjVXao4AQQvzjpPcGEmpYsvySKeDRfnuHAC244g/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MTI3/NzczLTE2MjQxMDIy/NTQtNzgwMS5qcGVn.jpeg"
-    - "https://i.discogs.com/jfCXK9S4MogbpcnDVp8MFuLTtvdSIDUqIxQIVxAR83A/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MTI3/NzczLTE2MjQxMDIz/NDktODA5Mi5qcGVn.jpeg"
+    - "https://i.discogs.com/N-A7gIawyRGM32oF1UE3-RbcyNkDGF-zQEz9BtjaZ6A/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MTI3/NzczLTE2MjQxMDIz/NDktODA5Mi5qcGVn.jpeg"
     - "https://i.discogs.com/56Wxc9DenmuZRWa0MaX9U-lbVRF8mleCsDxWN41fSlI/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MTI3/NzczLTE2MjQxMDIz/NDktOTY1OC5qcGVn.jpeg"
     - "https://i.discogs.com/Op3v7NYeyPOW51n8cd2Ixyepnf8gDLP0d4hxqkWh1TM/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MTI3/NzczLTE2MjQxMDIz/NDktNjQ1OC5qcGVn.jpeg"
     - "https://i.discogs.com/Ik1Sc3PX6SbDVWSkHancXamiU7w32zZZxpW0BaG_-6k/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MTI3/NzczLTE2MjQxMDIz/NDgtMzMxOS5qcGVn.jpeg"
-    - "https://i.discogs.com/upgO2-QXDJrYKMY6H1F4Elx_kONJn3uC6vSnDnVcvS0/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MTI3/NzczLTE2MjQxMDIz/NjQtMzM3OS5qcGVn.jpeg"
+    - "https://i.discogs.com/bkmTnDNlKUteFTSDtMhzNmav53WSo_KAgDNosQXanw4/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MTI3/NzczLTE2MjQxMDIz/NjQtMzM3OS5qcGVn.jpeg"
     - "https://i.discogs.com/Ux8nHrW-42lfZx1iGMWhwkQVuEcFErbOWyX_UFX7AOM/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MTI3/NzczLTE2MjQxMDIz/NjQtODM1OC5qcGVn.jpeg"
     - "https://i.discogs.com/n2gYzpKdVgLvEUDOt-4ZubiBv1G3l5zKx8NMlBwMIqI/rs:fit/g:sm/q:90/h:524/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MTI3/NzczLTE2MjQxMDIz/NjQtOTE1Ni5qcGVn.jpeg"
 genres: ["Rock"]
@@ -48,7 +48,7 @@ Music critics gave People Move On generally favourable reviews, though some of t
 12. I'm Tired (4:54)
 
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/people-move-on/1587703233" >}}<br>
+{{< applemusic url="https://music.apple.com/gb/album/people-move-on/192956535" >}}<br>
 
 
 ## Videos
@@ -56,7 +56,6 @@ Music critics gave People Move On generally favourable reviews, though some of t
 {{< youtube id="xM54pVZkEMU" title="Bernard Butler - People Move On (1998) Full album" >}}<br>
 ### More Videos
 
-- [BERNARD BUTLER LIVE. NOT ALONE. FROM 'PEOPLE MOVE ON' ALBUM.](https://www.youtube.com/watch?v=FtRzuPw_XSo)
 - [People Move On](https://www.youtube.com/watch?v=KozoJM3DLrM)
 - [Bernard Butler - I'm Tired](https://www.youtube.com/watch?v=S8rqHZTfMZM)
 - [Bernard butler - Autograph. 1998 Suede Britpop.](https://www.youtube.com/watch?v=KRGAHUXgKlU)
@@ -65,6 +64,7 @@ Music critics gave People Move On generally favourable reviews, though some of t
 - [A Change Of Heart](https://www.youtube.com/watch?v=3-TOSYaTASA)
 - [Bernard Butler - Woman I know](https://www.youtube.com/watch?v=kOICJ_-yXe0)
 - [YOU JUST KNOW. BERNARD BUTLER. LIVE ON JOOLS HOLLAND.](https://www.youtube.com/watch?v=yeQUVyYiJKU)
+- [BERNARD BUTLER LIVE. NOT ALONE. FROM 'PEOPLE MOVE ON' ALBUM.](https://www.youtube.com/watch?v=FtRzuPw_XSo)
 
 ## Release Images
 {{< imageGrid >}}
@@ -73,7 +73,7 @@ Music critics gave People Move On generally favourable reviews, though some of t
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/People_Move_On |
-| Format         | Vinyl 2× LP Album Reissue (Clear, 180 Gram) |
+| Format         | Vinyl 2× LP Album Record Store Day Reissue (Clear, 180 Gram) |
 | Label          | Demon Records |
 | Catalog Number | DEMREC879 |
 | Notes | Record Store Day 2021 Release  With printed inner sleeves.  Made in EU  |

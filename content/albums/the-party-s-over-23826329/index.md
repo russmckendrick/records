@@ -29,6 +29,11 @@ genres: ["Electronic", "Rock", "Pop"]
 styles: ["New Wave", "Synth-pop"]
 ---
 
+The Party's Over is the debut album by Talk Talk. It was released on 12 July 1982 and produced by Colin Thurston, who was a former engineer for David Bowie but was better known for producing Duran Duran's first two albums.
+
+
+    
+    
 
 
 ## Tracklisting
@@ -47,21 +52,15 @@ styles: ["New Wave", "Synth-pop"]
 
 
 ## Videos
-### Talk Talk - Today (Official Video)
-{{< youtube id="TNm4lM-FBHE" title="Talk Talk - Today (Official Video)" >}}<br>
+### Talk Talk
+{{< youtube id="0uA5Qe5PSWw" title="Talk Talk" >}}<br>
 ### More Videos
 
-- [Talk Talk - MIRROR MAN - 1982](https://www.youtube.com/watch?v=MKirbC-GCG8)
-- [Talk Talk](https://www.youtube.com/watch?v=0uA5Qe5PSWw)
-- [Talk Talk - Talk Talk (Official Video)](https://www.youtube.com/watch?v=2IgjUYrDbWI)
-- [It's so Serious (1997 Remaster)](https://www.youtube.com/watch?v=cSautOeiZqQ)
 - [Today (1997 Remaster)](https://www.youtube.com/watch?v=gMDN4MbSKqw)
 - [The Party's Over (1997 Remaster)](https://www.youtube.com/watch?v=kNXYKYkqvE8)
 - [Hate (1997 Remaster)](https://www.youtube.com/watch?v=4rqUYKKSyHE)
 - [Have You Heard the News (1997 Remaster)](https://www.youtube.com/watch?v=aYIKfkTJYcs)
 - [Mirror Man (1997 Remaster)](https://www.youtube.com/watch?v=YMZ0ApjY5IQ)
-- [Another Word (1997 Remaster)](https://www.youtube.com/watch?v=Gm0KdMrhifw)
-- [Candy (1997 Remaster)](https://www.youtube.com/watch?v=3IrMmXrpDv4)
 
 ## Release Images
 {{< imageGrid >}}
@@ -69,6 +68,7 @@ styles: ["New Wave", "Synth-pop"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
+| Wikipedia URL | https://en.wikipedia.org/wiki/The_Party%27s_Over_(Talk_Talk_album) |
 | Format         | Vinyl LP Album Reissue Repress (White, 40th Anniversary Edition) |
 | Label          | Parlophone |
 | Catalog Number | 0190296419638 |

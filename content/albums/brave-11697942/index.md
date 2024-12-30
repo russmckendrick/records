@@ -40,7 +40,9 @@ genres: ["Rock"]
 styles: ["Classic Rock", "Prog Rock", "Symphonic Rock"]
 ---
 
-Brave is the seventh studio album by Marillion, released in 1994. It charted at number 10 on the UK Albums Chart, being the last of the band's albums to reach the Top 10 in the United Kingdom until F E A R reached number 4 in 2016.
+Brave is the seventh studio album by Marillion, released in 1994. It charted at number 10 on the UK Albums Chart, being the last of the band's albums to reach the Top 10 in the United Kingdom until F E A R reached number 4 in 2016. The album is ranked at #29 on Prog Magazine's "Top 100 Prog Albums of All Time."
+
+
     
     
 
@@ -88,21 +90,17 @@ Brave is the seventh studio album by Marillion, released in 1994. It charted at 
 40. The Space...
 
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/brave-deluxe-edition/1332727026" >}}<br>
+{{< applemusic url="https://music.apple.com/gb/album/brave/693409538" >}}<br>
 
 
 ## Videos
-### Marillion - 2013 - Brave 5.1 Surround
-{{< youtube id="vdv0R2HPRrE" title="Marillion - 2013 - Brave 5.1 Surround" >}}<br>
+### Marillion - Bridge
+{{< youtube id="XyMO3ExiFNw" title="Marillion - Bridge" >}}<br>
 ### More Videos
 
+- [Marillion__Brave 1994](https://www.youtube.com/watch?v=9uWiQetKxgY)
+- [Marillion - The great escape](https://www.youtube.com/watch?v=2usQNLslafE)
 - [Brave (1998 Remaster)](https://www.youtube.com/watch?v=SNb2bJ0e9IY)
-- [Marillion__Brave 1994 Full Album](https://www.youtube.com/watch?v=9uWiQetKxgY)
-- [BRAVE Live 2013](https://www.youtube.com/watch?v=JGws-M1hOBk)
-- [Marillion 'The Great Escape'](https://www.youtube.com/watch?v=pQ74CwXcliM)
-- [Marillion - Brave](https://www.youtube.com/watch?v=6tn9sI9wTz8)
-- [Marillion Album Anniversary - Brave - 7 February 1994 - The Hollow Man, Live in Cardiff 2019](https://www.youtube.com/watch?v=p4NDbwCeedg)
-- [Listening to Marillion: Brave, Part 1](https://www.youtube.com/watch?v=iSkCqEDRI88)
 
 ## Release Images
 {{< imageGrid >}}

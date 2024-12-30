@@ -15,9 +15,9 @@ additional_images:
     - "https://i.discogs.com/uz5I3_bpY_skpMJ-fDTErH-PBvsHUBbLIkr92bAHukU/rs:fit/g:sm/q:90/h:500/w:500/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5OTY2/MzYtMTI5OTg1NzY0/My5qcGVn.jpeg"
     - "https://i.discogs.com/ciglzxMJJ1VGSIoPqnBYJXvZQV6GfR_uYR584Fefdaw/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5OTY2/MzYtMTU1ODYzMzQ2/My02OTEzLmpwZWc.jpeg"
     - "https://i.discogs.com/vbrv3ZECIvhUhrthcLjXgKkYyUqguubVxZA1V9wemzI/rs:fit/g:sm/q:90/h:308/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5OTY2/MzYtMTU1ODYzMzQ4/MS04MjcyLmpwZWc.jpeg"
-    - "https://i.discogs.com/hjBoGvijbEQEmLE6KW9JJnF9V1gbntCbq2ni9waVRss/rs:fit/g:sm/q:90/h:608/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5OTY2/MzYtMTU1ODYzMzQ4/OS02NjI2LmpwZWc.jpeg"
-    - "https://i.discogs.com/Ia0OB9AzLFkUhxtoljU9eZpgDtk7bNsnB5Kc0GAgPXk/rs:fit/g:sm/q:90/h:607/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5OTY2/MzYtMTU1ODYzMzQ5/Ny02MTkxLmpwZWc.jpeg"
-    - "https://i.discogs.com/hNOJZBCg8WMV7wGzdAFDGCJv69cfKDcQvZZ-MJGHlyc/rs:fit/g:sm/q:90/h:606/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5OTY2/MzYtMTU1ODYzMzUw/Ny01NjA2LmpwZWc.jpeg"
+    - "https://i.discogs.com/A8kzgwEprGJAAXoJrxJmCGUDPGm-UJvSQDZRPiE0B24/rs:fit/g:sm/q:90/h:600/w:591/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5OTY2/MzYtMTU1ODYzMzQ4/OS02NjI2LmpwZWc.jpeg"
+    - "https://i.discogs.com/PIuMOZUfLFzy3j17MXNcu3UELovFu5HU31YqGotX8Ec/rs:fit/g:sm/q:90/h:600/w:592/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5OTY2/MzYtMTU1ODYzMzQ5/Ny02MTkxLmpwZWc.jpeg"
+    - "https://i.discogs.com/UP_jFdtGnIRgEYt6q0tqhRJb11pD_ZKY3UxjDIJPjKg/rs:fit/g:sm/q:90/h:600/w:593/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5OTY2/MzYtMTU1ODYzMzUw/Ny01NjA2LmpwZWc.jpeg"
     - "https://i.discogs.com/fci5mHwTft4TZT7Fe6NJiuxREWo1JUorhVkXUy6NUks/rs:fit/g:sm/q:90/h:589/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5OTY2/MzYtMTU1ODYzMzUx/OC03MzU2LmpwZWc.jpeg"
 genres: ["Electronic", "Rock", "Pop"]
 styles: ["Punk", "New Wave", "Pop Rock", "Ska"]

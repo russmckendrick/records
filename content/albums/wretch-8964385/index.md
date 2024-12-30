@@ -14,12 +14,14 @@ cover:
 additional_images:
     - "https://i.discogs.com/ueLXxIJrJVGB2IA_vON1Z8P1DEkybeAr0kLmf33pIug/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg5NjQz/ODUtMTQ3MjM3NjEy/OS02ODk4LmpwZWc.jpeg"
     - "https://i.discogs.com/PSUaBANVxv741nYKQAqq0KVcIWbJ9XG3IVuKrtgT6Sg/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg5NjQz/ODUtMTQ3MjM3NjEz/MC0zMzExLmpwZWc.jpeg"
-    - "https://i.discogs.com/eidN1DjuDCh7wqlu4tCuuLw6AWI9oZLO7VEAYdkBzvM/rs:fit/g:sm/q:90/h:619/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg5NjQz/ODUtMTQ3MjM3NjMw/OC05MTExLmpwZWc.jpeg"
+    - "https://i.discogs.com/A6YjUKsUsa-QnY8EeANM3xPr9gbxtsk4YyniLVMIF3k/rs:fit/g:sm/q:90/h:600/w:581/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg5NjQz/ODUtMTQ3MjM3NjMw/OC05MTExLmpwZWc.jpeg"
 genres: ["Rock"]
 styles: ["Alternative Rock", "Stoner Rock", "Hard Rock"]
 ---
 
 Wretch is the first full-length album by American rock band Kyuss, released in September 1991. The tracks "Black Widow" and "Deadly Kiss" are taken from the band's debut EP, Sons of Kyuss (1990), recorded with original bassist Chris Cockrell, while the rest of the album was recorded with his replacement Nick Oliveri. The Sons of Kyuss songs "Love Has Passed Me By", "Katzenjammer", and "Isolation Desolation" were re-recorded for Wretch, the latter's title shortened to "Isolation".
+
+
     
     
 

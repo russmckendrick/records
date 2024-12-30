@@ -23,8 +23,11 @@ genres: ["Rock"]
 styles: ["Psychedelic Rock", "Blues Rock"]
 ---
 
-The Doors is the debut studio album by American rock band the Doors, released on January 4, 1967, by Elektra Records. It was recorded in August 1966 at Sunset Sound Recorders, Hollywood, California, under the production of Paul A. Rothchild. The album features the extended version of the breakthrough single "Light My Fire" and the lengthy closer "The End" with its Oedipal spoken word section. Publications including BBC and Rolling Stone have considered it one of the greatest and most unique debut albums in recorded history.The Doors were working the material of their debut album throughout the year of 1966 at various stages such as the Whisky a Go Go. The album's recording started after their dismissal from the venue, under the maintenance of Elektra Records. The recording of The Doors established the band's wide range of musical influences, such as jazz, classical, blues, pop, R&B and rock music. It has been largely viewed as an essential part of the psychedelic rock evolution, while also being acknowledged as a source of inspiration to other works.
-The Doors and "Light My Fire" have been inducted into the Grammy Hall of Fame. In 2015 the Library of Congress selected The Doors for inclusion in the National Recording Registry based on its cultural, artistic or historical significance. The Doors remains the band's best-selling studio album, with sales of over 13 million copies, as of 2015.
+The Doors is the debut studio album by the American rock band the Doors, released on January 4, 1967, by Elektra Records. It was recorded in August and September 1966 at Sunset Sound Recorders, in Hollywood, California, under the production of Paul A. Rothchild. The album features the extended version of the band's breakthrough single "Light My Fire" and the lengthy closer "The End" with its Oedipal spoken word section. Various publications, including BBC and Rolling Stone, have listed The Doors as one of the greatest debut albums of all time. 
+The Doors worked on the material of their debut album throughout 1966 at various locations and stages, such as the Whisky a Go Go. The album's recording started after their dismissal from the venue, having just signed with Elektra Records. The recording of The Doors established the band's wide range of musical influences, such as jazz, classical, blues, pop, R&B and rock music. It has been largely viewed as an essential part of the psychedelic rock evolution, while also being acknowledged as a source of inspiration to numerous other works.
+The Doors and "Light My Fire" have been inducted into the Grammy Hall of Fame. In 2015, the Library of Congress selected The Doors for inclusion in the National Recording Registry for being "culturally, historically, or aesthetically significant". The Doors has sold over 13 million copies worldwide as of 2015, making it the band's best-selling album. In 2003 and 2012, Rolling Stone ranked it number 42 on its list of the "500 Greatest Albums of All Time", repositioning it to number 86 in the 2020 edition.
+
+
         
         
     
@@ -47,6 +50,9 @@ The Doors and "Light My Fire" have been inducted into the Grammy Hall of Fame. I
 {{< applemusic url="https://music.apple.com/gb/album/the-very-best-of-the-doors/640047463" >}}<br>
 
 
+## Videos
+### Break on Through (To the Other Side)
+{{< youtube id="NFeUko-lQHg" title="Break on Through (To the Other Side)" >}}<br>
 
 
 ## Release Images

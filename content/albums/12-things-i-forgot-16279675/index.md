@@ -4,6 +4,7 @@ artist_name: "Steven Wilson"
 artist: "steven-wilson"
 album_name: "12 Things I Forgot"
 date: 2021-06-17T04:15:12.000000Z
+release_date: "1970-01-26"
 release_id: "16279675"
 slug: "12-things-i-forgot-16279675"
 hideSummary: true
@@ -20,6 +21,9 @@ genres: ["Electronic", "Rock", "Pop"]
 styles: ["Art Rock", "Pop Rock", "Electro", "Synth-pop"]
 ---
 
+For their second album, Chicago shortened their name (from Chicago Transit Authority) and broadened their sound. “Movin’ In” and “25 or 6 to 4” are brassy pop songs with a big band makeover, bristling with punchy horns and driving bass. The group truly stretched out on “Memories of Love”, an orchestrated multipart song cycle that showcased their classical music influences.
+    
+    
 
 
 ## Tracklisting
@@ -27,6 +31,8 @@ styles: ["Art Rock", "Pop Rock", "Electro", "Synth-pop"]
 2. Move Like A Fever (6:15)
 3. King Ghost (Tangerine Dream Remix) (9:22)
 
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/chicago-ii-2017-steven-wilson-remix/1195661599" >}}<br>
 
 
 ## Videos
@@ -36,6 +42,10 @@ styles: ["Art Rock", "Pop Rock", "Electro", "Synth-pop"]
 
 - [Steven Wilson - MOVE LIKE A FEVER (Official Audio)](https://www.youtube.com/watch?v=6ocVr57vKq4)
 - [Steven Wilson - KING GHOST (Tangerine Dream Remix) (Official Audio)](https://www.youtube.com/watch?v=SkJqPSrLUNo)
+- [Steven Wilson - 12 THINGS I FORGOT (Official Audio)](https://www.youtube.com/watch?v=7wZrYAgf8d8)
+- [Steven Wilson - MOVE LIKE A FEVER (Official Audio)](https://www.youtube.com/watch?v=6ocVr57vKq4)
+- [Steven Wilson - KING GHOST (Tangerine Dream Remix) (Official Audio)](https://www.youtube.com/watch?v=SkJqPSrLUNo)
+- [Steven Wilson - 12 THINGS I FORGOT (Official Audio)](https://www.youtube.com/watch?v=7wZrYAgf8d8)
 
 ## Release Images
 {{< imageGrid >}}

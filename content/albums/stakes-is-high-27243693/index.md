@@ -14,12 +14,13 @@ cover:
     caption: "Stakes Is High by De La Soul"
 additional_images:
     - "https://i.discogs.com/Wvwy4FvVftK3rllv15sA7jEir2UkkeNjLNHbSRYbvQ4/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3MjQz/NjkzLTE2ODU3MDc5/MjYtOTgxOS5qcGVn.jpeg"
-    - "https://i.discogs.com/k5Nwqcd0kNAlP8SpG0b9MBS5yc9qoEVef6fGrOjGEiU/rs:fit/g:sm/q:90/h:603/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3MjQz/NjkzLTE2ODU3MDc5/MjktNzA0OC5qcGVn.jpeg"
-    - "https://i.discogs.com/cELu6hyubNxJoMv_5ZigN_ppmeN9KgtIgtD0kX2vvPw/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3MjQz/NjkzLTE2ODU3MDg0/NjYtMjkzMC5qcGVn.jpeg"
+    - "https://i.discogs.com/uEmETJAjnfYusYUnuGAYiNwWDAi5pWEzlCjGxSloD9c/rs:fit/g:sm/q:90/h:600/w:596/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3MjQz/NjkzLTE2ODU3MDc5/MjktNzA0OC5qcGVn.jpeg"
+    - "https://i.discogs.com/nY1Rousal045HhBGQpT3Y7xXdVZ3qRoA5OUsfMHi4QM/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3MjQz/NjkzLTE2ODU3MDg0/NjYtMjkzMC5qcGVn.jpeg"
     - "https://i.discogs.com/9Osq5juh-kAA_zpNnWJXYVM_zDCKb5jwEl12W6fL1mg/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3MjQz/NjkzLTE2ODU3MDg0/NjUtMzE0MC5qcGVn.jpeg"
-    - "https://i.discogs.com/cRamHCW1h0u7yabbFlF4zGjCHNfxhM1Gm4ZHKi3BTVM/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3MjQz/NjkzLTE2ODU3MDg0/NjUtNjM3Mi5qcGVn.jpeg"
+    - "https://i.discogs.com/WAa67m1xsC4QLLbqtK3t3WtzSInNPM2Mfy9EAvVFu9Y/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3MjQz/NjkzLTE2ODU3MDg0/NjUtNjM3Mi5qcGVn.jpeg"
     - "https://i.discogs.com/ECVqm0SqYBjz5F9RuzxNb1L4aQKsqm5G4-qZLz0nmb0/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3MjQz/NjkzLTE2ODU3MDg0/NjQtODI5OS5qcGVn.jpeg"
     - "https://i.discogs.com/Bar4I8oMS2SfXNqEFfP-wX1r2HKIaQkG7ntGOouGpys/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3MjQz/NjkzLTE2ODU3MDc5/MjctNTcyNS5qcGVn.jpeg"
+    - "https://i.discogs.com/YAR-PHc1XMwq2Gni_UZdqqb4FOFsAraq_MnlH9btV9A/rs:fit/g:sm/q:90/h:450/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3MjQz/NjkzLTE2ODU3ODIz/MzctMzcwMC5qcGVn.jpeg"
 genres: ["Hip Hop"]
 styles: []
 ---
@@ -33,23 +34,24 @@ Yearning for the days when MCs were MCs, the album is rooted in the trio’s des
 
 
 ## Tracklisting
-1. Intro
-2. Supa Emcees
-3. The Bizness
-4. Wonce Again Long Island
-5. Dinninit
-6. Brakes
-7. Dog Eat Dog
-8. Baby Baby Baby Ooh Baby
-9. Long Island Degrees
-10. Betta Listen
-11. Itzsoweezee (Hot)
-12. 4 More
-13. Big Brother Beat
-14. Down Syndrome
-15. Pony Ride
-16. Stakes Is High
-17. Sunshine
+1. Intro (2:35)
+2. Supa Emcees (3:40)
+3. The Bizness (4:22)
+4. Yunonstop (1:16)
+5. Wonce Again Long Island (3:39)
+6. Dinninit (4:21)
+7. Brakes (4:06)
+8. Dog Eat Dog (3:38)
+9. Baby, Baby, Baby, Baby, Ooh Baby (2:08)
+10. Long Island Degrees (3:27)
+11. Betta Listen (4:27)
+12. Itzsoweezee (Hot) (4:48)
+13. 4 More (4:18)
+14. Big Brother Beat (3:42)
+15. Down Syndrome (3:04)
+16. Pony Ride (5:27)
+17. Stakes Is High (5:30)
+18. Sunshine (3:38)
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/stakes-is-high/1664600863" >}}<br>
@@ -69,13 +71,12 @@ Yearning for the days when MCs were MCs, the album is rooted in the trio’s des
 - [De La Soul - Baby, Baby, Baby, Baby, Ooh Baby (Official Audio) ft. Jazzyfatnastees](https://www.youtube.com/watch?v=X-jzZuxBWCs)
 - [De La Soul - Long Island Degrees (Official Audio)](https://www.youtube.com/watch?v=Rsnp1XseC7c)
 - [De La Soul - Betta Listen (Official Audio)](https://www.youtube.com/watch?v=D27NApwLm6U)
-- [De La Soul - Itzsoweezee (HOT) (Official Audio)](https://www.youtube.com/watch?v=cfYxpDo_a0g)
-- [De La Soul - 4 More (Official Audio)](https://www.youtube.com/watch?v=PB1cJkgsmj4)
 - [De La Soul - Big Brother Beat (Official Audio) ft. Mos Def](https://www.youtube.com/watch?v=4bxNVOyKqy0)
 - [De La Soul - Pony Ride (Official Audio) ft. Truth Enola](https://www.youtube.com/watch?v=yHPPSqR935w)
 - [De La Soul - Stakes Is High (Official Audio)](https://www.youtube.com/watch?v=BhJCMKXzGv8)
 - [De La Soul - Sunshine (Official Audio)](https://www.youtube.com/watch?v=3JtRtfcKF-Q)
 - [De La Soul - Stakes Is High (Official Music Video) [HD]](https://www.youtube.com/watch?v=radJQyaC5kY)
+- [De La Soul - Stakes is High | Full Album [1996]](https://www.youtube.com/watch?v=P6fng8uHtBw)
 - [De La Soul - Down Syndrome (Official Audio)](https://www.youtube.com/watch?v=Hp4l9jTYwjM)
 
 ## Release Images
@@ -85,8 +86,8 @@ Yearning for the days when MCs were MCs, the album is rooted in the trio’s des
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Stakes_Is_High |
-| Format         | Vinyl 2× LP Album Repress |
+| Format         | Vinyl 2× LP Album Reissue |
 | Label          | Chrysalis |
-| Catalog Number | RMM0541 |
-| Notes | Recorded @ World Recording Facility by Guido Osorio except "Dinninit", "Stakes Is High", "4 more", "Big Brother Beat", "Sunshine" & "Itzsoweezee (Hot)" recorded @ Platinum Island by Tim Latham the "International Sound Pimp". |
+| Catalog Number | RMM-054-1 |
+| Notes | ℗ & © 2023 A.O.I., LLC under exclusive license to Chrysalis Records Limited   Records housed in black poly lined inner sleeves.  Recorded @ World Recording Facility by Guido Osorio except "Dinninit", "Stakes Is High", "4 more", "Big Brother Beat", "Sunshine" & "Itzsoweezee (Hot)" recorded @ Platinum Island by Tim Latham the "International Sound Pimp". |
 | Discogs URL    | [De La Soul - Stakes Is High](https://www.discogs.com/release/27243693-De-La-Soul-Stakes-Is-High) |

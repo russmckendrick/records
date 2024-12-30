@@ -4,6 +4,7 @@ artist_name: "Dead Cross"
 artist: "dead-cross"
 album_name: "Dead Cross"
 date: 2017-08-18T18:22:09.000000Z
+release_date: "2018-05-02"
 release_id: "10642664"
 slug: "dead-cross-10642664"
 hideSummary: true
@@ -26,8 +27,9 @@ genres: ["Rock"]
 styles: ["Hardcore", "Heavy Metal"]
 ---
 
-Dead Cross is an American crossover thrash supergroup formed in Southern California. The band consists of guitarist Michael Crain (Retox), bassist Justin Pearson (the Locust, Head Wound City and Retox), drummer Dave Lombardo (Slayer, Mr. Bungle and Fantômas) and vocalist Mike Patton (Faith No More, Mr. Bungle and Fantômas).
-    
+Less than a year after their full-length debut, hardcore supergroup Dead Cross return with a frenetic four-song EP. Surging lead-off track “Skin of a Redneck” sees Faith No More vocalist Mike Patton howling about monkeys, scorpions and a “neon galaxy of lies,” while former Slayer drummer Dave Lombardo unloads a percussive whirlwind. “My Perfect Prisoner” is a frantic punk stomper led by Michael Crain’s demented, deep-fried guitars. The EP closes with awesomely bizarre and heavily techno-fied remixes of “Shillelagh” and “Church of the Motherfuckers”.
+        
+        
     
 
 
@@ -44,14 +46,24 @@ Dead Cross is an American crossover thrash supergroup formed in Southern Califor
 10. Church Of The Motherfuckers
 
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/dead-cross/1228978283" >}}<br>
+{{< applemusic url="https://music.apple.com/gb/album/dead-cross-ep/1367979420" >}}<br>
 
 
 ## Videos
-### Dead Cross Seizure and Desist
-{{< youtube id="WpdcT8kyP1U" title="Dead Cross Seizure and Desist" >}}<br>
+### Dead Cross "Seizure and Desist"
+{{< youtube id="WpdcT8kyP1U" title="Dead Cross "Seizure and Desist"" >}}<br>
 ### More Videos
 
+- [Idiopathic](https://www.youtube.com/watch?v=X88l3lDg4ps)
+- [Obedience School](https://www.youtube.com/watch?v=OPic-JDSpzM)
+- [Shillelagh](https://www.youtube.com/watch?v=2Sd-B617LgQ)
+- [Bela Lugosi's Dead](https://www.youtube.com/watch?v=4QQHlXIDUfI)
+- [Divine Filth](https://www.youtube.com/watch?v=zarUQE-cTIo)
+- [Grave Slave](https://www.youtube.com/watch?v=XPBV0ZvG2yw)
+- [The Future Has Been Cancelled](https://www.youtube.com/watch?v=4DjJzcYbm4Q)
+- [Gag Reflex](https://www.youtube.com/watch?v=ijoP18PK3BE)
+- [Dead Cross - Church of the Motherfuckers](https://www.youtube.com/watch?v=IxaFJQo7TzU)
+- [Dead Cross "Seizure and Desist"](https://www.youtube.com/watch?v=WpdcT8kyP1U)
 - [Idiopathic](https://www.youtube.com/watch?v=X88l3lDg4ps)
 - [Obedience School](https://www.youtube.com/watch?v=OPic-JDSpzM)
 - [Shillelagh](https://www.youtube.com/watch?v=2Sd-B617LgQ)

@@ -18,17 +18,21 @@ additional_images:
     - "https://i.discogs.com/rlAB1rv4q0mzbp3PQ5rcKFgSG70rXs_Sn-eVKTwLIxE/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY5NTE1/MjgtMTQzMzEwMDU1/OS05MTcwLmpwZWc.jpeg"
     - "https://i.discogs.com/uBjyZYBAhR7aOQznDHkjtfY7RqP-xsNXXlrhRyQvtmM/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY5NTE1/MjgtMTQzMDMxNzQ4/Ni03MzU0LmpwZWc.jpeg"
     - "https://i.discogs.com/aTzdmr41yndv7KSXFbueKTJlDX16ZhXNeoaVFbQeoFM/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY5NTE1/MjgtMTQzMzEwMDU1/Ni03NzY5LmpwZWc.jpeg"
-    - "https://i.discogs.com/5vbzYQ23Z7YAa6RmWm1Li1th0dGdJ4JByrSpXrkKe8g/rs:fit/g:sm/q:90/h:601/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY5NTE1/MjgtMTQzMzEwMDYy/NC01OTg1LmpwZWc.jpeg"
-    - "https://i.discogs.com/Kltu6TAMwRKhYSyEj6mzJ1Jerofw8_RzhLIkefy2vOk/rs:fit/g:sm/q:90/h:601/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY5NTE1/MjgtMTQzMzEwMDYy/MC02MDQ1LmpwZWc.jpeg"
+    - "https://i.discogs.com/V1w_H8zRiqLjti5EEga40AXXf9gFUuRN6V_MdpUaHZc/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY5NTE1/MjgtMTQzMzEwMDYy/NC01OTg1LmpwZWc.jpeg"
+    - "https://i.discogs.com/lHNpdVtC_oFYq_kYGlPaVEoxp3-d0pTalczTnAGgScM/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY5NTE1/MjgtMTQzMzEwMDYy/MC02MDQ1LmpwZWc.jpeg"
     - "https://i.discogs.com/0gt5esSzYKLH95SciDVxS7U6wauKUIzHGcsxj_I9e_Y/rs:fit/g:sm/q:90/h:405/w:400/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY5NTE1/MjgtMTQzMzEwMDYy/Mi03NzU4LmpwZWc.jpeg"
     - "https://i.discogs.com/ytESEKLP3V0UFGpwpjUH0lZgNKVto84Ef0vAVtOF7Ks/rs:fit/g:sm/q:90/h:396/w:400/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY5NTE1/MjgtMTQzMzEwMDYy/MC0xMDc1LmpwZWc.jpeg"
     - "https://i.discogs.com/XsTvLPvJ13EgWZOzTZi-Dl3zQ-PjXIBg1lZ3K346vzY/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY5NTE1/MjgtMTQzMzEwMDYy/Ny02MTcxLmpwZWc.jpeg"
-    - "https://i.discogs.com/OODHIzuRhHtD5pn-5XGiEDCgqibwtjVPf2tujOAaVUY/rs:fit/g:sm/q:90/h:841/w:499/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY5NTE1/MjgtMTQzMzEwMDYy/My02NDQxLmpwZWc.jpeg"
+    - "https://i.discogs.com/pY-D8D03k3c3tRvHC5nhYBmGpy_Mb480G6MlRO_aGk8/rs:fit/g:sm/q:90/h:600/w:356/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY5NTE1/MjgtMTQzMzEwMDYy/My02NDQxLmpwZWc.jpeg"
 genres: ["Rock"]
 styles: ["Hard Rock", "Prog Rock"]
 ---
 
-With 1977's <i>A Farewell to Kings</i>, Rush continued its pursuit of sonically and compositionally complex hard and progressive rock, setting the performance standard for all hard rock bands to emulate, on the way becoming one of the most distinctive groups of the ‘70s. The title track begins with a gentle acoustic guitar and synthesizer overture before breaking out into one of the band's trademark explosions. Drummer Neil Peart never met a time signature he couldn't twist to his own desires and with his heavy rhythmic hand the band erupts into epic splendor. "Closer to the Heart" is the closest the band had come to a conventional pop song in a few years and nicely counterbalances the conceptual ambitions of the ten-minute album closer "Cygnus X-1" and the eleven-minute tour-de-force "Xanadu." "Madrigal" spotlights the band's lesser-explored softer side, whereas "Cinderella Man" pushes forth the band's aggression. The Canadian trio managed to be both obscure and accessible, pulling in an ardent following despite its unusual and unconventional approach.
+A Farewell to Kings is the fifth studio album by Canadian rock band Rush, released on Anthem Records on August 29, 1977. The album reached No. 11 in Canada and marked a growth in the band's international fanbase, becoming their first Top 40 album in the US and the UK.
+After reaching a critical and commercial peak with 2112 and touring the album, Rush decided to record the follow-up outside Toronto for the first time and settled in Rockfield Studios in Wales after their debut European tour. A Farewell to Kings is noted for the band expanding their sound with greater use of synthesizers and each member playing more instruments than before, and having long and short tracks such as the 11-minute "Xanadu" and the under 3-minute "Closer to the Heart", both of which became live favourites. The closing science-fiction themed "Cygnus X-1 Book I: The Voyage" ends on a cliffhanger which concludes on the next album, Hemispheres. 
+A Farewell to Kings received a generally positive reception from critics. "Closer to the Heart" was released as the album's first single, which reached No. 36 in the UK. Rush supported the album with their most extensive tour at the time, headlining major venues across North America and Europe for over 140 dates. A 40th anniversary remastered edition with bonus tracks and a 5.1 surround sound mix was released in 2017.
+
+
         
         
     
@@ -43,7 +47,7 @@ With 1977's <i>A Farewell to Kings</i>, Rush continued its pursuit of sonically 
 6. Cygnus X-1 (10:27)
 
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/a-farewell-to-kings-remastered/1440771611" >}}<br>
+{{< applemusic url="https://music.apple.com/gb/album/a-farewell-to-kings-remastered-2013/1440771611" >}}<br>
 
 
 

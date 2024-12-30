@@ -16,11 +16,11 @@ additional_images:
     - "https://i.discogs.com/M_CUIQHH_B7ql1i1IxvxYVbr7sTohrGrNtTrJmXw4EI/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNjI1/NzgzLTE1Mzg4NTU3/MzgtMjY4NC5qcGVn.jpeg"
     - "https://i.discogs.com/4XO7USL_JwRF6E2SFWp_kz2btWKqajkyaFP2Z86KsDM/rs:fit/g:sm/q:90/h:591/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNjI1/NzgzLTE1Mzg4NTU3/NzItMzU2MC5qcGVn.jpeg"
     - "https://i.discogs.com/oXfJE_aCuCx19_PJufIGMG0LCaGUuqKwHpSCg5InJ7E/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNjI1/NzgzLTE1Mzg4NTU4/MDctODcwMS5qcGVn.jpeg"
-    - "https://i.discogs.com/et8K5YoexydCg16s31UNCGycycN8uloa_uQZmMktfbQ/rs:fit/g:sm/q:90/h:604/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNjI1/NzgzLTE1Mzg4NTU4/MzktMTYxNC5qcGVn.jpeg"
+    - "https://i.discogs.com/w_ZkKnINL06V_l8HvN9N60Djx471qMXqSrNd9rEVAjg/rs:fit/g:sm/q:90/h:600/w:596/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNjI1/NzgzLTE1Mzg4NTU4/MzktMTYxNC5qcGVn.jpeg"
     - "https://i.discogs.com/zCnJYg3CoFXgwPtqCU8r--80Ez2U62oE9fFMFWICSVk/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNjI1/NzgzLTE1Mzg4NTU4/NjktOTk5Ny5qcGVn.jpeg"
     - "https://i.discogs.com/M1YZdTlfLAHMp2Ptf4O63y8VTwiaCesaF93TIuQ1kTk/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNjI1/NzgzLTE1Mzg4NTU5/MDMtMTczMy5qcGVn.jpeg"
-    - "https://i.discogs.com/KiCKWAxVPx4ynZdJLYbN1oVpxZnIQ_ltHRnajJGPjV0/rs:fit/g:sm/q:90/h:602/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNjI1/NzgzLTE1Mzg4NTU5/NjctMTIyNS5qcGVn.jpeg"
-    - "https://i.discogs.com/7pgmEq1yCsN3t_AZFsLfD4QPVQU9NZHW3phBOcObLo8/rs:fit/g:sm/q:90/h:601/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNjI1/NzgzLTE1Mzg4NTYw/MDMtMjc0MC5qcGVn.jpeg"
+    - "https://i.discogs.com/f7Cetjx9UEHwtUgc7Y0fMdVbl1RDb5qUFO4mameouxk/rs:fit/g:sm/q:90/h:600/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNjI1/NzgzLTE1Mzg4NTU5/NjctMTIyNS5qcGVn.jpeg"
+    - "https://i.discogs.com/iekBnHpaVoT_TPL-eH9JWBZ0ViorEkaodGlE4HoYAmk/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNjI1/NzgzLTE1Mzg4NTYw/MDMtMjc0MC5qcGVn.jpeg"
     - "https://i.discogs.com/B23FjVMcOzu8KrV6xTbCVwutT6vavHKwMEHNNab8QwM/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNjI1/NzgzLTE1Mzg4NTYw/NzUtMzU3Ni5qcGVn.jpeg"
     - "https://i.discogs.com/Td8iJz2r5PuLF0baZc3MOc-tOY8coIQ6Ti-CNJMe5xk/rs:fit/g:sm/q:90/h:590/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNjI1/NzgzLTE1Mzg4NTYx/MDgtMzk5OC5qcGVn.jpeg"
     - "https://i.discogs.com/VuPWo5oZ2-0Oq0VJUdWHg26zXAJ0bqheA39n4OwE51I/rs:fit/g:sm/q:90/h:590/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNjI1/NzgzLTE1Mzg4NTYx/MTAtMTg5OS5qcGVn.jpeg"
@@ -33,6 +33,8 @@ styles: ["Indie Rock"]
 
 Bottle It In is the eighth studio album by American musician Kurt Vile, released on October 12, 2018 through Matador Records. It features contributions from Kim Gordon, Cass McCombs, Stella Mozgawa of Warpaint, and Mary Lattimore.
 The album was preceded by the singles "Loading Zones" and "Bassackwards".
+
+
     
     
 

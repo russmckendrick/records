@@ -16,11 +16,11 @@ additional_images:
     - "https://i.discogs.com/V9jXMeXIYIqmEYzaHLmFQ1BCb-TYsc5jXPZtzCWkkvY/rs:fit/g:sm/q:90/h:592/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg5NTY1/NDEtMTQ3MjkwMzgy/Ni02MjI0LmpwZWc.jpeg"
     - "https://i.discogs.com/XVbzpGUozdp2BPAm1kSyHICn7B9-2_kox52G4GOlY4k/rs:fit/g:sm/q:90/h:591/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg5NTY1/NDEtMTQ3MjkwMzgy/Ny02NjU5LmpwZWc.jpeg"
     - "https://i.discogs.com/VFq2NKK7ekLIeP4M0mIf9qUUXIo4-Rc3hCNlMGYUQ54/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg5NTY1/NDEtMTQ3MjkwMzgy/OS00NjIxLmpwZWc.jpeg"
-    - "https://i.discogs.com/Wa4jmS7_CO6wrLfhA2wFf3xBvvumg58aopdjbQQwZMU/rs:fit/g:sm/q:90/h:602/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg5NTY1/NDEtMTQ3MjkwMzgz/MC0yNjc5LmpwZWc.jpeg"
+    - "https://i.discogs.com/8briBUQAyCJ8pt-ZjSAbSjPX7kAfHf1oWxPcX5gdTv4/rs:fit/g:sm/q:90/h:600/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg5NTY1/NDEtMTQ3MjkwMzgz/MC0yNjc5LmpwZWc.jpeg"
     - "https://i.discogs.com/lACG8cqlXBH2Kc7lUlBLQlBvE1JGshsdWB5ZrdZOllE/rs:fit/g:sm/q:90/h:589/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg5NTY1/NDEtMTQ3MjkwMzgz/NS0xMzk0LmpwZWc.jpeg"
     - "https://i.discogs.com/kHCGvOfR59z0rmn2gYhFY3T9k6ex4Lp0TXojqGpVQ4s/rs:fit/g:sm/q:90/h:591/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg5NTY1/NDEtMTQ3MjkwMzgz/Ny05MjcwLmpwZWc.jpeg"
 genres: ["Rock"]
-styles: ["Alternative Rock", "Indie Rock", "Britpop"]
+styles: ["Alternative Rock", "Indie Rock"]
 ---
 
 
@@ -40,10 +40,17 @@ styles: ["Alternative Rock", "Indie Rock", "Britpop"]
 12. Wear Me Down
 
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/leisure-special-edition/699689006" >}}<br>
+{{< applemusic url="https://music.apple.com/gb/album/leisure/699605281" >}}<br>
 
 
+## Videos
+### Blur - Birthday (Official Audio)
+{{< youtube id="xGFa5_wdRsU" title="Blur - Birthday (Official Audio)" >}}<br>
+### More Videos
 
+- [Blur - Wear Me Down (Official Audio)](https://www.youtube.com/watch?v=c46J6GK1qX8)
+- [Blur - Sing (Official Audio)](https://www.youtube.com/watch?v=zsQ6_9m-iDo)
+- [There's No Other Way (2012 Remaster)](https://www.youtube.com/watch?v=2Yhn0cwKJ6M)
 
 ## Release Images
 {{< imageGrid >}}

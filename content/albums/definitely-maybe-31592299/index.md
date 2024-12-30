@@ -35,7 +35,7 @@ additional_images:
     - "https://i.discogs.com/F0b4xkLxcoKDcs28lLVICo22-MGTrukcv0q3sJvGTZY/rs:fit/g:sm/q:90/h:600/w:597/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxNTky/Mjk5LTE3MjUwMjYx/NjEtNzQ5Mi5qcGVn.jpeg"
     - "https://i.discogs.com/4_L594ETtyS_crqT-BGESZgwAUBeZ6TMFttqdYbjMOQ/rs:fit/g:sm/q:90/h:593/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxNTky/Mjk5LTE3MjUwMjYy/MTQtMzEwMy5qcGVn.jpeg"
 genres: ["Rock"]
-styles: []
+styles: ["Indie Rock"]
 ---
 
 Oasis never did anything the easy way. For almost two decades after their formation in 1991, the Manchester quintet was constantly teetering on the edge; chaos and calamity a crucial ingredient to what made them tick. It was no different with the creation of their debut <i>Definitely Maybe</i> but, for once, their problems had nothing to do with the turbulent relationship between Liam and Noel Gallagher. Despite possessing a collection of songs everyone within earshot could recognise as generational, here the formative Oasis suffered from the humdrum issue faced by many a new band lacking in studio experience: how to replicate their thrilling live alchemy on tape.
@@ -91,15 +91,9 @@ Released in August 1994, it reshaped the UK’s musical landscape, helping to us
 
 
 ## Videos
-### Oasis - Supersonic (Official HD Remastered Video)
-{{< youtube id="BJKpUH2kJQg" title="Oasis - Supersonic (Official HD Remastered Video)" >}}<br>
-### More Videos
+### Oasis - Shakermaker (Official HD Remastered Video)
+{{< youtube id="3FpNw3286y8" title="Oasis - Shakermaker (Official HD Remastered Video)" >}}<br>
 
-- [Oasis - Shakermaker (Official HD Remastered Video)](https://www.youtube.com/watch?v=3FpNw3286y8)
-- [Oasis - Live Forever (Official HD Remastered Video)](https://www.youtube.com/watch?v=TDe1DqxwJoc)
-- [Oasis - Live Forever (Official Video - US Version)](https://www.youtube.com/watch?v=6qTPl5Do8mQ)
-- [Oasis - Cigarettes & Alcohol (Official HD Remastered Video)](https://www.youtube.com/watch?v=SaeLKhRnkhQ)
-- [Oasis - Rock 'N' Roll Star (Official HD Remastered Video)](https://www.youtube.com/watch?v=3aatEBIZHNU)
 
 ## Release Images
 {{< imageGrid >}}
@@ -108,8 +102,8 @@ Released in August 1994, it reshaped the UK’s musical landscape, helping to us
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Definitely_Maybe |
-| Format         | Vinyl 2× LP Album Reissue Remastered, Vinyl 2× LP Compilation, All Media Deluxe Edition Limited Edition (30th Anniversary) |
+| Format         | Vinyl 4× LP Album Deluxe Edition Reissue Remastered (30th Anniversary) |
 | Label          | Big Brother |
 | Catalog Number | RKIDLP125X |
-| Notes | This 4x vinyl edition includes 2014 the remastered album plus the previously unreleased and discarded original recording session from Monnow Valley along with outtakes from Sawmills Studios plus a demo of Sad Song. |
+| Notes | This 4x vinyl edition includes 2014 the remastered album plus the previously unreleased and discarded original recording session from Monnow Valley along with outtakes from Sawmills Studios plus a demo of Sad Song.  In the runouts, "1⋀", "1+", "1T", "1X", "1=" & "1V" are mirrored. |
 | Discogs URL    | [Oasis - Definitely Maybe](https://www.discogs.com/release/31592299-Oasis-2-Definitely-Maybe) |

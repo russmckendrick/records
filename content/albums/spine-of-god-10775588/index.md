@@ -15,14 +15,17 @@ additional_images:
     - "https://i.discogs.com/Ez7gFwUVNfYkeNk9WibVQ_whN_tGwjHOy6PTizm2XCg/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNzc1/NTg4LTE1MTkzMjEw/ODgtMjg2NC5qcGVn.jpeg"
     - "https://i.discogs.com/CaPH38hpGUjAkH9EuSRYS5SxeGiut1h7vZ60IK2nSoo/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNzc1/NTg4LTE1MTkzMjEw/OTAtOTgxOS5qcGVn.jpeg"
     - "https://i.discogs.com/ViQy5VrJJt7V-PxHPQ2iMbjrlNo7pZF0UYUYerk1Xqk/rs:fit/g:sm/q:90/h:594/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNzc1/NTg4LTE1MTkzMjEw/ODktNDM0OC5qcGVn.jpeg"
-    - "https://i.discogs.com/LYL4i7mfKZ705D5RNFNer9dWccvcKX3hwX2dvxySa2w/rs:fit/g:sm/q:90/h:601/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNzc1/NTg4LTE1MTkzMjEw/OTEtNDU5MS5qcGVn.jpeg"
-    - "https://i.discogs.com/rxMEid41mYhT1dcLqdCQ_q8gDAougn18k49cCuw3jQI/rs:fit/g:sm/q:90/h:601/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNzc1/NTg4LTE1MTkzMjEw/OTItMjQwMS5qcGVn.jpeg"
+    - "https://i.discogs.com/HycCWwSNwmG3CtBMu8Ct1WIym_RiwRaG8gFgHPmUEVo/rs:fit/g:sm/q:90/h:600/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNzc1/NTg4LTE1MTkzMjEw/OTEtNDU5MS5qcGVn.jpeg"
+    - "https://i.discogs.com/4kExPlDBIsCtUDxvBRwXY08gQM1bqxH_ccirRVsbqmY/rs:fit/g:sm/q:90/h:600/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNzc1/NTg4LTE1MTkzMjEw/OTItMjQwMS5qcGVn.jpeg"
     - "https://i.discogs.com/MWSintuzgM9khJ2w9Xv_JDSZN2p-MTJR9O8Eig2x7E8/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNzc1/NTg4LTE1MTkzMjEw/OTMtODA5Ny5qcGVn.jpeg"
-    - "https://i.discogs.com/Uc_jxYD-Vu9GEh4p_JJeXkcVk0MXphpkjxumn_KpAO8/rs:fit/g:sm/q:90/h:1587/w:513/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNzc1/NTg4LTE1MjEzOTM0/NDEtNzM4OC5qcGVn.jpeg"
+    - "https://i.discogs.com/tVD9L1fTCp42o8lW-YqzwO4-AhwUYobPVQHVdrr5UHg/rs:fit/g:sm/q:90/h:600/w:193/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNzc1/NTg4LTE1MjEzOTM0/NDEtNzM4OC5qcGVn.jpeg"
 genres: ["Rock"]
 styles: ["Hard Rock", "Psychedelic Rock", "Space Rock", "Heavy Metal"]
 ---
 
+Spine of God is the debut studio album by American rock band Monster Magnet, released in Europe in 1991 and in the United States the following year. The album represents one of the earliest examples of the emerging 1990s sub-genre of stoner rock. Spine of God did not perform well commercially upon its initial release, but was praised by critics and would later be considered a major influence on stoner rock bands. The song "Medicine" was released as a single with accompanying music video.
+    
+    
 
 
 ## Tracklisting
@@ -46,10 +49,17 @@ styles: ["Hard Rock", "Psychedelic Rock", "Space Rock", "Heavy Metal"]
 {{< youtube id="4_HKgOWG3qE" title="Monster Magnet - Spine Of God (Full Album)" >}}<br>
 ### More Videos
 
-- [Monster Magnet  -  Zodiac Lung (w/ lyrics)](https://www.youtube.com/watch?v=jP6Sm2s3nYM)
 - [Monster Magnet - Spine Of God](https://www.youtube.com/watch?v=qYrxylWs_Us)
 - [Monster Magnet - Spine Of God](https://www.youtube.com/watch?v=Ltim-KfbZjk)
-- [Monster Magnet - Nod Scene](https://www.youtube.com/watch?v=pc9LlSsg1_Q)
+- [Pill Shovel - Monster Magnet](https://www.youtube.com/watch?v=MEYkQfzeoG8)
+- [Monster Magnet - Pill Shovel](https://www.youtube.com/watch?v=MmAOFrIQtko)
+- [Monster Magnet - Medicine](https://www.youtube.com/watch?v=WurT2piQyjk)
+- [Monster Magnet - "Nod Scene"](https://www.youtube.com/watch?v=pc9LlSsg1_Q)
+- [Monster Magnet - Black Mastermind](https://www.youtube.com/watch?v=vGe_xUng7pg)
+- [Monster Magnet - Snake Dance](https://www.youtube.com/watch?v=OCOIprVzWvI)
+- [Monster Magnet - Sin's a Good Man's Brother](https://www.youtube.com/watch?v=ijP3XGafm6E)
+- [Monster Magnet - Ozium](https://www.youtube.com/watch?v=fw528SJK2YU)
+- [Monster Magnet  -  Zodiac Lung (w/ lyrics)](https://www.youtube.com/watch?v=jP6Sm2s3nYM)
 
 ## Release Images
 {{< imageGrid >}}
@@ -57,6 +67,7 @@ styles: ["Hard Rock", "Psychedelic Rock", "Space Rock", "Heavy Metal"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
+| Wikipedia URL | https://en.wikipedia.org/wiki/Spine_of_God |
 | Format         | Vinyl LP Album Limited Edition Reissue (Gatefold) |
 | Label          | Napalm Records |
 | Catalog Number | NPR 744 VINYL |

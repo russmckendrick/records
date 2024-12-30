@@ -22,6 +22,12 @@ genres: ["Electronic", "Pop", "Folk, World, & Country"]
 styles: ["Indie Pop"]
 ---
 
+Le Kov ("a place of memory" in Cornish) is the second studio album by Welsh singer-songwriter Gwenno. It was released on 2 March 2018 on Heavenly Recordings. The first single from the album is "Tir Ha Mor (Land and Sea)". Heavenly Recordings claim Gwenno felt a duty to make her second album entirely in Cornish as a record of the living language.
+The songs on Le Kov are written and composed by Gwenno Saunders with help from Rhys Edwards, and features guest vocalist Gruff Rhys on the song "Daromres Y'n Howl". The album also features drum engineering by Gorwel Owen, who has produced albums by both Rhys and his band Super Furry Animals .
+
+
+    
+    
 
 
 ## Tracklisting
@@ -54,6 +60,16 @@ styles: ["Indie Pop"]
 - [Aremorika](https://www.youtube.com/watch?v=UCG9vktV-pk)
 - [Hunros](https://www.youtube.com/watch?v=ksG8PnMCVF8)
 - [Koweth Ker](https://www.youtube.com/watch?v=v07qP27bZXI)
+- [Hi a Skoellyas Liv a Dhagrow](https://www.youtube.com/watch?v=JzYa659k29g)
+- [Tir Ha Mor](https://www.youtube.com/watch?v=zbN_FSCqX5I)
+- [Herdhya](https://www.youtube.com/watch?v=psiFSja8n0Q)
+- [Eus Keus?](https://www.youtube.com/watch?v=qbTw9VkcEFI)
+- [Jynn-amontya](https://www.youtube.com/watch?v=PBONhKumcyI)
+- [Den Heb Taves](https://www.youtube.com/watch?v=5k4rpFfb70Y)
+- [Daromres y'n Howl](https://www.youtube.com/watch?v=_Y4Pk3eCHo0)
+- [Aremorika](https://www.youtube.com/watch?v=UCG9vktV-pk)
+- [Hunros](https://www.youtube.com/watch?v=ksG8PnMCVF8)
+- [Koweth Ker](https://www.youtube.com/watch?v=v07qP27bZXI)
 
 ## Release Images
 {{< imageGrid >}}
@@ -61,6 +77,7 @@ styles: ["Indie Pop"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
+| Wikipedia URL | https://en.wikipedia.org/wiki/Le_Kov |
 | Format         | Vinyl LP Album (Blue) |
 | Label          | Heavenly |
 | Catalog Number | HVNLP145C |

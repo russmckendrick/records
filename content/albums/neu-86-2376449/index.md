@@ -38,8 +38,9 @@ styles: ["Krautrock"]
 12. November (1:43)
 13. KD (1:54)
 
-## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/neu/371435236" >}}<br>
+
+## Spotify
+{{< spotify type="album" id="1LdFz3rQocadBp0npoIRWt" width="100%" height="500" >}}<br>
 
 
 ## Videos

@@ -17,18 +17,17 @@ additional_images:
     - "https://i.discogs.com/OGFdsct6PRZuJs1vbpXF-s9Ef4PdUzpNczH-VccBq_U/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNjQ3/NjY1LTE1MjQ5MjU0/MDAtODM1OS5qcGVn.jpeg"
     - "https://i.discogs.com/-6LLcZvNlnm2Xyjufe5ZfhGhAZ0dUOdEZ_d4gTPRloo/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNjQ3/NjY1LTE1MjQ5MjU0/MDktNTk4My5qcGVn.jpeg"
     - "https://i.discogs.com/PmP8CfoFox4USF-VI48RBE1QhRcxghfvWtGCtYGS5Zo/rs:fit/g:sm/q:90/h:330/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNjQ3/NjY1LTE1MjI1MTY5/ODctOTQzMC5qcGVn.jpeg"
-    - "https://i.discogs.com/Eics2UV2EE_2nQtF-rDNwIQ_9e4ZpV16h5-YCEeAKTE/rs:fit/g:sm/q:90/h:610/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNjQ3/NjY1LTE1MjQ5MjU0/MTgtOTc4NS5qcGVn.jpeg"
-    - "https://i.discogs.com/Fa6uPWjtlqjnKS6scBF-b7F55jc_72FKTWzwWXU2CTA/rs:fit/g:sm/q:90/h:610/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNjQ3/NjY1LTE1MjQ5MjU0/MjctMjAzNy5qcGVn.jpeg"
+    - "https://i.discogs.com/XKQnK0hwzQLqFwzERnCQ8aq5nv7vwGsrOCxHPNvk2JM/rs:fit/g:sm/q:90/h:600/w:589/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNjQ3/NjY1LTE1MjQ5MjU0/MTgtOTc4NS5qcGVn.jpeg"
+    - "https://i.discogs.com/I36vLJwzPF1QQR5FAmiaWzXjDn4903fAIcd2e4R_x1w/rs:fit/g:sm/q:90/h:600/w:590/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNjQ3/NjY1LTE1MjQ5MjU0/MjctMjAzNy5qcGVn.jpeg"
     - "https://i.discogs.com/C5CzM9tbx5ta_GGlESslCr60AEITNXfvet7GBxTCNnU/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNjQ3/NjY1LTE1MjQ5MjU0/MzUtMjA1NC5qcGVn.jpeg"
-    - "https://i.discogs.com/-ivIvYvHmUlX3vJCten9cCoXULhev5rncEIBOwlNce0/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNjQ3/NjY1LTE1MjQ5MjU0/NDMtODA1OC5qcGVn.jpeg"
+    - "https://i.discogs.com/wBIvLMEXZw8SzukSUCVEl3x9c3mPbQLfXgXssX_kV6Q/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNjQ3/NjY1LTE1MjQ5MjU0/NDMtODA1OC5qcGVn.jpeg"
     - "https://i.discogs.com/YJQr6xZlfokOvMxuIONiEP54vm1ufJQCLhs086bSGSc/rs:fit/g:sm/q:90/h:345/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNjQ3/NjY1LTE1MjI1MTcw/MzUtNzI5Ny5qcGVn.jpeg"
 genres: ["Rock", "Classical"]
 styles: ["Alternative Rock", "Acoustic", "Classic Rock"]
 ---
 
-We the Collective is the eleventh studio album by folk-punk rock band the Levellers. The album entered the British album charts at number 12, the band's highest charting entry in over 21 years. The 10-track album features acoustic re-recordings of many of the band's greatest hits, with two new songs "Shame" and "Drug Bust McGee".The album was produced by John Leckie.
-
-
+We the Collective is the eleventh studio album by folk-punk rock band the Levellers. The album entered the British album charts at number 12, the band's highest-charting entry in over 21 years. The 10-track album features acoustic re-recordings of many of the band's greatest hits, with two new songs "Shame" and "Drug Bust McGee".
+The album was produced by John Leckie.
     
     
 
@@ -55,16 +54,19 @@ We the Collective is the eleventh studio album by folk-punk rock band the Levell
 
 
 ## Videos
-### WE THE COLLECTIVE - LEVELLERS
-{{< youtube id="eRUKW_xvEBE" title="WE THE COLLECTIVE - LEVELLERS" >}}<br>
+### The Shame - Levellers
+{{< youtube id="A9JBqhMrze8" title="The Shame - Levellers" >}}<br>
 ### More Videos
 
-- [One Way](https://www.youtube.com/watch?v=liP8T6X8Qbg)
-- [The Shame - Levellers](https://www.youtube.com/watch?v=A9JBqhMrze8)
-- [LIBERTY](https://www.youtube.com/watch?v=yUVKWu7wq0g)
 - [Drug Bust McGee - Levellers](https://www.youtube.com/watch?v=lEZwzWC8a8Y)
+- [WE THE COLLECTIVE - LEVELLERS](https://www.youtube.com/watch?v=eRUKW_xvEBE)
+- [The Shame - Levellers](https://www.youtube.com/watch?v=A9JBqhMrze8)
+- [One Way](https://www.youtube.com/watch?v=liP8T6X8Qbg)
+- [LIBERTY](https://www.youtube.com/watch?v=yUVKWu7wq0g)
 - [Dance Before The Storm](https://www.youtube.com/watch?v=vA1QK16pPFs)
 - [England My Home](https://www.youtube.com/watch?v=TrPa6me_JkU)
+- [The Shame - Levellers](https://www.youtube.com/watch?v=A9JBqhMrze8)
+- [Drug Bust McGee - Levellers](https://www.youtube.com/watch?v=lEZwzWC8a8Y)
 
 ## Release Images
 {{< imageGrid >}}

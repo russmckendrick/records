@@ -24,6 +24,12 @@ genres: ["Electronic", "Rock"]
 styles: ["Industrial", "Indie Rock", "Experimental"]
 ---
 
+Dos Dedos Mis Amigos is the fifth studio album by English industrial rock band Pop Will Eat Itself. It was released on 19 September 1994 in the United Kingdom by Infectious Records and in the United States by Nothing and Interscope Records. The album is somewhat different from the band's other albums, as it had more of an industrial influence and fewer samples were used. The cover art was created by longtime collaborators The Designers Republic. The album was the last before the band disbanded in 1996 (excluding the then unreleased album), until the reformed band released New Noise Designed by a Sadist in 2011, with a different line-up.
+It was followed by an album of remixes, Two Fingers My Friends!, which is the English translation of "Dos Dedos Mis Amigos".
+
+
+    
+    
 
 
 ## Tracklisting
@@ -48,9 +54,16 @@ styles: ["Industrial", "Indie Rock", "Experimental"]
 {{< youtube id="76wSk1j02_4" title="Pop Will Eat Itself - Ich Bin Ein Auslander" >}}<br>
 ### More Videos
 
-- [Pop Will Eat Itself - Dos Dedos Mis Amigos (+ Japan Bonus Tracks)](https://www.youtube.com/watch?v=HoV4MCebgHA)
-- [Pop Will Eat Itself - Everything's Cool](https://www.youtube.com/watch?v=fxYyTHEwO7U)
-- [Pop Will Eat Itself - Underbelly](https://www.youtube.com/watch?v=48xQ-GyOP5c)
+- [Pop Will Eat Itself - Kick To Kill](https://www.youtube.com/watch?v=WzuI63WfqwE)
+- [Familus Horribilus](https://www.youtube.com/watch?v=xNe71kFBxJ0)
+- [Underbelly](https://www.youtube.com/watch?v=PyBs62K4G6w)
+- [Fatman](https://www.youtube.com/watch?v=1cF-oeKiqec)
+- [Home](https://www.youtube.com/watch?v=o6klK87IyYY)
+- [Cape Connection](https://www.youtube.com/watch?v=6jlZPoRLlEU)
+- [Menofearthereaper](https://www.youtube.com/watch?v=XX1wCrsCqas)
+- [Everything's Cool](https://www.youtube.com/watch?v=O107sqytH7w)
+- [R.S.V.P.](https://www.youtube.com/watch?v=wUZ2HN_9ElM)
+- [Babylon](https://www.youtube.com/watch?v=ByjXL6WZpWk)
 
 ## Release Images
 {{< imageGrid >}}
@@ -58,6 +71,7 @@ styles: ["Industrial", "Indie Rock", "Experimental"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
+| Wikipedia URL | https://en.wikipedia.org/wiki/Dos_Dedos_Mis_Amigos |
 | Format         | Vinyl 2× LP Album |
 | Label          | Infectious Records |
 | Catalog Number | INFECT 10LPX |

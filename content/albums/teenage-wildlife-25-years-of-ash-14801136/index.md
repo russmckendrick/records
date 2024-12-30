@@ -23,7 +23,7 @@ additional_images:
     - "https://i.discogs.com/oC_yGGk1dSIBfwobMGF7l3QcV_ifm1muaMpuWKVGS94/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0ODAx/MTM2LTE1OTU2MTIx/OTYtMTg4OC5qcGVn.jpeg"
     - "https://i.discogs.com/xHKpq7Qc9y-SyHWd0XA2leJQWOK7_fq0T1JFCEtp2nk/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0ODAx/MTM2LTE1OTU2MTIx/OTQtODY1OC5qcGVn.jpeg"
     - "https://i.discogs.com/ccZSAIR8iJEKz-ZbERSLtOrCp0ZcZEJC7tmM_yQFtkE/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0ODAx/MTM2LTE1OTU2MTIx/OTctNjU1OC5qcGVn.jpeg"
-    - "https://i.discogs.com/wNh97BbCRl90zJ8ERuhjbv1pCgk9E_9MyDNCvBChNVM/rs:fit/g:sm/q:90/h:985/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0ODAx/MTM2LTE1ODg5OTIx/MDgtOTgzOC5qcGVn.jpeg"
+    - "https://i.discogs.com/gr543KPJnqFMt5mYj5wcR-pS8PT3KzrEGVd898e9kBs/rs:fit/g:sm/q:90/h:600/w:365/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0ODAx/MTM2LTE1ODg5OTIx/MDgtOTgzOC5qcGVn.jpeg"
 genres: ["Rock", "Pop"]
 styles: ["Alternative Rock", "Britpop"]
 ---
@@ -55,7 +55,7 @@ styles: ["Alternative Rock", "Britpop"]
 22. Jack Names The Planets
 
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/teenage-wildlife-25-years-of-ash/1488363014" >}}<br>
+{{< applemusic url="https://music.apple.com/gb/album/teenage-wildlife-25-years-of-ash/1494053455" >}}<br>
 
 
 

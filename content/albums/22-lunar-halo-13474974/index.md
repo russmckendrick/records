@@ -36,6 +36,8 @@ styles: ["Post Rock", "Soundtrack", "Ambient", "Abstract"]
 ### More Videos
 
 - [They Glow in Light, Like Coloured Glass](https://www.youtube.com/watch?v=EfwkIam5ygs)
+- [With Arms and Legs Moving, The Tell Tales](https://www.youtube.com/watch?v=MsnqxGAGXb4)
+- [They Glow in Light, Like Coloured Glass](https://www.youtube.com/watch?v=EfwkIam5ygs)
 
 ## Release Images
 {{< imageGrid >}}
@@ -47,4 +49,4 @@ styles: ["Post Rock", "Soundtrack", "Ambient", "Abstract"]
 | Label          | Krúnk |
 | Catalog Number | KRUNK32LP |
 | Notes | Released on Record Store Day 2019.  "Spined sleeve printed with special inks."  "Music from throughout Sigur Rós's career, twisted, bent, broken and finally added to in the band's Reykjavik studio, to create a new perspective for a dance piece of the same title initiated and created by Taiwanese choreographer Cheng Tsung-Lung." |
-| Discogs URL    | [Sigur Rós - 22° Lunar Halo](https://www.discogs.com/release/13474974-Sigur-R%C3%B3s-22-Lunar-Halo) |
+| Discogs URL    | [Sigur Rós - 22° Lunar Halo](https://www.discogs.com/release/13474974-Sigur-Rós-22-Lunar-Halo) |

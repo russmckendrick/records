@@ -40,10 +40,13 @@ styles: ["Indie Rock"]
 
 
 ## Videos
-### Airhead - Funny How (Official Music Video)
-{{< youtube id="17Zfcq6cq2g" title="Airhead - Funny How (Official Music Video)" >}}<br>
+### Airhead - Right Now
+{{< youtube id="juzGy3-fGpg" title="Airhead - Right Now" >}}<br>
 ### More Videos
 
+- [Airhead - Counting Sheep [OFFICIAL MUSIC VIDEO]](https://www.youtube.com/watch?v=frNsD1ktDlk)
+- [Airhead - Scrap Happy [OFFICIAL MUSIC VIDEO]](https://www.youtube.com/watch?v=2xpANQbpbkw)
+- [Airhead - Funny How (Official Music Video)](https://www.youtube.com/watch?v=17Zfcq6cq2g)
 - [Airhead - Right Now](https://www.youtube.com/watch?v=juzGy3-fGpg)
 - [Airhead - Counting Sheep [OFFICIAL MUSIC VIDEO]](https://www.youtube.com/watch?v=frNsD1ktDlk)
 - [Airhead - Scrap Happy [OFFICIAL MUSIC VIDEO]](https://www.youtube.com/watch?v=2xpANQbpbkw)
@@ -58,4 +61,4 @@ styles: ["Indie Rock"]
 | Label          | Korova |
 | Catalog Number | 9031 76273 1 |
 | Notes | Made in Germany |
-| Discogs URL    | [Airhead - Boing!!](https://www.discogs.com/release/1343423-Airhead-Boing) |
+| Discogs URL    | [Airhead - Boing!!](https://www.discogs.com/release/1343423-Airhead-3-Boing) |

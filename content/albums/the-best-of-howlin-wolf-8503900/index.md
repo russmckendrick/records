@@ -12,7 +12,7 @@ cover:
     alt: "The Best Of Howlin' Wolf by Howlin' Wolf"
     caption: "The Best Of Howlin' Wolf by Howlin' Wolf"
 additional_images:
-    - "https://i.discogs.com/xAzdva0ZH5WIIWjTFBbS7mNjWH2cL_d1l7xf0g0TJ5o/rs:fit/g:sm/q:90/h:633/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg1MDM5/MDAtMTQ2MjkyNTM3/Ny0xNTg2LmpwZWc.jpeg"
+    - "https://i.discogs.com/hTjGaC-ZtEfMpHzwR22kiAUiP_aLVrFvTetXLATUnVM/rs:fit/g:sm/q:90/h:600/w:568/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg1MDM5/MDAtMTQ2MjkyNTM3/Ny0xNTg2LmpwZWc.jpeg"
     - "https://i.discogs.com/gC1xfT0yjfZ2nDjF5_NNoSLa1oiBL0iIkFYo0ivbHN4/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg1MDM5/MDAtMTU4MTQxNTc5/OS04NjIyLmpwZWc.jpeg"
     - "https://i.discogs.com/eJUbTpArfG_FI2gjXMc0VVJWQ6aMh9GNPXlr3nDfVfQ/rs:fit/g:sm/q:90/h:191/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg1MDM5/MDAtMTU4MTQxNTc5/MS0zNTk1LmpwZWc.jpeg"
     - "https://i.discogs.com/ppB9j-6fojpQ8NeZ3VcRcq_g84l8ZtSRi6DwccFL5fs/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg1MDM5/MDAtMTU4MTQxNTgw/MC05OTQ2LmpwZWc.jpeg"
@@ -45,6 +45,9 @@ styles: ["Chicago Blues"]
 {{< applemusic url="https://music.apple.com/gb/album/20th-century-masters-the-millennium-collection-the/1484883790" >}}<br>
 
 
+## Videos
+### Smokestack Lightning
+{{< youtube id="VMUt8KdDtTY" title="Smokestack Lightning" >}}<br>
 
 
 ## Release Images

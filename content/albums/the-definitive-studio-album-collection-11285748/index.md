@@ -12,31 +12,31 @@ cover:
     alt: "The Definitive Studio Album Collection by Otis Redding"
     caption: "The Definitive Studio Album Collection by Otis Redding"
 additional_images:
-    - "https://i.discogs.com/3Js7fmOONeQS0B_AK66F87ScY39t4CJ6zSHSLcvY1BU/rs:fit/g:sm/q:90/h:604/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMjg1/NzQ4LTE1MTU1OTE2/OTAtNzM3Ni5qcGVn.jpeg"
-    - "https://i.discogs.com/ax_ehU1aTXy7oLog_n_FvMF3eRgzHyFpwNpyZL7GG8g/rs:fit/g:sm/q:90/h:611/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMjg1/NzQ4LTE1MTU1OTE2/OTEtNzUyMC5qcGVn.jpeg"
+    - "https://i.discogs.com/ICVP2ZIW0Gn80HbaQVf1ozqTMWUQ2fwLUYQ5WkUziew/rs:fit/g:sm/q:90/h:600/w:596/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMjg1/NzQ4LTE1MTU1OTE2/OTAtNzM3Ni5qcGVn.jpeg"
+    - "https://i.discogs.com/pX8gWKMnic-AC8EDQR3QgHjEfRTdvIbzFYrNI3AmPIs/rs:fit/g:sm/q:90/h:600/w:589/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMjg1/NzQ4LTE1MTU1OTE2/OTEtNzUyMC5qcGVn.jpeg"
     - "https://i.discogs.com/wPM7ZQFNyeBPee6A6b8HeWg5kFxwZt3XR27KRr05e2s/rs:fit/g:sm/q:90/h:589/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMjg1/NzQ4LTE1MTU1OTE2/OTQtNjE5Ni5qcGVn.jpeg"
     - "https://i.discogs.com/dAgoZUdIhtq4iFNPK1gWfkj-sWu8bQgWEeBlapfkSvo/rs:fit/g:sm/q:90/h:589/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMjg1/NzQ4LTE1MTU1OTE2/OTYtODMwMC5qcGVn.jpeg"
-    - "https://i.discogs.com/uxH44Ue2Jy3A5TrS6bSRGrbf0MEzD2EZVqz2GF8Tpqk/rs:fit/g:sm/q:90/h:601/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMjg1/NzQ4LTE1MTU1OTE2/OTgtMTk0NC5qcGVn.jpeg"
+    - "https://i.discogs.com/J0tv5eUwFH8nkRDosYFCUKUlzSbWq4CL_ekMMocFMmQ/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMjg1/NzQ4LTE1MTU1OTE2/OTgtMTk0NC5qcGVn.jpeg"
     - "https://i.discogs.com/k44D5EZODGzbydrfugAsgB1FRHywXqJLm-FFUqxK5JE/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMjg1/NzQ4LTE1MTU1OTE3/MDAtNTU4Mi5qcGVn.jpeg"
     - "https://i.discogs.com/F3V3XMLsQYY-WbxYiF1-ZL-2Znczj70mW8GkWMVPZa8/rs:fit/g:sm/q:90/h:591/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMjg1/NzQ4LTE1MTU1OTE3/MDEtODM0MS5qcGVn.jpeg"
     - "https://i.discogs.com/XldC5cn1SX05Sdv9BgccgBnqgY5ryUK1mrrWnJkYjr0/rs:fit/g:sm/q:90/h:593/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMjg1/NzQ4LTE1MTU1OTE3/MDQtNDIyNy5qcGVn.jpeg"
-    - "https://i.discogs.com/Ca2vHRE3qcFsfy8vHJ77uf4LhJpoE-S8Lc5EpiGGQh4/rs:fit/g:sm/q:90/h:604/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMjg1/NzQ4LTE1MTU1OTE3/MDUtMjQ4OS5qcGVn.jpeg"
+    - "https://i.discogs.com/_YqD-V1p0SYJUceVFgkV73xERxy7eKPnT4db65VXX1s/rs:fit/g:sm/q:90/h:600/w:596/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMjg1/NzQ4LTE1MTU1OTE3/MDUtMjQ4OS5qcGVn.jpeg"
     - "https://i.discogs.com/sCh0aeuheKG1RKJBcPBc6ZoIKr26hpAw1mvFK0aX5Pw/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMjg1/NzQ4LTE1MTU1OTE3/MDYtMzE2NS5qcGVn.jpeg"
     - "https://i.discogs.com/heYNV88-4Hlrsrsq4AOV8b89YUDBgveVYyIdSXIPblM/rs:fit/g:sm/q:90/h:593/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMjg1/NzQ4LTE1MTU2ODI3/NzItNTEzMC5qcGVn.jpeg"
     - "https://i.discogs.com/ISSJ2ohrN5olZAL4JazAl26YGss4cSyfB6y_gq1pZxQ/rs:fit/g:sm/q:90/h:589/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMjg1/NzQ4LTE1MTU2ODI3/NzQtMzcwMy5qcGVn.jpeg"
-    - "https://i.discogs.com/WCZhjWO8VbfwcPQBhD47Hr2TsYPTWW2eoUIApdYb3r0/rs:fit/g:sm/q:90/h:606/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMjg1/NzQ4LTE1MTU2ODI3/NzctMTMyOS5qcGVn.jpeg"
+    - "https://i.discogs.com/h7muAjPeeOzbk6Xzix72Ler8U9Fzabo9bwoeGJYmWFU/rs:fit/g:sm/q:90/h:600/w:594/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMjg1/NzQ4LTE1MTU2ODI3/NzctMTMyOS5qcGVn.jpeg"
     - "https://i.discogs.com/U9BureQqpBwbsf1NF2A0air6RzvgAYvpKS1v5ED1_0Q/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMjg1/NzQ4LTE1MTU2ODI3/NzktNjg4Ny5qcGVn.jpeg"
     - "https://i.discogs.com/4-5hyqUVhBQRRuV6EZZz2HY3DGr4ZsQg8PvNaenmHII/rs:fit/g:sm/q:90/h:594/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMjg1/NzQ4LTE1MTU2ODI3/ODEtMzYxNi5qcGVn.jpeg"
     - "https://i.discogs.com/m0_UhkbImIQf6lchhXiOcm6izhjN4fgkWDvsaUgwVPU/rs:fit/g:sm/q:90/h:587/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMjg1/NzQ4LTE1MTU2ODI3/ODItMjAzNy5qcGVn.jpeg"
     - "https://i.discogs.com/aPv2MxalfMWxZWeUDlHFxyUrGW0Y1J9X3Z_jiL2zic4/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMjg1/NzQ4LTE1MTU2ODI3/ODUtNTczOS5qcGVn.jpeg"
-    - "https://i.discogs.com/lghJQH3RaD_0V5gr-x7WEWTaKqKNe2vHzdYosiYJr08/rs:fit/g:sm/q:90/h:602/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMjg1/NzQ4LTE1MTU2ODI3/ODctNjg3NC5qcGVn.jpeg"
+    - "https://i.discogs.com/ytakTjVB6GksK7467fmrBExJ8Y_zdUBHancOFRjuG-A/rs:fit/g:sm/q:90/h:600/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMjg1/NzQ4LTE1MTU2ODI3/ODctNjg3NC5qcGVn.jpeg"
     - "https://i.discogs.com/3ej3RtmoOCGX29idXe2v2E3FLJ1JZfZMuIRsi5Cakq0/rs:fit/g:sm/q:90/h:592/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMjg1/NzQ4LTE1MTU2ODI3/ODgtNTExMS5qcGVn.jpeg"
     - "https://i.discogs.com/J66_ALxA-D40e0NFBrkApqjKzmyPx7qHcxnJc9c6cqM/rs:fit/g:sm/q:90/h:589/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMjg1/NzQ4LTE1MTU2ODI3/OTAtMjE0NS5qcGVn.jpeg"
     - "https://i.discogs.com/C4H714dTmTbh_XJwCYGxr0c4dxWgovkYnylPcXdDK4g/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMjg1/NzQ4LTE1MTU2ODI3/OTItMjgzNS5qcGVn.jpeg"
-    - "https://i.discogs.com/IQU4hUOYSXkTF9pRq2O5o6nomve72mWRsyfsQX74m94/rs:fit/g:sm/q:90/h:602/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMjg1/NzQ4LTE1MTU2ODI3/OTUtMTc2NS5qcGVn.jpeg"
+    - "https://i.discogs.com/9msFmrAqvLBe8WHlvEmflqglkVWxw3vuE1l776ze6Kg/rs:fit/g:sm/q:90/h:600/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMjg1/NzQ4LTE1MTU2ODI3/OTUtMTc2NS5qcGVn.jpeg"
     - "https://i.discogs.com/MeU9NiTMxHuxXjr9HlembB7tZcTQ7CXhm8jQ1R4SCrk/rs:fit/g:sm/q:90/h:588/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMjg1/NzQ4LTE1MTU2ODI3/OTYtMjAxMC5qcGVn.jpeg"
     - "https://i.discogs.com/RvnxmIATYYZAWQM7ql5WLEHMQB7hTg34904VJdFXK5I/rs:fit/g:sm/q:90/h:591/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMjg1/NzQ4LTE1MTU2ODI3/OTgtMTEyNi5qcGVn.jpeg"
-    - "https://i.discogs.com/pGOIFT2lma7mIi8gp_3XjPPNpcq4ToNEwUlx8wYyZbs/rs:fit/g:sm/q:90/h:601/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMjg1/NzQ4LTE1MTU2ODI4/MDAtNDkxOS5qcGVn.jpeg"
+    - "https://i.discogs.com/7Jo1TFm6rLb9wkg-2-RJM5doD4swR503ShbIZjOX5SI/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMjg1/NzQ4LTE1MTU2ODI4/MDAtNDkxOS5qcGVn.jpeg"
     - "https://i.discogs.com/KoZWXt_pHzBovOqvvfiF43k0pSnTnH2PBgNqAHUYDQ8/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMjg1/NzQ4LTE1MTU2ODI4/MDEtMjg3Ni5qcGVn.jpeg"
     - "https://i.discogs.com/Eb-SMdAOyB4yVsQ0ibOcrE8oQXwtNz0_WFzFleDVxUs/rs:fit/g:sm/q:90/h:593/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMjg1/NzQ4LTE1MTU2ODI4/MDMtMTI4Mi5qcGVn.jpeg"
     - "https://i.discogs.com/EF_A8JOooq7mwng3-f-M_dezSi7flHl3q_pbAZp9Zk8/rs:fit/g:sm/q:90/h:586/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMjg1/NzQ4LTE1MTU2ODI4/MDUtNzcxMy5qcGVn.jpeg"
@@ -138,14 +138,16 @@ styles: ["Soul"]
 86. Nobody Knows You (When You're Down And Out) (3:10)
 87. Ole Man Trouble (2:36)
 
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/the-definitive-collection/1445082401" >}}<br>
 
 
 ## Videos
-### I've Got Dreams to Remember
-{{< youtube id="MOwNCKZeNOE" title="I've Got Dreams to Remember" >}}<br>
+### Cigarettes and Coffee
+{{< youtube id="cm3YM_9iW_s" title="Cigarettes and Coffee" >}}<br>
 ### More Videos
 
-- [Cigarettes and Coffee](https://www.youtube.com/watch?v=cm3YM_9iW_s)
+- [I've Got Dreams to Remember](https://www.youtube.com/watch?v=MOwNCKZeNOE)
 - [Down in the Valley (Mono) (2018 Remaster)](https://www.youtube.com/watch?v=GuxR4JZ0l7A)
 
 ## Release Images

@@ -12,13 +12,13 @@ cover:
     alt: "Replicas (The First Recordings) by Gary Numan"
     caption: "Replicas (The First Recordings) by Gary Numan"
 additional_images:
-    - "https://i.discogs.com/fMpURkg85UmZQ-_BuW82_6tyAIkXt8wGGwT9oX5i3j8/rs:fit/g:sm/q:90/h:624/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MjU4/MTE0LTE1NzEwNjk3/NjQtNzg0NC5qcGVn.jpeg"
+    - "https://i.discogs.com/moP7RMrvubP6lm9DKxxMUFNprWsnI83qRHvW_joHAyU/rs:fit/g:sm/q:90/h:600/w:576/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MjU4/MTE0LTE1NzEwNjk3/NjQtNzg0NC5qcGVn.jpeg"
     - "https://i.discogs.com/iPGu8syGprb4Hvef1zzO9ZIVBx_1II8Fao323ZfXiDY/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MjU4/MTE0LTE1NzEwNjk3/NzEtOTM3MC5qcGVn.jpeg"
-    - "https://i.discogs.com/JQf5VWHXWxFT64uRUWisyfloAU9Hqoq3lud214vGyoc/rs:fit/g:sm/q:90/h:1026/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MjU4/MTE0LTE1NzEwNjk3/NzUtNDczNC5qcGVn.jpeg"
-    - "https://i.discogs.com/-gL2Xpmfc_UrZf-Te2IXGvc6k9j_wQAywt9kFg8cydk/rs:fit/g:sm/q:90/h:603/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MjU4/MTE0LTE2MzQ1NzM0/NTAtOTY2OS5qcGVn.jpeg"
+    - "https://i.discogs.com/ndMVW5w4EaLU50fsMyJBJmqhkbQH3pWEDmTvtS9PfFw/rs:fit/g:sm/q:90/h:600/w:350/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MjU4/MTE0LTE1NzEwNjk3/NzUtNDczNC5qcGVn.jpeg"
+    - "https://i.discogs.com/9D5fOdUf2e0WQgTBiVq5a-a9Ltd7J5VIHNJPfHnaLF0/rs:fit/g:sm/q:90/h:600/w:596/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MjU4/MTE0LTE2MzQ1NzM0/NTAtOTY2OS5qcGVn.jpeg"
     - "https://i.discogs.com/qRYeD3acurBYnIj7Y9gbqKTGNyStt6Wf8rxVkeojpSg/rs:fit/g:sm/q:90/h:591/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MjU4/MTE0LTE2MzQ1NzM0/NTAtOTY4Ny5qcGVn.jpeg"
-    - "https://i.discogs.com/aVSVaAxi1Hy9i_UbthFKzkpQg_C5CRShMtNqDo6KAFg/rs:fit/g:sm/q:90/h:604/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MjU4/MTE0LTE2MzQ1NzM0/NTAtODE1My5qcGVn.jpeg"
-    - "https://i.discogs.com/hAvZazpwAWHm8ZaDJVewOANEg7jxVX3iIg__7l9R9m4/rs:fit/g:sm/q:90/h:614/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MjU4/MTE0LTE2MzQ1NzM0/NDktMTMzNS5qcGVn.jpeg"
+    - "https://i.discogs.com/ihYqOdT277fVtz18QvwOBcTo-xQg8RsMrt7sQDFT2ws/rs:fit/g:sm/q:90/h:600/w:595/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MjU4/MTE0LTE2MzQ1NzM0/NTAtODE1My5qcGVn.jpeg"
+    - "https://i.discogs.com/nm8knGxgDD1FRCq81v76wBwfBX4mquD7hSKIoqaIEzo/rs:fit/g:sm/q:90/h:600/w:585/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MjU4/MTE0LTE2MzQ1NzM0/NDktMTMzNS5qcGVn.jpeg"
     - "https://i.discogs.com/R_wIWSMKVSD86UU_6aGYd1x5JbT9nmVQDnLMf5krltg/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MjU4/MTE0LTE2MzQ1NzM0/NTAtOTU0MC5qcGVn.jpeg"
     - "https://i.discogs.com/G0MOFTU51gyiI44dAEHp5UI6ksFxdJ9ZMA7aTXqECMo/rs:fit/g:sm/q:90/h:592/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MjU4/MTE0LTE2MzQ1NzM0/NDctNDE0MC5qcGVn.jpeg"
     - "https://i.discogs.com/RBr3iORH-JhotlaJY_avTM9lqpgxV4OXnfHqbsY_pOI/rs:fit/g:sm/q:90/h:592/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MjU4/MTE0LTE2MzQ1NzM0/NDktOTg5My5qcGVn.jpeg"
@@ -79,6 +79,26 @@ styles: ["New Wave"]
 - [Me! I Disconnect from You (BBC Peel Sessions)](https://www.youtube.com/watch?v=9okbA3gWP1Y)
 - [Down in the Park (BBC Peel Sessions)](https://www.youtube.com/watch?v=Wdl5--cSVe8)
 - [I Nearly Married a Human (BBC Peel Sessions)](https://www.youtube.com/watch?v=NTMKk8GrN4M)
+- [You Are in My Vision (Early Version)](https://www.youtube.com/watch?v=syXXDdt2FuQ)
+- [The Machman (Early Version)](https://www.youtube.com/watch?v=UWJeYMgvMN4)
+- [Down in the Park (Early Version)](https://www.youtube.com/watch?v=YOZ2cnTaGZM)
+- [Do You Need the Service? (Early Version)](https://www.youtube.com/watch?v=fLo451kcJmU)
+- [The Crazies](https://www.youtube.com/watch?v=-gXsmGoxl8k)
+- [When the Machines Rock (Early Version)](https://www.youtube.com/watch?v=iubbPHJGPvE)
+- [Me, I Disconnect from You (Early Version)](https://www.youtube.com/watch?v=p9BIiWFzo4c)
+- [Praying to the Aliens (Early Version)](https://www.youtube.com/watch?v=yDPj-zofgDo)
+- [It Must Have Been Years (Early Version)](https://www.youtube.com/watch?v=0XUG457PIGk)
+- [Only a Downstat](https://www.youtube.com/watch?v=cYA9DQXyH5E)
+- [I Nearly Married a Human 3 (Early Version)](https://www.youtube.com/watch?v=jPbkfPF_hm8)
+- [Replicas (Early Version)](https://www.youtube.com/watch?v=aY7QRyt0qMk)
+- [Are 'Friends' Electric? (Early Version)](https://www.youtube.com/watch?v=yb-zvwA0994)
+- [We Have a Technical](https://www.youtube.com/watch?v=PXHObgshCK8)
+- [Down in the Park (Outtake Mix)](https://www.youtube.com/watch?v=0IKq5ICT2Xc)
+- [Are 'Friends' Electric? (Early Version 2)](https://www.youtube.com/watch?v=VRqpSgnuR1c)
+- [Replicas (Early Version 2)](https://www.youtube.com/watch?v=R0I3iGhfZgk)
+- [Me! I Disconnect from You (BBC Peel Sessions)](https://www.youtube.com/watch?v=9okbA3gWP1Y)
+- [Down in the Park (BBC Peel Sessions)](https://www.youtube.com/watch?v=Wdl5--cSVe8)
+- [I Nearly Married a Human (BBC Peel Sessions)](https://www.youtube.com/watch?v=NTMKk8GrN4M)
 
 ## Release Images
 {{< imageGrid >}}
@@ -90,4 +110,4 @@ styles: ["New Wave"]
 | Label          | Beggars Banquet |
 | Catalog Number | BBQ2159LP |
 | Notes | 40th Anniversary Edition  Signed copies available at gigs two weeks prior to official release   ℗ & © 2019 Beggars Banquet, The Arkive  Side One / Two / Three Recorded at Gooseberry Sound Studios London except Down In The Park [Outtake Mix] Recorded at Marcus Music AB London. Side Four Recorded at BBC Maida Vale Studios London. |
-| Discogs URL    | [Gary Numan - Replicas (The First Recordings)](https://www.discogs.com/release/14258114-Gary-Numan--Tubeway-Army-Replicas-The-First-Recordings) |
+| Discogs URL    | [Gary Numan - Replicas (The First Recordings)](https://www.discogs.com/release/14258114-Gary-Numan-Tubeway-Army-Replicas-The-First-Recordings) |

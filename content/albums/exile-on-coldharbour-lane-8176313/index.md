@@ -13,17 +13,17 @@ cover:
     caption: "Exile On Coldharbour Lane by Alabama 3"
 additional_images:
     - "https://i.discogs.com/-j9_bNTTknROdCwZ5sHk8oeHHX7X9uKkv3Eu88hBrR0/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgxNzYz/MTMtMTQ1NjU3OTIw/NC0xMDgxLmpwZWc.jpeg"
-    - "https://i.discogs.com/x4wq6bDiG68G6SwU4zRPLVaY0RRzixIKRj5-DgmjkhA/rs:fit/g:sm/q:90/h:605/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgxNzYz/MTMtMTY2NzgyNTQ1/NS0yMjA1LmpwZWc.jpeg"
+    - "https://i.discogs.com/vK7wg0ee9GFvNW4SZiwXbHsRo9I-z_oPWi0R3vsemSQ/rs:fit/g:sm/q:90/h:600/w:594/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgxNzYz/MTMtMTY2NzgyNTQ1/NS0yMjA1LmpwZWc.jpeg"
     - "https://i.discogs.com/sO9OvVE2-MZEt8y0694kiUAzM5KZWyNYBk_dz8XLlKk/rs:fit/g:sm/q:90/h:580/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgxNzYz/MTMtMTY2NzgyNTQ1/Ni0xOTMzLmpwZWc.jpeg"
-    - "https://i.discogs.com/2__1-ZHu0Us2cYxsFTkDVRSfUUpcscLggcN0bzrBapo/rs:fit/g:sm/q:90/h:608/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgxNzYz/MTMtMTY2NzgyNTQ1/Ny02MTY0LmpwZWc.jpeg"
-    - "https://i.discogs.com/RJIN3DoRsedpgU7XsLmENfhw-ygEPMY8LEMGR50zFD4/rs:fit/g:sm/q:90/h:619/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgxNzYz/MTMtMTY2NzgyNTQ1/Ni0yMzk0LmpwZWc.jpeg"
+    - "https://i.discogs.com/z4ANsyY3Doe5nzjbK0SkF7FrrlUGbIJD8wAiluPhblE/rs:fit/g:sm/q:90/h:600/w:591/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgxNzYz/MTMtMTY2NzgyNTQ1/Ny02MTY0LmpwZWc.jpeg"
+    - "https://i.discogs.com/6zgjvJPPzHuAdpNt5jzrOIDNBdhRWD1ctts43lGHgiU/rs:fit/g:sm/q:90/h:600/w:581/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgxNzYz/MTMtMTY2NzgyNTQ1/Ni0yMzk0LmpwZWc.jpeg"
     - "https://i.discogs.com/DkDyksWuAJQxbW09OXlNQl8MEw0bLWSzwRLYOeyDVnQ/rs:fit/g:sm/q:90/h:308/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgxNzYz/MTMtMTY2NzgyNTQ1/NS01Mjk3LmpwZWc.jpeg"
     - "https://i.discogs.com/L1w0g6xnnKudlb_p2ZVtfI9hJeoJIDcPUntingY3dqo/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgxNzYz/MTMtMTQ1NjU3OTIx/Ni0zODAzLmpwZWc.jpeg"
 genres: ["Electronic", "Blues", "Folk, World, & Country"]
 styles: ["Techno", "Acid House"]
 ---
 
-Exile on Coldharbour Lane is the debut album by Alabama 3, released on 11 November 1997 on One Little Indian and Geffen. The name and cover are references to Exile on Main St. by The Rolling Stones and Coldharbour Lane a major street in Brixton, South London best known for containing several after-hours clubs and not a few drug dealers. Recording sessions took place from March to June 1997. Upon its release, the album received favorable reviews, including an 8.9 review from Pitchfork Media. Exile on Coldharbour Lane did not chart on any album charts in the United States. The song "Sister Rosetta" was featured in the film Barnyard. "Woke Up This Morning" is best known as the opening theme music for the television series,  The Sopranos, which used the "Chosen One Mix" of that song.
+Exile on Coldharbour Lane is the debut album by Alabama 3, released on 11 November 1997 on One Little Indian and Geffen. The name and cover are references to Exile on Main St. by The Rolling Stones and Coldharbour Lane a major street in Brixton, South London best known for containing several after-hours clubs and not a few drug dealers. Recording sessions took place from March to June 1997. Exile on Coldharbour Lane did not chart on any album charts in the United States. The song "Sister Rosetta" was featured in the film Barnyard. "Woke Up This Morning" is best known as the opening theme music for the television series,  The Sopranos, which used the "Chosen One Mix" of that song. "Woke Up This Morning" was later sampled by Nas on "Got Ur Self A..." from the album Stillmatic.
 
 
     
@@ -45,7 +45,7 @@ Exile on Coldharbour Lane is the debut album by Alabama 3, released on 11 Novemb
 12. Peace In The Valley (5:47)
 
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/exile-on-coldharbour-lane/1554839307" >}}<br>
+{{< applemusic url="https://music.apple.com/gb/album/exile-on-coldharbour-lane/1726659308" >}}<br>
 
 
 ## Videos
@@ -65,6 +65,10 @@ Exile on Coldharbour Lane is the debut album by Alabama 3, released on 11 Novemb
 - [SISTER ROSETTA By Alabama 3](https://www.youtube.com/watch?v=Qqh_685QJQ8)
 - [Alabama 3 - Peace In The Valley (Full Album Version).wmv](https://www.youtube.com/watch?v=5l8CTAZCv7w)
 - [[The Sopranos] Alabama 3 - Woke Up This Morning - lyrics](https://www.youtube.com/watch?v=nW3LikcBL68)
+- [Acid Symphonique 1](https://www.youtube.com/watch?v=EnIrYBrKsF4)
+- [Acid Symphonique 2](https://www.youtube.com/watch?v=Uyqia2noIKU)
+- [Acid Symphonique 3](https://www.youtube.com/watch?v=FhMB4s64zKU)
+- [Acid Symphonique 4](https://www.youtube.com/watch?v=PzcL0u9viSw)
 
 ## Release Images
 {{< imageGrid >}}

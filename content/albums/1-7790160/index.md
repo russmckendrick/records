@@ -4,6 +4,7 @@ artist_name: "The Beatles"
 artist: "the-beatles"
 album_name: "1"
 date: 2015-12-04T17:51:13.000000Z
+release_date: "1968-11-22"
 release_id: "7790160"
 slug: "1-7790160"
 hideSummary: true
@@ -22,20 +23,23 @@ additional_images:
     - "https://i.discogs.com/ctWt31ST2CR3NT4SD-Ibte9EGlH3jVQGaihbwCD5tNQ/rs:fit/g:sm/q:90/h:591/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc3OTAx/NjAtMTUwMDU1NjQx/MS01MjY2LmpwZWc.jpeg"
     - "https://i.discogs.com/sRymJVJLqW-mdqR_OXKFp569knZYn2hLkWP7p0KkeZs/rs:fit/g:sm/q:90/h:593/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc3OTAx/NjAtMTUwMDU1NjQz/NC00NDQwLmpwZWc.jpeg"
     - "https://i.discogs.com/GoNNuiW3Ehf3tJ3uGfT47J-RojJp_vv7f4qxeKAOZXk/rs:fit/g:sm/q:90/h:593/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc3OTAx/NjAtMTUwMDU1NjQw/Ni00NDMxLmpwZWc.jpeg"
-    - "https://i.discogs.com/hRywKZdbu-gKLyGervffcs2ez2S4rbAYlTFRQ3kteTk/rs:fit/g:sm/q:90/h:800/w:593/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc3OTAx/NjAtMTQ1MjQ0NTAw/MC0yMjQwLmpwZWc.jpeg"
-    - "https://i.discogs.com/WyWxwgxXQaNefsooNtgdH2nuAU0Df8xOX6_P2-8RtcU/rs:fit/g:sm/q:90/h:800/w:595/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc3OTAx/NjAtMTQ1MjQ0NDk5/Ni02NjA2LmpwZWc.jpeg"
-    - "https://i.discogs.com/OiKME3i6KQB1ub0jDDx3Toqip3H0ahMlsRMimRh-yuk/rs:fit/g:sm/q:90/h:800/w:593/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc3OTAx/NjAtMTQ1MjQ0NDk5/OC0yMjAzLmpwZWc.jpeg"
-    - "https://i.discogs.com/Sr3lK3Av_G9C1nrC0M17KBbivpx9wtrYGvDIWQ53ZHo/rs:fit/g:sm/q:90/h:800/w:593/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc3OTAx/NjAtMTQ1MjQ0NDk5/OC02NjA2LmpwZWc.jpeg"
-    - "https://i.discogs.com/zvp3ecugi22ZphLzQB7OlBfsw_k0XQeOI1PkW6X78hE/rs:fit/g:sm/q:90/h:898/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc3OTAx/NjAtMTUwMDU1NjQ0/Ni03ODc2LmpwZWc.jpeg"
+    - "https://i.discogs.com/d_M7WE8XSFpTl_KMZQG630BJnanL7R8W2QJYlABAnBc/rs:fit/g:sm/q:90/h:600/w:444/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc3OTAx/NjAtMTQ1MjQ0NTAw/MC0yMjQwLmpwZWc.jpeg"
+    - "https://i.discogs.com/O_H2ormX_AGXSfZNZBCsSXY2vEQ2pD4Hg7XU5Y_y2QA/rs:fit/g:sm/q:90/h:600/w:446/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc3OTAx/NjAtMTQ1MjQ0NDk5/Ni02NjA2LmpwZWc.jpeg"
+    - "https://i.discogs.com/n1hkvGRfnWpdmhIxOzbi4tA7LGFazAV8dHr39WpFlb0/rs:fit/g:sm/q:90/h:600/w:444/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc3OTAx/NjAtMTQ1MjQ0NDk5/OC0yMjAzLmpwZWc.jpeg"
+    - "https://i.discogs.com/2g4iNX2z4RPpyL6mf1bUpIFgcqVUVaRXcpN8lv2cHAc/rs:fit/g:sm/q:90/h:600/w:444/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc3OTAx/NjAtMTQ1MjQ0NDk5/OC02NjA2LmpwZWc.jpeg"
+    - "https://i.discogs.com/Z2_ppNuejiAt82UBHyOTG2JyNn1RTadCuXTszw-JtZw/rs:fit/g:sm/q:90/h:600/w:400/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc3OTAx/NjAtMTUwMDU1NjQ0/Ni03ODc2LmpwZWc.jpeg"
     - "https://i.discogs.com/TW6i-5nmGDbzv2_yxKgREPfGhqWX44VzNVuVNYO9MsE/rs:fit/g:sm/q:90/h:450/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc3OTAx/NjAtMTYwMzkxOTI1/Ni03MDAwLmpwZWc.jpeg"
+    - "https://i.discogs.com/WaCHSXTQh9YhgmERwwRsEimeNus7LILNYKD15JbDj-Y/rs:fit/g:sm/q:90/h:600/w:450/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc3OTAx/NjAtMTcwMTY5NTQ5/OC05NTc4LmpwZWc.jpeg"
 genres: ["Rock"]
 styles: ["Pop Rock"]
 ---
 
-1 is a compilation album of the English rock band the Beatles, originally released on 13 November 2000. The album features virtually every number-one single the band achieved in the United Kingdom or United States from 1962 to 1970. Issued on the 30th anniversary of the band's break-up, it was their first compilation available on only one CD. 1 was a commercial success and topped charts worldwide. It has sold over 31 million copies.Since Nielsen SoundScan began tracking US album sales in January 1991, 1 is the fourth best-selling album in the US, the best-selling album of the 2000s decade in the US, as well as the best-selling album of the decade worldwide.
-1 was remastered and reissued in September 2011. It was remixed and reissued again in several different deluxe editions in November 2015, the most comprehensive of which is a three-disc set entitled 1+, which includes video discs of Beatles promotional films.
-As of June 2015, 1 was the sixth best-selling album of the 21st century in the UK, having sold over 3.1 million copies.
-    
+1 is a greatest hits album of the English rock band the Beatles, originally released on 13 November 2000. The album features virtually every number-one single the band achieved in the United Kingdom or United States from 1962 to 1970. Issued on the 30th anniversary of the band's break-up, it was their first compilation album available on only one CD. 1 was a commercial success and topped charts worldwide. It has sold over 31 million copies. Since Nielsen SoundScan began tracking US album sales in January 1991, 1 is the fourth-best-selling album in the US, the best-selling album of the 2000s decade in the US, as well as the best-selling album of the decade worldwide.
+1 was remastered and reissued in September 2011. It was remixed and reissued again in several different deluxe editions in November 2015, the most comprehensive of which is a three-disc set entitled 1+, which includes video discs of Beatles promotional films. As of June 2015, 1 was the sixth-best-selling album of the 21st century in the UK, having sold over 3.1 million copies.
+
+
+        
+        
     
 
 
@@ -69,7 +73,7 @@ As of June 2015, 1 was the sixth best-selling album of the 21st century in the U
 27. The Long And Winding Road (3:35)
 
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/1/1440833098" >}}<br>
+{{< applemusic url="https://music.apple.com/gb/album/the-beatles-the-white-album/1441133180" >}}<br>
 
 
 

@@ -18,17 +18,15 @@ additional_images:
     - "https://i.discogs.com/JA6oblc_vK_mqqoN3lKBuAshDWFwSkrHLfgT1giCfDM/rs:fit/g:sm/q:90/h:444/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NTM0/NzYyLTE2NTA4MTA4/ODktNDE5MS5qcGVn.jpeg"
     - "https://i.discogs.com/Ci0_I2cjg8h-y9whzhuViUfHGSkM2b036yCzfm0OR4U/rs:fit/g:sm/q:90/h:582/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NTM0/NzYyLTE2NTA4MTA4/OTAtNjQ3MS5qcGVn.jpeg"
     - "https://i.discogs.com/E_9Nu-jHkyf89zj-JGJ3npB6XVzE5UzVHKCjDl8_8QE/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NTM0/NzYyLTE2NTA4MTA4/OTItODQwMC5qcGVn.jpeg"
-    - "https://i.discogs.com/8_reRuoMre2I23MGRR_HMJb4k_bLrHkjIfT9EcuqR74/rs:fit/g:sm/q:90/h:603/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NTM0/NzYyLTE2NTA4MTA4/OTUtODMwNS5qcGVn.jpeg"
+    - "https://i.discogs.com/gWB6nhlXQ_x6Ckem8Nqzj5mhIF3eVW2VWH_-sByQ1ZQ/rs:fit/g:sm/q:90/h:600/w:596/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NTM0/NzYyLTE2NTA4MTA4/OTUtODMwNS5qcGVn.jpeg"
     - "https://i.discogs.com/05xZXFdNQ0kL6-fzh3JxQh3F8mb9xOp34jcsvjU612o/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NTM0/NzYyLTE2NTA4MTA4/OTctODE3OS5qcGVn.jpeg"
     - "https://i.discogs.com/XoqryXx23hVLi86Pu9DRA4-KZvx4hU4AFyZwSTPWh8w/rs:fit/g:sm/q:90/h:583/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NTM0/NzYyLTE2NTA4MTA5/MDAtNTAxNy5qcGVn.jpeg"
-    - "https://i.discogs.com/_PvqmNVCR1TJS3vyYMQ6FwIJJVMwGealHW5AejEa9aM/rs:fit/g:sm/q:90/h:602/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NTM0/NzYyLTE2NTA4MTA5/MDQtOTU2NS5qcGVn.jpeg"
+    - "https://i.discogs.com/Rso5Ebt0vPzamIgCf6sTi5ohC_PQaIhnvRZQihi0l0Q/rs:fit/g:sm/q:90/h:600/w:597/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NTM0/NzYyLTE2NTA4MTA5/MDQtOTU2NS5qcGVn.jpeg"
 genres: ["Electronic", "Hip Hop", "Rock"]
 styles: ["Breakbeat", "Leftfield", "Punk", "Hardcore"]
 ---
 
 Some Old Bullshit, also known as Some Old B******t, is a compilation album by the rap rock trio Beastie Boys released in February 8, 1994. It compiles several of their early EPs, recorded in the early 1980s. These recordings present a sound radically different from that of the hip-hop sound generally associated with the band. Instead, these songs represent the band's part in the early New York hardcore scene. The album also features taped segments originally heard on Noise The Show, a popular hardcore radio show on WNYU in New York that played early recordings from Beastie Boys.  These segments feature the hyperbolic introductions of Noise The Show's host, Tim Sommer, an early supporter of the band.
-
-
     
     
 

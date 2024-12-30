@@ -15,12 +15,17 @@ additional_images:
     - "https://i.discogs.com/AUjywK7mCypQlosCaUtyH71oXNsoE8-VtQA1CBV_N5E/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNDUy/Nzc2LTE1MzU2NTgy/NzktNzc5Mi5qcGVn.jpeg"
     - "https://i.discogs.com/Iq8mNk2kupSG-HjhKmnAdAQfVZCP3qrfbiGmZX-Chbw/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNDUy/Nzc2LTE1MzU4Mjk1/NTktNjU4My5qcGVn.jpeg"
     - "https://i.discogs.com/FJu91Dds7gzCkhm7buts-aj1rK8WXJOkxPQVccoEntE/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNDUy/Nzc2LTE1MzU4Mjk1/NjQtNzA3MS5qcGVn.jpeg"
-    - "https://i.discogs.com/yYkLHbhsCSh6_dSv67K8u8poxwMEkPvQzIz7-_43UxM/rs:fit/g:sm/q:90/h:622/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNDUy/Nzc2LTE1MzU4Mjk1/NjktOTAzMS5qcGVn.jpeg"
+    - "https://i.discogs.com/ZkfLGuIp2cyW1oDQ7nN8mJNz0EPWCSPAK15OTtpwSSo/rs:fit/g:sm/q:90/h:600/w:578/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNDUy/Nzc2LTE1MzU4Mjk1/NjktOTAzMS5qcGVn.jpeg"
     - "https://i.discogs.com/QRXwfu7yxu9nMKxIosjsfoqYbkERCqFN8bD1QkxDp6Y/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNDUy/Nzc2LTE1MzU4Mjk1/NTItNTY0Mi5qcGVn.jpeg"
 genres: ["Electronic", "Pop"]
 styles: ["Synth-pop"]
 ---
 
+Behaviour (released as Behavior in the United States) is the fourth studio album by the English synth-pop duo Pet Shop Boys, released on 22 October 1990 by Parlophone. A Japanese special edition included a bonus mini CD, exclusive artwork and printed lyrics in a white velvet-like box.
+
+
+    
+    
 
 
 ## Tracklisting
@@ -36,34 +41,13 @@ styles: ["Synth-pop"]
 10. Jealousy (4:47)
 
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/behaviour-further-listening-1990-1991-deluxe-edition/1393146587" >}}<br>
+{{< applemusic url="https://music.apple.com/gb/album/behaviour-2018-remaster/1645126133" >}}<br>
 
 
 ## Videos
-### Pet Shop Boys - So Hard
-{{< youtube id="jFAA6Z_YIEM" title="Pet Shop Boys - So Hard" >}}<br>
-### More Videos
+### PET SHOP BOYS  - BEHAVIOUR (FULL ALBUM)
+{{< youtube id="iQAiRNeZMYg" title="PET SHOP BOYS  - BEHAVIOUR (FULL ALBUM)" >}}<br>
 
-- [PET SHOP BOYS  - BEHAVIOUR (FULL ALBUM)](https://www.youtube.com/watch?v=iQAiRNeZMYg)
-- [Pet Shop Boys - So Hard (Extended Version) (HD)](https://www.youtube.com/watch?v=DJh1tQMwIRI)
-- [Pet Shop Boys – Behaviour vinyl](https://www.youtube.com/watch?v=V3CdCAVf9GI)
-- [Pet Shop Boys - Being Boring](https://www.youtube.com/watch?v=DnvFOaBoieE)
-- [Pet Shop Boys - Behaviour (Full Album)](https://www.youtube.com/watch?v=fNxBB3LQ3Gc)
-- [Pet Shop Boys - How Can You Expect To Be Taken Seriously?](https://www.youtube.com/watch?v=1hk2x_0pEhI)
-- [Pet Shop Boys: Behaviour Interview - 1990.](https://www.youtube.com/watch?v=F6tMI5qTYzM)
-- [Pet Shop Boys - Jealousy](https://www.youtube.com/watch?v=chq885RKXAI)
-- [Pet Shop Boys - This Must Be The Place I Waited Years To Leave (Official Audio)](https://www.youtube.com/watch?v=C7kkjPDryFM)
-- [Pet Shop Boys - Where The Streets Have No Name (I Can't Take My Eyes Off You)](https://www.youtube.com/watch?v=Jt2j79pca7c)
-- [Pet Shop Boys - My October Symphony (Official Audio)](https://www.youtube.com/watch?v=yTgrMRV2qGA)
-- [Pet Shop Boys Behaviour. TV advert (December 1990)](https://www.youtube.com/watch?v=SiEdbJ8cRzY)
-- [Pet Shop Boys - So Hard (Extended Dance Mix)](https://www.youtube.com/watch?v=ojgNCMFO3KM)
-- [Pet Shop Boys - To Face The Truth (Official Audio)](https://www.youtube.com/watch?v=-vR4NdpdFZI)
-- [Pet Shop Boys - So Hard on Wogan 28/09/1990](https://www.youtube.com/watch?v=2iBJAutBfWI)
-- [The End of the World (2018 Remaster)](https://www.youtube.com/watch?v=mT58mvfq4oo)
-- [Pet Shop Boys - So Hard (live) 1991 [HD]](https://www.youtube.com/watch?v=aQEV5tVZQpM)
-- [Pet Shop Boys - So Hard on Top of the Pops 04/10/1990](https://www.youtube.com/watch?v=SJqBqVTzyjo)
-- [Pet Shop Boys - So Hard (Performance Live 91) [4K]](https://www.youtube.com/watch?v=pOqFIrqE1Uc)
-- [PET SHOP BOYS **SO HARD**](https://www.youtube.com/watch?v=ca6XV9z83o0)
 
 ## Release Images
 {{< imageGrid >}}
@@ -71,6 +55,7 @@ styles: ["Synth-pop"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
+| Wikipedia URL | https://en.wikipedia.org/wiki/Behaviour_(Pet_Shop_Boys_album) |
 | Format         | Vinyl LP Album Reissue Remastered (180g) |
 | Label          | Parlophone |
 | Catalog Number | 0190295821746 |

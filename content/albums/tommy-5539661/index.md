@@ -4,6 +4,7 @@ artist_name: "The Who"
 artist: "the-who"
 album_name: "Tommy"
 date: 2017-02-26T13:07:08.000000Z
+release_date: "1969-05-23"
 release_id: "5539661"
 slug: "tommy-5539661"
 hideSummary: true
@@ -13,18 +14,21 @@ cover:
     caption: "Tommy by The Who"
 additional_images:
     - "https://i.discogs.com/xbGjf8W4453a0pQAW03gVuPjyUMUXwVecbz8e4mUBSk/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU1Mzk2/NjEtMTQ1OTM2OTcw/OS0yMTQ2LmpwZWc.jpeg"
-    - "https://i.discogs.com/_dUYntoaqXkcPGe-_vkw6aLm9pAPslnFQ03A2GaVvvI/rs:fit/g:sm/q:90/h:601/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU1Mzk2/NjEtMTYwNzIwNjQ5/My05NjUwLmpwZWc.jpeg"
-    - "https://i.discogs.com/lGGjTH71wXf6iCOIPEfFUvcfcAHFqoAw6jh3iuch6Qs/rs:fit/g:sm/q:90/h:602/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU1Mzk2/NjEtMTYwNzIwNjQ5/My0zNjA2LmpwZWc.jpeg"
-    - "https://i.discogs.com/Z4kVydh-8x1d0i8fQJkb5_UeKd2C0dfKPpqTGG22jKg/rs:fit/g:sm/q:90/h:603/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU1Mzk2/NjEtMTYwNzIwNjQ5/My01ODY0LmpwZWc.jpeg"
+    - "https://i.discogs.com/ef4IDX84cbjK23DES2kevKMT9MEj-2XcVIVKJxkLEJg/rs:fit/g:sm/q:90/h:600/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU1Mzk2/NjEtMTYwNzIwNjQ5/My05NjUwLmpwZWc.jpeg"
+    - "https://i.discogs.com/qZlphEve6CuvuHSajJCohpvIgYD_KqQJ34itnpe5h40/rs:fit/g:sm/q:90/h:600/w:597/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU1Mzk2/NjEtMTYwNzIwNjQ5/My0zNjA2LmpwZWc.jpeg"
+    - "https://i.discogs.com/g1linxzFM8LIhLcdM22C3qlhzzgT777D7gv-xunjgg0/rs:fit/g:sm/q:90/h:600/w:596/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU1Mzk2/NjEtMTYwNzIwNjQ5/My01ODY0LmpwZWc.jpeg"
     - "https://i.discogs.com/Vn7QMP0We64Q3TMWESFEBxAUOYS3wda5czU6P_XQHuA/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU1Mzk2/NjEtMTYwNzIwNjQ5/My04MjUxLmpwZWc.jpeg"
 genres: ["Rock"]
 styles: ["Classic Rock"]
 ---
 
-Tommy is the fourth studio album by the English rock band The Who, a double album first released on 17 May 1969. The album was mostly composed by guitarist Pete Townshend, and is a rock opera that tells the story of Tommy Walker. Tommy is traumatized from witnessing his father murder his mother's lover. Tommy's parents compound his trauma by denying the experience. In reaction, Tommy becomes dissociative ("deaf, dumb and blind"). Tommy then experiences the trauma of being sexually abused. As a way of coping with his trauma, Tommy dissociates further through playing pinball. He gains a following because of his skill at playing pinball. After numerous misguided attempts to heal Tommy, a doctor prescribes him a mirror so he can confront himself and his experience. Instead, Tommy becomes self-absorbed and comes to think of himself as a messianic figure. When the mirror is eventually broken, Tommy comes out of his dissociative state. Tommy then tries to lead his followers to believe that the only path to healing is through him.  His followers eventually reject him and his teachings.
-Townshend came up with the concept of Tommy after being introduced to the work of Meher Baba, and attempted to translate Baba's teachings into music. Recording on the album began in September 1968, but took six months to complete as material needed to be arranged and re-recorded in the studio. Tommy was acclaimed upon its release by critics, who hailed it as The Who's breakthrough. Its critical standing diminished slightly in later years; nonetheless, several writers view it as an important and influential album in the history of rock music. The Who promoted the album's release with an extensive tour, including a live version of Tommy, which lasted throughout 1969 and 1970. Key gigs from the tour included appearances at Woodstock, the 1969 Isle of Wight Festival, the University of Leeds, the Metropolitan Opera House, and the 1970 Isle of Wight Festival. The live performances of Tommy drew critical praise and revitalized the band's career.
-Subsequently, the rock opera developed into other media, including a Seattle Opera production in 1971, an orchestral version by Lou Reizner in 1972, a film in 1975, and a Broadway musical in 1992. The original album has sold 20 million copies and has been inducted into the Grammy Hall of Fame. It has been reissued several times on CD, including a remix by Jon Astley in 1996, a deluxe Super Audio CD in 2003, and a super deluxe box set in 2013, including previously unreleased demos and live material.
-    
+Though the rock songs on 1967’s <i>The Who Sell Out</i> had done well, Pete Townshend was increasingly bored by the idea of being a singles band—by making records just meant to earn radio play. Before that record’s release, he’d started to absorb the teachings of Indian spiritual leader Meher Baba, whose classic <i>God Speaks</i> Townshend read after a friend told him that many of Baba’s teachings foreshadowed several of the songwriter’s own ideas. “Each theory that I had expounded, many to do with reincarnation and its inevitability when considered in the light of law of averages, were summed up in one sentence,” Townshend eventually wrote in <i>Rolling Stone</i>. “What was so sneaky about the whole affair was the way Baba crept into my life.”
+
+And, of course, his art. Townshend soon began devising a story of spiritual evolution, about a kid coming out of tough domestic circumstances in post-war Britain, only to become something of a spiritual superstar. That story would be told in 1969’s <i>Tommy</i>, one of rock ’n’ roll’s most accomplished early concept albums—apologies to <i>Sgt. Pepper’s</i>—and a fascinating, if fractured, mirror of Townshend’s own life and those of many of his rock peers. This was, as the band members admitted, Townshend’s trip—but they became fascinated by his idea, and essentially cheered him along. <i>Tommy</i> sprawls across four full sides, its 74 minutes and 24 overdub-heavy tracks moving from acoustic beauty to heavy soul, from Merseybeat charm to menacing proto-punk. Despite some cynical reviews, the album immediately expanded the rock lexicon and established The Who as its most audacious and eccentric big band.
+
+So much of <i>Tommy</i>’s staying power derives from The Who’s ability to walk the line between complicated concept and compulsive songs: Parts repeat, and the plot twists in ways that can sometimes be difficult to follow. But most of these tunes stand on their own. “Pinball Wizard” (in which Tommy’s secret talent is revealed) and “I’m Free” (in which Tommy’s quest to become a guru of sorts begins to bloom) would become two of The Who’s most enduring anthems. There’s also “Sally Simpson”, a folk-rock escapade that Crosby, Stills & Nash might have written, and “Sparks”, a prog miniature that builds to a mighty climax. Over the decades, <i>Tommy</i>’s scope and sound would fall in and out of favour, but the album remains an enduring affirmation that rock can serve as serious art, too—that there are brains behind the bands.
+        
+        
     
 
 
@@ -58,7 +62,13 @@ Subsequently, the rock opera developed into other media, including a Seattle Ope
 {{< applemusic url="https://music.apple.com/gb/album/tommy/1461210985" >}}<br>
 
 
+## Videos
+### Underture
+{{< youtube id="O1D9oPeGIgQ" title="Underture" >}}<br>
+### More Videos
 
+- [1921](https://www.youtube.com/watch?v=KfUpjZAEH9Y)
+- [The Who - Tommy -  1969 - Full Album - 5.1 surround (STEREO in)](https://www.youtube.com/watch?v=yK-sRSfiXLY)
 
 ## Release Images
 {{< imageGrid >}}

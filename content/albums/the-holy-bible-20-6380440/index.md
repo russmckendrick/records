@@ -18,7 +18,7 @@ genres: ["Rock"]
 styles: ["Alternative Rock"]
 ---
 
-In 1994, as Britpop’s bunting began to go up in London and Manchester, Manic Street Preachers relocated to Cardiff to make one of the decade’s most remarkable and outlying rock records. Released in the UK on the same day as Oasis’ <i>Definitely Maybe</i>, <i>The Holy Bible</i> is a harrowing expression of anguish, unshrinking and unromantic in its abyss-edge study of death, fascism, self-harm, and man’s capacity for atrocity. Its barbed, rigorous post-punk sound is given extra muscle by the superior US Mix on this deluxe edition, which also includes highlights of the band’s 1994 gig at London’s Astoria—lyricist and guitarist Richey Edwards’ final show before disappearing in February 1995.
+In 1994, as Britpop’s bunting began to go up in London and Manchester, Manic Street Preachers relocated to Cardiff to make one of the decade’s most remarkable and outlying rock records. Released in the UK on the same day as Oasis’ <i>Definitely Maybe</i>, <i>The Holy Bible</i> is a harrowing expression of anguish, unshrinking and unromantic in its abyss-edge study of death, fascism, self-harm and man’s capacity for atrocity. Its barbed, rigorous post-punk sound is given extra muscle by the superior US Mix on this deluxe edition, which also includes highlights of the band’s 1994 gig at London’s Astoria—lyricist and guitarist Richey Edwards’ final show before disappearing in February 1995.
     
     
 
@@ -104,24 +104,13 @@ In 1994, as Britpop’s bunting began to go up in London and Manchester, Manic S
 78. This Is Yesterday
 
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/the-holy-bible-20-remastered/942562485" >}}<br>
+{{< applemusic url="https://music.apple.com/gb/album/the-holy-bible-20-deluxe/939553917" >}}<br>
 
 
 ## Videos
-### Yes (Remastered)
-{{< youtube id="4ZNGdD0Hxss" title="Yes (Remastered)" >}}<br>
-### More Videos
+### Manic Street Preachers  - The Holy Bible (US Mix Full Album)
+{{< youtube id="O5kNAMNf724" title="Manic Street Preachers  - The Holy Bible (US Mix Full Album)" >}}<br>
 
-- [She Is Suffering (Remastered)](https://www.youtube.com/watch?v=KAVEIsZnnvM)
-- [Manic Street Preachers - The Holy Bible (Private Remaster) - 03 Of Walking Abortion](https://www.youtube.com/watch?v=SBmptf5tvZo)
-- [Mausoleum (Remastered)](https://www.youtube.com/watch?v=Ax4a8OXC4c4)
-- [Manic Street Preachers - The Holy Bible (Private Remaster) - 09 Faster](https://www.youtube.com/watch?v=Hp1N6YblCXg)
-- [Die in the Summertime (Remastered)](https://www.youtube.com/watch?v=jHtWXYXQzPs)
-- [Manic Street Preachers - The Holy Bible (Private Remaster) - 13 P.C.P.](https://www.youtube.com/watch?v=WypjUAa8xEM)
-- [This Is Yesterday (Remastered)](https://www.youtube.com/watch?v=GfJ1MIAJV6Y)
-- [Manic Street Preachers - The Holy Bible (Private Remaster) - 06 Revol](https://www.youtube.com/watch?v=dDBn62JWQps)
-- [Manic Street Preachers - The Holy Bible (Private Remaster) - 02 ifwhiteamericatoldthetruthforoneday](https://www.youtube.com/watch?v=IGI14Al5GS4)
-- [Manic Street Preachers - The Holy Bible (Private Remaster) - 01 Yes](https://www.youtube.com/watch?v=2dMTuV9Y2tk)
 
 ## Release Images
 {{< imageGrid >}}

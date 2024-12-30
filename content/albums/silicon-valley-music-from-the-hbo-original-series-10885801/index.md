@@ -15,8 +15,8 @@ additional_images:
     - "https://i.discogs.com/BKS1diLjY7tRmWEOGjZrPV4afD3iMDFkPLZUVz5nK5g/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwODg1/ODAxLTE1MDcwMjA0/MDAtOTc0My5qcGVn.jpeg"
     - "https://i.discogs.com/UpV8YzbA14hgxeFKY70RPo1Q_B8ZYJqYuo0JOPd2kjM/rs:fit/g:sm/q:90/h:264/w:368/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwODg1/ODAxLTE1MDU5NDEx/MDItNDYzMC5qcGVn.jpeg"
     - "https://i.discogs.com/6IA8xXtZNW9N4wIPZUeQxZ76MefUp7w8RN8IFzUgoYM/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwODg1/ODAxLTE1MTEwMjM3/MTctMTM0OC5qcGVn.jpeg"
-    - "https://i.discogs.com/FyOBaRtDbdwi48a38xKQYgVlK_hP51o-osYJZOclHEU/rs:fit/g:sm/q:90/h:855/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwODg1/ODAxLTE2MTY2MTQw/NDYtMzEzMS5qcGVn.jpeg"
-    - "https://i.discogs.com/PmQY8WMJdLuXbdOe0Nb2GTQexSbb3kvGzWuLhkbiZsE/rs:fit/g:sm/q:90/h:857/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwODg1/ODAxLTE2MTY2MTQw/NDQtNjMwMi5qcGVn.jpeg"
+    - "https://i.discogs.com/2afPPjg8LEDHTAVUZkC9Ht7MQHQmHubxfbaih4BqbQo/rs:fit/g:sm/q:90/h:600/w:420/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwODg1/ODAxLTE2MTY2MTQw/NDYtMzEzMS5qcGVn.jpeg"
+    - "https://i.discogs.com/n9s8myMVKqJSgAKir8hDoXSLEsw6Ok3TTHKrYGylzlw/rs:fit/g:sm/q:90/h:600/w:419/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwODg1/ODAxLTE2MTY2MTQw/NDQtNjMwMi5qcGVn.jpeg"
     - "https://i.discogs.com/xkKKkxEpZDthIoEhJcL9XsNNcyDJrG_X1HhWN8MMp4o/rs:fit/g:sm/q:90/h:575/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwODg1/ODAxLTE2MTY2MTQw/NDYtNDcxNi5qcGVn.jpeg"
     - "https://i.discogs.com/GHpImOjzNP8JnEPe4IxkBaQtbX0FUqK_ofcyd_OrPb4/rs:fit/g:sm/q:90/h:575/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwODg1/ODAxLTE2MTY2MTQw/NDYtNTIxMC5qcGVn.jpeg"
 genres: ["Electronic", "Hip Hop", "Stage & Screen"]
@@ -48,20 +48,30 @@ styles: ["Hip Hop", "Trap", "Soundtrack"]
 
 
 ## Videos
-### Wu-Tang Clan - Don't Stop (Explicit) 2017
-{{< youtube id="AohtHrfgiBo" title="Wu-Tang Clan - Don't Stop (Explicit) 2017" >}}<br>
+### Dr. Octogan - Blue Flowers (Vinyl Edition) (Digital Hardware Favorites)
+{{< youtube id="HL_fmIvfyCM" title="Dr. Octogan - Blue Flowers (Vinyl Edition) (Digital Hardware Favorites)" >}}<br>
 ### More Videos
 
-- [Dr. Octogan - Blue Flowers (Vinyl Edition) (Digital Hardware Favorites)](https://www.youtube.com/watch?v=HL_fmIvfyCM)
-- [Kool Aid - Danny Brown (Silicon Valley: The Soundtrack) [HQ Audio]](https://www.youtube.com/watch?v=VqQ4aR9hHHs)
-- [Phantom (Redux) - Shirt (Silicon Valley: The Soundtrack) [HQ Audio]](https://www.youtube.com/watch?v=TUP4KltUTDk)
-- [Fun House Pregnant Boy Feat. OG Swaggerdick & Grip Plyaz (Silicon Valley: The Soundtrack)](https://www.youtube.com/watch?v=c9FcwF66No8)
-- [You Came To Party - Too $hort x Meter Mobb (Silicon Valley: The Soundtrack) [HQ Audio]](https://www.youtube.com/watch?v=Cc8SAa-5XCE)
-- [BLOWN - Darnell Williams (Silicon Valley: The Soundtrack) [HQ Audio]](https://www.youtube.com/watch?v=VGYkoXfF-N8)
-- [Problem Child - Onyx (Silicon Valley: The Soundtrack) [HQ Audio]](https://www.youtube.com/watch?v=BwdG07eLU78)
-- [The Mule - E*Vax (Silicon Valley: The Soundtrack) [HQ Audio]](https://www.youtube.com/watch?v=GC_btK6oQI8)
+- ["Kool Aid" - Danny Brown (Silicon Valley: The Soundtrack) [HQ Audio]](https://www.youtube.com/watch?v=VqQ4aR9hHHs)
+- ["Phantom (Redux)" - Shirt (Silicon Valley: The Soundtrack) [HQ Audio]](https://www.youtube.com/watch?v=TUP4KltUTDk)
+- ["Fun House" Pregnant Boy Feat. OG Swaggerdick & Grip Plyaz (Silicon Valley: The Soundtrack)](https://www.youtube.com/watch?v=c9FcwF66No8)
+- ["You Came To Party" - Too $hort x Meter Mobb (Silicon Valley: The Soundtrack) [HQ Audio]](https://www.youtube.com/watch?v=Cc8SAa-5XCE)
+- ["BLOWN" - Darnell Williams (Silicon Valley: The Soundtrack) [HQ Audio]](https://www.youtube.com/watch?v=VGYkoXfF-N8)
+- ["Problem Child" - Onyx (Silicon Valley: The Soundtrack) [HQ Audio]](https://www.youtube.com/watch?v=BwdG07eLU78)
+- ["The Mule" - E*Vax (Silicon Valley: The Soundtrack) [HQ Audio]](https://www.youtube.com/watch?v=GC_btK6oQI8)
 - [On My Own](https://www.youtube.com/watch?v=K6JVAwpKNtw)
-- [Stretch Your Face - Tobacco Shirt (Silicon Valley: The Soundtrack) [HQ Audio]](https://www.youtube.com/watch?v=LfzRlnfl09Q)
+- ["Stretch Your Face" - Tobacco Shirt (Silicon Valley: The Soundtrack) [HQ Audio]](https://www.youtube.com/watch?v=LfzRlnfl09Q)
+- [Wu-Tang Clan - Don't Stop (Explicit) 2017](https://www.youtube.com/watch?v=AohtHrfgiBo)
+- [Dr. Octogan - Blue Flowers (Vinyl Edition) (Digital Hardware Favorites)](https://www.youtube.com/watch?v=HL_fmIvfyCM)
+- ["Kool Aid" - Danny Brown (Silicon Valley: The Soundtrack) [HQ Audio]](https://www.youtube.com/watch?v=VqQ4aR9hHHs)
+- ["Phantom (Redux)" - Shirt (Silicon Valley: The Soundtrack) [HQ Audio]](https://www.youtube.com/watch?v=TUP4KltUTDk)
+- ["Fun House" Pregnant Boy Feat. OG Swaggerdick & Grip Plyaz (Silicon Valley: The Soundtrack)](https://www.youtube.com/watch?v=c9FcwF66No8)
+- ["You Came To Party" - Too $hort x Meter Mobb (Silicon Valley: The Soundtrack) [HQ Audio]](https://www.youtube.com/watch?v=Cc8SAa-5XCE)
+- ["BLOWN" - Darnell Williams (Silicon Valley: The Soundtrack) [HQ Audio]](https://www.youtube.com/watch?v=VGYkoXfF-N8)
+- ["Problem Child" - Onyx (Silicon Valley: The Soundtrack) [HQ Audio]](https://www.youtube.com/watch?v=BwdG07eLU78)
+- ["The Mule" - E*Vax (Silicon Valley: The Soundtrack) [HQ Audio]](https://www.youtube.com/watch?v=GC_btK6oQI8)
+- [On My Own](https://www.youtube.com/watch?v=K6JVAwpKNtw)
+- ["Stretch Your Face" - Tobacco Shirt (Silicon Valley: The Soundtrack) [HQ Audio]](https://www.youtube.com/watch?v=LfzRlnfl09Q)
 
 ## Release Images
 {{< imageGrid >}}

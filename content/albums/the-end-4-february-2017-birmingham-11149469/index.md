@@ -55,7 +55,24 @@ styles: ["Heavy Metal"]
 
 
 
+## Videos
+### BLACK SABBATH  - "Paranoid" from The End (Live Video)
+{{< youtube id="pTHeY0-P4MY" title="BLACK SABBATH  - "Paranoid" from The End (Live Video)" >}}<br>
+### More Videos
 
+- [Black Sabbath The End Tour Full - Genting Arena - 4 February 2017 HD 1080p](https://www.youtube.com/watch?v=qd9J_Dg1K2M)
+- [Black Sabbath Live - Black Sabbath Final Gig 4th February 2017](https://www.youtube.com/watch?v=DMVKrS4G0co)
+- [Black Sabbath, Paranoid, LAST SONG ever, FINAL SHOW, 04-02-17, Birmingham](https://www.youtube.com/watch?v=wZmHfcZDeNs)
+- [Black Sabbath The End Tour Paranoid Live Final Show Birmingham 4th February 2017](https://www.youtube.com/watch?v=3CzGWBM3wOo)
+- [Black Sabbath "THE END" Last Night Highlights 4 Feb 2017](https://www.youtube.com/watch?v=FrRTDDNZILU)
+- [Black Sabbath - The End on 4th Feb 2017@ The Birmingham Genting Arena](https://www.youtube.com/watch?v=NG47mhsrRrQ)
+- [BLACK SABBATH  - "Paranoid" from The End (Live Video)](https://www.youtube.com/watch?v=pTHeY0-P4MY)
+- [Black Sabbath The End Tour Full - Genting Arena - 4 February 2017 HD 1080p](https://www.youtube.com/watch?v=qd9J_Dg1K2M)
+- [Black Sabbath Live - Black Sabbath Final Gig 4th February 2017](https://www.youtube.com/watch?v=DMVKrS4G0co)
+- [Black Sabbath, Paranoid, LAST SONG ever, FINAL SHOW, 04-02-17, Birmingham](https://www.youtube.com/watch?v=wZmHfcZDeNs)
+- [Black Sabbath The End Tour Paranoid Live Final Show Birmingham 4th February 2017](https://www.youtube.com/watch?v=3CzGWBM3wOo)
+- [Black Sabbath "THE END" Last Night Highlights 4 Feb 2017](https://www.youtube.com/watch?v=FrRTDDNZILU)
+- [Black Sabbath - The End on 4th Feb 2017@ The Birmingham Genting Arena](https://www.youtube.com/watch?v=NG47mhsrRrQ)
 
 ## Release Images
 {{< imageGrid >}}

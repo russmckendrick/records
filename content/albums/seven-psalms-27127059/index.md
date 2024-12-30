@@ -13,9 +13,16 @@ cover:
     alt: "Seven Psalms by Paul Simon"
     caption: "Seven Psalms by Paul Simon"
 additional_images:
-    - "https://i.discogs.com/3Zy4j-5fsZSaJO3Xfya1T8Z6k5T8pTrPaMcV0xyPIhM/rs:fit/g:sm/q:90/h:591/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3MTI3/MDU5LTE2ODQ1MDc2/MTEtODcyMC5wbmc.jpeg"
-    - "https://i.discogs.com/aS8UGMGl20hV03iYfVSXN_tOoojE8oEAz6TbI_sTbbE/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3MTI3/MDU5LTE2ODQ1MDc2/MTEtODczNy5wbmc.jpeg"
-genres: ["Folk, World, & Country"]
+    - "https://i.discogs.com/xCiPsO3oWoPUS9Qo4CparQ4pSkBpbDa1tapZaKVjmtI/rs:fit/g:sm/q:90/h:600/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3MTI3/MDU5LTE2OTAzNTg3/ODYtNTUxMy5qcGVn.jpeg"
+    - "https://i.discogs.com/LQRt4zAEl-AkNdeyIY77Bk6Mc7UWPQsEFFh67vQr6qs/rs:fit/g:sm/q:90/h:600/w:597/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3MTI3/MDU5LTE2OTAzNTg3/ODUtODI4My5qcGVn.jpeg"
+    - "https://i.discogs.com/KqTg0ihPGl4nmqvWJpBV8uvVKiZ3JArESRGvzftW-lc/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3MTI3/MDU5LTE2ODU0NzQ1/NTUtOTc0Mi5qcGVn.jpeg"
+    - "https://i.discogs.com/mZjvWCCiCatVhwgxdo5wvm0pXgJ_40xxuB7YTcGAHrA/rs:fit/g:sm/q:90/h:600/w:592/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3MTI3/MDU5LTE2ODU0NzQ1/NTgtNTcxOC5qcGVn.jpeg"
+    - "https://i.discogs.com/BN44bP5V9rfVXlXLyIQ8xQQPD-97GV88ErVSWNicvsY/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3MTI3/MDU5LTE2ODU0NzUy/NTMtNjMzNS5qcGVn.jpeg"
+    - "https://i.discogs.com/iiU0aMVxEB6H4E0qLJGmbVaJNgF2u6I9RHaAdVLZ6Fg/rs:fit/g:sm/q:90/h:600/w:572/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3MTI3/MDU5LTE2ODU0NzUy/NTItODk3NC5qcGVn.jpeg"
+    - "https://i.discogs.com/qrejFSiguq1Z4JmNmC5LTpKI3GTBwdBKxBi1dqI6D5c/rs:fit/g:sm/q:90/h:600/w:591/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3MTI3/MDU5LTE2ODU0NzUz/MjgtMjYzOS5qcGVn.jpeg"
+    - "https://i.discogs.com/H_yxp8r8_AA4jBbW0UBODsySQGynyp6RGMjRDiv9tAI/rs:fit/g:sm/q:90/h:600/w:586/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3MTI3/MDU5LTE2ODU0NzUz/MzgtNDUxMC5qcGVn.jpeg"
+    - "https://i.discogs.com/N0O_C7QIYy1xS8B03EHAvi8hGkOR13RdSWzkzceZSfs/rs:fit/g:sm/q:90/h:96/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3MTI3/MDU5LTE2ODU0NzM5/NzMtODQ5My5qcGVn.jpeg"
+genres: ["Pop", "Folk, World, & Country"]
 styles: []
 ---
 
@@ -38,7 +45,12 @@ Conceived of in a dream and sketched out during a series of pre-dawn sessions be
 {{< applemusic url="https://music.apple.com/gb/album/seven-psalms/1679077462" >}}<br>
 
 
+## Videos
+### Seven Psalms: The Lord / Love Is Like a Braid / My Professional Opinion / Your Forgiveness /...
+{{< youtube id="ANtntuDslnk" title="Seven Psalms: The Lord / Love Is Like a Braid / My Professional Opinion / Your Forgiveness /..." >}}<br>
+### More Videos
 
+- [Seven Psalms: The Lord / Love Is Like a Braid / My Professional Opinion / Your Forgiveness /...](https://www.youtube.com/watch?v=ANtntuDslnk)
 
 ## Release Images
 {{< imageGrid >}}
@@ -47,7 +59,8 @@ Conceived of in a dream and sketched out during a series of pre-dawn sessions be
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Seven_Psalms |
-| Format         | Vinyl LP Album |
+| Format         | Vinyl LP Album Stereo |
 | Label          | Owl Records (24) |
 | Catalog Number | 19658784901 |
+| Notes | Made in the EU.  Includes 4 page inlay folder with lyrics and credits.  ℗ and © 2023 Owl Records, under exclusive license to Sony Music Entertainment |
 | Discogs URL    | [Paul Simon - Seven Psalms](https://www.discogs.com/release/27127059-Paul-Simon-Seven-Psalms) |

@@ -14,7 +14,7 @@ cover:
 additional_images:
     - "https://i.discogs.com/RvjO9LACSeOjoY9OCztWuGw8QMiSmwy_r55R6xcOSg4/rs:fit/g:sm/q:90/h:592/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMjI4/NTE3LTE2Mzg2NDcy/MDctNzI4NS5qcGVn.jpeg"
     - "https://i.discogs.com/fE2TFDmKyNqNXQw_o9dYHPcvmYGlO5XtDIy3wRmlBak/rs:fit/g:sm/q:90/h:304/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMjI4/NTE3LTE2Mzg2NDcy/MDItODg4My5qcGVn.jpeg"
-    - "https://i.discogs.com/ZL4as-eBeDrJZzBKF2N6Mux7wcKDJpuNpv97vMa6PeM/rs:fit/g:sm/q:90/h:613/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMjI4/NTE3LTE2Mzg2NDcy/MDYtNTM5NC5qcGVn.jpeg"
+    - "https://i.discogs.com/1kb59y2O0d69ZSvwVHlEdrpWhbLkzwH1eUpQHf40EhU/rs:fit/g:sm/q:90/h:600/w:586/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMjI4/NTE3LTE2Mzg2NDcy/MDYtNTM5NC5qcGVn.jpeg"
     - "https://i.discogs.com/N1OIFNP3eUh_MRFLkNR6sTR70aw4RS1IV-2rtXpXkGE/rs:fit/g:sm/q:90/h:566/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMjI4/NTE3LTE2Mzg2NDcy/MDQtNzA3OS5qcGVn.jpeg"
     - "https://i.discogs.com/4C3-bFgQbs9GT4AgFhREJrS48yUjjHPu7-4cMGepKBs/rs:fit/g:sm/q:90/h:594/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMjI4/NTE3LTE2Mzg2NDcy/MDUtNDE2MS5qcGVn.jpeg"
     - "https://i.discogs.com/j9I_tgCDhUWR27XmzTY0TJ9orfS216I1lPgoNh14pJQ/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMjI4/NTE3LTE2Mzg2NDcy/MDUtOTYyNS5qcGVn.jpeg"
@@ -23,6 +23,11 @@ genres: ["Electronic", "Rock"]
 styles: ["Abstract"]
 ---
 
+The Puzzle and Snuggles are the nineteenth and the twentieth studio albums by Canadian metal musician Devin Townsend, released on his own label HevyDevy Records on December 3, 2021.
+
+
+    
+    
 
 
 ## Tracklisting
@@ -47,6 +52,8 @@ styles: ["Abstract"]
 19. The Puzzle
 20. Monuments Of Glitch
 
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/the-puzzle/1588444448" >}}<br>
 
 
 
@@ -57,6 +64,7 @@ styles: ["Abstract"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
+| Wikipedia URL | https://en.wikipedia.org/wiki/The_Puzzle_/_Snuggles |
 | Format         | Vinyl 2× LP Limited Edition (Red With Black Splatter, Gatefold, 180g) |
 | Label          | HevyDevy Records |
 | Catalog Number | HDR 0001007 |

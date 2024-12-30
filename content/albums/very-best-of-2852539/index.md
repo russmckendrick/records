@@ -15,20 +15,22 @@ additional_images:
     - "https://i.discogs.com/odIQTI-cfWHUhpADUTeVxO1smaI82Lp3A1rR6o47hjU/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4NTI1/MzktMTY0NDA5OTI0/My0xMzg1LmpwZWc.jpeg"
     - "https://i.discogs.com/U_goKp3lTsUMZxSaRcn2GBNa9b4-z9T5JYQ5RUeemO4/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4NTI1/MzktMTYyNDcyOTIy/NC03MjE2LmpwZWc.jpeg"
     - "https://i.discogs.com/22Kxy6bgQ6cOo-BdV2KZpjp1O0UxuKx4DTOpndbnXN4/rs:fit/g:sm/q:90/h:590/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4NTI1/MzktMTY1NzcxODA5/MS05MDQ2LmpwZWc.jpeg"
-    - "https://i.discogs.com/hmEKuBz_hc5DCY53Dk8q8ohrMapJedrYQKsRmQuBrYU/rs:fit/g:sm/q:90/h:601/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4NTI1/MzktMTY1NzcxODA5/MC03MDgyLmpwZWc.jpeg"
-    - "https://i.discogs.com/lZcdIJuHxezxuUNw2W5EXvA11UWSiMyyUJMlEj-jdyI/rs:fit/g:sm/q:90/h:604/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4NTI1/MzktMTY1NzcxODA5/MS0zNzExLmpwZWc.jpeg"
+    - "https://i.discogs.com/vY7qfUwujhqzg2fP_MKbNdeDMRkVxAzbiCT_nJd5p2A/rs:fit/g:sm/q:90/h:600/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4NTI1/MzktMTY1NzcxODA5/MC03MDgyLmpwZWc.jpeg"
+    - "https://i.discogs.com/TUaYtDvqJicMJkYoRGNpKbAIXc-fbOUx2VUqjAfCzQE/rs:fit/g:sm/q:90/h:600/w:595/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4NTI1/MzktMTY1NzcxODA5/MS0zNzExLmpwZWc.jpeg"
     - "https://i.discogs.com/U0eCXwp8Y_p9X3kBCAWyyijovudisCwUCRsavA-xguQ/rs:fit/g:sm/q:90/h:594/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4NTI1/MzktMTY1NzcxODA5/MC0zNDk2LmpwZWc.jpeg"
     - "https://i.discogs.com/1RHZJtDjxIBGAkZO83h6Y4TeTginuNe8x9AdpWBhbRs/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4NTI1/MzktMTY0NDA5OTI4/MC01MzQ2LmpwZWc.jpeg"
     - "https://i.discogs.com/zGFc-VvPS04U65Et9YT2gJ3g9wKU6k4vwjWVR3U1s08/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4NTI1/MzktMTY0NDA5OTI4/Ny03Nzg3LmpwZWc.jpeg"
     - "https://i.discogs.com/d0yUueWy5xIW6oT1MGZDCZ0rMnHORqra-rpDIAEDGlk/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4NTI1/MzktMTY0NDA5OTI5/NC0yNjIyLmpwZWc.jpeg"
     - "https://i.discogs.com/G-eGTsdMFSUs8ObrejCj1IkC2SPFdB5QctQO3ySbvHM/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4NTI1/MzktMTY0NDA5OTMw/Mi03OTU4LmpwZWc.jpeg"
-    - "https://i.discogs.com/8YTEcpX-KIUha9EHa-AHnhh-B8NsBxYYOkjbfQUTIE4/rs:fit/g:sm/q:90/h:1189/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4NTI1/MzktMTY1NzcxODA4/Mi04MDYyLmpwZWc.jpeg"
-    - "https://i.discogs.com/ksRXhGuqlmO5EEWThE7NnucSOTI4QtrTMkuet9yI3C8/rs:fit/g:sm/q:90/h:1188/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4NTI1/MzktMTY1NzcxODA3/OS04MjYxLmpwZWc.jpeg"
+    - "https://i.discogs.com/pK80r81A9x9QZBkdo4QbQcrsmG38BARkYGw-v6k2qfI/rs:fit/g:sm/q:90/h:600/w:302/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4NTI1/MzktMTY1NzcxODA4/Mi04MDYyLmpwZWc.jpeg"
+    - "https://i.discogs.com/isMzNPekRUeeh0lIzwE79AED_WVjoKGzXkYv1gZiaos/rs:fit/g:sm/q:90/h:600/w:303/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4NTI1/MzktMTY1NzcxODA3/OS04MjYxLmpwZWc.jpeg"
 genres: ["Rock"]
 styles: ["Alternative Rock"]
 ---
 
 Very Best of Morrissey is a compilation album by Morrissey, containing material he released during the 1980s and 1990s on EMI. It was released on 25 April 2011.
+
+
     
     
 
@@ -54,22 +56,17 @@ Very Best of Morrissey is a compilation album by Morrissey, containing material 
 18. Moonriver
 
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/the-very-best-of-morrissey-remastered/693149479" >}}<br>
+{{< applemusic url="https://music.apple.com/gb/album/louise-morrissey-the-very-best-of/302314237" >}}<br>
 
 
 ## Videos
-### Morrissey - Boxers - Vinyl
-{{< youtube id="CW6xl0oYWjc" title="Morrissey - Boxers - Vinyl" >}}<br>
+### Morrissey - The Last Of The Famous International Playboys
+{{< youtube id="Bk1wUKoXL20" title="Morrissey - The Last Of The Famous International Playboys" >}}<br>
 ### More Videos
 
-- [Morrissey - Glamorous Glue](https://www.youtube.com/watch?v=80sbKxPXzKw)
-- [Morrissey - The Last Of The Famous International Playboys](https://www.youtube.com/watch?v=Bk1wUKoXL20)
 - [Morrissey - Sunny](https://www.youtube.com/watch?v=wHqnBTZbuno)
-- [🔴 Morrissey ‎– Complete A Side [ Very Best Of LP 10th Anniversary ]](https://www.youtube.com/watch?v=vLNDN6ltNxQ)
 - [Morrissey - Boxers](https://www.youtube.com/watch?v=UANBdod8Nuk)
 - [Morrissey - My Love Life](https://www.youtube.com/watch?v=WiUZYLm3CqA)
-- [🔴 Morrissey ‎– Complete B Side [ Very Best Of LP 10th Anniversary ]](https://www.youtube.com/watch?v=5yUA2u0WUnc)
-- [🔴 Morrissey ‎– Complete C Side [ Very Best Of LP 10th Anniversary ]](https://www.youtube.com/watch?v=Xcu1Bs1PxSA)
 - [Morrissey - Tomorrow](https://www.youtube.com/watch?v=vDdQcfz6pbo)
 
 ## Release Images

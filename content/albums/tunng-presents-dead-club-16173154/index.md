@@ -35,7 +35,7 @@ styles: ["Folk Rock", "Folk", "Experimental", "Indie Pop"]
 12. Woman
 
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/tunng-presents-dead-club/1662910624" >}}<br>
+{{< applemusic url="https://music.apple.com/gb/album/tunng-presents-dead-club/1777827489" >}}<br>
 
 
 ## Videos

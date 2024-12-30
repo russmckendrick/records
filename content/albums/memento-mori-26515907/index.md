@@ -13,7 +13,6 @@ cover:
     alt: "Memento Mori by Depeche Mode"
     caption: "Memento Mori by Depeche Mode"
 additional_images:
-    - "https://i.discogs.com/VgEatc2CXzHvpdDmzxgk6WV4u-Wi3gUsmbKPqx5aKSI/rs:fit/g:sm/q:90/h:570/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NTE1/OTA3LTE2Nzk3NTcw/NzMtOTg5NC5qcGVn.jpeg"
     - "https://i.discogs.com/GAKIr3bhbhTDIBgAgVS4KkMVuFai3WbQX8JdjnDJmmc/rs:fit/g:sm/q:90/h:574/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NTE1/OTA3LTE2Nzk3NTU4/NjMtMjU0NC5qcGVn.jpeg"
     - "https://i.discogs.com/80KQIUPifwpc4PmQyL3J3NRHFu0e9IROXKBjA5mrAVk/rs:fit/g:sm/q:90/h:565/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NTE1/OTA3LTE2Nzk3NTU4/NjEtODk5MS5qcGVn.jpeg"
     - "https://i.discogs.com/sSWZYYdZd_i3SGkBVxch_0iiJxNhgCmF4rzkL1KAc98/rs:fit/g:sm/q:90/h:570/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NTE1/OTA3LTE2Nzk3NTU4/NjMtNTEyOC5qcGVn.jpeg"
@@ -21,22 +20,23 @@ additional_images:
     - "https://i.discogs.com/oVF2l5INqFlQKMSRtMYaLwsbFlW1XxNLoxlnr-Syuis/rs:fit/g:sm/q:90/h:569/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NTE1/OTA3LTE2Nzk3NTU4/NjQtOTU4MS5qcGVn.jpeg"
     - "https://i.discogs.com/VQ86ONwxZxgi01VNXfGY5Pn2JF8VDN8dLHV5JYeI4Vs/rs:fit/g:sm/q:90/h:573/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NTE1/OTA3LTE2Nzk3NTU4/NjUtODI1NS5qcGVn.jpeg"
     - "https://i.discogs.com/9ZpDzFVCH2iepm5Xytnpq1FeEGrUTpqN9_hxgfX_smE/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NTE1/OTA3LTE2Nzk3NTU4/NjUtMjgwMC5qcGVn.jpeg"
-    - "https://i.discogs.com/sUkwCnRltp49hwvKfc3cz9LLEuVhx92Ue6IoGfFb6Zo/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NTE1/OTA3LTE2Nzk3NTU4/NjQtMjAwNC5qcGVn.jpeg"
     - "https://i.discogs.com/UcRcia5A6tx5uRiLHXy8pdiqp9sEX23U9empixYazYw/rs:fit/g:sm/q:90/h:593/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NTE1/OTA3LTE2Nzk3NTU4/NjUtNzk3My5qcGVn.jpeg"
-    - "https://i.discogs.com/dsbDXIqCukKiaPgPKpKEUfEyYal3XVCQo9N5CY-FHaA/rs:fit/g:sm/q:90/h:592/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NTE1/OTA3LTE2Nzk3NTU4/NjUtOTY0Ny5qcGVn.jpeg"
     - "https://i.discogs.com/f0RjNVoH0kAoF_z99EcnZ_9tHGiqNgElLyvLBvsWydA/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NTE1/OTA3LTE2Nzk3NTU4/NjUtMjE2Ni5qcGVn.jpeg"
-    - "https://i.discogs.com/-AkbaHGhxuYb9YnsQfEpBNStHDzCCvhbsxe1WGFURXE/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NTE1/OTA3LTE2Nzk3NTU4/NjQtNzc4Mi5qcGVn.jpeg"
     - "https://i.discogs.com/1WwIJjm9V-9pkltDrD9VTZdmVCXk99kAAaWIUSdE7fI/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NTE1/OTA3LTE2Nzk3NTU4/NjUtMTI2OS5qcGVn.jpeg"
-    - "https://i.discogs.com/EkXI-vy5HfJ9sDtwoI71LOTABuq0_6Bk7xQslKBBcHM/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NTE1/OTA3LTE2Nzk3NTU4/NjEtMTUyMi5qcGVn.jpeg"
-    - "https://i.discogs.com/9oCZwmFOjgaCUkGUIDjfIva0nAKpGP_wXClq5HxPmOg/rs:fit/g:sm/q:90/h:464/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NTE1/OTA3LTE2Nzk3NTU4/NjUtOTkwNi5qcGVn.jpeg"
-    - "https://i.discogs.com/2yR4lGyYzGL4wFCs1RQzdRwNAVqb13zASDopCwGBK3U/rs:fit/g:sm/q:90/h:601/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NTE1/OTA3LTE2Nzk3NTU4/NjItNTczMi5qcGVn.jpeg"
+    - "https://i.discogs.com/j79tv4TCRLS41LNT5F3E7aB3wu7AtRWl1Bg5Ftd-Hjc/rs:fit/g:sm/q:90/h:600/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NTE1/OTA3LTE2Nzk3NTU4/NjItNTczMi5qcGVn.jpeg"
     - "https://i.discogs.com/B9rRzS6TrrF9yxaEjMYuIYJhn5ReGu7meYIUgc3gOww/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NTE1/OTA3LTE2Nzk3NTU4/NjUtNjI5MS5qcGVn.jpeg"
     - "https://i.discogs.com/a2aslM2BT_FVbyyypjCGIhV4-ezJWprl2Cge7srDUCU/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NTE1/OTA3LTE2Nzk3NTU4/NjQtMjg3NC5qcGVn.jpeg"
-    - "https://i.discogs.com/4gbL3aV81Lbm1jX4wXQw9Kgqo3YkJkzppLeRgKodgRw/rs:fit/g:sm/q:90/h:602/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NTE1/OTA3LTE2Nzk3NTU4/NjUtNDY0OC5qcGVn.jpeg"
+    - "https://i.discogs.com/Pu4rleJPuVqyXQGv9i7CVfoSnLJ7UIo-Ung56NImxZY/rs:fit/g:sm/q:90/h:600/w:597/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NTE1/OTA3LTE2Nzk3NTU4/NjUtNDY0OC5qcGVn.jpeg"
+    - "https://i.discogs.com/sUkwCnRltp49hwvKfc3cz9LLEuVhx92Ue6IoGfFb6Zo/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NTE1/OTA3LTE2Nzk3NTU4/NjQtMjAwNC5qcGVn.jpeg"
+    - "https://i.discogs.com/dsbDXIqCukKiaPgPKpKEUfEyYal3XVCQo9N5CY-FHaA/rs:fit/g:sm/q:90/h:592/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NTE1/OTA3LTE2Nzk3NTU4/NjUtOTY0Ny5qcGVn.jpeg"
+    - "https://i.discogs.com/-AkbaHGhxuYb9YnsQfEpBNStHDzCCvhbsxe1WGFURXE/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NTE1/OTA3LTE2Nzk3NTU4/NjQtNzc4Mi5qcGVn.jpeg"
+    - "https://i.discogs.com/EkXI-vy5HfJ9sDtwoI71LOTABuq0_6Bk7xQslKBBcHM/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NTE1/OTA3LTE2Nzk3NTU4/NjEtMTUyMi5qcGVn.jpeg"
+    - "https://i.discogs.com/9oCZwmFOjgaCUkGUIDjfIva0nAKpGP_wXClq5HxPmOg/rs:fit/g:sm/q:90/h:464/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NTE1/OTA3LTE2Nzk3NTU4/NjUtOTkwNi5qcGVn.jpeg"
     - "https://i.discogs.com/nBvpzZbd3AUA7VqELRdE0op8-s8sgYefquIb5hd75a4/rs:fit/g:sm/q:90/h:295/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NTE1/OTA3LTE2Nzk3NTU4/NTgtNzQwMy5qcGVn.jpeg"
     - "https://i.discogs.com/qNMMFWSdUlnv0h7E5rAgZe9B249g_ArLf-mZki2p74o/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NTE1/OTA3LTE2ODE1OTQ0/MjYtNTY4NC5qcGVn.jpeg"
     - "https://i.discogs.com/47Uozjd7Q4HcSDOv9TltlEeo85fCq3cXbc18OMUgMXE/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NTE1/OTA3LTE2ODE1OTQ0/MjctNTQ3My5qcGVn.jpeg"
     - "https://i.discogs.com/vWaB6F93O3-6crO-jnj_6nB0TWzZziA2JmwWzYJLovQ/rs:fit/g:sm/q:90/h:373/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NTE1/OTA3LTE2Nzk3NTU4/NjAtODAzNS5qcGVn.jpeg"
+    - "https://i.discogs.com/VgEatc2CXzHvpdDmzxgk6WV4u-Wi3gUsmbKPqx5aKSI/rs:fit/g:sm/q:90/h:570/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NTE1/OTA3LTE2Nzk3NTcw/NzMtOTg5NC5qcGVn.jpeg"
 genres: ["Electronic", "Rock"]
 styles: ["Synth-pop", "Alternative Rock"]
 ---
@@ -84,7 +84,18 @@ Gahan: “Well, it's sort of metaphors. The loneliness, the emptiness, the void,
 {{< applemusic url="https://music.apple.com/gb/album/memento-mori/1670265523" >}}<br>
 
 
+## Videos
+### Depeche Mode - Memento Mori (Full Album)
+{{< youtube id="yeNtpqgMjO0" title="Depeche Mode - Memento Mori (Full Album)" >}}<br>
+### More Videos
 
+- [Depeche Mode - Always You (Official Audio)](https://www.youtube.com/watch?v=NBfefZa0IHQ)
+- [Depeche Mode - People Are Good Music Video](https://www.youtube.com/watch?v=hKNvima8dsg)
+- [Depeche Mode - Memento Mori (Full Album)](https://www.youtube.com/watch?v=yeNtpqgMjO0)
+- [Depeche Mode - Always You (Official Audio)](https://www.youtube.com/watch?v=NBfefZa0IHQ)
+- [Depeche Mode - People Are Good Music Video](https://www.youtube.com/watch?v=hKNvima8dsg)
+- [Depeche Mode - My Favourite Stranger (Official Video)](https://www.youtube.com/watch?v=LemErXsJGV4)
+- [Depeche Mode - Wagging Tongue (Official Video)](https://www.youtube.com/watch?v=3Y4MWULrLto)
 
 ## Release Images
 {{< imageGrid >}}

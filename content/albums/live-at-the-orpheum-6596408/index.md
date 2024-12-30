@@ -20,10 +20,20 @@ additional_images:
     - "https://i.discogs.com/HzzWwOnGGaAS2kaYF1oaJ85OtZFji8rNAm_8f9OEIDY/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY1OTY0/MDgtMTQyMjkyNTIz/NC03NDk2LmpwZWc.jpeg"
     - "https://i.discogs.com/fzLSDwv-oDVxNOb7KgCyMlQw9nZ_D3mN1u7iKK3BBNc/rs:fit/g:sm/q:90/h:195/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY1OTY0/MDgtMTQyMjkyNTIz/Ni02NjI3LmpwZWc.jpeg"
     - "https://i.discogs.com/4dwaTpwUpKRZjkC3hOQg_BU3HYaLod-qGeTuIQUThbE/rs:fit/g:sm/q:90/h:261/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY1OTY0/MDgtMTQyMjkyNTIz/Ny0zNTQ2LmpwZWc.jpeg"
+    - "https://i.discogs.com/PiPLhkMHCGnTIH8MTFFCGdG3pQ7sXkB9n3o4gB39Byg/rs:fit/g:sm/q:90/h:594/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY1OTY0/MDgtMTcwMjgyODc5/Mi04NjExLnBuZw.jpeg"
+    - "https://i.discogs.com/fWgvyX3i1NyipaZEzKOI-oUddJFY9GcdUspHKAEoSfU/rs:fit/g:sm/q:90/h:600/w:597/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY1OTY0/MDgtMTcwMjgyODc5/MS0xMDY0LnBuZw.jpeg"
+    - "https://i.discogs.com/vyZCJ6QAAEtmrbUFqmKURnZ2MO6aWoJb-VqKeHD6vXY/rs:fit/g:sm/q:90/h:491/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY1OTY0/MDgtMTcwMjgyODc4/OC0zMzk2LnBuZw.jpeg"
 genres: ["Rock"]
 styles: ["Prog Rock"]
 ---
 
+Live at the Orpheum is a live album by the band King Crimson, released by Discipline Global Mobile records in 2015.  The album was recorded on 30 September and 1 October at the Orpheum Theatre in Los Angeles, California on the band's The Elements of King Crimson US tour of 2014.
+King Crimson's 2014 tour marked guitarist, founder and leader Robert Fripp's return to active service after a long legal battle with Universal Music Group. This line-up of King Crimson is notable for featuring three drummers, Pat Mastelloto, Gavin Harrison and Bill Rieflin. The other members of the band are long standing bass player Tony Levin, Mel Collins who was previously in the band from 1970 to 1972, also playing on Red in 1974, Jakko Jakszyk on guitar and vocals, and Robert Fripp.
+All the shows on the tour were recorded on multitrack with Jakko Jakszyk sorting through the recordings. The two shows at the Orpheum Theatre in Los Angeles were chosen for release. The album features 41 minutes of selections from the set and was released on 13 January 2015 on CD/DVD-A and heavy-weight vinyl.
+
+
+    
+    
 
 
 ## Tracklisting
@@ -47,8 +57,9 @@ styles: ["Prog Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl LP Album Limited Edition |
+| Wikipedia URL | https://en.wikipedia.org/wiki/Live_at_the_Orpheum |
+| Format         | Vinyl LP Album Limited Edition Stereo |
 | Label          | Discipline Global Mobile |
 | Catalog Number | DGMLV1 |
-| Notes | Gatefold Sleeve.  200 Gram Super Heavyweight Vinyl.  The Elements Tour 2014 : Live at the Orpheum Theatre, Los Angeles, CA, September 30 & October 1.  ℗ & © 2015 Robert Fripp on behalf of King Crimson  Made in England. |
+| Notes | Gatefold Sleeve. 200 Gram Super Heavyweight Vinyl. The Elements Tour 2014 : Live at the Orpheum Theatre, Los Angeles, CA, September 30 & October 1. ℗ & © 2015 Robert Fripp on behalf of King Crimson Made in England.  Releases made available to the trade by Record Company DGM at a later date than the release date in 2015 may contain colour-printed inner sleeves: DGM's catalogue of King Crimson releases (see pictures, here up to 2021). All other features including the matrices / runouts are identical. |
 | Discogs URL    | [King Crimson - Live At The Orpheum](https://www.discogs.com/release/6596408-King-Crimson-Live-At-The-Orpheum) |

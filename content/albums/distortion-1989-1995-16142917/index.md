@@ -12,8 +12,8 @@ cover:
     alt: "Distortion: 1989 - 1995 by Bob Mould"
     caption: "Distortion: 1989 - 1995 by Bob Mould"
 additional_images:
-    - "https://i.discogs.com/nZW90-win1TFzK_OA2oXwAanD-amqYNOgiGLyMEA68k/rs:fit/g:sm/q:90/h:640/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MTQy/OTE3LTE2MDQxNTg1/ODQtMjU4MC5qcGVn.jpeg"
-    - "https://i.discogs.com/tSTF6LAQ2CBWFBa4WmaRF0NuWQfqSSwmM21X58BGE9s/rs:fit/g:sm/q:90/h:637/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MTQy/OTE3LTE2MDQxNTg1/ODQtNzg5Mi5qcGVn.jpeg"
+    - "https://i.discogs.com/up55WOfm9yVo68k-38kL3n97PfEfCcbH-HQxl7bgQE8/rs:fit/g:sm/q:90/h:600/w:561/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MTQy/OTE3LTE2MDQxNTg1/ODQtMjU4MC5qcGVn.jpeg"
+    - "https://i.discogs.com/QF2nqxa-vm9vWd8q_jVm_Crsikbr0zQQ0Dsr2WOhz1w/rs:fit/g:sm/q:90/h:600/w:564/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MTQy/OTE3LTE2MDQxNTg1/ODQtNzg5Mi5qcGVn.jpeg"
     - "https://i.discogs.com/B_twIgokVZdlOUxqmhzaG8mCD3IZ18s5LiOM7IBZmxY/rs:fit/g:sm/q:90/h:466/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MTQy/OTE3LTE2MDQ0Mzk0/MjktNTI2OC5qcGVn.jpeg"
     - "https://i.discogs.com/tXG9fZRmBQJVkeF3_0XDYpvCAn71t0rP0uXFjqGGF5I/rs:fit/g:sm/q:90/h:594/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MTQy/OTE3LTE2MDQ0Mzk0/MTEtNzg3MS5qcGVn.jpeg"
     - "https://i.discogs.com/706dy0fZhk35Hgu92N1c4cT4f4fsBjpEAWMDShVe6rI/rs:fit/g:sm/q:90/h:594/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MTQy/OTE3LTE2MDQ0Mzkz/OTUtNzMxMi5qcGVn.jpeg"
@@ -29,7 +29,7 @@ additional_images:
     - "https://i.discogs.com/qkya9dWbz3X5Wdg1jjUUwCfvqjeh1-hs9SiZRKuOId4/rs:fit/g:sm/q:90/h:589/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MTQy/OTE3LTE2MDQ0Mzk0/MDQtMjg3OS5qcGVn.jpeg"
     - "https://i.discogs.com/Ki_IHklTuyM6D6FJCvuS1dSE_N9yFgbG2HbDMda13Hw/rs:fit/g:sm/q:90/h:590/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MTQy/OTE3LTE2MDQ0Mzk0/MDYtMTY1MC5qcGVn.jpeg"
     - "https://i.discogs.com/vkovfptw94dcmpJCpL3E_nDwlQfdzzh0hnXbk4YpyWI/rs:fit/g:sm/q:90/h:582/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MTQy/OTE3LTE2MDQ0Mzk0/MjYtNDgzMi5qcGVn.jpeg"
-    - "https://i.discogs.com/1l2RoU-YoDtJmSp_QdEi3u4j2BgWIF-_anJzVG8Xa9c/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MTQy/OTE3LTE2MDQ0Mzk0/MjktNTY5NS5qcGVn.jpeg"
+    - "https://i.discogs.com/tn9hjlvt4kTHOfU_yoEKmw8wnH6U33LcTVxAl1r1olI/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MTQy/OTE3LTE2MDQ0Mzk0/MjktNTY5NS5qcGVn.jpeg"
     - "https://i.discogs.com/cNraFUW3LvqVebGAZ87oVUkj_WZEydxqcIai4C2KL3M/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MTQy/OTE3LTE2MDQ0Mzk0/MDUtNzk1MS5qcGVn.jpeg"
     - "https://i.discogs.com/UOo_ZcLcjfDNEqSGweOkj_-r76zooKcuZKn2fwPkqMs/rs:fit/g:sm/q:90/h:594/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MTQy/OTE3LTE2MDQ0Mzk0/MTMtNjg1MC5qcGVn.jpeg"
     - "https://i.discogs.com/nAg67V9zhp1VfTo75sx7uORTrmsMOi0msyCuNc8NqoI/rs:fit/g:sm/q:90/h:590/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MTQy/OTE3LTE2MDQ0Mzk0/MTQtNzEyNi5qcGVn.jpeg"
@@ -38,10 +38,10 @@ additional_images:
     - "https://i.discogs.com/-u0ZK9Y6sMZUxcMoD2b2SGt_wIe2UOP26aSteODrM4A/rs:fit/g:sm/q:90/h:592/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MTQy/OTE3LTE2MDQ0Mzk0/MDEtNDQ1MS5qcGVn.jpeg"
     - "https://i.discogs.com/AqxnZzj-nHzWWXb3ddTdeKIwLMuKUdnxf1hoZFJkdxU/rs:fit/g:sm/q:90/h:594/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MTQy/OTE3LTE2MDQ0Mzk0/MDgtOTM1OS5qcGVn.jpeg"
     - "https://i.discogs.com/1mKxfprlvA5INC1bjhNZNO5Zc8aBu7wZMNJC019plIU/rs:fit/g:sm/q:90/h:585/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MTQy/OTE3LTE2MDQ0Mzk0/MTctNTQ2OS5qcGVn.jpeg"
-    - "https://i.discogs.com/1wNFUpMcZmSSuGpx500K4HWZPbV-LDhfW2XzbJSDZc0/rs:fit/g:sm/q:90/h:604/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MTQy/OTE3LTE2MDQ0Mzk0/MTYtNTU1NS5qcGVn.jpeg"
+    - "https://i.discogs.com/NA1RJfYNq_8iRJqN5ZHKzLBAejC7OOyUh5eMit6j_go/rs:fit/g:sm/q:90/h:600/w:595/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MTQy/OTE3LTE2MDQ0Mzk0/MTYtNTU1NS5qcGVn.jpeg"
     - "https://i.discogs.com/5aXh6Ty4HkpNO5skI2FNnP-1hz1_U7PliYgUkB_8ODg/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MTQy/OTE3LTE2MDQ0Mzk0/MjgtMzgwMy5qcGVn.jpeg"
     - "https://i.discogs.com/UMJrMlO5-o7Eop2NV2ttLq91pLHtMdlAmD_V48qj4Qg/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MTQy/OTE3LTE2MDQ0Mzkz/OTgtNzgwOC5qcGVn.jpeg"
-    - "https://i.discogs.com/m9kzfk-BwEv_isQH1OotM3O6Wim9bs2dqxDKvLCVx7A/rs:fit/g:sm/q:90/h:603/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MTQy/OTE3LTE2MDQ0Mzk0/MDUtNDg2OC5qcGVn.jpeg"
+    - "https://i.discogs.com/NLD5gb7YwwerYXQucsgI0twWumm2PrAK4M-yZFx4LGk/rs:fit/g:sm/q:90/h:600/w:596/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MTQy/OTE3LTE2MDQ0Mzk0/MDUtNDg2OC5qcGVn.jpeg"
     - "https://i.discogs.com/Vgbdensq3_ON0DoLKWCNBYlDqIegOSg4zrz3rR_kuUM/rs:fit/g:sm/q:90/h:589/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MTQy/OTE3LTE2MDQ0Mzk0/MDMtNzgyMS5qcGVn.jpeg"
     - "https://i.discogs.com/IsG7InzPxoFNRee0yroTwOJHThOqCQZD0uboaoijtB8/rs:fit/g:sm/q:90/h:593/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MTQy/OTE3LTE2MDQ0Mzk0/MjItMjEzOS5qcGVn.jpeg"
     - "https://i.discogs.com/q1c8M5Cg-TozSxe0KAwe0HtTVRA5BJ6VQqLnKROhSOg/rs:fit/g:sm/q:90/h:594/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MTQy/OTE3LTE2MDQ0Mzk0/MzAtOTc4MC5qcGVn.jpeg"
@@ -50,7 +50,7 @@ additional_images:
     - "https://i.discogs.com/nOtaRzZVfDuM0n-7w0YDfzb-RvcsYfEHPC-RDHLqqDQ/rs:fit/g:sm/q:90/h:563/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MTQy/OTE3LTE2MDQ0Mzk0/MjQtNTIxNS5qcGVn.jpeg"
     - "https://i.discogs.com/xfZQsK6AjhLVfoiSTarMIMJywzCqs_l6j1I8HLCoFzs/rs:fit/g:sm/q:90/h:584/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MTQy/OTE3LTE2MDQ0Mzk0/MTItNTQ4My5qcGVn.jpeg"
     - "https://i.discogs.com/_oB7dMTjOYas_DzmorKmsHGEB2Id4woMs3vXN3sGUow/rs:fit/g:sm/q:90/h:593/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MTQy/OTE3LTE2MDQ0Mzk0/MTctOTA3MS5qcGVn.jpeg"
-    - "https://i.discogs.com/kfBkPJeNqOCuzuxjb1xEtQ6xbGVV2-mxAJ7A8SMC_WE/rs:fit/g:sm/q:90/h:601/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MTQy/OTE3LTE2MDQ0Mzk0/MjAtMTAyMC5qcGVn.jpeg"
+    - "https://i.discogs.com/5GPfjJ__s4tK_iitJX7pGw9s67kxaCi5mUcY3nXROIU/rs:fit/g:sm/q:90/h:600/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MTQy/OTE3LTE2MDQ0Mzk0/MjAtMTAyMC5qcGVn.jpeg"
     - "https://i.discogs.com/wtv1r2QIu7heA5V---osIIYoLoQY8qLPxy3d8Srotq8/rs:fit/g:sm/q:90/h:584/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MTQy/OTE3LTE2MDQ0Mzk0/MjUtODAwMi5qcGVn.jpeg"
     - "https://i.discogs.com/VGWn3iP3MNX8FsIrikzZDlhkSiWQMs-8WdwYYduMMVg/rs:fit/g:sm/q:90/h:593/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MTQy/OTE3LTE2MDQ0Mzk0/MjktNzMzNy5qcGVn.jpeg"
     - "https://i.discogs.com/hC2Z0L3bZ6i6EDc9cPCfQew-2ukHzhcJ-XnRbfkWA3g/rs:fit/g:sm/q:90/h:572/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MTQy/OTE3LTE2MDQ0Mzk0/MjEtODU1Ni5qcGVn.jpeg"
@@ -58,6 +58,7 @@ additional_images:
     - "https://i.discogs.com/dPED6W51bTosD8XzZ8kAVjxEGo-IhXNxujEtuUptnVU/rs:fit/g:sm/q:90/h:324/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MTQy/OTE3LTE2MDQ0Mzk0/MzMtMzA4MC5qcGVn.jpeg"
     - "https://i.discogs.com/15GQp5HuWBiXMv0KrPYkmK2pGOpjO9LaWiHt7V4RIN0/rs:fit/g:sm/q:90/h:321/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MTQy/OTE3LTE2MDQ0Mzk0/MzEtODc0NS5qcGVn.jpeg"
     - "https://i.discogs.com/OcsYlknA743UH_b9j_dsEYQuWZ7wdmm-qyfsOUtrn4c/rs:fit/g:sm/q:90/h:317/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MTQy/OTE3LTE2MDQ0Mzk0/MzAtMjcxMi5qcGVn.jpeg"
+    - "https://i.discogs.com/O-AfagKNpbwy1z2PD_wCb3KXdf5CdGshPdSlNE-pH8Y/rs:fit/g:sm/q:90/h:600/w:418/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MTQy/OTE3LTE3MDE1MzQ5/MTctNzMyMy5qcGVn.jpeg"
 genres: ["Rock"]
 styles: []
 ---
@@ -146,6 +147,8 @@ styles: []
 79. Can't Fight It
 80. Turning Of The Tide
 
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/bob-mould-presents-distortion-the-best-of-1989-2019/1563236784" >}}<br>
 
 
 

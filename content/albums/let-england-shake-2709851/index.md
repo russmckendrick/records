@@ -20,10 +20,10 @@ additional_images:
     - "https://i.discogs.com/Cw2mVoalMuK1TEZN1wu4fcr4J92j7YAOO4qgLBaqFV8/rs:fit/g:sm/q:90/h:576/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3MDk4/NTEtMTQ3NDI5NDk3/Ny00ODM2LmpwZWc.jpeg"
     - "https://i.discogs.com/O6IW5y6x6-uKU0pS--bMelE0ilMwIKpqjG5sdGtcF6o/rs:fit/g:sm/q:90/h:586/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3MDk4/NTEtMTQ3NDI5NDk3/Ny0zMjAxLmpwZWc.jpeg"
 genres: ["Rock", "Pop"]
-styles: ["Alternative Rock", "Indie Rock"]
+styles: ["Alternative Rock", "Indie Rock", "Folk Rock"]
 ---
 
-Let England Shake is the eighth studio album by English singer-songwriter and musician PJ Harvey, released on 14 February 2011 by Island Records. Production began around the time of White Chalk's release in 2007, though it is a departure from the piano-driven introspection of that album. Let England Shake was written over a 2+1⁄2-year period, and recorded in five weeks at a church in Dorset during April and May 2010.
+Let England Shake is the eighth studio album by the English singer-songwriter and musician PJ Harvey, released on 14 February 2011 by Island Records. Production began around the time of White Chalk's release in 2007, though it is a departure from the piano-driven introspection of that album. Let England Shake was written over a 2+1⁄2-year period, and recorded in five weeks at a church in Dorset during April and May 2010.
 Upon release, the album received numerous accolades. It was placed 2011 "Album of the Year" by 16 publications and in September 2011 won the coveted Mercury Prize. It was PJ Harvey's fourth nomination overall (including 2001's winner Stories from the City, Stories from the Sea), making her the most successful artist in the prize's history. The album also won the Uncut Music Award in November 2011, as well as Album of the Year in the 2012 Ivor Novello Awards.
 
 
@@ -57,6 +57,9 @@ Upon release, the album received numerous accolades. It was placed 2011 "Album o
 
 - [PJ Harvey - Let England Shake](https://www.youtube.com/watch?v=fOV9e5eufMU)
 - [PJ Harvey - On Battleship Hill](https://www.youtube.com/watch?v=VO63vb1S7Cw)
+- [PJ Harvey - The Glorious Land](https://www.youtube.com/watch?v=YBtOWXNPQ_w)
+- [PJ Harvey - Let England Shake](https://www.youtube.com/watch?v=fOV9e5eufMU)
+- [PJ Harvey - On Battleship Hill](https://www.youtube.com/watch?v=VO63vb1S7Cw)
 
 ## Release Images
 {{< imageGrid >}}
@@ -68,5 +71,5 @@ Upon release, the album received numerous accolades. It was placed 2011 "Album o
 | Format         | Vinyl LP Album |
 | Label          | Island Records |
 | Catalog Number | 2758997 |
-| Notes | Made in Dorset, April - May 2010. Mixed at Assault & Battery.  Published by Hot Head Music Ltd./EMI Music Publishing Ltd. except: Track A1 Xylophone Melody adapted from the song 'Istanbul (Not Constantinople)'. Track A3 contains elements from 'The Bed's Too Big Without You' by The Police; also includes a sample of 'Regimental March' bugle call. Track A4 contains elements from 'Summertime Blues'. Track B1 contains a sample of 'Kassem Miro'. Track B5 contains a sample of 'Blood & Fire'. Tracks A5 & B6 inspired by the writings of L.A. Carlyon & the words of Vic Nicholson in 'Voices Of Gallipoli' by Maurice Shadbolt. Tracks A3 & B2 are inspired in part by extracts from 'Russian Folk Lyrics', edited and translated by Roberta Reeder, with an Introductory Essay by V. Ja. Propp.  ℗2010 Universal Island Records Ltd. ©2010 Universal Island Records Ltd. A Universal Music Company.  Made in the EU  Pressing plant and cutting facility/engineer derived from matrix.  Runouts are machine-etched, only "JONZ LOUDº¯" is hand-etched. |
+| Notes | Made in Dorset, April - May 2010. Mixed at Assault & Battery.  Published by Hot Head Music Ltd./EMI Music Publishing Ltd. except: Track A1 Xylophone Melody adapted from the song 'Istanbul (Not Constantinople)'. Track A3 contains elements from 'The Bed's Too Big Without You' by The Police; also includes a sample of 'Regimental March' bugle call. Track A4 contains elements from 'Summertime Blues'. Track B1 contains a sample of 'Kassem Miro'. Track B5 contains a sample of 'Blood & Fire'. Tracks A5 & B6 inspired by the writings of L.A. Carlyon & the words of Vic Nicholson in 'Voices Of Gallipoli' by Maurice Shadbolt. Tracks A3 & B2 are inspired in part by extracts from 'Russian Folk Lyrics', edited and translated by Roberta Reeder, with an Introductory Essay by V. Ja. Propp.  ℗2010 Universal Island Records Ltd. ©2010 Universal Island Records Ltd. A Universal Music Company.  Made in the EU  Pressing plant and cutting facility/engineer derived from matrix.  Runouts are machine-etched, only "JONZ LOUDº¯" is hand-etched.  Comes with a printed inner sleeve. |
 | Discogs URL    | [PJ Harvey - Let England Shake](https://www.discogs.com/release/2709851-PJ-Harvey-Let-England-Shake) |

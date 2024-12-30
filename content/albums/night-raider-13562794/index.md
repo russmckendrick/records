@@ -14,10 +14,10 @@ cover:
 additional_images:
     - "https://i.discogs.com/W0hnw0NXidvuO5dPE61h2FJr4Xh1vzLM8d5KKEDFshA/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNTYy/Nzk0LTE1NTY1NjUz/NDQtMjQxOS5qcGVn.jpeg"
     - "https://i.discogs.com/JiyiMiHOQtNwEXNC7t5qHeyqeZXtB5B5-AzQOiBJCmU/rs:fit/g:sm/q:90/h:593/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNTYy/Nzk0LTE1NTY1NjUz/NDUtMjQ3MS5qcGVn.jpeg"
-    - "https://i.discogs.com/yjYudeOrZJiyUGjE9P9IffTa7jPEXs2UyUc9jBekO28/rs:fit/g:sm/q:90/h:604/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNTYy/Nzk0LTE1NTY1NjUz/NTAtMzkwOC5qcGVn.jpeg"
-    - "https://i.discogs.com/VcV7VZrlRghfOHFiGOMZU_F3all-c7vCeiKOWETge28/rs:fit/g:sm/q:90/h:603/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNTYy/Nzk0LTE1NTY1NjUz/NDItNTgxNS5qcGVn.jpeg"
-    - "https://i.discogs.com/TTjrJHYZyu5bQMroN2OfcJ-F0nidP4PIZJDzVQN_CKg/rs:fit/g:sm/q:90/h:601/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNTYy/Nzk0LTE1NTY1NjUz/NDgtMzg4NS5qcGVn.jpeg"
-    - "https://i.discogs.com/dxmXeyBicQTF5g_L9f0vSN8E2VOva22VJMIRAkz1xhg/rs:fit/g:sm/q:90/h:601/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNTYy/Nzk0LTE1NTY1NjUz/NDEtNzU5MS5qcGVn.jpeg"
+    - "https://i.discogs.com/hGr9kkiS-FScCMATXGlqXbzwNn7dj7BU8hhdd6-LZlc/rs:fit/g:sm/q:90/h:600/w:595/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNTYy/Nzk0LTE1NTY1NjUz/NTAtMzkwOC5qcGVn.jpeg"
+    - "https://i.discogs.com/8dA8teI7PJLnUdVqeTFFYiXTFq5dbZMHQ-LsaSFOzfg/rs:fit/g:sm/q:90/h:600/w:596/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNTYy/Nzk0LTE1NTY1NjUz/NDItNTgxNS5qcGVn.jpeg"
+    - "https://i.discogs.com/DVE-L_wQZ8Lt7cP4SsTwdayt82DFUW_OPmruqIoc4GY/rs:fit/g:sm/q:90/h:600/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNTYy/Nzk0LTE1NTY1NjUz/NDgtMzg4NS5qcGVn.jpeg"
+    - "https://i.discogs.com/DecLRF8o7GOMw_AfJGA3HzDHUOhhWGTfvYd-MxXkgxg/rs:fit/g:sm/q:90/h:600/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNTYy/Nzk0LTE1NTY1NjUz/NDEtNzU5MS5qcGVn.jpeg"
     - "https://i.discogs.com/Tlj0LABMi9jlUaFBko9660oEsOCqNNka47L_CSl9rNw/rs:fit/g:sm/q:90/h:547/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNTYy/Nzk0LTE1NTY1NjM5/NDUtMzkxNS5qcGVn.jpeg"
 genres: ["Rock"]
 styles: ["Post Rock", "Prog Rock"]

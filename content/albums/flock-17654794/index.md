@@ -12,7 +12,7 @@ cover:
     alt: "Flock by Jane Weaver"
     caption: "Flock by Jane Weaver"
 additional_images:
-    - "https://i.discogs.com/kGJmlFilGCpy0nXZKWSmOErMOZYC7_SkBzrCVJksr_U/rs:fit/g:sm/q:90/h:602/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3NjU0/Nzk0LTE2MTUwMjk4/ODQtOTEwOC5qcGVn.jpeg"
+    - "https://i.discogs.com/WNiiuWhJ3Sw6-Z1A7DYfNF000zud9JajgArOsQJRwVw/rs:fit/g:sm/q:90/h:600/w:597/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3NjU0/Nzk0LTE2MTUwMjk4/ODQtOTEwOC5qcGVn.jpeg"
     - "https://i.discogs.com/XMUii9gpDMyAlK8ZV3CYI-G5b2OaO_jZ2X2UwFBrbX4/rs:fit/g:sm/q:90/h:592/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3NjU0/Nzk0LTE2MTUwMjk4/ODQtMjI5Ni5qcGVn.jpeg"
     - "https://i.discogs.com/mUVqIUSjCYFbg8Q0HvlFOB3BTbCgpysvY7JRilPjVj0/rs:fit/g:sm/q:90/h:550/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3NjU0/Nzk0LTE2MTUwMjk4/ODEtMjA5OS5qcGVn.jpeg"
     - "https://i.discogs.com/pVaSWGhBVT9ABkFG_Ndd7fKU9-9VAp98igys9Gmvxao/rs:fit/g:sm/q:90/h:592/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3NjU0/Nzk0LTE2MTUwMjk4/ODMtNTIxMS5qcGVn.jpeg"
@@ -22,7 +22,9 @@ genres: ["Rock", "Pop"]
 styles: []
 ---
 
-Flock is the eleventh album by English musician Jane Weaver, released on 5 March 2021 by Fire Records. Inspired by Lebanese torch songs, 1980s Russian Aerobics records and Australian punk, the album incorporates a pop-leaning production in comparison to Weaver's previous works. Upon release, the album was met with critical acclaim, with praise towards its experimental sound.
+Flock is the eleventh album by the English musician Jane Weaver, released on 5 March 2021 by Fire Records. Inspired by Lebanese torch songs, 1980s Russian Aerobics records and Australian punk, the album incorporates a pop-leaning production in comparison to Weaver's previous works. Upon release, the album was met with critical acclaim, with praise towards its experimental sound.
+
+
     
     
 

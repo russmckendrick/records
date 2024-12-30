@@ -14,18 +14,24 @@ cover:
 additional_images:
     - "https://i.discogs.com/XT-1nBqX99Nla23tKh1qVHyyYtK2UT5toSjWG-7Ap_o/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ4ODM0/NzktMTUxNTAwNDg4/NS03OTk4LmpwZWc.jpeg"
     - "https://i.discogs.com/T6hBmax1iUahitqQ89BWI1pjChSq9XebqslkcbdFxlg/rs:fit/g:sm/q:90/h:141/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ4ODM0/NzktMTUxNTAwNDcy/NC0yNDg5LmpwZWc.jpeg"
-    - "https://i.discogs.com/I8MAuW7DjxVdRed9jF34kADor2NQcLFN0gt4hoD-tCA/rs:fit/g:sm/q:90/h:601/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ4ODM0/NzktMTUxNTAwNDg4/NC05NzE5LmpwZWc.jpeg"
+    - "https://i.discogs.com/jQLk6B5gp6sw03-lkv0gTikloq81D7vos8WzljLT-F8/rs:fit/g:sm/q:90/h:600/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ4ODM0/NzktMTUxNTAwNDg4/NC05NzE5LmpwZWc.jpeg"
     - "https://i.discogs.com/SXeZ7VP8MRWdiQvCHotK1zZ2o5UUG1TT52yXYVS7Xp0/rs:fit/g:sm/q:90/h:289/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ4ODM0/NzktMTUxNTAwNjM2/OC03MDI5LmpwZWc.jpeg"
     - "https://i.discogs.com/nSYOzfDdXmJxua--OLN9yOCY1F9-U3qC2ygZDBinhgE/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ4ODM0/NzktMTUxNTAwNDc5/OC03MDAxLmpwZWc.jpeg"
-    - "https://i.discogs.com/PHS7ctq9x3LN5rKQVeZhezwsVRIZPG5GhJdW_qoPEog/rs:fit/g:sm/q:90/h:601/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ4ODM0/NzktMTUxNTAwNjUz/Mi04MjU1LmpwZWc.jpeg"
+    - "https://i.discogs.com/kZ05Z1p4NkqwoB-5U5pcYGNnmZ_bn5sFx11Yyb0Lv7w/rs:fit/g:sm/q:90/h:600/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ4ODM0/NzktMTUxNTAwNjUz/Mi04MjU1LmpwZWc.jpeg"
     - "https://i.discogs.com/QMg0jqsS-7sNtMUmKqbTqP2hSGOyis1Mcs5PYT4WqMk/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ4ODM0/NzktMTUxNTAwNDg4/NC0zNTI3LmpwZWc.jpeg"
     - "https://i.discogs.com/XIwf3XYgM-jvzSXWbsylNH5Hg5-65U26jiI9OTAPd2o/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ4ODM0/NzktMTUxNTAwNjQ2/Ny01ODc2LmpwZWc.jpeg"
-    - "https://i.discogs.com/hdoAICPcyAbDPc4PTNF1w6KUvuYRDCQoMMz2UEpVxGY/rs:fit/g:sm/q:90/h:601/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ4ODM0/NzktMTUxNTAwNDg4/My05MjYwLmpwZWc.jpeg"
+    - "https://i.discogs.com/oA3yH2htGInvO7FHxLHwW3FsK8Hb3nDTjFCfPji4smU/rs:fit/g:sm/q:90/h:600/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ4ODM0/NzktMTUxNTAwNDg4/My05MjYwLmpwZWc.jpeg"
     - "https://i.discogs.com/ZGtWgP0U0t1b2ZGvU3Cuh5oNusQzo71BlzWjLARNWs8/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ4ODM0/NzktMTUxNTAwNDg4/NC00MTA1LmpwZWc.jpeg"
 genres: ["Rock"]
 styles: ["Prog Rock"]
 ---
 
+The Wisdom of Crowds: Why the Many Are Smarter Than the Few and How Collective Wisdom Shapes Business, Economies, Societies and Nations, published in 2004, is a book written by James Surowiecki about the aggregation of information in groups, resulting in decisions that, he argues, are often better than could have been made by any single member of the group. The book presents numerous case studies and anecdotes to illustrate its argument, and touches on several fields, primarily economics and psychology.
+The opening anecdote relates Francis Galton's surprise that the crowd at a county fair accurately guessed the weight of an ox when their individual guesses were averaged (the average was closer to the ox's true butchered weight than the estimates of most crowd members).
+The book relates to diverse collections of independently deciding individuals, rather than crowd psychology as traditionally understood. Its central thesis, that a diverse collection of independently deciding individuals is likely to make certain types of decisions and predictions better than individuals or even experts, draws many parallels with statistical sampling; however, there is little overt discussion of statistics in the book.
+Its title is an allusion to Charles Mackay's Extraordinary Popular Delusions and the Madness of Crowds, published in 1841.
+    
+    
 
 
 ## Tracklisting
@@ -44,12 +50,14 @@ styles: ["Prog Rock"]
 
 
 ## Videos
-### Bruce Soord With Jonas Renkse (Katatonia) -  Wisdom Of Crowds (2013)
-{{< youtube id="3XUcKhremjE" title="Bruce Soord With Jonas Renkse (Katatonia) -  Wisdom Of Crowds (2013)" >}}<br>
+### Bruce Soord with Jonas Renkse - Frozen North (from Wisdom of Crowds)
+{{< youtube id="P66D8U7xxh8" title="Bruce Soord with Jonas Renkse - Frozen North (from Wisdom of Crowds)" >}}<br>
 ### More Videos
 
+- [Bruce Soord & Jonas Renkse - Wisdom Of Crowds - Pleasure](https://www.youtube.com/watch?v=Ulmm9ItsyEQ)
 - [Bruce Soord with Jonas Renkse - Frozen North (from Wisdom of Crowds)](https://www.youtube.com/watch?v=P66D8U7xxh8)
 - [Bruce Soord & Jonas Renkse - Wisdom Of Crowds - Pleasure](https://www.youtube.com/watch?v=Ulmm9ItsyEQ)
+- [Bruce Soord With Jonas Renkse (Katatonia) -  Wisdom Of Crowds (2013)](https://www.youtube.com/watch?v=3XUcKhremjE)
 
 ## Release Images
 {{< imageGrid >}}
@@ -57,6 +65,7 @@ styles: ["Prog Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
+| Wikipedia URL | https://en.wikipedia.org/wiki/The_Wisdom_of_Crowds |
 | Format         | Vinyl 2× LP Album Limited Edition ( Red Transparent) |
 | Label          | Kscope |
 | Catalog Number | KSCOPE844 |

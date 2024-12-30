@@ -12,13 +12,14 @@ cover:
     alt: "Love In Constant Spectacle by Jane Weaver"
     caption: "Love In Constant Spectacle by Jane Weaver"
 additional_images:
+    - "https://i.discogs.com/81ND2wcc3Vz-ku1kEt3AacjGjZ-HoKM3-_oy3ReI8ss/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMzQy/NjExLTE3MTYyMjAw/NjctOTkzNC5qcGVn.jpeg"
+    - "https://i.discogs.com/uiHuobK0YJtQv45HxQyu7pD5R9CR6fD1N_efbQkmfvo/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMzQy/NjExLTE3MTYyMjAw/NjYtMTY4MS5qcGVn.jpeg"
+    - "https://i.discogs.com/PtNL2EXtdbOqZn19cmIR8wirBDS88e04nlmnJjwdRrY/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMzQy/NjExLTE3MTYyMjAw/NjYtNjg4Mi5qcGVn.jpeg"
 genres: ["Rock"]
 styles: ["Indie Rock", "Art Rock"]
 ---
 
 Love in Constant Spectacle is the twelfth solo studio album by English musician Jane Weaver, released on 5 April 2024 through Fire Records. It received acclaim from critics.
-
-
     
     
 

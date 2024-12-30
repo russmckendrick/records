@@ -12,13 +12,23 @@ cover:
     alt: "Young Gods by Little Angels"
     caption: "Young Gods by Little Angels"
 additional_images:
-    - "https://i.discogs.com/YnyXmk9XY0NnKKs1VjoeSxKksnaSotj9wgcLxCbeO6o/rs:fit/g:sm/q:90/h:399/w:400/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MzMz/MzItMTIxOTMyNTk4/MC5qcGVn.jpeg"
-    - "https://i.discogs.com/W9T0xYh81c82Z--oTj8OCOHoNGrLPEJsR0j_kE1C2-I/rs:fit/g:sm/q:90/h:341/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MzMz/MzItMTU4Nzk4OTk4/NC0xNzg3LmpwZWc.jpeg"
-    - "https://i.discogs.com/nkOwkuw7spIgzaErrEtGS5Aq3CtXTkHzLEe0Mi3ONNw/rs:fit/g:sm/q:90/h:580/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MzMz/MzItMTU4Nzk4OTk4/My05MTI5LmpwZWc.jpeg"
+    - "https://i.discogs.com/v8Go6F1Ye757d4YaGLPTM6-r4LUyOpClKr27pX-ZmEQ/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MzMz/MzItMTcxODI5NTA1/MC02ODgwLmpwZWc.jpeg"
+    - "https://i.discogs.com/zmTHmTA8oSyQ7uhrvIORJiOuahNspokwuIU3qeZ5NSE/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MzMz/MzItMTcxODI5NTA1/MC02NDM5LmpwZWc.jpeg"
+    - "https://i.discogs.com/hH8dKAnJPjrv0NWUCWdQw3li_-jiuPrKDRe4X6af9-Y/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MzMz/MzItMTcxODI5NTA1/MC0yNTM2LmpwZWc.jpeg"
+    - "https://i.discogs.com/ZnWu6063HOQV1ipnPnvNvNF7A0Do6kQePlBRhXVl1ZY/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MzMz/MzItMTcxODI5NTA1/MC02MDkzLmpwZWc.jpeg"
+    - "https://i.discogs.com/rfrJZyCcB1H4wIIyoxzmj9ZazyWz-YwSVIUAdzyu3Vw/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MzMz/MzItMTcxODI5NTA0/OS01MjQ1LmpwZWc.jpeg"
+    - "https://i.discogs.com/jSRvgAseLwrWgvGJjKEgoj8V2cp3jUwEOKm4lxMY5B0/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MzMz/MzItMTcxODI5NTA1/MC0xMTE0LmpwZWc.jpeg"
+    - "https://i.discogs.com/2pmkeF_Io15MmC6UX_ZMhYUtnJ0SjY969m9XawilTtc/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MzMz/MzItMTcxODI5NTA1/MS02OTUxLmpwZWc.jpeg"
 genres: ["Rock"]
-styles: ["Heavy Metal"]
+styles: ["Arena Rock", "Hard Rock"]
 ---
 
+The Young Gods are a Swiss industrial rock band from Fribourg, formed in 1985. The original lineup of the band featured singer Franz Treichler, sampler player Cesare Pizzi and drummer Frank Bagnoud. For most of their history, the band maintained a trio format with a singer, a sampler player and a drummer, albeit with multiple line-up changes. Treichler is the band's sole consistent member; the current line-up also features Pizzi and drummer Bernard Trontin. During their career, the band have extensively collaborated with producer Roli Mosimann.
+The band's music is largely based on sampling and sound manipulation; the tracks are constructed from various samples, such as distorted guitar riffs and string sections. Their later releases have incorporated elements from ambient and electronic music. Their sample-based approach to rock music influenced numerous musicians such as David Bowie, The Edge and Mike Patton.
+
+
+    
+    
 
 
 ## Tracklisting
@@ -51,8 +61,8 @@ styles: ["Heavy Metal"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
+| Wikipedia URL | https://en.wikipedia.org/wiki/The_Young_Gods |
 | Format         | Vinyl LP Album Stereo |
 | Label          | Polydor |
 | Catalog Number | 847 846-1 |
-| Notes | Etching on matrixes also on Netherlands version r5579832 |
 | Discogs URL    | [Little Angels - Young Gods](https://www.discogs.com/release/1433332-Little-Angels-Young-Gods) |

@@ -48,13 +48,10 @@ Millionaires is the eighth studio album by British alternative rock band James. 
 
 
 ## Videos
-### James - Just Like Fred Astaire
-{{< youtube id="Y5qyNF-MLaQ" title="James - Just Like Fred Astaire" >}}<br>
+### James - Hello (live)
+{{< youtube id="hhOHnCqpmCg" title="James - Hello (live)" >}}<br>
 ### More Videos
 
-- [James - We're Going To Miss You](https://www.youtube.com/watch?v=tMtgy8Xt5O4)
-- [James - I Know What I'm Here For](https://www.youtube.com/watch?v=htbQ_FY8EeQ)
-- [James - Hello (live)](https://www.youtube.com/watch?v=hhOHnCqpmCg)
 - [JAMES - STRANGERS - legendado](https://www.youtube.com/watch?v=XYlcPuru_wU)
 
 ## Release Images

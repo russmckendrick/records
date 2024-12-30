@@ -20,14 +20,18 @@ additional_images:
     - "https://i.discogs.com/PKz2o2kA9eWJiOBP6hHmFzAR6a5QcxAzpXie7u58NW0/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgzOTQ1/MjItMTQ2MTU5NjUy/Mi02Njk3LmpwZWc.jpeg"
     - "https://i.discogs.com/c_Q3FossLm-7H41sYY9hlJJdF4zXUpPhEfh5CzwD2sY/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgzOTQ1/MjItMTQ2MTU5NjUy/Mi00MjI4LmpwZWc.jpeg"
     - "https://i.discogs.com/WrAWOpgP9OJK1Penr-3BmYvZdsnMJxvMuT4Sxflfo9o/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgzOTQ1/MjItMTQ2MTU5NjUy/Ny0zMjY4LmpwZWc.jpeg"
-    - "https://i.discogs.com/KCKRGW-8yJWUWMKyxNqWbOMT1sHJDD55KoQ1MOdMVpU/rs:fit/g:sm/q:90/h:607/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgzOTQ1/MjItMTQ2Nzk5NTc2/Ni0zMjAwLmpwZWc.jpeg"
-    - "https://i.discogs.com/DOtW1X4rUc1mbK2aGH00F-iyyv5fI_9kezNmdWGlMZA/rs:fit/g:sm/q:90/h:605/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgzOTQ1/MjItMTQ2Nzk5NTc2/Ny00ODcxLmpwZWc.jpeg"
+    - "https://i.discogs.com/rFOUoGutZfRv1hJYuokgSMr-sflY9YRWRWUCTDkMT_Q/rs:fit/g:sm/q:90/h:600/w:593/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgzOTQ1/MjItMTQ2Nzk5NTc2/Ni0zMjAwLmpwZWc.jpeg"
+    - "https://i.discogs.com/kJGCXhazMugMViq9nF9BstFve6hSTnWPOUrGjmoiO60/rs:fit/g:sm/q:90/h:600/w:595/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgzOTQ1/MjItMTQ2Nzk5NTc2/Ny00ODcxLmpwZWc.jpeg"
     - "https://i.discogs.com/SKo09STtQCF7ev9l_iXZPaG106Viy8psljHspLS7A3w/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgzOTQ1/MjItMTQ2MTU5NjUy/Mi03NTYyLmpwZWc.jpeg"
 genres: ["Pop", "Folk, World, & Country"]
 styles: ["Indie Pop"]
 ---
 
-Begin to Hope is the fourth album by Soviet-born American singer-songwriter Regina Spektor. It was released June 13, 2006. The album debuted at number 70 on the Billboard 200, but due to the popularity of the single "Fidelity", it peaked at number 20 and was labeled a "pace setter" by Billboard. Rolling Stone named it the 21st-best album of 2006. The album was certified Gold by the RIAA for shipments to U.S. retailers of 500,000 units.The album was nominated for the 2006 Shortlist Music Prize.Peter Gabriel recorded a cover of "Après Moi" on his orchestral album Scratch My Back, released in 2010.
+Begin to Hope is the fourth album by Soviet-born American singer-songwriter Regina Spektor. It was released June 13, 2006. The album debuted at number 70 on the Billboard 200, but due to the popularity of the single "Fidelity", it peaked at number 20 and was labeled a "pace setter" by Billboard. Rolling Stone named it the 21st-best album of 2006. The album was certified Gold by the RIAA for shipments to U.S. retailers of 500,000 units.
+The album was nominated for the 2006 Shortlist Music Prize.
+Peter Gabriel recorded a cover of "Après Moi" on his orchestral album Scratch My Back, released in 2010.
+
+
     
     
 
@@ -57,18 +61,27 @@ Begin to Hope is the fourth album by Soviet-born American singer-songwriter Regi
 22. Better (Radio Recut) (3:12)
 
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/begin-to-hope-bonus-track-version/157820746" >}}<br>
+{{< applemusic url="https://music.apple.com/gb/album/begin-to-hope/157819402" >}}<br>
 
 
 ## Videos
-### Regina Spektor - On The Radio [Official Music Video]
-{{< youtube id="tHAhnJbGy9M" title="Regina Spektor - On The Radio [Official Music Video]" >}}<br>
+### Regina Spektor - Apres Moi - Begin To Hope, 2006 (LP, Vinyl, 4k, UHD)
+{{< youtube id="To7sRUSb6NA" title="Regina Spektor - Apres Moi - Begin To Hope, 2006 (LP, Vinyl, 4k, UHD)" >}}<br>
 ### More Videos
 
+- [Regina Spektor - "Fidelity" [Official Music Video]](https://www.youtube.com/watch?v=wigqKfLWjvM)
+- [Regina Spektor - "Better" [Official Music Video]](https://www.youtube.com/watch?v=VCokhCqK9rw)
+- [Regina Spektor - "Samson" [OFFICIAL VIDEO]](https://www.youtube.com/watch?v=p62rfWxs6a8)
+- [Regina Spektor - "On The Radio" [Official Music Video]](https://www.youtube.com/watch?v=tHAhnJbGy9M)
+- [Hotel Song by Regina Spektor](https://www.youtube.com/watch?v=TqJUvP3b9Hk)
+- [Regina Spektor - "On The Radio" [Official Music Video]](https://www.youtube.com/watch?v=tHAhnJbGy9M)
+- [That Time](https://www.youtube.com/watch?v=M-41HdCf7dI)
+- [Summer in the City](https://www.youtube.com/watch?v=PpEFC731Mo8)
 - [Regina Spektor - Apres Moi - Begin To Hope, 2006 (LP, Vinyl, 4k, UHD)](https://www.youtube.com/watch?v=To7sRUSb6NA)
-- [Regina Spektor - Fidelity [Official Music Video]](https://www.youtube.com/watch?v=wigqKfLWjvM)
-- [Regina Spektor - Better [Official Music Video]](https://www.youtube.com/watch?v=VCokhCqK9rw)
-- [Regina Spektor - Samson [OFFICIAL VIDEO]](https://www.youtube.com/watch?v=p62rfWxs6a8)
+- [Regina Spektor - "Fidelity" [Official Music Video]](https://www.youtube.com/watch?v=wigqKfLWjvM)
+- [Regina Spektor - "Better" [Official Music Video]](https://www.youtube.com/watch?v=VCokhCqK9rw)
+- [Regina Spektor - "Samson" [OFFICIAL VIDEO]](https://www.youtube.com/watch?v=p62rfWxs6a8)
+- [Regina Spektor - "On The Radio" [Official Music Video]](https://www.youtube.com/watch?v=tHAhnJbGy9M)
 - [Hotel Song by Regina Spektor](https://www.youtube.com/watch?v=TqJUvP3b9Hk)
 
 ## Release Images

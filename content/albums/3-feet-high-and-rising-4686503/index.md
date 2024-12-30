@@ -69,17 +69,19 @@ Proudly eccentric and preaching their message of self-expression while dressed i
 23. D.A.I.S.Y. Age (3:58)
 
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/3-feet-high-and-rising/1657705063" >}}<br>
+{{< applemusic url="https://music.apple.com/gb/album/3-feet-high-and-rising/1673853423" >}}<br>
 
 
 ## Videos
-### De La Soul - Intro (Official Audio)
-{{< youtube id="yJj-gwsqEJw" title="De La Soul - Intro (Official Audio)" >}}<br>
+### De La Soul - Eye Know (Official Music Video) [HD] ft. Otis Redding
+{{< youtube id="q9jCsOCfUUg" title="De La Soul - Eye Know (Official Music Video) [HD] ft. Otis Redding" >}}<br>
 ### More Videos
 
+- [De La Soul - Me Myself and I (With Intro) (Official Music Video) [HD]](https://www.youtube.com/watch?v=zR9AlcgL6_0)
+- [De La Soul - Intro (Official Audio)](https://www.youtube.com/watch?v=yJj-gwsqEJw)
 - [De La Soul - The Magic Number (Official Lyric Video)](https://www.youtube.com/watch?v=pxkOWjZAPLs)
 - [De La Soul - Change In Speak (Official Audio)](https://www.youtube.com/watch?v=PXI8YSFjm3U)
-- [De La Soul - Cool Breeze on the Rocks (The Melted Version) (Official Audio)](https://www.youtube.com/watch?v=OwwaO_FxEco)
+- [De La Soul - Cool Breeze on the Rocks (1989)](https://www.youtube.com/watch?v=f7kDkEf2bwk)
 - [De La Soul - Can U Keep a Secret (Official Audio)](https://www.youtube.com/watch?v=Q6vzxBzjVKQ)
 - [De La Soul - Jenifa Taught Me (Derwin's Revenge) (Official Audio)](https://www.youtube.com/watch?v=3wYtCyAKbzE)
 - [De La Soul - Transmitting Live from Mars (Official Audio)](https://www.youtube.com/watch?v=7nFCOYP1Tow)
@@ -97,8 +99,7 @@ Proudly eccentric and preaching their message of self-expression while dressed i
 - [De La Soul - This is a Recording 4 Living in a Fulltime ERA (L.I.F.E.) (Official Audio)](https://www.youtube.com/watch?v=UxQXPk40DCw)
 - [De La Soul - I Can Do Anything (Delacratic) (Official Audio)](https://www.youtube.com/watch?v=MDznQE_zkn8)
 - [De La Soul - D.A.I.S.Y. Age (Official Audio)](https://www.youtube.com/watch?v=m7xAIN2cuBU)
-- [De La Soul - Eye Know (Official Music Video) [HD] ft. Otis Redding](https://www.youtube.com/watch?v=q9jCsOCfUUg)
-- [De La Soul - Me Myself and I (With Intro) (Official Music Video) [HD]](https://www.youtube.com/watch?v=zR9AlcgL6_0)
+- [De La Soul - Cool Breeze on the Rocks (The Melted Version) (Official Audio)](https://www.youtube.com/watch?v=OwwaO_FxEco)
 
 ## Release Images
 {{< imageGrid >}}

@@ -16,15 +16,15 @@ additional_images:
     - "https://i.discogs.com/niGEekpFu5iaHM842fImoaLMgoWBlMqZ1e2O3vLCzgs/rs:fit/g:sm/q:90/h:593/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MTky/NjA5LTE1Njk4NTAz/MDItOTYzNS5qcGVn.jpeg"
     - "https://i.discogs.com/zRqsl9dLykFmnYsbqqALiI1d8TZod8HwnwYem0iDnq8/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MTky/NjA5LTE1Njk4NTAz/MDMtNDY5NC5qcGVn.jpeg"
     - "https://i.discogs.com/0p9pB4HOHsxP6I2aVIsY02XTqD0qOt616JPT5-wvUWA/rs:fit/g:sm/q:90/h:593/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MTky/NjA5LTE1Njk4NTAz/MDMtMjMzMS5qcGVn.jpeg"
-    - "https://i.discogs.com/8U6YM21JIoTF9Liq_3Z8lnrLEvms7ZngMM_Vcl5dHCQ/rs:fit/g:sm/q:90/h:603/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MTky/NjA5LTE1Njk4NTAz/MDQtODY5Mi5qcGVn.jpeg"
-    - "https://i.discogs.com/sh2V4a7PfPSMJzUa-J8FWjBMkCH_z3xrQV7EV0KmhxQ/rs:fit/g:sm/q:90/h:602/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MTky/NjA5LTE1Njk4NTAz/MDMtNjcyNS5qcGVn.jpeg"
+    - "https://i.discogs.com/WnxMiFHYK9uHDuqm47-agXa2DAvW_fkup9kYcsGI588/rs:fit/g:sm/q:90/h:600/w:597/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MTky/NjA5LTE1Njk4NTAz/MDQtODY5Mi5qcGVn.jpeg"
+    - "https://i.discogs.com/R5NcGdzG5y7hJYR2KeyyGwP9OKfq63X-jOeVKyAJoY0/rs:fit/g:sm/q:90/h:600/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MTky/NjA5LTE1Njk4NTAz/MDMtNjcyNS5qcGVn.jpeg"
     - "https://i.discogs.com/GtKXjWdI7vjHAT3Wkh7o4qpCUcVOcyULddIrBl9tsco/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MTky/NjA5LTE1Njk4NTAz/MDQtODU4MS5qcGVn.jpeg"
     - "https://i.discogs.com/DXn6PGfO9ibxQqij9Xla57fL2Rhl88rggv-B1saST8A/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MTky/NjA5LTE1Njk4NTAz/MDUtNTk4MC5qcGVn.jpeg"
-    - "https://i.discogs.com/4GyH-5K8-c6rOSiqHWrAJCJhJM6JvXFPjwDf5UxBiNg/rs:fit/g:sm/q:90/h:603/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MTky/NjA5LTE1Njk4NTAz/MDMtNTM4NC5qcGVn.jpeg"
     - "https://i.discogs.com/jHXd5bgDmeC11iEF2BE-ZbX60jwbCxSN7upCqkumrfM/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MTky/NjA5LTE1Njk4NTAz/MDUtMTYxMC5qcGVn.jpeg"
     - "https://i.discogs.com/Kv-6NfG3euFPPzmgUpMbxzxYQfBQCOvTI85a4TOgJpo/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MTky/NjA5LTE1Njk4NTAz/MDYtMjcwOC5qcGVn.jpeg"
     - "https://i.discogs.com/tnJ0RUa5A4wcb4B0k9LtcMy00JlP9Au00mdvEZbl0QM/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MTky/NjA5LTE1Njk4NTAz/MDYtNDk1Ni5qcGVn.jpeg"
     - "https://i.discogs.com/pp5z4FKG2-iORRFF3PfKlB5gPaKUpzII430WihqpGlE/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MTky/NjA5LTE1Njk4NTAz/MDYtODQzMy5qcGVn.jpeg"
+    - "https://i.discogs.com/6_jBlWc1INl6gRD40jw9NsOA6h9EwB16Lgxjs3Pi0Ig/rs:fit/g:sm/q:90/h:600/w:597/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MTky/NjA5LTE1Njk4NTAz/MDMtNTM4NC5qcGVn.jpeg"
     - "https://i.discogs.com/2pKWgK9mHW_1liHJpng-qvVLUQKyL_O2LvE0B8xu5hE/rs:fit/g:sm/q:90/h:295/w:300/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MTky/NjA5LTE1Njk4NTAz/MDYtMjYwNi5qcGVn.jpeg"
     - "https://i.discogs.com/bAAmwnNwBxdvTw7ayP7RDuYw2B2Sak-pgQnLs8it5Gk/rs:fit/g:sm/q:90/h:400/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MTky/NjA5LTE2ODA0Mzk2/NjctMjI0OS5qcGVn.jpeg"
     - "https://i.discogs.com/_Yt7ibv_zj-mziJeT00WvUX79b42jH4wAKIJZ5yeH2Y/rs:fit/g:sm/q:90/h:400/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MTky/NjA5LTE2ODA0Mzk2/NzAtNzE1Mi5qcGVn.jpeg"
@@ -64,7 +64,7 @@ The album peaked with 263,000 units sold in the US.
 21. Missing Link
 
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/where-you-been/1318714108" >}}<br>
+{{< applemusic url="https://music.apple.com/gb/album/where-you-been/1765551992" >}}<br>
 
 
 ## Videos

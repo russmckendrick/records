@@ -12,12 +12,12 @@ cover:
     alt: " Here Comes A Man From The Council With A Flamethrower by A Formal Horse"
     caption: " Here Comes A Man From The Council With A Flamethrower by A Formal Horse"
 additional_images:
-    - "https://i.discogs.com/5qC3fTrSpBjOBVEX1dmV3EMkagVaX2KwrYE1JxGUuXo/rs:fit/g:sm/q:90/h:605/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0ODQ5/NzgzLTE1ODI5MDMz/NTMtMTU4NS5qcGVn.jpeg"
+    - "https://i.discogs.com/3nc58MQ7Ivb_zi8dW8H6G24BZi8S0TJzf6-tgukikPA/rs:fit/g:sm/q:90/h:600/w:594/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0ODQ5/NzgzLTE1ODI5MDMz/NTMtMTU4NS5qcGVn.jpeg"
     - "https://i.discogs.com/P8us_EnU4KbyeguvvqteTEF1aRQSQBvN64wWNb91jOo/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0ODQ5/NzgzLTE1ODI5MDMz/NTAtNjYyNy5qcGVn.jpeg"
     - "https://i.discogs.com/aTNbp8y0yaHWqk-xLkjoNqj1iUsmqJQxOESweMO4VJE/rs:fit/g:sm/q:90/h:594/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0ODQ5/NzgzLTE1ODI5Njcw/MjAtNTQyNy5qcGVn.jpeg"
     - "https://i.discogs.com/0vJI-c3n1m17HF6jY4Deel-WHtSTVrhrCFjXDHpdFWw/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0ODQ5/NzgzLTE1ODI5Njcw/MTgtMTI0OC5qcGVn.jpeg"
-    - "https://i.discogs.com/-T9hCCCg_F6r4PF8UxzFscurhoADdk8MGUcTYChnKvs/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0ODQ5/NzgzLTE1ODI5NjY5/OTgtNTU3OC5qcGVn.jpeg"
-    - "https://i.discogs.com/WdxfirwHdLSOBGsOXKNoEprxWXDclMjWeQOjGjQD36E/rs:fit/g:sm/q:90/h:602/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0ODQ5/NzgzLTE1ODI5Njcw/MjAtNTY5My5qcGVn.jpeg"
+    - "https://i.discogs.com/W-lFcNF06x1aNmC3wsil92hEeaWEb4_hnVJcnE_H2vg/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0ODQ5/NzgzLTE1ODI5NjY5/OTgtNTU3OC5qcGVn.jpeg"
+    - "https://i.discogs.com/Tp5PZnY5ogCp1m_SR5D1NfDxqITQnHbDw4337aULfRY/rs:fit/g:sm/q:90/h:600/w:597/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0ODQ5/NzgzLTE1ODI5Njcw/MjAtNTY5My5qcGVn.jpeg"
 genres: ["Rock"]
 styles: ["Prog Rock", "Alternative Rock"]
 ---

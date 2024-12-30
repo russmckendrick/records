@@ -12,12 +12,16 @@ cover:
     alt: "Knowing Me Knowing You by Alan Partridge"
     caption: "Knowing Me Knowing You by Alan Partridge"
 additional_images:
-    - "https://i.discogs.com/HyjIhwOu3lHlzFKPdE1PhzLEjllIOPsayxnb4HB-mso/rs:fit/g:sm/q:90/h:611/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgzOTU4/NjAtMTQ2MTM5NzQy/OS03NDk3LmpwZWc.jpeg"
-    - "https://i.discogs.com/tZqCF2SgE1egnWZHF6qab00IU8SAHrpr5uptcFp4Pwk/rs:fit/g:sm/q:90/h:611/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgzOTU4/NjAtMTQ2MTM5NzQz/Mi0zMDc2LmpwZWc.jpeg"
+    - "https://i.discogs.com/W1dU_8EJdhJDqc6R3Kfb9TS-7nVd5pe-MUMzJGprTQU/rs:fit/g:sm/q:90/h:600/w:589/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgzOTU4/NjAtMTQ2MTM5NzQy/OS03NDk3LmpwZWc.jpeg"
+    - "https://i.discogs.com/-Fiv4NYYnZmLKQqz638ehpiUPe0A8sQBPmRqANyc-ew/rs:fit/g:sm/q:90/h:600/w:589/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgzOTU4/NjAtMTQ2MTM5NzQz/Mi0zMDc2LmpwZWc.jpeg"
 genres: ["Non-Music"]
 styles: ["Comedy"]
 ---
 
+Knowing Me, Knowing You with Alan Partridge (also known as Knowing Me, Knowing You) is a BBC Television comedy series of six episodes (beginning 16 September 1994), and a Christmas special Knowing Me, Knowing Yule on 29 December 1995. It is named after the song "Knowing Me, Knowing You" by ABBA (the main character's favourite band), a rendition of which was used as the show's title music. Steve Coogan plays the incompetent but self-satisfied Norwich-based talk show host Alan Partridge, who often insults his guests and humiliates himself in the process. Alan was a spin-off character from the spoof radio show On the Hour (which later transferred to TV as The Day Today). Knowing Me, Knowing You was written by Coogan, Armando Iannucci (who produced the radio version) and Patrick Marber (who also starred), with contributions from the regular supporting cast of Doon Mackichan, Rebecca Front and David Schneider, who played Alan's weekly guests. Steve Brown provided the show's music and arrangements, and also appeared as Glenn Ponder, the man in charge of the house band (the name of which changed, without explanation, every episode).
+Alan went on to appear in two series of the sitcom I'm Alan Partridge, following his life after both his marriage and TV career come to an end, though the latter was subsequently revived. It was generally well received by fans and critics, and was nominated for a BAFTA and a British Comedy Award.
+    
+    
 
 
 ## Tracklisting
@@ -34,6 +38,7 @@ styles: ["Comedy"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
+| Wikipedia URL | https://en.wikipedia.org/wiki/Knowing_Me_Knowing_You_with_Alan_Partridge_(TV_series) |
 | Format         | Vinyl LP Limited Edition Picture Disc |
 | Label          | Demon Records |
 | Catalog Number | DEMREC138 |

@@ -4,6 +4,7 @@ artist_name: "Crowded House"
 artist: "crowded-house"
 album_name: "Temple Of Low Men"
 date: 2015-08-20T07:54:11.000000Z
+release_date: "1988-07-01"
 release_id: "2580024"
 slug: "temple-of-low-men-2580024"
 hideSummary: true
@@ -17,11 +18,13 @@ genres: ["Rock"]
 styles: ["Pop Rock", "Alternative Rock", "New Wave"]
 ---
 
-Temple of Low Men is the second studio album by New Zealand-Australian rock band Crowded House, released by Capitol Records on 5 July 1988. The three band members, Neil Finn, Nick Seymour and Paul Hester, recorded the album in Melbourne and Los Angeles with Mitchell Froom as producer. Finn had written all ten tracks during the two years since their self-titled debut. Temple of Low Men peaked at number one in Australia, number two in New Zealand, number ten in Canada and number 40 on the US Billboard 200.
-At the ARIA Music Awards of 1989 the group won four categories: Album of the Year and Best Group for Temple of Low Men; Best Cover Art for Seymour's work; and Song of the Year for "Better Be Home Soon".
-
-
-    
+What’s a band to do after their debut album turns them into a household name? Make an altogether less inviting follow-up, of course. While “Don’t Dream It’s Over” from 1986’s <i>Crowded House</i> put the band on every map, 1988’s <i>Temple of Low Men</i> offers no immediately accessible songs.
+ 
+It seems singer and chief songwriter Neil Finn, was searching for something with more thematic (and personal) gravitas than that song’s simple message of optimism, and on Crowded House’s second record, he plumbed the depths of his own existential malaise to get there. Pleasingly, its darkness would be added to the light of their debut to create the beauteous balancing act of 1991’s <i>Woodface</i>.
+ 
+In form and function, <i>Temple of Low Men</i> is a purposely back-to-front affair. Its last single was its first track—the decidedly radio-averse “I Feel Possessed”—while its lead single and biggest hit, “Better Be Home Soon,” was relegated to the end of the album. On every level, Finn makes the listener work to appreciate everything. If it’s not a disarmingly confronting account of infidelity (“Into Temptation”), it’s about how wealth impoverishes health (“Mansion in the Slums”) or Finn waking up to the screams of his sister’s nightmares (initially maligned single turned fan favourite, “Sister Madly”).
+        
+        
     
 
 
@@ -42,19 +45,20 @@ At the ARIA Music Awards of 1989 the group won four categories: Album of the Yea
 
 
 ## Videos
-### Crowded House - I Feel Possessed
-{{< youtube id="FhhB4ztWFbQ" title="Crowded House - I Feel Possessed" >}}<br>
+### Crowded House - Into Temptation
+{{< youtube id="j8U1gC2JilQ" title="Crowded House - Into Temptation" >}}<br>
 ### More Videos
 
-- [Crowded House - Better Be Home Soon (Official Video)](https://www.youtube.com/watch?v=AQOlwMKpmvQ)
-- [Kill Eye](https://www.youtube.com/watch?v=k-SQKxoqk7M)
-- [Crowded House - Into Temptation](https://www.youtube.com/watch?v=j8U1gC2JilQ)
-- [Mansion In The Slums](https://www.youtube.com/watch?v=9A4oxGbdLIc)
 - [Crowded House - When You Come](https://www.youtube.com/watch?v=LUP3XOa3yRs)
-- [Never Be The Same](https://www.youtube.com/watch?v=5ppQCjNF6zo)
-- [Love This Life](https://www.youtube.com/watch?v=v1fzJD2e1Gc)
-- [Sister Madly](https://www.youtube.com/watch?v=UlAaFbrPHhU)
+- [Crowded House - Better Be Home Soon (Official Video)](https://www.youtube.com/watch?v=AQOlwMKpmvQ)
+- [Crowded House - I Feel Possessed](https://www.youtube.com/watch?v=FhhB4ztWFbQ)
+- [Crowded House - Better Be Home Soon (Official Video)](https://www.youtube.com/watch?v=AQOlwMKpmvQ)
+- [CROWDED HOUSE - TEMPLE OF LOW MEN](https://www.youtube.com/watch?v=kT6uSOoLGOE)
 - [In The Lowlands](https://www.youtube.com/watch?v=yvo_EZq9E5I)
+- [Never Be The Same](https://www.youtube.com/watch?v=5ppQCjNF6zo)
+- [Mansion In The Slums](https://www.youtube.com/watch?v=9A4oxGbdLIc)
+- [Kill Eye](https://www.youtube.com/watch?v=k-SQKxoqk7M)
+- [Sister Madly](https://www.youtube.com/watch?v=UlAaFbrPHhU)
 
 ## Release Images
 {{< imageGrid >}}

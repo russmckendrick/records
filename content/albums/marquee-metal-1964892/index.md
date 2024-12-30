@@ -14,8 +14,8 @@ cover:
 additional_images:
     - "https://i.discogs.com/vWKgamTpB54wQkyPf9r1g2mCWmBeTVLwJpj2VKqpYD4/rs:fit/g:sm/q:90/h:146/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NjQ4/OTItMTM0MTE1Mjg4/My0xODIxLmpwZWc.jpeg"
     - "https://i.discogs.com/v16RvHlDfzfdQbkAmlibRVTeBV_XKyZpTUeyz_uJNgA/rs:fit/g:sm/q:90/h:592/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NjQ4/OTItMTQ3NzQ5MTI0/NS02NzE3LmpwZWc.jpeg"
-    - "https://i.discogs.com/cOgVoyuRl2a6Rdv1fNFLY2SQCZeYE7GNyOS2rS-Fz3Y/rs:fit/g:sm/q:90/h:612/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NjQ4/OTItMTQ3NzQ5MTI1/My05NzY1LmpwZWc.jpeg"
-    - "https://i.discogs.com/Ls5m9UHUpKVfJCeCXp9VGCpYQ8UQPRH8chhFxLIUn60/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NjQ4/OTItMTQ3NzQ5MTI1/OC0xNTUzLmpwZWc.jpeg"
+    - "https://i.discogs.com/veOBTqNYQNSJNBGjiGqnPnQsF3GV_rnhjidIuj1VNGM/rs:fit/g:sm/q:90/h:600/w:588/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NjQ4/OTItMTQ3NzQ5MTI1/My05NzY1LmpwZWc.jpeg"
+    - "https://i.discogs.com/faz0SJutkG72XaxRUpH31IT8M5UzL5tGdqPsadVuq6g/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NjQ4/OTItMTQ3NzQ5MTI1/OC0xNTUzLmpwZWc.jpeg"
 genres: ["Rock", "Pop"]
 styles: ["Heavy Metal", "Pop Rock", "Classic Rock"]
 ---

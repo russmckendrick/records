@@ -30,7 +30,7 @@ additional_images:
     - "https://i.discogs.com/MSUEKngEbReBegI1gLfI28bkx37M5GgjcX7-U8eWkxA/rs:fit/g:sm/q:90/h:555/w:554/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ0MDAy/MDktMTM2NDA0ODE3/Ny05MjEyLmpwZWc.jpeg"
     - "https://i.discogs.com/z8TviwciwdTQ0xwajeLGmcwzmAzCvkKmitDhTDmoupU/rs:fit/g:sm/q:90/h:555/w:552/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ0MDAy/MDktMTM2NDA1NjYy/OS00NzQxLmpwZWc.jpeg"
     - "https://i.discogs.com/ZOVgO6Kf_XhkMv3XufNXhS6mJILlFzxQHhsz3jAchm4/rs:fit/g:sm/q:90/h:422/w:555/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ0MDAy/MDktMTM2NDA1MjU1/OC04MTI4LmpwZWc.jpeg"
-    - "https://i.discogs.com/p4GxssXdAubfpj960vbTP5OinDtvNwxtnfiCGLZ5h7o/rs:fit/g:sm/q:90/h:633/w:526/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ0MDAy/MDktMTM2NDA2NTIz/My01MTM2LmpwZWc.jpeg"
+    - "https://i.discogs.com/zVR_nAZ7NftTHdwBXTxHsKJeROSVD41Dl0685d2HY-I/rs:fit/g:sm/q:90/h:600/w:498/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ0MDAy/MDktMTM2NDA2NTIz/My01MTM2LmpwZWc.jpeg"
     - "https://i.discogs.com/F6sla-ZiQv29u6mvlPf_bNi2VbWJTFURwGJA7UnH9Uc/rs:fit/g:sm/q:90/h:261/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ0MDAy/MDktMTM2NDA2NTM1/NS0xMDM5LmpwZWc.jpeg"
     - "https://i.discogs.com/evcvsTINVe7xywRHg2BTtBng3p7nWZ7ZE09DCObaTjM/rs:fit/g:sm/q:90/h:27/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ0MDAy/MDktMTM2Njk4MDkz/Mi0zNDcwLmpwZWc.jpeg"
     - "https://i.discogs.com/PeuHojF56g6Q1mV005Z8v4-nDTZGNEzGkMx4qg4Pep0/rs:fit/g:sm/q:90/h:96/w:279/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ0MDAy/MDktMTM2Njk4MTA0/OS0xNDA1LmpwZWc.jpeg"
@@ -38,7 +38,8 @@ genres: ["Electronic"]
 styles: ["Synth-pop"]
 ---
 
-Delta Machine is the thirteenth studio album by English electronic music band Depeche Mode, released on 22 March 2013 by Columbia Records and Mute Records. It is the band's first album released under Columbia. Recorded in 2012 in Santa Barbara, California and New York City, the album was produced by Ben Hillier and mixed by Flood who had worked with them previously on their most acclaimed albums Violator and Songs of Faith and Devotion. A deluxe edition was also released, containing a bonus disc with four bonus tracks, as well as a 28-page hardcover book including photos by Anton Corbijn."Heaven" was released as the album's lead single on 31 January 2013. The second single from the album, "Soothe My Soul", was released on 10 May 2013, followed by "Should Be Higher" on 11 October 2013. Following the album's release, Depeche Mode embarked on the Delta Machine Tour, which commenced in Nice, France, on 4 May 2013, and concluded in Moscow on 7 March 2014.
+Delta Machine is the thirteenth studio album by English electronic music band Depeche Mode, released on 22 March 2013 by Columbia and Mute Records. It is the band's first album released under Columbia. Recorded in 2012 in Santa Barbara, California, and New York City, the album was produced by Ben Hillier and mixed by Flood, who had previously worked with the band on their albums Violator (1990) and Songs of Faith and Devotion (1993). A deluxe edition was also released, containing a bonus disc with four bonus tracks, as well as a 28-page hardcover book including photos by Anton Corbijn.
+"Heaven" was released as the album's lead single on 31 January 2013. The second single from the album, "Soothe My Soul", was released on 10 May 2013, followed by "Should Be Higher" on 11 October 2013. Following the album's release, Depeche Mode embarked on the Delta Machine Tour, which commenced in Nice, France, on 4 May 2013, and concluded in Moscow on 7 March 2014.
         
         
     
@@ -64,10 +65,15 @@ Delta Machine is the thirteenth studio album by English electronic music band De
 17. All That's Mine (3:24)
 
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/delta-machine-deluxe/600433961" >}}<br>
+{{< applemusic url="https://music.apple.com/gb/album/delta-machine/594094332" >}}<br>
 
 
+## Videos
+### Depeche Mode - Delta Machine (Full Album)
+{{< youtube id="nSn3VeWM8GU" title="Depeche Mode - Delta Machine (Full Album)" >}}<br>
+### More Videos
 
+- [Depeche Mode - Delta Machine (Full Album)](https://www.youtube.com/watch?v=nSn3VeWM8GU)
 
 ## Release Images
 {{< imageGrid >}}

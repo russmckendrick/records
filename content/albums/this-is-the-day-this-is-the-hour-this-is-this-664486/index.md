@@ -17,12 +17,16 @@ additional_images:
     - "https://i.discogs.com/AOiyg2bet1qoVbJ6BQJykixM51PmN_JStkW-57EOXwg/rs:fit/g:sm/q:90/h:301/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY2NDQ4/Ni0xNjA3MjA3NTI2/LTQ4OTEuanBlZw.jpeg"
     - "https://i.discogs.com/zTcLTXYXhsQbCMHlJdcgnYm69W7deAYSwc0HWStPHrc/rs:fit/g:sm/q:90/h:589/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY2NDQ4/Ni0xNjA3MjA3NTI3/LTg3MjQuanBlZw.jpeg"
     - "https://i.discogs.com/Bb8YAhwQBxMES30xRzIfNi6kExtqAhgtRyG3bzPD7Kc/rs:fit/g:sm/q:90/h:591/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY2NDQ4/Ni0xNjA3MjA3NTI2/LTYwNjUuanBlZw.jpeg"
-    - "https://i.discogs.com/LhfqBRSDsTlTfo2FrgcLoEIM8TxGlSK5X6uA5dH-Arc/rs:fit/g:sm/q:90/h:610/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY2NDQ4/Ni0xNjA3MjA3NTI2/LTIzMzYuanBlZw.jpeg"
-    - "https://i.discogs.com/s6Kgf6Yh5v8VH-wYc0N2VDiVMyq5PyHZiqKSUBwwnME/rs:fit/g:sm/q:90/h:607/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY2NDQ4/Ni0xNjA3MjA3NTI2/LTI0NDkuanBlZw.jpeg"
+    - "https://i.discogs.com/k52ToAjURuIQ9QlE8ACgU06pApgGHnFHMfMZnbUDlYI/rs:fit/g:sm/q:90/h:600/w:589/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY2NDQ4/Ni0xNjA3MjA3NTI2/LTIzMzYuanBlZw.jpeg"
+    - "https://i.discogs.com/8_wBBum_3KivTcCzBBnBDy5qmLiALRMJjJkzJuVigoQ/rs:fit/g:sm/q:90/h:600/w:592/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY2NDQ4/Ni0xNjA3MjA3NTI2/LTI0NDkuanBlZw.jpeg"
 genres: ["Electronic", "Hip Hop"]
 styles: ["Breakbeat", "Industrial"]
 ---
 
+This Is the Day...This Is the Hour...This Is This! is the second studio album by English rock band Pop Will Eat Itself, released on 1 May 1989 by RCA Records. It builds upon the band's 1987 debut Box Frenzy in its extensive usage of sampling, combining influences from punk rock, hip hop, heavy metal, and disco music, with samples and lyrics that reference, among many subjects, pop culture and otaku culture. Particularly influential on the album's musical style were hip hop group Public Enemy, while the album's own subtle post-punk touches would later be credited as influential. Some critics regard it as a sound collage. The album artwork, designed by The Designer's Republic, touches on nuclear warfare themes.
+The album peaked at #24 for two weeks on the UK Albums Chart, and at #169 on the US Billboard 200 for six weeks. The three singles from the album – "Def. Con. One", "Can U Dig It?", and "Wise Up! Sucker" – were among the band's most successful to date. The album received critical acclaim, with praise for its invention, humour, and self-contained style. Cherry Red Records released a two-disc deluxe edition of the album in 2011 that includes unreleased bonus tracks.
+    
+    
 
 
 ## Tracklisting
@@ -46,29 +50,24 @@ styles: ["Breakbeat", "Industrial"]
 
 
 ## Videos
-### Poison to the Mind
-{{< youtube id="ffPjII-GJ7Y" title="Poison to the Mind" >}}<br>
+### PWEI Is a Four Letter Word
+{{< youtube id="0-FaCRhqzVU" title="PWEI Is a Four Letter Word" >}}<br>
 ### More Videos
 
-- [PWEI Is a Four Letter Word](https://www.youtube.com/watch?v=0-FaCRhqzVU)
-- [Pop Will Eat Itself | Def Con One](https://www.youtube.com/watch?v=v7Wm4qXC_j4)
 - [Preaching to the Perverted](https://www.youtube.com/watch?v=1P_bN4z2AOc)
-- [Pop Will Eat Itself - Wise Up / Sixteen different flavours of hell](https://www.youtube.com/watch?v=kcm_1-AhFwQ)
+- [Pop Will Eat Itself | Wise Up! Sucker](https://www.youtube.com/watch?v=UJeTi3Svs4Y)
+- [Sixteen Different Flavours of Hell](https://www.youtube.com/watch?v=QkVB2mNJlTI)
 - [Inject Me](https://www.youtube.com/watch?v=G8WepJCQ1CQ)
 - [Can U Dig It?](https://www.youtube.com/watch?v=vbC90pDfUYM)
 - [The Fuses Have Been Lit](https://www.youtube.com/watch?v=T8croHcqQFA)
-- [Pop Will Eat It Self _ Def Con One](https://www.youtube.com/watch?v=5Dl3ZtDsuRQ)
+- [Poison to the Mind](https://www.youtube.com/watch?v=ffPjII-GJ7Y)
+- [Pop Will Eat Itself | Def Con One](https://www.youtube.com/watch?v=v7Wm4qXC_j4)
 - [Radio P.W.E.I.](https://www.youtube.com/watch?v=RCsQ4ILyVZw)
-- [Shortwave Transmission On Up to the Minuteman Nine](https://www.youtube.com/watch?v=IVmAAB5vFIg)
+- [Shortwave Transmission On "Up to the Minuteman Nine"](https://www.youtube.com/watch?v=IVmAAB5vFIg)
 - [Satellite Ecstatica](https://www.youtube.com/watch?v=PXxQ8_PPBXQ)
 - [Not Now James, We're Busy](https://www.youtube.com/watch?v=ykPoCFZODPU)
 - [Wake Up, Time to Die](https://www.youtube.com/watch?v=Lyur17ff3T8)
-- [This the day...this is the hour...this is this (Pop Will Eat Itself) (1989)](https://www.youtube.com/watch?v=Od_I5eC_mHc)
-- [Pop Will Eat Itself - Wake Up! Time To Die [HQ AUDIO]](https://www.youtube.com/watch?v=j7OUeFShS6o)
-- [Wise Up! Sucker (12 Youth Remix)](https://www.youtube.com/watch?v=5ch4CNXisao)
-- [Pop Will Eat Itself - Radio P.W.E.I.](https://www.youtube.com/watch?v=W8_vNu45NNs)
-- [Sixteen Different Flavours of Hell](https://www.youtube.com/watch?v=QkVB2mNJlTI)
-- [Pop Will Eat Itself (PWEI) - Def. Con. One - Live - Factory Theatre - 10 March 2018](https://www.youtube.com/watch?v=62_755iXN-0)
+- [Wise Up! Sucker (12" Youth Remix)](https://www.youtube.com/watch?v=5ch4CNXisao)
 
 ## Release Images
 {{< imageGrid >}}
@@ -76,6 +75,7 @@ styles: ["Breakbeat", "Industrial"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
+| Wikipedia URL | https://en.wikipedia.org/wiki/This_Is_the_Day...This_Is_the_Hour...This_Is_This! |
 | Format         | Vinyl LP Album (Gatefold) |
 | Label          | RCA |
 | Catalog Number | PL 74141 |

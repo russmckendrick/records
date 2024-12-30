@@ -13,14 +13,14 @@ cover:
     caption: "Reimagining The Court Of The Crimson King by Various"
 additional_images:
     - "https://i.discogs.com/bQTaZhO7Q4LlOdwHtLKGiyvJIO-v3GsHAqLvRi1pweg/rs:fit/g:sm/q:90/h:589/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMTY2/NjA0LTE3MTEwNjI1/MjYtNTA5Ny5qcGVn.jpeg"
-    - "https://i.discogs.com/-U6tYzXl9VA7VXVs9f-lwq5DhNp06Bnoq-Y_TmMJKyc/rs:fit/g:sm/q:90/h:602/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMTY2/NjA0LTE3MTEwNjI1/MjgtNTY4My5qcGVn.jpeg"
+    - "https://i.discogs.com/vhC9kE7QRPjf01QvX26QQ-XRahwQ3Z_GUev9SuXLotg/rs:fit/g:sm/q:90/h:600/w:597/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMTY2/NjA0LTE3MTEwNjI1/MjgtNTY4My5qcGVn.jpeg"
     - "https://i.discogs.com/BBeECaOm06f1MKNKmigLL_NrHPi8hD_0ClNE4o-VAVA/rs:fit/g:sm/q:90/h:588/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMTY2/NjA0LTE3MTEwNjI1/MjgtMzk3NS5qcGVn.jpeg"
     - "https://i.discogs.com/CqZ1W99da5YtJZxcN_htthmO8I_LBHq3n34ZPzHtzmg/rs:fit/g:sm/q:90/h:593/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMTY2/NjA0LTE3MTEwNjI1/MjgtMzQ1OS5qcGVn.jpeg"
     - "https://i.discogs.com/mD2rat3J5vOnTy0dfpoFP00B0cJxnzqv4W5CHWdDZqo/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMTY2/NjA0LTE3MTEwNjI1/MjYtODI4Ny5qcGVn.jpeg"
     - "https://i.discogs.com/MpqYic9oZDBL2PHSQxJ74AEsA-0g8Hem9SRfbLItVhM/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMTY2/NjA0LTE3MTEwNjI1/MjYtOTIzMy5qcGVn.jpeg"
     - "https://i.discogs.com/ZtjL2U-SoRv0jppPBkoBk6HUw_TIK-PN_YwsxNsfR00/rs:fit/g:sm/q:90/h:583/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMTY2/NjA0LTE3MTEwNjI1/MTktMTg0MC5qcGVn.jpeg"
     - "https://i.discogs.com/dxHNMXqBF1U09Olh7ds4BXtoESNxl1803UjqtUriR80/rs:fit/g:sm/q:90/h:584/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMTY2/NjA0LTE3MTEwNjI1/MTktOTY4MC5qcGVn.jpeg"
-    - "https://i.discogs.com/KYQIW-kFzzJsWPG5PDvU9hB1DMHKPhUp-QGjq5EHmqw/rs:fit/g:sm/q:90/h:1604/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMTY2/NjA0LTE3MTEwNjI1/MzItNTM4OC5qcGVn.jpeg"
+    - "https://i.discogs.com/_GTq_7Lks2n7oVtHPNjq4Onc3i1811ubIj_jkDs_-xM/rs:fit/g:sm/q:90/h:600/w:224/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMTY2/NjA0LTE3MTEwNjI1/MzItNTM4OC5qcGVn.jpeg"
     - "https://i.discogs.com/SJJPvYmGFY1nrszyswHeQfh2JdjhqMKRAsXpdnjPB-U/rs:fit/g:sm/q:90/h:529/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMTY2/NjA0LTE3MTEwNjI1/MTktMzc2NC5qcGVn.jpeg"
 genres: ["Rock"]
 styles: ["Prog Rock"]
@@ -36,14 +36,13 @@ styles: ["Prog Rock"]
 5. The Court Of The Crimson King
 
 
-## Spotify
-{{< spotify type="album" id="08K67SZbqiSylQo7Hsm9Yq" width="100%" height="500" >}}<br>
-
 
 ## Videos
 ### TODD RUNDGREN’s Explosive Take On KING CRIMSON’s “21ST CENTURY SCHIZOID MAN” CHRIS POLAND PROGROCK
 {{< youtube id="VRKZbSH7Dmo" title="TODD RUNDGREN’s Explosive Take On KING CRIMSON’s “21ST CENTURY SCHIZOID MAN” CHRIS POLAND PROGROCK" >}}<br>
+### More Videos
 
+- [TODD RUNDGREN’s Explosive Take On KING CRIMSON’s “21ST CENTURY SCHIZOID MAN” CHRIS POLAND PROGROCK](https://www.youtube.com/watch?v=VRKZbSH7Dmo)
 
 ## Release Images
 {{< imageGrid >}}

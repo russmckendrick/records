@@ -29,6 +29,12 @@ genres: ["Rock"]
 styles: ["Alternative Rock"]
 ---
 
+Living in Extraordinary Times is the 15th studio album by British rock band James. It was released on 3 August 2018, through Infectious Music. A few months after the release of the band's 14th studio album, Girl at the End of the World in 2016, work began on a new album. Writing and three weeks of jam sessions followed, with engineer Beni Giles appearing partway through the sessions. Recording took place at Livingston and Iguana studios, both of which are in London, and lasted for four weeks, with Giles and Charlie Andrew handling co-production. Described as an indie rock record with elements of electronica, the album drew comparisons with the music of U2, the Killers, and the Courteeners. The music incorporates grooves, which were aided by bassist Jim Glennie, drummer David Baynton-Power, Andrew, and Giles.
+Living in Extraordinary Times received generally positive reviews from music critics, some of whom noted James' attempt to challenge listeners' expectations. It peaked at number six in the United Kingdom, while also charting in Belgium and Portugal. "Hank" was released as the lead single in May 2018, and was followed by a tour of the UK. The second single "Many Faces" was released in July of that year amid a series of festival performances. Continuous touring for the album, which consisted of both headlining tours and festival appearances, saw the band play shows across Australia, New Zealand, South Africa, Europe and the United States, including co-headlining tours with the Charlatans and the Psychedelic Furs.
+
+
+    
+    
 
 
 ## Tracklisting
@@ -46,7 +52,7 @@ styles: ["Alternative Rock"]
 12. What's It All About
 
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/living-in-extraordinary-times/1382647329" >}}<br>
+{{< applemusic url="https://music.apple.com/gb/album/living-in-extraordinary-times/1380830164" >}}<br>
 
 
 ## Videos
@@ -57,6 +63,10 @@ styles: ["Alternative Rock"]
 - [James – ‘Coming Home (Pt.2)’ – Official Video](https://www.youtube.com/watch?v=u2OL2CHSs4Q)
 - [James - Extraordinary Times - Wembley Arena, London - December 2018](https://www.youtube.com/watch?v=lB1V8fWWlH4)
 - [James – The making of  ‘Living In Extraordinary Times’](https://www.youtube.com/watch?v=2SQ_QhJpJM4)
+- [James – ‘HANK’ (Official Audio)](https://www.youtube.com/watch?v=v_Vf8dNikAk)
+- [James – ‘Coming Home (Pt.2)’ – Official Video](https://www.youtube.com/watch?v=u2OL2CHSs4Q)
+- [James - Extraordinary Times - Wembley Arena, London - December 2018](https://www.youtube.com/watch?v=lB1V8fWWlH4)
+- [James – The making of  ‘Living In Extraordinary Times’](https://www.youtube.com/watch?v=2SQ_QhJpJM4)
 
 ## Release Images
 {{< imageGrid >}}
@@ -64,6 +74,7 @@ styles: ["Alternative Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
+| Wikipedia URL | https://en.wikipedia.org/wiki/Living_in_Extraordinary_Times |
 | Format         | Vinyl 2× LP Album Limited Edition (Magenta ) |
 | Label          | Infectious Music |
 | Catalog Number | INFECT438ELP1 |

@@ -26,7 +26,7 @@ genres: ["Electronic"]
 styles: ["Tech House", "Electro", "Experimental"]
 ---
 
-Building on his background as a classical pianist and composer, Surrey producer Jon Hopkins uses vast electronic soundscapes to explore other worlds. Here, on his fifth album, he contemplates our own. Inspired by adventures with meditation and psychedelics, <i>Singularity</i> aims to evoke the magical awe of heightened consciousness. It’s a theme that could easily feel affected or clichéd, but Hopkins does it phenomenal justice with imaginative, mind-bending songs that feel both spontaneous and rigorously structured. Floating from industrial, polyrhythmic techno (“Emerald Rush") to celestial, ambient atmospheres (“Feel First Life”), it’s a transcendent headphone vision quest you’ll want to go on again.
+Building on his background as a classical pianist and composer, Surrey producer Jon Hopkins uses vast electronic soundscapes to explore other worlds. Here, on his fifth album, he contemplates our own. Inspired by adventures with meditation and psychedelics, <I>Singularity</I> aims to evoke the magical awe of heightened consciousness. It’s a theme that could easily feel affected or clichéd, but Hopkins does it phenomenal justice with imaginative, mind-bending songs that feel both spontaneous and rigorously structured. Floating from industrial, polyrhythmic techno (“Emerald Rush") to celestial, ambient atmospheres (“Feel First Life”), it’s a transcendent headphone vision quest you’ll want to go on again.
         
         
     
@@ -52,11 +52,12 @@ Building on his background as a classical pianist and composer, Surrey producer 
 {{< youtube id="4sk0uDbM5lc" title="Jon Hopkins - Emerald Rush (Official Video)" >}}<br>
 ### More Videos
 
-- [Jon Hopkins - Singularity (Official Video)](https://www.youtube.com/watch?v=lkvnpHFajt0)
 - [Jon Hopkins - Everything Connected (Official Audio)](https://www.youtube.com/watch?v=t-w-XSbVDsI)
-- [Jon Hopkins - Singularity (ANNA Remix) (Official Audio)](https://www.youtube.com/watch?v=dbUZ2oAnbYQ)
 - [Jon Hopkins - Luminous Beings (Edit) (Official Audio)](https://www.youtube.com/watch?v=GGfttSfGbBM)
+- [Jon Hopkins - Singularity (Official Video)](https://www.youtube.com/watch?v=lkvnpHFajt0)
+- [Jon Hopkins - Singularity (ANNA Remix) (Official Audio)](https://www.youtube.com/watch?v=dbUZ2oAnbYQ)
 - [Neon Pattern Drum](https://www.youtube.com/watch?v=dPV_bL_YOho)
+- [Jon Hopkins - Everything Connected (Official Audio)](https://www.youtube.com/watch?v=t-w-XSbVDsI)
 - [Jon Hopkins - Feel First Life (Official Video)](https://www.youtube.com/watch?v=rXNPbUyiI64)
 - [C O S M](https://www.youtube.com/watch?v=nMTF-IocBi4)
 - [Echo Dissolve](https://www.youtube.com/watch?v=2vYOYz6zVyA)

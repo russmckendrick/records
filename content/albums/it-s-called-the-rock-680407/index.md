@@ -26,6 +26,8 @@ styles: ["Soul", "Disco"]
 1. It's Called The Rock
 2. Patiently
 
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/the-hits-of-edwin-starr/1434906447" >}}<br>
 
 
 ## Videos
@@ -33,6 +35,8 @@ styles: ["Soul", "Disco"]
 {{< youtube id="2tUr7Ca3aww" title="Edwin Starr - It's Called The Rock ( Disco 1979 )" >}}<br>
 ### More Videos
 
+- [PATIENTLY - EDWIN STARR](https://www.youtube.com/watch?v=vphCiSttcwc)
+- [Edwin Starr - It's Called The Rock ( Disco 1979 )](https://www.youtube.com/watch?v=2tUr7Ca3aww)
 - [PATIENTLY - EDWIN STARR](https://www.youtube.com/watch?v=vphCiSttcwc)
 
 ## Release Images

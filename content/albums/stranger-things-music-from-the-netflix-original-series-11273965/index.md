@@ -19,10 +19,11 @@ additional_images:
     - "https://i.discogs.com/7WWuZP2X1XpGDHDp7_C8s1FHg6ATbM3pydMMY4pykQI/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMjcz/OTY1LTE1NjQ1MTAx/MzYtMzY3MC5qcGVn.jpeg"
     - "https://i.discogs.com/j_DgySpOC9a95iE0osRaK5U4cJ2S9OXL5n-FbYD7pO8/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMjcz/OTY1LTE1NjQ1MTAx/MzMtNDIzNy5qcGVn.jpeg"
     - "https://i.discogs.com/7FH66u2UXFYrmzQMavmR1xjN97SYHN7AAy8tZZzJccs/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMjcz/OTY1LTE1NjQ1MTAx/MzYtMTE3OC5qcGVn.jpeg"
+    - "https://i.discogs.com/tDu6tq1-jgSACe7-qqbtgM1UHbVo8KD9a82fpbhWeZw/rs:fit/g:sm/q:90/h:600/w:398/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMjcz/OTY1LTE2OTk5Mjk4/NDAtNjMxMS5qcGVn.jpeg"
     - "https://i.discogs.com/6HeRREG-CtLo15h27SqpHp6iNYUYbNB48Ld1yB1GYFQ/rs:fit/g:sm/q:90/h:547/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMjcz/OTY1LTE1NjQ1MTAx/MzgtMTk0My5qcGVn.jpeg"
     - "https://i.discogs.com/9ZO1SjtPiLRn_Hy2vDjlzWBWR80NzyxsWAkDw3OYuL8/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMjcz/OTY1LTE1NjQ1MTAx/MjktMTcwNS5qcGVn.jpeg"
-genres: ["Rock", "Pop"]
-styles: []
+genres: ["Rock", "Pop", "Stage & Screen"]
+styles: ["Soundtrack"]
 ---
 
 
@@ -66,10 +67,11 @@ styles: []
 {{< youtube id="cy9iyo9Ygg4" title="INTRO - Will Singing the Clash" >}}<br>
 ### More Videos
 
-- [Every Breath You Take](https://www.youtube.com/watch?v=GO5utuvcZps)
 - [Stranger Things Mike and Eleven - Every breath you take](https://www.youtube.com/watch?v=su5HtUmvndE)
-- [Stranger Things Soundtrack | S02E08 Should I Stay or Should I Go by The Clash](https://www.youtube.com/watch?v=__jjYB3GyD8)
 - [Stranger Things | Heroes](https://www.youtube.com/watch?v=zNwagmh76o4)
+- [INTRO - Will Singing the Clash](https://www.youtube.com/watch?v=cy9iyo9Ygg4)
+- [Every Breath You Take](https://www.youtube.com/watch?v=GO5utuvcZps)
+- [Stranger Things Soundtrack | S02E08 Should I Stay or Should I Go by The Clash](https://www.youtube.com/watch?v=__jjYB3GyD8)
 - [Coffee & Contemplation](https://www.youtube.com/watch?v=gZW2rKA59kE)
 - [The Bangles - Hazy Shade of Winter (Video Version)](https://www.youtube.com/watch?v=TxrwImCJCqk)
 - [Nocturnal Me](https://www.youtube.com/watch?v=pVznjbcmHtQ)

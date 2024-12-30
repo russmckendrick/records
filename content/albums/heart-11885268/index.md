@@ -26,6 +26,8 @@ The album features three regional covers: the Canadian cover features a man embr
 The album was originally released with a bonus promotional sampler of acts with current releases on Paper Bag, including Matthew Barber, Hawaii, The FemBots and Uncut. Two tracks from Heart were repeated on the sampler, along with a non-album bonus track, "Timeless."
 The US release includes a hidden bonus track, a live version of "The Comeback", originally taken from the 2001 EP of the same name. The track "Look Up" uses an English horn solo from the beginning of the third movement of Symphonie Fantastique by Hector Berlioz, and the track "The Woods" contains quotes from the movie Grey Gardens, the famed cult-classic documentary from 1975. Videos for the songs "Elevator Love Letter" and "Look Up" were shot to promote this album.
 The album was recorded in the bedroom of keyboard player Chris Seligman on Avenue Mont-Royal in Montreal.
+
+
     
     
 

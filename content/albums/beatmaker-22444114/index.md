@@ -12,7 +12,7 @@ cover:
     alt: "Beatmaker by Matt Berry"
     caption: "Beatmaker by Matt Berry"
 additional_images:
-    - "https://i.discogs.com/s-wL-q682LsLm9g7JVDrpzRf6WejhxCfk2EDoD7-uus/rs:fit/g:sm/q:90/h:611/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNDQ0/MTE0LTE2NDY4Mjcy/NDgtNzg1Mi5qcGVn.jpeg"
+    - "https://i.discogs.com/uPMwFA6URf0wnqXS2uYSOqKl7XUhotDVfMit7L9F2RY/rs:fit/g:sm/q:90/h:600/w:589/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNDQ0/MTE0LTE2NDY4Mjcy/NDgtNzg1Mi5qcGVn.jpeg"
     - "https://i.discogs.com/YR9JuUmwF2TZqNs53uU-axJPLv3gw6tiwl8vpCg2EEw/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNDQ0/MTE0LTE2NDY4Mjcy/NDgtNTA4OC5qcGVn.jpeg"
     - "https://i.discogs.com/rTS77JyO64sU4dEub-I-pZh9_Qaw3OTZLMeVp4OLenM/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNDQ0/MTE0LTE2NDY5NDM4/OTMtMTk4Ni5qcGVn.jpeg"
     - "https://i.discogs.com/dq8b3j4q4NWvZ4TVj-cLGhzw_Wqsp11CSiaNV88ycvo/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNDQ0/MTE0LTE2NDY5NDM4/OTMtNzg3NS5qcGVn.jpeg"
@@ -33,7 +33,11 @@ styles: ["Jazz-Funk"]
 ## Videos
 ### Beatmaker
 {{< youtube id="30ZQP2INn48" title="Beatmaker" >}}<br>
+### More Videos
 
+- [Beatmaker (Instrumental)](https://www.youtube.com/watch?v=BPnMKmlW0hc)
+- [Beatmaker](https://www.youtube.com/watch?v=30ZQP2INn48)
+- [Beatmaker (Instrumental)](https://www.youtube.com/watch?v=BPnMKmlW0hc)
 
 ## Release Images
 {{< imageGrid >}}

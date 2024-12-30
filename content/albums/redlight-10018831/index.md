@@ -14,17 +14,18 @@ cover:
 additional_images:
     - "https://i.discogs.com/1MsZtPe_r_FAhSpaRz0yxOJFflLKXw_0hZDApZJ1OXg/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMDE4/ODMxLTE0OTAyMjg3/ODktMjAwMi5qcGVn.jpeg"
     - "https://i.discogs.com/2SVarG485m7fwIo_w7qgPYLOd_eVLWvJobwkwW2tmkk/rs:fit/g:sm/q:90/h:593/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMDE4/ODMxLTE0OTAyMjg4/MzctNDY5MC5qcGVn.jpeg"
-    - "https://i.discogs.com/KNLxD5V89SGrx92E1JnKvDRTWOZcbTudu9B6zpBumY4/rs:fit/g:sm/q:90/h:606/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMDE4/ODMxLTE0OTAyMjg4/NTAtNjEwNi5qcGVn.jpeg"
+    - "https://i.discogs.com/RCFjYuastpkhc8ApnHOvB8m_4jvWDs9rT6UXnWJVN2w/rs:fit/g:sm/q:90/h:600/w:593/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMDE4/ODMxLTE0OTAyMjg4/NTAtNjEwNi5qcGVn.jpeg"
     - "https://i.discogs.com/ZK0psS7T5frRGjx04jyyONjTCGSuwxP8MzPCVnQmpzo/rs:fit/g:sm/q:90/h:590/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMDE4/ODMxLTE0OTAyMjg4/OTQtNTMyOC5qcGVn.jpeg"
-    - "https://i.discogs.com/pFBidNVOyV_IobrU-xkIFnDuPm9ObR0xFGhTIQTnRhE/rs:fit/g:sm/q:90/h:603/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMDE4/ODMxLTE0OTAyMjg4/NjQtOTA3NS5qcGVn.jpeg"
+    - "https://i.discogs.com/WYA7b8Hrbp_kuo07vtdtVK1y-0qlnkivlvx8Bc0P4eQ/rs:fit/g:sm/q:90/h:600/w:596/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMDE4/ODMxLTE0OTAyMjg4/NjQtOTA3NS5qcGVn.jpeg"
     - "https://i.discogs.com/IUtFcYD5D3I747DVB2orj7IKXvexCKLm1IoTJMozZnk/rs:fit/g:sm/q:90/h:591/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMDE4/ODMxLTE0OTAyMjg4/NzMtMzYyNC5qcGVn.jpeg"
     - "https://i.discogs.com/OUdlC8NVqHwqcK53S2bufnUbtz8-Y76fLxjZicL4LW8/rs:fit/g:sm/q:90/h:586/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMDE4/ODMxLTE0OTAyMjg4/ODItNTMxMS5qcGVn.jpeg"
-    - "https://i.discogs.com/9q_Yj7SW_bnTQ-MwP6RHREa-LKS603xL3yzjq8Wmodc/rs:fit/g:sm/q:90/h:605/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMDE4/ODMxLTE0OTAyMjg5/MTItNzc5OC5qcGVn.jpeg"
+    - "https://i.discogs.com/qewd-dRuwJMND-an7IwqIdHwCqhLNZlOBCMyGyrbga4/rs:fit/g:sm/q:90/h:600/w:594/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMDE4/ODMxLTE0OTAyMjg5/MTItNzc5OC5qcGVn.jpeg"
 genres: ["Reggae"]
 styles: ["Reggae", "Ska", "Boogaloo", "Rocksteady"]
 ---
 
-Redlight is an album by the Slackers, released in 1997.The band promoted the album by touring as part of the NYC Ska Mob Tour '97. The opening track is a tribute to Tommy McCook.
+Redlight is an album by the Slackers, released in 1997.
+The band promoted the album by touring as part of the NYC Ska Mob Tour '97. The opening track is a tribute to Tommy McCook.
     
     
 

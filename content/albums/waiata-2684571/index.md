@@ -20,6 +20,10 @@ genres: ["Rock", "Pop"]
 styles: ["Leftfield", "Pop Rock", "Experimental"]
 ---
 
+Waiata is the seventh studio album by New Zealand new wave band Split Enz, released in March 1981. Its Australian release was titled Corroboree. Waiata is the Māori term for song and singing, while corroboree is an Aboriginal term. According to Noel Crombie the intention was to name the album using a word from the natives of every country it was released in. This did not go ahead and the only country to adopt this change was Australia. The rest of the world kept the New Zealand title Waiata.
+The songs "History Never Repeats" and "One Step Ahead" were among the first music videos aired on MTV when the cable television channel launched in the United States in 1981.
+    
+    
 
 
 ## Tracklisting
@@ -35,22 +39,19 @@ styles: ["Leftfield", "Pop Rock", "Experimental"]
 10. Ghost Girl (4:26)
 11. Albert Of India (4:05)
 
-
-## Spotify
-{{< spotify type="album" id="2dybMZ0J4cvVdKbSsau3y1" width="100%" height="500" >}}<br>
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/waiata/1442252874" >}}<br>
 
 
 ## Videos
-### Split Enz - Iris
-{{< youtube id="pF72BXV2quw" title="Split Enz - Iris" >}}<br>
+### Split Enz - One Step Ahead (Official Video)
+{{< youtube id="9bjIhxgxbz4" title="Split Enz - One Step Ahead (Official Video)" >}}<br>
 ### More Videos
 
-- [Split Enz - Wail](https://www.youtube.com/watch?v=H_3PWbZsRGI)
-- [Split Enz - One Step Ahead - Official Video - 1980 - Remastered](https://www.youtube.com/watch?v=2K-4CCvhYco)
+- [Split Enz - I Don't Wanna Dance](https://www.youtube.com/watch?v=uy4kk1MZKHI)
+- [Split Enz - History Never Repeats (Official Video)](https://www.youtube.com/watch?v=xXrWTFvnqKI)
+- [Split Enz - Iris](https://www.youtube.com/watch?v=pF72BXV2quw)
 - [Split Enz - Hard Act To Follow](https://www.youtube.com/watch?v=AGTSUeyt-nY)
-- [Split Enz - Cheated [Demo of Clumsy] - from Corroboree / Waiata](https://www.youtube.com/watch?v=RD2xZtN-RD8)
-- [Split Enz - Albert Of India [Demo] - from Corroboree / Waiata](https://www.youtube.com/watch?v=ckT36u5xEZY)
-- [Split Enz - Ghost Girl](https://www.youtube.com/watch?v=8EJKYfnxlbs)
 
 ## Release Images
 {{< imageGrid >}}
@@ -58,6 +59,7 @@ styles: ["Leftfield", "Pop Rock", "Experimental"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
+| Wikipedia URL | https://en.wikipedia.org/wiki/Waiata_(album) |
 | Format         | Vinyl LP Album |
 | Label          | A&M Records |
 | Catalog Number | AMLH 64848 |

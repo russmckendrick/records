@@ -4,7 +4,7 @@ artist_name: "Gram Parsons"
 artist: "gram-parsons"
 album_name: "GP"
 date: 2015-08-10T18:29:09.000000Z
-release_date: "1973-01-10"
+release_date: "1974-01-01"
 release_id: "5886669"
 slug: "gp-5886669"
 hideSummary: true
@@ -13,17 +13,19 @@ cover:
     alt: "GP by Gram Parsons"
     caption: "GP by Gram Parsons"
 additional_images:
-    - "https://i.discogs.com/VrghOdA7wll1gvZ7xskxoXoc9_7IP_j-xNoxcu1nixE/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU4ODY2/NjktMTQwNTQ3NTQ3/NS0xODUyLmpwZWc.jpeg"
+    - "https://i.discogs.com/3IPEXUPz7e1ckxKE_sSRQ_w5LM5f4S0EaPCDSFPlwVI/rs:fit/g:sm/q:90/h:600/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU4ODY2/NjktMTY4OTM0NTcy/MC01MTA5LmpwZWc.jpeg"
+    - "https://i.discogs.com/CAKcgZbUm2-6j4B59JY4YZ738VASkseAyyLm4bH63CE/rs:fit/g:sm/q:90/h:583/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU4ODY2/NjktMTcxNjMzOTE5/OC03MDU2LmpwZWc.jpeg"
+    - "https://i.discogs.com/IHcOpJCccW7UPHE58IRHosvZ7ZMIpghPi15mJKZa13A/rs:fit/g:sm/q:90/h:585/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU4ODY2/NjktMTcxNjMzOTE5/Ni0zMTQ1LmpwZWc.jpeg"
     - "https://i.discogs.com/pQuQlwO5FIsZr6jXqZsia9EE2u5R60fhSCxkcGylLV4/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU4ODY2/NjktMTQ5MDg3NzQ3/OC0xMjc5LmpwZWc.jpeg"
     - "https://i.discogs.com/i4Xd-LjFKo-DucxEkQpOW6F8qEg1wA04vV_Exe_vU0M/rs:fit/g:sm/q:90/h:600/w:594/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU4ODY2/NjktMTQwNzU4NTU1/Mi01MTAxLmpwZWc.jpeg"
     - "https://i.discogs.com/cp3FJjN9IGOMzDFz9LOagqc-5xXajO9gkp3TlzKVSAw/rs:fit/g:sm/q:90/h:600/w:597/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU4ODY2/NjktMTQwNzU4NTU1/My0zOTE1LmpwZWc.jpeg"
     - "https://i.discogs.com/koYdVsJmextpU8kViNk6ai36loHBm43ogqxatWgjbmg/rs:fit/g:sm/q:90/h:600/w:352/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU4ODY2/NjktMTQwNTQ3NTQ4/Ny0xNTQxLmpwZWc.jpeg"
-    - "https://i.discogs.com/1VIAFXyANf8PxyULNoZZHNa32oE26VgvTEkXn-D9Dt0/rs:fit/g:sm/q:90/h:796/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU4ODY2/NjktMTQ5MDg3NzQ2/OC04MTU0LmpwZWc.jpeg"
+    - "https://i.discogs.com/qyLpyNMgKSq84nW2FIvBBbGIMRXcNHVhlpGg7SgN3f4/rs:fit/g:sm/q:90/h:600/w:452/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU4ODY2/NjktMTQ5MDg3NzQ2/OC04MTU0LmpwZWc.jpeg"
 genres: ["Rock", "Folk, World, & Country"]
 styles: ["Country", "Country Rock"]
 ---
 
-After pioneering country-rock with The Byrds and The Flying Burrito Brothers, Gram Parsons kept pushing the envelope with his solo debut. On the one hand, he continued making old-school country contemporary, whether covering the George Jones weeper "That's All It Took" or blending honky-tonk and soul on his own "Big Mouth Blues." On the other, he took the singer/songwriter path in new directions, coupling complex imagery with country arrangements on tunes like "The New Soft Shoe." The rest of the world is still playing catch-up.
+GP is American singer-songwriter Gram Parsons' debut solo album, and the only one released during his lifetime. It was originally released in a gatefold sleeve in 1973. GP received critical acclaim upon release, but failed to reach the Billboard charts. In the original Rolling Stone review, which individually covered both GP and its follow-up, Grievous Angel, the reviewer praises Parsons' vocals and delivery paraphrasing Gram's lyrics, "boy, but he sure can sing".
         
         
     
@@ -43,7 +45,7 @@ After pioneering country-rock with The Byrds and The Flying Burrito Brothers, Gr
 11. Big Mouth Blues (3:52)
 
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/gp/305092396" >}}<br>
+{{< applemusic url="https://music.apple.com/gb/album/grievous-angel/304907551" >}}<br>
 
 
 ## Videos
@@ -51,16 +53,14 @@ After pioneering country-rock with The Byrds and The Flying Burrito Brothers, Gr
 {{< youtube id="zmu6jygpD00" title="Still Feeling Blue (Remastered Version)" >}}<br>
 ### More Videos
 
-- [We'll Sweep out the Ashes in the Morning (2007 Remaster)](https://www.youtube.com/watch?v=V8c2SI1bq1E)
 - [A Song for You (Remastered Version)](https://www.youtube.com/watch?v=unohYEFELoo)
-- [Streets of Baltimore (2007 Remaster)](https://www.youtube.com/watch?v=Xi0c2clOqp0)
-- [She (Remastered Version)](https://www.youtube.com/watch?v=iNw-6L_gsEQ)
 - [That's All It Took (Remastered Version)](https://www.youtube.com/watch?v=3m0XfpIWYic)
-- [The New Soft Shoe (Remastered Version)](https://www.youtube.com/watch?v=F7K8KmjYA7g)
-- [Kiss the Children (Remastered Version)](https://www.youtube.com/watch?v=gkatnTSEAcY)
-- [Cry One More Time (Remastered Version)](https://www.youtube.com/watch?v=Lt2AsJl_zzc)
-- [How Much I've Lied (Remastered Version)](https://www.youtube.com/watch?v=WhGP3bGaFxY)
+- [She (Remastered Version)](https://www.youtube.com/watch?v=iNw-6L_gsEQ)
+- [We'll Sweep out the Ashes in the Morning (2007 Remaster)](https://www.youtube.com/watch?v=V8c2SI1bq1E)
 - [Big Mouth Blues (Remastered Version)](https://www.youtube.com/watch?v=u9YANfKuPt4)
+- [Kiss the Children (Remastered Version)](https://www.youtube.com/watch?v=gkatnTSEAcY)
+- [Streets of Baltimore (2007 Remaster)](https://www.youtube.com/watch?v=Xi0c2clOqp0)
+- [How Much I've Lied (Remastered Version)](https://www.youtube.com/watch?v=WhGP3bGaFxY)
 
 ## Release Images
 {{< imageGrid >}}
@@ -72,5 +72,5 @@ After pioneering country-rock with The Byrds and The Flying Burrito Brothers, Gr
 | Format         | Vinyl LP Album Reissue (180g, Gatefold) |
 | Label          | Reprise Records |
 | Catalog Number | 8122795953 |
-| Notes | ℗ & © 1973 Warner Bros. Records Inc  Manufactured in the EU.  |
+| Notes | ℗ & © 1973 Warner Bros. Records Inc. Manufactured in the EU.   First cat.# on spine & label rimtext; second cat.# on labels. Rick Grech is misspelled as Rik Grech on cover, but not on label.  Runouts are etched, except '99509 1A/B' that are stamped. |
 | Discogs URL    | [Gram Parsons - GP](https://www.discogs.com/release/5886669-Gram-Parsons-GP) |

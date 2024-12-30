@@ -17,9 +17,9 @@ additional_images:
     - "https://i.discogs.com/rewR6NnBRm8_JUbaUW4ROT7xQMUpSkfv0qQ7Kr3hGS8/rs:fit/g:sm/q:90/h:286/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxMDIw/OTM0LTE3MTg5ODQx/ODktNTk3NC5qcGVn.jpeg"
     - "https://i.discogs.com/NUxV6wkEuSyYcHWd4DZe-uA0uaMvHGAntbOCOL51mRU/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxMDIw/OTM0LTE3MTg5ODQx/OTUtNzM5NC5qcGVn.jpeg"
     - "https://i.discogs.com/oEhQTShztLLhGhJEbPLRw8BCnBD7Jc9mKFlk4y-rajg/rs:fit/g:sm/q:90/h:592/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxMDIw/OTM0LTE3MTg5ODQx/OTMtOTg3Ny5qcGVn.jpeg"
-    - "https://i.discogs.com/0UtM-JM4lw2aYVWQ7BR2cQ1v0Bd8lO3J1UqVt6Xz9Wo/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxMDIw/OTM0LTE3MTg5ODQx/OTItNjY1MC5qcGVn.jpeg"
+    - "https://i.discogs.com/cPhOUeGUXyn2dnWd-HvqHCAByCV8tdLKVW62q3J4unU/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxMDIw/OTM0LTE3MTg5ODQx/OTItNjY1MC5qcGVn.jpeg"
     - "https://i.discogs.com/jkPB8hDeDfiNdrSg-o-YCXH5GsOpb51wUh1HeiFs3QY/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxMDIw/OTM0LTE3MTg5ODQx/ODktMjk0OC5qcGVn.jpeg"
-    - "https://i.discogs.com/FWZP_PA1CphVGZW7joexoY-XVj6oS4BwrLHJhlW_8YI/rs:fit/g:sm/q:90/h:603/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxMDIw/OTM0LTE3MTg5ODQx/OTQtNDczNS5qcGVn.jpeg"
+    - "https://i.discogs.com/UU2rkiQ2UTLyGqz-T8aEvQT_reDfof9g04ISNwesQCc/rs:fit/g:sm/q:90/h:600/w:596/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxMDIw/OTM0LTE3MTg5ODQx/OTQtNDczNS5qcGVn.jpeg"
     - "https://i.discogs.com/NXVzotminvu2kI3Lj_0NRUd9HhrR29nbwbaOJeGX2IA/rs:fit/g:sm/q:90/h:591/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxMDIw/OTM0LTE3MTg5ODQx/OTEtMzcyNC5qcGVn.jpeg"
 genres: ["Electronic", "Funk / Soul", "Pop"]
 styles: ["Soul", "House"]
@@ -49,7 +49,9 @@ styles: ["Soul", "House"]
 ## Videos
 ### Hifi Sean & David McAlmont - Sad Banger
 {{< youtube id="TYJPpYD_tsQ" title="Hifi Sean & David McAlmont - Sad Banger" >}}<br>
+### More Videos
 
+- [Hifi Sean & David McAlmont - Sad Banger](https://www.youtube.com/watch?v=TYJPpYD_tsQ)
 
 ## Release Images
 {{< imageGrid >}}

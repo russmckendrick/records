@@ -21,7 +21,8 @@ genres: ["Rock"]
 styles: ["Alternative Rock"]
 ---
 
-Uncle Anesthesia is the fifth studio album by the American band Screaming Trees. It was released in 1991 via Epic Records. It includes three of the four tracks from the band's previous Epic release, Something About Today."Bed of Roses" was released as a single and peaked at No. 23 on the Modern Rock charts. The band supported the album with a North American tour that included shows with Nirvana and Das Damen; Dan Peters played drums on much of the tour.
+Uncle Anesthesia is the fifth studio album by the American band Screaming Trees. It was released in 1991 via Epic Records. It includes three of the four tracks from the band's previous Epic release, Something About Today. 
+"Bed of Roses" was released as a single and peaked at No. 23 on the Modern Rock charts. The band supported the album with a North American tour that included shows with Nirvana and Das Damen; Dan Peters played drums on much of the tour.
     
     
 
@@ -46,17 +47,23 @@ Uncle Anesthesia is the fifth studio album by the American band Screaming Trees.
 
 
 ## Videos
-### Story Of Her Fate
-{{< youtube id="_LtDCEE8fro" title="Story Of Her Fate" >}}<br>
+### Screaming Trees - Bed Of Roses
+{{< youtube id="GAmZsfFKCxU" title="Screaming Trees - Bed Of Roses" >}}<br>
 ### More Videos
 
-- [Screaming Trees - Bed Of Roses](https://www.youtube.com/watch?v=GAmZsfFKCxU)
-- [Caught Between](https://www.youtube.com/watch?v=u_RQHzc2qkw)
+- [Uncle Anesthesia](https://www.youtube.com/watch?v=NBypiIybzqQ)
 - [screaming trees - alice said | uncle anesthesia](https://www.youtube.com/watch?v=AIKtlU5_U04)
+- [Screaming Trees - Uncle Anesthesia](https://www.youtube.com/watch?v=a8TrEwkTgVQ)
+- [Story Of Her Fate](https://www.youtube.com/watch?v=_LtDCEE8fro)
+- [Caught Between](https://www.youtube.com/watch?v=u_RQHzc2qkw)
 - [Lay Your Head Down](https://www.youtube.com/watch?v=gdmjCJbb0as)
 - [Alice Said](https://www.youtube.com/watch?v=wJcTyOF02UA)
 - [Time For Light](https://www.youtube.com/watch?v=VCg4E1I0YkM)
 - [Ocean Of Confusion](https://www.youtube.com/watch?v=BxXTRl7QIRU)
+- [Screaming Trees - Bed Of Roses](https://www.youtube.com/watch?v=GAmZsfFKCxU)
+- [Uncle Anesthesia](https://www.youtube.com/watch?v=NBypiIybzqQ)
+- [screaming trees - alice said | uncle anesthesia](https://www.youtube.com/watch?v=AIKtlU5_U04)
+- [Screaming Trees - Uncle Anesthesia](https://www.youtube.com/watch?v=a8TrEwkTgVQ)
 
 ## Release Images
 {{< imageGrid >}}
@@ -66,6 +73,7 @@ Uncle Anesthesia is the fifth studio album by the American band Screaming Trees.
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Uncle_Anesthesia |
 | Format         | Vinyl LP Album Reissue (180 gram) |
-| Label          | Music On Vinyl |
+| Label          | Epic |
 | Catalog Number | MOVLP587 |
+| Notes | Matrix runouts are etched. |
 | Discogs URL    | [Screaming Trees - Uncle Anesthesia](https://www.discogs.com/release/3977067-Screaming-Trees-Uncle-Anesthesia) |
