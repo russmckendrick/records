@@ -50,20 +50,13 @@ styles: ["Soundtrack"]
 
 
 ## Videos
-### Rick and Morty - Rick and Morty Theme
-{{< youtube id="YQxRvqD4oSQ" title="Rick and Morty - Rick and Morty Theme" >}}<br>
+### Rick and Morty Score Medley
+{{< youtube id="v6Zvk9H_D-o" title="Rick and Morty Score Medley" >}}<br>
 ### More Videos
 
-- [Rick and Morty - Full Official Soundtrack](https://www.youtube.com/watch?v=agDkuOaCb6E)
-- [Rick & Morty Vinyl Box Set Unboxing Sub Pop Adult Swim 2LP Colored Vinyl LED + 7 Single Dan Harmon](https://www.youtube.com/watch?v=rEFN2fQaR7A)
-- [Summer & Tinkles Song | Rick and Morty | Adult Swim](https://www.youtube.com/watch?v=DNUFRIkaFzw)
-- [Rick and Morty - Goodbye Moonmen](https://www.youtube.com/watch?v=l1_cDipA620)
-- [Rick and Morty - Get Schwifty (C-131)](https://www.youtube.com/watch?v=-oCcvgdSrJ0)
 - [Rick and Morty | clipping. “Stab Him in The Throat”](https://www.youtube.com/watch?v=Cjvc6b6nMro)
-- [Rick and Morty | Chad VanGaalen Stuttering Light | Adult Swim](https://www.youtube.com/watch?v=AWOjTgNIetk)
-- [Rick and Morty Score Medley](https://www.youtube.com/watch?v=v6Zvk9H_D-o)
-- [Terryfold - Choas Chaos ft. Justin Roiland (3D ANIMATED)](https://www.youtube.com/watch?v=sE5t5I_yDeQ)
-- [Mazzy Star - Look On Down From The Bridge](https://www.youtube.com/watch?v=IGrZ4WAYRKw)
+- [Rick and Morty | Chad VanGaalen "Stuttering Light" | Adult Swim](https://www.youtube.com/watch?v=AWOjTgNIetk)
+- [Summer & Tinkles Song | Rick and Morty | Adult Swim](https://www.youtube.com/watch?v=DNUFRIkaFzw)
 
 ## Release Images
 {{< imageGrid >}}

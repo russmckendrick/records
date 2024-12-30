@@ -12,19 +12,26 @@ cover:
     alt: "Hammer And Anvil by Pure Reason Revolution"
     caption: "Hammer And Anvil by Pure Reason Revolution"
 additional_images:
-    - "https://i.discogs.com/y8nvAys1P5uXjfhC5FF5ogfrrj97gucts7KNYMKbRRE/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NDU1/MjY3LTE2NjI2Njk3/NzQtNDgwMy5qcGVn.jpeg"
-    - "https://i.discogs.com/cnY0m9G64vAP50QgR15JVrmqTIwaDYvOW0wh-bJnPMc/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NDU1/MjY3LTE2NjI3MDI1/MTktNDE2Mi5qcGVn.jpeg"
-    - "https://i.discogs.com/731-FIq6IqyZZdfEhtL37UNNE_5A6A1lNrSklm66qRM/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NDU1/MjY3LTE2NjI3MDI1/MjAtNzQ2My5qcGVn.jpeg"
-    - "https://i.discogs.com/jadL-au-TUy0_m6wax6KI_lZhPShyURQxmOWasHk4Sw/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NDU1/MjY3LTE2NjI3MDI1/MjAtMjM3OC5qcGVn.jpeg"
-    - "https://i.discogs.com/Fk0VjZaTsfMAKbnQKs-D8hnndImgyGpOsHwCqA3vQNk/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NDU1/MjY3LTE2NjI3MDI1/MjAtNTI3Mi5qcGVn.jpeg"
-    - "https://i.discogs.com/3fgAx_jX_IYeoLrDZh-kEGdLZQMiq6NR9qEyB03a4o0/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NDU1/MjY3LTE2NjI3MDI1/MjAtNzg0MC5qcGVn.jpeg"
-    - "https://i.discogs.com/hrPL1snKwndwkVHMoAhdUfJm9StIbohAsc28fUzW1ng/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NDU1/MjY3LTE2NjI3MDI1/MjAtNTI5Mi5qcGVn.jpeg"
-    - "https://i.discogs.com/Wph9k4Zusta4_BzqFtHqxhaRWdbcqdkkciDQotFRjNI/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NDU1/MjY3LTE2NjI3MDI1/MjAtMjA3NC5qcGVn.jpeg"
-    - "https://i.discogs.com/A6Itgrg3BFcgN8pbcdjOtyhINQM3TZNqX4eZlYJPo0c/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NDU1/MjY3LTE2NjI3MDI1/MTctNTk2MS5qcGVn.jpeg"
+    - "https://i.discogs.com/t9rDIdiFlscLdyaJ1S0IsT_T6CVmEYprvePJV5LzBXA/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NDU1/MjY3LTE3MTUyNTQz/NTUtODg1NC5qcGVn.jpeg"
+    - "https://i.discogs.com/hC2UsDZzTBoJ5cEqtHgJOXnidkHXzO_nU8jeDXnV6Tg/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NDU1/MjY3LTE3MTUyNTQ0/NTktMTkyMS5qcGVn.jpeg"
+    - "https://i.discogs.com/R3aPYDxnYHuJ7PLV7qFREB18vPFdbyNz63QaA4d7lMw/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NDU1/MjY3LTE3MTUyNTQ0/NTktNDA0OC5qcGVn.jpeg"
+    - "https://i.discogs.com/yyciBQs3WYO9OZCbfPfU0cNz9yWo_ERjnnb68nAjOtE/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NDU1/MjY3LTE3MTUyNTQ0/NjUtNDMyMS5qcGVn.jpeg"
+    - "https://i.discogs.com/Kd1x0trcgSKupr_mxBfQ6mmd-0ThErugrKOjudurHQc/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NDU1/MjY3LTE3MTUyNTQ5/MDQtNzExNS5qcGVn.jpeg"
+    - "https://i.discogs.com/R9IYWTIZHCZ9rv3FUIraQHsinR_8pE91zuvn6lcFVv0/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NDU1/MjY3LTE3MTUyNTQ5/MDQtMzY4OS5qcGVn.jpeg"
+    - "https://i.discogs.com/2TpkVvnS3RPEeg9UNdCmqOGNBaTNoFyZLWSbfzMcep8/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NDU1/MjY3LTE3MTUyNTQ5/MDQtOTgyNS5qcGVn.jpeg"
+    - "https://i.discogs.com/ZZnGCU1JhGsRvRIzmS26uf4vn5rcV0gq0Il0YEgSSKk/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NDU1/MjY3LTE3MTUyNTQ5/MDQtMzkwNC5qcGVn.jpeg"
+    - "https://i.discogs.com/Ywwy3zze22f-8iHfmcISBsol2GrDxIHuKeFI9aRIFa0/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NDU1/MjY3LTE3MTUyNTQ5/MDQtNTA3OC5qcGVn.jpeg"
+    - "https://i.discogs.com/ufzOl8obtNisyQrQIuy2-rYUOJfShOEzGn5MobFAsRw/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NDU1/MjY3LTE3MTUyNTQ5/MDQtNTE4OS5qcGVn.jpeg"
+    - "https://i.discogs.com/uF4XCpyh1mL-29W2RdxsqRVN_eEOWXiGsrwGZvgS3GM/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NDU1/MjY3LTE3MTUyNTQ5/MDMtNDk0Ny5qcGVn.jpeg"
+    - "https://i.discogs.com/9P_3ozlGXzXY0CqG6NjdSNKVtgsnA2tnoaRnSeKykOQ/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NDU1/MjY3LTE3MTUyNTUw/MDktMzEzMy5qcGVn.jpeg"
 genres: ["Electronic", "Rock"]
 styles: ["Electro", "Experimental", "Ambient", "Prog Rock"]
 ---
 
+The hammer and anvil is a military tactic involving the use of two primary forces, one to pin down an enemy, and the other to smash or defeat the opponent with an encirclement maneuver. It may involve a frontal assault by one part of the force, playing a slower-moving or more static role. The second phase involves a more mobile force that maneuvers around the enemy and attacks from behind or the flank to deliver a decisive blow.
+The "hammer and anvil" tactic is fundamentally a single envelopment, and is to be distinguished from a simple encirclement where one group simply keeps an enemy occupied, while a flanking force delivers the coup de grace. The strongest expression of the concept is where both echelons are sufficient in themselves to strike a decisive blow. The "anvil" echelon here is not a mere diversionary gambit, but a substantial body that hits the enemy hard to pin him down and grind away his strength. The "hammer" or maneuver element succeeds because the anvil force materially or substantially weakens the enemy, preventing him from adjusting to the threat in his flank or rear. Other variants of the concept allow for an enemy to be held fast by a substantial blocking or holding force, while a strong echelon, or hammer, delivers the decisive blow. In all scenarios, both the hammer and anvil elements are substantial entities that can cause significant material damage to opponents, as opposed to light diversionary, or small scale holding units.
+    
+    
 
 
 ## Tracklisting
@@ -57,6 +64,7 @@ styles: ["Electro", "Experimental", "Ambient", "Prog Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
+| Wikipedia URL | https://en.wikipedia.org/wiki/Hammer_and_anvil |
 | Format         | Vinyl 2× LP Album Limited Edition Reissue (Yellow) |
 | Label          | Superball Music |
 | Catalog Number | MOVLP3078 |

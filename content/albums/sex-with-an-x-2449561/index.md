@@ -43,11 +43,13 @@ Eugene Kelly and Frances McKee broke up at the end of the 1980s, only briefly re
 
 
 ## Videos
-### The Vaselines - I Hate The 80's (2010)
-{{< youtube id="i1zMx4Eltbo" title="The Vaselines - I Hate The 80's (2010)" >}}<br>
+### The Vaselines - Sex With An X [OFFICIAL VIDEO]
+{{< youtube id="GHIa3zr_vTQ" title="The Vaselines - Sex With An X [OFFICIAL VIDEO]" >}}<br>
 ### More Videos
 
+- [The Vaselines - I Hate The 80's (2010)](https://www.youtube.com/watch?v=i1zMx4Eltbo)
 - [The Vaselines - Sex With An X [OFFICIAL VIDEO]](https://www.youtube.com/watch?v=GHIa3zr_vTQ)
+- [The Vaselines - I Hate The 80's (2010)](https://www.youtube.com/watch?v=i1zMx4Eltbo)
 
 ## Release Images
 {{< imageGrid >}}
@@ -59,5 +61,5 @@ Eugene Kelly and Frances McKee broke up at the end of the 1980s, only briefly re
 | Format         | Vinyl LP Album |
 | Label          | Sub Pop |
 | Catalog Number | SP 889 |
-| Notes | Recorded to tape at Analogue Catalogue Studios, Mossley, England. Mixed at Cava Studios, Glasgow. Mastered at Red Block Mastering, Glasgow.    ©℗2010 Under exclusive license to Sub Pop.    First 200 direct pre-orders from Sub Pop received this [url=http://www.discogs.com/Vaselines-Whitechapel-Demo-Picked-A-Cherry-Demo/release/2465133]bonus 7"[/url].    Gatefold sleeve.  |
+| Notes | Recorded to tape at Analogue Catalogue Studios, Mossley, England. Mixed at Cava Studios, Glasgow. Mastered at Red Block Mastering, Glasgow.  ©℗2010 Under exclusive license to Sub Pop.  First 200 direct pre-orders from Sub Pop received this [url=http://www.discogs.com/Vaselines-Whitechapel-Demo-Picked-A-Cherry-Demo/release/2465133]bonus 7"[/url].  Gatefold sleeve.   In the runouts, GOLDEN is stamped and the rest are etched. |
 | Discogs URL    | [The Vaselines - Sex With An X](https://www.discogs.com/release/2449561-The-Vaselines-Sex-With-An-X) |

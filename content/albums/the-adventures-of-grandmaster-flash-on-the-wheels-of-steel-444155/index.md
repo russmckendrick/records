@@ -18,21 +18,27 @@ genres: ["Hip Hop"]
 styles: ["Cut-up/DJ"]
 ---
 
+"The Adventures of Grandmaster Flash on the Wheels of Steel" is a single released by American disc jockey Grandmaster Flash in 1981. It is a live DJ mix recording of Flash scratching and mixing records from various groups using three turntables. The musician employed several DJ techniques in the recording, including crossfading, cutting, rubbing and backspins.
+On release, the single was a cult hit and reached number 55 on the Billboard R&B chart. It was also a major critical success, and was ranked at number two among the top ten "Tracks of the Year" for 1981 by NME. Proving crucial in the development of hip hop, the track was highly influential on many DJs, including rapper Dr. Dre, and an early example of what would eventually be termed turntablism. It was also a pivotal release in the development of sampling, megamixes and mashups. Several critics have included it in their lists of the best or most important singles ever.
+
+
+    
+    
 
 
 ## Tracklisting
 1. The Adventures Of Grandmaster Flash On The Wheels Of Steel (7:06)
 2. The Birthday Party (Instrumental) (7:49)
 
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/grandmaster-flash-grandmaster-melle-mel-the-furious/1435636234" >}}<br>
 
 
 ## Videos
-### Grandmaster Flash - The Adventures Of Grandmaster Flash On The Wheels Of Steel (1981)
-{{< youtube id="PFYg2Mmlc_o" title="Grandmaster Flash - The Adventures Of Grandmaster Flash On The Wheels Of Steel (1981)" >}}<br>
+### The Adventures Of Grandmaster Flash On The Wheels Of Steel (Long Version)
+{{< youtube id="gXNzMVLqIHg" title="The Adventures Of Grandmaster Flash On The Wheels Of Steel (Long Version)" >}}<br>
 ### More Videos
 
-- [Grandmaster Flash - The adventures of Grandmaster Flash on the wheels of steel (12)](https://www.youtube.com/watch?v=PC1TtzVDB5M)
-- [The Adventures Of Grandmaster Flash On The Wheels Of Steel (Long Version)](https://www.youtube.com/watch?v=gXNzMVLqIHg)
 - [Grandmaster Flash And The Furious Five - The Party Mix (Extended)](https://www.youtube.com/watch?v=QB2Gl1tEiEQ)
 
 ## Release Images
@@ -41,6 +47,7 @@ styles: ["Cut-up/DJ"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
+| Wikipedia URL | https://en.wikipedia.org/wiki/The_Adventures_of_Grandmaster_Flash_on_the_Wheels_of_Steel |
 | Format         | Vinyl 12" 45 RPM |
 | Label          | Sugar Hill Records |
 | Catalog Number | SHL 557 |

@@ -12,7 +12,7 @@ cover:
     alt: "No Atonement by Bullet Height"
     caption: "No Atonement by Bullet Height"
 additional_images:
-    - "https://i.discogs.com/C3lQzqcINLibBKU23JSxXWrc66SWirsK90f9psP-95U/rs:fit/g:sm/q:90/h:604/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMzc2/MjM0LTE0OTgwODk3/NDMtNzc0MC5qcGVn.jpeg"
+    - "https://i.discogs.com/e_9Sz7yd4vkxnUyFMeYZPKVl8-l8OmexcL44TTmwaaQ/rs:fit/g:sm/q:90/h:600/w:595/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMzc2/MjM0LTE0OTgwODk3/NDMtNzc0MC5qcGVn.jpeg"
     - "https://i.discogs.com/upeEhnSuuelieosGdWh-MuM2Bx6miWv53L1w6hoXUEw/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMzc2/MjM0LTE1ODcyOTI2/MjUtMTg5My5qcGVn.jpeg"
     - "https://i.discogs.com/dsGeu3558KmAyY3reX7w744ZAcnx2WEJJyex9vu0djY/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMzc2/MjM0LTE1ODcyOTI2/MzctNzkzNS5qcGVn.jpeg"
     - "https://i.discogs.com/GlBuBFP3obh_bNthncKR2dTLatQNyOO4kTgWwYAl7do/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMzc2/MjM0LTE1ODcyOTI3/NTYtODI0MS5qcGVn.jpeg"

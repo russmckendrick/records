@@ -41,7 +41,7 @@ styles: ["Folk Rock", "Pop Rock", "Prog Rock"]
 {{< youtube id="WJbw8dobg0c" title="Busy Making Progress LP 1978 FULL ALBUM Remasterd By B v d M 2014" >}}<br>
 ### More Videos
 
-- [Michael Cassidy / There is a Light / Beyond Illusion](https://www.youtube.com/watch?v=adkHXwoaIgM)
+- [Busy Making Progress LP 1978 FULL ALBUM Remasterd By B v d M 2014](https://www.youtube.com/watch?v=WJbw8dobg0c)
 
 ## Release Images
 {{< imageGrid >}}
@@ -53,4 +53,4 @@ styles: ["Folk Rock", "Pop Rock", "Prog Rock"]
 | Label          | Sudarshan Disc |
 | Catalog Number | BBT 111 |
 | Notes | This is a special benefit album. All the artists who contributed to its production did so without remuneration.  Special thanks to Carlos Santana, Bob Dylan, George Harrison, Neil Diamond, Bob Marley, Stevie Wonder and Alice Coltrane for their inspiration and help with ISKCON projects.  On labels: ℗ © 1978, Sudarshan Disc On sleeve: © Golden Lotus Productions 1978 |
-| Discogs URL    | [Progress - Busy Making Progress](https://www.discogs.com/release/920716-Progress-Busy-Making-Progress) |
+| Discogs URL    | [Progress - Busy Making Progress](https://www.discogs.com/release/920716-Progress-11-Busy-Making-Progress) |

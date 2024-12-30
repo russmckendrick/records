@@ -42,7 +42,7 @@ styles: ["Alternative Rock", "Prog Rock"]
 20. Crystal Anthem
 
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/mystoria-deluxe-edition/1169669580" >}}<br>
+{{< applemusic url="https://music.apple.com/gb/album/mystoria/1047128557" >}}<br>
 
 
 ## Videos
@@ -50,6 +50,7 @@ styles: ["Alternative Rock", "Prog Rock"]
 {{< youtube id="U6aB4735tvQ" title="AMPLIFIER - Black Rainbow (OFFICIAL VIDEO)" >}}<br>
 ### More Videos
 
+- [AMPLIFIER - Black Rainbow (OFFICIAL VIDEO)](https://www.youtube.com/watch?v=U6aB4735tvQ)
 - [AMPLIFIER - ChugChugChugChug (Studio Episode #1)](https://www.youtube.com/watch?v=2IBQEao8Qhk)
 - [AMPLIFIER - Named After Rocky (OFFICIAL VIDEO)](https://www.youtube.com/watch?v=RblO4B6h2tc)
 - [Amplifier - Black Rainbow](https://www.youtube.com/watch?v=z3JBcuP1FfQ)
@@ -65,4 +66,4 @@ styles: ["Alternative Rock", "Prog Rock"]
 | Label          | Superball Music |
 | Catalog Number | SBMLP 032 |
 | Notes | 180 gram black vinyl in gatefold cover with printed innersleeves  Comes with cd version of the album |
-| Discogs URL    | [Amplifier - Mystoria](https://www.discogs.com/release/6055632-Amplifier-Mystoria) |
+| Discogs URL    | [Amplifier - Mystoria](https://www.discogs.com/release/6055632-Amplifier-3-Mystoria) |

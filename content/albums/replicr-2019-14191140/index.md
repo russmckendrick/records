@@ -20,11 +20,14 @@ additional_images:
     - "https://i.discogs.com/Y2I7jJTitmeDXAofFARR0O7T3FI4nPkv6EDLf99yZTM/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MTkx/MTQwLTE1NzA5NjI1/MDgtMjQxMS5wbmc.jpeg"
     - "https://i.discogs.com/tzT_C_busgWCr0kVjc2sVew_z9C9TGapdJYxfIIcbco/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MTkx/MTQwLTE1NzA5NjI1/MTEtOTY4NC5wbmc.jpeg"
     - "https://i.discogs.com/X4z4k2ctlHTaOrk-N-8AojP8FjRk5Hi7jRxOTLFXBeQ/rs:fit/g:sm/q:90/h:598/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MTkx/MTQwLTE1NzM0MDI4/NDItNzEzMC5wbmc.jpeg"
-    - "https://i.discogs.com/8x9rqCbbOoRocpF6pyAQmwTqeLQ0K53NgMZaQx_at8o/rs:fit/g:sm/q:90/h:607/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MTkx/MTQwLTE1NzA5NjI1/MTItNjk2My5wbmc.jpeg"
+    - "https://i.discogs.com/SAA4LKdbFY_P9YKKCnTluW738hEsSvSCPrzxYLiptJU/rs:fit/g:sm/q:90/h:600/w:592/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MTkx/MTQwLTE1NzA5NjI1/MTItNjk2My5wbmc.jpeg"
 genres: ["Electronic", "Rock"]
 styles: ["Noise", "Experimental", "Ambient"]
 ---
 
+replicr, 2019 is the sixth studio album by 65daysofstatic, which was released on September 27, 2019.
+    
+    
 
 
 ## Tracklisting
@@ -69,6 +72,19 @@ styles: ["Noise", "Experimental", "Ambient"]
 - [65daysofstatic - popular beats (OFFICIAL VIDEO)](https://www.youtube.com/watch?v=dH9tZ5z4dFg)
 - [65daysofstatic | Trackerplatz (OFFICIAL VIDEO)](https://www.youtube.com/watch?v=l73eDjbpPzA)
 - [65daysofstatic | Five Waves](https://www.youtube.com/watch?v=Ph2V7KlA07Y)
+- [stillstellung](https://www.youtube.com/watch?v=mL3tU67wtP8)
+- [pretext](https://www.youtube.com/watch?v=4r1ehk3FAeQ)
+- [d|| tl | | |](https://www.youtube.com/watch?v=CYl7CFJW3ho)
+- [interference_1](https://www.youtube.com/watch?v=rOKrre1PGRQ)
+- [gr [] v-_s](https://www.youtube.com/watch?v=VVcyZx6S74I)
+- [bad age](https://www.youtube.com/watch?v=ecqDkD9oFXU)
+- [05|| | 1|](https://www.youtube.com/watch?v=Pi8fRC2pc0A)
+- [z03](https://www.youtube.com/watch?v=LNfmkmT5UDs)
+- [sister](https://www.youtube.com/watch?v=bZvS_slO534)
+- [[] lid](https://www.youtube.com/watch?v=tKSMvBvs35E)
+- [65_replicr_stream_280819](https://www.youtube.com/watch?v=BzNNNB-p_gk)
+- [65_replicr_stream_040919](https://www.youtube.com/watch?v=ZSAqTfTKp70)
+- [65_replicr_stream_250919](https://www.youtube.com/watch?v=KQmCs0l2cMg)
 
 ## Release Images
 {{< imageGrid >}}
@@ -76,6 +92,7 @@ styles: ["Noise", "Experimental", "Ambient"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
+| Wikipedia URL | https://en.wikipedia.org/wiki/Replicr,_2019 |
 | Format         | Vinyl LP Album, CD Album |
 | Label          | Superball Music |
 | Catalog Number | SBMLP 046 |

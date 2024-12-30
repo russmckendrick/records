@@ -44,8 +44,8 @@ styles: ["Post Rock"]
 
 
 ## Videos
-### Three Trapped Tigers - Silent Earthling (Full Album)
-{{< youtube id="8QlQw4QU_0E" title="Three Trapped Tigers - Silent Earthling (Full Album)" >}}<br>
+### Three Trapped Tigers - "Silent Earthling" (Full Album)
+{{< youtube id="8QlQw4QU_0E" title="Three Trapped Tigers - "Silent Earthling" (Full Album)" >}}<br>
 
 
 ## Release Images

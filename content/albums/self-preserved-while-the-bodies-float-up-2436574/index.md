@@ -23,7 +23,9 @@ genres: ["Rock"]
 styles: ["Alternative Rock", "Prog Rock"]
 ---
 
-Self Preserved While the Bodies Float Up is the fourth and final full-length studio album by the progressive/alternative rock band Oceansize. It was released in September 2010 on Superball Music. It has received near unanimous acclaim from critics.
+Self Preserved While the Bodies Float Up is the fourth and final full-length studio album by the progressive/alternative rock band Oceansize. It was released in Germany, Austria, Switzerland on 3 September 2010, in the rest of Europe on 6 September 2010, and in North America on 14 September 2010 on Superball Music. It has received near unanimous acclaim from critics.
+
+
     
     
 
@@ -58,6 +60,9 @@ Self Preserved While the Bodies Float Up is the fourth and final full-length stu
 {{< youtube id="RcWGCoUNU3s" title="Oceansize - Silent/Transparent" >}}<br>
 ### More Videos
 
+- [OCEANSIZE - Self Preserved While The Bodies Float Up I](https://www.youtube.com/watch?v=OxdqDwB2h-U)
+- [Oceansize - Silent / Transparent](https://www.youtube.com/watch?v=jSjF028Mc_8)
+- [Oceansize - Silent/Transparent](https://www.youtube.com/watch?v=RcWGCoUNU3s)
 - [OCEANSIZE - Self Preserved While The Bodies Float Up I](https://www.youtube.com/watch?v=OxdqDwB2h-U)
 - [Oceansize - Silent / Transparent](https://www.youtube.com/watch?v=jSjF028Mc_8)
 

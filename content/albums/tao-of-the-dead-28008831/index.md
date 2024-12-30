@@ -17,6 +17,9 @@ genres: ["Rock"]
 styles: ["Alternative Rock", "Post Rock"]
 ---
 
+Tao of the Dead (pronounced ) is the seventh studio album by Texas rock band ...And You Will Know Us by the Trail of Dead. The first single, "Summer of All Dead Souls", was posted on Spin.com on November 11, 2010, and later on SoundCloud. The digital single released officially on November 29. The album released on CD digipak format, including a limited edition two-disc booklet with 30 minutes of bonus music.
+    
+    
 
 
 ## Tracklisting
@@ -69,6 +72,7 @@ styles: ["Alternative Rock", "Post Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
+| Wikipedia URL | https://en.wikipedia.org/wiki/Tao_of_the_Dead |
 | Format         | Vinyl 2× LP Limited Edition Reissue (Gold) |
 | Label          | Svart Records |
 | Catalog Number | SRE555LPB1 |

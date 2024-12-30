@@ -12,7 +12,7 @@ cover:
     alt: "Cyr by The Smashing Pumpkins"
     caption: "Cyr by The Smashing Pumpkins"
 additional_images:
-    - "https://i.discogs.com/pYEh2tWfze0ZIUU4fX6fRK7mtBJhnyEYqO-MtoFJMng/rs:fit/g:sm/q:90/h:618/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2Mjgw/MTU4LTE2MDY0OTQ2/NTktMzUzMi5qcGVn.jpeg"
+    - "https://i.discogs.com/mBcHvJYASKjflchYrzbw298KD25llsXiMaaXQwfv_xc/rs:fit/g:sm/q:90/h:600/w:582/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2Mjgw/MTU4LTE2MDY0OTQ2/NTktMzUzMi5qcGVn.jpeg"
     - "https://i.discogs.com/tgycs9r5u8N-qMDRRs8u8wtauZxS7SqZqo0zOB8GRPE/rs:fit/g:sm/q:90/h:561/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2Mjgw/MTU4LTE2MDY0OTQ2/NTktMzg4Mi5qcGVn.jpeg"
     - "https://i.discogs.com/LcxryMWxceV7QEAA1n-AKOcia1zftdHktmvNJZUf2fs/rs:fit/g:sm/q:90/h:594/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2Mjgw/MTU4LTE2MDc1MzEz/MTItNDEzMC5qcGVn.jpeg"
     - "https://i.discogs.com/9y6Bbs29bYVcv0gNsEw6JTdKCZOZmYkNIaPGmBEFUNc/rs:fit/g:sm/q:90/h:545/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2Mjgw/MTU4LTE2MDc1MzEz/MTEtNDg3NC5qcGVn.jpeg"
@@ -23,7 +23,8 @@ genres: ["Rock"]
 styles: ["Alternative Rock"]
 ---
 
-Cyr is the eleventh studio album by American alternative rock band the Smashing Pumpkins, released on November 27, 2020, on Sumerian Records. Produced by band leader Billy Corgan, the album features a synth-pop sound and was preceded by the release of ten of its songs as singles, with Corgan actively seeking out a "contemporary" sound during the recording process.The release of Cyr was accompanied by a five-part animated series, In Ashes, written by Corgan and directed by Mike Anderson, which served as official videos for five of the album's tracks.
+Cyr is the eleventh studio album by American alternative rock band the Smashing Pumpkins, released on November 27, 2020, on Sumerian Records. Produced by band leader Billy Corgan, the album features a synth-pop sound and was preceded by the release of ten of its songs as singles, with Corgan actively seeking out a "contemporary" sound during the recording process.
+The release of Cyr was accompanied by a five-part animated series, In Ashes, written by Corgan and directed by Mike Anderson, which served as official videos for five of the album's tracks.
     
     
 
@@ -51,10 +52,16 @@ Cyr is the eleventh studio album by American alternative rock band the Smashing 
 20. Minerva (3:33)
 
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/cyr/1663124222" >}}<br>
+{{< applemusic url="https://music.apple.com/gb/album/machina-the-machines-of-god/712756036" >}}<br>
 
 
+## Videos
+### THE SMASHING PUMPKINS - Cyr (Official Music Video)
+{{< youtube id="2AN_GRWlU7k" title="THE SMASHING PUMPKINS - Cyr (Official Music Video)" >}}<br>
+### More Videos
 
+- [THE SMASHING PUMPKINS - Ramona (Official Music Video)](https://www.youtube.com/watch?v=0rOr6yTMCJI)
+- [The Smashing Pumpkins - Wyttch (Official Video)](https://www.youtube.com/watch?v=6ZFh-zqRZC8)
 
 ## Release Images
 {{< imageGrid >}}

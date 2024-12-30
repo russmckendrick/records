@@ -18,6 +18,14 @@ genres: ["Rock"]
 styles: []
 ---
 
+More Stately Mansions is a play by Eugene O'Neill. 
+Originally intended to be part of a nine-play cycle entitled A Tale of Possessors Self-Dispossessed, Mansions was an incomplete rough draft written between 1936 and 1939 that O'Neill did not want posthumously finished or produced. A sequel to A Touch of the Poet, it picks up four years later in 1832 Massachusetts, with Simon Harford, now married to Sara Melody, finding himself the pawn in a battle between his wife and his mother to control him through love.  Played out against the background of an industrial revolution, the struggle ultimately leads to tragedy and despair.
+The title of the play was derived from the line "Build thee more stately mansions, O my soul" in the poem The Chambered Nautilus by Oliver Wendell Holmes.
+Against his wishes, O'Neill's widow, Carlotta Monterey, authorized Karl Ragnar Gierow of the Swedish Royal Dramatic Theatre to turn the unfinished work into an acting version. The play was the inaugural production at the Ahmanson Theatre in Los Angeles, where it opened on April 12, 1967 with Ingrid Bergman, Colleen Dewhurst, and Arthur Hill in the leading roles. Six months later, after eight previews, the Broadway production, with the same cast directed by José Quintero, opened on October 31 at the Broadhurst Theatre, where it closed after 142 performances. Dewhurst was nominated for a Tony Award for Best Actress in a Play.
+The play was profiled in the William Goldman book The Season: A Candid Look at Broadway.
+In 1997, Ivo van Hove directed a new production of the play at the New York Theatre Workshop.
+    
+    
 
 
 ## Tracklisting
@@ -51,6 +59,17 @@ styles: []
 - [Dresden](https://www.youtube.com/watch?v=5Lihs48zLVs)
 - [Easy, Kid](https://www.youtube.com/watch?v=Bs5IxgpJwTY)
 - [Balloons](https://www.youtube.com/watch?v=wNF7N3xifoI)
+- [CHARLIE BARNES - More Stately Mansions (OFFICIAL VIDEO)](https://www.youtube.com/watch?v=w4fZO6j6I2s)
+- [More Stately Mansions](https://www.youtube.com/watch?v=eyu-KXwb_kw)
+- [More Stately Mansions](https://www.youtube.com/watch?v=8iUXhcEhyK0)
+- [House](https://www.youtube.com/watch?v=V4YvBiOknoc)
+- [Hammers](https://www.youtube.com/watch?v=FSMm4tvvuLc)
+- [MacbethMacbethMacbeth](https://www.youtube.com/watch?v=qu6jzDyGJ4I)
+- [Ghosts](https://www.youtube.com/watch?v=u9HC4Q4vw4A)
+- [Film](https://www.youtube.com/watch?v=yuKB9iOIZ9g)
+- [Dresden](https://www.youtube.com/watch?v=5Lihs48zLVs)
+- [Easy, Kid](https://www.youtube.com/watch?v=Bs5IxgpJwTY)
+- [Balloons](https://www.youtube.com/watch?v=wNF7N3xifoI)
 
 ## Release Images
 {{< imageGrid >}}
@@ -58,6 +77,7 @@ styles: []
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
+| Wikipedia URL | https://en.wikipedia.org/wiki/More_Stately_Mansions |
 | Format         | Vinyl LP Album (180), CD Album |
 | Label          | Superball Music |
 | Catalog Number | SBMLP 035 |

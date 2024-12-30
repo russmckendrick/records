@@ -19,9 +19,9 @@ genres: ["Electronic", "Hip Hop", "Rock", "Pop", "Folk, World, & Country", "Stag
 styles: ["Alternative Rock", "Folk Rock", "Novelty", "Indie Rock", "Soundtrack"]
 ---
 
-Flight of the Conchords is an American sitcom that was first shown on HBO on June 17, 2007. The show follows the adventures of Flight of the Conchords, a two-man band from New Zealand, as its members seek fame and success in New York City. The show stars the real-life duo of Jemaine Clement and Bret McKenzie, who play fictionalised versions of themselves. A second season was announced on August 17, 2007 and shown from January 18, 2009. On December 11, 2009, HBO canceled the series after two seasons, and the duo announced that the series was not going to be returning for a third season.Throughout its run, Flight of the Conchords received positive critical reviews, with its second season scoring 80/100 on Metacritic. The show received 10 Emmy Award nominations, including "Outstanding Comedy Series" and "Outstanding Lead Actor in a Comedy Series" for Jemaine Clement, both in 2009.
-
-
+Flight of the Conchords are a New Zealand musical comedy duo formed in Wellington in 1998. The band consists of multi-instrumentalists Bret McKenzie and Jemaine Clement. Beginning as a popular live comedy act in the early 2000s, the duo's comedy and music became the basis of the self-titled BBC radio series (2005) and, subsequently, the HBO American television series (2007–2009). Most recently, they released the HBO comedy special Live in London in 2018. The special was concurrently released by Sub Pop as their fifth album.
+The duo's live performances have gained them a worldwide cult following, and they continue to tour periodically. They were named Best Alternative Comedy Act at the 2005 US Comedy Arts Festival and Best Newcomer at the Melbourne Comedy Festival, and received a nomination for the Perrier Comedy Award at the 2003 Edinburgh Festival Fringe. They have been twice-nominated for a Grammy Award—winning Best Comedy Album in 2008—and have received seven nominations for Emmy Awards.
+Previously, they referred to themselves as "New Zealand's fourth most popular guitar-based digi-bongo acapella-rap-funk-comedy folk duo"; as of 2014, however, they refer to themselves as "the almost award-winning fourth-most-popular folk duo in New Zealand".
         
         
     
@@ -49,10 +49,12 @@ Flight of the Conchords is an American sitcom that was first shown on HBO on Jun
 
 
 ## Videos
-### Flight of the Conchords Ep 8 'Foux Da Fa Fa'
-{{< youtube id="X5hrUGFhsXo" title="Flight of the Conchords Ep 8 'Foux Da Fa Fa'" >}}<br>
+### Au Revoir
+{{< youtube id="_A5JYqZj9H4" title="Au Revoir" >}}<br>
 ### More Videos
 
+- [Flight of the Conchords [Self Titled, 2008]](https://www.youtube.com/watch?v=-mViKo6NX3o)
+- [Flight of the Conchords Ep 8 'Foux Da Fa Fa'](https://www.youtube.com/watch?v=X5hrUGFhsXo)
 - [Flight of the Conchords Ep 3 Hiphopopotamus vs. Rhymenoceros](https://www.youtube.com/watch?v=FArZxLj6DLk)
 - [Flight Of The Conchords](https://www.youtube.com/watch?v=lmDTSQtK20c)
 - [Flight of the Conchords: Robot Song (HBO)](https://www.youtube.com/watch?v=mvrva8NoMLM)
@@ -66,7 +68,7 @@ Flight of the Conchords is an American sitcom that was first shown on HBO on Jun
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Wikipedia URL | https://en.wikipedia.org/wiki/Flight_of_the_Conchords_(TV_series) |
+| Wikipedia URL | https://en.wikipedia.org/wiki/Flight_of_the_Conchords |
 | Format         | Vinyl LP Album Reissue (Yellow) |
 | Label          | Sub Pop |
 | Catalog Number | SP 715 |

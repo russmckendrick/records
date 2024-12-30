@@ -20,31 +20,31 @@ styles: ["Alternative Rock", "Post-Hardcore"]
 
 
 ## Tracklisting
-1. The Doomsday Book (03:32)
-2. Jaded Apostles (04:04)
-3. A Million Random Digits (03:07)
-4. Lie Without A Liar (03:22)
-5. The Ghost Within (03:14)
-6. The Dragonfly Queen (02:57)
-7. How To Avoid Huge Ships (04:46)
-8. Bus Lines (06:09)
-9. Lost In The Grand Scheme (07:26)
-10. Like Summer Tempests Came His Tears (03:42)
-11. Sound Of The Silk (05:18)
-12. The Doomsday Book (03:32)
-13. Jaded Apostles (04:04)
-14. A Million Random Digits (03:07)
-15. Lie Without A Liar (03:22)
-16. The Ghost Within (03:14)
-17. The Dragonfly Queen (02:57)
-18. How To Avoid Huge Ships (04:46)
-19. Bus Lines (06:09)
-20. Lost In The Grand Scheme (07:26)
-21. Like Summer Tempests Came His Tears (03:42)
-22. Sound Of The Silk (05:18)
+1. The Doomsday Book (3:32)
+2. Jaded Apostles (4:04)
+3. A Million Random Digits (3:07)
+4. Lie Without A Liar (3:22)
+5. The Ghost Within (3:14)
+6. The Dragonfly Queen (2:57)
+7. How To Avoid Huge Ships (4:46)
+8. Bus Lines (6:09)
+9. Lost In The Grand Scheme (7:26)
+10. Like Summer Tempests Came His Tears (3:42)
+11. Sound Of The Silk (5:18)
+12. The Doomsday Book (3:32)
+13. Jaded Apostles (4:04)
+14. A Million Random Digits (3:07)
+15. Lie Without A Liar (3:22)
+16. The Ghost Within (3:14)
+17. The Dragonfly Queen (2:57)
+18. How To Avoid Huge Ships (4:46)
+19. Bus Lines (6:09)
+20. Lost In The Grand Scheme (7:26)
+21. Like Summer Tempests Came His Tears (3:42)
+22. Sound Of The Silk (5:18)
 
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/ix/1047146946" >}}<br>
+{{< applemusic url="https://music.apple.com/gb/album/sess%C3%B5es-selo-sesc-9-and-you-will-know-us-by-the-trail-of-dead/1512509335" >}}<br>
 
 
 ## Videos
@@ -52,8 +52,8 @@ styles: ["Alternative Rock", "Post-Hardcore"]
 {{< youtube id="MJC8rfQ_wGA" title="…And You Will Know Us By The Trail Of Dead – IX" >}}<br>
 ### More Videos
 
-- [..And You Will Know Us By the Trail of Dead - Lie Without A Liar](https://www.youtube.com/watch?v=5agmud4KYLc)
 - […And You Will Know Us By The Trail Of Dead - The Ghost Within](https://www.youtube.com/watch?v=0H6Qbp86GoA)
+- [..And You Will Know Us By the Trail of Dead - Lie Without A Liar](https://www.youtube.com/watch?v=5agmud4KYLc)
 - [Bus Lines](https://www.youtube.com/watch?v=XxhuyKxOjTA)
 - [The Ghost Within](https://www.youtube.com/watch?v=6fqIquwl8ro)
 - [The Doomsday Book](https://www.youtube.com/watch?v=MZwv522VR2g)
