@@ -13,8 +13,8 @@ cover:
     caption: "Echoes - Ancient & Modern by Trevor Horn"
 additional_images:
     - "https://i.discogs.com/wmndOZB225mrsQHWfethH1OiLulRfvaQ6FyrJWHsZTQ/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5MDg1/ODI2LTE3MDE1MTg2/OTctOTA4Mi5qcGVn.jpeg"
-genres: ["Pop"]
-styles: ["Classical"]
+genres: ["Electronic", "Rock", "Pop", "Classical"]
+styles: ["Ballad", "Vocal", "Baroque Pop", "Symphonic Rock", "Synth-pop"]
 ---
 
 
@@ -51,6 +51,17 @@ styles: ["Classical"]
 - [White Wedding](https://www.youtube.com/watch?v=1otO9cC8NoE)
 - [Smells Like Teen Spirit](https://www.youtube.com/watch?v=A1ZM3p1utcE)
 - [Avalon](https://www.youtube.com/watch?v=bRnlZ9ZBXJg)
+- [Swimming Pools (Drank)](https://www.youtube.com/watch?v=i1emfLQ-Jqw)
+- [Steppin' Out](https://www.youtube.com/watch?v=f6WhTLb_BkQ)
+- [Owner Of A Lonely Heart](https://www.youtube.com/watch?v=W2cb8NH8Ro4)
+- [Slave To The Rhythm](https://www.youtube.com/watch?v=K_QpI1M33bY)
+- [Love Is A Battlefield](https://www.youtube.com/watch?v=JzkPABWz4ew)
+- [Personal Jesus](https://www.youtube.com/watch?v=DLXh6IY9bCw)
+- [Drive](https://www.youtube.com/watch?v=h6x6OvG6DX0)
+- [Relax](https://www.youtube.com/watch?v=wVOf20ZKm9c)
+- [White Wedding](https://www.youtube.com/watch?v=1otO9cC8NoE)
+- [Smells Like Teen Spirit](https://www.youtube.com/watch?v=A1ZM3p1utcE)
+- [Avalon](https://www.youtube.com/watch?v=bRnlZ9ZBXJg)
 
 ## Release Images
 {{< imageGrid >}}
@@ -58,7 +69,7 @@ styles: ["Classical"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl LP Limited Edition Stereo (Clear) |
+| Format         | Vinyl LP Limited Edition Numbered Stereo (Clear) |
 | Label          | Universal Music Group |
 | Catalog Number | 486 4880 |
 | Notes | Crystal clear limited edition 180g heavyweight vinyl pressing #### of 3.000 |

@@ -43,20 +43,20 @@ styles: ["Ska"]
 13. So Much Trouble In The World (3:44)
 
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/the-dangermen-sessions-vol-1/1504284446" >}}<br>
+{{< applemusic url="https://music.apple.com/gb/album/the-dangermen-sessions-vol-1/1777029787" >}}<br>
 
 
 ## Videos
-### Israelites
-{{< youtube id="KPoypZ9casY" title="Israelites" >}}<br>
+### Lola
+{{< youtube id="v142-oPlnNI" title="Lola" >}}<br>
 ### More Videos
 
+- [Israelites](https://www.youtube.com/watch?v=KPoypZ9casY)
 - [Madness You Keep Me Hanging on](https://www.youtube.com/watch?v=U3Ms2s4Uq38)
 - [Girl Why Don't You?](https://www.youtube.com/watch?v=HcKWvvGhcJ0)
 - [You Keep Me Hanging On](https://www.youtube.com/watch?v=D8yXfL_Y67E)
 - [This Is Where](https://www.youtube.com/watch?v=wGFg1hVBR-Y)
 - [Taller Than You Are](https://www.youtube.com/watch?v=1gOB44FkP2k)
-- [Lola](https://www.youtube.com/watch?v=v142-oPlnNI)
 - [So Much Trouble in the World](https://www.youtube.com/watch?v=vIHMY6EtOQI)
 - [I Chase the Devil AKA Ironshirt](https://www.youtube.com/watch?v=JQ0CrMJec5A)
 - [You'll Lose a Good Thing](https://www.youtube.com/watch?v=IwN-74fBrqY)
@@ -64,6 +64,19 @@ styles: ["Ska"]
 - [John Jones](https://www.youtube.com/watch?v=ISJyYFV8iyE)
 - [Madness - The Dangermen Sessions Volume One (Full Album)](https://www.youtube.com/watch?v=GGZ9W7_HCE4)
 - [Madness - Shame And Scandal](https://www.youtube.com/watch?v=jPHOPTwjVwY)
+- [Lola](https://www.youtube.com/watch?v=v142-oPlnNI)
+- [Israelites](https://www.youtube.com/watch?v=KPoypZ9casY)
+- [Madness You Keep Me Hanging on](https://www.youtube.com/watch?v=U3Ms2s4Uq38)
+- [Girl Why Don't You?](https://www.youtube.com/watch?v=HcKWvvGhcJ0)
+- [You Keep Me Hanging On](https://www.youtube.com/watch?v=D8yXfL_Y67E)
+- [This Is Where](https://www.youtube.com/watch?v=wGFg1hVBR-Y)
+- [Taller Than You Are](https://www.youtube.com/watch?v=1gOB44FkP2k)
+- [So Much Trouble in the World](https://www.youtube.com/watch?v=vIHMY6EtOQI)
+- [I Chase the Devil AKA Ironshirt](https://www.youtube.com/watch?v=JQ0CrMJec5A)
+- [You'll Lose a Good Thing](https://www.youtube.com/watch?v=IwN-74fBrqY)
+- [Madness - You'll Lose A Good Thing](https://www.youtube.com/watch?v=Ju4kJhEM18k)
+- [John Jones](https://www.youtube.com/watch?v=ISJyYFV8iyE)
+- [Madness - The Dangermen Sessions Volume One (Full Album)](https://www.youtube.com/watch?v=GGZ9W7_HCE4)
 
 ## Release Images
 {{< imageGrid >}}

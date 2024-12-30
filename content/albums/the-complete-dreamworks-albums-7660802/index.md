@@ -12,12 +12,15 @@ cover:
     alt: "The Complete Dreamworks Albums by Eels"
     caption: "The Complete Dreamworks Albums by Eels"
 additional_images:
-    - "https://i.discogs.com/c18BYiAJIRTBvQkRjX9ut_4az1Sea_E0OrNVoweI4gc/rs:fit/g:sm/q:90/h:605/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc2NjA4/MDItMTU4NzA2OTU3/MS0yNjUyLmpwZWc.jpeg"
+    - "https://i.discogs.com/O3CTUl9Q0dxReduBbnkWx_QLH-VtrWv3gduuLax2nDU/rs:fit/g:sm/q:90/h:600/w:594/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc2NjA4/MDItMTU4NzA2OTU3/MS0yNjUyLmpwZWc.jpeg"
     - "https://i.discogs.com/feA9NyGsmF5ozLlMEAIXBS4Yf6wyWEs38MOkbEAjZI8/rs:fit/g:sm/q:90/h:261/w:400/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc2NjA4/MDItMTQ0NjE3MTUx/NS04NDEzLmpwZWc.jpeg"
 genres: ["Rock"]
 styles: ["Indie Rock", "Lo-Fi"]
 ---
 
+The Complete DreamWorks Albums is a 2015 box set of seven albums from American indie rock band Eels, released in the 1990s and 2000s: Beautiful Freak (1996), Electro-Shock Blues (1998), Daisies of the Galaxy (2000), Souljacker (2001), Electro-Shock Blues Show (2002, recorded live in 1998), and Shootenanny! (2003). The collection has received positive reviews by critics.
+    
+    
 
 
 ## Tracklisting
@@ -121,6 +124,7 @@ styles: ["Indie Rock", "Lo-Fi"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
+| Wikipedia URL | https://en.wikipedia.org/wiki/The_Complete_DreamWorks_Albums |
 | Format         | Vinyl LP Album Reissue, Vinyl 2× LP Album Reissue, Vinyl LP Album Reissue, Vinyl LP Album Reissue, Vinyl LP Album Reissue, Vinyl 2× LP Album, Box Set Compilation Limited Edition |
 | Label          | Universal Music Group |
 | Catalog Number | 602547306623 |

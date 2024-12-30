@@ -13,7 +13,7 @@ cover:
     caption: "The Very Very Best Of Crowded House by Crowded House"
 additional_images:
     - "https://i.discogs.com/hiiaDbAP-1kQzDq3ywPZ10p1cN8E7VjKt5ICu4ZuiWg/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNzgy/ODE5LTE1NzM0NDA2/MTEtNTk0NC5qcGVn.jpeg"
-    - "https://i.discogs.com/nE8f0eRGcxLTZ19DGWrX4ClzPVrxHqVKXp72Bg6yXZ8/rs:fit/g:sm/q:90/h:607/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNzgy/ODE5LTE1NzM0NDA2/MDYtODg1Ni5qcGVn.jpeg"
+    - "https://i.discogs.com/s4shoN7MaTKI5BrmvATgv_hZjJm0AoD5bVwyrM_rk30/rs:fit/g:sm/q:90/h:600/w:592/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNzgy/ODE5LTE1NzM0NDA2/MDYtODg1Ni5qcGVn.jpeg"
     - "https://i.discogs.com/DkzZ8aQehRCjLbBYFjJ2b8Y_xiYYvfbdCeufR501tsI/rs:fit/g:sm/q:90/h:592/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNzgy/ODE5LTE1NzM0NDA1/MjEtOTk4OS5qcGVn.jpeg"
     - "https://i.discogs.com/VAt56svFbQFkFKuZFz56UOPbDdJSFsxeuv_LOQsf4CY/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNzgy/ODE5LTE1NzM0NDA1/MTAtNDM1MS5qcGVn.jpeg"
     - "https://i.discogs.com/ATfULexky8o4Bu5M6zZhalDP3HLyKjNtRlp0DHik21s/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNzgy/ODE5LTE1NzM0NDA1/MjYtNzc5Ni5qcGVn.jpeg"
@@ -24,6 +24,11 @@ genres: ["Rock"]
 styles: []
 ---
 
+The Very Very Best of Crowded House is a compilation album featuring 19 singles from the period spanning Crowded House's first five studio albums. A CD and DVD box set is available, which includes a DVD of 25 of the band's music videos. The album is also available as a 'Deluxe Digital Version' which features 32 tracks including a rare 1987 live recording of the band's cover version of the Hunters & Collectors song "Throw Your Arms Around Me".
+
+
+    
+    
 
 
 ## Tracklisting
@@ -59,6 +64,10 @@ styles: []
 - [Crowded House - It's Only Natural](https://www.youtube.com/watch?v=duf-dofeoms)
 - [Crowded House - Fall At Your Feet](https://www.youtube.com/watch?v=2ROiU9kOHeE)
 - [Crowded House - Four Seasons In One Day](https://www.youtube.com/watch?v=si3dBlNdifE)
+- [Crowded House - Don't Dream It's Over (Official Video)](https://www.youtube.com/watch?v=J9gKyRmic20)
+- [Crowded House - It's Only Natural](https://www.youtube.com/watch?v=duf-dofeoms)
+- [Crowded House - Fall At Your Feet](https://www.youtube.com/watch?v=2ROiU9kOHeE)
+- [Crowded House - Four Seasons In One Day](https://www.youtube.com/watch?v=si3dBlNdifE)
 
 ## Release Images
 {{< imageGrid >}}
@@ -66,6 +75,7 @@ styles: []
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
+| Wikipedia URL | https://en.wikipedia.org/wiki/The_Very_Very_Best_of_Crowded_House |
 | Format         | Vinyl 2× LP Compilation Limited Edition Reissue (Orange) |
 | Label          | Universal Music |
 | Catalog Number | 5784759 |

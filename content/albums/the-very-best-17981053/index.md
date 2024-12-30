@@ -14,9 +14,9 @@ cover:
 additional_images:
     - "https://i.discogs.com/ARxBS0TRMbELYpG3VcJ-oKHrvcxxODNETVu4H11Zlgk/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3OTgx/MDUzLTE2MTY1Mzkw/OTAtMjkwMC5qcGVn.jpeg"
     - "https://i.discogs.com/er4X8gOkaP947rgcexWNCKXkeWuX9wN-qJraiF-Gvx8/rs:fit/g:sm/q:90/h:584/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3OTgx/MDUzLTE2MTY1Mzkw/OTItNzIzOC5qcGVn.jpeg"
-    - "https://i.discogs.com/EurGq_601Pyv3L7Xfs6cjgTgJOav5vmv13FVFNkKpQw/rs:fit/g:sm/q:90/h:601/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3OTgx/MDUzLTE2MTY1Mzkw/OTUtOTMxNy5qcGVn.jpeg"
-    - "https://i.discogs.com/WvuApP_RqglQ_F7hqJzyYDjc8uC_uMqfxsMf6NIYWQY/rs:fit/g:sm/q:90/h:611/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3OTgx/MDUzLTE2MTY1Mzkw/OTktNjE0Ny5qcGVn.jpeg"
-    - "https://i.discogs.com/JAyhbrJxxVNiwlaWZQw9mwOjy_6G6Gpd4wvqK2gwE-k/rs:fit/g:sm/q:90/h:608/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3OTgx/MDUzLTE2MTY1Mzkx/MDMtNTQyNi5qcGVn.jpeg"
+    - "https://i.discogs.com/BpeVt3O16SZxjpJmD99xQCoXoz2DrCqGFViDB9ILfgM/rs:fit/g:sm/q:90/h:600/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3OTgx/MDUzLTE2MTY1Mzkw/OTUtOTMxNy5qcGVn.jpeg"
+    - "https://i.discogs.com/1i9TF7z2gwf1131VB-wcorvTOpc5i1BBIIS8Iwy8xLc/rs:fit/g:sm/q:90/h:600/w:588/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3OTgx/MDUzLTE2MTY1Mzkw/OTktNjE0Ny5qcGVn.jpeg"
+    - "https://i.discogs.com/yOBxPpSaDape472dAC94fr4_obbEgUIWzdSQMLwnJZA/rs:fit/g:sm/q:90/h:600/w:591/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3OTgx/MDUzLTE2MTY1Mzkx/MDMtNTQyNi5qcGVn.jpeg"
     - "https://i.discogs.com/9ChfPt3X-iHQ29c_Ml1gZYLl6jJC1Q-fS4QCTj0hTAE/rs:fit/g:sm/q:90/h:594/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3OTgx/MDUzLTE2MTY1Mzkx/MDgtOTA1NC5qcGVn.jpeg"
     - "https://i.discogs.com/1pXrpcdiCcWWSoQFDqjqiQMiafF_P7G_jaE_RVmI4_c/rs:fit/g:sm/q:90/h:577/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3OTgx/MDUzLTE2MTY1Mzkx/MTMtNjg1Mi5qcGVn.jpeg"
     - "https://i.discogs.com/Ug2blKCNvFs6Zc2qFTEFOjF6s0VlbJQ4o8IHemXPy_k/rs:fit/g:sm/q:90/h:589/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3OTgx/MDUzLTE2MTY1Mzkx/MTYtMTUyNC5qcGVn.jpeg"
@@ -26,7 +26,7 @@ genres: ["Rock", "Pop"]
 styles: ["Alternative Rock", "Pop Rock"]
 ---
 
-The Very Best is a greatest hits album released by Australian band INXS in 2011. It initially peaked at number 39.
+The Very Best is a greatest hits album released by Australian band INXS in 2011. It initially peaked at number 39 in Australia.
 Following the screening of INXS: Never Tear Us Apart, an Australian miniseries about INXS that commenced on 9 February 2014 on the Seven Network, the album re-entered the charts, peaking at number one. When the miniseries screened in New Zealand in August 2014, the album also charted, similarly peaking at number one.
 
 

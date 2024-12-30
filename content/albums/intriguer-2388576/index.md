@@ -12,13 +12,17 @@ cover:
     alt: "Intriguer by Crowded House"
     caption: "Intriguer by Crowded House"
 additional_images:
-    - "https://i.discogs.com/8_TjiGyLG4EohwwVVzvmLln5vO-s6lWeeBmf5MS-TQc/rs:fit/g:sm/q:90/h:445/w:500/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzODg1/NzYtMTI4MTE0MDg2/My5qcGVn.jpeg"
-    - "https://i.discogs.com/-p6GlKtR3WrVZIkHPSfRty87BPtCj6FqXqhsQ9Ue_UY/rs:fit/g:sm/q:90/h:605/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzODg1/NzYtMTYzNzMzNzkx/NC00Njg0LmpwZWc.jpeg"
+    - "https://i.discogs.com/Hqs5tvEvo9IVpJpdnEr6HL8s7oY9qoKKFuV3s8ogj7w/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzODg1/NzYtMTcxMjc1NjE1/Ny03OTkzLmpwZWc.jpeg"
+    - "https://i.discogs.com/c9kR6vOpdV9mRggrfKLIQwmYD01wmRnNFH7feqV0Ao4/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzODg1/NzYtMTcxMjc1NjE2/My04NjE2LmpwZWc.jpeg"
+    - "https://i.discogs.com/yzyHp1fG9CMkbuMDqEdMuQVuDIo4T2fzO5hUHP518ls/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzODg1/NzYtMTcxMjc1NjE3/Ni02NDcwLmpwZWc.jpeg"
+    - "https://i.discogs.com/j7khewlzYNvZNP3fhbSqjb-EesizbBLhPtp_DUc-_Sk/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzODg1/NzYtMTcxMjc1NjE3/OS05MDczLmpwZWc.jpeg"
 genres: ["Rock"]
 styles: ["Pop Rock"]
 ---
 
 Intriguer is the sixth studio album by rock group Crowded House, released on 11 June 2010. It is the band's follow-up to the group's 2007 reunion album Time on Earth. The first single for the album, "Saturday Sun", was released to radio and the video clip released to the internet in April 2010.
+
+
     
     
 
@@ -36,13 +40,16 @@ Intriguer is the sixth studio album by rock group Crowded House, released on 11 
 10. Elephants (4:31)
 
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/intriguer-deluxe-version/1599607936" >}}<br>
+{{< applemusic url="https://music.apple.com/gb/album/intriguer/1615562750" >}}<br>
 
 
 ## Videos
-### Crowded House - Twice If You're Lucky
-{{< youtube id="YcKh-VeFxX0" title="Crowded House - Twice If You're Lucky" >}}<br>
+### Crowded House - Either Side Of The World
+{{< youtube id="0odlsTs4idY" title="Crowded House - Either Side Of The World" >}}<br>
+### More Videos
 
+- [Crowded House - Twice If You're Lucky](https://www.youtube.com/watch?v=YcKh-VeFxX0)
+- [Crowded House - Twice If You're Lucky](https://www.youtube.com/watch?v=YcKh-VeFxX0)
 
 ## Release Images
 {{< imageGrid >}}

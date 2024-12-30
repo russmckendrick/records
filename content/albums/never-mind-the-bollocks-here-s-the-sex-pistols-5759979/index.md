@@ -15,19 +15,20 @@ cover:
 additional_images:
     - "https://i.discogs.com/6Rpky0lc5XfRJiZMR7Lnnh3FyL7TAsw54sw2YXd_DdE/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU3NTk5/NzktMTU1NjgyMDgx/OS0yMjE0LnBuZw.jpeg"
     - "https://i.discogs.com/KcCYaOvolI9QglMbD5ApjrFzaEZyWD_myEbtcMhtfpg/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU3NTk5/NzktMTU1NjgyMDgx/OS0yMzY1LmpwZWc.jpeg"
-    - "https://i.discogs.com/tPToBgSALW4IbiSSfvcbM0Kah9XsQOh96TEtvOifz-8/rs:fit/g:sm/q:90/h:606/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU3NTk5/NzktMTQ3NTMyODA0/OS03OTMxLmpwZWc.jpeg"
-    - "https://i.discogs.com/oPh_3hVGNjyd_iTQduey4RBNE7tDxUGoZM6G1uYYYSM/rs:fit/g:sm/q:90/h:602/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU3NTk5/NzktMTQ3NTMyODA1/My01MDYwLmpwZWc.jpeg"
+    - "https://i.discogs.com/Qv3-D2fNO7LHuWpbeU_IoPaPojc_JCI6qnLy_uRgonY/rs:fit/g:sm/q:90/h:600/w:593/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU3NTk5/NzktMTQ3NTMyODA0/OS03OTMxLmpwZWc.jpeg"
+    - "https://i.discogs.com/04nhrmZeUSEInxpS3qFYJD3lhmIAItvlzhCKOygugOM/rs:fit/g:sm/q:90/h:600/w:597/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU3NTk5/NzktMTQ3NTMyODA1/My01MDYwLmpwZWc.jpeg"
     - "https://i.discogs.com/I1FIW5-MVyppt-UxyI8rglF3iWVdFso6OmKDu3xVV0g/rs:fit/g:sm/q:90/h:589/w:590/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU3NTk5/NzktMTQwMTg5MTI4/MS0zOTQ5LmpwZWc.jpeg"
-    - "https://i.discogs.com/BqJnu2yoe8xmiUkWduDNHr4QLtlISR1RR8FwL96Czxw/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU3NTk5/NzktMTQ3NTMyODM4/OS0zMDM4LmpwZWc.jpeg"
 genres: ["Rock"]
 styles: ["Punk"]
 ---
 
-A few months after the Sex Pistols released their first and only album, frontman John Lydon stood onstage in San Francisco and asked the audience if they ever had the feeling they’d been cheated. The question could’ve been self-deprecating—as in, after a year of hype and rhetoric about the revolutionary power of rock ’n’ roll, weren’t you expecting a little more from the Sex Pistols?<br />
-But Lydon could’ve easily been asking the question of himself. The Sex Pistols hadn’t tried to destroy the business and culture of rock ’n’ roll, but they hadn’t planned on becoming a casualty of it either. And now, here they were, sponging up the spit and beer-spray of hundreds of disaffected teenagers who took their messages of blind rebellion to heart. Their manager, Malcolm McLaren, had purposely avoided booking the band in places like Los Angeles and New York in favour of Southern cities where the cultural clash—between young British punks and a presumably conservative part of America—would be more volatile. If it was all just controversy, you’d feel cheated too. They didn’t play another show for nearly 20 years.<br />
-Whereas <i>The Clash</i> has a set of politics, 1977’s <i>Never Mind the Bollocks</i> doesn’t. They don’t like other people (“Anarchy in the U.K.”) but don’t seem to like themselves either (“No Feelings”). They have nothing good to say about the older generation (“God Save the Queen”) and worse to say about the younger one (“Pretty Vacant”). In the same way that a St. Bernard looks melancholy regardless of how it feels, Lydon conveys a disgust that runs so deep, it feels beyond performance. The album’s bleakest song, “Bodies”, isn’t just a snapshot of an aborted fetus and its dehumanised mother—it was written about a fan.<br />
-There’s a provocative quality to it, but there’s a purity too: You sense that there is no power they can tolerate, no state they can trust, no tradition by which they can abide. Except, maybe, rock ’n’ roll, which they try to rescue from the jaws of the ’70s by playing as loudly and simply as possible. They’re not here to change things or make them better. Instead, they look at the world like stoics, or prophets of the apocalypse. The scary thing about <i>Never Mind the Bollocks</i> isn’t how serious it is, but how it manages to make everything sound like a joke. 
-    
+Never Mind the Bollocks, Here's the Sex Pistols is the only studio album by English punk rock band the Sex Pistols, released on 28 October 1977 through Virgin Records in the UK and on 11 November 1977 through Warner Bros. Records in the US. As a result of the Sex Pistols' volatile internal relationships, the band's lineup saw changes during the recording of the album. Original bass guitarist Glen Matlock left the band early in the recording process, and while he is credited as a co-writer on all but two of the tracks, he only played bass and sang backing vocals on one track, "Anarchy in the U.K." Recording sessions continued with a new bass player, Sid Vicious, who is credited on two of the songs written by the band after he joined. While Vicious's bass playing appeared on two tracks, his lack of skill on the instrument meant that many of the tracks were recorded with guitarist Steve Jones playing bass instead. Drummer Paul Cook, Jones and singer Johnny Rotten appear on every track. The various recording sessions were led alternately by Chris Thomas or Bill Price, and sometimes both together, but as the songs on the final albums often combined mixes from different sessions, or were poorly documented who was present in the recording booth at the time, each song is jointly credited to both producers.
+By the time of its release, the Sex Pistols were already controversial, having spoken profanity on live TV, been fired from two record labels, and been banned from playing live in some parts of Britain. The album title added to that controversy, with some people finding the word "bollocks" offensive. Many record stores refused to carry it and some record charts refused to list its title, showing just a blank space instead. Due in part to its notoriety, and in spite of many sales bans at major retailers, the album debuted at number one on the UK Album Charts. It achieved advance orders of 125,000 copies after a week of its release and went gold only a few weeks later, on 17 November. It remained a best-seller for nearly a year, spending 48 weeks in the top 75. The album has also been certified platinum by the RIAA. It has seen several reissues, the latest in 2017.
+The album has influenced many bands and musicians, and the industry in general. In particular, the album's raw energy, and Johnny Rotten's sneering delivery and "half-singing", are often considered game changing. It is frequently listed as the most influential punk album, and one of the greatest and most important albums of all time. In 1987, Rolling Stone magazine named the album the second best of the previous 20 years, behind only the Beatles' Sgt. Pepper's Lonely Hearts Club Band. The same magazine ranked it 73rd on their list of the 500 greatest albums of all time in 2020. In 2006, it was chosen by Time magazine as one of the 100 greatest albums ever.
+
+
+        
+        
     
 
 
@@ -52,11 +53,7 @@ There’s a provocative quality to it, but there’s a purity too: You sense tha
 ## Videos
 ### Sex Pistols - Never Mind The Bollocks, Here's The Sex Pistols [Full Album] (HQ)
 {{< youtube id="LD2i99QPVI0" title="Sex Pistols - Never Mind The Bollocks, Here's The Sex Pistols [Full Album] (HQ)" >}}<br>
-### More Videos
 
-- [The Sex Pistols - Anarchy In The U.K (official video)](https://www.youtube.com/watch?v=cBojbjoMttI)
-- [Sex Pistols - God Save the Queen](https://www.youtube.com/watch?v=RvMxqcgBhWQ)
-- [the sex pistols pretty vacant](https://www.youtube.com/watch?v=VcauCclfytI)
 
 ## Release Images
 {{< imageGrid >}}
@@ -64,6 +61,7 @@ There’s a provocative quality to it, but there’s a purity too: You sense tha
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
+| Wikipedia URL | https://en.wikipedia.org/wiki/Never_Mind_the_Bollocks,_Here%27s_the_Sex_Pistols |
 | Format         | Vinyl LP Album Reissue Remastered Stereo (180g) |
 | Label          | Universal Music Group International |
 | Catalog Number | SexPisLP77 |

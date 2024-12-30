@@ -20,7 +20,7 @@ additional_images:
     - "https://i.discogs.com/V5-TtfhzimabMdup5TkI2QnxGitIiI4jUIUTycjgSVg/rs:fit/g:sm/q:90/h:587/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc3NzE0/NDctMTY0NDAwMjI2/OS03MDQ1LmpwZWc.jpeg"
     - "https://i.discogs.com/6EDAo4nNYSKpRodLe-FfDnEhSWZrJS1eT-wJgGuXyt0/rs:fit/g:sm/q:90/h:582/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc3NzE0/NDctMTY0NDAwMjI2/OS05MDYzLmpwZWc.jpeg"
     - "https://i.discogs.com/R0nIlinWtRkJDR3jVvVENcyKcXb8MRhC8PJv3EDnA4g/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc3NzE0/NDctMTY0NDAwMjI3/MC03NjE5LmpwZWc.jpeg"
-    - "https://i.discogs.com/5EEDv2vFizkdOiY6BvCgj9bEXHNoq7o9J44uCAf5JjI/rs:fit/g:sm/q:90/h:602/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc3NzE0/NDctMTY0NDAwMjI2/OS01NjA5LmpwZWc.jpeg"
+    - "https://i.discogs.com/P0c5EMbwsmCLaK37rTqgcu0Nxsm2MGbJHSjjs9vMFO0/rs:fit/g:sm/q:90/h:600/w:597/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc3NzE0/NDctMTY0NDAwMjI2/OS01NjA5LmpwZWc.jpeg"
     - "https://i.discogs.com/PNVceEoxakfiVSP-O5AIKHjwdTUV4eao8UsD0UWOnFE/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc3NzE0/NDctMTY0NDAwMjI3/MC00MTIyLmpwZWc.jpeg"
     - "https://i.discogs.com/rBx_mFhsB7Tx2xPTHI-q4WvCVVvTG5Te47yWwXhvq6E/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc3NzE0/NDctMTY0NDAwMjI2/OS02NDEwLmpwZWc.jpeg"
     - "https://i.discogs.com/gdWgtE3bDlGkRSsfObQQ7TmbHo5hzWrRAu1LCTUEbMg/rs:fit/g:sm/q:90/h:289/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc3NzE0/NDctMTY0NDAwMjI2/OC04ODk5LmpwZWc.jpeg"
@@ -51,12 +51,16 @@ styles: []
 16. Get These Blues Off Me 
 17. See That My Grave Is Kept Clean
 
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/ladies-gentlemen-single/947692405" >}}<br>
 
 
 ## Videos
 ### Ladies and Gentlemen... Mr B.B. King auf bbkingfan.de
 {{< youtube id="UDuvJ9pweig" title="Ladies and Gentlemen... Mr B.B. King auf bbkingfan.de" >}}<br>
+### More Videos
 
+- [Ladies and Gentlemen... Mr B.B. King auf bbkingfan.de](https://www.youtube.com/watch?v=UDuvJ9pweig)
 
 ## Release Images
 {{< imageGrid >}}

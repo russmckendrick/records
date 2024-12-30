@@ -4,7 +4,7 @@ artist_name: "Underworld"
 artist: "underworld"
 album_name: "Dubnobasswithmyheadman"
 date: 2015-10-10T16:14:49.000000Z
-release_date: "2014-01-01"
+release_date: "1994-01-24"
 release_id: "5955411"
 slug: "dubnobasswithmyheadman-5955411"
 hideSummary: true
@@ -54,15 +54,19 @@ This ambitious 1994 album will leave you in a sweating, swirling, ecstatic tranc
 
 
 ## Videos
-### Dark & Long (Remastered)
-{{< youtube id="HJEUwJ9lKlc" title="Dark & Long (Remastered)" >}}<br>
+### Underworld - Dirty Epic
+{{< youtube id="phWYWpu5KUQ" title="Underworld - Dirty Epic" >}}<br>
 ### More Videos
 
-- [Mmm... Skyscraper I Love You (Remastered)](https://www.youtube.com/watch?v=A5sm-c7EIus)
-- [Surfboy (Remastered)](https://www.youtube.com/watch?v=PzQ2deV-6mI)
-- [Spoonman (Remastered)](https://www.youtube.com/watch?v=s7znayyihGM)
-- [Tongue (Remastered)](https://www.youtube.com/watch?v=oIXPcW_6V7k)
-- [River Of Bass (Remastered)](https://www.youtube.com/watch?v=OOWEY4MGzM8)
+- [Underworld - Cowgirl](https://www.youtube.com/watch?v=feWNvGpWHLM)
+- [Underworld - Dark & Long](https://www.youtube.com/watch?v=9H66_PYTFBA)
+- [Underworld - Mmm... Skyscraper I Love You](https://www.youtube.com/watch?v=0gYtY0JcYmk)
+- [Underworld - Surfboy](https://www.youtube.com/watch?v=mkisofaEBFc)
+- [Underworld - Spoonman](https://www.youtube.com/watch?v=fEMcjVsc5cg)
+- [Underworld - Tongue](https://www.youtube.com/watch?v=Vj-4qzZa9OA)
+- [Underworld - River of Bass](https://www.youtube.com/watch?v=XeHzLAHjAW4)
+- [Underworld - M.E.](https://www.youtube.com/watch?v=cG1u3Udslqc)
+- [U̲n̲d̲e̲r̲w̲o̲r̲l̲d̲ | D̲u̲b̲n̲o̲b̲a̲s̲s̲w̲i̲t̲h̲m̲y̲h̲e̲a̲d̲m̲a̲n̲](https://www.youtube.com/watch?v=is2RBNWz8JQ)
 
 ## Release Images
 {{< imageGrid >}}
