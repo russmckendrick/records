@@ -42,7 +42,7 @@ styles: ["Downtempo", "Indie Rock"]
 - [Soulsavers - Down So Low](https://www.youtube.com/watch?v=2jycZGFbdrU)
 - [The Soulsavers - Love](https://www.youtube.com/watch?v=yUiZB9CXA0I)
 - [Soulsavers - Precious Time](https://www.youtube.com/watch?v=NNtdh7dbFAU)
-- [SOULSAVERS - The Seventh Proof](https://www.youtube.com/watch?v=pNFRYt4moF8)
+- [SOULSAVERS - "The Seventh Proof"](https://www.youtube.com/watch?v=pNFRYt4moF8)
 
 ## Release Images
 {{< imageGrid >}}

@@ -16,16 +16,21 @@ additional_images:
     - "https://i.discogs.com/eIE2b9AmUbRf1sEKP-sivXiO5aVCxTjiVx1D9i-UirI/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1ODg5/MTE2LTE1OTk4NDg2/MTItNzAzNi5qcGVn.jpeg"
     - "https://i.discogs.com/BNQf98JZr6WzOGe2m8Wf7A6QKvrhoYjHkS5bor_sj74/rs:fit/g:sm/q:90/h:594/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1ODg5/MTE2LTE2MDMyMTc0/NDAtOTQ5NS5qcGVn.jpeg"
     - "https://i.discogs.com/81vy6PhAKKmuTJrzuUdpLFjzRe_m_DoHv6g_L8eAjtY/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1ODg5/MTE2LTE2MDMyMTc0/NDAtNTk1Mi5qcGVn.jpeg"
-    - "https://i.discogs.com/G0fMWupf_9sQkEiFec6LdINNQ-OkHILFCPCHy3zh9hk/rs:fit/g:sm/q:90/h:618/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1ODg5/MTE2LTE2MDMyMTc0/NDEtODk5NS5qcGVn.jpeg"
+    - "https://i.discogs.com/tvWQu0HsF2RIu6lCpIvgtYhI-LWYhF8SBCJtVQFHl-k/rs:fit/g:sm/q:90/h:600/w:582/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1ODg5/MTE2LTE2MDMyMTc0/NDEtODk5NS5qcGVn.jpeg"
     - "https://i.discogs.com/UC82gpnXoP4QOmverDFCspKgBvg7c_qLrKxFRCikCc4/rs:fit/g:sm/q:90/h:568/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1ODg5/MTE2LTE2MDMyMTc0/NDAtOTgxMy5qcGVn.jpeg"
     - "https://i.discogs.com/seEnisbA0Ek5GRaY8VorLD7jVdeY_l04pIIkmI9adYo/rs:fit/g:sm/q:90/h:589/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1ODg5/MTE2LTE2MDMyMTc0/NDEtNDc3Ni5qcGVn.jpeg"
     - "https://i.discogs.com/_AxzUT1B7fJ4IRy7SHDaPRYmev7eFgI_b5hbVXGmXic/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1ODg5/MTE2LTE2MDMyMTc0/NDEtMTUzOC5qcGVn.jpeg"
     - "https://i.discogs.com/w_0AK-tvJf_UAIttkjxwu67BiTa_GhRCzqXxNaBY3JQ/rs:fit/g:sm/q:90/h:572/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1ODg5/MTE2LTE2MDMyMTc0/NDAtMzgyMy5qcGVn.jpeg"
-    - "https://i.discogs.com/ZKGpk63H12osB4wD_xrVVcbzwrD-VI-449thaBV5b0E/rs:fit/g:sm/q:90/h:607/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1ODg5/MTE2LTE2MDMyMTc0/NDEtODI3MC5qcGVn.jpeg"
+    - "https://i.discogs.com/QY9jY4hN8i8RZE4Ycwg86Snhiyt99w1_qFdfooB2FxA/rs:fit/g:sm/q:90/h:600/w:592/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1ODg5/MTE2LTE2MDMyMTc0/NDEtODI3MC5qcGVn.jpeg"
 genres: ["Electronic", "Rock"]
 styles: ["Britpop", "Trip Hop", "Indie Rock"]
 ---
 
+Help  is a 2010 Indian Hindi-language supernatural horror film directed by Rajeev Virani in his directional debut. It stars Bobby Deol and Mugdha Godse and marks the debut of Sophia Handa in a supporting role. Shreyas Talpade also has a special role in the film although it was not marketed as his film. It was released on 13 August 2010, making it the first Bollywood horror film to release on Friday the 13th. The film was shot in Mauritius.
+
+
+    
+    
 
 
 ## Tracklisting
@@ -51,25 +56,23 @@ styles: ["Britpop", "Trip Hop", "Indie Rock"]
 20. Come Together (3:33)
 
 
-## Spotify
-{{< spotify type="album" id="3YoAppcd7ZVCGcp6sAsSas" width="100%" height="500" >}}<br>
-
 
 ## Videos
 ### Oasis - Fade Away - Warchild Version
 {{< youtube id="TGz307o0JRA" title="Oasis - Fade Away - Warchild Version" >}}<br>
 ### More Videos
 
-- [Mourning Air](https://www.youtube.com/watch?v=DHcErdge7k0)
-- [Planet 4 Folk Quartet - Message To Crommie.avi](https://www.youtube.com/watch?v=u-BHcl0uDMU)
-- [Radiohead - No Surprises & Lucky](https://www.youtube.com/watch?v=m4m74eEqI6s)
 - [suede - shipbuilding](https://www.youtube.com/watch?v=KDPa6AJMQkw)
-- [Ode To Billy Joe](https://www.youtube.com/watch?v=KuIHjGLkY8g)
-- [Terry Hall & Salad - Dream A Little Dream (Help)](https://www.youtube.com/watch?v=BQ8FsEDUhsU)
 - [One World Orchestra The Magnificent](https://www.youtube.com/watch?v=x8M6JQsGAws)
-- [Massive Attack – Fake The Aroma (1995 HELP)](https://www.youtube.com/watch?v=Qe5MQ9m1bDk)
 - [Blur - Eine Kleine Lift Musik](https://www.youtube.com/watch?v=Zk39h25Y5k8)
 - [Paul Weller / Smokin' Mojo Filters  - Come Together](https://www.youtube.com/watch?v=IK0sMC5ntpc)
+- [Mourning Air](https://www.youtube.com/watch?v=DHcErdge7k0)
+- [Ode To Billy Joe](https://www.youtube.com/watch?v=KuIHjGLkY8g)
+- [Massive Attack – Fake The Aroma (1995 HELP)](https://www.youtube.com/watch?v=Qe5MQ9m1bDk)
+- [Radiohead - Lucky](https://www.youtube.com/watch?v=tejkhFyjoGE)
+- [Planet 4 Folk Quartet - Message To Crommie.avi](https://www.youtube.com/watch?v=u-BHcl0uDMU)
+- [Terry Hall & Salad - Dream A Little Dream (Help)](https://www.youtube.com/watch?v=BQ8FsEDUhsU)
+- [Radiohead - No Surprises & Lucky](https://www.youtube.com/watch?v=m4m74eEqI6s)
 
 ## Release Images
 {{< imageGrid >}}
@@ -77,6 +80,7 @@ styles: ["Britpop", "Trip Hop", "Indie Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
+| Wikipedia URL | https://en.wikipedia.org/wiki/Help_(2010_film) |
 | Format         | Vinyl 2× LP Album Compilation Limited Edition Reissue |
 | Label          | The Vinyl Factory |
 | Catalog Number | 8286822 |

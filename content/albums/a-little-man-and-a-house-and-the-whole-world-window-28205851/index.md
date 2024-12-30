@@ -12,7 +12,7 @@ cover:
     alt: "A Little Man And A House And The Whole World Window by Cardiacs"
     caption: "A Little Man And A House And The Whole World Window by Cardiacs"
 additional_images:
-    - "https://i.discogs.com/CXbr85bnrkSrSsn1VVJ3U_FcmT2ncLAnzB0uDTntTh4/rs:fit/g:sm/q:90/h:585/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4MjA1/ODUxLTE2OTQ1OTgw/NDUtNjA5Ny5qcGVn.jpeg"
+    - "https://i.discogs.com/YU_ZNcizthiGuq0uZd99_2ablBWUhiUUFHFrAHQj6q4/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4MjA1/ODUxLTE3MDQ2MzAx/NDMtNDU2Ni5qcGVn.jpeg"
     - "https://i.discogs.com/dheWRnBpp9lm7AZfncVmGNXCYsX8OVkMrrECDbrftGI/rs:fit/g:sm/q:90/h:557/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4MjA1/ODUxLTE2OTQ1OTgz/NDQtMjUyNi5qcGVn.jpeg"
 genres: ["Rock"]
 styles: ["Prog Rock", "Art Rock"]
@@ -21,6 +21,8 @@ styles: ["Prog Rock", "Art Rock"]
 A Little Man and a House and the Whole World Window is the debut studio album by the English rock band Cardiacs. It was released on 21 March 1988 in the United Kingdom by their own label the Alphabet Business Concern and in the Netherlands by Torso Records. Its single "Is This the Life" saw brief chart success due to exposure on mainstream radio, and garnered the attention of a wider audience when it entered the Independent Top 10 in the UK, peaking at number 80.
 At the start of March 1987, Cardiacs were accused of incest between Tim and his then wife, and band saxophonist, Sarah Smith by the Sunday Sport tabloid, due to the mistaken belief that the pair were related, with the joke being kept up by the band ever since. Sessions for the album began in 1985 at The Workhouse Studios with the songs "There's Too Many Irons in the Fire" and "All Spectacular" being released as a double A-side single in August 1987 and left off the LP, only appearing on deluxe Torso releases of the album. They, along with B-side "Loosefish Scapegrace", were recorded at Soft Option Studios and were included on the Songs for Ships and Irons compilation.
 The album was loosely conceptualised as a performance by a band of clowns under the tyranny of the Alphabet Business Concern label and the fictional characters of the Consultant and Miss Swift, an idea that was conceived on the Seaside Treats video. The band re-recorded many tracks from their previous album, The Seaside, this time with a larger budget and better studio equipment. With manager Mark Walmesley and engineer Graham Simmonds (previously a Cardiacs member), the group coloured much of the recordings with sound effects and orchestration, as exemplified on "A Little Man and a House", "The Breakfast Line" and "Victory Egg". Recording was completed in 1987.
+
+
     
     
 
@@ -94,11 +96,13 @@ The album was loosely conceptualised as a performance by a band of clowns under 
 {{< youtube id="ke7dmA0qOLI" title="Cardiacs - A Little Man And A House And The Whole World Window (full album) 1988" >}}<br>
 ### More Videos
 
-- [Cardiacs - Dive](https://www.youtube.com/watch?v=k2rFRKEmzFs)
 - [A Little Man and a House - Cardiacs](https://www.youtube.com/watch?v=mBie6D3gc4c)
+- [Cardiacs - Dive](https://www.youtube.com/watch?v=k2rFRKEmzFs)
+- [Cardiacs - A Little Man And A House And The Whole World Window (full album) 1988](https://www.youtube.com/watch?v=ke7dmA0qOLI)
 - [A Little Man And A House](https://www.youtube.com/watch?v=NScA4jN15WM)
 - [The Whole World Window](https://www.youtube.com/watch?v=hyfRswEXcjc)
 - [CARDIACS : IS THIS THE LIFE original video](https://www.youtube.com/watch?v=SZaqYkkYK4I)
+- [A Little Man and a House - Cardiacs](https://www.youtube.com/watch?v=mBie6D3gc4c)
 
 ## Release Images
 {{< imageGrid >}}

@@ -13,7 +13,7 @@ cover:
     caption: "Dazed and Confused (Music From Motion Picture) by Various"
 additional_images:
     - "https://i.discogs.com/yXRm9ixjkHAJkNSIkvoKSHqXTeSEhxvKUH_4NdfDvh0/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NTkw/MzczLTE2MjY5OTc0/MTQtMTg2MS5qcGVn.jpeg"
-    - "https://i.discogs.com/zUYOdxOZ_MnvoLB7Y6mYaaESBTaAPC6bfaszJXTiXUk/rs:fit/g:sm/q:90/h:603/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NTkw/MzczLTE2MjY5OTc0/MTQtNzcwMC5qcGVn.jpeg"
+    - "https://i.discogs.com/uPsN89-01tDI42aXmlIqIHqffggSupJpc5TEaG4VUvo/rs:fit/g:sm/q:90/h:600/w:596/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NTkw/MzczLTE2MjY5OTc0/MTQtNzcwMC5qcGVn.jpeg"
     - "https://i.discogs.com/hUKel3ZbU06goAYyR3ldXVAmlDAOj7RtGhm6fKtnrvw/rs:fit/g:sm/q:90/h:588/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NTkw/MzczLTE2MjY5OTc0/MTQtNDc3Ni5qcGVn.jpeg"
 genres: ["Rock", "Stage & Screen"]
 styles: ["Classic Rock"]
@@ -50,7 +50,7 @@ styles: ["Classic Rock"]
 - [Tush (2006 Remaster)](https://www.youtube.com/watch?v=P7iPkiyG2jQ)
 - [Nazareth - Love hurts](https://www.youtube.com/watch?v=WISogScYNXA)
 - [Ted Nugent - Stranglehold](https://www.youtube.com/watch?v=0c3d7QgZr7g)
-- [THE RUNAWAYS-Cherry Bomb (1976)](https://www.youtube.com/watch?v=7v3Mwi3_Clc)
+- [THE RUNAWAYS-"Cherry Bomb" (1976)](https://www.youtube.com/watch?v=7v3Mwi3_Clc)
 - [Fox On The Run](https://www.youtube.com/watch?v=edOXpZlNdsk)
 - [Lowrider War](https://www.youtube.com/watch?v=ro4yhp9L6Ok)
 - [Tuesday's Gone](https://www.youtube.com/watch?v=iExsbDuVqeE)
@@ -67,5 +67,5 @@ styles: ["Classic Rock"]
 | Format         | Vinyl 2× LP Compilation Limited Edition Reissue (Gatefold, Purple Translucent ) |
 | Label          | The Medicine Label |
 | Catalog Number | RCV1 24533 |
-| Notes | Made in Czech Republic. |
+| Notes | Made in Czech Republic.  Runouts are Etched and stamped; e.g. [Etched] RCV1-24533-A 603497843886 мS [Stamped] 222683E1 930529 MRP3119/RCV1-24533/603497843886/AB-A |
 | Discogs URL    | [Various - Dazed and Confused (Music From Motion Picture)](https://www.discogs.com/release/19590373-Various-Dazed-and-Confused-Music-From-Motion-Picture) |

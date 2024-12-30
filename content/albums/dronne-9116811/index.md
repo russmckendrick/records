@@ -17,6 +17,19 @@ genres: ["Rock", "Folk, World, & Country"]
 styles: ["Folk", "Krautrock", "Acoustic"]
 ---
 
+The Dronne (French pronunciation: [dʁɔn], also Drône, [dʁon]; Occitan: Drona) is a 201-kilometre (125 mi) long river in southwestern France, right tributary of the Isle, which itself is a tributary of the Dordogne. The source of the Dronne is in the north-western Massif Central, east of the town of Châlus (south-west of Limoges) at an elevation of 510 metres (1,670 ft). It flows south-west through the following départements and towns:
+
+Haute-Vienne
+Dordogne: Saint-Pardoux-la-Rivière, Brantôme, Ribérac
+Charente: Aubeterre-sur-Dronne
+Charente-Maritime
+Gironde: Coutras
+The Dronne flows into the Isle in Coutras.
+Among its tributaries are the Lizonne and the Côle.
+
+
+    
+    
 
 
 ## Tracklisting
@@ -44,6 +57,12 @@ styles: ["Folk", "Krautrock", "Acoustic"]
 - [Dronne](https://www.youtube.com/watch?v=nhKGhRd8wEc)
 - [Alsace Lorraine](https://www.youtube.com/watch?v=HJjdqk6TV9c)
 - [Dinosaurus Rex, Pt. 2](https://www.youtube.com/watch?v=XLAfZfAhTkY)
+- [Vishnu Schist](https://www.youtube.com/watch?v=5AC9eYK9xq0)
+- [Queen of All the Day and Night](https://www.youtube.com/watch?v=xS6jpnVgx9M)
+- [The British Road](https://www.youtube.com/watch?v=yafycMIV3aw)
+- [Dronne](https://www.youtube.com/watch?v=nhKGhRd8wEc)
+- [Alsace Lorraine](https://www.youtube.com/watch?v=HJjdqk6TV9c)
+- [Dinosaurus Rex, Pt. 2](https://www.youtube.com/watch?v=XLAfZfAhTkY)
 
 ## Release Images
 {{< imageGrid >}}
@@ -51,6 +70,7 @@ styles: ["Folk", "Krautrock", "Acoustic"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
+| Wikipedia URL | https://en.wikipedia.org/wiki/Dronne |
 | Format         | Vinyl LP Album |
 | Label          | The Household Mark |
 | Catalog Number | THM004LP |

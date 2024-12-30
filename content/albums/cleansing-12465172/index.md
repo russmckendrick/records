@@ -13,7 +13,7 @@ cover:
     caption: "Cleansing by Prong"
 additional_images:
     - "https://i.discogs.com/aIQdgm7HP5_FFd24RnRZR76vWNad1MNCgb89a8lqNT8/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNDY1/MTcyLTE1MzYxMDYw/NzctMzgwOS5qcGVn.jpeg"
-    - "https://i.discogs.com/xlwcmuMihTOmd0TsCMSdN7_bpV7Ya6W6c6ACrOkcmEw/rs:fit/g:sm/q:90/h:602/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNDY1/MTcyLTE1MzYxMDYw/ODktOTM1OS5qcGVn.jpeg"
+    - "https://i.discogs.com/agYAngmDRDXTvVFb1id1kI0FzKFejyq4PNyRAkiypm0/rs:fit/g:sm/q:90/h:600/w:597/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNDY1/MTcyLTE1MzYxMDYw/ODktOTM1OS5qcGVn.jpeg"
     - "https://i.discogs.com/a7aLJHiOGuMhr1baGYwtd3L0w1ZhI4ib23Op-0XpKv0/rs:fit/g:sm/q:90/h:548/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNDY1/MTcyLTE1MzU5MTkw/MzYtOTk3Mi5qcGVn.jpeg"
     - "https://i.discogs.com/iDlgrJK22jSxF1Vn_oSB5AGr4OnW31in_11NvTRlbhs/rs:fit/g:sm/q:90/h:272/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNDY1/MTcyLTE1MzU5MTkw/MzYtNTgzMS5qcGVn.jpeg"
     - "https://i.discogs.com/hrhtLWF7K0EHT5nNwAyQ262tFNqzLEiWnNOOokg3kGo/rs:fit/g:sm/q:90/h:240/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNDY1/MTcyLTE1MzU5MTkw/MzYtNjU0OS5qcGVn.jpeg"
@@ -21,7 +21,11 @@ genres: ["Rock"]
 styles: ["Groove Metal", "Industrial Metal"]
 ---
 
-Cleansing is the fourth album by the American heavy metal band Prong, released on January 25, 1994 by Epic Records. It was produced by Terry Date, whereas Prong's previous two albums had been produced by Mark Dodson. The album features ex-Killing Joke members Paul Raven on bass guitar and John Bechdel on keyboards and programming. Featuring an industrial-influenced sound, the record received moderate commercial success.The single "Snap Your Fingers, Snap Your Neck" received a commercial interest; its music video received heavy rotation on MTV and was featured on an episode of Beavis and Butt-Head. As a part of the album's promotion, the band toured with Sepultura and Pantera as an opener for their Chaos A.D. and Far Beyond Driven tours, respectively.The record was reissued by SPV/Steamhammer in 2008.
+Cleansing is the fourth album by the American heavy metal band Prong, released on January 25, 1994, by Epic Records. It was produced by Terry Date, whereas Prong's previous two albums had been produced by Mark Dodson. The album features ex-Killing Joke members Paul Raven on bass guitar and John Bechdel on keyboards and programming. Featuring an industrial-influenced sound, the record received moderate commercial success.
+The single "Snap Your Fingers, Snap Your Neck" received a commercial interest; its music video received heavy rotation on MTV and was featured on an episode of Beavis and Butt-Head. As a part of the album's promotion, the band toured with Sepultura and Pantera as an opener for their Chaos A.D. and Far Beyond Driven tours, respectively.
+The record was reissued by SPV/Steamhammer in 2008.
+
+
     
     
 
@@ -49,9 +53,19 @@ Cleansing is the fourth album by the American heavy metal band Prong, released o
 {{< youtube id="Cl-5TrGakWY" title="Prong - Snap your fingers, snap your neck" >}}<br>
 ### More Videos
 
+- [Another Wordly Device](https://www.youtube.com/watch?v=56xikc4Ovws)
+- [Snap Your Fingers, Snap Your Neck](https://www.youtube.com/watch?v=23rnAs9BHkk)
+- [Cut-Rate](https://www.youtube.com/watch?v=iRvfSGsDZYo)
+- [Broken Peace](https://www.youtube.com/watch?v=tMtyTAJ4psQ)
+- [One Outnumbered](https://www.youtube.com/watch?v=z4e_zONPj24)
+- [Out of This Misery](https://www.youtube.com/watch?v=IFXLl4blF2U)
+- [No Question](https://www.youtube.com/watch?v=Sp8U_k-7LRY)
+- [Not of This Earth](https://www.youtube.com/watch?v=9p47JvOthKg)
+- [Home Rule](https://www.youtube.com/watch?v=uFhirJoSACo)
+- [Sublime](https://www.youtube.com/watch?v=RryQKHH_v28)
+- [Test](https://www.youtube.com/watch?v=7A_cYoMo3iQ)
 - [Prong - Broken Peace](https://www.youtube.com/watch?v=TbTJIHqNmc8)
-- [Prong announces 25 years of CLEANSING European tour](https://www.youtube.com/watch?v=YO6PZ49KFIo)
-- [PRONG - Another Worldly Device](https://www.youtube.com/watch?v=Ud8hAKe_tYs)
+- [Prong announces "25 years of CLEANSING" European tour](https://www.youtube.com/watch?v=YO6PZ49KFIo)
 - [Prong - Whose Fist Is This Anyway?](https://www.youtube.com/watch?v=SLya_k_lQL0)
 - [PRONG - Whose Fist Is This Anyway?](https://www.youtube.com/watch?v=v49Hve4GvOo)
 

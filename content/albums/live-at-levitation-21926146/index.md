@@ -45,6 +45,12 @@ styles: ["Alternative Rock"]
 ### More Videos
 
 - [Primal Scream - Accelerator (Live at LEVITATION)](https://www.youtube.com/watch?v=qMBwxCnbLU4)
+- [Primal Scream - Accelerator (Live at LEVITATION)](https://www.youtube.com/watch?v=qMBwxCnbLU4)
+- [PRIMAL SCREAM - HIGHER THAN THE SUN - LIVE AT LEVITATION](https://www.youtube.com/watch?v=ixcv6VPIRXg)
+- [Primal Scream - Jailbird (Live at LEVITATION)](https://www.youtube.com/watch?v=1RAa5b1Y31M)
+- [Primal Scream - "Loaded"  -  Recorded at Levitation 2015 in Austin, TX.  Saturday, May 9 2015](https://www.youtube.com/watch?v=SkpdvXnm-aU)
+- [Primal Scream - Swastika Eyes  (Live at Austin Psych Fest/ Levitation May 9th, 2015)](https://www.youtube.com/watch?v=_ChsXo3TypQ)
+- [Primal Scream - Loaded (Live at Austin Psych Fest/ Levitation May 9th, 2015)](https://www.youtube.com/watch?v=2_FufLgbZk8)
 
 ## Release Images
 {{< imageGrid >}}

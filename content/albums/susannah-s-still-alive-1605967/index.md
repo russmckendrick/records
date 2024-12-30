@@ -20,6 +20,10 @@ genres: ["Rock"]
 styles: ["Alternative Rock", "Indie Rock"]
 ---
 
+"Susannah's Still Alive" ("Suzanah's Still Alive" on the original UK release) is a song by Dave Davies, released for his second solo single. The recording featured all of the Kinks' members as his backing band. It was a hit (peaking at #20 in the UK) but it did not live up to the expectations of Davies' last single "Death of a Clown", which was a Top 5 hit. It failed to chart in the US, but was a significant success in Europe, reaching #10 in the Netherlands, #27 in Germany, #18 in Belgium and #18 in Sweden. Although it was never featured on an LP, its B-side "Funny Face" was included on the Kinks' 1967 album Something Else by the Kinks.
+Although all original UK singles used the spelling 'Suzanah', in many other countries and on later compilation albums Suzannah or Susannah was used.
+    
+    
 
 
 ## Tracklisting
@@ -34,6 +38,8 @@ styles: ["Alternative Rock", "Indie Rock"]
 ### More Videos
 
 - [Blind In Safety And Leafy In Love](https://www.youtube.com/watch?v=gQY9pvYpjZ8)
+- [Cardiacs - Suzannah's Still Alive](https://www.youtube.com/watch?v=8YMs5QwHmMc)
+- [Blind In Safety And Leafy In Love](https://www.youtube.com/watch?v=gQY9pvYpjZ8)
 
 ## Release Images
 {{< imageGrid >}}
@@ -41,6 +47,7 @@ styles: ["Alternative Rock", "Indie Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
+| Wikipedia URL | https://en.wikipedia.org/wiki/Susannah%27s_Still_Alive |
 | Format         | Vinyl 7" 45 RPM Single Stereo |
 | Label          | The Alphabet Business Concern |
 | Catalog Number | ALPH 009 |

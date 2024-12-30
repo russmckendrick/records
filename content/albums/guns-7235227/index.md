@@ -12,17 +12,15 @@ cover:
     alt: "Guns by Cardiacs"
     caption: "Guns by Cardiacs"
 additional_images:
-    - "https://i.discogs.com/MkMkfxz6B4IJ5y_8tODkhhu8NJOTiSJaJ-du9mIbQAg/rs:fit/g:sm/q:90/h:621/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcyMzUy/MjctMTQ1ODczODQz/NS05Mzc2LmpwZWc.jpeg"
-    - "https://i.discogs.com/euW3-9JU6sLpGoWpwAhnTH9CAF9E9iDkIsR4BbiEgXM/rs:fit/g:sm/q:90/h:609/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcyMzUy/MjctMTQ1ODczODQ4/NS05Mzg3LmpwZWc.jpeg"
+    - "https://i.discogs.com/j79zh2IQbfdaKV97RZhKJc6DgK3tRPd3ApVDYAB2H_U/rs:fit/g:sm/q:90/h:600/w:579/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcyMzUy/MjctMTQ1ODczODQz/NS05Mzc2LmpwZWc.jpeg"
+    - "https://i.discogs.com/W2HC_YoA7hPH2Ssvf_njoVNxqsPFEyKLaL2SdioQzlk/rs:fit/g:sm/q:90/h:600/w:590/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcyMzUy/MjctMTQ1ODczODQ4/NS05Mzg3LmpwZWc.jpeg"
     - "https://i.discogs.com/q-Hhk8NT9gbJ3uHvunJY7rfpbAmBmwaIPToIb6tV4iY/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcyMzUy/MjctMTQ1MTE3MDM4/OC0yODAzLmpwZWc.jpeg"
     - "https://i.discogs.com/E80DSzXGD4E4ROIUM9i1i6Xm4j8WotbIt-JUexnc6WI/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcyMzUy/MjctMTQ1MTE3MDQw/MC0xMzg3LmpwZWc.jpeg"
 genres: ["Rock"]
 styles: ["Alternative Rock", "Art Rock", "Prog Rock"]
 ---
 
-Guns is the fifth and most recent studio album by English rock band Cardiacs. It was recorded and mixed at Apollo 8 in London and released in 1999. After a brief period of unavailability, the album was re-pressed in August 2007.
-
-
+Guns is the fifth studio album by English rock band Cardiacs. It was recorded and mixed at Apollo 8 in London and released on 21 June 1999. After a brief period of unavailability, the album was re-pressed in August 2007.
     
     
 

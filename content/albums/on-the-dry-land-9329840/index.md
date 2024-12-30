@@ -12,7 +12,7 @@ cover:
     alt: "On The Dry Land by The Sea Nymphs"
     caption: "On The Dry Land by The Sea Nymphs"
 additional_images:
-    - "https://i.discogs.com/Pir60jGirV4w8uIvynAsnT581_uTpmchiGvwOMmqqZs/rs:fit/g:sm/q:90/h:621/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkzMjk4/NDAtMTQ3ODcwNTgw/OS00MTg5LmpwZWc.jpeg"
+    - "https://i.discogs.com/JWqiA173wlWg-fFF6E1DzgWK7o8z_U6-BLn0Ed9IOoc/rs:fit/g:sm/q:90/h:600/w:579/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkzMjk4/NDAtMTQ3ODcwNTgw/OS00MTg5LmpwZWc.jpeg"
     - "https://i.discogs.com/vp56H-E_ULbeAbt9zPhM4bDTXYt6WzgK8mReOzve7NE/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkzMjk4/NDAtMTQ4MzkyNzI2/Ni00Mjg5LmpwZWc.jpeg"
     - "https://i.discogs.com/L6cgVjJbgJr9dwy_Sf9HSUCP7xJLZrpUP0igemz5v3M/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkzMjk4/NDAtMTQ4MzkyNzI3/OC02MjM0LmpwZWc.jpeg"
 genres: ["Rock", "Classical", "Folk, World, & Country"]
@@ -45,7 +45,9 @@ styles: ["Psychedelic Rock", "Art Rock", "Prog Rock"]
 ## Videos
 ### The Sea Nymphs - The Black Blooded Clam
 {{< youtube id="pSwYMsIBx6I" title="The Sea Nymphs - The Black Blooded Clam" >}}<br>
+### More Videos
 
+- [The Sea Nymphs - The Black Blooded Clam](https://www.youtube.com/watch?v=pSwYMsIBx6I)
 
 ## Release Images
 {{< imageGrid >}}

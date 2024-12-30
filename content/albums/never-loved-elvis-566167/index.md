@@ -18,16 +18,18 @@ additional_images:
     - "https://i.discogs.com/MxhAfNlWSX4omovaEfvwJ2WE3Qh0flbRndfhFi_pnx4/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU2NjE2/Ny0xNDA5NjAzMjYx/LTU4OTQuanBlZw.jpeg"
     - "https://i.discogs.com/k2iQxO1lz7u9QGnw5VQhpXS1_wQn79S-68elrxoIQxM/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU2NjE2/Ny0xNTU1NjI0ODQz/LTEzNjAuanBlZw.jpeg"
     - "https://i.discogs.com/sVB1r3ccJyvDetBzkyh2_tcsBPgnEbeP-fNWlAk9x_A/rs:fit/g:sm/q:90/h:591/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU2NjE2/Ny0xNTU1NjI0ODQ5/LTg5NDQuanBlZw.jpeg"
-    - "https://i.discogs.com/RzBAaU-RT6R1R3m0AdeGB22Bzd753Jcc2DDAL-BrRuc/rs:fit/g:sm/q:90/h:683/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU2NjE2/Ny0xNTU1NjI0ODM3/LTE0MzAuanBlZw.jpeg"
-    - "https://i.discogs.com/fkeOZ8-JqmrHVz7rZEcJ_khhopsXIPdShtBP13nSTCQ/rs:fit/g:sm/q:90/h:674/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU2NjE2/Ny0xNTU1NjI0ODMz/LTk5NDUuanBlZw.jpeg"
+    - "https://i.discogs.com/Xxo5u6MQRJQ20cvdvrN0HJeVlKVDbQDdpFDKc1DOuuE/rs:fit/g:sm/q:90/h:600/w:526/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU2NjE2/Ny0xNTU1NjI0ODM3/LTE0MzAuanBlZw.jpeg"
+    - "https://i.discogs.com/SMjigeTH27rdEsQY5f5Go1rNKLuhz2OTY-CtYhPpEkk/rs:fit/g:sm/q:90/h:600/w:533/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU2NjE2/Ny0xNTU1NjI0ODMz/LTk5NDUuanBlZw.jpeg"
     - "https://i.discogs.com/CoHJpTzEkTtxlFXMKvrEyshHhwAyAdLfAo-j_WMxA3Q/rs:fit/g:sm/q:90/h:357/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU2NjE2/Ny0xNTU1NjI0ODMx/LTQyOTEuanBlZw.jpeg"
 genres: ["Rock"]
 styles: ["Alternative Rock", "Folk Rock", "Indie Rock"]
 ---
 
-Never Loved Elvis is the third album by The Wonder Stuff released in 1991. Guest musicians on the album include Kirsty MacColl and Linda McRae.
+Never Loved Elvis is the third album by the Wonder Stuff released in 1991. Guest musicians on the album include Kirsty MacColl and Linda McRae.
 The song "Mission Drive" was inspired by Wonder Stuff singer Miles Hunt's fall out with best friend and former flatmate Clint Mansell of Pop Will Eat Itself.
 The most successful single from the album, "The Size of a Cow", reached No. 5 on the UK singles chart. The album peaked at No. 3 on the albums chart.
+
+
     
     
 
@@ -48,7 +50,7 @@ The most successful single from the album, "The Size of a Cow", reached No. 5 on
 13. 38 Line Poem (5:26)
 
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/never-loved-elvis-remastered/1443938336" >}}<br>
+{{< applemusic url="https://music.apple.com/gb/album/never-loved-elvis-live/1342325822" >}}<br>
 
 
 ## Videos
@@ -56,7 +58,7 @@ The most successful single from the album, "The Size of a Cow", reached No. 5 on
 {{< youtube id="I4oJGOQZTsA" title="The Wonder Stuff - Welcome to the Cheap Seats (Late Night with David Letterman 1991)" >}}<br>
 ### More Videos
 
-- [The Wonder Stuff Never Loved Elvis Live](https://www.youtube.com/watch?v=K6HRGN1pk4s)
+- [The Wonder Stuff "Never Loved Elvis Live"](https://www.youtube.com/watch?v=K6HRGN1pk4s)
 - [The Wonder Stuff - Sleep Alone (HD 1080p) - Never Loved Elvis, Birmingham O2 - 15-12-2011](https://www.youtube.com/watch?v=yQbz0Fq91nw)
 - [Wonderstuff: Size of a cow](https://www.youtube.com/watch?v=t1egoyuCrwM)
 - [THE WONDER STUFF - Mission Drive : Live(1991)](https://www.youtube.com/watch?v=V4NW5S1UTPQ)

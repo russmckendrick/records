@@ -20,6 +20,11 @@ genres: ["Rock"]
 styles: ["Alternative Rock", "Indie Rock"]
 ---
 
+"Is This the Life" (also written "Is This the Life?") is a song by English rock band Cardiacs from their debut studio album A Little Man and a House and the Whole World Window (1988). The song was released on vinyl by the Alphabet Business Concern and Torso as the only single from the album. The song was previously recorded for the demo albums Toy World (1981) and The Seaside (1984). It also briefly attained chart success (peaking at number 80) after being played on various Radio 1 shows thanks to DJ Liz Kershaw. The Torso version of the 7" is exactly the same as the Alphabet release although it comes in a paper sleeve instead of a cardboard one. Only the Torso 12" differs in both track listing and cover design.
+
+
+    
+    
 
 
 ## Tracklisting
@@ -29,14 +34,21 @@ styles: ["Alternative Rock", "Indie Rock"]
 
 
 ## Videos
-### Cardiacs - Is This The Life (Lyrics Video)
-{{< youtube id="rwwUYl3KKeY" title="Cardiacs - Is This The Life (Lyrics Video)" >}}<br>
+### Cardiacs - Is This The Life (7" Version)
+{{< youtube id="ZMxm7qRYLRg" title="Cardiacs - Is This The Life (7" Version)" >}}<br>
 ### More Videos
 
-- [Cardiacs - Is This The Life (7 Version)](https://www.youtube.com/watch?v=ZMxm7qRYLRg)
+- [I'm Eating In Bed](https://www.youtube.com/watch?v=w9rpVX6dBdE)
+- [Cardiacs - Is This The Life (Lyrics Video)](https://www.youtube.com/watch?v=rwwUYl3KKeY)
 - [Cardiacs - Goosegash](https://www.youtube.com/watch?v=uBr60guilsI)
 - [I'm Eating In Bed](https://www.youtube.com/watch?v=w9rpVX6dBdE)
+- [Cardiacs - Is This The Life (Lyrics Video)](https://www.youtube.com/watch?v=rwwUYl3KKeY)
+- [I'm Eating In Bed](https://www.youtube.com/watch?v=w9rpVX6dBdE)
 - [There's Too Many Irons In The Fire](https://www.youtube.com/watch?v=zqcq7fGX2mU)
+- [Cardiacs - Is This The Life (7" Version)](https://www.youtube.com/watch?v=ZMxm7qRYLRg)
+- [I'm Eating In Bed](https://www.youtube.com/watch?v=w9rpVX6dBdE)
+- [Cardiacs - Is This The Life (7" Version)](https://www.youtube.com/watch?v=ZMxm7qRYLRg)
+- [I'm Eating In Bed](https://www.youtube.com/watch?v=w9rpVX6dBdE)
 
 ## Release Images
 {{< imageGrid >}}
@@ -44,6 +56,7 @@ styles: ["Alternative Rock", "Indie Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
+| Wikipedia URL | https://en.wikipedia.org/wiki/Is_This_the_Life |
 | Format         | Vinyl 7" 45 RPM Single |
 | Label          | The Alphabet Business Concern |
 | Catalog Number | alph 008Sp |
