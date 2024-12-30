@@ -13,11 +13,15 @@ cover:
     caption: "Electronic by Various"
 additional_images:
     - "https://i.discogs.com/R2ok6d790pwlAh6449XMWDWUaa_vZAqoPDdUBOV2JdU/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MDQ4/OTIxLTE1NjY4MzQy/NjctMzczNi5qcGVn.jpeg"
-    - "https://i.discogs.com/DU05uS3LI_RkDIWG92Yvohll-0JvaglxyjUbNRrGb_w/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MDQ4/OTIxLTE1NjkzNTM3/NDYtOTA5MC5qcGVn.jpeg"
+    - "https://i.discogs.com/uKRQ_6yhYYuq6lo1UHVQVL2sfYOBBmLlHhhVJ_mgc8s/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MDQ4/OTIxLTE1NjkzNTM3/NDYtOTA5MC5qcGVn.jpeg"
 genres: ["Electronic", "Jazz", "Rock", "Funk / Soul", "Pop", "Stage & Screen"]
 styles: ["Synth-pop", "New Wave", "Disco", "Soundtrack", "Jazz-Funk", "Electro", "Hip Hop", "Pop Rock", "Downtempo"]
 ---
 
+Electronic is the debut studio album by the British group Electronic, consisting of Bernard Sumner, the former guitarist and keyboardist of Joy Division and the lead singer and guitarist of New Order and Johnny Marr, the former guitarist of the Smiths. It was first released in May 1991 on the Factory label.
+The album was a commercial and critical success, reaching number 2 in the United Kingdom and selling over a million copies worldwide. By the year 2000, Electronic had sold 240,000 copies in the US.
+    
+    
 
 
 ## Tracklisting
@@ -53,16 +57,13 @@ styles: ["Synth-pop", "New Wave", "Disco", "Soundtrack", "Jazz-Funk", "Electro",
 30. I'm In Love With A German Film Star (3:57)
 
 
-## Spotify
-{{< spotify type="album" id="5AgLnccLcpqgDWFO5stqx1" width="100%" height="500" >}}<br>
-
 
 ## Videos
 ### Japan - Quiet Life
 {{< youtube id="xhm-EqcPta0" title="Japan - Quiet Life" >}}<br>
 ### More Videos
 
-- [Visage's 1981 hit Fade to Grey](https://www.youtube.com/watch?v=PeGTJOFSIgU)
+- [Visage's 1981 hit "Fade to Grey](https://www.youtube.com/watch?v=PeGTJOFSIgU)
 - [Tears For Fears - Mad World (Official Music Video)](https://www.youtube.com/watch?v=u1ZvPSpLxCg)
 - [Say Hello, Wave Goodbye](https://www.youtube.com/watch?v=1G6SuujVCtk)
 - [Simple Minds - Glittering Prize](https://www.youtube.com/watch?v=ucw0twciNGk)
@@ -73,6 +74,7 @@ styles: ["Synth-pop", "New Wave", "Disco", "Soundtrack", "Jazz-Funk", "Electro",
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
+| Wikipedia URL | https://en.wikipedia.org/wiki/Electronic_(album) |
 | Format         | Vinyl 2× LP Compilation |
 | Label          | UMC |
 | Catalog Number | 5388157 |
