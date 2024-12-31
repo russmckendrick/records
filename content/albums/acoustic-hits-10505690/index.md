@@ -52,7 +52,7 @@ styles: ["Acoustic", "Alternative Rock", "Pop Rock", "New Wave"]
 18. Just Say Yes
 
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/the-cure-greatest-hits/1440932660" >}}<br>
+{{< applemusic url="https://music.apple.com/gb/album/acoustic-hits/1752863386" >}}<br>
 
 
 

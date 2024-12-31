@@ -38,10 +38,8 @@ styles: ["Krautrock"]
 12. November (1:43)
 13. KD (1:54)
 
-
-## Spotify
-{{< spotify type="album" id="1LdFz3rQocadBp0npoIRWt" width="100%" height="500" >}}<br>
-
+## Apple Music
+{{< applemusic url="https://music.apple.com/gb/album/neu/371435236" >}}<br>
 
 ## Videos
 ### Neu - Neu 4 Full Album 1995
