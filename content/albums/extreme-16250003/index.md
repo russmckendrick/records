@@ -19,7 +19,9 @@ genres: ["Rock"]
 styles: ["Funk Metal"]
 ---
 
-Throughout <i>Sempiternal</i>, Bring Me the Horizon soften their metalcore stance by emphasising surging electronic programming and more overtly melodic flourishes. Strings add an anxious grandeur to "Crooked Young", ice-melting piano and searing gang vocals mitigate the thorny fury of "Sleepwalking" and anguished synths augment the post-hardcore rush of "Can You Feel My Heart". Still, <i>Sempiternal</i>'s occasional aggressive outbursts make it clear that the band haven't totally forsaken their heavy roots, with "Shadow Moses" boasting concrete-drilling riffs and Oli Sykes' frantic, gravelly vocals.
+Extreme is the first studio album by the American glam metal band Extreme, released in 1989 by A&M Records.  The album reached No. 80 on the Billboard 200, and produced the minor Mainstream Rock hit "Kid Ego". The single "Play with Me" is featured on the soundtrack for the comedy film Bill & Ted's Excellent Adventure, an opening episode of season 4 of Stranger Things, and the 2007 rhythm game, Guitar Hero Encore: Rocks the 80s.
+
+
         
         
     
@@ -38,7 +40,7 @@ Throughout <i>Sempiternal</i>, Bring Me the Horizon soften their metalcore stanc
 10. Rock A Bye Bye (5:55)
 
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/sempiternal-deluxe/609257426" >}}<br>
+{{< applemusic url="https://music.apple.com/gb/album/extreme/1443480877" >}}<br>
 
 
 ## Videos
