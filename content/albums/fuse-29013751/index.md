@@ -76,8 +76,8 @@ Fuse is the eleventh studio album by British duo Everything but the Girl, releas
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Fuse_(Everything_but_the_Girl_album) |
-| Format         | Vinyl LP Album Limited Edition Reissue (Transparent Pink With Purple Splatter) |
-| Label          | Buzzin' Fly Records |
+| Format         | Vinyl LP Album Limited Edition Reissue |
+| Label          | [{'name': "Buzzin' Fly Records", 'catno': ''}] |
 | Catalog Number | EBTG015VRX |
 | Notes | Rough Trade exclusive 2023 albums of the year edition on transparent pink vinyl with purple splatter. Limited to 1000 copies.    |
 | Discogs URL    | [Everything But The Girl - Fuse](https://www.discogs.com/release/29013751-Everything-But-The-Girl-Fuse) |

@@ -48,7 +48,7 @@ Original drummer John Rutsey performed all drum parts on the album, but was unab
 8. Working Man (7:07)
 
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/rush-rush-single/1529238047" >}}<br>
+{{< applemusic url="https://music.apple.com/gb/album/rush-remastered-2013/1440782998" >}}<br>
 
 
 ## Videos

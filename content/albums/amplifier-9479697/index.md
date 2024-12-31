@@ -40,7 +40,7 @@ The critical reception of the album was generally positive, with comments such a
 10. UFOs (7:27)
 
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/amplifier-ep/1584527992" >}}<br>
+{{< applemusic url="https://music.apple.com/gb/album/amplifier/1201106185" >}}<br>
 
 
 ## Videos
@@ -55,8 +55,8 @@ The critical reception of the album was generally positive, with comments such a
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Amplifier_(Amplifier_album) |
-| Format         | Vinyl 2× LP Album Remastered |
-| Label          | Not On Label (Amplifier (3) Self-released) |
+| Format         | Vinyl LP Album Remastered |
+| Label          | [{'name': 'Not On Label (Amplifier (3) Self-released)', 'catno': ''}] |
 | Catalog Number | none |
 | Notes | 180g black vinyl housed in a gatefold sleeve. Pressing of 500 copies. Some copies come with a A5-sized 2-sided photograph, some promotional cards from [l1104766] and a note penned by [a369288].  Sequential tracklist as per the cover. |
 | Discogs URL    | [Amplifier - Amplifier](https://www.discogs.com/release/9479697-Amplifier-3-Amplifier) |

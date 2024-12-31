@@ -44,7 +44,7 @@ In a 2022 interview, Ann Wilson stated that the album was self-titled because th
 10. Shell Shock (3:42)
 
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/heart-to-heart-single/1517997811" >}}<br>
+{{< applemusic url="https://music.apple.com/gb/album/heart/1441162196" >}}<br>
 
 
 ## Videos

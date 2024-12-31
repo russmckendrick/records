@@ -22,9 +22,8 @@ genres: ["Electronic", "Rock"]
 styles: ["Alternative Rock", "House", "Pop Rock", "Synth-pop"]
 ---
 
-“Our first album was this imagined world that we created for ourselves,” Josh Lloyd-Watson tells Apple Music. “It was lyrically vague and metaphorical. This album definitely deals with things that have actually happened to us.” There’s been rich content to mine for Lloyd-Watson and Jungle co-founder Tom McFarland since their 2013 emergence. The pair’s modern soul collective swiftly went from viral curiosity to legit chart heavyweights—then absentee stars with their follow-up taking four years to materialise. “We were so keen to write the second record,” McFarland says, “but we were completely unaware of that first period that needs to happen: You actually need something to write about. We didn’t have the experience. We had to go out and live. Touring is not really <i>experience</i>.”<br />
-The stately “House in LA” knowingly nods to the album’s generous gestation period (“Two whole years on the rewrite/Tell my friends I'm gonna be right there”), and the music here is tangibly more personal and lived-in. “It’s a healing record for both of us,” says McFarland, and it reflects their experiences while living and working in Los Angeles. “I met somebody outside the Hollywood Bowl one day—you fall in love with somebody and get drawn to that area. It could’ve been anywhere and it just happened to be California, which is great because it’s sunny.” Their gilded, could-soundtrack-any-premium-TV-ad soul remains, but there’s an appealing vulnerability here, and a recognition that the world has changed since their last album.<br />
-“You’ve got to trust your taste ultimately,” Lloyd-Watson says. “We might be completely out of vogue and people might say, ‘Oh, that midtempo funk band’s back with another album.’ And that’s fine.” McFarland is similarly unflustered. “I think there’s a lot of honesty on the record and a lot of beauty—beauty that’s broken. It was painful to put on the record, and somebody will get it. Somebody, somewhere, in some country.”
+Electronic is the debut studio album by the British group Electronic, consisting of Bernard Sumner, the former guitarist and keyboardist of Joy Division and the lead singer and guitarist of New Order and Johnny Marr, the former guitarist of the Smiths. It was first released in May 1991 on the Factory label.
+The album was a commercial and critical success, reaching number 2 in the United Kingdom and selling over a million copies worldwide. By the year 2000, Electronic had sold 240,000 copies in the US.
         
         
     
@@ -44,7 +43,7 @@ The stately “House in LA” knowingly nods to the album’s generous gestation
 11. Feel Every Beat (5:09)
 
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/for-ever/1409552051" >}}<br>
+{{< applemusic url="https://music.apple.com/gb/album/electronic-special-edition/693892654" >}}<br>
 
 
 ## Videos
@@ -76,8 +75,8 @@ The stately “House in LA” knowingly nods to the album’s generous gestation
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Electronic_(album) |
-| Format         | Vinyl LP Album Reissue Remastered (180g) |
-| Label          | Parlophone |
+| Format         | Vinyl LP Album Reissue Remastered |
+| Label          | [{'name': 'Parlophone', 'catno': ''}] |
 | Catalog Number | 0825646144747 |
 | Notes | Includes download card for a 320 kbps MP3 version of the album that can be redeemed via Rhino UK's 'Vinyl Collector' web site.  All songs published by Warner Chappell Music Ltd. except A4 & A5 published by Warner Chappell Music Ltd/Cage Music Ltd/Sony/ATV Music Publishing (UK) Ltd.  Digital remasters ℗ 2013 The copyright in these sound recordings is owned by Clear Productions Ltd under exclusive license to Parlophone Records Ltd. © 2015 Clear Productions Ltd. © 2015 Parlophone Records Ltd. A Warner Music Group Company. Printed in the EU. |
 | Discogs URL    | [Electronic - Electronic](https://www.discogs.com/release/7046233-Electronic-Electronic) |

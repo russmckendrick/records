@@ -19,6 +19,17 @@ genres: ["Rock"]
 styles: ["Ska"]
 ---
 
+There's a deceptive depth to the title of Chris Brown's sixth studio album, <i>X</i>. Explaining the name in a 2013 interview, he cited the decade he'd spent in the music business, an intricate numerology related to his upcoming 24th birthday, and the way "ex" connotes progress. X is also a concise way to say he's done a lot and he'll do more. The 2014 album and its expanded edition attest to that, blending all his hit-making tools with pristine curatorial savvy and the most emotionally transparent songwriting of his career.
+
+
+Beginning with the titular opener, C. Breezy jumps into reflection and dance-floor thrills, lacing a pulsing Diplo-produced EDM beat with an emphatic declaration: "I ain't going back no more." Paired with the frenetic instrumental, it's the sound of catharsis. He's learned from his years of turmoil, he wants us to know. If the title track is an escape powered by reflection, the Akon-assisted "Came To Do" is a lust-powered release, and "New Flame", with assists from Rick Ross and Usher, captures the bliss of new affection. Meanwhile, "Loyal" is a frank lesson on proper etiquette for unfaithful ladies. With candy-coated West Coast synths, an anthemic hook and quippy playboy bars from Tyga and Lil Wayne, it's a pantheon Breezy anthem. While he dives into disco, EDM and hip-hop, he's just as comfortable in ambient R&B—and his feelings. On "Autumn Leaves", he wades through dazed strings as he remembers a past love, with Kendrick Lamar serving up an alien flow that adds colourful discordance to the affair. 
+
+
+For the expanded edition, Breezy dips further into his emotions for a posthumous collaboration with Aaliyah ("Don't Think They Know"), actualising what was a theoretical dream team with a spacy sound bed and a hook that emits romantic paranoia. On a more upbeat note, he teams with Nicki Minaj for a buoyant bedroom soundtrack, this one grafted onto a jittery beat designed for the dance floor. Linking with an R&B queen from the past and a rap queen of the present feels like symbolic connective tissue for <i>X</i>, but it's not some overwrought metaphor; it's just the access afforded by dominance. Like the album, the two collabs are a reminder of how he got here—and why he'll never leave.
+    
+    
+
+
 ## Tracklisting
 1. Doors Of Your Heart (3:48)
 2. All Out To Get You (2:46)

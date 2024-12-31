@@ -51,7 +51,7 @@ Brother Sister was lead singer N'Dea Davenport's last album with the Brand New H
 18. Touch Of Your Love
 
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/brand-new-heavies-deluxe/1152587278" >}}<br>
+{{< applemusic url="https://music.apple.com/gb/album/brother-sister/1320056852" >}}<br>
 
 
 ## Videos
@@ -86,7 +86,7 @@ Brother Sister was lead singer N'Dea Davenport's last album with the Brand New H
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Brother_Sister |
-| Format         | Vinyl LP (White), Vinyl LP (Black), All Media Album Limited Edition Reissue (30th Anniversary Edition) |
-| Label          | London Records |
+| Format         | Vinyl LP, Vinyl LP, All Media Album Limited Edition Reissue |
+| Label          | [{'name': 'London Records', 'catno': ''}] |
 | Catalog Number | LMS1725113 |
 | Discogs URL    | [The Brand New Heavies - Brother Sister](https://www.discogs.com/release/31848254-The-Brand-New-Heavies-Brother-Sister) |

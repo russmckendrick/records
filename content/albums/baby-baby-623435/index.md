@@ -32,7 +32,7 @@ styles: ["Pop Rock", "Synth-pop"]
 3. Lead Me On (5:28)
 
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/amy-grant-baby-baby-single/1744903201" >}}<br>
+{{< applemusic url="https://music.apple.com/gb/album/heart-in-motion/1440832797" >}}<br>
 
 
 ## Videos
