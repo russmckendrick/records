@@ -29,7 +29,7 @@ styles: ["Alternative Rock", "Indie Rock"]
 4. Thief (3:03)
 
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/1man-1sound-ep/1737695659" >}}<br>
+{{< applemusic url="https://music.apple.com/gb/album/one-ep/1770153812" >}}<br>
 
 
 ## Videos

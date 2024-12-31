@@ -69,7 +69,7 @@ The Greatest Hits had its world premiere at South by Southwest on March 14, 2024
 28. Your Time Is Gonna Come (4:26)
 
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/greatest-hits/1469579555" >}}<br>
+{{< applemusic url="https://music.apple.com/gb/album/the-very-best-of-thunder/693200360" >}}<br>
 
 
 ## Videos
@@ -86,8 +86,8 @@ The Greatest Hits had its world premiere at South by Southwest on March 14, 2024
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/The_Greatest_Hits_(film) |
-| Format         | Vinyl 3× LP Compilation Limited Edition Stereo |
-| Label          | BMG |
+| Format         | Vinyl LP Compilation Limited Edition Stereo |
+| Label          | [{'name': 'BMG', 'catno': ''}] |
 | Catalog Number | BMGCAT386TLP |
 | Notes | ALL KILLER, NO FILLER.  Limited edition 3 vinyl disc gatefold with signed band photo. Only available through the Thunder website.   Durations do not appear on this release.  Timings via stopwatch.  Online sales expertise: Bruce McKenzie, Townsend Music. |
 | Discogs URL    | [Thunder - The Greatest Hits](https://www.discogs.com/release/14199596-Thunder-3-The-Greatest-Hits) |
