@@ -41,7 +41,7 @@ styles: ["New Wave", "Synth-pop", "Soul"]
 10. Living In A Box (Reprise: Full 12" Version) (3:10)
 
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/living-in-a-box-single/1614221601" >}}<br>
+{{< applemusic url="https://music.apple.com/us/album/living-in-a-box/1629182004" >}}<br>
 
 
 ## Videos
@@ -68,6 +68,6 @@ styles: ["New Wave", "Synth-pop", "Soul"]
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Living_in_a_Box_(song) |
 | Format         | Vinyl LP |
-| Label          | Chrysalis |
+| Label          | [{'name': 'Chrysalis', 'catno': ''}] |
 | Catalog Number | CDL 1547 |
 | Discogs URL    | [Living In A Box - Living In A Box](https://www.discogs.com/release/1190802-Living-In-A-Box-Living-In-A-Box) |
