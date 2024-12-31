@@ -43,7 +43,7 @@ Bang! is the third studio album by Welsh-British group World Party, released by 
 11. All I Gave
 
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/party-bang-single/1448442983" >}}<br>
+{{< applemusic url="https://music.apple.com/us/album/bang/710688495" >}}<br>
 
 
 ## Videos

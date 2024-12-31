@@ -36,7 +36,7 @@ styles: ["Synth-pop"]
 10. Perfect Circle (4:12)
 
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/dubstar2-single/1738192791" >}}<br>
+{{< applemusic url="https://music.apple.com/us/album/two/1605798448" >}}<br>
 
 
 ## Videos

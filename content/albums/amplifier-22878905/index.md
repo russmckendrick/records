@@ -49,7 +49,7 @@ The critical reception of the album was generally positive, with comments such a
 11. Glory Electricity (7:36)
 
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/amplifier-ep/1584527992" >}}<br>
+{{< applemusic url="https://music.apple.com/us/album/amplifier/1201106185" >}}<br>
 
 
 ## Videos

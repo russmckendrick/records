@@ -62,7 +62,7 @@ The Dark Side of the Moon has received widespread critical acclaim and is often 
 10. Eclipse (1:45)
 
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/the-dark-side-of-the-moon/1233884854" >}}<br>
+{{< applemusic url="https://music.apple.com/us/album/the-dark-side-of-the-moon-50th-anniversary-remastered/1665303755" >}}<br>
 
 
 ## Videos

@@ -71,7 +71,7 @@ styles: ["Alternative Rock", "Indie Rock"]
 38. Act 1 Of Atum
 
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/machina-the-machines-of-god/712756036" >}}<br>
+{{< applemusic url="https://music.apple.com/us/album/atum/1644219042" >}}<br>
 
 
 ## Videos

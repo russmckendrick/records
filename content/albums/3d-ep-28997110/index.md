@@ -27,7 +27,7 @@ styles: ["Pop Rock", "New Wave"]
 3. Dance Band (2:40)
 
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/xtc-ep/1707191251" >}}<br>
+{{< applemusic url="" >}}<br>
 
 
 ## Videos
@@ -52,7 +52,7 @@ styles: ["Pop Rock", "New Wave"]
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Format         | CD EP Reissue Stereo |
-| Label          | Ape House |
+| Label          | [{'name': 'Ape House', 'catno': ''}] |
 | Catalog Number | APEEP906CD |
 | Notes | ℗ 1977, the copyright in this sound recording is owned by Virgin Records Limited under licence to Ape House Limited. © 2023 Ape House Ltd.  Mail order copies can include a bonus postcard |
 | Discogs URL    | [XTC - 3D • EP](https://www.discogs.com/release/28997110-XTC-3D-EP) |

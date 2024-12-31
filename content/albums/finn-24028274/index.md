@@ -59,7 +59,7 @@ After working on a few songs with Neil, Tim joined Crowded House for the Woodfac
 24. Weather With You (End Piece)
 
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/chalk-brothers-single/1759940148" >}}<br>
+{{< applemusic url="https://music.apple.com/us/album/finn/1598871283" >}}<br>
 
 
 ## Videos
@@ -78,8 +78,8 @@ After working on a few songs with Neil, Tim joined Crowded House for the Woodfac
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Finn_Brothers |
-| Format         | Vinyl LP Album Reissue, Vinyl LP, All Media Compilation Deluxe Edition Stereo (180 Gram) |
-| Label          | Needle Mythology |
+| Format         | Vinyl LP Album Reissue, Vinyl LP, All Media Compilation Deluxe Edition Stereo |
+| Label          | [{'name': 'Needle Mythology', 'catno': ''}] |
 | Catalog Number | NEMYLP006 |
 | Notes | Recorded & mixed at York St. Studios, Auckland, New Zealand, November '94 & March '95.  This compilation ℗ and © 2022 Lester Records Limited | Periscope Live Ltd. under exclusive license to Needle Mythology Ltd.  Initial quantity from artist website included a cover print signed by Neil and Tim Finn.  Track D6 is unlisted. Title for track taken from [r18754873]. |
 | Discogs URL    | [The Finn Brothers - Finn](https://www.discogs.com/release/24028274-The-Finn-Brothers-Finn) |
