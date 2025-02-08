@@ -1,7 +1,7 @@
 ---
 title: "Sigur Rós - Átta"
 artist_name: "Sigur Rós"
-artist: "sigur-rs"
+artist: "sigur-r-s"
 album_name: "Átta"
 date: 2023-09-01T05:07:25.000000Z
 release_id: "28131088"

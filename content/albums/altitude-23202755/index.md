@@ -1,7 +1,7 @@
 ---
 title: "ALT - Altitude "
 artist_name: "ALT"
-artist: "alt"
+artist: "alt-6"
 album_name: "Altitude "
 date: 2022-06-06T01:25:47.000000Z
 release_id: "23202755"

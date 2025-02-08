@@ -1,7 +1,7 @@
 ---
 title: "Amplifier - Mystoria"
 artist_name: "Amplifier"
-artist: "amplifier"
+artist: "amplifier-3"
 album_name: "Mystoria"
 date: 2015-08-10T18:28:32.000000Z
 release_id: "6055632"

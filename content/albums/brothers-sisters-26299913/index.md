@@ -1,7 +1,7 @@
 ---
 title: "Steve Mason - Brothers & Sisters"
 artist_name: "Steve Mason"
-artist: "steve-mason"
+artist: "steve-mason-2"
 album_name: "Brothers & Sisters"
 date: 2023-03-20T05:44:02.000000Z
 release_id: "26299913"

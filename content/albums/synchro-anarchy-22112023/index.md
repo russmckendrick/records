@@ -1,7 +1,7 @@
 ---
 title: "Voïvod - Synchro Anarchy"
 artist_name: "Voïvod"
-artist: "vovod"
+artist: "vo-vod"
 album_name: "Synchro Anarchy"
 date: 2022-02-13T02:52:10.000000Z
 release_id: "22112023"

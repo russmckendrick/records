@@ -1,7 +1,7 @@
 ---
 title: "Motörhead - Ace Of Spades"
 artist_name: "Motörhead"
-artist: "motrhead"
+artist: "mot-rhead"
 album_name: "Ace Of Spades"
 date: 2021-06-08T04:52:55.000000Z
 release_id: "16134336"

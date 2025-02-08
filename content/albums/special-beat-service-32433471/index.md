@@ -1,7 +1,7 @@
 ---
 title: "The Beat - Special Beat Service "
 artist_name: "The Beat"
-artist: "the-beat"
+artist: "the-beat-2"
 album_name: "Special Beat Service "
 date: 2024-12-20T01:47:58.000000Z
 release_id: "32433471"

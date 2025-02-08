@@ -1,7 +1,7 @@
 ---
 title: "Tool - Undertow"
 artist_name: "Tool"
-artist: "tool"
+artist: "tool-2"
 album_name: "Undertow"
 date: 2017-06-04T10:36:25.000000Z
 release_date: "1993-04-06"

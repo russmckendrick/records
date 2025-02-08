@@ -1,7 +1,7 @@
 ---
 title: "John Williams - Star Wars"
 artist_name: "John Williams"
-artist: "john-williams"
+artist: "john-williams-4"
 album_name: "Star Wars"
 date: 2016-06-20T17:48:46.000000Z
 release_id: "8574533"

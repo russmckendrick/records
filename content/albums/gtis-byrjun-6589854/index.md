@@ -1,7 +1,7 @@
 ---
 title: "Sigur Rós - Ágætis Byrjun"
 artist_name: "Sigur Rós"
-artist: "sigur-rs"
+artist: "sigur-r-s"
 album_name: "Ágætis Byrjun"
 date: 2016-11-18T18:42:26.000000Z
 release_date: "1999-06-12"

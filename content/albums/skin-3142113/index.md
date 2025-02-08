@@ -1,7 +1,7 @@
 ---
 title: "Skin - Skin"
 artist_name: "Skin"
-artist: "skin"
+artist: "skin-4"
 album_name: "Skin"
 date: 2018-12-17T19:15:09.000000Z
 release_id: "3142113"

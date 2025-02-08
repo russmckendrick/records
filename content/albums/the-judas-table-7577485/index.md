@@ -1,7 +1,7 @@
 ---
 title: "Antimatter - The Judas Table"
 artist_name: "Antimatter"
-artist: "antimatter"
+artist: "antimatter-3"
 album_name: "The Judas Table"
 date: 2016-01-18T18:40:52.000000Z
 release_id: "7577485"

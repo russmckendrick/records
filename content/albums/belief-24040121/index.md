@@ -1,7 +1,7 @@
 ---
 title: "Belief - Belief"
 artist_name: "Belief"
-artist: "belief"
+artist: "belief-9"
 album_name: "Belief"
 date: 2022-08-04T08:28:18.000000Z
 release_id: "24040121"

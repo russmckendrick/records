@@ -1,7 +1,7 @@
 ---
 title: "Mötley Crüe - Dr. Feelgood"
 artist_name: "Mötley Crüe"
-artist: "mtley-cre"
+artist: "m-tley-cr-e"
 album_name: "Dr. Feelgood"
 date: 2024-11-22T12:49:35.000000Z
 release_id: "32368842"

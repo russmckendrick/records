@@ -1,7 +1,7 @@
 ---
 title: "Yola - Walk Through Fire"
 artist_name: "Yola"
-artist: "yola"
+artist: "yola-4"
 album_name: "Walk Through Fire"
 date: 2019-03-27T19:31:10.000000Z
 release_id: "13260578"

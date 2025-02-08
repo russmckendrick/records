@@ -1,7 +1,7 @@
 ---
 title: "Andy Bell - Flicker"
 artist_name: "Andy Bell"
-artist: "andy-bell"
+artist: "andy-bell-2"
 album_name: "Flicker"
 date: 2022-02-05T04:03:41.000000Z
 release_id: "22022197"

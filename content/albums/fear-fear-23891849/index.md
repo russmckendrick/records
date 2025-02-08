@@ -1,7 +1,7 @@
 ---
 title: "Working Men's Club - Fear Fear"
 artist_name: "Working Men's Club"
-artist: "working-men-s-club"
+artist: "working-men-s-club-2"
 album_name: "Fear Fear"
 date: 2022-08-01T06:03:43.000000Z
 release_id: "23891849"

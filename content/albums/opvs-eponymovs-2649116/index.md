@@ -1,7 +1,7 @@
 ---
 title: "Ghost - Opvs Eponymovs"
 artist_name: "Ghost"
-artist: "ghost"
+artist: "ghost-32"
 album_name: "Opvs Eponymovs"
 date: 2018-09-18T18:03:40.000000Z
 release_date: "2011-01-18"

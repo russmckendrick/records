@@ -1,7 +1,7 @@
 ---
 title: "Jóhann Jóhannsson - Mandy (Original Motion Picture Soundtrack)"
 artist_name: "Jóhann Jóhannsson"
-artist: "jhann-jhannsson"
+artist: "j-hann-j-hannsson"
 album_name: "Mandy (Original Motion Picture Soundtrack)"
 date: 2018-09-22T10:00:40.000000Z
 release_id: "12558374"

@@ -1,7 +1,7 @@
 ---
 title: "Thunder - The Greatest Hits"
 artist_name: "Thunder"
-artist: "thunder"
+artist: "thunder-3"
 album_name: "The Greatest Hits"
 date: 2019-12-24T13:17:21.000000Z
 release_id: "14199596"

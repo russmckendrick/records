@@ -1,7 +1,7 @@
 ---
 title: "Matt Berry - Phantom Birds"
 artist_name: "Matt Berry"
-artist: "matt-berry"
+artist: "matt-berry-3"
 album_name: "Phantom Birds"
 date: 2020-09-18T11:11:39.000000Z
 release_id: "15930943"

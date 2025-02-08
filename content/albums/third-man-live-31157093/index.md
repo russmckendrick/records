@@ -1,7 +1,7 @@
 ---
 title: "Jack White - Third Man Live"
 artist_name: "Jack White"
-artist: "jack-white"
+artist: "jack-white-2"
 album_name: "Third Man Live"
 date: 2024-07-08T04:08:41.000000Z
 release_date: "2016-09-09"

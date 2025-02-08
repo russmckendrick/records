@@ -1,7 +1,7 @@
 ---
 title: "Hefner - The Fidelity Wars"
 artist_name: "Hefner"
-artist: "hefner"
+artist: "hefner-2"
 album_name: "The Fidelity Wars"
 date: 2019-11-22T18:27:44.000000Z
 release_id: "14430353"

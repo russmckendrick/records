@@ -1,7 +1,7 @@
 ---
 title: "Hefner - We Love The City"
 artist_name: "Hefner"
-artist: "hefner"
+artist: "hefner-2"
 album_name: "We Love The City"
 date: 2024-03-16T12:57:59.000000Z
 release_id: "21297037"

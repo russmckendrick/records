@@ -1,7 +1,7 @@
 ---
 title: "Squeeze - Singles - 45's And Under"
 artist_name: "Squeeze"
-artist: "squeeze"
+artist: "squeeze-2"
 album_name: "Singles - 45's And Under"
 date: 2015-09-11T18:02:25.000000Z
 release_date: "1982"

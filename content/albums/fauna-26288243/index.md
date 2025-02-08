@@ -1,7 +1,7 @@
 ---
 title: "Haken - Fauna"
 artist_name: "Haken"
-artist: "haken"
+artist: "haken-2"
 album_name: "Fauna"
 date: 2023-03-20T05:43:38.000000Z
 release_id: "26288243"

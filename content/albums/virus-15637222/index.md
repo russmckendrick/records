@@ -1,7 +1,7 @@
 ---
 title: "Haken - Virus"
 artist_name: "Haken"
-artist: "haken"
+artist: "haken-2"
 album_name: "Virus"
 date: 2021-01-17T03:29:39.000000Z
 release_id: "15637222"

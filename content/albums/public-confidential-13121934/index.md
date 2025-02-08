@@ -1,7 +1,7 @@
 ---
 title: "The Beat - Public Confidential"
 artist_name: "The Beat"
-artist: "the-beat"
+artist: "the-beat-6"
 album_name: "Public Confidential"
 date: 2019-06-21T19:10:16.000000Z
 release_id: "13121934"

@@ -1,7 +1,7 @@
 ---
 title: "Northside - Chicken Rhythms"
 artist_name: "Northside"
-artist: "northside"
+artist: "northside-2"
 album_name: "Chicken Rhythms"
 date: 2024-04-20T22:43:29.000000Z
 release_id: "30452714"

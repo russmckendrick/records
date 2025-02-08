@@ -1,7 +1,7 @@
 ---
 title: "Matt Berry - Television Themes"
 artist_name: "Matt Berry"
-artist: "matt-berry"
+artist: "matt-berry-3"
 album_name: "Television Themes"
 date: 2018-10-01T17:55:52.000000Z
 release_id: "12601366"

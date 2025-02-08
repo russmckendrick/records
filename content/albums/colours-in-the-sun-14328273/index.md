@@ -1,7 +1,7 @@
 ---
 title: "Voyager - Colours In The Sun"
 artist_name: "Voyager"
-artist: "voyager"
+artist: "voyager-30"
 album_name: "Colours In The Sun"
 date: 2019-11-04T18:58:39.000000Z
 release_id: "14328273"

@@ -1,7 +1,7 @@
 ---
 title: "Oasis - Definitely Maybe"
 artist_name: "Oasis"
-artist: "oasis"
+artist: "oasis-2"
 album_name: "Definitely Maybe"
 date: 2024-09-03T10:13:47.000000Z
 release_date: "1994-08-29"

@@ -1,7 +1,7 @@
 ---
 title: "Sublime - Jah Won't Pay The Bills"
 artist_name: "Sublime"
-artist: "sublime"
+artist: "sublime-2"
 album_name: "Jah Won't Pay The Bills"
 date: 2016-05-11T16:54:57.000000Z
 release_id: "8380052"

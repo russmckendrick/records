@@ -1,7 +1,7 @@
 ---
 title: "Helmet - Betty"
 artist_name: "Helmet"
-artist: "helmet"
+artist: "helmet-2"
 album_name: "Betty"
 date: 2024-12-04T02:38:43.000000Z
 release_id: "32427519"

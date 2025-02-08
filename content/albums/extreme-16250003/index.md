@@ -1,7 +1,7 @@
 ---
 title: "Extreme - Extreme"
 artist_name: "Extreme"
-artist: "extreme"
+artist: "extreme-2"
 album_name: "Extreme"
 date: 2021-03-11T10:22:48.000000Z
 release_date: "2013-04-01"

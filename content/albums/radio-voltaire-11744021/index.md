@@ -1,7 +1,7 @@
 ---
 title: "Kino - Radio Voltaire"
 artist_name: "Kino"
-artist: "kino"
+artist: "kino-2"
 album_name: "Radio Voltaire"
 date: 2018-03-24T11:43:56.000000Z
 release_id: "11744021"

@@ -1,7 +1,7 @@
 ---
 title: "HIM - Greatest Lovesongs Vol. 666"
 artist_name: "HIM"
-artist: "him"
+artist: "him-2"
 album_name: "Greatest Lovesongs Vol. 666"
 date: 2022-11-04T06:14:52.000000Z
 release_id: "25047838"

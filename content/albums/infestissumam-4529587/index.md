@@ -1,7 +1,7 @@
 ---
 title: "Ghost - Infestissumam"
 artist_name: "Ghost"
-artist: "ghost"
+artist: "ghost-32"
 album_name: "Infestissumam"
 date: 2018-09-21T06:10:08.000000Z
 release_id: "4529587"

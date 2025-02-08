@@ -1,7 +1,7 @@
 ---
 title: "Ghost - Impera"
 artist_name: "Ghost"
-artist: "ghost"
+artist: "ghost-32"
 album_name: "Impera"
 date: 2022-03-15T04:22:17.000000Z
 release_date: "2022-03-11"

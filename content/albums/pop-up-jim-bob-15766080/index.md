@@ -1,7 +1,7 @@
 ---
 title: "Jim Bob - Pop Up Jim Bob"
 artist_name: "Jim Bob"
-artist: "jim-bob"
+artist: "jim-bob-2"
 album_name: "Pop Up Jim Bob"
 date: 2020-08-15T10:10:13.000000Z
 release_id: "15766080"

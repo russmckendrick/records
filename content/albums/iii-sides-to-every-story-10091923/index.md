@@ -1,7 +1,7 @@
 ---
 title: "Extreme - III Sides To Every Story"
 artist_name: "Extreme"
-artist: "extreme"
+artist: "extreme-2"
 album_name: "III Sides To Every Story"
 date: 2017-05-03T19:19:51.000000Z
 release_id: "10091923"

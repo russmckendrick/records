@@ -1,7 +1,7 @@
 ---
 title: "The League Of Gentlemen - Live Again!"
 artist_name: "The League Of Gentlemen"
-artist: "the-league-of-gentlemen"
+artist: "the-league-of-gentlemen-3"
 album_name: "Live Again!"
 date: 2019-04-24T16:42:40.000000Z
 release_id: "13526674"

@@ -1,7 +1,7 @@
 ---
 title: "EYE - Vision And Ageless Light"
 artist_name: "EYE"
-artist: "eye"
+artist: "eye-16"
 album_name: "Vision And Ageless Light"
 date: 2017-03-18T12:17:53.000000Z
 release_id: "9522870"

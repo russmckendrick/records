@@ -1,7 +1,7 @@
 ---
 title: "Nothing - Dance On The Blacktop"
 artist_name: "Nothing"
-artist: "nothing"
+artist: "nothing-12"
 album_name: "Dance On The Blacktop"
 date: 2018-08-31T18:40:52.000000Z
 release_id: "12436581"

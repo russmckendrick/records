@@ -1,7 +1,7 @@
 ---
 title: "The Smile - Cutouts"
 artist_name: "The Smile"
-artist: "the-smile"
+artist: "the-smile-5"
 album_name: "Cutouts"
 date: 2024-10-04T04:31:21.000000Z
 release_date: "2024-10-04"

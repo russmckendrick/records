@@ -1,7 +1,7 @@
 ---
 title: "Sleeper - The It Girl"
 artist_name: "Sleeper"
-artist: "sleeper"
+artist: "sleeper-2"
 album_name: "The It Girl"
 date: 2022-11-14T05:21:24.000000Z
 release_id: "25128730"

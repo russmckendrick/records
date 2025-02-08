@@ -1,7 +1,7 @@
 ---
 title: "Kyle Dixon - Stranger Things (A Netflix Original Series) Original Music • Volume Two"
 artist_name: "Kyle Dixon"
-artist: "kyle-dixon"
+artist: "kyle-dixon-2"
 album_name: "Stranger Things (A Netflix Original Series) Original Music • Volume Two"
 date: 2016-12-01T06:52:33.000000Z
 release_id: "9425650"

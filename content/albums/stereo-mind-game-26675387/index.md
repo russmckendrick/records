@@ -1,7 +1,7 @@
 ---
 title: "Daughter - Stereo Mind Game"
 artist_name: "Daughter"
-artist: "daughter"
+artist: "daughter-2"
 album_name: "Stereo Mind Game"
 date: 2023-04-23T04:35:10.000000Z
 release_date: "2023-04-07"

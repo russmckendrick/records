@@ -1,7 +1,7 @@
 ---
 title: "Utopia - Ra"
 artist_name: "Utopia"
-artist: "utopia"
+artist: "utopia-5"
 album_name: "Ra"
 date: 2022-03-06T04:57:42.000000Z
 release_date: "2019-04-12"

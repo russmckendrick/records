@@ -1,7 +1,7 @@
 ---
 title: "Magma - Mëkanïk Dëstruktïẁ Kömmandöh"
 artist_name: "Magma"
-artist: "magma"
+artist: "magma-6"
 album_name: "Mëkanïk Dëstruktïẁ Kömmandöh"
 date: 2022-03-14T09:03:55.000000Z
 release_id: "22097701"

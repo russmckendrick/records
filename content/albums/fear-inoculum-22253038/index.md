@@ -1,7 +1,7 @@
 ---
 title: "Tool - Fear Inoculum"
 artist_name: "Tool"
-artist: "tool"
+artist: "tool-2"
 album_name: "Fear Inoculum"
 date: 2022-04-08T11:01:48.000000Z
 release_date: "2019-08-30"

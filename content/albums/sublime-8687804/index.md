@@ -1,7 +1,7 @@
 ---
 title: "Sublime - Sublime"
 artist_name: "Sublime"
-artist: "sublime"
+artist: "sublime-2"
 album_name: "Sublime"
 date: 2016-09-29T17:26:03.000000Z
 release_id: "8687804"

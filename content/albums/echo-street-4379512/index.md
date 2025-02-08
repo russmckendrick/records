@@ -1,7 +1,7 @@
 ---
 title: "Amplifier - Echo Street"
 artist_name: "Amplifier"
-artist: "amplifier"
+artist: "amplifier-3"
 album_name: "Echo Street"
 date: 2015-08-09T08:50:23.000000Z
 release_id: "4379512"

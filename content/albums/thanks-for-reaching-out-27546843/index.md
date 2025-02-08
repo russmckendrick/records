@@ -1,7 +1,7 @@
 ---
 title: "Jim Bob - Thanks For Reaching Out"
 artist_name: "Jim Bob"
-artist: "jim-bob"
+artist: "jim-bob-2"
 album_name: "Thanks For Reaching Out"
 date: 2023-07-01T06:24:14.000000Z
 release_id: "27546843"

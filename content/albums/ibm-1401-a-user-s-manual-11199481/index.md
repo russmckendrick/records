@@ -1,7 +1,7 @@
 ---
 title: "Jóhann Jóhannsson - IBM 1401, A User's Manual"
 artist_name: "Jóhann Jóhannsson"
-artist: "jhann-jhannsson"
+artist: "j-hann-j-hannsson"
 album_name: "IBM 1401, A User's Manual"
 date: 2017-12-09T19:15:31.000000Z
 release_id: "11199481"

@@ -1,7 +1,7 @@
 ---
 title: "Asia - Asia"
 artist_name: "Asia"
-artist: "asia"
+artist: "asia-2"
 album_name: "Asia"
 date: 2018-10-24T11:42:55.000000Z
 release_id: "1745333"

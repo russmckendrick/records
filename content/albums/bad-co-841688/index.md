@@ -1,7 +1,7 @@
 ---
 title: "Bad Company - Bad Co"
 artist_name: "Bad Company"
-artist: "bad-company"
+artist: "bad-company-3"
 album_name: "Bad Co"
 date: 2020-08-02T13:38:18.000000Z
 release_id: "841688"

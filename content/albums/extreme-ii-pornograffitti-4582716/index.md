@@ -1,7 +1,7 @@
 ---
 title: "Extreme - Extreme II: Pornograffitti"
 artist_name: "Extreme"
-artist: "extreme"
+artist: "extreme-2"
 album_name: "Extreme II: Pornograffitti"
 date: 2016-02-29T18:16:24.000000Z
 release_id: "4582716"

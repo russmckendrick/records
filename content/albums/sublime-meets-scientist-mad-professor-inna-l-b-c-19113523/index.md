@@ -1,7 +1,7 @@
 ---
 title: "Sublime - Sublime Meets Scientist & Mad Professor Inna L.B.C."
 artist_name: "Sublime"
-artist: "sublime"
+artist: "sublime-2"
 album_name: "Sublime Meets Scientist & Mad Professor Inna L.B.C."
 date: 2022-01-06T04:39:26.000000Z
 release_id: "19113523"

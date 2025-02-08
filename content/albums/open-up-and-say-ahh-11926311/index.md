@@ -1,7 +1,7 @@
 ---
 title: "Poison - Open Up and Say...Ahh!"
 artist_name: "Poison"
-artist: "poison"
+artist: "poison-3"
 album_name: "Open Up and Say...Ahh!"
 date: 2018-05-18T08:59:15.000000Z
 release_id: "11926311"

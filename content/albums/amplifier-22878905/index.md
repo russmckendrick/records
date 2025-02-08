@@ -1,7 +1,7 @@
 ---
 title: "Amplifier - Amplifier"
 artist_name: "Amplifier"
-artist: "amplifier"
+artist: "amplifier-3"
 album_name: "Amplifier"
 date: 2022-04-15T03:50:14.000000Z
 release_id: "22878905"

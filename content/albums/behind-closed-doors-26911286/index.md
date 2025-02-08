@@ -1,7 +1,7 @@
 ---
 title: "Thunder - Behind Closed Doors"
 artist_name: "Thunder"
-artist: "thunder"
+artist: "thunder-3"
 album_name: "Behind Closed Doors"
 date: 2023-04-29T11:43:49.000000Z
 release_id: "26911286"

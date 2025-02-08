@@ -1,7 +1,7 @@
 ---
 title: "Peeping Tom - Peeping Tom"
 artist_name: "Peeping Tom"
-artist: "peeping-tom"
+artist: "peeping-tom-3"
 album_name: "Peeping Tom"
 date: 2023-11-10T11:13:37.000000Z
 release_id: "28643479"

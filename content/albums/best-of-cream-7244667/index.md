@@ -1,7 +1,7 @@
 ---
 title: "Cream - Best Of Cream"
 artist_name: "Cream"
-artist: "cream"
+artist: "cream-2"
 album_name: "Best Of Cream"
 date: 2020-08-02T13:37:10.000000Z
 release_id: "7244667"

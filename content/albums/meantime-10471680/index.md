@@ -1,7 +1,7 @@
 ---
 title: "Helmet - Meantime"
 artist_name: "Helmet"
-artist: "helmet"
+artist: "helmet-2"
 album_name: "Meantime"
 date: 2017-06-25T13:42:40.000000Z
 release_id: "10471680"

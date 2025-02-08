@@ -1,7 +1,7 @@
 ---
 title: "BASIC - This Is BASIC"
 artist_name: "BASIC"
-artist: "basic"
+artist: "basic-40"
 album_name: "This Is BASIC"
 date: 2024-09-07T06:22:26.000000Z
 release_id: "31558960"

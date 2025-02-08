@@ -1,7 +1,7 @@
 ---
 title: "Björk - Utopia"
 artist_name: "Björk"
-artist: "bjrk"
+artist: "bj-rk"
 album_name: "Utopia"
 date: 2018-01-06T10:51:41.000000Z
 release_date: "2017-04-17"

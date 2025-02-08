@@ -1,7 +1,7 @@
 ---
 title: "Wings - Band On The Run"
 artist_name: "Wings"
-artist: "wings"
+artist: "wings-2"
 album_name: "Band On The Run"
 date: 2024-02-09T05:46:07.000000Z
 release_id: "29654740"

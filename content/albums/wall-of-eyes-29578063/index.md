@@ -1,7 +1,7 @@
 ---
 title: "The Smile - Wall Of Eyes"
 artist_name: "The Smile"
-artist: "the-smile"
+artist: "the-smile-5"
 album_name: "Wall Of Eyes"
 date: 2024-02-02T00:43:05.000000Z
 release_date: "2024-01-26"

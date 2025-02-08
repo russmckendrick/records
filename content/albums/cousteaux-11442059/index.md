@@ -1,7 +1,7 @@
 ---
 title: "Cousteau - CousteauX"
 artist_name: "Cousteau"
-artist: "cousteau"
+artist: "cousteau-2"
 album_name: "CousteauX"
 date: 2018-01-31T19:28:28.000000Z
 release_id: "11442059"

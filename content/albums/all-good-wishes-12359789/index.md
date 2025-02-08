@@ -1,7 +1,7 @@
 ---
 title: "Gulp - All Good Wishes"
 artist_name: "Gulp"
-artist: "gulp"
+artist: "gulp-2"
 album_name: "All Good Wishes"
 date: 2018-10-22T18:31:42.000000Z
 release_id: "12359789"

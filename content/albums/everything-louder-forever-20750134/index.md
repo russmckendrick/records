@@ -1,7 +1,7 @@
 ---
 title: "Motörhead - Everything Louder Forever"
 artist_name: "Motörhead"
-artist: "motrhead"
+artist: "mot-rhead"
 album_name: "Everything Louder Forever"
 date: 2022-05-05T10:19:59.000000Z
 release_id: "20750134"

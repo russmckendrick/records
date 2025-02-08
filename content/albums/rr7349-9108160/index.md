@@ -1,7 +1,7 @@
 ---
 title: "Survive - RR7349"
 artist_name: "Survive"
-artist: "survive"
+artist: "survive-4"
 album_name: "RR7349"
 date: 2016-09-26T17:22:54.000000Z
 release_date: "2016-09-30"

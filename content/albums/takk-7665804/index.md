@@ -1,7 +1,7 @@
 ---
 title: "Sigur Rós - Takk..."
 artist_name: "Sigur Rós"
-artist: "sigur-rs"
+artist: "sigur-r-s"
 album_name: "Takk..."
 date: 2016-12-04T11:07:33.000000Z
 release_id: "7665804"

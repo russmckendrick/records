@@ -1,7 +1,7 @@
 ---
 title: "The Beat - Wha'ppen? (Expanded Edition)"
 artist_name: "The Beat"
-artist: "the-beat"
+artist: "the-beat-2"
 album_name: "Wha'ppen? (Expanded Edition)"
 date: 2024-12-30T01:10:06.000000Z
 release_date: "2014-09-16"

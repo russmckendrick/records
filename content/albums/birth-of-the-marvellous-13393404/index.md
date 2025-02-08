@@ -1,7 +1,7 @@
 ---
 title: "Sermon - Birth Of The Marvellous"
 artist_name: "Sermon"
-artist: "sermon"
+artist: "sermon-6"
 album_name: "Birth Of The Marvellous"
 date: 2019-05-11T14:17:10.000000Z
 release_id: "13393404"

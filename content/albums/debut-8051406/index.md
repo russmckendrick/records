@@ -1,7 +1,7 @@
 ---
 title: "Björk - Debut"
 artist_name: "Björk"
-artist: "bjrk"
+artist: "bj-rk"
 album_name: "Debut"
 date: 2016-11-24T18:45:09.000000Z
 release_date: "1993-07-05"

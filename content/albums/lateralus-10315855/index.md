@@ -1,7 +1,7 @@
 ---
 title: "Tool - Lateralus"
 artist_name: "Tool"
-artist: "tool"
+artist: "tool-2"
 album_name: "Lateralus"
 date: 2017-07-02T11:13:45.000000Z
 release_date: "2001-05-15"

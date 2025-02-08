@@ -1,7 +1,7 @@
 ---
 title: "Sugar - Copper Blue"
 artist_name: "Sugar"
-artist: "sugar"
+artist: "sugar-5"
 album_name: "Copper Blue"
 date: 2025-01-20T07:42:59.000000Z
 release_id: "15116960"

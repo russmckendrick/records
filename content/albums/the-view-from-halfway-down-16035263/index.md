@@ -1,7 +1,7 @@
 ---
 title: "Andy Bell - The View From Halfway Down"
 artist_name: "Andy Bell"
-artist: "andy-bell"
+artist: "andy-bell-2"
 album_name: "The View From Halfway Down"
 date: 2020-10-10T10:40:42.000000Z
 release_id: "16035263"
