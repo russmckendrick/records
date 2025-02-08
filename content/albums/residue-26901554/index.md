@@ -1,7 +1,7 @@
 ---
 title: "Amplifier - Residue"
 artist_name: "Amplifier"
-artist: "amplifier"
+artist: "amplifier-3"
 album_name: "Residue"
 date: 2023-04-29T11:49:38.000000Z
 release_id: "26901554"

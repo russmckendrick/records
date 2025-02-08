@@ -1,7 +1,7 @@
 ---
 title: "Whiteout - Young Tribe Rule"
 artist_name: "Whiteout"
-artist: "whiteout"
+artist: "whiteout-2"
 album_name: "Young Tribe Rule"
 date: 2022-08-06T02:00:44.000000Z
 release_id: "24087902"

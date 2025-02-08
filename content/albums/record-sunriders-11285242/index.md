@@ -1,7 +1,7 @@
 ---
 title: "Amplifier - Record + Sunriders"
 artist_name: "Amplifier"
-artist: "amplifier"
+artist: "amplifier-3"
 album_name: "Record + Sunriders"
 date: 2017-12-16T18:39:20.000000Z
 release_id: "11285242"

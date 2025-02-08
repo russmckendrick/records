@@ -1,7 +1,7 @@
 ---
 title: "Mötley Crüe - Crücial Crüe (The Studio Albums 1981-1989)"
 artist_name: "Mötley Crüe"
-artist: "mtley-cre"
+artist: "m-tley-cr-e"
 album_name: "Crücial Crüe (The Studio Albums 1981-1989)"
 date: 2023-02-20T10:18:36.000000Z
 release_id: "26124641"

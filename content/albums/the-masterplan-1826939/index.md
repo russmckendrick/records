@@ -1,7 +1,7 @@
 ---
 title: "Oasis - The Masterplan"
 artist_name: "Oasis"
-artist: "oasis"
+artist: "oasis-2"
 album_name: "The Masterplan"
 date: 2017-04-22T09:59:49.000000Z
 release_id: "1826939"

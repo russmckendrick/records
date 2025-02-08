@@ -1,7 +1,7 @@
 ---
 title: "Amplifier - Gargantuan"
 artist_name: "Amplifier"
-artist: "amplifier"
+artist: "amplifier-3"
 album_name: "Gargantuan"
 date: 2025-01-18T03:31:41.000000Z
 release_id: "32870103"

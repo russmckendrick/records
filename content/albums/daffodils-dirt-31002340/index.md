@@ -1,7 +1,7 @@
 ---
 title: "Sam Morton - Daffodils & Dirt"
 artist_name: "Sam Morton"
-artist: "sam-morton"
+artist: "sam-morton-6"
 album_name: "Daffodils & Dirt"
 date: 2024-07-02T10:28:08.000000Z
 release_id: "31002340"

@@ -1,7 +1,7 @@
 ---
 title: "Jellyfish - When These Memories Fade"
 artist_name: "Jellyfish"
-artist: "jellyfish"
+artist: "jellyfish-2"
 album_name: "When These Memories Fade"
 date: 2022-09-29T01:51:55.000000Z
 release_id: "24641348"

@@ -1,7 +1,7 @@
 ---
 title: "Magenta - We Are Legend"
 artist_name: "Magenta"
-artist: "magenta"
+artist: "magenta-10"
 album_name: "We Are Legend"
 date: 2017-07-29T08:50:54.000000Z
 release_id: "10451674"

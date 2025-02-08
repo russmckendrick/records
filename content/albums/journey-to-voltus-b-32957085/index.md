@@ -1,7 +1,7 @@
 ---
 title: "Henge - Journey To Voltus B"
 artist_name: "Henge"
-artist: "henge"
+artist: "henge-3"
 album_name: "Journey To Voltus B"
 date: 2025-02-01T07:52:12.000000Z
 release_id: "32957085"

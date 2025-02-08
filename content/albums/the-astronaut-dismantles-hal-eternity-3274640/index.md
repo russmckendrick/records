@@ -1,7 +1,7 @@
 ---
 title: "Amplifier - The Astronaut Dismantles HAL/Eternity"
 artist_name: "Amplifier"
-artist: "amplifier"
+artist: "amplifier-3"
 album_name: "The Astronaut Dismantles HAL/Eternity"
 date: 2015-11-03T19:26:04.000000Z
 release_id: "3274640"

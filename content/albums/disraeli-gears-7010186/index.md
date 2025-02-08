@@ -1,7 +1,7 @@
 ---
 title: "Cream - Disraeli Gears"
 artist_name: "Cream"
-artist: "cream"
+artist: "cream-2"
 album_name: "Disraeli Gears"
 date: 2016-04-22T16:36:08.000000Z
 release_date: "1967-11-02"

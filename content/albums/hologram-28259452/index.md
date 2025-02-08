@@ -1,7 +1,7 @@
 ---
 title: "Amplifier - Hologram"
 artist_name: "Amplifier"
-artist: "amplifier"
+artist: "amplifier-3"
 album_name: "Hologram"
 date: 2023-09-25T04:02:47.000000Z
 release_id: "28259452"
