@@ -24,6 +24,14 @@ genres: ["Rock"]
 styles: ["Punk", "Emo", "Post-Hardcore"]
 ---
 
+Fugazi is the second studio album by the British neo-prog band Marillion, released in 1984. Produced by Nick Tauber, it was recorded between November 1983 and February 1984 at various studios and was the first to feature drummer Ian Mosley, following the dismissal of the band's original drummer Mick Pointer.
+The album is titled after a military slang term well known at the time of release. According to AllMusic, the album "streamlined the intricacies of the group's prog rock leanings in favour of a more straight-ahead hard rock identity". Built upon the success of its predecessor, Script for a Jester's Tear, Fugazi reached the UK top five and was certified Gold.
+
+
+    
+    
+
+
 ## Tracklisting
 1. Waiting Room
 2. Bulldog Front
@@ -34,7 +42,7 @@ styles: ["Punk", "Emo", "Post-Hardcore"]
 7. Glue Man
 
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/13-songs/49249845" >}}<br>
+{{< applemusic url="https://music.apple.com/gb/album/fugazi/1146405132" >}}<br>
 
 
 ## Videos
